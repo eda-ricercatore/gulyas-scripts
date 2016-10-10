@@ -31,9 +31,14 @@ function rtw_signal = generate_rtw(num_cycles, period_length)
 %	Semicolon this statement.
 		%	Generate random value at -1 or 1, with 50% probability. 
 		random_bool = randi([0 1])
+		if 1 == random_bool
+			HL_value = 1;
+		else
+			HL_value = -1;
+		endif
 		for j = 1:period_length
 %	Semicolon this statement.
-			rtw_signal(k) = random_bool
+			rtw_signal(k) = HL_value
 		endfor
 	endfor
 endfunction
