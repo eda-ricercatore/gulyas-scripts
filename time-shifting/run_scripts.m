@@ -23,7 +23,7 @@ addpath("/Users/zhiyang/Documents/ricerca/gulyas-scripts/time-shifting/")
 
 %	source(generate_rtw(12))
 %	run(generate_rtw.m)
-rtw1 = generate_rtw(12)
+rtw1 = generate_rtw(12,8)
 
 
 

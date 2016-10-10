@@ -14,31 +14,22 @@
 %
 %	Email address: echo "cukj -wb- 23wU4X5M589 TROJANS cqkH wiuz2y 0f Mw Stanford" | awk '{ sub("23wU4X5M589","F.d_c_b. ") sub("Stanford","d0mA1n"); print $5, $2, $8; for (i=1; i<=1; i++) print "6\b"; print $9, $7, $6 }' | sed y/kqcbuHwM62z/gnotrzadqmC/ | tr 'q' ' ' | tr -d [:cntrl:] | tr -d 'ir' | tr y "\n"		Don't compromise my computing accounts. You have been warned.
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%	Preamble.
+
+%	Load various GNU Octave packages
+%	pkg load struct 
+%	pkg load control
+%	pkg load signal
 
 
-%	Function to generate random-telegraph waves (RTW).
-%	@param	num_cycles		Number of cycles for the RTW.
-%	@param	period_length	Number of bits per period/cycle of the RTW.
-%	@return	rtw_signal		A RTW signal.	
-%	References:
-%		[Eaton2016]
-function rtw_signal = generate_rtw(num_cycles, period_length)
-%	disp("	Generate RTW signal.")
-	%	Index of RTW signal
-	k = 1;
-	#	Generate RTW signal for num_cycles periods/cycles.  
-	for i = 1:num_cycles
-%	Semicolon this statement.
-		%	Generate random value at -1 or 1, with 50% probability. 
-		random_bool = randi([0 1])
-		for j = 1:period_length
-%	Semicolon this statement.
-			rtw_signal(k) = random_bool
-		endfor
-	endfor
-endfunction
+%	Add paths to GNU Octave, so that it can load scripts to execute.
+addpath("/Users/zhiyang/Documents/ricerca/gulyas-scripts/time-shifting/")
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+rtw1 = generate_rtw(12,8)
 
 
 
@@ -47,24 +38,3 @@ endfunction
 
 
 %	Eaton2016
-
-
-%	References:
-%
-%	[Eaton2016]
-%		John W. Eaton, "GNU Octave," Free Software Foundation, Boston, MA, 2016. Available online from {\it {GNU Operating System}: GNU Software} at: \url{https://www.gnu.org/software/octave/doc/v4.0.3/}; October 10, 2016 was the last accessed date.
-%			In Functions and Scripts: Function Files: Manipulating the Load Path"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
