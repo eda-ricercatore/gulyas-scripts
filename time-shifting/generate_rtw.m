@@ -16,27 +16,6 @@
 
 
 
-%	Setting up high and low logic values.
-high_value = 1;
-low_value = -1;
-
-%	Function to randomly generate the high and low logic values for
-%		random-telegraph waves (RTW).
-%	@param	None.
-%	@return	logic_value		A high and low logic value for a RTW
-%								signal.
-function logic_value = generate_HL_values
-%	Semicolon this statement.
-	%	Generate random value at -1 or 1, with 50% probability. 
-%	Semicolon this statement.
-	random_value = rand([0 1])
-	%	Check if random_value > 50%.
-	if 0.5 < random_value
-		HL_value = high_value;
-	else
-		HL_value = low_value;
-	endif
-endfunction
 
 
 
