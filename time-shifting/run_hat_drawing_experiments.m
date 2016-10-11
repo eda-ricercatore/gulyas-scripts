@@ -29,9 +29,9 @@ addpath("/Users/zhiyang/Documents/ricerca/gulyas-scripts/time-shifting/")
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-rtw1 = generate_rtw(12,8)
+%rtw1 = generate_rtw(12,8)
 
-
+aval = generate_HL_values
 
 
 
