@@ -26,6 +26,13 @@ Names for repositories for my Ph.D. research shall be named after dishes and dri
 		* fixed format Fortran: FortranFixed
 		* free formatted Fortran: FortranFree
 		* unknown formatted Fortran: Fortran
++ notes
+	- Software licenses
+		* *MIT License*
+		* *GNU General Public License (GNU GPL)*
++ references
+	- Information that I would need to enter information into my
+		*BibTeX* database of references (i.e., publications). 
 + sandbox
 	- gnu-octave
 		* *Makefile* and *GNU Octave* scripts to test different
@@ -33,6 +40,20 @@ Names for repositories for my Ph.D. research shall be named after dishes and dri
 	- python
 		* *Python* scripts to test different concepts that I have
 			learned.
+	- guidelines
+		* Documentation about guidelines that I am following
+			for my research, and for my research collaborators 
+			to know about.
++ time-shifting
+	- *Makefile* and *GNU Octave* scripts to carry out my experiments
+		for time-shifted instantaneous noise-based logic
+		(NBL, INBL, TSINBL) systems. 
+
+### Additional Information
+
+The *Makefile*s are used for build automation. It is used to produce 
+	repeatable experiment results from the execution of a sequence of
+		scripts and programs (including UNIX processes).
 
 
 
