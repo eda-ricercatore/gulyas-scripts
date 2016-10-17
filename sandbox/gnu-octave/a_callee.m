@@ -26,10 +26,9 @@ endfunction
 
 
 %	Function without input arguments nor return variables, #2.
-%	function a_callee2
-%		disp("Test if a_callee2 is called.")
-
-%	endfunction
+%function a_callee2
+%	disp("Test if a_callee2 is called.")
+%endfunction
 
 
 

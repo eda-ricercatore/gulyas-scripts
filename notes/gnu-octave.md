@@ -14,6 +14,14 @@ And avoid doing the following:
 + octave [*filename*]
 
 
+##	Functions
+
+Each *GNU Octave* script can only contain one function.
+
+If more than one function is defined in a script, all the functions
+	(except the first function) cannot be recognized by other
+	*GNU Octave* scripts. 
+
 
 
 

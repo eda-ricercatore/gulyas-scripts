@@ -30,6 +30,11 @@ a_callee
 
 
 
+%	Call another function without input arguments nor return variables.
+&a_callee2
+
+
+
 
 
 
