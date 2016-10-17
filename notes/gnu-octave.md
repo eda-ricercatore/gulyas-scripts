@@ -6,7 +6,9 @@ For *Makefile*-based build automation for executing/running
 	*GNU Octave* scripts, I have to do the following:
 + ./[*filename*]
 	- Requires adding the UNIX shebang for *GNU Octave*
-+ ./[*filename*]
+	- Requires using *chmod* (UNIX command) to change the file
+		permission, so that the script(s) can be executed via the
+		Terminal as a UNIX command/process.
 
 And avoid doing the following:
 + octave [*filename*]
