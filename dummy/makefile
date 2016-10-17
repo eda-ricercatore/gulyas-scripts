@@ -21,9 +21,10 @@
 
 #       =============================================================
 #       Make targets for build automation with Make (using this Makefile).
-all:
-	echo "===	"
-	octave 
+torture:
+	@echo "========================================================="
+	@echo "Call function without input arguments nor return variables."
+	./a_caller.m
 
 
 
