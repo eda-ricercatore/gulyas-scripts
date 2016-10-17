@@ -1,0 +1,374 @@
+%	This is written by Zhiyang Ong to indicate guidelines that members of open source software and/or hardware projects shall follow.
+
+%	The MIT License (MIT)
+
+%	Copyright (c) <2014> <Zhiyang Ong>
+
+%	Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+%	The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+%	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+%	Email address: echo "cukj -wb- 23wU4X5M589 TROJANS cqkH wiuz2y 0f Mw Stanford" | awk '{ sub("23wU4X5M589","F.d_c_b. ") sub("Stanford","d0mA1n"); print $5, $2, $8; for (i=1; i<=1; i++) print "6\b"; print $9, $7, $6 }' | sed y/kqcbuHwM62z/gnotrzadqmC/ | tr 'q' ' ' | tr -d [:cntrl:] | tr -d 'ir' | tr y "\n"
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%	Preamble.
+\documentclass[letter,12pt]{article}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%	Importing LaTeX source files, without quoting the ".tex" extension.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%	File containing the LaTeX preamble.
+\input{./others/preamble_section}
+
+
+
+
+
+% definition of new \LaTeX command for the citation: \cite{Cimatti08} and \cite{Barrett09}
+% This allows mathematical/logic symbols to be typeset with the font ``Zapf Chancery'' in ``\LaTeX\ math mode''. To typeset symbols in such font, try: \mathpzc{ABCdef123}
+\DeclareMathAlphabet{\mathpzc}{OT1}{pzc}{m}{it}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Start of document
+\begin{document}
+\title{Guidelines for Collaboration}
+\date{\today}
+\author{Zhiyang Ong \thanks{Email correspondence to: \href{mailto:ongz@acm.org}{\Email\ ongz@acm.org}}}
+\maketitle
+
+
+\begin{abstract} 
+This is a set of guidelines for conduct while collaborating on open source projects. It also includes guidelines for creating a shared {\sc Bib}\TeX\ database.
+\end{abstract}
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{Revision History}
+\label{sec:RevisionHistory}
+
+Revision history: \vspace{-0.3cm}
+\begin{enumerate} \itemsep -4pt
+\item Version 1, October 2, 2014. Initial version of the guideline (for another project).
+\item Version 1.1, December 23, 2014. Version ported for this boilerplate code project.
+\item Version 2, October 20, 2015. Added guidelines for {\tt Doxygen}-supported, {\tt Javadoc}-based coding standard. This coding standard is also known as coding style, coding style guide, coding guideline, coding scheme, code convention, code documentation guideline, programming guideline, or programming style.
+\item Version 2.1, October 21, 2015. Finished guidelines for {\tt Doxygen}-supported, {\tt Javadoc}-based coding standard for {\it C++}.
+\end{enumerate}
+
+
+
+
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Guidelines for Conduct}
+\label{sec:GuidelinesforConduct}
+
+Members of the open source software and/or hardware projects should follow the {\it Code of Conduct} of the {\tt Institute of Electrical and Electronics Engineers (IEEE)} and the {\tt Association for Computing Machinery (ACM)} \cite{IEEE2014b,IEEE2014a,IEEE2014,ACMCouncil1992}. Also, actions of discrimination are not acceptable \cite{IEEE2014c}. An additional guideline is ``Dave Packard's 11 simple rules'' \cite{HewlettPackardCompany2012}. \\
+
+%There are a significant amount of references for helping people to learn \LaTeX \cite{Voss2011,vanDongen2012,Syropoulos2003,Raymond2004,Mittelbach2004,Lamport1994,Krishnan2003,Krantz2001,Kottwitz2011,Koranne2011,Kopka2004,Knuth1999,Hoenig1998,Higham1998,Haralambous2007,Griffiths1997,Gratzer2007,Goossens2007,Goossens1999,Goossens1997,Diller1999,Bindner2011,Berry2009,UITCambridge2011,Scharrer2011,Pakin2008,Cormen2010,Syropoulos2004,Hamalainen2006} and related information/technologies.
+
+In addition, when there is a dispute about which technology, algorithm, design paradigm/style/pattern, process, or methodology to use, follow the ``Code Wins Arguments'' philosophy \cite{Kushner2011,Zuckerberg2012}. Also, when considerable effort has been invested in an automated regression testing/verification infrastructure, do not be afraid to ``move fast and break things'' \cite{Fong2011,Evangelista2012}.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Guidelines for Creating a Shared {\sc Bib}\TeX\ Database}
+\label{sec:GuidelinesforCreatingaSharedBibTeXDatabase}
+
+Guidelines for creating {\sc Bib}\TeX\ entries and the {\sc Bib}\TeX\ database, which is used for writing the paper, are given as follows: \vspace{-0.3cm}
+\begin{enumerate} \itemsep -4pt
+\item Each {\sc Bib}\TeX\ key should be unique: \vspace{-0.3cm}
+	\begin{enumerate} \itemsep -2pt
+	\item Check if your desired {\sc Bib}\TeX\ key already exists in the {\sc Bib}\TeX\ database.
+	\item Use the following format for creating {\sc Bib}\TeX\ keys: [first] author's last name, appended by the year of publication. E.g., my first conference paper would have the {\sc Bib}\TeX\ key Ong2014. If the year of publication is not known, use an approximate year, with XY for the last 2 digits in the year (e.g., 20XY). Alternatively, if you cannot determine if it was published this millennium or the previous millennium, use UNKNOWN. For example, use Smith20XY, or KleinbergUNKNOWN.
+	\item Remove duplicate entries in the {\sc Bib}\TeX\ database. {\bf WARNING! Before doing this, perform a union operation on the fields of the {\sc Bib}\TeX\ entries. For example, if a {\sc Bib}\TeX\ entry has information that the other {\sc Bib}\TeX\ entry does not have, and vice versa, merge the information to a {\sc Bib}\TeX\ entry.}
+	\item {\bf Rational: Duplicate {\sc Bib}\TeX\ entries will cause problems in typesetting.}
+	\item Regarding hash collision of {\sc Bib}\TeX\ keys, such as multiple instances of Gratz2014, distinguish them by appending a letter to them. E.g., use Gratz2014a, Gratz2014b, Gratz2014c, and so on. If we run out of letters, append it with ``a'' followed by a number. The use of the letter ``a'' separates the year from the instance of {\sc Bib}\TeX\ key. That is, Gratz2014a1 tells me that it is the $28^{th}$ instance of Gratz2014, as opposed to Gratz201428.
+	\end{enumerate}
+\item For terms that should be typeset as is, place them in between braces (i.e., curly brackets). That is, put curly braces around acronyms and mixed-case names. \vspace{-0.3cm}
+	\begin{enumerate} \itemsep -2pt
+	\item For example, terms in upper or mixed cases (upper and lower cases), such as names (e.g., McMullen) and acronyms (e.g., SIGDA), place them in between braces (i.e., \{McMullen\} and \{SIGDA\}). This prevents the titles (or another {\sc Bib}\TeX\ field) from changing the term into lower case, with exception for the first term/word. E.g., ``ICCAD Update: A Report from SIGDA'' may typeset into ``ICCAD Update: A report from sigda''.
+	\end{enumerate}
+\item For special symbols that are typeset with \LaTeX\ in the {\tt math mode}, such as $\alpha$, place them in between a pair of dollar signs (i.e., \$$\backslash$alpha\$).
+\item For each {\sc Bib}\TeX\ entry, check if all required fields are complete. See pages 8 and 9 in \S3.1 of \cite{Patashnik1988} for a list of {\sc Bib}\TeX\ entry types; alternatively, refer to the {\it Wikipedia} entry for , or \cite[\S12.2.1, pp. 230--231]{Kopka2004}. In this/these list(s), the required fields are listed for each {\sc Bib}\TeX\ entry.
+\item For the {\tt pages} field, ensure that all page ranges are indicated with double hyphens. E.g., ``page = \{11-\--34\},''. This makes the page range looks more pretty.
+\item For the {\tt pages} field, ensure that multiple pages and/or page ranges are separated by commas. E.g., ``page = \{11-34, 57, 88, 109-\--187\},''.
+\item For books and journal articles that have an associated digital object identifier (DOI), ensure that the {\tt doi} field is included in the {\sc Bib}\TeX\ entry with the DOI of the publication. This makes it easier for people to access the web page for the book or journal/conference paper.
+\item Stylistic validation of the references can be carried out as follows: \vspace{-0.3cm}
+	\begin{enumerate} \itemsep -2pt
+	\item Include all {\sc Bib}\TeX\ keys in one citation in your \LaTeX\ document.
+	\item Typeset the \LaTeX\ document.
+	\item Check that the font and style of the reference list is correct.
+	\item If there are errors, correct the errors as appropriate.
+	\item Finally, the {\sc Bib}\TeX\ database should be correct.
+	\end{enumerate}
+\item Information that I would include when citing common sources of information, such as {\it Wikipedia}, using the Harvard Referencing Style: \vspace{-0.3cm}
+	\begin{enumerate} \itemsep -2pt
+	\item Wikipedia contributors, ``TITLE\_OF\_THE\_ARTICLE,'' in \{$\backslash$it Wikipedia, The Free Encyclopedia: CATEGORY\}, Wikimedia Foundation, San Francisco, CA, MONTH DATE, YEAR. Available online at: $\backslash$url\{URL\}; last accessed on August 26, 2014.
+	\item Wikibooks contributors, ``CHAPTER\_NAME,'' in \{$\backslash$it TITLE\_OF\_THE\_BOOK\}, Wikibooks: Open books for an open world, Wikimedia Foundation, San Francisco, CA, MONTH DATE, YEAR. Available online at: $\backslash$url\{URL\}; last accessed on August 26, 2014.
+	\item Wikibooks contributors, ``TITLE\_OF\_THE\_BOOK,'' Wikibooks: Open books for an open world, Wikimedia Foundation, San Francisco, CA, MONTH DATE, YEAR. Available online at: $\backslash$url\{URL\}; last accessed on August 26, 2014.
+	\item Wiktionary contributors, ``TITLE,'' Wiktionary, Wikimedia Foundation, San Francisco, CA, MONTH DATE, YEAR. Available online at: $\backslash$url\{URL\}; last accessed on August 26, 2014.
+	\item Dictionary.com, ``WORD,'' IAC, Oakland, CA, MONTH DATE, YEAR. Available online at: $\backslash$url\{URL\}; last accessed on August 26, 2014.
+	\item AUTHOR, ``TITLE,'' in \{$\backslash$it The New York Times: The Opinion Pages: Op-Ed Contributor\}, The New York Times Company, New York, NY, MONTH DATE, YEAR. Available online at: $\backslash$url\{URL\}; last accessed on August 26, 2014.
+	\item When {\sc Bib}\TeX\ entries are created for the aforementioned sources of information, populate the appropriate fields so that each information in the aforementioned sources are included in the {\sc Bib}\TeX\ entries.
+	\end{enumerate}
+\item Refer to the file ``bibtex-template.txt'' for templates for selected {\sc Bib}\TeX\ entry types. The more information that you can put in, the easier you can protect yourself from accusations of plagiarism and to make it easier for people (including yourself) to find the reference again. This is especially true for web-based references/resources.
+\end{enumerate}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Recommended Fields for {\sc Bib}\TeX\ Entries}
+\label{sec:RecommendedFieldsforBibTeXEntries}
+
+
+The recommended fields for {\sc Bib}\TeX\ entries are: \vspace{-0.3cm}
+\begin{enumerate} \itemsep -4pt
+\item techreport: \vspace{-0.3cm}
+	\begin{enumerate} \itemsep -2pt
+	\item Address
+	\item Author
+	\item Howpublished
+	\item Institution
+	\item Keywords
+	\item Month
+	\item Number
+	\item Title
+	\item Url
+	\item Year
+	\end{enumerate}
+\item proceedings: \vspace{-0.3cm}
+	\begin{enumerate} \itemsep -2pt
+	\item Address
+	\item Doi
+	\item Editor
+	\item Keywords
+	\item Month
+	\item Organization
+	\item Publisher
+	\item Series
+	\item Title
+	\item Volume
+	\item Year
+	\end{enumerate}
+\item manual: \vspace{-0.3cm}
+	\begin{enumerate} \itemsep -2pt
+	\item Address
+	\item Author
+	\item Howpublished
+	\item Keywords
+	\item Month
+	\item Organization
+	\item Title
+	\item Url
+	\item Year
+	\end{enumerate}
+\item incollection: \vspace{-0.3cm}
+	\begin{enumerate} \itemsep -2pt
+	\item Address
+	\item Author
+	\item Booktitle
+	\item Chapter
+	\item Doi
+	\item Edition
+	\item Howpublished
+	\item Keywords
+	\item Pages
+	\item Publisher
+	\item Series
+	\item Title
+	\item Url
+	\item Volume
+	\item Year
+	\end{enumerate}
+\item inproceedings: \vspace{-0.3cm}
+	\begin{enumerate} \itemsep -2pt
+	\item Address
+	\item Author
+	\item Booktitle
+	\item Doi
+	\item Keywords
+	\item Month
+	\item Organization
+	\item Pages
+	\item Publisher
+	\item Series
+	\item Title
+	\item Volume
+	\item Year
+	\end{enumerate}
+\item article: \vspace{-0.3cm}
+	\begin{enumerate} \itemsep -2pt
+	\item Address
+	\item Author
+	\item Doi
+	\item Journal
+	\item Keywords
+	\item Month
+	\item Number
+	\item Pages
+	\item Publisher
+	\item Title
+	\item Volume
+	\item Year
+	\end{enumerate}
+\item phdthesis (or mastersthesis): \vspace{-0.3cm}
+	\begin{enumerate} \itemsep -2pt
+	\item Address
+	\item Author
+	\item Howpublished
+	\item Keywords
+	\item Month
+	\item Number
+	\item School
+	\item Title
+	\item Url
+	\item Year
+	\end{enumerate}
+\item misc: \vspace{-0.3cm}
+	\begin{enumerate} \itemsep -2pt
+	\item Address
+	\item Author
+	\item Howpublished
+	\item Keywords
+	\item Month
+	\item Publisher or School
+	\item Title
+	\item Url
+	\item Year
+	\end{enumerate}
+\item book: \vspace{-0.3cm}
+	\begin{enumerate} \itemsep -2pt
+	\item Address
+	\item Author
+	\item Doi
+	\item Edition
+	\item Keywords
+	\item Month
+	\item Pages
+	\item Publisher
+	\item Series
+	\item Title
+	\item Volume
+	\item Year
+	\end{enumerate}
+\end{enumerate}
+
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Coding Standard}
+\label{sec:CodingStandard}
+
+This is a guideline for {\it Doxygen}-supported, {\it Javadoc}-based coding standard that shall be used for this boilerplate code project. This coding standard is also known as the coding style, coding style guide, coding guideline, coding scheme, code convention, code documentation guideline, programming guideline, or programming style. The documentation generator that shall be supported is: {\it Doxygen}. Since I am using {\it Doxygen} for generating documentation, I can use \LaTeX\ to provide richer markup. \\
+
+{\bf Document the known bugs for each function/method.} \\
+
+My indent style would be the {\it 1TBS} variant of the {\it K{\rm \&}R} style, which is an abbreviation of ``{\it The One True Brace Style}''. It is also equivalent to the {\it Kernel Normal Form style} (or {\it BSD KNF style}). \\
+
+Classes, functions/methods, constants, macros, and static and instance variables shall be named using complete words or well-known abbreviations that are concatenated with an underscore in {\it C++}; this is a deviation from the {\it Hungarian notation} that uses an upper case letter to distinguish words/abbreviations in the name (i.e., the Start case style of writing; see letter case). \\
+
+For {\it C++} programs, the following tags shall be used in the comments: \vspace{-0.3cm}
+\begin{enumerate} \itemsep -4pt
+\item @author {\it Author's\_Name}: indicate the author ({\it Author's\_Name}) of the file/function
+\item @version {\it X.Y}: indicate the version ({\it X.Y}) of the file
+\item @section {\it SECTION\_NAME}: indicate the section ({\it SECTION\_NAME}) of the file, which can be: {\it LICENSE} or {\it DESCRIPTION}
+\item @param {\it x}: indicate the parameter ({\it x}) of the constructor or function
+\item @exception {\it Exception\_Name}, or @throws {\it Exception\_Name}: an exception that a function/method can throw
+\item @return {\it Return\_Statement}: indicate the return (type and) action of the function
+\item @see {\it reference}: a link to another element in the documentation; e.g., @see {\it Class\_Name}, or @see {\it Class\_Name\#member\_function\_name}
+\item @since {\it X.Y: Month-Day-Year}: This functionality has been added since version {\it X.Y} (and on the date {\it Month-Day-Year})
+\item @deprecated {\it description}: Describe an outdated function/method, and indicate when the function/method has deprecated
+\item ``@link {\it ... URL...} @endlink'' is used to include hyperlinks in the generated documentation for Doxygen
+\item \#\#\#\# IMPORTANT NOTES: Notes that are critical for helping the reader understanding assumptions and decisions made while developing the software
+\item @todo($<$message$>$, $<$version$>$) (or \#\#\#\# TO BE COMPLETED): Task to be finished at a later time
+\item \#\#\#\# TO BE FIXED: Task to be debugged at a later time
+\item @migration($<$message$>$, $<$version$>$): Code is being migrated to another function/method, or class.
+\item See \url{http://www.stack.nl/~dimitri/doxygen/commands.html} for more information of tags that are recognized by {\tt Doxygen}.
+\item @pre (or @precondition): Precondition(s) of the function.
+\item @assert (or @assertion): Assertion(s) of the function.
+\item @post (or @postcondition): Postcondition(s) of the function.
+\end{enumerate}
+
+The order of tags in different sections of the {\it C++} code is given as follows: \vspace{-0.3cm}
+\begin{enumerate} \itemsep -4pt
+\item Headers/Interfaces and Classes: @version, @author, @since, @link, @todo, @deprecated, @migration, and @see
+\item Constructors: @param, @throws, @since, @link, @todo, @deprecated, @migration, and @see. For collaborators modifying or extending my code, they should include the @version and @author tags before the @param tag(s).
+\item Functions/Methods: @param, @pre, @assert, @post, @return, @throws, @since, @link, @todo, @deprecated, @migration, and @see. For collaborators modifying or extending my code, they should include the @version and @author tags before the @param tag(s).
+\item Variables can use the @see tags.
+\item The @deprecated tag can be used for headers/interfaces, classes, constructors, functions/methods, and variables.
+\end{enumerate}
+
+For a suggested coding style for {\tt Python} and {\it Ruby} scripts, see \cite{vanRossum2013} and \cite{Macdonald20XY}, respectively.
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Additional Guidelines}
+\label{sec:AdditionalGuidelines}
+
+Please kindly use the Markdown language for writing text documents. This is because Bitbucket will treat my text file as a file written in the Markdown syntax. That said, the raw file looks a lot better than the represented Markdown files. Their (Bitbucket) formatting for Markdown is messed up. \\
+
+In addition, tools for working with source code and \LaTeX\ source files include: \vspace{-0.3cm}
+\begin{enumerate} \itemsep -4pt
+\item {\tt git}: \cite{Driscoll2012}
+\item {\tt latexdiff}: ``determine and markup differences between two latex files'' \vspace{-0.3cm}
+	\begin{enumerate} \itemsep -2pt
+	\item Evan Driscoll, ``Latexdiff notes,'' from {\it Evan Driscoll's web page: Writings on Software: \LaTeX}, the Department of Computer Sciences, University of Wisconsin-Madison College of Engineering, University of Wisconsin-Madison, Madison, WI. Available online at: \url{http://pages.cs.wisc.edu/~driscoll/software/latex/latexdiff.html}; last accessed on February 15, 2016 \cite{Driscoll20XYa}.
+	\end{enumerate}
+\item {\tt SCons}: \cite{Driscoll20XY}
+\end{enumerate}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%	End of document
+%
+%	Inserting references
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%	Beginning of BACK MATTER: bibliography, indexes and colophon
+%\backmatter
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+{\linespread{1}
+\bibliographystyle{plain}
+\bibliography{/Users/zhiyang/Documents/ricerca/antipastobibtex/references}
+}
+%\bibliography{/data/research/antipastobibtex/references}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{document}

@@ -1,0 +1,291 @@
+% This is written by Zhiyang Ong as the preamble for all his LaTeX documents.
+%
+% It includes a list of LaTeX packages that he commonly uses to typeset LaTeX documents.
+
+%	The MIT License (MIT)
+
+%	Copyright (c) <2014> <Zhiyang Ong>
+
+%	Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+%	The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+%	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+%	Email address: echo "cukj -wb- 23wU4X5M589 TROJANS cqkH wiuz2y 0f Mw Stanford" | awk '{ sub("23wU4X5M589","F.d_c_b. ") sub("Stanford","d0mA1n"); print $5, $2, $8; for (i=1; i<=1; i++) print "6\b"; print $9, $7, $6 }' | sed y/kqcbuHwM62z/gnotrzadqmC/ | tr 'q' ' ' | tr -d [:cntrl:] | tr -d 'ir' | tr y "\n"
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Importing some standard LaTeX packages.
+
+% To enable standard LaTeX processing for graphics. It enables PDF, JPEG, PNG, and TIFF graphics files to be included in the LaTeX document.
+\usepackage{graphicx}
+% For better typesetting of mathematical expressions, from the American Mathematical Society (AMS).
+\usepackage{amsmath}
+% For better typesetting of mathematical expressions, from the American Mathematical Society (AMS). This package includes mathematical symbols for the ``amsmath'' package.
+\usepackage{amssymb}
+% For better typesetting of mathematical proofs (for theorems and colloraries), from the American Mathematical Society (AMS).
+\usepackage{amsthm}
+%	Create definitions for new theorems, axioms, colloraries.
+	\newtheorem{theorem}{Theorem}[section]
+	\newtheorem{axiom}{Axiom}[section]
+	\newtheorem{corollary}{Corollary}[section]
+	\newtheorem{lemma}{Lemma}[section]
+	\newtheorem{Rule}{Rule}[section]
+	\newtheorem{law}{Law}[section]
+	\newtheorem{principle}{Principle}[section]
+% To change the style of newly defined theorems.
+%		\usepackage{theorem}
+
+
+% For better typesetting of tables (and arrays).
+\usepackage{array}
+% For creating tables without vertical separators.
+%		\usepackage{booktabs}
+% To control line spacing in LaTeX documents.
+\usepackage{setspace}
+% To modify the spacing between words and letters.
+%		\usepackage{microtype}
+% To change the dimensions of the page(s).
+%\usepackage[margin=1.5cm,vmargin={0pt,1cm},nohead]{geometry}
+\usepackage[margin=1.5cm,vmargin={1.5cm,2cm}]{geometry}
+% Use the packages needed to typeset algorithms. I can also use the combined ``algorithms'' bundle.
+\usepackage{algorithm}
+\usepackage{algorithmic}
+% The listings package is a source code printer for LaTeX. You can typeset stand alone files as well as listings with an environment similar to verbatim as well as you can print code snippets using a command similar to \verb. Many parameters control the output and if your preferred programming language isnÕt already supported, you can make your own definition.
+\usepackage{listings}
+% Use the ``clrscode3e'' LaTeX package to typeset algorithms like CLRS
+%	\usepackage{/data/others/notes/clrscode3e}
+\usepackage{/Users/zhiyang/Documents/rapporti/grappanotes/clrscode3e}
+%\usepackage{/data/others/grappanotes/clrscode3e}
+% Use the ``algpseudocode'' LaTeX package to typeset algorithms -- Alternate solution, not preferred
+%\usepackage{algpseudocode}
+% Alternative packages for typesetting algorithms.
+%\usepackage{algorithm2e}
+%\usepackage{algorithmicx}
+%\usepackage{program}
+%	To check for syntax errors in my LaTeX document.
+\RequirePackage[l2tabu, orthodox]{nag}
+
+% Concatenate adjacent references together when typeset.
+% That is, cite{ref1,ref2,ref3,ref4} can appear as [12-15], instead of [12] [13] [14] [15]
+\usepackage{cite}
+% For automatic insertion of cross-referencing words, such as fig. for figures and eq. for equations.
+%		\usepackage{cleveref}
+
+% LaTeX support for Metafont and MetaPost logos.
+\usepackage{mflogo}
+
+
+
+
+
+
+
+
+
+
+
+
+
+% How to typeset single and double quotes for feet and inches?
+% For feet, use [FEET]\textasciiacute
+% For inches, use [INCHES]\textacutedbl
+% For feet and inches, use [FEET]\textasciiacute\ [INCHES]\textacutedbl; force a character space between the single quote for feet and the height of the object in inches
+% Don't use \textceltpal as a single quote to represent height in feet, or double \textceltpal (two concatenated \textceltpal) as a double quote to represent height in inches
+% For double quotes, don't use two single quotes provided by the default settings of LaTeX. The resultant double quotes will be curly.
+
+% The tipa package is for Phonetic Symbols -- I wanna use the \textceltpal symbol to represent a single quote, instead of using the generic ``curly'' single quote from \LaTeX (Table 10, pp.10)
+\usepackage{tipa}
+% The textcomp package is for Diacritics -- I wanna use the \textacutedbl symbol to represent a double quote (Table 28, pp.17), instead of using the generic ``curly'' double quotes from \LaTeX; however, when this symbol is used, I must force a character space to exist after the symbol by using the backslash followed by a character space. This package also provides the symbol for Copyleft, \textcopyleft, which is not available in LaTeX by default, and provides better looking symbols for: copyright, registered, and trademark (Table 33, pp.18). Also, it provides symbols for: \textcelsius, \textmho, \textmu, \textohm (Table 201, pp.67). It also provides symbols for Genealogical Symbols (Table 253, pp78), such as \textborn, \textdivorced, \textmarried, \textdied, and \textleaf (symbol of a leaf)... Its symbol for the Euro, EU currency, is \texteuro
+\usepackage{textcomp}
+% Look at \url{http://www.ctan.org/tex-archive/info/symbols/comprehensive/symbols-a4.pdf} for a list of symbols that can be used in LaTeX and its packages. Table 280, pp.88, deals with Symbol Name Clashes; hence, if the same command name refers to multiple symbols, the symbol-conflict resolution abides by this.
+% In particular, check out the gensymb package (Table 197, page 67) for symbols defined to work in both math and text modes, such as \celsius, \micro, \degree, and \ohm.
+% Also, check out the wasysym package (Table 198, page 67) for electrical symbols, such as that of alternating current (AC); it also provides symbols for \female, and \male (Table 212, pp.70); it also has symbols for ``Xs and Check Marks,'' which are checked boxes, \CheckedBox, squares, \Square, and crossed boxes (boxes filled with a cross), \XBox (Table 232, pp.73); it also has symbols for a clock, \clock, a Simley, \smiley, diameter, \diameter, lightning, \lightning, sun, \sun, and a tick or check mark \checked (symbol to indicate that something is correct), and a bell, \bell (Table 254, pp.78); it also has symbols for left and right turns (Table 256, pp.78), \leftturn and \rightturn; this package (Table 256, pp.78) and the arev package (Table 257, pp.78) can be used to typeset music symbols, along with Table 182, pp.62; it also has symbols for Navigation (Table 261, pp.79), such as \Forward, \RewindToStart, and \ForwardToIndex; it also has symbols for laundry (Table 262, pp.80); it also has the symbol for a heart, \Heart (Table 263, pp.80).
+% In addition, check out the ifsym package (Table 199, page 67) for pulse diagram symbols; it also has symbols for weather (Table 266, pp.80), alpine and mountain climbing, such as \Summit, \Mountain, \IceMountain, \VarMountain, \Flag, \FilledHut, \Hut, \Village, and \Tent (Table 267, pp.81); it also has different symbols for clocks, such as \Interval, \StopWatchEnd, \VarClock, \showclock (to indicate the time) (Table 268, pp.81); it also has symbols for fire, letter, telephone, dice, \PaperPortrait, and \PaperLandscape. Also, has symbol for the cross to indicate that something is incorrect
+\usepackage{ifsym}
+% Besides, check out the keystroke package (Table 208, page 69) for symbols of Computer Keys, such as Alt, Ctrl, Del, Page down, Esc, Enter, Shift, Space Bar, and Up Arrow.
+% From the dingbat package (Table 225, page 72), it has symbols for Fists, such as \rightthumbsdown and \rightthumbsup.
+%\usepackage{dingbat}
+% From the pifont package (Table 234, page 73), it has symbols for Circled Numbers, such as any digit that is circled, where the space in the circle can be shaded black.
+% From the dictsym package (Table 277, page 84), it has symbols for dictionaries, and indicates which type of dictionary will define this term - say a medical, technical, mathematical, or judical dictionary
+% The simpsons package can be used to indicate characters from {\it The Simpsons} (Table 278, pp.85)
+% The symbol for quadruple integrals \iiiint is available as an AMS Variable-sized Math Operator, or I can use this symbol from the packages txfonts, pxfonts, esint, or MnSymbol 
+
+
+
+
+
+
+
+
+
+
+% The marvosym package (Table 210, page 69) is for Communication Symbols, such as \Email, \fax, \FAX (Preferred), \Letter, \Mobilefone, and \Telefon; it also has the symbol for the Cross to represent Christianity, \Cross (Table 263, pp.80); it also has symbols for checked boxes, \Checkedbox, crossed boxes (boxes marked with a cross), \Crossedbox, bicycles, \Bicycle, clocks, \Clocklogo, the industry, \Industry, taking notes manually with pen/pencil and paper, \Writinghand, coffee, \Coffeecup, providing information or important note, \Info (Table 249, pp.76)... In addition, it has the symbols for the Euro (EU currency), \EUR (OK), \EURdig (OK), \EURtm, \EURcr
+\usepackage{marvosym}
+% From the bbding package (Table 226, page 72), it has symbols for Fists, such as \HandPencilLeft; it also has symbols for the Cross to represent Christianity, such as \Cross and \CrossOpenShadow (Table 228, pp.72); Use of the symbol \Cross has bugs; bugs exist in the package, as it fails to correctly overwrite the \Cross symbol; also has the peace symbol, \Peace. 
+%\usepackage{bbding}
+% The skak contains a cross, incorrect symbol that I can use to indicate that something is wrong, e.g. \markera or \weakpt
+\usepackage{skak}
+% Package to enable the use of a strikeout/strikethrough font with LaTeX. To use the strikeout/strikethrough font, use the ``sout'' LaTeX command, or tag,  to ``strike through'' text. E.g., \sout{Bill Clinton} G.W. Bush is the pres.
+\usepackage{ulem}
+% The eurosym package has the symbols for the Euro (EU currency), \geneuro, \geneuronarrow, \geneurowide, \officialeuro (GOOD)
+\usepackage{eurosym}
+
+
+
+
+
+
+
+
+
+
+
+% Create fancy headers and footers for this document
+\usepackage{fancyhdr}
+\setlength{\headheight}{15.2pt}
+\pagestyle{fancy}
+% Headers for the document
+\lhead{}
+%\lhead{Zhiyang Ong}
+%\rhead{\today}
+% Footers for the document
+\lfoot{Zhiyang Ong}
+\cfoot{}
+\rfoot{\thepage}
+
+% The following does not work, since it does not differentiate between odd and even pages. Hence, the last odd/even command will overwrite the previous even/odd command
+%\fancyhf{}
+%\fancyhead[LE]{Author's DFM}
+%\fancyhead[LO]{\today EDA}
+%\fancyfoot[LE]{\thepage USC}
+%\fancyfoot[RO]{\thepage Adel}
+
+
+% Allow for multi-line comments
+\usepackage{verbatim}
+
+
+
+
+% Commands for using the package for hyperlinks. Includes the package ``url''.
+\usepackage[pdftex,
+	pdftitle={Graphics and Color with LaTeX},
+	pdfauthor={Patrick W Daly},
+	pdfsubject={Importing images and use of color in LaTeX},
+	pdfkeywords={LaTeX, graphics, color},
+	pdfpagemode=UseOutlines,bookmarks, bookmarksopen,
+	pdfstartview=FitH, colorlinks, linkcolor=blue, citecolor=blue, urlcolor=red,
+]{hyperref}
+\hypersetup{colorlinks, linkcolor=blue}
+
+
+
+
+
+
+
+% Create a glossary for symbols and terms in this document
+% The following attempt failed
+%\makeglossaries
+
+% The following attempt failed
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\makeglossary
+%\usepackage{supertabular}
+%\newcommand{\glossaryname}{Symbols Index}
+%\newenvironment{theglossary}
+%    {\section*{Symbols Index}
+%      \begin{supertabular}{ll}}
+%    {\end{supertabular}
+%}
+%\newcommand{\printglossary}{\InputIfFileExists{zhiyang_ong.glo}{}{\section*{Symbols Index - File not found}}}
+
+% Another failed attempt at creating a glossary
+%\input{gatech-thesis-gloss.sty}
+%\usepackage{gatech-thesis-gloss}
+%\glossfiles{zhiyang_ong.glo}
+
+% Create the glossary
+\usepackage{nomencl}
+\makenomenclature
+
+
+% Enable captions to be modified.
+%\usepackage{caption}
+% Addition support for colored text.
+%\usepackage{color}
+% Enable the insertion of PDF/PS files/documents.
+		\usepackage{pdfpages}
+% To rotate objects, including tables.
+		\usepackage{rotating}
+% To define multiple floats (figures and tables), with individual captions and labels, within one environment.
+		\usepackage{subfig}
+% For a modular LaTeX document with multiple files (including the ``root file''), it allows the a non-empty subset of the ``child files'' to be typeset without having to typeset the ``root file'' (and/or the other ``child files'').
+		\usepackage{subfiles}
+% To annotate the LaTeX document with to-do notes.
+		\usepackage[colorinlistoftodos]{todonotes}
+% To insert images surrounded by text.
+		\usepackage{wrapfig}
+% To create trees, graphs, (commutative) diagrams, and similar things. Reference: Wikibooks contributors, ``\LaTeX/Xy-pic,'' in {\it \LaTeX}, Wikibooks: Open books for an open world, Wikimedia Foundation, San Francisco, CA, June 5, 2005. Available online at: \url{http://en.wikibooks.org/wiki/LaTeX/Xy-pic}; last accessed on December 25, 2013.		=> This package seems to have bugs in it. If I use this package, my document will not typeset properly. I have tried to use it successfully in other documents. It does not seem to be compatible with 
+%\usepackage{xypic}
+% Package for SI units.
+\usepackage{siunitx}
+
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Other helpful hints:
+
+% To use the italic and bold font concurrently, try this: {\itshape Review the {\bfseries updated} training log}
+
+% To use the symbol for summation, which is the capital-sigma notation, with proper super- and sub- fixes, try: $\displaystyle\sum_{i = -1}^{m} \frac{log_2 n_i}{T_i}$
+
+% Make sure that I include the following so that I can cite references properly: \usepackage{cite}. This allows references to be included as [1-10], rather than [1], [2], [3], [4], [5], [6], [7], [8], [9], [10]
+
+% Colors that appear well in PDF format for LaTeX text include: red, blue, and magenta
+
+% Use \scriptsize, instead of \textsc, \sc, or \schape to use small caps. Currently, I cannot use \textsc, \sc, or \schape to write in small caps on my MacBook Pro laptop.
+
+% The Typewriter font cannot be used concurrently with the bold font. That is, the following cannot be used: {\tt \bf text}, AND \texttt{\textbf{text}}
+
+% Use \LaTeX for LaTeX; B{\scriptsize IB}\TeX to indicate the symbol for BibTeX; \texttrademark for trademarks; \MF for Metafont; and \MP for MetaPost
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%																%
+%	Default colors that I can use with \LaTeX:								%
+%	1) red														%
+%	2) green														%
+%	3) blue														%
+%	4) yellow														%
+%	5) cyan														%
+%	6) magenta													%
+%	7) black														%
+%	8) white														%
+%																%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+% Partial list of ``the 68 predefined internal colors of the {\tt dvips} PostScript driver'' \cite{Kopka04} that I can use for changing the color of text ... Use bold font for the text
+%YellowOrange
+%RoyalBlue
+%DarkOrchid
+%ForestGreen
+%OliveGreen
+%Mulberry
+%ProcessBlue
+%RubineRed
+%VioletRed
+%WildStrawberry
+% E.g., try: \textcolor{VioletRed}{\bf hello world}
+
+% As for changing the background color of text, choose a light colored background to make the text stand out in black colored bold font; see \url{oregonstate.edu/~peterseb/tex/samples/docs/color-package-demo.pdf} for a list of colors
+% E.g., try: \colorbox{Apricot}{\bf hello world}
