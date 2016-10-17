@@ -25,8 +25,20 @@ If more than one function is defined in a script, all the functions
 
 
 
+##	Miscellaneous
 
+###	Formatted Output
 
+Conversion specifications \cite[\S14.2.4 Formatted Output]{Abbott2016}:
++ '%d': scalar argument, decimal notation
++ '%s': string argument
++ '%o': integer argument, octal radix
++ '%u': integer argument, decimal radix
++ '%x': integer argument, hexadecimal radix
++ '%c': character value 
++ '%f': fixed-point notation
++ '%e': exponential notation
++ '%g': fixed-point or exponential notation
 
 
 

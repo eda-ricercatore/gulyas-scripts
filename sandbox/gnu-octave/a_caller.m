@@ -25,13 +25,13 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-%	Call function without input arguments nor return variables.
+%	Call function without input arguments nor return variable.
 a_callee
 
 
 
-%	Call another function without input arguments nor return variables.
-&a_callee2
+%	Call another function without input arguments nor return variable.
+%a_callee2
 
 
 

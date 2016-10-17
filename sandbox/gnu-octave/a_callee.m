@@ -18,14 +18,13 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-%	Function without input arguments nor return variables.
+%	Function without input arguments nor return variable.
 function a_callee
 	disp("Test if a_callee is called.")
-
 endfunction
 
 
-%	Function without input arguments nor return variables, #2.
+%	Function without input arguments nor return variable, #2.
 %function a_callee2
 %	disp("Test if a_callee2 is called.")
 %endfunction

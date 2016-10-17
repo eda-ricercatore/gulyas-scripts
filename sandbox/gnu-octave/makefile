@@ -23,8 +23,11 @@
 #       Make targets for build automation with Make (using this Makefile).
 torture:
 	@echo "========================================================="
-	@echo "Call function without input arguments nor return variables."
+	@echo "Call function without input arguments nor return variable."
 	./a_caller.m
+	@echo "========================================================="
+	@echo "Call function with input arguments, without return variable."
+	./b_caller.m
 
 
 
