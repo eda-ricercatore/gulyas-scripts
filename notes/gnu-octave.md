@@ -4,12 +4,12 @@
 
 For *Makefile*-based build automation for executing/running 
 	*GNU Octave* scripts, I have to do the following:
-+ ./\[*filename*\]
++ ./[*filename*]
 	- Requires adding the UNIX shebang for *GNU Octave*
 + ./[*filename*]
 
 And avoid doing the following:
-+ octave \[*filename*\]
++ octave [*filename*]
 
 
 
