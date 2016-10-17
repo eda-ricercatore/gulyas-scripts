@@ -2,11 +2,12 @@
 
 ##	Build Automation for *GNU Octave*
 
+For *Makefile*-based build automation for executing/running 
+	*GNU Octave* scripts, I have to do the following:
++
 
-
-
-
-
+And avoid doing the following:
++ octave \[*filename*\]
 
 
 
