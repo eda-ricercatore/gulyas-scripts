@@ -20,7 +20,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %	Preamble.
-addpath("/Users/zhiyang/Documents/ricerca/gulyas-scripts/dummy")
+%addpath("/Users/zhiyang/Documents/ricerca/gulyas-scripts/dummy")
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
