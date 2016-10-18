@@ -44,7 +44,10 @@ Conversion specifications \cite[\S14.2.4 Formatted Output]{Abbott2016}:
 + '%e': exponential notation
 + '%g': fixed-point or exponential notation
 
-For these specific \cite[\S14.2.4 Formatted Output]{Abbott2016}:
+For these aforementioned specific conversion specifications \cite[\S14.2.4 Formatted Output]{Abbott2016}:
++ Specific modifiers can be inserted between the percentage ("%") symbol and the character specifying/indicating the conversion type.
++ Specific flags can be inserted between the percentage ("%") symbol and the character specifying/indicating the conversion type.
++ These aforementioned flags and modifiers can be inserted between the percentage ("%") symbol and the character specifying/indicating the conversion type.  
 
 
 
