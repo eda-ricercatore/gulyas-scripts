@@ -2,16 +2,25 @@
 
 ##	Build Automation for *GNU Octave*
 
+###	Using *Makefile* for Build Automation
+
 For *Makefile*-based build automation for executing/running 
 	*GNU Octave* scripts, I have to do the following:
 + ./[*filename*]
-	- Requires adding the UNIX shebang for *GNU Octave*
-	- Requires using *chmod* (UNIX command) to change the file
+	- Requires adding the *UNIX* shebang for *GNU Octave*
+	- Requires using *chmod* (*UNIX* command) to change the file
 		permission, so that the script(s) can be executed via the
-		Terminal as a UNIX command/process.
+		Terminal as a *UNIX* command/process.
 
 And avoid doing the following:
 + octave [*filename*]
+
+Notes for using *Makefile* for build automation; that is, using *Makefile* to execute/run *GNU Octave* scripts:
++ Only the main script that would be called by the *Makefile*, or executed via the command line of the *Terminal* application, need to have its file permissions set by *chmod*.
++ The main script also needs to have the *UNIX* shebang in its first line.
++ Other scripts, containing a function per script, form a library of *GNU Octave* scripts.
++ The aformentioned library of *GNU Octave* scripts need not have the *UNIX* shebang in their first line.
++ The aformentioned library of *GNU Octave* scripts need not have their file permissions set by *chmod*.
 
 Experimentally/Empirically demonstrated in the execution of the
 	*Make* target *torture*. See: [link to sandbox/gnu-octave](../sandbox/gnu-octave).
