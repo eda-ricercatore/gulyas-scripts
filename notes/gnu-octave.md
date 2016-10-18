@@ -13,6 +13,9 @@ For *Makefile*-based build automation for executing/running
 And avoid doing the following:
 + octave [*filename*]
 
+Experimentally/Empirically demonstrated in the execution of the
+	*Make* target *torture*. See: [link to sandbox/gnu-octave](../sandbox/gnu-octave).
+
 
 ##	Functions
 
