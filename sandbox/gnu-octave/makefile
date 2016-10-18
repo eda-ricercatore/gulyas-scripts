@@ -20,7 +20,7 @@
 
 
 #       =============================================================
-#       Make targets for build automation with Make (using this Makefile).
+#       Make targets for build automation: Regression Testing.
 torture:
 	@echo "========================================================="
 	@echo "Call function without input arguments nor return variable."
