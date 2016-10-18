@@ -87,9 +87,6 @@ For these aforementioned specific conversion specifications \cite[\S14.2.4 Forma
 To change the number of significant figures displayed in the terminal output, use the command *format[options]*, where the options are indicated as follows \cite[14.1.1 Terminal Output]{Abbott2016}:
 + *short*: Fixed point format with 5 significant figures in a field that is a maximum of 10 characters wide. (default).
 + *long*: Fixed point format with 15 significant figures in a field that is a maximum of 20 characters wide.
-+ *short e* and *long e*: Exponential format. The number to be represented is split between a mantissa and an exponent (power of 10). The mantissa has 5 significant digits in the short format and 15 digits in the long format.
-+ *short E* and *long E*: Identical to 'short e' or 'long e' but displays an uppercase 'E' to indicate the exponent.
-+ *short g* and *long g*: Optimally choose between fixed point and exponential format based on the magnitude of the number.
 
 
 
