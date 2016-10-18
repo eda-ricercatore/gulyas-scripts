@@ -30,7 +30,12 @@ Names for repositories for my Ph.D. research shall be named after dishes and dri
 	- Software licenses
 		* *MIT License*
 		* *GNU General Public License (GNU GPL)*
+	- guidelines
+		* Documentation about guidelines that I am following
+			for my research, and for my research collaborators 
+			to know about.
 + references
+	- Currently deprecated.
 	- Information that I would need to enter information into my
 		*BibTeX* database of references (i.e., publications). 
 + sandbox
@@ -40,10 +45,6 @@ Names for repositories for my Ph.D. research shall be named after dishes and dri
 	- python
 		* *Python* scripts to test different concepts that I have
 			learned.
-	- guidelines
-		* Documentation about guidelines that I am following
-			for my research, and for my research collaborators 
-			to know about.
 + time-shifting
 	- *Makefile* and *GNU Octave* scripts to carry out my experiments
 		for time-shifted instantaneous noise-based logic
