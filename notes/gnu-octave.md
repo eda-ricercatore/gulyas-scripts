@@ -22,7 +22,8 @@ If more than one function is defined in a script, all the functions
 	(except the first function) cannot be recognized by other
 	*GNU Octave* scripts. 
 
-
+Experimentally/Empirically demonstrated in the execution of the
+	*Make* target *torture*. See: [gulyas-scripts/sandbox/gnu-octave]
 
 
 ##	Miscellaneous
@@ -39,6 +40,8 @@ Conversion specifications \cite[\S14.2.4 Formatted Output]{Abbott2016}:
 + '%f': fixed-point notation
 + '%e': exponential notation
 + '%g': fixed-point or exponential notation
+
+For these specific \cite[\S14.2.4 Formatted Output]{Abbott2016}:
 
 
 

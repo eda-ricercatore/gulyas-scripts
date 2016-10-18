@@ -25,7 +25,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-printf("Test if b_callee(%u,%b) is called.", 67, 891)
+%printf("Test if b_callee(%u,%u) is called.\n", 67, 891)
 %	Call function with input arguments, without return variable.
 b_callee(12,345)
 

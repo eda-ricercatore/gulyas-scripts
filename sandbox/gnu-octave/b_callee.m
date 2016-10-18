@@ -19,7 +19,7 @@
 
 %	Function with input arguments, without return variable.
 function b_callee(number_a, number_b)
-	printf("Test if b_callee(%a%%,%b) is called.", number_a, number_b)
+	printf("Test if b_callee(%u%%,%u) is called.\n", number_a, number_b)
 endfunction
 
 
