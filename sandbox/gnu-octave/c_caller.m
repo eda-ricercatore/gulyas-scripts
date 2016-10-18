@@ -27,8 +27,9 @@
 
 %printf("Test if b_callee(%u,%u) is called.\n", 67, 891)
 %	Call function with input arguments, without return variable.
-c_callee(12,345)
-
+%		c_callee(%d%%,%f,%e,%g)
+c_callee(12,345.09876,34e3,484893735)
+c_callee(12,345.09876,34e3,9876.1234567)
 
 
 

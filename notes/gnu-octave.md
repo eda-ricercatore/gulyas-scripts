@@ -54,7 +54,9 @@ Concepts that are experimentally/empirically demonstrated, but not
 + Mismatch between function name used in a function call and the name
 	of the specified function (in the function-specific script) is
 	not allowed. 
-
++ If the number of arguments used in the function is less than the
+	number of arguments specified in the function, an error will be
+	raised in the execution of the script. 
 
 
 
@@ -79,6 +81,16 @@ For these aforementioned specific conversion specifications \cite[\S14.2.4 Forma
 + Specific modifiers can be inserted between the percentage ("%") symbol and the character specifying/indicating the conversion type.
 + Specific flags can be inserted between the percentage ("%") symbol and the character specifying/indicating the conversion type.
 + These aforementioned flags and modifiers can be inserted between the percentage ("%") symbol and the character specifying/indicating the conversion type.  
+
+### Terminal Output
+
+Changing the number of significant figures displayed in the terminal output \cite[14.1.1 Terminal Output]{Abbott2016}:
++ *short*: Fixed point format with 5 significant figures in a field that is a maximum of 10 characters wide. (default).
++ *long*: Fixed point format with 15 significant figures in a field that is a maximum of 20 characters wide.
++ *short e* and *long e*: Exponential format. The number to be represented is split between a mantissa and an exponent (power of 10). The mantissa has 5 significant digits in the short format and 15 digits in the long format.
++ *short E* and *long E*: Identical to 'short e' or 'long e' but displays an uppercase 'E' to indicate the exponent.
++ *short g* and *long g*: Optimally choose between fixed point and exponential format based on the magnitude of the number.
+
 
 
 
