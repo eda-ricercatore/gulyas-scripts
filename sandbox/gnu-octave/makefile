@@ -28,7 +28,10 @@ torture:
 	@echo "========================================================="
 	@echo "Call function with input arguments, without return variable."
 	./b_caller.m
-
+	@echo "========================================================="
+	@echo "Call another function: input arguments, no return variable."
+	./c_caller.m
+	
 
 
 

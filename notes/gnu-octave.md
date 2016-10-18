@@ -34,8 +34,30 @@ If more than one function is defined in a script, all the functions
 	(except the first function) cannot be recognized by other
 	*GNU Octave* scripts. 
 
+For a function-specific script:
++ The name of the function must match its file name.
++ The name of the function must match the name of the function
+	used in a function call.
+	- E.g., to call function *foo* in a script, the function
+		specified in the file named *foo.m* must be named *foo*.  
+
+
 Experimentally/Empirically demonstrated in the execution of the
 	*Make* target *torture*. See: [link to sandbox/gnu-octave](../sandbox/gnu-octave).
+
+### Concepts Experimentally/Empirically Demonstrated, But Unrecorded
+
+Concepts that are experimentally/empirically demonstrated, but not
+	stored in the repository as commented code fragments:
++ Mismatch between the name of the specified function and the filename
+	of the function-specific script is not allowed. 
++ Mismatch between function name used in a function call and the name
+	of the specified function (in the function-specific script) is
+	not allowed. 
+
+
+
+
 
 
 ##	Miscellaneous
