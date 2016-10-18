@@ -1,5 +1,3 @@
-#!/opt/local/bin/octave
-
 %	This is written by Zhiyang Ong
 
 

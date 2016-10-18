@@ -20,7 +20,13 @@
 
 
 #       =============================================================
-#       Make targets for build automation: Regression Testing.
+#       Make targets for build automation.
+
+
+
+
+#       =============================================================
+#       Regression Testing.
 torture:
 	@echo "========================================================="
 	@echo "Call function without input arguments nor return variable."
@@ -38,7 +44,12 @@ torture:
 
 
 
-
+#       =============================================================
+#       Regression Testing.
+torture:
+	@echo "========================================================="
+	@echo "Call function without input arguments nor return variable."
+	
 
 
 

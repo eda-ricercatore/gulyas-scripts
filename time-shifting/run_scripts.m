@@ -1,5 +1,7 @@
-%	This is written by Zhiyang Ong to generate random-telegraph waves
-%		(RTW).
+#!/opt/local/bin/octave
+
+%	This is written by Zhiyang Ong to perform regression testing on
+%		*GNU Octave* functions in this directory.
 %
 %
 %	The MIT License (MIT)
@@ -15,15 +17,37 @@
 %	Email address: echo "cukj -wb- 23wU4X5M589 TROJANS cqkH wiuz2y 0f Mw Stanford" | awk '{ sub("23wU4X5M589","F.d_c_b. ") sub("Stanford","d0mA1n"); print $5, $2, $8; for (i=1; i<=1; i++) print "6\b"; print $9, $7, $6 }' | sed y/kqcbuHwM62z/gnotrzadqmC/ | tr 'q' ' ' | tr -d [:cntrl:] | tr -d 'ir' | tr y "\n"		Don't compromise my computing accounts. You have been warned.
 
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%	Preamble.
+
+%	Load various GNU Octave packages
+%	pkg load struct 
+%	pkg load control
+%	pkg load signal
+
 
 %	Add paths to GNU Octave, so that it can load scripts to execute.
-addpath("/Users/zhiyang/Documents/ricerca/gulyas-scripts/time-shifting/")
+%addpath("/Users/zhiyang/Documents/ricerca/gulyas-scripts/time-shifting/")
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
 %	source(generate_rtw(12))
 %	run(generate_rtw.m)
-rtw1 = generate_rtw(12,8)
+%rtw1 = generate_rtw(12,8)
+
+
+
+%	Set the seed for pseudo-random number generation (PRNG).
+
+
+
+%	Check the generation of "high" and "low" logic values.
+
+
+
+%	Check the generation of random-telegraph waves (RTW).
 
 
 
@@ -31,4 +55,11 @@ rtw1 = generate_rtw(12,8)
 
 
 
-%	Eaton2016
+
+
+
+
+
+
+
+

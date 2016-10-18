@@ -1,3 +1,5 @@
+#!/opt/local/bin/octave
+
 %	This is written by Zhiyang Ong to generate random-telegraph waves
 %		(RTW).
 %
@@ -25,16 +27,37 @@
 
 
 %	Add paths to GNU Octave, so that it can load scripts to execute.
-addpath("/Users/zhiyang/Documents/ricerca/gulyas-scripts/time-shifting/")
+%addpath("/Users/zhiyang/Documents/ricerca/gulyas-scripts/time-shifting/")
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %rtw1 = generate_rtw(12,8)
 
-aval = generate_HL_values
+%aval = generate_HL_values
 
 
 
 
 
-%	Eaton2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
