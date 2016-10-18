@@ -31,6 +31,9 @@ torture:
 	@echo "========================================================="
 	@echo "Call another function: input arguments, no return variable."
 	./c_caller.m
+	@echo "========================================================="
+	@echo "Call function: input arguments, one return variable."
+	./d_caller.m
 	
 
 

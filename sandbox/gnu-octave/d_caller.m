@@ -1,3 +1,5 @@
+#!/opt/local/bin/octave
+
 %	This is written by Zhiyang Ong to test my implementation of
 %		functions in GNU Octave.
 %
@@ -17,20 +19,19 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-%	Function with input arguments, without return variable.
-function c_callee(number_a, number_b, number_c, number_d)
-	printf("Test if c_callee(%d%%,%f,%e,%g) is called.\n", number_a, number_b, number_c, number_d)
-	printf("Number of arguments: %d.\n", nargin)
-endfunction
+%	Preamble.
+%addpath("/Users/zhiyang/Documents/ricerca/gulyas-scripts/dummy")
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-
-
-
-
-
-
-
+%printf("Test if b_callee(%u,%u) is called.\n", 67, 891)
+%	Call function with input arguments, return variables.
+%		d_callee(%d%%,%f,%e,%g)
+format('long')
+[r_a, r_b, r_c, r_d] = d_callee(12,345.09876,345e3,9876.1234567)
+disp("------------------------------------------------------------")
+[r_a, r_b, r_c, r_d] = d_callee(91,8273.3764,39234e5,93.17364543123,19283,93939,48756)
 
 
 

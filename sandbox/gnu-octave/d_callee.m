@@ -17,15 +17,15 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-%	Function with input arguments, without return variable.
-function c_callee(number_a, number_b, number_c, number_d)
-	printf("Test if c_callee(%d%%,%f,%e,%g) is called.\n", number_a, number_b, number_c, number_d)
-	printf("Number of arguments: %d.\n", nargin)
+%	Function with input arguments, return variables.
+function [ret_a,ret_b,ret_c,ret_d] = d_callee(number_a, number_b, number_c, number_d)
+	ret_a = number_d
+	ret_b = number_c
+	ret_c = number_b
+	ret_d = number_a
+	printf("Input arguments: d_callee(%d%%,%f,%e,%g).\n", number_a, number_b, number_c, number_d)
+	printf("Return values: (%d%%,%f,%e,%g).\n", ret_a,ret_b,ret_c,ret_d)
 endfunction
-
-
-
-
 
 
 
