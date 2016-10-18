@@ -23,7 +23,7 @@ If more than one function is defined in a script, all the functions
 	*GNU Octave* scripts. 
 
 Experimentally/Empirically demonstrated in the execution of the
-	*Make* target *torture*. See: [Link to sandbox/gnu-octave](../sandbox/gnu-octave).
+	*Make* target *torture*. See: [link to sandbox/gnu-octave](../sandbox/gnu-octave).
 
 
 ##	Miscellaneous
