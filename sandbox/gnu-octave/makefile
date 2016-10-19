@@ -44,12 +44,7 @@ torture:
 
 
 
-#       =============================================================
-#       Regression Testing.
-torture:
-	@echo "========================================================="
-	@echo "Call function without input arguments nor return variable."
-	
+
 
 
 

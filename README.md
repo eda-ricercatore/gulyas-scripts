@@ -3,7 +3,7 @@ This is the script directory for my research, as part of my dottorato di ricerca
 
 It contains scripts to test out ideas that I have read in research publications.
 
-Names for repositories for my Ph.D. research shall be named after dishes and drinks from the [Hungarian cuisine] (https://en.wikipedia.org/wiki/Hungarian_cuisine).
+Names for repositories for my Ph.D. research shall be named after dishes and drinks from the [Hungarian cuisine](https://en.wikipedia.org/wiki/Hungarian_cuisine).
 
 
 ## Organization of the Repository

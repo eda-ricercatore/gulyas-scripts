@@ -39,7 +39,14 @@
 
 
 
-%	Set the seed for pseudo-random number generation (PRNG).
+%	Initialize/Reset the seed for pseudo-random number generation (PRNG).
+%a1 = rand("seed")
+
+%a1 = rand("seed","reset")
+a1 = rand('seed','reset')
+%a1 = rand('reset')
+
+%a1 = rand("seed")
 
 
 

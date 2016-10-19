@@ -1,6 +1,6 @@
 #	This is written by Zhiyang Ong as for build automation in the
-#		context of running GNU Octave scripts for the "hat drawing"
-#		experiments.
+#		context of running GNU Octave scripts for my research on
+#		noise-based logic (NBL).
 #
 #       The MIT License (MIT)
 #
@@ -18,19 +18,28 @@
 #
 
 
+#       =============================================================
+#       Make targets for build automation.
+
 
 #       =============================================================
-#       Make targets for build automation with Make (using this Makefile).
+#       Build automation for research experiments.
 all:
-	octave run_hat_drawing_experiments.m
+	@echo "========================================================="
+	@echo "Starting research experiment."
+	@echo "========================================================="
 
 
 
 
 
-
-
-
+#       =============================================================
+#       Regression Testing: *GNU Octave* functions in this directory.
+regtest:
+	@echo "========================================================="
+	@echo "Start Regression Testing: Test *GNU Octave* functions."
+	@echo "========================================================="
+	./run_scripts.m
 
 
 
