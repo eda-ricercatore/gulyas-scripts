@@ -43,10 +43,12 @@
 %a1 = rand("seed")
 
 %a1 = rand("seed","reset")
-a1 = rand('seed','reset')
+%a1 = rand('seed','reset')
 %a1 = rand('reset')
 
 %a1 = rand("seed")
+rand("seed","reset")
+disp("Finished reset operation.")
 
 
 

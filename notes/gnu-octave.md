@@ -66,6 +66,24 @@ Concepts that are experimentally/empirically demonstrated, but not
 
 
 
+
+##	Pseudo-Random Number Generation (PRNG) in *GNU Octave*
+
+To reset the seed of the function for pseudo-random number generation
+	(PRNG), do the following: rand("seed","reset") 
+	\cite[Function File: Function Reference -- rand]{OctaveForgeContributors2016}.
+	
+Note: Do not assign *rand("seed","reset")* to any variable. 
+	This will cause an error in executing/interpreting the
+	*GNU Octave* script, since this function does not return a value
+	or matrix (or any other mathematical object).
+
+
+
+
+
+
+
 ##	Miscellaneous
 
 ###	Formatted Output
