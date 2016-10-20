@@ -87,11 +87,13 @@ Note: Do not assign *rand("seed","reset")* to any variable.
 
 ##	Enabling Seamless Interoperability Between Programming Languages
 
-Software/Libraries for Enabling Seamless Interoperability Between Programming Languages
-
-
-\cite{Abrahams2015}
-
+There exists software and libraries for enabling seamless
+	interoperability between programming languages.
+For example,
++ Boost.Python
+	\cite[Boost C++ Libraries: Documentation: Boost Library Documentation: Boost 1.62.0 Library Documentation: Boost Libraries]{Abrahams2015}
+	\cite{Dawes2015b}
++ SWIG
 
 
 
