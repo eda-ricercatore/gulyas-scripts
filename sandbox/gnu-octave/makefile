@@ -38,9 +38,11 @@ torture:
 	@echo "Call another function: input arguments, no return variable."
 	./c_caller.m
 	@echo "========================================================="
-	@echo "Call function: input arguments, one return variable."
+	@echo "Call function: input arguments, return variables."
 	./d_caller.m
-	
+	@echo "========================================================="
+	@echo "Test: Resetting PRNG."
+	./e-prng-reset.m
 
 
 
