@@ -43,6 +43,8 @@
 %	Preamble.
 %addpath("/Users/zhiyang/Documents/ricerca/gulyas-scripts/dummy")
 
+disp("------------------------------------------------------------")
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
@@ -55,12 +57,31 @@ rand("seed","reset")
 n = 8;
 
 %	Use the PRNG to generate a vector of random numbers between
-%		0 and 1. 
-%vec1 = rand(1, n, [0 1])
+%		0 and 1.
+vec1a = rand(1, n, [0 1])
 vec1 = rand(0, 1, 1, n)
+vec2 = rand(1, n)
+
+%	Terminal output for vec1a and vec1.
+%	vec1a = [](1x8x0)
+%	vec1 = [](0x1x1x8)
+
+
+
+
+
+%	Get the properties of vec1a
+len_vec1a = length(vec1a)
+size_vec1a = size(vec1a)
+
+
+%	Get the properties of vec1
 len_vec1 = length(vec1)
 size_vec1 = size(vec1)
 
+%	Get the properties of vec2
+len_vec2 = length(vec2)
+size_vec2 = size(vec2)
 
 
 
