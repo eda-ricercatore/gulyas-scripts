@@ -116,7 +116,7 @@ For example, I can use the following software.
 	- \cite{Dawes2015b}
 	- \cite{Abrahams2015a}
 + SWIG
-	- Reference: Wikipedia contributors, "SWIG," in *Wikipedia, The Free Encyclopedia: CATEGORY*, Wikimedia Foundation, San Francisco, CA, September 1, 2016. Available online at: [SWIG](https://en.wikipedia.org/wiki/SWIG); last accessed on October 21, 2016.
+	- Reference: Wikipedia contributors, "SWIG," in *Wikipedia, The Free Encyclopedia: Computer programming tools*, Wikimedia Foundation, San Francisco, CA, September 1, 2016. Available online at: [SWIG](https://en.wikipedia.org/wiki/SWIG); last accessed on October 21, 2016.
 + SIP
 	- Automated binding library
 	- Language binding libraries
