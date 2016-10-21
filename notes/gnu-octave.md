@@ -116,12 +116,14 @@ For example, I can use the following software.
 	- \cite{Dawes2015b}
 	- \cite{Abrahams2015a}
 + SWIG
+	- Reference: Wikipedia contributors, "SWIG," in *Wikipedia, The Free Encyclopedia: CATEGORY*, Wikimedia Foundation, San Francisco, CA, September 1, 2016. Available online at: [SWIG](https://en.wikipedia.org/wiki/SWIG); last accessed on October 21, 2016.
 + SIP
 	- Automated binding library
 	- Language binding libraries
 	- "SIP is a tool for automatically generating Python bindings
 		for C and C++ libraries." 
 		\cite{RiverbankComputingLimitedStaff2016}
+	- Reference: Wikipedia contributors, "SIP (software)," in *Wikipedia, The Free Encyclopedia: Computer programming tools*, Wikimedia Foundation, San Francisco, CA, August 10, 2016. Available online at: \url{https://en.wikipedia.org/wiki/SIP_(software)}; last accessed on October 21, 2016.
 
 
 ##	Miscellaneous
