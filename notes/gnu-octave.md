@@ -123,7 +123,7 @@ For example, I can use the following software.
 	- "SIP is a tool for automatically generating Python bindings
 		for C and C++ libraries." 
 		\cite{RiverbankComputingLimitedStaff2016}
-	- Reference: Wikipedia contributors, "SIP (software)," in *Wikipedia, The Free Encyclopedia: Computer programming tools*, Wikimedia Foundation, San Francisco, CA, August 10, 2016. Available online at: \url{https://en.wikipedia.org/wiki/SIP_(software)}; last accessed on October 21, 2016.
+	- Reference: Wikipedia contributors, "SIP (software)," in *Wikipedia, The Free Encyclopedia: Computer programming tools*, Wikimedia Foundation, San Francisco, CA, August 10, 2016. Available online at: [SIP (Software)](https://en.wikipedia.org/wiki/SIP_(software)); last accessed on October 21, 2016.
 
 
 ##	Miscellaneous
