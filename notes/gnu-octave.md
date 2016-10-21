@@ -104,7 +104,7 @@ To enable an object, for an object-oriented (OO) program/software
 + Language interoperability
 + Foreign function interface (FFI)
 + Run-time interoperability (or cross-language interoperability)
-+ cross-language interoperability (or run-time interoperability)
++ Cross-language interoperability (or run-time interoperability)
 	
 The aforementioned objects are not considered portable objects, since
 	they are not necessarily shared between computers.
