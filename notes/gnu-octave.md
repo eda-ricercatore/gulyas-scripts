@@ -94,8 +94,10 @@ To enable an object, for an object-oriented (OO) program/software
 	written in an object-oriented programming language (OOPL), to be
 	shared (accessed/modified) by another software, I need to use
 	the following:
-+ Language binding libraries:
-	automated binding libraries (binding libraries)
++ language bindings
+	- Language binding libraries:
+	- Automated binding libraries
+	- Binding libraries
 + Wrapper libraries (or library wrappers)
 + Software frameworks (programming framework): Software framework design
 + Glue code
@@ -112,9 +114,14 @@ For example, I can use the following software.
 + Boost.Python
 	- \cite[Boost C++ Libraries: Documentation: Boost Library Documentation: Boost 1.62.0 Library Documentation: Boost Libraries]{Abrahams2015}; updated \url{http://www.boost.org/doc/libs/1_62_0/libs/python/doc/html/index.html}
 	- \cite{Dawes2015b}
+	- \cite{Abrahams2015a}
 + SWIG
 + SIP
-
+	- Automated binding library
+	- Language binding libraries
+	- "SIP is a tool for automatically generating Python bindings
+		for C and C++ libraries." 
+		\cite{RiverbankComputingLimitedStaff2016}
 
 
 ##	Miscellaneous
