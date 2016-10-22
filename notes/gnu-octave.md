@@ -98,6 +98,7 @@ To enable an object, for an object-oriented (OO) program/software
 	- Language binding libraries:
 	- Automated binding libraries
 	- Binding libraries
+	- Binding generators [or binding synthesis]
 + Wrapper libraries (or library wrappers)
 + Software frameworks (programming framework): Software framework design
 + Glue code
@@ -111,20 +112,24 @@ The aforementioned objects are not considered portable objects, since
 	
 
 For example, I can use the following software.
-+ Boost.Python
++ *Boost.Python*
 	- \cite[Boost C++ Libraries: Documentation: Boost Library Documentation: Boost 1.62.0 Library Documentation: Boost Libraries]{Abrahams2015}; updated \url{http://www.boost.org/doc/libs/1_62_0/libs/python/doc/html/index.html}
 	- \cite{Dawes2015b}
 	- \cite{Abrahams2015a}
-+ SWIG
++ *SWIG*
 	- Reference: Wikipedia contributors, "SWIG," in *Wikipedia, The Free Encyclopedia: Computer programming tools*, Wikimedia Foundation, San Francisco, CA, September 1, 2016. Available online at: [SWIG](https://en.wikipedia.org/wiki/SWIG); last accessed on October 21, 2016.
-+ SIP
++ *SIP*
 	- Automated binding library
 	- Language binding libraries
-	- "SIP is a tool for automatically generating Python bindings
-		for C and C++ libraries." 
+	- "*SIP* is a tool for automatically generating Python bindings
+		for *C* and *C++* libraries." 
 		\cite{RiverbankComputingLimitedStaff2016}
 	- Reference: Wikipedia contributors, "SIP (software)," in *Wikipedia, The Free Encyclopedia: Computer programming tools*, Wikimedia Foundation, San Francisco, CA, August 10, 2016. Available online at: [SIP (Software)](https://en.wikipedia.org/wiki/SIP_(software)); last accessed on October 21, 2016.
-
++ *Machinist*
+	- Reference: Tom Hyer, "Machinist," Atlassian Pty Ltd, San Francisco, CA, March 5, 2015. Available online at: [Machinist](https://bitbucket.org/hyer/machinist/); October 21, 2016 was the last accessed date \cite{Hyer2015}.
++ *PyCXX*
+	- *C++* facilities for developing *Python* extensions (to *C++* software).
+	- \cite{Scott2016a}
 
 ##	Miscellaneous
 
