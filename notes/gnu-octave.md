@@ -26,6 +26,13 @@ Experimentally/Empirically demonstrated in the execution of the
 	*Make* target *torture*. See: [link to sandbox/gnu-octave](../sandbox/gnu-octave).
 
 
+
+
+
+
+
+
+
 ##	Functions
 
 Each *GNU Octave* script can only contain one function.
@@ -67,6 +74,8 @@ Concepts that are experimentally/empirically demonstrated, but not
 
 
 
+
+
 ##	Pseudo-Random Number Generation (PRNG) in *GNU Octave*
 
 To reset the seed of the function for pseudo-random number generation
@@ -80,7 +89,18 @@ Note: Do not assign *rand("seed","reset")* to any variable.
 
 
 
+
+
+
+
+
+
 ##	Error Management
+
+
+
+
+
 
 
 
@@ -112,9 +132,36 @@ To change the number of significant figures displayed in the terminal output, us
 + *short*: Fixed point format with 5 significant figures in a field that is a maximum of 10 characters wide. (default).
 + *long*: Fixed point format with 15 significant figures in a field that is a maximum of 20 characters wide.
 
+
+
+
+
+
+
+
+
 ##	Compatibility with *Matlab*
 
-compatibility
+For compatibility between *GNU Octave* and *Matlab*, see the section "Differences between Octave and MATLAB" [SysnetStaff2016].
+
+Some information to note are [SysnetStaff2016]: 
++ Loading files
+	- Use absolute path; use relative paths otherwise.
+	- Files are loaded differently in *GNU Octave* and *Matlab*.
++ Use "C-style autoincrement and assignment operators" in *GNU Octave*
+	but not in *Matlab*.
++ *GNU Octave* and *Matlab* have compute the product of
+	boolean values differently.
+	- *GNU Octave* usues "prod," and *Matlab* does not.
++ *GNU Octave* fucntions and variables that do not exist in *Matlab*:
+	- nargin
++ *GNU Octave* allows an array of varying-length strings,
+	while *Matlab* does not.
+	
+	*GNU Octave* enables left single quotes to surround a string, and 
+		right single quotes to surround a string.
++ GNU Octave* does not allow empty files to be loaded, but *Matlab*
+	does allow empty files to be loaded.
 
 
 
@@ -141,6 +188,12 @@ Alternatively, I can create *Matlab*-compatible *MEX* files
 	and use them in my codebase. 
 See [C++ integration; including *GNU Octave* code into a *C++* codebase](https://en.wikipedia.org/wiki/GNU_Octave#C.2B.2B_integration) [WikipediaContributors2016].
 
+
+
+
+
+
+
 #	References
 
 Citations/References that use the *LaTeX/BibTeX* notation are taken
@@ -152,9 +205,17 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 	
 	Available online at: \url{https://en.wikipedia.org/wiki/GNU_Octave}; last accessed on October 25, 2016.
 
++ [SysnetStaff2016]
+	Sysnet staff, "Sysnet's Documentation," in {\it Institute for Computational Engineering and Sciences}, Institute for Computational Engineering and Sciences, Cockrell School of Engineering and College of Natural Sciences, The University of Texas at Austin, Austin, TX, October 6, 2016.
+	
+	Available online at: \url{https://www.ices.utexas.edu/sysdocs/}; last accessed on October 26, 2016.
+	
 
 
-Institute for Computational Engineering and Sciences
+
+
+
+
 
 #	Author Information
 
