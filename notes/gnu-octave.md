@@ -124,8 +124,14 @@ See [Interoperability Between Programming Languages](interoperability-between-pr
 
  
 + [WikipediaContributors2016]
-	Wikipedia contributors, "GNU Octave," in {\it Wikipedia, The Free Encyclopedia: Free mathematics software}, Wikimedia Foundation, San Francisco, CA, October 16, 2016. Available online at: \url{https://en.wikipedia.org/wiki/GNU_Octave}; last accessed on October 25, 2016.
-
+	
+	Wikipedia contributors, "GNU Octave," in {\it Wikipedia, The Free Encyclopedia: Free mathematics software}, Wikimedia Foundation, San Francisco, CA, October 16, 2016.
+	
+	Available online at: \url{https://en.wikipedia.org/wiki/GNU_Octave}; last accessed on October 25, 2016.
++ dgwyuo4
++ dgwyuo3
++ dgwyuo2
++ dgwyuo1
 
 
 #	Author Information
