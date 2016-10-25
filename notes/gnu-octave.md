@@ -112,6 +112,11 @@ To change the number of significant figures displayed in the terminal output, us
 + *short*: Fixed point format with 5 significant figures in a field that is a maximum of 10 characters wide. (default).
 + *long*: Fixed point format with 15 significant figures in a field that is a maximum of 20 characters wide.
 
+##	Compatibility with *Matlab*
+
+compatibility
+
+
 
 #	Enabling Seamless Interoperability Between Programming Languages
 
@@ -121,7 +126,8 @@ See [Interoperability Between Programming Languages](interoperability-between-pr
 
 To integrate *GNU Octave* code into a *C++* codebase, include the header file *"octave/oct.h"*.
 
-That is, use *"#include \<octave/oct.h\>"*.
+That is, use:
+	#include \<octave/oct.h\>
 
 See [C++ integration; including *GNU Octave* code into a *C++* codebase](https://en.wikipedia.org/wiki/GNU_Octave#C.2B.2B_integration) [WikipediaContributors2016].
 
@@ -143,6 +149,9 @@ See [C++ integration; including *GNU Octave* code into a *C++* codebase](https:/
 	
 	Available online at: \url{https://en.wikipedia.org/wiki/GNU_Octave}; last accessed on October 25, 2016.
 
+
+
+Institute for Computational Engineering and Sciences
 
 #	Author Information
 
