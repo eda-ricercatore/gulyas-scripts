@@ -117,6 +117,15 @@ To change the number of significant figures displayed in the terminal output, us
 
 See [Interoperability Between Programming Languages](interoperability-between-programming-languages.md).
 
+##	Integrating *GNU Octave* Code Into *C++* Code
+
+
+#	References
+
+ 
+[WikipediaContributors2016]
+	Wikipedia contributors, "GNU Octave," in {\it Wikipedia, The Free Encyclopedia: }, Wikimedia Foundation, San Francisco, CA, MONTH DATE, YEAR.
+Available online at: \url{https://en.wikipedia.org/wiki/GNU_Octave}; last accessed on October 25, 2016.
 
 
 
