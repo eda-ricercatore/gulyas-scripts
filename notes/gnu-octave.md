@@ -143,6 +143,8 @@ See [C++ integration; including *GNU Octave* code into a *C++* codebase](https:/
 
 #	References
 
+Citations/References that use the *LaTeX/BibTeX* notation are taken
+	from my *BibTeX* database (set of *BibTeX* entries).
  
 + [WikipediaContributors2016]
 	
