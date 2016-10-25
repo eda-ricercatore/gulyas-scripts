@@ -162,6 +162,9 @@ Some information to note are [SysnetStaff2016]:
 		right single quotes to surround a string.
 + GNU Octave* does not allow empty files to be loaded, but *Matlab*
 	does allow empty files to be loaded.
++ *GNU Octave* allows *"printf"* to print a string to standard output,
+	but *Matlab* does not; for *Matlab*, use *"printf"* to print
+	a string to standard output or to a file (via a "file-handle").
 
 
 
