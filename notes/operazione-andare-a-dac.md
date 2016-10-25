@@ -51,6 +51,14 @@ From the *GNU Octave* manual \cite{Eaton2016a}:
 + *Appendices C and D* Software development guidelines
 
 
+
+#	References
+
+Citations/References that use the *LaTeX/BibTeX* notation are taken
+	from my *BibTeX* database (set of *BibTeX* entries).
+
+
+
 #	Author Information
 
 The MIT License (MIT)
