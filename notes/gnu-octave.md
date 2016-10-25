@@ -119,7 +119,7 @@ See [Interoperability Between Programming Languages](interoperability-between-pr
 
 ##	Integrating *GNU Octave* Code Into *C++* Code
 
-To integrate *GNU Octave* code into a *C++* codebase, include the header file *"octave/oct.h"*; i.e., use *"#include <octave/oct.h>"*; see [C++ integration](https://en.wikipedia.org/wiki/GNU_Octave#C.2B.2B_integration) [WikipediaContributors2016].
+To integrate *GNU Octave* code into a *C++* codebase, include the header file *"octave/oct.h"*; i.e., use *"#include \<octave/oct.h\>"*; see [C++ integration](https://en.wikipedia.org/wiki/GNU_Octave#C.2B.2B_integration) [WikipediaContributors2016].
 
 #	References
 
