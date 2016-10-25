@@ -85,51 +85,6 @@ Note: Do not assign *rand("seed","reset")* to any variable.
 
 
 
-##	Enabling Seamless Interoperability Between Programming Languages
-
-There exists software and libraries for enabling seamless
-	interoperability between programming languages.
-
-To enable an object, for an object-oriented (OO) program/software
-	written in an object-oriented programming language (OOPL), to be
-	shared (accessed/modified) by another software, I need to use
-	the following:
-+ language bindings
-	- Language binding libraries:
-	- Automated binding libraries
-	- Binding libraries
-	- Binding generators [or binding synthesis]
-+ Wrapper libraries (or library wrappers)
-+ Software frameworks (programming framework): Software framework design
-+ Glue code
-+ Language interoperability
-+ Foreign function interface (FFI)
-+ Run-time interoperability (or cross-language interoperability)
-+ Cross-language interoperability (or run-time interoperability)
-	
-The aforementioned objects are not considered portable objects, since
-	they are not necessarily shared between computers.
-	
-
-For example, I can use the following software.
-+ *Boost.Python*
-	- \cite[Boost C++ Libraries: Documentation: Boost Library Documentation: Boost 1.62.0 Library Documentation: Boost Libraries]{Abrahams2015}; updated \url{http://www.boost.org/doc/libs/1_62_0/libs/python/doc/html/index.html}
-	- \cite{Dawes2015b}
-	- \cite{Abrahams2015a}
-+ *SWIG*
-	- Reference: Wikipedia contributors, "SWIG," in *Wikipedia, The Free Encyclopedia: Computer programming tools*, Wikimedia Foundation, San Francisco, CA, September 1, 2016. Available online at: [SWIG](https://en.wikipedia.org/wiki/SWIG); last accessed on October 21, 2016.
-+ *SIP*
-	- Automated binding library
-	- Language binding libraries
-	- "*SIP* is a tool for automatically generating Python bindings
-		for *C* and *C++* libraries." 
-		\cite{RiverbankComputingLimitedStaff2016}
-	- Reference: Wikipedia contributors, "SIP (software)," in *Wikipedia, The Free Encyclopedia: Computer programming tools*, Wikimedia Foundation, San Francisco, CA, August 10, 2016. Available online at: [SIP (Software)](https://en.wikipedia.org/wiki/SIP_(software)); last accessed on October 21, 2016.
-+ *Machinist*
-	- Reference: Tom Hyer, "Machinist," Atlassian Pty Ltd, San Francisco, CA, March 5, 2015. Available online at: [Machinist](https://bitbucket.org/hyer/machinist/); October 21, 2016 was the last accessed date \cite{Hyer2015}.
-+ *PyCXX*
-	- *C++* facilities for developing *Python* extensions (to *C++* software).
-	- \cite{Scott2016a}
 
 ##	Miscellaneous
 
@@ -156,6 +111,11 @@ For these aforementioned specific conversion specifications \cite[\S14.2.4 Forma
 To change the number of significant figures displayed in the terminal output, use the command *format[options]*, where the options are indicated as follows \cite[14.1.1 Terminal Output]{Abbott2016}:
 + *short*: Fixed point format with 5 significant figures in a field that is a maximum of 10 characters wide. (default).
 + *long*: Fixed point format with 15 significant figures in a field that is a maximum of 20 characters wide.
+
+
+#	Enabling Seamless Interoperability Between Programming Languages
+
+See [Interoperability Between Programming Languages](interoperability-between-programming-languages.md).
 
 
 
