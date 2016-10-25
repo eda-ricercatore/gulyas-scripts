@@ -44,31 +44,6 @@ For example, I can use the following software.
 	- *C++* facilities for developing *Python* extensions (to *C++* software).
 	- \cite{Scott2016a}
 
-##	Miscellaneous
-
-###	Formatted Output
-
-Conversion specifications \cite[\S14.2.4 Formatted Output]{Abbott2016}:
-+ '%d': scalar argument, decimal notation
-+ '%s': string argument
-+ '%o': integer argument, octal radix
-+ '%u': integer argument, decimal radix
-+ '%x': integer argument, hexadecimal radix
-+ '%c': character value 
-+ '%f': fixed-point notation
-+ '%e': exponential notation
-+ '%g': fixed-point or exponential notation
-
-For these aforementioned specific conversion specifications \cite[\S14.2.4 Formatted Output]{Abbott2016}:
-+ Specific modifiers can be inserted between the percentage ("%") symbol and the character specifying/indicating the conversion type.
-+ Specific flags can be inserted between the percentage ("%") symbol and the character specifying/indicating the conversion type.
-+ These aforementioned flags and modifiers can be inserted between the percentage ("%") symbol and the character specifying/indicating the conversion type.  
-
-### Terminal Output
-
-To change the number of significant figures displayed in the terminal output, use the command *format[options]*, where the options are indicated as follows \cite[14.1.1 Terminal Output]{Abbott2016}:
-+ *short*: Fixed point format with 5 significant figures in a field that is a maximum of 10 characters wide. (default).
-+ *long*: Fixed point format with 15 significant figures in a field that is a maximum of 20 characters wide.
 
 
 
