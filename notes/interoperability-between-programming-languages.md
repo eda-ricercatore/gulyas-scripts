@@ -47,6 +47,12 @@ For example, I can use the following software.
 
 
 
+#	References
+
+Citations/References that use the *LaTeX/BibTeX* notation are taken
+	from my *BibTeX* database (set of *BibTeX* entries).
+
+
 
 #	Author Information
 
