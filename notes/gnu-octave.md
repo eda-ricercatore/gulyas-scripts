@@ -125,6 +125,15 @@ That is, use *"#include \<octave/oct.h\>"*.
 
 See [C++ integration; including *GNU Octave* code into a *C++* codebase](https://en.wikipedia.org/wiki/GNU_Octave#C.2B.2B_integration) [WikipediaContributors2016].
 
+
+##	Integrating *GNU Octave* Code Into *C++* Code
+
+To integrate *C++* code into a *GNU Octave* codebase, create
+	*oct* files and use them in my codebase.
+Alternatively, I can create *Matlab*-compatible *MEX* files
+	and use them in my codebase. 
+See [C++ integration; including *GNU Octave* code into a *C++* codebase](https://en.wikipedia.org/wiki/GNU_Octave#C.2B.2B_integration) [WikipediaContributors2016].
+
 #	References
 
  
