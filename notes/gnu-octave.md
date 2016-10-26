@@ -165,6 +165,8 @@ Some information to note are [TheUniversityOfTexasAtAustinStaff2016]:
 + *GNU Octave* allows *"printf"* to print a string to standard output,
 	but *Matlab* does not; for *Matlab*, use *"printf"* to print
 	a string to standard output or to a file (via a "file-handle").
+	
+	"MATLAB has no fputs function."
 + *GNU Octave* allows whitespace before the transpose operator, but
 	*Matlab* does not.
 + *GNU Octave* does not require the use of ellipses for line continuation
@@ -178,7 +180,18 @@ Some information to note are [TheUniversityOfTexasAtAustinStaff2016]:
 
 	In *GNU Octave*, the "system data structure" (i.e., system model)
 		requires the installation of the Octave Controls System Toolbox.
-
++ Comment, for single lines:
+	- *Matlab*: percent sign
+	- *GNU Octave*: pound sign, or percent sign
++ Exponentiation:
+	- *Matlab*: "^"
+	- *GNU Octave*: "^" or "**" 
++ String delimiters:
+	- *Matlab*: "'"
+	- *GNU Octave*: "'" or """
++ For **ends**:
+	- *Matlab*: requires **end**
+	- *GNU Octave*: use "end{if,for, ...}"
 
 
 
