@@ -170,7 +170,7 @@ Some information to note are [TheUniversityOfTexasAtAustinStaff2016]:
 + *GNU Octave* does not require the use of ellipses for line continuation
 	but *Matlab* does.
 	 
-	I can also use a backslash "\" to indicate line continuation.
+	Use a backslash "\" to indicate line continuation.
 + *GNU Octave*'s logical operators may be rendered unacceptable by
 	*Matlab*.
 + *GNU Octave* have toolboxes for different applications, just like
@@ -201,15 +201,24 @@ See [C++ integration; including *GNU Octave* code into a *C++* codebase](https:/
 
 To integrate *C++* code into a *GNU Octave* codebase, create
 	*oct* files and use them in my codebase.
+
 Alternatively, I can create *Matlab*-compatible *MEX* files
 	and use them in my codebase. 
+
 See [C++ integration; including *GNU Octave* code into a *C++* codebase](https://en.wikipedia.org/wiki/GNU_Octave#C.2B.2B_integration) [WikipediaContributors2016].
 
+###	Creating *oct* Files
 
+Use the *mkoctfile* function to compile the C, C++, or Fortran
+	source code into either of the following, based on the options
+	used with the *mkoctfile* function 
+	[TheUniversityOfTexasAtAustinStaff2016]:
++ Compiled code that can be called within *GNU Octave*
++ Stand-alone *GNU Octave* application
 
-
-
-
+Call the *mkoctfile* function from the shell prompt of the "Terminal"
+	application or the *GNU Octave* prompt 
+	[TheUniversityOfTexasAtAustinStaff2016]
 
 #	References
 
