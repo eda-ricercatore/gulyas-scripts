@@ -142,9 +142,9 @@ To change the number of significant figures displayed in the terminal output, us
 
 ##	Compatibility with *Matlab*
 
-For compatibility between *GNU Octave* and *Matlab*, see the section "Differences between Octave and MATLAB" [SysnetStaff2016].
+For compatibility between *GNU Octave* and *Matlab*, see the section "Differences between Octave and MATLAB" [TheUniversityOfTexasAtAustinStaff2016].
 
-Some information to note are [SysnetStaff2016]: 
+Some information to note are [TheUniversityOfTexasAtAustinStaff2016]: 
 + Loading files
 	- Use absolute path; use relative paths otherwise.
 	- Files are loaded differently in *GNU Octave* and *Matlab*.
@@ -160,11 +160,25 @@ Some information to note are [SysnetStaff2016]:
 	
 	*GNU Octave* enables left single quotes to surround a string, and 
 		right single quotes to surround a string.
-+ GNU Octave* does not allow empty files to be loaded, but *Matlab*
++ *GNU Octave* does not allow empty files to be loaded, but *Matlab*
 	does allow empty files to be loaded.
 + *GNU Octave* allows *"printf"* to print a string to standard output,
 	but *Matlab* does not; for *Matlab*, use *"printf"* to print
 	a string to standard output or to a file (via a "file-handle").
++ *GNU Octave* allows whitespace before the transpose operator, but
+	*Matlab* does not.
++ *GNU Octave* does not require the use of ellipses for line continuation
+	but *Matlab* does.
+	 
+	I can also use a backslash "\" to indicate line continuation.
++ *GNU Octave*'s logical operators may be rendered unacceptable by
+	*Matlab*.
++ *GNU Octave* have toolboxes for different applications, just like
+	*Matlab*'s toolboxes.
+
+	In *GNU Octave*, the "system data structure" (i.e., system model)
+		requires the installation of the Octave Controls System Toolbox.
+
 
 
 
@@ -208,8 +222,8 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 	
 	Available online at: \url{https://en.wikipedia.org/wiki/GNU_Octave}; last accessed on October 25, 2016.
 
-+ [SysnetStaff2016]
-	Sysnet staff, "Sysnet's Documentation," in {\it Institute for Computational Engineering and Sciences}, Institute for Computational Engineering and Sciences, Cockrell School of Engineering and College of Natural Sciences, The University of Texas at Austin, Austin, TX, October 6, 2016.
++ [TheUniversityOfTexasAtAustinStaff2016]
+	The University of Texas at Austin staff, "Sysnet's Documentation," in {\it Institute for Computational Engineering and Sciences}, Institute for Computational Engineering and Sciences, Cockrell School of Engineering and College of Natural Sciences, The University of Texas at Austin, Austin, TX, October 6, 2016.
 	
 	Available online at: \url{https://www.ices.utexas.edu/sysdocs/}; last accessed on October 26, 2016.
 	
