@@ -97,6 +97,17 @@ Note: Do not assign *rand("seed","reset")* to any variable.
 
 ##	Error Management
 
+*GNU Octave* does not have exceptions, which *C++* and *Java* have.
+
+Instead, *GNU Octave* uses errors to terminate execution of the
+	*GNU Octave* program. 
+
+In addition, *GNU Octave* can also raise warnings about things that
+	are undesirable, but not problematic such that the *GNU Octave* 
+	program should terminate.
+	If the program can still run or be completed correctly, warnings
+	can be raised instead of throwing exceptions to terminate the
+	program. 
 
 
 
