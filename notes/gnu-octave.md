@@ -114,6 +114,18 @@ Adopt "a set of contractual guidelines" \cite{WikipediaContributors2016f}
 	guarantees in *C++* 
 	\cite{Abrahams1998,Abrahams2001,WikibooksContributors2016,WikipediaContributors2016f}.
 
+In descending order of safety guarantees, the levels of exception
+	safety are \cite{Abrahams1998,Abrahams2001,WikibooksContributors2016,WikipediaContributors2016f}:
++ no throw guarantee, or failure transparency: "Best level of exception safety."
++ strong exception safety, commit/rollback semantics, or no-change guarantee
++ basic exception safety
++ minimal exception safety, no-leak guarantee
++ no exception safety: "No guarantees are made. (Worst level of exception safety)"  
+
+These levels of exception safety can be partially handled, and the
+	use of guards is strongly recommended for making the code
+	exception safe. 
+
 In addition, judiciously consider what to do with the semipredicate
 	problem \cite{WikipediaContributors2016e}.
 
