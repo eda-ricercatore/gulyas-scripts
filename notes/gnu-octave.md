@@ -100,7 +100,7 @@ Note: Do not assign *rand("seed","reset")* to any variable.
 *GNU Octave* does not have exceptions, which *C++* and *Java* have.
 
 Instead, *GNU Octave* uses errors to terminate execution of the
-	*GNU Octave* program. 
+	*GNU Octave* program, when abnormalities are detected. 
 
 In addition, *GNU Octave* can also raise warnings about things that
 	are undesirable, but not problematic such that the *GNU Octave* 
@@ -109,11 +109,13 @@ In addition, *GNU Octave* can also raise warnings about things that
 	can be raised instead of throwing exceptions to terminate the
 	program. 
 
+Adopt "a set of contractual guidelines" \cite{WikipediaContributors2016f}
+	to support reasoning on errors, just like exception safety
+	guarantees in *C++* 
+	\cite{Abrahams1998,Abrahams2001,WikibooksContributors2016,WikipediaContributors2016f}.
 
-
-
-
-
+In addition, judiciously consider what to do with the semipredicate
+	problem \cite{WikipediaContributors2016e}.
 
 
 
@@ -256,6 +258,7 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 	Available online at: \url{https://en.wikipedia.org/wiki/GNU_Octave}; last accessed on October 25, 2016.
 
 + [TheUniversityOfTexasAtAustinStaff2016]
+
 	The University of Texas at Austin staff, "Sysnet's Documentation," in {\it Institute for Computational Engineering and Sciences}, Institute for Computational Engineering and Sciences, Cockrell School of Engineering and College of Natural Sciences, The University of Texas at Austin, Austin, TX, October 6, 2016.
 	
 	Available online at: \url{https://www.ices.utexas.edu/sysdocs/}; last accessed on October 26, 2016.
