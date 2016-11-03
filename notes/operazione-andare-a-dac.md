@@ -2,8 +2,10 @@
 
 
 + Script error management: throwing; and handling   
++ Object-oriented programming
+	+ \S6.1 Structures
+	+ \S3 Date Types
 + vector: properties; e.g., size(), length(), ...
-+
 
 
 
@@ -18,8 +20,6 @@
 From the *GNU Octave* manual \cite{Eaton2016a}:
 + \S2.4 Command line editing
 	- \S2.4.6 Customizing *readline()*
-+ \S2.7.2 Block comments
-+ \S6.1 Structures
 + \S8.5 Boolean expressions
 + \S9.2 Evaluation in a different context
 + \S10.8 *unwind-protect* statement

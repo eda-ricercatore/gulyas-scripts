@@ -159,8 +159,9 @@ To change the number of significant figures displayed in the terminal output, us
 
 
 
+###	Block Comments
 
-
+Block comments are enclosed "between matching '#{' and '#}' (or '%{' and '%}') markers" \cite[\S2.7.2, Block Comments, pp. 37-38]{Eaton2016a}
 
 
 
