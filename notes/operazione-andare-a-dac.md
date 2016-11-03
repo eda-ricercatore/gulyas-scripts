@@ -1,9 +1,9 @@
 #	Operazione Andare a DAC
 
-+ Determine if Octave has exceptions
+
 + Script error management: throwing; and handling   
 + vector: properties; e.g., size(), length(), ...
-
++
 
 
 
