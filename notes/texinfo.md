@@ -1,29 +1,4 @@
-#	Operazione Andare a DAC
-
-+ Texinfo
-	- Learn how to write comments in the *Texinfo* typesetting syntax
-		for documentation generation.
-+ Script error management: throwing; and handling   
-	- \S10.8 *unwind-protect* statement
-	- \S10.9 *try* statement
-	- \S12 Errors and warnings
-	- \S13 Debugging
-+ Miscellaneous
-	- \S10.10 continuation line
-	- \S17.5 Utility function
-	- \S17.6 Special function
-+ Object-oriented programming
-	- \S6.1 Structures
-	- \S3 Date Types
-	- vector: properties; e.g., size(), length(), ...
-	- \S11.4 Variable-length argument lists
-	- \S11.6-\S11.7 Variable-length return lists
-	- \S11.9 Function files
-	- \S11.10 Script files
-	- \S11.11 Function handles, anonymous functions, and inline functions
-	- \S34 Object-oriented programming
-+ \S15 Plotting
-+ \S14 Input/Output (I/O) operations
+#	Notes About *Texinfo*
 
 
 
@@ -33,25 +8,47 @@
 
 
 
-#	Relevant *GNU Octave* Content
 
-From the *GNU Octave* manual \cite{Eaton2016a}:
-+ \S2.4 Command line editing
-	- \S2.4.6 Customizing *readline()*
-+ \S8.5 Boolean expressions
-+ \S9.2 Evaluation in a different context
-+ \S16 Matrix multiplication
-+ \S17.7 Approximations: Rational approximations
-+ \S17.8 Coordinate transformation
-	- E.g., from polar coordinate system to cartesian coordinate system??? 
-+ \S17.9 Mathematical constants
-+ \S18 Linear algebra
-+ \S27 Set operations
-+ \S35 GUI development
-+ \S36 System utilities
-+ \S38 Package installation, removal, usage, and creation
-+ *Appendix B* Test and Demo functions
-+ *Appendices C and D* Software development guidelines
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -59,6 +56,15 @@ From the *GNU Octave* manual \cite{Eaton2016a}:
 
 Citations/References that use the *LaTeX/BibTeX* notation are taken
 	from my *BibTeX* database (set of *BibTeX* entries).
+
+These references are:
++ \cite{Stallman2016b}
++ \cite{Stallman2016a}
++ \cite{Stallman2016}
++ \cite{WikipediaContributors2016h}
+
+
+
 
 
 
