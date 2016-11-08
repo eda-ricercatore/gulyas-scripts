@@ -1,5 +1,6 @@
 #	Operazione Andare a DAC
 
++ Dependency list per lamiera-per-caldaie
 + Texinfo
 	- Learn how to write comments in the *Texinfo* typesetting syntax
 		for documentation generation.
@@ -12,7 +13,7 @@
 	- \S10.10 continuation line
 	- \S17.5 Utility function
 	- \S17.6 Special function
-+ Object-oriented programming
++ Object-oriented programming (OOP)
 	- \S6.1 Structures
 	- \S3 Date Types
 	- vector: properties; e.g., size(), length(), ...
@@ -24,6 +25,7 @@
 	- \S34 Object-oriented programming
 + \S15 Plotting
 + \S14 Input/Output (I/O) operations
+	(or I/O operazioni)
 
 
 
