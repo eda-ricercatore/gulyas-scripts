@@ -49,6 +49,23 @@ I can use the following software.
 
 
 
+##	Interoperability Between **R** and Other Computer Languages
+
+Interoperability between **R** and other computer languages:
++ **Scala**
++ **C++**
++ **GNU Octave**
+
+
+
+
+
+
+
+
+
+
+
 #	References
 
 Citations/References that use the *LaTeX/BibTeX* notation are taken
