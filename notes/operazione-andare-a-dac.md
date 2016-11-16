@@ -25,7 +25,7 @@
 	- \S34 Object-oriented programming
 + \S15 Plotting
 + \S14 Input/Output (I/O) operations
-	(or I/O operazioni)
+	(or I/O operazioni )
 
 
 
