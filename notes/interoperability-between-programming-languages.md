@@ -49,12 +49,12 @@ I can use the following software.
 
 
 
-##	Interoperability Between **R** and Other Computer Languages
+##	Interoperability Between *R* and Other Computer Languages
 
-Interoperability between **R** and other computer languages:
-+ **Scala**
-+ **C++**
-+ **GNU Octave**
+Interoperability between *R* and other computer languages:
++ *Scala*
++ *C++*
++ *GNU Octave*
 
 
 
