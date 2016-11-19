@@ -53,9 +53,12 @@ I can use the following software.
 
 Interoperability between *R* and other computer languages:
 + *Scala*
+	- Blah
 + *C++*
+	- \cite{Eubank2012}
+	- \cite{Eddelbuettel2013}
 + *GNU Octave*
-
+	- Blah
 
 
 
