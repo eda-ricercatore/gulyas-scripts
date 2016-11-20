@@ -26,6 +26,21 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 
 ##	Books to Get
 
+[Books on R](https://www.r-project.org/doc/bib/R-books.html):
++ [61] John M. Quick. The Statistical Analysis with R Beginners Guide. Packt Publishing, 2010. [Book](https://www.packtpub.com/big-data-and-business-intelligence/statistical-analysis-r)
++ [62] Francois Husson, Sébastien Lê, and Jérôme Pagès. Exploratory Multivariate Analysis by Example Using R. Computer Sciences and Data Analysis. Chapman & Hall/CRC, 2010. See books [1](https://www.crcpress.com/Exploratory-Multivariate-Analysis-by-Example-Using-R/Husson-Le-Pages/p/book/9781439835807) and [2](http://factominer.free.fr/book/)
++ [66] Carlo Gaetan and Xavier Guyon. Spatial Statistics and Modeling. Springer Series in Statistics. Springer, 2010.
++ [68] Hrishikesh D. Vinod, editor. Advances in Social Science Research Using R. Lecture Notes in Statistics. Springer, 2010. http://link.springer.com/book/10.1007%2F978-1-4419-1764-5
++ [69] Victor Bloomfield. Computer Simulation and Data Analysis in Molecular Biology and Biophysics: An Introduction Using R. Springer, 2009. [Book](http://link.springer.com/book/10.1007%2F978-1-4419-0083-8)
++ [80] [Kai Velten. Mathematical Modeling and Simulation: Introduction for Scientists and Engineers. Wiley-VCH, 2009.](http://www.wiley.com/WileyCDA/WileyTitle/productCd-3527407588.html)
++ [81] [2nd edition](http://link.springer.com/book/10.1007%2F978-0-387-92298-0) 
++ [84] [Günther Sawitzki. Computational Statistics. Chapman & Hall/CRC Press, Boca Raton, FL, 2009.](https://www.crcpress.com/Computational-Statistics-An-Introduction-to-R/Sawitzki/p/book/9781420086782)
++ [88] [Ewout W. Steyerberg. Clinical Prediction Models: A Practical Approach to Development, Validation, and Updating. SBH/Statistics for Biology and Health. Springer, 2009.](http://link.springer.com/book/10.1007%2F978-0-387-77244-8) 
+
+
+
+
+
 zz books
 + "Data Science at the Command Line" \cite{Janssens2015}
 + "Getting Started with Data Science" \cite{Haider2015}
