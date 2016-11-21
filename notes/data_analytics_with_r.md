@@ -36,6 +36,36 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 + [81] [2nd edition](http://link.springer.com/book/10.1007%2F978-0-387-92298-0) 
 + [84] [Günther Sawitzki. Computational Statistics. Chapman & Hall/CRC Press, Boca Raton, FL, 2009.](https://www.crcpress.com/Computational-Statistics-An-Introduction-to-R/Sawitzki/p/book/9781420086782)
 + [88] [Ewout W. Steyerberg. Clinical Prediction Models: A Practical Approach to Development, Validation, and Updating. SBH/Statistics for Biology and Health. Springer, 2009.](http://link.springer.com/book/10.1007%2F978-0-387-77244-8) 
++ [93] [Alain Zuur, Elena N. Ieno, Neil Walker, Anatoly A. Saveiliev, and Graham M. Smith. Mixed Effects Models and Extensions in Ecology with R. Springer, New York, 2009.](http://link.springer.com/book/10.1007%2F978-0-387-87458-6)
++ [95] [Stefano M. Iacus. Simulation and Inference for Stochastic Differential Equations: With R Examples. Springer, New York, 2008.](http://link.springer.com/book/10.1007%2F978-0-387-75839-8)
++ [97] [Deepayan Sarkar. Lattice: Multivariate Data Visualization with R. Springer, New York, 2008.](http://link.springer.com/book/10.1007%2F978-0-387-75969-2)
++ [100] [Robert Gentleman. Bioinformatics with R. Chapman & Hall/CRC, Boca Raton, FL, 2008.]()
++ [101] [Robert Gentleman. R Programming for Bioinformatics. Computer Science & Data Analysis. Chapman & Hall/CRC, Boca Raton, FL, 2008.](http://master.bioconductor.org/help/publications/books/r-programming-for-bioinformatics/) [Another book](https://www.crcpress.com/R-Programming-for-Bioinformatics/Gentleman/p/book/9781420063677).
++ [104] [Peter Dalgaard. Introductory Statistics with R. Springer, 2nd edition, 2008. ISBN 978-0-387-79053-4.](http://link.springer.com/book/10.1007%2F978-0-387-79054-1)
++ [106] [Luke Keele. Semiparametric Regression for the Social Sciences. Wiley, Chichester, UK, 2008.](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470319917.html) and [web page](http://lukekeele.com)
++ [108] [John M. Chambers. Software for Data Analysis: Programming with R. Springer, New York, 2008.](http://link.springer.com/book/10.1007%2F978-0-387-75936-4)
++ [111] [Clemens Reimann, Peter Filzmoser, Robert Garrett, and Rudolf Dutter. Statistical Data Analysis Explained: Applied Environmental Statistics with R. Wiley, Chichester, UK, 2008](http://www.wiley.com/WileyCDA/WileyTitle/productCd-047098581X.html) and [web page](http://www.statistik.tuwien.ac.at/StatDA/).
++ [114] [Benjamin M. Bolker. Ecological Models and Data in R. Princeton University Press, 2008.](http://press.princeton.edu/titles/8709.html) and [web page](http://ms.mcmaster.ca/~bolker/emdbook/)
++ [115] [W. John Braun and Duncan J. Murdoch. A First Course in Statistical Programming with R. Cambridge University Press, Cambridge, 2007.](http://www.cambridge.org/us/catalogue/catalogue.asp?isbn=9780521872652) and [web page](http://www.stats.uwo.ca/faculty/braun/statprog/)
++ [116] [Scott M. Lynch. Introduction to Applied Bayesian Statistics and Estimation for Social Scientists. Springer, New York, 2007.](http://link.springer.com/book/10.1007%2F978-0-387-71265-9)
++ [117] [Sandrine Dudoit and Mark J. van der Laan. Multiple Testing Procedures and Applications to Genomics. Springer Series in Statistics. Springer, 2007](http://link.springer.com/book/10.1007%2F978-0-387-49317-6)
++ [118] [Philip J. Boland. Statistical and Probabilistic Methods in Actuarial Science. Chapman & Hall/CRC, Boca Raton, FL, 2007.](https://www.crcpress.com/Statistical-and-Probabilistic-Methods-in-Actuarial-Science/Boland/p/book/9781584886952)
++ [119] [Michael Greenacre. Correspondence Analysis in Practice, Second Edition. Chapman & Hall/CRC, Boca Raton, FL, 2007.](https://www.crcpress.com/Correspondence-Analysis-in-Practice-Second-Edition/Greenacre/p/book/9781584886167)
++ [120] [John Maindonald and John Braun. Data Analysis and Graphics Using R. Cambridge University Press, Cambridge, 2nd edition, 2007.](http://www.cambridge.org/at/academic/subjects/statistics-probability/computational-statistics-machine-learning-and-information-sc/data-analysis-and-graphics-using-r-example-based-approach-2nd-edition/) and [web page](http://maths-people.anu.edu.au/~johnm/r-book/daagur3.html)
++ [121] [Jean-Michel Marin and Christian P. Robert. Bayesian Core: A Practical Approach to Computational Bayesian Statistics. Springer, New York, 2007.](http://link.springer.com/book/10.1007%2F978-0-387-38983-7)
++ [123] [David Siegmund and Benjamin Yakir. The Statistics of Gene Mapping. Springer, New York, 2007.](http://link.springer.com/book/10.1007%2F978-0-387-49686-3)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -48,6 +78,18 @@ zz books
 http://www.wzchen.com/data-science-books 
  
  
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
