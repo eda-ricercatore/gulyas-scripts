@@ -1,6 +1,6 @@
 #	Notes About *Texinfo*
 
-##	Build Automation with *makeinfo*
+##	Language Translation with *makeinfo*
 
 ###	For the *GNU Octave* Application
 
@@ -8,8 +8,8 @@ The command line option "--texi-macros-file filename" "[specifies]
 	the name of the file containing *Texinfo* macros for use
 	by *makeinfo*" \cite[pp. 17, \S2.1.1]{Eaton2016a}. 
 
-By default, *GNU Octave* uses *makeinfo* for build automation to
-	generate documentation via *Texinfo* 
+By default, *GNU Octave* uses *makeinfo* for language translation to
+	generate documentation (in other formats, such as HTML and PDF) via *Texinfo* 
 	\cite[pp. 23, \S2.3]{Eaton2016a}. 
 
 
@@ -21,19 +21,20 @@ By default, *GNU Octave* uses *makeinfo* for build automation to
 
 Help information for a command in *GNU Octave* can be obtained in
 	different formats, such as: *texinfo*, HTML, or "plain text" 
-	\cite[pp. 24, \S2.3]{Eaton2016a}.
+	\cite[pp. 24-25, \S2.3]{Eaton2016a}.
 
 
 
 
 
+##	Information Provided By Errors And Warnings
+
+###	For the *GNU Octave* Application
 
 
-
-
-
-
-
+Information, including "help information," provided for errors raised
+	by a command in *GNU Octave* can be provided in different
+	levels of verbosity \cite[pp. 206-207, \S12.1.1]{Eaton2016a}.
 
 
 
