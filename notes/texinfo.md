@@ -2,18 +2,26 @@
 
 ##	Build Automation with *makeinfo*
 
+###	For the *GNU Octave* Application
+
 The command line option "--texi-macros-file filename" "[specifies] 
 	the name of the file containing *Texinfo* macros for use
-	by *makeinfo*." 
+	by *makeinfo*" \cite[pp. 17, \S2.1.1]{Eaton2016a}. 
+
+By default, *GNU Octave* uses *makeinfo* for build automation to
+	generate documentation via *Texinfo* 
+	\cite[pp. 23, \S2.3]{Eaton2016a}. 
 
 
 
 
+##	Getting Help Information
 
+###	For the *GNU Octave* Application
 
-
-
-
+Help information for a command in *GNU Octave* can be obtained in
+	different formats, such as: *texinfo*, HTML, or "plain text" 
+	\cite[pp. 24, \S2.3]{Eaton2016a}.
 
 
 
