@@ -1,8 +1,10 @@
 #	Notes About *Texinfo*
 
+##	Build Automation with *makeinfo*
 
-
-
+The command line option "--texi-macros-file filename" "[specifies] 
+	the name of the file containing *Texinfo* macros for use
+	by *makeinfo*." 
 
 
 

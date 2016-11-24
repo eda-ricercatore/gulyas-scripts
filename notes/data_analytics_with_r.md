@@ -24,6 +24,28 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 
 
 
+##	Books to Reference
+
+[Books on R](https://www.r-project.org/doc/bib/R-books.html):
++ [156] John M. Chambers. Programming with Data. Springer, New York, 1998.
++ [157] [John M. Chambers and Trevor J. Hastie. Statistical Models in S. Chapman & Hall, London, 1992.](https://www.crcpress.com/Statistical-Models-in-S/Chambers-Hastie/p/book/9780412830402)
++ [158] Richard A. Becker, John M. Chambers, and Allan R. Wilks. The New S Language. Chapman & Hall, London, 1988.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ##	Books to Get
 
 [Books on R](https://www.r-project.org/doc/bib/R-books.html):
@@ -54,10 +76,23 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 + [120] [John Maindonald and John Braun. Data Analysis and Graphics Using R. Cambridge University Press, Cambridge, 2nd edition, 2007.](http://www.cambridge.org/at/academic/subjects/statistics-probability/computational-statistics-machine-learning-and-information-sc/data-analysis-and-graphics-using-r-example-based-approach-2nd-edition/) and [web page](http://maths-people.anu.edu.au/~johnm/r-book/daagur3.html)
 + [121] [Jean-Michel Marin and Christian P. Robert. Bayesian Core: A Practical Approach to Computational Bayesian Statistics. Springer, New York, 2007.](http://link.springer.com/book/10.1007%2F978-0-387-38983-7)
 + [123] [David Siegmund and Benjamin Yakir. The Statistics of Gene Mapping. Springer, New York, 2007.](http://link.springer.com/book/10.1007%2F978-0-387-49686-3)
-
-
-
-
++ [126] [Peter J. Diggle and Paulo Justiniano Ribeiro. Model-based Geostatistics. Springer, 2006.](http://link.springer.com/book/10.1007%2F978-0-387-48536-2)
++ [127] [Nhu D. Le and James V. Zidek. Statistical Analysis of Environmental Space-Time Processes. Springer, 2006.](http://link.springer.com/book/10.1007%2F0-387-35429-8)
++ [129] [Julian J. Faraway. Extending Linear Models with R: Generalized Linear, Mixed Effects and Nonparametric Regression Models. Chapman & Hall/CRC, Boca Raton, FL, 2006.](https://www.crcpress.com/Extending-the-Linear-Model-with-R-Generalized-Linear-Mixed-Effects-and/Faraway/p/book/9781584884248) and [web page](http://www.maths.bath.ac.uk/~jjf23/ELM/)
++ [130] [Jana Jureckova and Jan Picek. Robust Statistical Methods with R. Chapman & Hall/CRC, Boca Raton, FL, 2006.](https://www.crcpress.com/Robust-Statistical-Methods-with-R/Jureckova-Picek/p/book/9781584884545)
++ [137] [Fionn Murtagh. Correspondence Analysis and Data Coding with JAVA and R. Chapman & Hall/CRC, Boca Raton, FL, 2005.](https://www.crcpress.com/Correspondence-Analysis-and-Data-Coding-with-Java-and-R/Murtagh/p/book/9781420034943) and [web page](http://www.multiresolutions.com/home/)
++ [138] [Brian S. Everitt. An R and S-Plus Companion to Multivariate Analysis. Springer, 2005.](http://link.springer.com/book/10.1007%2Fb138954) and \url{http://biostatistics.iop.kcl.ac.uk/publications/everitt/}
++ [140] [Robert Gentleman, Vince Carey, Wolfgang Huber, Rafael Irizarry, and Sandrine Dudoit, editors. Bioinformatics and Computational Biology Solutions Using R and Bioconductor. Statistics for Biology and Health. Springer, 2005.](http://link.springer.com/book/10.1007%2F0-387-29362-0)
++ [142] [Richard M. Heiberger and Burt Holland. Statistical Analysis and Data Display: An Intermediate Course with Examples in S-Plus, R, and SAS. Springer Texts in Statistics. Springer, 2004.](http://link.springer.com/book/10.1007%2F978-1-4757-4284-8) and [web page](http://astro.temple.edu/~rmh/HH/)
++ [145] [Sylvie Huet, Annie Bouvier, Marie-Anne Gruet, and Emmanuel Jolivet. Statistical Tools for Nonlinear Regression. Springer, New York, 2003.](http://link.springer.com/book/10.1007%2Fb97288)
++ [147] [Giovanni Parmigiani, Elizabeth S. Garrett, Rafael A. Irizarry, and Scott L. Zeger. The Analysis of Gene Expression Data. Springer, New York, 2003.](http://link.springer.com/book/10.1007%2Fb97411)
++ [148] [William N. Venables and Brian D. Ripley. Modern Applied Statistics with S. Fourth Edition. Springer, New York, 2002.](http://link.springer.com/book/10.1007%2F978-0-387-21706-2) and [web page](http://www.stats.ox.ac.uk/pub/MASS4/)
++ [149] [John Fox. An R and S-Plus Companion to Applied Regression. Sage Publications, Thousand Oaks, CA, USA, 2002.](http://socserv.socsci.mcmaster.ca/jfox/Books/Companion/index.html)
++ [151] [Frank E. Harrell. Regression Modeling Strategies, with Applications to Linear Models, Survival Analysis and Logistic Regression. Springer, 2001.](http://link.springer.com/book/10.1007%2F978-3-319-19425-7) and [web page](http://biostat.mc.vanderbilt.edu/wiki/Main/RmS)
++ [152] [William N. Venables and Brian D. Ripley. S Programming. Springer, New York, 2000.](http://link.springer.com/book/10.1007%2F978-0-387-21856-4)
++ [153] [Terry M. Therneau and Patricia M. Grambsch. Modeling Survival Data: Extending the Cox Model. Statistics for Biology and Health. Springer, 2000. ](http://link.springer.com/book/10.1007%2F978-1-4757-3294-8)
++ [154] [Jose C. Pinheiro and Douglas M. Bates. Mixed-Effects Models in S and S-Plus. Springer, 2000.](http://link.springer.com/book/10.1007%2Fb98882)
++ [155] [Deborah Nolan and Terry Speed. Stat Labs: Mathematical Statistics Through Applications. Springer Texts in Statistics. Springer, 2000.](http://link.springer.com/book/10.1007%2Fb98875) and [web page](http://www.stat.berkeley.edu/~statlabs/).
 
 
 
