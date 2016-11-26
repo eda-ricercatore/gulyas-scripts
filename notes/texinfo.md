@@ -37,22 +37,18 @@ Information, including "help information," provided for errors raised
 	levels of verbosity \cite[pp. 206-207, \S12.1.1]{Eaton2016a}.
 
 
+##	Examples
 
+###	Commenting Classes in *GNU Octave*
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Classes are supported in *GNU Octave*, so that developers can use
+	the object-oriented programming paradigm to develop software
+	using *GNU Octave*.
+A guideline on how to comment classes in *GNU Octave*, using *Texinfo* 
+	is shown on pp. 721, in \S34.1 \cite[pp. 721, \S34.1]{Eaton2016a},
+	\cite[pp. 733, \S34.4.3]{Eaton2016a}, 
+	\cite[pp. 734, \S34.5]{Eaton2016a}, 
+	\cite[pp. 737, \S34.5]{Eaton2016a}.
 
 
 
