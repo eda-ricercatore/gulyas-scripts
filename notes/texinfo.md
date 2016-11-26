@@ -47,8 +47,39 @@ Classes are supported in *GNU Octave*, so that developers can use
 A guideline on how to comment classes in *GNU Octave*, using *Texinfo* 
 	is shown on pp. 721, in \S34.1 \cite[pp. 721, \S34.1]{Eaton2016a},
 	\cite[pp. 733, \S34.4.3]{Eaton2016a}, 
-	\cite[pp. 734, \S34.5]{Eaton2016a}, 
+	\cite[pp. 734, \S34.5]{Eaton2016a}, and 
 	\cite[pp. 737, \S34.5]{Eaton2016a}.
+
+### Commenting *Oct-Files*
+
+Examples of how to comment *Oct-Files* is found in 
+	\cite[pp. 841, \SA.1.13]{Eaton2016a}.
+
+
+##	Suggestions
+
+###	Suggestions for Documentation Strings
+
+Suggestions for *Texinfo* documentation strings are found in 
+	\cite[pp. 873-875, \SC.4]{Eaton2016a}.
+
+###	Suggestions for Programming Languages Other Than *C++* and *Octave* Language
+
+Suggestions for programming languages other than *C++* and 
+	*Octave* language are found in \cite[pp. 884, \SD.7]{Eaton2016a}.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
