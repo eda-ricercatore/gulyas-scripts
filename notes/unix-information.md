@@ -6,12 +6,24 @@
 
 ###	"*.tar.xz" Files 
 
+To compress/archive "*.tar.xz" files, try:
+- xz -z
+- xz --compress
+- xz -l
+	+ Display information about the compressed files.
+- xz --list
+	+ Display information about the compressed files.
+- xz -z -F auto
+- xz -z -F xz
+- xz -z -F lzma
+- xz -z -F alone
+- xz -z -F raw
+
+
+
 To uncompress/unarchive "*.tar.xz" files, try:
-
-
-
-
-
+- xz --decompress
+- unxz
 
 
 #	References
