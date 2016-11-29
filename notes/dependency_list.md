@@ -25,7 +25,7 @@ List of repositories that are affected by the *boilerplate* repository,
 
 
 
-###	List of Notes
+##	List of Notes
 
 List of notes:
 + Guidelines for collaboration: [boilerplate-code](https://github.com/eda-ricercatore/boilerplate-code)
@@ -41,9 +41,12 @@ List of notes:
 	- Placed in repository, as needed.
 + Report (of data structures and algorithms implemented).
 	- [boilerplate-code](https://github.com/eda-ricercatore/boilerplate-code)
-
-
-
++ Programming/Computer languages:
+	- *Scala*: [sardegna-scala](https://github.com/eda-ricercatore/sardegna-scala)
+	- *R*: [gulyas-scripts](https://github.com/eda-ricercatore/gulyas-scripts) 
+	- *GNU Octave*: [gulyas-scripts](https://github.com/eda-ricercatore/gulyas-scripts)
+	- *LaTeX*: [SienaLaTeX, for *LaTeX*](https://github.com/eda-globetrotter/SienaLaTeX)
++ Libraries, API, ... that support interoperability between programming/computer languages: [gulyas-scripts](https://github.com/eda-ricercatore/gulyas-scripts)
 
 
 ##	Dependencies of *gulyas-scripts* Repository
@@ -55,18 +58,16 @@ List of repositories that are affected by the *gulyas-scripts* repository,
 
 
 
-###	List of Notes
-
-List of notes:
-- *Scala*: [sardegna-scala](https://github.com/eda-ricercatore/sardegna-scala)
 
 
 
 
 
-#	Common Repositories
 
-Common repositories:
+#	Commonly Used Repositories
+
+Common used repositories:
++ [sardegna-scala, Scala code base](https://github.com/eda-ricercatore/sardegna-scala)
 + [scafati-presentazioni, Presentation Slides](https://github.com/eda-globetrotter/scafati-presentazioni)
 + [Computer Architecture Notes](https://github.com/eda-globetrotter/Treviso-Arch)
 + [SienaLaTeX, for *LaTeX*](https://github.com/eda-globetrotter/SienaLaTeX)
@@ -75,12 +76,6 @@ Common repositories:
 		* Resume and curriculum vitae
 		* Presentation slides
 		* Report
-+ [sardegna-scala, Scala code base](https://github.com/eda-ricercatore/sardegna-scala)
-	
-
-
-
-
 
 
 
