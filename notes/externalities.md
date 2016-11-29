@@ -44,7 +44,7 @@ Repositories that can be affected are:
 		* Resume and curriculum vitae
 		* Presentation slides
 		* Report
-
++ [Software Analysis](https://github.com/eda-ricercatore/caprese-sw-analy)
 
 
 
@@ -110,14 +110,13 @@ List of notes:
 #	Repositories That Will Not Be Affected In The Future
 
 The following repositories are dead.
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
++ [NetSim, for Network Optimization](https://github.com/eda-ricercatore/NetSim)
++ [Bioinformatics Projects](https://github.com/eda-ricercatore/Calabria-Digital-Bio)
++ [Synthesizable Verilog RTL Design of 4-stage Pipelined Processor, with 128-bit Datapath](https://github.com/eda-ricercatore/MarcheProcessor)
++ [Synthesizable Verilog RTL Design of Encoders/Decoders](https://github.com/eda-ricercatore/PicenoDecoders)
++ [*C++* -based STIL Parser](https://github.com/eda-ricercatore/Lombardia-STIL)
++ [*C++* Programs](https://github.com/eda-ricercatore/Campania-Cpp)
++ [SRAM Design](https://github.com/eda-ricercatore/Modica-SRAM)
 
 
 
