@@ -67,7 +67,14 @@ Suggestions for *Texinfo* documentation strings are found in
 
 Suggestions for programming languages other than *C++* and 
 	*Octave* language are found in \cite[pp. 884, \SD.7]{Eaton2016a}.
-
+- *C*
+- *Fortran*
+- *M4*
+- *Perl*
+- *Unix shell*
+- *AWK*
+- *Texinfo*
+- *TeX*
 
 
 
