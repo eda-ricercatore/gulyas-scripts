@@ -47,7 +47,9 @@ List of notes:
 	- *GNU Octave*: [gulyas-scripts](https://github.com/eda-ricercatore/gulyas-scripts)
 	- *LaTeX*: [SienaLaTeX, for *LaTeX*](https://github.com/eda-globetrotter/SienaLaTeX)
 + Libraries, API, ... that support interoperability between programming/computer languages: [gulyas-scripts](https://github.com/eda-ricercatore/gulyas-scripts)
-
++ Coding style, and guidelines for commenting:
+	- *Texinfo*: [gulyas-scripts](https://github.com/eda-ricercatore/gulyas-scripts)
++ *UNIX*-like Operating Systems: [gulyas-scripts](https://github.com/eda-ricercatore/gulyas-scripts)
 
 ##	Dependencies of *gulyas-scripts* Repository
 
