@@ -1,6 +1,5 @@
 #	Operazione Andare a ICCAD
 
-+ Dependency list per lamiera-per-caldaie
 + Script error management: throwing; and handling   
 	- \S10.8 *unwind-protect* statement
 	- \S10.9 *try* statement
