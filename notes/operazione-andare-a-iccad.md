@@ -1,9 +1,6 @@
-#	Operazione Andare a DAC
+#	Operazione Andare a ICCAD
 
 + Dependency list per lamiera-per-caldaie
-+ Texinfo
-	- Learn how to write comments in the *Texinfo* typesetting syntax
-		for documentation generation.
 + Script error management: throwing; and handling   
 	- \S10.8 *unwind-protect* statement
 	- \S10.9 *try* statement
@@ -26,6 +23,9 @@
 + \S15 Plotting
 + \S14 Input/Output (I/O) operations
 	(or I/O operazioni)
++ Texinfo
+	- Learn how to write comments in the *Texinfo* typesetting syntax
+		for documentation generation.
 
 
 
