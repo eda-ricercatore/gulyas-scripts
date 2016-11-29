@@ -22,11 +22,49 @@
 %	Preamble.
 %addpath("/Users/zhiyang/Documents/ricerca/gulyas-scripts/dummy")
 
-disp("------------------------------------------------------------")
+disp("============================================================")
+disp("	Begin:	Testing Error Management and Exception Handling")
+
+
 format('long')
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+disp("------------------------------------------------------------")
+disp("	Exception Handling via *unwind_protect*")
+
+disp("	= Divide a number by zero.")
+unwind_protect
+	a = 57/0
+	disp("	= Warning is generated for divide by zero.")
+unwind_protect_cleanup
+	disp("	= Error: Divide a number by zero.")
+	disp("	= Error processed in in cleanup.")
+	a = 123456
+end_unwind_protect
+disp("	= Divide a number by zero generates a warning, not an error.")
+
+
+
+disp("------------------------------------------------------------")
+disp("	Error Handling via *try-catch-block*")
+
+%	Matrices with matching dimensions for multiplications.
+%	a = [1 2 3]*[4; 5; 6]
+%	Matrices with non-matching dimensions for multiplications.
+%	a = [1 2 3]*[4; 5; 6; 7; 8; 9]
+
+disp("	= Multiply two 'unmatched' matrices.")
+try
+	a = [1 2 3]*[4; 5; 6; 7; 8; 9]
+catch
+	disp("	= Error: Unmatched Matrices")
+	disp("	= Error is caught.")
+	a = [1 2 3]*[4; 5; 6]
+end_try_catch
+
+disp("	= Warnings cannot be caught. Only errors are caught.")
 
 
 
@@ -39,12 +77,7 @@ format('long')
 
 
 
-
-
-
-
-
-
-
-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+disp("============================================================")
+disp("	End:	Testing Error Management and Exception Handling")
 
