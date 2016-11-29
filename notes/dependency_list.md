@@ -5,15 +5,33 @@
 List of repositories that are affected by the *boilerplate* repository,
 	including its code base and notes:
 
+- [boilerplate-code](https://github.com/eda-ricercatore/boilerplate-code)
+	+ Notes
+	+ Scripts
+	+ **Successor of the deprecated *lamiera-per-caldaie* repository.**
 - [lamiera-per-caldaie](https://github.com/eda-globetrotter/lamiera-per-caldaie)
+	+ Notes
+	+ Scripts
+	+ **Deprecated repository.**
+
+
+
+
+
+
+
+
+
 
 
 
 ###	List of Notes
 
 List of notes:
-
-
+- Guidelines for collaboration.
+- List of software dependencies
+- *BibTeX* file, database of *BibTeX* references/entries.
+- Report (of data structures and algorithms implemented).
 
 
 
@@ -22,9 +40,34 @@ List of notes:
 List of repositories that are affected by the *gulyas-scripts* repository,
 	including its code base and notes:
 
+
 ###	List of Notes
 
 List of notes:
+
+
+
+
+
+
+#	Common Repositories
+
+Common repositories:
++ [scafati-presentazioni](https://github.com/eda-globetrotter/scafati-presentazioni)
++ [Computer Architecture Notes](https://github.com/eda-globetrotter/Treviso-Arch)
++ [SienaLaTeX, for *LaTeX*](https://github.com/eda-globetrotter/SienaLaTeX)
+	- *LaTeX* templates for:
+		* Articles
+		* Resume and curriculum vitae
+		* Presentation slides
+		* Report
++ [sardegna-scala](https://github.com/eda-ricercatore/sardegna-scala)
+	- Notes:
+		* *Scala*
+
+
+
+
 
 
 
