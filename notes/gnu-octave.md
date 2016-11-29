@@ -129,6 +129,24 @@ These levels of error/exception safety can be partially handled, and the
 In addition, judiciously consider what to do with the semipredicate
 	problem \cite{WikipediaContributors2016e}.
 
+### *unwind_protect* Technique
+
+
+
+
+
+###	*try-catch-block* Technique
+
+
+
+
+
+
+
+
+
+
+
 
 
 ##	Miscellaneous
