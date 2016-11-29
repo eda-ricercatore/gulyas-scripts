@@ -18,12 +18,17 @@ To compress/archive "*.tar.xz" files, try:
 - xz -z -F lzma
 - xz -z -F alone
 - xz -z -F raw
+- tar cvf [*filename*] *[files or set(s) of file types]*
+
 
 
 
 To uncompress/unarchive "*.tar.xz" files, try:
 - xz --decompress
 - unxz
+
+
+
 
 
 #	References
