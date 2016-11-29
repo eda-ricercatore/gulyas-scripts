@@ -66,7 +66,8 @@ end_try_catch
 
 disp("	= Warnings cannot be caught. Only errors are caught.")
 
-
+%	Question: Can specific errors be caught?
+%	lasterr and lasterror
 
 
 

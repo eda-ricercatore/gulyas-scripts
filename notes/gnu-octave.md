@@ -86,7 +86,7 @@ Note: Do not assign *rand("seed","reset")* to any variable.
 	This will cause an error in executing/interpreting the
 	*GNU Octave* script, since this function does not return a value
 	or matrix (or any other mathematical object).
-
++ **Example of creating an error.**
 
 
 
