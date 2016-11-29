@@ -53,12 +53,13 @@ unwind_protect
 	a = 57/0
 	disp("	= Warning is generated for divide by zero.")
 unwind_protect_cleanup
-	disp("	= Error: Divide a number by zero.")
-	disp("	= Error processed in in cleanup.")
+	disp("	= Handle the warning.")
+	disp("	= Continue execution of the script.")
 	a = 123456
 end_unwind_protect
 disp("	= Divide a number by zero generates a warning, not an error.")
 
+disp("	= Warnings cannot be handled by *unwind_protect*.")
 
 unwind_protect
 	a = 23/45
@@ -83,23 +84,10 @@ end_unwind_protect
 	disp("	= Program terminated prematurely.")
 %}
 
-disp("------------------------------------------------------------")
-disp("	Error Handling via *try-catch-block*")
 
+disp("	= Warnings cannot be handled with *unwind_protect*.")
+disp("	= Only errors are handled with *unwind_protect*.")
 
-disp("	= Multiply two 'unmatched' matrices.")
-try
-	a = [1 2 3]*[4; 5; 6; 7; 8; 9]
-catch
-	disp("	= Error: Unmatched Matrices")
-	disp("	= Error is caught.")
-	a = [1 2 3]*[4; 5; 6]
-end_try_catch
-
-disp("	= Warnings cannot be caught. Only errors are caught.")
-
-%	Question: Can specific errors be caught?
-%	lasterr and lasterror
 
 
 

@@ -131,16 +131,30 @@ In addition, judiciously consider what to do with the semipredicate
 
 ### *unwind_protect* Technique
 
-
-
-
++ Warnings cannot be handled by *unwind_protect*.
+	- When a warning occurs, the *unwind_protect_cleanup* block can
+		make corrections to (i.e., mitigate) the trigger of
+		the warning.
+	- The execution of the script does not terminate when warnings
+		are generated in the *unwind_protect* block.
++ When no warning nor error is generated, the
+	*unwind_protect_cleanup* block is executed anyway.
+	- Cleanup of *unwind_protect* is executed regardless of whether
+		errors/warnings are generated.
++ When an error is caught (and handled), the
+	*unwind_protect_cleanup* block is executed before the
+	program/script is terminated.
++ Only errors are handled with *unwind_protect*.
 
 ###	*try-catch-block* Technique
 
 
 
 
+###	Questions
 
++ Can specific errors be caught?
+	- Look at **lasterr** and **lasterror**.
 
 
 
