@@ -56,6 +56,14 @@ When I make a function call, I can use more arguments than specified
 Experimentally/Empirically demonstrated in the execution of the
 	*Make* target *torture*. See: [link to sandbox/gnu-octave](../sandbox/gnu-octave).
 
+###	Handling Input Arguments/Parameters
+
+The variable *nargin* stores the number of input arguments that are
+	used in the function call.
+	That is, when a function is called, *nargin* determines the
+	number of input arguments in the function call.  
+
+
 ### Concepts Experimentally/Empirically Demonstrated, But Unrecorded
 
 Concepts that are experimentally/empirically demonstrated, but not
