@@ -251,10 +251,18 @@ This allows the symbol table at the point/condition of interruption
 	to be examined, and modified for error location and correction
 	\cite[\S13, pp. 219]{Eaton2016a}. 
 
+**I am skipping the subsections on "Breakpoints" and "Call Stack"
+	for the time being.**
 
-###	Debug Mode
+###	Debug Mode Difficulties
 
-###	Breakpoints, Call Stack, and Profiling
+I can enter the debug mode using *debug_on_interrupt()*, when I
+	interrupt execution of the *GNU Octave* program/script using
+	*Ctrl-C* on the *Terminal*.
+
+However, I cannot enter the debug mode using warnings, or errors, yet.
+
+###	Profiling
 
 
 

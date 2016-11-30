@@ -46,16 +46,13 @@ format('long')
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 disp("------------------------------------------------------------")
-old_val = debug_on_interrupt()
+old_val = debug_on_warning()
 disp("	Enter Debugging Mode.")
-%debug_on_interrupt()
 new_val = 74629;
-cur_val = debug_on_interrupt(new_val)
-updated_val = debug_on_interrupt()
+cur_val = debug_on_warning(new_val)
+updated_val = debug_on_warning()
 
-for i = 1:1000000
-	printf("The value of i is: %d.\n",i)
-endfor
+a = 439/0
 
 
 %dbcont
