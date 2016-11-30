@@ -1,7 +1,6 @@
 #	Operazione Andare a ICCAD
 
 + Script error management: throwing; and handling   
-	- \S12 Errors and warnings, starts at page 205
 	- \S13 Debugging
 + Miscellaneous
 	- \S10.10 continuation line

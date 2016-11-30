@@ -237,9 +237,19 @@ In \cite[\S12.2.1, pp. 214-218]{Eaton2016a}, a list of default warning messages 
 Make use of the "built-in debugger" \cite[\S13, pp. 219]{Eaton2016a}
 	while developing programs/scripts in *GNU Octave*.
 
+Features of the "built-in debugger" include
+	\cite[\S13, pp. 219]{Eaton2016a}: 
++ Interrupting the execution of the *GNU Octave* script at
+	certain points (e.g., line number).
++ Interrupting the execution of the *GNU Octave* script during
+	certain conditions.
 
-
-
+When the execution of the *GNU Octave* script is interrupted, the
+	["process", or execution of the program/script] switches (from
+	the execution mode) into the debug mode.
+This allows the symbol table at the point/condition of interruption
+	to be examined, and modified for error location and correction
+	\cite[\S13, pp. 219]{Eaton2016a}. 
 
 
 
