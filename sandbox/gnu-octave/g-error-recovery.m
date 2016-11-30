@@ -23,7 +23,7 @@
 %addpath("/Users/zhiyang/Documents/ricerca/gulyas-scripts/dummy")
 
 disp("============================================================")
-disp("	Begin:	Testing Error Raising")
+disp("	Begin:	Testing Error Recovery")
 
 
 format('long')
@@ -69,5 +69,5 @@ val_corrected2 = onCleanup(@() disp("	= Cleaning up procedure."))
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 disp("============================================================")
-disp("	End:	Testing Testing Error Raising")
+disp("	End:	Testing Error Recovery")
 

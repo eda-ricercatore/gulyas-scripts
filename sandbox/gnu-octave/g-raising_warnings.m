@@ -46,28 +46,13 @@ format('long')
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 disp("------------------------------------------------------------")
-disp("	Raise an Error and Catch It.")
+disp("	Raise a Warning.")
 
 
-err_val =  beep_on_error()
-new_err_val = 57;
-
-try
-	error("	= Raised error: Universal state???")
-	%val_corrected =  onCleanup(9+18, error(@(),"	= Raised a dumb error."))
-	val_corrected =  onCleanup(disp("	= Cleaning up procedure."))
-catch Unmatched_Matrices_Error
-	disp("	= Error: Unmatched Matrices")
-	disp("	= Error is caught.")
-	a = [1 2 3]*[4; 5; 6]
-	Unmatched_Matrices_Error
-end_try_catch
-
-
-val_corrected2 = onCleanup(@() disp("	= Cleaning up procedure."))
+b = -1
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 disp("============================================================")
-disp("	End:	Testing Testing Error Raising")
+disp("	End:	Raise a Warning")
 

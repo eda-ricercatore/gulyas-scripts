@@ -88,5 +88,5 @@ end_try_catch
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 disp("============================================================")
-disp("	End:	Testing Testing Error Raising")
+disp("	End:	Testing Error Raising")
 
