@@ -208,6 +208,9 @@ After multiple errors are raised, I cannot increment the value of
 	beep_on_error(), via beep_on_error(new_error_value).
 Before an error occurs, the error value is zero.
 Subsequently, it is raised to one.
+
+I have problems using the onCleanup() correctly, without causing
+	errors due to my poor understanding of its function arguments.
 		 
 
 

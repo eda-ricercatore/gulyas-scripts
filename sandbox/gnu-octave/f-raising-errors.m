@@ -72,6 +72,7 @@ disp("------------------------------------------------------------")
 err_id = 194;
 try
 	error(err_id, "=	Raised another error.")
+	%error("=	Raised another error.", err_id)
 catch Unmatched_Matrices_Error_err_id
 	disp("	= Error: Unmatched Matrices")
 	disp("	= Error is caught.")

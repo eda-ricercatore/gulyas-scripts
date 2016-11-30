@@ -53,49 +53,18 @@ err_val =  beep_on_error()
 new_err_val = 57;
 
 try
-	error("=	Raised a foolish error.")
+	error("	= Raised error: Universal state???")
+	%val_corrected =  onCleanup(9+18, error(@(),"	= Raised a dumb error."))
+	val_corrected =  onCleanup(disp("	= Cleaning up procedure."))
 catch Unmatched_Matrices_Error
 	disp("	= Error: Unmatched Matrices")
 	disp("	= Error is caught.")
 	a = [1 2 3]*[4; 5; 6]
 	Unmatched_Matrices_Error
-	old_err_val =  beep_on_error(new_err_val)
-	new_err_val = new_err_val + 15;
-	not_so_old_err_val =  beep_on_error(new_err_val)
-end_try_catch
-
-disp("------------------------------------------------------------")
-
-try
-	error("=	Raise another foolish error.")
-catch Unmatched_Matrices_Error2
-	disp("	= Error: Unmatched Matrices")
-	disp("	= Error is caught.")
-	a = [1 2; 9 3]*[4 8; 5 6]
-	Unmatched_Matrices_Error2
-	old_err_val2 =  beep_on_error(new_err_val)
-	new_err_val2 = new_err_val + 35;
-	not_so_old_err_val2 =  beep_on_error(new_err_val2)
-end_try_catch
-
-disp("------------------------------------------------------------")
-disp("	= Error value returns from beep_on_error()")
-disp("	= 	can't be incremented.")
-disp("------------------------------------------------------------")
-
-try
-	error("=	Raise yet another foolish error.")
-catch Unmatched_Matrices_Error3
-	disp("	= Error: Unmatched Matrices")
-	disp("	= Error is caught.")
-	a = [1 2 8; 2 9 3; 7 3 54]*[49 89 32; 25 6 20; -12 -21 -43]
-	Unmatched_Matrices_Error3
-	beep()
-	Unmatched_Matrices_Error2
-	rethrow(Unmatched_Matrices_Error)
 end_try_catch
 
 
+val_corrected2 = onCleanup(@() disp("	= Cleaning up procedure."))
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
