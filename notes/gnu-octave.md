@@ -150,8 +150,10 @@ In addition, judiciously consider what to do with the semipredicate
 
 ###	*try-catch-block* Technique
 
-
-
++ Warnings cannot be caught.
++ Only errors are caught.
++ For normal operations that do not produce an error or warning,
+	the catch block is not executed.
 
 ###	Questions
 

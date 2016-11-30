@@ -46,34 +46,6 @@ format('long')
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 disp("------------------------------------------------------------")
-disp("	Exception Handling via *unwind_protect*")
-
-
-
-unwind_protect
-	a = 23/45
-unwind_protect_cleanup
-	disp("	= No Error and No Warning.")
-	a = 987654321
-end_unwind_protect
-disp("	= Cleanup of *unwind_protect* is executed regardless")
-disp("		of whether errors/warnings are generated.")
-
-unwind_protect
-	a = [1 2 3]*[4; 5; 6; 7; 8; 9]
-unwind_protect_cleanup
-	disp("	= Error Caught and Handled.")
-	a = 192837465
-	disp("	= Terminate Program.")
-end_unwind_protect
-
-%{
-	a = [4; 5; 6; 7; 8; 9] * [1 2 3]
-	disp("	= Error not caught/handled.")
-	disp("	= Program terminated prematurely.")
-%}
-
-disp("------------------------------------------------------------")
 disp("	Error Handling via *try-catch-block*")
 
 
@@ -86,10 +58,39 @@ catch
 	a = [1 2 3]*[4; 5; 6]
 end_try_catch
 
+disp("	= Divide a number by zero.")
+try
+	a = 37 / 0
+catch
+	disp("	= Warning: Divide a number by zero.")
+	disp("	= Warning is caught.")
+	a = 1234567
+end_try_catch
+
 disp("	= Warnings cannot be caught. Only errors are caught.")
 
-%	Question: Can specific errors be caught?
-%	lasterr and lasterror
+disp("	= Perform an operation without error or warning.")
+try
+	a = 37 / 17
+catch
+	disp("	= Catch block should not be executed.")
+end_try_catch
+
+disp("	= Normal execution. Catch block is not executed.")
+
+disp("------------------------------------------------------------")
+
+disp("	= Repeat: Multiply two 'unmatched' matrices.")
+try
+	a = [19; 28; 37; 46; 5; 90; 82]*[21; 87]
+catch div_by_zero_error_usc
+	disp("	= Error: Unmatched Matrices")
+	disp("	= Error is caught.")
+	a = [9; 1; 8; 2; 7]*[6 4 5 3 21]
+	disp("***************************************************")
+	disp("=	Print information resulting from the error.")
+	div_by_zero_error_usc
+end_try_catch
 
 
 
