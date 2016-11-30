@@ -40,8 +40,11 @@ Information, including "help information," provided for errors raised
 ##	Examples
 
 \#\# -*- texinfo -*-
+
 \#\# @deftypefn {Function File} f (@var{arg1})
+
 \#\# Function help text goes here...
+
 \#\# @end deftypefn
 
 ###	Commenting Classes in *GNU Octave*
