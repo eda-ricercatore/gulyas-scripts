@@ -214,10 +214,16 @@ I have problems using the onCleanup() correctly, without causing
 		 
 
 
-###	Questions
+###	Catching Specific Errors
 
-+ Can specific errors be caught?
-	- Look at **lasterr** and **lasterror**.
+Specific errors can be caught, if only one potentially error raising
+	operation is placed within the *try* block.
+While **lasterr** and **lasterror** can help me obtain information
+	about it, if I assign that error to a name in the specification
+	of the *catch* block, I can access information about that
+	specific error later.
+
+
 
 
 
