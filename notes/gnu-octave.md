@@ -211,6 +211,10 @@ To continue a string over multiple lines, use the backslash ("\") to
 	to list a fragment of a string in a line that would be
 	continued in the next line.
 
+Mathematical expressions that are contained within a pair of
+	parentheses can be continued over multiple lines without using
+	any continuation markers, such as the aforementioned ellipsis
+	or backslash. 
 
 ##	Compatibility with *Matlab*
 
