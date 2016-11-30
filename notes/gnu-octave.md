@@ -264,7 +264,7 @@ However, I cannot enter the debug mode using warnings, or errors, yet.
 
 ###	Profiling
 
-
+**I am skipping the subsection on "Profiling" for the time being.**
 
 
 
