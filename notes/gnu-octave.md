@@ -199,9 +199,16 @@ If *template* is "a null string ("")," the script/program would
 	\cite[\S12.1.1, pp. 206]{Eaton2016a}.
 
 	
+###	Difficulties Faced
 
+I cannot raise an error with an identifier. I have tried using
+	a string or a number in vain.
 
-
+After multiple errors are raised, I cannot increment the value of
+	beep_on_error(), via beep_on_error(new_error_value).
+Before an error occurs, the error value is zero.
+Subsequently, it is raised to one.
+		 
 
 
 ###	Questions

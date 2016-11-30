@@ -49,38 +49,50 @@ disp("------------------------------------------------------------")
 disp("	Raise an Error and Catch It.")
 
 
+err_val =  beep_on_error()
+new_err_val = 57;
 
 try
-	error("=	Raised a silly error.")
+	error("=	Raised a foolish error.")
 catch Unmatched_Matrices_Error
 	disp("	= Error: Unmatched Matrices")
 	disp("	= Error is caught.")
 	a = [1 2 3]*[4; 5; 6]
 	Unmatched_Matrices_Error
+	old_err_val =  beep_on_error(new_err_val)
+	new_err_val = new_err_val + 15;
+	not_so_old_err_val =  beep_on_error(new_err_val)
 end_try_catch
 
 disp("------------------------------------------------------------")
-disp("	= Raise an Error with Null String.")
-error("")
-disp("	= Null String Error is ignored.")
-disp("------------------------------------------------------------")
 
-
-%err_id = "Ciao Mondo!";
-
-%	Failed to raise error with ID number.
-err_id = 194;
 try
-	error(err_id, "=	Raised another error.")
-catch Unmatched_Matrices_Error_err_id
+	error("=	Raise another foolish error.")
+catch Unmatched_Matrices_Error2
 	disp("	= Error: Unmatched Matrices")
 	disp("	= Error is caught.")
-	Unmatched_Matrices_Error_err_id
-	#if error_id = Unmatched_Matrices_Error_err_id
-	
-	a = [1 2; 4 3]*[4 9; 5 6]
+	a = [1 2; 9 3]*[4 8; 5 6]
+	Unmatched_Matrices_Error2
+	old_err_val2 =  beep_on_error(new_err_val)
+	new_err_val2 = new_err_val + 35;
+	not_so_old_err_val2 =  beep_on_error(new_err_val2)
 end_try_catch
 
+disp("------------------------------------------------------------")
+disp("	= Error value returns from beep_on_error()")
+disp("	= 	can't be incremented.")
+disp("------------------------------------------------------------")
+
+try
+	error("=	Raise yet another foolish error.")
+catch Unmatched_Matrices_Error3
+	disp("	= Error: Unmatched Matrices")
+	disp("	= Error is caught.")
+	a = [1 2 8; 2 9 3; 7 3 54]*[49 89 32; 25 6 20; -12 -21 -43]
+	Unmatched_Matrices_Error3
+	beep()
+	Unmatched_Matrices_Error2
+end_try_catch
 
 
 
