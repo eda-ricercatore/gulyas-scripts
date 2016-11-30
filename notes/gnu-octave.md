@@ -252,7 +252,9 @@ This allows the symbol table at the point/condition of interruption
 	\cite[\S13, pp. 219]{Eaton2016a}. 
 
 
+###	Debug Mode
 
+###	Breakpoints, Call Stack, and Profiling
 
 
 
