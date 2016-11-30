@@ -52,19 +52,31 @@ disp("	Raise an Error and Catch It.")
 
 try
 	error("=	Raised a silly error.")
-catch
+catch Unmatched_Matrices_Error
 	disp("	= Error: Unmatched Matrices")
 	disp("	= Error is caught.")
 	a = [1 2 3]*[4; 5; 6]
+	Unmatched_Matrices_Error
 end_try_catch
 
-
+disp("------------------------------------------------------------")
 disp("	= Raise an Error with Null String.")
 error("")
 disp("	= Null String Error is ignored.")
+disp("------------------------------------------------------------")
 
-
-
+err_id = 194;
+%err_id = "Ciao Mondo!";
+try
+	error(err_id, "=	Raised another error.")
+catch Unmatched_Matrices_Error_err_id
+	disp("	= Error: Unmatched Matrices")
+	disp("	= Error is caught.")
+	Unmatched_Matrices_Error_err_id
+	#if error_id = Unmatched_Matrices_Error_err_id
+	
+	a = [1 2; 4 3]*[4 9; 5 6]
+end_try_catch
 
 
 
