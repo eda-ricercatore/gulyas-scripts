@@ -225,6 +225,24 @@ While **lasterr** and **lasterror** can help me obtain information
 
 
 
+### Default Error and Warning Messages
+
+In \cite[\S12.2.1, pp. 214-218]{Eaton2016a}, a list of default warning messages from
+	*GNU Octave* is provided. 
+
+
+
+## Debugging
+
+Make use of the "built-in debugger" 
+
+
+
+
+
+
+
+
 
 
 
