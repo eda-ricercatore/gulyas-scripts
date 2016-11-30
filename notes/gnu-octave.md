@@ -204,11 +204,12 @@ Block comments are enclosed "between matching '#{' and '#}' (or '%{' and '%}') m
 By default, statements terminate with the newline character.
 
 To continue a statement over multiple lines, use the ellipsis ("...")
-	to list a fragment of a statement in a line that would be 
+	to list a fragment of a statement in a line that would be
 	continued in the next line.
 
-To continue a string over multiple lines, use the
-
+To continue a string over multiple lines, use the backslash ("\") to
+	to list a fragment of a string in a line that would be
+	continued in the next line.
 
 
 ##	Compatibility with *Matlab*
