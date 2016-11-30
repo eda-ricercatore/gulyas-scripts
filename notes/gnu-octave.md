@@ -234,7 +234,8 @@ In \cite[\S12.2.1, pp. 214-218]{Eaton2016a}, a list of default warning messages 
 
 ## Debugging
 
-Make use of the "built-in debugger" 
+Make use of the "built-in debugger" \cite[\S13, pp. 219]{Eaton2016a}
+	while developing programs/scripts in *GNU Octave*.
 
 
 
