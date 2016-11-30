@@ -168,6 +168,35 @@ In addition, judiciously consider what to do with the semipredicate
 + For normal operations that do not produce an error or warning,
 	the catch block is not executed.
 
+###	Raising Errors
+
+The syntax for raising an error is: *error(id, template, ...)*
+	\cite[\S12.1.1, pp. 205]{Eaton2016a}.  
+
+The first argument *id* is: the value/number associated with the
+	output stream
+	\cite[\S12.1.1, pp. 205; \S14.1.3, pp. 242; \S14.1.1.1, pp. 236]{Eaton2016a}.
+The second argument *template* is: the string containing the
+	error message \cite[\S12.1.1, pp. 205; \S14.2.4, pp. 253]{Eaton2016a}..
+
+A raised error would diplay an error message, which is stored in
+	*template* (if *template* is not terminated by a newline
+	character) or a "traceback of function calls leading to the
+	error" \cite[\S12.1.1, pp. 205-206]{Eaton2016a}.
+If *template* "does not end with a newline character, a traceback
+	of function calls leading to the error" is printed in the
+	standard error stream \cite[\S12.1.1, pp. 205-206]{Eaton2016a}.
+If *template* ends with a newline character, the error message
+	*template* is  \cite[\S12.1.1, pp. 206]{Eaton2016a}. 
+
+
+
+	
+
+
+
+
+
 ###	Questions
 
 + Can specific errors be caught?
