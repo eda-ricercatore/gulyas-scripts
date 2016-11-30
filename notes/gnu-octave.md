@@ -111,8 +111,8 @@ In addition, *GNU Octave* can also raise warnings about things that
 
 ###	Guidelines On Using Errors and Warnings
 
-Error and warning messages can be used to inform the user of
-	abnormal conditions \cite[\S12, pp. 205]{Eaton2016a}.
+Error and warning messages can be used to judiciously inform the user
+	of abnormal conditions \cite[\S12, pp. 205]{Eaton2016a}.
 
 Adopt "a set of contractual guidelines" \cite{WikipediaContributors2016f}
 	to support reasoning on errors, just like exception safety
