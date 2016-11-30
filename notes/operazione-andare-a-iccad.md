@@ -1,9 +1,7 @@
 #	Operazione Andare a ICCAD
 
 + Script error management: throwing; and handling   
-	- \S10.8 *unwind-protect* statement
-	- \S10.9 *try* statement
-	- \S12 Errors and warnings
+	- \S12 Errors and warnings, starts at page 205
 	- \S13 Debugging
 + Miscellaneous
 	- \S10.10 continuation line
