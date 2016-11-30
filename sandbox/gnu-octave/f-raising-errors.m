@@ -23,7 +23,7 @@
 %addpath("/Users/zhiyang/Documents/ricerca/gulyas-scripts/dummy")
 
 disp("============================================================")
-disp("	Begin:	Testing Error Management and Exception Handling")
+disp("	Begin:	Testing Error Raising")
 
 
 format('long')
@@ -46,53 +46,22 @@ format('long')
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 disp("------------------------------------------------------------")
-disp("	Error Handling via *try-catch-block*")
+disp("	Raise an Error and Catch It.")
 
 
-disp("	= Multiply two 'unmatched' matrices.")
+
 try
-	a = [1 2 3]*[4; 5; 6; 7; 8; 9]
+	error("=	Raised a silly error.")
 catch
 	disp("	= Error: Unmatched Matrices")
 	disp("	= Error is caught.")
 	a = [1 2 3]*[4; 5; 6]
 end_try_catch
 
-disp("	= Divide a number by zero.")
-try
-	a = 37 / 0
-catch
-	disp("	= Warning: Divide a number by zero.")
-	disp("	= Warning is caught.")
-	a = 1234567
-end_try_catch
 
-disp("	= Warnings cannot be caught. Only errors are caught.")
-
-disp("	= Perform an operation without error or warning.")
-try
-	a = 37 / 17
-catch
-	disp("	= Catch block should not be executed.")
-end_try_catch
-
-disp("	= Normal execution. Catch block is not executed.")
-
-disp("------------------------------------------------------------")
-
-disp("	= Repeat: Multiply two 'unmatched' matrices.")
-try
-	a = [19; 28; 37; 46; 5; 90; 82]*[21; 87]
-catch div_by_zero_error_usc
-	disp("	= Error: Unmatched Matrices")
-	disp("	= Error is caught.")
-	a = [9; 1; 8; 2; 7]*[6 4 5 3 21]
-	disp("***************************************************")
-	disp("=	Print information resulting from the error.")
-	div_by_zero_error_usc
-end_try_catch
-
-
+disp("	= Raise an Error with Null String.")
+error("")
+disp("	= Null String Error is ignored.")
 
 
 
@@ -103,4 +72,5 @@ end_try_catch
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 disp("============================================================")
-disp("	End:	Testing Error Management and Exception Handling")
+disp("	End:	Testing Testing Error Raising")
+
