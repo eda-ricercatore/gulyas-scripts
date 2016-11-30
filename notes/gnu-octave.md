@@ -144,6 +144,8 @@ In addition, judiciously consider what to do with the semipredicate
 + When an error is caught (and handled), the
 	*unwind_protect_cleanup* block is executed before the
 	program/script is terminated.
+	- The remainder of the program, after the
+		*unwind_protect_cleanup* block would not be executed. 
 + Only errors are handled with *unwind_protect*.
 
 ###	*try-catch-block* Technique

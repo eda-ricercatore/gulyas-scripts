@@ -48,16 +48,6 @@ format('long')
 disp("------------------------------------------------------------")
 disp("	Exception Handling via *unwind_protect*")
 
-disp("	= Divide a number by zero.")
-unwind_protect
-	a = 57/0
-	disp("	= Warning is generated for divide by zero.")
-unwind_protect_cleanup
-	disp("	= Error: Divide a number by zero.")
-	disp("	= Error processed in in cleanup.")
-	a = 123456
-end_unwind_protect
-disp("	= Divide a number by zero generates a warning, not an error.")
 
 
 unwind_protect
