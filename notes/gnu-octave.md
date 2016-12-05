@@ -347,7 +347,18 @@ If `classname` in `isa(obj, classname)` "is a cell array of string,"
 The array would contain true for each class that `obj` belongs to
 	\cite[\S3.1, pp. 40]{Eaton2016a}.
 
+###	Numeric Constants
 
+Forms of *numeric constants* \cite[\S4, pp. 47]{Eaton2016a}:
++ scalar
+	- integer
+	- decimal fraction
+	- number in scientific notation
+	- complex number
++ vector
++ matrix
+
+By default, numeric constants
 
 
 ###	Built-in Data Types
@@ -359,9 +370,17 @@ List of built-in data types \cite[\S3 and \S3.1, pp. 39]{Eaton2016a}:
 + complex matrices
 + ranges
 + character strings
-+ struc, a data structure type
+	- A character string is a "sequence of characters" enclosed
+		in single- or double- quote marks.
+		It is stored internally by *GNU Octave* as matrices of
+		characters \cite[\S3.1.3, pp. 43]{Eaton2016a}
++ struc, a data structure type:
+	Currently, implemented as "an associative array with indices
+	limited to strings" \cite[\S3.1.4, pp. 43]{Eaton2016a}.
 + "an array that can contain all data types"
 + cell arrays
+	- A "general array that can hold any number of" elements, which
+		can be of any data type \cite[\S3.1.3, pp. 43]{Eaton2016a}. 
 
 Matrix objects are not limited by size constraints, "and can be
 	dynamically reshaped and resized"
@@ -374,7 +393,11 @@ The maximum and minimum values of "built-in floating-point
 + `realmax`
 + `eps`
 
-
+\S3.3 has a list of functions in *GNU Octave* to determine the size
+	of objects.
+That is, these functions determine the number of elements in that
+	set of objects/elements, or the size of a given dimension of the
+	matrix \cite[\S3.3, pp. 44-46]{Eaton2016a}.
 
 
 
