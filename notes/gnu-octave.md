@@ -463,7 +463,7 @@ When the input argument(s) of `"NM(n,m,k, ...)"` are/is
 	\cite[\S3.1.2, pp. 43]{Eaton2016a}:
 + empty (i.e., no input arguments), return the scalar value `NA`.
 + one (`n`), return a square matrix with the same dimensions as `n`.
-+ >1 (`(n, m)` or `(n, m, k, ...)`), return the `nth`.th
++ >1 (`(n, m)` or `(n, m, k, ...)`), return the `n`th 
 
 
 Note that `NA != NA`, hence I could not compare the equality of	`NA`
