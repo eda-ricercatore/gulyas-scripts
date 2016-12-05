@@ -369,9 +369,10 @@ The imaginary part of a complex constant requires the `i` to be
 	complex number, without white space between them
 	\cite[\S4, pp. 47]{Eaton2016a}.
 
+`double(x)` converts x to the data type with double-precision
+	floating point format \cite[\S4, pp. 47]{Eaton2016a}.  
 
-
-
+`complex(re,im)` returns the complex number `re + im*i*`
 
 
 
