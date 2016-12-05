@@ -322,6 +322,34 @@ However, I cannot enter the debug mode using warnings, or errors, yet.
 
 ##	Data Types, Including Strings
 
+###	Built-in Data Types
+
+List of built-in data types \cite[\S3, pp. 39]{Eaton2016a}: 
++ real scalars
++ complex scalars
++ real matrices
++ complex matrices
++ character strings
++ struc, a data structure type
++ "an array that can contain all data types"
+
+### Developer-Defined Specialized Data Types
+
+Specialized data types can be defined with some *C++* code 
+	\cite[\S3, pp. 39]{Eaton2016a}.
+
+Such code can be integrated into *GNU Octave*
+	via \cite[\S3, pp. 39]{Eaton2016a}:
++ Recompiling *GNU Octave* to add the new data type(s).
++ Dynamically load the new data type(s) "while *GNU Octave*
+	is running." 
+
+
+
+
+
+
+
 
 
 
