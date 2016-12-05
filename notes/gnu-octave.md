@@ -463,8 +463,13 @@ When the input argument(s) of `"NM(n,m,k, ...)"` are/is
 	\cite[\S3.1.2, pp. 43]{Eaton2016a}:
 + empty (i.e., no input arguments), return the scalar value `NA`.
 + one (`n`), return a square matrix with the same dimensions as `n`.
-+ >1 (`(n, m)` or `(n, m, k, ...)`), return the `n`th 
++ >1 (`(n, m)` or `(n, m, k, ...)`), return a `i`-dimensional matrix,
+	where the size/cardinality of the `j`th dimension is specificed
+	by the `j`th input argument \cite[\S3.1.2, pp. 43]{Eaton2016a}.
 
+Note that the optional argument `class` in `NA(..., class)`
+	determines 
+	\cite[\S3.1.2, pp. 43]{Eaton2016a}.
 
 Note that `NA != NA`, hence I could not compare the equality of	`NA`
 	values using `==` or `!=`.
