@@ -363,6 +363,24 @@ List of built-in data types \cite[\S3 and \S3.1, pp. 39]{Eaton2016a}:
 + "an array that can contain all data types"
 + cell arrays
 
+Matrix objects are not limited by size constraints, "and can be
+	dynamically reshaped and resized"
+	\cite[\S3.1.1, pp. 42]{Eaton2016a}.
+
+The values maximum and minimum values of the built-in floating-point
+	numeric data
+
+
+
+
+
+
+
+
+
+
+
+
 ### Developer-Defined Specialized Data Types
 
 Specialized data types can be defined with some *C++* code 
