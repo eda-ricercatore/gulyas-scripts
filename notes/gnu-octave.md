@@ -397,6 +397,9 @@ List of built-in data types \cite[\S3 and \S3.1, pp. 39]{Eaton2016a}:
 	- To turn a range into the *row vector* data type, place the
 		range within square brackets.
 	- E.g., [*base*:*increment*:*limit*].
+	- Note that if it is important to include the endspoints of
+		range, and the number of elements is known, use the
+		`linspace` function instead.
 	- See \cite[\S4.2, pp. 52-53]{Eaton2016a}.
 + character strings
 	- A character string is a "sequence of characters" enclosed
