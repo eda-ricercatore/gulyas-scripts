@@ -378,6 +378,11 @@ The imaginary part of a complex constant requires the `i` to be
 
 
 
+
+
+
+
+
 ###	Built-in Data Types
 
 List of built-in data types \cite[\S3 and \S3.1, pp. 39]{Eaton2016a}: 
@@ -399,9 +404,18 @@ List of built-in data types \cite[\S3 and \S3.1, pp. 39]{Eaton2016a}:
 	- A "general array that can hold any number of" elements, which
 		can be of any data type \cite[\S3.1.3, pp. 43]{Eaton2016a}. 
 
-Matrix objects are not limited by size constraints, "and can be
-	dynamically reshaped and resized"
+Matrix objects are not limited by language-specific size constraints,
+	"and can be dynamically reshaped and resized"
 	\cite[\S3.1.1, pp. 42]{Eaton2016a}.
+That said, there is a limit for "the maximum number of elements in
+	a matrix."
+This is determined by various factors, such as the size of the
+	physical memory (or main memory) of my computer.
+The value of this limit can be found via invoking the function
+	`sizemax`.
+Therefore, its returned value "is slightly smaller than" the
+	theoretical maximum value reported by `intmax` (of the class
+	`int64`) \cite[\S4.1, pp. 49]{Eaton2016a}.
 
 The maximum and minimum values of "built-in floating-point
 	numeric data," which are "currently stored as double precision
