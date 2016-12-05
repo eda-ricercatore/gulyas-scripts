@@ -269,6 +269,9 @@ However, I cannot enter the debug mode using warnings, or errors, yet.
 
 
 
+## Object-Oriented Programming
+
+
 
 
 ##	Miscellaneous
@@ -390,7 +393,7 @@ That is, use:
 See [C++ integration; including *GNU Octave* code into a *C++* codebase](https://en.wikipedia.org/wiki/GNU_Octave#C.2B.2B_integration) [WikipediaContributors2016].
 
 
-##	Integrating *GNU Octave* Code Into *C++* Code
+##	Integrating *C++* Code Into *GNU Octave* Code
 
 To integrate *C++* code into a *GNU Octave* codebase, create
 	*oct* files and use them in my codebase.

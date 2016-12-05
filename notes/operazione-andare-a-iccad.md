@@ -1,15 +1,9 @@
 #	Operazione Andare a ICCAD
 
-+ Script error management: throwing; and handling   
-	- \S13 Debugging
-+ Miscellaneous
-	- \S10.10 continuation line
-	- \S17.5 Utility function
-	- \S17.6 Special function
 + Object-oriented programming (OOP)
+	- \S3-\S4 (\S3-\S5) Data Types
+		+ vector: properties; e.g., size(), length(), ...
 	- \S6.1 Structures
-	- \S3 Date Types
-	- vector: properties; e.g., size(), length(), ...
 	- \S11.4 Variable-length argument lists
 	- \S11.6-\S11.7 Variable-length return lists
 	- \S11.9 Function files
@@ -22,6 +16,10 @@
 + Texinfo
 	- Learn how to write comments in the *Texinfo* typesetting syntax
 		for documentation generation.
++ Miscellaneous
+	- \S10.10 continuation line
+	- \S17.5 Utility function
+	- \S17.6 Special function
 
 
 
