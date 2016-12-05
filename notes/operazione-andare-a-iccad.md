@@ -1,7 +1,7 @@
 #	Operazione Andare a ICCAD
 
 + Object-oriented programming (OOP)
-	- \S3-\S4 (\S3-\S5) Data Types
+	- \S4-\S5 Data Types
 		+ vector: properties; e.g., size(), length(), ...
 	- \S6.1 Structures
 	- \S11.4 Variable-length argument lists
