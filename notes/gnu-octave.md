@@ -353,12 +353,24 @@ Forms of *numeric constants* \cite[\S4, pp. 47]{Eaton2016a}:
 + scalar
 	- integer
 	- decimal fraction
-	- number in scientific notation
+	- number in scientific/exponential notation
 	- complex number
 + vector
 + matrix
 
-By default, numeric constants
+By default, numeric constants are internally represented in
+	*GNU Octave* "in double-precision floating point format," and
+	complex constants are internally represented as "pairs of
+	double-precision floating point values"
+	\cite[\S4, pp. 47]{Eaton2016a}.
+
+The imaginary part of a complex constant requires the `i` to be
+	appended
+
+
+
+
+
 
 
 ###	Built-in Data Types
