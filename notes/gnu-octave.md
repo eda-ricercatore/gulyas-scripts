@@ -430,9 +430,12 @@ That is, these functions determine the number of elements in that
 	set of objects/elements, or the size of a given dimension of the
 	matrix \cite[\S3.3, pp. 44-46]{Eaton2016a}.
 
-
-
-
+Notes:
++ \cite[\S4.1, pp. 49-51]{Eaton2016a} has functions to modify the
+	standard output display. E.g., the display of the elements of
+	a huge matrix can be modified, so that it is more readable. 
+	- See \cite[\S4.1.1, pp. 51-52]{Eaton2016a} to find out how to
+		display huge empty matrices.
 
 
 
