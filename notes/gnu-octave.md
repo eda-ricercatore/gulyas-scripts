@@ -391,6 +391,13 @@ List of built-in data types \cite[\S3 and \S3.1, pp. 39]{Eaton2016a}:
 + real matrices
 + complex matrices
 + ranges
+	- A range is "a row vector with evenly spaced elements."
+	- Its format is: *base*:*increment*:*limit*.
+	- The increment is an optional number.
+	- To turn a range into the *row vector* data type, place the
+		range within square brackets.
+	- E.g., [*base*:*increment*:*limit*].
+	- See \cite[\S4.2, pp. 52-53]{Eaton2016a}.
 + character strings
 	- A character string is a "sequence of characters" enclosed
 		in single- or double- quote marks.
