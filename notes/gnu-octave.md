@@ -365,7 +365,9 @@ By default, numeric constants are internally represented in
 	\cite[\S4, pp. 47]{Eaton2016a}.
 
 The imaginary part of a complex constant requires the `i` to be
-	appended
+	appended to the number representing the magnitude of the
+	complex number, without white space between them
+	\cite[\S4, pp. 47]{Eaton2016a}.
 
 
 
