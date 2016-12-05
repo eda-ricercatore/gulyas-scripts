@@ -322,6 +322,13 @@ However, I cannot enter the debug mode using warnings, or errors, yet.
 
 ##	Data Types, Including Strings
 
+`typeinfo(expr)` is used to determine the type of the
+	expression `expr`.
+
+
+
+
+
 ###	Built-in Data Types
 
 List of built-in data types \cite[\S3, pp. 39]{Eaton2016a}: 
