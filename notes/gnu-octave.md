@@ -33,6 +33,14 @@ Experimentally/Empirically demonstrated in the execution of the
 
 
 
+
+
+
+
+
+
+
+
 ##	Functions
 
 Each *GNU Octave* script can only contain one function.
@@ -84,6 +92,17 @@ Concepts that are experimentally/empirically demonstrated, but not
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 ##	Pseudo-Random Number Generation (PRNG) in *GNU Octave*
 
 To reset the seed of the function for pseudo-random number generation
@@ -95,6 +114,13 @@ Note: Do not assign *rand("seed","reset")* to any variable.
 	*GNU Octave* script, since this function does not return a value
 	or matrix (or any other mathematical object).
 + **Example of creating an error.**
+
+
+
+
+
+
+
 
 
 
@@ -232,6 +258,20 @@ In \cite[\S12.2.1, pp. 214-218]{Eaton2016a}, a list of default warning messages 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Debugging
 
 Make use of the "built-in debugger" \cite[\S13, pp. 219]{Eaton2016a}
@@ -269,7 +309,53 @@ However, I cannot enter the debug mode using warnings, or errors, yet.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+##	Data Types, Including Strings
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Object-Oriented Programming
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -322,6 +408,24 @@ Mathematical expressions that are contained within a pair of
 	parentheses can be continued over multiple lines without using
 	any continuation markers, such as the aforementioned ellipsis
 	or backslash. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ##	Compatibility with *Matlab*
 
@@ -378,6 +482,17 @@ Some information to note are [TheUniversityOfTexasAtAustinStaff2016]:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 #	Enabling Seamless Interoperability Between Programming Languages
 
 See [Interoperability Between Programming Languages](interoperability-between-programming-languages.md).
@@ -416,6 +531,21 @@ Call the *mkoctfile* function from the shell prompt of the "Terminal"
 	application or the *GNU Octave* prompt 
 	[TheUniversityOfTexasAtAustinStaff2016]
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #	References
 
 Citations/References that use the *LaTeX/BibTeX* notation are taken
@@ -433,6 +563,14 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 	
 	Available online at: \url{https://www.ices.utexas.edu/sysdocs/}; last accessed on October 26, 2016.
 	
+
+
+
+
+
+
+
+
 
 
 
