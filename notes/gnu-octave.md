@@ -323,22 +323,45 @@ However, I cannot enter the debug mode using warnings, or errors, yet.
 ##	Data Types, Including Strings
 
 `typeinfo(expr)` is used to determine the type of the
-	expression `expr`.
+	expression `expr`, which is returned as a `string`.
+"If `expr` is omitted," "a cell array containing all the currently"
+	defined (and added) data types \cite[\S3, pp. 39]{Eaton2016a}.
 
+`class(obj)` returns the class of the object `obj`
+	\cite[\S3.1, pp. 39]{Eaton2016a}.
+ 
+`class(s, id, p, ...)` creates a class with the fields of structure
+	`s` and the name (string) `id`, and inherits
+	attributes/properties and behavior (functions) 
+	\cite[\S3.1, pp. 39]{Eaton2016a} [WikipediaContributors2016a].
+
+`isa(obj, classname)` returns true if `obj` is an object of the
+	class `classname` or the following class categories
+	\cite[\S3.1, pp. 39-40]{Eaton2016a}: 
++ "float": 'double', or 'single'
++ "integer": (u)int8, (u)int16, (u)int32, and (u)int64
++ "numeric": either a floating point or integer value
+
+If `classname` in `isa(obj, classname)` "is a cell array of string,"
+	return a logical array of the same size.
+The array would contain true for each class that `obj` belongs to
+	\cite[\S3.1, pp. 40]{Eaton2016a}.
 
 
 
 
 ###	Built-in Data Types
 
-List of built-in data types \cite[\S3, pp. 39]{Eaton2016a}: 
+List of built-in data types \cite[\S3 and \S3.1, pp. 39]{Eaton2016a}: 
 + real scalars
 + complex scalars
 + real matrices
 + complex matrices
++ ranges
 + character strings
 + struc, a data structure type
 + "an array that can contain all data types"
++ cell arrays
 
 ### Developer-Defined Specialized Data Types
 
@@ -356,11 +379,17 @@ Such code can be integrated into *GNU Octave*
 
 
 
+###	Casting Into A Data Type
+`cast(val, "type")` converts `val` in its current data type to the
+	data type specified by `"type"`.
+
+\cite[\S3.1, pp. 40]{Eaton2016a}.
 
 
+###	Casting Into A Class
 
 
-
+\cite[\S3.1, pp. 40]{Eaton2016a}.
 
 
 
@@ -591,6 +620,12 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 	Wikipedia contributors, "GNU Octave," in {\it Wikipedia, The Free Encyclopedia: Free mathematics software}, Wikimedia Foundation, San Francisco, CA, October 16, 2016.
 	
 	Available online at: \url{https://en.wikipedia.org/wiki/GNU_Octave}; last accessed on October 25, 2016.
+
++ [WikipediaContributors2016a]
+	
+	Wikipedia contributors, "Class (computer programming)," in {\it Wikipedia, The Free Encyclopedia: Programming constructs}, Wikimedia Foundation, San Francisco, CA, December 1, 2016.
+	
+	Available online at: \url{https://en.wikipedia.org/wiki/Class_(computer_programming)}; last accessed on December 4, 2016.
 
 + [TheUniversityOfTexasAtAustinStaff2016]
 
