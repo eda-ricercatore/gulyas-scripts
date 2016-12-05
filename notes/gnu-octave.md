@@ -343,7 +343,7 @@ However, I cannot enter the debug mode using warnings, or errors, yet.
 + "numeric": either a floating point or integer value
 
 If `classname` in `isa(obj, classname)` "is a cell array of string,"
-	return a logical array of the same size.
+	return a logical array (i.e., boolean array) of the same size.
 The array would contain true for each class that `obj` belongs to
 	\cite[\S3.1, pp. 40]{Eaton2016a}.
 
@@ -367,10 +367,12 @@ Matrix objects are not limited by size constraints, "and can be
 	dynamically reshaped and resized"
 	\cite[\S3.1.1, pp. 42]{Eaton2016a}.
 
-The values maximum and minimum values of the built-in floating-point
-	numeric data
-
-
+The maximum and minimum values of "built-in floating-point
+	numeric data," which are "currently stored as double precision
+	numbers," are given by \cite[\S3.1.1, pp. 43]{Eaton2016a}.:
++ `realmin`
++ `realmax`
++ `eps`
 
 
 
@@ -450,8 +452,24 @@ The classes that `x` and `"class"` belong to are restricted to the
 
 
 
+###	Missing Data Representation
+
+Missing data can be explicitly represented in *GNU Octave* as
+	`"NM(n,m,k, ...)"` and `"NM(class)"`.
+These functions return a scalar, matrix, or N-dimensional array
+	containing elements that "are all equal to the special constant
+ 	used to designate missing values `NA` (i.e., "Not Available").
+When the input argument(s) of `"NM(n,m,k, ...)"` are/is
+	\cite[\S3.1.2, pp. 43]{Eaton2016a}:
++ empty (i.e., no input arguments), return the scalar value `NA`.
++ one (`n`), return a square matrix with the same dimensions as `n`.
++ >1 (`(n, m)` or `(n, m, k, ...)`), return the `nth`.th
 
 
+Note that `NA != NA`, hence I could not compare the equality of	`NA`
+	values using `==` or `!=`.
+Instead, I should use the `isna(x)` function
+	\cite[\S3.1.2, pp. 43]{Eaton2016a}.
 
 
 
@@ -570,15 +588,14 @@ Some information to note are [TheUniversityOfTexasAtAustinStaff2016]:
 + *GNU Octave* allows *"printf"* to print a string to standard output,
 	but *Matlab* does not; for *Matlab*, use *"printf"* to print
 	a string to standard output or to a file (via a "file-handle").
-	
-	"MATLAB has no fputs function."
+	array	"MATLAB has no fputs function."
 + *GNU Octave* allows whitespace before the transpose operator, but
 	*Matlab* does not.
 + *GNU Octave* does not require the use of ellipses for line continuation
 	but *Matlab* does.
 	 
 	Use a backslash "\" to indicate line continuation.
-+ *GNU Octave*'s logical operators may be rendered unacceptable by
++ *GNU Octave*'s e operators may be rendered unacceptable by
 	*Matlab*.
 + *GNU Octave* have toolboxes for different applications, just like
 	*Matlab*'s toolboxes.
