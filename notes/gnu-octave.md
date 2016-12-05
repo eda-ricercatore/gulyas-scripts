@@ -468,13 +468,20 @@ When the input argument(s) of `"NM(n,m,k, ...)"` are/is
 	by the `j`th input argument \cite[\S3.1.2, pp. 43]{Eaton2016a}.
 
 Note that the optional argument `class` in `NA(..., class)`
-	determines 
+	specifies the return type as *"double"* or *"single"*
 	\cite[\S3.1.2, pp. 43]{Eaton2016a}.
 
 Note that `NA != NA`, hence I could not compare the equality of	`NA`
 	values using `==` or `!=`.
 Instead, I should use the `isna(x)` function
 	\cite[\S3.1.2, pp. 43]{Eaton2016a}.
+
+`isna(x)` returns a boolean array that indicates which elements of
+	`x` are `NA` (missing) values. If `x[i]` is a `NA` value, then
+	the `i`th element of the returned boolean array would indicate
+	`true`; else, the `i`th element would return `false`
+	\cite[\S3.1.2, pp. 43]{Eaton2016a}.
+
 
 
 
