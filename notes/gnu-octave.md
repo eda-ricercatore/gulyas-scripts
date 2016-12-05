@@ -387,6 +387,8 @@ The imaginary part of a complex constant requires the `i` to be
 
 List of built-in data types \cite[\S3 and \S3.1, pp. 39]{Eaton2016a}: 
 + real scalars
+	- \cite[\S4.4, pp. 54-57]{Eaton2016a} provides a list of functions
+		to deal with the *Integer* data type.
 + complex scalars
 + real matrices
 + complex matrices
@@ -400,6 +402,7 @@ List of built-in data types \cite[\S3 and \S3.1, pp. 39]{Eaton2016a}:
 	- Note that if it is important to include the endspoints of
 		range, and the number of elements is known, use the
 		`linspace` function instead.
+	- Note that the optional *increment* must be a non-zero number.
 	- See \cite[\S4.2, pp. 52-53]{Eaton2016a}.
 + character strings
 	- A character string is a "sequence of characters" enclosed
@@ -446,7 +449,12 @@ Notes:
 	a huge matrix can be modified, so that it is more readable. 
 	- See \cite[\S4.1.1, pp. 51-52]{Eaton2016a} to find out how to
 		display huge empty matrices.
-
++ \cite[\S4.5, pp. 57-60]{Eaton2016a} provides a list of functions
+	for bit manipulations.
++ \cite[\S4.6, pp. 60-61]{Eaton2016a} provides a list of functions
+	for logical reasoning, based on boolean algebra.
++ \cite[\S4.8, pp. 62-6???]{Eaton2016a} provides a list of functions
+	for 
 
 
 
