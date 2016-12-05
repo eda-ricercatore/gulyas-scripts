@@ -381,16 +381,52 @@ Such code can be integrated into *GNU Octave*
 
 ###	Casting Into A Data Type
 `cast(val, "type")` converts `val` in its current data type to the
-	data type specified by `"type"`.
+	data type specified by `"type"` \cite[\S3.1, pp. 40]{Eaton2016a}.
+	
+The numeric classes that can be used for `val`
+	are \cite[\S3.1, pp. 40]{Eaton2016a}:
++ "double"
++ "single"
++ "logical"
++ "char"
++ "int8"
++ "int16"
++ "int32"
++ "int64"
++ "uint8"
++ "uint16"
++ "uint32"
++ "uint64"
 
-\cite[\S3.1, pp. 40]{Eaton2016a}.
+Note that this can change the value of `val`, so that its value
+	can fit within the range of the data type `"type"`
+	\cite[\S3.1, pp. 40]{Eaton2016a}.
 
 
 ###	Casting Into A Class
 
+`y = typecast(x, "class")` interprets the data of `x` in memory as
+	data of the numeric class `"class"`, and returns a new array `y`
+	containing values from the interpretation
+	\cite[\S3.1, pp. 40-41]{Eaton2016a}. 
 
-\cite[\S3.1, pp. 40]{Eaton2016a}.
-
+The classes that `x` and `"class"` belong to are restricted to the
+	following "built-in numeric classes"
+	\cite[\S3.1, pp. 40-41]{Eaton2016a}:
++ "logical"
++ "char"
++ "int8"
++ "int16"
++ "int32"
++ "int64"
++ "uint8"
++ "uint16"
++ "uint32"
++ "uint64"
++ "double"
++ "single"
++ "double complex"
++ "single complex"
 
 
 
