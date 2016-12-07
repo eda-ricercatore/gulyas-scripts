@@ -453,8 +453,8 @@ Notes:
 	for bit manipulations.
 + \cite[\S4.6, pp. 60-61]{Eaton2016a} provides a list of functions
 	for logical reasoning, based on boolean algebra.
-+ \cite[\S4.8, pp. 62-6???]{Eaton2016a} provides a list of functions
-	for 
++ \cite[\S4.8, pp. 62-65]{Eaton2016a} provides a list of predicates
+	for numeric objects. These support run-time type checking.
 
 
 
