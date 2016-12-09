@@ -23,6 +23,7 @@
 + Generate RTW signals, using PRNG
 	- Demonstrate that these signals have zero cross-correlation,
 		since there are statistically independent.
+		Do this for each pair of signals, H(t) and L(t)
 	- Show the time-correlation for time-shifted signals.
 
 
