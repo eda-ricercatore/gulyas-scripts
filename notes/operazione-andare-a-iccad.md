@@ -20,9 +20,10 @@
 	- \S10.10 continuation line
 	- \S17.5 Utility function
 	- \S17.6 Special function
-
-
-
++ Generate RTW signals, using PRNG
+	- Demonstrate that these signals have zero cross-correlation,
+		since there are statistically independent.
+	- Show the time-correlation for time-shifted signals.
 
 
 
