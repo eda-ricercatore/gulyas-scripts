@@ -25,8 +25,25 @@
 		since there are statistically independent.
 		Do this for each pair of signals, H(t) and L(t)
 	- Show the time-correlation for time-shifted signals.
-
-
++ Always practise "Continuous Integration"
++ Get references on:
+	- Semiconductor device physics
+	- Solid-state device physics
+	- device engineering
+	- device modeling
+	- compact modeling
+	- Big Data
+	- data analytics
+	- statistical process control
+	- process control
+	- Response Surface Methodology
+	- financial engineering
+	- computational finance
+	- financial mathematics
+	- mathematical finance
+	- portfolio optimization
+	- algorithmic portfolio optimization
+	- meta-algorithms
 
 
 
