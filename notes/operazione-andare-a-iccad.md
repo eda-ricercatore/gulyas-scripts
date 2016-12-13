@@ -44,7 +44,30 @@
 	- portfolio optimization
 	- algorithmic portfolio optimization
 	- meta-algorithms
-
+	- parallel programming
+	- concurrent programming
+	- distributed computing
+	- numerical computation
+	- numerical methods
+	- computer networks
+	- distributed  networks
+	- functional programming
+	- software architecture
+	- design patterns
+	- software testing
+	- revision control, version control, software configuration management
+	- build automation
+	- symbolic computation
+	- symbolic-numeric computation
+	- constraint programming
+	- probabilisitic programming/computing
+	- stochastic computing
+	- approximate computing
+	- neuromorphic processors
+	- neuromorphic computing
+	- cognitive computing
+	- noise-based logic
+	- microelectromechanical systems + nanoelectromechanical systems
 
 
 
