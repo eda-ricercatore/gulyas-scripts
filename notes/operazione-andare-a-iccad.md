@@ -68,7 +68,8 @@
 	- cognitive computing
 	- noise-based logic
 	- microelectromechanical systems + nanoelectromechanical systems
-
++ Avoid technical debt
+	- Minimize routine maintenance.
 
 
 #	Relevant *GNU Octave* Content
