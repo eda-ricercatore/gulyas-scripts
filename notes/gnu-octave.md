@@ -374,7 +374,8 @@ The imaginary part of a complex constant requires the `i` to be
 
 `complex(re,im)` returns the complex number *(re)* + *(im)*i.
 	If the second input argument *(im)* is not provided, the
-	result is a real number with the magnitude *(re)*.
+	result is a real number with the magnitude *(re)*
+	\cite[\S4, pp. 47]{Eaton2016a}.
 
 
 
