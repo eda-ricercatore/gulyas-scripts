@@ -562,6 +562,36 @@ Instead, I should use the `isna(x)` function
 
 
 
+
+
+
+
+
+###	Information About The Workspace
+
+Information about the workspace, including a list of defined variables
+	and their properties, 
+	\cite[\S7.3, pp. 127]{Eaton2016a}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Object-Oriented Programming
 
 
