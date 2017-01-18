@@ -570,8 +570,14 @@ Instead, I should use the `isna(x)` function
 
 ##	Strings
 
-Continue from here: 
-	\cite[\S5, pp. 67]{Eaton2016a}
+A string constant, or character string \cite[\S3.1.3, pp. 43]{Eaton2016a},
+	[is composed of / contains / "consists of"] "a sequence of
+	characters" that are enclosed in quotation
+	(single/double quote(s)) \cite[\S5, pp. 67]{Eaton2016a}.  
+
+It is recommended to use double quotes to denote strings, since a
+	single quote is used as the operator for matrix transpose 
+	\cite[\S5, pp. 67]{Eaton2016a}.
 
 
 
