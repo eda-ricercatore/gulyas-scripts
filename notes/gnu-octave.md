@@ -605,7 +605,7 @@ Use matrix notation to enable string concatenation;
 
 
 
-###	Conversion Between Strings and Numerical Data
+####	Conversion Between Strings and Numerical Data
 
 conversion between strings and numerical data
 
