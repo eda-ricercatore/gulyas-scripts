@@ -167,13 +167,13 @@ In descending order of safety guarantees, the levels of exception
 + no exception safety: "No guarantees are made. (Worst level of exception safety)"  
 
 These levels of error/exception safety can be partially handled, and the
-	use of guards is strongly recommended for making the code
-	exception safe. 
+	use of guards/invariants is strongly recommended for making the code
+	exception safe.
 
 In addition, judiciously consider what to do with the semipredicate
 	problem \cite{WikipediaContributors2016e}.
 
-### *unwind_protect* Technique
+### *unwind_protect* Technique \cite[\S10.8, pp. 168]{Eaton2016a}
 
 + Warnings cannot be handled by *unwind_protect*.
 	- When a warning occurs, the *unwind_protect_cleanup* block can
