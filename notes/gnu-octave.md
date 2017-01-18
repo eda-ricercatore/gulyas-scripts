@@ -585,12 +585,12 @@ Use matrix notation to enable string concatenation;
 	e.g., *`[string1, string2]`* concatenates *string1* and *string2*
 	together \cite[\S5, pp. 67]{Eaton2016a}.
 
+###	Escape Sequences for Strings
 
+With single-quoted strings, the backslash character is not treated as
+	a special character \cite[\S5.1, pp. 67]{Eaton2016a}.
 
-
-
-
-
+However, with double-quoted strings, the backslash character 
 
 
 
