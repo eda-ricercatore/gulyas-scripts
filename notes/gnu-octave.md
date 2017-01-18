@@ -577,11 +577,21 @@ Essentially, its representation is an array (of a one-dimensional
 	matrix) of characters, which are represented by their ASCII values
 	in the array \cite[\S5.2, pp. 68]{Eaton2016a}.
 
+By convention, each row of characters is a string in *GNU Octave*,
+	while a column of such strings (of the same length) form a string
+	array \cite[\S5.2, pp. 68]{Eaton2016a}.
+
+In *GNU Octave*, a string is a character vector, rather than merely a
+	character matrix.
+	Hence, use the *`ischar(x)`* and *`isvector(x)`* functions to
+	determine if a variable is a character vector or a character
+	matrix \cite[\S5.2, pp. 68]{Eaton2016a}.
+
 It is recommended to use double quotes to denote strings, since a
 	single quote is used as the operator for matrix transpose 
 	\cite[\S5, pp. 67]{Eaton2016a}.
 
-In *GNU Octave*
+
 
 
 
