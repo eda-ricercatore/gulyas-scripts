@@ -593,8 +593,11 @@ With single-quoted strings, the backslash character is not treated as
 However, with double-quoted strings, the backslash character introduces
 	an escape sequence to represent other characters, such as
 	\cite[\S5.1, pp. 67]{Eaton2016a}:
-
-
++ backslash character, *literal representation* 
++ double-quote character, *literal representation*
++ single-quote character, *literal representation*
++ newline character
++ horizontal tab 
 
 
 ##	Information About The Workspace
