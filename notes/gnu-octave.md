@@ -192,7 +192,7 @@ In addition, judiciously consider what to do with the semipredicate
 		*unwind_protect_cleanup* block would not be executed. 
 + Only errors are handled with *unwind_protect*.
 
-###	*try-catch-block* Technique
+###	*try-catch-block* Technique \cite[\S10.9, pp. 168-169]{Eaton2016a}
 
 + Warnings cannot be caught.
 + Only errors are caught.
@@ -252,7 +252,7 @@ Specific errors can be caught, if only one potentially error raising
 While **lasterr** and **lasterror** can help me obtain information
 	about it, if I assign that error to a name in the specification
 	of the *catch* block, I can access information about that
-	specific error later.
+	specific error later \cite[\S10.9, pp. 169]{Eaton2016a}.
 
 
 
