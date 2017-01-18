@@ -566,6 +566,19 @@ Instead, I should use the `isna(x)` function
 ##	Strings
 
 
+\cite[\S5, pp. 67]{Eaton2016a}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
