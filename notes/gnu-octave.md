@@ -69,7 +69,12 @@ Experimentally/Empirically demonstrated in the execution of the
 The variable *nargin* stores the number of input arguments that are
 	used in the function call.
 	That is, when a function is called, *nargin* determines the
-	number of input arguments in the function call.  
+	number of input arguments in the function call
+	\cite[\S11.2, pp. 173]{Eaton2016a}.
+	
+However, if *varargin* is specified as the last argument to a
+		function, *nargin()* (or *nargin(function_name)*) would
+		return a negative value \cite[\S11.2, pp. 173]{Eaton2016a}.
 
 
 ### Concepts Experimentally/Empirically Demonstrated, But Unrecorded
@@ -565,8 +570,8 @@ Instead, I should use the `isna(x)` function
 
 ##	Strings
 
-
-\cite[\S5, pp. 67]{Eaton2016a}
+Continue from here: 
+	\cite[\S5, pp. 67]{Eaton2016a}
 
 
 
