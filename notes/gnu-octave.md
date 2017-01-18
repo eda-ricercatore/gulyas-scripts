@@ -563,11 +563,13 @@ Instead, I should use the `isna(x)` function
 
 
 
+##	Strings
 
 
 
 
-###	Information About The Workspace
+
+##	Information About The Workspace
 
 Information about the workspace, including a list of defined variables
 	and their properties, ...
