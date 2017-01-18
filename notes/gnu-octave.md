@@ -590,8 +590,9 @@ Use matrix notation to enable string concatenation;
 With single-quoted strings, the backslash character is not treated as
 	a special character \cite[\S5.1, pp. 67]{Eaton2016a}.
 
-However, with double-quoted strings, the backslash character 
-
+However, with double-quoted strings, the backslash character introduces
+	an escape sequence to represent other characters, such as
+	\cite[\S5.1, pp. 67]{Eaton2016a}:
 
 
 
