@@ -595,15 +595,23 @@ It is recommended to use double quotes to denote strings, since a
 
 
 
-
-
-
-
-###	String Concatenation
+####	String Creation and Concatenation
 
 Use matrix notation to enable string concatenation;
 	e.g., *`[string1, string2]`* concatenates *string1* and *string2*
 	together \cite[\S5, pp. 67]{Eaton2016a}.
+
+
+
+
+
+###	Conversion Between Strings and Numerical Data
+
+conversion between strings and numerical data
+
+
+
+
 
 ###	Escape Sequences for Strings
 
@@ -618,6 +626,10 @@ However, with double-quoted strings, the backslash character introduces
 + single-quote character, *literal representation*
 + newline character
 + horizontal tab 
+
+
+
+
 
 
 ##	Information About The Workspace
