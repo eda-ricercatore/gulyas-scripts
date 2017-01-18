@@ -566,18 +566,28 @@ Instead, I should use the `isna(x)` function
 
 
 
-
-
-##	Strings
+###	Strings
 
 A string constant, or character string \cite[\S3.1.3, pp. 43]{Eaton2016a},
 	[is composed of / contains / "consists of"] "a sequence of
 	characters" that are enclosed in quotation
-	(single/double quote(s)) \cite[\S5, pp. 67]{Eaton2016a}.  
+	(single/double quote(s)) \cite[\S5, pp. 67]{Eaton2016a}.
+
+Essentially, its representation is an array (of a one-dimensional
+	matrix) of characters, which are represented by their ASCII values
+	in the array \cite[\S5.2, pp. 68]{Eaton2016a}.
 
 It is recommended to use double quotes to denote strings, since a
 	single quote is used as the operator for matrix transpose 
 	\cite[\S5, pp. 67]{Eaton2016a}.
+
+In *GNU Octave*
+
+
+
+
+
+
 
 ###	String Concatenation
 
@@ -592,7 +602,7 @@ With single-quoted strings, the backslash character is not treated as
 
 However, with double-quoted strings, the backslash character introduces
 	an escape sequence to represent other characters, such as
-	\cite[\S5.1, pp. 67]{Eaton2016a}:
+	\cite[\S5.1, pp. 67-68]{Eaton2016a}:
 + backslash character, *literal representation* 
 + double-quote character, *literal representation*
 + single-quote character, *literal representation*
