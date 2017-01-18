@@ -579,8 +579,11 @@ It is recommended to use double quotes to denote strings, since a
 	single quote is used as the operator for matrix transpose 
 	\cite[\S5, pp. 67]{Eaton2016a}.
 
+###	String Concatenation
 
-
+Use matrix notation to enable string concatenation;
+	e.g., `[*string1*, *string2*]` concatenates *string1* and *string2*
+	together \cite[\S5, pp. 67]{Eaton2016a}.
 
 
 

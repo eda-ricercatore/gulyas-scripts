@@ -32,13 +32,16 @@ format('long')
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-disp(")Indicate matrix transpose operation.")
+disp("=	Indicate matrix transpose operation.")
 a = [1 2 3; 4 5 6; 7 8 9; 10 11 12; 13 14 15]
 b = a'
+disp("=	Matrix transpose operation: shown.")
 
-c_string = 'hello'; ""
+c_string = 'Ciao, '
+d_string = "buona giornata!!!"
 
-
+printf("Concatenate the strings %s and %s.\n", "c_string", "d_string")
+e_string = [c_string d_string]
 
 
 
