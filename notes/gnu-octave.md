@@ -632,7 +632,8 @@ Functions for string comparison, which requires character by
 
 ####	String Manipulation
 
-
+Functions for string manipulation are found in 
+	\cite[\S5.5, pp. 77-??]{Eaton2016a}.
 
 
 
