@@ -620,6 +620,20 @@ Conversion between strings and numerical data can be done by the
 	numerical data as strings. 
 
 
+####	String Comparison
+
+Functions for string comparison, which requires character by
+	character comparison of strings (can't be done by using "=="), are:
++ *`strcmp(s1,s2)`*
++ *`strncmp(s1,s2,n)`*
++ *`strcmpi(s1,s2)`*
++ *`strncmpi(s1,s2,n)`*
+
+
+####	String Manipulation
+
+
+
 
 
 
