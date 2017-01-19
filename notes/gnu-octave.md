@@ -607,7 +607,21 @@ Use matrix notation to enable string concatenation;
 
 ####	Conversion Between Strings and Numerical Data
 
-conversion between strings and numerical data
+Conversion between strings and numerical data can be done by the
+	following functions \cite[\S5.3.2, pp. 73-75]{Eaton2016a}:
++ *`mat2str(x,n)`*:
+	- `mat2str(x,n, "class")`
++ *`num2str(x)`*:
+	- *`num2str(x, precision)`*
+	- *`num2str(x, format)`*
++ *`int2str(n)`*
+
+*`sprinf(template, ...)`* provides more flexibility to display
+	numerical data as strings. 
+
+
+
+
 
 
 
