@@ -17,7 +17,6 @@
 	- Learn how to write comments in the *Texinfo* typesetting syntax
 		for documentation generation.
 + Miscellaneous
-	- \S10.10 continuation line
 	- \S17.5 Utility function
 	- \S17.6 Special function
 + Generate RTW signals, using PRNG
