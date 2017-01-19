@@ -646,8 +646,9 @@ Functions for string manipulation are found in
 
 Notes based on experiential analysis:
 + Calling the function *`index(s,t,direction)`* with an invalid
-		direction (i.e., not "first" nor "last") will result in a
-		thrown error. \cite[\S5.5, pp. 78-79]{Eaton2016a}.
+	direction (i.e., not "first" nor "last") will result in a
+	thrown error \cite[\S5.5, pp. 78-79]{Eaton2016a}.
+	See [script](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/gnu-octave/i-strings.m).
 
 
 
