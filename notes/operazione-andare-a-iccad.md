@@ -93,6 +93,16 @@ From the *GNU Octave* manual \cite{Eaton2016a}:
 
 
 
+
+
+#	Scripts to Hack
+
++ Script to check if a list of names is unique
+	- Flag similar names, and prompt use to verify their equivalence.
+	- E.g., Ann Kripa George, Ann K. George, and Ann George are 
+		equivalent.
+
+
 #	References
 
 Citations/References that use the *LaTeX/BibTeX* notation are taken
