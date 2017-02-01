@@ -635,6 +635,7 @@ Functions for string comparison, which requires character by
 Functions for string manipulation are found in 
 	\cite[\S5.5, pp. 77-??]{Eaton2016a}:
 + Remove whitespace \cite[\S5.5, pp. 77-78]{Eaton2016a}
+	- *`deblank(s)`*
 + Substring search operations, including the use of regular
 	expressions (regex)
 	\cite[\S5.5, pp. 78-??]{Eaton2016a}.
