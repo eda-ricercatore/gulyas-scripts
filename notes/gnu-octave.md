@@ -634,13 +634,13 @@ Functions for string comparison, which requires character by
 
 Functions for string manipulation are found in 
 	\cite[\S5.5, pp. 77-??]{Eaton2016a}:
-+ Remove whitespace \cite[\S5.5, pp. 77-78]{Eaton2016a}
++ Remove whitespace \cite[\S5.5, pp. 77-78]{Eaton2016a}:
 	- *`deblank(s)`*
 	- *`strtrim(s)`*
 	- *`strtrunc(s,n)`*
 + Substring search operations, including the use of regular
 	expressions (regex)
-	\cite[\S5.5, pp. 78-??]{Eaton2016a}.
+	\cite[\S5.5, pp. 78-80, 87-9]{Eaton2016a}:
 	- *`findstr(s,t)`*
 	- *`findstr(s,t,overlap)`*
 	- *`idx = strchr (str, chars)`*
@@ -650,6 +650,40 @@ Functions for string manipulation are found in
 	- *`index (s, t)`*
 	- *`index (s, t, direction)`*
 	- *`rindex (s, t)`*
+	- *`idx = strfind (str, pattern)`*
+	- *`idx = strfind (cellstr, pattern)`*
+	- *`idx = strfind (..., "overlaps", val)`*
+	- ------------------------------------------
+	- *`substr (s, offset)`* \cite[\S5.5, pp. 87]{Eaton2016a}.
+	- *`substr (s, offset, len)`* \cite[\S5.5, pp. 87]{Eaton2016a}.
+	- *`[s, e, te, m, t, nm, sp] = regexp (str, pat)`* \cite[\S5.5, pp. 87-89]{Eaton2016a}.
+	- *`[...] = regexp (str, pat, "opt1", ...)`* \cite[\S5.5, pp. 87-89]{Eaton2016a}.
++ String set operations \cite[\S5.5, pp. 80]{Eaton2016a}:
+	- *`str = strjoin (cstr)`*
+	- *`str = strjoin (cstr, delimiter)`*
++ String comparison operations \cite[\S5.5, pp. 80-81]{Eaton2016a}:
+	- *`strmatch (s, A)`*
+	- *`strmatch (s, A, "exact")`*
++ String tokenization \cite[\S5.5, pp. 81-84]{Eaton2016a}:
+	- *`[tok, rem] = strtok (str)`*
+	- *`[tok, rem] = strtok (str, delim)`*
+	- *`[cstr] = strsplit (str)`*
+	- *`[cstr] = strsplit (str, del)`*
+	- *`[cstr] = strsplit (..., name, value)`*
+	- *`[cstr, matches] = strsplit (...)`*
+	- *`[cstr] = ostrsplit (s, sep)`*
+	- *`[cstr] = ostrsplit (s, sep, strip_empty)`*
++ String input operations + parsing \cite[\S5.5, pp. 84-86]{Eaton2016a}: 
+	- *`[a, ...] = strread (str)`*
+	- *`[a, ...] = strread (str, format)`*
+	- *`[a, ...] = strread (str, format, format_repeat)`*
+	- *`[a, ...] = strread (str, format, prop1, value1, ... )`*
+	- *`[a, ...] = strread (str, format, format_repeat, prop1, value1, ...)`*
++ (Sub-)String replacement operations \cite[\S5.5, pp. 86]{Eaton2016a}:
+	- *`newstr = strrep (str, ptn, rep)`*
+	- *`newstr = strrep (cellstr, ptn, rep)`*
+	- *`newstr = strrep (..., "overlaps", val)`*
+
 
 
 
