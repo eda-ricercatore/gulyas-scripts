@@ -653,7 +653,6 @@ Functions for string manipulation are found in
 	- *`idx = strfind (str, pattern)`*
 	- *`idx = strfind (cellstr, pattern)`*
 	- *`idx = strfind (..., "overlaps", val)`*
----
 	- *`substr (s, offset)`* \cite[\S5.5, pp. 87]{Eaton2016a}.
 	- *`substr (s, offset, len)`* \cite[\S5.5, pp. 87]{Eaton2016a}.
 	- *`[s, e, te, m, t, nm, sp] = regexp (str, pat)`* \cite[\S5.5, pp. 87-89]{Eaton2016a}.
