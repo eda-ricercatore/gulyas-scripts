@@ -633,7 +633,7 @@ Functions for string comparison, which requires character by
 ####	String Manipulation
 
 Functions for string manipulation are found in 
-	\cite[\S5.5, pp. 77-??]{Eaton2016a}:
+	\cite[\S5.5, pp. 77-91]{Eaton2016a}:
 + Remove whitespace \cite[\S5.5, pp. 77-78]{Eaton2016a}:
 	- *`deblank(s)`*
 	- *`strtrim(s)`*
@@ -701,6 +701,21 @@ Notes based on experiential analysis:
 	direction (i.e., not "first" nor "last") will result in a
 	thrown error \cite[\S5.5, pp. 78-79]{Eaton2016a}.
 	See [script](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/gnu-octave/i-strings.m).
+
+
+
+####	String Conversions
+
+Functions for string manipulation are found in 
+	\cite[\S5.5, pp. 77-??]{Eaton2016a}:
+
+
+
+
+
+
+
+
 
 
 
