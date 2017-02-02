@@ -644,7 +644,7 @@ Functions for string manipulation are found in
 	- *`untabify (t, tw, deblank)`*
 + Substring search operations, including the use of regular
 	expressions (regex) and string matching
-	\cite[\S5.5, pp. 78-80, 87-9]{Eaton2016a}:
+	\cite[\S5.5, pp. 78-80, 87-89]{Eaton2016a}:
 	- *`findstr(s,t)`*
 	- *`findstr(s,t,overlap)`*
 	- *`idx = strchr (str, chars)`*
