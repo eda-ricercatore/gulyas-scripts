@@ -707,7 +707,44 @@ Notes based on experiential analysis:
 ####	String Conversions
 
 Functions for string conversions are found in 
-	\cite[\S5.6, pp. 91-??]{Eaton2016a}:
+	\cite[\S5.6, pp. 91-??]{Eaton2016a}.
+	They convert between representations, such as ASCII, decimal,
+	string (including left/right justification), binary, double,
+	hexadecimal, single/double precision numbers/vector, and numbers
+	of another base.
+	They can also convert strings to uppercase or lowercase.
+	In addition, they can convert between escape sequences/forms to
+	their corresponding representations (as special characters).
++ *`bin2dec (s)`*
++ *`dec2bin (d, len)`*
++ *`dec2hex (d, len)`*
++ *`hex2dec (s)`*
++ *`dec2base (d, base)`*
++ *`dec2base (d, base, len)`*
++ *`base2dec (s, base)`*
++ *`s = num2hex (n)`*
++ *`n = hex2num (s)`*
++ *`n = hex2num (s, class)`*
++ *`str2double (s)`*
++ *`strjust (s)`*
++ *`strjust (s, pos)`*
++ *`x = str2num (s)`*
++ *`[x, state] = str2num (s)`*
++ *`toascii (s)`*
++ *`tolower (s)`*
++ *`lower (s)`*
++ *`toupper (s)`*
++ *`upper (s)`*
++ *`do_string_escapes (string)`*
++ *`undo_string_escapes (s)`*
+
+
+
+
+
+
+
+
 
 
 
