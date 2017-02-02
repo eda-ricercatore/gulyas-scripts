@@ -707,12 +707,12 @@ Notes based on experiential analysis:
 ####	String Conversions
 
 Functions for string conversions are found in 
-	\cite[\S5.6, pp. 91-??]{Eaton2016a}.
+	\cite[\S5.6, pp. 91-96]{Eaton2016a}.
 	They convert between representations, such as ASCII, decimal,
 	string (including left/right justification), binary, double,
 	hexadecimal, single/double precision numbers/vector, and numbers
 	of another base.
-	They can also convert strings to uppercase or lowercase.
+	They can also convert strings to upper case or lower case.
 	In addition, they can convert between escape sequences/forms to
 	their corresponding representations (as special characters).
 + *`bin2dec (s)`*
@@ -740,9 +740,29 @@ Functions for string conversions are found in
 
 
 
+####	Accessor Functions: Character Class Functions
 
-
-
+Character class functions are a category of accessor functions that
+	determine if a string array contains elements of a specific/given
+	character class.
+	That is, are the elements of the string alphanumeric, alphabetic,
+	numeric (in decimal or hexadecimal), lower case, upper case,
+	punctuation characters, whitespace characters, control characters,
+	printable characters, or ASCII characters
+	\cite[\S5.7, pp. 96-98]{Eaton2016a}:
++ *`isalnum (s)`*
++ *`isalpha (s)`*
++ *`isletter (s)`*
++ *`islower (s)`*
++ *`isupper (s)`*
++ *`isdigit (s)`*
++ *`isxdigit (s)`*
++ *`ispunct (s)`*
++ *`isspace (s)`*
++ *`iscntrl (s)`*
++ *`isgraph (s)`*
++ *`isprint (s)`*
++ *`isascii (s)`*
 
 
 
