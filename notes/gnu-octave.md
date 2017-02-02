@@ -638,8 +638,12 @@ Functions for string manipulation are found in
 	- *`deblank(s)`*
 	- *`strtrim(s)`*
 	- *`strtrunc(s,n)`*
++ Modify whitespace \cite[\S5.5, pp. 90-91]{Eaton2016a}:
+	- *`untabify (t)`*
+	- *`untabify (t, tw)`*
+	- *`untabify (t, tw, deblank)`*
 + Substring search operations, including the use of regular
-	expressions (regex)
+	expressions (regex) and string matching
 	\cite[\S5.5, pp. 78-80, 87-9]{Eaton2016a}:
 	- *`findstr(s,t)`*
 	- *`findstr(s,t,overlap)`*
@@ -657,6 +661,10 @@ Functions for string manipulation are found in
 	- *`substr (s, offset, len)`* \cite[\S5.5, pp. 87]{Eaton2016a}.
 	- *`[s, e, te, m, t, nm, sp] = regexp (str, pat)`* \cite[\S5.5, pp. 87-89]{Eaton2016a}.
 	- *`[...] = regexp (str, pat, "opt1", ...)`* \cite[\S5.5, pp. 87-89]{Eaton2016a}.
+	- *`[s, e, te, m, t, nm, sp] = regexpi (str, pat)`* \cite[\S5.5, pp. 89]{Eaton2016a}.
+	- *`[...] = regexpi (str, pat, "opt1", ... )`* \cite[\S5.5, pp. 89]{Eaton2016a}.
+	- *`outstr = regexprep (string, pat, repstr)`* \cite[\S5.5, pp. 90]{Eaton2016a}.
+	- *`outstr = regexprep (string, pat, repstr, "opt1", ... ) `* \cite[\S5.5, pp. 90]{Eaton2016a}.
 + String set operations \cite[\S5.5, pp. 80]{Eaton2016a}:
 	- *`str = strjoin (cstr)`*
 	- *`str = strjoin (cstr, delimiter)`*
@@ -682,8 +690,10 @@ Functions for string manipulation are found in
 	- *`newstr = strrep (str, ptn, rep)`*
 	- *`newstr = strrep (cellstr, ptn, rep)`*
 	- *`newstr = strrep (..., "overlaps", val)`*
-
-
++ String operations regarding regular expressions (regex), and do not
+	involve substring search operations nor string matching
+	\cite[\S5.5, pp. 90]{Eaton2016a}:
+	- *`regexptranslate (op, s)`*
 
 
 Notes based on experiential analysis:
