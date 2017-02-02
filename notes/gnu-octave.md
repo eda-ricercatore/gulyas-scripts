@@ -706,8 +706,8 @@ Notes based on experiential analysis:
 
 ####	String Conversions
 
-Functions for string manipulation are found in 
-	\cite[\S5.5, pp. 77-??]{Eaton2016a}:
+Functions for string conversions are found in 
+	\cite[\S5.6, pp. 91-??]{Eaton2016a}:
 
 
 
