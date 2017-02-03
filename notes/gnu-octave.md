@@ -765,6 +765,9 @@ Character class functions are a category of accessor functions that
 + *`isascii (s)`*
 
 
+It also includes an accessor function to determine the charactes
+	class property of a string; see *`isstrprop(str, prop)`*.
+
 
 
 
