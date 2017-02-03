@@ -854,7 +854,26 @@ The value of a structure can be printed on the console/terminal of
 
 The structure can be copied just like variables of data types.
 	That is, its content would be copied into another variable
-	\cite[\S6.1.1, pp. 99]{Eaton2016a}.
+	\cite[\S6.1.1, pp. 99-100]{Eaton2016a}.
+
+Structures are "treated" as values.
+	Hence, fields/elements of a structure can "reference other
+	structures" \cite[\S6.1.1, pp. 100]{Eaton2016a}.
+
+Note that printing the value of a nested structure, which has
+	structures embedded in a (i.e., top-level) structure, would only
+	print the content of the first few-level (e.g., three) levels.
+	The remaining embedded/nested levels are printed/represented as
+	a struct array with its dimensions (but not content) specified
+	\cite[\S6.1.1, pp. 100-101]{Eaton2016a}.
+
+
+
+
+
+
+
+
 
 ####	Structure Arrays
 
