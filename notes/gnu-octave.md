@@ -800,6 +800,10 @@ However, with double-quoted strings, the backslash character introduces
 
 
 
+
+
+
+
 ##	Information About The Workspace
 
 Information about the workspace, including a list of defined variables
@@ -815,12 +819,24 @@ Information about the workspace, including a list of defined variables
 
 
 
+##	Data Containers and Data Structures
+
+###	Structures
 
 
 
 
 
 
+###	Cell Arrays
+
+
+
+### Lists
+
+####	Variable-length argument lists
+
+####	Variable-length return lists
 
 
 
