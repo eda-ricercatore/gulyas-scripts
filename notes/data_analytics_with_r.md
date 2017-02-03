@@ -1,6 +1,6 @@
 #	Notes About *R*
 
-
+[This is work in progress. To be fixed into categories of books on *R*.]
 
 
 
