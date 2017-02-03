@@ -839,12 +839,29 @@ A structure in *GNU Octave* is implemented as an associative array,
 	structures") \cite[\S6, pp. 99]{Eaton2016a}. 
 
 
+####	Structure Usage
 
+Use a period
+
+####	Structure Arrays
+
+####	Structure Creation
+
+####	Structure Manipulation 
 
 
 
 
 ###	Cell Arrays
+
+####	Cell Array Creation
+
+
+####	Cell Array of Strings
+
+
+####	Cell Array Manipulation
+
 
 
 
