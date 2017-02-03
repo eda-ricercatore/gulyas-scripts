@@ -836,7 +836,7 @@ Two mechanism used by *GNU Octave* to contain arbitrary data types in
 A structure in *GNU Octave* is implemented as an associative array,
 	which indices are limited to strings.
 	Its syntax is similar to similar to structures in *C* (or "C-style
-	structures") \cite[\S6, pp. 99]{Eaton2016a}. 
+	structures") \cite[\S6.1, pp. 99]{Eaton2016a}. 
 
 
 ####	Structure Usage
@@ -844,7 +844,14 @@ A structure in *GNU Octave* is implemented as an associative array,
 To access/modify a field *f* of a structure *s*, concatenate the name
 	of the structure with the name of the field with a period
 	between them.
-	E.g., *s.f*. 
+	E.g., *s.f* \cite[\S6.1.1, pp. 99]{Eaton2016a}.
+
+The value of a structure can be printed on the console/terminal of
+	*GNU Octave*, stating the structure's variable name would suffice.
+	However, the order in which the fields are listed when printing
+	a structure is random
+	\cite[\S6.1.1, pp. 99]{Eaton2016a}.
+
 
 ####	Structure Arrays
 
