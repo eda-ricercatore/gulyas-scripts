@@ -94,12 +94,12 @@ Concepts that are experimentally/empirically demonstrated, but not
 
 
 
+###	Function files (and Script Files)
 
 
 
 
-
-
+###	Function Handles, Anonymous Functions, and Inline Functions
 
 
 
@@ -821,7 +821,23 @@ Information about the workspace, including a list of defined variables
 
 ##	Data Containers and Data Structures
 
+Two mechanism used by *GNU Octave* to contain arbitrary data types in
+	a variable are \cite[\S6, pp. 99]{Eaton2016a}:
++ Structures:
+	- "C-like."
+	- "Indexed with named fields."
++ Cell arrays:
+	- "Each element of the array can have a different data type annd/or
+		shape."
+
+
 ###	Structures
+
+A structure in *GNU Octave* is implemented as an associative array,
+	which indices are limited to strings.
+	Its syntax is similar to similar to structures in *C* (or "C-style
+	structures") \cite[\S6, pp. 99]{Eaton2016a}. 
+
 
 
 
