@@ -841,7 +841,10 @@ A structure in *GNU Octave* is implemented as an associative array,
 
 ####	Structure Usage
 
-Use a period
+To access/modify a field *f* of a structure *s*, concatenate the name
+	of the structure with the name of the field with a period
+	between them.
+	E.g., *s.f*. 
 
 ####	Structure Arrays
 
