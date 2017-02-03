@@ -70,14 +70,19 @@ end_unwind_protect
 disp("	= Cleanup of *unwind_protect* is executed regardless")
 disp("		of whether errors/warnings are generated.")
 
-unwind_protect
-	a = [1 2 3]*[4; 5; 6; 7; 8; 9]
-unwind_protect_cleanup
-	disp("	= Error Caught and Handled.")
-	a = 192837465
-	disp("	= Terminate Program.")
-	%	Program dies as expected: Error found and caught.
-end_unwind_protect
+try
+	unwind_protect
+		a = [1 2 3]*[4; 5; 6; 7; 8; 9]
+	unwind_protect_cleanup
+		disp("	= Error Caught and Handled.")
+		a = 192837465
+		disp("	= Terminate Program.")
+		disp("	= Program must terminate after executing cleanup.")
+		%	Program dies as expected: Error found and caught.
+	end_unwind_protect
+catch
+	disp("	= Proceed with regression testing...")
+end_try_catch
 
 %{
 	a = [4; 5; 6; 7; 8; 9] * [1 2 3]
