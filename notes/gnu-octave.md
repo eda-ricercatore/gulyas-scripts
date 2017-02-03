@@ -852,6 +852,9 @@ The value of a structure can be printed on the console/terminal of
 	a structure is random
 	\cite[\S6.1.1, pp. 99]{Eaton2016a}.
 
+The structure can be copied just like variables of data types.
+	That is, its content would be copied into another variable
+	\cite[\S6.1.1, pp. 99]{Eaton2016a}.
 
 ####	Structure Arrays
 
