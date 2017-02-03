@@ -766,7 +766,8 @@ Character class functions are a category of accessor functions that
 
 
 It also includes an accessor function to determine the charactes
-	class property of a string; see *`isstrprop(str, prop)`*.
+	class property of a string; see *`isstrprop(str, prop)`*
+	\cite[\S5.7, pp. 98]{Eaton2016a}.
 
 
 
