@@ -76,6 +76,7 @@ unwind_protect_cleanup
 	disp("	= Error Caught and Handled.")
 	a = 192837465
 	disp("	= Terminate Program.")
+	%	Program dies as expected: Error found and caught.
 end_unwind_protect
 
 %{

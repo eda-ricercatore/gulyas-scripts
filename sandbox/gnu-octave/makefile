@@ -29,24 +29,28 @@
 #       Regression Testing.
 torture:
 	@echo "========================================================="
-	@echo "Call function without input arguments nor return variable."
+	@echo "=>	Call function without input arguments nor return variable."
 	./a_caller.m
 	@echo "========================================================="
-	@echo "Call function with input arguments, without return variable."
+	@echo "=>	Call function with input arguments, without return variable."
 	./b_caller.m
 	@echo "========================================================="
-	@echo "Call another function: input arguments, no return variable."
+	@echo "=>	Call another function: input arguments, no return variable."
 	./c_caller.m
 	@echo "========================================================="
-	@echo "Call function: input arguments, return variables."
+	@echo "=>	Call function: input arguments, return variables."
 	./d_caller.m
 	@echo "========================================================="
-	@echo "Test: Resetting PRNG."
+	@echo "=>	Test: Resetting PRNG."
 	./e-prng-reset.m
-
-
-
-
+	./e-prng-vector-reset.m
+	@echo "========================================================="
+	@echo "=>	Test raising errors."
+	./f-raising-errors.m
+	@echo "=>	Test try-catch block implementation."
+	./f-try-catch-block.m
+	@echo "=>	Test unwind-protect implementation."
+	./f-unwind-protect.m
 
 
 
