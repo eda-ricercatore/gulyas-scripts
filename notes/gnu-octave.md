@@ -910,7 +910,8 @@ A structure array is a subset of structures, and each of its fields
 	Since these cell arrays have the same dimensions, a structure
 	array can also be recognized as an array of structures, where
 	each of these structures has identifical field.
-	Alternatively, index and print the field/element of the structure
+	Alternatively, index and print the field/element of the structure.
+	That is, use the vectors as indices to the structure array  
 	\cite[\S6.1.2, pp. 103]{Eaton2016a}.
 
 
