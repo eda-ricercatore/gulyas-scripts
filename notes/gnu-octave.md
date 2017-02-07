@@ -907,8 +907,10 @@ To enumerate all elements of a structure, use a special form of the
 
 A structure array is a subset of structures, and each of its fields
 	"is [be] represented by a cell array." 
-
-\cite[\S6.1.2, pp. 103]{Eaton2016a}.
+	Since these cell arrays have the same dimensions, a structure
+	array can also be recognized as an array of structures, where
+	each of these structures has identifical field
+	\cite[\S6.1.2, pp. 103]{Eaton2016a}.
 
 
 
