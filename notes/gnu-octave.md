@@ -885,11 +885,40 @@ Use the function *`print_struct_array_contents ()`* to determine or
 		would be printed \cite[\S6.1.1, pp. 101]{Eaton2016a}.
 
 
+Structures can be returned by functions as their output
+	\cite[\S6.1.1, pp. 101-102]{Eaton2016a}.
+
+To enumerate all elements of a structure, use a special form of the
+	*`for`* statement for a variable (named *`expression`*)
+	\cite[\S10.5.1, pp. 165-166]{Eaton2016a}.
+
+	for [val, key ] = expression
+		body
+	endfor
+
+
+
+
 
 
 
 
 ####	Structure Arrays
+
+
+\cite[\S6.1.2, pp. 103]{Eaton2016a}.
+
+
+
+
+
+
+
+
+
+
+
+
 
 ####	Structure Creation
 
