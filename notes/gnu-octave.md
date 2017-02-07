@@ -919,6 +919,10 @@ A structure array is a subset of structures, and each of its fields
 
 ####	Structure Creation
 
+Structures can be created using \cite[\S6.1.3, pp. 103]{Eaton2016a}:
++ the index operator *`.`*
+
+
 ####	Structure Manipulation 
 
 
