@@ -911,19 +911,10 @@ A structure array is a subset of structures, and each of its fields
 	array can also be recognized as an array of structures, where
 	each of these structures has identifical field.
 	Alternatively, index and print the field/element of the structure.
-	That is, use the vectors as indices to the structure array  
+	That is, use the vectors as indices to the structure array.
+	Similarly, elements of a structure array can be deleted by
+	assigning them to an empty matrix
 	\cite[\S6.1.2, pp. 103]{Eaton2016a}.
-
-
-
-
-
-
-
-
-
-
-
 
 
 ####	Structure Creation
