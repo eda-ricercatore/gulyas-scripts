@@ -844,7 +844,7 @@ A structure in *GNU Octave* is implemented as an associative array,
 To access/modify a field *f* of a structure *s*, concatenate the name
 	of the structure with the name of the field with a period
 	between them.
-	E.g., *s.f* \cite[\S6.1.1, pp. 99]{Eaton2016a}.
+	E.g., *s.f* \cite[\S6.1.1, pp. 99]{Eaton2016a}.d
 
 The value of a structure can be printed on the console/terminal of
 	*GNU Octave*, stating the structure's variable name would suffice.
@@ -867,8 +867,22 @@ Note that printing the value of a nested structure, which has
 	a struct array with its dimensions (but not content) specified
 	\cite[\S6.1.1, pp. 100-101]{Eaton2016a}.
 
+The *`function struct_levels_to_print()`* is used to determine or set
+	the number of levels (of the nested structure) to print.
+	*`val = struct_levels_to_print()`* is used to find out the
+		number of levels (of the nested structure) to print. 
+	*`old_val = struct_levels_to_print(new_val)`* is used to set the
+		number of levels (of the nested structure) to print.
+	*`struct_levels_to_print(new_val, "local")`* is used to set the
+		number of levels (of the nested structure) to print locally,
+		such that only the function and called subroutines are
+		affected \cite[\S6.1.1, pp. 101]{Eaton2016a}.
 
-
+Use the function *`print_struct_array_contents ()`* to determine or
+	set the boolean flag that specifies whether to print the contents
+	of the struct array.
+	If the boolean flag is set to true, the contents of struct arrays
+		would be printed \cite[\S6.1.1, pp. 101]{Eaton2016a}.
 
 
 
