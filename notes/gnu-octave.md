@@ -921,6 +921,14 @@ A structure array is a subset of structures, and each of its fields
 
 Structures can be created using \cite[\S6.1.3, pp. 103]{Eaton2016a}:
 + the index operator *`.`*
++ the *`struc`* function
++ dynamic naming *`(var)`*, by using the variable's string value (or
+	arbitrary string) as the field name, instead of only valid *GNU
+	Octave* identifiers.
+	Note that *MATLAB* does not allow dynaming naming to use arbitrary
+	strings.
+
+
 
 
 ####	Structure Manipulation 
