@@ -905,6 +905,8 @@ To enumerate all elements of a structure, use a special form of the
 
 ####	Structure Arrays
 
+A structure array is a subset of structures, and each of its fields
+	"is [be] represented by a cell array." 
 
 \cite[\S6.1.2, pp. 103]{Eaton2016a}.
 
