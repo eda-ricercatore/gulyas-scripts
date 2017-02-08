@@ -51,7 +51,16 @@ torture:
 	./f-try-catch-block.m
 	@echo "=>	Test unwind-protect implementation."
 	./f-unwind-protect.m
-
+	@echo "=>	Test error catching."
+	./g-catching-errors.m
+	@echo "=>	Test debugging mode entry/exit."
+	./g-debugging-mode-enter-exit-warning.m
+	@echo "=>	Test debugging mode entry/exit (#2)."
+	./g-debugging-mode-enter-exit.m
+	@echo "=>	Test error recovery: try-catch block."
+	./g-error-recovery.m
+	@echo "=>	Test raising errors."
+	./g-raising_warnings.m
 
 
 

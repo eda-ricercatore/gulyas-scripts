@@ -54,7 +54,9 @@ cur_val = debug_on_interrupt(new_val)
 updated_val = debug_on_interrupt()
 
 for i = 1:1000000
-	printf("The value of i is: %d.\n",i)
+	if(mod(i,100000) == 1)
+		printf("The value of i is: %d.\n",i);
+	endif
 endfor
 
 

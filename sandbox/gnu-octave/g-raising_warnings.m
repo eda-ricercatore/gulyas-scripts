@@ -53,10 +53,16 @@ b = -1
 if (b < 0)
 	warning("'b' < 0; its factorial cannot be determined.")
 endif
+
 disp("	= I know how to raise a warning.")
-warning("error")
-disp("	= Raise a warning as an error.")
-warning("	= Set all warnings as errors.")
+
+try
+	warning("error")
+	disp("	= Raise a warning as an error.")
+	warning("	= Set all warnings as errors.")
+catch WarningThrownAsError
+	disp("	= Warning thrown as an error.")
+end_try_catch
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 disp("============================================================")

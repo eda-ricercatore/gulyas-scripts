@@ -84,19 +84,20 @@ disp("	= 	can't be incremented.")
 disp("------------------------------------------------------------")
 
 try
-	error("=	Raise yet another foolish error.")
-catch Unmatched_Matrices_Error3
-	disp("	= Error: Unmatched Matrices")
-	disp("	= Error is caught.")
-	a = [1 2 8; 2 9 3; 7 3 54]*[49 89 32; 25 6 20; -12 -21 -43]
-	Unmatched_Matrices_Error3
-	beep()
-	Unmatched_Matrices_Error2
-	rethrow(Unmatched_Matrices_Error)
+	try
+		error("=	Raise yet another foolish error.")
+	catch Unmatched_Matrices_Error3
+		disp("	= Error: Unmatched Matrices")
+		disp("	= Error is caught.")
+		a = [1 2 8; 2 9 3; 7 3 54]*[49 89 32; 25 6 20; -12 -21 -43]
+		Unmatched_Matrices_Error3
+		beep()
+		Unmatched_Matrices_Error2
+		rethrow(Unmatched_Matrices_Error)
+	end_try_catch
+catch Unmatched_Matrices_Error4
+	disp("	= Finished raising & catching old errors.")
 end_try_catch
-
-
-
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 disp("============================================================")
