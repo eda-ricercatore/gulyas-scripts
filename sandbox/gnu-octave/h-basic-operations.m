@@ -24,7 +24,8 @@
 
 disp("============================================================")
 disp("	Begin:	Testing basic operations.")
-
+disp("=	Testing all data types, except data containers")
+disp("=		(i.e., struc and cell array).")
 format('long')
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
