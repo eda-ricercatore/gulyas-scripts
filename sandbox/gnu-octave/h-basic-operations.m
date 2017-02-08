@@ -47,6 +47,30 @@ type_of_c = typeinfo(c)
 type_of_d = typeinfo(d)
 type_of_e = typeinfo(e)
 
+f1 = 123.456789
+%g1 = 918273645
+g1 = 918273
+h = 6574839201.1837465
+if(isa(f1,"float"))
+	printf("=	The value of f1 is:		%f.\n",f1)
+else
+	disp(">	Type of f1 is wrong!!!")
+endif
+
+if(isa(g1,"integer"))
+	printf("=	The value of g1 is:		%d.\n",g1)
+elseif(isa(g1,"float"))
+	printf("=	value of float g1 is:		%f.\n",g1)
+else
+	disp(">	Type of g1 is wrong!!!")
+endif
+
+if(isa(h,"numeric"))
+	printf("=	The value of h is:		%g.\n",h)
+else
+	disp(">	Type of h is wrong!!!")
+endif
+
 
 printf("=	The value of sizemax is:	%d.\n",sizemax)
 printf("=	The value of intmax is:		%d.\n",intmax)
@@ -70,8 +94,35 @@ printf("=	eps('double'):			%g.\n",eps("double"))
 	"eps(x) returns the distance between 'x' and the next largest value."
 	\cite{Abbott2016,Eaton2016}.
 %}
-print("=	Explicitly represent a matrix." matlab, %g,)
-print("=	Compare matrices to NA (not available), using isna(g)", %g,)
+
+disp("=	Perform arithmetic on complex numbers.")
+a = complex(5,4)
+b = complex(3,7)
+c = a + b 
+
+disp("=	Cast 32-bit value into 8-bit value.")
+try
+	n315 = cast(315,"uint8") 
+	disp(">	Numbers > 255 are cast into 255 (max 8-bit value).")
+catch CastingOverflow
+	disp(">	Casting 32-bit value into 8-bit value is forbidden.")
+end_try_catch
+disp("=	Cast 32-bit value into 64-bit value.")
+n130 = cast(130,"uint64")
+disp("=	Cast double value into 8-bit value.")
+n34 = cast(34.565739829,"uint8")
+n34 = cast(34.365739829,"uint8")
+disp(">	Casting floating-point numbers into integers")
+disp(">		would round them [off] to nearest integer.")
+
+disp("=	Access data in the address indicated by '34.565739829'")  
+n34 = typecast(34.565739829,"uint8")
+
+
+disp("=	Missing data representation.")
+k1 = NA(2,3,4)
+%print("=		for a matrix:", matlab, %g,)
+%print("=		Compare matrices to NA (not available), using isna(g)", %g,)
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

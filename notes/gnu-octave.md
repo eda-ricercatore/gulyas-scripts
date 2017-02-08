@@ -537,11 +537,11 @@ The classes that `x` and `"class"` belong to are restricted to the
 ###	Missing Data Representation
 
 Missing data can be explicitly represented in *GNU Octave* as
-	`"NM(n,m,k, ...)"` and `"NM(class)"`.
+	`"NA(n,m,k, ...)"` and `"NA(class)"`.
 These functions return a scalar, matrix, or N-dimensional array
 	containing elements that "are all equal to the special constant
  	used to designate missing values `NA` (i.e., "Not Available").
-When the input argument(s) of `"NM(n,m,k, ...)"` are/is
+When the input argument(s) of `"NA(n,m,k, ...)"` are/is
 	\cite[\S3.1.2, pp. 43]{Eaton2016a}:
 + empty (i.e., no input arguments), return the scalar value `NA`.
 + one (`n`), return a square matrix with the same dimensions as `n`.
