@@ -415,7 +415,7 @@ List of built-in data types \cite[\S3 and \S3.1, pp. 39]{Eaton2016a}:
 		in single- or double- quote marks.
 		It is stored internally by *GNU Octave* as matrices of
 		characters \cite[\S3.1.3, pp. 43]{Eaton2016a}.
-		See [script that determines the data type of various variables](sandbox/gnu-octave/h-basic-operations.m).
+		See [script that determines the data type of various variables](../sandbox/gnu-octave/h-basic-operations.m).
 + struc, a data structure type:
 	Currently, implemented as "an associative array with indices
 	limited to strings" \cite[\S3.1.4, pp. 43]{Eaton2016a}.
