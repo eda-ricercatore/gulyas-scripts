@@ -59,9 +59,16 @@ torture:
 	./g-debugging-mode-enter-exit.m
 	@echo "=>	Test error recovery: try-catch block."
 	./g-error-recovery.m
-	@echo "=>	Test raising errors."
+	@echo "=>	Test raising warnings as errors."
 	./g-raising_warnings.m
-
+	@echo "=>	Test basic operations."
+	./h-basic-operations.m
+	@echo "=>	Test structure operations."
+	./h-structures.m
+	@echo "=>	Test class operations."
+	./i-class.m
+	@echo "=>	Test string operations."
+	./i-strings.m
 
 
 

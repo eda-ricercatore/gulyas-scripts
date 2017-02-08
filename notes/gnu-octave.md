@@ -402,19 +402,20 @@ List of built-in data types \cite[\S3 and \S3.1, pp. 39]{Eaton2016a}:
 	- A range is "a row vector with evenly spaced elements."
 	- Its format is: *base*:*increment*:*limit*.
 	- The increment is an optional number.
-	- To turn a range into the *row vector* data type, place the
-		range within square brackets.
+	- To turn a range into the *row vector* (i.e., matrix) data type,
+		place the range within square brackets.
 	- E.g., [*base*:*increment*:*limit*].
 	- Note that if it is important to include the endspoints of
 		range, and the number of elements is known, use the
 		`linspace` function instead.
 	- Note that the optional *increment* must be a non-zero number.
 	- See \cite[\S4.2, pp. 52-53]{Eaton2016a}.
-+ character strings
++ character strings (i.e., strings)
 	- A character string is a "sequence of characters" enclosed
 		in single- or double- quote marks.
 		It is stored internally by *GNU Octave* as matrices of
-		characters \cite[\S3.1.3, pp. 43]{Eaton2016a}
+		characters \cite[\S3.1.3, pp. 43]{Eaton2016a}.
+		See [script that determines the data type of various variables](sandbox/gnu-octave/h-basic-operations.m).
 + struc, a data structure type:
 	Currently, implemented as "an associative array with indices
 	limited to strings" \cite[\S3.1.4, pp. 43]{Eaton2016a}.

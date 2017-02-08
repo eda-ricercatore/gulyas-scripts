@@ -1,7 +1,7 @@
 #!/opt/local/bin/octave
 
-%	This is written by Zhiyang Ong to test my knowledge of managing
-%		errors (and exceptions) in GNU Octave.
+%	This is written by Zhiyang Ong to test my knowledge of string
+%		manipulation in GNU Octave.
 %
 %
 %	The MIT License (MIT)
@@ -20,31 +20,35 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %	Preamble.
-%addpath("/Users/zhiyang/Documents/ricerca/gulyas-scripts/dummy")
 
 disp("============================================================")
-disp("	Begin:	Testing basic operations.")
+disp("	Begin:	Test Class Operations.")
+
 
 format('long')
 
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-disp("=	Pre- matrix transpose operation.")
-a = [1 2 3; 4 5 6; 7 8 9; 10 11 12; 13 14 15]
-b = a'
-disp("=	Matrix transpose operation: Finished.")
+disp("=	Create a class.")
+disp("=	Instantiate an instance of the class.")
 
-c = 17:3:29
-printf("The range of i is: %d.\n",c)
-d = [c]
-e = "Ciao Mondo!"
+disp("=	Determine the name/class of the object.")
+disp("=	Determine if the object belongs to the given class.")
 
-disp("=	Get the type of 'a', 'b', 'c', 'd', and 'e'.")
-type_of_a = typeinfo(a)
-type_of_b = typeinfo(b)
-type_of_c = typeinfo(c)
-type_of_d = typeinfo(d)
-type_of_e = typeinfo(e)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -54,5 +58,5 @@ type_of_e = typeinfo(e)
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 disp("============================================================")
-disp("	End:	Testing basic operations.")
+disp("	End:	Test Class Operations.")
 
