@@ -70,6 +70,8 @@ printf("=	eps('double'):			%g.\n",eps("double"))
 	"eps(x) returns the distance between 'x' and the next largest value."
 	\cite{Abbott2016,Eaton2016}.
 %}
+print("=	Explicitly represent a matrix." matlab, %g,)
+print("=	Compare matrices to NA (not available), using isna(g)", %g,)
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
