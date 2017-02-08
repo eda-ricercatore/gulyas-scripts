@@ -25,7 +25,7 @@
 disp("============================================================")
 disp("	Begin:	Testing basic operations.")
 disp("=	Testing all data types, except data containers")
-disp("=		(i.e., struc and cell array).")
+disp("		(i.e., struc and cell array).")
 format('long')
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -48,9 +48,28 @@ type_of_d = typeinfo(d)
 type_of_e = typeinfo(e)
 
 
-
-
-
+printf("=	The value of sizemax is:	%d.\n",sizemax)
+printf("=	The value of intmax is:		%d.\n",intmax)
+if(sizemax < intmax)
+	printf("=	sizemax %d < intmax %d is expected.\n",sizemax,intmax)
+endif
+printf("=	The value of realmax is:	%f.\n",realmax)
+printf("=	The value of realmin is:	%f.\n",realmin)
+printf("=	The value of realmax is:	%e.\n",realmax)
+printf("=	The value of realmin is:	%e.\n",realmin)
+printf("=	The value of eps is:		%g.\n",eps)
+printf("=	Value of eps(294345.32423):	%g.\n",eps(294345.32423))
+printf("=	eps(1,2,3,'single'):		%g.\n",eps(1,2,3,"single"))
+printf("=	eps('single'):			%g.\n",eps("single"))
+printf("=	eps('double'):			%g.\n",eps("double"))
+%{
+	"eps" indicates the precision of the machine, specifically the
+	relative spacing between any pair of adjacent numbers in the
+	floating point system of the machine. 
+	"eps" is system dependent.
+	"eps(x) returns the distance between 'x' and the next largest value."
+	\cite{Abbott2016,Eaton2016}.
+%}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
