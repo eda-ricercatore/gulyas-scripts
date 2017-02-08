@@ -64,9 +64,9 @@ torture:
 	@echo "=>	Test basic operations."
 	./h-basic-operations.m
 	@echo "=>	Test structure operations."
-	./h-structures.m
+	#./h-structures.m
 	@echo "=>	Test class operations."
-	./i-class.m
+	#./i-class.m
 	@echo "=>	Test string operations."
 	./i-strings.m
 

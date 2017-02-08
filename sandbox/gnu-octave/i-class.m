@@ -37,7 +37,7 @@ disp("=	Determine the name/class of the object.")
 %	Use the isa() function.
 disp("=	Determine if the object belongs to the given class.")
 disp("=	Cast a variable (of a given data type) into a class.")
-%	Use the typecast function.
+%	Use the cast/typecast function.
 
 
 

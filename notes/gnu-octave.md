@@ -585,8 +585,8 @@ By convention, each row of characters is a string in *GNU Octave*,
 In *GNU Octave*, a string is a character vector, rather than merely a
 	character matrix.
 	Hence, use the *`ischar(x)`* and *`isvector(x)`* functions to
-	determine if a variable is a character vector or a character
-	matrix \cite[\S5.2, pp. 68]{Eaton2016a}.
+	determine if a variable is a character array/matrix or a character
+	vector \cite[\S5.2, pp. 68]{Eaton2016a}.
 
 It is recommended to use double quotes to denote strings, since a
 	single quote is used as the operator for matrix transpose 

@@ -31,9 +31,95 @@ format('long')
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+disp("=	Create a character vector.")
+a1 = "Ciao!"
+if(ischar(a1))
+	disp(">	a1 is a character array/matrix.")
+else
+	disp(">	a1 IS NOT a character array/matrix.")
+endif
+
+if(isvector(a1))
+	disp(">	a1 is a character vector.")
+else
+	disp(">	a1 IS NOT a character vector.")
+endif
+
+disp("------------------------------------------------------------")
+
+disp("=	Create a character matrix.")
+a2 = ["Mondo."]
+if(ischar(a2))
+	disp(">	a2 is a character array/matrix.")
+else
+	disp(">	a2 IS NOT a character array/matrix.")
+endif
+
+if(isvector(a2))
+	disp(">	a2 IS A character vector???")
+else
+	disp(">	a2 is not a character vector.")
+endif
+
+disp("------------------------------------------------------------")
+
+disp("=	Create another character matrix.")
+a3 = ["Amo la mamma", ""]
+if(ischar(a3))
+	disp(">	a3 is a character array/matrix.")
+else
+	disp(">	a3 IS NOT a character array/matrix.")
+endif
+
+if(isvector(a3))
+	disp(">	a3 IS A character vector???")
+else
+	disp(">	a3 is not a character vector.")
+endif
+
+disp("------------------------------------------------------------")
+
+disp("=	Create yet another character matrix.")
+a4 = [""; ""; "Amo la mamma"; ""; ""; ""; ""; ""; ""]
+if(ischar(a4))
+	disp(">	a4 is a character array/matrix.")
+else
+	disp(">	a4 IS NOT a character array/matrix.")
+endif
+
+if(isvector(a4))
+	disp(">	a4 IS A character vector???")
+else
+	disp(">	a4 is not a character vector.")
+endif
+
+disp("=	Create character matrix #5.")
+a5 = ["Amo la mamma"; "@"]
+if(ischar(a5))
+	disp(">	a5 is a character array/matrix.")
+else
+	disp(">	a5 IS NOT a character array/matrix.")
+endif
+
+if(isvector(a5))
+	disp(">	a5 IS A character vector???")
+else
+	disp(">	a5 is not a character vector.")
+endif
+
+disp("=	When creating a character matrix (i.e., array of strings),")
+disp("		it is an array of character vectors.")
+disp("	However, a matrix of null strings, except for 1 element,")
+disp("		would cast that non-null string into a character vector.")
+
+disp("------------------------------------------------------------")
+collection = [ "String #1"; "String #2" ]
+ischar (collection)
+ischar (collection) && isvector (collection)
+ischar ("my string") && isvector ("my string")
 
 
-
+disp("------------------------------------------------------------")
 c_string = 'Ciao, '
 d_string = "buona giornata!!!"
 printf("=	Concatenate the strings %s and %s.\n", "c_string", "d_string")
