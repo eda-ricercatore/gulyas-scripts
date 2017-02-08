@@ -808,8 +808,7 @@ However, with double-quoted strings, the backslash character introduces
 ##	Information About The Workspace
 
 For information about the workspace, including a list of defined variables
-	and their properties, see
-	\cite[\S7.3, pp. 127]{Eaton2016a}
+	and their properties, see \cite[\S7.3, pp. 127]{Eaton2016a}.
 
 
 
