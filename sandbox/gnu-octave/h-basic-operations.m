@@ -120,9 +120,24 @@ n34 = typecast(34.565739829,"uint8")
 
 
 disp("=	Missing data representation.")
-k1 = NA(2,3,4)
+k0 = NA()
+k1 = NA(5)
+k2 = NA(2,3,4)
 %print("=		for a matrix:", matlab, %g,)
 %print("=		Compare matrices to NA (not available), using isna(g)", %g,)
+
+if(NA == NA)
+	disp("(NA == NA) is TRUE.")
+elseif(isna(k0))
+	disp("<	Value of 'k0' is NA.")
+	disp("<	(NA == NA) is FALSE.")
+endif
+
+disp("=	Determine which element of 'k3' is 'NA'.")
+k3 = [2 3 4 5 NA() 7 8]
+k4 = isna(k3)
+
+
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
