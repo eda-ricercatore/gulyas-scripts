@@ -59,6 +59,8 @@ torture:
 	./g-debugging-mode-enter-exit.m
 	@echo "=>	Test error recovery: try-catch block."
 	./g-error-recovery.m
+	@echo "=>	Test software profiling."
+	./g-profiling.m
 	@echo "=>	Test raising warnings as errors."
 	./g-raising_warnings.m
 	@echo "=>	Test basic operations."

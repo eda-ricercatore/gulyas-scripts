@@ -1,7 +1,7 @@
 #!/opt/local/bin/octave
 
-%	This is written by Zhiyang Ong to test my knowledge of managing
-%		errors (and exceptions) in GNU Octave.
+%	This is written by Zhiyang Ong to test my knowledge of using
+%		try-and-catch block in GNU Octave.
 %
 %
 %	The MIT License (MIT)

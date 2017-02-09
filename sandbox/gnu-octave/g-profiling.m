@@ -1,7 +1,7 @@
 #!/opt/local/bin/octave
 
-%	This is written by Zhiyang Ong to test my knowledge of managing
-%		errors (and exceptions) in GNU Octave.
+%	This is written by Zhiyang Ong to test my knowledge of profiling
+%		in GNU Octave.
 %
 %
 %	The MIT License (MIT)
@@ -54,7 +54,9 @@ cur_val = debug_on_interrupt(new_val)
 updated_val = debug_on_interrupt()
 
 for i = 1:1000000
-	printf("The value of i is: %d.\n",i)
+	if(mod(i,10000) == 0)
+		printf("The value of i is: %d.\n",i)
+	endif
 endfor
 
 

@@ -1,5 +1,5 @@
-%	This is written by Zhiyang Ong to generate random-telegraph waves
-%		(RTW).
+%	This is written by Zhiyang Ong to test my implementation of
+%		functions in GNU Octave.
 %
 %
 %	The MIT License (MIT)
