@@ -4,6 +4,17 @@
 %		out basic operations in GNU Octave.
 %
 %
+%
+%	References:
+%		[Eaton1996] John W. Eaton, "Built-in Variables", in manual
+%			for Octave version 1.1.1, January 1995. Available from
+%			{\it GNU documentation tree, Department of Mathematics,
+%			College of Science, University of Utah} at:
+%			\url{https://www.math.utah.edu/docs/info/octave_8.html};
+%			last accessed on February 9, 2017.
+%
+%
+%
 %	The MIT License (MIT)
 %
 %	Copyright (c) <2016> Zhiyang Ong
@@ -137,8 +148,31 @@ disp("=	Determine which element of 'k3' is 'NA'.")
 k3 = [2 3 4 5 NA() 7 8]
 k4 = isna(k3)
 
+disp("=	List predefined constants of GNU Octave.")
+m1 = I
+m1 = i
+m1 = J
+m1 = j
+m1 = Inf
+m1 = inf
+m1 = NaN
+m1 = nan
+m1 = eps
+m1 = pi
+m1 = realmax
+m1 = realmin
+disp("=	Other predefined constants of GNU Octave are:")
+printf("	-%s\n	-%s\n	-%s\n","stdin","stdout","stderr")
+printf("	-%s\n	-%s\n	-%s\n","SEEK_SET","SEEK_CUR","SEEK_END")
 
-
+disp("=	Environment variables [Eaton1996]:")
+disp("	- EDITOR: Text editor for GNU Octave.")
+disp("	- IMAGEPATH: Location of image files.")
+disp("	- INFO_FILE: Location of GNU Octave info file.")
+disp("	- LOADPATH: List of directories to search for function files.")
+disp("	- OCTAVE_VERSION: Version of GNU Octave.")
+disp("	- PS1: Primary prompt string.")
+disp("	- PS2: Secondary prompt string.")
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 disp("============================================================")

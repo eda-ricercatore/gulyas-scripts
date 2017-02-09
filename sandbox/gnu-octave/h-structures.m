@@ -123,8 +123,35 @@ disp("=		then dimension (i+2), ...")
 x.a
 disp("=	Print content of 'x(2,3)'.")
 x(2,3)
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 disp("=	Print content of non-existent 'x(4,9)'.")
-%x(4,9)
+try
+	x(4,9)
+catch ArrayIndexOutOfBoundsError
+	disp(">>	ArrayIndexOutOfBoundsError occurred.")
+end_try_catch
+
+try
+	z
+catch UndefinedVariableError
+	disp(">>	Undefined variables cannot be accessed.")
+end_try_catch
+
+try
+	x.c
+catch NoSuchMemberError
+	disp(">>	Undefined members of array elements can't be accessed.") 
+end_try_catch
+
+
+disp("=	Delete x(2,3).a.")
+x(2,3).a = {}
+disp("=	Delete x(2,4).a.")
+x(2,4).a = []
+disp("=	Print content of 'x.a' again.")
+x.a
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
