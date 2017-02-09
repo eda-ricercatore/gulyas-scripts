@@ -1,7 +1,7 @@
 #!/opt/local/bin/octave
 
-%	This is written by Zhiyang Ong to test my knowledge of string
-%		manipulation in GNU Octave.
+%	This is written by Zhiyang Ong to test my knowledge of instantiating
+%		and using objects of classes in GNU Octave.
 %
 %
 %	The MIT License (MIT)

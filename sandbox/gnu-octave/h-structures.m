@@ -1,7 +1,7 @@
 #!/opt/local/bin/octave
 
 %	This is written by Zhiyang Ong to test my knowledge of managing
-%		errors (and exceptions) in GNU Octave.
+%		and using structures in GNU Octave.
 %
 %
 %	The MIT License (MIT)
