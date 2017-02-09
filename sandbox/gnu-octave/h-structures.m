@@ -25,41 +25,12 @@
 disp("============================================================")
 disp("	Begin:	Enter/Exit Debugging Mode")
 
-
 format('long')
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-%	Matrices with matching dimensions for multiplications.
-%	a = [1 2 3]*[4; 5; 6]
-%	Matrices with non-matching dimensions for multiplications.
-%		Generates an error.
-%	a = [1 2 3]*[4; 5; 6; 7; 8; 9]
-
-
-%	Divide a number by zero.
-%		Generates a warning, not an error.
-%	a = 57/0
-
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 disp("------------------------------------------------------------")
-old_val = debug_on_interrupt()
-disp("	Enter Debugging Mode.")
-%debug_on_interrupt()
-new_val = 74629;
-cur_val = debug_on_interrupt(new_val)
-updated_val = debug_on_interrupt()
-
-for i = 1:1000000
-	printf("The value of i is: %d.\n",i)
-endfor
-
-
-%dbcont
-disp("	= Left Debugging Mode.")
+disp("	Begin:	Structure Testing.")
 
 
 
@@ -68,5 +39,5 @@ disp("	= Left Debugging Mode.")
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 disp("============================================================")
-disp("	End:	Enter/Exit Debugging Mode")
+disp("	End:	Structure Testing")
 
