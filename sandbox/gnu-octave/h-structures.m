@@ -32,6 +32,12 @@ format('long')
 disp("------------------------------------------------------------")
 disp("	Begin:	Structure Testing.")
 
+disp("=	Create structure for logic signals.")
+logic_signal.shape = "RTW"
+logic_signal.value = 0
+logic_signal.value1 = false
+logic_signal.value2 = true
+
 
 
 
