@@ -62,7 +62,7 @@ computer_system
 
 disp("------------------------------------------------------------")
 disp("	Test structures by using functions.")
-
+[clk_signal, bio_signal] = h_callee(digital_signal, logic_signal)
 
 
 
