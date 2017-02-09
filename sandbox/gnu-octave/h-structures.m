@@ -65,11 +65,20 @@ disp("	Test structures by using functions.")
 [clk_signal, bio_signal] = h_callee(digital_signal, logic_signal)
 
 
+disp("------------------------------------------------------------")
+disp("	Enumerate all elements of a structure using a for statement.")
+disp("=		Print name of element (of the structure).")
+disp("=		Print value of element (of the structure).")
+for [value, key] = clk_signal
+	key
+	value
+endfor
+
 
 disp("------------------------------------------------------------")
 disp("	Test array of structures.")
 
-circuit_signals = { digital_signal, logic_signal}
+circuit_signals = { digital_signal, logic_signal, clk_signal }
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
