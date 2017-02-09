@@ -80,6 +80,52 @@ disp("	Test array of structures.")
 
 circuit_signals = { digital_signal, logic_signal, clk_signal }
 
+nbl(1).signal = "Square wave."
+nbl(1).num_clk_cycles = 512
+nbl(2).signal = "Random telegraph wave (RTW)."
+nbl(2).num_clk_cycles = 1024
+nbl(3).signal = "Sine wave."
+nbl(3).num_clk_cycles = 1024
+nbl(4).signal = "Cosine wave."
+nbl(4).num_clk_cycles = 1024
+nbl(5).signal = "Decaying sinusoidal wave."
+nbl(5).num_clk_cycles = 1024
+
+x(1,1).a = "string 1,1"
+x(1,2).a = "string 1,2"
+x(1,3).a = "string 1,3"
+x(1,4).a = "string 1,4"
+x(1,5).a = "string 1,5"
+x(2,1).a = "string 2,1"
+x(2,2).a = "string 2,2"
+x(2,3).a = "string 2,3"
+x(2,4).a = "string 2,4"
+x(2,5).a = "string 2,5"
+x(1,1).b = 1
+x(1,2).b = 2
+x(1,3).b = 3
+x(1,4).b = 4
+x(1,5).b = 5
+x(2,1).b = 6
+x(2,2).b = 7
+x(2,3).b = 8
+x(2,4).b = 9
+x(2,5).b = 10
+
+disp("=	Print content of 'nbl'.")
+nbl
+disp("=	Print content of 'x'.")
+x
+disp("=	Print content of 'x.a'.")
+disp("=		Enumerate dimension i,")
+disp("=		then dimension (i+1),")
+disp("=		then dimension (i+2), ...")
+x.a
+disp("=	Print content of 'x(2,3)'.")
+x(2,3)
+disp("=	Print content of non-existent 'x(4,9)'.")
+%x(4,9)
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 disp("============================================================")
