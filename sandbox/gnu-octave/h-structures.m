@@ -23,24 +23,53 @@
 %addpath("/Users/zhiyang/Documents/ricerca/gulyas-scripts/dummy")
 
 disp("============================================================")
-disp("	Begin:	Enter/Exit Debugging Mode")
+disp("	Begin:	Structure Testing")
 
 format('long')
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 disp("------------------------------------------------------------")
-disp("	Begin:	Structure Testing.")
+disp("	Test structures without using functions.")
 
 disp("=	Create structure for logic signals.")
 logic_signal.shape = "RTW"
 logic_signal.value = 0
 logic_signal.value1 = false
 logic_signal.value2 = true
+disp("=	Copy the structure logic_signal to structure digital_signal.")
+digital_signal = logic_signal
+
+disp("=	Create a structure that references another structure.")
+computer_system.name = "microarchitecture"
+computer_system.arch = "pipelined"
+computer_system.signal = digital_signal
+disp("=	Create a nested structure of 4 levels.")
+computer_system.functional_unit.circuit.outputs.pins = 0
+computer_system.embedded.compiler.cpp.cpp11.year = 2011
+computer_system.embedded.compiler.cpp.cpp14.year = 2014
+computer_system.embedded.compiler.cpp.cpp17.year = 2017
+computer_system.embedded.compiler.scala.v17 = 2017
+computer_system.embedded.compiler.scala.v14 = 2014
+computer_system.embedded.compiler.scala.v11 = 2011
+computer_system.embedded.compiler.systemc.v10 = 2010
+computer_system.embedded.compiler.systemc.v05 = 2005
+
+old_level = struct_levels_to_print(4)
+computer_system
+old_level = struct_levels_to_print(5)
+computer_system
+
+disp("------------------------------------------------------------")
+disp("	Test structures by using functions.")
 
 
 
 
+disp("------------------------------------------------------------")
+disp("	Test array of structures.")
+
+circuit_signals = { digital_signal, logic_signal}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
