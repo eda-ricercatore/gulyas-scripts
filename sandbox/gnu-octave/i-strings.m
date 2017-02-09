@@ -118,6 +118,69 @@ ischar (collection)
 ischar (collection) && isvector (collection)
 ischar ("my string") && isvector ("my string")
 
+disp("------------------------------------------------------------")
+
+disp("=	Testing string concatenation.")
+a6 = "Amo "
+a7 = "Scala."
+a8a = [a6 a7]
+printf("%s= Works!\n", a8a)
+a8b = [a6, a7]
+printf("%s= Works!\n", a8b)
+
+
+disp("------------------------------------------------------------")
+
+disp("=	Conversion between strings and numerical data.")
+a9 = int2str(837465)
+if(ischar(a9) && isvector(a9))
+	disp("=	a9 is a string")
+else
+	disp("a9 IS NOT a string")
+endif
+
+disp("------------------------------------------------------------")
+
+disp("=	String comparison.")
+
+a10 = "Buona giornata!a"
+a11 = "Buona giornata!b"
+a10a = "Buona giornata!a"
+a12 = "Buona serata!"
+a13 = ["Buona serata!"]
+
+if(a10 == a11)
+	disp(">	String comparison using '==' works???")	
+elseif(strcmp(a10,a11))
+	disp(">	String comparison using 'strcmp(s1,s2)' works???")
+else
+	disp("=	String comparison exercise works.")
+endif
+
+if(a10 == a10a)
+	disp(">	String comparison using '==' actually works???")	
+else
+	disp("=	String comparison exercise fails???")
+endif
+
+if(strcmp(a10,a10a))
+	disp(">	String comparison using 'strcmp(s1,s2)' is working.")
+else
+	disp("=	String comparison exercise has FAILED!!!")
+endif
+
+try
+	if(a11 == a12)
+		disp(">	String comparison using '==' failed.")	
+	else
+		disp("=	String comparison using '==' WORKS???")
+	endif
+catch StringComparisonError
+	disp("=	String comparison using '==' cannot work")
+	disp("=		for strings of different lengths.")
+end_try_catch
+
+
 
 disp("------------------------------------------------------------")
 c_string = 'Ciao, '
