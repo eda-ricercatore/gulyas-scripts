@@ -6,8 +6,20 @@ See [GNU Octave script executing basic operations](../sandbox/gnu-octave/h-basic
 
 Some basic operations that are shown in the script are:
 + How to declare a variable as a range.
++ How to declare a variable as a complex number.
 + How to determine the type of a variable.
 + List of predefined constants of *GNU Octave*.
++ List of environment variables of *GNU Octave*.
++ How to cast a number from a data type to another data type.
++ How to represent missing data explicitly using the
+	'Not Available' (NA) function.
++ How to determine if a variable is a null value or empty string.
+
+
+
+
+
+
 
 ##	Build Automation for *GNU Octave*
 

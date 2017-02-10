@@ -112,7 +112,7 @@ printf("=	eps('double'):			%g.\n",eps("double"))
 disp("=	Perform arithmetic on complex numbers.")
 a = complex(5,4)
 b = complex(3,7)
-c = a + b 
+c = a + b
 
 disp("=	Cast 32-bit value into 8-bit value.")
 try
@@ -133,7 +133,7 @@ disp("=	Access data in the address indicated by '34.565739829'")
 n34 = typecast(34.565739829,"uint8")
 
 
-disp("=	Missing data representation.")
+disp("=	Missing data representation, using NA() -- 'Not Available'.")
 k0 = NA()
 k1 = NA(5)
 k2 = NA(2,3,4)
