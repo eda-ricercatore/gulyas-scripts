@@ -19,19 +19,25 @@ Some basic operations that are shown in the script are:
 Interesting functions regarding the status of variables
 	\cite[\S7.3 Status of Variables]{Abbott2016,Eaton2016}:
 + pack()
-	- Consolidate workspace memory in MATLAB.
+	- "Consolidate workspace memory in MATLAB."
 + type
-	- Display the contents of name which may be a file, function (m-file), variable, operator, or keyword.
+	- "Display the contents of name which may be a file,
+		function (m-file), variable, operator, or keyword."
 + which
-	- Display the type of each name.
+	- "Display the type of each name."
 + what
-	- List the Octave specific files in directory dir.
+	- "List the Octave specific files in directory dir."
 
 
-
-
-
-
+Functions to find elements and check conditions
+	\cite[\S16.1 Finding Elements and Checking Conditions]{Abbott2016,Eaton2016}:
++ diff(x)
+	- diff(x, k)
+	- diff(x, k, dim)
+	- "If x is a vector of length n, diff (x) is the vector of first
+		differences x(2) - x(1), …, x(n) - x(n-1)."
++ isinf(x)
+	- "Return a logical array which is true where the elements of x are infinite and false where they are not."
 
 
 ##	Build Automation for *GNU Octave*
