@@ -13,6 +13,9 @@
 %			\url{https://www.math.utah.edu/docs/info/octave_8.html};
 %			last accessed on February 9, 2017.
 %
+%	Citations/References that use the *LaTeX/BibTeX* notation are
+%		taken from my *BibTeX* database (set of *BibTeX* entries).
+%
 %
 %
 %	The MIT License (MIT)
@@ -174,6 +177,7 @@ disp("	- OCTAVE_VERSION: Version of GNU Octave.")
 disp("	- PS1: Primary prompt string.")
 disp("	- PS2: Secondary prompt string.")
 
+disp("------------------------------------------------------------")
 disp("=	Fun with null matrices.")
 n1 = [1 2 3 4; 5 6 7 8; 9 10 11 12; 13 14 15 16; 17 18 19 20; 21 22 23 24]
 if(isnull(n1))
@@ -181,21 +185,81 @@ if(isnull(n1))
 else
 	disp("	= 'n1' is not null.")
 endif
+if(isempty(n1))
+	disp("	Oops! 'n1' IS empty.")
+else
+	disp("	= 'n1' is not empty.")
+endif
+
 n2 = []
 if(isnull(n2))
 	disp("	= 'n2' is null.")
 else
 	disp("	Oops! 'n2' IS NOT null.")
 endif
-n3(n1) = []
-if(isnull(n3))
-	disp("	= 'n3' is null.")
+if(isempty(n2))
+	disp("	= 'n2' is empty.")
 else
-	disp("	Oops! 'n3' IS NOT null.")
+	disp("	Oops! 'n2' IS NOT empty.")
 endif
+
+
+try
+	n3(n1) = []
+	if(isnull(n3))
+		disp("	= 'n3' is null.")
+	else
+		disp("	Oops! 'n3' IS NOT null.")
+	endif
+catch ArrayIndexOutOfBoundsError
+	disp("	= Don't assign n3(n1) to [], if n1 is not empty")	
+end_try_catch
+
 n4 = []
-%n5(n1) = n3
-%n6(n1) = n3
+try
+	n5(n1) = n4
+catch MismatchedDimensionsError
+	disp("	= Mismatched dimensions error.")
+	disp("	= n1 & n4 should have the same size")
+end_try_catch
+n6(n2) = n4
+n7 = n1*6
+n8(n7) = n1
+n9 = ""
+if(isnull(n9))
+	disp("	'n9' is an empty string.")
+else
+	disp("	Oops, 'n9' IS NOT an empty string.")
+endif
+if(isempty(n9))
+	disp("	'n9' is empty.")
+else
+	disp("	Oops, 'n9' IS NOT empty.")
+endif
+
+n10 = ''
+if(isempty(n10))
+	disp("	'n10' is empty.")
+else
+	disp("	Oops, 'n10' IS NOT empty.")
+endif
+n11 = zeros(5)
+disp("=	Null matrices can be instantiated with: zeros(n).")
+
+disp("=	Use isempty(a) to show a null value or empty string as null.")
+
+disp("------------------------------------------------------------")
+disp("	isnull(x) \cite{OctaveForgeContributors2017a}:")
+disp("	= Return true if x is a special null matrix, string, or single quoted string.")
+disp("	isempty(a) \cite{OctaveForgeContributors2017a}:")
+disp("	= Return true if a is an empty matrix (any one of its dimensions is zero).")
+disp("	isindex (ind) \cite{OctaveForgeContributors2017a}:")
+disp("	= Return true if ind is a valid index.")
+disp("	= Valid indices are either positive integers (although ")
+disp("	  possibly of real data type), or logical arrays.")
+disp("------------------------------------------------------------")
+
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 disp("============================================================")
