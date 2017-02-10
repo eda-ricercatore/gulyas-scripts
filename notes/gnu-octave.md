@@ -1,5 +1,9 @@
 #	Notes About *GNU Octave*
 
+##	Basic Operations for *GNU Octave*
+
+See [GNU Octave script executing basic operations](../sandbox/gnu-octave/h-basic-operations.m).
+
 ##	Build Automation for *GNU Octave*
 
 ###	Using *Makefile* for Build Automation
