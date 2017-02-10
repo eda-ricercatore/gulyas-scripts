@@ -16,6 +16,19 @@ Some basic operations that are shown in the script are:
 + How to determine if a variable is a null value or empty string.
 
 
+Interesting functions regarding the status of variables
+	\cite[\S7.3 Status of Variables]{Abbott2016,Eaton2016}:
++ pack()
+	- Consolidate workspace memory in MATLAB.
++ type
+	- Display the contents of name which may be a file, function (m-file), variable, operator, or keyword.
++ which
+	- Display the type of each name.
++ what
+	- List the Octave specific files in directory dir.
+
+
+
 
 
 

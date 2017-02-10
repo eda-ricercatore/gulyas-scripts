@@ -259,6 +259,24 @@ disp("	= Valid indices are either positive integers (although ")
 disp("	  possibly of real data type), or logical arrays.")
 disp("------------------------------------------------------------")
 
+disp("=	Show a 'list currently defined variables'")
+disp("=		(matching the given patterns.)'")
+who
+disp("=	Show a detailed 'list currently defined variables'")
+whos
+disp("=	Determine if a 'name' is used for an existing")
+disp("		'variable, function, file, directory, or class'.")
+n12 = exist("n1")
+n13 = exist("n100")
+
+disp("=	Remove a subset of, or all, names from the symbol table.")
+clear
+disp("=	Show a detailed 'list currently defined variables'")
+whos
+
+
+
+
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
