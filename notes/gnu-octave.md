@@ -4,6 +4,11 @@
 
 See [GNU Octave script executing basic operations](../sandbox/gnu-octave/h-basic-operations.m).
 
+Some basic operations that are shown in the script are:
++ How to declare a variable as a range.
++ How to determine the type of a variable.
++ List of predefined constants of *GNU Octave*.
+
 ##	Build Automation for *GNU Octave*
 
 ###	Using *Makefile* for Build Automation

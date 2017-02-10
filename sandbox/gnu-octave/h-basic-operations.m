@@ -50,7 +50,7 @@ b = a'
 disp("=	Matrix transpose operation: Finished.")
 
 c = 17:3:29
-printf("The range of i is: %d.\n",c)
+printf("The range of c is: %d.\n",c)
 d = [c]
 e = "Ciao Mondo!"
 
