@@ -14,6 +14,12 @@ Some basic operations that are shown in the script are:
 + How to represent missing data explicitly using the
 	'Not Available' (NA) function.
 + How to determine if a variable is a null value or empty string.
++ Show a list of variables that are currently defined.
++ Show a detailed list of variables that are currently defined.
++ Determine if a "name" is used for an existing "variable, function,
+	file, directory, or class"
+	\cite[\S7.3 Status of Variables]{Abbott2016,Eaton2016}
+
 
 
 Interesting functions regarding the status of variables
@@ -37,7 +43,8 @@ Functions to find elements and check conditions
 	- "If x is a vector of length n, diff (x) is the vector of first
 		differences x(2) - x(1), …, x(n) - x(n-1)."
 + isinf(x)
-	- "Return a logical array which is true where the elements of x are infinite and false where they are not."
+	- "Return a logical array which is true where the elements of x
+		are infinite and false where they are not."
 
 
 ##	Build Automation for *GNU Octave*
