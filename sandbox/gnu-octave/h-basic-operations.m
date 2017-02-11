@@ -259,6 +259,9 @@ disp("	= Valid indices are either positive integers (although ")
 disp("	  possibly of real data type), or logical arrays.")
 disp("------------------------------------------------------------")
 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%	\cite[\S7.3 Status of Variables]{Abbott2016,Eaton2016}
 disp("=	Show a 'list currently defined variables'")
 disp("=		(matching the given patterns.)'")
 who

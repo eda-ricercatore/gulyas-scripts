@@ -45,6 +45,35 @@ Functions to find elements and check conditions
 + isinf(x)
 	- "Return a logical array which is true where the elements of x
 		are infinite and false where they are not."
++ isnan(x)
+	- "Return a logical array which is true where the elements of x
+		are NaN values and false where they are not."
++ isfinite(x)
+	- "Return a logical array which is true where the elements of x are finite values and false where they are not."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ##	Build Automation for *GNU Octave*
