@@ -22,6 +22,10 @@
 		since there are statistically independent.
 		Do this for each pair of signals, H(t) and L(t)
 	- Show the time-correlation for time-shifted signals.
++ Fix boilerplate code
+	- Add utilities feature to convert real (or floating-point)
+		numbers into strings.
+		Test this feature.
 + Always practise "Continuous Integration"
 + Get references on:
 	- Semiconductor device physics
@@ -67,6 +71,8 @@
 	- microelectromechanical systems + nanoelectromechanical systems
 + Avoid technical debt
 	- Minimize routine maintenance.
+	- Refactor code and wetware.
+	- Update programming skills to latest standards/versions.
 
 
 #	Relevant *GNU Octave* Content
