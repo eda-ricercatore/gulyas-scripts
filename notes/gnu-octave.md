@@ -74,8 +74,13 @@ Functions to find elements and check conditions
 + [err,y1,...] = common_size(x1,...)
 	+ "Determine if all input arguments are either scalar or of
 		common size."
-
-
++ idx = find(x)
+	- idx = find(x, n)
+	- idx = find(x, n, direction)
+	- [i, j] = find (...)
+	- [i, j, v] = find (...)
+	- "Return a vector of indices of nonzero elements of a matrix,
+		as a row if x is a row vector or as a column otherwise."
 
 
 
