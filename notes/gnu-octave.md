@@ -10,6 +10,8 @@ Some basic operations that are shown in the script are:
 + How to determine the type of a variable.
 + List of predefined constants of *GNU Octave*.
 + List of environment variables of *GNU Octave*.
+	- E.g., EDITOR, LOADPATH, and INFO_FILE.
+	- See [GNU Octave script executing basic operations](../sandbox/gnu-octave/h-basic-operations.m).
 + How to cast a number from a data type to another data type.
 + How to represent missing data explicitly using the
 	'Not Available' (NA) function.
@@ -37,6 +39,22 @@ Interesting functions regarding the status of variables
 
 Functions to find elements and check conditions
 	\cite[\S16.1 Finding Elements and Checking Conditions]{Abbott2016,Eaton2016}:
++ any(x)
+	- any(x, dim)
+	- "For a vector argument, return true (logical 1) if any element
+		of the vector is nonzero."
+	- "For a matrix argument, return a row vector of logical ones
+		and zeros with each element indicating whether any of the
+		elements of the corresponding column of the matrix
+		are nonzero."
++ all(x)
+	- all(x, dim)
+	- "For a vector argument, return true (logical 1) if all elements
+		of the vector are nonzero."
+	- "For a matrix argument, return a row vector of logical ones and
+		zeros with each element indicating whether all of the
+		elements of the corresponding column of the matrix
+		are nonzero."
 + diff(x)
 	- diff(x, k)
 	- diff(x, k, dim)

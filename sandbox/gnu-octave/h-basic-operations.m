@@ -170,6 +170,7 @@ printf("	-%s\n	-%s\n	-%s\n","SEEK_SET","SEEK_CUR","SEEK_END")
 
 disp("=	Environment variables [Eaton1996]:")
 disp("	- EDITOR: Text editor for GNU Octave.")
+printf("= The current editor is: %s.\n",EDITOR)
 disp("	- IMAGEPATH: Location of image files.")
 disp("	- INFO_FILE: Location of GNU Octave info file.")
 disp("	- LOADPATH: List of directories to search for function files.")
@@ -278,6 +279,13 @@ disp("=	Show a detailed 'list currently defined variables'")
 whos
 
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%	\cite[\S7.3 Status of Variables]{Abbott2016,Eaton2016}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%	\cite[\S16.1 Finding Elements and Checking Conditions]{Abbott2016,Eaton2016}
 
 
 
