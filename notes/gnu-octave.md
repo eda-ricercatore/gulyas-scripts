@@ -55,6 +55,9 @@ Functions to find elements and check conditions
 		zeros with each element indicating whether all of the
 		elements of the corresponding column of the matrix
 		are nonzero."
++ xor(x, y)
+	- xor(x1, x2,...)
+	- "Return the exclusive or of x and y."
 + diff(x)
 	- diff(x, k)
 	- diff(x, k, dim)
@@ -68,7 +71,9 @@ Functions to find elements and check conditions
 		are NaN values and false where they are not."
 + isfinite(x)
 	- "Return a logical array which is true where the elements of x are finite values and false where they are not."
-
++ [err,y1,...] = common_size(x1,...)
+	+ "Determine if all input arguments are either scalar or of
+		common size."
 
 
 
