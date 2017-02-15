@@ -612,6 +612,32 @@ endif
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %	\cite[\S16.1 Finding Elements and Checking Conditions]{Abbott2016,Eaton2016}
 
+a = [4 5; 9 2; 6 3; 1 8; 7 0]
+b = any(a)
+b1 = all(a)
+c = [34 0 92 584 0; 23 0 9143 0 83]
+d = any(c)
+d1 = all(c)
+
+e = [1 2 18 543 54; 9 823 0 0 23]
+f = [0 1 0 1 1; 1 1 0 1 1]
+g = xor(e,f)
+
+h1 = [32 43 85 29 12; 21 9 28 2 94]
+h2 = [1 8 23 89	6; 8 1 9 0 2]
+h3 = diff(h1)
+h4 = diff(h1,5)
+
+h5 = [12 234 -543 0 Inf NA NaN]
+h6 = isinf(h5)
+h7 = isnan(h5)
+h8 = isfinite(h5)
+
+%	common_size(x1,...) is not tested.
+%	find (...) is not tested.
+%	lookup(table, y) is not tested.
+%		Question: How do I define a table in GNU Octave??? 
+
 
 
 
