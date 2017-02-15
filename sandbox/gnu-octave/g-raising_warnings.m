@@ -75,6 +75,9 @@ catch WarningAsError
 end_try_catch
 
 
+lastwarn("	= New Warning: RTW signals can be processed.")
+[msg, msgid] = lastwarn()
+%warning
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

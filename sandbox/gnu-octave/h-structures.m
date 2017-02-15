@@ -162,8 +162,14 @@ signals.signal_type = 573
 signals.(signal_type) =43 
 
 
+disp("------------------------------------------------------------")
+disp("=	Test structure creation: Enumerate equal-length arrays/lists.")
 
+%names = [Alpar; Bollobas; Czako; Daranyi; Eotvos; Fabinyi]
+types = ["sinusoidal"; "RTW"; "square"; "triangle"; "exponential"; "logarithmic"] 
+values = [23.34; 345.4; 945.45; 13; 943.2; 23.001] 
 
+for i=1:rows
 
 
 
