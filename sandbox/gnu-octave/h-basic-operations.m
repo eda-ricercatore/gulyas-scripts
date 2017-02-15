@@ -285,6 +285,42 @@ whos
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %	\cite[\S7.3 Status of Variables]{Abbott2016,Eaton2016}
 
+disp("------------------------------------------------------------")
+disp("=	Display the contents of: 'd_callee.m'.")
+type d_callee.m
+disp("------------------------------------------------------------")
+text = type("d_callee.m") 
+disp("------------------------------------------------------------")
+o1 = complex(72,49)
+which o1
+o2.name = "Tatsuhiro Tsuchiya"
+o2.description = "Felicita Di Giandomenico"
+o2.id_number = 7436
+o2.account_saved = 27453.9543573468
+which o2
+disp("------------------------------------------------------------")
+disp("=	List the contents of the directory.")
+an_octave_directory = "/Users/zhiyang/Documents/ricerca/gulyas-scripts/sandbox/gnu-octave"
+%	The following line of code causes a compile-/run- time
+%		(or interpretation-time) error.
+%what an_octave_directory
+%	Use the current working directory instead. Use no arguments.
+what
+disp("------------------------------------------------------------")
+text = what(an_octave_directory)
+disp("------------------------------------------------------------")
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%	\cite[\S8.4 Comparison Operators]{Abbott2016,Eaton2016}
+
+disp("Display")
+
+
+
+
+
+
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

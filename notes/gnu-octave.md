@@ -28,6 +28,9 @@ Interesting functions regarding the status of variables
 	\cite[\S7.3 Status of Variables]{Abbott2016,Eaton2016}:
 + pack()
 	- "Consolidate workspace memory in MATLAB."
+	- "This function is provided for compatibility, but does nothing
+		in Octave."
+	- Deprecated
 + type
 	- "Display the contents of name which may be a file,
 		function (m-file), variable, operator, or keyword."
@@ -81,7 +84,9 @@ Functions to find elements and check conditions
 	- [i, j, v] = find (...)
 	- "Return a vector of indices of nonzero elements of a matrix,
 		as a row if x is a row vector or as a column otherwise."
-
++ idx = lookup(table, y)
+	- idx = lookup(table, y, opt)
+	- "Lookup values in a sorted table."
 
 
 
