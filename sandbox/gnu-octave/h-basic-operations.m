@@ -314,13 +314,299 @@ disp("------------------------------------------------------------")
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %	\cite[\S8.4 Comparison Operators]{Abbott2016,Eaton2016}
 
-disp("Display")
+disp("=	Testing boolean comparators.")
+if(34 < 489.127)
+	disp("	'34 < 489.127' is:		works.")
+else
+	disp("	'34 < 489.127' is:		FAILS.")
+endif
+
+if(3456 < 489.127)
+	disp("	'3456 < 489.127' is:		FAILS.")
+else
+	disp("	'3456 < 489.127' is:		works.")
+endif
+
+if(7 < 7)
+	disp("	'7 < 7' is:			FAILS.")
+else
+	disp("	'7 < 7' is:			works.")
+endif
+
+%	----------------------------------------------------
+
+if(34 <= 34)
+	disp("	'34 <= 34' is:			works.")
+else
+	disp("	'34 <= 34' is:			FAILS.")
+endif
+
+if(34.8 <= 34.92)
+	disp("	'34.8 <= 34.92' is:		works.")
+else
+	disp("	'34.8 <= 34.92' is:		FAILS.")
+endif
+
+if(59.34 <= 59.124)
+	disp("	'59.34 <= 59.124' is:		FAILS.")
+else
+	disp("	'59.34 <= 59.124' is:		works.")
+endif
+
+%	----------------------------------------------------
+
+if(4 == 4)
+	disp("	'4 == 4' is:			works.")
+else
+	disp("	'4 == 4' is:			FAILS.")
+endif
+
+if(374 == 84)
+	disp("	'374 == 84' is:			FAILS.")
+else
+	disp("	'374 == 84' is:			works.")
+endif
+
+if(2 == 5)
+	disp("	'2 == 5' is:			FAILS.")
+else
+	disp("	'2 == 5' is:			works.")
+endif
+
+%	----------------------------------------------------
+
+if(84 >= 19)
+	disp("	'84 >= 19' is:			works.")
+else
+	disp("	'84 >= 19' is:			FAILS.")
+endif
+
+if(46 >= 46)
+	disp("	'46 >= 46' is:			works.")
+else
+	disp("	'46 >= 46' is:			FAILS.")
+endif
+
+if(3.1 >= 5)
+	disp("	'3.1 >= 5' is:			FAILS.")
+else
+	disp("	'3.1 >= 5' is:			works.")
+endif
+
+%	----------------------------------------------------
+
+if(63478 > 82)
+	disp("	'63478 > 82' is:		works.")
+else
+	disp("	'63478 > 82' is:		FAILS.")
+endif
+
+if(8 > 8)
+	disp("	'8 > 8' is:			FAILS.")
+else
+	disp("	'8 > 8' is:			works.")
+endif
+
+if(7.12 > 987654)
+	disp("	'7.12 > 987654' is:		FAILS.")
+else
+	disp("	'7.12 > 987654' is:		works.")
+endif
+
+%	----------------------------------------------------
+
+if(435 != 435.1)
+	disp("	'435 != 435.1' is:		works.")
+else
+	disp("	'435 != 435.1' is:		FAILS.")
+endif
+
+if(435 != 435)
+	disp("	'435 != 435' is:		FAILS.")
+else
+	disp("	'435 != 435' is:		works.")
+endif
+
+if(17.12 > 9.876)
+	disp("	'17.12 != 9.876' is:		works.")
+else
+	disp("	'17.12 != 9.876' is:		FAILS.")
+endif
+
+%	----------------------------------------------------
+
+if(71 ~= 483)
+	disp("	'71 ~= 483' is:			works.")
+else
+	disp("	'71 ~= 483' is:			FAILS.")
+endif
+
+if(93 ~= 93)
+	disp("	'93 ~= 93' is:			FAILS.")
+else
+	disp("	'93 ~= 93' is:			works.")
+endif
+
+if(6435 ~= 32)
+	disp("	'6435 ~= 32' is:		works.")
+else
+	disp("	'6435 ~= 32' is:		FAILS.")
+endif
+
+disp("------------------------------------------------------------")
 
 
+if(eq(43,43))
+	disp("	'eq(43,43)' is:			works.")
+else
+	disp("	'eq(43,43)' is:			FAILS.")
+endif
 
+if(eq(37,73))
+	disp("	'eq(37,73)' is:			FAILS.")
+else
+	disp("	'eq(37,73)' is:			works.")
+endif
 
+if(eq(75,8))
+	disp("	'eq(75,8)' is:			FAILS.")
+else
+	disp("	'eq(75,8)' is:			works.")
+endif
 
+%	----------------------------------------------------
 
+if(ge(43,43))
+	disp("	'ge(43,43)' is:			works.")
+else
+	disp("	'ge(43,43)' is:			FAILS.")
+endif
+
+if(ge(37,73))
+	disp("	'ge(37,73)' is:			FAILS.")
+else
+	disp("	'ge(37,73)' is:			works.")
+endif
+
+if(ge(75,8))
+	disp("	'ge(75,8)' is:			works.")
+else
+	disp("	'ge(75,8)' is:			FAILS.")
+endif
+
+%	----------------------------------------------------
+
+if(gt(43,43))
+	disp("	'gt(43,43)' is:			FAILS.")
+else
+	disp("	'gt(43,43)' is:			works.")
+endif
+
+if(gt(37,73))
+	disp("	'gt(37,73)' is:			FAILS.")
+else
+	disp("	'gt(37,73)' is:			works.")
+endif
+
+if(gt(75,8))
+	disp("	'gt(75,8)' is:			works.")
+else
+	disp("	'gt(75,8)' is:			FAILS.")
+endif
+
+%	----------------------------------------------------
+
+if(isequal(63,63,63,63))
+	disp("	'isequal(63,63,63,63)' is:	works.")
+else
+	disp("	'isequal(63,63,63,63)' is:	FAILS.")
+endif
+
+if(isequal(3,1,2,4,5,6))
+	disp("	'isequal(3,1,2,4,5,6)' is:	FAILS.")
+else
+	disp("	'isequal(3,1,2,4,5,6)' is:	works.")
+endif
+
+%	----------------------------------------------------
+
+if(isequaln(63,63,63,63))
+	disp("	'isequaln(63,63,63,63)' is:	works.")
+else
+	disp("	'isequaln(63,63,63,63)' is:	FAILS.")
+endif
+
+if(isequaln(3,1,2,4,5,6))
+	disp("	'isequaln(3,1,2,4,5,6)' is:	FAILS.")
+else
+	disp("	'isequaln(3,1,2,4,5,6)' is:	works.")
+endif
+
+if(isequaln(NaN,NaN,NaN))
+	disp("	'isequaln(NaN,NaN,NaN)' is:	works.")
+else
+	disp("	'isequaln(NaN,NaN,NaN)' is:	FAILS.")
+endif
+
+%	----------------------------------------------------
+
+if(le(43,43))
+	disp("	'le(43,43)' is:			works.")
+else
+	disp("	'le(43,43)' is:			FAILS.")
+endif
+
+if(le(37,73))
+	disp("	'le(37,73)' is:			works.")
+else
+	disp("	'le(37,73)' is:			FAILS.")
+endif
+
+if(le(75,8))
+	disp("	'le(75,8)' is:			FAILS.")
+else
+	disp("	'le(75,8)' is:			works.")
+endif
+
+%	----------------------------------------------------
+
+if(lt(43,43))
+	disp("	'lt(43,43)' is:			FAILS.")
+else
+	disp("	'lt(43,43)' is:			works.")
+endif
+
+if(lt(37,73))
+	disp("	'lt(37,73)' is:			works.")
+else
+	disp("	'lt(37,73)' is:			FAILS.")
+endif
+
+if(lt(75,8))
+	disp("	'lt(75,8)' is:			FAILS.")
+else
+	disp("	'lt(75,8)' is:			works.")
+endif
+
+%	----------------------------------------------------
+
+if(ne(43,43))
+	disp("	'ne(43,43)' is:			FAILS.")
+else
+	disp("	'ne(43,43)' is:			works.")
+endif
+
+if(ne(37,73))
+	disp("	'ne(37,73)' is:			works.")
+else
+	disp("	'ne(37,73)' is:			FAILS.")
+endif
+
+if(ne(75,8))
+	disp("	'ne(75,8)' is:			works.")
+else
+	disp("	'ne(75,8)' is:			FAILS.")
+endif
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
