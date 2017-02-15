@@ -154,10 +154,12 @@ disp("=	Print content of 'x.a' again.")
 x.a
 
 disp("------------------------------------------------------------")
-disp("	Test structure creation, via dynamic naming.")
+disp("=	Test structure creation.")
+disp("=	Test structure creation: Via dynamic naming.")
 
-
-
+signal_type = "RTW"
+signals.signal_type = 573
+signals.(signal_type) =43 
 
 
 

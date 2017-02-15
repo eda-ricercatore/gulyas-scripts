@@ -59,10 +59,23 @@ disp("	= I know how to raise a warning.")
 try
 	warning("error")
 	disp("	= Raise a warning as an error.")
-	warning("	= Set all warnings as errors.")
+	warning("	= Set all warnings as errors.")		% Not printed.
 catch WarningThrownAsError
 	disp("	= Warning thrown as an error.")
 end_try_catch
+
+%	\cite[\S12.2.1, pp. 213-214]{Eaton2016a}
+disp("=	Get the last warning message.")
+[msg, msgid] = lastwarn()
+try
+	warning
+%	warning()
+catch WarningAsError
+	disp("	= Default warning-as-error has been caught.")
+end_try_catch
+
+
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 disp("============================================================")
