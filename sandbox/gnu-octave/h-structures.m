@@ -174,6 +174,22 @@ for i=1:rows (signal_types)
 endfor
 
 
+types_of_experiments = ["hat drawing" "encryption" "secure communication" "verification" "approximate computing"; "dependable computing" "autonomic computing" "probabilistic model checking" "statistical static timing analysis" "theorem proving"] 
+a = [1 2 3 4 5; 6 9 10 22 33]
+b = [82 91 324 29 49; 92 192 18234 19 82]
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
