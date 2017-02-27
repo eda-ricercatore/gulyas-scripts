@@ -45,7 +45,7 @@ torture:
 	./e-prng-reset.m
 	./e-prng-vector-reset.m
 	@echo "========================================================="
-	@echo "=>	Test raising errors."
+	@echo "=>	Test raising errors and error management."
 	./f-raising-errors.m
 	@echo "=>	Test try-catch block implementation."
 	./f-try-catch-block.m
@@ -59,16 +59,20 @@ torture:
 	./g-debugging-mode-enter-exit.m
 	@echo "=>	Test error recovery: try-catch block."
 	./g-error-recovery.m
-	@echo "=>	Test software profiling."
-	./g-profiling.m
 	@echo "=>	Test raising warnings as errors."
 	./g-raising_warnings.m
+	@echo "========================================================="
+	@echo "=>	Test software profiling."
+	./g-profiling.m
+	@echo "========================================================="
 	@echo "=>	Test basic operations."
 	./h-basic-operations.m
+	@echo "========================================================="
 	@echo "=>	Test structure operations."
 	#./h-structures.m
 	@echo "=>	Test class operations."
 	#./i-class.m
+	@echo "========================================================="
 	@echo "=>	Test string operations."
 	./i-strings.m
 

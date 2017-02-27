@@ -105,6 +105,10 @@ From the *GNU Octave* manual \cite{Eaton2016a}:
 	- Flag similar names, and prompt use to verify their equivalence.
 	- E.g., Ann Kripa George, Ann K. George, and Ann George are 
 		equivalent.
++ Script to change/remove file extensions.
+	- Add (-a)
+	- Delete (-d)
+	- Modify = delete + add (-m)
 
 
 #	References
