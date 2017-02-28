@@ -992,6 +992,8 @@ Use the function *`print_struct_array_contents ()`* to determine or
 	of the struct array.
 	If the boolean flag is set to true, the contents of struct arrays
 		would be printed \cite[\S6.1.1, pp. 101]{Eaton2016a}.
+	*I have problems using the function
+		`print_struct_array_contents ()` correctly.*
 
 
 Structures can be returned by functions as their output
