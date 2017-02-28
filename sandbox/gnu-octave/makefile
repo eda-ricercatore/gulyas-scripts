@@ -40,6 +40,7 @@ torture:
 	@echo "========================================================="
 	@echo "=>	Call function: input arguments, return variables."
 	./d_caller.m
+	./d_main_function.m
 	@echo "========================================================="
 	@echo "=>	Test: Resetting PRNG."
 	./e-prng-reset.m
