@@ -199,11 +199,18 @@ Concepts that are experimentally/empirically demonstrated, but not
 	number of arguments specified in the function, an error will be
 	raised in the execution of the script. 
 	- **Example of creating an error.**
++ If a script file contains multiple functions, only the first
+	function defined can be called.
+	- The remaining functions can not be called.
+	- Each unique function shall be specified in a unique file/filename.
+
 
 
 
 
 ###	Function files (and Script Files)
+
+A function file (or script file) should only contain one function.
 
 
 
