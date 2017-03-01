@@ -91,6 +91,7 @@ lexicographical_clk_signal = orderfields(reordered_clk_signal)
 
 disp("------------------------------------------------------------")
 disp("	Test array of structures.")
+%	\cite[\S6.1.2, pp. 103]{Eaton2016a}
 
 circuit_signals = { digital_signal, logic_signal, clk_signal }
 

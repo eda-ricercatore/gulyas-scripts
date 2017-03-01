@@ -1154,9 +1154,11 @@ Mathematical expressions that are contained within a pair of
 	any continuation markers, such as the aforementioned ellipsis
 	or backslash. 
 
+###	Copy Functions
 
-
-
+The function `deal(a)` is used to reproduce/copy data/information from
+	"the input parameters [to] the corresponding output parameters"  
+	\cite[Definition of deal]{OctaveForgeContributors2017a}.
 
 
 
