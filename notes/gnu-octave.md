@@ -1034,6 +1034,11 @@ A structure array is a subset of structures, and each of its fields
 	assigning them to an empty matrix
 	\cite[\S6.1.2, pp. 103]{Eaton2016a}.
 
+To delete elements of a structure array by assigning each of these
+	elements to an empty matrix \cite[\S6.1.2, pp. 104]{Eaton2016a}.
+
+
+
 #####	Difficulties Faced
 
 When I called the function size(x), on a nested struct "x", it always

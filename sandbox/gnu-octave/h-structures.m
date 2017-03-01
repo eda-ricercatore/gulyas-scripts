@@ -57,6 +57,8 @@ computer_system.embedded.compiler.scala.v11 = 2011
 computer_system.embedded.compiler.systemc.v10 = 2010
 computer_system.embedded.compiler.systemc.v05 = 2005
 
+
+
 %	\cite[\S6.1.2, pp. 104]{Eaton2016a}
 disp("=	Get the size of a nested structure.")
 sz = size(computer_system)
@@ -67,6 +69,12 @@ old_level = struct_levels_to_print(4)
 computer_system
 old_level = struct_levels_to_print(5)
 computer_system
+old_level = struct_levels_to_print(6)
+disp("------------------------------------------------------------")
+disp("=	Delete computer_system.embedded.compiler.scala.v14.")
+%	\cite[\S6.1.2, pp. 104]{Eaton2016a}.
+computer_system.embedded.compiler.scala.v14 = []
+
 
 disp("------------------------------------------------------------")
 disp("	Test structures by using functions.")
