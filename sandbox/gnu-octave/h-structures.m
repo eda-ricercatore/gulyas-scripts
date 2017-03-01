@@ -73,10 +73,20 @@ disp("------------------------------------------------------------")
 disp("	Enumerate all elements of a structure using a for statement.")
 disp("=		Print name of element (of the structure).")
 disp("=		Print value of element (of the structure).")
+%	\cite[\S6.1.1, pp. 102; \S10.5.1, pp.165-166]{Eaton2016a}
 for [value, key] = clk_signal
 	key
 	value
 endfor
+
+%	\cite[\S6.1.4]{Eaton2016}
+disp("	Enumerate all the fields of a structure.")
+names = fieldnames(clk_signal)
+disp("	Reorder the fields of clk_signal in a specific order.")
+reordered_clk_signal = orderfields(clk_signal,{"value2","shape","value1","value"})
+disp("	Reorder the fields in a lexicographical order.")
+lexicographical_clk_signal = orderfields(reordered_clk_signal)
+
 
 
 disp("------------------------------------------------------------")
