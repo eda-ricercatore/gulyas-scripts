@@ -173,7 +173,7 @@ catch NoSuchMemberError
 	disp(">>	Undefined members of array elements can't be accessed.") 
 end_try_catch
 
-
+%	\cite[\S6.1.2, pp. 104]{Eaton2016a}.
 disp("=	Delete x(2,3).a.")
 x(2,3).a = {}
 disp("=	Delete x(2,4).a.")
@@ -185,6 +185,7 @@ disp("------------------------------------------------------------")
 disp("=	Test structure creation.")
 disp("=	Test structure creation: Via dynamic naming.")
 
+%	\cite[\S6.1.3, pp. 104-105]{Eaton2016a}.
 signal_type = "RTW"
 signals.signal_type = 573
 signals.(signal_type) =43 
@@ -192,6 +193,7 @@ signals.(signal_type) =43
 
 disp("------------------------------------------------------------")
 disp("=	Test structure creation: Enumerate equal-length arrays/lists.")
+%	\cite[\S6.1.3, pp. 104-105]{Eaton2016a}.
 
 %names = [Alpar; Bollobas; Czako; Daranyi; Eotvos; Fabinyi]
 signal_types = ["sinusoidal"; "RTW"; "square"; "triangle"; "exponential"; "logarithmic"] 
@@ -201,6 +203,9 @@ for i=1:rows (signal_types)
 	ensemble.(signal_types(i,:)) = signal_values(i)
 endfor
 
+
+disp("------------------------------------------------------------")
+disp("=	Test structure creation: Cell array as an individual field.")
 
 types_of_experiments = ["hat drawing " "encryption " "secure communication " "verification " "approximate computing "; "dependable computing " "autonomic computing " "probabilistic model checking " "statistical static timing analysis " "theorem proving"] 
 a = [1 2 3 4 5; 6 9 10 22 33]

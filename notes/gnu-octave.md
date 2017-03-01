@@ -1052,8 +1052,12 @@ When I called the function size(x), on a nested struct "x", it always
 Structures can be created using \cite[\S6.1.3, pp. 104]{Eaton2016a}:
 + the index operator *`.`*
 + the *`struc`* function
+	- The functions accepts pairs of arguments (fieldname, and scalar or
+		cell array) \cite[\S6.1.3, pp. 105-106]{Eaton2016a}
 + dynamic naming *`(var)`*, by using the variable's string value (or
-	arbitrary string) as the field name
+	arbitrary string) as the field name \cite[\S6.1.3, pp. 104-105]{Eaton2016a}...
+	Arbitrary strings can be used, in addition to "valid *Octave*
+	identifiers"; this is not true for *MATLAB* scripts. 
 
 
 
@@ -1062,9 +1066,29 @@ The string used in dynamic naming does not have to be a valid
 	Note that *MATLAB* does not allow dynaming naming to use arbitrary
 	strings \cite[\S6.1.3, pp. 104-105]{Eaton2016a}.
 
-
 The *`struc`* function requires pairs of arguments
 \cite[\S6.1.3, pp. 104-107]{Eaton2016a}.
+
+When elements of a *struct* are a mixture of scalar and cell arrays,
+	the scalar arguments are expanded to form a structure array that
+	has a consistent dimension \cite[\S6.1.3, pp. 104-105]{Eaton2016a}.
+
+"To create a *struc* "that has/contains "a cell array as an individual
+	field", wrap it in another cell array
+	\cite[\S6.1.3, pp. 106]{Eaton2016a}.
+
+Use the function `isstruct(x)` to determine if `x` is a structure
+	(or structure array). 
+	If `x` is a structure or structure array, a boolean true is
+	returned. Else, a boolean false is returned
+	\cite[\S6.1.3, pp. 106]{Eaton2016a}.
+
+
+
+
+
+
+
 
 
 
