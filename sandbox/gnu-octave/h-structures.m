@@ -57,6 +57,11 @@ computer_system.embedded.compiler.scala.v11 = 2011
 computer_system.embedded.compiler.systemc.v10 = 2010
 computer_system.embedded.compiler.systemc.v05 = 2005
 
+%	\cite[\S6.1.2, pp. 104]{Eaton2016a}
+disp("=	Get the size of a nested structure.")
+sz = size(computer_system)
+sz1 = size(computer_system.embedded)
+
 %	\cite[\S6.1.1, pp. 101]{Eaton2016a}
 old_level = struct_levels_to_print(4)
 computer_system

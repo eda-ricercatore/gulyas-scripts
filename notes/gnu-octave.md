@@ -1034,6 +1034,13 @@ A structure array is a subset of structures, and each of its fields
 	assigning them to an empty matrix
 	\cite[\S6.1.2, pp. 103]{Eaton2016a}.
 
+#####	Difficulties Faced
+
+When I called the function size(x), on a nested struct "x", it always
+	returns the array [1 1] as the size of the nested struct.
+	It does not return a set of values that correctly/"correctly"
+	indicates the size of the nested structure.
+	See [h-structures.m](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/gnu-octave/h-structures.m).
 
 ####	Structure Creation
 
@@ -1053,6 +1060,7 @@ The string used in dynamic naming does not have to be a valid
 
 The *`struc`* function requires pairs of arguments
 \cite[\S6.1.3, pp. 104-107]{Eaton2016a}.
+
 
 
 
