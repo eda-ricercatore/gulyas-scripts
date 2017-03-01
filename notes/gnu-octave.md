@@ -1157,7 +1157,7 @@ Mathematical expressions that are contained within a pair of
 ###	Copy Functions
 
 The function `deal(a)` is used to reproduce/copy data/information from
-	"the input parameters [to] the corresponding output parameters"  
+	"the input parameters [to] the corresponding output parameters"
 	\cite[Definition of deal]{OctaveForgeContributors2017a}.
 
 
