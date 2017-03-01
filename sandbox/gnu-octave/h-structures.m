@@ -31,6 +31,7 @@ format('long')
 
 disp("------------------------------------------------------------")
 disp("	Test structures without using functions.")
+%	\cite[\S6.1.1, pp. 99-100]{Eaton2016a}
 
 disp("=	Create structure for logic signals.")
 logic_signal.shape = "RTW"
@@ -40,6 +41,7 @@ logic_signal.value2 = true
 disp("=	Copy the structure logic_signal to structure digital_signal.")
 digital_signal = logic_signal
 
+%	\cite[\S6.1.1, pp. 100-101]{Eaton2016a}
 disp("=	Create a structure that references another structure.")
 computer_system.name = "microarchitecture"
 computer_system.arch = "pipelined"
@@ -55,6 +57,7 @@ computer_system.embedded.compiler.scala.v11 = 2011
 computer_system.embedded.compiler.systemc.v10 = 2010
 computer_system.embedded.compiler.systemc.v05 = 2005
 
+%	\cite[\S6.1.1, pp. 101]{Eaton2016a}
 old_level = struct_levels_to_print(4)
 computer_system
 old_level = struct_levels_to_print(5)
@@ -62,6 +65,7 @@ computer_system
 
 disp("------------------------------------------------------------")
 disp("	Test structures by using functions.")
+%	\cite[\S6.1.1, pp. 101]{Eaton2016a}
 [clk_signal, bio_signal] = h_callee(digital_signal, logic_signal)
 
 
