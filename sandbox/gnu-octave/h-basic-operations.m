@@ -49,11 +49,13 @@ a = [1 2 3; 4 5 6; 7 8 9; 10 11 12; 13 14 15]
 b = a'
 disp("=	Matrix transpose operation: Finished.")
 
+disp("------------------------------------------------------------")
 c = 17:3:29
 printf("The range of c is: %d.\n",c)
 d = [c]
 e = "Ciao Mondo!"
 
+disp("------------------------------------------------------------")
 disp("=	Get the type of 'a', 'b', 'c', 'd', and 'e'.")
 type_of_a = typeinfo(a)
 type_of_b = typeinfo(b)
@@ -61,6 +63,7 @@ type_of_c = typeinfo(c)
 type_of_d = typeinfo(d)
 type_of_e = typeinfo(e)
 
+disp("------------------------------------------------------------")
 f1 = 123.456789
 %g1 = 918273645
 g1 = 918273
@@ -85,7 +88,7 @@ else
 	disp(">	Type of h is wrong!!!")
 endif
 
-
+disp("------------------------------------------------------------")
 printf("=	The value of sizemax is:	%d.\n",sizemax)
 printf("=	The value of intmax is:		%d.\n",intmax)
 if(sizemax < intmax)
@@ -109,11 +112,13 @@ printf("=	eps('double'):			%g.\n",eps("double"))
 	\cite{Abbott2016,Eaton2016}.
 %}
 
+disp("------------------------------------------------------------")
 disp("=	Perform arithmetic on complex numbers.")
 a = complex(5,4)
 b = complex(3,7)
 c = a + b
 
+disp("------------------------------------------------------------")
 disp("=	Cast 32-bit value into 8-bit value.")
 try
 	n315 = cast(315,"uint8") 
@@ -164,10 +169,13 @@ m1 = eps
 m1 = pi
 m1 = realmax
 m1 = realmin
+
+disp("------------------------------------------------------------")
 disp("=	Other predefined constants of GNU Octave are:")
 printf("	-%s\n	-%s\n	-%s\n","stdin","stdout","stderr")
 printf("	-%s\n	-%s\n	-%s\n","SEEK_SET","SEEK_CUR","SEEK_END")
 
+disp("------------------------------------------------------------")
 disp("=	Environment variables [Eaton1996]:")
 disp("	- EDITOR: Text editor for GNU Octave. DEFAULT variable.")
 printf("= The current editor is: %s.\n",EDITOR)
@@ -612,6 +620,7 @@ endif
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %	\cite[\S16.1 Finding Elements and Checking Conditions]{Abbott2016,Eaton2016}
 
+disp("------------------------------------------------------------")
 a = [4 5; 9 2; 6 3; 1 8; 7 0]
 b = any(a)
 b1 = all(a)
@@ -637,6 +646,21 @@ h8 = isfinite(h5)
 %	find (...) is not tested.
 %	lookup(table, y) is not tested.
 %		Question: How do I define a table in GNU Octave??? 
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+disp("------------------------------------------------------------")
+disp("=	2-D arrays/matrices.")
+types_of_experiments = {"hat drawing ", "encryption ", "secure communication ", "verification ", "approximate computing "; "dependable computing ", "autonomic computing ", "probabilistic model checking ", "statistical static timing analysis ", "theorem proving"}
+
+%	The following array "cities" cannot be parsed. 
+%	Mismatched number of columns: 3 in row 1, and 2 in row 2. 
+%cities = {"Chicago" "Houston" "Los Angeles"; "San Diego" "Berkeley"}
+
+
+
 
 
 

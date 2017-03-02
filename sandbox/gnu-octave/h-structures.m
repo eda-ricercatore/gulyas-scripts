@@ -204,16 +204,29 @@ for i=1:rows (signal_types)
 endfor
 
 
+
+
 disp("------------------------------------------------------------")
 disp("=	Test structure creation: Cell array as an individual field.")
-
-types_of_experiments = ["hat drawing " "encryption " "secure communication " "verification " "approximate computing "; "dependable computing " "autonomic computing " "probabilistic model checking " "statistical static timing analysis " "theorem proving"] 
-a = [1 2 3 4 5; 6 9 10 22 33]
-b = [82 91 324 29 49; 92 192 18234 19 82]
+%	\cite[\S6.1.3, pp. 106]{Eaton2016a}.
 
 
+%types_of_experiments = {"hat drawing ", "encryption ", "secure communication "} 
+%low_values = [1, 2, 3, 4, 5, 6, 9, 10, 22, 33]
+%high_values = [82 91 324 29 49 92 192 18234 19 82]
+
+%	indiv_field_struc = struct("types_of_experiments", {"hat drawing ", "encryption ", "secure communication "},
+%		"low_values", [1, 2, 3, 4, 5, 6, 9, 10, 22, 33], 
+%		"high_values", [82 91 324 29 49 92 192 18234 19 82])
 
 
+indiv_field_struc = struct("types_of_experiments", {"hat drawing ", "encryption ", "secure communication "},
+	"low_values", {4, 2, 7}, 
+	"high_values", [82 91 324 29 49 92 192 18234 19 82])
+disp("=	Print the contents of 'indiv_field_struc'.")
+indiv_field_struc.types_of_experiments
+indiv_field_struc.low_values
+%indiv_field_struc.high_values
 
 
 

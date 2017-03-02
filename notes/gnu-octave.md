@@ -21,7 +21,9 @@ Some basic operations that are shown in the script are:
 + Determine if a "name" is used for an existing "variable, function,
 	file, directory, or class"
 	\cite[\S7.3 Status of Variables]{Abbott2016,Eaton2016}
-
++ Note #1: The number of columns per row of an array cannot be
+	mismatched. Else, it would cause an error to be thrown during
+	interpretation/compilation/execution.
 
 
 Interesting functions regarding the status of variables
@@ -1076,6 +1078,7 @@ When elements of a *struct* are a mixture of scalar and cell arrays,
 "To create a *struc* "that has/contains "a cell array as an individual
 	field", wrap it in another cell array
 	\cite[\S6.1.3, pp. 106]{Eaton2016a}.
+	From personal experimentation in 
 
 Use the function `isstruct(x)` to determine if `x` is a structure
 	(or structure array). 
