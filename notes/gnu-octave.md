@@ -1078,7 +1078,7 @@ When elements of a *struct* are a mixture of scalar and cell arrays,
 "To create a *struc* "that has/contains "a cell array as an individual
 	field", wrap it in another cell array
 	\cite[\S6.1.3, pp. 106]{Eaton2016a}.
-	From personal experimentation in 
+	From personal experimentation in [h-structures.m](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/gnu-octave/h-structures.m)
 
 Use the function `isstruct(x)` to determine if `x` is a structure
 	(or structure array). 
