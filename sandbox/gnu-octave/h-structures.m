@@ -231,23 +231,44 @@ indiv_field_struc.high_values
 indiv_field_struc.last_field_name
 
 
-
+disp("------------------------------------------------------------")
+floating_point_number = 17234.43423423
 disp("------------------------------------------------------------")
 disp("=	Test if something is a structure.")
-if (isstruct(indiv_field_struc))
-	disp("	indiv_field_struc is a struct.")
-else
-	disp("	indiv_field_struc IS NOT A struct.")
-endif
-floating_point_number = 17234.43423423
 if (isstruct(floating_point_number))
 	disp("	floating_point_number IS A struct.")
 else
 	disp("	floating_point_number is not a struct.")
 endif
+if (isstruct(indiv_field_struc))
+	disp("	indiv_field_struc is a struct.")
+else
+	disp("	indiv_field_struc IS NOT A struct.")
+endif
+
+
+disp("------------------------------------------------------------")
+struct_field1 = {7, 3, 9}
+struct_field2 = {4, 5, 8}
+struct_field3 = {79, 113, 12}
+indiv_field_struc2 = struct("struct_field1", struct_field1,
+	"struct_field2", struct_field2,
+	"struct_field3", struct_field3)
+disp("=	Print the contents of 'indiv_field_struc2'.")
+f1a=indiv_field_struc2.struct_field1
+f2a=indiv_field_struc2.struct_field2
+f3a=indiv_field_struc2.struct_field3
+disp("------------------------------------------------------------")
+indiv_field_struc2.struct_field1
+indiv_field_struc2.struct_field2
+indiv_field_struc2.struct_field3
+disp("------------------------------------------------------------")
+indiv_field_struc3 = struct("sf1", "Ciao Mondo!", "sf2", 3.324, "sf3", 34567)
 
 
 
+disp("------------------------------------------------------------")
+disp("=	Test if something is a structure.")
 
 
 
