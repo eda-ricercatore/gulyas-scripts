@@ -268,13 +268,23 @@ indiv_field_struc3 = struct("sf1", "Ciao Mondo!", "sf2", 3.324, "sf3", 34567)
 
 
 disp("------------------------------------------------------------")
-disp("=	Test if something is a structure.")
-
-
-
-
-
-
+disp("=	Determine the number of fields of struct 'computer_system'.")
+num_fields_cs = numfields(computer_system)
+printf("	Number of fields is: %d.\n",num_fields_cs)
+disp("=	Determine the fields of struct 'computer_system'.")
+fieldnames_of_cs = fieldnames(computer_system)
+fieldnames_of_cs_e_c = fieldnames(computer_system.embedded.compiler)
+disp("=	Determine if something is a field of 'computer_system'.")
+if(isfield(computer_system.embedded.compiler,"java"))
+	disp("	'java' IS A field of 'computer_system'.")
+else
+	disp("	'java' is not a field of 'computer_system'.")
+endif
+if(isfield(computer_system.embedded.compiler,"systemc"))
+	disp("	'systemc' is a field of 'computer_system'.")
+else
+	disp("	'systemc' IS NOT A field of 'computer_system'.")
+endif
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 disp("============================================================")

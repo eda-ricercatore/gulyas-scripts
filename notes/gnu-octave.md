@@ -1107,8 +1107,8 @@ Use the function `isstruct(x)` to determine if `x` is a structure
 
 ####	Structure Manipulation 
 
-Functions to control the fields of a structure are
-	\cite[\S6.1.4, pp. 107]{Eaton2016a}:
+Functions to control the fields of a structure, which can be a nested
+	structure, are \cite[\S6.1.4, pp. 107]{Eaton2016a}:
 + *`numfields(s)`* returns the number of fields in the struct *s*. 
 + *`fieldnames(s)`* returns the names of fields in *s*, which can be
 	a struct or an Octave (/Java) object, in a cell array.
