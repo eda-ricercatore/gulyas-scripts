@@ -1112,8 +1112,10 @@ Functions to control the fields of a structure, which can be a nested
 + *`numfields(s)`* returns the number of fields in the struct *s*. 
 + *`fieldnames(s)`* returns the names of fields in *s*, which can be
 	a struct or an Octave (/Java) object, in a cell array.
-+ *`isfield(x,field_name)`* returns true if *field_name* is a field
++ *`isfield(x,"field_name")`* returns true if *field_name* is a field
 	of *x*.
++ *`isfield(x,field_names)`* returns a bit vector indicating if each
+		field name in *field_names* is a field of *x*.
 
 
 
