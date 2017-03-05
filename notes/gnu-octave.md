@@ -1079,7 +1079,10 @@ When elements of a *struct* are a mixture of scalar and cell arrays,
 	field", wrap it in another cell array
 	\cite[\S6.1.3, pp. 106]{Eaton2016a}.
 	From personal experimentation in [h-structures.m](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/gnu-octave/h-structures.m), when I specify the cell
-		array using .
+		array using square brackets, an instance of the cell array is
+		assigned to each field; curly braces are needed to assign
+		each element in the cell array to each field of the struc.
+		
 
 Use the function `isstruct(x)` to determine if `x` is a structure
 	(or structure array). 
