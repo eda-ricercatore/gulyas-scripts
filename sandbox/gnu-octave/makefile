@@ -70,7 +70,7 @@ torture:
 	./h-basic-operations.m
 	@echo "========================================================="
 	@echo "=>	Test structure operations."
-	#./h-structures.m
+	./h-structures.m
 	@echo "========================================================="
 	@echo "=>	Test class operations."
 	#./i-class.m
