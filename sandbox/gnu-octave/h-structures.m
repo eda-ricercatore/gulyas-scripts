@@ -222,12 +222,13 @@ disp("=	Test structure creation: Cell array as an individual field.")
 
 indiv_field_struc = struct("types_of_experiments", {"hat drawing ", "encryption ", "secure communication "},
 	"low_values", {4, 2, 7}, 
-	"high_values", {192 18234 82})
+	"high_values", {192 18234 82},
+	"last_field_name","last_field_value")
 disp("=	Print the contents of 'indiv_field_struc'.")
 indiv_field_struc.types_of_experiments
 indiv_field_struc.low_values
 indiv_field_struc.high_values
-
+indiv_field_struc.last_field_name
 
 
 

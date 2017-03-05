@@ -1084,7 +1084,13 @@ When elements of a *struct* are a mixture of scalar and cell arrays,
 		each element in the cell array to each field of the struct;
 		in the cell array, each element in the cell array is
 		delimited/delineated by a comma (or white space).
-		
+	Also, from personal experimentation in [h-structures.m](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/gnu-octave/h-structures.m), the cardinality/dimension 
+		of cell arrays in each field should match; if there is only
+		one value for a field, while the other fields have multiple
+		values, that value is repeated *n* times (dimensionality of
+		the cell array); else, an error is called when the
+		dimensionality of this cell array does not match the
+		dimensionalities of the other cell arrays.
 
 Use the function `isstruct(x)` to determine if `x` is a structure
 	(or structure array). 
