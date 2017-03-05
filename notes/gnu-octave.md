@@ -1081,7 +1081,9 @@ When elements of a *struct* are a mixture of scalar and cell arrays,
 	From personal experimentation in [h-structures.m](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/gnu-octave/h-structures.m), when I specify the cell
 		array using square brackets, an instance of the cell array is
 		assigned to each field; curly braces are needed to assign
-		each element in the cell array to each field of the struc.
+		each element in the cell array to each field of the struct;
+		in the cell array, each element in the cell array is
+		delimited/delineated by a comma.
 		
 
 Use the function `isstruct(x)` to determine if `x` is a structure
