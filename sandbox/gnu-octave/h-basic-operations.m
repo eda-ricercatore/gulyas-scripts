@@ -661,7 +661,10 @@ types_of_experiments = {"hat drawing ", "encryption ", "secure communication ", 
 
 
 
-
+disp("------------------------------------------------------------")
+disp("=	Pack workspace memory of MATLAB; NOP in GNU Octave.")
+%	\cite[\S7.3 Status of Variables]{Abbott2016,Eaton2016}
+pack()
 
 
 
