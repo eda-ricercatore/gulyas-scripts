@@ -1083,7 +1083,7 @@ When elements of a *struct* are a mixture of scalar and cell arrays,
 		assigned to each field; curly braces are needed to assign
 		each element in the cell array to each field of the struct;
 		in the cell array, each element in the cell array is
-		delimited/delineated by a comma.
+		delimited/delineated by a comma (or white space).
 		
 
 Use the function `isstruct(x)` to determine if `x` is a structure
