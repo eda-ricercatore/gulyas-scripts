@@ -232,6 +232,21 @@ indiv_field_struc.last_field_name
 
 
 
+disp("------------------------------------------------------------")
+disp("=	Test if something is a structure.")
+if (isstruct(indiv_field_struc))
+	disp("	indiv_field_struc is a struct.")
+else
+	disp("	indiv_field_struc IS NOT A struct.")
+endif
+floating_point_number = 17234.43423423
+if (isstruct(floating_point_number))
+	disp("	floating_point_number IS A struct.")
+else
+	disp("	floating_point_number is not a struct.")
+endif
+
+
 
 
 

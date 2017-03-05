@@ -1092,6 +1092,10 @@ When elements of a *struct* are a mixture of scalar and cell arrays,
 		dimensionality of this cell array does not match the
 		dimensionalities of the other cell arrays.
 
+**Note that the fields of a (ordinary scalar) struct should have fields
+	that have the same cardinality/size/dimension. Else, the struct
+	could contain contain false/erroneous information.**  
+
 Use the function `isstruct(x)` to determine if `x` is a structure
 	(or structure array). 
 	If `x` is a structure or structure array, a boolean true is
