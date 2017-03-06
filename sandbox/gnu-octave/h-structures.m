@@ -292,20 +292,10 @@ digital_signal.value1
 digital_signal.value2
 %	The following statement works.
 cps = setfield(digital_signal,"value",84)
-%cps = setfield(digital_signal,"value",49,"value1",8,"value2",4)
 cps = setfield(digital_signal,"value4",8)
-%networked_cps = setfield(fpga,{1,1},"vth",2.4,{1,1},"vout",92)
-%networked_cps = setfield(fpga,{1,1},"vth",{1,1},2.4)
-networked_cps = setfield(fpga,{1},"vth",2.4)
-%cps = setfield(digital_signal,"value",49,"value1",8,"value2",4)
 
 
-%cps = setfield(digital_signal,"value",49, value1,true, value2,false)
-%cps = setfield(digital_signal,"value",49, "value1",true, "value2",false)
-%cps = setfield(digital_signal,"digital_signal.value",84)
-%cps = setfield("digital_signal","digital_signal.value",84)
-%cps = setfield(digital_signal,digital_signal.value,84)
-%cps = setfield(digital_signal", digital_signal.value,84, digital_signal.value1,true, digital_signal.value1,false)
+
 
 
 disp("------------------------------------------------------------")
