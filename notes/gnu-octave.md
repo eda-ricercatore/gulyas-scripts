@@ -1159,7 +1159,8 @@ Functions to control the fields of a structure, which can be a nested
 	vector that converts the old order to the new order.
 
 #####	Difficulties Faced
-	I cannot use the function *`substruct`*. Also, I cannot use 
+
+I cannot use the function *`substruct`*. Also, I cannot use 
 	getfield() nor setfield().
 
 
