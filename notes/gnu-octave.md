@@ -1108,15 +1108,26 @@ Use the function `isstruct(x)` to determine if `x` is a structure
 ####	Structure Manipulation 
 
 Functions to control the fields of a structure, which can be a nested
-	structure, are \cite[\S6.1.4, pp. 107]{Eaton2016a}:
+	structure, are \cite[\S6.1.4, pp. 107-111]{Eaton2016a}:
 + *`numfields(s)`* returns the number of fields in the struct *s*. 
 + *`fieldnames(s)`* returns the names of fields in *s*, which can be
 	a struct or an Octave (/Java) object, in a cell array.
 + *`isfield(x,"field_name")`* returns true if *field_name* is a field
 	of *x*.
 + *`isfield(x,field_names)`* returns a bit vector indicating if each
-		field name in *field_names* is a field of *x*.
+	field name in *field_names* is a field of *x*.
++ *`new_struct = setfield (s, field[i], val[i], field[i+1], val[i+1], ...)`*
+	copies the struct *s* to struct *new_struct*, and for each pair
+	of field[i] and val[i], it will assign val[i] to field[i].
+	If a field (e.g., 'field[n]') is provided without a corresponding
+	value (i.e., 'value[n]'), an error will be called for the
+	mismatching number of fields and values.
+	
 
+
+####	Structure: Data Processing for Its Fields
+
+  
 
 
 
