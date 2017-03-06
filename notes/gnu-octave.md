@@ -1158,6 +1158,9 @@ Functions to control the fields of a structure, which can be a nested
 	The second output argument *p* is optional, and is a permutation
 	vector that converts the old order to the new order.
 
+#####	Difficulties Faced
+	I cannot use the function *`substruct`*. Also, I cannot use 
+	getfield() nor setfield().
 
 
 ####	Structure: Data Processing for Its Fields
