@@ -1131,6 +1131,7 @@ Functions to control the fields of a structure, which can be a nested
 	structure array.
 + *`val = getfield (s, field)`* is an access method to obtain the
 	value of the field *field* in the struct *s*.
++ *`val = getfield (s, sidx1, field1, fidx1,...)`*
 	**Note: Currently, I have not learnd how to use `getfield()` for
 	structure arrays. March 6, 2017; Technical debt: not being able
 	to easily enumerate elements of a structure array, and the fields
