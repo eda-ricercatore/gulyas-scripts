@@ -1129,7 +1129,8 @@ Functions to control the fields of a structure, which can be a nested
 	The technical debt for not knowing how to use `setfield()` for
 	structure arrays is when I have to enumerate elements in a
 	structure array.
-
++ *`val = getfield (s, field)`* is an access method to obtain the
+	value of the field *field* in the struct *s*.
 
 
 
