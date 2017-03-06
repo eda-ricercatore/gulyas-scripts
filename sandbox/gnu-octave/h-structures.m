@@ -290,17 +290,18 @@ bv_fields = isfield(computer_system.embedded.compiler,prog_langs)
 digital_signal.value
 digital_signal.value1
 digital_signal.value2
-%	The following statement works.
-cps = setfield(digital_signal,"value",84)
-cps = setfield(digital_signal,"value4",8)
-
 
 
 
 
 disp("------------------------------------------------------------")
-disp("=	Set the fields of struct 'computer_system'.")
-
+disp("=	Clone and set the fields of struct 'digital_signal'.")
+cps = setfield(digital_signal,"value",84)
+cps = setfield(cps,"value4",8)
+disp("------------------------------------------------------------")
+disp("=	Access the fields of struct 'cps' to validate the modification.")
+fpga_signal = getfield(cps,"shape") 
+fpga_value = getfield(cps,"value") 
 
 
 
