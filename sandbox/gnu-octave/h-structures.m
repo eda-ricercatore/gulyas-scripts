@@ -302,6 +302,9 @@ disp("------------------------------------------------------------")
 disp("=	Access the fields of struct 'cps' to validate the modification.")
 fpga_signal = getfield(cps,"shape") 
 fpga_value = getfield(cps,"value") 
+disp("------------------------------------------------------------")
+disp("=	Access the fields of struct 'cps' to validate the modification.")
+
 
 
 
