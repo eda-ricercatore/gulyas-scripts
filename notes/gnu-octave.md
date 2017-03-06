@@ -1160,7 +1160,7 @@ Functions to control the fields of a structure, which can be a nested
 
 #####	Difficulties Faced
 
-I cannot use the function *`substruct`*. Also, I cannot use 
+I cannot use the function *`substruct()`*. Also, I cannot use 
 	getfield() nor setfield().
 
 
