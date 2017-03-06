@@ -97,7 +97,24 @@ From the *GNU Octave* manual \cite{Eaton2016a}:
 
 
 
+#	Side Projects
 
++ Learn *R*.
++ Learn *Scala*.
++ Transfer objects between programs implemented in the following
+	computer languages:
+	- *GNU Octave*
+	- *R*
+	- *Scala*
+	- *Python*
+	- *C++*
++ Add experimental results and other information into databases.
+	- *SQL* databases; e.g., *MySQL*.
+	- [*NoSQL* databases](https://en.wikipedia.org/wiki/NoSQL). Also,
+		see [Comparison of structured storage software](https://en.wikipedia.org/wiki/Comparison_of_structured_storage_software).
+	- [*NewSQL* databases](https://en.wikipedia.org/wiki/NewSQL)
+	- Avoid using database administrator tools to manage such
+		databases.
 
 #	Scripts to Hack
 

@@ -1166,10 +1166,13 @@ I cannot use the function *`substruct()`*. Also, I cannot use
 
 ####	Structure: Data Processing for Its Fields
 
-
-
-
-
+Data in a structure can be enumerated as follows
+	\cite[\S6.1.5, pp. 111-112]{Eaton2016a}: 
++ Use a *`for`* loop to enumerate the elements of a structure.
++ Use the *`structfun`* function to create user-defined functions
+	for each field of a structure.
++ Use another type of container to process the data; i.e., convert
+	the struct into a cell array, followed by data processing.
 
 
 
@@ -1190,7 +1193,20 @@ I cannot use the function *`substruct()`*. Also, I cannot use
 
 ####	Variable-length argument lists
 
+Self-explanatory.
+
 ####	Variable-length return lists
+
+Self-explanatory.
+
+
+
+
+
+
+
+
+
 
 
 
