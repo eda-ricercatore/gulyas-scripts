@@ -1122,8 +1122,16 @@ Functions to control the fields of a structure, which can be a nested
 	If a field (e.g., 'field[n]') is provided without a corresponding
 	value (i.e., 'value[n]'), an error will be called for the
 	mismatching number of fields and values.
-	**Note: I have a problem using setfield() for structure arrays.
+	**Note: I have a problem using `setfield()` for structure arrays.
 	March 6, 2017: Abandon mission to learn how to do this.**
+	For a single element of a structure array, I can use the normal
+	`setfield()` function.
+	The technical debt for not knowing how to use `setfield()` for
+	structure arrays is when I have to enumerate elements in a
+	structure array.
+
+
+
 
 
 ####	Structure: Data Processing for Its Fields
