@@ -313,8 +313,6 @@ cps_asv = rmfield(cps_asv,"value2")
 cps_sas = cps
 %cps_sas = rmfield(cps_sas,{"edward a lee", "value2", "sanjit a seshia", "alberto sangiovanni-vincentelli", "melvin a breuer"})
 cps_sas = rmfield(cps_sas,{"value", "value2", "shape"})
-%cps_sas = rmfield(cps_sas,{"edward a lee" "value2" "sanjit a seshia" "alberto sangiovanni-vincentelli" "melvin a breuer"})
-%cps_sas = rmfield(cps_sas,{"edward a lee", "value2", "sanjit a seshia", "alberto sangiovanni-vincentelli", "melvin a breuer"})
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
