@@ -315,6 +315,23 @@ cps_sas = cps
 cps_sas = rmfield(cps_sas,{"value", "value2", "shape"})
 
 
+disp("------------------------------------------------------------")
+disp("=	Order the fields of a struct 'fummi'.")
+fummi = struct("fosca",7237128, "anaisa",38, "cielo",2738, "bianca",934, "daniela",182313)
+disp("=	Order the fields of a struct 'fummi' lexicographically.")
+rizzo = orderfields(fummi)
+massimo = struct("anaisa",73.238, "fosca",3453, "cielo",930, "daniela",92, "bianca",126)
+disp("=	Order the fields of a struct 'fummi' according to 'rizzo'.")
+vittorio = orderfields(fummi, massimo)
+%loredana = struct("maddalena",93.1, "piera",2.4345, "stella",34.4, "riccardo",19.24, "giuliano",923)
+%disp("=	Order the fields of a struct 'fummi' according to 'loredana'.")
+%maurizio = orderfields(fummi, loredana)
+%gabriella = struct("daniela",847, "fosca",7438, "cielo",37.2, "anaisa",9.3)
+%giuseppe = orderfields(fummi, gabriella)
+ottaviano = orderfields(fummi,{"bianca", "daniela", "anaisa", "cielo", "fosca"})
+maria = orderfields(fummi,[3, 1, 5, 4, 2])
+
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 disp("============================================================")
 disp("	End:	Structure Testing")

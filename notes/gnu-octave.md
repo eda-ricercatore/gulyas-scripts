@@ -1143,18 +1143,27 @@ Functions to control the fields of a structure, which can be a nested
 + *`sout = rmfield(s, f)`* removes the fields specified in the cell
 	array of strings, *f*, from the structure (or nested structure)
 	*s*.
-+ *`copy = orderfields()`* for various function signatures.
++ *`[copy, p] = orderfields()`* for various function signatures.
 	For function signature *`(s1)`*, the fields of *s* are arranged
 	lexicographically.
 	For function signature *`(s1,s2)`*, the fields of *s1* are
-	arranged according to the order of fields of *s2*.
+	arranged according to the order of fields of *s2*; *s1* and *s2*
+	must have the same number and names of fields, else an error is
+	called.
 	For function signature *`(s1,{cellstr})`*, the fields of *s1* are
 	arranged according to the order of strings in the cell array of
 	strings *{cellstr}*.
+	For function signature *`(s1,p)`*, the fields of *s1* are
+	arranged according to the permutation vector *p*.
+	The second output argument *p* is optional, and is a permutation
+	vector that converts the old order to the new order.
 
 
 
 ####	Structure: Data Processing for Its Fields
+
+
+
 
 
 
