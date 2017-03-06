@@ -303,9 +303,18 @@ disp("=	Access the fields of struct 'cps' to validate the modification.")
 fpga_signal = getfield(cps,"shape") 
 fpga_value = getfield(cps,"value") 
 disp("------------------------------------------------------------")
-disp("=	Access the fields of struct 'cps' to validate the modification.")
-
-
+disp("=	Removing fields from the struct 'cps'.")
+cps_asv = cps
+cps_asv = rmfield(cps_asv,"value2")
+%	Calling "sout = rmfield(s, f)" with a non-existent field results
+%	in an error.
+%cps_eal = cps
+%cps_eal = rmfield(cps_eal,"value8")
+cps_sas = cps
+%cps_sas = rmfield(cps_sas,{"edward a lee", "value2", "sanjit a seshia", "alberto sangiovanni-vincentelli", "melvin a breuer"})
+cps_sas = rmfield(cps_sas,{"value", "value2", "shape"})
+%cps_sas = rmfield(cps_sas,{"edward a lee" "value2" "sanjit a seshia" "alberto sangiovanni-vincentelli" "melvin a breuer"})
+%cps_sas = rmfield(cps_sas,{"edward a lee", "value2", "sanjit a seshia", "alberto sangiovanni-vincentelli", "melvin a breuer"})
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

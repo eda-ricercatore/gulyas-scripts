@@ -1136,12 +1136,18 @@ Functions to control the fields of a structure, which can be a nested
 	structure arrays. March 6, 2017; Technical debt: not being able
 	to easily enumerate elements of a structure array, and the fields
 	of each struct in the structure array.**
-
++ *`sout = rmfield(s, "f")`* removes the field *f* in the structure
+	(or nested structure) *s*.
+	If *f* is not a valid field of the (nested) structure *s*, an
+	error is called.
++ *`sout = rmfield(s, f)`* removes the fields specified in the cell
+	array of strings, *f*, from the structure (or nested structure)
+	*s*.
 
 
 ####	Structure: Data Processing for Its Fields
 
-  
+
 
 
 
