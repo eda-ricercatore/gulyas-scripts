@@ -14,6 +14,7 @@
 + Texinfo
 	- Learn how to write comments in the *Texinfo* typesetting syntax
 		for documentation generation.
+	- E.g., see [example](https://searchcode.com/codesearch/view/20327447/).
 + Miscellaneous
 	- \S17.5 Utility function
 	- \S17.6 Special function
@@ -108,7 +109,8 @@ From the *GNU Octave* manual \cite{Eaton2016a}:
 	- *Scala*
 	- *Python*
 	- *C++*
-+ Add experimental results and other information into databases.
++ Add experimental results and other information into databases,
+	using database management systems (DBMS).
 	- *SQL* databases; e.g., *MySQL*.
 	- [*NoSQL* databases](https://en.wikipedia.org/wiki/NoSQL). Also,
 		see [Comparison of structured storage software](https://en.wikipedia.org/wiki/Comparison_of_structured_storage_software).

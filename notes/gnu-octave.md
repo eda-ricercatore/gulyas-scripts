@@ -1171,6 +1171,7 @@ Data in a structure can be enumerated as follows
 + Use a *`for`* loop to enumerate the elements of a structure.
 + Use the *`structfun`* function to create user-defined functions
 	for each field of a structure.
+	- E.g., [\S19.3 Function Application](https://www.gnu.org/software/octave/doc/v4.0.1/Function-Application.html)
 + Use another type of container to process the data; i.e., convert
 	the struct into a cell array, followed by data processing.
 
