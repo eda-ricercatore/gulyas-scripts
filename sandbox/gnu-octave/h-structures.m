@@ -332,6 +332,17 @@ ottaviano = orderfields(fummi,{"bianca", "daniela", "anaisa", "cielo", "fosca"})
 maria = orderfields(fummi,[3, 1, 5, 4, 2])
 
 
+
+disp("------------------------------------------------------------")
+disp("=	Convert 'struct's to cell arrays.")
+
+my_cell_array = struct2cell(rizzo)
+rizzo(1,1,:)(:)
+%	The following does not work, since the struct is not created
+%	with structure arrays.
+%rizzo(2,1,:)(:)
+
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 disp("============================================================")
 disp("	End:	Structure Testing")
