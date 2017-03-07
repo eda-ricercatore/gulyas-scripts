@@ -117,6 +117,12 @@ From the *GNU Octave* manual \cite{Eaton2016a}:
 	- [*NewSQL* databases](https://en.wikipedia.org/wiki/NewSQL)
 	- Avoid using database administrator tools to manage such
 		databases.
++ Design EDA benchmarks
+	- processors
+	- VLSI systems
+	- AMS/RF ICs
+	- mixed-signal SoC 
+	- In HDLs, such as Chisel and SystemC/SystemC-AMS
 
 #	Scripts to Hack
 
