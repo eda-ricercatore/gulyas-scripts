@@ -1232,6 +1232,28 @@ Self-explanatory.
 
 
 
+##	Performance Improvement
+
+Techniques for performance improvement
+	\cite[Slide 48, ``Techniques for improving performance'']{Zucchelli2011}:
++ Vectorization
+	- "Brute force vectorization"
+		* cellfun
+		* structfun
+		* arrayfun
+	- Use libraries
+		* BLAS
+		* LAPACK
++ "Preallocation: Minimize changing variable class".
++ "Mexing: compiled code"
+
+
+
+
+
+
+
+
 
 
 ##	Miscellaneous
