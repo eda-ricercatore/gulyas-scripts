@@ -1172,6 +1172,7 @@ Data in a structure can be enumerated as follows
 + Use the *`structfun`* function to create user-defined functions
 	for each field of a structure.
 	- E.g., [\S19.3 Function Application](https://www.gnu.org/software/octave/doc/v4.0.1/Function-Application.html)
+	- **[To Be Continued]**
 + Use another type of container to process the data; i.e., convert
 	the struct into a cell array, followed by data processing.
 
@@ -1241,6 +1242,7 @@ Techniques for performance improvement
 		* cellfun
 		* structfun
 		* arrayfun
+		* **[To Be Continued]**
 	- Use libraries
 		* BLAS
 		* LAPACK
