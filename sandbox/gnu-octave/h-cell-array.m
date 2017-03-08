@@ -36,9 +36,9 @@ format('long')
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-disp("=	Pre- matrix transpose operation.")
+disp("=	Create a cell array, with fields of different sizes.")
 
-
+nbl = { {"inbl", "time-shifted inbl"}, 1.08, {5 3; 2.4 1.8}, {"adaptivity", "capacitance", "inductance", "vout"}}
 
 
 

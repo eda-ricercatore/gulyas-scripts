@@ -1189,10 +1189,18 @@ A cell array is a container that can contain variables of different
 
 ####	Cell Array Usage
 
+A cell array can have fields/variables of different sizes.
+	These fields/variables can be indexed, extracted, overwritten
+	using curly braces \cite[\S6.2.1, pp. 112]{Eaton2016a}.
+	
+**[Note: I do not know if cell arrays (or structs) can have functions
+	as part of their ]**
+
+A nested cell array is hierarchically displayed via *`celldisp()`*,
+	and referenced by their index \cite[\S6.2.1, pp. 113]{Eaton2016a}.
 
 
 
-\cite[\S6.2.1, pp. 112]{Eaton2016a}
 
 ####	Cell Array Creation
 
