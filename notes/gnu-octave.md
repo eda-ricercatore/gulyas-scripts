@@ -1184,9 +1184,15 @@ Data in a structure can be enumerated as follows
 A cell array is a container that can contain variables of different
 	sizes or types. 
 	A cell array can be used just like $N$-dimensional arrays with
-	the exception of the usage of curly braces
-	
-	 \cite[\S6.2, pp. 112]{Eaton2016a} 
+	the exception of the using curly braces as operators for allocation
+	and indexing \cite[\S6.2, pp. 112]{Eaton2016a}. 
+
+####	Cell Array Usage
+
+
+
+
+\cite[\S6.2.1, pp. 112]{Eaton2016a}
 
 ####	Cell Array Creation
 
@@ -1200,6 +1206,8 @@ A cell array is a container that can contain variables of different
 
 
 ### Lists
+
+####	Comma Separated Lists
 
 ####	Variable-length argument lists
 
