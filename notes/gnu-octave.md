@@ -1172,6 +1172,7 @@ Data in a structure can be enumerated as follows
 + Use the *`structfun`* function to create user-defined functions
 	for each field of a structure.
 	- E.g., [\S19.3 Function Application](https://www.gnu.org/software/octave/doc/v4.0.1/Function-Application.html)
+		or \cite[\S19.3 Function Application]{Eaton2016}
 	- **[To Be Continued]**
 + Use another type of container to process the data; i.e., convert
 	the struct into a cell array, followed by data processing.
@@ -1179,6 +1180,13 @@ Data in a structure can be enumerated as follows
 
 
 ###	Cell Arrays
+
+A cell array is a container that can contain variables of different
+	sizes or types. 
+	A cell array can be used just like $N$-dimensional arrays with
+	the exception of the usage of curly braces
+	
+	 \cite[\S6.2, pp. 112]{Eaton2016a} 
 
 ####	Cell Array Creation
 
