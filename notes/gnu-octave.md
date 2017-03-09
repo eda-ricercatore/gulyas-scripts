@@ -1193,8 +1193,8 @@ A cell array can have fields/variables of different sizes.
 	These fields/variables can be indexed, extracted, overwritten
 	using curly braces \cite[\S6.2.1, pp. 112]{Eaton2016a}.
 	
-**[Note: I do not know if cell arrays (or structs) can have functions
-	as part of their ]**
+**[Note: I do not know if cell arrays (or structs) can include
+	functions in their containers.]**
 
 A nested cell array is hierarchically displayed via *`celldisp()`*,
 	and referenced by their index \cite[\S6.2.1, pp. 113]{Eaton2016a}.
@@ -1206,7 +1206,7 @@ A nested cell array is hierarchically displayed via *`celldisp()`*,
 	contents of the cell array *c*, but indicates its name as *b*,	
 	instead of *c*.
 
-
+*`iscell(x)`* determines if *x* is a cell array object.
 
 
 
