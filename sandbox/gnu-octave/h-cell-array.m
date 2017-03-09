@@ -40,8 +40,10 @@ disp("=	Create a cell array, with fields of different sizes.")
 
 nbl = { {"inbl", "time-shifted inbl"}, 1.05, {5 3; 2.4 1.8}, {"adaptivity", "capacitance", "inductance", "vout"}}
 
+disp("------------------------------------------------------------")
 disp("=	Display the contents of 'nbl'.")
 celldisp(nbl)
+disp("------------------------------------------------------------")
 disp("=	Display the contents of 'nbl', and rename it inbl.")
 celldisp(nbl,"inbl")
 
