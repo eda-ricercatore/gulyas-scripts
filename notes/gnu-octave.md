@@ -1200,6 +1200,15 @@ A nested cell array is hierarchically displayed via *`celldisp()`*,
 	and referenced by their index \cite[\S6.2.1, pp. 113]{Eaton2016a}.
 
 
+*`celldisp(c)`* recursively displays the contents of the call
+	array *c*. 
+	Alternatively, *`celldisp(c, b)`* also recursively displays the
+	contents of the cell array *c*, but indicates its name as *b*,	
+	instead of *c*.
+
+
+
+
 
 
 ####	Cell Array Creation
@@ -1211,7 +1220,7 @@ A nested cell array is hierarchically displayed via *`celldisp()`*,
 ####	Cell Array Manipulation
 
 
-
+Pray for Auntie Megan
 
 ### Lists
 
