@@ -1016,10 +1016,17 @@ To enumerate all elements of a structure, use a special form of the
 		body
 	endfor
 
+The content of 2-D *struct*s are displayed/accessed via rows first,
+	then columns during enumeration of such *structs*.
+	That is, for 2-D *struct*s, rows are incremented before columns 
+	are incremented.
+	Alternatively, elements in 2-D *struct*s are accessed via
+	(row,column) enumeration. 
 
-
-
-
+In general, for *n*-D *struct*s, which entries are indexed as
+	[i,j,k, ..., n], the elements are accessed in the following order:
++ increment i only
+	
 
 
 
@@ -1075,7 +1082,7 @@ When elements of a *struct* are a mixture of scalar and cell arrays,
 	the scalar arguments are expanded to form a structure array that
 	has a consistent dimension \cite[\S6.1.3, pp. 104-105]{Eaton2016a}.
 
-"To create a *struc* "that has/contains "a cell array as an individual
+"To create a *struct* "that has/contains "a cell array as an individual
 	field", wrap it in another cell array
 	\cite[\S6.1.3, pp. 106]{Eaton2016a}.
 	From personal experimentation in [h-structures.m](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/gnu-octave/h-structures.m), when I specify the cell
@@ -1348,10 +1355,10 @@ The function `deal(a)` is used to reproduce/copy data/information from
 
 
 
+###	Documentation Generation
 
-
-
-
+To automatically generate documentation for *GNU Octave*
+	scripts/programs, use [Texinfo](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/texinfo.md).
 
 
 
