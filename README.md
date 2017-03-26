@@ -50,14 +50,27 @@ Names for repositories for my Ph.D. research shall be named after dishes and dri
 		for time-shifted instantaneous noise-based logic
 		(NBL, INBL, TSINBL) systems. 
 
+
+
+
+
+### Data Storage 
+
+
+Experimental data can be stored in (object-oriented) SQL databases,
+	and source code documentation can be stored in NoSQL databases.
+
+
+
+
+
+
+
 ### Additional Information
 
 The *Makefile*s are used for build automation. It is used to produce 
 	repeatable experiment results from the execution of a sequence of
 		scripts and programs (including UNIX processes).
-
-
-
 
 
 
