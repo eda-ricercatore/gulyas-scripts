@@ -34,6 +34,19 @@ Names for repositories for my Ph.D. research shall be named after dishes and dri
 		* Documentation about guidelines that I am following
 			for my research, and for my research collaborators 
 			to know about.
+	- Dependency list
+		* List of software and software libraries that this code
+			base is dependent on.
+	- Externalities list.
+		* List of software and software libraries that this code
+			base can affect.
+	- Notes about the following computer languages:
+		* *GNU Octave*
+		* *R* programming language.
+		* *Python*
+		* *Texinfo*
+		* See [boilerplate code](https://github.com/eda-ricercatore/boilerplate-code) for revision notes about C++.
+	- To-do list (Operation Go-to-ICCAD, in Italian).
 + references
 	- Currently deprecated.
 	- Information that I would need to enter information into my
