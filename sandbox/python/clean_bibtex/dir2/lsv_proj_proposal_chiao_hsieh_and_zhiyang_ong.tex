@@ -1,0 +1,222 @@
+\documentclass[letter,12pt]{article}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%	\usepackage{graphicx}
+%	\usepackage{amsmath}
+%	\usepackage{array}
+%	\usepackage{amssymb}
+%	\usepackage{setspace}
+%	%\usepackage[margin=1.5cm,vmargin={0pt,1cm},nohead]{geometry}
+%	\usepackage[margin=1in,vmargin={1in,1in}]{geometry}
+%	% Package that has the symbol for ``:=''
+%	\usepackage{txfonts}
+%	% Create fancy headers and footers for this document
+%	\usepackage{fancyhdr}
+%	%\usepackage{cite}
+%	% The ``cite'' package causes the hyperlinks for the in-text references/citations to fail. I believe it is because this package overrides the default package for referencing. Hence, only use the ``cite'' package with the IEEE format.
+%	% Package for ``turnstile'' binary relations, where letters are defined above and below symbols
+%	\usepackage{turnstile}
+%	\usepackage{extarrows}
+%	% Package that provides the cross symbol
+%	\usepackage{ifsym}
+%	\usepackage{marvosym}
+%	% Commands for using the package for hyperlinks - 
+%	\usepackage[pdftex,
+%		pdftitle={Graphics and Color with LaTeX},
+%		pdfauthor={Patrick W Daly},
+%		pdfsubject={Importing images and use of color in LaTeX},
+%		pdfkeywords={LaTeX, graphics, color},
+%		pdfpagemode=UseOutlines,bookmarks, bookmarksopen,
+%		pdfstartview=FitH, colorlinks, linkcolor=blue, citecolor=blue, urlcolor=red,
+%	]{hyperref}
+%	\hypersetup{colorlinks, linkcolor=blue}
+%	% Concatenate references
+%	\usepackage{cite}
+
+
+%	% Package for tyepsetting algorithms and heuristics
+%	\usepackage{listings}
+%	\lstset{language=[GNU]C++}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%	Additional packages
+\input{/data/others/grappanotes/others/preamble}
+%	AMS theorem package
+\usepackage{amsthm}
+
+
+
+
+% definition of new \LaTeX command for the citation: \cite{Cimatti08} and \cite{Barrett09}
+% This allows mathematical/logic symbols to be typeset with the font ``Zapf Chancery'' in ``\LaTeX\ math mode''. To typeset symbols in such font, try: \mathpzc{ABCdef123}
+\DeclareMathAlphabet{\mathpzc}{OT1}{pzc}{m}{it}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Start of document
+\begin{document}
+\title{AIG-based SAT Solver: \\
+	{\Large Class Project Proposal for Logic Synthesis and Verification}}
+\date{\today}
+\author{Chiao Hsieh
+	\thanks{Email correspondence to: \href{mailto:r02943142@ntu.edu.tw}{r02943142@ntu.edu.tw}}
+	and Zhiyang Ong
+	\thanks{Email correspondence to: \href{mailto:ongz@acm.org}{ongz@acm.org}}
+}
+\maketitle
+
+\begin{abstract}
+Our project title is: AIG-based SAT solver. We are implementing a circuit-based SAT solver with our own AND-inverter graph (AIG) package. We want to practice implementing the SAT solving algorithms in AIG as part of our revision for the class midterm. In addition, we want to build a small AIG library to help us revise AIG for the midterm, too. We also intend to extend the circuit-based SAT solver to implement MAX-SAT. MAX-SAT has been used as an engine for automatic debugging of hardware (i.e., VLSI circuits and systems) and software. It is also being used as an optimization engine for mathematical programming problems. Hence, we intend to use our circuit-based SAT solver as a platform for future work involving the synthesis and verification of VLSI circuits and systems, as well as software verification. A preliminary plan of how we intend to carry out the project will be discussed. Finally, expected outcomes of the project will be listed.
+\end{abstract}
+
+
+
+
+%	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%	\section*{Declaration}
+%	\label{sec:declaration}
+%	
+%	I did this assignment on my own without any collaborators. %The mathematical programming package that I have used is \cite{Makhorin2012}. 
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Brief Overview}
+\label{sec:briefoverview}
+
+Project Title: circuit-based SAT solver \\
+\ \\
+Team Member(s): Chiao Hsieh and Zhiyang Ong \\
+\ \\
+Project category: Implementation + Mini-Survey
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Background Information}
+\label{sec:backgroundinfo}
+
+SAT solvers are used in logic synthesis \cite{Mishchenko2007,Scheffer2006a}, testing \cite{Drechsler2009}, and the formal verification (i.e., model checking and equivalence checking) \cite{Chang2007a,Drechsler2004,Hassoun2002,Herbstritt2008,Scheffer2006a,Wang2009,Yuan2006} of VLSI circuits and systems. However, they tend to used SAT solvers (automatic reasoning engines for the boolean/propositional satisfiability problem) that work with boolean formulas/formulae in conjunctive normal form (CNF) \cite{Marek2009}, or use solutions based on binary decision diagrams (BDDs) \cite{Chang2007a,Scheffer2006a}. Here, SAT solvers are used for model checking since they are faster. Currently, two common approaches to circuit-based SAT solving: circuit-based SAT solvers that use BDDs and circuit-based SAT solvers that use AIGs \cite[\S5.2, pp. 64--67]{Drechsler2004}. Since BDDs are canonical but are not compact \cite{Hassoun2002,Wang2009}, while AIGs are more compact (but not minimum) but not canonical \cite[pp. 22, Table 2.4]{Herbstritt2008}, we decide to focus on AIG-based SAT solvers to address capacity and scaling issues (in terms of handling very-large scale netlists). We are not looking at CNF-based SAT solvers, since we want to use a data structure that can retain the hierarchical/structural information of the logic netlists that we want to optimize, test, or verify \cite[pp. 22, Table 2.4]{Herbstritt2008}\cite{Drechsler2009}. \\
+
+For future work, we intend to use our AIG-based SAT solver as a platform for logic synthesis, logic verification, mathematical optimization (if the MAX-SAT functionality is implemented), technology mapping, automatic test pattern generation (ATPG), and timing analysis. For example, Zhiyang intends to investigate the use of a AIG-based MAX-SAT solver for mathematical programming, such as integer linear programming \cite[Chapter 11, pp. 191]{Yuan2006}. This AIG-based MAX-SAT solver can be subsequently used for mathematical optimization and ATPG. We also intend to parallelize this for use in various competitions related to SAT solving and logic verification. Given how SAT solvers have been improving over the last dozen years (see Figures \ref{fig:satsolvingprogress} and \ref{fig:satproblemprogress}), we want to take advantage of SAT solvers to solve problems in logic optimization and verification, as well as VLSI testing and software verification.
+
+
+
+\begin{figure}
+\centering 
+\includegraphics[width=6in]{./pictures/sat_solver_improvements}
+\caption{Progress of SAT solvers of time: A graph of performance over time (i.e., year of SAT solving innovation) \cite{Sabharwal2007,Sabharwal2011,Ganesh2013,Samulowitz2008}}
+\label{fig:satsolvingprogress}
+\end{figure}
+
+
+\begin{figure}
+\centering 
+\includegraphics[width=6in]{./pictures/sat_progress}
+\caption{Over time, there is an increase in the magnitude/size of the SAT problem that can be solved by state-of-the-art SAT solvers }
+\label{fig:satproblemprogress}
+\end{figure}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Motivations}
+\label{sec:motivations}
+
+Our motivations for the class project are listed as follows: \vspace{-0.3cm}
+\begin{enumerate} \itemsep -4pt
+\item To master the class material regarding AIGs and SAT solvers, as part of our concurrent preparation for the class midterm. Doing so will also help us prepare for the Ph.D. preliminary examination (assuming that Chiao Hsieh will become a Ph.D. student).
+\item To develop a C++ -based software that can help us get internships in electronic design automation or software formal verification.
+\item To build a SAT solving platform for our research, which is maintainable and parallelized (or can be parallelized). This can be used to implement interesting techniques for MAX-SAT, and other decision procedures or automated reasoning techniques for SAT- and/or SMT- related problems.
+\item To build a platform that can be extended, so that we can submit it to the FLoC Olympic Games 2014; see \url{http://vsl2014.at/olympics/}
+\end{enumerate}
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Objectives}
+\label{sec:objectives}
+
+The main goal of our project is to implement a basic circuit-based SAT solver using AIGs. A secondary objective is to implement interesting techniques for learning (i.e., conflict-driven clause learning) to improve the performance of SAT solving. The tertiary objective is the extension/modification of the circuit-based SAT solver to implement MAX-SAT, which can be used for logic optimization and verification. \\
+
+Other objectives include: \vspace{-0.3cm}
+\begin{enumerate} \itemsep -4pt
+\item Parallelizing the circuit-based SAT solver for better performance
+\item Submitting the circuit-based SAT solver for the competitions in the FLoC Olympic Games 2014; see \url{http://vsl2014.at/olympics/}
+\end{enumerate}
+
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Preliminary Plan}
+\label{sec:preliminaryplan}
+
+Figure \ref{fig:gantt} is a Gantt chart indicating our preliminary plan for the class project. Due to the restrictions of the software service used to create the Gantt chart, the reader is advised to contact Chiao Hsieh for the detailed Gantt chart. More screenshots of our detailed Gantt chart are available upon request. \\
+
+\begin{figure}
+\centering 
+\includegraphics[width=6in]{./pictures/gantt}
+\caption{A Gantt chart indicating the timeline in which we intend to complete various milestone tasks.}
+\label{fig:gantt}
+\end{figure}
+
+A summary of our milestones are provided as follows. \\
+
+Our project timeline is partitioned into three major stages: proposal stage, design stage, and report stage. After the initial proposal stage, the report stage is interleaved between design stages of the three milestones. That is, for the first milestone, we would have its design and report stages, followed by design and report stages for the second and third/last milestones. Also, the design and report stages may overlap with each other. \\
+
+In proposal stage, we survey papers related to our interests and then decide the objectives. For achieving the goals, we produce a preliminary plan and a prototype as our guideline in this project proposal. \\
+
+In design stage, we will focus on implementing current solutions for circuit-based SAT solving (and subsequently learning techniques for SAT solving and MAX-SAT) that are created by others. Corresponding to the due dates of progress reports and the final project report, we set three periods to carry out software verification and testing, before proceeding to the report stage for a few days. Here, the co-authors are each expected to provide unit and modular test suites for any function/constructor and class that they implement. Also, for the first design stage, we will dispatch tasks and define several necessary rules, including interfaces, software platform, coding standards, etc., for better development efficiency and collaboration. \\
+
+For the report stage of the first two milestones, we mainly analyze and report the current status of our design, and we also evaluate whether the advanced objectives can be implemented. In the last two weeks of the semester/class, we will stop software development (i.e., implementing existing/published algorithms), and focus on the project presentation and the final project report. \\
+
+Our preliminary design of the software architecture of our circuit-based SAT solver is listed in Figure \ref{fig:swarch}. It consists of six main components in the circuit-based SAT solver. It consists of two parsers: a parser for user input from the command line interface, and a parser for circuit designs (logic-level netlists) that would enable the circuit to be internally stored as an AIG. There is also: an AIG module that implements the AIG, a SAT solving (or boolean reasoning) engine; a module for implementing learning techniques (thus implementing the bridge and adaptor design patterns \cite{Gamma1995}); and an additional module to handle different input options specified by the user(s). \\
+
+The SAT solver also interfaces with the user via enabling users to enter user commands and accepts circuit designs from users as inputs for SAT solving. It generates the output (i.e., SAT or UNSAT) in the standard output stream.
+
+
+\begin{figure}
+\centering 
+\includegraphics[width=7in]{./pictures/sw_arch}
+\caption{A view of the software architecture of our circuit-based SAT solver.}
+\label{fig:swarch}
+\end{figure}
+
+
+
+%\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Expected Outcomes}
+\label{sec:expectedoutcomes}
+
+
+The expected outcomes for our class project are listed as follows: \vspace{-0.3cm}
+\begin{enumerate} \itemsep -4pt
+\item A simple C++ -based circuit-based SAT solver, using AIGs (milestone \#1)
+\item Implement interesting techniques for learning (i.e., conflict-driven clause learning) to improve the performance of SAT solving
+\item Extend/modify the circuit-based SAT solver to implement MAX-SAT
+\end{enumerate}
+
+Ideally, if we still have time for the class project in January, we would parallelize the circuit-based SAT solver for better performance, and submit the circuit-based SAT solver for the competitions in the FLoC Olympic Games 2014 (see \url{http://vsl2014.at/olympics/}).
+
+
+
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+{\linespread{1}
+\bibliographystyle{plain}
+\bibliography{/data/research/antipastobibtex/references}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{document}

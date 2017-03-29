@@ -1,0 +1,164 @@
+\documentclass[letter,12pt]{article}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%	\usepackage{graphicx}
+%	\usepackage{amsmath}
+%	\usepackage{array}
+%	\usepackage{amssymb}
+%	\usepackage{setspace}
+%	%\usepackage[margin=1.5cm,vmargin={0pt,1cm},nohead]{geometry}
+%	\usepackage[margin=1in,vmargin={1in,1in}]{geometry}
+%	% Package that has the symbol for ``:=''
+%	\usepackage{txfonts}
+%	% Create fancy headers and footers for this document
+%	\usepackage{fancyhdr}
+%	%\usepackage{cite}
+%	% The ``cite'' package causes the hyperlinks for the in-text references/citations to fail. I believe it is because this package overrides the default package for referencing. Hence, only use the ``cite'' package with the IEEE format.
+%	% Package for ``turnstile'' binary relations, where letters are defined above and below symbols
+%	\usepackage{turnstile}
+%	\usepackage{extarrows}
+%	% Package that provides the cross symbol
+%	\usepackage{ifsym}
+%	\usepackage{marvosym}
+%	% Commands for using the package for hyperlinks - 
+%	\usepackage[pdftex,
+%		pdftitle={Graphics and Color with LaTeX},
+%		pdfauthor={Patrick W Daly},
+%		pdfsubject={Importing images and use of color in LaTeX},
+%		pdfkeywords={LaTeX, graphics, color},
+%		pdfpagemode=UseOutlines,bookmarks, bookmarksopen,
+%		pdfstartview=FitH, colorlinks, linkcolor=blue, citecolor=blue, urlcolor=red,
+%	]{hyperref}
+%	\hypersetup{colorlinks, linkcolor=blue}
+%	% Concatenate references
+%	\usepackage{cite}
+
+
+%	% Package for tyepsetting algorithms and heuristics
+%	\usepackage{listings}
+%	\lstset{language=[GNU]C++}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%	Additional packages
+\input{/data/others/grappanotes/others/preamble}
+%	AMS theorem package
+\usepackage{amsthm}
+
+
+
+
+% definition of new \LaTeX command for the citation: \cite{Cimatti08} and \cite{Barrett09}
+% This allows mathematical/logic symbols to be typeset with the font ``Zapf Chancery'' in ``\LaTeX\ math mode''. To typeset symbols in such font, try: \mathpzc{ABCdef123}
+\DeclareMathAlphabet{\mathpzc}{OT1}{pzc}{m}{it}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Start of document
+\begin{document}
+\title{Discrete Optimization Homework \#2}
+\date{\today}
+\author{Zhiyang Ong
+	\thanks{Email correspondence to: \href{mailto:ongz@acm.org}{ongz@acm.org}}
+}
+\maketitle
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{Declaration}
+\label{sec:declaration}
+
+I did this assignment on my own without any collaborators. %The mathematical programming package that I have used is \cite{Makhorin2012}. 
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Convexity Analysis}
+\label{sec:convexityanalysis}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Convexity Analysis, Q1.1}
+\label{ssec:q1a}
+
+The dimensions of $\underline{x}$ and $\underline{b}$ are not properly specified on the Homework \#2 handout. The dimensions of $\underline{x}$ and $\underline{b}$ should both be $n \times 1$. This ensures that the dimensions of the matrices are consistent. \\
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Convexity Analysis, Q1.2}
+\label{ssec:q1b}
+
+Let $f(x) = e^{x_{1} + x_{2}}, \underline{x} \in \mathbb{R}^{2}$.
+
+Hessian of $f(x), \nabla^{2} f(\underline{x})$ (or $\underline{F}(\underline{x}$)) = $ \left[ \frac{\partial^{2} f(\underline{x})}{\partial x_{1} \partial x_{2}} \right]$ \cite[\S A.6, pp. 512]{Luenberger2008} \\
+$\therefore\ f(x), \nabla^{2} f(\underline{x}) = $\\
+%$\left[ \begin{array}{cc} \frac{\partial^{2} f(\underline{x})}{\partial^{2} x_{1}} & \frac{\partial^{2} f(\underline{x})}{\partial x_{1} \partial x_{2}} \\ \frac{\partial^{2} f(\underline{x})}{\partial x_{2} \partial x_{1}} & \frac{\partial^{2} f(\underline{x})}{\partial^{2} x_{2} \end{array} \right] $
+%$\left[ \frac{\partial^{2} f(\underline{x})}{\partial^{2} x_{1}}  \frac{\partial^{2} f(\underline{x})}{\partial x_{1} \partial x_{2}} \\ \frac{\partial^{2} f(\underline{x})}{\partial x_{2} \partial x_{1}}  \frac{\partial^{2} f(\underline{x})}{\partial^{2} x_{2} \right] $
+
+
+%	Hessian of $f(x), \nabla^{2} f(\underline{x})$ (or $\underline{F}(\underline{x}$) = $f^{\prime}(x) = \left[ \frac{\partial^{2} f(\underline{x})}{\partial x_{i} \partial x_{j}} \right]$ \cite[\S A.6, pp. 512]{Luenberger2008}
+%	Hessian of $f(x), \nabla^{2} f(\underline{x})$ (or $\underline{F}(\underline{x}$) = $f^{\prime}(x) = [ \frac{\partial^{2} f(\underline_{x})}{\partial x_{i} \partial x_{j}} ]$
+%	Hessian of $f(x), \nabla^{2} f(\underline{x})$ (or $\underline{F}(\underline{x}$) = $f^{\prime}(x) = [ \frac{\partial^{2} f(\underline_{x})}{\partial x_{i} \partial x_{j}} ]$
+
+%	\frac{d y}{d x_{1}} = 1 \times e^{x_{1} + x_{2}} = e^{x_{1} + x_{2}}
+
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Convexity Analysis, Q1.3}
+\label{ssec:q1c}
+
+The dimensions of $\underline{x}$, $\underline{b}$, and $\underline{c}$ are not properly specified on the Homework \#2 handout. The dimensions of $\underline{x}$ should be $n \times 1$, and the dimensions of $\underline{b}$ and $\underline{c}$ should both be $m \times 1$. This ensures that the dimensions of the matrices match with each other. \\
+
+
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Optimization Problem}
+\label{sec:optimizationproblem}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Optimization Problem, Q2.1}
+\label{ssec:q2a}
+
+The dimensions of $\underline{x}$ and $\underline{b}$ are not properly specified on the Homework \#2 handout. The dimensions of $\underline{x}$ and $\underline{b}$ should both be $n \times 1$. This ensures that the dimensions of the matrices match with each other. \\
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Optimization Problem, Q2.2}
+\label{ssec:q2b}
+
+I assume that addition (or rather, subtraction) operations take constant time, $O(1)$. This is because the question asked us to express the computational time complexity (or simply computational complexity) of our algorithm in terms of the number of multiplications used, using asymptotic notation.
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+{\linespread{1}
+\bibliographystyle{plain}
+\bibliography{/data/research/antipastobibtex/references}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{document}

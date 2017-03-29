@@ -1,0 +1,430 @@
+\documentclass[letter,12pt]{article}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%	\usepackage{graphicx}
+%	\usepackage{amsmath}
+%	\usepackage{array}
+%	\usepackage{amssymb}
+%	\usepackage{setspace}
+%	%\usepackage[margin=1.5cm,vmargin={0pt,1cm},nohead]{geometry}
+%	\usepackage[margin=1in,vmargin={1in,1in}]{geometry}
+%	% Package that has the symbol for ``:=''
+%	\usepackage{txfonts}
+%	% Create fancy headers and footers for this document
+%	\usepackage{fancyhdr}
+%	%\usepackage{cite}
+%	% The ``cite'' package causes the hyperlinks for the in-text references/citations to fail. I believe it is because this package overrides the default package for referencing. Hence, only use the ``cite'' package with the IEEE format.
+%	% Package for ``turnstile'' binary relations, where letters are defined above and below symbols
+%	\usepackage{turnstile}
+%	\usepackage{extarrows}
+%	% Package that provides the cross symbol
+%	\usepackage{ifsym}
+%	\usepackage{marvosym}
+%	% Commands for using the package for hyperlinks - 
+%	\usepackage[pdftex,
+%		pdftitle={Graphics and Color with LaTeX},
+%		pdfauthor={Patrick W Daly},
+%		pdfsubject={Importing images and use of color in LaTeX},
+%		pdfkeywords={LaTeX, graphics, color},
+%		pdfpagemode=UseOutlines,bookmarks, bookmarksopen,
+%		pdfstartview=FitH, colorlinks, linkcolor=blue, citecolor=blue, urlcolor=red,
+%	]{hyperref}
+%	\hypersetup{colorlinks, linkcolor=blue}
+%	% Concatenate references
+%	\usepackage{cite}
+
+
+%	% Package for tyepsetting algorithms and heuristics
+%	\usepackage{listings}
+%	\lstset{language=[GNU]C++}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%	Additional packages
+\input{/data/others/grappanotes/others/preamble}
+%	AMS theorem package
+\usepackage{amsthm}
+
+
+
+
+% definition of new \LaTeX command for the citation: \cite{Cimatti08} and \cite{Barrett09}
+% This allows mathematical/logic symbols to be typeset with the font ``Zapf Chancery'' in ``\LaTeX\ math mode''. To typeset symbols in such font, try: \mathpzc{ABCdef123}
+\DeclareMathAlphabet{\mathpzc}{OT1}{pzc}{m}{it}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Start of document
+\begin{document}
+\title{Discrete Optimization Homework \#3}
+\date{\today}
+\author{Zhiyang Ong
+	\thanks{Email correspondence to: \href{mailto:ongz@acm.org}{ongz@acm.org}}
+}
+\maketitle
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{Declaration}
+\label{sec:declaration}
+
+I did this assignment on my own without any collaborators. %The mathematical programming package that I have used is \cite{Makhorin2012}. 
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Finding Basic Solutions}
+\label{sec:findingbasicsolutions}
+
+The reference used was: \cite[\S2.5, pages 25--27]{Luenberger2008}. \\
+
+The set of given constraints are:
+\begin{eqnarray*}
+x_{1} + \frac{8}{3}x_{2} \leq 4 \\
+x_{1} + x_{2} \leq 2 \\
+2x_{1} \leq 3 \\
+x_{1} \geq 0, x_{2} \geq 0
+\end{eqnarray*}
+
+\begin{figure}
+\centering 
+\includegraphics[width=6in]{q1_fig}
+\caption{Feasible set for the given constraints \cite[\S2.5, page 27]{Luenberger2008}}
+\label{fig:q1feasibleset}
+\end{figure}
+
+To solve this via a linear programming approach, use slack variables to convert the set of inequalities in $E^{2}$ to an equivalent set of equalities in $E^{5}$, where the five extreme points of the feasible set can be see in Figure \ref{fig:q1feasibleset} \cite[\S2.1, pages 12]{Luenberger2008}. \\
+
+Thus, the resultant set of equalities, represented as $\mathbf{Ax = b}$ \cite[\S2.1, page 19]{Luenberger2008}, in the standard form \cite[\S2.1, pages 11]{Luenberger2008} of linear programming is given as follows:
+\begin{eqnarray*}
+x_{1} + \frac{8}{3}x_{2} + x_{3} = 4 \\
+x_{1} + x_{2} + x_{4} = 2 \\
+2x_{1} + x_{5} = 3 \\
+x_{1} \geq 0, x_{2} \geq 0, x_{3} \geq 0, x_{4} \geq 0, x_{5} \geq 0
+\end{eqnarray*}
+
+The basic solutions for this system of linear equations can be found by ``setting any two of variables to zero and solving for the remaining three'' \cite[\S2.5, page 26]{Luenberger2008}. \\
+
+Possible Basic solution \#1:
+Let $x_{1} = x_{2} = 0$, and the set of equalities become:
+\begin{eqnarray*}
+0 + \frac{8}{3} \times 0 + x_{3} = 4 \\
+0 + 0 + x_{4} = 2 \\
+2 \times 0 + x_{5} = 3 \\
+\end{eqnarray*}
+Therefore, for possible basic solution \#1, $x_{1} = x_{2} = 0, x_{3} = 4, x_{4} = 2, x_{5} = 3$:
+\begin{equation}
+\mathbf{x} = \left[
+	\begin{array}{c}
+	0 \\ 0 \\ 4 \\ 2 \\ 3
+	\end{array}
+	\right]
+\end{equation}
+
+\ \\
+\ \\
+
+Possible Basic solution \#2:
+Let $x_{1} = x_{3} = 0$, and the set of equalities become:
+\begin{eqnarray*}
+0 + \frac{8}{3} \times x_{2} + 0 = 4 \\
+0 + x_{2} + x_{4} = 2 \\
+2 \times 0 + x_{5} = 3 \\
+\end{eqnarray*}
+Therefore, for possible basic solution \#2, $x_{1} = x_{3} = 0, \frac{8}{3} x_{2} = 4 \Rightarrow x_{2} = 4 \times \frac{3}{8} = 6, x_{4} = 2 - x_{2} = 2 - 6 = -4, x_{5} = 3$:
+\begin{equation}
+\mathbf{x} = \left[
+	\begin{array}{c}
+	0 \\ 6 \\ 0 \\ -4 \\ 3
+	\end{array}
+	\right]
+\end{equation}
+(reject) \\
+\ \\
+\ \\
+
+Possible Basic solution \#3:
+Let $x_{1} = x_{4} = 0$, and the set of equalities become:
+\begin{eqnarray*}
+0 + \frac{8}{3}x_{2} + x_{3} = 4 \\
+0 + x_{2} + 0 = 2 \\
+0 + x_{5} = 3 \\
+\end{eqnarray*}
+Therefore, for possible basic solution \#3, $x_{1} = x_{4} = 0, x_{2} = 2, x_{3} = 4 - \frac{8}{3} x_{2} = 4 - \frac{3}{8} \times 2 = 3\frac{1}{4}, x_{5} = 3$:
+\begin{equation}
+\mathbf{x} = \left[
+	\begin{array}{c}
+	0 \\ 2 \\ 3.25 \\ 0 \\ 3
+	\end{array}
+	\right]
+\end{equation}
+(reject) \\
+\ \\
+\ \\
+
+Possible Basic solution \#4:
+Let $x_{2} = x_{3} = 0$, and the set of equalities become:
+\begin{eqnarray*}
+x_{1} + \frac{8}{3} \times 0 + 0 = 4 \\
+x_{1} + 0 + x_{4} = 2 \\
+2x_{1} + x_{5} = 3 \\
+\end{eqnarray*}
+Therefore, for possible basic solution \#4, $x_{2} = x_{3} = 0, x_{1} = 4, x_{4} = 2 - x_{1} = 2 - 4 = -2, x_{5}  = 3 - 2 \times x_{1} = 3 - 2 \times 4 = -5$:
+\begin{equation}
+\mathbf{x} = \left[
+	\begin{array}{c}
+	4 \\ 0 \\ 0 \\ -2 \\ -5
+	\end{array}
+	\right]
+\end{equation}
+(reject) \\
+\ \\
+\ \\
+
+Possible Basic solution \#5:
+Let $x_{2} = x_{4} = 0$, and the set of equalities become:
+\begin{eqnarray*}
+x_{1} + 0 + x_{3} = 4 \\
+x_{1} + 0 + 0 = 2 \\
+2x_{1} + x_{5} = 3 \\
+\end{eqnarray*}
+Therefore, for possible basic solution \#5, $x_{2} = x_{4} = 0, x_{1} = 2, x_{3} = 4 - x_{1} = 4 - 2 = 2, x_{5} = 3 - 2 \times x_{1} = 3 - 2 \times 2 = -1$:
+\begin{equation}
+\mathbf{x} = \left[
+	\begin{array}{c}
+	2 \\ 0 \\ 2 \\ 0 \\ -1
+	\end{array}
+	\right]
+\end{equation}
+(reject) \\
+\ \\
+\ \\
+
+Possible Basic solution \#6:
+Let $x_{2} = x_{5} = 0$, and the set of equalities become:
+\begin{eqnarray*}
+x_{1} + 0 + x_{3} = 4 \\
+x_{1} + 0 + x_{4} = 2 \\
+2x_{1} + 0 = 3 \\
+\end{eqnarray*}
+Therefore, for possible basic solution \#6, $x_{2} = x_{5} = 0, x_{1} = \frac{3}{2} = 1.5, x_{3} = 4 - x_{1} = 4 - 1.5 = 2.5, x_{4} = 2 - x_{1} = 2 - 1.5 = 0.5$:
+\begin{equation}
+\mathbf{x} = \left[
+	\begin{array}{c}
+	1.5 \\ 0 \\ 2.5 \\ 0.5 \\ 0
+	\end{array}
+	\right]
+\end{equation}
+(reject) \\
+\ \\
+\ \\
+
+Possible Basic solution \#7:
+Let $x_{3} = x_{4} = 0$, and the set of equalities become:
+\begin{eqnarray*}
+x_{1} + \frac{8}{3}x_{2} + 0 = 4 \\
+x_{1} + x_{2} + 0 = 2 \\
+2x_{1} + x_{5} = 3 \\
+\end{eqnarray*}
+Therefore, for possible basic solution \#7, $x_{3} = x_{4} = 0, (\frac{8}{3} - 1) \times x_{2} = 4 - 2 \Rightarrow x_{2} = 2 \times \frac{3}{5} = 1.2, x_{1} = 2 - x_{1} = 2 - 1.2 = 0.8, x_{5} = 3 - 2 \times x_{1} = 0.6$:
+\begin{equation}
+\mathbf{x} = \left[
+	\begin{array}{c}
+	0.8 \\ 1.2 \\ 0 \\ 0 \\ 0.6
+	\end{array}
+	\right]
+\end{equation}
+(reject) \\
+\ \\
+\ \\
+
+Possible Basic solution \#8:
+Let $x_{3} = x_{5} = 0$, and the set of equalities become:
+\begin{eqnarray*}
+x_{1} + \frac{8}{3}x_{2} + 0 = 4 \\
+x_{1} + x_{2} + x_{4} = 2 \\
+2x_{1} + 0 = 3 \\
+\end{eqnarray*}
+Therefore, for possible basic solution \#8, $x_{3} = x_{5} = 0, x_{1} = \frac{3}{2} = 1.5, x_{2} = \frac{3}{8}(4 - x_{1}) = \frac{3}{8}(4 - 1.5) = \frac{15}{16} = 0.9375, x_{4} = 2 - x_{1} - x_{2} = 2 - 1.5 - 0.9375 = -0.4375$:
+\begin{equation}
+\mathbf{x} = \left[
+	\begin{array}{c}
+	1.5 \\ 0.9375 \\ 0 \\ -0.4375 \\ 0
+	\end{array}
+	\right]
+\end{equation}
+(reject) \\
+\ \\
+\ \\
+
+Possible Basic solution \#9:
+Let $x_{4} = x_{5} = 0$, and the set of equalities become:
+\begin{eqnarray*}
+x_{1} + \frac{8}{3}x_{2} + x_{3} = 4 \\
+x_{1} + x_{2} = 2 \\
+2x_{1} = 3 \\
+\end{eqnarray*}
+Therefore, for possible basic solution \#9, $x_{4} = x_{5} = 0, x_{1} = \frac{3}{2} = 1.5, x_{2} = 2 - 1.5 = 0.5, x_{3} = 4 - x_{1} - \frac{8}{3} \times x_{2} = 4 - 1.5 - \frac{8}{3} \times 0.5 = \frac{7}{6} \approx 1.1667$:
+\begin{equation}
+\mathbf{x} = \left[
+	\begin{array}{c}
+	1.5 \\ 0.5 \\ 1.1667 \\ 0 \\ 0
+	\end{array}
+	\right]
+\end{equation}
+(reject) \\
+
+Infeasible solutions result, when the following pairs of variables are set to zero: $x_{1} = x_{5} = 0$. This is because $2\times x_{1} + x_{5} \neq 0$. \\
+
+Hence, there is only one basic solution \#1, which contain integers and no negative numbers.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Transforming Optimization Problem with Piecewise Linear Functions into Linear Programming Problem}
+\label{sec:optimizationproblemtransformation}
+
+The given mathematical optimization problem for a given class of piecewise linear functions is:
+\begin{eqnarray*}
+f({\mathbf{x}}) = {\rm maximum} (\mathbf{c}^{T}_{1}\mathbf{x} + d_{1}, \mathbf{c}^{T}_{2}\mathbf{x} + d_{2}, \dots, \mathbf{c}^{T}_{p}\mathbf{x} + d_{p})
+\end{eqnarray*}
+
+For this I can convert it into a linear model by separating the $x_{i}$ and $d_{i}$ components, $\forall i \in {1, 2, ..., n}$
+programming \cite[\S3.3, pages 83--86]{Haftka1992}\cite[\S1, pages 5-8]{Malucelli2005}. Add all the $x_{i}$ components and place them into the new objective function with the initial displacement $d_{1}$. For each additive/displacement term $d_{i}$ that causes the model to be piecewise linear, multiply it by a slack variables and constraint them within a range $d_{i}y_{i1} \leq z_{i} \leq d_{i}y_{i2}$ That is, re-formulate the problem as:
+\begin{eqnarray*}
+f({\mathbf{x}}) = {\rm maximum} (d_{1}y_{1} + \mathbf{c}^{T}_{1}\mathbf{x} + \mathbf{c}^{T}_{2}\mathbf{x} + \dots + \mathbf{c}^{T}_{p}\mathbf{x}) \\
+{\rm subject\ to:} \\
+%d_{2}y_{1a} \leq z_{1} \leq d_{1}y_{1b} \\
+d_{2}y_{2a} \leq z_{2} \leq d_{2}y_{2b} \\
+d_{3}y_{3a} \leq z_{3} \leq d_{3}y_{3b} \\
+\dots \\
+d_{p}y_{pa} \leq z_{p} \leq d_{p}y_{pb} \\
+\end{eqnarray*}
+
+
+Subsequently, I can convert the maximization problem in linear programming into a minimization problem if linear programming in the standard form \cite[\S3.4, page 48, Example 1]{Luenberger2008}. Negate ``the objective function'' to convert it to a minimization problem. For each constraint, add a unique slack variable to turn them into equalities in the standard form of linear programming.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Simplex Method}
+\label{ssec:simplexmethod}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Simplex Method, Implemented Using Linear Algebra}
+\label{ssec:simplexmethodlinearalgebra}
+
+\begin{eqnarray*}
+{\rm maximize}\ (-x_{1} + x_{2}) \\
+{\rm subject\ to} \\
+x_{1} - x_{2} \leq 2 \\
+x_{1} + x_{2} \leq 6 \\
+x_{1} \geq 0, x_{1} \geq 0 \\
+\end{eqnarray*}
+
+Transform this to normal form by introducing slack variables $x_{3}$ and $x_{4}$, the objective/maximization function and constraints become: \\
+\begin{eqnarray*}
+z - x_{1} + x_{2} = 0 \\
+x_{1} - x_{2} + x_{3} = 2 \\
+x_{1} + x_{2} + x_{4 } = 6 \\
+{\rm where}\ x_{1} \geq 0, x_{1} \geq 0 \\
+\end{eqnarray*}
+
+
+In the augmented matrix form (of $\mathbf{Ax = b}$), it becomes:
+\[  \mathbf{T_{0}} =  
+\begin{array}{c}
+	\begin{array}{cccccc}
+	z & x_{1} & x_{2} & x_{3} & x_{4} & b \\
+	\end{array}
+	\\
+	\left[ \begin{array}{cccccc}
+	1 & -1 & 1 & 0 & 0 & 0 \\
+	0 & 1 & -1 & 1 & 0 & 2  \\
+	0 & 1 & 1 & 0 & 1 & 6
+	\end{array} \right]
+\end{array}
+\]
+
+Select as the column of the pivot the first column with a negative entry in Row 1. This is column 3, because of the $-1$.\\
+
+Selection of the row of the pivot. Divide the right sides (2 and 6) by the corresponding entries of the selected column ($2 \div -1 = -2$ and $6/1 = 6$). The smaller quotient of the rightmost column is the second row, with the quotient of $-2$.\\
+
+\begin{equation*}
+\mathbf{T_{1}} =  
+\begin{array}{c}
+	\begin{array}{cccccc}
+	z & x_{1} & x_{2} & x_{3} & x_{4} & b \\
+	\end{array}
+	\\
+	\left[ \begin{array}{cccccc}
+	1 & -1 & 1 & 0 & 0 & 0 \\
+	0 & 1 & -1 & 1 & 0 & -2  \\
+	0 & 1 & 1 & 0 & 1 & 6
+	\end{array} \right]
+\end{array}
+\end{equation*}
+
+Elimination by row operations. Replace Row 1 with the addition of Row 1 and Row 3.
+
+\begin{equation*}
+\mathbf{T_{2}} =  
+\begin{array}{c}
+	\begin{array}{cccccc}
+	z & x_{1} & x_{2} & x_{3} & x_{4} & b \\
+	\end{array}
+	\\
+	\left[ \begin{array}{cccccc}
+	1 & 0 & 2 & 0 & 1 & 6\ {\rm (Row\ 1 + Row\ 3)} \\
+	0 & 1 & -1 & 1 & 0 & -1  \\
+	0 & 1 & 1 & 0 & 1 & 6
+	\end{array} \right]
+\end{array}
+\end{equation*}
+
+Since there are no more negative entries in Row 1 of $T_{2}$, the Simplex method terminates with an optimum value of 6, which is the last column entry in Row 1. \\
+
+That is, the optimum solution to the linear programming problem is 6.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Simplex Method, Graphical Representation}
+\label{ssec:simplexmethodgraphicalrepresentation}
+
+Fig. \ref{fig:q3b1} shows the solution space of the linear programming problem. Fig. \ref{fig:q3b2} shows the inital solution indicated with a small circle at (0, 0), and Fig. \ref{fig:q3b3} shows the final solution indicated with a small circle at (0, 6).
+
+\begin{figure}
+\centering 
+\includegraphics[width=6in]{./q3b_fig/q3b1}
+\caption{Solution space of the linear programming problem}
+\label{fig:q3b1}
+\end{figure}
+
+\begin{figure}
+\centering 
+\includegraphics[width=6in]{./q3b_fig/q3b2}
+\caption{Solution space of the linear programming problem, with the inital solution indicated with a small circle at (0, 0).}
+\label{fig:q3b2}
+\end{figure}
+
+\begin{figure}
+\centering 
+\includegraphics[width=6in]{./q3b_fig/q3b3}
+\caption{Solution space of the linear programming problem, with the final solution indicated with a small circle at (0, 6).}
+\label{fig:q3b3}
+\end{figure}
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+{\linespread{1}
+\bibliographystyle{plain}
+\bibliography{/data/research/antipastobibtex/references}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{document}

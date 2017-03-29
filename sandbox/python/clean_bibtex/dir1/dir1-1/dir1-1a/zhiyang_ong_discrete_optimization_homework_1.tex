@@ -1,0 +1,165 @@
+\documentclass[letter,12pt]{article}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%	\usepackage{graphicx}
+%	\usepackage{amsmath}
+%	\usepackage{array}
+%	\usepackage{amssymb}
+%	\usepackage{setspace}
+%	%\usepackage[margin=1.5cm,vmargin={0pt,1cm},nohead]{geometry}
+%	\usepackage[margin=1in,vmargin={1in,1in}]{geometry}
+%	% Package that has the symbol for ``:=''
+%	\usepackage{txfonts}
+%	% Create fancy headers and footers for this document
+%	\usepackage{fancyhdr}
+%	%\usepackage{cite}
+%	% The ``cite'' package causes the hyperlinks for the in-text references/citations to fail. I believe it is because this package overrides the default package for referencing. Hence, only use the ``cite'' package with the IEEE format.
+%	% Package for ``turnstile'' binary relations, where letters are defined above and below symbols
+%	\usepackage{turnstile}
+%	\usepackage{extarrows}
+%	% Package that provides the cross symbol
+%	\usepackage{ifsym}
+%	\usepackage{marvosym}
+%	% Commands for using the package for hyperlinks - 
+%	\usepackage[pdftex,
+%		pdftitle={Graphics and Color with LaTeX},
+%		pdfauthor={Patrick W Daly},
+%		pdfsubject={Importing images and use of color in LaTeX},
+%		pdfkeywords={LaTeX, graphics, color},
+%		pdfpagemode=UseOutlines,bookmarks, bookmarksopen,
+%		pdfstartview=FitH, colorlinks, linkcolor=blue, citecolor=blue, urlcolor=red,
+%	]{hyperref}
+%	\hypersetup{colorlinks, linkcolor=blue}
+%	% Concatenate references
+%	\usepackage{cite}
+
+
+%	% Package for tyepsetting algorithms and heuristics
+%	\usepackage{listings}
+%	\lstset{language=[GNU]C++}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%	Additional packages
+\input{/data/others/grappanotes/others/preamble}
+%	AMS theorem package
+\usepackage{amsthm}
+
+
+
+
+% definition of new \LaTeX command for the citation: \cite{Cimatti08} and \cite{Barrett09}
+% This allows mathematical/logic symbols to be typeset with the font ``Zapf Chancery'' in ``\LaTeX\ math mode''. To typeset symbols in such font, try: \mathpzc{ABCdef123}
+\DeclareMathAlphabet{\mathpzc}{OT1}{pzc}{m}{it}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Start of document
+\begin{document}
+\title{Scribed Notes for Week 2: September 17, 2013}
+\date{\today}
+\author{Zhiyang Ong
+	\thanks{Email correspondence to: \href{mailto:ongz@acm.org}{ongz@acm.org}}
+}
+\maketitle
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Declaration}
+\label{sec:declaration}
+
+I did this assignment on my own without any collaborators. The mathematical programming package that I have used is \cite{Makhorin2012}. 
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Finding the Perfect Diet}
+\label{sec:findingperfectdiet}
+
+Q1.1) and Q1.2): See printouts. \\
+
+Q1.3) The minimal cost from CPLEX is 92.5, and the minimal cost from GLPK is about 80.69. Since GLPK yields a lower cost that CPLEX, it gives a better solution to the linear programming problem.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Finding the Optimal Volume Mix of Two Types of Liquid}
+\label{sec:optimalliquidmix}
+
+Q2.1) Mathematical formulation for finding the optimal volume mix of two types of liquid. \\
+
+Let $x_{1}$ and $x_{2}$ represent the volume of liquid types 1 and 2 in cm$^{3}$. \\
+
+Objective function:
+
+maximize $F(x) = \$2/{\rm cm}^{3} \times x_{1} + \$3/{\rm cm}^{3} \times x_{2} $ \\
+
+Decision variables:
+
+$\underline{x}_{\varepsilon} s$ \\
+
+Subject to these constraints:
+
+$x_{1} + x_{2} \leq 2000 $ (since 2 $l = 2000$ cm$^{3}$)
+
+$1 g/cm^{3} \times x_{1} + 2 g/cm^{3} \times x_{2} \leq 3000 $ (since 3 kg $ = 3000$ g)
+
+$x_{1} \geq 0$
+
+$x_{2} \geq 0$
+\ \\
+\ \\
+Here, I define density $\rho$ = $\frac{{\rm mass}\ m}{{\rm volume}\ v}$. \\
+
+$\therefore m = \frac{\rho}{v}$
+
+
+Q2.2) See printout.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Nonlinear Programming}
+\label{sec:nonlinearprogramming}
+
+Q3) Attachment
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Traveling Salesperson Problem}
+\label{sec:tspquestion}
+
+%For the asymmetric traveling salesperson problem (TSP), the distance, $d$, between any pair of cities $i$ and $j$ is not equivalent. That is, $d(i,j) \neq d(j,i)$).
+
+%The number of tours for asymmetric TSP is: $(n-1)!$ \cite[\S6.1.1, pp. 224]{Punnen2007}. Therefore, the cardinality for $N_{2}(t)$ is: $\frac{1}{2}(n-2)!$ % $\frac{1}{2}(n-2)!$
+
+Q4.1) The cardinality for $N_{2}(t)$ is: n. \\
+\ \\
+Q4.2) $N_{2}(t) = \{ t: t \in T \& t can be obtained by removing 2 edges from the tour and then replacing them with 2 edges \}$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+{\linespread{1}
+\bibliographystyle{plain}
+\bibliography{/data/research/antipastobibtex/references}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{document}

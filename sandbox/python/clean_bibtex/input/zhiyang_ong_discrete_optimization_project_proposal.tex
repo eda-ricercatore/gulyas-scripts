@@ -1,0 +1,403 @@
+\documentclass[letter,12pt]{article}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%	\usepackage{graphicx}
+%	\usepackage{amsmath}
+%	\usepackage{array}
+%	\usepackage{amssymb}
+%	\usepackage{setspace}
+%	%\usepackage[margin=1.5cm,vmargin={0pt,1cm},nohead]{geometry}
+%	\usepackage[margin=1in,vmargin={1in,1in}]{geometry}
+%	% Package that has the symbol for ``:=''
+%	\usepackage{txfonts}
+%	% Create fancy headers and footers for this document
+%	\usepackage{fancyhdr}
+%	%\usepackage{cite}
+%	% The ``cite'' package causes the hyperlinks for the in-text references/citations to fail. I believe it is because this package overrides the default package for referencing. Hence, only use the ``cite'' package with the IEEE format.
+%	% Package for ``turnstile'' binary relations, where letters are defined above and below symbols
+%	\usepackage{turnstile}
+%	\usepackage{extarrows}
+%	% Package that provides the cross symbol
+%	\usepackage{ifsym}
+%	\usepackage{marvosym}
+%	% Commands for using the package for hyperlinks - 
+%	\usepackage[pdftex,
+%		pdftitle={Graphics and Color with LaTeX},
+%		pdfauthor={Patrick W Daly},
+%		pdfsubject={Importing images and use of color in LaTeX},
+%		pdfkeywords={LaTeX, graphics, color},
+%		pdfpagemode=UseOutlines,bookmarks, bookmarksopen,
+%		pdfstartview=FitH, colorlinks, linkcolor=blue, citecolor=blue, urlcolor=red,
+%	]{hyperref}
+%	\hypersetup{colorlinks, linkcolor=blue}
+%	% Concatenate references
+%	\usepackage{cite}
+
+
+%	% Package for tyepsetting algorithms and heuristics
+%	\usepackage{listings}
+%	\lstset{language=[GNU]C++}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%	Additional packages
+\input{/data/others/grappanotes/others/preamble}
+%	AMS theorem package
+\usepackage{amsthm}
+%\usepackage{lscape}
+%\usepackage{rotating}
+\usepackage{pdflscape}
+
+
+% definition of new \LaTeX command for the citation: \cite{Cimatti08} and \cite{Barrett09}
+% This allows mathematical/logic symbols to be typeset with the font ``Zapf Chancery'' in ``\LaTeX\ math mode''. To typeset symbols in such font, try: \mathpzc{ABCdef123}
+\DeclareMathAlphabet{\mathpzc}{OT1}{pzc}{m}{it}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Start of document
+\begin{document}
+\title{Discrete Optimization via Max-SMT}
+\date{\today}
+\author{Jack Jun-Tao Yang 
+	\thanks{Email correspondence to: \href{mailto:havachoice@gmail.com}{havachoice@gmail.com}}
+	and Zhiyang Ong
+	\thanks{Email correspondence to: \href{mailto:ongz@acm.org}{ongz@acm.org}}
+}
+\maketitle
+
+
+
+\begin{abstract}
+%	Problems in mathematical programming can be formulated as a conjunction of its objective function(s) and constraint(s), and solved with decision procedures for problems in maximum satisfiability modulo theories (Max-SMT) {\LARGE Insert Reference!!!}. This is because software for satisfiability modulo theories (SMT) can reason on first-order logic formulae based the theories of nonlinear real and integer arithmetic, linear real and integer arithmetic, quantified first-order logic {\LARGE Insert Reference!!!}. For the class project of my ``Discrete Optimization'' class at National Taiwan University in Fall 2013, I propose developing a flow for discrete optimization based on Max-SMT solvers. The milestones for the class project are described as follows: encoding linear programming problems in standard form as SMT formulae, using the SMT-LIB 2 format {\LARGE Insert Reference!!!}, and solving the linear programming problems with existing open-source Max-SAT solvers (solvers for the maximum satisfiability problem, Max-SAT) {\LARGE Insert Reference!!!}; extend {\sc MiniSat} to solve problems in Max-SAT; evaluate current open-source SMT solvers (CVC4 and OpenSMT) {\LARGE Insert Reference!!!} for extension to Max-SMT; and, lastly, implement the extension of an SMT solver to Max-SMT. The last milestone would enable us to extend discrete optimization to discrete nonlinear programming (i.e., nonlinear integer programming) problems.
+Problems in mathematical programming can be formulated as a conjunction of its objective function(s) and constraint(s), and solved with decision procedures for problems in maximum satisfiability modulo theories (Max-SMT) {\LARGE Insert Reference!!!}. This is because software for satisfiability modulo theories (SMT) can reason on first-order logic formulae based the theories of nonlinear real and integer arithmetic, linear real and integer arithmetic, quantified first-order logic {\LARGE Insert Reference!!!}. For the class project of my ``Discrete Optimization'' class at National Taiwan University in Fall 2013, I propose developing a flow for discrete optimization based on Max-SMT solvers. The milestones for the class project are described as follows: encoding linear programming (LP) problems in standard form as SMT formulae, using the SMT-LIB 2 format {\LARGE Insert Reference!!!}, and solving the linear programming problems with existing open-source Max-SAT solvers (solvers for the maximum satisfiability problem, Max-SAT) and SMT solvers {\LARGE Insert Reference!!!}; use the SMT solver to solve integer linear programming (ILP) problems; compare different approaches to solve ILP problems; and create a meta-algorithm for algorithmic portfolio optimization.
+\end{abstract}
+
+%	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%	\section*{Declaration}
+%	\label{sec:declaration}
+%	
+%	I did this assignment on my own without any collaborators. %The mathematical programming package that I have used is \cite{Makhorin2012}. 
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Objectives of Study}
+\label{sec:objectivesofstudy}
+
+The objectives for our term project are: \vspace{-0.3cm}
+\begin{enumerate} \itemsep -4pt
+\item To help 
+\end{enumerate}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Summary of Literature Survey}
+\label{sec:summaryofliteraturesurvey}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Research Proposal}
+\label{sec:summaryofliteraturesurvey}
+
+The progress of modern SAT solvers can be shown in \cite[Fig. 1.2, pp. 5, Chapter 1]{Samulowitz2008} \cite[slide 7]{Sabharwal2011} \cite[slide 7]{Sabharwal2007}.
+
+\cite[slide 9]{Ganesh2013}
+
+
+
+
+
+
+The reference used was: \cite[\S2.5, pages 25--27]{Luenberger2008}. \\
+
+The set of given constraints are:
+\begin{eqnarray*}
+x_{1} + \frac{8}{3}x_{2} \leq 4 \\
+x_{1} + x_{2} \leq 2 \\
+2x_{1} \leq 3 \\
+x_{1} \geq 0, x_{2} \geq 0
+\end{eqnarray*}
+
+
+
+To solve this via a linear programming approach, use slack variables to convert the set of inequalities in $E^{2}$ to an equivalent set of equalities in $E^{5}$, where the five extreme points of the feasible set can be see in Figure \ref{fig:q1feasibleset} \cite[\S2.1, pages 12]{Luenberger2008}. \\
+
+Thus, the resultant set of equalities, represented as $\mathbf{Ax = b}$ \cite[\S2.1, page 19]{Luenberger2008}, in the standard form \cite[\S2.1, pages 11]{Luenberger2008} of linear programming is given as follows:
+\begin{eqnarray*}
+x_{1} + \frac{8}{3}x_{2} + x_{3} = 4 \\
+x_{1} + x_{2} + x_{4} = 2 \\
+2x_{1} + x_{5} = 3 \\
+x_{1} \geq 0, x_{2} \geq 0, x_{3} \geq 0, x_{4} \geq 0, x_{5} \geq 0
+\end{eqnarray*}
+
+The basic solutions for this system of linear equations can be found by ``setting any two of variables to zero and solving for the remaining three'' \cite[\S2.5, page 26]{Luenberger2008}. \\
+
+Possible Basic solution \#1:
+Let $x_{1} = x_{2} = 0$, and the set of equalities become:
+\begin{eqnarray*}
+0 + \frac{8}{3} \times 0 + x_{3} = 4 \\
+0 + 0 + x_{4} = 2 \\
+2 \times 0 + x_{5} = 3 \\
+\end{eqnarray*}
+Therefore, for possible basic solution \#1, $x_{1} = x_{2} = 0, x_{3} = 4, x_{4} = 2, x_{5} = 3$:
+\begin{equation}
+\mathbf{x} = \left[
+	\begin{array}{c}
+	0 \\ 0 \\ 4 \\ 2 \\ 3
+	\end{array}
+	\right]
+\end{equation}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Transforming Optimization Problem with Piecewise Linear Functions into Linear Programming Problem}
+\label{sec:optimizationproblemtransformation}
+
+The given mathematical optimization problem for a given class of piecewise linear functions is:
+\begin{eqnarray*}
+f({\mathbf{x}}) = {\rm maximum} (\mathbf{c}^{T}_{1}\mathbf{x} + d_{1}, \mathbf{c}^{T}_{2}\mathbf{x} + d_{2}, \dots, \mathbf{c}^{T}_{p}\mathbf{x} + d_{p})
+\end{eqnarray*}
+
+For this I can convert it into a linear model by separating the $x_{i}$ and $d_{i}$ components, $\forall i \in {1, 2, ..., n}$
+programming \cite[\S3.3, pages 83--86]{Haftka1992}\cite[\S1, pages 5-8]{Malucelli2005}. Add all the $x_{i}$ components and place them into the new objective function with the initial displacement $d_{1}$. For each additive/displacement term $d_{i}$ that causes the model to be piecewise linear, multiply it by a slack variables and constraint them within a range $d_{i}y_{i1} \leq z_{i} \leq d_{i}y_{i2}$ That is, re-formulate the problem as:
+\begin{eqnarray*}
+f({\mathbf{x}}) = {\rm maximum} (d_{1}y_{1} + \mathbf{c}^{T}_{1}\mathbf{x} + \mathbf{c}^{T}_{2}\mathbf{x} + \dots + \mathbf{c}^{T}_{p}\mathbf{x}) \\
+{\rm subject\ to:} \\
+%d_{2}y_{1a} \leq z_{1} \leq d_{1}y_{1b} \\
+d_{2}y_{2a} \leq z_{2} \leq d_{2}y_{2b} \\
+d_{3}y_{3a} \leq z_{3} \leq d_{3}y_{3b} \\
+\dots \\
+d_{p}y_{pa} \leq z_{p} \leq d_{p}y_{pb} \\
+\end{eqnarray*}
+
+
+Subsequently, I can convert the maximization problem in linear programming into a minimization problem if linear programming in the standard form \cite[\S3.4, page 48, Example 1]{Luenberger2008}. Negate ``the objective function'' to convert it to a minimization problem. For each constraint, add a unique slack variable to turn them into equalities in the standard form of linear programming.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Simplex Method}
+\label{ssec:simplexmethod}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Simplex Method, Implemented Using Linear Algebra}
+\label{ssec:simplexmethodlinearalgebra}
+
+\begin{eqnarray*}
+{\rm maximize}\ (-x_{1} + x_{2}) \\
+{\rm subject\ to} \\
+x_{1} - x_{2} \leq 2 \\
+x_{1} + x_{2} \leq 6 \\
+x_{1} \geq 0, x_{1} \geq 0 \\
+\end{eqnarray*}
+
+Transform this to normal form by introducing slack variables $x_{3}$ and $x_{4}$, the objective/maximization function and constraints become: \\
+\begin{eqnarray*}
+z - x_{1} + x_{2} = 0 \\
+x_{1} - x_{2} + x_{3} = 2 \\
+x_{1} + x_{2} + x_{4 } = 6 \\
+{\rm where}\ x_{1} \geq 0, x_{1} \geq 0 \\
+\end{eqnarray*}
+
+
+In the augmented matrix form (of $\mathbf{Ax = b}$), it becomes:
+\[  \mathbf{T_{0}} =  
+\begin{array}{c}
+	\begin{array}{cccccc}
+	z & x_{1} & x_{2} & x_{3} & x_{4} & b \\
+	\end{array}
+	\\
+	\left[ \begin{array}{cccccc}
+	1 & -1 & 1 & 0 & 0 & 0 \\
+	0 & 1 & -1 & 1 & 0 & 2  \\
+	0 & 1 & 1 & 0 & 1 & 6
+	\end{array} \right]
+\end{array}
+\]
+
+Select as the column of the pivot the first column with a negative entry in Row 1. This is column 3, because of the $-1$.\\
+
+Selection of the row of the pivot. Divide the right sides (2 and 6) by the corresponding entries of the selected column ($2 \div -1 = -2$ and $6/1 = 6$). The smaller quotient of the rightmost column is the second row, with the quotient of $-2$.\\
+
+\begin{equation*}
+\mathbf{T_{1}} =  
+\begin{array}{c}
+	\begin{array}{cccccc}
+	z & x_{1} & x_{2} & x_{3} & x_{4} & b \\
+	\end{array}
+	\\
+	\left[ \begin{array}{cccccc}
+	1 & -1 & 1 & 0 & 0 & 0 \\
+	0 & 1 & -1 & 1 & 0 & -2  \\
+	0 & 1 & 1 & 0 & 1 & 6
+	\end{array} \right]
+\end{array}
+\end{equation*}
+
+Elimination by row operations. Replace Row 1 with the addition of Row 1 and Row 3.
+
+\begin{equation*}
+\mathbf{T_{2}} =  
+\begin{array}{c}
+	\begin{array}{cccccc}
+	z & x_{1} & x_{2} & x_{3} & x_{4} & b \\
+	\end{array}
+	\\
+	\left[ \begin{array}{cccccc}
+	1 & 0 & 2 & 0 & 1 & 6\ {\rm (Row\ 1 + Row\ 3)} \\
+	0 & 1 & -1 & 1 & 0 & -1  \\
+	0 & 1 & 1 & 0 & 1 & 6
+	\end{array} \right]
+\end{array}
+\end{equation*}
+
+Since there are no more negative entries in Row 1 of $T_{2}$, the Simplex method terminates with an optimum value of 6, which is the last column entry in Row 1. \\
+
+That is, the optimum solution to the linear programming problem is 6.
+
+
+
+The last milestone would enable us to extend discrete optimization to discrete nonlinear programming (i.e., nonlinear integer programming) problems.
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Task Division Among Team Members}
+\label{sec:taskdiv}
+
+The project members are Zhiyang Ong and Jack Jun-Tao Yang. The following sections indicate: the list of milestones and tasks to be completed for the project (see \S\ref{ssec:tasklist}); and the project schedule (Gantt chart (insert reference)), resource utilization chart, and PERT chart (insert reference) (\S\ref{ssec:projscheduleandresourcenpertcharts}).
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Task List}
+\label{ssec:tasklist}
+
+Table \ref{tab:tasklisttable} shows a list of tasks and milestones that must be completed for the class project.
+
+
+\begin{table}%[htdp]
+\caption{List of tasks (and milestones) that must be completed for the class project.}
+\begin{center}
+	\begin{tabular}[b]{|c|c|c|c|c|c|c|}\hline
+	\label{tab:tasklisttable}
+		Name & Start & End & Milestone & Percentage & Resources & Notes \\
+		 & Date & Date &  & Completed &  &  \\
+		\hline
+		Project Proposal & September 1 & Nov 22 & \checkmark & 5\% & Zhiyang & \\
+		 &  &  &  &  & and Jack &  \\
+		 \hline
+		Optimization & Nov 1 & Nov 22 & \checkmark & 1\% & Zhiyang & Delayed \\
+		via Max-SAT &  &  &  &  & and Jack &  \\
+		and SMT solving &  &  &  &  &  &  \\
+		\hline
+		Numerical & Oct 29 & Nov 20 &  & 5\% & Zhiyang & In progress \\
+		Approximation &  &  &  &  & and Jack &  \\
+		(in Python) &  &  &  &  &  &  \\
+		\hline
+		Mathematical & Nov 18 & Dec 5 & \checkmark & 0\% & Zhiyang &  \\
+		Optimization &  &  &  &  & and Jack &  \\
+		(in Python) &  &  &  &  &  &  \\
+		\hline
+		Portfolio & Nov 14 & Dec 18 & \checkmark & 1\% & Zhiyang & Ongoing \\
+		Optimization &  &  &  &  & and Jack &  \\
+		\hline
+		Project Report & Dec 18 & Jan 8 & \checkmark & 0\% & Zhiyang & \\
+		 &  &  &  &  & and Jack &  \\
+	\hline
+	\end{tabular}
+\end{center}
+\end{table}
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Project Schedule, Resource Chart, and PERT Chart}
+\label{ssec:projscheduleandresourcenpertcharts}
+
+%	3 figures concatenated vertically
+%	\begin{landscape}
+%	\centering
+%		\begin{figure}[ht]
+%		\begin{minipage}[b]{9.5in}
+%		\setlength{\unitlength}{0.2in}
+%		\includegraphics[width=9.5in]{./gantt_chart/gantt_chart}
+%		\caption{A Gantt chart showing the project schedule, and duration for each task.}
+%		\label{fig:ganttchart}
+%		\end{minipage}
+%	
+%		\vspace{1in}
+%		
+%		\begin{minipage}[b]{9.5in}
+%		\setlength{\unitlength}{0.2in}
+%		\includegraphics[width=9.5in]{./gantt_chart/resources_chart}
+%		\caption{A resource chart indicating how team members are being allocated tasks during the project.}
+%		\label{fig:resourceschart}
+%		\end{minipage}
+%		
+%		\begin{minipage}[b]{9.5in}
+%		\setlength{\unitlength}{0.2in}
+%		\includegraphics[width=7.5in]{./gantt_chart/pert_chart}
+%		\caption{PERT chart indicate the tasks/milestones for the project.}
+%		\label{fig:pertchart}
+%		\end{minipage}
+%		
+%		\end{figure}
+%	\end{landscape}
+
+\begin{landscape}
+\centering
+	\begin{figure}[ht]
+	\begin{minipage}[b]{9.5in}
+	\setlength{\unitlength}{0.2in}
+%	\centering
+	\includegraphics[width=9.5in]{./gantt_chart/gantt_chart}
+	\caption{A Gantt chart showing the project schedule, and duration for each task.}
+	\label{fig:ganttchart}
+	\end{minipage}
+
+	\vspace{2in}
+	
+	\begin{minipage}[b]{9.5in}
+	\setlength{\unitlength}{0.2in}
+%	\centering
+	\includegraphics[width=9.5in]{./gantt_chart/resources_chart}
+	\caption{A resource chart indicating how team members are being allocated tasks during the project.}
+	\label{fig:resourceschart}
+	\end{minipage}
+	
+	\end{figure}
+\end{landscape}
+
+
+\begin{figure}[h]
+\centering 
+\includegraphics[width=7.5in]{./gantt_chart/pert_chart}
+\caption{PERT chart indicate the tasks/milestones for the project.}
+\label{fig:pertchart}
+\end{figure}
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+{\linespread{1}
+\bibliographystyle{plain}
+\bibliography{/data/research/antipastobibtex/references}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{document}

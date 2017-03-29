@@ -1,0 +1,386 @@
+\documentclass[letter,12pt]{article}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%	\usepackage{graphicx}
+%	\usepackage{amsmath}
+%	\usepackage{array}
+%	\usepackage{amssymb}
+%	\usepackage{setspace}
+%	%\usepackage[margin=1.5cm,vmargin={0pt,1cm},nohead]{geometry}
+%	\usepackage[margin=1in,vmargin={1in,1in}]{geometry}
+%	% Package that has the symbol for ``:=''
+%	\usepackage{txfonts}
+%	% Create fancy headers and footers for this document
+%	\usepackage{fancyhdr}
+%	%\usepackage{cite}
+%	% The ``cite'' package causes the hyperlinks for the in-text references/citations to fail. I believe it is because this package overrides the default package for referencing. Hence, only use the ``cite'' package with the IEEE format.
+%	% Package for ``turnstile'' binary relations, where letters are defined above and below symbols
+%	\usepackage{turnstile}
+%	\usepackage{extarrows}
+%	% Package that provides the cross symbol
+%	\usepackage{ifsym}
+%	\usepackage{marvosym}
+%	% Commands for using the package for hyperlinks - 
+%	\usepackage[pdftex,
+%		pdftitle={Graphics and Color with LaTeX},
+%		pdfauthor={Patrick W Daly},
+%		pdfsubject={Importing images and use of color in LaTeX},
+%		pdfkeywords={LaTeX, graphics, color},
+%		pdfpagemode=UseOutlines,bookmarks, bookmarksopen,
+%		pdfstartview=FitH, colorlinks, linkcolor=blue, citecolor=blue, urlcolor=red,
+%	]{hyperref}
+%	\hypersetup{colorlinks, linkcolor=blue}
+%	% Concatenate references
+%	\usepackage{cite}
+
+
+%	% Package for tyepsetting algorithms and heuristics
+%	\usepackage{listings}
+%	\lstset{language=[GNU]C++}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%	Additional packages
+\input{/data/others/grappanotes/others/preamble}
+%	AMS theorem package
+\usepackage{amsthm}
+
+
+
+
+% definition of new \LaTeX command for the citation: \cite{Cimatti08} and \cite{Barrett09}
+% This allows mathematical/logic symbols to be typeset with the font ``Zapf Chancery'' in ``\LaTeX\ math mode''. To typeset symbols in such font, try: \mathpzc{ABCdef123}
+\DeclareMathAlphabet{\mathpzc}{OT1}{pzc}{m}{it}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Start of document
+\begin{document}
+\title{Logic Synthesis and Verification Homework \#2}
+\date{\today}
+\author{Zhiyang Ong
+	\thanks{Email correspondence to: \href{mailto:ongz@acm.org}{ongz@acm.org}}
+}
+\maketitle
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{Declaration}
+\label{sec:declaration}
+
+I did this assignment on my own without any collaborators. %The mathematical programming package that I have used is \cite{Makhorin2012}. 
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Cofactor}
+\label{sec:cofactor}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Proof that $(\neg f)_{v} = \neg (f_{v})$}
+\label{ssec:commutativityofnegation}
+
+Direct proof for $(\neg f)_{v} = \neg (f_{v})$. \\
+
+From the left-hand side (LHS):
+\begin{eqnarray*}
+	\begin{gathered}[b]
+	(\neg f)_{v} = (\neg f(v, v_{1}, \dots, v_{i})) |_{v = 1}, \forall i \in (\mathbb{N} \geq 1) {\rm\ and}\ v = 1\ ^{\dagger} \\
+	= (\neg f(1, v_{1}, \dots, v_{i})) \\
+	= \neg (f(1, v_{1}, \dots, v_{i}))\ ^{\ddagger} \\
+	= \neg (f(v, v_{1}, \dots, v_{i}))|_{v = 1}\ ^{\dagger} \\
+	= \neg (f_{v}) {\rm \hspace{0.2in} i.e., right\textendash hand\ side\ (RHS)} \\
+	\end{gathered}
+\end{eqnarray*}
+
+Notes: \\
+$^{\dagger}$ By the definition of the cofactor \cite[\S2.5.1, pp. 69, Definition 2.5.1]{DeMicheli1994}. The value of $i$ is determined by the arity of the function $f$ \cite[\S4.1, pp. 118, NL2]{Tourlakis2008}. \\
+$^{\ddagger}$ By the definition of the complement operator, from the postulates of boolean algebra \cite[\S3.1, pp. 30]{Brown1990}.
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Proof that $(f\ \langle op \rangle\ g)_{v} = (f_{v})\ \langle op \rangle\ (g_{v})$, for $\langle op \rangle = \{\land, \rightarrow\}$}
+\label{ssec:commutativityofnegation}
+
+
+Direct proof for $(f\ \langle op \rangle\ g)_{v} = (f_{v})\ \langle op \rangle\ (g_{v})$, for $\langle op \rangle = \{\land, \rightarrow\}$. \\
+
+From the left-hand side (LHS):
+\begin{eqnarray*}
+	\begin{gathered}[b]
+	(f\ \langle op \rangle\ g)_{v} \\
+	= (f(v, v_{1}, \dots, v_{i})\ \langle op \rangle\ g(v, v_{1}, \dots, v_{i}))_{v}, \forall i \in (\mathbb{N} \geq 1) {\rm\ and}\ v = 1 \\
+	= (f(v, v_{1}, \dots, v_{i}) \ \langle op \rangle\ g(v, v_{1}, \dots, v_{i})) |_{v = 1}\ ^{\dagger} \\
+	= (f(1, v_{1}, \dots, v_{i}) \ \langle op \rangle\ g(1, v_{1}, \dots, v_{i})) \\
+	= f(1, v_{1}, \dots, v_{i}) \ \langle op \rangle\ g(1, v_{1}, \dots, v_{i}) \\
+	= f(v, v_{1}, \dots, v_{i})|_{v = 1} \ \langle op \rangle\ g(v, v_{1}, \dots, v_{i})|_{v = 1}\ ^{\dagger} \\
+	= f(v, v_{1}, \dots, v_{i})_{v} \ \langle op \rangle\ g(v, v_{1}, \dots, v_{i})_{v} \\
+	= (f_{v})\ \langle op \rangle\ (g_{v}) {\rm \hspace{0.2in} i.e., right\textendash hand\ side\ (RHS)} \\
+	\end{gathered}
+\end{eqnarray*}
+
+Note: \\
+$^{\dagger}$ By the definition of the cofactor \cite[\S2.5.1, pp. 69, Definition 2.5.1]{DeMicheli1994}. The value of $i$ is determined by the arity of the function $f$ \cite[\S4.1, pp. 118, NL2]{Tourlakis2008}. \\
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{QBF}
+\label{sec:qbf}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Prove or disprove $\forall x, \exists y.f(x, y, z) \rightarrow \exists y, \forall x.f(x, y, z)$}
+\label{ssec:q2a}
+
+%	The order of quantifiers do not matter if they are of the same type; i.e., the ordering of universal quantifiers do not matter, and the ordering of existential quantifiers do not matter. However, if the quantifiers are of mixed types (both universal and existential quantifiers), the ordering of these quantifiers do matter. Look under nested quantifiers, or nesting quantifiers.
+%	\forall x \exists y (Loves(x,y))	Everybody loves somebody; i.e., everybody has someone whom they love.
+%	\exists y \forall x (Loves(x,y))	There is someone who is loved by everyone in the universe.
+%	\forall x \exists x (Loves(x,y))	Everyone has someone who loves them.
+%	\exists x \forall y (Loves(x,y))	There is someone who loves everyone in the universe.
+%	Reference: Raymond J. Mooney, ``First-Order Logic (First-Order Predicate Calculus): Nesting Quantifiers (slide 8),'' presentation slides for the class {\it CS 343: Artificial Intelligence} (Fall 2010), Department of Computer Science, College of Natural Sciences, The University of Texas at Austin, Austin, TX. Available online at: \url{http://www.cs.utexas.edu/~mooney/cs343/slide-handouts/fopc.4.pdf}; last accessed on October 29, 2013.
+
+%	Universal quantifiers are used with implications to form rules, while existential quantifiers are used with conjunction to specify properties about an individual.
+
+%	Identities that relate sentences involving \forall and \exists, using De Morgan's laws
+%	(\forall x) \neg P(x) \Rightarrow \neg (\exists x) P(x)
+%	\neg (\forall x) P(x) \Rightarrow (\exists x) \neg P(x)
+%	(\forall x) P(x) \Rightarrow \neg (\exists x) \neg P(x)
+%	(\exists x) P(x) \Rightarrow \neg (\forall x) \neg P(x)
+%	\neg \forall x.A = \exists x \neg A
+
+
+%	Quantified inference rules
+%	Universal instantiation:		\forall x P(x), \therefore P(A)
+%	Universal generalization:		P(A) \land P(B) \dots \therefore \forall x P(x)
+%	Existential instantiation:		\exists x P(x), \therefore P(F)
+%	Existential generalization:		P(A) \therefore \exists x P(x)
+
+%	James Pustejovsky, ``First-order logic,'' presentation slides for the class {\it LING 130: Foundations of Semantics} (Fall 2005), Computer Science Department and the Linguistics/Computational Linguistics Program, College of Arts and Sciences, Brandeis University, Waltham, MA.
+%	http://www.cs.brandeis.edu/~jamesp/classes/LING130/FirstOrderLogic-1.pdf
+
+
+%	(P \rightarrow Q) = (\neg P \lor Q)
+%	(P \leftrightarrow Q) = ((P \rightarrow Q) \land (Q \rightarrow P))
+
+
+%	For this question, x is a bound variable and y is a free variable
+
+
+A disprove for $\forall x, \exists y.f(x, y, z) \rightarrow \exists y, \forall x.f(x, y, z)$ is given as follows. \\
+
+On the right-hand side (RHS), we have $\forall x, \exists y.f(x, y, z)$. This means that for each $x$, there is a $y$ such that the function $f(x, y, z)$ is true. However, on the left-hand side (LHS), we have $\exists y, \forall x.f(x, y, z)$. This means that for each $y$, there is a $x$ such that the function $f(x, y, z)$ is true. Here, the LHS is not equivalent to the RHS. The RHS is quantified over all $x$, while the LHS is quantified over all $y$. \\
+
+$\therefore, \forall x, \exists y.f(x, y, z) \not\rightarrow \exists y, \forall x.f(x, y, z)$. That is, the statement is false. \\
+
+This is because the order for nested quantifiers (universal and existential quantifiers) matters for quantified boolean logic \cite[\S8.2.6, pp. 298]{Russell2010}. \\
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Prove or disprove $\exists x.(f(x, y) \land g(y)) \leftrightarrow (\exists x.f(x, y)) \land g(y)$}
+\label{ssec:q2b}
+
+Here is a proof for $\exists x.(f(x, y) \land g(y)) \leftrightarrow (\exists x.f(x, y)) \land g(y)$. \\
+
+On the LHS, the variable $y$ in $\exists x.(f(x, y) \land g(y))$ is a free variable, since it is not bound by the quantifier $\exists x$ \cite[\S5.2.2, pp. 211, Definition 5-4; pp. 215, Definition 5-10]{Kropf1999} \cite[\S3.4, pp. 104]{Harel2000} \cite[\S7.2.2, pp. 135, Definition 7.12]{BenAri2009}. \\
+
+$^{\ddagger}$ Also, since function $g(y)$ is independent of the bounded variable $x$, the quantifier $\exists x$ does not apply to function $g(y)$. \\
+
+$^{\dagger}$ By applying the distributivity law from the postulates of boolean algebra \cite[\S7.2.2, pp. 135, Definition 7.12]{BenAri2009} \cite[\S3.1, pp. 29]{Brown1990}, the LHS becomes:\\
+\begin{eqnarray*}
+	\begin{gathered}[b]
+	\exists x.(f(x, y) \land g(y)) \\
+	(\exists x.(f(x, y)) \land (\exists x.g(y)) \ ^{\dagger} \\
+	(\exists x.(f(x, y)) \land (\exists x.g(y)) \ ^{\ddagger} \\
+	(\exists x.(f(x, y)) \land g(y) \ ^{\ddagger}\ \ {\rm ( = RHS)} \\
+	\end{gathered}
+\end{eqnarray*}
+
+
+Therefore, $\exists x.(f(x, y) \land g(y)) \leftrightarrow (\exists x.f(x, y)) \land g(y)$ is true.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Prove or disprove $\exists x.(f(x, y) \lor g(x, y)) \leftrightarrow (\exists x.f(x, y)) \lor (\exists x.g(x, y))$}
+\label{ssec:q2c}
+
+Here is a proof for $\exists x.(f(x, y) \lor g(x, y)) \leftrightarrow (\exists x.f(x, y)) \lor (\exists x.g(x, y))$. \\
+
+From the LHS, $\exists x.(f(x, y) \lor g(x, y)) = (\exists x.f(x, y)) \lor (\exists x.g(x, y))$ = RHS $^{\dagger}$ (proved).\\
+
+Notes:\\
+$^{\dagger}$ The distributivity law from the postulates of boolean algebra applies to quantifiers as well \cite[\S7.2.2, pp. 135, Definition 7.12]{BenAri2009} \cite[\S3.1, pp. 29]{Brown1990}. Therefore, by definition, $\exists x.(f(x, y) \lor g(x, y)) \leftrightarrow (\exists x.f(x, y)) \lor (\exists x.g(x, y))$ is true. \\
+
+Therefore, $\exists x.(f(x, y) \lor g(x, y)) \leftrightarrow (\exists x.f(x, y)) \lor (\exists x.g(x, y))$ is true.
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Quantifier Elimination}
+\label{sec:q3}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Procedure to derive CNF formula $\psi = \forall x_{1}, \dots, \forall x_{i}. \phi$}
+\label{ssec:q3a}
+
+\begin{codebox}
+\Procname{$\proc{Prenex\_CNF\_Derivation}({\it \phi}, i)$}
+\label{lst:LABEL}
+\zi \Comment {\it Input $\phi$: A CNF formula}
+\zi \Comment {\it Input $i$: Number of $v_{i}$ variables to quantify, where $0 \leq i \leq n$}
+\zi \Comment {\it Output $\psi$: A prenex/quantified CNF formula, where $\psi = \forall x_{1}, \dots, \forall x_{i}. \phi$}
+\zi \Comment {\it Computational time complexity: O(n)}
+\zi
+\zi \Comment {\it Create an empty list of quantifiers and their quantified variables}
+\li $\id{list\_quantifiers} \gets \{\}$
+\zi \Comment {\it Enumerate the tokens of $\phi$}
+\li \For $\id{temp\_token} \gets [first\_token] \To [last\_token]$
+	\Do
+\zi	\Comment {\it Is this token a $v_{i}$ variable that needs to be quantified?}
+\li	\If $\id{temp\_token} \in \{\id{v_{1}}, \dots, \id{v_{i}}\}$
+		\Then
+\zi		\Comment {\it Yes, add the $\forall$ quantifier and token to the list of quantifiers and their quantified variables}
+\li		$\id{list\_quantifiers} \gets \id{list\_quantifiers} + \forall +  \id{temp\_token}$
+		\End
+	\End
+\zi	\Comment {\it Add the list of quantifiers and their quantified variables to $\phi$}
+\li	$\id{\psi} \gets \id{list\_quantifiers} + \id{\phi}$
+\li	\Return \id{\psi}\end{codebox}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Procedure to derive DNF formula $\psi = \exists x_{1}, \dots, \exists x_{i}. \phi$}
+\label{ssec:q3a}
+
+\begin{codebox}
+\Procname{$\proc{Prenex\_DNF\_Derivation}({\it \phi}, i)$}
+\label{lst:LABEL}
+\zi \Comment {\it Input $\phi$: A DNF formula}
+\zi \Comment {\it Input $i$: Number of $v_{i}$ variables to quantify, where $0 \leq i \leq n$}
+\zi \Comment {\it Output $\psi$: A prenex/quantified DNF formula, where $\psi = \exists x_{1}, \dots, \exists x_{i}. \phi$}
+\zi \Comment {\it Computational time complexity: O(n)}
+\zi
+\zi \Comment {\it Create an empty list of quantifiers and their quantified variables}
+\li $\id{list\_quantifiers} \gets \{\}$
+\zi \Comment {\it Enumerate the tokens of $\phi$}
+\li \For $\id{temp\_token} \gets [first\_token] \To [last\_token]$
+	\Do
+\zi	\Comment {\it Is this token a $v_{i}$ variable that needs to be quantified?}
+\li	\If $\id{temp\_token} \in \{\id{v_{1}}, \dots, \id{v_{i}}\}$
+		\Then
+\zi		\Comment {\it Yes, add the $\exists$ quantifier and token to the list of quantifiers and their quantified variables}
+\li		$\id{list\_quantifiers} \gets \id{list\_quantifiers} + \exists +  \id{temp\_token}$
+		\End
+	\End
+\zi	\Comment {\it Add the list of quantifiers and their quantified variables to $\phi$}
+\li	$\id{\psi} \gets \id{list\_quantifiers} + \id{\phi}$
+\li	\Return \id{\psi}\end{codebox}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Procedure to perform quantifier elimination for a (prenex) CNF formula}
+\label{ssec:q3c}
+
+Use expansion-based quantifier elimination \cite[\S9.2.3, pp. 216]{Kroening2008} to remove the quantifiers. Here, $\phi |_{x = 0}$ means that x is replaced with 0 (boolean false) in $\phi$. Likewise, $\phi |_{x = 1}$ means that x is replaced with 1 (boolean true) in $\phi$.
+
+\begin{codebox}
+\Procname{$\proc{quantifier\_elimination}({\it \phi})$}
+\label{lst:quantifierelimination}
+\zi \Comment {\it Precondition: $\phi$ is a (prenex) CNF formula}
+\zi \Comment {\it Input $\phi$: A (prenex) CNF formula}
+\zi \Comment {\it Output $\psi$: A quantifier-free CNF formula}
+\zi
+\zi \Comment {\it Copy of $\phi$}
+\li $\id{\phi\_copy} \gets \id{\phi}$
+\li \If $[ \proc{prenex\_exists}({\it \phi}) ]$
+	\Then
+\zi	\Comment {\it Enumerate the tokens of $\phi$}
+\li	\For $\id{temp\_token} \gets [first\_token] \To [last\_token]$
+	\Do
+\zi		\Comment {\it Is token a quantifier?}
+\li		\If $( \id{temp\_token} = \exists )$ or $( \id{temp\_token} = \forall )$
+		\Then
+\zi			\Comment {\it Remove the quantifier and its corresponding bounded variable from $\id{\phi\_copy}$}
+\zi			\Comment {\it Temporarily store the quantifier}
+\li			$\id{temp\_quantifier} \gets \id{temp\_token}$
+\zi			\Comment {\it Remove the quantifier}
+\li			$\id{\phi\_copy}$ = remove\_token($\id{\phi\_copy}, \id{temp\_token})$
+\zi			\Comment {\it Get the next token, which is the quantifier's corresponding bounded variable}
+\li			$\id{temp\_token} \gets next(\id{\phi\_copy}, \id{temp\_token})$
+\zi			\Comment {\it Temporarily store the bounded variable}
+\li			$\id{temp\_bounded\_variable} \gets \id{temp\_token}$
+\zi			\Comment {\it Remove the corresponding bounded variable}
+\li			$\id{\phi\_copy}$ = remove\_token($\id{\phi\_copy}, \id{temp\_token})$
+\zi			\Comment {\it Expand \id{\phi\_copy} based on these equivalences}
+\zi			\Comment {\it $\exists x. \varphi = \varphi|_{x = 0} \lor \varphi|_{x = 1}$}
+\zi			\Comment {\it $\forall x. \varphi = \varphi|_{x = 0} \land \varphi|_{x = 1}$}
+\li			\If $\id{temp\_quantifier} = \exists$
+			\Then
+\li				$\id{\phi\_copy} \gets \id{\phi\_copy}|_{x=0} \lor \id{\phi\_copy}|_{x =1}$
+\li			\ElseIf $\id{temp\_quantifier} = \forall$
+\li				\>$\id{\phi\_copy} \gets \id{\phi\_copy}|_{x=0} \land \id{\phi\_copy}|_{x =1}$
+			\End
+		\End
+\zi		\Comment {\it Return the quantifier-free formula}
+\li		$\id{\psi} = \id{\phi\_copy}$	
+\li		\Return $\psi$
+	\End\li \Else
+\zi	\>\Comment {\it Return the quantifier-free $\phi$}
+\li	\>$\id{\psi} \gets \id{\phi}$
+\li	\>\Return $\psi$
+	\End
+\end{codebox}
+
+
+
+
+\begin{codebox}
+\Procname{$\proc{prenex\_exists}({\it \phi})$}
+\label{lst: }
+\zi \Comment {\it Precondition: $\phi$ is a (prenex) CNF formula}
+\zi \Comment {\it Input $\phi$: A (prenex) CNF formula}
+\zi \Comment {\it Output: Return boolean true, if $\phi$ is in prenex form (i.e., $\phi$ is quantified). Else, return boolean false}.
+\zi
+\zi \Comment {\it Enumerate the tokens of $\phi$}
+\li	\For $\id{temp\_token} \gets [first\_token] \To [last\_token]$
+	\Do
+\li		\If $[$token is a quantifier$]$
+		\Then
+\li			\Return true
+		\End
+	\End
+\zi \Comment {\it There are no quantifiers in $\phi$}
+\li	\Return false\end{codebox}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+{\linespread{1}
+\bibliographystyle{plain}
+\bibliography{/data/research/antipastobibtex/references}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{document}

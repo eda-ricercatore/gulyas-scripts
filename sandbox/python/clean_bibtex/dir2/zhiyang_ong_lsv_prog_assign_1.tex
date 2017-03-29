@@ -1,0 +1,162 @@
+\documentclass[letter,12pt]{article}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%	\usepackage{graphicx}
+%	\usepackage{amsmath}
+%	\usepackage{array}
+%	\usepackage{amssymb}
+%	\usepackage{setspace}
+%	%\usepackage[margin=1.5cm,vmargin={0pt,1cm},nohead]{geometry}
+%	\usepackage[margin=1in,vmargin={1in,1in}]{geometry}
+%	% Package that has the symbol for ``:=''
+%	\usepackage{txfonts}
+%	% Create fancy headers and footers for this document
+%	\usepackage{fancyhdr}
+%	%\usepackage{cite}
+%	% The ``cite'' package causes the hyperlinks for the in-text references/citations to fail. I believe it is because this package overrides the default package for referencing. Hence, only use the ``cite'' package with the IEEE format.
+%	% Package for ``turnstile'' binary relations, where letters are defined above and below symbols
+%	\usepackage{turnstile}
+%	\usepackage{extarrows}
+%	% Package that provides the cross symbol
+%	\usepackage{ifsym}
+%	\usepackage{marvosym}
+%	% Commands for using the package for hyperlinks - 
+%	\usepackage[pdftex,
+%		pdftitle={Graphics and Color with LaTeX},
+%		pdfauthor={Patrick W Daly},
+%		pdfsubject={Importing images and use of color in LaTeX},
+%		pdfkeywords={LaTeX, graphics, color},
+%		pdfpagemode=UseOutlines,bookmarks, bookmarksopen,
+%		pdfstartview=FitH, colorlinks, linkcolor=blue, citecolor=blue, urlcolor=red,
+%	]{hyperref}
+%	\hypersetup{colorlinks, linkcolor=blue}
+%	% Concatenate references
+%	\usepackage{cite}
+
+
+%	% Package for tyepsetting algorithms and heuristics
+%	\usepackage{listings}
+%	\lstset{language=[GNU]C++}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%	Additional packages
+\input{/data/others/grappanotes/others/preamble}
+%	AMS theorem package
+\usepackage{amsthm}
+
+
+
+
+% definition of new \LaTeX command for the citation: \cite{Cimatti08} and \cite{Barrett09}
+% This allows mathematical/logic symbols to be typeset with the font ``Zapf Chancery'' in ``\LaTeX\ math mode''. To typeset symbols in such font, try: \mathpzc{ABCdef123}
+\DeclareMathAlphabet{\mathpzc}{OT1}{pzc}{m}{it}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Start of document
+\begin{document}
+\title{Logic Synthesis and Verification \\
+Programming Assignment \#1}
+%{\Large Programming Assignment \#1}}
+\date{\today}
+\author{Zhiyang Ong
+	\thanks{Email correspondence to: \href{mailto:ongz@acm.org}{ongz@acm.org}}
+}
+\maketitle
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{Declaration}
+\label{sec:declaration}
+
+I did this assignment on my own without any collaborators. %The mathematical programming package that I have used is \cite{Makhorin2012}. 
+
+
+
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Introduction}
+\label{sec:intro}
+
+The resources for {\it ABC} that I have used for my programming assignment \#1 are: \cite{Tu2013,BLSVG2011,Mishchenko20XY}.
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Question 1: Using ABC}
+\label{sec:usingabc}
+
+Since the question did not state if the magnitude comparator is for signed or unsigned numbers, I assume that the comparison is for unsigned numbers, $A$ (see Equation (\ref{eqn:comparatorinputA})) and $B$ (see Equation (\ref{eqn:comparatorinputB})). This comparator has the following inputs:
+\begin{equation}
+\label{eqn:comparatorinputA}
+A = A_{3}A_{2}A_{1}A_{0}
+\end{equation}
+\begin{equation}
+\label{eqn:comparatorinputB}
+B = B_{3}B_{2}B_{1}B_{0}
+\end{equation}
+
+
+If $A > B$, the magnitude comparator should output a one (or logic high signal) \cite[\S4.8, pages 148--150]{Mano2013} \cite[\S5.10, pages 193--196]{Gajski1997} \cite[\S3.1.2, pages 120--121]{Katz1994}. The comparison is carried out by comparing the relative magnitudes of the $i^{th}$ digit from $A$ and $B$, $\forall i \in \{3, 2, 1, 0\}$, from the most to least significant position. The comparisons terminate when the $i^{th}$ comparison returns an unequal pair of digits (i.e., $A_{i} \neq B_{i}$), or when no more comparisons can be made (i.e., comparisons of all four pairs of digits are made). For $A_{i} \neq B_{i}$, if $A = 1$ and $ B = 0$, $A > B$ (i.e., output is a logic `1'). Else, output value is `0'. This is expressed in Equation (\ref{eqn:comparatorcomparison}).
+
+\begin{equation}
+\label{eqn:comparatorcomparison}
+A > B = A_{3}B^{\prime}_{3} + x_{3}A_{2}B^{\prime}_{2} + x_{3}x_{2}A_{1}B^{\prime}_{1} + x_{3}x_{2}x_{1}A_{0}B^{\prime}_{0}
+\end{equation}
+
+The $x_{i}$s in in Equation (\ref{eqn:comparatorcomparison}) can be calculated as follows:
+\begin{equation}
+\label{eqn:comparatorxi}
+x_{i} = A_{i}B_{i} + A^{\prime}_{i}B^{\prime}_{i}, \forall i \in \{0, 1, 2, 3\}
+\end{equation}
+
+
+\cite[\S3.1.2, pages 113--115]{Ashenden2008a}
+
+
+
+\begin{figure}
+\centering 
+%\includegraphics[width=6in]{comparator.pdf}
+\includegraphics[width=6in]{./pictures/comparator}
+\caption{4-bit magnitude comparator \cite[\S4.8, page 150]{Mano2013}, with outputs for the comparisons of $A < B$, $A > B$, and $A = B$}
+\label{fig:INSERT LABEL OF FIGURE}
+\end{figure}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Question 2: ABC Boolean Function Representation}
+\label{sec:abcbooleanfnrep}
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Question 3: Programming ABC}
+\label{sec:programmingabc}
+
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+{\linespread{1}
+\bibliographystyle{plain}
+%\bibliography{/data/research/antipastobibtex/references}
+\bibliography{assgin1_references}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{document}

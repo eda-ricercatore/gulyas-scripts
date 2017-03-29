@@ -1,0 +1,279 @@
+\documentclass[letter,12pt]{article}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%	\usepackage{graphicx}
+%	\usepackage{amsmath}
+%	\usepackage{array}
+%	\usepackage{amssymb}
+%	\usepackage{setspace}
+%	%\usepackage[margin=1.5cm,vmargin={0pt,1cm},nohead]{geometry}
+%	\usepackage[margin=1in,vmargin={1in,1in}]{geometry}
+%	% Package that has the symbol for ``:=''
+%	\usepackage{txfonts}
+%	% Create fancy headers and footers for this document
+%	\usepackage{fancyhdr}
+%	%\usepackage{cite}
+%	% The ``cite'' package causes the hyperlinks for the in-text references/citations to fail. I believe it is because this package overrides the default package for referencing. Hence, only use the ``cite'' package with the IEEE format.
+%	% Package for ``turnstile'' binary relations, where letters are defined above and below symbols
+%	\usepackage{turnstile}
+%	\usepackage{extarrows}
+%	% Package that provides the cross symbol
+%	\usepackage{ifsym}
+%	\usepackage{marvosym}
+%	% Commands for using the package for hyperlinks - 
+%	\usepackage[pdftex,
+%		pdftitle={Graphics and Color with LaTeX},
+%		pdfauthor={Patrick W Daly},
+%		pdfsubject={Importing images and use of color in LaTeX},
+%		pdfkeywords={LaTeX, graphics, color},
+%		pdfpagemode=UseOutlines,bookmarks, bookmarksopen,
+%		pdfstartview=FitH, colorlinks, linkcolor=blue, citecolor=blue, urlcolor=red,
+%	]{hyperref}
+%	\hypersetup{colorlinks, linkcolor=blue}
+%	% Concatenate references
+%	\usepackage{cite}
+
+
+%	% Package for tyepsetting algorithms and heuristics
+%	\usepackage{listings}
+%	\lstset{language=[GNU]C++}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%	Additional packages
+\input{/data/others/grappanotes/others/preamble}
+%	AMS theorem package
+\usepackage{amsthm}
+
+
+
+
+% definition of new \LaTeX command for the citation: \cite{Cimatti08} and \cite{Barrett09}
+% This allows mathematical/logic symbols to be typeset with the font ``Zapf Chancery'' in ``\LaTeX\ math mode''. To typeset symbols in such font, try: \mathpzc{ABCdef123}
+\DeclareMathAlphabet{\mathpzc}{OT1}{pzc}{m}{it}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Start of document
+\begin{document}
+\title{Discrete Optimization Homework \#4}
+\date{\today}
+\author{Zhiyang Ong
+	\thanks{Email correspondence to: \href{mailto:ongz@acm.org}{ongz@acm.org}}
+}
+\maketitle
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{Declaration}
+\label{sec:declaration}
+
+I did this assignment on my own without any collaborators. The mathematical programming package that I have used is \cite{Makhorin2012}. 
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{LP and DLP}
+\label{sec:lpanddlp}
+
+The linear programming (LP) optimization problem is given as follows.
+
+
+\begin{eqnarray*}
+	\begin{gathered}[b]
+	{\rm minimize}\ (-5x_{1} + x_{2} + 7x_{3} + 7x_{4}) \\
+	\underline{x} \in S \\
+	{\rm subject\ to:} \\
+	3x_{1} + x_{2} - x_{3} + x_{4} = 4 \\
+	-x_{1} + x_{2} + 3x_{3} + 4x_{4} = 3 \\
+	x \geq 0
+	\end{gathered}
+\end{eqnarray*}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Q1.1 Dual of LP problem}
+\label{sec:q1d1duallpprob}
+
+The dual problem of this LP problem is given as follows.
+
+
+\begin{eqnarray*}
+	\begin{gathered}[b]
+	{\rm maximize}\ \underline{\lambda}^{\prime} \underline{b} \\
+	\underline{\lambda} \\
+	{\rm subject\ to:} \\
+	\underline{\lambda}^{\prime} \in \mathbb{R}^{m} \\
+	\underline{\lambda}^{\prime} A \leq \underline{c}^{\prime} \\
+	\end{gathered}
+\end{eqnarray*}
+
+$\underline{\lambda}^{\prime} A = [ \underline{c_{B}}^{\prime} : \underline{c_{B}}^{\prime} B^{-1} D ]$ \\
+$= c\underline{\lambda}^{\prime} A = \underline{\lambda}^{\prime} [ B:D ]$
+
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{ILP with Network Structure}
+\label{sec:ilpnetworkstructure}
+
+GLPK \cite{Makhorin2012} was used to solve the linear programming problem ({\it glpsol --nomip --nointopt --exact -m zo\_hw4\_q2.mod} with Simplex method), and it returns an optimal solution of 6 when the linear programming option was selected. Also, when it is run under integer linear programing with the mixed-integer linear programming solver (\it {glpsol -m zo\_hw4\_q2.mod}), it also returns 6 as the optimum solution. \\
+
+Here, the integer linear programming problem's constraint of requiring all variables to be integers is relaxed, as the integer linear programming problem is cast as a linear programming problem and solved using standard techniques for linear programming. This is possible because linear programming will always produce feasible solutions as integer values, if such solutions exist. While errors can result in the LP approximation, for this given example, not errors were found by GLPK. \\
+
+%	glpsol --exact --nomip -m zo_hw4_q2.mod} and {\it glpsol --exact --nomip -m zo_hw4_q2.mod}
+% glpsol -m zo_hw4_q2.mod
+See attached transcript from the Terminal for more details.
+
+
+
+
+
+
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Graph and Network}
+\label{sec:graphnnetwork}
+
+Figure \ref{fig:stconnectivity} shows the graph with $s$-$t$ connectivity of 2, since there exists two node-disjoint paths between $s$ and $t$. Hence, the $s$-$t$ connectivity between two nodes indicate the number of unique node-disjoint paths connecting them. When Paths 1 and 2 are considered separately, as shown in Figure \ref{fig:stvulnerability}, each of thee paths have a $s$-$t$ vulnerability of 1. This is because the removal of any node between $s_{1}$ and $t_{1}$ for Path 1 would separate $s_{1}$ and $t_{1}$. Likewise, the removal of any node between $s_{2}$ and $t_{2}$ for Path 2 would separate $s_{2}$ and $t_{2}$. Therefore, the $s$-$t$ vulnerability between two nodes indicate the ``minimum'' cut of the paths connecting them.\\
+
+Proof that $s$-$t$ connectivity equals the $s$-$t$ vulnerability: \\
+Let $s$-$t$ connectivity $c > s$-$t$ vulnerability $v$. For $v$ of the $c$ paths, remove a node from its path. This would disconnect $s$ and $t$ in these $v$ paths. However, there exists at least ($c - v$) paths that connect $s$ and $t$. This would contradict the assumption that $c > v$. \\
+
+In contrast, let $s$-$t$ connectivity $c < s$-$t$ vulnerability $v$. For each of the $c$ paths, remove a node from its path. This would disconnect $s$ and $t$ in these $c$ paths. Since only $c$ unique node-disjoint paths connect $s$ and $t$, $s$ and $t$ are now disjoint. However, there exists at least ($v - c$) nodes whose removal would disconnect $s$ and $t$. This is the contradiction for the assumption that $c < v$. \\
+
+Lastly, let $s$-$t$ connectivity $c = s$-$t$ vulnerability $v$. For each of the $c$ paths, remove a node from its path. This would disconnect $s$ and $t$ in these $c$ paths. Since only $c$ unique node-disjoint paths connect $s$ and $t$, $s$ and $t$ are now disjoint. This also implies that the removal  of $v$ nodes, one node from each of the $c$ paths, would disconnect $s$ and $t$. This validates the assumption that $c = v$.
+
+\newpage
+
+\begin{figure}
+\centering 
+\includegraphics[width=6in]{./figures/q3connectivity.pdf}
+\caption{A graph with $s$-$t$ connectivity of 2}
+\label{fig:stconnectivity}
+\end{figure}
+\ \\
+\vspace{0.5in} \\
+
+\begin{figure}
+\centering 
+\includegraphics[width=6in]{./figures/q3vulnerability.pdf}
+\caption{Two paths of $s$-$t$ vulnerability of 1}
+\label{fig:stvulnerability}
+\end{figure}
+
+
+
+
+
+
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{MST Formulations and the Corresponding Algorithms}
+\label{sec:mst}
+
+\begin{eqnarray}
+\label{eqn:mstlp}
+	\begin{gathered}[b]
+	{\rm minimize}\ \ \displaystyle\sum_{e \in E} w_{e}x_{e} \\
+	\underline{x} \in S \\
+	{\rm subject\ to:} \\
+	\displaystyle\sum_{e \in E} x_{e} = n - 1 \\
+	\displaystyle\sum_{e \in (S, S)} x_{e} \leq |S| - 1, \forall S \subseteq V  \\
+	x_{e} \in \{0, 1\}, \forall e \in E
+	\end{gathered}
+\end{eqnarray}
+
+\[
+x_{e} = \left\{
+	\begin{array}{l@{\quad}}
+	1, {\rm if\ edge\ }e \in E_{T} \\
+	0, {\rm otherwise}
+	\end{array}
+	\right.
+\]
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Q4.1}
+\label{ssec:q4d1}
+
+0-1 integer linear programming is a mathematical formulation of the minimum spanning tree (MST) problem, since it captures the network structure in its problem formulation exactly. \\
+
+In the Equation \ref{eqn:mstlp}, the first constraint indicates that the total number of edges in the minimum spanning tree is ($n - 1$) edges. Since $n$ nodes need to be connected to each other, ($n - 1$) edges is the minimum number of edges needed to connect all nodes in the graph. In the second constraint, it indicates that $x_{e}$ is either 0 if there does not exist an edge between two vertices $s_{i}$ and $s_{j}$, $\forall i, j \in S$. In order to satisfy the first constraint, a node can only have two edges, and connect to two other nodes in the network. Hence, it cannot be connected to other nodes. Since hyperedges are forbidden in MST, then $x_{e} = 0$ (edge connects these two vertices) or $x_{e} = 1$ (no edge connects these two vertices).
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Q4.2}
+\label{ssec:q4d2}
+
+\begin{figure}
+\centering 
+\includegraphics[width=6in]{./figures/q4.pdf}
+\caption{An example of a simple graph with 5 nodes, with given weighted edges (Slide 37 of Lecture 5)}
+\label{fig:q4example}
+\end{figure}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Q4.3}
+\label{ssec:q4d3}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsubsection{Q4.3 Approach 1}
+\label{sssec:q4d3p1}
+
+When an exact algorithm for determining the minimum spanning tree (from the lecture notes, Lecture 5, Slide 35) is applied, we have the following result. Figures \ref{fig:q4example1}, \ref{fig:q4example2}, \ref{fig:q4example3}, and \ref{fig:q4example4} show successive iterations of the algorithm till a MST is found.
+
+
+\begin{figure}
+\centering 
+\includegraphics[width=6in]{./figures/q4e1.pdf}
+\caption{Iteration 1}
+\label{fig:q4example1}
+\end{figure}
+
+\begin{figure}
+\centering 
+\includegraphics[width=6in]{./figures/q4e2.pdf}
+\caption{Iteration 2}
+\label{fig:q4example2}
+\end{figure}
+
+\begin{figure}
+\centering 
+\includegraphics[width=6in]{./figures/q4e3.pdf}
+\caption{Iteration 3}
+\label{fig:q4example3}
+\end{figure}
+
+\begin{figure}
+\centering 
+\includegraphics[width=6in]{./figures/q4e4.pdf}
+\caption{Iteration 4}
+\label{fig:q4example4}
+\end{figure}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsubsection{Q4.3 Approach 2}
+\label{sssec:q4d3p2}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Q4.4}
+\label{sssec:q4d4}
+
+They (should) yield the same result.
+
+I prefer Approach 1, since it is easier to visualize and implement.
+
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+{\linespread{1}
+\bibliographystyle{plain}
+\bibliography{/data/research/antipastobibtex/references}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{document}
