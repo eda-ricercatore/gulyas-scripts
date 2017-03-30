@@ -1027,9 +1027,12 @@ The content of 2-D *struct*s are displayed/accessed via rows first,
 In general, for *n*-D *struct*s, which entries are indexed as
 	[i,j,k, ..., n], the elements are accessed in the following order:
 + increment i only
-	
++ increment i and j 
++ increment i, j, and k
+...
++ increment n only
 
-
+The fields of a *struct* are enumerated/traversed in order.
 
 ####	Structure Arrays
 
