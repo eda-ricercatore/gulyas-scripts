@@ -742,7 +742,8 @@ Conversion between strings and numerical data can be done by the
 ####	String Comparison
 
 Functions for string comparison, which requires character by
-	character comparison of strings (can't be done by using "=="), are:
+	character comparison of strings (can't be done by using "=="),
+	are \cite[\S5.4, pp. 76-77]{Eaton2016a}:
 + *`strcmp(s1,s2)`*
 + *`strncmp(s1,s2,n)`*
 + *`strcmpi(s1,s2)`*
