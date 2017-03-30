@@ -45,9 +45,10 @@ d = {{33.1, 33.2}, {98.3, 97.3, 96.3, 95.3, 94.3, 93.3, 92.3, 91.2}}
 e = {a,b,c,d}
 
 disp("=	This demonstrates that the elements of multi-dimensional ")
-disp("	matrices are processed from the left-most dimension to the ")
-disp("	right-most dimension.")
-
+disp("	matrices are processed from the right-most dimension to the ")
+disp("	left-most dimension.")
+disp("=	Embedded elements are displayed first, before visiting.")
+disp("	next cell/field/array.")
 
 
 
