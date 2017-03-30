@@ -1215,7 +1215,7 @@ A nested cell array is hierarchically displayed via *`celldisp()`*,
 	array *c*. 
 	Alternatively, *`celldisp(c, b)`* also recursively displays the
 	contents of the cell array *c*, but indicates its name as *b*,	
-	instead of *c*.
+	instead of *c* \cite[\S6.2.1, pp. 113]{Eaton2016a}.
 
 *`iscell(x)`* determines if *x* is a cell array object.
 	A boolean *true* is returned if *x* is a cell array object.
