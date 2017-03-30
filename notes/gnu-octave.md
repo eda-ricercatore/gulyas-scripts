@@ -1221,8 +1221,6 @@ A nested cell array is hierarchically displayed via *`celldisp()`*,
 	A boolean *true* is returned if *x* is a cell array object.
 	Else, return false \cite[\S6.2.1, pp. 113]{Eaton2016a}.
 
-
-
 The script [h-multi-dimensionall-cell-array.h](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/gnu-octave/h-multi-dimensionall-cell-array.h) indicates that embedded
 	elements are displayed first, before visiting next cell/field.
 	This demonstrates that the elements of multi-dimensional matrices
