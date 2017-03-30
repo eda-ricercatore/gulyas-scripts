@@ -1219,7 +1219,7 @@ A nested cell array is hierarchically displayed via *`celldisp()`*,
 
 *`iscell(x)`* determines if *x* is a cell array object.
 	A boolean *true* is returned if *x* is a cell array object.
-	Else, return false.
+	Else, return false \cite[\S6.2.1, pp. 113]{Eaton2016a}.
 
 
 
