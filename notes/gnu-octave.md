@@ -1214,11 +1214,27 @@ A nested cell array is hierarchically displayed via *`celldisp()`*,
 	instead of *c*.
 
 *`iscell(x)`* determines if *x* is a cell array object.
+	A boolean *true* is returned if *x* is a cell array object.
+	Else, return false.
+
 
 
 
 
 ####	Cell Array Creation
+
+A cell array can be created using currently available variables.
+	It can also be created with empty matrices.
+	The empty matrices contained in the cell array can be subsequently 
+	filled with data \cite[\S6.2.2, pp. 114]{Eaton2016a}.
+
+
+
+
+
+
+
+
 
 
 ####	Cell Array of Strings
@@ -1227,7 +1243,7 @@ A nested cell array is hierarchically displayed via *`celldisp()`*,
 ####	Cell Array Manipulation
 
 
-Pray for Auntie Megan
+
 
 ### Lists
 
