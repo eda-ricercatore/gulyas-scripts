@@ -45,7 +45,7 @@
 
 
 
-
+import Clean_BibTeX_DB
 
 
 ###############################################################
@@ -56,4 +56,4 @@ if __name__ == "__main__":
 	print("===================================================")
 	print("This is the main method.")
 	#	BLAH.
-	
+	Clean_BibTeX_DB.how_to_use_script()

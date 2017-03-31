@@ -11,6 +11,28 @@ The `print` statement in *Python 2.y* has been replaced by the
 	delimited \cite{vanRossum2017}.
 
 
+##	Syntax Rules Regarding Identifiers
+
+*Python* identifiers for variables, functions, classes, and modules
+	have to be alphanumeric and can include underscores
+	\cite[from \S Python Basic Syntax]{Mohtashim2017}
+	\cite[\S2.3 Identifiers and keywords]{DrakeJr2016f}
+	\cite[\S2.3 Identifiers and keywords]{DrakeJr2016a}.
+	These identifiers are case sensitive and cannot be *Python*
+	keywords [ParewaLabsPvtLtdStaff20XY, \S "Python Keywords and Identifier"].
+	Otherwise, the *Python* interpreter would report a syntax error,
+	since the syntax is invalid.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -23,8 +45,11 @@ The `print` statement in *Python 2.y* has been replaced by the
 Citations/References that use the *LaTeX/BibTeX* notation are taken
 	from my *BibTeX* database (set of *BibTeX* entries).
 
++ [ParewaLabsPvtLtdStaff20XY]
 
-
+	Parewa Labs Pvt. Ltd. staff, "Learn Python Programming," Parewa Labs Pvt. Ltd., Kupondole, Lalitpur, Lalitpur District, Nepal.
+	
+	Available online from {\it Programming Tutorial, Articles and Examples -- Programiz} at: \url{https://www.programiz.com/python-programming/}; last accessed on April 1, 2017.
 
 
 
