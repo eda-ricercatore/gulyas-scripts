@@ -1,8 +1,14 @@
 #	Notes About *Python*
 
+##	Differences between *Python 3.x* and *Python 2.y*
 
-
-
+The `print` statement in *Python 2.y* has been replaced by the
+	`print()` function in *Python 3.x*.
+	A pair of parentheses, or round brackets, are used in the `print()`
+	function to print the string within the parentheses.
+	The `print` statement needs to be appended by a string, and these
+	tokens (the `print` statement and the string) are whitespace
+	delimited \cite{vanRossum2017}.
 
 
 
