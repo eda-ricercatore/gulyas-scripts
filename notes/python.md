@@ -18,10 +18,10 @@ The `print` statement in *Python 2.y* has been replaced by the
 	\cite[from \S Python Basic Syntax]{Mohtashim2017}
 	\cite[\S2.3 Identifiers and keywords]{DrakeJr2016f}
 	\cite[\S2.3 Identifiers and keywords]{DrakeJr2016a}.
-	These identifiers are case sensitive and cannot be *Python*
-	keywords [ParewaLabsPvtLtdStaff20XY, \S "Python Keywords and Identifier"].
 	Otherwise, the *Python* interpreter would report a syntax error,
 	since the syntax is invalid.
+	These identifiers are case sensitive and cannot be *Python*
+	keywords [ParewaLabsPvtLtdStaff20XY, \S "Python Keywords and Identifier"].
 
 
 
