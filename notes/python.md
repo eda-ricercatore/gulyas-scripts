@@ -23,6 +23,66 @@ The `print` statement in *Python 2.y* has been replaced by the
 	These identifiers are case sensitive and cannot be *Python*
 	keywords [ParewaLabsPvtLtdStaff20XY, \S "Python Keywords and Identifier"].
 
+##	Importing Python Classes and Modules
+
+Tasks that I can do:
++ Create and define a class, and use static methods in the class
+	(within the same script). 
+
+
+
+
+
+Tasks that I want to do, but can't yet:
++ Use static methods of a class, from another *Python* script.
++ Create, define, and use my own *Python* modules, from any *Python*
+	script.
++ Create, define, and use my own *Python* packages, from any *Python*
+	script.
+	Determine the importance and usefulness packages, with respect to
+	modules.
+
+
+Pages in \cite[Beginning Python]{Hetland2005} that deal with importing
+	Python classes and modules:
++ Abstraction of classes and modules, pp. 109--158, 173--202
++ Modules and The Standard Library, pp. 203--254
++ Summaries: pp. 547--574
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pages in \cite[Expert Python Programming]{Ziade2008} that deal with
+	importing Python classes and modules:
++ Naming, (pp. 91--116
+	- Application of naming to (pp. 92): 
+		* Variables: constants and public/private variables
+		* Functions and methods
+		* Properties
+		* Classes
+		* Modules
+		* Packages
++ Packages, (pp. 117--165)
++ Documentation, (pp. 223--250)
+
+
 
 
 

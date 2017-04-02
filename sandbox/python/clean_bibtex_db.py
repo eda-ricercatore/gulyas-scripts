@@ -1,7 +1,6 @@
 #!/usr/bin/python
-###	/Library/Frameworks/Python.framework/Versions/3.6/bin/python3
 
-###	/usr/bin/python
+###	/Library/Frameworks/Python.framework/Versions/3.6/bin/python3
 
 """
 	This Python script is written by Zhiyang Ong to clean
@@ -35,58 +34,26 @@
 
 
 
-###############################################################
 """
-	Import modules from The Python Standard Library.
-	sys			Get access to any command-line arguments.
-	os			Use any operating system dependent functionality.
-	os.path		For pathname manipulations.
-	
-	subprocess -> call
-				To make system calls.
-
-	time		To measure elapsed time.
-	warnings	Raise warnings.
-	re			Use regular expressions.
+	Comparing Python 3.x to Python 2.y, the former has significant
+		differences in printing information (to standard output)
+		\cite{vanRossum2017}.
+	This can cause compatibility problems between different versions
+		of Python in a given Python software. 
 """
 
-import sys
-import os
-import os.path
-from subprocess import call
-import time
-import warnings
-import re
+
+
+
+import file_io
+
 
 ###############################################################
-#	Module with methods that clean BibTeX files.
-class Clean_BibTeX_DB:
-	# ============================================================
-	#	Method to provide information on how to run this script.
-	#	O(1) method.
-	@staticmethod
-	def how_to_use_script():
-		print "-------------------------------------------------"
-		print "==>	This script determines if duplicate BibTeX entries"
-		print "	exist in my BibTeX database."
-		print "	If they do, remove the duplicate BibTeX entries."
-		print ""
-		print "This script can be executed as follows:"
-		print "./duplicate-BibTeX-entries.py [input BibTeX file] [output BibTeX file]"
-		print ""
-		print "2nd input argument mustn't be a valid path to an existing file."
-		print "If it is, warn the user about overwritting the file & exit."
-		print ""
-		print "If 2nd input argument has no file extension, add the"
-		print "	BibTeX file extension to it."
-		print ""
-		print "-------------------------------------------------"
-		# Inform the user what went wrong.
-		raise Exception("Error with input arguments.")
+# Main method for the program.
 
-
-
-
-
-
-	
+#	If this is executed as a Python script,
+if __name__ == "__main__":
+	print("===================================================")
+	print("This is the main method.")
+	#	BLAH.
+	file_io.how_to_use_script()
