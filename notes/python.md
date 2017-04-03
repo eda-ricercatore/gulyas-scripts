@@ -70,7 +70,7 @@ Pages in \cite[Beginning Python]{Hetland2005} that deal with importing
 
 
 Pages in \cite[Expert Python Programming]{Ziade2008} that deal with
-	importing Python classes and modules:
+	importing Python classes and modules (Not helpful):
 + Naming, (pp. 91--116
 	- Application of naming to (pp. 92): 
 		* Variables: constants and public/private variables
