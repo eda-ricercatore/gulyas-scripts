@@ -48,7 +48,8 @@ Tasks that I want to do, but can't yet:
 
 
 Note: "A module is a file containing *Python* definitions and statements."
-	\cite[\S6 Modules]{Brandl2017a} \cite[\S6 Modules]{Brandl2017}.
+	\cite[\S6 Modules]{Brandl2017a} \cite[\S6 Modules]{Brandl2017}
+	\cite[Importing Modules: Module? What's a Module?]{Thurlow2012}.
 	**This is different from how I define modules in *C++* and *Java*.**
 
 
