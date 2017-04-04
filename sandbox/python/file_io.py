@@ -60,7 +60,7 @@ import re
 
 ###############################################################
 #	Module with methods that clean BibTeX files.
-class file_io:
+class file_io_operations:
 	# ============================================================
 	#	Method to provide information on how to run this script.
 	#	O(1) method.

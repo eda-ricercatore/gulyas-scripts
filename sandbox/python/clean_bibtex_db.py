@@ -45,7 +45,7 @@
 
 
 
-import file_io
+from file_io import file_io_operations
 
 
 ###############################################################
@@ -56,4 +56,4 @@ if __name__ == "__main__":
 	print("===================================================")
 	print("This is the main method.")
 	#	BLAH.
-	file_io.how_to_use_script()
+	file_io_operations.how_to_use_script()
