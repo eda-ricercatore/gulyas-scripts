@@ -28,19 +28,27 @@ The `print` statement in *Python 2.y* has been replaced by the
 Tasks that I can do:
 + Create and define a class, and use static methods in the class
 	(within the same script). 
++ Use static methods of a class, from another *Python* script.
++ Create, define, and use my own *Python* modules, from any *Python*
+	script.
 
-
+See [example to import Python modules and classes](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/python/s-import).
 
 
 
 Tasks that I want to do, but can't yet:
-+ Use static methods of a class, from another *Python* script.
-+ Create, define, and use my own *Python* modules, from any *Python*
-	script.
 + Create, define, and use my own *Python* packages, from any *Python*
 	script.
 	Determine the importance and usefulness packages, with respect to
 	modules.
+
+
+
+
+
+
+Note: "A module is a file containing Python definitions and statements."
+	\cite[\S6 Modules]{Brandl2017a} \cite[\S6 Modules]{Brandl2017}.
 
 
 Pages in \cite[Beginning Python]{Hetland2005} that deal with importing
@@ -48,23 +56,6 @@ Pages in \cite[Beginning Python]{Hetland2005} that deal with importing
 + Abstraction of classes and modules, pp. 109--158, 173--202
 + Modules and The Standard Library, pp. 203--254
 + Summaries: pp. 547--574
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
