@@ -1189,6 +1189,9 @@ Data in a structure can be enumerated as follows
 	the struct into a cell array, followed by data processing.
 
 
+The `struc`
+
+
 
 ###	Cell Arrays
 

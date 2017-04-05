@@ -36,7 +36,7 @@ See [example to import Python modules and classes](https://github.com/eda-ricerc
 
 
 
-Tasks that I want to do, but can't yet:
+Tasks that I want to do, but can't yet (or have yet to try):
 + Create, define, and use my own *Python* packages, from any *Python*
 	script.
 	Determine the importance and usefulness packages, with respect to
