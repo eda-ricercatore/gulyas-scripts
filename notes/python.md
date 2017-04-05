@@ -85,7 +85,7 @@ Pages in \cite[Expert Python Programming]{Ziade2008} that deal with
 
 ##	Design Decisions
 
-Use either  keyword arguments or positional arguments in my
+Use either keyword arguments or positional arguments in my
 	implementation of *Python* methods to process input parameters.
 
 
