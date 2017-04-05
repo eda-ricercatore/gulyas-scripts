@@ -983,7 +983,7 @@ Note that printing the value of a nested structure, which has
 	structures embedded in a (i.e., top-level) structure, would only
 	print the content of the first few-level (e.g., three) levels.
 	The remaining embedded/nested levels are printed/represented as
-	a struct array with its dimensions (but not content) specified
+	a *struct* array with its dimensions (but not content) specified
 	\cite[\S6.1.1, pp. 100-101]{Eaton2016a}.
 
 The *`function struct_levels_to_print()`* is used to determine or set
@@ -999,8 +999,8 @@ The *`function struct_levels_to_print()`* is used to determine or set
 
 Use the function *`print_struct_array_contents ()`* to determine or
 	set the boolean flag that specifies whether to print the contents
-	of the struct array.
-	If the boolean flag is set to true, the contents of struct arrays
+	of the *struct* array.
+	If the boolean flag is set to true, the contents of *struct* arrays
 		would be printed \cite[\S6.1.1, pp. 101]{Eaton2016a}.
 	*I have problems using the function
 		`print_struct_array_contents()` correctly.*
@@ -1054,8 +1054,8 @@ To delete elements of a structure array by assigning each of these
 
 #####	Difficulties Faced
 
-When I called the function size(x), on a nested struct "x", it always
-	returns the array [1 1] as the size of the nested struct.
+When I called the function size(x), on a nested *struct* "x", it always
+	returns the array [1 1] as the size of the nested *struct*.
 	It does not return a set of values that correctly/"correctly"
 	indicates the size of the nested structure.
 	See [h-structures.m](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/gnu-octave/h-structures.m).
@@ -1092,7 +1092,7 @@ When elements of a *struct* are a mixture of scalar and cell arrays,
 	From personal experimentation in [h-structures.m](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/gnu-octave/h-structures.m), when I specify the cell
 		array using square brackets, an instance of the cell array is
 		assigned to each field; curly braces are needed to assign
-		each element in the cell array to each field of the struct;
+		each element in the cell array to each field of the *struct*;
 		in the cell array, each element in the cell array is
 		delimited/delineated by a comma (or white space).
 	Also, from personal experimentation in [h-structures.m](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/gnu-octave/h-structures.m), the cardinality/dimension 
@@ -1103,8 +1103,8 @@ When elements of a *struct* are a mixture of scalar and cell arrays,
 		dimensionality of this cell array does not match the
 		dimensionalities of the other cell arrays.
 
-**Note that the fields of a (ordinary scalar) struct should have fields
-	that have the same cardinality/size/dimension. Else, the struct
+**Note that the fields of a (ordinary scalar) *struct* should have fields
+	that have the same cardinality/size/dimension. Else, the *struct*
 	could contain contain false/erroneous information.**  
 
 Use the function `isstruct(x)` to determine if `x` is a structure
@@ -1120,15 +1120,15 @@ Use the function `isstruct(x)` to determine if `x` is a structure
 
 Functions to control the fields of a structure, which can be a nested
 	structure, are \cite[\S6.1.4, pp. 107-111]{Eaton2016a}:
-+ *`numfields(s)`* returns the number of fields in the struct *s*. 
++ *`numfields(s)`* returns the number of fields in the *struct* *s*. 
 + *`fieldnames(s)`* returns the names of fields in *s*, which can be
-	a struct or an Octave (/Java) object, in a cell array.
+	a *struct* or an Octave (/Java) object, in a cell array.
 + *`isfield(x,"field_name")`* returns true if *field_name* is a field
 	of *x*.
 + *`isfield(x,field_names)`* returns a bit vector indicating if each
 	field name in *field_names* is a field of *x*.
 + *`new_struct = setfield (s, field[i], val[i], field[i+1], val[i+1], ...)`*
-	copies the struct *s* to struct *new_struct*, and for each pair
+	copies the *struct* *s* to *struct* *new_struct*, and for each pair
 	of field[i] and val[i], it will assign val[i] to field[i].
 	If a field (e.g., 'field[n]') is provided without a corresponding
 	value (i.e., 'value[n]'), an error will be called for the
@@ -1141,12 +1141,12 @@ Functions to control the fields of a structure, which can be a nested
 	structure arrays is when I have to enumerate elements in a
 	structure array.
 + *`val = getfield (s, field)`* is an access method to obtain the
-	value of the field *field* in the struct *s*.
+	value of the field *field* in the *struct* *s*.
 + *`val = getfield (s, sidx1, field1, fidx1,...)`*
 	**Note: Currently, I have not learnd how to use `getfield()` for
 	structure arrays. March 6, 2017; Technical debt: not being able
 	to easily enumerate elements of a structure array, and the fields
-	of each struct in the structure array.**
+	of each *struct* in the structure array.**
 + *`sout = rmfield(s, "f")`* removes the field *f* in the structure
 	(or nested structure) *s*.
 	If *f* is not a valid field of the (nested) structure *s*, an
@@ -1186,10 +1186,11 @@ Data in a structure can be enumerated as follows
 		or \cite[\S19.3 Function Application]{Eaton2016}
 	- **[To Be Continued]**
 + Use another type of container to process the data; i.e., convert
-	the struct into a cell array, followed by data processing.
+	the *struct* into a cell array, followed by data processing.
 
 
-The `struc`
+The fields/elements of a *struct* are processed from the first to the
+	last, or "right" to "left".
 
 
 
@@ -1207,7 +1208,7 @@ A cell array can have fields/variables of different sizes.
 	These fields/variables can be indexed, extracted, overwritten
 	using curly braces \cite[\S6.2.1, pp. 112]{Eaton2016a}.
 	
-**[Note: I do not know if cell arrays (or structs) can include
+**[Note: I do not know if cell arrays (or *struct*s) can include
 	functions in their containers.]**
 
 A nested cell array is hierarchically displayed via *`celldisp()`*,
