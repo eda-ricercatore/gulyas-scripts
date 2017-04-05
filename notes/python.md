@@ -10,6 +10,12 @@ The `print` statement in *Python 2.y* has been replaced by the
 	tokens (the `print` statement and the string) are whitespace
 	delimited \cite{vanRossum2017}.
 
+Comparing Python 3.x to Python 2.y, the former has significant
+		differences in printing information (to standard output)
+		\cite{vanRossum2017}.
+	This can cause compatibility problems between different versions
+		of Python in a given Python software. 
+
 
 ##	Syntax Rules Regarding Identifiers
 
@@ -77,9 +83,10 @@ Pages in \cite[Expert Python Programming]{Ziade2008} that deal with
 
 
 
+##	Design Decisions
 
-
-
+Use either  keyword arguments or positional arguments in my
+	implementation of *Python* methods to process input parameters.
 
 
 
