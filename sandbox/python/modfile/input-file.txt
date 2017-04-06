@@ -1,0 +1,12 @@
+Berkeley; 1500; model checking; 1234570; equivalence checking.
+Stanford; 1700; high-level synthesis; 1234590; hardware/software partitioning.
+MIT; 1900; hardware-accelerated emulation; 1234610; logic synthesis.
+UT Austin; 2100; RTL synthesis; 1234630; static timing analysis.
+Carnegie Mellon; 2300; statistical STA; 1234650; power optimization.
+Georgia Tech; 2500; DVFS; 1234670; logic simulation.
+Columbia; 2600; logic simulation; 1234680; fault saimulation.
+Northwestern; 2700; fault saimulation; 1234690; ATPG.
+Purdue; 2800; ATPG; 1234700; DFT.
+UCSD; 2900; DFT; 1234710; BIST.
+UCLA; 3000; BIST; 1234720; memory compiler.
+Stanford; 326748027; statistical STA; 7289; hardware-accelerated emulation.
