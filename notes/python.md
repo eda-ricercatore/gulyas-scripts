@@ -83,6 +83,12 @@ Pages in \cite[Expert Python Programming]{Ziade2008} that deal with
 
 
 
+With regards to importing *Python* modules, circular dependencies is
+	forbidden/discouraged during interpretation of *Python* programs.
+	That is, don't import a *Python* module *A*, which imports another
+	*Python* module *B* that imports *Python* module *A*.
+
+
 ##	Design Decisions
 
 Use either keyword arguments or positional arguments in my
