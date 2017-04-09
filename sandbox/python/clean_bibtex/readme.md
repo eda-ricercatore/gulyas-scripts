@@ -6,30 +6,56 @@ My BibTeX database is a large set of BibTeX entries.
 	Each BibTeX entry references a (research) publication.
 
 It contains the following scripts:
-+ duplicate-BibTeX-entries.py
++ queue_ip_arguments.py
+	-
++ file_io.py
+	- 
++ duplicate_BibTeX_entries.py
+	- ./duplicate_BibTeX_entries.py [BibTeX file]
 	- Determine if duplicate BibTeX entries exist in my BibTeX
 		database.
+	- No output required.
 	- IMPORTANT
-+ doi-validation.py
++ validate_url.py
+	- ./validate_url.py [BibTeX file]
+	- Validate the URL field of BibTeX entries in my BibTeX database.
+	- If there exists backup URL and there does not exist any URL
+		entry, add DOI entry.
+	- No output required.
+	- IMPORTANT
++ justify-doi.py
+	- ./justify-doi.py [BibTeX file]
 	- Validate the DOI field of BibTeX entries in my BibTeX database.
-+ extract-citations.py
-	- Extract the subset of BibTeX entries that are cited in a
-		document that I wrote or co-authored.
-+ not-defined-references.py
-	- Check if this citation uses a undefined reference (BibTeX entry).
+	- If there exists backup URL and there does not exist any DOI
+		entry, add DOI entry.
+	- No output required.
+	- IMPORTANT
 + clean_bibtex.py
+	- ./clean_bibtex.py [input BibTeX file] [output BibTeX file] [-h]
 	- Remove metadata from each BibTeX entry.
 	- Transform non-standard BibTeX entry types to standard BibTeX
 		entry types.
 	- Remove comments from LaTeX source files.
 + rm_bibtex_metadata.py
+	- ./rm_bibtex_metadata.py [input BibTeX file] [output BibTeX file]
 	- Remove metadata from each BibTeX entry.
-+ standardize-bibtex-entries.py
++ standardize_bibtex_entries.py
+	- ./standardize_bibtex_entries.py [input BibTeX file] [output BibTeX file]
 	- Transform non-standard BibTeX entry types to standard BibTeX
 		entry types.
-+ uncomment-latex-src-files.py
++ extract_citations.py
+	- ./extract_citations.py [LaTeX sources] [BibTeX output]
+	- Produces an intermediate output, which is a set of BibTeX keys
+		that uniquely identifies a matching BibTeX entry in my BibTeX
+		database.
++ not_defined_references.py
+	- ./not_defined_references.py  [LaTeX sources] [BibTeX input]
+	- Check if this citation uses a undefined reference
+	- No output required.
++ uncomment_latex_src_files.py
+	- ./uncomment_latex_src_files.py [dirty LaTeX source files] [clean LaTeX source files]
 	- Remove comments from LaTeX source files. Non importante.
-+ altri-BibTeX-operazioni.py
++ z-altri-BibTeX-operazioni.py
 	- Perform miscellaneous tasks to clean up the BibTeX file.
 	- Check if the ampersand is surrounded by curly braces and set
 		to the normal (non-Italics) font.
@@ -50,10 +76,12 @@ It contains the following scripts:
 		fields (metadata for BibDesk) exists:
 		- "Bdsk-Url-1". 
 + automated_regression_testing.py
+	- ./automated_regression_testing.py
+	- No input nor output required.
 	- Perform regression testing on the Python scripts for validating
 		and cleaning BibTeX files.
-
-
++ Additional filenames that I can use:
+	- purify_bibtex.py
 
 
 

@@ -9,7 +9,7 @@
 	
 	Synopsis:
 	Carry out automated regression testing to see if
-	"clean_bibtex.py" works as specified.
+	"duplicate_BibTeX_entries.py" works as specified.
 	
 	
 	
@@ -64,35 +64,65 @@ print "##################################################"
 print "==>>	Begin automated regression testing."
 
 print "##################################################"
-print "=	Testing: duplicate-BibTeX-entries.py"
+print "=	Testing: duplicate_BibTeX_entries.py"
+print "-	-	-	-	-	-	-	-"
 print "	=>	With no input arguments."
-#	Either of the following two statements work.
-#call(["./duplicate-BibTeX-entries.py"])
-call("./duplicate-BibTeX-entries.py")
-
-print "	=>	With one input argument."
-call(["./duplicate-BibTeX-entries.py","qwerty"])
-
-print "	=>	With two input arguments: Invalid path + Valid path."
-call(["./duplicate-BibTeX-entries.py","qwerty","input/extra.bib"])
-
-print "	=>	With two input arguments: Invalid path + Invalid path."
-call(["./duplicate-BibTeX-entries.py","qwerty","poiuytre"])
-
-print "	=>	With two input arguments: Valid path + Valid path."
-call(["./duplicate-BibTeX-entries.py","input/spare.bib","input/extra.bib"])
-
-print "	=>	With two input arguments: Valid path + Invalid path."
-call(["./duplicate-BibTeX-entries.py","input/spare.bib","qwerty.bib"])
-
-print "	=>	With >2 arguments: Valid path + Invalid path + ..."
-call(["./duplicate-BibTeX-entries.py","input/spare.bib","asdfgh","3rdarg","4tharg","5tharg","6tharg","7tharg"])
-
-
-
-
-
-
+call("./duplicate_BibTeX_entries.py")
+print "-	-	-	-	-	-	-	-"
+print "	=>	With one input argument. Invalid path"
+call(["./duplicate_BibTeX_entries.py","qwerty"])
+print "-	-	-	-	-	-	-	-"
+print "	=>	With one input argument: Valid path."
+call(["./duplicate_BibTeX_entries.py","input/extra.bib"])
+print "-	-	-	-	-	-	-	-"
+print "	=>	Detect duplicate BibTeX keys: Invalid BibTeX entry types."
+call(["./duplicate_BibTeX_entries.py","input/incorrect_bibtex_type.bib"])
+print "-	-	-	-	-	-	-	-"
+print "	=>	Detect duplicate BibTeX keys: Duplicate BibTeX entries exist."
+call(["./duplicate_BibTeX_entries.py","input/duplicates_bibtex_keys.bib"])
+"""
+	print "-	-	-	-	-	-	-	-"
+	print "	=>	With two input arguments: Invalid path + Valid path."
+	call(["./duplicate_BibTeX_entries.py","qwerty","input/extra.bib"])
+	print "-	-	-	-	-	-	-	-"
+	print "	=>	With two input arguments: Invalid path + Invalid path."
+	call(["./duplicate_BibTeX_entries.py","qwerty","poiuytre"])
+	print "-	-	-	-	-	-	-	-"
+	print "	=>	With two input arguments: Valid path + Valid path."
+	call(["./duplicate_BibTeX_entries.py","input/one_bibtex_entry.bib","input/extra.bib"])
+	print "-	-	-	-	-	-	-	-"
+	print "	=>	With two input arguments: Valid path + Invalid path."
+	call(["./duplicate_BibTeX_entries.py","input/one_bibtex_entry.bib","qwerty.bib"])
+	#os.remove("qwerty.bib")
+"""
+print "-	-	-	-	-	-	-	-"
+print "	=>	Input BibTeX File: 4/6 incorrect BibTeX entry types; 100010"
+call(["./duplicate_BibTeX_entries.py","input/incorrect_bibtex_type.bib","y-1.bib"])
+#os.remove("y-1.bib")
+print "-	-	-	-	-	-	-	-"
+print "	=>	Detect duplicate BibTeX keys: One BibTeX entry."
+call(["./duplicate_BibTeX_entries.py","input/one_bibtex_entry.bib"])
+print "-	-	-	-	-	-	-	-"
+print "	=>	With >2 arguments: Valid path + Invalid path + ... (One BibTeX entry.)"
+call(["./duplicate_BibTeX_entries.py","input/one_bibtex_entry.bib","asdfgh","3rdarg","4tharg","5tharg","6tharg","7tharg"])
+#os.remove("asdfgh.bib")
+print "-	-	-	-	-	-	-	-"
+print "	=>	Detect duplicate BibTeX keys: No duplicates. Simple."
+call(["./duplicate_BibTeX_entries.py","input/simple.bib","y-1.bib"])
+#os.remove("y-1.bib")
+print "-	-	-	-	-	-	-	-"
+print "	=>	Detect duplicate BibTeX keys: No duplicates. Extensive."
+call(["./duplicate_BibTeX_entries.py","input/no_duplicate_bibtex_keys.bib"])
+print "-	-	-	-	-	-	-	-"
+print "	=>	Detect duplicate BibTeX keys: Get Help (1)."
+call(["./duplicate_BibTeX_entries.py","input/no_duplicate_bibtex_keys.bib","-h"])
+print "-	-	-	-	-	-	-	-"
+print "	=>	Detect duplicate BibTeX keys: Get Help (2)."
+call(["./duplicate_BibTeX_entries.py","-h","input/simple.bib","y-1.bib"])
+#os.remove("y-1.bib")
+print "-	-	-	-	-	-	-	-"
+print "	=>	Detect duplicate BibTeX keys: Get Help (3)."
+call(["./duplicate_BibTeX_entries.py","-h"])
 
 print "##################################################"
 print "==>>	End automated regression testing."
