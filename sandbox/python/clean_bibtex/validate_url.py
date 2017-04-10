@@ -1,38 +1,52 @@
-#!/usr/bin/python  
-###	#!/usr/bin/python -mtimeit
-
+#!/usr/bin/python
 
 """
-	This Python script is written by Zhiyang Ong to determine if
-		duplicate BibTeX entries exist in my BibTeX database.
-	If such entries exist, warn the user that duplicate BibTeX
-		entries exist. 
-
+	This Python script is written by Zhiyang Ong to determine if a
+		non-standard BibTeX field ("Bdsk-Url-1" or "Bdsk-Url-2")
+		exist, when "Doi" nor "Url" BibTeX field exist.
+	When "Bdsk-Url-1" or "Bdsk-Url-2" exists, copy their values to
+		the "Url" BibTeX field (and "Doi" field, if it is a DOI).
+	
 	Synopsis:
-	Find duplicate BibTeX entries in my BibTeX database, and indicate
-		the location of their existence (if they exist).
+	For each BibTeX entry in the BibTeX database, check if it has the
+		"Bdsk-Url-1" (and "Bdsk-Url-2") field(s), and if the "Url"
+		(and Doi) field(s) is(/are) missing.
 
 	This script can be executed as follows:
-	./duplicate-BibTeX-entries.py [input BibTeX file]
+	./validate_url.py [input BibTeX file] [output BibTeX file] [-h]
 
 	Parameters:
 	[input BibTeX file]:	A BibTeX file that may have duplicate
-								BibTeX entries.
+								BibTeX entries, metadata, and
+								non-standard BibTeX fields.
+	[output BibTeX file]:	A clean BibTeX file without duplicate
+								BibTeX entries, metadata, and
+								non-standard BibTeX fields.
+							[Optional parameter]
+
+	The 2nd (and subsequent) input argument(s) is(/are) optional.
+
+	The 2nd input argument mustn't be a valid path to an existing file.
+	If it is, warn the user about overwritting the file & exit.
+
+	If 2nd input argument has no file extension, add the BibTeX file
+		extension to it.
+
+	[-h]				:	If an optional "-h" flag is used as an
+							input argument, show the brief user manual
+							and exit (terminate the program).
 
 
 
 
 	Revision History:
-	??????, 2014		Version 0.1
-	March 14, 2017		Version 0.2	Testing the first argument.
-	March 22, 2017		Version 0.3	Working on second argument.
-	April 7, 2017		Version 0.4	Refactored script.
+	April 8, 2017			Version 0.1, initial build.
 
 """
 
 #	The MIT License (MIT)
 
-#	Copyright (c) <2014-2017> <Zhiyang Ong>
+#	Copyright (c) <2014> <Zhiyang Ong>
 
 #	Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -44,6 +58,7 @@
 
 
 ###############################################################
+
 """
 	Import modules from The Python Standard Library.
 	sys			Get access to any command-line arguments.
@@ -55,23 +70,19 @@
 	time		To measure elapsed time.
 	warnings	Raise warnings.
 	re			Use regular expressions.
-
-	pathlib->Path
-				For mapping a string to a path. 
 """
 
 import sys
 import os
 import os.path
-#from pathlib import Path
 from subprocess import call
 import time
 import warnings
 import re
 
 
-
 ###############################################################
+
 #	Import Custom Python Modules
 
 # Module to process input arguments to the script/program.
@@ -80,55 +91,32 @@ from queue_ip_arguments import queue_ip_args
 from file_io import file_io_operations
 
 
-
-
 ###############################################################
 #	Module with methods that clean BibTeX files.
-class Duplicate_BibTeX_entries_finder:
-	# List of BibTeX keys
-	set_of_BibTeX_keys = []
+class validate_url_field:
 	# ============================================================
-	#	Other methods.		
-	# ============================================================
-	#	Method to add BibTeX keys into a list, "set_of_BibTeX_keys".
-	#	O(n) method, where n is the number of BibTeX keys.
+	#	Method to determine if the user wants help, and conequently
+	#		display the user manual.
+	#	O(n) method, with respect to the number of input arguments.
 	@staticmethod
-	def add_BibTeX_key(found_BibTeX_key):
-		if (found_BibTeX_key in Duplicate_BibTeX_entries_finder.set_of_BibTeX_keys):
-			temp_str = "Duplicate BibTeX key:"+found_BibTeX_key
-			warnings.warn(temp_str)
-			raise Exception("Multiple instances of a BibTeX key")
-		Duplicate_BibTeX_entries_finder.set_of_BibTeX_keys.append(found_BibTeX_key)
-	# ============================================================
-	#	Method to sort BibTeX keys into a list, "set_of_BibTeX_keys".
-	#	O(n*log(n)) method, where n is the number of BibTeX keys.
-	@staticmethod
-	def sort_BibTeX_keys():
-		Duplicate_BibTeX_entries_finder.set_of_BibTeX_keys = sorted(Duplicate_BibTeX_entries_finder.set_of_BibTeX_keys)
-	# ============================================================
-	#	Method to read each line of the input BibTeX file.
-	#	O(n) method, where n is the number of lines of the BibTeX file.
-	@staticmethod
-	def read_input_BibTeX_file(ip_file_object,input_BibTeX_file):
-		#print "--------------------------------------------------------"
-		print "=	Reading input BibTeX file:"+input_BibTeX_file
-		# Read each available line in the input BibTeX file.
-		for line in ip_file_object:
-			# Is this line the 1st line of a BibTeX entry?
-			if "@" == line[0]:
-				# Yes.
-#				print "...	First line of a BibTeX entry."
-				tokenized_BibTeX_entry = re.split('@|{|,',line)
-				# Is the type of the BibTeX entry valid?
-				if (tokenized_BibTeX_entry[1] in queue_ip_args.BibTeX_entry_types):
-					# Yes. Try adding the BibTeX entry to "set_of_BibTeX_keys".
-					Duplicate_BibTeX_entries_finder.add_BibTeX_key(tokenized_BibTeX_entry[2])
-				else:
-					# No. Warn user that the type of BibTeX entry is invalid!
-					temp_str = "Invalid type of BibTeX entry:"+tokenized_BibTeX_entry[1]
-					print temp_str
-					warnings.warn(temp_str)
-					raise Exception("BibTeX entry has an invalid type!")
+	def check_if_help_wanted():
+		# If user wants to read the brief user manual,
+		if "-h" in queue_ip_args.set_of_input_arguments:
+			# Display the user manual and exit.
+			validate_url_field.how_to_use_script()
+			sys.exit()
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -155,21 +143,29 @@ if __name__ == "__main__":
 	# --------------------------------------------------------
 	#	= End of Preprocessing.
 	print "==================================================="
-	print "Finding duplicate BibTeX entries in my BibTeX database."
-	print "	And, if they exist, warn the user about them."
+	print "Validating the URLs/DOIs of BibTeX entries."
 	print ""
 	# Assign input arguments to "queue_ip_args" for processing. 
-	queue_ip_args.set_input_arguments(sys.argv,queue_ip_args.DUPLICATE_ENTRIES)
+	queue_ip_args.set_input_arguments(sys.argv)
 	# Check if user wants to read the brief user manual.
 	queue_ip_args.check_if_help_wanted()
 	# Process the first input argument.
 	print "=	Process the first input argument." 
 	ip_filename = queue_ip_args.process_1st_ip_arg()
+	# Check if 2nd input argument is missing/available.
+	queue_ip_args.missing_2nd_ip_arg()
+	# Process the second input argument.
+	print "=	Process the second input argument." 
+	op_filename = queue_ip_args.process_2nd_ip_arg()
 	# Create a file object for reading.
 	print "=	Create a file object for reading."
-	# Create a file object for input BibTeX file, in reading mode.
-	ip_file_obj = file_io_operations.open_file_object_read(ip_filename)
-	Duplicate_BibTeX_entries_finder.read_input_BibTeX_file(ip_file_obj,ip_filename)
+	ip_file_obj = Duplicate_BibTeX_entries_finder.read_input_BibTeX_file(ip_filename)
+	# Create a file object for writing.
+	print "=	Create a file object for writing."
+	op_file_obj = file_io_operations.open_file_object_write(op_filename)
 	# Close the file object for reading.
 	print "=	Close the file object for reading."
 	file_io_operations.close_file_object(ip_file_obj)
+	# Close the file object for writing.
+	print "=	Close the file object for writing."
+	file_io_operations.close_file_object(op_file_obj)

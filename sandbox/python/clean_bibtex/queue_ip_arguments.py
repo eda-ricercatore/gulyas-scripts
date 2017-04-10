@@ -173,7 +173,14 @@ class queue_ip_args:
 		elif(queue_ip_args.UNCOMMENT_LATEX == queue_ip_args.CURRENT_SCRIPT):
 			print "=	Get user manual of:"+UNCOMMENT_LATEX
 		elif(queue_ip_args.VALIDATE_URL_DOI == queue_ip_args.CURRENT_SCRIPT):
-			print "=	Get user manual of:"+VALIDATE_URL_DOI
+			print "==>	Determine if URL (and DOI) field(s) is(/are)"
+			print "	missing from the BibTeX database."
+			print "	If they are missing, copy their values from the"
+			print "	backup URL field."
+			print ""
+			print "This script can be executed as follows:"
+			print "./validate_url.py [input BibTeX file] [output BibTeX file] [-h]"
+			print ""
 		else:
 			raise Exception("Error in accessing user manual.")
 		queue_ip_args.print_help_option()

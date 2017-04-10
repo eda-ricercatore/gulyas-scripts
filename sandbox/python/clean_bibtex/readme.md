@@ -7,17 +7,19 @@ My BibTeX database is a large set of BibTeX entries.
 
 It contains the following scripts:
 + queue_ip_arguments.py
-	-
+	- Not executed as a script. Part of my custom *Python* Library.
+	- *Python* script to process input arguments for *Python* scripts.
 + file_io.py
-	- 
+	- Not executed as a script. Part of my custom *Python* Library.
+	- *Python* script to perform input/output (I/O) operations on files. 
 + duplicate_BibTeX_entries.py
-	- ./duplicate_BibTeX_entries.py [BibTeX file]
+	- ./duplicate_BibTeX_entries.py [BibTeX file] [-h]
 	- Determine if duplicate BibTeX entries exist in my BibTeX
 		database.
 	- No output required.
 	- IMPORTANT
 + validate_url.py
-	- ./validate_url.py [BibTeX file]
+	- ./validate_url.py [input BibTeX file] [output BibTeX file] [-h]
 	- Validate the URL field of BibTeX entries in my BibTeX database.
 	- If there exists backup URL and there does not exist any URL
 		entry, add DOI entry.
