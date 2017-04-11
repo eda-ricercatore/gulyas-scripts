@@ -116,4 +116,15 @@ if(backup_url_field2_last_line.endswith(end_of_entry)):
 else:
 	print "[string].endswith([another string]) implementation error!!! Test 1."
 
+print "============================================================"
+
+if(backup_url_field2_not_last_line.startswith(bdsk_url_2) and backup_url_field2_not_last_line.endswith(end_of_line)):
+	print "Boolean comparison works for initial and final substring."
+else:
+	print "[string].endswith([another string]) implementation error!!! Test 1."
+
+
+
+
+
 
