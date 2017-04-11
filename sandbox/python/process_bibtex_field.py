@@ -106,8 +106,14 @@ else:
 
 print "============================================================"
 
-if():
-	
+if(backup_url_field2_not_last_line.endswith(end_of_line)):
+	print "backup_url_field2_not_last_line		ends with },"
+else:
+	print "[string].endswith([another string]) implementation error!!! Test 1."
 
+if(backup_url_field2_last_line.endswith(end_of_entry)):
+	print "backup_url_field2_last_line		ends with }}"
+else:
+	print "[string].endswith([another string]) implementation error!!! Test 1."
 
 
