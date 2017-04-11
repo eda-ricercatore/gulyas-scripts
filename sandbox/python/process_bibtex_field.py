@@ -35,6 +35,11 @@
 	List of strings representing common lines in my BibTeX database
 		that I have to process.
 """
+bdsk_url_1 = "	Bdsk-Url-1 = {"
+bdsk_url_2 = "	Bdsk-Url-2 = {"
+end_of_line = "},"
+end_of_entry = "}}"
+
 # Backup URL field 1
 backup_url_field1_not_last_line = "	Bdsk-Url-1 = {https://elifesciences.org/content/5/e16800},"
 backup_url_field1_not_last_line_doi = "	Bdsk-Url-1 = {http://dx.doi.org/10.7554/eLife.13323},"
@@ -46,12 +51,38 @@ backup_url_field2_not_last_line_doi = "	Bdsk-Url-2 = {http://dx.doi.org/10.7554/
 backup_url_field2_last_line = "	Bdsk-Url-2 = {http://booksite.mkp.com/9780123838728/references.php}}"
 backup_url_field2_last_line_doi = "	Bdsk-Url-2 = {http://dx.doi.org/10.1007/b117041}}"
 
-# Detect if the line substring of 
+"""
+	backup_url_field1_not_last_line
+	backup_url_field1_not_last_line_doi
+	backup_url_field1_last_line
+	backup_url_field1_last_line_doi
 
+	backup_url_field2_not_last_line
+	backup_url_field2_not_last_line_doi
+	backup_url_field2_last_line
+	backup_url_field2_last_line_doi
+"""
 
+# Detect if the line begins with a given substring  
+if(backup_url_field1_not_last_line.startswith(bdsk_url_1)):
+	print "	backup_url_field1_not_last_line		starts with bdsk_url_1."
+else:
+	print "[string].startswith([another string]) implementation error!!! Test 1."
 
+if(backup_url_field1_not_last_line_doi.startswith(bdsk_url_1)):
+	print "	backup_url_field1_not_last_line_doi	starts with bdsk_url_1."
+else:
+	print "[string].startswith([another string]) implementation error!!! Test 2."
 
+if(backup_url_field1_last_line.startswith(bdsk_url_1)):
+	print "	backup_url_field1_last_line		starts with bdsk_url_1."
+else:
+	print "[string].startswith([another string]) implementation error!!! Test 3."
 
+if(backup_url_field1_last_line_doi.startswith(bdsk_url_1)):
+	print "	backup_url_field1_last_line_doi		starts with bdsk_url_1."
+else:
+	print "[string].startswith([another string]) implementation error!!! Test 4."
 
 
 
