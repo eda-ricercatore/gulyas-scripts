@@ -83,12 +83,31 @@ if(backup_url_field1_last_line_doi.startswith(bdsk_url_1)):
 	print "	backup_url_field1_last_line_doi		starts with bdsk_url_1."
 else:
 	print "[string].startswith([another string]) implementation error!!! Test 4."
+#	-----------------------------------------------------------
+if(backup_url_field2_not_last_line.startswith(bdsk_url_2)):
+	print "	backup_url_field2_not_last_line		starts with bdsk_url_2."
+else:
+	print "[string].startswith([another string]) implementation error!!! Test 5."
 
+if(backup_url_field2_not_last_line_doi.startswith(bdsk_url_2)):
+	print "	backup_url_field2_not_last_line_doi	starts with bdsk_url_2."
+else:
+	print "[string].startswith([another string]) implementation error!!! Test 6."
 
+if(backup_url_field2_last_line.startswith(bdsk_url_2)):
+	print "	backup_url_field2_last_line		starts with bdsk_url_2."
+else:
+	print "[string].startswith([another string]) implementation error!!! Test 7."
 
+if(backup_url_field2_last_line_doi.startswith(bdsk_url_2)):
+	print "	backup_url_field2_last_line_doi		starts with bdsk_url_2."
+else:
+	print "[string].startswith([another string]) implementation error!!! Test 8."
 
+print "============================================================"
 
-
+if():
+	
 
 
 
