@@ -31,6 +31,62 @@
 #	Email address: echo "cukj -wb- 23wU4X5M589 TROJANS cqkH wiuz2y 0f Mw Stanford" | awk '{ sub("23wU4X5M589","F.d_c_b. ") sub("Stanford","d0mA1n"); print $5, $2, $8; for (i=1; i<=1; i++) print "6\b"; print $9, $7, $6 }' | sed y/kqcbuHwM62z/gnotrzadqmC/ | tr 'q' ' ' | tr -d [:cntrl:] | tr -d 'ir' | tr y "\n"	Che cosa significa?
 
 ###############################################################
+
+# ============================================================
+#	Method to extract the URL from a backup URL field in the
+#		BibTeX database.
+#	@param a_str - A string containing/representing a line in
+#		a BibTeX database.
+#	@return a string representing the URL in the backup URL
+#		field. Else, return None.
+#	O(1) method.
+def get_url(a_str):
+	return_str = a_str
+	# If the string starts with "Bdsk-Url-1",
+	if(return_str.startswith(bdsk_url_1)):
+		# Delete the initial substring "Bdsk-Url-1".
+		return_str = return_str.replace(bdsk_url_1,'')
+	# Else if the string starts with "Bdsk-Url-1",
+	elif(return_str.startswith(bdsk_url_2)):
+		# Delete the initial substring "Bdsk-Url-2".
+		return_str = return_str.replace(bdsk_url_2,'')
+	else:
+		# Else, this string is not a URL.
+		return None
+	# If the string ends with "},",
+	if(return_str.endswith(end_of_line)):
+		# Delete the substring "},".
+		return_str = return_str.replace(end_of_line,'')
+		return return_str
+	# Else if the string ends with "}}",
+	elif(return_str.endswith(end_of_entry)):
+		# Delete the substring "}}".
+		return_str = return_str.replace(end_of_entry,'')
+		return return_str
+	else:
+		# Else, this string does not contain a single-line
+		#	backup URL field.
+		return None
+# ============================================================
+#	Method to determine if a line in the BibTeX database is a
+#		backup URL field.
+#	@param a_str - A string containing/representing a line in a
+#		BibTeX database.
+#	@return a boolean TRUE, if the line contains a backup URL field.
+#		Else, return FALSE.
+#	O(1) method.
+def is_bdsk_url(a_str):
+	# If the string starts with "Bdsk-Url-1",
+	if(a_str.startswith(bdsk_url_1)):
+		return True
+	elif(a_str.startswith(bdsk_url_2)):
+		return True
+	else:
+		return False
+
+
+
+###############################################################
 """
 	List of strings representing common lines in my BibTeX database
 		that I have to process.
@@ -39,6 +95,7 @@ bdsk_url_1 = "	Bdsk-Url-1 = {"
 bdsk_url_2 = "	Bdsk-Url-2 = {"
 end_of_line = "},"
 end_of_entry = "}}"
+not_a_url = "This is not a URL (web address)."
 
 # Backup URL field 1
 backup_url_field1_not_last_line = "	Bdsk-Url-1 = {https://elifesciences.org/content/5/e16800},"
@@ -130,3 +187,15 @@ web_addr =  web_addr.replace(bdsk_url_2,'')
 
 print	"	web_addr is now:"+web_addr 
 
+print "============================================================"
+
+print license
+#license()
+print credits
+print copyright
+
+
+if(is_bdsk_url(backup_url_field2_not_last_line)):
+	print "=	This is a URL."
+
+print "=	The URL is:::"+get_url(backup_url_field1_not_last_line)
