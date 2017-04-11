@@ -123,8 +123,10 @@ if(backup_url_field2_not_last_line.startswith(bdsk_url_2) and backup_url_field2_
 else:
 	print "[string].endswith([another string]) implementation error!!! Test 1."
 
+print "============================================================"
 
+web_addr =  backup_url_field2_not_last_line.replace(end_of_line,'')
+web_addr =  web_addr.replace(bdsk_url_2,'')
 
-
-
+print	"	web_addr is now:"+web_addr 
 
