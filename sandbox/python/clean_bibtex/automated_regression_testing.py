@@ -125,6 +125,43 @@ print "	=>	Detect duplicate BibTeX keys: Get Help (3)."
 call(["./duplicate_BibTeX_entries.py","-h"])
 
 print "##################################################"
+print "=	Testing: validate_url.py"
+print "-	-	-	-	-	-	-	-"
+print "	=>	With no input arguments."
+call("./validate_url.py")
+print "-	-	-	-	-	-	-	-"
+print "	=>	With one INVALID input argument."
+call(["./validate_url.py","qwerty"])
+print "-	-	-	-	-	-	-	-"
+fname = "input/one_bibtex_entry_op.bib"
+print "	=>	With one valid input argument."
+call(["./validate_url.py","input/one_bibtex_entry.bib"])
+os.remove(fname)
+print "-	-	-	-	-	-	-	-"
+print "	=>	With 1 valid input argument, and 1 valid output argument."
+dummy = "input/extra.bib"
+call(["./validate_url.py","input/one_bibtex_entry.bib",dummy])
+print "-	-	-	-	-	-	-	-"
+print "	=>	With 1 valid input argument, and 1 invalid output argument."
+dummy = "input/y-dummy.bib"
+call(["./validate_url.py","input/one_bibtex_entry.bib",dummy])
+#os.remove(dummy)
+print "-	-	-	-	-	-	-	-"
+print "	=>	Has Bdsk-Url-2, but not Bdsk-Url-1."
+dummy = "input/x-dummy.bib"
+call(["./validate_url.py","input/has_backup2_no_backup1.bib",dummy])
+os.remove(dummy)
+
+print "-	-	-	-	-	-	-	-"
+print "	=>	Has missing DOIs and/or URLs."
+call(["./validate_url.py","input/missing_doi_url.bib"])
+
+print "-	-	-	-	-	-	-	-"
+print "	=>	Extensive testing."
+call(["./validate_url.py","input/no_duplicate_bibtex_keys.bib"])
+
+#	rm input/missing_doi_url_op.bib input/no_duplicate_bibtex_keys_op.bib input/y-dummy.bib 
+print "##################################################"
 print "==>>	End automated regression testing."
 print ""
 print ""

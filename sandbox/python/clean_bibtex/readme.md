@@ -1,9 +1,9 @@
 #	General Information
 
-This set of scripts is to clean up my BibTeX database.
+This set of scripts is to clean up my *BibTeX* database.
 
-My BibTeX database is a large set of BibTeX entries.
-	Each BibTeX entry references a (research) publication.
+My *BibTeX* database is a large set of *BibTeX* entries.
+	Each *BibTeX* entry references a (research) publication.
 
 It contains the following scripts:
 + queue_ip_arguments.py
@@ -16,20 +16,16 @@ It contains the following scripts:
 	- ./duplicate_BibTeX_entries.py [BibTeX file] [-h]
 	- Determine if duplicate BibTeX entries exist in my BibTeX
 		database.
+	- Reports the existence of any non-standard BibTeX entry type
+		that is found.
 	- No output required.
 	- IMPORTANT
 + validate_url.py
 	- ./validate_url.py [input BibTeX file] [output BibTeX file] [-h]
 	- Validate the URL field of BibTeX entries in my BibTeX database.
-	- If there exists backup URL and there does not exist any URL
-		entry, add DOI entry.
-	- No output required.
-	- IMPORTANT
-+ justify-doi.py
-	- ./justify-doi.py [BibTeX file]
 	- Validate the DOI field of BibTeX entries in my BibTeX database.
-	- If there exists backup URL and there does not exist any DOI
-		entry, add DOI entry.
+	- If there exists backup URL and there does not exist any URL/DOI
+		entry, add URL/DOI entry.
 	- No output required.
 	- IMPORTANT
 + clean_bibtex.py
@@ -41,22 +37,6 @@ It contains the following scripts:
 + rm_bibtex_metadata.py
 	- ./rm_bibtex_metadata.py [input BibTeX file] [output BibTeX file]
 	- Remove metadata from each BibTeX entry.
-+ standardize_bibtex_entries.py
-	- ./standardize_bibtex_entries.py [input BibTeX file] [output BibTeX file]
-	- Transform non-standard BibTeX entry types to standard BibTeX
-		entry types.
-+ extract_citations.py
-	- ./extract_citations.py [LaTeX sources] [BibTeX output]
-	- Produces an intermediate output, which is a set of BibTeX keys
-		that uniquely identifies a matching BibTeX entry in my BibTeX
-		database.
-+ not_defined_references.py
-	- ./not_defined_references.py  [LaTeX sources] [BibTeX input]
-	- Check if this citation uses a undefined reference
-	- No output required.
-+ uncomment_latex_src_files.py
-	- ./uncomment_latex_src_files.py [dirty LaTeX source files] [clean LaTeX source files]
-	- Remove comments from LaTeX source files. Non importante.
 + z-altri-BibTeX-operazioni.py
 	- Perform miscellaneous tasks to clean up the BibTeX file.
 	- Check if the ampersand is surrounded by curly braces and set
@@ -90,6 +70,66 @@ It contains the following scripts:
 
 
 
+
+
+#	*BibTeX* Benchmarks
+
+This section describes the set of *BibTeX* benchmarks that I used to
+	test various scripts for processing *BibTeX* databases. 
+
+##	*BibTeX* Benchmarks for duplicate_BibTeX_entries.py
+
+The set of *BibTeX* benchmarks that I have used to test
+	*duplicate_BibTeX_entries.py* are:
++ one_bibtex_entry.bib
++ simple.bib
++ no_duplicate_bibtex_keys.bib
+
+
+##	*BibTeX* Benchmarks for validate_url.py
+
+The set of *BibTeX* benchmarks that I have used to test
+	*validate_url.py* are:
++ has_backup2_no_backup1.bib
++ missing_doi_url.bib
++ no_duplicate_bibtex_keys.bib
+
+
+##	*BibTeX* Benchmarks for rm_bibtex_metadata.py
+
+The set of *BibTeX* benchmarks that I have used to test
+	*rm_bibtex_metadata.py* are:
++ one_bibtex_entry.bib
++ simple.bib
++ no_duplicate_bibtex_keys.bib
+
+This is the same set of *BibTeX* benchmarks that I have used to test
+	*duplicate_BibTeX_entries.py*.
+
+
+
+
+
+
+
+
+
+
+#	Future Work
+
+I can develop *Scala* scripts to do the following:
++ extract_citations.py
+	- ./extract_citations.py [LaTeX sources] [BibTeX output]
+	- Produces an intermediate output, which is a set of BibTeX keys
+		that uniquely identifies a matching BibTeX entry in my BibTeX
+		database.
++ not_defined_references.py
+	- ./not_defined_references.py  [LaTeX sources] [BibTeX input]
+	- Check if this citation uses a undefined reference
+	- No output required.
++ uncomment_latex_src_files.py
+	- ./uncomment_latex_src_files.py [dirty LaTeX source files] [clean LaTeX source files]
+	- Remove comments from LaTeX source files. Non importante.
 
 
 

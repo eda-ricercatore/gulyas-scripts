@@ -1,4 +1,4 @@
-#!/usr/bin/python  
+#!/usr/bin/python
 ###	#!/usr/bin/python -mtimeit
 
 
@@ -87,8 +87,9 @@ from file_io import file_io_operations
 class Duplicate_BibTeX_entries_finder:
 	# List of BibTeX keys
 	set_of_BibTeX_keys = []
+	num_of_bibtex_entries = 0
 	# ============================================================
-	#	Other methods.		
+	#	Other methods.
 	# ============================================================
 	#	Method to add BibTeX keys into a list, "set_of_BibTeX_keys".
 	#	O(n) method, where n is the number of BibTeX keys.
@@ -118,6 +119,8 @@ class Duplicate_BibTeX_entries_finder:
 			if "@" == line[0]:
 				# Yes.
 #				print "...	First line of a BibTeX entry."
+				# Increment number of BibTeX entries.
+				Duplicate_BibTeX_entries_finder.num_of_bibtex_entries = Duplicate_BibTeX_entries_finder.num_of_bibtex_entries + 1
 				tokenized_BibTeX_entry = re.split('@|{|,',line)
 				# Is the type of the BibTeX entry valid?
 				if (tokenized_BibTeX_entry[1] in queue_ip_args.BibTeX_entry_types):
@@ -129,10 +132,10 @@ class Duplicate_BibTeX_entries_finder:
 					print temp_str
 					warnings.warn(temp_str)
 					raise Exception("BibTeX entry has an invalid type!")
-
-
-
-
+		if (Duplicate_BibTeX_entries_finder.num_of_bibtex_entries != len(Duplicate_BibTeX_entries_finder.set_of_BibTeX_keys)):
+			raise Exception("Mismatch in number of BibTeX entries processed.")
+		else:
+			print "=	Number of BibTeX entries processed:"+str(Duplicate_BibTeX_entries_finder.num_of_bibtex_entries)
 
 
 
