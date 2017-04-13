@@ -110,7 +110,8 @@ from file_io import file_io_operations
 
 
 ###############################################################
-#	Module with methods that clean BibTeX files.
+#	Module with methods that validate DOI/URL fields in BibTeX
+#		databases.
 class validate_url_field:
 	"""
 		List of strings representing common lines in my BibTeX database
@@ -123,6 +124,7 @@ class validate_url_field:
 	url_field = "	Url = {"
 	doi_field = "	Doi = {"
 	doi_value = "http://dx.doi.org/"
+	# Boolean flags to distinguish between different BibTeX entries.
 	doi_is_missing = False
 	url_is_missing = False
 	has_bdsk_url_1 = True
