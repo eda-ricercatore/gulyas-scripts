@@ -20,7 +20,7 @@
 
 #	The MIT License (MIT)
 
-#	Copyright (c) <2014> <Zhiyang Ong>
+#	Copyright (c) <2014-2017> <Zhiyang Ong>
 
 #	Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -29,6 +29,21 @@
 #	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 #	Email address: echo "cukj -wb- 23wU4X5M589 TROJANS cqkH wiuz2y 0f Mw Stanford" | awk '{ sub("23wU4X5M589","F.d_c_b. ") sub("Stanford","d0mA1n"); print $5, $2, $8; for (i=1; i<=1; i++) print "6\b"; print $9, $7, $6 }' | sed y/kqcbuHwM62z/gnotrzadqmC/ | tr 'q' ' ' | tr -d [:cntrl:] | tr -d 'ir' | tr y "\n"	Che cosa significa?
+
+__author__ = 'Zhiyang Ong'
+__version__ = '1.0'
+__date__ = 'Apr 14, 2017'
+
+
+###############################################################
+
+#	Import Custom Python Modules
+
+# Module to process input arguments to the script/program.
+#from queue_ip_arguments import queue_ip_args
+#import clean_bibtex.queue_ip_arguments.queue_ip_args
+#import clean_bibtex.queue_ip_arguments
+#from clean_bibtex.queue_ip_arguments import queue_ip_args
 
 ###############################################################
 
@@ -199,3 +214,20 @@ if(is_bdsk_url(backup_url_field2_not_last_line)):
 	print "=	This is a URL."
 
 print "=	The URL is:::"+get_url(backup_url_field1_not_last_line)
+
+print "============================================================"
+
+set_of_BibTeX_fields = ["	Address = {", "	Annote = {", "	Author = {", "	Booktitle = {", "	Chapter = {", "	Crossref = {", "	Doi = {", "	Edition = {", "	Editor = {", "	Howpublished = {", "	Institution = {", "	Journal = {", "	Month = {", "	Note = {", "	Number = {", "	Organization = {", "	Pages = {", "	Publisher = {", "	School = {", "	Series = {", "	Title = {", "	Type = {", "	Url = {", "	Volume = {", "	Year = {"]
+
+#print set_of_BibTeX_fields
+for elem in set_of_BibTeX_fields:
+	print elem
+
+
+
+
+
+
+
+
+
