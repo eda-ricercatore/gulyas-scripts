@@ -223,11 +223,28 @@ set_of_BibTeX_fields = ["	Address = {", "	Annote = {", "	Author = {", "	Booktitl
 for elem in set_of_BibTeX_fields:
 	print elem
 
+str = "	Edition = {Anniversary},"
+for elem in set_of_BibTeX_fields:
+	if(str.startswith(elem)):
+		print "==="+str
 
 
+str = "state-of-the-art SAT solvers can solve large and intractable problems"
+for elem in set_of_BibTeX_fields:
+	if(str.startswith(elem)):
+		print str
 
+print "============================================================"
 
+fifo_queue = ["adhweuidh1", "bdhoweij1", "cwqhgdwqui1", "dewwe1", "edwede1", "frhwdjoqw1"]
 
+while(1 < len(fifo_queue)):
+	print fifo_queue.pop(0)
+a_str  = fifo_queue.pop(0)
+a_str = a_str[:-1] + "}"
+print a_str
 
-
-
+if(0 == len(fifo_queue)):
+	print "List operations work."
+else:
+	print "List operations FAIL!!!"
