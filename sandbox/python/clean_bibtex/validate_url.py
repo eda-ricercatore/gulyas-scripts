@@ -57,12 +57,15 @@
 
 	Revision History:
 	April 8, 2017			Version 0.1, initial build.
-
 """
+
+__author__ = 'Zhiyang Ong'
+__version__ = '1.0'
+__date__ = 'Apr 14, 2017'
 
 #	The MIT License (MIT)
 
-#	Copyright (c) <2014> <Zhiyang Ong>
+#	Copyright (c) <2014-2017> <Zhiyang Ong>
 
 #	Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -208,16 +211,6 @@ class validate_url_field:
 						validate_url_field.url_is_missing = False
 			# Copy this line to the output file.
 			op_f_obj.write(line)
-	# ============================================================
-	#	Method to determine if two files are equivalent.
-	#	@return a boolean TRUE, if the files are equivalent. Else,
-	#		return FALSE.
-	#	O(n) method, with respect to the number of lines in the
-	#		larger (if the files are different), or either, of the
-	#		files.
-	@staticmethod
-	def file_comparison(file1, file2):
-		return filecmp.cmp(file1,file2,shallow=False)
 	# ============================================================
 	#	Method to determine if a line in the BibTeX database contains
 	#		the URL field.
@@ -456,7 +449,7 @@ if __name__ == "__main__":
 	print "=	Close the file object for writing."
 	file_io_operations.close_file_object(op_file_obj)
 	# Compare the input and output BibTeX files.
-	if (validate_url_field.file_comparison(ip_filename,op_filename)):
+	if (file_io_operations.file_comparison(ip_filename,op_filename)):
 		print "=	The input and output BibTeX files are EQUIVALENT!!!"
 	else:
 		print "=	The input and output BibTeX files are different."

@@ -34,7 +34,7 @@
 
 #	The MIT License (MIT)
 
-#	Copyright (c) <2014> <Zhiyang Ong>
+#	Copyright (c) <2014-2017> <Zhiyang Ong>
 
 #	Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -44,6 +44,10 @@
 
 #	Email address: echo "cukj -wb- 23wU4X5M589 TROJANS cqkH wiuz2y 0f Mw Stanford" | awk '{ sub("23wU4X5M589","F.d_c_b. ") sub("Stanford","d0mA1n"); print $5, $2, $8; for (i=1; i<=1; i++) print "6\b"; print $9, $7, $6 }' | sed y/kqcbuHwM62z/gnotrzadqmC/ | tr 'q' ' ' | tr -d [:cntrl:] | tr -d 'ir' | tr y "\n"	Che cosa significa?
 
+
+__author__ = 'Zhiyang Ong'
+__version__ = '1.0'
+__date__ = 'Apr 14, 2017'
 
 ###############################################################
 #	Import modules from The Python Standard Library.
@@ -161,6 +165,54 @@ print "	=>	Extensive testing."
 call(["./validate_url.py","input/no_duplicate_bibtex_keys.bib"])
 
 #	rm input/missing_doi_url_op.bib input/no_duplicate_bibtex_keys_op.bib input/y-dummy.bib 
+
+print "##################################################"
+print "=	Testing: rm_bibtex_metadata.py"
+print "-	-	-	-	-	-	-	-"
+print "	=>	With no input arguments."
+call("./rm_bibtex_metadata.py")
+print "-	-	-	-	-	-	-	-"
+print "	=>	With one INVALID input argument."
+call(["./rm_bibtex_metadata.py","qwerty"])
+print "-	-	-	-	-	-	-	-"
+fname = "input/one_bibtex_entry_op.bib"
+print "	=>	With one valid input argument."
+call(["./rm_bibtex_metadata.py","input/one_bibtex_entry.bib"])
+os.remove(fname)
+print "-	-	-	-	-	-	-	-"
+print "	=>	With 1 valid input argument, and 1 valid output argument."
+dummy = "input/extra.bib"
+call(["./rm_bibtex_metadata.py","input/one_bibtex_entry.bib",dummy])
+print "-	-	-	-	-	-	-	-"
+print "	=>	With 1 valid input argument, and 1 invalid output argument."
+dummy = "input/w-dummy.bib"
+call(["./rm_bibtex_metadata.py","input/one_bibtex_entry.bib",dummy])
+os.remove(dummy)
+print "-	-	-	-	-	-	-	-"
+print "	=>	Remove BibTeX metadata: Get Help (1)."
+call(["./rm_bibtex_metadata.py","input/no_duplicate_bibtex_keys.bib","-h"])
+print "-	-	-	-	-	-	-	-"
+print "	=>	Remove BibTeX metadata: Get Help (2)."
+call(["./rm_bibtex_metadata.py","-h","input/simple.bib","y-1.bib"])
+#os.remove("y-1.bib")
+print "-	-	-	-	-	-	-	-"
+print "	=>	Remove BibTeX metadata: Get Help (3)."
+call(["./rm_bibtex_metadata.py","-h"])
+print "-	-	-	-	-	-	-	-"
+print "	=>	Remove BibTeX metadata: One BibTeX entry."
+call(["./rm_bibtex_metadata.py","input/one_bibtex_entry.bib","input/one_bibtex_entry_clean.bib"])
+
+print "-	-	-	-	-	-	-	-"
+print "	=>	Remove BibTeX metadata: No duplicates. Simple."
+call(["./rm_bibtex_metadata.py","input/simple.bib","input/simple_clean.bib"])
+#os.remove("y-1.bib")
+
+print "-	-	-	-	-	-	-	-"
+print "	=>	Remove BibTeX metadata: No duplicates. Extensive."
+call(["./rm_bibtex_metadata.py","input/no_duplicate_bibtex_keys.bib","input/no_duplicate_bibtex_keys_clean.bib"])
+
+
+
 print "##################################################"
 print "==>>	End automated regression testing."
 print ""

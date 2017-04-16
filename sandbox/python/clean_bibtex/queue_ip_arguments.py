@@ -9,11 +9,28 @@
 	
 	Synopsis:
 	Process input arguments for a script to clean BibTeX databases.
+
+
+	Notes/Assumptions:
+	Do not consider the 'Annote' field as a 'standard' BibTeX field.
+
+	Assume that each 'standard' BibTeX field is a single line field.
+
+	If the BibTeX field 'Annote' has multiple lines, only its last
+		line will end with '}}' and that 'Annote' is the last field
+		of the BibTeX entry.
+
+	Revision History:
+	April 14, 2017			Version 0.2, initial build.
 """
+
+__author__ = 'Zhiyang Ong'
+__version__ = '1.0'
+__date__ = 'Apr 14, 2017'
 
 #	The MIT License (MIT)
 
-#	Copyright (c) <2014> <Zhiyang Ong>
+#	Copyright (c) <2014-2017> <Zhiyang Ong>
 
 #	Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -63,8 +80,14 @@ class queue_ip_args:
 	second_input_argument = "Second input argument."
 	#	BibTeX file extension
 	bibtex_f_ext = ".bib"
-	# Set of BibTeX entry types
+	# Set of BibTeX entry types.
 	BibTeX_entry_types = ["article", "book", "booklet", "inbook", "incollection", "inproceedings", "manual", "mastersthesis", "misc", "phdthesis", "proceedings", "techreport", "unpublished"]
+	# Set of BibTeX entry types, with metadata.
+	BibTeX_entry_types = ["@article{", "@book{", "@booklet{", "@inbook{", "@incollection{", "@inproceedings{", "@manual{", "@mastersthesis{", "@misc{", "@phdthesis{", "@proceedings{", "@techreport{", "@unpublished{"]
+	# Set of BibTeX fields.
+	set_of_std_BibTeX_fields = ["	Address = {", "	Author = {", "	Booktitle = {", "	Chapter = {", "	Crossref = {", "	Doi = {", "	Edition = {", "	Editor = {", "	Howpublished = {", "	Institution = {", "	Journal = {", "	Month = {", "	Note = {", "	Number = {", "	Organization = {", "	Pages = {", "	Publisher = {", "	School = {", "	Series = {", "	Title = {", "	Type = {", "	Url = {", "	Volume = {", "	Year = {"]
+	# Set of non-standard BibTeX fields.
+	non_standard_BibTeX_fields = ["	Annote = {", "	Date-Added = {", "	Date-Modified = {", "	Keywords = {", "	Rating = {", "	Read = {", "	Abstract = {", "	Bdsk-Url-", "	Bdsk-File-"]
 	# Index for the script that is currently executed.
 	CURRENT_SCRIPT = "No script is currently being executed." 
 	# "Constant"s for navigating types of help in the "user manual".
@@ -163,15 +186,24 @@ class queue_ip_args:
 			print "./duplicate_BibTeX_entries.py [input BibTeX file] [-h]"
 			print ""
 		elif(queue_ip_args.EXTRACT_BIBTEX_KEYS == queue_ip_args.CURRENT_SCRIPT):
-			print "=	Get user manual of:"+EXTRACT_BIBTEX_KEYS
+			print "=	Get user manual of:"+queue_ip_args.EXTRACT_BIBTEX_KEYS
 		elif(queue_ip_args.UNDEFINED_REFERENCES == queue_ip_args.CURRENT_SCRIPT):
-			print "=	Get user manual of:"+UNDEFINED_REFERENCES
+			print "=	Get user manual of:"+queue_ip_args.UNDEFINED_REFERENCES
 		elif(queue_ip_args.REMOVE_METADATA == queue_ip_args.CURRENT_SCRIPT):
-			print "=	Get user manual of:"+REMOVE_METADATA
+#			print "=	Get user manual of:"+queue_ip_args.REMOVE_METADATA
+			print "==>	'Remove' BibTeX metadata from the input BibTeX database,"
+			print "	by copying data from the input BibTeX database to"
+			print "	the output BibTeX database without copying the"
+			print "	metedata."
+			print ""
+			print "This script can be executed as follows:"
+			print "./rm_bibtex_metadata.py [input BibTeX file] [output BibTeX file] [-h]"
+			print ""
+			queue_ip_args.print_2nd_argument()
 		elif(queue_ip_args.STANDARDIZE_BIBTEX == queue_ip_args.CURRENT_SCRIPT):
-			print "=	Get user manual of:"+STANDARDIZE_BIBTEX
+			print "=	Get user manual of:"+queue_ip_args.STANDARDIZE_BIBTEX
 		elif(queue_ip_args.UNCOMMENT_LATEX == queue_ip_args.CURRENT_SCRIPT):
-			print "=	Get user manual of:"+UNCOMMENT_LATEX
+			print "=	Get user manual of:"+queue_ip_args.UNCOMMENT_LATEX
 		elif(queue_ip_args.VALIDATE_URL_DOI == queue_ip_args.CURRENT_SCRIPT):
 			print "==>	Determine if URL (and DOI) field(s) is(/are)"
 			print "	missing from the BibTeX database."
@@ -181,6 +213,7 @@ class queue_ip_args:
 			print "This script can be executed as follows:"
 			print "./validate_url.py [input BibTeX file] [output BibTeX file] [-h]"
 			print ""
+			queue_ip_args.print_2nd_argument()
 		else:
 			raise Exception("Error in accessing user manual.")
 		queue_ip_args.print_help_option()

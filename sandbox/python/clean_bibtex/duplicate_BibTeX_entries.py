@@ -27,8 +27,12 @@
 	March 14, 2017		Version 0.2	Testing the first argument.
 	March 22, 2017		Version 0.3	Working on second argument.
 	April 7, 2017		Version 0.4	Refactored script.
-
+	April 14, 2017		Version 1.0 Working script release.
 """
+
+__author__ = 'Zhiyang Ong'
+__version__ = '1.0'
+__date__ = 'Apr 14, 2017'
 
 #	The MIT License (MIT)
 

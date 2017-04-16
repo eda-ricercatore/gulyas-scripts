@@ -8,7 +8,7 @@
 
 #	The MIT License (MIT)
 
-#	Copyright (c) <2014-2017> <Zhiyang Ong>
+#	Copyright (c) <2014> <Zhiyang Ong>
 
 #	Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -19,9 +19,6 @@
 #	Email address: echo "cukj -wb- 23wU4X5M589 TROJANS cqkH wiuz2y 0f Mw Stanford" | awk '{ sub("23wU4X5M589","F.d_c_b. ") sub("Stanford","d0mA1n"); print $5, $2, $8; for (i=1; i<=1; i++) print "6\b"; print $9, $7, $6 }' | sed y/kqcbuHwM62z/gnotrzadqmC/ | tr 'q' ' ' | tr -d [:cntrl:] | tr -d 'ir' | tr y "\n"	Che cosa significa?
 
 
-__author__ = 'Zhiyang Ong'
-__version__ = '1.0'
-__date__ = 'Apr 14, 2017'
 
 ###############################################################
 """
@@ -32,10 +29,10 @@ __date__ = 'Apr 14, 2017'
 	
 	subprocess -> call
 				To make system calls.
-
 	time		To measure elapsed time.
 	warnings	Raise warnings.
 	re			Use regular expressions.
+	filecmp		For file comparison. 
 """
 
 import sys
@@ -45,6 +42,7 @@ from subprocess import call
 import time
 import warnings
 import re
+import filecmp
 
 ###############################################################
 #	Module with methods that perform file I/O operations.
@@ -69,6 +67,17 @@ class file_io_operations:
 	@staticmethod
 	def close_file_object(file_obj):
 		file_obj.close()
-
+	# ============================================================
+	#	Method to determine if two files are equivalent.
+	#	@param file1 - Path to a file.
+	#	@param file2 - Path to another file.
+	#	@return a boolean TRUE, if the files are equivalent. Else,
+	#		return FALSE.
+	#	O(n) method, with respect to the number of lines in the
+	#		larger (if the files are different), or either, of the
+	#		files.
+	@staticmethod
+	def file_comparison(file1, file2):
+		return filecmp.cmp(file1,file2,shallow=False)
 
 
