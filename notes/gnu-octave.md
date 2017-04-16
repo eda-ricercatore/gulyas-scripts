@@ -1205,7 +1205,7 @@ A cell array is a container that can contain variables of different
 ####	Cell Array Usage
 
 A cell array can have fields/variables of different sizes.
-	These fields/variables can be indexed, extracted, overwritten
+	These fields/variables can be indexed, added/inserted, overwritten
 	using curly braces \cite[\S6.2.1, pp. 112]{Eaton2016a}.
 	
 **[Note: I do not know if cell arrays (or *struct*s) can include
@@ -1223,7 +1223,7 @@ A nested cell array is hierarchically displayed via *`celldisp()`*,
 
 *`iscell(x)`* determines if *x* is a cell array object.
 	A boolean *true* is returned if *x* is a cell array object.
-	Else, return false \cite[\S6.2.1, pp. 113]{Eaton2016a}.
+	Else, return boolean *false* \cite[\S6.2.1, pp. 113]{Eaton2016a}.
 
 The script [h-multi-dimensionall-cell-array.h](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/gnu-octave/h-multi-dimensionall-cell-array.h) indicates that embedded
 	elements are displayed first, before visiting next cell/field.
@@ -1239,14 +1239,22 @@ A cell array can be created using currently available variables.
 	The empty matrices contained in the cell array can be subsequently 
 	filled with data \cite[\S6.2.2, pp. 114]{Eaton2016a}.
 
+A multi-dimensional cell array can be created using the cell function
+	with a set of positive integers, or a vector of positive integers,
+	that describes its size/dimensions
+	\cite[\S6.2.2, pp. 114]{Eaton2016a}.
 
+Functions that describe the size of an object can also be used to
+	describe the size of a cell array
+	\cite[\S6.2.2, pp. 114]{Eaton2016a}:
++ size(x)
++ length(x)
++ numel(x)
++ rows(x)
++ columns(x)
 
-
-
-
-
-
-
+*`cell(m,n,k,...)`*, or *`cell([m n k ...])`*, are functions to create
+	new cell array objects, with the dimensions *N*M*K*.
 
 ####	Cell Array of Strings
 
