@@ -1254,7 +1254,7 @@ Functions that describe the size of an object can also be used to
 + columns(x)
 
 *`cell(m,n,k,...)`*, or *`cell([m n k ...])`*, are functions to create
-	new cell array objects, with the dimensions *N*M*K*.
+	new cell array objects, with the dimensions *N\*M\*K*.
 
 ####	Cell Array of Strings
 
