@@ -1255,6 +1255,31 @@ Functions that describe the size of an object can also be used to
 
 *`cell(m,n,k,...)`*, or *`cell([m n k ...])`*, are functions to create
 	new cell array objects, with the dimensions *N\*M\*K*.
+	The set of positive integers do not have to be listed as a vector
+	\cite[\S6.2.2, pp. 114]{Eaton2016a}.
+
+Functions to transform numerical arrays, such as matrices, into cell
+	arrays \cite[\S6.2.2, pp. 114-116]{Eaton2016a}:
++ *`c = num2cell(A)`* transforms numerical matrix *A* into cell
+	array *c* \cite[\S6.2.2, pp. 115]{Eaton2016a}.
++ *`c = mat2cell(A,m,n)`*, or *`c = mat2cell(A,d1,d2,...)`*, are
+	functions to transform a matrix *A* into a cell array *c*.
+	Here, *d1,d2, ...* are dimensional arguments corresponding to the
+	dimensions of *A* \cite[\S6.2.2, pp. 115-116]{Eaton2016a}.
++ *`c = cellslices(x,lb,ub,dim)`* maps an array *x* to a cell array
+	of slices based on the index vectors *lb* and *ub*, for lower
+	and upper bounds, respectively.
+	The optional input argument *dim* determines the position of the
+	index. If *dim* is not specified, slice along the first
+	non-singleton [WikipediaContributors2017] dimension
+	\cite[\S6.2.2, pp. 116]{Eaton2016a}.
+
+
+
+####	Indexing Cell Arrays
+
+Extract elements from cell arrays using the *'{'* and *'}'* operators. 
+
 
 ####	Cell Array of Strings
 
@@ -1536,6 +1561,12 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 	Wikipedia contributors, "Class (computer programming)," in {\it Wikipedia, The Free Encyclopedia: Programming constructs}, Wikimedia Foundation, San Francisco, CA, December 1, 2016.
 	
 	Available online at: \url{https://en.wikipedia.org/wiki/Class_(computer_programming)}; last accessed on December 4, 2016.
+
++ [WikipediaContributors2017]
+	
+	Wikipedia contributors, "Singleton (mathematics)," in {\it Wikipedia, The Free Encyclopedia: Basic concepts in set theory}, Wikimedia Foundation, San Francisco, CA, January 7, 2017.
+	
+	Available online at: \url{https://en.wikipedia.org/wiki/Singleton_(mathematics)}; last accessed on April 16, 2017.
 
 + [TheUniversityOfTexasAtAustinStaff2016]
 
