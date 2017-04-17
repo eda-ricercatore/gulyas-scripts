@@ -1278,10 +1278,37 @@ Functions to transform numerical arrays, such as matrices, into cell
 
 ####	Indexing Cell Arrays
 
-Extract elements from cell arrays using the *'{'* and *'}'* operators. 
+Extract elements from cell arrays using the *'{'* and *'}'* operators.
+	These operators enable access to elements of a cell array
+	\cite[\S6.2.3, pp. 116]{Eaton2016a}.
+
+However, "extract or access subarrays, which are still cell
+	arrays," using the *'('* and *')'* operators.
+	These operators enable access to a subarray of a cell array.
+	They enable indexing cell arrays to be like indexing
+	multi-dimensional arrays \cite[\S6.2.3, pp. 116-117]{Eaton2016a}.
+
+Use the empty matrix *'[]'* to delete elements from a cell array,
+	just like *struct* arrays and numerical arrays.
+	This also deletes the *"vector"*/memory??? space for them, in
+	addition to removing the contents of the cell array elements.
+	That said, elements of a cell array can have their contents
+	deleted/removed, without deleting the *"vector"*/memory??? space
+	for them \cite[\S6.2.3, pp. 118]{Eaton2016a}.
+
+These indexing operations operate on the cell array, rather than the
+	objects within the cell array \cite[\S6.2.3, pp. 118]{Eaton2016a}.
+
+The function *`y = cellindexmat(x, varargin)`* allows objects within
+	each cell array entry to be indexed, via matrix indexing
+	\cite[\S6.2.3, pp. 118]{Eaton2016a}.
+
+
 
 
 ####	Cell Array of Strings
+
+Resume here.
 
 
 ####	Cell Array Manipulation
