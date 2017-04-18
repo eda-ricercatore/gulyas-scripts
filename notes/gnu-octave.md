@@ -1308,10 +1308,32 @@ The function *`y = cellindexmat(x, varargin)`* allows objects within
 
 ####	Cell Array of Strings
 
-Resume here.
+The storage of multiple strings in a cell array, in comparison to
+	that of character matrices, has the advantage of storing strings
+	of varying lengths.
+	Character matrices require its strings to be of the same length
+	\cite[\S6.2.4, pp. 118]{Eaton2016a}.
+
+Functions to convert between a cell array of strings and a character
+	matrix are \cite[\S6.2.4, pp. 118-119]{Eaton2016a}:
++ *`char`* and/or *`strvcat`* can transform a cell array of strings
+	into a character matrix \cite[\S6.2.4, pp. 118]{Eaton2016a}. 
++ *`cstr = cellstr(strmat)`* can transform a character matrix into
+	a cell array of strings.
+	This transforms each row of the character matrix *strmat* into
+	an element in *cstr*, while deleting trailing white space in each
+	element \cite[\S6.2.4, pp. 118-119]{Eaton2016a}. 
 
 
-####	Cell Array Manipulation
+
+
+
+
+
+
+
+
+####	Data Processing with Cell Arrays
 
 
 
