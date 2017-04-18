@@ -83,7 +83,7 @@ class queue_ip_args:
 	# Set of BibTeX entry types.
 	BibTeX_entry_types = ["article", "book", "booklet", "inbook", "incollection", "inproceedings", "manual", "mastersthesis", "misc", "phdthesis", "proceedings", "techreport", "unpublished"]
 	# Set of BibTeX entry types, with metadata.
-	BibTeX_entry_types = ["@article{", "@book{", "@booklet{", "@inbook{", "@incollection{", "@inproceedings{", "@manual{", "@mastersthesis{", "@misc{", "@phdthesis{", "@proceedings{", "@techreport{", "@unpublished{"]
+#	BibTeX_entry_types = ["@article{", "@book{", "@booklet{", "@inbook{", "@incollection{", "@inproceedings{", "@manual{", "@mastersthesis{", "@misc{", "@phdthesis{", "@proceedings{", "@techreport{", "@unpublished{"]
 	# Set of BibTeX fields.
 	set_of_std_BibTeX_fields = ["	Address = {", "	Author = {", "	Booktitle = {", "	Chapter = {", "	Crossref = {", "	Doi = {", "	Edition = {", "	Editor = {", "	Howpublished = {", "	Institution = {", "	Journal = {", "	Month = {", "	Note = {", "	Number = {", "	Organization = {", "	Pages = {", "	Publisher = {", "	School = {", "	Series = {", "	Title = {", "	Type = {", "	Url = {", "	Volume = {", "	Year = {"]
 	# Set of non-standard BibTeX fields.
@@ -93,10 +93,11 @@ class queue_ip_args:
 	# "Constant"s for navigating types of help in the "user manual".
 	DUPLICATE_ENTRIES = "duplicate_BibTeX_entries.py"
 	EXTRACT_BIBTEX_KEYS = "extract_citations.py"
-	UNDEFINED_REFERENCES = "not_defined_references.py"
+	KEYWORDS_DISPLAY = "keywords_display.py"
 	REMOVE_METADATA = "rm_bibtex_metadata.py"
 	STANDARDIZE_BIBTEX = "standardize_bibtex_entries.py"
 	UNCOMMENT_LATEX = "uncomment_latex_src_files.py"
+	UNDEFINED_REFERENCES = "not_defined_references.py"
 	VALIDATE_URL_DOI = "validate_url.py"
 	# ============================================================
 	#	Accessor methods.
@@ -200,6 +201,14 @@ class queue_ip_args:
 			print "./rm_bibtex_metadata.py [input BibTeX file] [output BibTeX file] [-h]"
 			print ""
 			queue_ip_args.print_2nd_argument()
+		elif(queue_ip_args.KEYWORDS_DISPLAY == queue_ip_args.CURRENT_SCRIPT):
+			#print "=	Get user manual of:"+queue_ip_args.KEYWORDS_DISPLAY
+			print "==>	Display the sorted list of keywords in the"
+			print "	input BibTeX database."
+			print ""
+			print "This script can be executed as follows:"
+			print "./keywords_display.py [input BibTeX file] [-h]"
+			print ""
 		elif(queue_ip_args.STANDARDIZE_BIBTEX == queue_ip_args.CURRENT_SCRIPT):
 			print "=	Get user manual of:"+queue_ip_args.STANDARDIZE_BIBTEX
 		elif(queue_ip_args.UNCOMMENT_LATEX == queue_ip_args.CURRENT_SCRIPT):

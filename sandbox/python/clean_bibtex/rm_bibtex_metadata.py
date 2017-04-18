@@ -137,16 +137,16 @@ class rm_metadata:
 		for line in ip_f_obj:
 			# Is this line the 1st line of a BibTeX entry?
 			if "@" == line[0]:
-				print "	First line of BibTeX entry."
+#				print "	First line of BibTeX entry."
 				# If the last line of the previous entry ends with '},'
 				if(rm_metadata.print_final_close_curly_brace):
 					# Empty all but the last line of the FIFO queue
 					while(1 < len(fifo_queue)):
 						# Write each line to the output file.
-						print "	Size of FIFO queue:"+str(len(fifo_queue))
+#						print "	Size of FIFO queue:"+str(len(fifo_queue))
 						op_f_obj.write(fifo_queue.pop(0))
 					# For the last line, change '},' to '}}' at the end.
-					print "===	Size of FIFO queue:"+str(len(fifo_queue))
+#					print "===	Size of FIFO queue:"+str(len(fifo_queue))
 					if(1 == len(fifo_queue)):
 						a_str  = fifo_queue.pop(0)
 						# Remove the '\n' character.
@@ -159,7 +159,7 @@ class rm_metadata:
 					# Empty the FIF queue of its contents.
 					while(0 < len(fifo_queue)):
 						# Write each line to the output file.
-						print "	length of FIFO queue:"+str(len(fifo_queue))
+#						print "	length of FIFO queue:"+str(len(fifo_queue))
 						op_f_obj.write(fifo_queue.pop(0))
 				# No, last line of the previous entry ends with '}}'.
 				# Print a blank line to distinguish it from the
@@ -172,20 +172,20 @@ class rm_metadata:
 			elif(rm_metadata.is_std_BibTeX_field(line)):
 				# Enqueue this line to the FIFO queue.
 				fifo_queue.append(line)
-				print "	Line is enqueued."
+#				print "	Line is enqueued."
 				# Yes. Is this the last line of the BibTeX entry?
 				if(rm_metadata.is_last_line(line)):
 					# Yes. Set corresponding flag to True.
 					rm_metadata.print_final_close_curly_brace = False
-					print "	Found last line of BibTeX entry."
+#					print "	Found last line of BibTeX entry."
 		if(rm_metadata.print_final_close_curly_brace):
 			# Empty all but the last line of the FIFO queue
 			while(1 < len(fifo_queue)):
 				# Write each line to the output file.
-				print "	cardinality of FIFO queue:"+str(len(fifo_queue))
+#				print "	cardinality of FIFO queue:"+str(len(fifo_queue))
 				op_f_obj.write(fifo_queue.pop(0))
 				# For the last line, change '},' to '}}' at the end.
-				print "===	cardinality of FIFO queue:"+str(len(fifo_queue))
+#				print "===	cardinality of FIFO queue:"+str(len(fifo_queue))
 				if(1 == len(fifo_queue)):
 					a_str  = fifo_queue.pop(0)
 					# Remove the '\n' character.
@@ -198,7 +198,7 @@ class rm_metadata:
 			# Empty the FIF queue of its contents.
 			while(0 < len(fifo_queue)):
 				# Write each line to the output file.
-				print "	length of FIFO queue:"+str(len(fifo_queue))
+#				print "	length of FIFO queue:"+str(len(fifo_queue))
 				op_f_obj.write(fifo_queue.pop(0))
 	# ============================================================
 	#	Method to determine if a string 'a_str' starts with a

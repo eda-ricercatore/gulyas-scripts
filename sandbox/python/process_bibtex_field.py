@@ -248,3 +248,51 @@ if(0 == len(fifo_queue)):
 	print "List operations work."
 else:
 	print "List operations FAIL!!!"
+
+print "============================================================"
+
+
+esempio = "	Keywords = {industrial R&D, industry best practices, industry best practices awareness, industry standards},\n"
+esempio = esempio.replace("	Keywords = {","")
+esempio = esempio.replace("},\n","")
+print "esempio is now:::"+esempio 
+esempio = esempio.split(", ")
+esempio2 = "coloring books, adult coloring books, academia, industry standards"
+esempio2 = esempio2.split(", ")
+esempio3 = esempio+esempio2
+esempio4 = esempio3.append("qwerty")
+esempio5 = list(set(esempio+esempio2))
+esempio6 = sorted(esempio5)
+print "------------------------------------------------------"
+print "Finally, esempio is:::"
+for elem in esempio:
+	print elem
+print "------------------------------------------------------"
+for elem in esempio2:
+	print elem
+print "------------------------------------------------------"
+for elem in esempio5:
+	print elem
+print "------------------------------------------------------"
+for elem in esempio6:
+	print elem
+
+if not ("academia" in esempio3):
+	print "esempio3 DOES NOT HAVE 'academia'."
+else:
+	print "esempio3 has 'academia'."
+
+if not ("deiwh" in esempio3):
+	print "esempio3 does not have 'deiwh'."
+else:
+	print "esempio3 HAS 'deiwh'."
+
+print "------------------------------------------------------"
+
+#print "size of esempio6 is:"+str(len(esempio6))
+#print "size of esempio6 is:"+len(esempio6)._str_()
+
+a_num = len(esempio6)
+#a_str = str(a_num)
+#print "size of esempio6 is:"+a_str
+print "size of esempio6 is:",a_num

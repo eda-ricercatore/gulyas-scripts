@@ -213,6 +213,37 @@ call(["./rm_bibtex_metadata.py","input/no_duplicate_bibtex_keys.bib","input/no_d
 
 
 
+
+print "##################################################"
+print "=	Testing: rm_bibtex_metadata.py"
+print "-	-	-	-	-	-	-	-"
+print "	=>	Get keywords: With no input arguments."
+call("./keywords_display.py")
+print "-	-	-	-	-	-	-	-"
+print "	=>	Get keywords: Get help (1)."
+call(["./keywords_display.py", "-h"])
+print "-	-	-	-	-	-	-	-"
+print "	=>	Get keywords: Get help (2)."
+call(["./keywords_display.py", "-h dwef"])
+print "-	-	-	-	-	-	-	-"
+print "	=>	Get keywords: Get help (3)."
+call(["./keywords_display.py", "input/simple.bib", "-h"])
+print "-	-	-	-	-	-	-	-"
+print "	=>	Get keywords: With one INVALID input argument."
+call(["./keywords_display.py", "bibewwwq"])
+print "-	-	-	-	-	-	-	-"
+print "	=>	Get keywords: With 1 valid input argument."
+call(["./keywords_display.py", "input/one_bibtex_entry.bib"])
+print "-	-	-	-	-	-	-	-"
+print "	=>	Get keywords: With multiple input arguments."
+call(["./keywords_display.py", "input/simple.bib", "dwefw", "wefewf"])
+
+
+
+
+
+
+
 print "##################################################"
 print "==>>	End automated regression testing."
 print ""

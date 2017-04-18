@@ -126,6 +126,8 @@ class Duplicate_BibTeX_entries_finder:
 				# Increment number of BibTeX entries.
 				Duplicate_BibTeX_entries_finder.num_of_bibtex_entries = Duplicate_BibTeX_entries_finder.num_of_bibtex_entries + 1
 				tokenized_BibTeX_entry = re.split('@|{|,',line)
+#				for i in tokenized_BibTeX_entry:
+#					print i
 				# Is the type of the BibTeX entry valid?
 				if (tokenized_BibTeX_entry[1] in queue_ip_args.BibTeX_entry_types):
 					# Yes. Try adding the BibTeX entry to "set_of_BibTeX_keys".
@@ -134,7 +136,7 @@ class Duplicate_BibTeX_entries_finder:
 					# No. Warn user that the type of BibTeX entry is invalid!
 					temp_str = "Invalid type of BibTeX entry:"+tokenized_BibTeX_entry[1]
 					print temp_str
-					warnings.warn(temp_str)
+					#warnings.warn("Invalid type of BibTeX entry")
 					raise Exception("BibTeX entry has an invalid type!")
 		if (Duplicate_BibTeX_entries_finder.num_of_bibtex_entries != len(Duplicate_BibTeX_entries_finder.set_of_BibTeX_keys)):
 			raise Exception("Mismatch in number of BibTeX entries processed.")
