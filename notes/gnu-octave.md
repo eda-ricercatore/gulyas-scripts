@@ -1386,18 +1386,31 @@ Data in a cell array can be enumerated using
 
 
 
-
-
-
-
-
-
-
-
-
 ### Lists
 
 ####	Comma Separated Lists
+
+For all *GNU Octave* functions, a comma separated list (or *cs-list*)
+	is a fundamental input/return argument type.
+	That is, the set of input arguments and the set of return
+	arguments are both *cs-list*s
+	\cite[\S6.3, pp. 120]{Eaton2016a}.
+
+*cs-list*s can also appear on either side (left or right) of an
+	asignment statement \cite[\S6.3, pp. 120]{Eaton2016a}.
+
+During the initialization/creation of an array (with *[]*) or cell
+	array  (with *{}*), *cs-list*s are also used
+	\cite[\S6.3, pp. 120]{Eaton2016a}.
+
+That said, *cs-list*s cannot be directly manipiulated by users, but
+	can be implicitly manipulated via structure arrays and cell arrays
+	before their conversion into *cs-list*s
+	\cite[\S6.3, pp. 121]{Eaton2016a}.
+
+
+
+
 
 ####	Variable-length argument lists
 
