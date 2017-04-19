@@ -1358,6 +1358,40 @@ By default, stable versions of *GNU Octave* provide support for the
 
 ####	Data Processing with Cell Arrays
 
+Data in a cell array can be enumerated using
+	\cite[\S6.2.4, pp. 119]{Eaton2016a}.:
++ *`for`* loops.
++ "*`cellfun`* function that calls a user-specified function on all
+	elements of a cell array"
++ Convert data into a different container, such as a matrix or
+	a *struct* \cite[\S6.2.4, pp. 119-120]{Eaton2016a}
+	- *`m = cell2mat(c)`* concatenates all elements of the cell array
+		*c* in its transformation into a hyperrectangle.
+		Elements of *c* must be concatenable by the function *`cat`*
+		and can be either of the following types:
+		* numeric
+		* logical 
+		* character matrix
+		* cell arrays
+		* *struct*s
+	- *`cell2struct(cell, fields, dim)`* and
+		*`cell2struct(cell, fields)`* transforms a cell array *cell*
+		into a strucure *struc*.
+		The cardinality of *fields* (number of fields) and the
+		cardinality of *cell* (its number of elements along dimension
+		*dim*) should match.
+		*`numel(fields) == size(cell, dim)`*
+		By default, the optional argument/parameter *dim* has a
+		value of 1.
+
+
+
+
+
+
+
+
+
 
 
 
