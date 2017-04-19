@@ -1324,12 +1324,35 @@ Functions to convert between a cell array of strings and a character
 	an element in *cstr*, while deleting trailing white space in each
 	element \cite[\S6.2.4, pp. 118-119]{Eaton2016a}. 
 
+Since "most functions for string manipulations, provided by default
+	in stable versions of *GNU Octave*, support cell arrays of
+	strings, it is recommended to manipulate a collection/set of
+	strings using cell arrays instead of character matrices
+	\cite[\S6.2.4, pp. 119]{Eaton2016a}. 
 
+By default, stable versions of *GNU Octave* provide support for the
+	following string manipulation functions
+	\cite[\S6.2.4, pp. 119]{Eaton2016a}:
++ *`strcmp(string, cell array of strings)`*
++ *`char`*
++ *`deblank`*
++ *`regexp`*
++ *`regexpi`*
++ *`str2double`*
++ *`strcat`*
++ *`strcmp`*
++ *`strcmpi`*
++ *`strfind`*
++ *`strmatch`*
++ *`strncmp`*
++ *`strncmpi`*
++ *`strtrim`*
++ *`strtrunc`*
++ *`strvcat`*
 
-
-
-
-
+*`iscellstr(cell)`* is a function that returns *true* if each element
+	of the cell array is a character string
+	\cite[\S6.2.4, pp. 119]{Eaton2016a}.
 
 
 
