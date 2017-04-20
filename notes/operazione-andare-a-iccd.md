@@ -1,7 +1,7 @@
 #	Operazione Andare a ICCAD
 
 + Object-oriented programming (OOP)
-	- \S6.1 Structures
+	- \S2,\S7-\S9
 	- \S11.4 Variable-length argument lists
 	- \S11.6-\S11.7 Variable-length return lists
 	- \S11.9 Function files
