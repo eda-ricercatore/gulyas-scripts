@@ -534,7 +534,7 @@ List of built-in data types \cite[\S3 and \S3.1, pp. 39]{Eaton2016a}:
 		It is stored internally by *GNU Octave* as matrices of
 		characters \cite[\S3.1.3, pp. 43]{Eaton2016a}.
 		See [script that determines the data type of various variables](../sandbox/gnu-octave/h-basic-operations.m).
-+ struc, a data structure type:
++ *struct*, a data structure type:
 	Currently, implemented as "an associative array with indices
 	limited to strings" \cite[\S3.1.4, pp. 43]{Eaton2016a}.
 + "an array that can contain all data types"
@@ -1064,7 +1064,7 @@ When I called the function size(x), on a nested *struct* "x", it always
 
 Structures can be created using \cite[\S6.1.3, pp. 104]{Eaton2016a}:
 + the index operator *`.`*
-+ the *`struc`* function
++ the *`struct`* function
 	- The functions accepts pairs of arguments (fieldname, and scalar or
 		cell array) \cite[\S6.1.3, pp. 105-106]{Eaton2016a}
 + dynamic naming *`(var)`*, by using the variable's string value (or
@@ -1079,7 +1079,7 @@ The string used in dynamic naming does not have to be a valid
 	Note that *MATLAB* does not allow dynaming naming to use arbitrary
 	strings \cite[\S6.1.3, pp. 104-105]{Eaton2016a}.
 
-The *`struc`* function requires pairs of arguments
+The *`struct`* function requires pairs of arguments
 \cite[\S6.1.3, pp. 104-107]{Eaton2016a}.
 
 When elements of a *struct* are a mixture of scalar and cell arrays,
@@ -1376,7 +1376,7 @@ Data in a cell array can be enumerated using
 		* *struct*s
 	- *`cell2struct(cell, fields, dim)`* and
 		*`cell2struct(cell, fields)`* transforms a cell array *cell*
-		into a strucure *struc*.
+		into a strucure *struct*.
 		The cardinality of *fields* (number of fields) and the
 		cardinality of *cell* (its number of elements along dimension
 		*dim*) should match.
@@ -1407,6 +1407,10 @@ That said, *cs-list*s cannot be directly manipiulated by users, but
 	can be implicitly manipulated via structure arrays and cell arrays
 	before their conversion into *cs-list*s
 	\cite[\S6.3, pp. 121]{Eaton2016a}.
+
+Transform a structure array, *struct*, into a *cs-list* via dynamic
+	naming with the function *`struct`*. Its dynamic names can be
+	used to retrieve information from the elements of the *cs-list*.
 
 
 
