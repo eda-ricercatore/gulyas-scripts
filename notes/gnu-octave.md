@@ -1409,14 +1409,20 @@ That said, *cs-list*s cannot be directly manipiulated by users, but
 	\cite[\S6.3, pp. 121]{Eaton2016a}.
 
 Transform element of a cell array into a *cs-list* by placing the
-	*`{}`* operators around the cell array.
+	*`{}`* operators around the cell array
+	\cite[\S6.3.1, pp. 121-122]{Eaton2016a}.
 
 Transform a *cs-list* into a cell array by placing the *`[]`*
-	operators around the *cs-list*. 
+	operators around the *cs-list*.
+	This "concatenates" the elements of the *cs-list* into a cell
+	array, by treating with element in the *cs-list* as a
+	field/variable in the cell array
+	\cite[\S6.3.1, pp. 121-122]{Eaton2016a}. 
 
 Transform a structure array, *struct*, into a *cs-list* via dynamic
 	naming with the function *`struct`*. Its dynamic names can be
-	used to retrieve information from the elements of the *cs-list*.
+	used to retrieve information from the elements of the *cs-list*
+	\cite[\S6.3.2, pp. 122]{Eaton2016a}.
 
 
 
