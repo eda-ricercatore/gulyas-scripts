@@ -1408,6 +1408,12 @@ That said, *cs-list*s cannot be directly manipiulated by users, but
 	before their conversion into *cs-list*s
 	\cite[\S6.3, pp. 121]{Eaton2016a}.
 
+Transform element of a cell array into a *cs-list* by placing the
+	*`{}`* operators around the cell array.
+
+Transform a *cs-list* into a cell array by placing the *`[]`*
+	operators around the *cs-list*. 
+
 Transform a structure array, *struct*, into a *cs-list* via dynamic
 	naming with the function *`struct`*. Its dynamic names can be
 	used to retrieve information from the elements of the *cs-list*.
