@@ -1416,13 +1416,21 @@ Transform a *cs-list* into a cell array by placing the *`[]`*
 	operators around the *cs-list*.
 	This "concatenates" the elements of the *cs-list* into a cell
 	array, by treating with element in the *cs-list* as a
-	field/variable in the cell array
+	field/variable (or cell element) in the cell array
 	\cite[\S6.3.1, pp. 121-122]{Eaton2016a}. 
+
+Cell elements of a cell array can be an input argument of a function.
+	Hence, a list of such cell elements can be passed as an input
+	argument to the given function.
+	This is no different from calling the function with each cell
+	element passed to the function as an individual/separate argument
+	\cite[\S6.3.1, pp. 121-122]{Eaton2016a}.  
 
 Transform a structure array, *struct*, into a *cs-list* via dynamic
 	naming with the function *`struct`*. Its dynamic names can be
 	used to retrieve information from the elements of the *cs-list*
 	\cite[\S6.3.2, pp. 122]{Eaton2016a}.
+
 
 
 
