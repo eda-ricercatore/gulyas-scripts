@@ -95,7 +95,7 @@ Functions to find elements and check conditions
 
 Some suggestions for research activities in science and engineering,
 	or any activity that requires reproducible (experimental or
-	computational) results and data analysis are:
+	computational) and replicable results and data analysis are:
 + *`diary` [on | off | filename]*
 	- Function to record executed commands and their output in a
 		separate file named *diary* or *filename* (if specified by
@@ -103,7 +103,7 @@ Some suggestions for research activities in science and engineering,
 	- When called without any input arguments, the current *on/off*
 		diary state is toggled.
 
-
+Note that reproduc
 
 
 
