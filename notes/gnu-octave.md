@@ -95,16 +95,22 @@ Functions to find elements and check conditions
 
 Some suggestions for research activities in science and engineering,
 	or any activity that requires reproducible (experimental or
-	computational) and replicable results and data analysis are:
-+ *`diary` [on | off | filename]*
+	computational) and replicable results
+	\cite{Mailund2017,Gandrud2015,Liberman2015,Gandrud2014,Stodden2014,Geier20XY}
+	and data analysis are:
++ *`diary` [on | off | filename]* \cite[\S2.7.2, Block Comments, pp. 37-38]{Eaton2016a}
 	- Function to record executed commands and their output in a
 		separate file named *diary* or *filename* (if specified by
 		the user). 
 	- When called without any input arguments, the current *on/off*
 		diary state is toggled.
+	- 
 
-Note that reproduc
-
+Note that reproducible research enables published experimental
+	results to be reproduced from raw data.
+	A stronger notion is replicable research that requires the
+	experiment and experimental data analyses to be repeated multiple
+	times \cite{Mailund2017,Gandrud2015,Liberman2015,Gandrud2014,Stodden2014,RunMyCodeAssociationMembers2013,Geier20XY}.
 
 
 
