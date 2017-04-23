@@ -98,7 +98,7 @@ Some suggestions for research activities in science and engineering,
 	computational) and replicable results
 	\cite{Mailund2017,Gandrud2015,Liberman2015,Gandrud2014,Stodden2014,Geier20XY}
 	and data analysis are:
-+ *`diary` [on | off | filename]* \cite[\S2.7.2, Block Comments, pp. 37-38]{Eaton2016a}
++ *`diary` [on | off | filename]* \cite[\S2.4.8, Diary & Echo Commands, pp. 34]{Eaton2016a}
 	- Function to record executed commands and their output in a
 		separate file named *diary* or *filename* (if specified by
 		the user). 
