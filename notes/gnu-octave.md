@@ -104,7 +104,8 @@ Some suggestions for research activities in science and engineering,
 		the user). 
 	- When called without any input arguments, the current *on/off*
 		diary state is toggled.
-	- 
+	- Essentially, it is similar to the "script" function in some
+		UNIX-like operating systems.
 
 Note that reproducible research enables published experimental
 	results to be reproduced from raw data.
