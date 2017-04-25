@@ -106,6 +106,7 @@ Some suggestions for research activities in science and engineering,
 		diary state is toggled.
 	- Essentially, it is similar to the "script" function in some
 		UNIX-like operating systems.
++ *`echo [on | off] [all]`* \cite[\S2.4.8, Diary & Echo Commands, pp. 34]{Eaton2016a}
 
 Note that reproducible research enables published experimental
 	results to be reproduced from raw data.
