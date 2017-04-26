@@ -107,6 +107,15 @@ Some suggestions for research activities in science and engineering,
 	- Essentially, it is similar to the "script" function in some
 		UNIX-like operating systems.
 + *`echo [on | off] [all]`* \cite[\S2.4.8, Diary & Echo Commands, pp. 34]{Eaton2016a}
+	- Function to display commands that are executed, or to mute
+		their display.
+	- Its input arguments are optional.
+	- Without input arguments, it toggles between displaying the
+		commands and muting their display.
+	- The [on | off] input argument enables/disables the display of
+		the commands, respectively.
+	- The [all] input argument is used to indicate the display of
+		commands in all script files and functions.
 
 Note that reproducible research enables published experimental
 	results to be reproduced from raw data.
