@@ -288,7 +288,7 @@ In addition, *GNU Octave* can also raise warnings about things that
 	program.
 
 
-Errors reported by *GNU Octave* for "invalid programs" (???)
+Errors reported by *GNU Octave* for error-causing programs
 	\cite[\S2.5, pp. 35]{Eaton2016a}.
 + Parse errors; that is, syntax errors.
 	- Usually, a caret ('^') is used to indicate the source of the
