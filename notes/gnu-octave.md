@@ -285,7 +285,18 @@ In addition, *GNU Octave* can also raise warnings about things that
 	program should terminate.
 	If the program can still run or be completed correctly, warnings
 	can be raised instead of throwing exceptions to terminate the
-	program. 
+	program.
+
+
+Errors reported by *GNU Octave* for "invalid programs" (???)
+	\cite[\S2.5, pp. 35]{Eaton2016a}.
++ Parse errors; that is, syntax errors.
+	- Usually, a caret ('^') is used to indicate the source of the
+		syntax/parse error.
++ Run-time errors, or evaluation errors.
+	- To debug these run-time errors, examine error messages generated
+		from the innermost error provide a traceback of function calls
+		and enclosing expressions.
 
 ###	Guidelines On Using Errors and Warnings
 
