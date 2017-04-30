@@ -1613,18 +1613,28 @@ That is, the first line of an executable, self-contained *GNU Octave*
 
 The file permissions of such a script in *UNIX*-like operating systems
 	should be changed to make the script executable, using the
-	*`chmod`* command.
+	*`chmod`* command \cite[\S2.6, pp. 36]{Eaton2016a}.
 
 The optional *`-qf`* option disables printing of the normal startup
 	message.
 	It also provides some form of standard behavior/performance across
+	different installations of *GNU Octave*, which can be customized
+	via the *`.octaverc`* file in the home directory.
+	\cite[\S2.6, pp. 36]{Eaton2016a}.
 
 Executable, self-contained *GNU Octave* scripts enable batch
 	processing of data sets \cite[\S2.6, pp. 36]{Eaton2016a}.
 
+Use the built-in function *`argv`* to retrieve the command line
+	arguments passed to the executable *GNU Octave* script
+	\cite[\S2.6, pp. 37]{Eaton2016a}.
+	
+E.g., the following is entered in the command line.
+	./[name-of-GNU-Octave-script].m [ip_arg1] [ip_arg2] ... [ip_argN]
 
-
-
+The input arguments to the aforementioned execution of the script
+	*`./[name-of-GNU-Octave-script].m`* are:
+	*`[ip_arg1] [ip_arg2] ... [ip_argN]`*.
 
 
 
