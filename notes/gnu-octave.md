@@ -1597,6 +1597,13 @@ To automatically generate documentation for *GNU Octave*
 
 
 
+###	Executable and Self-Contained *GNU Octave* Scripts
+
+
+
+
+
+
 
 
 
