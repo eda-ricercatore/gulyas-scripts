@@ -1630,11 +1630,31 @@ Use the built-in function *`argv`* to retrieve the command line
 	\cite[\S2.6, pp. 37]{Eaton2016a}.
 	
 E.g., the following is entered in the command line.
+
 	./[name-of-GNU-Octave-script].m [ip_arg1] [ip_arg2] ... [ip_argN]
 
 The input arguments to the aforementioned execution of the script
 	*`./[name-of-GNU-Octave-script].m`* are:
 	*`[ip_arg1] [ip_arg2] ... [ip_argN]`*.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
