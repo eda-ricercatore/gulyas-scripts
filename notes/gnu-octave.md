@@ -1599,9 +1599,31 @@ To automatically generate documentation for *GNU Octave*
 
 ###	Executable and Self-Contained *GNU Octave* Scripts
 
+To execute self-contained *GNU Octave* scripts, use the UNIX shebang
+	\cite{WikipediaContributors2017a} at the start of the script, so
+	that the rest of the script's initial line would be parsed as an
+	interpreter directive.
+	It runs the specified interpreter program, command-line
+	*GNU Octave*, instead.
+
+That is, the first line of an executable, self-contained *GNU Octave*
+	script should contain the following: 
+	#![location of the command-line *GNU Octave*]
 
 
-
+@misc{WikipediaContributors2017a,
+	Address = {San Francisco, {CA}},
+	Author = {{Wikipedia contributors}},
+	Date-Added = {2014-03-30 00:11:00 +0200},
+	Date-Modified = {2014-03-30 00:11:00 +0200},
+	Howpublished = {Available online in {\it Wikipedia, The Free Encyclopedia: Unix} at: \url{https://en.wikipedia.org/wiki/Shebang_(Unix)}; May 1, 2017 was the last accessed date},
+	Keywords = {UNIX, UNIX shell scripts, scripting languages, scripting},
+	Month = {April 24},
+	Publisher = {Wikimedia Foundation},
+	School = {},
+	Title = {Shebang (Unix)},
+	Url = {https://en.wikipedia.org/wiki/Shebang_(Unix)},
+	Year = {2017}}
 
 
 
