@@ -1651,8 +1651,39 @@ Generally, variable names that begin and end with two consecutive
 	built-in symbolic constants" of *GNU Octave*
 	\cite[\S7, pp. 123]{Eaton2016a}.
 
-When the result of the previous computation is not assigned to a
-	variable, it is assigned to the built-in variable '***ans***'.
+When the result of the previous/last computation (or "most recently
+	computed result")  is not assigned to a variable, it is assigned
+	to the built-in variable '***ans***'
+	\cite[\S7, pp. 123]{Eaton2016a}.
+
+Like other popular scripting languages, such as *Ruby* and *Python*,
+	*GNU Octave* uses static typing.
+	That is, each "variable in *GNU Octave*" has no fixed type
+	\cite[\S7, pp. 123]{Eaton2016a}.
+
+Some functions concerning variables are:
++ *`isvarname(nome)`*
+	- Function that returns a boolean *True* value, if the input
+		argument *nome* is a valid variable name.
+		Else, return *False*.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ###	Expressions
