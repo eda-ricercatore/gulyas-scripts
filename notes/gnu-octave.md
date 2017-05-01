@@ -1652,7 +1652,7 @@ Generally, variable names that begin and end with two consecutive
 	\cite[\S7, pp. 123]{Eaton2016a}.
 
 When the result of the previous computation is not assigned to a
-	variable, it is assigned to the built-in variable ** *'ans'* **
+	variable, it is assigned to the built-in variable ***'ans'***
 
 
 ###	Expressions
