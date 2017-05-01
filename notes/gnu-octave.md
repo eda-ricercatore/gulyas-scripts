@@ -1661,7 +1661,8 @@ Like other popular scripting languages, such as *Ruby* and *Python*,
 	That is, each "variable in *GNU Octave*" has no fixed type
 	\cite[\S7, pp. 123]{Eaton2016a}.
 
-Some functions concerning variables are:
+Some functions concerning variables are
+	\cite[\S7, pp. 123-124]{Eaton2016a}:
 + *`isvarname(nome)`*
 	- Function that returns a boolean *True* value, if the input
 		argument *nome* is a valid variable name.
@@ -1670,9 +1671,14 @@ Some functions concerning variables are:
 	*`eval([varname " = [numeric value]])`* are used to create (a)
 	valid unique variable name(s) from *str*, and define them
 	with numeric value(s) (*[numeric value]*).
-
-
-
+	Any sequence of characters in *str* that is not alphanumeric nor
+	an underscore would be replaced with an underscore. 
+	If *str* begins with a digit, the character *'x'* is added to the
+	beginning of *str* as a prefix. 
+	Also, the function *`genvarname (str, [exclusions])`* would not
+		generate variable names that begin and end with two
+		consecutive underscores ('__'), nor variable names that match
+		keywords or function names.
 
 
 
