@@ -1669,7 +1669,7 @@ Some functions concerning variables are:
 + *`varname = genvarname (str, [exclusions])`* and
 	*`eval([varname " = [numeric value]])`* are used to create (a)
 	valid unique variable name(s) from *str*, and define them
-	with numeric values (*[numeric value]*).
+	with numeric value(s) (*[numeric value]*).
 
 
 
