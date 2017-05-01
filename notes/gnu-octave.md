@@ -1640,6 +1640,19 @@ The input arguments to the aforementioned execution of the script
 
 ###	Variables
 
+A variable name is a sequence of alphanumeric characters and
+	underscores, which does not begin with a digit.
+	It is case sensitive \cite[\S7, pp. 123]{Eaton2016a}.
+
+
+Generally, variable names that begin and end with two consecutive
+	underscores ('__') are reserved for GNU Octave's internal usage.
+	They are used "to access documented internal variables and
+	built-in symbolic constants" of *GNU Octave*
+	\cite[\S7, pp. 123]{Eaton2016a}.
+
+When the result of the previous computation is not assigned to a
+	variable, it is assigned to the built-in variable ** *'ans'* **
 
 
 ###	Expressions
