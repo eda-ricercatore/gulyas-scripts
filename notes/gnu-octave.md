@@ -1725,8 +1725,14 @@ The function *`isglobal(name)`* returns *True* if *name* is a global
 	variable; else, it returns *False*.
 
 
+####	Persistent Variables
 
-
+Declaring a variable as persistent inside a function allows it to
+	keep its value between calls to the aforementioned functions. 
+	This persistent variable is local in scope to the aforementioned
+	function, and is not accessible elsewhere
+	\cite[\S7.2, pp. 126]{Eaton2016a}.
+	
 
 
 ####	Status of Variables
