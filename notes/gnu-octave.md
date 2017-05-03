@@ -1738,9 +1738,16 @@ Declaring a variable as persistent inside a function allows it to
 	The value of a persistent variable can be changed, when the
 	'persistent' keyword is not used in the statement that changes
 	its value.
+	If it is "not initialized to a specific value, it will contain an
+	empty matrix."
+	Hence, before using a persistent variable, it would be prudent
+	to judiciously test if it is an empty matrix before using it.
+	Its value is only reset to its first initialized value, or to an
+	empty matrix, if it is cleared from memory via the *`clear`*
+	function, such as *`clear all`* or *`clear [name_of_persistent_variable]`*.
 	Its behavior is equivalent to that of a static variable in *C*,
 	*C++*, and *Java*
-	\cite[\S7.2, pp. 126]{Eaton2016a}.
+	\cite[\S7.2, pp. 126-127]{Eaton2016a}.
 
 
 
