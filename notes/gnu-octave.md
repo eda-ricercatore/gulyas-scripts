@@ -1706,7 +1706,7 @@ A global variable cannot be initialized to different values on
 	it as a global variable again; see [script to show various usage of global variables](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/gnu-octave/i-variables.m).
 	After the initial assignment of a global variable, subsequent
 	assignment of a global variable to other values must not invoke
-	use of the keyword *'global'*.
+	use of the keyword *'global'* (in these reassignment statements).
 
 
 When a global variable is passed as an input argument during a
