@@ -1701,6 +1701,13 @@ A global variable cannot be initialized to different values on
 		this would also delete all local and global user-defined
 		variables, and functions, from the symbol table
 		\cite[\S7.3, pp. 131]{Eaton2016a}
+	In general, a global variable can be changed to a different value
+	you assign a new value to the global variable, without redeclaring
+	it as a global variable again; see [script to show various usage of global variables](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/gnu-octave/i-variables.m).
+	After the initial assignment of a global variable, subsequent
+	assignment of a global variable to other values must not invoke
+	use of the keyword *'global'*.
+
 
 When a global variable is passed as an input argument during a
 	function call, a local copy of the global variable will be made
@@ -1708,8 +1715,15 @@ When a global variable is passed as an input argument during a
 	The local copy, which is a local variable, can be initialized to
 	a value different from the global variable; the global variable
 	has a value that remains unchanged.
-	The global variable can be 
-	; see [script to show various usage of global variables](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/gnu-octave/i-variables.m)
+	The global variable can be changed to a different value when it
+	is declared as a global variable in the body of a function;
+	see [script to show various usage of global variables](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/gnu-octave/i-variables.m)
+
+
+
+
+
+
 
 
 ####	Status of Variables

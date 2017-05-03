@@ -55,7 +55,7 @@ foo()
 printf("=	The value of 'x' is (5): %d.\n",x)
 global x = 82834
 printf("=	The value of 'x' is (6): %d.\n",x)
-x = 82834
+x = 2933476
 printf("=	The value of 'x' is (7): %d.\n",x)
 
 
@@ -65,11 +65,18 @@ function bar()
 	x = 8213246
 	printf("=	The value of 'x' is (10): %d.\n",x)
 endfunction
+
 printf("=	The value of 'x' is (8): %d.\n",x)
 bar()
 printf("=	The value of 'x' is (11): %d.\n",x)
 
-
+function foobar()
+	x = 312
+	printf("=	The value of 'x' is (13): %d.\n",x)
+endfunction
+printf("=	The value of 'x' is (12): %d.\n",x)
+foobar()
+printf("=	The value of 'x' is (14): %d.\n",x)
 
 
 
