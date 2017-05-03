@@ -1749,6 +1749,8 @@ Declaring a variable as persistent inside a function allows it to
 	*C++*, and *Java*
 	\cite[\S7.2, pp. 126-127]{Eaton2016a}.
 
+The *`mlock`* function should be used 
+\cite[\S7.2, pp. 126-127]{Eaton2016a}.
 
 
 ####	Status of Variables
