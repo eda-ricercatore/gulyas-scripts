@@ -1721,7 +1721,8 @@ When a global variable is passed as an input argument during a
 	is declared as a global variable in the body of a function;
 	see [script to show various usage of global variables](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/gnu-octave/i-variables.m).
 
-
+The function *`isglobal(name)`* returns *True* if *name* is a global
+	variable; else, it returns *False*.
 
 
 
