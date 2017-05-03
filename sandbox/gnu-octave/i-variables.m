@@ -77,6 +77,36 @@ endfunction
 printf("=	The value of 'x' is (12): %d.\n",x)
 foobar()
 printf("=	The value of 'x' is (14): %d.\n",x)
+disp("")
+disp("")
+
+function status_update()
+	persistent freq = 20;
+	printf("=	status_update() is called %d times.\n",++freq)
+endfunction
+
+function change_persistent_value_fail()
+	persistent call = 70;
+	persistent call = 50;
+	printf("=	change_persistent_value_fail() is called %d times.\n",++call)
+endfunction
+
+function change_persistent_value_pass()
+	persistent pp = 30;
+	pp = pp + 50;
+	printf("=	change_persistent_value_fail() is called %d times.\n",pp)
+endfunction
+
+
+
+for i=1:7
+	status_update()
+	change_persistent_value_fail()
+	change_persistent_value_pass()
+endfor
+
+
+
 
 
 

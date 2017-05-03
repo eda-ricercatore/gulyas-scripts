@@ -1731,9 +1731,17 @@ The function *`isglobal(name)`* returns *True* if *name* is a global
 Declaring a variable as persistent inside a function allows it to
 	keep its value between calls to the aforementioned functions. 
 	This persistent variable is local in scope to the aforementioned
-	function, and is not accessible elsewhere
+	function, and is not accessible elsewhere.
+	It cannot be initialized multiple times.
+	When initialized multiple times with the 'persistent' keyword,
+	only its first instance counts.
+	The value of a persistent variable can be changed, when the
+	'persistent' keyword is not used in the statement that changes
+	its value.
+	Its behavior is equivalent to that of a static variable in *C*,
+	*C++*, and *Java*
 	\cite[\S7.2, pp. 126]{Eaton2016a}.
-	
+
 
 
 ####	Status of Variables
