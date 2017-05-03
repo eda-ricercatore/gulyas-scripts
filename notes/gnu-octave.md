@@ -1719,10 +1719,11 @@ When a global variable is passed as an input argument during a
 	has a value that remains unchanged.
 	The global variable can be changed to a different value when it
 	is declared as a global variable in the body of a function;
-	see [script to show various usage of global variables](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/gnu-octave/i-variables.m).
+	see [script to show various usage of global variables](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/gnu-octave/i-variables.m)
+	\cite[\S7.1, pp. 125]{Eaton2016a}.
 
 The function *`isglobal(name)`* returns *True* if *name* is a global
-	variable; else, it returns *False*.
+	variable; else, it returns *False* \cite[\S7.1, pp. 125]{Eaton2016a}.
 
 
 ####	Persistent Variables
