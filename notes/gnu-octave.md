@@ -1685,14 +1685,42 @@ Some functions concerning variables are
 		than the maximum length of strings in *GNU Octave*, which is
 		(2^{31} - 1).
 
+####	Global Variables
+
+Declare a global variable by placing the keyword *global* before the
+	variable name(s) \cite[\S7.1, pp. 124-125]{Eaton2016a}.
+	E.g., global variable_name1 variable_name2 variable_name3.
+	E.g., global variable_name4 = [a number]
+
+A global variable cannot be initialized to different values on
+	multiple occasions.
+	A global variable will retain the first value that it is
+		initialized to.
+	Use the command *`clear all`* to allow the global variable to be
+		initialized to a different variable \cite[\S7.1, pp. 125]{Eaton2016a};
+		this would also delete all local and global user-defined
+		variables, and functions, from the symbol table
+		\cite[\S7.3, pp. 131]{Eaton2016a}
+
+When a global variable is passed as an input argument during a
+	function call, a local copy of the global variable will be made
+	within the scope of the function call.
+	The local copy, which is a local variable, can be initialized to
+	a value different from the global variable; the global variable
+	has a value that remains unchanged.
+	The global variable can be 
+
+
+####	Status of Variables
 
 
 
-
-
-
-
-
+[Repeat]
+Use the command *`clear all`* to allow the global variable to be
+		initialized to a different variable \cite[\S7.1, pp. 125]{Eaton2016a};
+		this would also delete all local and global user-defined
+		variables, and functions, from the symbol table
+		\cite[\S7.3, pp. 131]{Eaton2016a}
 
 
 
