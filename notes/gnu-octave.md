@@ -1674,13 +1674,16 @@ Some functions concerning variables are
 	Any sequence of characters in *str* that is not alphanumeric nor
 	an underscore would be replaced with an underscore. 
 	If *str* begins with a digit, the character *'x'* is added to the
-	beginning of *str* as a prefix. 
+	beginning of *str * as a prefix. 
 	Also, the function *`genvarname (str, [exclusions])`* would not
 		generate variable names that begin and end with two
 		consecutive underscores ('__'), nor variable names that match
 		keywords or function names.
-
-
+	*[exclusions]* is an optional string or cell array of strings.  
++ *`namelengthmax()`* returns maximum length of a variable name.
+	This function is compatible with *MATLAB*, is considerably less
+		than the maximum length of strings in *GNU Octave*, which is
+		(2^{31} - 1).
 
 
 
