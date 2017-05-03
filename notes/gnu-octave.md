@@ -1709,6 +1709,7 @@ When a global variable is passed as an input argument during a
 	a value different from the global variable; the global variable
 	has a value that remains unchanged.
 	The global variable can be 
+	; see [script to show various usage of global variables](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/gnu-octave/i-variables.m)
 
 
 ####	Status of Variables
