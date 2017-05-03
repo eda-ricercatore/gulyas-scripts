@@ -1689,8 +1689,10 @@ Some functions concerning variables are
 
 Declare a global variable by placing the keyword *global* before the
 	variable name(s) \cite[\S7.1, pp. 124-125]{Eaton2016a}.
-	E.g., global variable_name1 variable_name2 variable_name3.
-	E.g., global variable_name4 = [a number]
+
+E.g., global variable_name1 variable_name2 variable_name3.
+
+E.g., global variable_name4 = [a number].
 
 A global variable cannot be initialized to different values on
 	multiple occasions.
