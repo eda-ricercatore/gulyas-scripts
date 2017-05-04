@@ -1817,9 +1817,23 @@ There are several functions to determine the status of variables:
 	if *GNU Octave*'s automatic garbage collection (or memory
 	management) fails to provide enough memory space for computation
 	\cite[\S7.3, pp. 131]{Eaton2016a}:
-	- The function *`clear`* allows specified variables (as input
+	- The function *`clear [options] [list of patterns]`* allows specified variables (as input
 		arguments), or all variables, to be removed manually from
-		memory.
+		memory \cite[\S7.3, pp. 131-132]{Eaton2016a}.
+		For each pattern in the *[list of patterns]* optional input
+		argument, it can be described using a simple (formal) grammar
+		for regular expressions (regex), including the use of special
+		characters \cite[\S7.3, pp. 131]{Eaton2016a}.
+		If no pattern is provided as an input argument to the function
+		*`clear`*, *GNU Octave* removes "all user-defined variables
+		(local and global)" "from the symbol table"  
+		\cite[\S7.3, pp. 131]{Eaton2016a}.
+		When at least one pattern is specified as an input argument to
+		the function *`clear`*, *GNU Octave* removes only visible
+		user-defined variables and funtions
+		\cite[\S7.3, pp. 131]{Eaton2016a}.
+		The options allow users to have more control in pattern
+		matching using regular expressions
 		\cite[\S7.3, pp. 131-132]{Eaton2016a}.
 	- The function *`pack`* consolidates memory in *MATLAB*'s
 		workspace, but does nothing in *GNU Octave*, and is provided
