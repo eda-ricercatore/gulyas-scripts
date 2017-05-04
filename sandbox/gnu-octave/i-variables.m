@@ -105,6 +105,8 @@ for i=1:7
 	change_persistent_value_pass()
 endfor
 
+disp("------------------------------------------------------------")
+
 if(exist("pp","var"))
 	disp("	'pp' exists as a variable.")
 else
@@ -113,7 +115,11 @@ endif
 
 
 
-
+if(exist("x","var"))
+	disp("	'x' exists as a variable.")
+else
+	disp("	'x' does not exist as a variable.")
+endif
 
 
 

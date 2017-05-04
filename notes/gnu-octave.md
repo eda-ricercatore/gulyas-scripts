@@ -1804,11 +1804,27 @@ There are several functions to determine the status of variables:
 		representation of information of variables for the
 		*`whos [option] [list of patterns]`* function
 		\cite[\S7.3, pp. 129-130]{Eaton2016a}.
-+ *``*
-
-
-
-
++ Use the function *`exist(name,[type])`* to determine if *name* is
+	declared to be of the type *[type]*. If it is, return *True*.
+	Else, return *False*.
+	The input argument *[type]* is optional. If it is not specified
+	by the user as an input argument, the *GNU Octave* interpreter
+	would check if any variable, built-in function, oct-file, 
+	directory, file (function file specifying a custom function), or
+	class is declared with the name *name* (or is named *name*)
+	\cite[\S7.3, pp. 130-131]{Eaton2016a}.
++ The following functions allow memory to be manually managed, in case
+	if *GNU Octave*'s automatic garbage collection (or memory
+	management) fails to provide enough memory space for computation
+	\cite[\S7.3, pp. 131]{Eaton2016a}:
+	- The function *`clear`* allows specified variables (as input
+		arguments), or all variables, to be removed manually from
+		memory.
+		\cite[\S7.3, pp. 131-132]{Eaton2016a}.
+	- The function *`pack`* consolidates memory in *MATLAB*'s
+		workspace, but does nothing in *GNU Octave*, and is provided
+		as a built-in function for compatibility purposes
+		\cite[\S7.3, pp. 132]{Eaton2016a}.
 
 
 
