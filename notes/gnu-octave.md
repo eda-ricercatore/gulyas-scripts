@@ -1764,10 +1764,33 @@ There are several functions to determine the status of variables:
 		out pattern matching, using the given *[list of patterns]* in
 		the optional input argument, on the set of currently defined
 		variables (in memory).  
+		This function only accepts zero or one option, and does not
+		accept multiple options.
 		For each pattern in the *[list of patterns]* optional input
 		argument, it can be described using a simple (formal) grammar
 		for regular expressions (regex), including the use of special
 		characters \cite[\S7.3, pp. 131]{Eaton2016a}.
+		If patterns are not given as input arguments during a
+		function call of *`who`*, all variables would be listed.
+		Calling the function *`who`* only displays the local variables
+		in the current scope.
+		To list global and local variables, use the *[global]* option.
+		Use the *[-regexp]* option to process the each pattern as a
+		regular expression; the syntax for patterns based on regular
+		expression is equivalent to that for the *`regexp`* function.
+		The *[-file]* option treats the next (optional) input argument 
+		as a filename. Consequently, the specified file is parsed
+		and all of its variables are listed. When this option is
+		invoked, it does not process any input pattern. 
+		\cite[\S7.3, pp. 128]{Eaton2016a}.
+	- *`whos [option] [list of patterns]`* is a function that provides
+		information about the list of "currently defined variables"
+		that matches the specified patterns *[list of patterns]*,
+		which is/are provided as (an) optional input argument(s).
+		Its optional input arguments have the same syntax as 
+
+
+
 
 
 
