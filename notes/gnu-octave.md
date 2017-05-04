@@ -1840,7 +1840,7 @@ There are several functions to determine the status of variables:
 		as a built-in function for compatibility purposes
 		\cite[\S7.3, pp. 132]{Eaton2016a}.
 + The following functions allow users to determine certain information
-	about functions and variables.
+	about functions, variables, operators, keywords, and files.
 	Typically, such functions are more valuable during software
 	development of *GNU Octave*-based programs/scripts than to provide
 	certain information for the *GNU Octave*-based programs/scripts
@@ -1849,8 +1849,12 @@ There are several functions to determine the status of variables:
 		of a variable, function, file, or directory that has a name
 		matching any name in the *[list of names]*.
 		If the user declares the name *name* to be of different types
-		throughout the *GNU Octave*-based program/script, the   
-		Undefined variables will cause an error to be thrown at run time.
+		throughout the *GNU Octave*-based program/script, the visble
+		user-defined variable/function would used/processed.
+		If any of the names in the *[list of names]* does not match
+		an existing variable, function, operator, keyword, or file,
+		it is undefined and it will cause an error to be thrown at
+		run time. See [("commented out") implementation of this in this hyperlinked script](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/gnu-octave/i-variables.m)
 
 
 
