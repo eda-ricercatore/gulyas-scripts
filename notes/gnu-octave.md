@@ -1802,7 +1802,16 @@ There are several functions to determine the status of variables:
 	- *`whos_line_format([new_value],["local"])`* is a function that
 		queries or specifies the format and alignment of the tabular
 		representation of information of variables for the
-		*`whos [option] [list of patterns]`* function.
+		*`whos [option] [list of patterns]`* function
+		\cite[\S7.3, pp. 129-130]{Eaton2016a}.
++ *``*
+
+
+
+
+
+
+
 
 
 
