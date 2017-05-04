@@ -1787,10 +1787,16 @@ There are several functions to determine the status of variables:
 		information about the list of "currently defined variables"
 		that matches the specified patterns *[list of patterns]*,
 		which is/are provided as (an) optional input argument(s).
-		Its optional input arguments have the same syntax as 
-
-
-
+		Its optional input arguments defined according to their
+		equivalent counterparts of the *`who [option] [list of
+		patterns]`* function.
+		Information about the variables fall into the following
+		categories:
+		* Atrribute
+		* Name
+		* Size
+		* Bytes
+		* Class
 
 
 
