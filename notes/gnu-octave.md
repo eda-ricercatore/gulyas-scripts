@@ -1790,14 +1790,19 @@ There are several functions to determine the status of variables:
 		Its optional input arguments defined according to their
 		equivalent counterparts of the *`who [option] [list of
 		patterns]`* function.
-		Information about the variables fall into the following
-		categories:
+		Information presented about the variables fall into the
+		following categories:
 		* Atrribute
 		* Name
 		* Size
 		* Bytes
 		* Class
-
+		This information is presented in a tabular form
+		\cite[\S7.3, pp. 128-129]{Eaton2016a}.
+	- *`whos_line_format([new_value],["local"])`* is a function that
+		queries or specifies the format and alignment of the tabular
+		representation of information of variables for the
+		*`whos [option] [list of patterns]`* function.
 
 
 
