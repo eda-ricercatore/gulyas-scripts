@@ -1845,7 +1845,12 @@ There are several functions to determine the status of variables:
 	development of *GNU Octave*-based programs/scripts than to provide
 	certain information for the *GNU Octave*-based programs/scripts
 	to use during execution.
-	- *`type`*
+	- The function *`type [-q] [list of names]`* displays the content
+		of a variable, function, file, or directory that has a name
+		matching any name in the *[list of names]*.
+		If the user declares the name *name* to be of different types
+		throughout the *GNU Octave*-based program/script, the   
+		Undefined variables will cause an error to be thrown at run time.
 
 
 
