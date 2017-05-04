@@ -1756,7 +1756,15 @@ The *`mlock`* function should be used to retain the value of a
 
 ####	Status of Variables
 
-Functions to determine 
+There are several functions to determine the status of variables: 
++ *`who`* function, and its siblings *`whos`* and *`whos_line_format`*
+	inform the user different information about data in the memory
+	\cite[\S7.3, pp. 127-130]{Eaton2016a}.
+	- *`who [option] [list of patterns]`* is a function that carries
+		out pattern matching, using the given *[list of patterns]* in
+		the optional input argument, on the set of currently defined
+		variables (in memory).  
+		The *[list of patterns]* optional input argument is a cell
 
 
 
