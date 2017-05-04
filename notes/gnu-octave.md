@@ -1844,7 +1844,7 @@ There are several functions to determine the status of variables:
 	Typically, such functions are more valuable during software
 	development of *GNU Octave*-based programs/scripts than to provide
 	certain information for the *GNU Octave*-based programs/scripts
-	to use during execution.
+	to use during execution \cite[\S7.3, pp. 132]{Eaton2016a}.
 	- The function *`type [-q] [list of names]`* displays the content
 		of a variable, function, file, or directory that has a name
 		matching any name in the *[list of names]*.
