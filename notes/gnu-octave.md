@@ -1839,8 +1839,13 @@ There are several functions to determine the status of variables:
 		workspace, but does nothing in *GNU Octave*, and is provided
 		as a built-in function for compatibility purposes
 		\cite[\S7.3, pp. 132]{Eaton2016a}.
-
-
++ The following functions allow users to determine certain information
+	about functions and variables.
+	Typically, such functions are more valuable during software
+	development of *GNU Octave*-based programs/scripts than to provide
+	certain information for the *GNU Octave*-based programs/scripts
+	to use during execution.
+	- *`type`*
 
 
 
