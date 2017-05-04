@@ -1764,7 +1764,10 @@ There are several functions to determine the status of variables:
 		out pattern matching, using the given *[list of patterns]* in
 		the optional input argument, on the set of currently defined
 		variables (in memory).  
-		The *[list of patterns]* optional input argument is a cell
+		For each pattern in the *[list of patterns]* optional input
+		argument, it can be described using a simple (formal) grammar
+		for regular expressions (regex), including the use of special
+		characters \cite[\S7.3, pp. 131]{Eaton2016a}.
 
 
 
