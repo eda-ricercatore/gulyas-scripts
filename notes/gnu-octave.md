@@ -1957,10 +1957,11 @@ To index an *n*-dimensional array with a set of *m*-index tuple, the
 	Cartesian product of the index vectors/ranges/scalars is used
 	to determine the indexed matrix/array element (or range thereof).
 
+######	Side Note on Advanced Indexing
 
-
-
-
+I do not understand the material in the second paragraph of \S8.1.1,
+	Advanced Indexing, on page 137, where each index is less than the 
+	size of the array in the *i*^{th} dimension.
 
 
 

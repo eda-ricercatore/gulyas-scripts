@@ -42,13 +42,14 @@ a_matrix = [8 2 3 18; 5 27 4 8; 7 31 6 97]
 disp("The matrix 'a_matrix' has a size of: 3*4.")
 
 a_matrix(3,2)
-a_matrix(4,3)
 
+%a_matrix(4,3)
+%error: ./i-expressions.m: A(I,J): row index out of bounds; value 4 out of bound 3
 
+a_matrix(7)
 
-
-
-
+a = 13
+a(ones(1,4))
 
 
 
