@@ -1983,7 +1983,12 @@ Indexing can be used for the following types of operations, so that
 	for such resizing with indexing, since this replacement allows
 	fast indexing operations to be done instead of slower
 	resizing operations \cite[\S8.1.1, pp. 137]{Eaton2016a}.
-+ The functions **
++ The functions *`ind = sub2ind(dims,s1,s2,...,sN)`* and
+	*`[s1,s2,...,sN] = sub2ind(dims,ind)`* are dual functions that
+	convert subscripts of a N-dimensional matrix into a series of
+	linear indices, and to convert a series of linear indices into
+	subscripts of a N-dimensional matrix, respectively
+	\cite[\S8.1.1, pp. 137]{Eaton2016a}.
 
 ######	Side Note on Advanced Indexing
 
