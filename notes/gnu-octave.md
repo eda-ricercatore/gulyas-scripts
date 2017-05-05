@@ -2001,12 +2001,17 @@ The function *`isindex(ind,[n])`* is a function that determines if *ind*
 	\cite[\S8.1.1, pp. 137]{Eaton2016a}.
 	
 
+
+
 ######	Side Note on Advanced Indexing
 
 I do not understand the material in the second paragraph of \S8.1.1,
 	Advanced Indexing, on page 137, where each index is less than the 
 	size of the array in the *i*^{th} dimension.
 
+For the case of *(m>n)*, I have experimentally determined that it will
+	result in a array/matrix "index out of bounds" error; see
+	[this script for its implementation](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/gnu-octave/i-expressions.m).
 
 
 
