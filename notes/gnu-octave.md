@@ -382,7 +382,7 @@ If *template* is "a null string ("")," the script/program would
 	
 ###	Difficulties Faced
 
-we cannot raise an error with an identifier. we have tried using
+We cannot raise an error with an identifier. We have tried using
 	a string or a number in vain.
 
 After multiple errors are raised, we cannot increment the value of
@@ -390,7 +390,7 @@ After multiple errors are raised, we cannot increment the value of
 Before an error occurs, the error value is zero.
 Subsequently, it is raised to one.
 
-we have problems using the onCleanup() correctly, without causing
+We have problems using the onCleanup() correctly, without causing
 	errors due to my poor understanding of its function arguments.
 		 
 
@@ -1928,7 +1928,7 @@ When using a single index expression, we can index
 + Vectors, and
 + Multi-dimensional arrays/matrices
 
-we can use *N* indices to index a higher-dimensional (up to *N*
+We can use *N* indices to index a higher-dimensional (up to *N*
 	dimensions) matrix/array.
 	Semicolons are used as delimiters to separate columns from each
 	other, while colons are used to indicate columns or range of
