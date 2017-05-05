@@ -1888,6 +1888,51 @@ There are several functions to determine the status of variables:
 
 ###	Expressions
 
+In *GNU Octave*, an expression is a fundamental component of
+	statements \cite[\S8, pp. 135]{Eaton2016a}.
+
+The value that an expression evaluates to can be
+	\cite[\S8, pp. 135]{Eaton2016a}:
++ Printed
++ Tested, in control statements
++ Stored in variables
++ Passed to functions, in function calls.
++ Used with an assignment operator to assign a new value to a variable. 
+
+
+
+Components, or building blocks, of expressions in *GNU Octave*
+	\cite[\S8, pp. 135]{Eaton2016a}: 
++ Variables
++ Array references
++ Constants
++ Function calls
++ Combinations of these and operators
+
+####	Index Expressions
+
+Use an index expression to \cite[\S8, pp. 135]{Eaton2016a}:
++ Reference selected elements of a matrix/vector
++ Extract selected elements of a matrix/vector
+
+Building blocks, or components, or an index expression:
++ Scalar
++ Vector
++ Range
++ Operator ':' to select entire rows/columns
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
