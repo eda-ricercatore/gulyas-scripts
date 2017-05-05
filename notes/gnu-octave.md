@@ -1949,13 +1949,13 @@ Use the keyword *end* to refer to the last entry of a given dimension
 When an index expression has three numbers separated from each other
 	by colons *start:increment/decrement:end*, it can be used to
 	indicate ranges, such as odd/even elements or the reverse order
-	of a vector/array. 
+	of a vector/array \cite[\S8.1, pp. 135]{Eaton2016a}. 
 
-Advanced Indexing
+#####	Advanced Indexing
 
-
-
-
+To index an *n*-dimensional array with a set of *m*-index tuple, the
+	Cartesian product of the index vectors/ranges/scalars is used
+	to determine the indexed matrix/array element (or range thereof).
 
 
 
