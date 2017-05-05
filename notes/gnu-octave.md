@@ -1870,14 +1870,13 @@ There are several functions to determine the status of variables:
 		\cite[\S7.3, pp. 132]{Eaton2016a}.
 		If the name is undefined, calling the function *`which`* will
 		produce no output; see [its implementation in this *GNU Octave* script](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/gnu-octave/i-variables.m).
+		That said, I am unable to call the function *`which`*
+		successfully with a "name defined [in] a function file",
+		which should result in displaying the filename, too; this
+		remains untested as of now.
 
 
-[Repeat]
-Use the command *`clear all`* to allow the global variable to be
-		initialized to a different variable \cite[\S7.1, pp. 125]{Eaton2016a};
-		this would also delete all local and global user-defined
-		variables, and functions, from the symbol table
-		\cite[\S7.3, pp. 131]{Eaton2016a}
+
 
 
 
