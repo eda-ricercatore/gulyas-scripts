@@ -1957,6 +1957,34 @@ To index an *n*-dimensional array with a set of *m*-index tuple, the
 	Cartesian product of the index vectors/ranges/scalars is used
 	to determine the indexed matrix/array element (or range thereof).
 
+Indexing can be used for the following types of operations, so that
+	performance (i.e., execution time) and memory management can be
+	improved \cite[\S8.1.1, pp. 136-137]{Eaton2016a}:
++ Creating an array, or a matrix, filled with the same value.
+	Using indexing saves the need for multiplication operation.
+	This results in a performance improvement.
++ It also allows a range to be stored more efficiently in memory,
+	since it needs to store a tuple of *(starting value, increment,
+	end value, and total number of values) instead of a vector/matrix
+	that has more than four elements. 
+	This results in better memory management.
+	In addition, its range representation allows the *GNU Octave*
+	interpreter to use more performance-efficient algorithm than
+	its vector/matrix representation
+	\cite[\S8.1.1, pp. 136-137]{Eaton2016a}.
+	- Use the function *`repmat`* to replicate smaller arrays into
+		larger arrays, so that more efficient algorithms can be used
+		on them, rather than slower algorithms for matrix computations
+		\cite[\S8.1.1, pp. 137]{Eaton2016a}.
++ Substitute certain loops with indexing, since this replacement
+	allows fast indexing operations to be done instead of slower
+	looping operations \cite[\S8.1.1, pp. 137]{Eaton2016a}.
++ For procedures that involve matrix/array resizing, substitute loops
+	for such resizing with indexing, since this replacement allows
+	fast indexing operations to be done instead of slower
+	resizing operations \cite[\S8.1.1, pp. 137]{Eaton2016a}.
++ The functions **
+
 ######	Side Note on Advanced Indexing
 
 I do not understand the material in the second paragraph of \S8.1.1,
