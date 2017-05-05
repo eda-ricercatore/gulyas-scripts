@@ -134,6 +134,8 @@ which ret_d
 which wertp
 which freq
 which foobar
+what
+what /Users/zhiyang/Documents/ricerca/gulyas-scripts/sandbox/gnu-octave
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 disp("============================================================")

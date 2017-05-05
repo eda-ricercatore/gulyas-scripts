@@ -1874,9 +1874,13 @@ There are several functions to determine the status of variables:
 		successfully with a "name defined [in] a function file",
 		which should result in displaying the filename, too; this
 		remains untested as of now.
-
-
-
+	- The function *`what [path to a directory]`* displays the *GNU
+		Octave* files that are in the directory *[path to a directory]*. 
+		*GNU Octave* files are *GNU Octave* scripts (or function files).
+		If this function is called without input arguments, it will
+		display *GNU Octave* files in the current working directory.  
+		See [its implementation in this *GNU Octave* script](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/gnu-octave/i-variables.m)
+		\cite[\S7.3, pp. 132-133]{Eaton2016a}.
 
 
 
