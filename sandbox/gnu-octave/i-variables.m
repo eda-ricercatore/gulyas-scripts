@@ -128,6 +128,9 @@ disp("2-----------------------------------------------------------")
 %type qq
 %	Undefined variables will cause an error to be thrown at run time.
 
+disp("+	+	+	+	+	+")
+which x
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 disp("============================================================")
 disp("	End:	Testing usage of variables.")
