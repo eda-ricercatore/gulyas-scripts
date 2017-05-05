@@ -1868,7 +1868,7 @@ There are several functions to determine the status of variables:
 	- The function *`which [list of names]`* displays the type of
 		each name in the *[list of names]*
 		\cite[\S7.3, pp. 132]{Eaton2016a}.
-		See [its implementation in this *GNU Octave* script](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/gnu-octave/i-variables.m).
+		If the name does not match any definition of  See [its implementation in this *GNU Octave* script](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/gnu-octave/i-variables.m).
 
 
 [Repeat]
