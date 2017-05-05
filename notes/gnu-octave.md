@@ -137,7 +137,7 @@ Note that reproducible research enables published experimental
 ###	Using *Makefile* for Build Automation
 
 For *Makefile*-based build automation for executing/running 
-	*GNU Octave* scripts, I have to do the following:
+	*GNU Octave* scripts, we have to do the following:
 + ./[*filename*]
 	- Requires adding the *UNIX* shebang for *GNU Octave*
 	- Requires using *chmod* (*UNIX* command) to change the file
@@ -188,7 +188,7 @@ For a function-specific script:
 	- E.g., to call function *foo* in a script, the function
 		specified in the file named *foo.m* must be named *foo*.  
 
-When I make a function call, I can use more arguments than specified
+When we make a function call, we can use more arguments than specified
 	as function parameters.
 	The extra arguments are ignored.
 
@@ -382,15 +382,15 @@ If *template* is "a null string ("")," the script/program would
 	
 ###	Difficulties Faced
 
-I cannot raise an error with an identifier. I have tried using
+we cannot raise an error with an identifier. we have tried using
 	a string or a number in vain.
 
-After multiple errors are raised, I cannot increment the value of
+After multiple errors are raised, we cannot increment the value of
 	beep_on_error(), via beep_on_error(new_error_value).
 Before an error occurs, the error value is zero.
 Subsequently, it is raised to one.
 
-I have problems using the onCleanup() correctly, without causing
+we have problems using the onCleanup() correctly, without causing
 	errors due to my poor understanding of its function arguments.
 		 
 
@@ -400,8 +400,8 @@ I have problems using the onCleanup() correctly, without causing
 Specific errors can be caught, if only one potentially error raising
 	operation is placed within the *try* block.
 While **lasterr** and **lasterror** can help me obtain information
-	about it, if I assign that error to a name in the specification
-	of the *catch* block, I can access information about that
+	about it, if we assign that error to a name in the specification
+	of the *catch* block, we can access information about that
 	specific error later \cite[\S10.9, pp. 169]{Eaton2016a}.
 
 
@@ -446,20 +446,20 @@ This allows the symbol table at the point/condition of interruption
 	to be examined, and modified for error location and correction
 	\cite[\S13, pp. 219]{Eaton2016a}. 
 
-**I am skipping the subsections on "Breakpoints" and "Call Stack"
+**We are skipping the subsections on "Breakpoints" and "Call Stack"
 	for the time being.**
 
 ###	Debug Mode Difficulties
 
-I can enter the debug mode using *debug_on_interrupt()*, when I
+We can enter the debug mode using *debug_on_interrupt()*, when we
 	interrupt execution of the *GNU Octave* program/script using
 	*Ctrl-C* on the *Terminal*.
 
-However, I cannot enter the debug mode using warnings, or errors, yet.
+However, we cannot enter the debug mode using warnings, or errors, yet.
 
 ###	Profiling
 
-**I am skipping the subsection on "Profiling" for the time being.**
+**We are skipping the subsection on "Profiling" for the time being.**
 
 
 
@@ -703,9 +703,9 @@ Note that the optional argument `class` in `NA(..., class)`
 	specifies the return type as *"double"* or *"single"*
 	\cite[\S3.1.2, pp. 43]{Eaton2016a}.
 
-Note that `NA != NA`, hence I could not compare the equality of	`NA`
+Note that `NA != NA`, hence we could not compare the equality of	`NA`
 	values using `==` or `!=`.
-Instead, I should use the `isna(x)` function
+Instead, we should use the `isna(x)` function
 	\cite[\S3.1.2, pp. 43]{Eaton2016a}.
 
 `isna(x)` returns a boolean array that indicates which elements of
@@ -1034,7 +1034,7 @@ Use the function *`print_struct_array_contents ()`* to determine or
 	of the *struct* array.
 	If the boolean flag is set to true, the contents of *struct* arrays
 		would be printed \cite[\S6.1.1, pp. 101]{Eaton2016a}.
-	*I have problems using the function
+	*We have problems using the function
 		`print_struct_array_contents()` correctly.*
 
 
@@ -1086,7 +1086,7 @@ To delete elements of a structure array by assigning each of these
 
 #####	Difficulties Faced
 
-When I called the function size(x), on a nested *struct* "x", it always
+When we called the function size(x), on a nested *struct* "x", it always
 	returns the array [1 1] as the size of the nested *struct*.
 	It does not return a set of values that correctly/"correctly"
 	indicates the size of the nested structure.
@@ -1121,7 +1121,7 @@ When elements of a *struct* are a mixture of scalar and cell arrays,
 "To create a *struct* "that has/contains "a cell array as an individual
 	field", wrap it in another cell array
 	\cite[\S6.1.3, pp. 106]{Eaton2016a}.
-	From personal experimentation in [h-structures.m](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/gnu-octave/h-structures.m), when I specify the cell
+	From personal experimentation in [h-structures.m](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/gnu-octave/h-structures.m), when we specify the cell
 		array using square brackets, an instance of the cell array is
 		assigned to each field; curly braces are needed to assign
 		each element in the cell array to each field of the *struct*;
@@ -1165,17 +1165,17 @@ Functions to control the fields of a structure, which can be a nested
 	If a field (e.g., 'field[n]') is provided without a corresponding
 	value (i.e., 'value[n]'), an error will be called for the
 	mismatching number of fields and values.
-	**Note: I have a problem using `setfield()` for structure arrays.
+	**Note: We have a problem using `setfield()` for structure arrays.
 	March 6, 2017: Abandon mission to learn how to do this.**
-	For a single element of a structure array, I can use the normal
+	For a single element of a structure array, we can use the normal
 	`setfield()` function.
 	The technical debt for not knowing how to use `setfield()` for
-	structure arrays is when I have to enumerate elements in a
+	structure arrays is when we have to enumerate elements in a
 	structure array.
 + *`val = getfield (s, field)`* is an access method to obtain the
 	value of the field *field* in the *struct* *s*.
 + *`val = getfield (s, sidx1, field1, fidx1,...)`*
-	**Note: Currently, I have not learnd how to use `getfield()` for
+	**Note: Currently, we have not learnd how to use `getfield()` for
 	structure arrays. March 6, 2017; Technical debt: not being able
 	to easily enumerate elements of a structure array, and the fields
 	of each *struct* in the structure array.**
@@ -1203,7 +1203,7 @@ Functions to control the fields of a structure, which can be a nested
 
 #####	Difficulties Faced
 
-I cannot use the function *`substruct()`*. Also, I cannot use 
+We cannot use the function *`substruct()`*. Also, we cannot use 
 	getfield() nor setfield().
 
 
@@ -1240,7 +1240,7 @@ A cell array can have fields/variables of different sizes.
 	These fields/variables can be indexed, added/inserted, overwritten
 	using curly braces \cite[\S6.2.1, pp. 112]{Eaton2016a}.
 	
-**[Note: I do not know if cell arrays (or *struct*s) can include
+**[Note: We do not know if cell arrays (or *struct*s) can include
 	functions in their containers.]**
 
 A nested cell array is hierarchically displayed via *`celldisp()`*,
@@ -1870,7 +1870,7 @@ There are several functions to determine the status of variables:
 		\cite[\S7.3, pp. 132]{Eaton2016a}.
 		If the name is undefined, calling the function *`which`* will
 		produce no output; see [its implementation in this *GNU Octave* script](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/gnu-octave/i-variables.m).
-		That said, I am unable to call the function *`which`*
+		That said, we am unable to call the function *`which`*
 		successfully with a "name defined [in] a function file",
 		which should result in displaying the filename, too; this
 		remains untested as of now.
@@ -1911,15 +1911,43 @@ Components, or building blocks, of expressions in *GNU Octave*
 
 ####	Index Expressions
 
-Use an index expression to \cite[\S8, pp. 135]{Eaton2016a}:
+Use an index expression to \cite[\S8.1, pp. 135]{Eaton2016a}:
 + Reference selected elements of a matrix/vector
 + Extract selected elements of a matrix/vector
 
-Building blocks, or components, or an index expression:
+Building blocks, or components, or an index expression
+	\cite[\S8.1, pp. 135]{Eaton2016a}:
 + Scalar
 + Vector
 + Range
 + Operator ':' to select entire rows/columns
+
+
+When using a single index expression, we can index
+	\cite[\S8.1, pp. 135]{Eaton2016a}:
++ Vectors, and
++ Multi-dimensional arrays/matrices
+
+we can use *N* indices to index a higher-dimensional (up to *N*
+	dimensions) matrix/array.
+	Semicolons are used as delimiters to separate columns from each
+	other, while colons are used to indicate columns or range of
+	numbers along a column \cite[\S8.1, pp. 135]{Eaton2016a}. 
+
+When we use a single index expression to index a higher-dimensional
+	matrix/array, it would process the matrix/array elements in a
+	column-first order \cite[\S8.1, pp. 135]{Eaton2016a}.
+
+It is not uncommon for multiple index expressions to be equivalent
+	\cite[\S8.1, pp. 135]{Eaton2016a}.
+
+Use the keyword *end* to refer to the last entry of a given dimension
+	of a matrix/array; when this is used in ranges, we do not need to
+	call size()/length()
+
+\cite[\S8.1, pp. 135]{Eaton2016a}
+
+
 
 
 
@@ -2035,7 +2063,7 @@ See [C++ integration; including *GNU Octave* code into a *C++* codebase](https:/
 To integrate *C++* code into a *GNU Octave* codebase, create
 	*oct* files and use them in my codebase.
 
-Alternatively, I can create *Matlab*-compatible *MEX* files
+Alternatively, we can create *Matlab*-compatible *MEX* files
 	and use them in my codebase. 
 
 See [C++ integration; including *GNU Octave* code into a *C++* codebase](https://en.wikipedia.org/wiki/GNU_Octave#C.2B.2B_integration) [WikipediaContributors2016].
