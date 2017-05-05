@@ -1990,6 +1990,17 @@ Indexing can be used for the following types of operations, so that
 	subscripts of a N-dimensional matrix, respectively
 	\cite[\S8.1.1, pp. 137]{Eaton2016a}.
 
+The function *`isindex(ind,[n])`* is a function that determines if *ind*
+	is a valid index.
+	The optional input argument *[n]* is the maximum value of *ind*,
+	which must be a positive integer of the real type, or a logical
+	array.
+	If *ind* is a string, it is converted to a double value before
+	checking if it is a valid index. As long as the string does not
+	contain the *'NULL'* character, it is a valid index
+	\cite[\S8.1.1, pp. 137]{Eaton2016a}.
+	
+
 ######	Side Note on Advanced Indexing
 
 I do not understand the material in the second paragraph of \S8.1.1,
