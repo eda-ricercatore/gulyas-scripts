@@ -1943,13 +1943,15 @@ It is not uncommon for multiple index expressions to be equivalent
 
 Use the keyword *end* to refer to the last entry of a given dimension
 	of a matrix/array; when this is used in ranges, we do not need to
-	call size()/length()
+	call size()/length() to determine the bounds of the array before
+	indexing \cite[\S8.1, pp. 135]{Eaton2016a}.
 
-\cite[\S8.1, pp. 135]{Eaton2016a}
+When an index expression has three numbers separated from each other
+	by colons *start:increment/decrement:end*, it can be used to
+	indicate ranges, such as odd/even elements or the reverse order
+	of a vector/array. 
 
-
-
-
+Advanced Indexing
 
 
 
