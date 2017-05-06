@@ -196,6 +196,15 @@ When we make a function call, we can use more arguments than specified
 Experimentally/Empirically demonstrated in the execution of the
 	*Make* target *torture*. See: [link to sandbox/gnu-octave](../sandbox/gnu-octave).
 
+
+Functions in *GNU Octave* can return multiple values.
+	The values returned from a function call can be assigned to
+	a list of expressions, specifically a list of variable names or
+	index expressions, via a multiple assignment expression
+	\cite[\S8.1.1, pp. 137]{Eaton2016a}.
+
+
+
 ###	Handling Input Arguments/Parameters
 
 The variable *nargin* stores the number of input arguments that are
@@ -1523,8 +1532,10 @@ Techniques for performance improvement
 		* LAPACK
 + "Preallocation: Minimize changing variable class".
 + "Mexing: compiled code"
-
-
++ [Advanced indexing](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/gnu-octave.md#advanced-indexing);
+	not only does this improve performance (i.e., execution time),
+	it can also improve memory management
+	\cite[\S8.1.1, pp. 136-137]{Eaton2016a}.
 
 
 
