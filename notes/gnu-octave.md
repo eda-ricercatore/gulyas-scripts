@@ -2011,6 +2011,47 @@ The function *`isindex(ind,[n])`* is a function that determines if *ind*
 	contain the *'NULL'* character, it is a valid index
 	\cite[\S8.1.1, pp. 137]{Eaton2016a}.
 	
+####	Function Calls
+#####	Function Calls: Call by Value
+
+Currently, functions arguments/parameters cannot be passed by
+	reference.
+	Hence, they have to be passed by value; local copies of such
+	arguments (i.e., variables) are processed by the function, rather
+	than the actual variables.
+	Thus, for passing "constants" as input arguments to functions, we
+	do not have to be concerned if the function would change the value
+	of the "constants" (i.e., variables with fixed values).
+	Also, variables pass as input arguments to functions are not
+	copied, unless the functions have to modify them
+	\cite[\S8.2.1, pp. 140]{Eaton2016a}.
+
+#####	Function Calls: Recursion
+
+*GNU Octave* supports recursive function calls, with the exception of
+	some built-in *GNU Octave* functions (such as *`lsode()`*).
+	Call recursive functions directly or indirectly
+	\cite[\S8.2.2, pp. 141]{Eaton2016a}.
+
+Note that each recursive function should have a base case, so that it
+	can terminate (i.e., not run indefinitely).
+	When a recursive function ends up in infinite recursion, the
+	*GNU Octave* process associated with it must be terminated.
+
+
+
+####	Arithmetic Operators
+
+
+
+
+
+
+
+
+
+
+
 
 
 
