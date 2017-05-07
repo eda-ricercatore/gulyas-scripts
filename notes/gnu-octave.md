@@ -2049,22 +2049,7 @@ Note that each recursive function should have a base case, so that it
 + "element-by-element" operators and functions broadcast
 	- Broadcasting can handle binary operators and fucntions when
 		their size differ.
-		From *GNU Octave 3.6.0*, for arrays/matrices that are of
-		different sizes, "broadcast" the smaller array/matrix across
-		the larger array/matrix.
-		"Broadcasting" enforces the compatible shape rule, such that
-		corresponding array dimensions are equal or one of these
-		dimensions is one.
-		If "corresponding array dimensions are equal", carry out
-		"ordinary element-by-element arithmetic".
-		Else, copy the array with the singleton dimension along that
-		dimension until their shapes are compatible (i.e., this
-		dimension of this array matches that dimension in that array).
-		This copying operation is cosmetic/superficial, so that the
-		binary operator/function can be carried out; no actual
-		copying of data is done in memory.
-		For scalar arrays, broadcast all of its dimensions. 
-		\cite[\S19.2, pp. 491-142]{Eaton2016a}.
+		
 
 
 
