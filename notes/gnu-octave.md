@@ -2047,9 +2047,7 @@ Note that each recursive function should have a base case, so that it
 	and matrices \cite[\S8.3, pp. 141-142]{Eaton2016a}.
 	It includes:
 + "element-by-element" operators and functions broadcast
-	- Broadcasting can handle binary operators and fucntions when
-		their size differ.
-		
+
 
 
 
