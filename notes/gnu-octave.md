@@ -2068,13 +2068,18 @@ Note that each recursive function should have a base case, so that it
 		*`bsxfun`* for forced broadcasting.
 		The preconditions for broadcasting are: two different
 		dimensions and no singleton dimension exists.
-		\cite[\S19.2, pp. 491-142]{Eaton2016a}.
+		Broadcasting is known as binary singleton expansion in
+		*MATLAB*, recycling in *R*, replication, or single-instruction
+		multiple data (SIMD)
+		\cite[\S19.2, pp. 491-494]{Eaton2016a}.
 
+####	Comparison Operators
 
-
-
-
-
+Comparison operators use relational operators to determine the
+	relationship between numeric values for equality (or otherwise).
+	If the comparison is *True*, return one. Else, return zero.
+	For matrix comparison, the comparison is done on an ad hoc basis
+\cite[\S8.4, pp. 491-494]{Eaton2016a}.
 
 
 
