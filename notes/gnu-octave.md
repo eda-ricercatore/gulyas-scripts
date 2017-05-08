@@ -2136,7 +2136,8 @@ Use boolean operators, and nesting via parentheses, to form an
 	\cite[\S8.4, pp. 145]{Eaton2016a}.
 
 Broadcasting rules apply for boolean expressions containing matrix
-	of differing sizes
+	of differing sizes, or for applying a binary operator to an
+	expression involving a scalar and a matrix
 	\cite[\S8.4, pp. 145]{Eaton2016a}.
 
 
