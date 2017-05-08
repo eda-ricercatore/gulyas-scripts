@@ -2062,7 +2062,8 @@ Note that each recursive function should have a base case, so that it
 		dimension of this array matches that dimension in that array).
 		This copying operation is cosmetic/superficial, so that the
 		binary operator/function can be carried out; no actual
-		copying of data is done in memory 
+		copying of data is done in memory.
+		For scalar arrays, broadcast all of its dimensions. 
 		\cite[\S19.2, pp. 491-142]{Eaton2016a}.
 
 
