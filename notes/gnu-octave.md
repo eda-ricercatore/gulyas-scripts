@@ -1537,7 +1537,7 @@ Techniques for performance improvement
 	it can also improve memory management
 	\cite[\S8.1.1, pp. 136-137]{Eaton2016a}.
 + [Broadcasting](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/gnu-octave.md#arithmetic-operators)
-	- Broadcasting can handle binary operators and fucntions when
+	- Broadcasting can handle binary operators and functions when
 		their size differ.
 		From *GNU Octave 3.6.0*, for arrays/matrices that are of
 		different sizes, "broadcast" the smaller array/matrix across
