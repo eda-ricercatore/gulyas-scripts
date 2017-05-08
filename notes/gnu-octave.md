@@ -2065,7 +2065,9 @@ Note that each recursive function should have a base case, so that it
 		copying of data is done in memory.
 		For scalar arrays, broadcast all of its dimensions.
 		For functions without broacasting semantics, use the function
-		*`bsxfun`* for forced broadcasting
+		*`bsxfun`* for forced broadcasting.
+		The preconditions for broadcasting are: two different
+		dimensions and no singleton dimension exists.
 		\cite[\S19.2, pp. 491-142]{Eaton2016a}.
 
 
