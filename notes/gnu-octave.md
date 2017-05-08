@@ -1536,8 +1536,32 @@ Techniques for performance improvement
 	not only does this improve performance (i.e., execution time),
 	it can also improve memory management
 	\cite[\S8.1.1, pp. 136-137]{Eaton2016a}.
-
-
++ [Broadcasting](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/gnu-octave.md#arithmetic-operators)
+	- Broadcasting can handle binary operators and fucntions when
+		their size differ.
+		From *GNU Octave 3.6.0*, for arrays/matrices that are of
+		different sizes, "broadcast" the smaller array/matrix across
+		the larger array/matrix.
+		"Broadcasting" enforces the compatible shape rule, such that
+		corresponding array dimensions are equal or one of these
+		dimensions is one.
+		If "corresponding array dimensions are equal", carry out
+		"ordinary element-by-element arithmetic".
+		Else, copy the array with the singleton dimension along that
+		dimension until their shapes are compatible (i.e., this
+		dimension of this array matches that dimension in that array).
+		This copying operation is cosmetic/superficial, so that the
+		binary operator/function can be carried out; no actual
+		copying of data is done in memory.
+		For scalar arrays, broadcast all of its dimensions.
+		For functions without broacasting semantics, use the function
+		*`bsxfun`* for forced broadcasting.
+		The preconditions for broadcasting are: two different
+		dimensions and no singleton dimension exists.
+		Broadcasting is known as binary singleton expansion in
+		*MATLAB*, recycling in *R*, replication, or single-instruction
+		multiple data (SIMD)
+		\cite[\S19.2, pp. 491-494]{Eaton2016a}.
 
 
 
@@ -2010,7 +2034,24 @@ The function *`isindex(ind,[n])`* is a function that determines if *ind*
 	checking if it is a valid index. As long as the string does not
 	contain the *'NULL'* character, it is a valid index
 	\cite[\S8.1.1, pp. 137]{Eaton2016a}.
-	
+
+
+
+
+######	Side Note on Advanced Indexing
+
+I do not understand the material in the second paragraph of \S8.1.1,
+	Advanced Indexing, on page 137, where each index is less than the 
+	size of the array in the *i*^{th} dimension.
+
+For the case of *(m>n)*, I have experimentally determined that it will
+	result in a array/matrix "index out of bounds" error; see
+	[this script for its implementation](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/gnu-octave/i-expressions.m).
+
+
+
+
+
 ####	Function Calls
 #####	Function Calls: Call by Value
 
@@ -2046,8 +2087,9 @@ Note that each recursive function should have a base case, so that it
 \S8.3 includes a list of arithmetic operators that wpork on scalars
 	and matrices \cite[\S8.3, pp. 141-142]{Eaton2016a}.
 	It includes:
-+ "element-by-element" operators and functions broadcast
-	- Broadcasting can handle binary operators and fucntions when
++ "element-by-element" operators and functions broadcast to handle
+	arithmetic operations on matrices with different sizes.
+	- Broadcasting can handle binary operators and functions when
 		their size differ.
 		From *GNU Octave 3.6.0*, for arrays/matrices that are of
 		different sizes, "broadcast" the smaller array/matrix across
@@ -2078,8 +2120,24 @@ Note that each recursive function should have a base case, so that it
 Comparison operators use relational operators to determine the
 	relationship between numeric values for equality (or otherwise).
 	If the comparison is *True*, return one. Else, return zero.
-	For matrix comparison, the comparison is done on an ad hoc basis
-\cite[\S8.4, pp. 491-494]{Eaton2016a}.
+	For matrix comparison, the comparison is done on an
+	element-by-element basis
+\cite[\S8.4, pp. 145]{Eaton2016a}.
+
+String comparison is done with the function *`strcmp`* instead of the
+	binary comparison operators \cite[\S8.4, pp. 145]{Eaton2016a}.
+
+
+
+####	Boolean Expressions
+
+Use boolean operators, and nesting via parentheses, to form an
+	element-by-element boolean expression
+	\cite[\S8.4, pp. 145]{Eaton2016a}.
+
+Broadcasting rules apply for boolean expressions containing matrix
+	of differing sizes
+	\cite[\S8.4, pp. 145]{Eaton2016a}.
 
 
 
@@ -2087,20 +2145,6 @@ Comparison operators use relational operators to determine the
 
 
 
-
-
-
-
-
-######	Side Note on Advanced Indexing
-
-I do not understand the material in the second paragraph of \S8.1.1,
-	Advanced Indexing, on page 137, where each index is less than the 
-	size of the array in the *i*^{th} dimension.
-
-For the case of *(m>n)*, I have experimentally determined that it will
-	result in a array/matrix "index out of bounds" error; see
-	[this script for its implementation](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/gnu-octave/i-expressions.m).
 
 
 
