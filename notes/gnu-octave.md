@@ -2164,8 +2164,8 @@ For certain uses of boolean expressions, to terminate evaluation of
 	determined," use short-circuit boolean operators instead of 
 	element-by-element boolean operators.
 
-E.g.,  the *&&* and *||* operators are 
-
+E.g.,  the *&&* and *||* operators are short-circuit boolean operators
+	that perform the conjunction and disjunction operations on
 
 
 
