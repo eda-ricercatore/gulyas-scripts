@@ -2135,24 +2135,39 @@ String comparison is done with the function *`strcmp`* instead of the
 
 Use boolean operators, and nesting via parentheses, to form an
 	element-by-element boolean expression
-	\cite[\S8.4, pp. 145]{Eaton2016a}.
+	\cite[\S8.5.1, pp. 146]{Eaton2016a}.
 
 Broadcasting rules apply for boolean expressions containing matrix
 	of differing sizes, or for applying a binary operator to an
 	expression involving a scalar and a matrix
-	\cite[\S8.4, pp. 145]{Eaton2016a}.
+	\cite[\S8.5.1, pp. 147]{Eaton2016a}.
 
 "For the binary element-by-element boolean operators" "to work for
 	matrix-valued operands," subexpressions are evaluated before
 	the expression involving the boolean operator and two
-	subexpressions are evaluated \cite[\S8.5.1, pp. 17]{Eaton2016a}.
+	subexpressions are evaluated \cite[\S8.5.1, pp. 147]{Eaton2016a}.
 
 E.g., the expression *`(subexpression #1) & (subexpression #2)`* is
 	evaluated after *(subexpression #1)* and *(subexpression #2)*
 	are evaluated individually.
 
+When the boolean operators *and(x1,x2,...)* and *or(x1,x2,...)* are
+	applied to multiple matrices, they are applied cumulatively to
+	the input argument list from left to right
+	\cite[\S8.5.1, pp. 147-148]{Eaton2016a}.
+
 
 #####	Short-Circuit Boolean Operators
+
+
+
+
+
+
+
+
+
+
 
 
 
