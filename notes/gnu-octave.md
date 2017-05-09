@@ -2159,12 +2159,12 @@ When the boolean operators *and(x1,x2,...)* and *or(x1,x2,...)* are
 
 #####	Short-Circuit Boolean Operators
 
+For certain uses of boolean expressions, to terminate evaluation of 
+	a boolean expression when the "overall truth value can be 
+	determined," use short-circuit boolean operators instead of 
+	element-by-element boolean operators.
 
-
-
-
-
-
+E.g.,  the *&&* and *||* operators are 
 
 
 
