@@ -2131,6 +2131,8 @@ String comparison is done with the function *`strcmp`* instead of the
 
 ####	Boolean Expressions
 
+#####	Binary Element-by-Element Boolean Operators
+
 Use boolean operators, and nesting via parentheses, to form an
 	element-by-element boolean expression
 	\cite[\S8.4, pp. 145]{Eaton2016a}.
@@ -2140,12 +2142,17 @@ Broadcasting rules apply for boolean expressions containing matrix
 	expression involving a scalar and a matrix
 	\cite[\S8.4, pp. 145]{Eaton2016a}.
 
+"For the binary element-by-element boolean operators" "to work for
+	matrix-valued operands," subexpressions are evaluated before
+	the expression involving the boolean operator and two
+	subexpressions are evaluated \cite[\S8.5.1, pp. 17]{Eaton2016a}.
+
+E.g., the expression *`(subexpression #1) & (subexpression #2)`* is
+	evaluated after *(subexpression #1)* and *(subexpression #2)*
+	are evaluated individually.
 
 
-
-
-
-
+#####	Short-Circuit Boolean Operators
 
 
 
