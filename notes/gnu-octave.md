@@ -2163,12 +2163,16 @@ For certain uses of boolean expressions, to terminate evaluation of
 	a boolean expression when the "overall truth value can be 
 	determined," use short-circuit boolean operators instead of 
 	element-by-element boolean operators.
+	The overall truth value for the expression of a short-circuit
+	boolean operator can be determined before evaluating both
+	operands of the short-circuit boolean operator
+	\cite[\S8.5.2, pp. 148-149]{Eaton2016a}.
 
 E.g.,  the *&&* and *||* operators are short-circuit boolean operators
 	that perform the conjunction and disjunction operations on a set
 	of operators.
 
-
+ 
 
 
 
