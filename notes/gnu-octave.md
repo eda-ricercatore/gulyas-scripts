@@ -2182,8 +2182,35 @@ E.g.,  the *&&* and *||* operators are short-circuit boolean operators
 The functions *`merge(mask, tval, fval)`* and
 	*`merge(mask, tval, fval)`* implements the *if-else* block for
 	*mask*.
-	If *mask* is *True*, it returns *tval*
+	If *mask* is *True*, it returns *tval*; else, it returns *False*
 	\cite[\S8.5.2, pp. 149]{Eaton2016a}.
+
+####	Assignment Expressions
+
+An assignment expression is an expression that allocates a value
+	*val* to a variable *var*.
+	This gives the variable *var* a value of *val*.
+	The sign *'='* is the assignment operator, which causes a variable
+	to be assigned to a (new) value
+	\cite[\S8.6, pp. 149-150]{Eaton2016a}.
+
+The type of a given variable can be changed; the current type of the
+	variable depends on the type of its current value 
+	\cite[\S8.6, pp. 150]{Eaton2016a}.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
