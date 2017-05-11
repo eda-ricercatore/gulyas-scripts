@@ -52,13 +52,16 @@ a = 13
 a(ones(1,4))
 
 
-
-
-
-
-
-
-
+%mask = [false true true false true]
+mask_f = false
+tval = [true false false true true]
+fval = [true true false true false]
+result_mf = merge(mask_f, tval, fval)
+mask_t = true
+result_mt = merge(mask_t, tval, fval)
+disp("------------------------------------------------------------")
+result_iet = ifelse(mask_t, tval, fval)
+result_ief = ifelse(mask_f, tval, fval)
 
 
 

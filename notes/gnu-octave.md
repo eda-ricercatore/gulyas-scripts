@@ -2122,14 +2122,20 @@ Comparison operators use relational operators to determine the
 	If the comparison is *True*, return one. Else, return zero.
 	For matrix comparison, the comparison is done on an
 	element-by-element basis
-\cite[\S8.4, pp. 145]{Eaton2016a}.
+	\cite[\S8.4, pp. 145]{Eaton2016a}.
 
 String comparison is done with the function *`strcmp`* instead of the
 	binary comparison operators \cite[\S8.4, pp. 145]{Eaton2016a}.
 
 
 
+
+
+
 ####	Boolean Expressions
+
+*GNU Octave* does not support the ternary operator *`?:`*
+	\cite[\S8.5.2, pp. 149]{Eaton2016a}.
 
 #####	Binary Element-by-Element Boolean Operators
 
@@ -2172,7 +2178,13 @@ E.g.,  the *&&* and *||* operators are short-circuit boolean operators
 	that perform the conjunction and disjunction operations on a set
 	of operators.
 
- 
+
+The functions *`merge(mask, tval, fval)`* and
+	*`merge(mask, tval, fval)`* implements the *if-else* block for
+	*mask*.
+	If *mask* is *True*, it returns *tval*
+	\cite[\S8.5.2, pp. 149]{Eaton2016a}.
+
 
 
 
