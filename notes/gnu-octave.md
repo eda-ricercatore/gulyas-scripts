@@ -2195,14 +2195,17 @@ An assignment expression is an expression that allocates a value
 	\cite[\S8.6, pp. 149-150]{Eaton2016a}.
 
 The type of a given variable can be changed; the current type of the
-	variable depends on the type of its current value 
+	variable depends on the type of its current value
 	\cite[\S8.6, pp. 150]{Eaton2016a}.
 
+To delete rows and/or columns in matrices and vectors, assign the
+	empty matrix *'[]'* to the row/column (specified with the *':'*)
+	\cite[\S8.6, pp. 150]{Eaton2016a}.
 
-
-
-
-
+Multiple assignments can be concatenated.
+	E.g., the expression *`a = b = c = d = e = 12345`* assigns the
+	value of *12345* to the variables *a*, *b*, *c*, *d*, and *e*
+	\cite[\S8.6, pp. 150]{Eaton2016a}.
 
 
 
