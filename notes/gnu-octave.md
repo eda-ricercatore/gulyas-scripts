@@ -2254,15 +2254,18 @@ Use increment/decrement operators to alter the value of a variable by
 	*`(var) = (var) (±) 1`*, which is the new value of *(var)*.
 	The post- increment/decrement is equivalent to
 	*`(var) = (var) (±) 1`*, and the value of the *(var)* is the old
-	value of *(var)* prior to the increment/decrement operation.
+	value of *(var)* prior to the increment/decrement operation
+	\cite[\S8.7, pp. 152]{Eaton2016a}.
 
 
+####	Operator Precedence
 
-
-
-
-
-
+The operator precedence for *GNU Octave* is listed in 
+	\cite[\S8.8, pp. 152-153]{Eaton2016a}.
+	Also, note that parentheses can be used to modify operator
+	precedence during evaluation of an expression (from left to right,
+	with the exception of assignment operators).
+	Explicit parentheses make the source code more readable.
 
 
 
