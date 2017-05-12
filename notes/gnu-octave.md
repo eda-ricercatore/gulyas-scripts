@@ -2213,7 +2213,8 @@ Multiple assignments can be concatenated.
 	When evaluating an assignment expression between two sets of
 	variables (left and right), the number of variables/values on the
 	left-hand side (LHS) cannot exceed the number of variables/values
-	on the right-hand side (RHS).
+	on the right-hand side (RHS); else the excess variables on the
+	LHS would be undefined in the return list.
 	That said, the cardinality of the LHS set of variables can be
 	smaller than the cardinality of the RHS set of variables.
 	\cite[\S8.6, pp. 150]{Eaton2016a}.
@@ -2268,11 +2269,11 @@ Some information to note are [TheUniversityOfTexasAtAustinStaff2016]:
 + *GNU Octave* allows *"printf"* to print a string to standard output,
 	but *Matlab* does not; for *Matlab*, use *"printf"* to print
 	a string to standard output or to a file (via a "file-handle").
-	array	"MATLAB has no fputs function."
 + *GNU Octave* allows whitespace before the transpose operator, but
 	*Matlab* does not.
 + *GNU Octave* does not require the use of ellipses for line continuation
 	but *Matlab* does.
++ "MATLAB has no fputs function. Call fprintf instead."
 	 
 	Use a backslash "\" to indicate line continuation.
 + *GNU Octave*'s e operators may be rendered unacceptable by
