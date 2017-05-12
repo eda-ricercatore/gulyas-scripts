@@ -2217,9 +2217,14 @@ Multiple assignments can be concatenated.
 	LHS would be undefined in the return list.
 	That said, the cardinality of the LHS set of variables can be
 	smaller than the cardinality of the RHS set of variables.
-	\cite[\S8.6, pp. 150]{Eaton2016a}.
+	If I do not need to use a given return variable of a function, I
+	can use a placehold *`~`* in its place among the return variables
+	on the LHS.
+	Using the placeholder avoids the usage of dymmy variables, which
+	makes the code looker cleaner and is more memory efficient
+	\cite[\S8.6, pp. 150-151]{Eaton2016a}.
 
-
+Use the expression of the form *`(expr1) (op)= (expr2)`*
 
 
 

@@ -47,6 +47,7 @@ function [ret_a,ret_b,ret_c,ret_d] = lib_precondition(number_a, number_b, number
 	printf("Return values: (%d%%,%f,%e,%d).\n\n", ret_a,ret_b,ret_c,ret_d)
 	printf("=	The value of nargout(@histc) is:%d.\n\n", nargout(@histc))
 	printf("=	The value of nargout() is:%d.\n\n", nargout())
+
 %{
 	The following statement cannot work, since variables cannot
 		include the pound symbol.
