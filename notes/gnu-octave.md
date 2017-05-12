@@ -2212,7 +2212,8 @@ Multiple assignments can be concatenated.
 	assigning *b* to *a*.
 	When evaluating an assignment expression between two sets of
 	variables (left and right), the number of variables/values on the
-	left-hand side  
+	left-hand side (LHS) cannot exceed the number of variables/values
+	on the right-hand side (RHS)
 	\cite[\S8.6, pp. 150]{Eaton2016a}.
 
 
