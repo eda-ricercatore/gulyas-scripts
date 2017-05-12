@@ -2227,7 +2227,13 @@ Multiple assignments can be concatenated.
 Use the expression of the form *`(expr1) (op)= (expr2)`* as a shortcut
 	to perform the evaluation of *`(expr1) = (expr1) (op) (expr2)`*.
 	Here, the operator *`(op)=`* can be *`+=`*, *`-=`*, *`*=`*, or
-	*`/=`*
+	*`/=`*.
+	Note that the variable in *(expr1)* has to be defined; e.g.,
+	*`(expr1) = [value]`* assigns the value *`[value]`* to *(expr1)*.
+	If the variable in *(expr1)* is undefined, it will cause an
+	undefined error to occur at run time.
+	Also, note that the following is grammatically not correct, since
+	it will cause a *'parse error'*.
 	\cite[\S8.6, pp. 151]{Eaton2016a}.
 
 
