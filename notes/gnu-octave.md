@@ -2204,7 +2204,11 @@ To delete rows and/or columns in matrices and vectors, assign the
 
 Multiple assignments can be concatenated.
 	E.g., the expression *`a = b = c = d = e = 12345`* assigns the
-	value of *12345* to the variables *a*, *b*, *c*, *d*, and *e*
+	value of *12345* to the variables *a*, *b*, *c*, *d*, and *e*.
+	Multiple expressions are processed from right to left.
+	In the above example, assign *12345* to *e*, followed
+	by assigning *e* to *d*, and so on; it eventually ends with
+	assigning *b* to *a*.  
 	\cite[\S8.6, pp. 150]{Eaton2016a}.
 
 
