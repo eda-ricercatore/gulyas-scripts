@@ -2233,7 +2233,10 @@ Use the expression of the form *`(expr1) (op)= (expr2)`* as a shortcut
 	If the variable in *(expr1)* is undefined, it will cause an
 	undefined error to occur at run time.
 	Also, note that the following is grammatically not correct, since
-	it will cause a *'parse error'*.
+	it will cause a *'parse error'*:
+	*`(expr1) (op)= (expr2) (op)= (expr3)`*.
+	Note that the following is legal:
+	*`(expr1) (op)= ((expr2) (op) (expr3))`*
 	\cite[\S8.6, pp. 151]{Eaton2016a}.
 
 
