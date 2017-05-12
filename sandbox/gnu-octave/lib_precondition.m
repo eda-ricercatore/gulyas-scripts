@@ -2,6 +2,16 @@
 %		preconditions of functions in GNU Octave.
 %
 %
+%
+%	Notes:
+%		Citations/References that use the *LaTeX/BibTeX* notation
+%			are taken from my *BibTeX* database (set of *BibTeX*
+%			entries). 
+%		I cannot find any books on 'programming idioms'.
+%		However, there exists seminal papers on programming idioms
+%			for different topics, such as concurrent systems.
+%
+%
 %	The MIT License (MIT)
 %
 %	Copyright (c) <2016> Zhiyang Ong
@@ -36,7 +46,7 @@ function [ret_a,ret_b,ret_c,ret_d] = lib_precondition(number_a, number_b, number
 	min_numof_inputs = 1
 	max_numof_inputs = 3
 
-	%	Programming idoms for preconditions.
+	%	Programming idoms for preconditions \cite{WikipediaContributors2016k}.
 	if((nargin < min_numof_inputs) || (nargin > max_numof_inputs))
 		disp("=	Call this function with the help option.")
 	endif
