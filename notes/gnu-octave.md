@@ -2213,7 +2213,9 @@ Multiple assignments can be concatenated.
 	When evaluating an assignment expression between two sets of
 	variables (left and right), the number of variables/values on the
 	left-hand side (LHS) cannot exceed the number of variables/values
-	on the right-hand side (RHS)
+	on the right-hand side (RHS).
+	That said, the cardinality of the LHS set of variables can be
+	smaller than the cardinality of the RHS set of variables.
 	\cite[\S8.6, pp. 150]{Eaton2016a}.
 
 
