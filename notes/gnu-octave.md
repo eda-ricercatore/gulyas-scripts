@@ -2084,7 +2084,7 @@ Note that each recursive function should have a base case, so that it
 
 ####	Arithmetic Operators
 
-\S8.3 includes a list of arithmetic operators that wpork on scalars
+\S8.3 includes a list of arithmetic operators that work on scalars
 	and matrices \cite[\S8.3, pp. 141-142]{Eaton2016a}.
 	It includes:
 + "element-by-element" operators and functions broadcast to handle
@@ -2238,6 +2238,21 @@ Use the expression of the form *`(expr1) (op)= (expr2)`* as a shortcut
 	Note that the following is legal:
 	*`(expr1) (op)= ((expr2) (op) (expr3))`*
 	\cite[\S8.6, pp. 151]{Eaton2016a}.
+
+Note that when assignment expressions are included in a boolean
+	expression or comparison expression, it can be confusing to read
+	\cite[\S8.6, pp. 151]{Eaton2016a}.
+
+
+####	Increment Operators
+
+Use increment/decrement operators to alter the value of a variable by
+	*`±1`* before/after the assignment.
+
+
+
+
+
 
 
 
