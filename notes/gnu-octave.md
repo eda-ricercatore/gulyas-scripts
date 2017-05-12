@@ -2265,8 +2265,8 @@ The operator precedence for *GNU Octave* is listed in
 	Also, note that parentheses can be used to modify operator
 	precedence during evaluation of an expression (from left to right,
 	with the exception of assignment operators).
-	Explicit parentheses make the source code more readable.
-
+	Explicit parentheses make the source code more readable
+	\cite[\S8.8, pp. 152]{Eaton2016a}.
 
 
 
