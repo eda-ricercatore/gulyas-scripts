@@ -2224,8 +2224,11 @@ Multiple assignments can be concatenated.
 	makes the code looker cleaner and is more memory efficient
 	\cite[\S8.6, pp. 150-151]{Eaton2016a}.
 
-Use the expression of the form *`(expr1) (op)= (expr2)`*
-
+Use the expression of the form *`(expr1) (op)= (expr2)`* as a shortcut
+	to perform the evaluation of *`(expr1) = (expr1) (op) (expr2)`*.
+	Here, the operator *`(op)=`* can be *`+=`*, *`-=`*, *`*=`*, or
+	*`/=`*
+	\cite[\S8.6, pp. 151]{Eaton2016a}.
 
 
 
