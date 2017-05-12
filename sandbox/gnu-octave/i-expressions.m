@@ -72,7 +72,8 @@ disp("------------------------------------------------------------")
 
 %	Experimenting with placeholders.
 %[u, s, v] = svd([7 3 9; 5 8 2; 4 1 1])
-[rz, ry, rx] = lib_precondition(ia, ib, ic)
+[rz, ry, rx] = lib_precondition(3427.234, 89435, 437)
+[rz1, ry1, rx1] = lib_precondition(56237,4345,32,123, 12,102417)
 %printf("=	The value of nargout is:\d.," nargout(@histc))
 
 

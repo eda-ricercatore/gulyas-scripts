@@ -22,12 +22,22 @@ function [ret_a,ret_b,ret_c,ret_d] = lib_precondition(number_a, number_b, number
 	ret_a = number_c
 	ret_b = number_b
 	ret_c = number_a
+	ret_d = 1000
 
 	printf("Input arguments: d_callee(%d%%,%f,%e).\n", number_a, number_b, number_c)
 	printf("Return values: (%d%%,%f,%e).\n", ret_a,ret_b,ret_c)
-	printf("=	The value of nargout is:\d.," nargout(@histc))
+	printf("=	The value of nargout is:%d.\n", nargout(@histc))
+%{
+	The following statement cannot work, since variables cannot
+		include the pound symbol.
+%}
+%	printf("=	The value of min_#_inputs is:%d.\n", min_#_inputs)
 
-	if(nargin < min_#_inputs || nargin > max_#_inputs)
+	min_numof_inputs = 1
+	max_numof_inputs = 3
+
+	%	Programming idoms for preconditions.
+	if((nargin < min_numof_inputs) || (nargin > max_numof_inputs))
 		disp("=	Call this function with the help option.")
 	endif
 
