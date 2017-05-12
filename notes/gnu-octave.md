@@ -2247,8 +2247,14 @@ Note that when assignment expressions are included in a boolean
 ####	Increment Operators
 
 Use increment/decrement operators to alter the value of a variable by
-	*`±1`* before/after the assignment.
-
+	*`±1`* before (pre- increment/decrement, *`(op)(var)`*) or after
+	(post- increment/decrement, *`(var)(op)`*) the assignment.
+	Here, *`(op)`* can be *`++`* or *`--`*.
+	The pre- increment/decrement is equivalent to
+	*`(var) = (var) (±) 1`*, which is the new value of *(var)*.
+	The post- increment/decrement is equivalent to
+	*`(var) = (var) (±) 1`*, and the value of the *(var)* is the old
+	value of *(var)* prior to the increment/decrement operation.
 
 
 
