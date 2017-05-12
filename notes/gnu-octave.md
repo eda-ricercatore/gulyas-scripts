@@ -329,6 +329,9 @@ These levels of error/exception safety can be partially handled, and the
 	use of guards/invariants is strongly recommended for making the code
 	exception safe.
 
+For preconditions, check the number and type of input parameters
+	\cite[\S9.1, pp. 156]{Eaton2016a}.
+
 In addition, judiciously consider what to do with the semipredicate
 	problem \cite{WikipediaContributors2016e}.
 
@@ -2281,7 +2284,10 @@ Use the function *`eval([try], [catch])`* to evaluate the string
 	*`eval([try], [catch])`* \cite[\S9, pp. 155]{Eaton2016a}.
 
 
-
+If a given variable *fn_name* cannot be determined to be "a function
+	handle, function name in a string, or inline function," the
+	function *`feval([fn_name])`* can be used for safer evaluation
+	of *fn_name* \cite[\S9, pp. 155]{Eaton2016a}.
 
 
 
