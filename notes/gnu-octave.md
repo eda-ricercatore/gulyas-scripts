@@ -2272,6 +2272,29 @@ The operator precedence for *GNU Octave* is listed in
 
 ###	Evaluation
 
+Use the function *`eval([try], [catch])`* to evaluate the string
+	*'[try]'* as a command; should the string *'[try]'* fail to
+	execute as a command, the string *'[catch]'* would be executed
+	as a command.
+	The use of *try-catch* blocks and *unwind_protect/unwind_protect_protect*
+	is recommended as error handling mechanism, instead of
+	*`eval([try], [catch])`* \cite[\S9, pp. 155]{Eaton2016a}.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ###	Statements
 
