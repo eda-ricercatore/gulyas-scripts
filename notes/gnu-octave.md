@@ -2327,10 +2327,12 @@ Types of statements \cite[\S10, pp. 159]{Eaton2016a}:
 	- *`try`* and *`try-catch`* statements 
 	- continuation lines
 
-
-
-
-
+Control statements in *GNU Octave* programs change/modify the flow
+	of execution.
+	Control statements include loops and conditional statements.
+	A control statement can be nested inside another control statement.
+	A control statement begins and ends with special keywords.
+	
 
 
 
