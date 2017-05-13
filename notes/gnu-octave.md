@@ -2350,7 +2350,7 @@ Types of statements \cite[\S10, pp. 159]{Eaton2016a}:
 	- *`try`* and *`try-catch`* statements
 	- continuation lines
 		* ellipsis (*'...'*) for statements
-		* The backslash character *'\\'* is used for "double-quoted
+		* The backslash character '\' is used for "double-quoted
 			string constants."
 
 Control statements in *GNU Octave* programs change/modify the flow
