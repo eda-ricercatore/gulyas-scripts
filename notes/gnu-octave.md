@@ -2324,8 +2324,16 @@ Types of statements \cite[\S10, pp. 159]{Eaton2016a}:
 			switch statements cannot be detected by the *GNU Octave*
 			interpreter.
 			Also, only the list of statements associated with the
-			first case would be executed
+			first case would be executed.
+			The *otherwise* case is optional
+			If the label for a case is a cell array, if the expression
+			for the switch statement matches any element of the cell
+			array, execute the list of statements associated with
+			that case.
+			The label for any case in the *switch* statement can be
 			\cite[\S10.2, pp. 162]{Eaton2016a}.
+		* \cite[\S10.2.1, pp. 162-163]{Eaton2016a} has important
+			notes for implementing *`switch`* statements.
 + other statements
 	- *`break`* statements
 	- *`continue`* statements
