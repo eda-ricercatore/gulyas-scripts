@@ -244,8 +244,8 @@ The variable *nargin* stores the number of input arguments that are
 	\cite[\S11.2, pp. 173]{Eaton2016a}.
 	
 However, if *varargin* is specified as the last argument to a
-		function, *nargin()* (or *nargin(function_name)*) would
-		return a negative value \cite[\S11.2, pp. 173]{Eaton2016a}.
+	function, *nargin()* (or *nargin(function_name)*) would
+	return a negative value \cite[\S11.2, pp. 173]{Eaton2016a}.
 
 
 ### Concepts Experimentally/Empirically Demonstrated, But Unrecorded
@@ -270,7 +270,16 @@ Concepts that are experimentally/empirically demonstrated, but not
 
 
 ###	Variable-length argument lists
-\S11.4
+
+Use a special parameter name *vargin*, instead of a fixed set of
+	parameters, to contain a list of input arguments of variable
+	length \cite[\S11.4, pp. 182-183]{Eaton2016a}.
+
+
+
+
+
+
 
 
 
