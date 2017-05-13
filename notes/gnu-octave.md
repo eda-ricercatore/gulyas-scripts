@@ -1,5 +1,30 @@
 #	Notes About *GNU Octave*
 
++ [Basic Operations for *GNU Octave*](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/gnu-octave.md#basic-operations-for-gnu-octave)
++ [Build Automation for *GNU Octave*](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/gnu-octave.md#build-automation-for-gnu-octave)
++ [Functions](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/gnu-octave.md#functions)
++ [Pseudo-Random Number Generation (PRNG) in *GNU Octave*](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/gnu-octave.md#pseudo-random-number-generation-prng-in-gnu-octave)
++ [Error Management](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/gnu-octave.md#error-management)
++ [Debugging](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/gnu-octave.md#debugging)
++ [Data Types, Including Strings](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/gnu-octave.md#data-types-including-strings)
++ [Information About The Workspace](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/gnu-octave.md#information-about-the-workspace)
++ [Data Containers and Data Structures](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/gnu-octave.md#data-containers-and-data-structures)
++ [Object-Oriented Programming](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/gnu-octave.md#object-oriented-programming)
++ [Performance Improvement](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/gnu-octave.md#performance-improvement)
++ [Miscellaneous](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/gnu-octave.md#miscellaneous)
++ [Compatibility with *Matlab*](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/gnu-octave.md#compatibility-with-matlab)
++ [Enabling Seamless Interoperability Between Programming Languages](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/gnu-octave.md#enabling-seamless-interoperability-between-programming-languages)
++ [References](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/gnu-octave.md#references)
++ [Author Information](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/gnu-octave.md#author-information)
+
+
+
+
+
+
+
+
+
 ##	Basic Operations for *GNU Octave*
 
 See [GNU Octave script executing basic operations](../sandbox/gnu-octave/h-basic-operations.m).
