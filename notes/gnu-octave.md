@@ -273,12 +273,10 @@ Concepts that are experimentally/empirically demonstrated, but not
 
 Use a special parameter name *vargin*, instead of a fixed set of
 	parameters, to contain a list of input arguments of variable
-	length \cite[\S11.4, pp. 182-183]{Eaton2016a}.
-
-
-
-
-
+	length.
+	*vargin* is a cell array that contains all the input arguments,
+	which can be a list of varying length
+	\cite[\S11.4, pp. 182-183]{Eaton2016a}.
 
 
 
@@ -286,6 +284,19 @@ Use a special parameter name *vargin*, instead of a fixed set of
 
 ###	Variable-length return lists
 \S11.6-\S11.7
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
