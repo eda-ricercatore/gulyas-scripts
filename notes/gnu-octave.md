@@ -288,11 +288,13 @@ Ignore input arguments and output/return variables by placing a tilde
 	output/return variable should be during the function call.
 	This allows such input arguments and/or output/return variables
 	to be ignored during the computation of this function
-	\cite[\S11.4, pp. 182-183]{Eaton2016a}.
+	\cite[\S11.5, pp. 184]{Eaton2016a}.
 
 
 
 ###	Variable-length return lists
+
+To allow the return list to be of variable length, 
 \S11.6-\S11.7
 
 
