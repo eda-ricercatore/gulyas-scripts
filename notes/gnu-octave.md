@@ -229,6 +229,11 @@ Functions in *GNU Octave* can return multiple values.
 	\cite[\S8.1.1, pp. 137]{Eaton2016a}.
 
 
+A function can be implemented such that only a subset of the return
+	variables have return values.
+	If this is the case, the return variables without return values
+	would cause a warning \cite[\S11.3, pp. 176]{Eaton2016a}.
+
 
 ###	Handling Input Arguments/Parameters
 
@@ -279,8 +284,8 @@ Concepts that are experimentally/empirically demonstrated, but not
 \S11.9
 \S11.10
 
-A function file (or script file) should only contain one function.
-
+Function files should only contain one function each
+	\cite[\S11.1, pp. 171]{Eaton2016a}.
 
 
 
@@ -2439,7 +2444,7 @@ Some information to note are [TheUniversityOfTexasAtAustinStaff2016]:
 + *GNU Octave* and *Matlab* have compute the product of
 	boolean values differently.
 	- *GNU Octave* usues "prod," and *Matlab* does not.
-+ *GNU Octave* fucntions and variables that do not exist in *Matlab*:
++ *GNU Octave* functions and variables that do not exist in *Matlab*:
 	- nargin
 + *GNU Octave* allows an array of varying-length strings,
 	while *Matlab* does not.
