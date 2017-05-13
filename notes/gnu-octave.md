@@ -264,6 +264,12 @@ Concepts that are experimentally/empirically demonstrated, but not
 
 
 
+###	Variable-length argument lists
+
+
+###	Variable-length return lists
+
+
 
 ###	Function files (and Script Files)
 
@@ -273,6 +279,13 @@ A function file (or script file) should only contain one function.
 
 
 ###	Function Handles, Anonymous Functions, and Inline Functions
+
+
+
+
+
+
+
 
 
 
