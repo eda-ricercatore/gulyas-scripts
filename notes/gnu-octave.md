@@ -2334,6 +2334,9 @@ Types of statements \cite[\S10, pp. 159]{Eaton2016a}:
 			\cite[\S10.2, pp. 162]{Eaton2016a}.
 		* \cite[\S10.2.1, pp. 162-163]{Eaton2016a} has important
 			notes for implementing *`switch`* statements.
+			Cases for the *`switch`* statement are exclusive; and,
+			consequently, each case in the *`switch`* statement must
+			have a non-empty list of statements to execute.
 + other statements
 	- *`break`* statements
 	- *`continue`* statements
