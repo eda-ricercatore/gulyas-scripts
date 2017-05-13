@@ -2317,7 +2317,7 @@ Types of statements \cite[\S10, pp. 159]{Eaton2016a}:
 	- *`while`* loops
 	- *`do-until`* loops
 	- *`for`* loops
-		* This can be applied to structures (via a [value,key] pair)
+		* This can be applied to structures (via a *[value,key]* pair)
 			and cell arrays, in parallel.
 			Also, the conditional expression for the *`for`* loop to
 			keep iterating can be "a range, a row vector, or a
