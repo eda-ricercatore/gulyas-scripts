@@ -2332,9 +2332,12 @@ Control statements in *GNU Octave* programs change/modify the flow
 	Control statements include loops and conditional statements.
 	A control statement can be nested inside another control statement.
 	A control statement begins and ends with special keywords.
-	
+	The body of the control statement is the list of statements
+	between its beginning and end \cite[\S10, pp. 159]{Eaton2016a}.
 
-
+For evaluation of matrices as conditions in conditional statements,
+	the matrices must be non-empty and contain only non-zero elements
+	\cite[\S10.1, pp. 159]{Eaton2016a}.
 
 
 
