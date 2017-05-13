@@ -2314,9 +2314,15 @@ The function *`fail(code, "warning", pattern)`* is explained in
 Types of statements \cite[\S10, pp. 159]{Eaton2016a}:
 + (simple constant) expressions
 + (list of nested) loops
-	*`while`* loops
-	*`do-until`* loops
-	*`for`* loops
+	- *`while`* loops
+	- *`do-until`* loops
+	- *`for`* loops
+		* This can be applied to structures (via a [value,key] pair)
+			and cell arrays, in parallel.
+			Also, the conditional expression for the *`for`* loop to
+			keep iterating can be "a range, a row vector, or a
+			scalar."
+			\cite[\S10.5, pp. 164-165]{Eaton2016a}. 
 + conditional statements
 	- *`if`* statements
 	- *`switch`* statements
