@@ -2289,9 +2289,16 @@ If a given variable *fn_name* cannot be determined to be "a function
 	function *`feval([fn_name])`* can be used for safer evaluation
 	of *fn_name* \cite[\S9, pp. 155]{Eaton2016a}.
 
+Functions that allow arguments to be passed by name (i.e.,
+	pass-by-name style), is analogous to pass-by-reference
+	\cite[\S6.1, pp. 16-19]{Ong2017} in *C++* (and similar languages).
+	They allow variables to be modified in my own context; i.e., I get
+	to decide which symbol table would be used by expressions in
+	functions of the pass-by-name style
+	\cite[\S9.2, pp. 157-158]{Eaton2016a}.
 
-
-
+The function *`fail(code, "warning", pattern)`* is explained in
+	\cite[\SB.1, pp. 863]{Eaton2016a}.
 
 
 
@@ -2303,6 +2310,34 @@ If a given variable *fn_name* cannot be determined to be "a function
 
 
 ###	Statements
+
+Types of statements \cite[\S10, pp. 159]{Eaton2016a}:
++ (simple constant) expressions
++ (list of nested) loops
+	*`while`* loops
+	*`do-until`* loops
+	*`for`* loops
++ conditional statements
+	- *`if`* statements
+	- *`switch`* statements
++ other statements
+	- *`break`* statements
+	- *`continue`* statements
+	- *`unwind_protect`* statements
+	- *`try`* and *`try-catch`* statements 
+	- continuation lines
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
