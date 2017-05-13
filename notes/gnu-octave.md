@@ -2349,7 +2349,9 @@ Types of statements \cite[\S10, pp. 159]{Eaton2016a}:
 	- *`unwind_protect`* statements
 	- *`try`* and *`try-catch`* statements
 	- continuation lines
-		* ellipsis (*'...'*)
+		* ellipsis (*'...'*) for statements
+		* The backslash character *'\'* is used for "double-quoted
+			string constants.
 
 Control statements in *GNU Octave* programs change/modify the flow
 	of execution.
