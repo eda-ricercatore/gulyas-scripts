@@ -281,6 +281,16 @@ Use a special parameter name *vargin*, instead of a fixed set of
 
 
 
+###	Ignoring Input Arguments and Output/Return Variables
+
+Ignore input arguments and output/return variables by placing a tilde
+	symbol *'~'* as a placeholder where the input variable, or
+	output/return variable should be during the function call.
+	This allows such input arguments and/or output/return variables
+	to be ignored during the computation of this function
+	\cite[\S11.4, pp. 182-183]{Eaton2016a}.
+
+
 
 ###	Variable-length return lists
 \S11.6-\S11.7
