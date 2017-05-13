@@ -2320,11 +2320,17 @@ Types of statements \cite[\S10, pp. 159]{Eaton2016a}:
 + conditional statements
 	- *`if`* statements
 	- *`switch`* statements
+		* Duplicate cases (with the same *label* expressions) in
+			switch statements cannot be detected by the *GNU Octave*
+			interpreter.
+			Also, only the list of statements associated with the
+			first case would be executed
+			\cite[\S10.2, pp. 162]{Eaton2016a}.
 + other statements
 	- *`break`* statements
 	- *`continue`* statements
 	- *`unwind_protect`* statements
-	- *`try`* and *`try-catch`* statements 
+	- *`try`* and *`try-catch`* statements
 	- continuation lines
 
 Control statements in *GNU Octave* programs change/modify the flow
