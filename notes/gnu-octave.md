@@ -312,14 +312,15 @@ The function *`[r1,r2,...,rn] = deal(a1,a2,...,an)`* and
 	select/specify entire rows/columns
 	\cite[\S11.6, pp. 185]{Eaton2016a}.
 
+###	Returning from a Function
 
-
-
-
-
-
-
-\S11.6-\S11.7
+A return statement for a user-defined function only consists of the
+	keyword *`return`*. 
+	It returns control to the caller of the function/script immediately.
+	When called at the top level, it is ignored.
+	It is assumed that a return statement exists "at the end of every
+	function definition"
+	\cite[\S11.7, pp. 185-186]{Eaton2016a}.
 
 
 
