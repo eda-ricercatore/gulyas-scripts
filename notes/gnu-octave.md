@@ -301,9 +301,14 @@ To allow the return list to be of variable length, use a special
 	arguments, which can be of varying length
 	\cite[\S11.6, pp. 184-185]{Eaton2016a}.
 
-
-
-
+The function *`[r1,r2,...,rn] = deal(a1,a2,...,an)`* and
+	*`[r1,r2,...,rn] = deal(a)`* copies the input arguments to the
+	corresponding return/output variables.
+	For the first function call, *`ri = ai`*, where
+	*i \in {1,2,...,n}*.
+	For the second function call, *`r1 = r2 = ... = rn = a`*
+	\cite[\S11.6, pp. 184-185]{Eaton2016a}.
+	
 
 
 
