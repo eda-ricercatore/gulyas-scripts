@@ -306,9 +306,12 @@ The function *`[r1,r2,...,rn] = deal(a1,a2,...,an)`* and
 	corresponding return/output variables.
 	For the first function call, *`ri = ai`*, where
 	*i \in {1,2,...,n}*.
-	For the second function call, *`r1 = r2 = ... = rn = a`*
+	For the second function call, *`r1 = r2 = ... = rn = a`*.
+	With comma separated lists, cell arrays, or structures, avoid
+	the function call overhead by using the operator *':'* to
+	select/specify entire rows/columns
 	\cite[\S11.6, pp. 185]{Eaton2016a}.
-	
+
 
 
 
@@ -2060,7 +2063,7 @@ Building blocks, or components, or an index expression
 + Scalar
 + Vector
 + Range
-+ Operator ':' to select entire rows/columns
++ Operator *':'* to select entire rows/columns
 
 
 When using a single index expression, we can index
