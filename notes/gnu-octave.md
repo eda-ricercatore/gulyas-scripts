@@ -342,7 +342,6 @@ Default values for input arguments of functions can be assigned in
 
 
 ###	Function files
-\S11.9
 
 Function files should only contain one function each
 	\cite[\S11.1, pp. 171]{Eaton2016a}.
@@ -350,10 +349,26 @@ Function files should only contain one function each
 	for a function file.
 	The scope of variables in the function file is local, and
 	restricted only to other variables in this function
-	\cite[\S11.10, pp. 198]{Eaton2016a}. 
+	\cite[\S11.10, pp. 198]{Eaton2016a}.
 
 
 
+
+
+
+
+
+
+####	Side Notes About Function Files
+
+When *GNU Octave* encounters an undefined identifier during execution,
+	it will look up the symbol table to search for variables and
+	compiled functions prior to search searching directories specified
+	in its load path \cite[\S11.10, pp. 198]{Eaton2016a} for a
+	function file corresponding to that undefined identifier.
+	*GNU Octave* may reload the file when the time stamp on the file
+	changes or when the current working directory is modified/changed
+	\cite[\S11.9, pp. 187]{Eaton2016a}.
 
 
 
@@ -384,9 +399,12 @@ The command *`source([filename])`* allows commands from the file
 
 
 ###	Function Handles, Anonymous Functions, and Inline Functions
+
 \S11.11
 
-
+####	Function Handles
+####	Anonymous Functions
+####	Inline Functions
 
 
 
