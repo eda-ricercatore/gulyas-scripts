@@ -330,22 +330,12 @@ Default values for input arguments of functions can be assigned in
 	In the declaration of input parameters, default values can be
 	assigned to input parameters (in the input argument list).
 	E.g., *`function function_name(arg1=val1,arg2=val2,...)`* assigns
-	the values of *val1* and *val2* to *val1* and *val2* 
-
-
-
-
+	the values of *val1* and *val2* to *arg1* and *arg2*, respectively. 
+	During the function call of *`function_name(...)`*, if the caller
+	did not provide values for all input arguments, because of the use
+	of *`:`* or missing input arguments, the default values for *arg1*
+	and *arg2* are used instead
 	\cite[\S11.8, pp. 186-187]{Eaton2016a}.
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -356,8 +346,11 @@ Default values for input arguments of functions can be assigned in
 
 Function files should only contain one function each
 	\cite[\S11.1, pp. 171]{Eaton2016a}.
-
-
+	It begins with the keyword *`function`*, which is a requirement
+	for a function file.
+	The scope of variables in the function file is local, and
+	restricted only to other variables in this function
+	\cite[\S11.10, pp. 198]{Eaton2016a}. 
 
 
 
@@ -370,9 +363,24 @@ Function files should only contain one function each
 
 
 ###	Script Files
-\S11.10
+
+A *GNU Octave* script file is a regular file containing a list/sequence
+	of *GNU Octave* commands.
+	That is, it does not begin with the keyword *`function`*, which is
+	a requirement for a function file.
+	The scope of variables in the script file is not restricted to
+	being local.
+	The script file can have definitions for multiple functions, and
+	can load all of them at once; however, only one function can
+	execute at any given instance \cite[\S11.10, pp. 198]{Eaton2016a}.
 
 
+Use the *`path`* function to determine if the script file is in the
+	load path of *GNU Octave* \cite[\S11.10, pp. 198]{Eaton2016a}.
+
+The command *`source([filename])`* allows commands from the file
+	*[filename]* to be parsed and executed
+	\cite[\S11.10, pp. 199]{Eaton2016a}.
 
 
 ###	Function Handles, Anonymous Functions, and Inline Functions
