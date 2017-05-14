@@ -307,7 +307,7 @@ The function *`[r1,r2,...,rn] = deal(a1,a2,...,an)`* and
 	For the first function call, *`ri = ai`*, where
 	*i \in {1,2,...,n}*.
 	For the second function call, *`r1 = r2 = ... = rn = a`*
-	\cite[\S11.6, pp. 184-185]{Eaton2016a}.
+	\cite[\S11.6, pp. 185]{Eaton2016a}.
 	
 
 
