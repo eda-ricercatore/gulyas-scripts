@@ -275,7 +275,7 @@ Use a special parameter name *vargin*, instead of a fixed set of
 	parameters, to contain a list of input arguments of variable
 	length.
 	*vargin* is a cell array that contains all the input arguments,
-	which can be a list of varying length
+	which can be of varying length
 	\cite[\S11.4, pp. 182-183]{Eaton2016a}.
 
 
@@ -294,7 +294,23 @@ Ignore input arguments and output/return variables by placing a tilde
 
 ###	Variable-length return lists
 
-To allow the return list to be of variable length, 
+To allow the return list to be of variable length, use a special
+	parameter name *varargout*, instead of a fixed set of parameters,
+	to contain a cell array of return/output variables.
+	*varargout* is a cell array that contains all the return/output
+	arguments, which can be of varying length
+	\cite[\S11.6, pp. 184-185]{Eaton2016a}.
+
+
+
+
+
+
+
+
+
+
+
 \S11.6-\S11.7
 
 
