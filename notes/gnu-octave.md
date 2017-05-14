@@ -323,6 +323,19 @@ A return statement for a user-defined function only consists of the
 	\cite[\S11.7, pp. 185-186]{Eaton2016a}.
 
 
+###	Default Arguments for Functions
+
+Default values for input arguments of functions can be assigned in
+	the function definition. 
+	In the declaration of input parameters, default values can be
+	assigned to input parameters (in the input argument list).
+	E.g., *`function function_name(arg1=val1,arg2=val2,...)`* assigns
+	the values of *val1* and *val2* to *val1* and *val2* 
+
+
+
+
+	\cite[\S11.8, pp. 186-187]{Eaton2016a}.
 
 
 
@@ -337,12 +350,28 @@ A return statement for a user-defined function only consists of the
 
 
 
-###	Function files (and Script Files)
+
+###	Function files
 \S11.9
-\S11.10
 
 Function files should only contain one function each
 	\cite[\S11.1, pp. 171]{Eaton2016a}.
+
+
+
+
+
+
+
+
+
+
+
+
+
+###	Script Files
+\S11.10
+
 
 
 
