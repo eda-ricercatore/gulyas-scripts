@@ -351,6 +351,20 @@ Function files should only contain one function each
 	restricted only to other variables in this function
 	\cite[\S11.10, pp. 198]{Eaton2016a}.
 
+The function *`ignore_function_time_stamp("all")`* causes the time
+	stamps for all function files to be ignored
+	\cite[\S11.9, pp. 187]{Eaton2016a}.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
