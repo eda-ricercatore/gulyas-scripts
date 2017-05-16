@@ -371,7 +371,8 @@ Subfunctions are secondary functions that the primary/first function
 	in a function file would call.
 	Its scope is limited to functions in that function file 
 	\cite[\S11.9.2, pp. 192]{Eaton2016a}.
-
+	Here is an example of a [function in a function file](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/gnu-octave/j-main.m)
+	calling [subfunctions](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/gnu-octave/j_subfunctions.m).
 
 
 
