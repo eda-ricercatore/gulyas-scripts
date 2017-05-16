@@ -353,18 +353,24 @@ Function files should only contain one function each
 
 The function *`ignore_function_time_stamp("all")`* causes the time
 	stamps for all function files to be ignored
-	\cite[\S11.9, pp. 187]{Eaton2016a}.
+	\cite[\S11.9, pp. 187,189]{Eaton2016a}.
+	When this function is called with the *"none"* flag, *GNU Octave*
+	would determine if function files need to be recompiled due to
+	changes with the time stamp of files
+	\cite[\S11.9, pp. 189]{Eaton2016a}.
+
+####	Load Path Access and Modification
+
+A list of functions for accessing and modifying the load path is
+	provided in \cite[\S11.9.1, pp. 189-192]{Eaton2016a}.
 
 
+####	Subfunctions
 
-
-
-
-
-
-
-
-
+Subfunctions are secondary functions that the primary/first function
+	in a function file would call.
+	Its scope is limited to functions in that function file 
+	\cite[\S11.9.2, pp. 192]{Eaton2016a}.
 
 
 
