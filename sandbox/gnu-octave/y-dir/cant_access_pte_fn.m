@@ -1,7 +1,7 @@
 #!/opt/local/bin/octave
 
 %	This is written by Zhiyang Ong to test my knowledge of calling
-%		subfunctions in GNU Octave.
+%		private functions (unsuccessfully) in GNU Octave.
 %
 %
 %	The MIT License (MIT)
@@ -21,21 +21,25 @@
 
 %	Preamble.
 %addpath("/Users/zhiyang/Documents/ricerca/gulyas-scripts/dummy")
+%%%%%%%%%%%
+addpath("~/Documents/ricerca/gulyas-scripts/sandbox/gnu-octave/z-dir/hidden")
 
 disp("============================================================")
-disp("	Begin:	Call function that calls subfunctions.")
+disp("	Begin:	Call private function.")
 
 format('long')
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 disp("------------------------------------------------------------")
-disp("	Call functions #1 in function file, with three parameters.")
-[ra,rb] = j_subfunctions(4,9,3,2)
+disp("	Call private function in function file, in vain.")
+[ra,rb] = pte_fn(4,9,3,2)
+%	Oldly, this function works. I don't know why. Fix it!!!
+
 
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 disp("============================================================")
-disp("	End:	Call function that calls subfunctions.")
+disp("	End:	Call private function.")
 

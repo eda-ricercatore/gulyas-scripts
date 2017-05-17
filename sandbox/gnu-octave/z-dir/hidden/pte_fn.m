@@ -1,6 +1,4 @@
-#!/opt/local/bin/octave
-
-%	This is written by Zhiyang Ong to test my knowledge of calling
+%	This is written by Zhiyang Ong to test my implementation of
 %		subfunctions in GNU Octave.
 %
 %
@@ -19,23 +17,32 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-%	Preamble.
-%addpath("/Users/zhiyang/Documents/ricerca/gulyas-scripts/dummy")
+%	Function that calls subfunctions.
+function [ret_a,ret_b] = pte_fn(number_a, number_b, number_c, number_d)
+	disp("=	Called the function 'pte_fn'.")
+	ret_a = pte_fn1(number_a,number_b)
+	ret_b = pte_fn2(number_c,number_d)
+endfunction
 
-disp("============================================================")
-disp("	Begin:	Call function that calls subfunctions.")
+function [ret_val] = pte_fn1(number_a, number_b)
+	disp("=	Called the function 'pte_fn1'.")
+	ret_val = number_a + number_b
+endfunction
 
-format('long')
+function [ret_val] = pte_fn2(number_a, number_b)
+	disp("=	Called the function 'pte_fn2'.")
+	ret_val = number_a * number_b
+	pte_fn3()
+endfunction
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-disp("------------------------------------------------------------")
-disp("	Call functions #1 in function file, with three parameters.")
-[ra,rb] = j_subfunctions(4,9,3,2)
+function pte_fn3()
+	disp("=	Called the function 'pte_fn3'.")	
+endfunction
 
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-disp("============================================================")
-disp("	End:	Call function that calls subfunctions.")
+
+
+
+
 
