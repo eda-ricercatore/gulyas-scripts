@@ -375,7 +375,10 @@ Subfunctions are secondary functions that the primary/first function
 	calling [subfunctions](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/gnu-octave/j_subfunctions.m).
 
 
+####	Private Functions
 
+My [implementation](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/gnu-octave/z-dir) of private functions was unsuccessful.
+	Similarly, my [test case for private functions](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/gnu-octave/y-dir) failed, too.
 
 
 
