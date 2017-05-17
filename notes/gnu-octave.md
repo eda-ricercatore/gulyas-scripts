@@ -380,6 +380,16 @@ Subfunctions are secondary functions that the primary/first function
 My [implementation](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/gnu-octave/z-dir) of private functions was unsuccessful.
 	Similarly, my [test case for private functions](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/gnu-octave/y-dir) failed, too.
 
+####	Nested Functions
+
+Usage of nested functions are strongly discouraged
+	\cite[\S11.9.4, pp. 193]{Eaton2016a}.
+
+
+
+
+
+
 
 
 
