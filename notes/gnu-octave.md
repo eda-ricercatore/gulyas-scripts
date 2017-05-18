@@ -377,13 +377,40 @@ Subfunctions are secondary functions that the primary/first function
 
 ####	Private Functions
 
-My [implementation](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/gnu-octave/z-dir) of private functions was unsuccessful.
-	Similarly, my [test case for private functions](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/gnu-octave/y-dir) failed, too.
+My [implementation](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/gnu-octave/z-dir) of private functions was **unsuccessful**.
+	Similarly, my [test case for private functions](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/gnu-octave/y-dir) **failed**, too.
 
 ####	Nested Functions
 
 Usage of nested functions are strongly discouraged
 	\cite[\S11.9.4, pp. 193]{Eaton2016a}.
+
+Also, do not use rge *`eval()`* function together with nested
+	functions \cite[\S11.9.4, pp. 194]{Eaton2016a}.
+
+####	Overloading and Autoloading
+
+*GNU Octave* supports function overloading by allowing functions of
+	the same name to have different sets of input arguments.
+	It is strongly encouraged to use object-oriented programming to
+	overload functions \cite[\S11.9.5, pp. 195]{Eaton2016a}.
+
+Use the *`builtin()`* function to call the base function of the
+	overloaded function for the given function signature (set of
+	input arguments) 
+
+*GNU Octave* supports function autoloading to allow users to
+	specify/define where a given function can be found.
+	This enables functions in dynamically linked files to be found,
+	even if the operating system in use does not support symbolic
+	links.
+	Use the *`autoload`* function to do this
+	\cite[\S11.9.5, pp. 195]{Eaton2016a}.
+
+
+
+
+
 
 
 
