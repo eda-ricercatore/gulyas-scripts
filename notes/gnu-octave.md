@@ -469,7 +469,9 @@ The command *`source([filename])`* allows commands from the file
 
 ####	Function Handles
 
-\cite[\S11.11.1, pp. 199-201]{Eaton2016a}.
+"A function handle is a pointer to another function," and can be
+	defined as *`function_handle = @function_name`*
+	\cite[\S11.11.1, pp. 199-201]{Eaton2016a}.
 
 
 ####	Anonymous Functions
@@ -495,9 +497,9 @@ Commands belong to a special category/class of functions that requires
 
 The following are equivalent \cite[\S11.12, pp. 203]{Eaton2016a}:
 
-	cmd arg1 arg2 ...
+	*cmd arg1 arg2 ...*
 
-	cmd(arg1,arg2,...)
+	*cmd(arg1,arg2,...)*
 
 Note that when invoking/calling commands with string variables,
 	parentheses have to be used so that the variable name does not
