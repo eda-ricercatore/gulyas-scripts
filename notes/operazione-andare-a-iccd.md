@@ -1,11 +1,6 @@
 #	Operazione Andare a ICCAD
 
 + Object-oriented programming (OOP)
-	- \S11.4 Variable-length argument lists
-	- \S11.6-\S11.7 Variable-length return lists
-	- \S11.9 Function files
-	- \S11.10 Script files
-	- \S11.11 Function handles, anonymous functions, and inline functions
 	- \S34 Object-oriented programming
 + \S15 Plotting
 + \S14 Input/Output (I/O) operations
@@ -89,7 +84,6 @@ From the *GNU Octave* manual \cite{Eaton2016a}:
 + \S17.9 Mathematical constants
 + \S18 Linear algebra
 + \S27 Set operations
-+ \S35 GUI development
 + \S36 System utilities
 + \S38 Package installation, removal, usage, and creation
 + *Appendix B* Test and Demo functions

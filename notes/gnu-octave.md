@@ -465,28 +465,15 @@ The command *`source([filename])`* allows commands from the file
 	\cite[\S11.10, pp. 199]{Eaton2016a}.
 
 
-###	Function Handles, Anonymous Functions, and Inline Functions
-
-####	Function Handles
+###	Function Handles
 
 "A function handle is a pointer to another function," and can be
 	defined as *`function_handle = @function_name`*
-	\cite[\S11.11.1, pp. 199-201]{Eaton2016a}.
+	\cite[\S11.11.1, pp. 199]{Eaton2016a}.
 
-
-####	Anonymous Functions
-
-
-
-\cite[\S11.11.2, pp. 201]{Eaton2016a}.
-
-
-####	Inline Functions
-
-
-
-\cite[\S11.11.3, pp. 202-203]{Eaton2016a}.
-
+Functions to query if a variable is a function handle or provide
+	information about a function handle are described in
+	\cite[\S11.11.1, pp. 200]{Eaton2016a}.
 
 ###	Commands
 
@@ -511,6 +498,18 @@ Note that when invoking/calling commands with string variables,
 The organization of *GNU Octave* functions, which is provided by
 	default in the *GNU Octave* library, is shown in
 	\cite[\S11.13, pp. 203-204]{Eaton2016a}.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
