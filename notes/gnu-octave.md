@@ -407,13 +407,19 @@ Use the *`builtin()`* function to call the base function of the
 	Use the *`autoload`* function to do this
 	\cite[\S11.9.5, pp. 195]{Eaton2016a}.
 
+####	Function Locking
+
+A function can be locked into memory, so that its location in memory
+	would not be affected by the operating system.
+	It is recommended for usage with dynamically linked functions, or
+	functions in dynamically linked files
+	\cite[\S11.9.6, pp. 196-197]{Eaton2016a}.
 
 
+####	Function Precedence
 
-
-
-
-
+The precedence of functions used in a given scope is provided in
+	\cite[\S11.9.7, pp. 197-198]{Eaton2016a}.
 
 
 
