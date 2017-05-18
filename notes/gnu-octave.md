@@ -1761,6 +1761,20 @@ Self-explanatory.
 
 ## Object-Oriented Programming
 
+[Summarize my thoughts on adopting object-oriented programming in
+	GNU Octave]
+
+###	Class Creation
+
+
+\cite[\S34.1, pp. 721-???]{Eaton2016a}.
+
+
+
+
+
+
+
 
 
 
