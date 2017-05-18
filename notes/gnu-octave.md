@@ -467,18 +467,42 @@ The command *`source([filename])`* allows commands from the file
 
 ###	Function Handles, Anonymous Functions, and Inline Functions
 
-\S11.11
-
 ####	Function Handles
+
+\cite[\S11.11.1, pp. 199-201]{Eaton2016a}.
+
+
 ####	Anonymous Functions
+
+
+
+\cite[\S11.11.2, pp. 201]{Eaton2016a}.
+
+
 ####	Inline Functions
 
 
 
+\cite[\S11.11.3, pp. 202-203]{Eaton2016a}.
 
 
+###	Commands
+
+Commands belong to a special category/class of functions that requires
+	all of its input arguments to be strings.
+	A command can also be called without parentheses 
+	\cite[\S11.12, pp. 203]{Eaton2016a}.
+
+	cmd arg1 arg2 ...
+
+	cmd(arg1,arg2,...)
 
 
+###	Library of *GNU Octave* Functions: Provided by default
+
+The organization of *GNU Octave* functions, which is provided by
+	default in the *GNU Octave* library, is shown in
+	\cite[\S11.13, pp. 203-204]{Eaton2016a}.
 
 
 
