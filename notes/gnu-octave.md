@@ -494,6 +494,7 @@ Commands belong to a special category/class of functions that requires
 	\cite[\S11.12, pp. 203]{Eaton2016a}.
 
 The following are equivalent:
+
 	cmd arg1 arg2 ...
 
 	cmd(arg1,arg2,...)
