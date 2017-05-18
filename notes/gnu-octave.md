@@ -497,9 +497,9 @@ Commands belong to a special category/class of functions that requires
 
 The following are equivalent \cite[\S11.12, pp. 203]{Eaton2016a}:
 
-	*cmd arg1 arg2 ...*
+	cmd arg1 arg2 ...
 
-*	cmd(arg1,arg2,...)*
+	cmd(arg1,arg2,...)
 
 Note that when invoking/calling commands with string variables,
 	parentheses have to be used so that the variable name does not
