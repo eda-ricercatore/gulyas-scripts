@@ -493,12 +493,16 @@ Commands belong to a special category/class of functions that requires
 	A command can also be called without parentheses 
 	\cite[\S11.12, pp. 203]{Eaton2016a}.
 
-The following are equivalent:
+The following are equivalent \cite[\S11.12, pp. 203]{Eaton2016a}:
 
 	cmd arg1 arg2 ...
 
 	cmd(arg1,arg2,...)
 
+Note that when invoking/calling commands with string variables,
+	parentheses have to be used so that the variable name does not
+	get treated as a string   
+	\cite[\S11.12, pp. 203]{Eaton2016a}.
 
 ###	Library of *GNU Octave* Functions: Provided by default
 
