@@ -1770,14 +1770,31 @@ To create a class in *GNU Octave* named *class-name*,  create a
 	directory named *`@class-name`*.
 	The *'@'* symbol must be a prefix for the name of the directory
 	representing a class in *GNU Octave*
-	\cite[\S34.1, pp. 721-???]{Eaton2016a}.
+	\cite[\S34.1, pp. 721]{Eaton2016a}.
 
+The constructor for the class should have the same name as the class
+	name *class-name*; i.e., *`@class-name/class-name.m`* 
+	\cite[\S34.1, pp. 721-722]{Eaton2016a}.
 
+Use the function *`isobject([obj])`* to determine if *obj* is an
+	object, and *`isa([variable_name],[class_name])`* is a function
+	that determines if a variable *[variable_name]* is an object
+	instance of the class *[class_name]*
+	\cite[\S34.1, pp. 722]{Eaton2016a}.
 
+The function *`[mthds] = methods([obj])`* returns a cell array
+	containing the method names for the class that the object *[obj]*
+	is an instance of.
+	Similarly, the function *`[mthds] = methods([class_name])`*
+	returns a cell array containing the method names for the class
+	*[class_name]* \cite[\S34.1, pp. 723]{Eaton2016a}.
 
+The function *`ismethod([obj],[mthd])`* queries if *[mthd]* is a
+	method of the class the the object *[obj]* belongs to
+	\cite[\S34.1, pp. 723]{Eaton2016a}.
 
-
-
+Methods/Functions for the class can be defined via function files
+	in the directory named *`@class-name`*   
 
 
 
