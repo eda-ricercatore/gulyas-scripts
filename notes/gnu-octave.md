@@ -1766,8 +1766,11 @@ Self-explanatory.
 
 ###	Class Creation
 
-
-\cite[\S34.1, pp. 721-???]{Eaton2016a}.
+To create a class in *GNU Octave* named *class-name*,  create a
+	directory named *`@class-name`*.
+	The *'@'* symbol must be a prefix for the name of the directory
+	representing a class in *GNU Octave*
+	\cite[\S34.1, pp. 721-???]{Eaton2016a}.
 
 
 
