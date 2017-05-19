@@ -1798,12 +1798,10 @@ Methods/Functions for the class can be defined via function files
 	\cite[\S34.1, pp. 722]{Eaton2016a}.
 
 
-###	Class Manipulation
-
-###	Basic Accessor and Mutator Class Methods
+###	Class Manipulation, via Basic Accessor and Mutator Class Methods
 
 Basic class methods for access and modification/update are
-	 \cite[\S34.2, pp. 723-725]{Eaton2016a}:
+	 \cite[\S34.2, pp. 723-726]{Eaton2016a}:
 + *`display([obj])`*
 	+ Access method
 	+ "Display the contents of [the] object" *[obj]*.
@@ -1823,10 +1821,16 @@ Basic class methods for access and modification/update are
 		E.g., *`p = set([obj],[property_value_pairs])`*
 		\cite[\S34.2, pp. 725]{Eaton2016a}:
 	+ Requires definition of the *`subsasgn()`* method.
-		\cite[\S34.2, pp. 725]{Eaton2016a}:
-
-
-
+		\cite[\S34.2, pp. 725]{Eaton2016a};
+		see \cite[\S34.3]{Eaton2016a}.
++ *`[obj2] = saveobj([obj1])`*
+	- Save a copy of the object *[obj1]* as the object *[obj2]*.
+	- Manipulate the object *[obj1]*, prior to saving this object to
+		a file for storage.
++ *`[obj2] = loadobj([obj1])`*
+	- Save a copy of the object *[obj1]* as the object *[obj2]*.
+	- Manipulate the object *[obj1]*, prior to saving this object to
+		a file for storage.
 
 
 
