@@ -1818,13 +1818,12 @@ Basic class methods for access and modification/update are
 	+ Access method
 	+ For the object named *[obj]*, set the values of its properties
 		using the (property, value) pairs found in
-		*[property_value_pairs]*. 
-
+		*[property_value_pairs]*.
 	+ Return the modified object *[obj]* as the updated object. 
 		E.g., *`p = set([obj],[property_value_pairs])`*
-	+ \cite[\S34.2, pp. 725]{Eaton2016a}:
-
-
+		\cite[\S34.2, pp. 725]{Eaton2016a}:
+	+ Requires definition of the *`subsasgn()`* method.
+		\cite[\S34.2, pp. 725]{Eaton2016a}:
 
 
 
