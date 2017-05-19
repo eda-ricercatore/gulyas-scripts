@@ -1794,11 +1794,35 @@ The function *`ismethod([obj],[mthd])`* queries if *[mthd]* is a
 	\cite[\S34.1, pp. 723]{Eaton2016a}.
 
 Methods/Functions for the class can be defined via function files
-	in the directory named *`@class-name`*   
+	in the directory named *`@class-name`*
+	\cite[\S34.1, pp. 722]{Eaton2016a}.
 
 
+###	Class Manipulation
 
+###	Basic Accessor and Mutator Class Methods
 
+Basic class methods for access and modification/update are
+	 \cite[\S34.2, pp. 723-725]{Eaton2016a}:
++ *`display([obj])`*
+	+ Access method
+	+ "Display the contents of [the] object" *[obj]*.
++ *`get([obj],[property_name])`*
+	+ Access method
+	+ Determine if *[property_name]* is a property of the object named
+		*[obj]*.
++ *`get([obj])`*
+	+ Access method
+	+ List all the properties of the object named *[obj]*.
++ *`set([obj],[property_value_pairs])`*
+	+ Access method
+	+ For the object named *[obj]*, set the values of its properties
+		using the (property, value) pairs found in
+		*[property_value_pairs]*. 
+
+	+ Return the modified object *[obj]* as the updated object. 
+		E.g., *`p = set([obj],[property_value_pairs])`*
+	+ \cite[\S34.2, pp. 725]{Eaton2016a}:
 
 
 
@@ -2362,6 +2386,10 @@ Currently, functions arguments/parameters cannot be passed by
 	Also, variables pass as input arguments to functions are not
 	copied, unless the functions have to modify them
 	\cite[\S8.2.1, pp. 140]{Eaton2016a}.
+
+"Octave does not implement pass by reference"
+	\cite[\S34.2, pp. 725]{Eaton2016a}.
+
 
 #####	Function Calls: Recursion
 
