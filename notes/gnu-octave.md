@@ -1836,6 +1836,28 @@ Basic class methods for access and modification/update are
 
 ###	Indexing Objects and Indexed Assignment
 
+The user/programmer must specify what do integers/numbers enclosed in
+	parentheses mean when used with objects; this is known as
+	subscripted referencing.
+	The user/programmer can specify this (i.e., subscripted referencing)
+	with the method *`subsref(val, idx)`*
+	\cite[\S34.2, pp. 726-728]{Eaton2016a}.
+
+
+Regarding the method *`subsref(val, idx)`*, *val* is a matrix
+	(or vector???) and "the subscript *idx* is... a structure array
+	with the fields *'type'* and *'subs'*.
+	Valid values for these fields are
+	\cite[\S34.2, pp. 726-728]{Eaton2016a}:
++ type
+	- *"()"*
+	- *"{}"*
+	- *"."*
++ subs
+	- *":"*
+	- Cell array of index values
+
+
 ####	Indexed Assignment Optimization
 
 
