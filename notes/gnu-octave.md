@@ -1829,8 +1829,37 @@ Basic class methods for access and modification/update are
 		a file for storage.
 + *`[obj2] = loadobj([obj1])`*
 	- Save a copy of the object *[obj1]* as the object *[obj2]*.
-	- Manipulate the object *[obj1]*, prior to saving this object to
-		a file for storage.
+	- Manipulate the object *[obj1]*, after this object has been
+		loaded from a file for processing.
+
+
+
+###	Indexing Objects and Indexed Assignment
+
+####	Indexed Assignment Optimization
+
+
+
+
+
+
+###	Overloading Objects
+
+####	Function Overloading
+
+####	Operator Overloading
+
+####	Precedence of Objects
+
+
+###	Inheritance and Aggregation
+
+
+
+
+
+
+
 
 
 
