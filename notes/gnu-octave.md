@@ -1847,7 +1847,7 @@ The user/programmer must specify what do integers/numbers enclosed in
 Regarding the method *`subsref(val, idx)`*, *val* is a matrix
 	(or vector???) and "the subscript *idx* is... a structure array
 	with the fields *'type'* and *'subs'*.
-	Valid values for these fields are
+	Valid values for these fields of *idx* are
 	\cite[\S34.2, pp. 726-728]{Eaton2016a}:
 + type
 	- *"()"*
@@ -1856,7 +1856,8 @@ Regarding the method *`subsref(val, idx)`*, *val* is a matrix
 + subs
 	- *":"*
 	- Cell array of index values
-
++ Note: "If *idx* is an an empty structure array with fields *'type'*
+	and *'subs'*, return val."
 
 ####	Indexed Assignment Optimization
 
