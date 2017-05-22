@@ -1857,10 +1857,23 @@ Regarding the method *`subsref(val, idx)`*, *val* is a matrix
 	- *":"*
 	- Cell array of index values
 + Note: "If *idx* is an an empty structure array with fields *'type'*
-	and *'subs'*, return val."
+	and *'subs'*, return *val*."
 
-For subscripted assignment, use the method *`subsasgn(val,idx,rhs)`*
-	\cite[\S34.3.1, pp. 728]{Eaton2016a}.
+For subscripted assignment, use the method *`subsasgn(val,idx,rhs)`*.
+	This method carries out "the subscripted assignment" at the index
+	specified by the subscript *idx*.
+	Just like the method *`subsref(val, idx)`*, valid values for
+	the fields *'type'* and *'subs'* of the structure array *idx* are
+	\cite[\S34.3.1, pp. 728]{Eaton2016a}:
++ type
+	- *"()"*
+	- *"{}"*
+	- *"."*
++ subs
+	- *":"*
+	- Cell array of index values
++ Note: "If *idx* is an an empty structure array with fields *'type'*
+	and *'subs'*, return *rhs*."
 
 
 
