@@ -1841,14 +1841,14 @@ The user/programmer must specify what do integers/numbers enclosed in
 	subscripted referencing.
 	The user/programmer can specify this (i.e., subscripted referencing)
 	with the method *`subsref(val, idx)`*
-	\cite[\S34.2, pp. 726-728]{Eaton2016a}.
+	\cite[\S34.3.1, pp. 726-728]{Eaton2016a}.
 
 
 Regarding the method *`subsref(val, idx)`*, *val* is a matrix
 	(or vector???) and "the subscript *idx* is... a structure array
 	with the fields *'type'* and *'subs'*.
 	Valid values for these fields of *idx* are
-	\cite[\S34.2, pp. 726-728]{Eaton2016a}:
+	\cite[\S34.3.1, pp. 726-728]{Eaton2016a}:
 + type
 	- *"()"*
 	- *"{}"*
@@ -1858,6 +1858,19 @@ Regarding the method *`subsref(val, idx)`*, *val* is a matrix
 	- Cell array of index values
 + Note: "If *idx* is an an empty structure array with fields *'type'*
 	and *'subs'*, return val."
+
+For subscripted assignment, use the method *`subsasgn(val,idx,rhs)`*
+	\cite[\S34.3.1, pp. 728]{Eaton2016a}.
+
+
+
+
+
+
+
+
+
+
 
 ####	Indexed Assignment Optimization
 
