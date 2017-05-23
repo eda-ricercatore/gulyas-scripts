@@ -1877,9 +1877,12 @@ For subscripted assignment, use the method *`subsasgn(val,idx,rhs)`*.
 
 
 
-
-
-
+Whie the methods *`subsref(val, idx)`* and *`subsasgn(val,idx,rhs)`*
+	require receipt of "the whole index chain" as an input argument,	
+	but typically only access/modify the first element of the index
+	chain.
+	To get these methods to process/enumerate the rest of the whole
+	index chain, iteration or recursion can be used 
 
 
 
