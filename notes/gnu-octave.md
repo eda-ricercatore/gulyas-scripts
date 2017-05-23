@@ -1882,7 +1882,8 @@ Whie the methods *`subsref(val, idx)`* and *`subsasgn(val,idx,rhs)`*
 	but typically only access/modify the first element of the index
 	chain.
 	To get these methods to process/enumerate the rest of the whole
-	index chain, iteration or recursion can be used 
+	index chain, use iteration or recursion
+	\cite[\S34.3.1, pp. 728]{Eaton2016a}. 
 
 
 
