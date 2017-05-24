@@ -1885,6 +1885,14 @@ Whie the methods *`subsref(val, idx)`* and *`subsasgn(val,idx,rhs)`*
 	index chain, use iteration or recursion
 	\cite[\S34.3.1, pp. 728]{Eaton2016a}. 
 
+"To use the *end* keyword [as] subscripted expression of an object,"
+	define the *`end(obj,index_pos,num_indices)`* method for the class
+	so that it would represent the cardinality of the vector/array or
+	a dimension of a matrix \cite[\S34.3.1, pp. 729]{Eaton2016a}.
+
+
+
+
 
 
 
