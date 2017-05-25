@@ -1890,6 +1890,23 @@ Whie the methods *`subsref(val, idx)`* and *`subsasgn(val,idx,rhs)`*
 	so that it would represent the cardinality of the vector/array or
 	a dimension of a matrix \cite[\S34.3.1, pp. 729]{Eaton2016a}.
 
+Use the overloading method/function *`idx = subsindex(a)`* to control
+	the object that is used as an index in a subscripted expression.
+	This function converts the object to an index vector for its class.
+	The index vector has to be "a zero-based real integer vector for
+	the class 'double'" \cite[\S34.3.1, pp. 729]{Eaton2016a}.
+
+Use the function *`r = colon (base, increment, limit)`* to use objects
+	like ranges.
+	This function equivalently processes the expression  
+	\cite[\S34.3.1, pp. 729]{Eaton2016a}.
+
+
+
+
+
+
+
 
 
 
