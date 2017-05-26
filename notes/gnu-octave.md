@@ -1898,24 +1898,33 @@ Use the overloading method/function *`idx = subsindex(a)`* to control
 
 Use the function *`r = colon (base, increment, limit)`* to use objects
 	like ranges.
-	This function equivalently processes the expression  
-	\cite[\S34.3.1, pp. 729]{Eaton2016a}.
-
-
-
-
-
-
-
-
-
-
-
-
+	This function equivalently processes the expression according to
+	the syntax of the colon operator *`base:increment:limit`*.
+	The input argument *increment* is optional
+	\cite[\S34.3.1, pp. 729-730]{Eaton2016a}.
 
 
 
 ####	Indexed Assignment Optimization
+
+The "lazily-copied pass-by-value semantics" of *GNU Octave* limits
+	performance improvement for "user-defined subsasgn methods". 
+	S
+
+
+
+	\cite[\S34.3.2, pp. 730]{Eaton2016a}.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
