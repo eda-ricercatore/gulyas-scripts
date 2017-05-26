@@ -1930,14 +1930,31 @@ The "lazily-copied pass-by-value semantics" of *GNU Octave* limits
 
 
 
-\cite[\S34.3.2, pp. 730]{Eaton2016a}.
+	\cite[\S34.4.1, pp. 731]{Eaton2016a}.
 
 
 
 
 ####	Operator Overloading
 
+
+	\cite[\S34.4.2, pp. 731--732]{Eaton2016a}.
+
+
+
+
 ####	Precedence of Objects
+
+To process objects belonging to different classes in a given scope,
+	the *GNU Octave* interpreter uses a "precedence of which method
+	of which class to call" to call the appropriate method.
+	To provide information about such precedence to the *GNU Octave*
+	interpreter, use the *`superiorto ([class_name],...)`* and/or
+	*`inferiorto ([class_name],...)`* methods in the constructor
+	of a given class to specify the classes that the objects of this
+	class is superior and/or inferior to
+	\cite[\S34.4.3, pp. 732--734]{Eaton2016a}.
+
 
 
 ###	Inheritance and Aggregation
