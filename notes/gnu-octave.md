@@ -1928,10 +1928,16 @@ The "lazily-copied pass-by-value semantics" of *GNU Octave* limits
 
 ####	Function Overloading
 
-
-
+To overload any given function in *GNU Octave* with an object-specific
+	version, implement the function again with a different set of
+	input arguments and/or output variables
 	\cite[\S34.4.1, pp. 731]{Eaton2016a}.
 
+
+#####	NOTE: How to use the cast function?
+
+How can the cast function be used to work with the user class, so that
+	methods of other classes can be used with the user class?
 
 
 
