@@ -1937,7 +1937,11 @@ The "lazily-copied pass-by-value semantics" of *GNU Octave* limits
 
 ####	Operator Overloading
 
-
+Table 34.1 of \cite[\S34.4.2, pp. 732]{Eaton2016a} shows a mapping
+	of each built-in numerical operation (e.g., *`+`*) to a
+	corresponding function name that serves as an "overloaded method
+	for a user class."
+	This mapping enables operator overloading.
 	\cite[\S34.4.2, pp. 731--732]{Eaton2016a}.
 
 
@@ -1954,6 +1958,14 @@ To process objects belonging to different classes in a given scope,
 	of a given class to specify the classes that the objects of this
 	class is superior and/or inferior to
 	\cite[\S34.4.3, pp. 732--734]{Eaton2016a}.
+
+Notes \cite[\S34.4.3, pp. 734]{Eaton2016a}:
++ "User classes always have higher precedence than built-in Octave
+	types."
++ "When faced with two objects that have the same precedence, *[GNU
+	Octave]* will use the method of the object that appears first on
+	the list of arguments."
+
 
 
 
