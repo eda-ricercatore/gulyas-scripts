@@ -1909,24 +1909,17 @@ Use the function *`r = colon (base, increment, limit)`* to use objects
 
 The "lazily-copied pass-by-value semantics" of *GNU Octave* limits
 	performance improvement for "user-defined subsasgn methods". 
-	S
-
-
-
-	\cite[\S34.3.2, pp. 730]{Eaton2016a}.
-
-
-
-
-
-
-
-
-
-
-
-
-
+	This is because of the design of the *GNU Octave* language, which 
+	performs a linear-time operation of copying the array *val* in the
+	method *`subsasgn(val,idx,rhs)`* to protect the data integrity of
+	the array *val*.
+	For large arrays, this can be a significant performance
+	constraint.
+	That said, the official implementation of the *GNU Octave*
+	interpreter does not keep a copy of the array *val* in the
+	caller's scope, so that copying of data (i.e., for *val*) is
+	avoided and carries out the data modification operation in
+	constant time \cite[\S34.3.2, pp. 730]{Eaton2016a}.
 
 
 
@@ -1934,6 +1927,13 @@ The "lazily-copied pass-by-value semantics" of *GNU Octave* limits
 ###	Overloading Objects
 
 ####	Function Overloading
+
+
+
+\cite[\S34.3.2, pp. 730]{Eaton2016a}.
+
+
+
 
 ####	Operator Overloading
 
