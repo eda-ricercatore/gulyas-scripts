@@ -1977,16 +1977,16 @@ Notes \cite[\S34.4.3, pp. 734]{Eaton2016a}:
 
 ###	Inheritance and Aggregation
 
+In *GNU Octave*, use a given user-defined class to support the
+	building of new classes, via inheritance and aggregation
+	\cite[\S34.5, pp. 734]{Eaton2016a}.
 
-
-
-
-
-
-
-
-
-
+Use the *`class`* function in the class constructor to inherit
+	functions (and properties) from a class.
+	Use a struct to contain all the properties (or data fields) of a
+	class.
+	Call the *`class`* function to create objects from the *struct*
+	\cite[\S34.5, pp. 734]{Eaton2016a}.
 
 
 
