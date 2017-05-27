@@ -1985,8 +1985,33 @@ Use the *`class`* function in the class constructor to inherit
 	functions (and properties) from a class.
 	Use a struct to contain all the properties (or data fields) of a
 	class.
-	Call the *`class`* function to create objects from the *struct*
+	Call the *`class`* function to create objects from the *struct*.
+	To create an object *c_obj* of a child class, create an object
+	*p_obj* of the parent class, and call the *`class`* function with
+	*p_obj* as the third input argument
 	\cite[\S34.5, pp. 734]{Eaton2016a}.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
