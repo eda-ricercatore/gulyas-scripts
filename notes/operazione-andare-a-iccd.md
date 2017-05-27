@@ -2,6 +2,7 @@
 
 + Object-oriented programming (OOP)
 	- \S34 Object-oriented programming
++ Try to implement the usage of private and hidden functions.
 + \S15 Plotting
 + \S14 Input/Output (I/O) operations
 	(or I/O operazioni)
