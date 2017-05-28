@@ -1991,11 +1991,14 @@ Use the *`class`* function in the class constructor to inherit
 	*p_obj* as the third input argument
 	\cite[\S34.5, pp. 734]{Eaton2016a}.
 
-
-
-
-
-
+In my implementation of constructor, it must address the case that
+	does not have any child class.
+	For such cases, the default constructor (with no input arguments)
+	should be called.
+	Use the calls to the the default constructor and the *`class`*
+	function (with the third input argument) "to determine the
+	inheritance structure" (or class hierarchy).
+	\cite[\S34.5, pp. 735]{Eaton2016a}.
 
 
 
