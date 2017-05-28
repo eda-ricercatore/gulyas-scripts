@@ -1997,7 +1997,7 @@ In my implementation of constructor, it must address the case that
 	should be called.
 	Use the calls to the the default constructor and the *`class`*
 	function (with the third input argument) "to determine the
-	inheritance structure" (or class hierarchy).
+	inheritance structure" (or class hierarchy)
 	\cite[\S34.5, pp. 735]{Eaton2016a}.
 
 
