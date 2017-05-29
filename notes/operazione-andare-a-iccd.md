@@ -1,8 +1,8 @@
 #	Operazione Andare a ICCAD
 
-+ Object-oriented programming (OOP)
-	- \S34 Object-oriented programming
 + Try to implement the usage of private and hidden functions again.
++ Try to implement examples of nested inheritance and 
+	inheritance. 
 + \S15 Plotting
 + \S14 Input/Output (I/O) operations
 	(or I/O operazioni)
