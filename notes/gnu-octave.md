@@ -2000,6 +2000,35 @@ In my implementation of constructor, it must address the case that
 	inheritance structure" (or class hierarchy)
 	\cite[\S34.5, pp. 735]{Eaton2016a}.
 
+*GNU Octave* supports multiple inheritance and nested inheritance.
+	*GNU Octave* does not impose a limit on the number of parents in
+	multiple inheritance; however, the size of the physical memory
+	does impose a limit on the number of parents.
+	*GNU Octave* also does not impose a limit on the level of nesting
+	in nested inheritance; however, the size of the physical memory
+	does impose a limit on the level of nesting
+	\cite[\S34.5, pp. 735]{Eaton2016a}.
+
+
+
+#####	I cannot find the *display* function in the *GNU Octave* manual 
+
+What does it do? Or, does it have to be user-defined (not shown in
+	the *GNU Octave* manual)?
+
+See \cite[\S34.5, pp. 735, in the example near the bottom of the page]{Eaton2016a}.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
