@@ -1,5 +1,7 @@
 #	Operazione Andare a ICCAD
 
++ Keep learning *Scala*.
++ Learn *Julia*.
 + Texinfo
 	- Learn how to write comments in the *Texinfo* typesetting syntax
 		for documentation generation.
