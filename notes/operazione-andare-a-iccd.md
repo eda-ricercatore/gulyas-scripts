@@ -1,11 +1,5 @@
 #	Operazione Andare a ICCAD
 
-+ Try to implement the usage of private and hidden functions again.
-+ Try to implement examples of nested inheritance and 
-	inheritance. 
-+ \S15 Plotting
-+ \S14 Input/Output (I/O) operations
-	(or I/O operazioni)
 + Texinfo
 	- Learn how to write comments in the *Texinfo* typesetting syntax
 		for documentation generation.
@@ -69,6 +63,13 @@
 	- Minimize routine maintenance.
 	- Refactor code and wetware.
 	- Update programming skills to latest standards/versions.
++ Try to implement the following in *GNU Octave*:
+	- Usage of private and hidden functions again
+	- Examples of nested inheritance
+	- Examples of multiple inheritance. 
++ \S15 Plotting
++ \S14 Input/Output (I/O) operations
+	(or I/O operazioni)
 
 
 #	Relevant *GNU Octave* Content
