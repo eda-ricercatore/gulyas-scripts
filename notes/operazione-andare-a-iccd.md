@@ -2,6 +2,7 @@
 
 + Keep learning *Scala*.
 + Learn *Julia*.
++ Learn [*Chisel*(Constructing Hardware in a Scala Embedded Language)](https://chisel.eecs.berkeley.edu).
 + Texinfo
 	- Learn how to write comments in the *Texinfo* typesetting syntax
 		for documentation generation.
