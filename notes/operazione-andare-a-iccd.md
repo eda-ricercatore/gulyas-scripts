@@ -31,6 +31,12 @@
 		* Transceivers
 		* Encoders
 		* Decoders
++ Implement retargetable parallel compiler for the *RISC-V* ISA.
+	- Compiler for the *RISC-V* ISA.
+	- Retargetable compiler for the *RISC-V* ISA.
+	- Retargetable parallel compiler for the *RISC-V* ISA.
++ Implement aforementioned processor and SoC designs using
+	noise-based logic
 + Texinfo
 	- Learn how to write comments in the *Texinfo* typesetting syntax
 		for documentation generation.
