@@ -6,6 +6,31 @@
 + Build benchmarks for running experiments in electronic design
 	automation (EDA), and the design automation of cyber-physical
 	systems (CPS-DA).
+	- Processors based on [*RISC-V ISA*](https://riscv.org).
+		* Single-cycle implementation \cite{Patterson2018}
+		* Pipelined implementation \cite{Patterson2018}
+		* Multi-cycle implementation
+			\cite[\S5.5, pp. 318-340]{Patterson2005}
+			\cite{Patterson2018}
+		* Multi-/many- core implementations
+			\cite{Patterson2018}
+			\cite{Hennessy2003,Hennessy2007,Hennessy2012}
+			\cite{Shen2005a}
+	- System-on-Chip (SoC) designs
+		* Digital signal processing
+		* Image processing
+		* Video processing
+		* Computer Vision (highly advanced)
+		* [Crypto-processors (highly advanced)](https://en.wikipedia.org/wiki/Secure_cryptoprocessor)
+	- Processors for computer graphics
+		* graphics processors (GPU)
+	- Network processors
+	- SoC designs for telecommunications
+		* Transmitters
+		* Receivers
+		* Transceivers
+		* Encoders
+		* Decoders
 + Texinfo
 	- Learn how to write comments in the *Texinfo* typesetting syntax
 		for documentation generation.
