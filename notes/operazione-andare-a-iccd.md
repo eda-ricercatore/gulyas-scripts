@@ -1,8 +1,17 @@
 #	Operazione Andare a ICCAD
 
 + Keep learning *Scala*.
+	- Implement tools for noise-based logic via object-oriented
+		functional programming. 
 + Learn *Julia*.
+	- Determine if *Julia* is object-oriented.
++ Learn *R*.
+	- Apply *R*-based data analytics to my software development and
+		hardware design process.
 + Learn [*Chisel* (Constructing Hardware in a Scala Embedded Language)](https://chisel.eecs.berkeley.edu).
++ Design cyber-physical systems using *Chisel* and *Scala*.
+	- Determine if transaction-level modeling (TLM) can be done with
+		*Chisel* and *Scala*.
 + Build benchmarks for running experiments in electronic design
 	automation (EDA), and the design automation of cyber-physical
 	systems (CPS-DA).
