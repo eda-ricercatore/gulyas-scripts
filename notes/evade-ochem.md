@@ -1,12 +1,22 @@
 #	Operation Evade O-Chem
 
+#	References
+
+##	Quadratic Unconstrained Boolean Optimization (QUBO)
 
 
 
+### QUBO + Pseudo-Boolean Optimization (PBO)
 
-
-
-
++ Andres2015.pdf
++ Anthony2017.pdf
++ Babbush2014.pdf
++ Boros2007.pdf
++ Gruber2015-copy.pdf
++ Gruber2015.pdf
++ Hammer1968.pdf
++ Hanafi2013.pdf
++ Lampert2017.pdf
 
 
 
