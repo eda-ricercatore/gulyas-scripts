@@ -1,7 +1,5 @@
-#!/opt/local/bin/octave
-
-%	This is written by Zhiyang Ong to generate random-telegraph waves
-%		(RTW).
+%	This is written by Zhiyang Ong to test my implementation of
+%		functions in GNU Octave.
 %
 %
 %	The MIT License (MIT)
@@ -16,50 +14,15 @@
 %
 %	Email address: echo "cukj -wb- 23wU4X5M589 TROJANS cqkH wiuz2y 0f Mw Stanford" | awk '{ sub("23wU4X5M589","F.d_c_b. ") sub("Stanford","d0mA1n"); print $5, $2, $8; for (i=1; i<=1; i++) print "6\b"; print $9, $7, $6 }' | sed y/kqcbuHwM62z/gnotrzadqmC/ | tr 'q' ' ' | tr -d [:cntrl:] | tr -d 'ir' | tr y "\n"		Don't compromise my computing accounts. You have been warned.
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-%	Preamble.
-
-%	Load various GNU Octave packages
-%	pkg load struct 
-%	pkg load control
-%	pkg load signal
-
-
-%	Add paths to GNU Octave, so that it can load scripts to execute.
-%addpath("/Users/zhiyang/Documents/ricerca/gulyas-scripts/time-shifting/")
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-%	Setting up high and low logic values.
-global high_value = 1;
-global low_value = -1;
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-
-cur_value = ciao_mondo
-printf("	Current value is:%u.\n",cur_value)
-
-aval = generate_HL_values
-
-
-%rtw1 = generate_rtw(12,8)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+%	Function without input arguments, and one return variable.
+function nuovo_value = ciao_mondo
+	disp("	Hello World!")
+	nuovo_value = 100
+endfunction
 
 
 
