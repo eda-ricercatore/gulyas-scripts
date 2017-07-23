@@ -14,11 +14,7 @@
 %
 %	Email address: echo "cukj -wb- 23wU4X5M589 TROJANS cqkH wiuz2y 0f Mw Stanford" | awk '{ sub("23wU4X5M589","F.d_c_b. ") sub("Stanford","d0mA1n"); print $5, $2, $8; for (i=1; i<=1; i++) print "6\b"; print $9, $7, $6 }' | sed y/kqcbuHwM62z/gnotrzadqmC/ | tr 'q' ' ' | tr -d [:cntrl:] | tr -d 'ir' | tr y "\n"		Don't compromise my computing accounts. You have been warned.
 
-
-
-%%	Setting up high and low logic values.
-%high_value = 1;
-%low_value = -1;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %	Function to randomly generate the high and low logic values for
 %		random-telegraph waves (RTW).
@@ -26,16 +22,13 @@
 %	@return	logic_value		A high and low logic value for a RTW
 %								signal.
 function logic_value = generate_HL_values
-%	Semicolon this statement.
-	%	Generate random value at -1 or 1, with 50% probability. 
+	%	Import global variables/"constants".
+	global high_value;
+	global low_value;
 
-	%	Setting up high and low logic values.
-	global high_value = 1;
-	global low_value = -1;
-
-%	Semicolon this statement.
+	%	Generate random value at -1 or 1, with 50% probability.
 	random_value = rand(1,1)
-%%	random_value = unifrnd(0,1)
+%	random_value = unifrnd(0,1)
 	%	Check if random_value > 50%.
 	if 0.5 < random_value
 		%HL_value = high_value;
