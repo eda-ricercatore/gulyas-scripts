@@ -31,6 +31,8 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+%	Global "constants"/variables
+
 %	Setting up high and low logic values.
 global high_value = 1;
 global low_value = -1;

@@ -22,19 +22,18 @@
 %	@return	logic_value		A high and low logic value for a RTW
 %								signal.
 function logic_value = generate_HL_values
-	%	Import global variables/"constants".
+	% Import global variables/"constants".
 	global high_value;
 	global low_value;
 
-	%	Generate random value at -1 or 1, with 50% probability.
-	random_value = rand(1,1)
+	% Generate random value at -1 or 1, with 50% probability.
+	random_value = rand(1,1);
+	% Alternate way to get uniformly distributed random number.
 %	random_value = unifrnd(0,1)
 	%	Check if random_value > 50%.
 	if 0.5 < random_value
-		%HL_value = high_value;
 		logic_value = high_value;
 	else
-		%HL_value = low_value;
 		logic_value = low_value;
 	endif
 endfunction

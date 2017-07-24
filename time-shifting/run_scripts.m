@@ -32,29 +32,22 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+%	Global "constants"/variables
 
-%	source(generate_rtw(12))
-%	run(generate_rtw.m)
-%rtw1 = generate_rtw(12,8)
+%	Setting up high and low logic values.
+global high_value = 1;
+global low_value = -1;
 
-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %	Initialize/Reset the seed for pseudo-random number generation (PRNG).
-%a1 = rand("seed")
-
-%a1 = rand("seed","reset")
-%a1 = rand('seed','reset')
-%a1 = rand('reset')
-
-%a1 = rand("seed")
 rand("seed","reset")
-disp("Finished reset operation.")
-
-
+disp("=	Finished reset operation.")
 
 %	Check the generation of "high" and "low" logic values.
-
-
+printf("=	Generate a logic value:")
+logic_val = generate_HL_values;
+printf("Passed.\n")
 
 %	Check the generation of random-telegraph waves (RTW).
 
