@@ -52,6 +52,8 @@ printf("Passed.\n")
 %	Check the generation of random-telegraph waves (RTW).
 
 
+%	Check if I can access the NoSQL database.
+
 
 
 

@@ -44,10 +44,10 @@ global low_value = -1;
 cur_value = ciao_mondo
 printf("	Current value is:%u.\n",cur_value)
 
-aval = generate_HL_values
+%aval = generate_HL_values
 
 
-%rtw1 = generate_rtw(12,8)
+rtw1 = generate_rtw(12,8)
 
 
 
