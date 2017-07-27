@@ -19,13 +19,12 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %	Function with input arguments, return variables.
-function [ret_a,ret_b,ret_c,ret_d] = d_callee(number_a, number_b, number_c, number_d)
-	ret_a = number_d
-	ret_b = number_c
-	ret_c = number_b
-	ret_d = number_a
-	printf("Input arguments: d_callee(%d%%,%f,%e,%g).\n", number_a, number_b, number_c, number_d)
-	printf("Return values: (%d%%,%f,%e,%g).\n", ret_a,ret_b,ret_c,ret_d)
+function ret_arr = k_return_array
+	disp("	= Create an array as a variable.")
+	ret_arr(1) = 9
+	ret_arr(2) = 8
+	ret_arr(3) = 7
+	disp("	= Finished creating an array as a variable.")
 endfunction
 
 

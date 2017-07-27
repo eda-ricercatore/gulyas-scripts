@@ -1,5 +1,7 @@
-%	This is written by Zhiyang Ong to generate random-telegraph waves
-%		(RTW).
+#!/opt/local/bin/octave
+%	This is written by Zhiyang Ong to test my implementation of a
+%		function in GNU Octave that returns a matrix/array as a
+%		variable.
 %
 %
 %	The MIT License (MIT)
@@ -17,61 +19,8 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-%	Preamble.
-
-%	Add paths to GNU Octave, so that it can load scripts to execute.
-%addpath("/Users/zhiyang/Documents/ricerca/gulyas-scripts/time-shifting/")
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-
-%	Function to generate random-telegraph waves (RTW).
-%	@param	num_cycles		Number of cycles for the RTW.
-%	@param	period_length	Number of bits per period/cycle of the RTW.
-%	@return	rtw_signal		A RTW signal.	
-%	References:
-%		[Eaton2016]
-function rtw_signal = generate_rtw(num_cycles, period_length)
-%	disp("	Generate RTW signal.")
-	%	Index of RTW signal
-	k = 1;
-	#	Generate RTW signal for num_cycles periods/cycles.  
-	for i = 1:num_cycles
-		HL_value = generate_HL_values
-		for j = 1:period_length
-			rtw_signal(k) = HL_value
-			k = k+1
-		endfor
-	endfor
-endfunction
-
-
-
-
-
-
-
-
-
-%	Eaton2016
-
-
-%	References:
-%
-%	[Eaton2016]
-%		John W. Eaton, "GNU Octave," Free Software Foundation, Boston, MA, 2016. Available online from {\it {GNU Operating System}: GNU Software} at: \url{https://www.gnu.org/software/octave/doc/v4.0.3/}; October 10, 2016 was the last accessed date.
-%			In Functions and Scripts: Function Files: Manipulating the Load Path"
-
-
-
-
-
-
-
-
-
-
-
+disp("	= Get an array as a variable.")
+arr = k_return_array
 
 
 

@@ -77,7 +77,9 @@ torture:
 	@echo "========================================================="
 	@echo "=>	Test string operations."
 	./i-strings.m
-
+	@echo "========================================================="
+	@echo "=>	Call function to get an array as a variable."
+	./k_caller.m
 
 
 
