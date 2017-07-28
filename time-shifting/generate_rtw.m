@@ -31,11 +31,11 @@
 %	@return	rtw_signal		A RTW signal.	
 %	References:
 %		[Eaton2016]
-function rtw_signal = generate_rtw(num_cycles, period_length)
+function [rtw_signal,k] = generate_rtw(num_cycles, period_length)
 %	disp("	Generate RTW signal.")
 	%	Index of RTW signal
 	k = 1;
-	#	Generate RTW signal for num_cycles periods/cycles.  
+	%	Generate RTW signal for num_cycles periods/cycles.  
 	for i = 1:num_cycles
 		HL_value = generate_HL_values
 		for j = 1:period_length
@@ -43,6 +43,11 @@ function rtw_signal = generate_rtw(num_cycles, period_length)
 			k = k+1
 		endfor
 	endfor
+	%{
+		Decrement extra time segment from total number of time
+			segments.
+	%}
+	k = k -1
 endfunction
 
 

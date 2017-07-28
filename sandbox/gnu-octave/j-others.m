@@ -40,11 +40,18 @@ printf("=	Print the current time (1):%d.\n", time())
 printf("=	Print the current time (2):%d.\n", time())
 
 
+% Create a range z of values, from x to y in increments of delta
+x = 5
+y = 8
+delta = 0.2
 
+z = x:delta:y
+z2 = [x:delta:y]
 
-
-
-
+% String concatenation
+a = "new"
+b = "string"
+new_string = [a, b]
 
 
 

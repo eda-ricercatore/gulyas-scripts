@@ -37,6 +37,8 @@
 global high_value = 1;
 global low_value = -1;
 
+pdflatex = "pdflatex "
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
@@ -46,17 +48,46 @@ printf("	Current value is:%u.\n",cur_value)
 
 %aval = generate_HL_values
 
+% Get RTW rtw1, and number of plotting points (time segments).
+[rtw1,t] = generate_rtw(12,8)
+% Generate an array for the time segments.
+t_range = 1:1:t;
+%t_range = [1:1:t];
 
-rtw1 = generate_rtw(12,8)
+fig1 = figure();
+fig1_name = "fig1.tex"
+plot(t_range,rtw1,"r");
+xlabel("Time t");
+ylabel("$RTW_1$");
+title("Plot of $RTW_1$.");
+%set(fig1,"visible","off");		% Problem with offscreen display.
+print(fig1, fig1_name,"-dpdflatexstandalone")
+set(fig1,"visible","on");
+fig1_typeset = [pdflatex fig1_name]
+system(fig1_typeset);
+%open(fig1_name);
+%saveas(fig1,"pdf-plot-rtw1.ps","ps")
 
+%	===============================================================
 
+% Get RTW rtw2, and number of plotting points (time segments).
+[rtw2,t2] = generate_rtw(30,10)
+% Generate an array for the time segments.
+t_range2 = 1:1:t2;
 
-
-
-
-
-
-
+fig2 = figure();
+fig2_name = "fig2.tex"
+plot(t_range2,rtw2,"r");
+xlabel("Time t");
+ylabel("$RTW_2$");
+title("Plot of $RTW_2$.");
+%set(fig2,"visible","off");		% Problem with offscreen display.
+print(fig2, fig2_name,"-dpdflatexstandalone")
+set(fig2,"visible","on");
+fig2_typeset = [pdflatex fig2_name]
+system(fig2_typeset);
+%open(fig2_name);
+%saveas(fig2,"pdf-plot-rtw1.ps","ps")
 
 
 
