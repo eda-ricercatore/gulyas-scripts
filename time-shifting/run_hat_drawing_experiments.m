@@ -38,6 +38,7 @@ global high_value = 1;
 global low_value = -1;
 
 pdflatex = "pdflatex "
+delta_y = 0.1
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -77,7 +78,10 @@ t_range2 = 1:1:t2;
 
 fig2 = figure();
 fig2_name = "fig2.tex"
+plot(t_range2,rtw2,"r", "marker",".");
 plot(t_range2,rtw2,"r");
+
+ylim([low_value-delta_y,high_value+delta_y])
 xlabel("Time t");
 ylabel("$RTW_2$");
 title("Plot of $RTW_2$.");
