@@ -50,7 +50,8 @@ printf("	Current value is:%u.\n",cur_value)
 %aval = generate_HL_values
 
 % Get RTW rtw1, and number of plotting points (time segments).
-[rtw1,t] = generate_rtw(12,8)
+%[rtw1,t] = generate_rtw(12,8)
+[rtw1,t] = generate_rtw(30,10)
 % Generate an array for the time segments.
 t_range = 1:1:t;
 %t_range = [1:1:t];
@@ -78,7 +79,7 @@ t_range2 = 1:1:t2;
 
 fig2 = figure();
 fig2_name = "fig2.tex"
-plot(t_range2,rtw2,"r", "marker",".");
+%plot(t_range2,rtw2,"r", "marker",".");
 plot(t_range2,rtw2,"r");
 
 ylim([low_value-delta_y,high_value+delta_y])
@@ -93,12 +94,15 @@ system(fig2_typeset);
 %open(fig2_name);
 %saveas(fig2,"pdf-plot-rtw1.ps","ps")
 
+%	===============================================================
 
+% Determine the covariance between RTW_1 and RTW_2
 
+% "xcov" function is undefined. 
+%[Rcov,lag_cov] = xcov(rtw1,rtw2)
+cov_rtw1_rtw2 = cov(rtw1,rtw2)
 
-
-
-
+corr_rtw1_rtw2 = corr(rtw1,rtw2)
 
 
 
