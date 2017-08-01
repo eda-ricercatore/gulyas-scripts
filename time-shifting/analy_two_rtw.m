@@ -102,6 +102,7 @@ system(fig2_typeset);
 %[Rcov,lag_cov] = xcov(rtw1,rtw2)
 cov_rtw1_rtw2 = cov(rtw1,rtw2)
 
+[Rcorr,lag_corr] = xcorr(rtw1,rtw2)
 corr_rtw1_rtw2 = corr(rtw1,rtw2)
 
 
