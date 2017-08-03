@@ -1,10 +1,14 @@
 #	Operazione Andare a ICCAD
 
++ Find the cross-correlation of RTW waves.
++ Find the covariance of RTW waves.
++ Determine the "time"-average of each RTW wave.
+	- Ensure that it is not zero.
++ Perform the hat-drawing experiment for time-shifted INBL
+
 + Keep learning *Scala*.
 	- Implement tools for noise-based logic via object-oriented
 		functional programming. 
-+ Learn *Julia*.
-	- Determine if *Julia* is object-oriented.
 + Learn *R*.
 	- Apply *R*-based data analytics to my software development and
 		hardware design process.
@@ -46,6 +50,7 @@
 	- Retargetable parallel compiler for the *RISC-V* ISA.
 + Implement aforementioned processor and SoC designs using
 	noise-based logic
++ Learn *Julia*.
 + Texinfo
 	- Learn how to write comments in the *Texinfo* typesetting syntax
 		for documentation generation.
