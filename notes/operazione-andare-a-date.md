@@ -3,7 +3,7 @@
 + Find the cross-correlation of RTW waves.
 + Find the covariance of RTW waves.
 + Determine the "time"-average of each RTW wave.
-	- Ensure that it is not zero.
+	- Report the mean. Determine if it is not zero.
 + Perform the hat-drawing experiment for time-shifted INBL
 
 + Keep learning *Scala*.
