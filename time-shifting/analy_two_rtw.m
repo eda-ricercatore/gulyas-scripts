@@ -23,7 +23,7 @@
 %	Load various GNU Octave packages
 %	pkg load struct 
 %	pkg load control
-%	pkg load signal
+	pkg load signal
 
 
 %	Add paths to GNU Octave, so that it can load scripts to execute.
@@ -59,6 +59,7 @@ t_range = 1:1:t;
 fig1 = figure();
 fig1_name = "fig1.tex"
 plot(t_range,rtw1,"r");
+ylim([low_value-delta_y,high_value+delta_y])
 xlabel("Time t");
 ylabel("$RTW_1$");
 title("Plot of $RTW_1$.");
@@ -98,8 +99,12 @@ system(fig2_typeset);
 
 % Determine the covariance between RTW_1 and RTW_2
 
-% "xcov" function is undefined. 
-%[Rcov,lag_cov] = xcov(rtw1,rtw2)
+%{
+	"xcov" function is undefined, without the package "signal".
+	Need to load the package "signal".
+	See preamble.
+%}
+[Rcov,lag_cov] = xcov(rtw1,rtw2)
 cov_rtw1_rtw2 = cov(rtw1,rtw2)
 
 [Rcorr,lag_corr] = xcorr(rtw1,rtw2)
