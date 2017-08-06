@@ -48,6 +48,10 @@ function [rtw_signal,k] = generate_rtw(num_cycles, period_length)
 			segments.
 	%}
 	k = k -1
+	% Postcondition.
+	if (numel(rtw_signal) != k)
+		error("=	Error with number of data points of RTW signal.")
+	endif
 endfunction
 
 

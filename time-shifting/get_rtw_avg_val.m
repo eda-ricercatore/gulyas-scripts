@@ -1,6 +1,6 @@
-%	This is written by Zhiyang Ong to generate determine the average
-%		value (or mean) for the total time period of a given
-%		random-telegraph wave (RTW).
+%	This is written by Zhiyang Ong to determine the average value (or
+%		mean) for the total time period of a given random-telegraph
+%		wave (RTW).
 %
 %
 %	The MIT License (MIT)
@@ -17,12 +17,14 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-%	Function to randomly generate the high and low logic values for
-%		random-telegraph waves (RTW).
-%	@param	None.
+%	Function to randomly to determine the average value for the total
+%		time period of a given random-telegraph
+%		wave (RTW).
+%
+%	@param	rtw_signal		A given RTW.
 %	@return	logic_value		A high and low logic value for a RTW
 %								signal.
-function logic_value = generate_HL_values
+function average_value = get_rtw_avg_val(rtw_signal)
 	% Import global variables/"constants".
 	global high_value;
 	global low_value;

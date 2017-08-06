@@ -54,8 +54,8 @@ b = "string"
 new_string = [a, b]
 
 
-
-
+cardinality_z = numel(z)
+cardinality_z2 = numel(z2)
 
 
 
