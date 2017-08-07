@@ -57,6 +57,11 @@ new_string = [a, b]
 cardinality_z = numel(z)
 cardinality_z2 = numel(z2)
 
+sum_z2 = 0
+for i=1:numel(z2)
+	sum_z2 = sum_z2 + z2(i)
+endfor
+avg_z2 = sum_z2/numel(z2)
 
 
 

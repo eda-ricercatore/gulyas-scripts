@@ -25,19 +25,9 @@
 %	@return	logic_value		A high and low logic value for a RTW
 %								signal.
 function average_value = get_rtw_avg_val(rtw_signal)
-	% Import global variables/"constants".
-	global high_value;
-	global low_value;
+	% Cumulative sum
+	cumulative_sum = 0;
 
-	% Generate random value at -1 or 1, with 50% probability.
-	random_value = rand(1,1);
-	% Alternate way to get uniformly distributed random number.
-%	random_value = unifrnd(0,1)
-	%	Check if random_value > 50%.
-	if 0.5 < random_value
-		logic_value = high_value;
-	else
-		logic_value = low_value;
-	endif
+	
 endfunction
 
