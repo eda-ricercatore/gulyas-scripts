@@ -27,7 +27,9 @@
 function average_value = get_rtw_avg_val(rtw_signal)
 	% Cumulative sum
 	cumulative_sum = 0;
-
-	
+	for i=1:numel(rtw_signal)
+		cumulative_sum = cumulative_sum + rtw_signal(i)
+	endfor
+	average_value = cumulative_sum/numel(rtw_signal)
 endfunction
 
