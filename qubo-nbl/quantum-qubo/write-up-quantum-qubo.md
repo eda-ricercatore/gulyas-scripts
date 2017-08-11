@@ -8,8 +8,10 @@
 
 
 
+#	Related Problems for Quantum Computing
 
-
++ Map coloring, vertex coloring
+	- \cite{Dahl2013}
 
 
 
@@ -26,10 +28,14 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 ##	Quantum Computers: Hardware Implementations for Quantum Computing
 
 + \cite{DWaveSystemsStaff20XY}
++ \cite{DWaveSystemsStaff20XYb}
+	- Advantages:
+		* Low-power and cool computation, at room/reasonable
+			temperature
 
+##	Call for Research Proposals
 
-
-
++ \cite{UniversitiesSpaceResearchAssociationStaff2015a}
 
 
 
