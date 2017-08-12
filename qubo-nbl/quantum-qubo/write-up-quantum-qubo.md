@@ -1,10 +1,10 @@
 #	Solving QUBO via Quantum Computing
 
+##	Quantum QUBO Solver
 
+###	Demonstration
 
-
-
-
+\cite{jdklassen2017}
 
 
 
