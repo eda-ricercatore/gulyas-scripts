@@ -2,6 +2,8 @@
 
 ##	Quantum QUBO Solver
 
+\cite{mwbooth2017}
+
 ###	Demonstration
 
 \cite{jdklassen2017}
