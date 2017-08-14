@@ -1,5 +1,17 @@
 #	Solving QUBO via Quantum Computing
 
+
+##	Steps taken to Demonstrate Quantum QUBO Solving
+
+1) Clone the "Qbsolv" repository \cite{mwbooth2017}.
+
+2) Clone the "Beartooth demo" repository \cite{jdklassen2017}. 
+
+
+
+
+
+
 ##	Quantum QUBO Solver
 
 \cite{mwbooth2017}
@@ -10,10 +22,25 @@
 
 
 
+
+
+
+
+
+
+
+
+
 #	Related Problems for Quantum Computing
 
 + Map coloring, vertex coloring
 	- \cite{Dahl2013}
+
+
+
+
+
+
 
 
 
