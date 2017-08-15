@@ -29,6 +29,9 @@ Comparing Python 3.x to Python 2.y, the former has significant
 	These identifiers are case sensitive and cannot be *Python*
 	keywords [ParewaLabsPvtLtdStaff20XY, \S "Python Keywords and Identifier"].
 
+They should not include dashes. Else, an interpreting/compiling error
+	would result.
+
 ##	Importing Python Classes and Modules
 
 Tasks that I can do:
