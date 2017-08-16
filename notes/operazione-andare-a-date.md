@@ -1,7 +1,8 @@
 #	Operation Evade O-Chem
 
-\cite{Dahl2013}
-
+Questions:
++ \cite{Dahl2013}
+	- How to convert QUBO into a quantum machine instruction (QMI)
 
 
 
