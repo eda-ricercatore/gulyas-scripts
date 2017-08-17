@@ -3,7 +3,35 @@
 Questions:
 + \cite{Dahl2013}
 	- How to convert QUBO into a quantum machine instruction (QMI)
+		A QMI produces probabilistic results, rather than deterministic
+			results that assembly instructions in von Neumann computing. 
+		Representations of qubits (and their weights) and couplers
+			(and their strengths) as chimera graphs (bipartite graphs).
++ Get access to the API, or dynamic libraries, of dwave_sapi2.
++ Map coloring problems, and other NP-complete (or NP-hard) problems,
+	such as QUBO, can be mapped into "a single quantum machine
+	instruction (QMI) using the "direct embedding' programming model."
+	Section 1, Page 3, of the map coloring white paper from D-Wave.
+	By providing a transformation of the problem formulation of map
+		coloring (or QUBO, or otherwise) into a chimera graph, we can
+		synthesize the network of qubits and couplers on the D-Wave
+		machine.
 
+
+
+
+To-do list:
++ Get references for QUBO and QUBO solvers.
+	If there are no classical QUBO solvers, develop one using GLPK
+		and meta-heuristics.
++ Run experiments on classical QUBO solvers.
+	- Benchmark them.
++ Benchmark "Qbsolv" \cite{mwbooth2017} against classical QUBO solvers.
++ [Write the USRA research proposal for quantum computing time.](http://www.usra.edu/quantum/rfp/)
+	- Get references for:
+		* Pseudo-boolean optimization (PBO)
+		* Weighted-Boolean Optimization (WBO)
+		* Maximum satisfiability (Max-SAT), and maximum SMT (Max-SMT)
 
 
 
@@ -23,9 +51,30 @@ Questions:
 ##	Quadratic Unconstrained Boolean Optimization (QUBO)
 
 
-+ Boros2007.pdf
-+ Hanafi2013.pdf
+Journal and conference papers:
++ \cite{Boros2007}
++ \cite{Hanafi2013}
++ \cite{Rieffel2000}???
 
+
+Books:
++ \cite{Anjos2012}
++ \cite{Wittek2014}
++ \cite{Crama2011}
++ \cite{Crama2010}
++ \cite{Rieffel2011}
++ \cite{Padberg1999}
++ \cite{Tandon2017}
++ \cite{Aaronson2013}
++ \cite{McGeoch2014}
++ \cite{Lanzagorta2008}
++ \cite{Miszczak2012}
++ \cite{Meglicki2008}
+
+
+Not stored in my BibTeX database; append "https://dx.doi.org/" to DOI:
++ https://dx.doi.org/10.1002/net.21751
++ https://dx.doi.org/10.1109/IJCNN.2017.7966350
 
 
 
