@@ -76,6 +76,8 @@ Books:
 + \cite{Koch2016}
 + \cite{Hoos2005}
 + \cite{Pardalos2007}
++ \cite{Adamatzky2017}
++ \cite{Florescu2016}
 
 
 Not stored in my BibTeX database; append "https://dx.doi.org/" to DOI:
