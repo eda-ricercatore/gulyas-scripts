@@ -70,6 +70,12 @@ Books:
 + \cite{Lanzagorta2008}
 + \cite{Miszczak2012}
 + \cite{Meglicki2008}
++ \cite{Resende2016}
++ \cite{Wang2016}
++ \cite{Ibaraki2005}
++ \cite{Koch2016}
++ \cite{Hoos2005}
++ \cite{Pardalos2007}
 
 
 Not stored in my BibTeX database; append "https://dx.doi.org/" to DOI:
