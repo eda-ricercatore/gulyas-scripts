@@ -78,6 +78,8 @@ Books:
 + \cite{Pardalos2007}
 + \cite{Adamatzky2017}
 + \cite{Florescu2016}
++ \cite{Vidick2016}
+
 
 
 Not stored in my BibTeX database; append "https://dx.doi.org/" to DOI:
