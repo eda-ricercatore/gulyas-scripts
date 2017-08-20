@@ -1,4 +1,4 @@
-#	Operation Evade O-Chem
+#	Operation Go2DATE
 
 Questions:
 + \cite{Dahl2013}
@@ -32,12 +32,15 @@ To-do list:
 		* Pseudo-boolean optimization (PBO)
 		* Weighted-Boolean Optimization (WBO)
 		* Maximum satisfiability (Max-SAT), and maximum SMT (Max-SMT)
-
-
-
-
-
-
++ Get references for "adversarial machine learning."
++ Replicate experiments for adversarial machine learning.
+	- Use others' software and libraries to reproduce their
+		experimental results.
+	- Implement my own machine learninhg software for adversarial
+		machine learning.
+	- Implement my adversarial machine learning software solution as
+		hardware (VLSI system).
++ Implement my solution for adversarial machine learning using NBL.
 
 
 
@@ -79,7 +82,7 @@ Books:
 + \cite{Adamatzky2017}
 + \cite{Florescu2016}
 + \cite{Vidick2016}
-
++ \cite{Kreher1999}
 
 
 Not stored in my BibTeX database; append "https://dx.doi.org/" to DOI:
