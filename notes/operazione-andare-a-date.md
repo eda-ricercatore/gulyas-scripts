@@ -1,5 +1,22 @@
 #	Operation Evade O-Chem
 
+\cite{Dahl2013}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #	References
 
 ##	Quadratic Unconstrained Boolean Optimization (QUBO)
@@ -246,6 +263,26 @@ From the *GNU Octave* manual \cite{Eaton2016a}:
 
 Citations/References that use the *LaTeX/BibTeX* notation are taken
 	from my *BibTeX* database (set of *BibTeX* entries).
+
+
+@techreport{Dahl2013,
+	Address = {Burnaby, British Columbia, Canada},
+	Author = {E. D. Dahl},
+	Date-Added = {2014-03-30 00:11:00 +0200},
+	Date-Modified = {2014-03-30 00:11:00 +0200},
+	Doi = {},
+	Howpublished = {Available online at: \url{https://www.dwavesys.com/sites/default/files/Map%20Coloring%20WP2.pdf}; August 31, 2017 was the last accessed date},
+	Institution = {{D-Wave Systems Inc.}},
+	Keywords = {map coloring, quantum computation, quantum computing, NP-complete problems},
+	Month = {November},
+	Number = {},
+	Title = {Programming with {D-Wave}: Map Coloring Problem},
+	Url = {https://www.dwavesys.com/sites/default/files/Map%20Coloring%20WP2.pdf},
+	Year = {2013}}
+
+
+
+
 
 
 
