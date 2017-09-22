@@ -31,9 +31,11 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-%rtw1 = generate_rtw(12,8)
+aval = generate_HL_values
 
-%aval = generate_HL_values
+
+rtw1 = generate_rtw(12,8)
+
 
 
 

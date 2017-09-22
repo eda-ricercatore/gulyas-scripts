@@ -528,7 +528,14 @@ Note: Do not assign *rand("seed","reset")* to any variable.
 + **Example of creating an error.**
 
 
+From \cite[\S16.3, pp. 421]{Eaton2016a}, the function rand() uses a
+	uniform distribution for PRNG.
 
+From \cite[\S26.7, pp. 633]{Eaton2016a}, the function unidrnd() uses a
+	uniform distribution for PRNG.
+
+As of now, I do not know the difference between the functions rand()
+	and unidrnd().
 
 
 
