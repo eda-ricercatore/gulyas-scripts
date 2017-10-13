@@ -38,6 +38,20 @@ Arrays are not required to be homogeneous \cite[\S2.3, pp. 37]{Tate2010}.
 
 
 
+##	Other Programming Concepts in *Ruby*
+
+"Metaprogramming means writing programs that write programs"
+	\cite[\S2.4, pp. 48]{Tate2010}.
+
+Open classes in *Ruby* can redefine *String* and *Nil* \cite[\S2.4, pp. 49]{Tate2010}:
+	- Also, *Ruby* can be disabled by redefining *Class.new*. 
+	- *Ruby* gives us the freedom to redefine classes or objects at any time. 
+
+When "a method is missing", *Ruby* calls "a special debugging method,"
+	*method_missing*, "to print some diagnostic information";
+	this method *method_missing* can be overridden
+		\cite[\S2.4, pp. 49]{Tate2010}.
+
 
 
 #	References
