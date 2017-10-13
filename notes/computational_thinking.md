@@ -34,6 +34,37 @@ Extensions and bug fixes, and additions of references, to this preliminary versi
 
 
 
+
+
+##	Concurrency and Parallel Computing
+
+###	Coroutines
+
+\cite[\S3.4, pp. 88-89]{Tate2010}:
+
+###	Actors
+
+An actor can modify its state and access (find out about, inquire, or determine) the states of other actors only via
+	closely controlled queues;
+	in contrast (on the other hand), a thread can access 
+\cite[\S3.4, pp. 89-90]{Tate2010}:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #	References
 
 Citations/References that use the *LaTeX/BibTeX* notation are taken
