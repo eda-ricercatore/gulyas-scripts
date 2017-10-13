@@ -2,14 +2,21 @@
 
 ## Notes about Programming Paradigms Supported by *Ruby* 
 
+### Object-Oriented Programming Paradigm
+
+Everything in *Ruby* is an object. Each function returns something; if an explicit
+	return is not specified, the function will return the value of the last processed
+	expression (in the function) \cite[\S2.3, pp. 35]{Tate2010}.
+
+Ruby supports functional programming; it allows functions to be passed to other
+	functions as parameters \cite[\S2.3, pp. 36]{Tate2010}.
 
 
+## *Ruby* Collections
 
+### Arrays, or [Linear] Ordered Collection
 
-
-
-
-
+When an out-of-bounds array index is accessed, *nil* is returned by *Ruby*.
 
 
 
