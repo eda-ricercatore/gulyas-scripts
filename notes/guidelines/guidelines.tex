@@ -63,6 +63,13 @@ Revision history: \vspace{-0.3cm}
 \item Version 1.1, December 23, 2014. Version ported for this boilerplate code project.
 \item Version 2, October 20, 2015. Added guidelines for {\tt Doxygen}-supported, {\tt Javadoc}-based coding standard. This coding standard is also known as coding style, coding style guide, coding guideline, coding scheme, code convention, code documentation guideline, programming guideline, or programming style.
 \item Version 2.1, October 21, 2015. Finished guidelines for {\tt Doxygen}-supported, {\tt Javadoc}-based coding standard for {\it C++}.
+\item Version 2.2, June 4, 2016. Finished section for additional guidelines: to include documentation using {\tt Markdown}, and tools for software development, integrated circuit and cyber-physical system design, and documentation.
+\item Version 3, November 3, 2016. Added guidelines for: documenting {\it GNU Octave} and {\sc Matlab} code, in order to facilitate documentation generation using {\it Texinfo} \cite{WikipediaContributors2016h,Stallman2016,Stallman2016a,Stallman2016b}; sharing of source code, design files, sets of benchmarks, data sets, and documentation on online repositories \cite{figshareLLPstaff2016,GitHubStaff2016}; and added section on exception safety.
+\item Version 3.1, November 4, 2016. Fixed references for indent style conventions.
+\item Version 3.2, December 20, 2016. Update guidelines for conduct.
+\item Version 3.3, February 3, 2017. Update information about usage of GitHub's services.
+\item Version 3.4, March 11, 2017. Update information on naming convention.
+\item Version 3.5, October 9, 2017. Update guidelines on commenting/writing code.
 \end{enumerate}
 
 
@@ -79,11 +86,13 @@ Revision history: \vspace{-0.3cm}
 \section{Guidelines for Conduct}
 \label{sec:GuidelinesforConduct}
 
-Members of the open source software and/or hardware projects should follow the {\it Code of Conduct} of the {\tt Institute of Electrical and Electronics Engineers (IEEE)} and the {\tt Association for Computing Machinery (ACM)} \cite{IEEE2014b,IEEE2014a,IEEE2014,ACMCouncil1992}. Also, actions of discrimination are not acceptable \cite{IEEE2014c}. An additional guideline is ``Dave Packard's 11 simple rules'' \cite{HewlettPackardCompany2012}. \\
+Members of the open source software and/or hardware projects should follow the {\it Code of Conduct} of the {\tt Institute of Electrical and Electronics Engineers (IEEE)} \cite{IEEE2014b,IEEE2014a,IEEE2014} and the {\tt Association for Computing Machinery (ACM)} \cite{ACMCouncil1992}. Also, actions of discrimination are not acceptable \cite{IEEE2014c}; we should intentionally commit to inclusive diversity. An additional guideline is ``Dave Packard's 11 simple rules'' \cite{HewlettPackardCompany2012}. \\
 
 %There are a significant amount of references for helping people to learn \LaTeX \cite{Voss2011,vanDongen2012,Syropoulos2003,Raymond2004,Mittelbach2004,Lamport1994,Krishnan2003,Krantz2001,Kottwitz2011,Koranne2011,Kopka2004,Knuth1999,Hoenig1998,Higham1998,Haralambous2007,Griffiths1997,Gratzer2007,Goossens2007,Goossens1999,Goossens1997,Diller1999,Bindner2011,Berry2009,UITCambridge2011,Scharrer2011,Pakin2008,Cormen2010,Syropoulos2004,Hamalainen2006} and related information/technologies.
 
-In addition, when there is a dispute about which technology, algorithm, design paradigm/style/pattern, process, or methodology to use, follow the ``Code Wins Arguments'' philosophy \cite{Kushner2011,Zuckerberg2012}. Also, when considerable effort has been invested in an automated regression testing/verification infrastructure, do not be afraid to ``move fast and break things'' \cite{Fong2011,Evangelista2012}.
+In addition, when there is a dispute about which technology, algorithm, design paradigm/style/pattern, process, or methodology to use, follow the ``Code Wins Arguments'' philosophy \cite{Kushner2011,Zuckerberg2012}. Also, when considerable effort has been invested in an automated regression testing/verification infrastructure, do not be afraid to ``move fast and break things'' \cite{Fong2011,Evangelista2012}. \\
+
+Lastly, we should adopt a mission-focused and value-based approach to participate in meetings and discussions for the project(s). We should be flexible/liberal enough to consider and explore viable alternate approaches to do things and solve problems. Where disputes occur, a data-driven, fact-based approach based on the ``Code Wins Arguments'' philosophy should be used to resolve conflicts.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Guidelines for Creating a Shared {\sc Bib}\TeX\ Database}
@@ -98,6 +107,11 @@ Guidelines for creating {\sc Bib}\TeX\ entries and the {\sc Bib}\TeX\ database, 
 	\item Remove duplicate entries in the {\sc Bib}\TeX\ database. {\bf WARNING! Before doing this, perform a union operation on the fields of the {\sc Bib}\TeX\ entries. For example, if a {\sc Bib}\TeX\ entry has information that the other {\sc Bib}\TeX\ entry does not have, and vice versa, merge the information to a {\sc Bib}\TeX\ entry.}
 	\item {\bf Rational: Duplicate {\sc Bib}\TeX\ entries will cause problems in typesetting.}
 	\item Regarding hash collision of {\sc Bib}\TeX\ keys, such as multiple instances of Gratz2014, distinguish them by appending a letter to them. E.g., use Gratz2014a, Gratz2014b, Gratz2014c, and so on. If we run out of letters, append it with ``a'' followed by a number. The use of the letter ``a'' separates the year from the instance of {\sc Bib}\TeX\ key. That is, Gratz2014a1 tells me that it is the $28^{th}$ instance of Gratz2014, as opposed to Gratz201428.
+	\item If possible, restrict the characters of each {\sc Bib}\TeX\ key to be alphanumeric. The year is always numeric, and is appended to the (first) author's last name. \vspace{-0.2cm}
+		\begin{enumerate} \itemsep -2pt
+		\item If the (first) author's last name has characters with accents, trim the characters used to typeset the accents from the (first) author's last name, and append the year of publication to it. E.g., {\it S{\v{o}}m{\'{e}}nz{\d{i}}} (year 2000) becomes {\it Somenzi2000}.
+		\item If the (first) author's last name has characters that are not letters in English, anglicize those characters. We should avoid using the transliteration for a given non-English language, since such transliteration may not be standardized (for non-commonly spoken/used languages). Also, supporting letters from other languages is a tedious task. Hence, we can use the anglicized version of their last names instead.
+		\end{enumerate}
 	\end{enumerate}
 \item For terms that should be typeset as is, place them in between braces (i.e., curly brackets). That is, put curly braces around acronyms and mixed-case names. \vspace{-0.3cm}
 	\begin{enumerate} \itemsep -2pt
@@ -279,13 +293,14 @@ The recommended fields for {\sc Bib}\TeX\ entries are: \vspace{-0.3cm}
 \section{Coding Standard}
 \label{sec:CodingStandard}
 
-This is a guideline for {\it Doxygen}-supported, {\it Javadoc}-based coding standard that shall be used for this boilerplate code project. This coding standard is also known as the coding style, coding style guide, coding guideline, coding scheme, code convention, code documentation guideline, programming guideline, or programming style. The documentation generator that shall be supported is: {\it Doxygen}. Since I am using {\it Doxygen} for generating documentation, I can use \LaTeX\ to provide richer markup. \\
+This is a guideline for {\it Doxygen}-supported \cite{vanHeesch2016}, {\it Javadoc}-based coding standard that shall be used for this boilerplate code project. The term ``coding standard'' is used interchangeably/synonymously with coding style, coding style guide, coding guideline, coding scheme, code convention, code documentation guideline, programming guideline, or programming style. My coding style/standard shall be self-documenting. The documentation generator that shall be supported is: {\it Doxygen}. Since I am using {\it Doxygen} for generating documentation, I can use \LaTeX\ to provide richer markup. \\
 
 {\bf Document the known bugs for each function/method.} \\
 
-My indent style would be the {\it 1TBS} variant of the {\it K{\rm \&}R} style, which is an abbreviation of ``{\it The One True Brace Style}''. It is also equivalent to the {\it Kernel Normal Form style} (or {\it BSD KNF style}). \\
+%	My indent style would be the {\it 1TBS} variant of the {\it K{\rm \&}R} style \cite{WikipediaContributors2016j}, which is an abbreviation of ``{\it The One True Brace Style}'' \cite{WikipediaContributors2016j}. It is also equivalent to the {\it Kernel Normal Form style} (or {\it BSD KNF style}) \cite{WikipediaContributors2016j}. \\
+My indent style would be the {\it 1TBS} variant of the {\it K{\rm \&}R} style, which is an abbreviation of ``{\it The One True Brace Style}''. It is also equivalent to the {\it Kernel Normal Form style} (or {\it BSD KNF style}) \cite{WikipediaContributors2016j}. \\
 
-Classes, functions/methods, constants, macros, and static and instance variables shall be named using complete words or well-known abbreviations that are concatenated with an underscore in {\it C++}; this is a deviation from the {\it Hungarian notation} that uses an upper case letter to distinguish words/abbreviations in the name (i.e., the Start case style of writing; see letter case). \\
+Classes, functions/methods, constants, macros, and static and instance variables shall be named using complete words or well-known abbreviations that are concatenated with an underscore in {\it C++}; this is a deviation from the {\it Hungarian notation} that uses an upper case letter to distinguish words/abbreviations in the name (i.e., the Start case style of writing; see letter case). That is, the naming convention followed is using multiple-word identifiers, via delimiter-separated words rather than letter-case separated words (e.g., Hungarian notation) \cite{WikipediaContributors2017}. \\
 
 For {\it C++} programs, the following tags shall be used in the comments: \vspace{-0.3cm}
 \begin{enumerate} \itemsep -4pt
@@ -318,7 +333,36 @@ The order of tags in different sections of the {\it C++} code is given as follow
 \item The @deprecated tag can be used for headers/interfaces, classes, constructors, functions/methods, and variables.
 \end{enumerate}
 
-For a suggested coding style for {\tt Python} and {\it Ruby} scripts, see \cite{vanRossum2013} and \cite{Macdonald20XY}, respectively.
+For a suggested coding style for {\tt Python} and {\it Ruby} scripts, see \cite{vanRossum2013} and \cite{Macdonald20XY}, respectively. \\
+
+
+
+While well-documented source code is desired, natural language programming \cite{WikipediaContributors2016i} is usually infeasible due to the choices of programming/computer languages used. Also, while literate programming \cite{Knuth1984,Knuth1992a,McConnell2004,Subramaniam2006,Schach2007,Oram2007,MullerHannemann2010}
+ is encouraged, I am currently not following it due to the tedious process of developing software using literate programming. Hence, a short development time for well-commented, functionally correct, and efficient source code is prioritized over code written according to the literate programming approach.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Exception Safety}
+\label{sec:ExceptionSafety}
+
+When developing software using programming/scripting languages that enable exceptions or errors to be thrown and caught, adopt "a set of contractual guidelines" \cite{WikipediaContributors2016f} to support exception/error management. This ``set of contractual guidelines'' is based on exception safety guarantees in {\it C++} \cite{Abrahams1998,Abrahams2001,WikipediaContributors2016f} \cite[Subsection \S4.4 on ``Writing exception safe code'']{WikibooksContributors2016}. \\
+
+%\cite{Abrahams1998,Abrahams2001,WikibooksContributors2016,WikipediaContributors2016f}
+
+The levels of exception/error safety listed in descending order of safety guarantees are \cite{Abrahams1998,Abrahams2001,WikibooksContributors2016,WikipediaContributors2016f}: \vspace{-0.3cm}
+\begin{enumerate} \itemsep -4pt
+\item no throw guarantee, or failure transparency: ``Best level of exception safety.''
+\item strong exception safety, commit/rollback semantics, or no-change guarantee
+\item basic exception safety
+\item minimal exception safety, no-leak guarantee
+\item no exception safety: ``No guarantees are made. (Worst level of exception safety)''
+\end{enumerate}
+
+These aforementioned levels of exception/error safety can be partially handled. Also, the use of guards is strongly recommended for making the software and library (or, circuit or system) exception safe. \\
+
+Please judiciously consider what to do with the semipredicate problem \cite{WikipediaContributors2016e}.
+
+
 
 
 
@@ -327,7 +371,7 @@ For a suggested coding style for {\tt Python} and {\it Ruby} scripts, see \cite{
 \section{Additional Guidelines}
 \label{sec:AdditionalGuidelines}
 
-Please kindly use the Markdown language for writing text documents. This is because Bitbucket will treat my text file as a file written in the Markdown syntax. That said, the raw file looks a lot better than the represented Markdown files. Their (Bitbucket) formatting for Markdown is messed up. \\
+Please kindly use the {\tt Markdown} language for writing text documents. This is because Bitbucket will treat my text file as a file written in the {\tt Markdown} syntax. That said, the raw file looks a lot better than the represented {\tt Markdown} files. Their ({\it Bitbucket}) formatting for {\tt Markdown} is messed up. {\it GitHub}'s formatting for {\tt Markdown} works as expected. \\
 
 In addition, tools for working with source code and \LaTeX\ source files include: \vspace{-0.3cm}
 \begin{enumerate} \itemsep -4pt
@@ -336,15 +380,34 @@ In addition, tools for working with source code and \LaTeX\ source files include
 	\begin{enumerate} \itemsep -2pt
 	\item Evan Driscoll, ``Latexdiff notes,'' from {\it Evan Driscoll's web page: Writings on Software: \LaTeX}, the Department of Computer Sciences, University of Wisconsin-Madison College of Engineering, University of Wisconsin-Madison, Madison, WI. Available online at: \url{http://pages.cs.wisc.edu/~driscoll/software/latex/latexdiff.html}; last accessed on February 15, 2016 \cite{Driscoll20XYa}.
 	\end{enumerate}
-\item {\tt SCons}: \cite{Driscoll20XY}
+\item documentation generators: \vspace{-0.3cm}
+	\begin{enumerate} \itemsep -2pt
+	\item {\it Doxygen} \cite{vanHeesch2016}
+	\item {\tt Texinfo}-based generators \cite{WikipediaContributors2016h,Stallman2016,Stallman2016a,Stallman2016b}: \vspace{-0.2cm}
+		\begin{enumerate} \itemsep -2pt
+		\item 
+		\end{enumerate}
+	\end{enumerate}
+\item Build automation: \vspace{-0.3cm}
+	\begin{enumerate} \itemsep -2pt
+	\item {\tt SCons} \cite{Driscoll20XY}
+	\end{enumerate}
 \end{enumerate}
 
 
+Data sets and sets of benchmarks for experiments shall be publicly published using an online repository, via {\it figshare LLP} \cite{figshareLLPstaff2016}. For each data set, or each set of benchmarks, create a unique Digital Object Identifier (DOI) to identify it. \\
 
+Repositories for software as well as designs of integrated circuits and cyber-physical systems shall be stored online, using online repositories such as {\it GitHub} \cite{GitHubStaff2016}. Each repository shall have a unique DOI to identify it, and include all source code, documentation, and design files. \\
 
-
-
-
+Please kindly note that {\it GitHub} \cite{GitHubStaff2016}: \vspace{-0.3cm}
+\begin{enumerate} \itemsep -4pt
+\item Does not allow a {\it GitHub}-based page to be refreshed/reloaded many times in a few seconds. Else, it would report the following: \vspace{-0.3cm}
+	\begin{enumerate} \itemsep -2pt
+	\item ``Whoa there!''
+	\item ``You have triggered an abuse detection mechanism.''
+	\item ``Please wait a few minutes before you try again.''
+	\end{enumerate}
+\end{enumerate}
 
 
 
@@ -367,7 +430,8 @@ In addition, tools for working with source code and \LaTeX\ source files include
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 {\linespread{1}
 \bibliographystyle{plain}
-\bibliography{/Users/zhiyang/Documents/ricerca/antipastobibtex/references}
+%\bibliography{/Users/zhiyang/Documents/ricerca/antipastobibtex/references}
+\bibliography{/Users/zhiyang/Documents/ricerca/lassi-bibtex/references}
 }
 %\bibliography{/data/research/antipastobibtex/references}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
