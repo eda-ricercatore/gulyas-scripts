@@ -23,14 +23,34 @@
 
 ##	Personal Take on Computational Thinking
 
-To me, computational thinking embodies problem solving, logical reasoning, and applying concepts such as abstraction and modeling to solve problems. So, fundamentally, everybody uses some amount of computational thinking. The difference is that students and professionals in computer science, computer engineering, or electrical engineering use computational thinking a lot more than others.
+To me, computational thinking embodies problem solving, logical reasoning, and
+	applying concepts such as abstraction and modeling to solve problems.
+	So, fundamentally, everybody uses some amount of computational thinking.
+	The difference is that students and professionals in computer science,
+		computer engineering, or electrical engineering use computational
+		thinking a lot more than others.
 
-The challenge is to educate youths with skills in computational thinking without necessarily forcing them to learn computer science, computer engineering, or electrical engineering. Computational thinking can be taught in classes in economics, sociology, physics, mathematics, music, and biology. Pedagogical styles, especially in K-12, need to incorporate computational thinking.
+The challenge is to educate youths with skills in computational thinking without
+	necessarily forcing them to learn computer science, computer engineering,
+	or electrical engineering.
+	Computational thinking can be taught in classes in economics, sociology,
+		physics, mathematics, music, and biology.
+	Pedagogical styles, especially in K-12, need to incorporate computational
+		thinking.
 
-Competence in IT is not the same as acquiring knowledge about computer science (CS). A decent academic program in CS at a college/university is very rigorous, while programs in IT can be targeted to people of all ages, including children in kindergarten.
+Competence in IT is not the same as acquiring knowledge about computer
+	science (CS).
+	A decent academic program in CS at a college/university is very rigorous,
+		while programs in IT can be targeted to people of all ages, including
+		children in kindergarten.
 
-Apply equivalence checking to my intentions and what I say. Check if what I want to say matches with my intentions, and say exactly what I want to say. This would keep me out of trouble...
-Extensions and bug fixes, and additions of references, to this preliminary version will appear in the “real paper” of this draft of my abstract on “Application of ATPG and formal verification in conversations”
+Apply equivalence checking to my intentions and what I say.
+	Check if what I want to say matches with my intentions, and say exactly
+		what I want to say.
+	This would keep me out of trouble...
+Extensions and bug fixes, and additions of references, to this preliminary version
+	will appear in the “real paper” of this draft of my abstract on “Application of
+	ATPG and formal verification in conversations”
 
 
 
@@ -46,8 +66,11 @@ Extensions and bug fixes, and additions of references, to this preliminary versi
 
 An actor can modify its state and access (find out about, inquire, or determine) the states of other actors only via
 	closely controlled queues;
-	in contrast (on the other hand), a thread can access 
-\cite[\S3.4, pp. 89-90]{Tate2010}:
+	in contrast (on the other hand), threads have unconstrained ability to modify the states of other actors, and hence they are prone to race conditions (a classic problem in concurrency, or a classic concurrency problem) \cite[\S3.4, pp. 89]{Tate2010}.
+
+When a race condition occurs, multiple threads can modify/access the same resource at the same time;
+	\cite[\S3.4, pp. 89-90]{Tate2010}
+
 
 
 
