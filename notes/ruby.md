@@ -16,7 +16,25 @@ Ruby supports functional programming; it allows functions to be passed to other
 
 ### Arrays, or [Linear] Ordered Collection
 
-When an out-of-bounds array index is accessed, *nil* is returned by *Ruby*.
+When an out-of-bounds array index is accessed, *nil* is returned by *Ruby*
+	\cite[\S2.3, pp. 36]{Tate2010}.
+
+*array_name[-n]* returns the *n*^{th} element from the end
+	\cite[\S2.3, pp. 36]{Tate2010}.
+
+Arrays are not required to be homogeneous \cite[\S2.3, pp. 37]{Tate2010}.
+
+"Multidimensional arrays are ... arrays of arrays" \cite[\S2.3, pp. 37]{Tate2010}.
+
+
+## Functional Programming with *Ruby*
+
+### Code Blocks
+
+"A code block is a function without a name"; it can be passed as a parameter
+	to a function or a method;
+	"code blocks can take one or more parameters"
+		\cite[\S2.3, pp. 39]{Tate2010}.
 
 
 
