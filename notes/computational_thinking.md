@@ -64,11 +64,15 @@ Extensions and bug fixes, and additions of references, to this preliminary versi
 
 ###	Actors
 
-An actor can modify its state and access (find out about, inquire, or determine) the states of other actors only via
-	closely controlled queues;
-	in contrast (on the other hand), threads have unconstrained ability to modify the states of other actors, and hence they are prone to race conditions (a classic problem in concurrency, or a classic concurrency problem) \cite[\S3.4, pp. 89]{Tate2010}.
+An actor can modify its state and access (find out about, inquire, or determine)
+	the states of other actors only via closely controlled queues;
+	in contrast (on the other hand), threads have unconstrained ability to modify
+		the states of other actors, and hence they are prone to race conditions
+		(a classic problem in concurrency, or a classic concurrency problem)
+		\cite[\S3.4, pp. 89]{Tate2010}.
 
-When a race condition occurs, multiple threads can modify/access the same resource at the same time;
+When a race condition occurs, multiple threads can modify/access the same
+	resource at the same time;
 	\cite[\S3.4, pp. 89-90]{Tate2010}
 
 
