@@ -60,7 +60,10 @@ Extensions and bug fixes, and additions of references, to this preliminary versi
 
 ###	Coroutines
 
-\cite[\S3.4, pp. 88-89]{Tate2010}:
+A coroutine is a means "to voluntarily suspend and resume execution of a
+	process" \cite[\S3.4, pp. 88-89]{Tate2010}.
+
+
 
 ###	Actors
 
@@ -73,9 +76,10 @@ An actor can modify its state and access (find out about, inquire, or determine)
 
 When a race condition occurs, multiple threads can modify/access the same
 	resource at the same time;
-	\cite[\S3.4, pp. 89-90]{Tate2010}
+	this can cause unpredictable results to occur from execution of these
+		threads \cite[\S3.4, pp. 89-90]{Tate2010}.
 
-
+For the programming language *Io* 
 
 
 
