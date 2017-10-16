@@ -79,13 +79,20 @@ When a race condition occurs, multiple threads can modify/access the same
 	this can cause unpredictable results to occur from execution of these
 		threads \cite[\S3.4, pp. 89-90]{Tate2010}.
 
-For the programming language *Io* 
+For the programming language *Io,* make objects actors by getting them to
+	communicate via asynchronous messages \cite[\S3.4, pp. 89-90]{Tate2010}.   
 
+### Futures
 
+"A future is a result (or resultant) object that is immediately returned from an
+	asynchronous message call".
+	Before the result becomes available, the process is blocked and access to
+		the future object is also blocked.
+	After the result becomes available, the future becomes the result object 
+		\cite[\S3.4, pp. 90]{Tate2010}.
 
-
-
-
+A future object can also provide automatic detection of deadlocks
+	\cite[\S3.4, pp. 90]{Tate2010}.
 
 
 
