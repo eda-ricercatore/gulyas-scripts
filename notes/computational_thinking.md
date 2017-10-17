@@ -63,6 +63,14 @@ Extensions and bug fixes, and additions of references, to this preliminary versi
 A coroutine is a means "to voluntarily suspend and resume execution of a
 	process" \cite[\S3.4, pp. 88-89]{Tate2010}.
 
+A coroutine can only change its own state;
+	hence, the concurrency model is more predictable, understandable, and
+		need less blocking states (i.e., bottlenecks)
+	\cite[\S3.4, pp. 91]{Tate2010}.
+
+
+
+
 
 
 ###	Actors
@@ -80,7 +88,7 @@ When a race condition occurs, multiple threads can modify/access the same
 		threads \cite[\S3.4, pp. 89-90]{Tate2010}.
 
 For the programming language *Io,* make objects actors by getting them to
-	communicate via asynchronous messages \cite[\S3.4, pp. 89-90]{Tate2010}.   
+	communicate via asynchronous messages \cite[\S3.4, pp. 89-91]{Tate2010}.   
 
 ### Futures
 
