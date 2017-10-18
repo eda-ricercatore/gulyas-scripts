@@ -113,7 +113,7 @@ A future object can also provide automatic detection of deadlocks
 ##	Tail recursion optimization (in *Prolog*)
 
 Tail recursion optimization optimizes the call so that the call stack, and hence
-	memory usage (i.e., stack space), can be kept constant;
+	memory usage (i.e., stack space in the call stack), can be kept constant;
 	however, the recursive subgoal must be the last goal in recursive rule.
 
 
