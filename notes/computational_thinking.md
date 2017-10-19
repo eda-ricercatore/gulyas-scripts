@@ -114,7 +114,8 @@ A future object can also provide automatic detection of deadlocks
 
 Tail recursion optimization optimizes the call so that the call stack, and hence
 	memory usage (i.e., stack space in the call stack), can be kept constant;
-	however, the recursive subgoal must be the last goal in recursive rule.
+	however, the recursive subgoal must be the last goal in recursive rule
+	\cite[\S4.3 pp. 111]{Tate2010}.
 
 
 
