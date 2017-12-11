@@ -18,7 +18,7 @@
 
 
 	Its procedure is described as follows:
-	Initialize an empty list of keywords.
+	Initialize an empty list of series.
 	Enumerate each line in the input BibTeX database.
 		If the currently enumerated line contains the 'Series'
 			BibTeX field,
@@ -26,7 +26,7 @@
 	Sort the set of series.
 
 	Notes/Assumptions:
-	Assume that the 'Keywords' standard BibTeX field is a single line
+	Assume that the 'Series' standard BibTeX field is a single line
 		field.
 
 
@@ -88,13 +88,13 @@ from file_io import file_io_operations
 
 
 ###############################################################
-#	Module with methods that collects the set of keywords found
-#		in all the 'Keywords' fields in this BibTeX database.
-class keywords_show:
-	list_of_keywords = []
+#	Module with methods that collects the set of series found
+#		in all the 'Series' fields in this BibTeX database.
+class series_show:
+	list_of_series = []
 	# ============================================================
-	#	Method to collect keywords from each BibTeX entry's
-	#		'Keywords' field, sort them, and display them in
+	#	Method to collect series from each BibTeX entry's
+	#		'Series' field, sort them, and display them in
 	#		standard output.
 	#	@param ip_f_obj - The file object for the input stream, which
 	#						reads in a BibTeX file.
@@ -102,33 +102,33 @@ class keywords_show:
 	#	@return nothing.
 	#	O(n) method, with respect to the number of lines in the file.
 	@staticmethod
-	def collect_and_list_keywords(ip_f_obj,ip_file):
+	def collect_and_list_series(ip_f_obj,ip_file):
 		print "=	Reading input BibTeX file:"+ip_file
-		# List/set of keywords found in the BibTeX database
-		set_of_keywords = []
+		# List/set of series found in the BibTeX database
+		set_of_series = []
 		# Read each available line in the input BibTeX file.
 		for line in ip_f_obj:
-			if(keywords_show.is_keywords_BibTeX_field(line)):
-				keywds_line = line.replace("	Keywords = {","")
-				keywds_line = keywds_line.replace("},\n","")
-				keywds_line = keywds_line.split(", ")
-				set_of_keywords = list(set(set_of_keywords+keywds_line))
-				set_of_keywords = sorted(set_of_keywords)
-		for kwd in set_of_keywords:
+			if(series_show.is_series_BibTeX_field(line)):
+				series_line = line.replace("	Series = {","")
+				series_line = series_line.replace("},\n","")
+				#series_line = series_line.split(", ")
+				set_of_series = list(set(set_of_series+series_line))
+				set_of_series = sorted(set_of_series)
+		for kwd in set_of_series:
 			print kwd
-		print "===	Number of keyphrases:",len(set_of_keywords)
+		print "===	Number of keyphrases:",len(set_of_series)
 
 	# ============================================================
 	#	Method to determine if a string 'a_str' starts with the
-	#		'Keywords' standard BibTeX field.
+	#		'Series' standard BibTeX field.
 	#	@param a_str - a string to be processed.
-	#	@return True, if 'a_str' starts with the 'Keywords'
+	#	@return True, if 'a_str' starts with the 'Series'
 	#		standard BibTeX field.
 	#		Else, return False.
 	#	O(1) method.
 	@staticmethod
-	def is_keywords_BibTeX_field(a_str):
-		if(a_str.startswith("	Keywords = {")):
+	def is_series_BibTeX_field(a_str):
+		if(a_str.startswith("	Series = {")):
 			return True
 		else:
 			return False
@@ -162,10 +162,10 @@ if __name__ == "__main__":
 	# --------------------------------------------------------
 	#	= End of Preprocessing.
 	print "==================================================="
-	print "Displaying Sorted List of Keywords from a BibTeX Database."
+	print "Displaying Sorted List of Series from a BibTeX Database."
 	print ""
 	# Assign input arguments to "queue_ip_args" for processing. 
-	queue_ip_args.set_input_arguments(sys.argv,queue_ip_args.KEYWORDS_DISPLAY)
+	queue_ip_args.set_input_arguments(sys.argv,queue_ip_args.GET_SERIES)
 	# Check if user wants to read the brief user manual.
 	queue_ip_args.check_if_help_wanted()
 	# Process the first input argument.
@@ -175,11 +175,11 @@ if __name__ == "__main__":
 	print "=	Create a file object for reading."
 	ip_file_obj = file_io_operations.open_file_object_read(ip_filename)
 	"""
-		Collect the set of all keywords found in the BibTeX database.
+		Collect the set of all series found in the BibTeX database.
 		Sort the set/list.
 		Display the set.
 	"""
-	keywords_show.collect_and_list_keywords(ip_file_obj, ip_filename)
+	series_show.collect_and_list_series(ip_file_obj, ip_filename)
 	# Close the file object for reading.
 	print "=	Close the file object for reading."
 	file_io_operations.close_file_object(ip_file_obj)

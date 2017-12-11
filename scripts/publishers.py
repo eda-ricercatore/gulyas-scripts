@@ -18,15 +18,15 @@
 
 
 	Its procedure is described as follows:
-	Initialize an empty list of keywords.
+	Initialize an empty list of publishers.
 	Enumerate each line in the input BibTeX database.
 		If the currently enumerated line contains the 'Publisher'
 			BibTeX field,
-			Add its contents to list of keywords. 
-	Sort the list of keywords.
+			Add its contents to set of publishers. 
+	Sort the set of publishers.
 
 	Notes/Assumptions:
-	Assume that the 'Keywords' standard BibTeX field is a single line
+	Assume that the 'Publisher' standard BibTeX field is a single line
 		field.
 
 
@@ -88,13 +88,13 @@ from file_io import file_io_operations
 
 
 ###############################################################
-#	Module with methods that collects the set of keywords found
-#		in all the 'Keywords' fields in this BibTeX database.
+#	Module with methods that collects the set of publishers found
+#		in all the 'Publisher' fields in this BibTeX database.
 class publishers_show:
-	list_of_keywords = []
+	list_of_publishers = []
 	# ============================================================
-	#	Method to collect keywords from each BibTeX entry's
-	#		'Keywords' field, sort them, and display them in
+	#	Method to collect publishers from each BibTeX entry's
+	#		'Publisher' field, sort them, and display them in
 	#		standard output.
 	#	@param ip_f_obj - The file object for the input stream, which
 	#						reads in a BibTeX file.
@@ -102,32 +102,35 @@ class publishers_show:
 	#	@return nothing.
 	#	O(n) method, with respect to the number of lines in the file.
 	@staticmethod
-	def collect_and_list_keywords(ip_f_obj,ip_file):
+	def collect_and_list_publishers(ip_f_obj,ip_file):
 		print "=	Reading input BibTeX file:"+ip_file
-		# List/set of keywords found in the BibTeX database
-		set_of_keywords = []
+		# List/set of publishers found in the BibTeX database
+		set_of_publishers = []
 		# Read each available line in the input BibTeX file.
 		for line in ip_f_obj:
-			if(publishers_show.is_keywords_BibTeX_field(line)):
-				keywds_line = line.replace("	Publisher = {","")
-				keywds_line = keywds_line.replace("},\n","")
-				set_of_keywords = list(set(set_of_keywords+keywds_line))
-				set_of_keywords = sorted(set_of_keywords)
-		for kwd in set_of_keywords:
+			if(publishers_show.is_publishers_BibTeX_field(line)):
+				publishers_line = line.replace("	Publisher = {","")
+				publishers_line = publishers_line.replace("},\n","")
+				#publishers_ln_to_list = [].insert(publishers_line)
+				publishers_line = publishers_line.split("=")
+				#set_of_publishers = list(set(set_of_publishers+list(publishers_line)))
+				set_of_publishers = list(set(set_of_publishers+publishers_line))
+				set_of_publishers = sorted(set_of_publishers)
+		for kwd in set_of_publishers:
 			print kwd
-		print "===	Number of keyphrases:",len(set_of_keywords)
+		print "===	Number of publishers:",len(set_of_publishers)
 
 	# ============================================================
 	#	Method to determine if a string 'a_str' starts with the
-	#		'Keywords' standard BibTeX field.
+	#		'Publisher' standard BibTeX field.
 	#	@param a_str - a string to be processed.
-	#	@return True, if 'a_str' starts with the 'Keywords'
+	#	@return True, if 'a_str' starts with the 'Publisher'
 	#		standard BibTeX field.
 	#		Else, return False.
 	#	O(1) method.
 	@staticmethod
-	def is_keywords_BibTeX_field(a_str):
-		if(a_str.startswith("	Keywords = {")):
+	def is_publishers_BibTeX_field(a_str):
+		if(a_str.startswith("	Publisher = {")):
 			return True
 		else:
 			return False
@@ -161,7 +164,7 @@ if __name__ == "__main__":
 	# --------------------------------------------------------
 	#	= End of Preprocessing.
 	print "==================================================="
-	print "Displaying Sorted List of Keywords from a BibTeX Database."
+	print "Displaying Sorted List of publishers from a BibTeX Database."
 	print ""
 	# Assign input arguments to "queue_ip_args" for processing. 
 	queue_ip_args.set_input_arguments(sys.argv,queue_ip_args.PUBLISHERS_DISPLAY)
@@ -174,11 +177,11 @@ if __name__ == "__main__":
 	print "=	Create a file object for reading."
 	ip_file_obj = file_io_operations.open_file_object_read(ip_filename)
 	"""
-		Collect the set of all keywords found in the BibTeX database.
+		Collect the set of all publishers found in the BibTeX database.
 		Sort the set/list.
 		Display the set.
 	"""
-	publishers_show.collect_and_list_keywords(ip_file_obj, ip_filename)
+	publishers_show.collect_and_list_publishers(ip_file_obj, ip_filename)
 	# Close the file object for reading.
 	print "=	Close the file object for reading."
 	file_io_operations.close_file_object(ip_file_obj)
