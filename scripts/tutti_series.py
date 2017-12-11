@@ -112,11 +112,12 @@ class series_show:
 				series_line = line.replace("	Series = {","")
 				series_line = series_line.replace("},\n","")
 				#series_line = series_line.split(", ")
+				series_line = series_line.split("~")
 				set_of_series = list(set(set_of_series+series_line))
 				set_of_series = sorted(set_of_series)
 		for kwd in set_of_series:
 			print kwd
-		print "===	Number of keyphrases:",len(set_of_series)
+		print "===	Number of series:",len(set_of_series)
 
 	# ============================================================
 	#	Method to determine if a string 'a_str' starts with the
