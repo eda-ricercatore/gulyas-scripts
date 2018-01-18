@@ -32,7 +32,7 @@ Comparing Python 3.x to Python 2.y, the former has significant
 They should not include dashes. Else, an interpreting/compiling error
 	would result.
 
-##	Importing Python Classes and Modules
+##	Importing Python Classes, Modules, and Packages
 
 Tasks that I can do:
 + Create and define a class, and use static methods in the class
@@ -40,16 +40,17 @@ Tasks that I can do:
 + Use static methods of a class, from another *Python* script.
 + Create, define, and use my own *Python* modules, from any *Python*
 	script.
++ Create, define, and use my own *Python* packages, from any *Python*
+	script.
+	Determine the importance and usefulness packages, with respect to
+	modules.
 
 See [example to import Python modules and classes](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/python/s-import).
 
 
 
 Tasks that I want to do, but can't yet (or have yet to try):
-+ Create, define, and use my own *Python* packages, from any *Python*
-	script.
-	Determine the importance and usefulness packages, with respect to
-	modules.
++ BLAH
 
 
 
@@ -90,6 +91,15 @@ With regards to importing *Python* modules, circular dependencies is
 	forbidden/discouraged during interpretation of *Python* programs.
 	That is, don't import a *Python* module *A*, which imports another
 	*Python* module *B* that imports *Python* module *A*.
+
+A *Python* package is a collection of *Python* modules, and is effectively a
+	subdirectory of *Python* modules that includes a file named *__init__.py*;
+	the file *__init__.py* can be an empty file.
+
+To import a module *B* from a package *A*, try: *import A.B*.  
+
+To import a class *C* from module *B* that belongs to package *A*, try:
+	*from A.B import C*.
 
 
 ##	Design Decisions
