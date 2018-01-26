@@ -71,6 +71,7 @@ Revision history: \vspace{-0.3cm}
 \item Version 3.4, March 11, 2017. Update information on naming convention.
 \item Version 3.5, October 9, 2017. Update guidelines on commenting/writing code.
 \item Version 3.6, December 24, 2017. Fix grammatical error in a sentence.
+\item Version 3.7, January 25, 2018. Added suggestions for software architecture of my computer programs.
 \end{enumerate}
 
 
@@ -365,7 +366,76 @@ Please judiciously consider what to do with the semipredicate problem \cite{Wiki
 
 
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Suggested Software Architecture}
+\label{sec:SuggestedSoftwareArchitecture}
 
+At the software system level, the software architecture can be described by the following modules/components: \vspace{-0.3cm}
+\begin{enumerate} \itemsep -4pt
+\item utilities: \vspace{-0.3cm}
+	\begin{enumerate} \itemsep -2pt
+	\item parser(s): \vspace{-0.2cm}
+		\begin{enumerate} \itemsep -2pt
+		\item For input benchmarks
+		\end{enumerate}
+	\item output generator(s)
+	\item flag/switch -based printing information to standard output/error: \vspace{-0.2cm}
+		\begin{enumerate} \itemsep -2pt
+		\item Print statements only when debugging mode is on.
+		\item Else, squelch print/trace statements to speed up computation/performance.
+		\end{enumerate}
+	\end{enumerate}
+\item solvers: \vspace{-0.3cm}
+	\begin{enumerate} \itemsep -2pt
+	\item ODE solver(s) for ordinary differential equations (ODEs): \vspace{-0.2cm}
+		\begin{enumerate} \itemsep -2pt
+		\item ODE solver(s) for nonlinear ODEs.
+		\end{enumerate}
+	\item PDE solver(s) for partial differential equations (PDEs): \vspace{-0.2cm}
+		\begin{enumerate} \itemsep -2pt
+		\item PDE solver(s) for nonlinear PDEs.
+		\end{enumerate}
+	\item satisfiability modulo theories (SMT) solver(s)
+	\item boolean/proposition satisfiability (SAT) solver(s)
+	\item maximum satisfiability modulo theories (Max-SMT) solver(s)
+	\item maximum satisfiability (Max-SAT) solver(s)
+	\item pseudo-boolean optimization (PBO) solver(s)
+	\item quadratic unconstrained binary optimization (QUBO) solver(s)
+	\item weighted boolean optimization (WBO) solver(s)
+	\item framework for algorithmic portfolio optimization
+	\end{enumerate}
+\item data structures: \vspace{-0.3cm}
+	\begin{enumerate} \itemsep -2pt
+	\item directed graphs: \vspace{-0.2cm}
+		\begin{enumerate} \itemsep -2pt
+		\item directed acyclic graphs (DAGs)
+		\item binary decision diagrams (BDDs)
+		\item AND-inverter graphs (AIGs)
+		\end{enumerate}
+	\item undirected graphs: \vspace{-0.2cm}
+		\begin{enumerate} \itemsep -2pt
+		\item heaps
+		\item trees
+		\end{enumerate}
+	\item maps, dictionaries, and hash tables
+	\end{enumerate}
+\item graphical user interface (GUI), if required.
+\end{enumerate}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lastly, suggestions are not available for digital and mixed-signal integrated circuits (ICs) and VLSI systems, such as system-on-chips (SoCs). More work needs to be done in terms of looking at hardware refactoring, and hardware design patterns.
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
