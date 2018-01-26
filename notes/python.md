@@ -102,6 +102,34 @@ To import a class *C* from module *B* that belongs to package *A*, try:
 	*from A.B import C*.
 
 
+
+
+## *Python* Classes
+
+
++ [Alchin2010]
+	- Chapters 4,6
+
+
++ [Hall2009b]
+	- Chapter 9,10
+	- For *Python 3,* not *Python 2*.
+
++ [Hetland2005]
+	- Chapters 6-9???/10??
+	- Chapters 17-19
+
+
+
+
+
+
+
+
+
+
+
+
 ##	Design Decisions
 
 Use either keyword arguments or positional arguments in my
@@ -129,6 +157,73 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 	Parewa Labs Pvt. Ltd. staff, "Learn Python Programming," Parewa Labs Pvt. Ltd., Kupondole, Lalitpur, Lalitpur District, Nepal.
 	
 	Available online from {\it Programming Tutorial, Articles and Examples -- Programiz} at: \url{https://www.programiz.com/python-programming/}; last accessed on April 1, 2017.
+
+
+
+## Object-Oriented *Python* Programming
+
++ [Alchin2010]
+	- Chapter 4,5-6,8.
+	- Marty Alchin, "Pro Python: Advanced Coding Techniques and Tools," in The Expert's Voice$^{\textregistered}$\ in Open Source series, Apress, Berkeley, CA, 2010. DOI: https://dx.doi.org/10.1007/978-1-4302-2758-8.
++ [Hall2009b]
+	- Chapter 9,10,11, 8 (pp. 165).
+	- Tim Hall and J.-P. Stacey, "Python 3 for Absolute Beginners: All you will ever need to start programming Python," in The Expert's Voice$^{\textregistered}$\ in Open Source series, Apress, Berkeley, CA, 2009. DOI:https://dx.doi.org/10.1007/978-1-4302-1633-9.
++ [Hetland2005]
+	- Chapters 6-8,9,11,13,16,17,18,19.
+	- Magnus Lie Hetland, "Beginning Python: From Novice to Professional," in The Expert's Voice$^{\textregistered}$\ in Open Source series, Apress, New York, NY, 2005. DOI:https://dx.doi.org/10.1007/978-1-4302-0072-7.
++ \cite{Langtangen2006}
+	- Chapter 8.6,8.8,8.10.
+	- Hans Petter Langtangen, "Python Scripting for Computational Science," Second edition, Texts in Computational Science and Engineering, Volume 3, Springer-Verlag Berlin Heidelberg, Heidelberg, Germany, 2006. DOI:https://dx.doi.org/10.1007/3-540-31269-2.
++ \cite{Langtangen2009a}
+	- Chapter 3,7,9
+	- Hans Petter Langtangen, "Python Scripting for Computational Science," Third edition, in the Texts in Computational Science and Engineering series, Volume 3, Springer-Verlag Berlin Heidelberg, Heidelberg, Germany, 2009. DOI:https://dx.doi.org/10.1007/978-3-540-73916-6.
++ \cite{Langtangen2009}
+	- Chapter 8.3,8.6,8.8,8.10, Appendix B.
+	- Hans Petter Langtangen, "A Primer on Scientific Programming with Python," Texts in Computational Science and Engineering, Volume 6, Springer-Verlag Berlin Heidelberg, Heidelberg, Germany, 2009. DOI:https://dx.doi.org/10.1007/978-3-642-02475-7. 
++ \cite{Langtangen2011}
+	- Chapter 4,6,7,9.
+	- Hans Petter Langtangen, "A Primer on Scientific Programming with Python," Second edition, in Springer-Verlag Berlin Heidelberg series, Texts in Computational Science and Engineering, Volume 6, Heidelberg, Germany, 2011. DOI:https://dx.doi.org/10.1007/978-3-642-18366-9.
++ \cite{Langtangen2012}
+	- Chapter 4,6,7,9.
+	- Hans Petter Langtangen, "A Primer on Scientific Programming with Python," Third edition, in Texts in Computational Science and Engineering, Volume 6, Springer-Verlag Berlin Heidelberg, Heidelberg, Germany, 2012. DOI:https://dx.doi.org/10.1007/978-3-642-30293-0.
+	
+
+
+
+
+
+
+
+## Domain Applications of *Python* Programming
+
++ UNIX/Linux system administration
+	- \cite{Gift2008}
++ Network programming
+	- \cite{Goerzen2004}
++ Numerical Methods, or Numerical Computing
+	- \cite{Langtangen2006,Langtangen2009,Langtangen2009a,Langtangen2011} 
++ Scientific Computing, Computational Science, & Computational Engineering
+	- \cite{Langtangen2006,Langtangen2009,Langtangen2009a,Langtangen2011} 
++ 
+
+
+
+
+
+
+
+## Mixed-Language Software Development
+
++ \cite{Langtangen2006}
+	- Chapter 5,10, Appendix B.
+	- Hans Petter Langtangen, "Python Scripting for Computational Science," Second edition, Texts in Computational Science and Engineering, Volume 3, Springer-Verlag Berlin Heidelberg, Heidelberg, Germany, 2006. DOI:https://dx.doi.org/10.1007/3-540-31269-2.
++ \cite{Langtangen2009}
+	- Chapter 5,10, Appendix B.
+	- Hans Petter Langtangen, "A Primer on Scientific Programming with Python," Texts in Computational Science and Engineering, Volume 6, Springer-Verlag Berlin Heidelberg, Heidelberg, Germany, 2009. DOI:https://dx.doi.org/10.1007/978-3-642-02475-7. 
+
+
+
+
 
 
 
