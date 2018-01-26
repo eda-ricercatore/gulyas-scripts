@@ -1,4 +1,4 @@
-#	Operation Go2DATE
+#	Operation Go2ICCAD
 
 Questions:
 + \cite{Dahl2013}
@@ -138,7 +138,7 @@ Design for Security
 
 
 
-#	Operazione Andare a DATE
+#	Operazione Andare a ICCAD
 
 + Find the cross-correlation of RTW waves.
 + Find the covariance of RTW waves.

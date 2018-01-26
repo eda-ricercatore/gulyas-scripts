@@ -70,6 +70,7 @@ Revision history: \vspace{-0.3cm}
 \item Version 3.3, February 3, 2017. Update information about usage of GitHub's services.
 \item Version 3.4, March 11, 2017. Update information on naming convention.
 \item Version 3.5, October 9, 2017. Update guidelines on commenting/writing code.
+\item Version 3.6, December 24, 2017. Fix grammatical error in a sentence.
 \end{enumerate}
 
 
@@ -105,8 +106,8 @@ Guidelines for creating {\sc Bib}\TeX\ entries and the {\sc Bib}\TeX\ database, 
 	\item Check if your desired {\sc Bib}\TeX\ key already exists in the {\sc Bib}\TeX\ database.
 	\item Use the following format for creating {\sc Bib}\TeX\ keys: [first] author's last name, appended by the year of publication. E.g., my first conference paper would have the {\sc Bib}\TeX\ key Ong2014. If the year of publication is not known, use an approximate year, with XY for the last 2 digits in the year (e.g., 20XY). Alternatively, if you cannot determine if it was published this millennium or the previous millennium, use UNKNOWN. For example, use Smith20XY, or KleinbergUNKNOWN.
 	\item Remove duplicate entries in the {\sc Bib}\TeX\ database. {\bf WARNING! Before doing this, perform a union operation on the fields of the {\sc Bib}\TeX\ entries. For example, if a {\sc Bib}\TeX\ entry has information that the other {\sc Bib}\TeX\ entry does not have, and vice versa, merge the information to a {\sc Bib}\TeX\ entry.}
-	\item {\bf Rational: Duplicate {\sc Bib}\TeX\ entries will cause problems in typesetting.}
-	\item Regarding hash collision of {\sc Bib}\TeX\ keys, such as multiple instances of Gratz2014, distinguish them by appending a letter to them. E.g., use Gratz2014a, Gratz2014b, Gratz2014c, and so on. If we run out of letters, append it with ``a'' followed by a number. The use of the letter ``a'' separates the year from the instance of {\sc Bib}\TeX\ key. That is, Gratz2014a1 tells me that it is the $28^{th}$ instance of Gratz2014, as opposed to Gratz201428.
+	\item {\bf Rationale: Duplicate {\sc Bib}\TeX\ entries will cause problems in typesetting.}
+	\item Regarding hash collision of {\sc Bib}\TeX\ keys, such as multiple instances of Gratz2014, distinguish them by appending a letter to them. E.g., use Gratz2014a, Gratz2014b, Gratz2014c, and so on. If we run out of letters, append it with ``a'' followed by a number. The use of the letter ``a'' separates the year from the instance of {\sc Bib}\TeX\ key. That is, Gratz2014a2 tells me that it is the $29^{th}$ instance of Gratz2014, as opposed to Gratz201429.
 	\item If possible, restrict the characters of each {\sc Bib}\TeX\ key to be alphanumeric. The year is always numeric, and is appended to the (first) author's last name. \vspace{-0.2cm}
 		\begin{enumerate} \itemsep -2pt
 		\item If the (first) author's last name has characters with accents, trim the characters used to typeset the accents from the (first) author's last name, and append the year of publication to it. E.g., {\it S{\v{o}}m{\'{e}}nz{\d{i}}} (year 2000) becomes {\it Somenzi2000}.
