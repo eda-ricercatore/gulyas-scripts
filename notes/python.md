@@ -183,10 +183,11 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 + \cite{Langtangen2011}
 	- Chapter 4,6,7,9.
 	- Hans Petter Langtangen, "A Primer on Scientific Programming with Python," Second edition, in Springer-Verlag Berlin Heidelberg series, Texts in Computational Science and Engineering, Volume 6, Heidelberg, Germany, 2011. DOI:https://dx.doi.org/10.1007/978-3-642-18366-9.
+	- This has the same content as \cite{Langtangen2012}.
 + \cite{Langtangen2012}
 	- Chapter 4,6,7,9.
 	- Hans Petter Langtangen, "A Primer on Scientific Programming with Python," Third edition, in Texts in Computational Science and Engineering, Volume 6, Springer-Verlag Berlin Heidelberg, Heidelberg, Germany, 2012. DOI:https://dx.doi.org/10.1007/978-3-642-30293-0.
-	
+	- This has the same content as \cite{Langtangen2011}.	
 
 
 
