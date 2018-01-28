@@ -188,7 +188,9 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 	- Chapter 4,6,7,9.
 	- Hans Petter Langtangen, "A Primer on Scientific Programming with Python," Third edition, in Texts in Computational Science and Engineering, Volume 6, Springer-Verlag Berlin Heidelberg, Heidelberg, Germany, 2012. DOI:https://dx.doi.org/10.1007/978-3-642-30293-0.
 	- This has the same content as \cite{Langtangen2011}.	
-
++ \cite{Lee2011b}
+	- Chapter 4,7
+	- Kent D. Lee, "Python Programming Fundamentals," in Undergraduate Topics in Computer Science, Springer-Verlag London, London, U.K., 2011. DOI:https://dx.doi.org/10.1007/978-1-84996-537-8.
 
 
 
