@@ -204,9 +204,9 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 + Network programming
 	- \cite{Goerzen2004}
 + Numerical Methods, or Numerical Computing
-	- \cite{Langtangen2006,Langtangen2009,Langtangen2009a,Langtangen2011} 
+	- \cite{Langtangen2006,Langtangen2009,Langtangen2009a,Langtangen2011,Langtangen2012,Linge2016} 
 + Scientific Computing, Computational Science, & Computational Engineering
-	- \cite{Langtangen2006,Langtangen2009,Langtangen2009a,Langtangen2011} 
+	- \cite{Langtangen2006,Langtangen2009,Langtangen2009a,Langtangen2011,Langtangen2012} 
 + 
 
 
