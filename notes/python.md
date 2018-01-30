@@ -239,11 +239,13 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 + Data structures.
 	\cite{Lutz2011,Lutz2013,Sweigart2015,Ucoluk2012}.
 + Database management.
-	- \cite{Hetland2005,Lutz2010,Lutz2011,Sileika2010}.
+	- \cite{Hetland2005,Lutz2010,Lutz2011,Sileika2010,Younker2008}.
 + Functional programming.
-	- \cite{Lutz2013}.
+	- \cite{Lutz2009,Lutz2013}.
 + GUI development.
-	- \cite{Gift2008,Hall2009b,Hetland2005,Langtangen2009,Lee2011b,Lutz2010,Lutz2011}.
+	- \cite{Gift2008,Hall2009b,Hetland2005,Langtangen2009,Lee2011b,Lutz2010,Lutz2011,Vaingast2009}.
++ Machine learning.
+	- \cite{Unpingco2016}.
 + Network programming.
 	- \cite{Goerzen2004,Hetland2005,Lutz2011,Rhodes2010,Sileika2010}.
 + Numerical methods, or numerical computing.
@@ -251,21 +253,29 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 + Parallel programming.
 	- \cite{Gift2008,Lutz2011}.
 + Scientific computing, computational science, and computational engineering.
-	- \cite{Langtangen2006,Langtangen2009,Langtangen2009a,Langtangen2011,Langtangen2012}.
+	- \cite{Langtangen2006,Langtangen2009,Langtangen2009a,Langtangen2011,Langtangen2012,Vaingast2009}.
 + Software development.
 	- \cite[Chapters 8-11]{Alchin2010}.
 	- \cite[Appendices A and B]{Langtangen2006}.
 	- \cite[Appendices A and B]{Langtangen2009}.
 	- \cite[Chapter 21]{Lutz2011}.
 	- \cite[Chapter 15]{Lutz2013}.
+	- \cite{Younker2008}.
 + Statistical analysis.
-	- \cite{Saha2015,Sileika2010}.
+	- \cite{Saha2015,Sileika2010,Unpingco2016}.
 + Task automation.
 	- \cite{Sweigart2015}
 + UNIX/Linux system administration.
 	- \cite{Gift2008,Sileika2010,Sweigart2015}.
 + Web development.
-	- \cite{Hetland2005,Langtangen2006,Langtangen2009,Pilgrim2009,Rhodes2010,Sileika2010}.
+	- \cite{Hetland2005,Langtangen2006,Langtangen2009,Pilgrim2009,Rhodes2010,Sileika2010,Younker2008}.
+
+
+
+
+
+
+
 
 
 
