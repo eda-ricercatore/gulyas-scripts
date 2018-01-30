@@ -107,6 +107,8 @@ To import a class *C* from module *B* that belongs to package *A*, try:
 ## *Python* Classes
 
 
+
+
 + [Alchin2010]
 	- Chapters 4,6
 
@@ -183,11 +185,9 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 + \cite{Langtangen2011}
 	- Chapter 4, 6, 7, 9.
 	- Hans Petter Langtangen, "A Primer on Scientific Programming with Python," Second edition, in Springer-Verlag Berlin Heidelberg series, Texts in Computational Science and Engineering, Volume 6, Heidelberg, Germany, 2011. DOI:https://dx.doi.org/10.1007/978-3-642-18366-9.
-	- This has the same content as \cite{Langtangen2012}.
 + \cite{Langtangen2012}
 	- Chapter 4, 6, 7, 9.
 	- Hans Petter Langtangen, "A Primer on Scientific Programming with Python," Third edition, in Texts in Computational Science and Engineering, Volume 6, Springer-Verlag Berlin Heidelberg, Heidelberg, Germany, 2012. DOI:https://dx.doi.org/10.1007/978-3-642-30293-0.
-	- This has the same content as \cite{Langtangen2011}.	
 + \cite{Lee2011b}
 	- Chapter 4, 7.
 	- Kent D. Lee, "Python Programming Fundamentals," in Undergraduate Topics in Computer Science, Springer-Verlag London, London, U.K., 2011. DOI:https://dx.doi.org/10.1007/978-1-84996-537-8.
@@ -253,7 +253,9 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 + Parallel programming.
 	- \cite{Gift2008,Lutz2011}.
 + Scientific computing, computational science, and computational engineering.
-	- \cite{Langtangen2006,Langtangen2009,Langtangen2009a,Langtangen2011,Langtangen2012,Vaingast2009}.
+	- \cite{Langtangen2006,Langtangen2009}.
+	- \cite{Langtangen2009a,Langtangen2011,Langtangen2012}
+	- \cite{Vaingast2009}
 + Software development.
 	- \cite[Chapters 8-11]{Alchin2010}.
 	- \cite[Appendices A and B]{Langtangen2006}.
