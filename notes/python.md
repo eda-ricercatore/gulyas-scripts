@@ -191,7 +191,18 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 + \cite{Lee2011b}
 	- Chapter 4,7
 	- Kent D. Lee, "Python Programming Fundamentals," in Undergraduate Topics in Computer Science, Springer-Verlag London, London, U.K., 2011. DOI:https://dx.doi.org/10.1007/978-1-84996-537-8.
-
++ \cite{Lutz2009}
+	- Chapter 
+	- @book{Lutz2009,
+	Address = {Sebastopol, {CA}},
+	Author = {Mark Lutz},
+	Date-Added = {2014-03-30 00:11:00 +0200},
+	Date-Modified = {2014-03-30 00:11:00 +0200},
+	Edition = {Fourth},
+	Keywords = {Python},
+	Publisher = {O'Reilly Media},
+	Title = {Learning {Python}: Powerful Object-Oriented Programming},
+	Year = {2009}}
 
 
 
@@ -201,13 +212,14 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 
 + UNIX/Linux system administration
 	- \cite{Gift2008}
-+ Network programming
++ Network programming.
 	- \cite{Goerzen2004}
-+ Numerical Methods, or Numerical Computing
++ Numerical methods, or numerical computing.
 	- \cite{Langtangen2006,Langtangen2009,Langtangen2009a,Langtangen2011,Langtangen2012,Linge2016} 
-+ Scientific Computing, Computational Science, & Computational Engineering
++ Scientific computing, computational science, and computational engineering.
 	- \cite{Langtangen2006,Langtangen2009,Langtangen2009a,Langtangen2011,Langtangen2012} 
-+ 
++ Algorithm analysis
+	- \cite{Hetland2010}
 
 
 
