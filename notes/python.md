@@ -175,34 +175,70 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 	- Chapter 8.6,8.8,8.10.
 	- Hans Petter Langtangen, "Python Scripting for Computational Science," Second edition, Texts in Computational Science and Engineering, Volume 3, Springer-Verlag Berlin Heidelberg, Heidelberg, Germany, 2006. DOI:https://dx.doi.org/10.1007/3-540-31269-2.
 + \cite{Langtangen2009a}
-	- Chapter 3,7,9
+	- Chapter 3, 7, 9.
 	- Hans Petter Langtangen, "Python Scripting for Computational Science," Third edition, in the Texts in Computational Science and Engineering series, Volume 3, Springer-Verlag Berlin Heidelberg, Heidelberg, Germany, 2009. DOI:https://dx.doi.org/10.1007/978-3-540-73916-6.
 + \cite{Langtangen2009}
 	- Chapter 8.3,8.6,8.8,8.10, Appendix B.
 	- Hans Petter Langtangen, "A Primer on Scientific Programming with Python," Texts in Computational Science and Engineering, Volume 6, Springer-Verlag Berlin Heidelberg, Heidelberg, Germany, 2009. DOI:https://dx.doi.org/10.1007/978-3-642-02475-7. 
 + \cite{Langtangen2011}
-	- Chapter 4,6,7,9.
+	- Chapter 4, 6, 7, 9.
 	- Hans Petter Langtangen, "A Primer on Scientific Programming with Python," Second edition, in Springer-Verlag Berlin Heidelberg series, Texts in Computational Science and Engineering, Volume 6, Heidelberg, Germany, 2011. DOI:https://dx.doi.org/10.1007/978-3-642-18366-9.
 	- This has the same content as \cite{Langtangen2012}.
 + \cite{Langtangen2012}
-	- Chapter 4,6,7,9.
+	- Chapter 4, 6, 7, 9.
 	- Hans Petter Langtangen, "A Primer on Scientific Programming with Python," Third edition, in Texts in Computational Science and Engineering, Volume 6, Springer-Verlag Berlin Heidelberg, Heidelberg, Germany, 2012. DOI:https://dx.doi.org/10.1007/978-3-642-30293-0.
 	- This has the same content as \cite{Langtangen2011}.	
 + \cite{Lee2011b}
-	- Chapter 4,7
+	- Chapter 4, 7.
 	- Kent D. Lee, "Python Programming Fundamentals," in Undergraduate Topics in Computer Science, Springer-Verlag London, London, U.K., 2011. DOI:https://dx.doi.org/10.1007/978-1-84996-537-8.
 + \cite{Lutz2009}
-	- Chapter 
-	- @book{Lutz2009,
-	Address = {Sebastopol, {CA}},
-	Author = {Mark Lutz},
+	- Chapter 4,15,16-20,21-24,25-28,30-31,32-35,37,38,39.
+	- Mark Lutz, "Learning Python: Powerful Object-Oriented Programming," Fourth edition, O'Reilly Media, Sebastopol, CA, 2009.
++ \cite{Lutz2010}
+	- pp. 60-61, 85-88, 183-187.
+	- Mark Lutz, "Python Pocket Reference: Python in your pocket," Fourth edition, O'Reilly Media, Sebastopol, CA, 2010.
++ \cite{Lutz2013}
+	- Chapter 4,16-21, 22-25, 26-29, 31-32, 33-36, 39-41.
+	- Mark Lutz, "Learning Python: Powerful Object-Oriented Programming," Fifth edition, O'Reilly Media, Sebastopol, CA, 2013.
++ \cite{Pilgrim2009}
+	- Chapter 6-7, 8, 9, 10.
+	- Mark Pilgrim, "Dive Into Python 3," Apress, Berkeley, CA, 2009. DOI:https://dx.doi.org/10.1007/978-1-4302-2416-7.
++ \cite{Ucoluk2012}
+	- Chapter 7.
+	- Vienna, Austria},
+	Author = {G{\"{o}}kt{\"{u}}rk {\"{U}}{\c{c}}oluk and Sinan Kalkan},
 	Date-Added = {2014-03-30 00:11:00 +0200},
 	Date-Modified = {2014-03-30 00:11:00 +0200},
-	Edition = {Fourth},
+	Doi = {https://dx.doi.org/10.1007/978-3-7091-1343-1},
+	Edition = {},
 	Keywords = {Python},
-	Publisher = {O'Reilly Media},
-	Title = {Learning {Python}: Powerful Object-Oriented Programming},
-	Year = {2009}}
+	Month = {},
+	Publisher = {Springer-Verlag Wien},
+	Series = {},
+	Title = {Introduction to Programming Concepts with Case Studies in {Python}},
+	Volume = {},
+	Year = {2012}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -210,21 +246,38 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 
 ## Domain Applications of *Python* Programming
 
-+ UNIX/Linux system administration
-	- \cite{Gift2008}
++ UNIX/Linux system administration.
+	- \cite{Gift2008,Sileika2010,Sweigart2015}.
 + Network programming.
-	- \cite{Goerzen2004}
+	- \cite{Goerzen2004,Hetland2005,Lutz2011,Rhodes2010,Sileika2010}.
 + Numerical methods, or numerical computing.
-	- \cite{Langtangen2006,Langtangen2009,Langtangen2009a,Langtangen2011,Langtangen2012,Linge2016} 
+	- \cite{Langtangen2006,Langtangen2009,Langtangen2009a,Langtangen2011,Langtangen2012,Linge2016}. 
 + Scientific computing, computational science, and computational engineering.
-	- \cite{Langtangen2006,Langtangen2009,Langtangen2009a,Langtangen2011,Langtangen2012} 
-+ Algorithm analysis
-	- \cite{Hetland2010}
-
-
-
-
-
+	- \cite{Langtangen2006,Langtangen2009,Langtangen2009a,Langtangen2011,Langtangen2012}.
++ Algorithm analysis.
+	- \cite{Hetland2010}.
++ Data structures.
+	\cite{Lutz2011,Lutz2013,Sweigart2015,Ucoluk2012}.
++ Parallel programming.
+	- \cite{Gift2008,Lutz2011}.
++ GUI development.
+	- \cite{Gift2008,Hall2009b,Hetland2005,Langtangen2009,Lee2011b,Lutz2010,Lutz2011}.
++ Database management.
+	- \cite{Hetland2005,Lutz2010,Lutz2011,Sileika2010}.
++ Software development.
+	- \cite[Chapters 8-11]{Alchin2010}.
+	- \cite[Appendices A and B]{Langtangen2006}.
+	- \cite[Appendices A and B]{Langtangen2009}.
+	- \cite[Chapter 21]{Lutz2011}.
+	- \cite[Chapter 15]{Lutz2013}.
++ Web development.
+	- \cite{Hetland2005,Langtangen2006,Langtangen2009,Pilgrim2009,Rhodes2010,Sileika2010}.
++ Statistical analysis.
+	- \cite{Saha2015,Sileika2010}.
++ Task automation.
+	- \cite{Sweigart2015}
++ Functional programming.
+	- \cite{Lutz2013}.
 
 
 ## Mixed-Language Software Development
@@ -234,7 +287,10 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 	- Hans Petter Langtangen, "Python Scripting for Computational Science," Second edition, Texts in Computational Science and Engineering, Volume 3, Springer-Verlag Berlin Heidelberg, Heidelberg, Germany, 2006. DOI:https://dx.doi.org/10.1007/3-540-31269-2.
 + \cite{Langtangen2009}
 	- Chapter 5,10, Appendix B.
-	- Hans Petter Langtangen, "A Primer on Scientific Programming with Python," Texts in Computational Science and Engineering, Volume 6, Springer-Verlag Berlin Heidelberg, Heidelberg, Germany, 2009. DOI:https://dx.doi.org/10.1007/978-3-642-02475-7. 
+	- Hans Petter Langtangen, "A Primer on Scientific Programming with Python," Texts in Computational Science and Engineering, Volume 6, Springer-Verlag Berlin Heidelberg, Heidelberg, Germany, 2009. DOI:https://dx.doi.org/10.1007/978-3-642-02475-7.
++ \cite{Lutz2011}
+	- Chapter 20.
+	- Mark Lutz, "Programming Python: Powerful Object-Oriented Programming," Fourth edition, O'Reilly Media, Sebastopol, CA, 2011.
 
 
 
