@@ -205,19 +205,7 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 	- Mark Pilgrim, "Dive Into Python 3," Apress, Berkeley, CA, 2009. DOI:https://dx.doi.org/10.1007/978-1-4302-2416-7.
 + \cite{Ucoluk2012}
 	- Chapter 7.
-	- Vienna, Austria},
-	Author = {G{\"{o}}kt{\"{u}}rk {\"{U}}{\c{c}}oluk and Sinan Kalkan},
-	Date-Added = {2014-03-30 00:11:00 +0200},
-	Date-Modified = {2014-03-30 00:11:00 +0200},
-	Doi = {https://dx.doi.org/10.1007/978-3-7091-1343-1},
-	Edition = {},
-	Keywords = {Python},
-	Month = {},
-	Publisher = {Springer-Verlag Wien},
-	Series = {},
-	Title = {Introduction to Programming Concepts with Case Studies in {Python}},
-	Volume = {},
-	Year = {2012}}
+	- Gokturk Ucoluk and Sinan Kalkan, "Introduction to Programming Concepts with Case Studies in Python," Springer-Verlag Wien, Vienna, Austria, 2012. DOI:https://dx.doi.org/10.1007/978-3-7091-1343-1.
 
 
 
@@ -246,38 +234,45 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 
 ## Domain Applications of *Python* Programming
 
-+ UNIX/Linux system administration.
-	- \cite{Gift2008,Sileika2010,Sweigart2015}.
-+ Network programming.
-	- \cite{Goerzen2004,Hetland2005,Lutz2011,Rhodes2010,Sileika2010}.
-+ Numerical methods, or numerical computing.
-	- \cite{Langtangen2006,Langtangen2009,Langtangen2009a,Langtangen2011,Langtangen2012,Linge2016}. 
-+ Scientific computing, computational science, and computational engineering.
-	- \cite{Langtangen2006,Langtangen2009,Langtangen2009a,Langtangen2011,Langtangen2012}.
 + Algorithm analysis.
 	- \cite{Hetland2010}.
 + Data structures.
 	\cite{Lutz2011,Lutz2013,Sweigart2015,Ucoluk2012}.
-+ Parallel programming.
-	- \cite{Gift2008,Lutz2011}.
-+ GUI development.
-	- \cite{Gift2008,Hall2009b,Hetland2005,Langtangen2009,Lee2011b,Lutz2010,Lutz2011}.
 + Database management.
 	- \cite{Hetland2005,Lutz2010,Lutz2011,Sileika2010}.
++ Functional programming.
+	- \cite{Lutz2013}.
++ GUI development.
+	- \cite{Gift2008,Hall2009b,Hetland2005,Langtangen2009,Lee2011b,Lutz2010,Lutz2011}.
++ Network programming.
+	- \cite{Goerzen2004,Hetland2005,Lutz2011,Rhodes2010,Sileika2010}.
++ Numerical methods, or numerical computing.
+	- \cite{Langtangen2006,Langtangen2009,Langtangen2009a,Langtangen2011,Langtangen2012,Linge2016}. 
++ Parallel programming.
+	- \cite{Gift2008,Lutz2011}.
++ Scientific computing, computational science, and computational engineering.
+	- \cite{Langtangen2006,Langtangen2009,Langtangen2009a,Langtangen2011,Langtangen2012}.
 + Software development.
 	- \cite[Chapters 8-11]{Alchin2010}.
 	- \cite[Appendices A and B]{Langtangen2006}.
 	- \cite[Appendices A and B]{Langtangen2009}.
 	- \cite[Chapter 21]{Lutz2011}.
 	- \cite[Chapter 15]{Lutz2013}.
-+ Web development.
-	- \cite{Hetland2005,Langtangen2006,Langtangen2009,Pilgrim2009,Rhodes2010,Sileika2010}.
 + Statistical analysis.
 	- \cite{Saha2015,Sileika2010}.
 + Task automation.
 	- \cite{Sweigart2015}
-+ Functional programming.
-	- \cite{Lutz2013}.
++ UNIX/Linux system administration.
+	- \cite{Gift2008,Sileika2010,Sweigart2015}.
++ Web development.
+	- \cite{Hetland2005,Langtangen2006,Langtangen2009,Pilgrim2009,Rhodes2010,Sileika2010}.
+
+
+
+
+
+
+
 
 
 ## Mixed-Language Software Development
