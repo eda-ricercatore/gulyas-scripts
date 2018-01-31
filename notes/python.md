@@ -111,8 +111,8 @@ Chapter 4,5-6,8.
 
 
 
-+ \cite{Alchin2010}
-	- Chapters 4,6
+\cite{Alchin2010}
+
 
 
 + \cite{Hall2009b}
