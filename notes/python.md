@@ -107,17 +107,19 @@ To import a class *C* from module *B* that belongs to package *A*, try:
 ## *Python* Classes
 
 
+Chapter 4,5-6,8.
 
 
-+ [Alchin2010]
+
++ \cite{Alchin2010}
 	- Chapters 4,6
 
 
-+ [Hall2009b]
++ \cite{Hall2009b}
 	- Chapter 9,10
 	- For *Python 3,* not *Python 2*.
 
-+ [Hetland2005]
++ \cite{Hetland2005}
 	- Chapters 6-9???/10??
 	- Chapters 17-19
 
