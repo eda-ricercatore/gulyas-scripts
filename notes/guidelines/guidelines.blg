@@ -1,0 +1,58 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: guidelines.aux
+The style file: plain.bst
+Database file #1: /Users/zhiyang/Documents/ricerca/lassi-bibtex/references.bib
+Reallocated buffer (elt_size=1) to 40000 items from 20000.
+Reallocated sv_buffer (elt_size=1) to 40000 items from 20000.
+Reallocated ex_buf (elt_size=1) to 40000 items from 20000.
+Reallocated out_buf (elt_size=1) to 40000 items from 20000.
+Reallocated name_tok (elt_size=4) to 40000 items from 20000.
+Reallocated name_sep_char (elt_size=1) to 40000 items from 20000.
+Reallocated buffer (elt_size=1) to 60000 items from 40000.
+Reallocated sv_buffer (elt_size=1) to 60000 items from 40000.
+Reallocated ex_buf (elt_size=1) to 60000 items from 40000.
+Reallocated out_buf (elt_size=1) to 60000 items from 40000.
+Reallocated name_tok (elt_size=4) to 60000 items from 40000.
+Reallocated name_sep_char (elt_size=1) to 60000 items from 40000.
+You've used 72 entries,
+            2118 wiz_defined-function locations,
+            948 strings with 22564 characters,
+and the built_in function-call counts, 16859 in all, are:
+= -- 1625
+> -- 643
+< -- 6
++ -- 271
+- -- 192
+* -- 762
+:= -- 2895
+add.period$ -- 226
+call.type$ -- 72
+change.case$ -- 298
+chr.to.int$ -- 0
+cite$ -- 72
+duplicate$ -- 697
+empty$ -- 1595
+format.name$ -- 192
+if$ -- 3648
+int.to.chr$ -- 0
+int.to.str$ -- 72
+missing$ -- 56
+newline$ -- 363
+num.names$ -- 144
+pop$ -- 510
+preamble$ -- 1
+purify$ -- 240
+quote$ -- 0
+skip$ -- 513
+stack$ -- 0
+substring$ -- 425
+swap$ -- 96
+text.length$ -- 6
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 238
+warning$ -- 0
+while$ -- 151
+width$ -- 74
+write$ -- 776

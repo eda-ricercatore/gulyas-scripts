@@ -63,11 +63,11 @@ Revision history: \vspace{-0.3cm}
 \item Version 1.1, December 23, 2014. Version ported for this boilerplate code project.
 \item Version 2, October 20, 2015. Added guidelines for {\tt Doxygen}-supported, {\tt Javadoc}-based coding standard. This coding standard is also known as coding style, coding style guide, coding guideline, coding scheme, code convention, code documentation guideline, programming guideline, or programming style.
 \item Version 2.1, October 21, 2015. Finished guidelines for {\tt Doxygen}-supported, {\tt Javadoc}-based coding standard for {\it C++}.
-\item Version 2.2, June 4, 2016. Finished section for additional guidelines: to include documentation using {\tt Markdown}, and tools for software development, integrated circuit and cyber-physical system design, and documentation.
-\item Version 3, November 3, 2016. Added guidelines for: documenting {\it GNU Octave} and {\sc Matlab} code, in order to facilitate documentation generation using {\it Texinfo} \cite{WikipediaContributors2016h,Stallman2016,Stallman2016a,Stallman2016b}; sharing of source code, design files, sets of benchmarks, data sets, and documentation on online repositories \cite{figshareLLPstaff2016,GitHubStaff2016}; and added section on exception safety.
+\item Version 2.2, June 4, 2016. Finished section for additional guidelines: to include documentation using {\it Markdown}, and tools for software development, integrated circuit and cyber-physical system design, and documentation.
+\item Version 3, November 3, 2016. Added guidelines for: documenting {\tt GNU Octave} and {\sc Matlab} code, in order to facilitate documentation generation using {\it Texinfo} \cite{WikipediaContributors2016h,Stallman2016,Stallman2016a,Stallman2016b}; sharing of source code, design files, sets of benchmarks, data sets, and documentation on online repositories \cite{figshareLLPstaff2016,GitHubStaff2016}; and added section on exception safety.
 \item Version 3.1, November 4, 2016. Fixed references for indent style conventions.
 \item Version 3.2, December 20, 2016. Update guidelines for conduct.
-\item Version 3.3, February 3, 2017. Update information about usage of GitHub's services.
+\item Version 3.3, February 3, 2017. Update information about usage of {\it GitHub}'s services.
 \item Version 3.4, March 11, 2017. Update information on naming convention.
 \item Version 3.5, October 9, 2017. Update guidelines on commenting/writing code.
 \item Version 3.6, December 24, 2017. Fix grammatical error in a sentence.
@@ -88,7 +88,7 @@ Revision history: \vspace{-0.3cm}
 \section{Guidelines for Conduct}
 \label{sec:GuidelinesforConduct}
 
-Members of the open source software and/or hardware projects should follow the {\it Code of Conduct} of the {\tt Institute of Electrical and Electronics Engineers (IEEE)} \cite{IEEE2014b,IEEE2014a,IEEE2014} and the {\tt Association for Computing Machinery (ACM)} \cite{ACMCouncil1992}. Also, actions of discrimination are not acceptable \cite{IEEE2014c}; we should intentionally commit to inclusive diversity. An additional guideline is ``Dave Packard's 11 simple rules'' \cite{HewlettPackardCompany2012}. \\
+Members of the open source software and/or hardware projects should follow the {\it Code of Conduct} of the {\it Institute of Electrical and Electronics Engineers (IEEE)} \cite{IEEE2014b,IEEE2014a,IEEE2014} and the {\it Association for Computing Machinery (ACM)} \cite{ACMCouncil1992}. Also, actions of discrimination are not acceptable \cite{IEEE2014c}; we should intentionally commit to inclusive diversity. An additional guideline is ``Dave Packard's 11 simple rules'' \cite{HewlettPackardCompany2012}. \\
 
 %There are a significant amount of references for helping people to learn \LaTeX \cite{Voss2011,vanDongen2012,Syropoulos2003,Raymond2004,Mittelbach2004,Lamport1994,Krishnan2003,Krantz2001,Kottwitz2011,Koranne2011,Kopka2004,Knuth1999,Hoenig1998,Higham1998,Haralambous2007,Griffiths1997,Gratzer2007,Goossens2007,Goossens1999,Goossens1997,Diller1999,Bindner2011,Berry2009,UITCambridge2011,Scharrer2011,Pakin2008,Cormen2010,Syropoulos2004,Hamalainen2006} and related information/technologies.
 
@@ -295,7 +295,7 @@ The recommended fields for {\sc Bib}\TeX\ entries are: \vspace{-0.3cm}
 \section{Coding Standard}
 \label{sec:CodingStandard}
 
-This is a guideline for {\it Doxygen}-supported \cite{vanHeesch2016}, {\it Javadoc}-based coding standard that shall be used for this boilerplate code project. The term ``coding standard'' is used interchangeably/synonymously with coding style, coding style guide, coding guideline, coding scheme, code convention, code documentation guideline, programming guideline, or programming style. My coding style/standard shall be self-documenting. The documentation generator that shall be supported is: {\it Doxygen}. Since I am using {\it Doxygen} for generating documentation, I can use \LaTeX\ to provide richer markup. \\
+This is a guideline for {\tt Doxygen}-supported \cite{vanHeesch2016}, {\tt Javadoc}-based \cite{Long1995} coding standard that shall be used for this boilerplate code project. The term ``coding standard'' is used interchangeably/synonymously with coding style, coding style guide, coding guideline, coding scheme, code convention, code documentation guideline, programming guideline, or programming style. My coding style/standard shall be self-documenting. The documentation generator that shall be supported is: {\tt Doxygen}. Since I am using {\tt Doxygen} for generating documentation, I can use \LaTeX\ to provide richer markup. \\
 
 {\bf Document the known bugs for each function/method.} \\
 
@@ -335,7 +335,13 @@ The order of tags in different sections of the {\it C++} code is given as follow
 \item The @deprecated tag can be used for headers/interfaces, classes, constructors, functions/methods, and variables.
 \end{enumerate}
 
-For a suggested coding style for {\tt Python} and {\it Ruby} scripts, see \cite{vanRossum2013} and \cite{Macdonald20XY}, respectively. \\
+Additional coding style guidelines can be found in \cite{Basalaj2013,ProgrammingResearchLtdStaff2013,Thereska20XY,Hoff2008a,ScienceInfusionSoftwareEngineeringProcessGroupStaff2006,Cargill1992,Misfeldt2004}. \\
+
+For a suggested coding style for {\it Python} and {\it Ruby} scripts, see \cite{vanRossum2013} and \cite{Macdonald20XY}, respectively. Regarding coding style guidelines for embedded {\it C}, see \cite{Barr2013,Labrosse1999}. In addition, there exists coding style guidelines for {\it Java} \cite{OracleCorporationStaff20XYa,Smith2003,OracleCorporationStaff2016b,OracleCorporationStaff2016,OracleCorporationStaff20XY,Long1995,Carrano2012} and {\it LabVIEW} \cite{Blume2007a,Conway2003}. Coding style guidelines for {\it Verilog} can be found at: \cite{Bening2001,Bening2000}. Likewise, the coding style guide for {\it SystemVerilog} can be found at \cite{Mintz2007}. For other coding style guidelines, see \cite{Wolf20XY,Cady2017,IntelCorporationStaff2015,Schneider2013a,Weatherwax2008,Laplante2012,McConnell2004,Feathers2005,Koopman2010,Valvano2007,Fingeroff2010,Shore2008,Schach2007,Kernighan1982}. \\
+
+%	See Section \S\ref{sssec:edasoftwaredevelopment} of my personal notes.
+% code conventions, code documentation guidelines, coding guidelines, coding scheme, coding standards, coding style guide, coding styles, programming guidelines, and programming style
+%	For my BibTeX database, use: coding scheme, coding standards, coding styles, coding guidelines, and programming style
 
 
 
@@ -442,22 +448,19 @@ Lastly, suggestions are not available for digital and mixed-signal integrated ci
 \section{Additional Guidelines}
 \label{sec:AdditionalGuidelines}
 
-Please kindly use the {\tt Markdown} language for writing text documents. This is because Bitbucket will treat my text file as a file written in the {\tt Markdown} syntax. That said, the raw file looks a lot better than the represented {\tt Markdown} files. Their ({\it Bitbucket}) formatting for {\tt Markdown} is messed up. {\it GitHub}'s formatting for {\tt Markdown} works as expected. \\
+Please kindly use the {\it Markdown} language for writing text documents. This is because Bitbucket will treat my text file as a file written in the {\it Markdown} syntax. That said, the raw file looks a lot better than the represented {\it Markdown} files. Their ({\tt Bitbucket}) formatting for {\it Markdown} is messed up. {\it GitHub}'s formatting for {\it Markdown} works as expected. \\
 
 In addition, tools for working with source code and \LaTeX\ source files include: \vspace{-0.3cm}
 \begin{enumerate} \itemsep -4pt
 \item {\tt git}: \cite{Driscoll2012}
 \item {\tt latexdiff}: ``determine and markup differences between two latex files'' \vspace{-0.3cm}
 	\begin{enumerate} \itemsep -2pt
-	\item Evan Driscoll, ``Latexdiff notes,'' from {\it Evan Driscoll's web page: Writings on Software: \LaTeX}, the Department of Computer Sciences, University of Wisconsin-Madison College of Engineering, University of Wisconsin-Madison, Madison, WI. Available online at: \url{http://pages.cs.wisc.edu/~driscoll/software/latex/latexdiff.html}; last accessed on February 15, 2016 \cite{Driscoll20XYa}.
+	\item Evan Driscoll, ``Latexdiff notes,'' from {\it Evan Driscoll's web page: Writings on Software: \LaTeX}, the Department of Computer Sciences, University of Wisconsin-Madison College of Engineering, University of Wisconsin-Madison, Madison, WI. Available online at: \url{http://pages.cs.wisc.edu/~driscoll/software/latex/latexdiff.html}; last accessed on February 15, 2016 \cite{Driscoll20XYb}.
 	\end{enumerate}
 \item documentation generators: \vspace{-0.3cm}
 	\begin{enumerate} \itemsep -2pt
-	\item {\it Doxygen} \cite{vanHeesch2016}
-	\item {\tt Texinfo}-based generators \cite{WikipediaContributors2016h,Stallman2016,Stallman2016a,Stallman2016b}: \vspace{-0.2cm}
-		\begin{enumerate} \itemsep -2pt
-		\item 
-		\end{enumerate}
+	\item {\tt Doxygen} \cite{vanHeesch2016}
+	\item {\tt Texinfo}-based generators \cite{WikipediaContributors2016h,Stallman2016,Stallman2016a,Stallman2016b}
 	\end{enumerate}
 \item Build automation: \vspace{-0.3cm}
 	\begin{enumerate} \itemsep -2pt
