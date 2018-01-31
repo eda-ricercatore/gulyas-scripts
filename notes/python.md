@@ -168,6 +168,7 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 
 + \cite{Alchin2010}
 	- Chapter 4,5-6,8.
+	- Software development/engineering \cite[Chapters 8-11]{Alchin2010}.
 	- Marty Alchin, "Pro Python: Advanced Coding Techniques and Tools," in The Expert's Voice$^{\textregistered}$\ in Open Source series, Apress, Berkeley, CA, 2010. DOI: https://dx.doi.org/10.1007/978-1-4302-2758-8.
 + \cite{Hall2009b}
 	- Chapter 9,10,11, 8 (pp. 165).
@@ -177,11 +178,13 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 	- Magnus Lie Hetland, "Beginning Python: From Novice to Professional," in The Expert's Voice$^{\textregistered}$\ in Open Source series, Apress, New York, NY, 2005. DOI:https://dx.doi.org/10.1007/978-1-4302-0072-7.
 + \cite{Langtangen2006}
 	- Chapter 8.6,8.8,8.10.
+	- Software development/engineering \cite[Appendices A and B]{Langtangen2006}.
 	- Hans Petter Langtangen, "Python Scripting for Computational Science," Second edition, Texts in Computational Science and Engineering, Volume 3, Springer-Verlag Berlin Heidelberg, Heidelberg, Germany, 2006. DOI:https://dx.doi.org/10.1007/3-540-31269-2.
-+ \cite{Langtangen2009a}
-	- Chapter 3, 7, 9.
-	- Hans Petter Langtangen, "Python Scripting for Computational Science," Third edition, in the Texts in Computational Science and Engineering series, Volume 3, Springer-Verlag Berlin Heidelberg, Heidelberg, Germany, 2009. DOI:https://dx.doi.org/10.1007/978-3-540-73916-6.
 + \cite{Langtangen2009}
+	- Chapter 3, 7, 9.
+	- Software development/engineering \cite[Appendices A and B]{Langtangen2009}.
+	- Hans Petter Langtangen, "Python Scripting for Computational Science," Third edition, in the Texts in Computational Science and Engineering series, Volume 3, Springer-Verlag Berlin Heidelberg, Heidelberg, Germany, 2009. DOI:https://dx.doi.org/10.1007/978-3-540-73916-6.
++ \cite{Langtangen2009a}
 	- Chapter 8.3,8.6,8.8,8.10, Appendix B.
 	- Hans Petter Langtangen, "A Primer on Scientific Programming with Python," Texts in Computational Science and Engineering, Volume 6, Springer-Verlag Berlin Heidelberg, Heidelberg, Germany, 2009. DOI:https://dx.doi.org/10.1007/978-3-642-02475-7. 
 + \cite{Langtangen2011}
@@ -212,6 +215,11 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 
 
 
+
+
+Software development/engineering \cite[Chapter 21]{Lutz2011}.
+Software development/engineering \cite[Chapter 15]{Lutz2013}.
+Software development/engineering \cite{Younker2008}.
 
 
 
