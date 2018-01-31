@@ -260,7 +260,7 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 	- \cite{Langtangen2006,Langtangen2009}.
 	- \cite{Langtangen2009a,Langtangen2011,Langtangen2012}
 	- \cite{Vaingast2009}
-+ **Software development**.
++ **Software development** and **software engineering**.
 	- \cite[Chapters 8-11]{Alchin2010}.
 	- \cite[Appendices A and B]{Langtangen2006}.
 	- \cite[Appendices A and B]{Langtangen2009}.
