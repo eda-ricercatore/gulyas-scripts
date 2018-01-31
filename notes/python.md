@@ -202,8 +202,11 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 + \cite{Lutz2010}
 	- pp. 60-61, 85-88, 183-187.
 	- Mark Lutz, "Python Pocket Reference: Python in your pocket," Fourth edition, O'Reilly Media, Sebastopol, CA, 2010.
++ \cite{Lutz2011}
+	- Software development/engineering \cite[Chapter 21]{Lutz2011}.
 + \cite{Lutz2013}
 	- Chapter 4,16-21, 22-25, 26-29, 31-32, 33-36, 39-41.
+	- Software development/engineering \cite[Chapter 15]{Lutz2013}.
 	- Mark Lutz, "Learning Python: Powerful Object-Oriented Programming," Fifth edition, O'Reilly Media, Sebastopol, CA, 2013.
 + \cite{Pilgrim2009}
 	- Chapter 6-7, 8, 9, 10.
@@ -211,15 +214,16 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 + \cite{Ucoluk2012}
 	- Chapter 7.
 	- Gokturk Ucoluk and Sinan Kalkan, "Introduction to Programming Concepts with Case Studies in Python," Springer-Verlag Wien, Vienna, Austria, 2012. DOI:https://dx.doi.org/10.1007/978-3-7091-1343-1.
++ \cite{Younker2008}
+	- Software development/engineering \cite{Younker2008}.
 
 
 
 
 
 
-Software development/engineering \cite[Chapter 21]{Lutz2011}.
-Software development/engineering \cite[Chapter 15]{Lutz2013}.
-Software development/engineering \cite{Younker2008}.
+
+
 
 
 
