@@ -17,6 +17,20 @@ Comparing Python 3.x to Python 2.y, the former has significant
 		of Python in a given Python software. 
 
 
+
+
+
+
+##	Design Decisions
+
+Use either keyword arguments or positional arguments in my
+	implementation of *Python* methods to process input parameters.
+
+
+
+
+
+
 ##	Syntax Rules Regarding Identifiers
 
 *Python* identifiers for variables, functions, classes, and modules
@@ -31,6 +45,10 @@ Comparing Python 3.x to Python 2.y, the former has significant
 
 They should not include dashes. Else, an interpreting/compiling error
 	would result.
+
+
+
+
 
 ##	Importing *Python* Classes, Modules, and Packages
 
@@ -129,19 +147,16 @@ Chapter 4,5-6,8.
 
 
 
+## *Python*-based Software Development
 
-
-
-
-
-##	Design Decisions
-
-Use either keyword arguments or positional arguments in my
-	implementation of *Python* methods to process input parameters.
-
-
-
-
++ \cite[Chapters 8-11]{Alchin2010}.
++ \cite[Appendices A and B]{Langtangen2006}.
++ \cite[Appendices A and B]{Langtangen2009}.
++ \cite[Chapter 21]{Lutz2011}.
+	- No information on object-oriented programming.
++ \cite[Chapter 15]{Lutz2013}.
++ \cite{Younker2008}.
+	- No information on object-oriented programming.
 
 
 
@@ -202,8 +217,6 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 + \cite{Lutz2010}
 	- pp. 60-61, 85-88, 183-187.
 	- Mark Lutz, "Python Pocket Reference: Python in your pocket," Fourth edition, O'Reilly Media, Sebastopol, CA, 2010.
-+ \cite{Lutz2011}
-	- Software development/engineering \cite[Chapter 21]{Lutz2011}.
 + \cite{Lutz2013}
 	- Chapter 4,16-21, 22-25, 26-29, 31-32, 33-36, 39-41.
 	- Software development/engineering \cite[Chapter 15]{Lutz2013}.
@@ -214,8 +227,6 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 + \cite{Ucoluk2012}
 	- Chapter 7.
 	- Gokturk Ucoluk and Sinan Kalkan, "Introduction to Programming Concepts with Case Studies in Python," Springer-Verlag Wien, Vienna, Austria, 2012. DOI:https://dx.doi.org/10.1007/978-3-7091-1343-1.
-+ \cite{Younker2008}
-	- Software development/engineering \cite{Younker2008}.
 
 
 
