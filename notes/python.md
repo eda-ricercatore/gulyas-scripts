@@ -32,7 +32,7 @@ Comparing Python 3.x to Python 2.y, the former has significant
 They should not include dashes. Else, an interpreting/compiling error
 	would result.
 
-##	Importing Python Classes, Modules, and Packages
+##	Importing *Python* Classes, Modules, and Packages
 
 Tasks that I can do:
 + Create and define a class, and use static methods in the class
@@ -239,7 +239,7 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 + Algorithm analysis.
 	- \cite{Hetland2010}.
 + Data structures.
-	\cite{Lutz2011,Lutz2013,Sweigart2015,Ucoluk2012}.
+	- \cite{Lutz2011,Lutz2013,Sweigart2015,Ucoluk2012}.
 + Database management.
 	- \cite{Hetland2005,Lutz2010,Lutz2011,Sileika2010,Younker2008}.
 + Functional programming.
