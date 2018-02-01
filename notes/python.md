@@ -142,15 +142,18 @@ Chapter 4,5-6,8.
 	- Chapters 17-19
 
 
+### *Python* Functions
 
+By default, *Python* functions return *None* \cite{Alchin2010}.
 
 
 
 
 ## *Python*-based Software Development
 
-A *Python*ic approach to software development facilitates software (architectures)
-	that can be refactored easily \cite{Alchin2010}.
+Try to use a *Python*ic approach to software development.
+	This can facilitate the design and implementation of software (architectures)
+		that can be refactored easily \cite[Chapter 1]{Alchin2010}.
 
 + \cite[Chapters 8-11]{Alchin2010}.
 + \cite[Appendices A and B]{Langtangen2006}.
