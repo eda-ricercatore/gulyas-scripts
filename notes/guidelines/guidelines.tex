@@ -72,9 +72,9 @@ Revision history: \vspace{-0.3cm}
 \item Version 3.5, October 9, 2017. Update guidelines on commenting/writing code.
 \item Version 3.6, December 24, 2017. Fix grammatical error in a sentence.
 \item Version 3.7, January 25, 2018. Added suggestions for software architecture of my computer programs.
+\item Version 3.8, January 31, 2018. Added information about coding style guideline for different computer languages, and also about online repositories that facilitate research reproducibility, replicability, and repeatability.
+\item Version 3.9, February 1, 2018. Added information about developing software in a {\it Python}ic style.
 \end{enumerate}
-
-
 
 
 
@@ -123,7 +123,7 @@ Guidelines for creating {\sc Bib}\TeX\ entries and the {\sc Bib}\TeX\ database, 
 \item For each {\sc Bib}\TeX\ entry, check if all required fields are complete. See pages 8 and 9 in \S3.1 of \cite{Patashnik1988} for a list of {\sc Bib}\TeX\ entry types; alternatively, refer to the {\it Wikipedia} entry for , or \cite[\S12.2.1, pp. 230--231]{Kopka2004}. In this/these list(s), the required fields are listed for each {\sc Bib}\TeX\ entry.
 \item For the {\tt pages} field, ensure that all page ranges are indicated with double hyphens. E.g., ``page = \{11-\--34\},''. This makes the page range looks more pretty.
 \item For the {\tt pages} field, ensure that multiple pages and/or page ranges are separated by commas. E.g., ``page = \{11-34, 57, 88, 109-\--187\},''.
-\item For books and journal articles that have an associated digital object identifier (DOI), ensure that the {\tt doi} field is included in the {\sc Bib}\TeX\ entry with the DOI of the publication. This makes it easier for people to access the web page for the book or journal/conference paper.
+\item For books and journal articles that have an associated digital object identifier (DOI) \cite{InternationalDOIFoundationStaff2017}, ensure that the {\tt doi} field is included in the {\sc Bib}\TeX\ entry with the DOI of the publication. This makes it easier for people to access the web page for the book or journal/conference paper.
 \item Stylistic validation of the references can be carried out as follows: \vspace{-0.3cm}
 	\begin{enumerate} \itemsep -2pt
 	\item Include all {\sc Bib}\TeX\ keys in one citation in your \LaTeX\ document.
@@ -170,7 +170,7 @@ The recommended fields for {\sc Bib}\TeX\ entries are: \vspace{-0.3cm}
 \item proceedings: \vspace{-0.3cm}
 	\begin{enumerate} \itemsep -2pt
 	\item Address
-	\item Doi
+	\item DOI
 	\item Editor
 	\item Keywords
 	\item Month
@@ -199,7 +199,7 @@ The recommended fields for {\sc Bib}\TeX\ entries are: \vspace{-0.3cm}
 	\item Author
 	\item Booktitle
 	\item Chapter
-	\item Doi
+	\item DOI
 	\item Edition
 	\item Howpublished
 	\item Keywords
@@ -216,7 +216,7 @@ The recommended fields for {\sc Bib}\TeX\ entries are: \vspace{-0.3cm}
 	\item Address
 	\item Author
 	\item Booktitle
-	\item Doi
+	\item DOI
 	\item Keywords
 	\item Month
 	\item Organization
@@ -231,7 +231,7 @@ The recommended fields for {\sc Bib}\TeX\ entries are: \vspace{-0.3cm}
 	\begin{enumerate} \itemsep -2pt
 	\item Address
 	\item Author
-	\item Doi
+	\item DOI
 	\item Journal
 	\item Keywords
 	\item Month
@@ -271,7 +271,7 @@ The recommended fields for {\sc Bib}\TeX\ entries are: \vspace{-0.3cm}
 	\begin{enumerate} \itemsep -2pt
 	\item Address
 	\item Author
-	\item Doi
+	\item DOI
 	\item Edition
 	\item Keywords
 	\item Month
@@ -469,13 +469,13 @@ In addition, tools for working with source code and \LaTeX\ source files include
 \end{enumerate}
 
 
-Data sets and sets of benchmarks for experiments shall be publicly published using an online repository, via {\it figshare LLP} \cite{figshareLLPstaff2016}. For each data set, or each set of benchmarks, create a unique Digital Object Identifier (DOI) to identify it. \\
+Data sets and sets of benchmarks for experiments shall be publicly published using an online repository, via {\it figshare LLP} \cite{figshareLLPstaff2016} and/or {\it DataHub} \cite{DatopianAtomaticLtdIncStaff2017}. For each data set, or each set of benchmarks, create a unique Digital Object Identifier (DOI) \cite{InternationalDOIFoundationStaff2017} to identify it. \\
 
-Repositories for software as well as designs of integrated circuits and cyber-physical systems shall be stored online, using online repositories such as {\it GitHub} \cite{GitHubStaff2016}. Each repository shall have a unique DOI to identify it, and include all source code, documentation, and design files. \\
+Repositories for software as well as designs of integrated circuits and cyber-physical systems shall be stored online, using online repositories such as {\it GitHub} \cite{GitHubStaff2016}. Each repository shall have a unique DOI to identify it, and include all source code, documentation, and design files. There also exists cloud-based repositories for the source code of software/hardware projects that allow me to execute my software (or simulate my hardware). E.g., see \cite{CodeOceanstaff2017,RunMyCodeAssociationMembers2013} as examples to facilitate research reproducibility, replicability, and repeatability. \\
 
 Please kindly note that {\it GitHub} \cite{GitHubStaff2016}: \vspace{-0.3cm}
 \begin{enumerate} \itemsep -4pt
-\item Does not allow a {\it GitHub}-based page to be refreshed/reloaded many times in a few seconds. Else, it would report the following: \vspace{-0.3cm}
+\item Does not allow a {\it GitHub}-based page to be refreshed/reloaded many times in a few seconds. Else, it would report the following: x\vspace{-0.3cm}
 	\begin{enumerate} \itemsep -2pt
 	\item ``Whoa there!''
 	\item ``You have triggered an abuse detection mechanism.''
@@ -483,6 +483,9 @@ Please kindly note that {\it GitHub} \cite{GitHubStaff2016}: \vspace{-0.3cm}
 	\end{enumerate}
 \end{enumerate}
 
+
+
+If possible, develop software in a {\it Python}ic style \cite{Jon2014,Reitz2016a,Reitz2016,Preshing2014,Franca2014,vanRossum2013}.
 
 
 
