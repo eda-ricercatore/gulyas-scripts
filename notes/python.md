@@ -155,6 +155,12 @@ Try to use a *Python*ic approach to software development.
 	This can facilitate the design and implementation of software (architectures)
 		that can be refactored easily \cite[Chapter 1]{Alchin2010}.
 
+
+
+
+
+
+
 + \cite[Chapters 8-11]{Alchin2010}.
 + \cite[Appendices A and B]{Langtangen2006}.
 + \cite[Appendices A and B]{Langtangen2009}.
@@ -164,7 +170,9 @@ Try to use a *Python*ic approach to software development.
 + \cite{Younker2008}.
 	- No information on object-oriented programming.
 
-###	*Python*-based Software Development
+
+### *Python*ic Coding Style
+
 
 \cite{vanRossum2013} describes *Python*ic software development, including
 	how to program in a *Python*ic coding style.
@@ -172,22 +180,9 @@ Try to use a *Python*ic approach to software development.
 		scheme", "coding standard", "coding style guide",
 		and "programming style".
 
-coding scheme, coding standards, coding style guide, coding styles, programming style
-coding scheme, coding standards, coding style guide, programming style
-coding scheme, coding style guide, programming style
-programming guidelines
-Pythonic coding style
-
 Note that \cite{Franca2014} mentions that modern *C++1X*, such as *C++11*,
 	*C++14*, and *C++17*, is becoming more like *Python*;
 	that is, modern *C++1X* has become *Python*ic.   
-
-
-
-+ \cite[Chapter 1, pp. 1-]{Alchin2010}.
-
-
-
 
 
 
