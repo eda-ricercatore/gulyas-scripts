@@ -185,13 +185,17 @@ Note that \cite{Franca2014} mentions that modern *C++1X*, such as *C++11*,
 
 ### Input/Output Operations
 
+\cite[Chapter 2, pp. 23]{Alchin2010} shows how to log errors that have been
+	raised during input/output operations.
+	They can be recorded/stored by the *logging* module from *The Python
+		Standard Library* \cite{DrakeJr2016e,DrakeJr2016b}
 
 
 
+##	Exception Handling
 
-
-
-
+\cite[Chapter 2, pp. 23]{Alchin2010} shows how to catch multiple errors that
+	have been raised.
 
 
 
