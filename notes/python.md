@@ -159,8 +159,6 @@ Try to use a *Python*ic approach to software development.
 
 
 
-
-
 + \cite[Chapters 8-11]{Alchin2010}.
 + \cite[Appendices A and B]{Langtangen2006}.
 + \cite[Appendices A and B]{Langtangen2009}.
@@ -183,6 +181,21 @@ Try to use a *Python*ic approach to software development.
 Note that \cite{Franca2014} mentions that modern *C++1X*, such as *C++11*,
 	*C++14*, and *C++17*, is becoming more like *Python*;
 	that is, modern *C++1X* has become *Python*ic.   
+
+
+### Input/Output Operations
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
