@@ -155,6 +155,21 @@ Try to use a *Python*ic approach to software development.
 	This can facilitate the design and implementation of software (architectures)
 		that can be refactored easily \cite[Chapter 1]{Alchin2010}.
 
+Use a **list comprehension** to perform a conditional operation iteratively on
+	a collection of elements \cite[Chapter 2, pp. 35]{Alchin2010}.
+	Similarly, a **generator expression** implicitly creates an iterable object to
+		iterate over a list/collection of elements and perform an operation on
+		each enumerated item/element;
+		a generator expression needs to be surrounded by parentheses,
+			which can belong to a function (or an operation) performed on the
+			collection of objects \cite[Chapter 2, pp. 35-37]{Alchin2010}.
+	Likewise, a **set comprehension** performs the built-in set() function on a
+		a collection of unsorted elements \cite[Chapter 2, pp. 37]{Alchin2010}.
+	
+
+
+
+
 
 
 
@@ -194,8 +209,8 @@ Note that \cite{Franca2014} mentions that modern *C++1X*, such as *C++11*,
 
 ##	Exception Handling
 
-\cite[Chapter 2, pp. 23-28,29-30]{Alchin2010} shows how to catch multiple errors that
-	have been raised.
+\cite[Chapter 2, pp. 23-28,29-30]{Alchin2010} shows how to catch multiple
+	errors that have been raised.
 
 
 
