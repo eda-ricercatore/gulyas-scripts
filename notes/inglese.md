@@ -3,6 +3,8 @@
 + Similarly
 + Likewise
 + Comparably
++ Equivalently
+
 
 + Firstly
 + Secondly
@@ -86,7 +88,7 @@
 + thenceforth
 + thereafter
 + exigently
-
++ incontrovertibly
 
 
 
