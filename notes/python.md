@@ -168,7 +168,7 @@ Use a **list comprehension** to perform a conditional operation iteratively on
 	Comparably, a **dictionary comprehension** is an unordered linear
 		("1-D") collection of (key,value) pairs, such that each pair is donoted
 		by *key: value* \cite[Chapter 2, pp. 37-38]{Alchin2010}.
-		Compare this to **ordered dictionaries**.
+		Compare this to **ordered dictionaries** \cite[Chapter 2, pp. 38]{Alchin2010}.
 
 
 
@@ -205,6 +205,21 @@ Note that \cite{Franca2014} mentions that modern *C++1X*, such as *C++11*,
 	raised during input/output operations.
 	They can be recorded/stored by the *logging* module from *The Python
 		Standard Library* \cite{DrakeJr2016e,DrakeJr2016b}
+
+
+###	Modules in *The Python Standard Library*
+
+The following modules in *The Python Standard Library* \cite{DrakeJr2016e,DrakeJr2016b}
+	can be useful in developing *Python* software .
++ *itertools*
+	Enables a set/chain of functions to be performed on each element in a
+		collection \cite[Chapter 2, pp. 38]{Alchin2010}. 
+
+
+
+
+
+
 
 
 
