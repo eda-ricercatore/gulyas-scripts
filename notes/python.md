@@ -165,9 +165,10 @@ Use a **list comprehension** to perform a conditional operation iteratively on
 			collection of objects \cite[Chapter 2, pp. 35-37]{Alchin2010}.
 	Likewise, a **set comprehension** performs the built-in set() function on a
 		a collection of unsorted elements \cite[Chapter 2, pp. 37]{Alchin2010}.
-	Comparably, 
-
-
+	Comparably, a **dictionary comprehension** is an unordered linear
+		("1-D") collection of (key,value) pairs, such that each pair is donoted
+		by *key: value* \cite[Chapter 2, pp. 37-38]{Alchin2010}.
+		Compare this to **ordered dictionaries**.
 
 
 
