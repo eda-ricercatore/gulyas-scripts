@@ -239,16 +239,20 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 		* custom iterable objects
 	- Unordered data structure that is only concerned about membership.
 	- Has the following operations \cite[Chapter 2, pp. 40-43]{Alchin2010}:
-		* *[element]* in *[set]*
-		* *[set]*.add(*[element]*)
-		* *[set]*.update(*[element]*)
-		* *[set]*.remove(*[element]*)
-		* *[set]*.discard(*[element]*)
-		* *[set]*.pop(*[element]*)
-		* *[set]*.clear(*[element]*)
+		* *{element}* in *{set}*
+		* *{set}*.add(*{element}*)
+		* *{set}*.update(*{element}*)
+		* *{set}*.remove(*{element}*)
+		* *{set}*.discard(*{element}*)
+		* *{set}*.pop(*{element}*)
+		* *{set}*.clear(*{element}*)
 		* OR operation, disjunction: *{set 1} | {set 2}*, *{set 1}.union({set 2})*
 		* AND operation, disjunction: *{set 1} & {set 2}*, *{set 1}.intersection({set 2})*
 		* difference operation, *{set 1} - {set 2}*, *{set 1}.difference({set 2})*
+		* symmetric difference operation, *{set 1} ^ {set 2}*, *{set 1}.symmetric_difference({set 2})*
+		* *{set 1}*.issubset(*{set 2}*)
+		* *{set 1}*.issuperset(*{set 2}*)
+		* ({set 1} - {set 2}); Or, not ({set 1} - {set 2})
 	- Use *set()* to represent the empty set, so that it can be differentiated from
 		an empty dictionary *{}* \cite[Chapter 2, pp. 41]{Alchin2010}.
 + named tuples \cite[Chapter 2, pp. 43]{Alchin2010}
