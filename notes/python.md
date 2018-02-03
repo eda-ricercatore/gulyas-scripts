@@ -246,6 +246,9 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 		* *[set]*.discard(*[element]*)
 		* *[set]*.pop(*[element]*)
 		* *[set]*.clear(*[element]*)
+		* OR operation, disjunction: *{set 1} | {set 2}*, *{set 1}.union({set 2})*
+		* AND operation, disjunction: *{set 1} & {set 2}*, *{set 1}.intersection({set 2})*
+		* difference operation, *{set 1} - {set 2}*, *{set 1}.difference({set 2})*
 	- Use *set()* to represent the empty set, so that it can be differentiated from
 		an empty dictionary *{}* \cite[Chapter 2, pp. 41]{Alchin2010}.
 + named tuples \cite[Chapter 2, pp. 43]{Alchin2010}
