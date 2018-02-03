@@ -127,9 +127,12 @@ Use the error *ImportError* to catch errors associated with importing modules
 	if the *try* block uses the old location/name, the *catch* block shall use
 		the new location/name, and vice versa;
 	if the module is not critical to the function of the software, it is recommended
-		to assign the module to *None* (i.e., *[module name] = None*).
+		to assign the module to *None* (i.e., *[module name] = None*)
+	\cite[Chapter 2, pp. 45-46]{Alchin2010}.
 
-
+In the transition period from upgrading old locations/names to new
+	locations/names, use the special module **__module__** to make the
+	import of non-critical modules conditional \cite[Chapter 2, pp. 46-47]{Alchin2010}.
 
 
 
