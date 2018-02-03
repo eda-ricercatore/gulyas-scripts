@@ -136,9 +136,12 @@ In the transition period from upgrading old locations/names to new
 	locations/names, use the special module **\_\_module\_\_** to make the
 	import of non-critical modules conditional \cite[Chapter 2, pp. 46-47]{Alchin2010}.
 
+Explicit module imports, by specifying the module (and package) names are
+	preferred over implicit imports of all (or a subset of) modules within a
+	package \cite[Chapter 2, pp. 47-48]{Alchin2010}.
 
-
-
+Relative imports are supported by providing relative paths to modules that are
+	being imported \cite[Chapter 2, pp. 48-49]{Alchin2010}.
 
 
 
