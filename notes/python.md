@@ -264,7 +264,12 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 		return these sets of values.
 		They allow the returned values to be accessible by named fields, just
 			like dictionaries. 
-+ dictionaries
++ dictionaries \cite[Chapter 2, pp. 44]{Alchin2010}
+	- unordered data structure
++ ordered dictionaries \cite[Chapter 2, pp. 44]{Alchin2010}
+	- ordered data structure
+	- Has all the features of a dictionary, while having a reliable ordering of keys
+		for its (key,value) pairs. 
 
 
 
