@@ -273,7 +273,8 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 + dictionaries with defaults \cite[Chapter 2, pp. 44-45]{Alchin2010}
 	- A dictionary with defaults is assumed to have (optimal) default values for
 		keys that cannot be found in the mapping.
-	- Lambda functions can be used to create dictionaries with defaults.
+	- Lambda functions can be used to create and process dictionaries with
+		defaults.
 
 
 
