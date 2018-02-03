@@ -108,7 +108,9 @@ Pages in \cite[Expert Python Programming]{Ziade2008} that deal with
 With regards to importing *Python* modules, circular dependencies is
 	forbidden/discouraged during interpretation of *Python* programs.
 	That is, don't import a *Python* module *A*, which imports another
-	*Python* module *B* that imports *Python* module *A*.
+		*Python* module *B* that imports *Python* module *A*.
+	Or rather, **if *Python* module *A* imports *Python* module *B*, *Python*
+		module *B* should not import *Python* module *A*.**
 
 A *Python* package is a collection of *Python* modules, and is effectively a
 	subdirectory of *Python* modules that includes a file named *\_\_init\_\_.py*;
