@@ -133,7 +133,7 @@ Use the error *ImportError* to catch errors associated with importing modules
 	\cite[Chapter 2, pp. 45-46]{Alchin2010}.
 
 In the transition period from upgrading old locations/names to new
-	locations/names, use the special module **__module__** to make the
+	locations/names, use the special module **\_\_module\_\_** to make the
 	import of non-critical modules conditional \cite[Chapter 2, pp. 46-47]{Alchin2010}.
 
 
