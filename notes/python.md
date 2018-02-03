@@ -214,6 +214,28 @@ The following modules in *The Python Standard Library* \cite{DrakeJr2016e,DrakeJ
 + *itertools*
 	Enables a set/chain of functions to be performed on each element in a
 		collection \cite[Chapter 2, pp. 38]{Alchin2010}. 
+	- The *zip()* function enables multiple iterables to be combined
+		together \cite[Chapter 2, pp. 38]{Alchin2010};
+		an iterable is a collection "object" that can generate an iterator to
+			iterate over each element in the collection \cite[Chapter 5, pp. 155]{Alchin2010}.
+
+####	Built-in Collections
+
++ lists
++ tuples
++ sets
+	- Disallow duplicates
+	- The standard constructor accepts the following as inputs:
+		* sequences
+		* lists
+		* tuples
+		* dictionary keys
+		* custom iterable objects
+
++ dictionaries
+
+
+
 
 
 
