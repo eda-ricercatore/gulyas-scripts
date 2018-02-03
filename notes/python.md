@@ -219,11 +219,17 @@ The following modules in *The Python Standard Library* \cite{DrakeJr2016e,DrakeJ
 		an iterable is a collection "object" that can generate an iterator to
 			iterate over each element in the collection \cite[Chapter 5, pp. 155]{Alchin2010}.
 
+
+
+
+
+
 ####	Built-in Collections
 
+From \cite[Chapter 2, pp. 39]{Alchin2010}
 + lists
 + tuples
-+ sets
++ sets \cite[Chapter 2, pp. 39]{Alchin2010}
 	- Disallow duplicates
 	- The standard constructor accepts the following as inputs:
 		* sequences
@@ -231,7 +237,26 @@ The following modules in *The Python Standard Library* \cite{DrakeJr2016e,DrakeJ
 		* tuples
 		* dictionary keys
 		* custom iterable objects
-
+	- Unordered data structure that is only concerned about membership.
+	- Has the following operations \cite[Chapter 2, pp. 40-43]{Alchin2010}:
+		* *[element]* in *[set]*
+		* *[set]*.add(*[element]*)
+		* *[set]*.update(*[element]*)
+		* *[set]*.remove(*[element]*)
+		* *[set]*.discard(*[element]*)
+		* *[set]*.pop(*[element]*)
+		* *[set]*.clear(*[element]*)
+	- Use *set()* to represent the empty set, so that it can be differentiated from
+		an empty dictionary *{}* \cite[Chapter 2, pp. 41]{Alchin2010}.
++ named tuples \cite[Chapter 2, pp. 43]{Alchin2010}
+	- The *factory* function, namedtuple(), from the *collections* module in
+		*The Python Standard Library* returns a new class that is
+		customized for a given set of named fields, rather than a "named tuple"
+		object with named fields.
+	- For functions that return multiple values, named tuples can be used to
+		return these sets of values.
+		They allow the returned values to be accessible by named fields, just
+			like dictionaries. 
 + dictionaries
 
 
