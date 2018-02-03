@@ -269,9 +269,11 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 + ordered dictionaries \cite[Chapter 2, pp. 44]{Alchin2010}
 	- ordered data structure
 	- Has all the features of a dictionary, while having a reliable ordering of keys
-		for its (key,value) pairs. 
-
-
+		for its *(key,value)* pairs. 
++ dictionaries with defaults \cite[Chapter 2, pp. 44-45]{Alchin2010}
+	- A dictionary with defaults is assumed to have (optimal) default values for
+		keys that cannot be found in the mapping.
+	- Lambda functions can be used to create dictionaries with defaults.
 
 
 
