@@ -119,6 +119,27 @@ To import a module *B* from a package *A*, try: *import A.B*.
 To import a class *C* from module *B* that belongs to package *A*, try:
 	*from A.B import C*.
 
+Use the error *ImportError* to catch errors associated with importing modules
+	that have been moved or renamed.
+	Provide fallback imports, so that in the *try-catch* block, we can provide
+		another statement to import the module from its old/new location
+		(or with its old/new name);
+	if the *try* block uses the old location/name, the *catch* block shall use
+		the new location/name, and vice versa;
+	if the module is not critical to the function of the software, it is recommended
+		to assign the module to *None* (i.e., *[module name] = None*).
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -275,6 +296,7 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 		keys that cannot be found in the mapping.
 	- Lambda functions can be used to create and process dictionaries with
 		defaults.
+
 
 
 
