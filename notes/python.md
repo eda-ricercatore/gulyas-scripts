@@ -178,6 +178,25 @@ By default, *Python* functions return *None* \cite{Alchin2010}.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## *Python*-based Software Development
 
 Try to use a *Python*ic approach to software development.
