@@ -24,7 +24,8 @@ Comparing *Python* 3.x to *Python* 2.y, the former has significant
 ##	Design Decisions
 
 Use either keyword arguments or positional arguments in my
-	implementation of *Python* methods to process input parameters.
+	implementation of *Python* methods to process input parameters
+	\cite[Chapter 3, pp. 53]{Alchin2010}.
 
 
 
@@ -185,8 +186,8 @@ Notes on *Python* functions:
 	- "wrapped [around by] other functions"
 	- "replaced by new implementations"
 + Arguments of a *Python* function:
-	- order-based arguments \cite[Chapter 3, pp. 53]{Alchin2010}.
-	- keyword-based arguments \cite[Chapter 3, pp. 53]{Alchin2010}.
+	- positional arguments (or order-based arguments) \cite[Chapter 3, pp. 53]{Alchin2010}.
+	- keyword arguments \cite[Chapter 3, pp. 53]{Alchin2010}.
 + Types of *Python* functions: 
 
 
