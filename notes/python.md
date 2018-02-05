@@ -41,7 +41,7 @@ Use either keyword arguments or positional arguments in my
 	Otherwise, the *Python* interpreter would report a syntax error,
 	since the syntax is invalid.
 	These identifiers are case sensitive and cannot be *Python*
-	keywords [ParewaLabsPvtLtdStaff20XY, \S "Python Keywords and Identifier"].
+	keywords [ParewaLabsPvtLtdStaff20XY, \S "*Python* Keywords and Identifier"].
 
 They should not include dashes. Else, an interpreting/compiling error
 	would result.
