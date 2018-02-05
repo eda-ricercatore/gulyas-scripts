@@ -184,6 +184,9 @@ Notes on *Python* functions:
 	- stored and transferred via data structures
 	- "wrapped [around by] other functions"
 	- "replaced by new implementations"
++ Arguments of a *Python* function:
+	- order-based arguments \cite[Chapter 3, pp. 53]{Alchin2010}.
+	- keyword-based arguments \cite[Chapter 3, pp. 53]{Alchin2010}.
 + Types of *Python* functions: 
 
 
