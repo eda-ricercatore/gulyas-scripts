@@ -10,11 +10,11 @@ The `print` statement in *Python 2.y* has been replaced by the
 	tokens (the `print` statement and the string) are whitespace
 	delimited \cite{vanRossum2017}.
 
-Comparing Python 3.x to Python 2.y, the former has significant
+Comparing *Python* 3.x to *Python* 2.y, the former has significant
 		differences in printing information (to standard output)
 		\cite{vanRossum2017}.
 	This can cause compatibility problems between different versions
-		of Python in a given Python software. 
+		of *Python* in a given *Python* software. 
 
 
 
@@ -35,7 +35,7 @@ Use either keyword arguments or positional arguments in my
 
 *Python* identifiers for variables, functions, classes, and modules
 	have to be alphanumeric and can include underscores
-	\cite[from \S Python Basic Syntax]{Mohtashim2017}
+	\cite[from \S *Python* Basic Syntax]{Mohtashim2017}
 	\cite[\S2.3 Identifiers and keywords]{DrakeJr2016f}
 	\cite[\S2.3 Identifiers and keywords]{DrakeJr2016a}.
 	Otherwise, the *Python* interpreter would report a syntax error,
@@ -63,7 +63,7 @@ Tasks that I can do:
 	Determine the importance and usefulness packages, with respect to
 	modules.
 
-See [example to import Python modules and classes](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/python/s-import).
+See [example to import *Python* modules and classes](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/python/s-import).
 
 
 
@@ -90,8 +90,8 @@ Pages in \cite[Beginning Python]{Hetland2005} that deal with importing
 
 
 
-Pages in \cite[Expert Python Programming]{Ziade2008} that deal with
-	importing Python classes and modules (Not helpful):
+Pages in \cite[Expert *Python* Programming]{Ziade2008} that deal with
+	importing *Python* classes and modules (Not helpful):
 + Naming, (pp. 91--116
 	- Application of naming to (pp. 92): 
 		* Variables: constants and public/private variables
