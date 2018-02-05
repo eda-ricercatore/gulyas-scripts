@@ -173,12 +173,17 @@ Chapter 4,5-6,8.
 
 ### *Python* Functions
 
-By default, *Python* functions return *None* \cite{Alchin2010}.
-
-
-
-
-
+Notes on Python functions:
++ By default, *Python* functions return *None* \cite[Chapter 1, pp. 15]{Alchin2010}.
++ No function is given special privileges over other functions
+	\cite[Chapter 3, pp. 53]{Alchin2010}.
++ Python functions encapsulate code into individual units, which facilitates
+	code reuse \cite[Chapter 3, pp. 53]{Alchin2010}.
++ Python treats functions as full-fledged objects, so that they can be
+	\cite[Chapter 3, pp. 53]{Alchin2010}:
+	- stored and transferred via data structures
+	- "wrapped [around by] other functions"
+	- "replaced by new implementations"
 
 
 
