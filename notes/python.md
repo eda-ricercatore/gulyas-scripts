@@ -188,6 +188,8 @@ Notes on *Python* functions:
 + Arguments of a *Python* function:
 	- positional arguments (or order-based arguments) \cite[Chapter 3, pp. 53]{Alchin2010}.
 	- keyword arguments \cite[Chapter 3, pp. 53]{Alchin2010}.
+	- It is recommended that arguments of a given *Python* function have
+		default values \cite[Chapter 3, pp. 53]{Alchin2010}.
 + Types of *Python* functions: 
 
 
