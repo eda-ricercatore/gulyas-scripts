@@ -81,8 +81,8 @@ Note: "A module is a file containing *Python* definitions and statements."
 	**This is different from how I define modules in *C++* and *Java*.**
 
 
-Pages in \cite[Beginning Python]{Hetland2005} that deal with importing
-	Python classes and modules:
+Pages in \cite[Beginning *Python*]{Hetland2005} that deal with importing
+	*Python* classes and modules:
 + Abstraction of classes and modules, pp. 109--158, 173--202
 + Modules and The Standard Library, pp. 203--254
 + Summaries: pp. 547--574
