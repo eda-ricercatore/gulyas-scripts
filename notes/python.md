@@ -234,8 +234,13 @@ Notes on *Python* functions:
 			result in raising a *TypeError*
 		\cite[Chapter 3, pp. 60]{Alchin2010}.
 + Types of *Python* functions: 
-
-
++ A decorator is a technique for obtaining a new function from passing a function
+	into another function \cite[Chapter 3, pp. 61]{Alchin2010};
+	it is used to support preloading arguments (or partial application of a
+		function) \cite[Chapter 3, pp. 61]{Alchin2010}.
++ A flexible function can be customized into a simpler and less flexible function
+	so that its reduced flexibility can be handled by existing API/libraries
+	\cite[Chapter 3, pp. 61]{Alchin2010}.
 
 
 
