@@ -237,7 +237,13 @@ Notes on *Python* functions:
 + A decorator is a technique for obtaining a new function from passing a function
 	into another function \cite[Chapter 3, pp. 61]{Alchin2010};
 	it is used to support preloading arguments (or partial application of a
-		function) \cite[Chapter 3, pp. 61]{Alchin2010}.
+		function) \cite[Chapter 3, pp. 61]{Alchin2010};
+	applications of decorators \cite[Chapter 3, pp. 67-68]{Alchin2010}:
+		* access control
+		* cleanup of temporary objects
+		* error handling
+		* caching
+		* logging
 + A flexible function can be customized into a simpler and less flexible function
 	so that its reduced flexibility can be handled by existing API/libraries
 	\cite[Chapter 3, pp. 61]{Alchin2010}.
