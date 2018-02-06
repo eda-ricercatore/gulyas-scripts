@@ -233,9 +233,14 @@ Notes on *Python* functions:
 			-- note that executing a function with unassigned arguments will
 			result in raising a *TypeError*
 		\cite[Chapter 3, pp. 60]{Alchin2010}.
-+ Types of *Python* functions: 
-+ A decorator is a technique for obtaining a new function from passing a function
-	into another function \cite[Chapter 3, pp. 61]{Alchin2010};
++ Types of *Python* functions \cite[Chapter 3]{Alchin2010}:
+	- decorators
+	- function annotations
+	- generators
+	- lambdas
+	- introspection
++ A decorator is a technique for obtaining a (new) function from passing a
+	function into another function \cite[Chapter 3, pp. 61,68]{Alchin2010};
 	it is used to support preloading arguments (or partial application of a
 		function) \cite[Chapter 3, pp. 61]{Alchin2010};
 	applications of decorators \cite[Chapter 3, pp. 67-68]{Alchin2010}:
@@ -244,6 +249,10 @@ Notes on *Python* functions:
 		* error handling
 		* caching
 		* logging
+	use a decorator to execute boilerplate code in a set of input functions
+		before/after the execution of the returned function
+		\cite[Chapter 3, pp. 68]{Alchin2010}.
+	A closure is a 
 + A flexible function can be customized into a simpler and less flexible function
 	so that its reduced flexibility can be handled by existing API/libraries
 	\cite[Chapter 3, pp. 61]{Alchin2010}.
@@ -269,7 +278,7 @@ Notes on *Python* functions:
 		unassigned argument has a message indicating that it needs to be
 		assigned a value or that it is an unknown argument)
 		\cite[Chapter 3, pp. 66-67]{Alchin2010}.
-
+ 
 
 
 
