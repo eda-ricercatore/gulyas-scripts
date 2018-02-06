@@ -241,12 +241,12 @@ Notes on *Python* functions:
 	- introspection
 + A decorator is a technique for obtaining a (new) function from passing a
 	function into another function \cite[Chapter 3, pp. 61,68]{Alchin2010};
-	it is used to support preloading arguments (or partial application of a
+	- It is used to support preloading arguments (or partial application of a
 		function) \cite[Chapter 3, pp. 61]{Alchin2010};
-	use a decorator to execute boilerplate code in a set of input functions
+	- Use a decorator to execute boilerplate code in a set of input functions
 		before/after the execution of the returned function
 		\cite[Chapter 3, pp. 68]{Alchin2010}.
-	- applications of decorators \cite[Chapter 3, pp. 67-68]{Alchin2010}:
+	- Applications of decorators \cite[Chapter 3, pp. 67-68]{Alchin2010}:
 		* access control
 		* cleanup of temporary objects
 		* error handling
