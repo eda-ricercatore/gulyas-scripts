@@ -200,7 +200,7 @@ Notes on *Python* functions:
 			\cite[Chapter 3, pp. 56]{Alchin2010}.
 	- Develop code that supports overriding via flexibility.
 	- Types of arguments listed in order of precedence/priority
-		\cite[Chapter 3, pp. 56-57]{Alchin2010}:
+		\cite[Chapter 3, pp. 56-59]{Alchin2010}:
 		* required arguments (ensures/guarantees that required positional
 			arguments are processed before optional arguments are processed)
 		* optional arguments (ensures/guarantees that optional arguments are
@@ -209,10 +209,17 @@ Notes on *Python* functions:
 			positional arguments are processed before variable keyword
 			arguments);
 			**all the variable positional arguments of a function have to be
-				group into one set**
+				group into one set**;
+			multiple sets of variable positional arguments have to be group into
+				one set
 		* variable keyword arguments;
 			**all the variable keyword arguments of a function have to be
-				group into one set**
+				group into one set**;
+			multiple sets of variable keyword arguments have to be group into
+				one set
+	- "Partial application of a function" occurs when it "preload[s] some of the
+		arguments in advance", so that fewer arguments have to be assigned
+		values later \cite[Chapter 3, pp. 60]{Alchin2010} 
 + Types of *Python* functions: 
 
 
