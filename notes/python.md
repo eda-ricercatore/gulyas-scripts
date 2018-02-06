@@ -241,8 +241,13 @@ Notes on *Python* functions:
 + A flexible function can be customized into a simpler and less flexible function
 	so that its reduced flexibility can be handled by existing API/libraries
 	\cite[Chapter 3, pp. 61]{Alchin2010}.
-
-
++ The transparency of *Python* allows different aspects of *Python* objects,
+	including functions, to be examined/inspected at run-time;
+	the *inspect* module from *The Python Standard Library* has introspection
+		features that enable the examination/inspection of function arguments  
+		-- "a named tuple of information about [a] function's arguments" is
+		returned from processing the input function
+	\cite[Chapter 3, pp. 61]{Alchin2010}.
 
 
 
