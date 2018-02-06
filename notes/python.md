@@ -193,6 +193,7 @@ Notes on *Python* functions:
 	- Keyword arguments are explicitly specified during function calls,
 		and are favored over positional arguments that are implictly specified
 		during function calls \cite[Chapter 3, pp. 54]{Alchin2010}.
+	- Develop code that supports overriding via flexibility.
 + Types of *Python* functions: 
 
 
