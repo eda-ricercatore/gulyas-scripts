@@ -265,15 +265,15 @@ Notes on *Python* functions:
 	\cite[Chapter 3, pp. 61]{Alchin2010};
 	argument values of a function's arguments can be identified and be used to
 		generate argument lists \cite[Chapter 3, pp. 62]{Alchin2010}.
-	call a function with another function, a tuple of its positional arguments, and
+	- call a function with another function, a tuple of its positional arguments, and
 		a dictionary keyword arguments \cite[Chapter 3, pp. 62]{Alchin2010}.
-	exploit the transparency of *Python* while refactoring functions to make
+	- exploit the transparency of *Python* while refactoring functions to make
 		the functions more concise \cite[Chapter 3, pp. 62]{Alchin2010}.
-	perform argument validation to reduce the risk of raising errors due to
+	- perform argument validation to reduce the risk of raising errors due to
 		unassigned arguments by checking if arguments are assigned values
 		and if all arguments are known (i.e., "Are there any unknown
 		arguments?") \cite[Chapter 3, pp. 66]{Alchin2010}.
-	argument validation assigns default values to optional arguments, and
+	- argument validation assigns default values to optional arguments, and
 		returns a dictionary of required arguments (such that each
 		unassigned argument has a message indicating that it needs to be
 		assigned a value or that it is an unknown argument)
