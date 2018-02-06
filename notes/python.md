@@ -247,9 +247,11 @@ Notes on *Python* functions:
 		features that enable the examination/inspection of function arguments  
 		-- "a named tuple of information about [a] function's arguments" is
 		returned from processing the input function
-	\cite[Chapter 3, pp. 61]{Alchin2010}.
-
-
+	\cite[Chapter 3, pp. 61]{Alchin2010};
+	argument values of a function's arguments can be identified and be used to
+		generate argument lists \cite[Chapter 3, pp. 62]{Alchin2010}.
+	call a function with another function, a tuple of its positional arguments, and
+		a dictionary keyword arguments \cite[Chapter 3, pp. 62]{Alchin2010}.
 
 
 
