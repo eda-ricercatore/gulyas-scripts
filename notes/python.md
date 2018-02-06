@@ -217,9 +217,22 @@ Notes on *Python* functions:
 				group into one set**;
 			multiple sets of variable keyword arguments have to be group into
 				one set
-	- "Partial application of a function" occurs when it "preload[s] some of the
+	- "Preloading arguments" (or"Partial application of a function") occurs when it "preload[s] some of the
 		arguments in advance", so that fewer arguments have to be assigned
-		values later \cite[Chapter 3, pp. 60]{Alchin2010} 
+		values later \cite[Chapter 3, pp. 60]{Alchin2010}.
+	- Currying in functional programming is subtly different from preloading
+		arguments;
+		a pure curried function shall be called repeatedly till all the arguments
+			are assigned values -- the number of unassigned arguments is
+			reduced as the pure curried function is iteratively called till all
+			arguments are assigned values, before the most recently
+			returned/created function (for which all of its arguments are
+			assigned) is executed;
+		partial application will return a function that can be subsequently
+			executed, regardless of whether it has any unassigned arguments
+			-- note that executing a function with unassigned arguments will
+			result in raising a *TypeError*
+		\cite[Chapter 3, pp. 60]{Alchin2010}.
 + Types of *Python* functions: 
 
 
