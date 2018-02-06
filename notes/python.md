@@ -221,7 +221,7 @@ Notes on *Python* functions:
 		arguments in advance", so that fewer arguments have to be assigned
 		values later \cite[Chapter 3, pp. 60]{Alchin2010}.
 	- Currying in functional programming is subtly different from preloading
-		arguments;
+		arguments \cite[Chapter 3, pp. 60]{Alchin2010};
 		* A pure curried function shall be called repeatedly till all the arguments
 			are assigned values -- the number of unassigned arguments is
 			reduced as the pure curried function is iteratively called till all
@@ -231,8 +231,7 @@ Notes on *Python* functions:
 		* Partial application will return a function that can be subsequently
 			executed, regardless of whether it has any unassigned arguments
 			-- note that executing a function with unassigned arguments will
-			result in raising a *TypeError*
-		\cite[Chapter 3, pp. 60]{Alchin2010}.
+			result in raising a *TypeError*.
 + Types of *Python* functions \cite[Chapter 3]{Alchin2010}:
 	- decorators
 	- function annotations
