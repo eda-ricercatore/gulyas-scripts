@@ -207,8 +207,12 @@ Notes on *Python* functions:
 			processed before variable arguments)
 		* variable positional arguments (ensures/guarantees that variable
 			positional arguments are processed before variable keyword
-			arguments)
-		* variable keyword arguments
+			arguments);
+			**all the variable positional arguments of a function have to be
+				group into one set**
+		* variable keyword arguments;
+			**all the variable keyword arguments of a function have to be
+				group into one set**
 + Types of *Python* functions: 
 
 
