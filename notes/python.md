@@ -252,7 +252,9 @@ Notes on *Python* functions:
 		* error handling
 		* caching
 		* logging
-	- A closure is a 
+	- A closure is a function, which is defined in another function, and can be
+		passed to another function as an object
+		\cite[Chapter 3, pp. 69]{Alchin2010}.
 + A flexible function can be customized into a simpler and less flexible function
 	so that its reduced flexibility can be handled by existing API/libraries
 	\cite[Chapter 3, pp. 61]{Alchin2010}.
