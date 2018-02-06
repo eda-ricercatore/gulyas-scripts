@@ -186,8 +186,11 @@ Notes on *Python* functions:
 	- "wrapped [around by] other functions"
 	- "replaced by new implementations"
 + Arguments of a *Python* function:
-	- positional arguments (or order-based arguments) \cite[Chapter 3, pp. 53]{Alchin2010}.
-	- keyword arguments \cite[Chapter 3, pp. 53]{Alchin2010}.
+	- positional arguments (or order-based arguments)
+		\cite[Chapter 3, pp. 53]{Alchin2010} are grouped in an immutable tuple
+		\cite[Chapter 3, pp. 56]{Alchin2010}.
+	- keyword arguments \cite[Chapter 3, pp. 53]{Alchin2010} are placed in
+		a mutable dictionary \cite[Chapter 3, pp. 56]{Alchin2010}.
 	- It is recommended that arguments of a given *Python* function have
 		default values \cite[Chapter 3, pp. 53]{Alchin2010}.
 	- Keyword arguments are explicitly specified during function calls,
