@@ -190,6 +190,9 @@ Notes on *Python* functions:
 	- keyword arguments \cite[Chapter 3, pp. 53]{Alchin2010}.
 	- It is recommended that arguments of a given *Python* function have
 		default values \cite[Chapter 3, pp. 53]{Alchin2010}.
+	- Keyword arguments are explicitly specified during function calls,
+		and are favored over positional arguments that are implictly specified
+		during function calls \cite[Chapter 3, pp. 54]{Alchin2010}.
 + Types of *Python* functions: 
 
 
