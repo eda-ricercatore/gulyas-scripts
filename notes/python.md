@@ -199,6 +199,16 @@ Notes on *Python* functions:
 		Keyword arguments also *Python*ic in terms of coding style
 			\cite[Chapter 3, pp. 56]{Alchin2010}.
 	- Develop code that supports overriding via flexibility.
+	- Types of arguments listed in order of precedence/priority
+		\cite[Chapter 3, pp. 56-57]{Alchin2010}:
+		* required arguments (ensures/guarantees that required positional
+			arguments are processed before optional arguments are processed)
+		* optional arguments (ensures/guarantees that optional arguments are
+			processed before variable arguments)
+		* variable positional arguments (ensures/guarantees that variable
+			positional arguments are processed before variable keyword
+			arguments)
+		* variable keyword arguments
 + Types of *Python* functions: 
 
 
