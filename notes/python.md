@@ -252,7 +252,8 @@ Notes on *Python* functions:
 		generate argument lists \cite[Chapter 3, pp. 62]{Alchin2010}.
 	call a function with another function, a tuple of its positional arguments, and
 		a dictionary keyword arguments \cite[Chapter 3, pp. 62]{Alchin2010}.
-
+	exploit the transparency of *Python* while refactoring functions to make
+		the functions more concise \cite[Chapter 3, pp. 62]{Alchin2010}.
 
 
 
