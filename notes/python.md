@@ -258,7 +258,11 @@ Notes on *Python* functions:
 		unassigned arguments by checking if arguments are assigned values
 		and if all arguments are known (i.e., "Are there any unknown
 		arguments?") \cite[Chapter 3, pp. 66]{Alchin2010}.
-
+	argument validation assigns default values to optional arguments, and
+		returns a dictionary of required arguments (such that each
+		unassigned argument has a message indicating that it needs to be
+		assigned a value or that it is an unknown argument)
+		\cite[Chapter 3, pp. 66-67]{Alchin2010}.
 
 
 
