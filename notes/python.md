@@ -198,7 +198,8 @@ Notes on *Python* functions:
 		during function calls \cite[Chapter 3, pp. 54]{Alchin2010}.
 		* Keyword arguments also *Python*ic in terms of coding style
 			\cite[Chapter 3, pp. 56]{Alchin2010}.
-	- Develop code that supports overriding via flexibility.
+	- Develop code that supports overriding via flexibility
+		\cite[Chapter 3, pp. 54]{Alchin2010}.
 	- Types of arguments listed in order of precedence/priority
 		\cite[Chapter 3, pp. 56-59]{Alchin2010}:
 		* required arguments (ensures/guarantees that required positional
