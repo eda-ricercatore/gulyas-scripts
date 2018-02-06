@@ -255,6 +255,11 @@ Notes on *Python* functions:
 	- A closure is a function, which is defined in another function, and can be
 		passed to another function as an object
 		\cite[Chapter 3, pp. 69]{Alchin2010}.
+		* It can involve \cite[Chapter 3, pp. 69]{Alchin2010}:
+			+ lexical scope
+			+ free variables
+			+ upvalues
+			+ variable extent
 + A flexible function can be customized into a simpler and less flexible function
 	so that its reduced flexibility can be handled by existing API/libraries
 	\cite[Chapter 3, pp. 61]{Alchin2010}.
