@@ -222,13 +222,13 @@ Notes on *Python* functions:
 		values later \cite[Chapter 3, pp. 60]{Alchin2010}.
 	- Currying in functional programming is subtly different from preloading
 		arguments;
-		a pure curried function shall be called repeatedly till all the arguments
+		* A pure curried function shall be called repeatedly till all the arguments
 			are assigned values -- the number of unassigned arguments is
 			reduced as the pure curried function is iteratively called till all
 			arguments are assigned values, before the most recently
 			returned/created function (for which all of its arguments are
 			assigned) is executed;
-		partial application will return a function that can be subsequently
+		* Partial application will return a function that can be subsequently
 			executed, regardless of whether it has any unassigned arguments
 			-- note that executing a function with unassigned arguments will
 			result in raising a *TypeError*
