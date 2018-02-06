@@ -254,7 +254,10 @@ Notes on *Python* functions:
 		a dictionary keyword arguments \cite[Chapter 3, pp. 62]{Alchin2010}.
 	exploit the transparency of *Python* while refactoring functions to make
 		the functions more concise \cite[Chapter 3, pp. 62]{Alchin2010}.
-
+	perform argument validation to reduce the risk of raising errors due to
+		unassigned arguments by checking if arguments are assigned values
+		and if all arguments are known (i.e., "Are there any unknown
+		arguments?") \cite[Chapter 3, pp. 66]{Alchin2010}.
 
 
 
