@@ -284,6 +284,7 @@ Notes on *Python* functions:
 	- A decorator with arguments is implemented by the "original" function
 		having extra arguments that are passed to the wrapper, which returns
 		the decorator \cite[Chapter 3, pp. 72]{Alchin2010}.
+	- Beware of side effects of decorators \cite[Chapter 3, pp. 75]{Alchin2010}.
 + A flexible function can be customized into a simpler and less flexible function
 	so that its reduced flexibility can be handled by existing API/libraries
 	\cite[Chapter 3, pp. 61]{Alchin2010}.
@@ -310,6 +311,15 @@ Notes on *Python* functions:
 		unassigned argument has a message indicating that it needs to be
 		assigned a value or that it is an unknown argument)
 		\cite[Chapter 3, pp. 66-67]{Alchin2010}.
+
+
+
+
+
+
+
+
+
  
 
 
