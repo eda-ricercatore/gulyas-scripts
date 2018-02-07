@@ -17,7 +17,7 @@ Comparing *Python* 3.x to *Python* 2.y, the former has significant
 		of *Python* in a given *Python* software. 
 
 Definition of classes between *Python 3.x* and *Python 2.y*
-	\cite[Chapter 4, pp. 103]{Alchin2010}
+	\cite[Chapter 4, pp. 103]{Alchin2010}.
 
 
 
