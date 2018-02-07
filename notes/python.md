@@ -240,7 +240,8 @@ Notes on *Python* functions:
 	- lambdas
 	- introspection
 + A decorator is a technique for obtaining a (new) function from passing a
-	function into another function \cite[Chapter 3, pp. 61,68]{Alchin2010};
+	function (function to be decorated) into another function (decorator)
+	\cite[Chapter 3, pp. 61,68]{Alchin2010};
 	- It is used to support preloading arguments (or partial application of a
 		function) \cite[Chapter 3, pp. 61]{Alchin2010};
 	- Use a decorator to execute boilerplate code in a set of input functions
@@ -278,8 +279,11 @@ Notes on *Python* functions:
 		* Information lost by the wrapped function can be obtained by the
 			*wrap* decorator in the *functools* module;
 			here, a decorator is used inside another decorator to avoid
-				code duplication.
+				code duplication
 			\cite[Chapter 3, pp. 71]{Alchin2010}.
+	- A decorator with arguments is implemented by the "original" function
+		having extra arguments that are passed to the wrapper, which returns
+		the decorator \cite[Chapter 3, pp. 72]{Alchin2010}.
 + A flexible function can be customized into a simpler and less flexible function
 	so that its reduced flexibility can be handled by existing API/libraries
 	\cite[Chapter 3, pp. 61]{Alchin2010}.
