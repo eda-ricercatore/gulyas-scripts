@@ -323,8 +323,11 @@ Notes on *Python* functions:
 	- set of input arguments
 	- optional docstring 
 + Factoring out the boilerplate code \cite[Chapter 3, pp. 86]{Alchin2010}:
-	- erew
-
+	- An annotation determines "if [a] value is appropriate, and raises an
+		exception" for inappropriate values.
+	- Use a decorator to factor out the boilerplate code as a new function,
+		connect it to the rest of the code, and process the annotation for each
+		value \cite[Chapter 3, pp. 86]{Alchin2010}. 
 
 
 
