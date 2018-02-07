@@ -239,6 +239,9 @@ Notes on *Python* functions:
 		* Attach an expression to each input argument and the return value. 
 	- generators
 	- lambdas
+		* Has a return value in the body of a lambda, and omits any explicit
+			return statement;
+			only allows a single expression \cite[Chapter 3, pp. 97]{Alchin2010}. 
 	- introspection
 + A decorator is a technique for obtaining a (new) function from passing a
 	function (function to be decorated) into another function (decorator)
