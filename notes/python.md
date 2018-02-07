@@ -164,7 +164,8 @@ Notes on *Python* Classes:
 	behavior that is determined by the class definition;
 	this behavior can be defined, extended, or altered 
 	\cite[Chapter 4, pp. 103]{Alchin2010}. 
-
++ Inheritance allows a derived/child class to have a different fundamental
+	behavior from its base class.
 
 
 Chapter 4,5-6,8.
