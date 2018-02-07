@@ -291,6 +291,14 @@ Notes on *Python* functions:
 	- A decorator enables memoization by storing the result of a function;
 		this is carried out by the argument list as a key to automatically cache
 		the result \cite[Chapter 3, pp. 75]{Alchin2010}.
+	- Factoring out the boilerplate code \cite[Chapter 3, pp. 86]{Alchin2010}:
+		* An annotation determines "if [a] value is appropriate, and raises an
+			exception" for inappropriate values.
+		* Use a decorator to factor out the boilerplate code as a new function,
+			connect it to the rest of the code, and process the annotation for each
+		value \cite[Chapter 3, pp. 86]{Alchin2010}.
+	- A decorator can make use of annotation for type coercion
+		\cite[Chapter 3, pp. 88]{Alchin2010}.
 + A flexible function can be customized into a simpler and less flexible function
 	so that its reduced flexibility can be handled by existing API/libraries
 	\cite[Chapter 3, pp. 61]{Alchin2010}.
@@ -322,12 +330,7 @@ Notes on *Python* functions:
 	- name of function
 	- set of input arguments
 	- optional docstring 
-+ Factoring out the boilerplate code \cite[Chapter 3, pp. 86]{Alchin2010}:
-	- An annotation determines "if [a] value is appropriate, and raises an
-		exception" for inappropriate values.
-	- Use a decorator to factor out the boilerplate code as a new function,
-		connect it to the rest of the code, and process the annotation for each
-		value \cite[Chapter 3, pp. 86]{Alchin2010}. 
+
 
 
 
