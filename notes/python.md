@@ -247,6 +247,8 @@ Notes on *Python* functions:
 	- Use a decorator to execute boilerplate code in a set of input functions
 		before/after the execution of the returned function
 		\cite[Chapter 3, pp. 68]{Alchin2010}.
+	- Use decorators to avoid boilerplate code and simplify the functions
+		\cite[Chapter 3, pp. 77]{Alchin2010}. 
 	- Applications of decorators \cite[Chapter 3, pp. 67-68]{Alchin2010}:
 		* access control
 		* cleanup of temporary objects
@@ -285,6 +287,9 @@ Notes on *Python* functions:
 		having extra arguments that are passed to the wrapper, which returns
 		the decorator \cite[Chapter 3, pp. 72]{Alchin2010}.
 	- Beware of side effects of decorators \cite[Chapter 3, pp. 75]{Alchin2010}.
+	- A decorator enables memoization by storing the result of a function;
+		this is carried out by the argument list as a key to automatically cache
+		the result \cite[Chapter 3, pp. 75]{Alchin2010}.
 + A flexible function can be customized into a simpler and less flexible function
 	so that its reduced flexibility can be handled by existing API/libraries
 	\cite[Chapter 3, pp. 61]{Alchin2010}.
