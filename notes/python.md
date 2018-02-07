@@ -299,6 +299,15 @@ Notes on *Python* functions:
 		value \cite[Chapter 3, pp. 86]{Alchin2010}.
 	- A decorator can make use of annotation for type coercion
 		\cite[Chapter 3, pp. 88]{Alchin2010}.
+		- Either require an argument to accept values of a specific type, or
+			coerce an input value to the required type
+			\cite[Chapter 3, pp. 88]{Alchin2010}.
+		* **The robustness principle allows input arguments to accept values
+			of a small range of types, which can be converted to the
+			required types prior to further processing;
+			hence, the type of the return value would always be consistent
+			with the type expected by external code, so that
+			postconditions would be satisfied.**
 + A flexible function can be customized into a simpler and less flexible function
 	so that its reduced flexibility can be handled by existing API/libraries
 	\cite[Chapter 3, pp. 61]{Alchin2010}.
