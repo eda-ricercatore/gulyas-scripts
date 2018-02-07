@@ -169,6 +169,25 @@ Notes on *Python* Classes:
 	behavior from its base class \cite[Chapter 4, pp. 103]{Alchin2010}. 
 + The built-in type **object** is "a foundation type that underpins the entire
 	system \cite[Chapter 4, pp. 103]{Alchin2010}.
++ Codify relationships between packages, modules, and classes to represent
+	actual/real relationships between (concrete or abstract) nouns
+	\cite[Chapter 4, pp. 105]{Alchin2010}.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Chapter 4,5-6,8.
 
