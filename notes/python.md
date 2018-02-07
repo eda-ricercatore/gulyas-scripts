@@ -276,7 +276,9 @@ Notes on *Python* functions:
 			a value (or **None**) is returned to the original function
 			\cite[Chapter 3, pp. 71]{Alchin2010}.
 		* Information lost by the wrapped function can be obtained by the
-			*wrap* decorator in the *functools* module
+			*wrap* decorator in the *functools* module;
+			here, a decorator is used inside another decorator to avoid
+				code duplication.
 			\cite[Chapter 3, pp. 71]{Alchin2010}.
 + A flexible function can be customized into a simpler and less flexible function
 	so that its reduced flexibility can be handled by existing API/libraries
