@@ -239,7 +239,9 @@ Notes on *Python* functions:
 		* Attach an expression to each input argument and the return value. 
 	- generators
 		* A generator has the "flexibility of a function and the performance of
-			an iterator" \cite[Chapter 3, pp. 94]{Alchin2010}.
+			an iterator";
+			it uses the **yield** statement to enable a value to be read externally,
+				and it is analogus to the **return** statement \cite[Chapter 3, pp. 94]{Alchin2010}.
 	- lambdas
 		* Has a return value in the body of a lambda, and omits any explicit
 			return statement;
