@@ -16,7 +16,7 @@ Comparing *Python* 3.x to *Python* 2.y, the former has significant
 	This can cause compatibility problems between different versions
 		of *Python* in a given *Python* software. 
 
-Definition of classes between *Python 3.x* and *Python 2.y*
+Definitions of classes between *Python 3.x* and *Python 2.y* are different
 	\cite[Chapter 4, pp. 103]{Alchin2010}.
 
 
