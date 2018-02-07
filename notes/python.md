@@ -322,8 +322,8 @@ Notes on *Python* functions:
 	- name of function
 	- set of input arguments
 	- optional docstring 
-
-
++ Factoring out the boilerplate code \cite[Chapter 3, pp. 86]{Alchin2010}:
+	- erew
 
 
 
