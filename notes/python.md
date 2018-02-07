@@ -155,6 +155,18 @@ Relative imports are supported by providing relative paths to modules that are
 ## *Python* Classes
 
 
+Notes on *Python* Classes:
++ A class is a particular type of object has a logical group of functions, and
+	"encapsulates the behavior of an object" \cite[Chapter 4, pp. 103]{Alchin2010}. 
++ "An instance of the class represents the data for the object"
+	\cite[Chapter 4, pp. 103]{Alchin2010}.
++ Difference instances of a class has different sets of data, but have the same
+	behavior that is determined by the class definition;
+	this behavior can be defined, extended, or altered 
+	\cite[Chapter 4, pp. 103]{Alchin2010}. 
+
+
+
 Chapter 4,5-6,8.
 
 
@@ -241,7 +253,7 @@ Notes on *Python* functions:
 		* A generator has the "flexibility of a function and the performance of
 			an iterator";
 			it uses the **yield** statement to enable a value to be read externally,
-				and it is analogus to the **return** statement \cite[Chapter 3, pp. 94]{Alchin2010}.
+				and it is analogous to the **return** statement \cite[Chapter 3, pp. 94]{Alchin2010}.
 	- lambdas
 		* Has a return value in the body of a lambda, and omits any explicit
 			return statement;
