@@ -165,8 +165,9 @@ Notes on *Python* Classes:
 	this behavior can be defined, extended, or altered 
 	\cite[Chapter 4, pp. 103]{Alchin2010}. 
 + Inheritance allows a derived/child class to have a different fundamental
-	behavior from its base class.
-
+	behavior from its base class \cite[Chapter 4, pp. 103]{Alchin2010}. 
++ The built-in type **object** is "a foundation type that underpins the entire
+	system \cite[Chapter 4, pp. 103]{Alchin2010}.
 
 Chapter 4,5-6,8.
 
