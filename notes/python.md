@@ -238,13 +238,15 @@ Notes on *Python* functions:
 	- function annotations \cite[Chapter 3, pp. 78]{Alchin2010}.
 		* Attach an expression to each input argument and the return value. 
 	- generators
+		* A generator has the "flexibility of a function and the performance of
+			an iterator" \cite[Chapter 3, pp. 94]{Alchin2010}.
 	- lambdas
 		* Has a return value in the body of a lambda, and omits any explicit
 			return statement;
 			only allows a single expression \cite[Chapter 3, pp. 97]{Alchin2010}. 
 	- introspection
 		* Any access/examination of information at run-time, such as
-			\cite[Chapter 3, pp. 97]{Alchin2010}.:
+			\cite[Chapter 3, pp. 97]{Alchin2010}:
 			+ object attributes
 			+ module contents
 			+ documentation
