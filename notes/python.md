@@ -235,7 +235,8 @@ Notes on *Python* functions:
 			result in raising a *TypeError*.
 + Types of *Python* functions \cite[Chapter 3]{Alchin2010}:
 	- decorators
-	- function annotations
+	- function annotations \cite[Chapter 3, pp. 78]{Alchin2010}.
+		* Attach an expression to each input argument and the return value. 
 	- generators
 	- lambdas
 	- introspection
@@ -316,7 +317,11 @@ Notes on *Python* functions:
 		unassigned argument has a message indicating that it needs to be
 		assigned a value or that it is an unknown argument)
 		\cite[Chapter 3, pp. 66-67]{Alchin2010}.
-
++ Aspects of a function that is code invariant
+	\cite[Chapter 3, pp. 78]{Alchin2010}:
+	- name of function
+	- set of input arguments
+	- optional docstring 
 
 
 
