@@ -263,6 +263,9 @@ Notes on *Python* functions:
 		* A function *A* passed into another function *B* cannot be the closure
 			of function *B*, since *A* is not defined in *B*
 			\cite[Chapter 3, pp. 70]{Alchin2010}.
+	- A wrapper is a function that contains another function (the wrapped
+		function) and additional behavior executed before or/and after the
+		execution of the wrapped function.
 + A flexible function can be customized into a simpler and less flexible function
 	so that its reduced flexibility can be handled by existing API/libraries
 	\cite[Chapter 3, pp. 61]{Alchin2010}.
