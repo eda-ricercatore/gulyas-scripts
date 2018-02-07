@@ -308,6 +308,13 @@ Notes on *Python* functions:
 			hence, the type of the return value would always be consistent
 			with the type expected by external code, so that
 			postconditions would be satisfied.**
+	- Provide an annotation directly to the code that needs it, and/or use a
+		decorator with input argument to annotate the code
+		\cite[Chapter 3, pp. 90]{Alchin2010}.
+	- Stacking multiple decorators "together on a function" provides "a built-in
+		way to manage each corresponding framework";
+		each decorator has a corresponding framework
+		\cite[Chapter 3, pp. 90]{Alchin2010}.
 + A flexible function can be customized into a simpler and less flexible function
 	so that its reduced flexibility can be handled by existing API/libraries
 	\cite[Chapter 3, pp. 61]{Alchin2010}.
