@@ -172,8 +172,13 @@ Notes on *Python* Classes:
 + Codify relationships between packages, modules, and classes to represent
 	actual/real relationships between (concrete or abstract) nouns
 	\cite[Chapter 4, pp. 105]{Alchin2010}.
-
-
++ *Python* supports multiple inheritance, and enables each class to be build
+	as another component of the software \cite[Chapter 4, pp. 105]{Alchin2010}. 
+	- Multiple inheritance enables mixins, or support classes, to provide minor
+		add-on features that can be used by a variety of classes. 
+		\cite[Chapter 4, pp. 105]{Alchin2010}.
+		* **Compare mixins with traits.**
+		* "[A mixin does] not provide full functionality on [its] own."
 
 
 
