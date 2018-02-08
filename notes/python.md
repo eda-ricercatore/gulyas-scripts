@@ -184,7 +184,7 @@ Notes on *Python* Classes:
 	inheritance" \cite[Chapter 4, pp. 106]{Alchin2010}.
 	- Since Python does not know the class hierarchy, it has "to account for all
 		the possibilities" \cite[Chapter 4, pp. 108]{Alchin2010} in which it
-		determines which method to use.  
+		determines which method to use.
 
 
 
@@ -438,7 +438,8 @@ Use a **list comprehension** to perform a conditional operation iteratively on
 		Compare this to **ordered dictionaries** \cite[Chapter 2, pp. 38]{Alchin2010}.
 
 
-
++ Try to follow the *Don't Repeat Yourself* principle during software development
+	\cite[Chapter 4, pp. 120]{Alchin2010}.
 
 
 
