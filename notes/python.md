@@ -204,8 +204,13 @@ Notes on *Python* Classes:
 		\cite[Chapter 4, pp. 124]{Alchin2010}.
 	- Provide an iterator to enumerate plugins mounted to the plugin
 		framework's plugin mount point \cite[Chapter 4, pp. 124]{Alchin2010}.
-
-
+	- The metaclass for the plugin framework should register/connect plugins
+		to the plugin mount class by adding the plugin objects to the plugin list
+		(list of plugins) for subsequent access
+		\cite[Chapter 4, pp. 124]{Alchin2010}.
+	- The plugin mount class needs to have a switch to enable or disable the
+		plugin mount (or plugin framework)
+		\cite[Chapter 4, pp. 124]{Alchin2010}.
 
 
 
