@@ -285,11 +285,18 @@ Notes on *Python* Classes:
 		instance object as the first positional argument
 		\cite[Chapter 4, pp. 133]{Alchin2010}.
 	- A method can be defined on a metaclass, since a class is an instance of a
-		metaclass;
+		metaclass \cite[Chapter 4, pp. 134]{Alchin2010}.;
 		hence, each instance of a class can access that method, just like any
-			bound method of that class
-		\cite[Chapter 4, pp. 134]{Alchin2010}.
-	- 
+			bound method of that class \cite[Chapter 4, pp. 134]{Alchin2010};
+		however, a class instance can call unclass methods, but not bound
+			class methods \cite[Chapter 4, pp. 134]{Alchin2010};
+		a bound class method can only be called by the class itself.
+			\cite[Chapter 4, pp. 134]{Alchin2010}.
+	- While a metaclass-based class method has less visibility by instances of
+		a class than standard decorated class methods, it allows
+		metaclass-using applications to add class methods to classes that use
+		the metaclass;
+		this avoids the need for a  
 
 
 
