@@ -19,6 +19,10 @@ Comparing *Python* 3.x to *Python* 2.y, the former has significant
 Definitions of classes between *Python 3.x* and *Python 2.y* are different
 	\cite[Chapter 4, pp. 103]{Alchin2010}.
 
+Unlike *Python 3.x*, properties in *Python 2.y* do not have mutator methods
+	\cite[Chapter 4, pp. 129]{Alchin2010}.
+
+
 
 
 
@@ -220,10 +224,11 @@ Notes on *Python* Classes:
 		object;
 		access these attributes with "a trio of functions"
 		\cite[Chapter 4, pp. 125]{Alchin2010}.
-	- Define a property using the built-in @property decorator function, so that
-		it can allow attributes to be assessed by methods
-		\cite[Chapter 4, pp. 127]{Alchin2010}.
-
++ Define a property using the built-in @property decorator function, so that it
+	can allow attributes to be assessed by methods
+	\cite[Chapter 4, pp. 127]{Alchin2010}.
++ A descriptor of an assigned class allows an object definition to behave just
+	like the properties of the assigned class \cite[Chapter 4, pp. 129]{Alchin2010}. 
 
 
 
