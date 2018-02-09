@@ -264,7 +264,11 @@ Notes on *Python* Classes:
 		\cite[Chapter 4, pp. 131]{Alchin2010}.
 	- When an unbound method on a class is accessed, a function object for
 		the unbound method is returned \cite[Chapter 4, pp. 131]{Alchin2010}.
-
+	- A function can support bound and unbound methods;
+		a bound method uses the instance object, which is
+			passed as a positional argument, of the class to receive the first
+			argument;
+		hence, the positional argument does not need to be **self**.
 
 
 
