@@ -268,10 +268,28 @@ Notes on *Python* Classes:
 		a bound method uses the instance object, which is
 			passed as a positional argument, of the class to receive the first
 			argument;
-		hence, the positional argument does not need to be **self**.
-
-
-
+		hence, the positional argument does not need to be **self**
+		\cite[Chapter 4, pp. 132]{Alchin2010}.
+	- To implement method binding with an unbound method, explicitly use an
+		 instance objects in the first argument to mimic/imitate bound methods;
+		 this can be helpful "when passing functions around as callbacks"
+		\cite[Chapter 4, pp. 133]{Alchin2010}.
+	- To use a method without instantiating a class, use either of the following
+		\cite[Chapter 4, pp. 133-135]{Alchin2010}:
+		* Class methods
+		* Static methods
+	- A class method is a method that needs access to the attached class, and
+		the built-in *@classmethod* decorator supports it
+		\cite[Chapter 4, pp. 133-135]{Alchin2010}.
+	- An "unbound" class method is a bound instance method that accepts an
+		instance object as the first positional argument
+		\cite[Chapter 4, pp. 133]{Alchin2010}.
+	- A method can be defined on a metaclass, since a class is an instance of a
+		metaclass;
+		hence, each instance of a class can access that method, just like any
+			bound method of that class
+		\cite[Chapter 4, pp. 134]{Alchin2010}.
+	- 
 
 
 
