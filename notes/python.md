@@ -199,9 +199,11 @@ Notes on *Python* Classes:
 		validation \cite[Chapter 4, pp. 123]{Alchin2010}:
 	- The plugin, or plugin system, should be well documented, in terms of its
 		expectations and assumptions \cite[Chapter 4, pp. 123]{Alchin2010}.
-
-
-
+	- The plugin can be extended by more specialized plugins as subclasses
+		(also known as derived classes and child classes)
+		\cite[Chapter 4, pp. 124]{Alchin2010}.
+	- Provide an iterator to enumerate plugins mounted to the plugin
+		framework's plugin mount point \cite[Chapter 4, pp. 124]{Alchin2010}.
 
 
 
