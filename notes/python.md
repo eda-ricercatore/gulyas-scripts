@@ -185,10 +185,15 @@ Notes on *Python* Classes:
 	- Since Python does not know the class hierarchy, it has "to account for all
 		the possibilities" \cite[Chapter 4, pp. 108]{Alchin2010} in which it
 		determines which method to use.
++ **\_\_init\_\_()** is a class, when it shoud be considered as an instance object
+	(**self**), which inherits from **type** \cite[Chapter 4, pp. 122]{Alchin2010}.
++ The (software) plugin framework allows software plugins and plugin systems
+	to be additively added to it \cite[Chapter 4, pp. 122]{Alchin2010}.
 
 
 
 
+	
 
 
 
