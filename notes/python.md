@@ -22,6 +22,22 @@ Definitions of classes between *Python 3.x* and *Python 2.y* are different
 Unlike *Python 3.x*, properties in *Python 2.y* do not have mutator methods
 	\cite[Chapter 4, pp. 129]{Alchin2010}.
 
+When a function descriptor on a class is accessed, the function descriptor
+	returns itself and shows up as any function in *Python 3.x*;
+	however, in *Python 2.y*, this returns an instance method object
+	\cite[Chapter 4, pp. 129]{Alchin2010}.  
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -245,8 +261,9 @@ Notes on *Python* Classes:
 	- An unbound method is a method that is accessed by a class, which is
 		received by the descriptor \cite[Chapter 4, pp. 131]{Alchin2010}. 
 	- A bound method requires an instance of a class to for access
-		\cite[Chapter 4, pp. 131]{Alchin2010}. 
-
+		\cite[Chapter 4, pp. 131]{Alchin2010}.
+	- When an unbound method on a class is accessed, a function object for
+		the unbound method is returned \cite[Chapter 4, pp. 131]{Alchin2010}.
 
 
 
