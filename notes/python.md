@@ -229,6 +229,28 @@ Notes on *Python* Classes:
 	\cite[Chapter 4, pp. 127]{Alchin2010}.
 + A descriptor of an assigned class allows an object definition to behave just
 	like the properties of the assigned class \cite[Chapter 4, pp. 129]{Alchin2010}. 
+	- Since a descriptor cannot use the namespace dictionary of the instance
+		object, the descriptor has to use a dictionary to access instance objects
+		\cite[Chapter 4, pp. 131]{Alchin2010}.
++ A method is a function belonging to a class \cite[Chapter 4, pp. 131]{Alchin2010}.
+	- Unlike functions that do not belong to a class, a method can access class
+		information \cite[Chapter 4, pp. 131]{Alchin2010}.
+	- Categories of methods \cite[Chapter 4, pp. 131]{Alchin2010}:
+		* unbound methods
+		* bound methods
+	- A function also serves as a descriptor of a class
+		\cite[Chapter 4, pp. 131]{Alchin2010}.
+	- Like descriptors, a class and its instances can access a method
+		\cite[Chapter 4, pp. 131]{Alchin2010}.
+	- An unbound method is a method that is accessed by a class, which is
+		received by the descriptor \cite[Chapter 4, pp. 131]{Alchin2010}. 
+	- A bound method requires an instance of a class to for access
+		\cite[Chapter 4, pp. 131]{Alchin2010}. 
+
+
+
+
+
 
 
 
