@@ -220,7 +220,9 @@ Notes on *Python* Classes:
 		object;
 		access these attributes with "a trio of functions"
 		\cite[Chapter 4, pp. 125]{Alchin2010}.
-
+	- Define a property using the built-in @property decorator function, so that
+		it can allow attributes to be assessed by methods
+		\cite[Chapter 4, pp. 127]{Alchin2010}.
 
 
 
