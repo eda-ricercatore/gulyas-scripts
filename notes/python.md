@@ -211,6 +211,17 @@ Notes on *Python* Classes:
 	- The plugin mount class needs to have a switch to enable or disable the
 		plugin mount (or plugin framework)
 		\cite[Chapter 4, pp. 124]{Alchin2010}.
+	- An individual/standard plugin inherits from the metaclass, and obtains its
+		plugin behavior automatically \cite[Chapter 4, pp. 125]{Alchin2010}.
+	- Use the metaclass **\_\_prepare\_\_()** to prepare a class declaration for
+		immediate processing \cite[Chapter 4, pp. 125]{Alchin2010}.
+	- An instantiated object stores data via an instance-specific namespace
+		dictionary that can be accessed by the attributes if the instantiated
+		object;
+		access these attributes with "a trio of functions"
+		\cite[Chapter 4, pp. 125]{Alchin2010}.
+
+
 
 
 
