@@ -189,11 +189,16 @@ Notes on *Python* Classes:
 	(**self**), which inherits from **type** \cite[Chapter 4, pp. 122]{Alchin2010}.
 + The (software) plugin framework allows software plugins and plugin systems
 	to be additively added to it \cite[Chapter 4, pp. 122]{Alchin2010}.
-
-
-
-
-	
+	- The plugin framework allows easy access to plugins and plugin systems
+		in use \cite[Chapter 4, pp. 122]{Alchin2010}.
+	- A plugin extends a base class by using Python's extension features, such
+		as the built-in subclass syntax and the support "for common plugin
+		needs", so that it can complement the functionality of the base class
+		\cite[Chapter 4, pp. 123]{Alchin2010}. 
+	- An example of support "for common plugin needs" would be input
+		validation \cite[Chapter 4, pp. 123]{Alchin2010}:
+	- The plugin, or plugin system, should be well documented, in terms of its
+		expectations and assumptions \cite[Chapter 4, pp. 123]{Alchin2010}.
 
 
 
