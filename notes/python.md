@@ -327,7 +327,8 @@ Notes on *Python* Classes:
 		- Default values for instance variables of the class serve as placeholders
 			until they will be updated \cite[Chapter 4, pp. 136]{Alchin2010}.
 		- For a given *Python* instance object, the **\_\_new\_\_()** method
-			should be called before the **\_\_init\_\_()** method 
+			should be called before the **\_\_init\_\_()** method
+			\cite[Chapter 4, pp. 137]{Alchin2010}.
 		
 
 
