@@ -308,8 +308,14 @@ Notes on *Python* Classes:
 			\cite[Chapter 4, pp. 134]{Alchin2010};
 		a static method shall be defined within a *Python* class with the
 			**staticmethod** decorator \cite[Chapter 4, pp. 134]{Alchin2010}.
-
-
++ There exists various ways to instantiate/create, modify, or invalidate *Python*
+	instance objects \cite[Chapter 4, pp. 135]{Alchin2010}.
+	+ Creating *Python* instance objects via instantiation of a *Python* class
+		 \cite[Chapter 4, pp. 136]{Alchin2010}:
+		 - Use **\_\_init\_\_()** to Instantiate an object of a *Python* class to
+		 	implement behavior (i.e., perform functions and operations) that is
+		 	specific/unique to that *Python* instance object.
+		
 
 
 Chapter 4,5-6,8.
