@@ -316,7 +316,11 @@ Notes on *Python* Classes:
 		 	implement behavior (i.e., perform functions and operations) that is
 		 	specific/unique to that *Python* instance object;
 		 	that is, use the constructor **\_\_init\_\_()** to initialize instance
-				variables of the class.
+				variables of the class as a basic setup of the instance object
+				and to perform common tasks for each instance object of the
+				class (such as file input operations, validation of
+				initial/preliminary user input, or to collect information
+				regarding a given running process).
 		- Default values for instance variables of the class serve as placeholders
 			until they will be updated.
 		
