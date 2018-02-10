@@ -312,9 +312,14 @@ Notes on *Python* Classes:
 	instance objects \cite[Chapter 4, pp. 135]{Alchin2010}.
 	+ Creating *Python* instance objects via instantiation of a *Python* class
 		 \cite[Chapter 4, pp. 136]{Alchin2010}:
-		 - Use **\_\_init\_\_()** to Instantiate an object of a *Python* class to
+		 - Use **\_\_init\_\_()** to instantiate an object of a *Python* class to
 		 	implement behavior (i.e., perform functions and operations) that is
-		 	specific/unique to that *Python* instance object.
+		 	specific/unique to that *Python* instance object;
+		 	that is, use the constructor **\_\_init\_\_()** to initialize instance
+				variables of the class.
+		- Default values for instance variables of the class serve as placeholders
+			until they will be updated.
+		
 		
 
 
