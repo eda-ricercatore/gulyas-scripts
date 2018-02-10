@@ -310,12 +310,12 @@ Notes on *Python* Classes:
 			**staticmethod** decorator \cite[Chapter 4, pp. 134]{Alchin2010}.
 + There exists various ways to instantiate/create, modify, or invalidate *Python*
 	instance objects \cite[Chapter 4, pp. 135]{Alchin2010}.
-	+ Creating *Python* instance objects via instantiation of a *Python* class
+	- Creating *Python* instance objects via instantiation of a *Python* class
 		 \cite[Chapter 4, pp. 136]{Alchin2010}:
-		 - Use **\_\_new\_\_()** to instantiate/create an object of a *Python*
+		* Use **\_\_new\_\_()** to instantiate/create an object of a *Python*
 		 	class \cite[Chapter 4, pp. 137]{Alchin2010}. 
-		 - Use **\_\_init\_\_()** to initialize an object of a *Python* class to
-		 	implement behavior (i.e., perform functions and operations) that is
+		* Use **\_\_init\_\_()** to initialize an object of a *Python* class to
+			implement behavior (i.e., perform functions and operations) that is
 		 	specific/unique to that *Python* instance object;
 		 	that is, use the constructor **\_\_init\_\_()** to initialize instance
 				variables of the class as a basic setup of the instance object
@@ -324,12 +324,29 @@ Notes on *Python* Classes:
 				initial/preliminary user input, or to collect information
 				regarding a given running process)
 			\cite[Chapter 4, pp. 136]{Alchin2010}.
-		- Default values for instance variables of the class serve as placeholders
+		* Default values for instance variables of the class serve as placeholders
 			until they will be updated \cite[Chapter 4, pp. 136]{Alchin2010}.
-		- For a given *Python* instance object, the **\_\_new\_\_()** method
+		* For a given *Python* instance object, the **\_\_new\_\_()** method
 			should be called before the **\_\_init\_\_()** method
 			\cite[Chapter 4, pp. 137]{Alchin2010}.
-		
+	-Accessing and modifying attributes of a *Python* class
+		\cite[Chapter 4, pp. 138]{Alchin2010}:
+		* Use the **\_\_getattr\_\_()**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Chapter 4,5-6,8.
