@@ -295,8 +295,19 @@ Notes on *Python* Classes:
 	- While a metaclass-based class method has less visibility by instances of
 		a class than standard decorated class methods, it allows
 		metaclass-using applications to add class methods to classes that use
-		the metaclass;
-		this avoids the need for a  
+		the metaclass \cite[Chapter 4, pp. 134]{Alchin2010};
+		this avoids the need for a separate/extra class just to contain the
+		aforementioned class methods (and nothing else)
+		\cite[Chapter 4, pp. 134]{Alchin2010}.
+	- A static method enables a method to interact with properties of the class,
+		and other static methods of the class, without requiring an instance
+		object of the class to perform various operations and functions
+		\cite[Chapter 4, pp. 134]{Alchin2010};
+		this also avoids the need to implement a function at the module level,
+			without being embedded in any *Python* class
+			\cite[Chapter 4, pp. 134]{Alchin2010};
+		a static method shall be defined within a *Python* class with the
+			**staticmethod** decorator \cite[Chapter 4, pp. 134]{Alchin2010}.
 
 
 
@@ -661,6 +672,24 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 
 \cite[Chapter 2, pp. 23-28,29-30]{Alchin2010} shows how to catch multiple
 	errors that have been raised.
+
+
+
+
+
+
+
+
+
+
+##	*Python* Virtual Machine (PVM)
+
+Notes about the *Python* Virtual Machine (PVM):
++ \cite{Pattis2016}
+
+
+
+
 
 
 
