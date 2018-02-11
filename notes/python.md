@@ -332,8 +332,19 @@ Notes on *Python* Classes:
 	- Accessing and modifying attributes of a *Python* class
 		\cite[Chapter 4, pp. 138]{Alchin2010}:
 		* The name of an attribute of an instance object can be accessed or
-			modified directly via *instance.attribute*. 
-		* Use the **\_\_getattr\_\_()**
+			modified directly via *instance.attribute* \cite[Chapter 4, pp. 138]{Alchin2010};
+			other methods for accessing or modifying *instance.attribute* can
+				provide more control \cite[Chapter 4, pp. 138]{Alchin2010}. 
+		* Use the **\_\_getattr\_\_()** function to obtain the value of an attribute
+			(of the instance object) \cite[Chapter 4, pp. 138]{Alchin2010};
+			e.g., use the **getattr(instance, attribute_name)** to obtain the
+				name of the attribute \cite[Chapter 4, pp. 138]{Alchin2010}.
+		* Also, use the **\_\_getattr\_\_()** function to control implicitly (or
+			rather, not explicitly) managed attributes
+			\cite[Chapter 4, pp. 138]{Alchin2010}.
+		* For requests to access undefined attributes, and if the
+			**\_\_getattr\_\_()** function is defined, call the **\_\_getattr\_\_()**
+			function.
 	- 
 
 
