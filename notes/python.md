@@ -329,10 +329,12 @@ Notes on *Python* Classes:
 		* For a given *Python* instance object, the **\_\_new\_\_()** method
 			should be called before the **\_\_init\_\_()** method
 			\cite[Chapter 4, pp. 137]{Alchin2010}.
-	-Accessing and modifying attributes of a *Python* class
+	- Accessing and modifying attributes of a *Python* class
 		\cite[Chapter 4, pp. 138]{Alchin2010}:
+		* The name of an attribute of an instance object can be accessed or
+			modified directly via *instance.attribute*. 
 		* Use the **\_\_getattr\_\_()**
-
+	- 
 
 
 
