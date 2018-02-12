@@ -376,6 +376,12 @@ Notes on *Python* Classes:
 			\cite[Chapter 4, pp. 141-142]{Alchin2010}.
 
 
+Protocols masked by *Python* syntactic sugar
+	\cite[Chapter 4, pp. 143]{Alchin2010}:
++ Use the built-in **bool()** method to implement the **\_\_bool\_\_()** method
+	to check if the attributes of a class complies with certain class invariants
+	(e.g., assertions) are satisfied \cite[Chapter 4, pp. 143]{Alchin2010}.
++ 
 
 
 
@@ -389,8 +395,7 @@ Notes on *Python* Classes:
 
 
 
-
-Chapter 4,5-6,8.
+Chapter 5-6,8.
 
 
 
