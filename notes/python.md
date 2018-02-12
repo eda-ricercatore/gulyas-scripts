@@ -389,14 +389,16 @@ Protocols masked by *Python* syntactic sugar
 		* subtraction
 		* multiplication
 		* division
-		* modulo operation \cite[Chapter 4, pp. 146-147]{Alchin2010}:
+		* modulo operation \cite[Chapter 4, pp. 146-147]{Alchin2010}
+		* exponentiation \cite[Chapter 4, pp. 147]{Alchin2010}
 	- arithmetic operators \cite[Chapter 4, pp. 145]{Alchin2010}:
 		* **+**
 		* **-**
 		* **\***
 		* **/**
-		* **//** \cite[Chapter 4, pp. 146]{Alchin2010}:
-		* **%** \cite[Chapter 4, pp. 146]{Alchin2010}:
+		* **//** \cite[Chapter 4, pp. 146]{Alchin2010}
+		* **%** \cite[Chapter 4, pp. 146]{Alchin2010}
+		* **\*\*** \cite[Chapter 4, pp. 147]{Alchin2010}
 	- Customized implementations of the following methods
 		\cite[Chapter 4, pp. 145]{Alchin2010}:
 		* **\_\_add\_\_()**
@@ -407,7 +409,8 @@ Protocols masked by *Python* syntactic sugar
 		* **\_\_mod\_\_()** (for "perform[ing] standard variable interpretation")
 			\cite[Chapter 4, pp. 146]{Alchin2010}
 		*  **\_\_divmod\_\_()** (floor division with modulo operation, which is
-			called by the **divmod()** method) \cite[Chapter 4, pp. 147]{Alchin2010} 
+			called by the **divmod()** method) \cite[Chapter 4, pp. 147]{Alchin2010}
+		* **\_\_pow\_\_()** (exponentiation) \cite[Chapter 4, pp. 147]{Alchin2010}
 	- True division returns the numerical value of the division operation
 		\cite[Chapter 4, pp. 145]{Alchin2010}.
 	- Floor division returns the lower of the two operands, if the true division of
