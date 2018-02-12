@@ -383,10 +383,10 @@ Protocols masked by *Python* syntactic sugar
 	to check if the attributes of a class complies with certain class invariants
 	(e.g., assertions) are satisfied \cite[Chapter 4, pp. 143]{Alchin2010}.
 + To perform arithmetic operations ("addition, subtraction, multiplication and
-	division") via arithmetic operators (**+**, **-**, **\***, and **/**), they require
-	custom implementations of the following methods: **\_\_add\_\_()**,
-	**\_\_sub\_\_()**, **\_\_mul\_\_()**, and **\_\_truediv\_\_()**
-	\cite[Chapter 4, pp. 145]{Alchin2010}.
+	division") via arithmetic operators (**+**, **-**, **\***, **/**, and **//**), they
+	require custom implementations of the following methods: **\_\_add\_\_()**,
+	**\_\_sub\_\_()**, **\_\_mul\_\_()**, **\_\_truediv\_\_()** (true division), and
+	**\_\_floordiv\_\_()** (floor division) \cite[Chapter 4, pp. 145]{Alchin2010}.
 
 
 
