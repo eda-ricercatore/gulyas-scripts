@@ -359,7 +359,7 @@ Notes on *Python* Classes:
 			however, it does not work for fake attributes that are controlled by
 			special methods
 			\cite[Chapter 4, pp. 139]{Alchin2010}.
-		* Use the **\_\_delattr\_\_()** function to 
+		* Use the **\_\_delattr\_\_()** function to handle/manage fake attributes
 			\cite[Chapter 4, pp. 139]{Alchin2010}.
 	- 
 
