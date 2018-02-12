@@ -361,7 +361,12 @@ Notes on *Python* Classes:
 			\cite[Chapter 4, pp. 139]{Alchin2010}.
 		* Use the **\_\_delattr\_\_()** function to handle/manage fake attributes
 			\cite[Chapter 4, pp. 139]{Alchin2010}.
-	- 
+		* Overridden attributes may have errors or exceptions that when
+			raised may indicate another exception (for an overridden or a fake
+			attribute) \cite[Chapter 4, pp. 140]{Alchin2010}.  
+	- A string representation of an instance object is provided by the
+		implementation of the **\_\_str\_\_()** method to coerce the instance
+		object to a string.
 
 
 
