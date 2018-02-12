@@ -382,17 +382,36 @@ Protocols masked by *Python* syntactic sugar
 + Use the built-in **bool()** method to implement the **\_\_bool\_\_()** method
 	to check if the attributes of a class complies with certain class invariants
 	(e.g., assertions) are satisfied \cite[Chapter 4, pp. 143]{Alchin2010}.
-+ To perform arithmetic operations ("addition, subtraction, multiplication and
-	division") via arithmetic operators (**+**, **-**, **\***, **/**, **//**, and **%**),
-	they require custom implementations of the following methods:
-	**\_\_add\_\_()**, **\_\_sub\_\_()**, **\_\_mul\_\_()**,
-	**\_\_truediv\_\_()** (true division), **\_\_floordiv\_\_()** (floor division),
-	**\_\_mod\_\_()** (for "perform[ing] standard variable interpretation"), and
-	**\_\_divmod\_\_()** (floor division with modulo operation, which is called
-	by the **divmod()** method) \cite[Chapter 4, pp. 145]{Alchin2010}.
-	- True division returns the numerical value of the division operation.
++ To perform arithmetic operations via arithmetic operators, they require custom
+	implementations of the certain methods \cite[Chapter 4, pp. 145]{Alchin2010}:
+	- Arithmetic operations \cite[Chapter 4, pp. 145]{Alchin2010}:
+		* addition
+		* subtraction
+		* multiplication
+		* division
+		* modulo operation \cite[Chapter 4, pp. 146-147]{Alchin2010}:
+	- arithmetic operators \cite[Chapter 4, pp. 145]{Alchin2010}:
+		* **+**
+		* **-**
+		* **\***
+		* **/**
+		* **//** \cite[Chapter 4, pp. 146]{Alchin2010}:
+		* **%** \cite[Chapter 4, pp. 146]{Alchin2010}:
+	- Customized implementations of the following methods
+		\cite[Chapter 4, pp. 145]{Alchin2010}:
+		* **\_\_add\_\_()**
+		* **\_\_sub\_\_()**
+		* **\_\_mul\_\_()**
+		* **\_\_truediv\_\_()** (true division)
+		* **\_\_floordiv\_\_()** (floor division),
+		* **\_\_mod\_\_()** (for "perform[ing] standard variable interpretation")
+		*  **\_\_divmod\_\_()** (floor division with modulo operation, which is
+			called by the **divmod()** method) 
+	- True division returns the numerical value of the division operation
+		\cite[Chapter 4, pp. 145]{Alchin2010}.
 	- Floor division returns the lower of the two operands, if the true division of
-		these operands lie between the operands on the number line.
+		these operands lie between the operands on the number line
+		\cite[Chapter 4, pp. 145]{Alchin2010}.
 
 
 
