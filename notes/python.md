@@ -366,7 +366,14 @@ Notes on *Python* Classes:
 			attribute) \cite[Chapter 4, pp. 140]{Alchin2010}.  
 	- A string representation of an instance object is provided by the
 		implementation of the **\_\_str\_\_()** method to coerce the instance
-		object to a string.
+		object to a string \cite[Chapter 4, pp. 140]{Alchin2010}.
+		* The implementation of the **\_\_str\_\_()** method should list the
+			list of attributes and their corresponding values to enable users to
+			create a clone of that instance object
+			\cite[Chapter 4, pp. 141-142]{Alchin2010}.
+		* Alternatively, the **\_\_repr\_\_()** method can provide more
+			information about the instance object
+			\cite[Chapter 4, pp. 141-142]{Alchin2010}.
 
 
 
