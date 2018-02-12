@@ -417,10 +417,14 @@ Protocols masked by *Python* syntactic sugar
 	- Floor division returns the lower of the two operands, if the true division of
 		these operands lie between the operands on the number line
 		\cite[Chapter 4, pp. 146]{Alchin2010}.
-+ Bitwise operations \cite[Chapter 4, pp. 148-1]{Alchin2010}
-	* **<<**, supported by **\_\_lshift()\_\_** implementation
-	* **>>**, supported by **\_\_rshift()\_\_** implementation
-
++ Bitwise operations \cite[Chapter 4, pp. 148-15]{Alchin2010}
+	- **<<**, supported by **\_\_lshift()\_\_** implementation
+	- **>>**, supported by **\_\_rshift()\_\_** implementation
+	- Bitwise comparison operations \cite[Chapter 4, pp. 149-150]{Alchin2010}:
+		* **&**, AND operation or conjunction, implemented by **\_\_and\_\_()**
+		* **|**, OR operation or disjunction, implemented by **\_\_or\_\_()**
+		* **^**, exclusive OR operation (XOR), implemented by **\_\_xor\_\_()**
+		* **~**, inversion operation, implemented by **\_\_invert\_\_()**
 
 
 
