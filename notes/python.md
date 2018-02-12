@@ -387,7 +387,9 @@ Protocols masked by *Python* syntactic sugar
 	require custom implementations of the following methods: **\_\_add\_\_()**,
 	**\_\_sub\_\_()**, **\_\_mul\_\_()**, **\_\_truediv\_\_()** (true division), and
 	**\_\_floordiv\_\_()** (floor division) \cite[Chapter 4, pp. 145]{Alchin2010}.
-
+	- True division returns the numerical value of the division operation.
+	- Floor division returns the lower of the two operands, if the true division of
+		these operands lie between the operands on the number line.
 
 
 
