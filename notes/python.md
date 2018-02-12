@@ -403,15 +403,16 @@ Protocols masked by *Python* syntactic sugar
 		* **\_\_sub\_\_()**
 		* **\_\_mul\_\_()**
 		* **\_\_truediv\_\_()** (true division)
-		* **\_\_floordiv\_\_()** (floor division),
+		* **\_\_floordiv\_\_()** (floor division) \cite[Chapter 4, pp. 146]{Alchin2010}
 		* **\_\_mod\_\_()** (for "perform[ing] standard variable interpretation")
+			\cite[Chapter 4, pp. 146]{Alchin2010}
 		*  **\_\_divmod\_\_()** (floor division with modulo operation, which is
-			called by the **divmod()** method) 
+			called by the **divmod()** method) \cite[Chapter 4, pp. 147]{Alchin2010} 
 	- True division returns the numerical value of the division operation
 		\cite[Chapter 4, pp. 145]{Alchin2010}.
 	- Floor division returns the lower of the two operands, if the true division of
 		these operands lie between the operands on the number line
-		\cite[Chapter 4, pp. 145]{Alchin2010}.
+		\cite[Chapter 4, pp. 146]{Alchin2010}.
 
 
 
