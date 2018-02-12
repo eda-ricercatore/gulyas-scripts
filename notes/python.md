@@ -344,7 +344,15 @@ Notes on *Python* Classes:
 			\cite[Chapter 4, pp. 138]{Alchin2010}.
 		* For requests to access undefined attributes, and if the
 			**\_\_getattr\_\_()** function is defined, call the **\_\_getattr\_\_()**
-			function.
+			function \cite[Chapter 4, pp. 138]{Alchin2010}.
+		* For defined attributes that exists with an instance object of the class,
+			use the **\_\_getattribute\_\_()** function, which takes the same
+			set of input arguments as the **\_\_getattr\_\_()** function
+			\cite[Chapter 4, pp. 139]{Alchin2010}.
+		* Use the **\_\_setattr\_\_()** function, with the input arguments **self**,
+			**name**, and **value** to assign the **value** to the attribute
+			called **name** for the instance object **self** (of a class)
+			\cite[Chapter 4, pp. 139]{Alchin2010}.
 	- 
 
 
