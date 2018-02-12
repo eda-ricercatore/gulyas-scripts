@@ -417,8 +417,9 @@ Protocols masked by *Python* syntactic sugar
 	- Floor division returns the lower of the two operands, if the true division of
 		these operands lie between the operands on the number line
 		\cite[Chapter 4, pp. 146]{Alchin2010}.
-
-
++ Bitwise operations \cite[Chapter 4, pp. 148-1]{Alchin2010}
+	* **<<**, supported by **\_\_lshift()\_\_** implementation
+	* **>>**, supported by **\_\_rshift()\_\_** implementation
 
 
 
