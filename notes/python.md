@@ -353,6 +353,14 @@ Notes on *Python* Classes:
 			**name**, and **value** to assign the **value** to the attribute
 			called **name** for the instance object **self** (of a class)
 			\cite[Chapter 4, pp. 139]{Alchin2010}.
+		* For defined attributes, they can be modified with the function
+			**setattr()** \cite[Chapter 4, pp. 139]{Alchin2010}.
+		* Use **del** to delete an attribute from an object;
+			however, it does not work for fake attributes that are controlled by
+			special methods
+			\cite[Chapter 4, pp. 139]{Alchin2010}.
+		* Use the **\_\_delattr\_\_()** function to 
+			\cite[Chapter 4, pp. 139]{Alchin2010}.
 	- 
 
 
