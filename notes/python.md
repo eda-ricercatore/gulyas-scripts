@@ -27,7 +27,8 @@ When a function descriptor on a class is accessed, the function descriptor
 	however, in *Python 2.y*, this returns an instance method object
 	\cite[Chapter 4, pp. 129]{Alchin2010}.  
 
-
+*Python 3.x* and *Python 2.y* represent boolean values differently, **True** and
+	**False** as opposed to **0** and **1** \cite[Chapter 4, pp. 143]{Alchin2010}.
 
 
 
