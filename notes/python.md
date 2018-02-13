@@ -499,11 +499,26 @@ Protocols masked by *Python* syntactic sugar
 	- Use the **key()** method to enumerate each key/pair in the mapping,
 		without paying attention to its ordering.  
 	- Use the **items()** method to obtain the set of all *(key,value)* pairs in the
-		mapping.
-
+		mapping \cite[Chapter 4, pp. 165]{Alchin2010}.
++ Callable functions and classes \cite[Chapter 4, pp. 165]{Alchin2010}
+	- The **\_\_call\_\_()** method calls the class itself, using **self** as the first
+		argument
++ Context manager \cite[Chapter 4, pp. 166]{Alchin2010}
 
 
 Chapter 5-6,8.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
