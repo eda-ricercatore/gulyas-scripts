@@ -530,7 +530,9 @@ Protocols masked by *Python* syntactic sugar
 
 
 Object management:
-+ 
++ Object-oriented programming
+
+\cite[Chapter 6, pp. 169]{Alchin2010}.
 
 
 
