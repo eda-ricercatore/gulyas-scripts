@@ -33,7 +33,9 @@ When a function descriptor on a class is accessed, the function descriptor
 Unlike *Python 2.y*, the **round()** method in *Python 3.x* would return a number
 	of the same type \cite[Chapter 4, pp. 154]{Alchin2010}.
 
-
+Backward compatibility support for *Python 2.y* in *Python 3.x*:
++ implement the **\_\_next\_\_()** method to call the **next()** method
+	\cite[Chapter 4, pp. 156]{Alchin2010}.
 
 
 
@@ -467,7 +469,13 @@ Protocols masked by *Python* syntactic sugar
 		an iterator is itself iterable \cite[Chapter 4, pp. 155]{Alchin2010}.
 	- The **\_\_next\_\_()** is another required method, which retrieves a value
 		from the iterator for use (by the caller of the **\_\_next\_\_()** method)
-		\cite[Chapter 4, pp. 155]{Alchin2010}.
+		\cite[Chapter 4, pp. 155]{Alchin2010};
+		the **\_\_next\_\_()** method terminates at the end of enumerating all
+			elements of a collection, due to the raised **StopIteration**
+			exception \cite[Chapter 4, pp. 156]{Alchin2010};
+		this is because **None** is a valid object, and the iterator cannot
+			compare the instance object pointed to by itself to **None**
+			\cite[Chapter 4, pp. 156]{Alchin2010}.
 
 
 
