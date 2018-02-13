@@ -455,8 +455,12 @@ Protocols masked by *Python* syntactic sugar
 		* **>**, or **\_\_gt\_\_()**
 		* **<=**, or **\_\_lte\_\_()**
 		* **>=**, or **\_\_gte\_\_()**
-		
-
+		* Default method for comparison **\_\_cmp\_\_()** compares **self**
+			with **other** \cite[Chapter 4, pp. 155]{Alchin2010} 
++ Iterables \cite[Chapter 4, pp. 155]{Alchin2010}:
+	- To determine if an object is iterable, use the built-in **iter()** function (or
+		rather, **\_\_iter\_\_()**) to obtain an iterator;
+		if an iterator is returned, the object is iterable.
 
 
 
@@ -507,6 +511,7 @@ Notes on *Python* functions:
 			\cite[Chapter 3, pp. 56]{Alchin2010}.
 	- Develop code that supports overriding via flexibility
 		\cite[Chapter 3, pp. 54]{Alchin2010}.
+		
 	- Types of arguments listed in order of precedence/priority
 		\cite[Chapter 3, pp. 56-59]{Alchin2010}:
 		* required arguments (ensures/guarantees that required positional
