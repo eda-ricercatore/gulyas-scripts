@@ -485,6 +485,7 @@ Protocols masked by *Python* syntactic sugar
 		* has a specialized type of iterator
 		* can provide information regarding attributes about the sequence
 		* has behaviors that can be performed on the sequence
+		* E.g., determine the size/length of the sequence.
 	-
 	
 
