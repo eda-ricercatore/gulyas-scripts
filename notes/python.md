@@ -485,8 +485,12 @@ Protocols masked by *Python* syntactic sugar
 		* has a specialized type of iterator
 		* can provide information regarding attributes about the sequence
 		* has behaviors that can be performed on the sequence
-		* E.g., determine the size/length of the sequence.
-	-
+		* E.g., determine the size/length of the sequence \cite[Chapter 4, pp. 159]{Alchin2010},
+			or traverse the sequence in reverse order \cite[Chapter 4, pp. 160]{Alchin2010}.
+		* **\_\_len\_\_()**, **\_\_setitem\_\_()**, **\_\_append\_\_()**,
+			**\_\_insert\_\_()**, **del sequence[index]**, **\_\_delitem\_\_()**,
+			and **\_\_contains\_\_()**
+		
 	
 
 
