@@ -504,14 +504,35 @@ Protocols masked by *Python* syntactic sugar
 	- The **\_\_call\_\_()** method calls the class itself, using **self** as the first
 		argument
 + Context manager \cite[Chapter 4, pp. 166]{Alchin2010}
-	- Use objects as context managers with the **with** statement, such that
-		they can set things up (preprocessing), do some processing within the
-		context, and clean up after the processing (or post-processing)
+	- Use objects as context managers with the **with** statement (which
+		includes the **as** clause), so that they can set things up
+		(preprocessing), do some processing within the context, and clean up
+		after the processing (or post-processing)
 		\cite[Chapter 4, pp. 166]{Alchin2010}.
 	- Examples of contexts include:
 		* file handling \cite[Chapter 4, pp. 166]{Alchin2010}
+	- Set things up (preprocessing):
+		* **\_\_enter\_\_()** method
+	- Clean up after the processing (or post-processing):
+		* **\_\_exit\_\_()** method
+			+ When exceptions terminate the processing, this **\_\_exit\_\_()**
+				method would receive information about the exception for
+				post-processing and debugging (or troubleshooting)
+				\cite[Chapter 4, pp. 166]{Alchin2010}.
+			+ When no exceptions are raised during processing, and clean up
+				proceeds as expected, it would receive **None** objects
+				instead of information for debugging (or troubleshooting)
+				\cite[Chapter 4, pp. 167]{Alchin2010}.
++ Multiple protocols can be used simultaneously, since they are not mutually
+	exclusive \cite[Chapter 4, pp. 168]{Alchin2010}.
 
-Chapter 5-6,8.
+
+
+
+
+
+
+Chapter 6,8.
 
 
 
