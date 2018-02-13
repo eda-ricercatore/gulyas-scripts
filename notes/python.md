@@ -490,8 +490,16 @@ Protocols masked by *Python* syntactic sugar
 		* **\_\_len\_\_()**, **\_\_setitem\_\_()**, **\_\_append\_\_()**,
 			**\_\_insert\_\_()**, **del sequence[index]**, **\_\_delitem\_\_()**,
 			and **\_\_contains\_\_()**
-		
-	
++ A mapping is a set of individual pairs, where each pair has a key and a
+	corresponding value \cite[Chapter 4, pp. 164]{Alchin2010}.
+	- The ordering of the pairs by their keys is not important, since a map is
+		typically not traversed/enumerated.
+	- For a given key, it enables instant access to a the key's corresponding
+		value (which is referenced by its key).
+	- Use the **key()** method to enumerate each key/pair in the mapping,
+		without paying attention to its ordering.  
+	- Use the **items()** method to obtain the set of all *(key,value)* pairs in the
+		mapping.
 
 
 
