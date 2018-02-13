@@ -31,11 +31,11 @@ When a function descriptor on a class is accessed, the function descriptor
 	**False** as opposed to **0** and **1** \cite[Chapter 4, pp. 143]{Alchin2010}.
 
 Unlike *Python 2.y*, the **round()** method in *Python 3.x* would return a number
-	of the same type \cite[Chapter 4, pp. 154]{Alchin2010}.
+	of the same type \cite[Chapter 5, pp. 154]{Alchin2010}.
 
 Backward compatibility support for *Python 2.y* in *Python 3.x*:
 + implement the **\_\_next\_\_()** method to call the **next()** method
-	\cite[Chapter 4, pp. 156]{Alchin2010}.
+	\cite[Chapter 5, pp. 156]{Alchin2010}.
 
 
 
@@ -381,74 +381,74 @@ Notes on *Python* Classes:
 
 
 Protocols masked by *Python* syntactic sugar
-	\cite[Chapter 4, pp. 143]{Alchin2010}:
+	\cite[Chapter 5, pp. 143]{Alchin2010}:
 + Use the built-in **bool()** method to implement the **\_\_bool\_\_()** method
 	to check if the attributes of a class complies with certain class invariants
-	(e.g., assertions) are satisfied \cite[Chapter 4, pp. 143]{Alchin2010}.
+	(e.g., assertions) are satisfied \cite[Chapter 5, pp. 143]{Alchin2010}.
 + To perform arithmetic operations via arithmetic operators, they require custom
-	implementations of the certain methods \cite[Chapter 4, pp. 145]{Alchin2010}:
-	- Arithmetic operations \cite[Chapter 4, pp. 145]{Alchin2010}:
+	implementations of the certain methods \cite[Chapter 5, pp. 145]{Alchin2010}:
+	- Arithmetic operations \cite[Chapter 5, pp. 145]{Alchin2010}:
 		* addition
 		* subtraction
 		* multiplication
 		* division
-		* modulo operation \cite[Chapter 4, pp. 146-147]{Alchin2010}
-		* exponentiation \cite[Chapter 4, pp. 147]{Alchin2010}
-	- arithmetic operators \cite[Chapter 4, pp. 145]{Alchin2010}:
+		* modulo operation \cite[Chapter 5, pp. 146-147]{Alchin2010}
+		* exponentiation \cite[Chapter 5, pp. 147]{Alchin2010}
+	- arithmetic operators \cite[Chapter 5, pp. 145]{Alchin2010}:
 		* **+**
 		* **-**
 		* **\***
 		* **/**
-		* **//** \cite[Chapter 4, pp. 146]{Alchin2010}
-		* **%** \cite[Chapter 4, pp. 146]{Alchin2010}
-		* **\*\*** \cite[Chapter 4, pp. 147]{Alchin2010}
+		* **//** \cite[Chapter 5, pp. 146]{Alchin2010}
+		* **%** \cite[Chapter 5, pp. 146]{Alchin2010}
+		* **\*\*** \cite[Chapter 5, pp. 147]{Alchin2010}
 	- Customized implementations of the following methods
-		\cite[Chapter 4, pp. 145]{Alchin2010}:
+		\cite[Chapter 5, pp. 145]{Alchin2010}:
 		* **\_\_add\_\_()**
 		* **\_\_sub\_\_()**
 		* **\_\_mul\_\_()**
 		* **\_\_truediv\_\_()** (true division)
-		* **\_\_floordiv\_\_()** (floor division) \cite[Chapter 4, pp. 146]{Alchin2010}
+		* **\_\_floordiv\_\_()** (floor division) \cite[Chapter 5, pp. 146]{Alchin2010}
 		* **\_\_mod\_\_()** (for "perform[ing] standard variable interpretation")
-			\cite[Chapter 4, pp. 146]{Alchin2010}
+			\cite[Chapter 5, pp. 146]{Alchin2010}
 		*  **\_\_divmod\_\_()** (floor division with modulo operation, which is
-			called by the **divmod()** method) \cite[Chapter 4, pp. 147]{Alchin2010}
+			called by the **divmod()** method) \cite[Chapter 5, pp. 147]{Alchin2010}
 		* **\_\_pow\_\_()** (exponentiation, which is called by the built-in
-			**pow()** function) \cite[Chapter 4, pp. 147]{Alchin2010}
+			**pow()** function) \cite[Chapter 5, pp. 147]{Alchin2010}
 	- True division returns the numerical value of the division operation
-		\cite[Chapter 4, pp. 145]{Alchin2010}.
+		\cite[Chapter 5, pp. 145]{Alchin2010}.
 	- Floor division returns the lower of the two operands, if the true division of
 		these operands lie between the operands on the number line
-		\cite[Chapter 4, pp. 146]{Alchin2010}.
-+ Bitwise operations \cite[Chapter 4, pp. 148-15]{Alchin2010}
+		\cite[Chapter 5, pp. 146]{Alchin2010}.
++ Bitwise operations \cite[Chapter 5, pp. 148-152]{Alchin2010}
 	- **<<**, supported by **\_\_lshift()\_\_** implementation
 	- **>>**, supported by **\_\_rshift()\_\_** implementation
-	- Bitwise comparison operations \cite[Chapter 4, pp. 149-150]{Alchin2010}:
+	- Bitwise comparison operations \cite[Chapter 5, pp. 149-150]{Alchin2010}:
 		* **&**, AND operation or conjunction, implemented by **\_\_and\_\_()**
 		* **|**, OR operation or disjunction, implemented by **\_\_or\_\_()**
 		* **^**, exclusive OR operation (XOR), implemented by **\_\_xor\_\_()**
 		* **~**, inversion operation, implemented by **\_\_invert\_\_()**;
 			the **\_\_invert\_\_()** method only works with two's-complement
-			encoding \cite[Chapter 4, pp. 150]{Alchin2010}
-		* See the table at the bottom of \cite[Chapter 4, pp. 151]{Alchin2010}
-			and the top of \cite[Chapter 4, pp. 152]{Alchin2010} for alternate
+			encoding \cite[Chapter 5, pp. 150]{Alchin2010}
+		* See the table at the bottom of \cite[Chapter 5, pp. 151]{Alchin2010}
+			and the top of \cite[Chapter 5, pp. 152]{Alchin2010} for alternate
 			ways to place custom objects (e.g., on the right-hand side, and
 			in-line via in-place operators) 
 + Additional Operations with Numbers
 	- Use the **\_\_index\_\_()** method to use an instance object as an index
-		in a sequence (e.g., list) \cite[Chapter 4, pp. 152]{Alchin2010}.
+		in a sequence (e.g., list) \cite[Chapter 5, pp. 152]{Alchin2010}.
 	- To round off numbers, use methods such as **floor()** (or rather,
 		**\_\_floor\_\_()**) method and **ceil()** (or rather, **\_\_ceil\_\_()**)
-		method \cite[Chapter 4, pp. 153]{Alchin2010}.
+		method \cite[Chapter 5, pp. 153]{Alchin2010}.
 	- Use the method **round()** (or rather, **\_\_round\_\_(self, number of
 		significant figures)**) to round numbers to the nearest number (with
 		the specified number of significant figures, which is an optional
-		argument) \cite[Chapter 4, pp. 153]{Alchin2010}.
+		argument) \cite[Chapter 5, pp. 153]{Alchin2010}.
 	- For sign operations, use the **\_\_neg\_\_()** to negate the sign of a value,
 		and **\_\_abs\_\_()** to obtain the absolute value of the number
-		\cite[Chapter 4, pp. 154]{Alchin2010}.
+		\cite[Chapter 5, pp. 154]{Alchin2010}.
 	- For comparison operations that return either **True** or **False**
-		\cite[Chapter 4, pp. 154]{Alchin2010}:
+		\cite[Chapter 5, pp. 154]{Alchin2010}:
 		* **is**, can compare known constants (e.g., **None**)
 		* **is not**, can compare known constants (e.g., **None**)
 		* **==**, or **\_\_eq\_\_()**
@@ -458,40 +458,40 @@ Protocols masked by *Python* syntactic sugar
 		* **<=**, or **\_\_lte\_\_()**
 		* **>=**, or **\_\_gte\_\_()**
 		* Default method for comparison **\_\_cmp\_\_()** compares **self**
-			with **other** \cite[Chapter 4, pp. 155]{Alchin2010} 
-+ Iterables \cite[Chapter 4, pp. 155]{Alchin2010}:
+			with **other** \cite[Chapter 5, pp. 155]{Alchin2010} 
++ Iterables \cite[Chapter 5, pp. 155]{Alchin2010}:
 	- To determine if an object is iterable, use the built-in **iter()** function (or
 		rather, **\_\_iter\_\_()**) to obtain an iterator;
 		if an iterator is returned, the object is iterable
-		\cite[Chapter 4, pp. 155]{Alchin2010}.
+		\cite[Chapter 5, pp. 155]{Alchin2010}.
 	- The **\_\_iter\_\_()** method, which includes the **\_\_init\_\_()** method
-		to instantiate the iterator and returns **self** \cite[Chapter 4, pp. 155]{Alchin2010};
-		an iterator is itself iterable \cite[Chapter 4, pp. 155]{Alchin2010}.
+		to instantiate the iterator and returns **self** \cite[Chapter 5, pp. 155]{Alchin2010};
+		an iterator is itself iterable \cite[Chapter 5, pp. 155]{Alchin2010}.
 	- The **\_\_next\_\_()** is another required method, which retrieves a value
 		from the iterator for use (by the caller of the **\_\_next\_\_()** method)
-		\cite[Chapter 4, pp. 155]{Alchin2010};
+		\cite[Chapter 5, pp. 155]{Alchin2010};
 		the **\_\_next\_\_()** method terminates at the end of enumerating all
 			elements of a collection, due to the raised **StopIteration**
-			exception \cite[Chapter 4, pp. 156]{Alchin2010};
+			exception \cite[Chapter 5, pp. 156]{Alchin2010};
 		this is because **None** is a valid object, and the iterator cannot
 			compare the instance object pointed to by itself to **None**
-			\cite[Chapter 4, pp. 156]{Alchin2010}.
+			\cite[Chapter 5, pp. 156]{Alchin2010}.
 	- If the **\_\_iter\_\_()** method is not implemented, the **\_\_getitem\_\_()**
 		method is used to access the element at the current position of the
-		iterator \cite[Chapter 4, pp. 157]{Alchin2010}. 
+		iterator \cite[Chapter 5, pp. 157]{Alchin2010}. 
 + *Python* supports sequences, such as lists, tuples, sets, and strings
-	\cite[Chapter 4, pp. 159]{Alchin2010}:
-	- Each type of these sequences \cite[Chapter 4, pp. 159]{Alchin2010}:
+	\cite[Chapter 5, pp. 159]{Alchin2010}:
+	- Each type of these sequences \cite[Chapter 5, pp. 159]{Alchin2010}:
 		* has a specialized type of iterator
 		* can provide information regarding attributes about the sequence
 		* has behaviors that can be performed on the sequence
-		* E.g., determine the size/length of the sequence \cite[Chapter 4, pp. 159]{Alchin2010},
-			or traverse the sequence in reverse order \cite[Chapter 4, pp. 160]{Alchin2010}.
+		* E.g., determine the size/length of the sequence \cite[Chapter 5, pp. 159]{Alchin2010},
+			or traverse the sequence in reverse order \cite[Chapter 5, pp. 160]{Alchin2010}.
 		* **\_\_len\_\_()**, **\_\_setitem\_\_()**, **\_\_append\_\_()**,
 			**\_\_insert\_\_()**, **del sequence[index]**, **\_\_delitem\_\_()**,
 			and **\_\_contains\_\_()**
 + A mapping is a set of individual pairs, where each pair has a key and a
-	corresponding value \cite[Chapter 4, pp. 164]{Alchin2010}.
+	corresponding value \cite[Chapter 5, pp. 164]{Alchin2010}.
 	- The ordering of the pairs by their keys is not important, since a map is
 		typically not traversed/enumerated.
 	- For a given key, it enables instant access to a the key's corresponding
@@ -499,18 +499,18 @@ Protocols masked by *Python* syntactic sugar
 	- Use the **key()** method to enumerate each key/pair in the mapping,
 		without paying attention to its ordering.  
 	- Use the **items()** method to obtain the set of all *(key,value)* pairs in the
-		mapping \cite[Chapter 4, pp. 165]{Alchin2010}.
-+ Callable functions and classes \cite[Chapter 4, pp. 165]{Alchin2010}
+		mapping \cite[Chapter 5, pp. 165]{Alchin2010}.
++ Callable functions and classes \cite[Chapter 5, pp. 165]{Alchin2010}
 	- The **\_\_call\_\_()** method calls the class itself, using **self** as the first
 		argument
-+ Context manager \cite[Chapter 4, pp. 166]{Alchin2010}
++ Context manager \cite[Chapter 5, pp. 166]{Alchin2010}
 	- Use objects as context managers with the **with** statement (which
 		includes the **as** clause), so that they can set things up
 		(preprocessing), do some processing within the context, and clean up
 		after the processing (or post-processing)
-		\cite[Chapter 4, pp. 166]{Alchin2010}.
+		\cite[Chapter 5, pp. 166]{Alchin2010}.
 	- Examples of contexts include:
-		* file handling \cite[Chapter 4, pp. 166]{Alchin2010}
+		* file handling \cite[Chapter 5, pp. 166]{Alchin2010}
 	- Set things up (preprocessing):
 		* **\_\_enter\_\_()** method
 	- Clean up after the processing (or post-processing):
@@ -518,15 +518,19 @@ Protocols masked by *Python* syntactic sugar
 			+ When exceptions terminate the processing, this **\_\_exit\_\_()**
 				method would receive information about the exception for
 				post-processing and debugging (or troubleshooting)
-				\cite[Chapter 4, pp. 166]{Alchin2010}.
+				\cite[Chapter 5, pp. 166]{Alchin2010}.
 			+ When no exceptions are raised during processing, and clean up
 				proceeds as expected, it would receive **None** objects
 				instead of information for debugging (or troubleshooting)
-				\cite[Chapter 4, pp. 167]{Alchin2010}.
+				\cite[Chapter 5, pp. 167]{Alchin2010}.
 + Multiple protocols can be used simultaneously, since they are not mutually
-	exclusive \cite[Chapter 4, pp. 168]{Alchin2010}.
+	exclusive \cite[Chapter 5, pp. 168]{Alchin2010}.
 
 
+
+
+Object management:
++ 
 
 
 
