@@ -476,7 +476,8 @@ Protocols masked by *Python* syntactic sugar
 		this is because **None** is a valid object, and the iterator cannot
 			compare the instance object pointed to by itself to **None**
 			\cite[Chapter 4, pp. 156]{Alchin2010}.
-
+	- If the **\_\_getitem\_\_()** method is provided in lieu of the **\_\_iter\_\_()**
+		method, the  
 
 
 
