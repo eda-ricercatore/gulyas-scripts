@@ -431,7 +431,12 @@ Protocols masked by *Python* syntactic sugar
 			and the top of \cite[Chapter 4, pp. 152]{Alchin2010} for alternate
 			ways to place custom objects (e.g., on the right-hand side, and
 			in-line via in-place operators) 
-
++ Additional Operations with Numbers
+	- Use the **\_\_index\_\_()** method to use an instance object as an index
+		in a sequence (e.g., list) \cite[Chapter 4, pp. 152]{Alchin2010}.
+	- To round off numbers, use methods such as **floor()** (or rather,
+		**\_\_floor\_\_()**) method and **ceil()** (or rather, **\_\_ceil\_\_()**)
+		method
 
 
 
