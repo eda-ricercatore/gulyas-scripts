@@ -460,7 +460,14 @@ Protocols masked by *Python* syntactic sugar
 + Iterables \cite[Chapter 4, pp. 155]{Alchin2010}:
 	- To determine if an object is iterable, use the built-in **iter()** function (or
 		rather, **\_\_iter\_\_()**) to obtain an iterator;
-		if an iterator is returned, the object is iterable.
+		if an iterator is returned, the object is iterable
+		\cite[Chapter 4, pp. 155]{Alchin2010}.
+	- The **\_\_iter\_\_()** method, which includes the **\_\_init\_\_()** method
+		to instantiate the iterator and returns **self** \cite[Chapter 4, pp. 155]{Alchin2010};
+		an iterator is itself iterable \cite[Chapter 4, pp. 155]{Alchin2010}.
+	- The **\_\_next\_\_()** is another required method, which retrieves a value
+		from the iterator for use (by the caller of the **\_\_next\_\_()** method)
+		\cite[Chapter 4, pp. 155]{Alchin2010}.
 
 
 
