@@ -504,7 +504,12 @@ Protocols masked by *Python* syntactic sugar
 	- The **\_\_call\_\_()** method calls the class itself, using **self** as the first
 		argument
 + Context manager \cite[Chapter 4, pp. 166]{Alchin2010}
-
+	- Use objects as context managers with the **with** statement, such that
+		they can set things up (preprocessing), do some processing within the
+		context, and clean up after the processing (or post-processing)
+		\cite[Chapter 4, pp. 166]{Alchin2010}.
+	- Examples of contexts include:
+		* file handling \cite[Chapter 4, pp. 166]{Alchin2010}
 
 Chapter 5-6,8.
 
