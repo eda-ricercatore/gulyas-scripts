@@ -30,7 +30,8 @@ When a function descriptor on a class is accessed, the function descriptor
 *Python 3.x* and *Python 2.y* represent boolean values differently, **True** and
 	**False** as opposed to **0** and **1** \cite[Chapter 4, pp. 143]{Alchin2010}.
 
-
+Unlike *Python 2.y*, the **round()** method in *Python 3.x* would return a number
+	of the same type \cite[Chapter 4, pp. 154]{Alchin2010}.
 
 
 
@@ -436,8 +437,25 @@ Protocols masked by *Python* syntactic sugar
 		in a sequence (e.g., list) \cite[Chapter 4, pp. 152]{Alchin2010}.
 	- To round off numbers, use methods such as **floor()** (or rather,
 		**\_\_floor\_\_()**) method and **ceil()** (or rather, **\_\_ceil\_\_()**)
-		method
-
+		method \cite[Chapter 4, pp. 153]{Alchin2010}.
+	- Use the method **round()** (or rather, **\_\_round\_\_(self, number of
+		significant figures)**) to round numbers to the nearest number (with
+		the specified number of significant figures, which is an optional
+		argument) \cite[Chapter 4, pp. 153]{Alchin2010}.
+	- For sign operations, use the **\_\_neg\_\_()** to negate the sign of a value,
+		and **\_\_abs\_\_()** to obtain the absolute value of the number
+		\cite[Chapter 4, pp. 154]{Alchin2010}.
+	- For comparison operations that return either **True** or **False**
+		\cite[Chapter 4, pp. 154]{Alchin2010}:
+		* **is**, can compare known constants (e.g., **None**)
+		* **is not**, can compare known constants (e.g., **None**)
+		* **==**, or **\_\_eq\_\_()**
+		* **!=**, or **\_\_ne\_\_()** (i.e., not equal)
+		* **<**, or **\_\_lt\_\_()**
+		* **>**, or **\_\_gt\_\_()**
+		* **<=**, or **\_\_lte\_\_()**
+		* **>=**, or **\_\_gte\_\_()**
+		
 
 
 
