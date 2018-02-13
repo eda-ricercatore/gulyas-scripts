@@ -426,8 +426,11 @@ Protocols masked by *Python* syntactic sugar
 		* **^**, exclusive OR operation (XOR), implemented by **\_\_xor\_\_()**
 		* **~**, inversion operation, implemented by **\_\_invert\_\_()**;
 			the **\_\_invert\_\_()** method only works with two's-complement
-			encoding \cite[Chapter 4, pp. 149-150]{Alchin2010}
-
+			encoding \cite[Chapter 4, pp. 150]{Alchin2010}
+		* See the table at the bottom of \cite[Chapter 4, pp. 151]{Alchin2010}
+			and the top of \cite[Chapter 4, pp. 152]{Alchin2010} for alternate
+			ways to place custom objects (e.g., on the right-hand side, and
+			in-line via in-place operators) 
 
 
 
