@@ -206,7 +206,7 @@ Notes on *Python* Classes:
 + Method resolution order (MRO) determines "the order in which *Python*
 	resolves which method to use" in software that uses "multi-level or multiple
 	inheritance" \cite[Chapter 4, pp. 106]{Alchin2010}.
-	- Since Python does not know the class hierarchy, it has "to account for all
+	- Since *Python* does not know the class hierarchy, it has "to account for all
 		the possibilities" \cite[Chapter 4, pp. 108]{Alchin2010} in which it
 		determines which method to use.
 + **\_\_init\_\_()** is a class, when it shoud be considered as an instance object
@@ -479,7 +479,13 @@ Protocols masked by *Python* syntactic sugar
 	- If the **\_\_iter\_\_()** method is not implemented, the **\_\_getitem\_\_()**
 		method is used to access the element at the current position of the
 		iterator \cite[Chapter 4, pp. 157]{Alchin2010}. 
-	- 
++ *Python* supports sequences, such as lists, tuples, sets, and strings
+	\cite[Chapter 4, pp. 159]{Alchin2010}:
+	- Each type of these sequences \cite[Chapter 4, pp. 159]{Alchin2010}:
+		* has a specialized type of iterator
+		* can provide information regarding attributes about the sequence
+		* has behaviors that can be performed on the sequence
+	-
 	
 
 
