@@ -424,7 +424,9 @@ Protocols masked by *Python* syntactic sugar
 		* **&**, AND operation or conjunction, implemented by **\_\_and\_\_()**
 		* **|**, OR operation or disjunction, implemented by **\_\_or\_\_()**
 		* **^**, exclusive OR operation (XOR), implemented by **\_\_xor\_\_()**
-		* **~**, inversion operation, implemented by **\_\_invert\_\_()**
+		* **~**, inversion operation, implemented by **\_\_invert\_\_()**;
+			the **\_\_invert\_\_()** method only works with two's-complement
+			encoding \cite[Chapter 4, pp. 149-150]{Alchin2010}
 
 
 
