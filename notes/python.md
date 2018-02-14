@@ -581,6 +581,10 @@ Object management:
 		into a *Python* object hierarchy \cite{DrakeJr2016e}.
 	- Picking is also known as serialization, marshalling, or flattening
 		\cite{DrakeJr2016e}.
+	- The functions for performing pickling are **dump()** and **dumps()**
+		\cite[Chapter 6, pp. 182]{Alchin2010}, and the functions for unpickling
+		are **load()** and **loads()** \cite[Chapter 6, pp. 183]{Alchin2010}.
+	
 
 Chapter 6,8.
 
