@@ -540,13 +540,21 @@ Object management:
 		static variables. These capture the data of the objects.
 + In *Python*, an object is a combination of the following
 	\cite[Chapter 6, pp. 169]{Alchin2010}:
-	- identity, which is its unique address in memory; it is constant in its lifetime.
+	- identity, which is its unique address in memory; it is constant in its lifetime;
+		this can be determined by "the built-in **id()** function".
 	- type, which is defined by its class and parent class (or supporting base
 		classes); an object has a reference to the class that it is an instance
 		of (or belongs to).
 	- value(s) of its attributes, which distinguishes objects of a class from each
 		other.
-
+		* Use the method **super()** to access the overridden method in the
+			parent class \cite[Chapter 6, pp. 170]{Alchin2010}.
+		* Use the **\_\_init\_\_()** method and the **\_\_new\_\_()** method to
+			set up the default values \cite[Chapter 6, pp. 170]{Alchin2010}.
++ Guidelines about using mixins:
+	- The use of **super()** may not allow us to control the mixin's class and
+		base class \cite[Chapter 6, pp. 171]{Alchin2010};
+		resolve this problem using the method **\_\_new\_\_()**.
 
 
 Chapter 6,8.
