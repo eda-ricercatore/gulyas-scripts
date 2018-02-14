@@ -556,7 +556,19 @@ Object management:
 		base class \cite[Chapter 6, pp. 171]{Alchin2010};
 		resolve this problem using the method **\_\_new\_\_()**, so that a
 			new dictionary can be created for each encountered class.
-	- 
+	- Note that if a dictionary is created within a **cachedproperty()** function,
+		each property would have its own private namespace;
+		this results in memory leaks
+		\cite[Chapter 6, pp. 176]{Alchin2010}.   
++ *Python* has automatic garbage collection \cite[Chapter 6, pp. 176]{Alchin2010}.
+	- Effective garbage collection depends on
+		\cite[Chapter 6, pp. 176]{Alchin2010}:
+		* ability to reliably identify/recognize an object as garbage that will
+			cause memory leaks in the *Python* application
+		* ability to remove garbage from (main) memory
+
+
+
 
 Chapter 6,8.
 
