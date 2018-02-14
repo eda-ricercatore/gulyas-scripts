@@ -571,20 +571,26 @@ Object management:
 		* Cyclical references, which is inefficient but leads to more consistent
 			and reliable outcomes \cite[Chapter 6, pp. 178-179]{Alchin2010}
 		* Weak references \cite[Chapter 6, pp. 180-181]{Alchin2010}
-+ The **pickle** module in *The Python Standard Library* \cite{DrakeJr2016e}
++ The **pickle** module in *The Python Standard Library* \cite{DrakeJr2016e,DrakeJr2016b}
 	enables data stored in *Python* objects to be exported to external software
 	as strings \cite[Chapter 6, pp. 182]{Alchin2010}.
 	- Its "pickling" process serializes a *Python* object structure by converting
-		a *Python* object hierarchy into a byte stream \cite{DrakeJr2016e}.
+		a *Python* object hierarchy into a byte stream \cite{DrakeJr2016e,DrakeJr2016b}.
 	-  "Unpickling" is the inverse operation of "pickling";
 		it de-serializes a *Python* object structure by converting a byte stream
-		into a *Python* object hierarchy \cite{DrakeJr2016e}.
+		into a *Python* object hierarchy \cite{DrakeJr2016e,DrakeJr2016b}.
 	- Picking is also known as serialization, marshalling, or flattening
-		\cite{DrakeJr2016e}.
+		\cite{DrakeJr2016e,DrakeJr2016b}.
 	- The functions for performing pickling are **dump()** and **dumps()**
 		\cite[Chapter 6, pp. 182]{Alchin2010}, and the functions for unpickling
 		are **load()** and **loads()** \cite[Chapter 6, pp. 183]{Alchin2010}.
-	
++ Objects can be copied using a shallow copy or deep copy method
+	\cite[Chapter 6, pp. 186-189]{Alchin2010}.
+	- Perform shallow copying with **copy()** to get a shallow copy of an object;
+		the copy object has the same data values (of the same type), but with a
+		new identity, and modifying the copy object would not modify the
+		original object \cite[Chapter 6, pp. 187]{Alchin2010}.  
+	- \cite{Brandl2017,Brandl2017a}
 
 Chapter 6,8.
 
