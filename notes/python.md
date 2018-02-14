@@ -530,7 +530,7 @@ Protocols masked by *Python* syntactic sugar
 
 
 Object management:
-+ Object-oriented programming
++ Object-oriented programming (OOP) paradigm
 
 \cite[Chapter 6, pp. 169]{Alchin2010}.
 
