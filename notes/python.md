@@ -535,10 +535,17 @@ Object management:
 	fields or data members) that enable manipulation (or control) of its behavior
 	\cite[Chapter 6, pp. 169]{Alchin2010}.
 	- Methods; also known as functions belonging to an object, or member
-		functions.
-	- Attributes; also known as fields, data members, instance variables and
-		static variables, 
-
+		functions. These capture the behavior of the objects.
+	- Attributes; also known as fields, data members, or instance variables and
+		static variables. These capture the data of the objects.
++ In *Python*, an object is a combination of the following
+	\cite[Chapter 6, pp. 169]{Alchin2010}:
+	- identity, which is its unique address in memory; it is constant in its lifetime.
+	- type, which is defined by its class and parent class (or supporting base
+		classes); an object has a reference to the class that it is an instance
+		of (or belongs to).
+	- value(s) of its attributes, which distinguishes objects of a class from each
+		other.
 
 
 
