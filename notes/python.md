@@ -612,8 +612,6 @@ Object management:
 
 
 
-Chapter 8
-\cite{Alchin2010}
 
 
 
