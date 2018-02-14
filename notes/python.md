@@ -566,7 +566,9 @@ Object management:
 		* ability to reliably identify/recognize an object as garbage that will
 			cause memory leaks in the *Python* application
 		* ability to remove garbage from (main) memory
-
+	- Techniques for garbage collection \cite[Chapter 6, pp. 177]{Alchin2010}:
+		* Reference counting
+		* Cyclical references \cite[Chapter 6, pp. 178]{Alchin2010}
 
 
 
