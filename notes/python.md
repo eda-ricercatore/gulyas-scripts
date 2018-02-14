@@ -530,7 +530,9 @@ Protocols masked by *Python* syntactic sugar
 
 
 Object management:
-+ Object-oriented programming (OOP) paradigm
++ In the object-oriented programming (OOP) paradigm, an object (or an instance
+	of a class) has a set of methods (member functions) and attributes (i.e.,
+	fields or data members) that enable manipulation (or control) of its behavior.
 
 \cite[Chapter 6, pp. 169]{Alchin2010}.
 
