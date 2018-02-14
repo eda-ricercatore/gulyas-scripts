@@ -590,7 +590,11 @@ Object management:
 		the copy object has the same data values (of the same type), but with a
 		new identity, and modifying the copy object would not modify the
 		original object \cite[Chapter 6, pp. 187]{Alchin2010}.  
-	- \cite{Brandl2017,Brandl2017a}
+	- One-level deep copying, which is considered shallow copying, only
+		provides a copy of the references, and does not copy the objects
+		\cite[Chapter 6, pp. 188]{Alchin2010};
+		"a namespace is a mapping from names to objects"
+		\cite{Brandl2017,Brandl2017a}
 
 Chapter 6,8.
 
