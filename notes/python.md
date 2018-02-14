@@ -568,9 +568,19 @@ Object management:
 		* ability to remove garbage from (main) memory
 	- Techniques for garbage collection \cite[Chapter 6, pp. 177]{Alchin2010}:
 		* Reference counting
-		* Cyclical references \cite[Chapter 6, pp. 178]{Alchin2010}
-
-
+		* Cyclical references, which is inefficient but leads to more consistent
+			and reliable outcomes \cite[Chapter 6, pp. 178-179]{Alchin2010}
+		* Weak references \cite[Chapter 6, pp. 180-181]{Alchin2010}
++ The **pickle** module in *The Python Standard Library* \cite{DrakeJr2016e}
+	enables data stored in *Python* objects to be exported to external software
+	as strings \cite[Chapter 6, pp. 182]{Alchin2010}.
+	- Its "pickling" process serializes a *Python* object structure by converting
+		a *Python* object hierarchy into a byte stream \cite{DrakeJr2016e}.
+	-  "Unpickling" is the inverse operation of "pickling";
+		it de-serializes a *Python* object structure by converting a byte stream
+		into a *Python* object hierarchy \cite{DrakeJr2016e}.
+	- Picking is also known as serialization, marshalling, or flattening
+		\cite{DrakeJr2016e}.
 
 Chapter 6,8.
 
