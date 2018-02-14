@@ -595,7 +595,10 @@ Object management:
 		\cite[Chapter 6, pp. 188]{Alchin2010};
 		"a namespace is a mapping from names to objects"
 		\cite{Brandl2017,Brandl2017a}
-
++ To make a deep copy, use the **deepcopy()** method to copy the structure
+	and objects referenced by the original object;
+	modification of the deep copy does not affect the original copy, and vice
+		versa \cite[Chapter 6, pp. 188]{Alchin2010}.
 Chapter 6,8.
 
 
