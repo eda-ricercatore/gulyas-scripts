@@ -554,7 +554,8 @@ Object management:
 + Guidelines about using mixins:
 	- The use of **super()** may not allow us to control the mixin's class and
 		base class \cite[Chapter 6, pp. 171]{Alchin2010};
-		resolve this problem using the method **\_\_new\_\_()**.
+		resolve this problem using the method **\_\_new\_\_()**, so that a
+			new dictionary can be created for each encountered class.
 
 
 Chapter 6,8.
