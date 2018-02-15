@@ -892,6 +892,35 @@ Note that \cite{Franca2014} mentions that modern *C++1X*, such as *C++11*,
 	that is, modern *C++1X* has become *Python*ic.   
 
 
+
+
+
+### *Python* Documentation
+
+Use the **\_\_doc\_\_** attribute of modules, classes, and functions to access
+	docstrings \cite[Chapter 8, pp. 209]{Alchin2010}.
+
+Guidelines on what to include in docstrings \cite[Chapter 8, pp. 209]{Alchin2010}:
++ "Describe the function[/method]"
++ "Explain the arguments"
++ "Don't forget the return value"
++ "Include any expected exceptions"
+
+
+
+
+
+
+
+
+https://appear.in/quantumrobotics
+
+
+
+
+
+
+
 ### Input/Output Operations
 
 \cite[Chapter 2, pp. 23]{Alchin2010} shows how to log errors that have been
