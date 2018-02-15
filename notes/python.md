@@ -1,5 +1,17 @@
 #	Notes About *Python*
 
+##	Table of Contents
+
+[Differences between *Python 3.x* and *Python 2.y*](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#differences-between-python-3x-and-python-2y)
+
+[Design Decisions](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#design-decisions)
+
+[Syntax Rules Regarding Identifiers](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#syntax-rules-regarding-identifiers)
+
+
+
+
+
 ##	Differences between *Python 3.x* and *Python 2.y*
 
 The `print` statement in *Python 2.y* has been replaced by the
