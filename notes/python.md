@@ -14,6 +14,7 @@
 	- [Input/Output Operations](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#inputoutput-operations)
 	- [Modules in *The Python Standard Library*](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#modules-in-the-python-standard-library)
 		* [Built-in Collections](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#built-in-collections)
+	- [Software Testing]()
 + [Exception Handling](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#exception-handling)
 + [*Python* Virtual Machine (PVM)](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#python-virtual-machine-pvm)
 + [References](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#references)
@@ -1034,6 +1035,15 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 		keys that cannot be found in the mapping.
 	- Lambda functions can be used to create and process dictionaries with
 		defaults.
+
+
+
+
+
+
+
+
+###	Software Testing
 
 
 
