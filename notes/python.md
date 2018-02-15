@@ -904,16 +904,24 @@ Guidelines on what to include in docstrings \cite[Chapter 8, pp. 209]{Alchin2010
 + "Describe the function[/method]"
 + "Explain the arguments"
 + "Don't forget the return value"
-+ "Include any expected exceptions"
++ "Include any expected exceptions" \cite[Chapter 8, pp. 210]{Alchin2010}
+
+Endeavor to provide additional documentation for the following
+	\cite[Chapter 8, pp. 210]{Alchin2010}:
++ Information about the installation, configuration, and execution of the software.
++ Tutorials on how to use the software.
++ "Reference documents"
+
+Produce documentation using documentation generators, such as:
++ *Javadoc*
++ *Doxygen*
++ *Sphinx* 
 
 
 
 
 
 
-
-
-https://appear.in/quantumrobotics
 
 
 
