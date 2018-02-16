@@ -708,10 +708,6 @@ Chapter 7.
 
 
 
-\cite{Younker2008}.
-
-
-
 
 
 ### *Python* Functions
