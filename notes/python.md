@@ -669,6 +669,51 @@ Object management:
 	- Chapters 17-19
 
 
+Chapter 8.6,8.8,8.10.
+\cite[Appendices A and B]{Langtangen2006}.
+
+Chapter 3, 7, 9.
+\cite[Appendices A and B]{Langtangen2009}.
+
+\cite{Langtangen2009a}
+Chapter 8.3,8.6,8.8,8.10, Appendix B.
+
+\cite{Langtangen2012}
+Chapter 4, 6, 7, 9.
+
+
+
+\cite{Lee2011b}
+Chapter 4, 7.
+
+\cite[Chapter 21]{Lutz2011}.
+
+
+\cite{Lutz2010}
+pp. 60-61, 85-88, 183-187.
+
+
+\cite{Lutz2013}
+Chapter 4,16-21, 22-25, 26-29, 31-32, 33-36, 39-41.
+\cite[Chapter 15]{Lutz2013}.
+
+
+\cite{Pilgrim2009}
+Chapter 6-7, 8, 9, 10.
+
+
+
+\cite{Ucoluk2012}
+Chapter 7.
+
+
+
+\cite{Younker2008}.
+
+
+
+
+
 ### *Python* Functions
 
 Notes on *Python* functions:
