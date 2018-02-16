@@ -1045,9 +1045,11 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 
 ###	Software Testing
 
-+ Test-driven development \cite[Chapter 9, pp. 217-2??]{Alchin2010} 
 
-
++ Unit testing \cite[Chapter 9, pp. 217]{Alchin2010}
++ Test-driven development \cite[Chapter 9, pp. 217]{Alchin2010} 
++ Doctests \cite[Chapter 9, pp. 218-221]{Alchin2010}
++ **unittest** module \cite[Chapter 9, pp. 221-230]{Alchin2010}
 
 
 
