@@ -699,8 +699,7 @@ Chapter 4,16-21, 22-25, 26-29, 31-32, 33-36, 39-41.
 \cite[Chapter 15]{Lutz2013}.
 
 
-\cite[Chapter 7, pp. ]{Pilgrim2009}
-Chapter 7,8, 9, 10... 11
+
 
 
 
