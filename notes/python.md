@@ -240,7 +240,8 @@ Notes on *Python* Classes:
 		the possibilities" \cite[Chapter 4, pp. 108]{Alchin2010} in which it
 		determines which method to use.
 + **\_\_init\_\_()** is a class, when it shoud be considered as an instance object
-	(**self**), which inherits from **type** \cite[Chapter 4, pp. 122]{Alchin2010}.
+	(**self**), which inherits from **type** \cite[Chapter 4, pp. 122]{Alchin2010}
+	\cite[Chapter 7, pp. 102-103]{Pilgrim2009}.
 + The (software) plugin framework allows software plugins and plugin systems
 	to be additively added to it \cite[Chapter 4, pp. 122]{Alchin2010}.
 	- The plugin framework allows easy access to plugins and plugin systems
@@ -698,13 +699,10 @@ Chapter 4,16-21, 22-25, 26-29, 31-32, 33-36, 39-41.
 \cite[Chapter 15]{Lutz2013}.
 
 
-\cite{Pilgrim2009}
-Chapter 6-7, 8, 9, 10.
+\cite[Chapter 7, pp. ]{Pilgrim2009}
+Chapter 7,8, 9, 10... 11
 
 
-
-\cite{Ucoluk2012}
-Chapter 7.
 
 
 
@@ -1089,7 +1087,9 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 
 + Unit testing \cite[Chapter 9, pp. 217]{Alchin2010}
 + Test-driven development \cite[Chapter 9, pp. 217]{Alchin2010} 
-+ Doctests \cite[Chapter 9, pp. 218-221]{Alchin2010}
++ Doctests
+	- \cite[Chapter 9, pp. 218-221]{Alchin2010}
+	- \cite[Chapter 1, pp. 5--6]{Pilgrim2009}
 + **unittest** module \cite[Chapter 9, pp. 221-230]{Alchin2010}
 
 
@@ -1224,6 +1224,7 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 
 + Algorithm analysis.
 	- \cite{Hetland2010}.
+	- Table of common computational complexities cite[\S5.1.1, pp. 157]{Ucoluk2012}
 + Data structures.
 	- \cite{Lutz2011,Lutz2013,Sweigart2015,Ucoluk2012}.
 	- **Read this!!!**
