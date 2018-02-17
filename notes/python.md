@@ -670,17 +670,20 @@ Object management:
 	- Chapters 17-19
 
 
-Chapter 8.6,8.8,8.10.
-\cite[Appendices A and B]{Langtangen2006}.
+
 
 Chapter 3, 7, 9.
 \cite[Appendices A and B]{Langtangen2009}.
 
 \cite{Langtangen2009a}
-Chapter 8.3,8.6,8.8,8.10, Appendix B.
+Chapter 7,9, Appendix D,E.
+
+
+
 
 \cite{Langtangen2012}
 Chapter 4, 6, 7, 9.
+Appendices A and B
 
 
 
@@ -690,8 +693,6 @@ Chapter 4, 7.
 \cite[Chapter 21]{Lutz2011}.
 
 
-\cite{Lutz2010}
-pp. 60-61, 85-88, 183-187.
 
 
 \cite{Lutz2013}
