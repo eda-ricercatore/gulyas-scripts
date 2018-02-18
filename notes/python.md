@@ -409,7 +409,7 @@ Notes on *Python* Classes:
 		* Alternatively, the **\_\_repr\_\_()** method can provide more
 			information about the instance object
 			\cite[Chapter 4, pp. 141-142]{Alchin2010}.
-+ Access specifiers (or access modifiers):
++ Access specifiers (or access modifiers) [REFERENCE THIS!!!]:
 	- syrtd
 
 
