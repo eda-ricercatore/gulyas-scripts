@@ -411,6 +411,7 @@ Notes on *Python* Classes:
 			\cite[Chapter 4, pp. 141-142]{Alchin2010}.
 + Access specifiers (or access modifiers) [REFERENCE THIS!!!]:
 	- syrtd
+	- Add references for C++ and Java
 
 
 
