@@ -1838,8 +1838,6 @@ Use the *Distutils* toolkit to distribute *Python* packages
 
 
 
-####	References for Packaging *Python* Programs
-
 \cite{Ward2018a} \cite[Distributing Python Modules (Legacy version)]{DrakeJr2017c,DrakeJr2016d}
 	shows how to write a setup script to install *Python* programs
 	\cite[Chapter 18, pp. 373-374]{Hetland2005}:
@@ -1865,6 +1863,22 @@ Use the *Distutils* toolkit to distribute *Python* packages
 + The *MANIFEST.in* file helps the *Distuils* setup/install process to locate all
 	required files for my/our installed *Python* program  
 	\cite[Chapter 18, pp. 376]{Hetland2005}.
+
+
+\cite[Chapter 10, pp. 210, 215-253]{Hetland2005}
+\cite[Chapter 18, pp. 376]{Hetland2005}
+
+
+
+
+
+
+
+
+
+####	References for Packaging *Python* Programs
+
+
 
 
 
