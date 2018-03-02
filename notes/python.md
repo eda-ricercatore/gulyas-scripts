@@ -657,7 +657,7 @@ Notes on *Python* Classes:
 		methods would not be "imported with starred imports"
 		(**from [module] import \***) \cite[Chapter 7, pp. 146]{Hetland2005}.
 + Access and manage polymorphic objects by adhering to its interface (or
-	"protocol"), which is definied by its list of accessible methods and attributes
+	"protocol" \cite[Chapter 9, pp. 179]{Hetland2005}), which is definied by its list of accessible methods and attributes
 	\cite[Chapter 7, pp. 155]{Hetland2005}.
 	- Unlike *Java* and *C++*, explicit interfaces (i.e., *Java* interfaces and
 		*C++* header files) are not required by *Python*
