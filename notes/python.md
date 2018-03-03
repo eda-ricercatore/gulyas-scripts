@@ -1860,6 +1860,10 @@ Use the *Distutils* toolkit to distribute *Python* packages
 	- **packages**: to install *Python* packages \cite[Chapter 18, pp. 376]{Hetland2005}
 + Create **configuration files** for *Distutils* to set up properties for the *Python*
 	program to be installed \cite[Chapter 18, pp. 376]{Hetland2005}.
++ To specify what and where to install, provide various options to **setup.py**
+	and the *Distutils* **configuration files** so that they have command-line
+	switches and can accept keyword arguments
+	\cite[Chapter 18, pp. 376]{Hetland2005}.
 + The *MANIFEST.in* file helps the *Distuils* setup/install process to locate all
 	required files for my/our installed *Python* program  
 	\cite[Chapter 18, pp. 376]{Hetland2005}.
