@@ -1864,6 +1864,18 @@ Use the *Distutils* toolkit to distribute *Python* packages
 	and the *Distutils* **configuration files** so that they have command-line
 	switches and can accept keyword arguments
 	\cite[Chapter 18, pp. 376]{Hetland2005}.
++ To distribute the *Python* modules as an archive file for installation, use the
+	**sdist** command for wrapping the *Python* modules for source distribution
+	\cite[Chapter 18, pp. 376]{Hetland2005}.
+	- **python** [*Python* modules] **sdist**
+	- **python setup.py sdist**
+	- Suggested information for the **setup.py** script are
+		\cite[Chapter 18, pp. 376]{Hetland2005}:
+		* Contact information of the author, or a co-author: **author\_email**
+		* Name of the author, or list of co-authors: **author**
+		* **README**/**README.txt** text file, which can be written in
+			*Markdown* and it can be empty.
+		* *MANIFEST.in* file, which can be empty   
 + The *MANIFEST.in* file helps the *Distuils* setup/install process to locate all
 	required files for my/our installed *Python* program  
 	\cite[Chapter 18, pp. 376]{Hetland2005}.
