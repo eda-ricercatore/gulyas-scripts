@@ -1879,7 +1879,10 @@ Use the *Distutils* toolkit to distribute *Python* packages
 + The *MANIFEST.in* file helps the *Distuils* setup/install process to locate all
 	required files for my/our installed *Python* program  
 	\cite[Chapter 18, pp. 376]{Hetland2005}.
-
+	- When my *Python* package has been restructured, or when I want to
+		repackage it, delete the *MANIFEST.in* file.
+		Else, if the *MANIFEST.in* file exists, it will be read instead of being
+			overwritten \cite[Chapter 18, pp. 376]{Hetland2005}.
 
 
 
