@@ -1875,15 +1875,33 @@ Use the *Distutils* toolkit to distribute *Python* packages
 		* Name of the author, or list of co-authors: **author**
 		* **README**/**README.txt** text file, which can be written in
 			*Markdown* and it can be empty.
-		* *MANIFEST.in* file, which can be empty   
+		* *MANIFEST.in* file, which can be empty
+	- The output of running **python setup.py sdist** is a **gzip**'ed tar archive
+		(or tar ball) \cite[Chapter 18, pp. 377]{Hetland2005}.
+	- To specify the distribution format of the output archive, use the
+		command-line switch **--formats** *[option]*, where *[option]* can be
+		\cite[Chapter 18, pp. 377]{Hetland2005}:
+		* **bztar**
+		* **gztar** (default archive format)
+		* **tar**
+		* **zip**
+		* **ztar**
 + The *MANIFEST.in* file helps the *Distuils* setup/install process to locate all
 	required files for my/our installed *Python* program  
 	\cite[Chapter 18, pp. 376]{Hetland2005}.
 	- When my *Python* package has been restructured, or when I want to
-		repackage it, delete the *MANIFEST.in* file.
+		repackage it, delete the *MANIFEST.in* file
+		\cite[Chapter 18, pp. 377]{Hetland2005}.
 		Else, if the *MANIFEST.in* file exists, it will be read instead of being
-			overwritten \cite[Chapter 18, pp. 376]{Hetland2005}.
-
+			overwritten \cite[Chapter 18, pp. 377]{Hetland2005}.
++ To distribute the *Python* modules as an archive file for installation, use the
+	**bdist** command for creating binary distributions for the *Python* modules 
+	that are operating system-specific (OS-specific)
+	\cite[Chapter 18, pp. 377]{Hetland2005}.
+	- **python** [*Python* modules] **bdist --formats=***[option]*
+	- Available values for *[option]* are:
+		* **rpm** (for distributions of the *Linux* operating systems)
+		* **wininst** (for *Windows* operating systems)
 
 
 
