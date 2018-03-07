@@ -1905,6 +1905,21 @@ Use the *Distutils* toolkit to distribute *Python* packages
 
 
 
+
++ To create binary installers with an option to uninstall the *Python* package(s),
+	use the following options to create binary installers
+	\cite[Chapter 18, pp. 378]{Hetland2005}:
+	- *py2exe* with *Inno Setup*
+	- *McMillan installer*
+	- *InstallShield*
+	- *Wise installer*
+	- *Installer VISE*
+	- *Nullsoft Scriptable install System*
+	- *Youseful Windows Installer*
+	- *Ghost Installer*
++ For more information on creating (binary) installers for *Windows* operating
+	systems, see \cite{Wilson2004a}.
+
 \cite[Chapter 18, pp. 376]{Hetland2005}
 
 
