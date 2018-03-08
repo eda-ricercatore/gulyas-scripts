@@ -1849,6 +1849,10 @@ Use the *Distutils* toolkit to distribute *Python* packages
 		* Automatically runs the build command:
 			**./setup.py build**
 	- The setup script adds my/our custom modules to **PYTHONPATH**.
+	- Use the **ext\_modules** argument in **setup.py** to provide
+		a list of *Python* modules as a list of **Extension** instances.
+	- Use the **--inplace** option to compile/build the *Python*
+		modules/extensions in the current directory. 
 + There are no universal conventions for:
 	- uninstall \cite[Chapter 18, pp. 375]{Hetland2005}
 + Additional commands of interest:
@@ -1920,7 +1924,7 @@ Use the *Distutils* toolkit to distribute *Python* packages
 + For more information on creating (binary) installers for *Windows* operating
 	systems, see \cite{Wilson2004a}.
 
-\cite[Chapter 18, pp. 376]{Hetland2005}
+
 
 
 
@@ -1931,11 +1935,6 @@ Use the *Distutils* toolkit to distribute *Python* packages
 
 
 ####	References for Packaging *Python* Programs
-
-
-
-
-
 
 
 References for packaging *Python* programs \cite[Chapter 18, pp. 373]{Hetland2005}:
