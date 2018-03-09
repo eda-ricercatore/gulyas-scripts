@@ -1304,6 +1304,26 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 
 
 
+# Random
+
++ https://www.tutorialspoint.com/python/python_if_else.htm
++ https://dev.to/ogwurujohnson/distinguishing-instance-variables-from-class-variables-in-python-81
++ https://softwareengineering.stackexchange.com/questions/340383/assigning-instance-variables-in-function-called-by-init-vs-function-called
++ http://www.dummies.com/programming/python/working-with-variables-in-python/
++ https://medium.com/the-renaissance-developer/python-101-object-oriented-programming-part-2-8e0db3ddd531
++ https://www.tutorialspoint.com/python/python_classes_objects.htm
++ https://www.ntu.edu.sg/home/ehchua/programming/webprogramming/Python1_Basics.html
++ http://kronosapiens.github.io/blog/2014/05/10/from-ruby-to-python.html
++ https://docs.python.org/3.5/tutorial/classes.html?highlight=inheritance#inheritance
++ https://softwareengineering.stackexchange.com/questions/254576/is-it-a-good-practice-to-declare-instance-variables-as-none-in-a-class-in-python
++ https://syntaxdb.com/ref/python/class-variables
++ https://docs.python.org/2/tutorial/classes.html
++ https://www.digitalocean.com/community/tutorials/understanding-class-and-instance-variables-in-python-3
++ https://www.python-course.eu/python3_class_and_instance_attributes.php
++ http://home.wlu.edu/~lambertk/pythontojava/InstanceVariables.htm
++ https://timothyawiseman.wordpress.com/2012/10/06/class-and-instance-variables-in-python-2-7/
+
+
 
 
 
