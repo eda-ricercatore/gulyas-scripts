@@ -1850,9 +1850,11 @@ Use the *Distutils* toolkit to distribute *Python* packages
 			**./setup.py build**
 	- The setup script adds my/our custom modules to **PYTHONPATH**.
 	- Use the **ext\_modules** argument in **setup.py** to provide
-		a list of *Python* modules as a list of **Extension** instances.
+		a list of *Python* modules as a list of **Extension** instances
+		\cite[Chapter 18, pp. 378]{Hetland2005}.
 	- Use the **--inplace** option to compile/build the *Python*
-		modules/extensions in the current directory. 
+		modules/extensions in the current directory
+		\cite[Chapter 18, pp. 378]{Hetland2005}. 
 + There are no universal conventions for:
 	- uninstall \cite[Chapter 18, pp. 375]{Hetland2005}
 + Additional commands of interest:
