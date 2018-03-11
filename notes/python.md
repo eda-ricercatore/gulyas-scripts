@@ -1832,7 +1832,8 @@ Use the *Distutils* toolkit to distribute *Python* packages
 	- Use archive files for compiling and installing *Python* libraries.
 + Build *(Microsoft) Windows* installers for *Python* packages.
 + Build *(Microsoft) Windows* executable *Python* programs, using the
-	**py2exe** extension.  
+	**py2exe** extension to the *Distutils* toolkit
+	\cite[Chapter 18, pp. 379-380]{Hetland2005}.
 + Build self-installing archives for my binaries
 
 
@@ -1852,6 +1853,9 @@ Use the *Distutils* toolkit to distribute *Python* packages
 	- Use the **ext\_modules** argument in **setup.py** to provide
 		a list of *Python* modules as a list of **Extension** instances
 		\cite[Chapter 18, pp. 378]{Hetland2005}.
+		* When used with *SWIG* for developing mixed-language software,
+			add the *SWIG* interface (**.i**) files to the list of **Extension**
+			instances \cite[Chapter 18, pp. 378-379]{Hetland2005}.
 	- Use the **--inplace** option to compile/build the *Python*
 		modules/extensions in the current directory
 		\cite[Chapter 18, pp. 378]{Hetland2005}. 
