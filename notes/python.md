@@ -2011,13 +2011,24 @@ Some *SQL* database engines, such as *SQLite*, do not require being run as a
 + distributed database storage systems
 
 
+See \cite{Molinaro2006} for further information about *SQL* database management
+	and administration.
+
+
+
+
+
+
+
+
 
 
 
 ###	Software Development Process Methodologies
 
-Use extreme programming (XP), or other agile software development
-	methodologies, 
+Use extreme programming (XP) \cite[Chapter 19, pp. 381]{Hetland2005} \cite{Pressman2010,Sommerville2007,Jayaswal2007,Wells2009,Jalote2008,DeLucia2008,Beck2005,Larman2003,Beck2001,Wells1999},
+	or other agile software development methodologies \cite{Stellman2015,Kelly2015,Laplante2014,Crookshanks2012,Rasmusson2010,Shore2008,Larman2004,Boehm2004}, 
+	to develop *Python* software/programs.
 
 
 
@@ -2028,8 +2039,6 @@ Use extreme programming (XP), or other agile software development
 
 
 
-See \cite{Molinaro2006} for further information about *SQL* database management
-	and administration.
 
 ## *Python* Strings
 
