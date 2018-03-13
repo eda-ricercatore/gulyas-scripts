@@ -2029,11 +2029,15 @@ See \cite{Molinaro2006} for further information about *SQL* database management
 Use extreme programming (XP) \cite[Chapter 19, pp. 381]{Hetland2005} \cite{Pressman2010,Sommerville2007,Jayaswal2007,Wells2009,Jalote2008,DeLucia2008,Beck2005,Larman2003,Beck2001,Wells1999},
 	or other agile software development methodologies \cite{Stellman2015,Kelly2015,Laplante2014,Crookshanks2012,Rasmusson2010,Shore2008,Larman2004,Boehm2004}, 
 	to develop *Python* software/programs.
-
-
-
-
-
++ Be adaptive and flexible \cite[Chapter 19, pp. 382]{Hetland2005}. 
++ Have the courage to refactor the software to improve certain qualities/aspects
+	of the software \cite[Chapter 19, pp. 382]{Hetland2005}.
+	- This involves modifying the software architecture and selection of
+		algorithms to implement \cite[Chapter 19, pp. 382]{Hetland2005}. 
++ Embrace prototyping early in my software development process
+	\cite[Chapter 19, pp. 382]{Hetland2005}.
++ Embrace automated software testing to facilitate software refactoring
+	\cite[Chapter 19, pp. 382]{Hetland2005}.
 
 
 
