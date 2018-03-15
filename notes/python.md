@@ -2038,8 +2038,9 @@ Use extreme programming (XP) \cite[Chapter 19, pp. 381]{Hetland2005} \cite{Press
 	\cite[Chapter 19, pp. 382]{Hetland2005}.
 + Embrace automated software testing to facilitate software refactoring
 	\cite[Chapter 19, pp. 382]{Hetland2005}.
-+ Practice the "good enough" philosophy \cite[Chapter 19, pp. 383]{Hetland2005},
-	which is also espoused by Prof. Jiang Hu.
++ Practice the "good enough" philosophy \cite[Chapter 19, pp. 383]{Hetland2005}
+	\cite{Martelli2016a,Martelli2016}, which is also espoused by Prof. Jiang Hu
+	during his classes and research lab meetings (*personal communication*).
 
 
 
