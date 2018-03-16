@@ -2041,6 +2041,8 @@ Use extreme programming (XP) \cite[Chapter 19, pp. 381]{Hetland2005} \cite{Press
 + Practice the "good enough" philosophy \cite[Chapter 19, pp. 383]{Hetland2005}
 	\cite{Martelli2016a,Martelli2016}, which is also espoused by Prof. Jiang Hu
 	during his classes and research lab meetings (*personal communication*).
+	- This helps me to avoid problems associated with perfectionism, which
+		keeps me from completing or releasing "imperfect" work. 
 
 
 
