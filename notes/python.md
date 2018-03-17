@@ -2042,7 +2042,9 @@ Use extreme programming (XP) \cite[Chapter 19, pp. 381]{Hetland2005} \cite{Press
 	\cite{Martelli2016a,Martelli2016}, which is also espoused by Prof. Jiang Hu
 	during his classes and research lab meetings (*personal communication*).
 	- This helps me to avoid problems associated with perfectionism, which
-		keeps me from completing or releasing "imperfect" work. 
+		keeps me from completing or releasing "imperfect" work, which
+		Prof. Derek Abbott and Prof. Laszlo Bela Kish during our reunion
+		in early November 2016. 
 
 
 
