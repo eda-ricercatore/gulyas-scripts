@@ -2036,6 +2036,10 @@ Use extreme programming (XP) \cite[Chapter 19, pp. 381]{Hetland2005} \cite{Press
 		algorithms to implement \cite[Chapter 19, pp. 382]{Hetland2005}. 
 + Embrace prototyping early in my software development process
 	\cite[Chapter 19, pp. 382]{Hetland2005}.
+	- Since programming in *Python* involves writing less boilerplate code than
+		*C++*/*Java*, it is more amenable to facilitate prototyping than these
+		latter programming languages
+		\cite[Chapter 19, pp. 383]{Hetland2005}. 
 + Embrace automated software testing to facilitate software refactoring
 	\cite[Chapter 19, pp. 382]{Hetland2005}.
 + Practice the "good enough" philosophy \cite[Chapter 19, pp. 383]{Hetland2005}
