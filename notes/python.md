@@ -410,10 +410,14 @@ Notes on *Python* Classes:
 			information about the instance object
 			\cite[Chapter 4, pp. 141-142]{Alchin2010}.
 + Access specifiers (or access modifiers) [REFERENCE THIS!!!]:
-	- syrtd
+	- In *C++*, access specifiers are: public, protected, and private
+		\cite[Chapter 12]{Deitel2012} \cite[Chapter 11]{Deitel2014}
+		\cite[Chapter 7, pp. 392]{Gaddis2011} \cite[\S7.2, pp.. 349]{Lippman2013}.
+		\cite[Chapters 5-6]{Sutherland2015} \cite{Gregoire2014}
+		
 	- Add references for C++ and Java
 
-
+\cite[Chapter 8, pp. 173]{Hall2009b}
 
 
 
