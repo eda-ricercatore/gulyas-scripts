@@ -995,7 +995,7 @@ Endeavor to provide additional documentation for the following
 
 \cite[Chapter 2, pp. 16]{Hall2009b} suggests the following *Python* docstring to
 	provide built-in documentation for the *Python* software:
-+ Problem: [*What does the **Python** software do?*]
++ Problem/Purpose: [*What does the **Python** software do?*]
 + Target Users: [*People who want to perform data analytics or other operations
 	on their **BibTeX** databases.*]
 + Target Systems: [*UNIX-like operating systems.*]
@@ -1007,7 +1007,15 @@ Endeavor to provide additional documentation for the following
 		file.*]
 	- [*Validate the integrity of the **BibTeX** file.*]
 + Maintainer(s): [*Zhiyang Ong*]
-
++ Expected Results: [*Perform tasks to address the problem statement.*]
++ Testing methods/modules: [*List of methods and modules used to test software.*]
++ Test values: [*Values used to test software.*]
++ Limitations: [*Limitations of the software.*]
++ \_\_version\_\_ = 0.1
++ \_\status\_\_ = "Prototype"
++ \_\_date\_\_ = "March 19, 2018"
++ \_\maintainer\_\_ = "Zhiyang Ong"
++ \_\credits\_\_ = "Thanks to everyone."
 
 
 Produce documentation using documentation generators, such as:
