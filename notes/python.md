@@ -1163,7 +1163,7 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 	- Chapter 9,10,11, 8 (pp. 165).
 	- Tim Hall and J.-P. Stacey, "Python 3 for Absolute Beginners: All you will ever need to start programming Python," in The Expert's Voice$^{\textregistered}$\ in Open Source series, Apress, Berkeley, CA, 2009. DOI:https://dx.doi.org/10.1007/978-1-4302-1633-9.
 + \cite{Hetland2005}
-	- Chapters 6-8,9,11,13,16,17,18,19.
+	- Chapters 6-8,9,11,13,16-19.
 	- Magnus Lie Hetland, "Beginning Python: From Novice to Professional," in The Expert's Voice$^{\textregistered}$\ in Open Source series, Apress, New York, NY, 2005. DOI:https://dx.doi.org/10.1007/978-1-4302-0072-7.
 + \cite{Langtangen2006}
 	- Chapter 8.6,8.8,8.10.
@@ -1300,6 +1300,12 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 + \cite{Lutz2011}
 	- Chapter 20.
 	- Mark Lutz, "Programming Python: Powerful Object-Oriented Programming," Fourth edition, O'Reilly Media, Sebastopol, CA, 2011.
+
+
+
+##	Books Covered
+
++ \cite{Alchin2010}
 
 
 
