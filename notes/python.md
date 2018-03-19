@@ -674,6 +674,7 @@ Object management:
 
 + \cite{Hall2009b}
 	- Chapter 9,10
+	- Or, Chapter 9,10,11, 8 (pp. 165).
 	- For *Python 3,* not *Python 2*.
 
 + \cite{Hetland2005}
@@ -991,6 +992,23 @@ Endeavor to provide additional documentation for the following
 + Information about the installation, configuration, and execution of the software.
 + Tutorials on how to use the software.
 + "Reference documents"
+
+\cite[Chapter 2, pp. 16]{Hall2009b} suggests the following *Python* docstring to
+	provide built-in documentation for the *Python* software:
++ Problem: [*What does the **Python** software do?*]
++ Target Users: [*People who want to perform data analytics or other operations
+	on their **BibTeX** databases.*]
++ Target Systems: [*UNIX-like operating systems.*]
++ Interface: [*Command-line.*]
++ Functional Requirements:
+	- [*Input **BibTeX** file.*]
+	- [*Perform data processing on the **BibTeX** file.*]
+	- [*Perform statistical analysis, or data analytics operations, on the **BibTeX**
+		file.*]
+	- [*Validate the integrity of the **BibTeX** file.*]
++ Maintainer(s): [*Zhiyang Ong*]
+
+
 
 Produce documentation using documentation generators, such as:
 + *Javadoc*
