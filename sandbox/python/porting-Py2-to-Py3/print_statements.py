@@ -8,7 +8,7 @@ print("String 2.")
 
 
 
-
+#	exec("ls -al") does not work. exec() only executes Python code.
 
 
 

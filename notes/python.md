@@ -1135,6 +1135,33 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 
 
 
+
+
+
+
+## *Python* Strings
+
+In *Python* 3.x:
++ *exec("ls -al")* does not work.
+	- *exec()* only executes *Python* code, in a *Python* environment
+		\cite[Chapter 8, pp. 172]{Hall2009b}.
++ ***exec()* and *eval()* pose software security threats**
+		\cite[Chapter 8, pp. 173]{Hall2009b}.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ##	Exception Handling
 
 \cite[Chapter 2, pp. 23-28,29-30]{Alchin2010} shows how to catch multiple
