@@ -409,15 +409,16 @@ Notes on *Python* Classes:
 		* Alternatively, the **\_\_repr\_\_()** method can provide more
 			information about the instance object
 			\cite[Chapter 4, pp. 141-142]{Alchin2010}.
-+ Access specifiers (or access modifiers) [REFERENCE THIS!!!]:
++ Access specifiers (or access modifiers??? [REFERENCE THIS!!!]):
 	- In *C++*, access specifiers are: public, protected, and private
 		\cite[Chapter 12]{Deitel2012} \cite[Chapter 11]{Deitel2014}
 		\cite[Chapter 7, pp. 392]{Gaddis2011} \cite[\S7.2, pp.. 349]{Lippman2013}.
 		\cite[Chapters 5-6]{Sutherland2015} \cite{Gregoire2014}
-		
-	- Add references for C++ and Java
+	- In *Java*, access specifiers are also: public, protected, and private
+		\cite[Chapter 2, pp. 23; Chapter 7, pp. 138]{Schildt2007}
+		\cite[pp. 20, 145, & 153]{Eckel2006}
 
-\cite[Chapter 8, pp. 173]{Hall2009b}
+
 
 
 
@@ -1149,8 +1150,8 @@ In *Python* 3.x:
 + *exec("ls -al")* does not work.
 	- *exec()* only executes *Python* code, in a *Python* environment
 		\cite[Chapter 8, pp. 172]{Hall2009b}.
-+ ***exec()* and *eval()* pose software security threats**
-		\cite[Chapter 8, pp. 173]{Hall2009b}.
++ ***exec()* and *eval()* pose software security threats**, if they execute
+	malicious *Python* code \cite[Chapter 8, pp. 173]{Hall2009b}.
 
 
 
