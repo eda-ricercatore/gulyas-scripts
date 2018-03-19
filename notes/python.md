@@ -212,7 +212,10 @@ Relative imports are supported by providing relative paths to modules that are
 
 Notes on *Python* Classes:
 + A class is a particular type of object has a logical group of functions, and
-	"encapsulates the behavior of an object" \cite[Chapter 4, pp. 103]{Alchin2010}. 
+	"encapsulates the behavior of an object" \cite[Chapter 4, pp. 103]{Alchin2010}.
+	- A *Python* class definition is a template for custom data types that contain
+		data (i.e., attributes) and commands (i.e., methods, or functions
+		belonging to this *Python* class) \cite[Chapter 9, pp. 181]{Hall2009b}.  
 + "An instance of the class represents the data for the object"
 	\cite[Chapter 4, pp. 103]{Alchin2010}.
 + Difference instances of a class has different sets of data, but have the same
