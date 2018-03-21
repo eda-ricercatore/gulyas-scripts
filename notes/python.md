@@ -225,7 +225,8 @@ Notes on *Python* Classes:
 	- **dir(*[instance object]*)** shows a list of attributes and methods
 		supported by the ***[instance object]*** within its namespace 
 		\cite[Chapter 9, pp. 184]{Hall2009b}.
-	- Each instance object is associated with an unique identity
+	- Each instance object is associated with an unique identity (number), which
+		can be obtained with **id(*[instance object]*)**
 		\cite[Chapter 9, pp. 184]{Hall2009b}.
 + Difference instances of a class has different sets of data, but have the same
 	behavior that is determined by the class definition;
