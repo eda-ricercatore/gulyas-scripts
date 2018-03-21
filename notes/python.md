@@ -217,7 +217,11 @@ Notes on *Python* Classes:
 		data (i.e., attributes) and commands (i.e., methods, or functions
 		belonging to this *Python* class) \cite[Chapter 9, pp. 181]{Hall2009b}.  
 + "An instance of the class represents the data for the object"
-	\cite[Chapter 4, pp. 103]{Alchin2010}.
+	\cite[Chapter 4, pp. 103]{Alchin2010} \cite[Chapter 9, pp. 183]{Hall2009b}.
+	- Encapsulation enables the treatment of an object as a black box
+		\cite[Chapter 9, pp. 183]{Hall2009b}.
+	- **self** 
+	\cite[Chapter 9, pp. 183]{Hall2009b}.
 + Difference instances of a class has different sets of data, but have the same
 	behavior that is determined by the class definition;
 	this behavior can be defined, extended, or altered 
