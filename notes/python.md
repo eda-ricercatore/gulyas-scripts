@@ -223,7 +223,8 @@ Notes on *Python* Classes:
 	this behavior can be defined, extended, or altered 
 	\cite[Chapter 4, pp. 103]{Alchin2010}. 
 + Inheritance allows a derived/child class to have a different fundamental
-	behavior from its base class \cite[Chapter 4, pp. 103]{Alchin2010}. 
+	behavior from its base/parent class \cite[Chapter 4, pp. 103]{Alchin2010}
+	\cite[Chapter 9, pp. 181]{Hall2009b}.
 + The built-in type **object** is "a foundation type that underpins the entire
 	system \cite[Chapter 4, pp. 103]{Alchin2010}.
 + Codify relationships between packages, modules, and classes to represent
@@ -583,7 +584,7 @@ Object management:
 + In the object-oriented programming (OOP) paradigm, an object (or an instance
 	of a class) has a set of methods (member functions) and attributes (i.e.,
 	fields or data members) that enable manipulation (or control) of its behavior
-	\cite[Chapter 6, pp. 169]{Alchin2010}.
+	\cite[Chapter 6, pp. 169]{Alchin2010} \cite[Chapter 9, pp. 181]{Hall2009b}.
 	- Methods; also known as functions belonging to an object, or member
 		functions. These capture the behavior of the objects.
 	- Attributes; also known as fields, data members, or instance variables and

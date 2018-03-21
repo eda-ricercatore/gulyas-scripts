@@ -47,6 +47,43 @@ print("========================================================")
 println = "=	For all BibTeX entry types:"
 print(println,*BibTeX_entry_types, sep="_", end=".\n")
 
+print("========================================================")
+
+println = "=	Print list (1):"
+print(println,*BibTeX_entry_types, end=".\n")
+
+print("========================================================")
+
+println = "=	Print list (2):"
+print("=".join(str(x) for x in BibTeX_entry_types))
+print("")
+println += "=".join(str(x) for x in BibTeX_entry_types)
+print(println)
+print("")
+print("+".join(map(str, BibTeX_entry_types)))
+
+print("========================================================")
+
+print("=	Print stuff (1).")
+
+a_string = "This is a string, "
+b_string = "which I wrote."
+a_string += b_string
+print(a_string)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #	exec("ls -al") does not work. exec() only executes Python code.
 
