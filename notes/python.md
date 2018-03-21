@@ -222,6 +222,9 @@ Notes on *Python* Classes:
 		\cite[Chapter 9, pp. 183]{Hall2009b}.
 	- **self** refers to the instance object that the instance methods are
 		operating with \cite[Chapter 9, pp. 183]{Hall2009b}.
+	- **dir(*[instance object]*)** shows a list of attributes and methods
+		supported by the ***[instance object]*** within its namespace 
+		\cite[Chapter 9, pp. 183]{Hall2009b}.
 + Difference instances of a class has different sets of data, but have the same
 	behavior that is determined by the class definition;
 	this behavior can be defined, extended, or altered 
