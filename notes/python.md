@@ -226,8 +226,9 @@ Notes on *Python* Classes:
 		supported by the ***[instance object]*** within its namespace 
 		\cite[Chapter 9, pp. 184]{Hall2009b}.
 	- Each instance object is associated with an unique identity (number), which
-		can be obtained with **id(*[instance object]*)**
-		\cite[Chapter 9, pp. 184]{Hall2009b}.
+		can be obtained with **id(*[instance object]*)**.
+		This identity (number) is an integer
+			\cite[Chapter 9, pp. 184]{Hall2009b}.
 + Difference instances of a class has different sets of data, but have the same
 	behavior that is determined by the class definition;
 	this behavior can be defined, extended, or altered 
