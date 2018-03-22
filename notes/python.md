@@ -234,6 +234,9 @@ Notes on *Python* Classes:
 		\cite[Chapter 9, pp. 185]{Hall2009b}.
 	- Name binding is used to map/connect a name to an object
 		\cite[Chapter 9, pp. 184]{Hall2009b}.
+	- The state of an instance object is determined by the values of its
+		attributes/properties/fields/characteristics
+		\cite[Chapter 9, pp. 185]{Hall2009b}.
 + Difference instances of a class has different sets of data, but have the same
 	behavior that is determined by the class definition;
 	this behavior can be defined, extended, or altered 
