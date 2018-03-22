@@ -394,7 +394,7 @@ Notes on *Python* Classes:
 			should be called before the **\_\_init\_\_()** method
 			\cite[Chapter 4, pp. 137]{Alchin2010}.
 	- Accessing and modifying attributes of a *Python* class
-		\cite[Chapter 4, pp. 138]{Alchin2010}:
+		\cite[Chapter 4, pp. 138]{Alchin2010} \cite[Chapter 9, pp. 197]{Hall2009b}:
 		* The name of an attribute of an instance object can be accessed or
 			modified directly via *instance.attribute* \cite[Chapter 4, pp. 138]{Alchin2010};
 			other methods for accessing or modifying *instance.attribute* can
@@ -524,7 +524,8 @@ Protocols masked by *Python* syntactic sugar
 		and **\_\_abs\_\_()** to obtain the absolute value of the number
 		\cite[Chapter 5, pp. 154]{Alchin2010}.
 	- For comparison operations that return either **True** or **False**
-		\cite[Chapter 5, pp. 154]{Alchin2010}:
+		\cite[Chapter 5, pp. 154]{Alchin2010}
+		\cite[Chapter 9, pp. 197, Table 9.2]{Hall2009b}:
 		* **is**, can compare known constants (e.g., **None**)
 		* **is not**, can compare known constants (e.g., **None**)
 		* **==**, or **\_\_eq\_\_()**
