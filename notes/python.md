@@ -229,6 +229,11 @@ Notes on *Python* Classes:
 		can be obtained with **id(*[instance object]*)**.
 		This identity (number) is an integer (or, positive integer)
 			\cite[Chapter 9, pp. 184]{Hall2009b}.
+	- The namespace of an object can be implemented by a dictionary object,
+		and has the organization of a family tree or directory structure
+		\cite[Chapter 9, pp. 185]{Hall2009b}.
+	- Name binding is used to map/connect a name to an object
+		\cite[Chapter 9, pp. 184]{Hall2009b}.
 + Difference instances of a class has different sets of data, but have the same
 	behavior that is determined by the class definition;
 	this behavior can be defined, extended, or altered 
