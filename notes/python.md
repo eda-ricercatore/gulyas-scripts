@@ -227,7 +227,7 @@ Notes on *Python* Classes:
 		\cite[Chapter 9, pp. 184]{Hall2009b}.
 	- Each instance object is associated with an unique identity (number), which
 		can be obtained with **id(*[instance object]*)**.
-		This identity (number) is an integer
+		This identity (number) is an integer (or, positive integer)
 			\cite[Chapter 9, pp. 184]{Hall2009b}.
 + Difference instances of a class has different sets of data, but have the same
 	behavior that is determined by the class definition;
@@ -236,6 +236,9 @@ Notes on *Python* Classes:
 + Inheritance allows a derived/child class to have a different fundamental
 	behavior from its base/parent class \cite[Chapter 4, pp. 103]{Alchin2010}
 	\cite[Chapter 9, pp. 181]{Hall2009b}.
+	- Duck typing enables developers to modify and manipulate objects, which
+		are related via class inheritance, while ensuring type safety
+		\cite{WikipediaContributors2018a}.
 + The built-in type **object** is "a foundation type that underpins the entire
 	system \cite[Chapter 4, pp. 103]{Alchin2010}.
 + Codify relationships between packages, modules, and classes to represent
@@ -1223,6 +1226,15 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 	Parewa Labs Pvt. Ltd. staff, "Learn Python Programming," Parewa Labs Pvt. Ltd., Kupondole, Lalitpur, Lalitpur District, Nepal.
 	
 	Available online from {\it Programming Tutorial, Articles and Examples -- Programiz} at: \url{https://www.programiz.com/python-programming/}; last accessed on April 1, 2017.
+
++ [WikipediaContributors2018a]
+
+	Wikipedia contributors, "Duck typing," Wikimedia Foundation, San Francisco, CA, January 10, 2018.
+
+	Available online from {\it Wikipedia, The Free Encyclopedia: Type theory} at: \url{https://en.wikipedia.org/wiki/Duck_typing}; March 19, 2018 was the last accessed date.
+
+
+
 
 
 
