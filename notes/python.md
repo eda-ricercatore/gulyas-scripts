@@ -247,7 +247,8 @@ Notes on *Python* Classes:
 	- Duck typing enables developers to modify and manipulate objects, which
 		are related via class inheritance, while ensuring type safety
 		\cite{WikipediaContributors2018a}.
-	- Polymorphism allows operators to be overloaded
+	- Polymorphism allows operators to be overloaded with *special methods*
+		(known as "magic methods" in \cite{Hall2009b}) \cite{DrakeJr2016a}
 		\cite[Chapter 9, pp. 184]{Hall2009b}.
 + The built-in type **object** is "a foundation type that underpins the entire
 	system \cite[Chapter 4, pp. 103]{Alchin2010}.
