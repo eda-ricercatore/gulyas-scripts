@@ -1208,6 +1208,9 @@ An exception stops the execution of the *Python* software/program due to
 Use **try...except...else...finally** statements to handle exceptions
 	\cite[Chapter 10, pp. 221]{Hall2009b}. 
 
+Exception chaining
+\cite[Chapter 10, pp. 235-236]{Hall2009b}. 
+
 \cite[Chapter 2, pp. 23-28,29-30]{Alchin2010} shows how to catch multiple
 	errors that have been raised.
 
