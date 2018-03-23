@@ -248,8 +248,8 @@ Notes on *Python* Classes:
 		are related via class inheritance, while ensuring type safety
 		\cite{WikipediaContributors2018a}.
 	- Polymorphism allows operators to be overloaded with *special methods*
-		(known as "magic methods" in \cite{Hall2009b}) \cite{DrakeJr2016a}
-		\cite[Chapter 9, pp. 184]{Hall2009b}.
+		\cite{DrakeJr2016a} (which are known as "magic methods" in
+		\cite{Hall2009b}) \cite[Chapter 9, pp. 184]{Hall2009b}.
 + The built-in type **object** is "a foundation type that underpins the entire
 	system \cite[Chapter 4, pp. 103]{Alchin2010}.
 + Codify relationships between packages, modules, and classes to represent
@@ -1030,12 +1030,14 @@ Endeavor to provide additional documentation for the following
 
 \cite[Chapter 2, pp. 16]{Hall2009b} suggests the following *Python* docstring to
 	provide built-in documentation for the *Python* software:
++ Usage: [*How to execute/run this program?*] \cite[Chapter 9, pp. 201]{Hall2009b}
++ Options: [*Options that are supported by this program.*]
 + Problem/Purpose: [*What does the **Python** software do?*]
 + Target Users: [*People who want to perform data analytics or other operations
 	on their **BibTeX** databases.*]
-+ Target Systems: [*UNIX-like operating systems.*]
-+ Interface: [*Command-line.*]
-+ Functional Requirements:
++ Target Systems: [*UNIX-like operating systems.*] \cite[Chapter 9, pp. 201]{Hall2009b}
++ Interface: [*Command-line.*] \cite[Chapter 9, pp. 201]{Hall2009b}
++ Functional Requirements: \cite[Chapter 9, pp. 202]{Hall2009b}
 	- [*Input **BibTeX** file.*]
 	- [*Perform data processing on the **BibTeX** file.*]
 	- [*Perform statistical analysis, or data analytics operations, on the **BibTeX**
@@ -1043,13 +1045,13 @@ Endeavor to provide additional documentation for the following
 	- [*Validate the integrity of the **BibTeX** file.*]
 + Maintainer(s): [*Zhiyang Ong*]
 + Expected Results: [*Perform tasks to address the problem statement.*]
-+ Testing methods/modules: [*List of methods and modules used to test software.*]
++ Testing methods/modules: [*List of methods and modules used to test software.*] \cite[Chapter 9, pp. 202]{Hall2009b}
 + Test values: [*Values used to test software.*]
-+ Limitations: [*Limitations of the software.*]
-+ \_\_version\_\_ = 0.1
-+ \_\status\_\_ = "Prototype"
-+ \_\_date\_\_ = "March 19, 2018"
-+ \_\maintainer\_\_ = "Zhiyang Ong"
++ Limitations: [*Limitations of the software.*] \cite[Chapter 9, pp. 202]{Hall2009b}
++ \_\_version\_\_ = 0.1 \cite[Chapter 9, pp. 202]{Hall2009b}
++ \_\status\_\_ = "Prototype" \cite[Chapter 9, pp. 202]{Hall2009b}
++ \_\_date\_\_ = "March 19, 2018" \cite[Chapter 9, pp. 202]{Hall2009b}
++ \_\maintainer\_\_ = "Zhiyang Ong" \cite[Chapter 9, pp. 202]{Hall2009b}
 + \_\credits\_\_ = "Thanks to everyone."
 
 
