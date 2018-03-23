@@ -1201,9 +1201,15 @@ In *Python* 3.x:
 
 ##	Exception Handling
 
+
+An exception stops the execution of the *Python* software/program due to
+	an encountered error \cite[Chapter 10, pp. 221]{Hall2009b}.
+
+Use **try...except** statements to handle exceptions
+	\cite[Chapter 10, pp. 221]{Hall2009b}. 
+
 \cite[Chapter 2, pp. 23-28,29-30]{Alchin2010} shows how to catch multiple
 	errors that have been raised.
-
 
 
 
