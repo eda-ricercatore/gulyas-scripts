@@ -133,7 +133,8 @@ Tasks that I want to do, but can't yet (or have yet to try):
 
 Note: "A module is a file containing *Python* definitions and statements."
 	\cite[\S6 Modules]{Brandl2017a} \cite[\S6 Modules]{Brandl2017}
-	\cite[Importing Modules: Module? What's a Module?]{Thurlow2012}.
+	\cite[Importing Modules: Module? What's a Module?]{Thurlow2012}
+	\cite[Chapter 11, pp. 241]{Hall2009b}.
 	**This is different from how I define modules in *C++* and *Java*.**
 
 
@@ -168,9 +169,9 @@ With regards to importing *Python* modules, circular dependencies is
 	Or rather, **if *Python* module *A* imports *Python* module *B*, *Python*
 		module *B* should not import *Python* module *A*.**
 
-A *Python* package is a collection of *Python* modules, and is effectively a
-	subdirectory of *Python* modules that includes a file named *\_\_init\_\_.py*;
-	the file *\_\_init\_\_.py* can be an empty file.
+A *Python* package is a collection of *Python* modules \cite[Chapter 11, pp. 241]{Hall2009b},
+	and is effectively a subdirectory of *Python* modules that includes a file
+	named *\_\_init\_\_.py*; the file *\_\_init\_\_.py* can be an empty file.
 
 To import a module *B* from a package *A*, try: *import A.B*.  
 
@@ -199,7 +200,9 @@ Explicit module imports, by specifying the module (and package) names are
 Relative imports are supported by providing relative paths to modules that are
 	being imported \cite[Chapter 2, pp. 48-49]{Alchin2010}.
 
-
+*Python* modules allow *Python* software to be modularized, which improves
+		support for code reuse
+	\cite[Chapter 11, pp. 241]{Hall2009b}.
 
 
 
