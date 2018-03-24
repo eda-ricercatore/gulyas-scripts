@@ -167,7 +167,8 @@ With regards to importing *Python* modules, circular dependencies is
 	That is, don't import a *Python* module *A*, which imports another
 		*Python* module *B* that imports *Python* module *A*.
 	Or rather, **if *Python* module *A* imports *Python* module *B*, *Python*
-		module *B* should not import *Python* module *A*.**
+		module *B* should not import *Python* module *A* **
+		"\cite[Chapter 11, pp. 241]{Hall2009b}"
 
 A *Python* package is a collection of *Python* modules \cite[Chapter 11, pp. 241]{Hall2009b},
 	and is effectively a subdirectory of *Python* modules that includes a file
@@ -189,6 +190,13 @@ Use the error *ImportError* to catch errors associated with importing modules
 		to assign the module to *None* (i.e., *[module name] = None*)
 	\cite[Chapter 2, pp. 45-46]{Alchin2010}.
 
+Use the internal method **\_\_import\_\_** to conditionally import modules
+	\cite[Chapter 11, pp. 245]{Hall2009b}.
+
+A module can be imported under another name
+	\cite[Chapter 11, pp. 245]{Hall2009b}.
+
+
 In the transition period from upgrading old locations/names to new
 	locations/names, use the special module **\_\_module\_\_** to make the
 	import of non-critical modules conditional \cite[Chapter 2, pp. 46-47]{Alchin2010}.
@@ -201,8 +209,7 @@ Relative imports are supported by providing relative paths to modules that are
 	being imported \cite[Chapter 2, pp. 48-49]{Alchin2010}.
 
 *Python* modules allow *Python* software to be modularized, which improves
-		support for code reuse
-	\cite[Chapter 11, pp. 241]{Hall2009b}.
+		support for code reuse \cite[Chapter 11, pp. 241]{Hall2009b}.
 
 
 
