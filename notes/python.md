@@ -371,7 +371,7 @@ Notes on *Python* Classes:
 			without being embedded in any *Python* class
 			\cite[Chapter 4, pp. 134]{Alchin2010};
 		a static method shall be defined within a *Python* class with the
-			**staticmethod** decorator \cite[Chapter 4, pp. 134]{Alchin2010}.
+			**static method** decorator \cite[Chapter 4, pp. 134]{Alchin2010}.
 + There exists various ways to instantiate/create, modify, or invalidate *Python*
 	instance objects \cite[Chapter 4, pp. 135]{Alchin2010}.
 	- Creating *Python* instance objects via instantiation of a *Python* class
