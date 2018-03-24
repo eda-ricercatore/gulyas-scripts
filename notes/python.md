@@ -1197,8 +1197,6 @@ In *Python* 3.x:
 
 
 
-
-
 ##	Exception Handling
 
 
@@ -1208,11 +1206,33 @@ An exception stops the execution of the *Python* software/program due to
 Use **try...except...else...finally** statements to handle exceptions
 	\cite[Chapter 10, pp. 221]{Hall2009b}. 
 
-Exception chaining
-\cite[Chapter 10, pp. 235-236]{Hall2009b}. 
+Exception chaining is a method of tracebacks that enable exceptions raised
+	during exception handling to be differentiated from the original
+	raised/thrown exception \cite[Chapter 10, pp. 235-236]{Hall2009b}. 
+
+
+
+
 
 \cite[Chapter 2, pp. 23-28,29-30]{Alchin2010} shows how to catch multiple
 	errors that have been raised.
+
+
+###	Ancillary Note
+
+The philosophy of "look before you leap" (LBYL) discourages exception handling
+	\cite[Chapter 10, pp. 238]{Hall2009b}.
+
+The Pythonic philosophy of "easier to ask forgiveness than permission" (EAFP)
+	encourages trying something, and use exception handling to deal with
+	uncommon outcomes/circumstances \cite[Chapter 10, pp. 238]{Hall2009b}.
+
+
+
+
+
+
+
 
 
 
