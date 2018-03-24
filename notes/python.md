@@ -196,6 +196,14 @@ Use the internal method **\_\_import\_\_** to conditionally import modules
 A module can be imported under another name
 	\cite[Chapter 11, pp. 245]{Hall2009b}.
 
+Import statements should be placed at the top of each *Python* file
+	\cite[Chapter 11, pp. 246]{Hall2009b}.
+
+A **weakly internal** variable is a variable with a leading underscore,
+	**_[variable name]**, that is explicitly imported
+	\cite[Chapter 11, pp. 246]{Hall2009b}. 
+
+
 
 In the transition period from upgrading old locations/names to new
 	locations/names, use the special module **\_\_module\_\_** to make the
