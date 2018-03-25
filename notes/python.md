@@ -1051,8 +1051,8 @@ Note that \cite{Franca2014} mentions that modern *C++1X*, such as *C++11*,
 	that is, modern *C++1X* has become *Python*ic.   
 
 
-Use documentation generators to produce documentation for the (software
-	(library) \cite{WikipediaContributors2018b})[https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#python-documentation],
+Use documentation generators to produce documentation for the [software
+	(library) \cite{WikipediaContributors2018b}](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#python-documentation),
 	from the comments in the code.
 
 
