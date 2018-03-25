@@ -205,6 +205,31 @@ A **weakly internal** variable is a variable with a leading underscore,
 
 
 
+While literate programming
+	\cite{Knuth1984,Knuth1992a,McConnell2004,Subramaniam2006,Schach2007,Oram2007,MullerHannemann2010}
+	is recommended, self-documenting code would suffice
+	\cite[Chapter 11, pp. 246-247]{Hall2009b}. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 In the transition period from upgrading old locations/names to new
 	locations/names, use the special module **\_\_module\_\_** to make the
 	import of non-critical modules conditional \cite[Chapter 2, pp. 46-47]{Alchin2010}.
