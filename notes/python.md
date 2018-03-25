@@ -1101,13 +1101,14 @@ Endeavor to provide additional documentation for the following
 Produce documentation using documentation generators, such as:
 + *Javadoc*
 + *Doxygen*
-+ *Sphinx*
++ *Sphinx* \cite{WikipediaContributors2018b}
 + *pydoc*
 
 The command **help(*[Python module]*)** enables a user to read documentation
 	about the *[Python module]* that is automatically produced by documentation
 	generators, such as *pydoc* \cite[Chapter 11, pp. 248]{Hall2009b}.
-	
+	This documentation is extracted from the comments in the *[Python module]*
+		\cite[Chapter 11, pp. 248]{Hall2009b}. 
 
 
 
