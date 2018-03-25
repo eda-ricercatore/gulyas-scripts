@@ -1101,10 +1101,13 @@ Endeavor to provide additional documentation for the following
 Produce documentation using documentation generators, such as:
 + *Javadoc*
 + *Doxygen*
-+ *Sphinx* 
++ *Sphinx*
++ *pydoc*
 
-
-
+The command **help(*[Python module]*)** enables a user to read documentation
+	about the *[Python module]* that is automatically produced by documentation
+	generators, such as *pydoc* \cite[Chapter 11, pp. 248]{Hall2009b}.
+	
 
 
 
@@ -1319,7 +1322,11 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 
 	Available online from {\it Wikipedia, The Free Encyclopedia: Type theory} at: \url{https://en.wikipedia.org/wiki/Duck_typing}; March 19, 2018 was the last accessed date.
 
++ [WikipediaContributors2018b]
 
+	Wikipedia contributors, "Comparison of documentation generators," Wikimedia Foundation, San Francisco, CA, February 24, 2018.
+
+	Available online from {\it Wikipedia, The Free Encyclopedia: Software comparisons} at: \url{https://en.wikipedia.org/wiki/Comparison_of_documentation_generators}; March 25, 2018 was the last accessed date.
 
 
 
