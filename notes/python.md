@@ -223,9 +223,13 @@ When a *Python* script imports a module, it \cite[Chapter 11, pp. 250]{Hall2009b
 + Locates the *Python* script/file containing the module.
 	- **PYTHONPATH** is a set of relative or absolute paths of *Python* modules,
 		and *The Python Standard Library*, which helps the *Python*
-		interpreter/compiler and the operating system locate *Python* modules.
+		interpreter/compiler and the operating system locate *Python* modules
+		\cite[Chapter 11, pp. 251]{Hall2009b}.
 + Loads the *Python* module into memory, and creates an internal representation
 	for the *Python* module
+	- *Python* compiles the *Python* modules into *Python* byte code, which
+		are saved in *.pyc* files (the "c" in ".pyc" refers to compiled)
+		\cite[Chapter 11, pp. 251]{Hall2009b}.
 + Executes the aforementioned internal representation.
 
 
