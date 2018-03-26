@@ -172,7 +172,10 @@ With regards to importing *Python* modules, circular dependencies is
 
 A *Python* package is a collection of *Python* modules \cite[Chapter 11, pp. 241]{Hall2009b},
 	and is effectively a subdirectory of *Python* modules that includes a file
-	named *\_\_init\_\_.py*; the file *\_\_init\_\_.py* can be an empty file.
+	named *\_\_init\_\_.py* \cite[Chapter 11, pp. 252]{Hall2009b};
+	the file *\_\_init\_\_.py* can be an empty file \cite[Chapter 11, pp. 252]{Hall2009b}.
+	That is, a *Python* package is a "hierarchical directory structure" of
+		*Python* files \cite[Chapter 11, pp. 252]{Hall2009b}.
 
 To import a module *B* from a package *A*, try: *import A.B*.  
 
