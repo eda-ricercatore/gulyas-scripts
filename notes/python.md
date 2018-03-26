@@ -210,7 +210,13 @@ While literate programming
 	is recommended, self-documenting code would suffice
 	\cite[Chapter 11, pp. 246-247]{Hall2009b}. 
 
-
+If the functionality of an imported module is changed/modified and updated, use
+	the *imp* module from *The Python Standard Library*
+	\cite{DrakeJr2016e,DrakeJr2016b} to clear "*Python*'s internal cache of
+	[certain] imported modules" \cite[Chapter 11, pp. 249-250]{Hall2009b} and
+	reload the cache with the update modules;
+	this is useful when modules have to be created again or recompiled during
+		program execution \cite[Chapter 11, pp. 249-250]{Hall2009b}.
 
 
 
