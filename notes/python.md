@@ -219,9 +219,14 @@ If the functionality of an imported module is changed/modified and updated, use
 		program execution \cite[Chapter 11, pp. 249-250]{Hall2009b}.
 
 
-
-
-
+When a *Python* script imports a module, it \cite[Chapter 11, pp. 250]{Hall2009b}:
++ Locates the *Python* script/file containing the module.
+	- **PYTHONPATH** is a set of relative or absolute paths of *Python* modules,
+		and *The Python Standard Library*, which helps the *Python*
+		interpreter/compiler and the operating system locate *Python* modules.
++ Loads the *Python* module into memory, and creates an internal representation
+	for the *Python* module
++ Executes the aforementioned internal representation.
 
 
 
