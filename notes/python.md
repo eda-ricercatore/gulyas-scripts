@@ -1045,7 +1045,7 @@ Notes on *Python* functions:
 + To rebind a global variable (e.g., "*x*") in a function, which assigns a new value
 	to the global variable, explicitly state that the global variable is global
 	\cite[Chapter 6, pp. 127]{Hetland2005}.
-	E.g., including this statement ***global x*** in a function enables all instances
+	- E.g., including this statement ***global x*** in a function enables all instances
 		of "*x*" to become a global variable after this explicit declaration.
 
 
