@@ -145,6 +145,11 @@ Pages in \cite[Beginning *Python*]{Hetland2005} that deal with importing
 + Summaries: pp. 547--574
 
 
+\cite[]{Hetland2005}
+
++ \cite{Hetland2005}
+	- Chapters 6-9???/10??
+	- Chapters 17-19
 
 
 Pages in \cite[Expert *Python* Programming]{Ziade2008} that deal with
@@ -799,14 +804,8 @@ Object management:
 
 
 
-+ \cite{Hall2009b}
-	- Chapter 9,10
-	- Or, Chapter 9,10,11, 8 (pp. 165).
-	- For *Python 3,* not *Python 2*.
 
-+ \cite{Hetland2005}
-	- Chapters 6-9???/10??
-	- Chapters 17-19
+
 
 
 
@@ -838,11 +837,11 @@ Chapter 4, 7.
 Chapter 4,16-21, 22-25, 26-29, 31-32, 33-36, 39-41.
 \cite[Chapter 15]{Lutz2013}.
 
+\cite{Lutz2010}
 
-
-
-
-
+\cite{Pilgrim2009}
+\cite{Sweigart2015}
+\cite{Ucoluk2012}
 
 
 
@@ -1536,7 +1535,7 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 ##	Books Covered
 
 + \cite{Alchin2010}
-
++ \cite{Hall2009b}
 
 
 
