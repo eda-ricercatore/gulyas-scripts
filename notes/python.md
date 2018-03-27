@@ -1038,7 +1038,10 @@ Notes on *Python* functions:
 	- name of function
 	- set of input arguments
 	- optional docstring 
-
++ A global variable (e.g., "*x*") would be shadowed by a local variable (e.g., "*x*")
+	of the same name \cite[Chapter 6, pp. 127]{Hetland2005}. 
+	- To access the aforementioned global variable (e.g., "*x*"), try:
+		*globals()['x']*
 
 
 
