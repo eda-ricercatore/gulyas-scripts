@@ -205,12 +205,14 @@ Import statements should be placed at the top of each *Python* file
 Importing *Python* submodules \cite[Chapter 11, pp. 253]{Hall2009b}:
 + Explicitly with an empty **\_\_init\_\_.py** file
 	\cite[Chapter 11, pp. 253]{Hall2009b}.
-	- **from pirate import \***
+	- **from pirate import \*** does not allow all submodules of **pirate** to be
+		imported.
 + Implicitly 
-	- Can import via **from pirate import \*** and using "\_all\_" as the variable
-		list, so that list variables can  be matched.
+	-  Using **\_all\_** as the list variable, which is comparable to using an
+		import statement with the wildcard **\***.
+		* Enables the use of import statements such as
+			**from [*pirate import*] \***
 	- Execute import statements in the **\_\_init\_\_.py** file.
-
 
 
 
