@@ -145,7 +145,10 @@ Pages in \cite[Beginning *Python*]{Hetland2005} that deal with importing
 + Summaries: pp. 547--574
 
 
-\cite[]{Hetland2005}
+
+
+
+
 
 + \cite{Hetland2005}
 	- Chapters 6-9???/10??
@@ -734,7 +737,8 @@ Object management:
 		each property would have its own private namespace;
 		this results in memory leaks
 		\cite[Chapter 6, pp. 176]{Alchin2010}.   
-+ *Python* has automatic garbage collection \cite[Chapter 6, pp. 176]{Alchin2010}.
++ *Python* has automatic garbage collection \cite[Chapter 6, pp. 176]{Alchin2010}
+	\cite[Chapter 5, pp. 103]{Hetland2005}.
 	- Effective garbage collection depends on
 		\cite[Chapter 6, pp. 176]{Alchin2010}:
 		* ability to reliably identify/recognize an object as garbage that will
