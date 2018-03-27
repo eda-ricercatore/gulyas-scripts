@@ -80,7 +80,8 @@ Backward compatibility support for *Python 2.y* in *Python 3.x*:
 
 Use either keyword arguments or positional arguments in my
 	implementation of *Python* methods to process input parameters
-	\cite[Chapter 3, pp. 53]{Alchin2010}.
+	\cite[Chapter 3, pp. 53]{Alchin2010};
+	don't use both (keyword and positional arguments) of these types.
 
 
 
@@ -817,11 +818,11 @@ Object management:
 Chapter 3, 7, 9.
 \cite[Appendices A and B]{Langtangen2009}.
 
+
+
+
 \cite{Langtangen2009a}
 Chapter 7,9, Appendix D,E.
-
-
-
 
 \cite{Langtangen2012}
 Chapter 4, 6, 7, 9.
@@ -844,7 +845,6 @@ Chapter 4,16-21, 22-25, 26-29, 31-32, 33-36, 39-41.
 \cite{Lutz2010}
 
 \cite{Pilgrim2009}
-\cite{Sweigart2015}
 \cite{Ucoluk2012}
 
 
