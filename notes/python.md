@@ -207,7 +207,9 @@ Importing *Python* submodules \cite[Chapter 11, pp. 253]{Hall2009b}:
 	\cite[Chapter 11, pp. 253]{Hall2009b}.
 	- **from pirate import \***
 + Implicitly 
-
+	- Can import via **from pirate import \*** and using "\_all\_" as the variable
+		list, so that list variables can  be matched.
+	- Execute import statements in the **\_\_init\_\_.py** file.
 
 
 
