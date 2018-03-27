@@ -202,7 +202,7 @@ A module can be imported under another name
 Import statements should be placed at the top of each *Python* file
 	\cite[Chapter 11, pp. 246]{Hall2009b}.
 
-Importing *Python* submodules \cite[Chapter 11, pp. 253]{Hall2009b}:
+Importing *Python* submodules \cite[Chapter 11, pp. 253-254]{Hall2009b}:
 + Explicitly with an empty **\_\_init\_\_.py** file
 	\cite[Chapter 11, pp. 253]{Hall2009b}.
 	- **from pirate import \*** does not allow all submodules of **pirate** to be
@@ -213,6 +213,10 @@ Importing *Python* submodules \cite[Chapter 11, pp. 253]{Hall2009b}:
 		* Enables the use of import statements such as
 			**from [*pirate import*] \***
 	- Execute import statements in the **\_\_init\_\_.py** file.
+		* To reload any module imported in the **\_\_init\_\_.py** file, explicitly
+			reload those modules.
+		* The **\_\_init\_\_.py** file can contain *Python* code just like any
+			*Python* script.
 
 
 
