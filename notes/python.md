@@ -172,8 +172,8 @@ With regards to importing *Python* modules, circular dependencies is
 
 A *Python* package is a collection of *Python* modules \cite[Chapter 11, pp. 241]{Hall2009b},
 	and is effectively a subdirectory of *Python* modules that includes a file
-	named *\_\_init\_\_.py* \cite[Chapter 11, pp. 252]{Hall2009b};
-	the file *\_\_init\_\_.py* can be an empty file \cite[Chapter 11, pp. 252]{Hall2009b}.
+	named **\_\_init\_\_.py** \cite[Chapter 11, pp. 252]{Hall2009b};
+	the file **\_\_init\_\_.py** can be an empty file \cite[Chapter 11, pp. 252]{Hall2009b}.
 	That is, a *Python* package is a "hierarchical directory structure" of
 		*Python* files \cite[Chapter 11, pp. 252]{Hall2009b}.
 
@@ -201,6 +201,27 @@ A module can be imported under another name
 
 Import statements should be placed at the top of each *Python* file
 	\cite[Chapter 11, pp. 246]{Hall2009b}.
+
+Importing *Python* submodules \cite[Chapter 11, pp. 253]{Hall2009b}:
++ Explicitly with an empty **\_\_init\_\_.py** file.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 A **weakly internal** variable is a variable with a leading underscore,
 	**_[variable name]**, that is explicitly imported
