@@ -203,8 +203,10 @@ Import statements should be placed at the top of each *Python* file
 	\cite[Chapter 11, pp. 246]{Hall2009b}.
 
 Importing *Python* submodules \cite[Chapter 11, pp. 253]{Hall2009b}:
-+ Explicitly with an empty **\_\_init\_\_.py** file.
-
++ Explicitly with an empty **\_\_init\_\_.py** file
+	\cite[Chapter 11, pp. 253]{Hall2009b}.
+	- **from pirate import ***
++ Implicitly 
 
 
 
