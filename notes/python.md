@@ -24,7 +24,8 @@
 	- [Object-Oriented *Python* Programming](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#object-oriented-python-programming)
 	- [Domain Applications of *Python* Programming](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#domain-applications-of-python-programming)
 	- [Mixed-Language Software Development](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#mixed-language-software-development)
-+ [Books Covered](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#random)
+	- [Books Covered](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#random)
++ [Random](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#random)
 + [Author Information](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#author-information)
 
 
