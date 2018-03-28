@@ -17,6 +17,7 @@
 	- [Software Testing](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#software-testing)
 + [*Python* Strings](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#python-strings)
 + [Exception Handling](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#exception-handling)
+	- [Ancillary Note](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#ancillary-note)
 + [*Python* Virtual Machine (PVM)](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#python-virtual-machine-pvm)
 + [Miscellaneous](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#miscellaneous)
 + [References](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#references)
