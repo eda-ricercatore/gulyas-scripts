@@ -15,8 +15,10 @@
 	- [Modules in *The Python Standard Library*](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#modules-in-the-python-standard-library)
 		* [Built-in Collections](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#built-in-collections)
 	- [Software Testing](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#software-testing)
+	- [*Python* Strings](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#python-strings)
 + [Exception Handling](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#exception-handling)
 + [*Python* Virtual Machine (PVM)](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#python-virtual-machine-pvm)
++ [Miscellaneous]()
 + [References](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#references)
 	- [Object-Oriented *Python* Programming](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#object-oriented-python-programming)
 	- [Domain Applications of *Python* Programming](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#domain-applications-of-python-programming)
@@ -1051,6 +1053,20 @@ Notes on *Python* functions:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  
 
 
@@ -1358,6 +1374,21 @@ Notes about the *Python* Virtual Machine (PVM):
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##	Miscellaneous
 
 
 
