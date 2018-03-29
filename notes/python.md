@@ -1058,14 +1058,32 @@ Notes on *Python* functions:
 		within the inner function (i.e., local scope of the inner function).
 	- That is, the following are equivalent:
 		* outer_function(*param_1*)(*param_2*)
-		* The following pair of statements
+		* The following pair of statements:
 			+ temp_function = outer_function(*param_1*)
 			+ temp_function(*param_2*) 
-
-
-
-
-
++ *Python* supports "functional programming" via the
+	following functions \cite[Chapter 6, pp. 133]{Hetland2005}:  
+	- map \cite[Chapter 6, pp. 133-134]{Hetland2005}:
+		* Maps a sequence to another sequence of equivalent length, via the
+			application of a function to each element in the original sequence.
+		* E.g., map(*[lambda expression]*, original_sequence).
+		* E.g., map(*[a function that accepts a sequence as its input parameter]*, original_sequence).
+	- filter \cite[Chapter 6, pp. 133-135]{Hetland2005}:
+		* 
+	- reduce
+	- apply
+	- lambda expressions \cite[Chapter 6, pp. 134]{Hetland2005}:
+		* small, unnamed functions that contains an expression, which value is
+			returned.
+		* Note that the term **lambda** is a reserved word (or keyword) in
+			*Python*.
+		* lambda [parameters, delimited by a comma] : [an expression]
+		* Also, note that full-fledged functions with names facilitate
+			self-documention;
+			lambda expressions can make the code difficult to read and
+				understand.
+	- Note on map, filter, and list comprehension
+		\cite[Chapter 6, pp. 134 and ???]{Hetland2005}
 
 
 
