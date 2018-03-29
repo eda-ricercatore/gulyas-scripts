@@ -1094,7 +1094,11 @@ Notes on *Python* functions:
 				understand.
 	- Note on map, filter, and list comprehension
 		\cite[Chapter 6, pp. 134-135]{Hetland2005}:
-		* A list comprehension can implement any filter or map.
+		* A list comprehension can implement any filter or map
+			\cite[Chapter 6, pp. 135]{Hetland2005}.
+		* Using list comprehensions, instead of maps or filters, can improve
+			the comprehensibility of the source code
+			\cite[Chapter 6, pp. 135]{Hetland2005}.
 
 
 
