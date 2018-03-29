@@ -1047,10 +1047,17 @@ Notes on *Python* functions:
 	- name of function
 	- set of input arguments
 	- optional docstring
-
-
-
-
++ From *Python* 2.2 onwards, scopes in *Python* programs can be nested
+	  \cite[Chapter 6, pp. 128]{Hetland2005}.
+	- That is, we can nest a function definition within another function definition.
+	- Alternatively, a function can be embedded within another function.  
+	- When the outer function gets called, the inner function is redefined, and
+		the outer function "returns the inner function" by returning the return
+			value of the inner function.
+	- The outer local scope (i.e., local scope of the outer function) is accessible
+		within the inner function (i.e., local scope of the inner function).
+	- That is, the following are equivalent:
+		* outer\_function_()
 
 
 
