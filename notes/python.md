@@ -1080,24 +1080,36 @@ Notes on *Python* functions:
 				boolean value.
 		* E.g., **map(** *[lambda expression]*, input_sequence **)**.
 		* E.g., **map(** *[input function]*, input_sequence **)**.
-	- **reduce**
+	- **reduce** \cite[Chapter 6, pp. 135-137]{Hetland2005}:
+		* The **reduce** function performs an explicitly specified input function
+			with the first two elements in the input sequence, and the outcome
+			and the next available element, till the input sequence has been
+			processed/enumerated \cite[Chapter 6, pp. 135]{Hetland2005}.
+		* E.g., **reduce(** *[lambda expression]*, input_sequence **)**.
+		* A **for** loop can implement any **reduce** function
+			\cite[Chapter 6, pp. 135-137]{Hetland2005}.
+		* Using a **for** loop instead of the **reduce** function can improve
+			the comprehensibility of the source code.
 	- **apply**
 	- lambda expressions \cite[Chapter 6, pp. 134]{Hetland2005}:
 		* small, unnamed functions that contains an expression, which value is
 			returned.
 		* Note that the term **lambda** is a reserved word (or keyword) in
 			*Python*.
-		* lambda [parameters, delimited by a comma] : [an expression]
+		* **lambda** [parameters, delimited by a comma] : [an expression]
 		* Also, note that full-fledged functions with names facilitate
 			self-documention;
 			lambda expressions can make the code difficult to read and
 				understand.
-	- Note on map, filter, and list comprehension
+	- Note on **map**, **filter**, and list comprehension
 		\cite[Chapter 6, pp. 134-135]{Hetland2005}:
-		* A list comprehension can implement any filter or map
+		* A list comprehension can implement any **filter** or **map**
 			\cite[Chapter 6, pp. 135]{Hetland2005}.
-		* Using list comprehensions, instead of maps or filters, can improve
-			the comprehensibility of the source code
+		* Using list comprehensions, instead of **map**s or **filter**s, can
+			improve the comprehensibility of the source code
+			\cite[Chapter 6, pp. 135]{Hetland2005}.
+		* Note that using **map**s or **filter**s, instead of list comprehensions,
+			would result in faster execution (i.e., better performance)
 			\cite[Chapter 6, pp. 135]{Hetland2005}.
 
 
