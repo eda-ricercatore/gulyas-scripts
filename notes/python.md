@@ -1057,7 +1057,10 @@ Notes on *Python* functions:
 	- The outer local scope (i.e., local scope of the outer function) is accessible
 		within the inner function (i.e., local scope of the inner function).
 	- That is, the following are equivalent:
-		* outer\_function_()
+		* outer_function(*param_1*)(*param_2*)
+		* The following pair of statements
+			+ temp_function = outer_function(*param_1*)
+			+ temp_function(*param_2*) 
 
 
 
