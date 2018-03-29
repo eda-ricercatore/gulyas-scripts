@@ -1098,6 +1098,11 @@ Notes on *Python* functions:
 		* E.g., **apply(** *[input function]*, *[tuple of positional arguments]* **)**.
 		* E.g., **apply(** *[input function]*, *[dictionary of keyword arguments]* **)**.
 		* E.g., *[input function]*(\**[dictionary of keyword arguments]*).
+		* E.g., *[input function]*(\**[tuple of positional arguments]*).
+		* Note that \**[dictionary of keyword arguments]* unpacks the dictionary
+			of keyword ararguments.
+		* Note that \**[tuple of positional arguments]* unpacks the tuple of
+			positional ararguments.
 	- lambda expressions \cite[Chapter 6, pp. 134]{Hetland2005}:
 		* small, unnamed functions that contains an expression, which value is
 			returned.
