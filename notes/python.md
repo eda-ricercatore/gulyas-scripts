@@ -1066,7 +1066,7 @@ Notes on *Python* functions:
 	- **map** \cite[Chapter 6, pp. 133-134]{Hetland2005}:
 		* Maps a sequence to another sequence of equivalent length, via the
 			application of a function to each element in the original sequence.
-		* E.g., **map(***[lambda expression]*, original_sequence**)**.
+		* E.g., **map(***[lambda expression]*, original_sequence **)**.
 		* E.g., **map(***[a function that accepts a sequence as its input parameter]*, original_sequence**)**.
 	- **filter** \cite[Chapter 6, pp. 133-135]{Hetland2005}:
 		* The **filter** function
