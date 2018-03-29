@@ -1086,6 +1086,7 @@ Notes on *Python* functions:
 			and the next available element, till the input sequence has been
 			processed/enumerated \cite[Chapter 6, pp. 135]{Hetland2005}.
 		* E.g., **reduce(** *[lambda expression]*, input_sequence **)**.
+		* E.g., **reduce(** *[an input function]*, input_sequence **)**.
 		* A **for** loop can implement any **reduce** function
 			\cite[Chapter 6, pp. 135-137]{Hetland2005}.
 		* Using a **for** loop instead of the **reduce** function can improve
