@@ -1091,7 +1091,13 @@ Notes on *Python* functions:
 			\cite[Chapter 6, pp. 135-137]{Hetland2005}.
 		* Using a **for** loop instead of the **reduce** function can improve
 			the comprehensibility of the source code.
-	- **apply**
+	- **apply** \cite[Chapter 6, pp. 137]{Hetland2005}:
+		* The **apply** function calls the explicitly specified input function,
+			which is provided as an input argument.
+		* E.g., **apply(** *[input function]* **)**.
+		* E.g., **apply(** *[input function]*, *[tuple of positional arguments]* **)**.
+		* E.g., **apply(** *[input function]*, *[dictionary of keyword arguments]* **)**.
+		* E.g., *[input function]*(\**[dictionary of keyword arguments]*).
 	- lambda expressions \cite[Chapter 6, pp. 134]{Hetland2005}:
 		* small, unnamed functions that contains an expression, which value is
 			returned.
