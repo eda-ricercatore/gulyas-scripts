@@ -1065,11 +1065,18 @@ Notes on *Python* functions:
 	following functions \cite[Chapter 6, pp. 133]{Hetland2005}:  
 	- **map** \cite[Chapter 6, pp. 133-134]{Hetland2005}:
 		* Maps a sequence to another sequence of equivalent length, via the
-			application of a function to each element in the original sequence.
-		* E.g., **map(***[lambda expression]*, original_sequence **)**.
-		* E.g., **map(***[a function that accepts a sequence as its input parameter]*, original_sequence **)**.
+			application of a function to each element in the input sequence.
+		* E.g., **map(***[lambda expression]*, input_sequence **)**.
+		* E.g., **map(***[a function that accepts a sequence as its input parameter]*, input_sequence **)**.
 	- **filter** \cite[Chapter 6, pp. 133-135]{Hetland2005}:
-		* The **filter** function
+		* The **filter** function returns a subset of the input sequence by
+			applying a function, which has a boolean return value, on each
+			element in the input sequence.
+		* The input parameters for the **filter** function are:
+			an explicitly specified input function for the input sequence,
+			and an input sequence;
+			note that the explicitly specified input function would be applied to
+				each element in the input sequence.
 	- **reduce**
 	- **apply**
 	- lambda expressions \cite[Chapter 6, pp. 134]{Hetland2005}:
