@@ -1063,15 +1063,15 @@ Notes on *Python* functions:
 			+ temp_function(*param_2*) 
 + *Python* supports "functional programming" via the
 	following functions \cite[Chapter 6, pp. 133]{Hetland2005}:  
-	- map \cite[Chapter 6, pp. 133-134]{Hetland2005}:
+	- **map** \cite[Chapter 6, pp. 133-134]{Hetland2005}:
 		* Maps a sequence to another sequence of equivalent length, via the
 			application of a function to each element in the original sequence.
-		* E.g., map(*[lambda expression]*, original_sequence).
-		* E.g., map(*[a function that accepts a sequence as its input parameter]*, original_sequence).
-	- filter \cite[Chapter 6, pp. 133-135]{Hetland2005}:
-		* 
-	- reduce
-	- apply
+		* E.g., **map(***[lambda expression]*, original_sequence**)**.
+		* E.g., **map(***[a function that accepts a sequence as its input parameter]*, original_sequence**)**.
+	- **filter** \cite[Chapter 6, pp. 133-135]{Hetland2005}:
+		* The **filter** function
+	- **reduce**
+	- **apply**
 	- lambda expressions \cite[Chapter 6, pp. 134]{Hetland2005}:
 		* small, unnamed functions that contains an expression, which value is
 			returned.
