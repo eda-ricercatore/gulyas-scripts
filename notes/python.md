@@ -1076,7 +1076,10 @@ Notes on *Python* functions:
 			an explicitly specified input function for the input sequence,
 			and an input sequence;
 			note that the explicitly specified input function would be applied to
-				each element in the input sequence.
+				each element in the input sequence, and must return a
+				boolean value.
+		* E.g., **map(** *[lambda expression]*, input_sequence **)**.
+		* E.g., **map(** *[input function]*, input_sequence **)**.
 	- **reduce**
 	- **apply**
 	- lambda expressions \cite[Chapter 6, pp. 134]{Hetland2005}:
