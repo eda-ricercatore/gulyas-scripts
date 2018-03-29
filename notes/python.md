@@ -1093,7 +1093,8 @@ Notes on *Python* functions:
 			lambda expressions can make the code difficult to read and
 				understand.
 	- Note on map, filter, and list comprehension
-		\cite[Chapter 6, pp. 134 and ???]{Hetland2005}
+		\cite[Chapter 6, pp. 134-135]{Hetland2005}:
+		* A list comprehension can implement any filter or map.
 
 
 
