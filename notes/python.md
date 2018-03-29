@@ -1046,16 +1046,7 @@ Notes on *Python* functions:
 	\cite[Chapter 3, pp. 78]{Alchin2010}:
 	- name of function
 	- set of input arguments
-	- optional docstring 
-+ A global variable (e.g., "*x*") would be shadowed by a local variable (e.g., "*x*")
-	of the same name \cite[Chapter 6, pp. 127]{Hetland2005}. 
-	- To access the aforementioned global variable (e.g., "*x*"), try:
-		*globals()['x']*
-+ To rebind a global variable (e.g., "*x*") in a function, which assigns a new value
-	to the global variable, explicitly state that the global variable is global
-	\cite[Chapter 6, pp. 127]{Hetland2005}.
-	- E.g., including this statement ***global x*** in a function enables all instances
-		of "*x*" to become a global variable after this explicit declaration.
+	- optional docstring
 
 
 
@@ -1397,12 +1388,40 @@ Notes about the *Python* Virtual Machine (PVM):
 
 ##	Miscellaneous
 
-The use of global variables reduces the comprehensibility and robustness of the
+
+
+
+
+Notes on global and local variables: 
++ A global variable (e.g., "*x*") would be shadowed by a local variable (e.g., "*x*")
+	of the same name \cite[Chapter 6, pp. 127]{Hetland2005}. 
+	- To access the aforementioned global variable (e.g., "*x*"), try:
+		*globals()['x']*
++ To rebind a global variable (e.g., "*x*") in a function, which assigns a new value
+	to the global variable, explicitly state that the global variable is global
+	\cite[Chapter 6, pp. 127]{Hetland2005}.
+	- E.g., including this statement ***global x*** in a function enables all instances
+		of "*x*" to become a global variable after this explicit declaration.
++ The use of global variables reduces the comprehensibility and robustness of the
 	software \cite[Chapter 6, pp. 128]{Hetland2005}.
-	Local variables support abstraction and encapsulation, which improves the
-		comprehensibility and robustness of the software
-		\cite[Chapter 6, pp. 128]{Hetland2005}.
-	Note the existence of non-local variables \cite{WikipediaContributors2017a2}. 
++ Local variables support abstraction and encapsulation, which improves the
+	comprehensibility and robustness of the software
+	\cite[Chapter 6, pp. 128]{Hetland2005}.
++ Note the existence of non-local variables \cite{WikipediaContributors2017a2}. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
