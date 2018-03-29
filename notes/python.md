@@ -156,6 +156,10 @@ Pages in \cite[Beginning *Python*]{Hetland2005} that deal with importing
 
 
 
+
+
+
+
 + \cite{Hetland2005}
 	- Chapters 6-9???/10??
 	- Chapters 17-19
@@ -1393,8 +1397,12 @@ Notes about the *Python* Virtual Machine (PVM):
 
 ##	Miscellaneous
 
-
-
+The use of global variables reduces the comprehensibility and robustness of the
+	software \cite[Chapter 6, pp. 128]{Hetland2005}.
+	Local variables support abstraction and encapsulation, which improves the
+		comprehensibility and robustness of the software
+		\cite[Chapter 6, pp. 128]{Hetland2005}.
+	Note the existence of non-local variables \cite{WikipediaContributors2017a2}. 
 
 
 
@@ -1414,15 +1422,27 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 
 + [WikipediaContributors2018a]
 
-	Wikipedia contributors, "Duck typing," Wikimedia Foundation, San Francisco, CA, January 10, 2018.
+	Wikipedia contributors, "Duck typing," in *Wikipedia, The Free Encyclopedia: Type theory*, Wikimedia Foundation, San Francisco, CA, January 10, 2018.
 
-	Available online from {\it Wikipedia, The Free Encyclopedia: Type theory} at: \url{https://en.wikipedia.org/wiki/Duck_typing}; March 19, 2018 was the last accessed date.
+	Available online from *Wikipedia, The Free Encyclopedia: Type theory* at: \url{https://en.wikipedia.org/wiki/Duck_typing}; March 19, 2018 was the last accessed date.
 
 + [WikipediaContributors2018b]
 
-	Wikipedia contributors, "Comparison of documentation generators," Wikimedia Foundation, San Francisco, CA, February 24, 2018.
+	Wikipedia contributors, "Comparison of documentation generators," in *Wikipedia, The Free Encyclopedia: Software comparisons*, Wikimedia Foundation, San Francisco, CA, February 24, 2018.
 
-	Available online from {\it Wikipedia, The Free Encyclopedia: Software comparisons} at: \url{https://en.wikipedia.org/wiki/Comparison_of_documentation_generators}; March 25, 2018 was the last accessed date.
+	Available online from *Wikipedia, The Free Encyclopedia: Software comparisons* at: \url{https://en.wikipedia.org/wiki/Comparison_of_documentation_generators}; March 25, 2018 was the last accessed date.
+
++ [WikipediaContributors2017a2]
+
+	Wikipedia contributors, ``Non-local variable,'' in *Wikipedia, The Free Encyclopedia: Programming language theory*, Wikimedia Foundation, San Francisco, CA, September 24, 2017.
+
+	Available online from *Wikipedia, The Free Encyclopedia: Programming language theory* at: \url{https://en.wikipedia.org/wiki/Non-local_variable}; last accessed on March 29, 2018.
+
+
+
+
+
+
 
 
 
