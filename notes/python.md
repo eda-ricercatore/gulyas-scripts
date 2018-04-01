@@ -1706,19 +1706,17 @@ Additional *Python* resources from my *BibTeX* database:
 	Fred L. Drake, Jr. and David Goodger and Fredrik Lundh, "The *Python* Standard Library," Python Software Foundation, Beaverton, OR, March 23, 2016.
 	Available online from *Python 3.5.1 documentation* at: https://docs.python.org/3/library/; April 1, 2016 was the last accessed date.
 
-+ @manual{DrakeJr2016a,
-	Address = {Beaverton, {OR}},
-	Author = {Fred L. {Drake, Jr.} and David Goodger and Fredrik Lundh},
-	Date-Added = {2014-03-30 00:11:00 +0200},
-	Date-Modified = {2014-03-30 00:11:00 +0200},
-	Howpublished = {Available online from {\it {Python} 3.5.1 documentation} at: \url{https://docs.python.org/3/reference/index.html}; April 1, 2016 was the last accessed date},
-	Keywords = {Python},
-	Month = {March 31},
-	Organization = {Python Software Foundation},
-	Title = {The {Python} Language Reference},
-	Url = {https://docs.python.org/3/reference/index.html},
-	Year = {2016},
-	Bdsk-Url-1 = {https://docs.python.org/3/reference/index.html}}
++ \cite{DrakeJr2016a}
+
+	Fred L. Drake, Jr. and David Goodger and Fredrik Lundh, "The *Python* Language Reference," Python Software Foundation, Beaverton, OR, March 31, 2016.
+	Available online from *Python 3.5.1 documentation* at: https://docs.python.org/3/reference/index.html; April 1, 2016 was the last accessed date.
+
+
+
+
+
+
+
 
 
 
