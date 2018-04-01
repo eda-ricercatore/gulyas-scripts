@@ -1548,6 +1548,8 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 	
 	Available online from {\it Programming Tutorial, Articles and Examples -- Programiz} at: \url{https://www.programiz.com/python-programming/}; last accessed on April 1, 2017.
 
+	**[Note in my *BibTeX* database.]**
+
 + [WikipediaContributors2018a]
 
 	Wikipedia contributors, "Duck typing," in *Wikipedia, The Free Encyclopedia: Type theory*, Wikimedia Foundation, San Francisco, CA, January 10, 2018.
