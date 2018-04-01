@@ -341,7 +341,8 @@ Notes on *Python* Classes:
 + "An instance of the class represents the data for the object"
 	\cite[Chapter 4, pp. 103]{Alchin2010} \cite[Chapter 9, pp. 183]{Hall2009b}.
 	- Encapsulation enables the treatment of an object as a black box
-		\cite[Chapter 9, pp. 183]{Hall2009b}.
+		\cite[Chapter 9, pp. 183]{Hall2009b} to hide its details "from
+		the outside world" \cite[Chapters 7, pp. 139]{Hetland2005}.
 	- **self** refers to the instance object that the instance methods are
 		operating with \cite[Chapter 9, pp. 183]{Hall2009b}.
 	- **dir(*[instance object]*)** shows a list of attributes and methods
@@ -366,6 +367,8 @@ Notes on *Python* Classes:
 + Inheritance allows a derived/child class to have a different fundamental
 	behavior from its base/parent class \cite[Chapter 4, pp. 103]{Alchin2010}
 	\cite[Chapter 9, pp. 181]{Hall2009b}.
+	- Inheritance allows specialized classes of objects to be created from
+		general classes of objects \cite[Chapters 7, pp. 139]{Hetland2005}.
 	- Duck typing enables developers to modify and manipulate objects, which
 		are related via class inheritance, while ensuring type safety
 		\cite{WikipediaContributors2018a}.
