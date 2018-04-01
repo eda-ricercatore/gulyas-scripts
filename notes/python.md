@@ -157,7 +157,7 @@ Pages in \cite{Hetland2005} that deal with importing
 	- Chapters 7-9???/10??
 	- Chapters 17-19
 Finished???
-
+\cite[Chapters 17, pp. ]{Hetland2005}
 
 
 
