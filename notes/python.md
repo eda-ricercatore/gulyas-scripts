@@ -324,8 +324,15 @@ Relative imports are supported by providing relative paths to modules that are
 
 
 Notes on *Python* Classes:
-+ Concepts in object-oriented programming for 
-	- \cite[Chapters 7, pp. 139]{Hetland2005} 
++ Concepts in object-oriented programming for
+	\cite[Chapters 7, pp. 139]{Hetland2005}  
+	- polymorphism
+	- encapsulation
+	- methods
+	- attributes
+	- superclasses
+	- inheritance
+	- constructors
 + A class is a particular type of object has a logical group of functions, and
 	"encapsulates the behavior of an object" \cite[Chapter 4, pp. 103]{Alchin2010}.
 	- A *Python* class definition is a template for custom data types that contain
@@ -1172,7 +1179,6 @@ Use a **list comprehension** to perform a conditional operation iteratively on
 
 
 
-+ \cite[Chapters 8-11]{Alchin2010}.
 + \cite[Appendices A and B]{Langtangen2006}.
 + \cite[Appendices A and B]{Langtangen2009}.
 + \cite[Chapter 21]{Lutz2011}.
