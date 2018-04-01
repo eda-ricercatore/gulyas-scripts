@@ -1542,6 +1542,9 @@ The primary built-in object types in *Python*
 Citations/References that use the *LaTeX/BibTeX* notation are taken
 	from my *BibTeX* database (set of *BibTeX* entries).
 
+**If these citations/references are not found in this list of references, information
+	about them can be found in my *BibTeX* database.** 
+
 + [ParewaLabsPvtLtdStaff20XY]
 
 	Parewa Labs Pvt. Ltd. staff, "Learn Python Programming," Parewa Labs Pvt. Ltd., Kupondole, Lalitpur, Lalitpur District, Nepal.
@@ -1734,31 +1737,43 @@ Additional *Python* resources from my *BibTeX* database:
 + \cite{Brandl2017a}
 
 	Georg Brandl and Benjamin Peterson and Senthil Kumaran and Guido {van Rossum} and Chris Jerdonek and Andrew Kuchling, "The *Python* Tutorial," Python Software Foundation, Beaverton, OR, March 26, 2017.
+
 	Available online from *Welcome to Python.org: Python 3.6.1 documentation* at: https://docs.python.org/3/tutorial/; April 4, 2017 was the last accessed date.
 
 + \cite{DrakeJr2018a}
 
 	Fred L. Drake, Jr. and David Goodger and Fredrik Lundh, "Python/C API Reference Manual," Python Software Foundation, Beaverton, OR, April 1, 2018.
+
 	Available online from *Welcome to Python.org: Python 3.6.5 documentation* at: https://docs.python.org/3/c-api/; April 2, 2018 was the last accessed date.
 
 + \cite{DrakeJr2018}
 	Fred L. Drake, Jr. and David Goodger and Fredrik Lundh, "Extending and Embedding the *Python* Interpreter," Python Software Foundation, Beaverton, OR, April 1, 2018. 
+
 	Available online from *Welcome to Python.org: Python 3.6.5 documentation* at: https://docs.python.org/3/extending/; April 2, 2018 was the last accessed date.
 
 + \cite{DrakeJr2017c}
 
 	Fred L. Drake, Jr. and David Goodger and Fredrik Lundh, "*Python* 3.6.1 documentation," Python Software Foundation, Beaverton, OR, March 31, 2017.
+
 	Available online at: https://docs.python.org/3/; March 31, 2017 was the last accessed date.
 
 + \cite{DrakeJr2016b}
 
 	Fred L. Drake, Jr. and David Goodger and Fredrik Lundh, "The *Python* Standard Library," Python Software Foundation, Beaverton, OR, March 23, 2016.
+
 	Available online from *Python 3.5.1 documentation* at: https://docs.python.org/3/library/; April 1, 2016 was the last accessed date.
 
 + \cite{DrakeJr2016a}
 
 	Fred L. Drake, Jr. and David Goodger and Fredrik Lundh, "The *Python* Language Reference," Python Software Foundation, Beaverton, OR, March 31, 2016.
+
 	Available online from *Python 3.5.1 documentation* at: https://docs.python.org/3/reference/index.html; April 1, 2016 was the last accessed date.
+
++ \cite{Thurlow2012}
+
+	Steven Thurlow, "A Beginner's Python Tutorial," GitHub, Inc., San Francisco, CA, March 30, 2012.
+
+	Available online from *Steven Thurlow's GitHub repository* at: https://github.com/stoive/pythontutorial; self-published; April 4, 2017 was the last accessed date.
 
 + \cite{Ziade2008}
 
