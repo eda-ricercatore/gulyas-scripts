@@ -1692,6 +1692,20 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 
 
 
+
+##	Additional *Python* Resources
+
+Additional *Python* resources from my *BibTeX* database:
++ \cite{Brandl2017a}
+
+	Georg Brandl and Benjamin Peterson and Senthil Kumaran and Guido {van Rossum} and Chris Jerdonek and Andrew Kuchling, "The *Python* Tutorial," Python Software Foundation, Beaverton, OR, March 26, 2017.
+	Available online from *Welcome to Python.org: Python 3.6.1 documentation* at: https://docs.python.org/3/tutorial/; April 4, 2017 was the last accessed date.
+
+
+
+
+
+
 ##	Books Covered
 
 + \cite{Alchin2010}
