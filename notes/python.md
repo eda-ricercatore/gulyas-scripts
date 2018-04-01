@@ -1701,8 +1701,24 @@ Additional *Python* resources from my *BibTeX* database:
 	Georg Brandl and Benjamin Peterson and Senthil Kumaran and Guido {van Rossum} and Chris Jerdonek and Andrew Kuchling, "The *Python* Tutorial," Python Software Foundation, Beaverton, OR, March 26, 2017.
 	Available online from *Welcome to Python.org: Python 3.6.1 documentation* at: https://docs.python.org/3/tutorial/; April 4, 2017 was the last accessed date.
 
++ \cite{DrakeJr2016b}
 
+	Fred L. Drake, Jr. and David Goodger and Fredrik Lundh, "The *Python* Standard Library," Python Software Foundation, Beaverton, OR, March 23, 2016.
+	Available online from *Python 3.5.1 documentation* at: https://docs.python.org/3/library/; April 1, 2016 was the last accessed date.
 
++ @manual{DrakeJr2016a,
+	Address = {Beaverton, {OR}},
+	Author = {Fred L. {Drake, Jr.} and David Goodger and Fredrik Lundh},
+	Date-Added = {2014-03-30 00:11:00 +0200},
+	Date-Modified = {2014-03-30 00:11:00 +0200},
+	Howpublished = {Available online from {\it {Python} 3.5.1 documentation} at: \url{https://docs.python.org/3/reference/index.html}; April 1, 2016 was the last accessed date},
+	Keywords = {Python},
+	Month = {March 31},
+	Organization = {Python Software Foundation},
+	Title = {The {Python} Language Reference},
+	Url = {https://docs.python.org/3/reference/index.html},
+	Year = {2016},
+	Bdsk-Url-1 = {https://docs.python.org/3/reference/index.html}}
 
 
 
