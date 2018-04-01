@@ -156,7 +156,9 @@ Pages in \cite{Hetland2005} that deal with importing
 + \cite{Hetland2005}
 	- Chapters 7-9???/10??
 	- Chapters 17-19
+	- Appendices A-C
 Finished???
+Appendix ???
 \cite[Chapters 17, pp. ]{Hetland2005}
 
 
@@ -1479,7 +1481,13 @@ Notes on global and local variables:
 
 
 
-
+The primary built-in object types in *Python*
+	\cite[Chapters 7, pp. 139]{Hetland2005}:
++ numbers
++ strings
++ lists
++ tuples
++ dictionaries
 
 
 
