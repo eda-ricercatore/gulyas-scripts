@@ -168,7 +168,7 @@ Appendix ???
 
 
 
-Pages in \cite[Expert *Python* Programming]{Ziade2008} that deal with
+Pages in \cite{Ziade2008} that deal with
 	importing *Python* classes and modules (Not helpful):
 + Naming, (pp. 91--116)
 	- Application of naming to (pp. 92): 
@@ -324,6 +324,8 @@ Relative imports are supported by providing relative paths to modules that are
 
 
 Notes on *Python* Classes:
++ Concepts in object-oriented programming for 
+	- \cite[Chapters 7, pp. 139]{Hetland2005} 
 + A class is a particular type of object has a logical group of functions, and
 	"encapsulates the behavior of an object" \cite[Chapter 4, pp. 103]{Alchin2010}.
 	- A *Python* class definition is a template for custom data types that contain
@@ -1180,6 +1182,37 @@ Use a **list comprehension** to perform a conditional operation iteratively on
 	- No information on object-oriented programming.
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### *Python*ic Coding Style
 
 
@@ -1701,6 +1734,20 @@ Additional *Python* resources from my *BibTeX* database:
 	Georg Brandl and Benjamin Peterson and Senthil Kumaran and Guido {van Rossum} and Chris Jerdonek and Andrew Kuchling, "The *Python* Tutorial," Python Software Foundation, Beaverton, OR, March 26, 2017.
 	Available online from *Welcome to Python.org: Python 3.6.1 documentation* at: https://docs.python.org/3/tutorial/; April 4, 2017 was the last accessed date.
 
++ \cite{DrakeJr2018a}
+
+	Fred L. Drake, Jr. and David Goodger and Fredrik Lundh, "Python/C API Reference Manual," Python Software Foundation, Beaverton, OR, April 1, 2018.
+	Available online from *Welcome to Python.org: Python 3.6.5 documentation* at: https://docs.python.org/3/c-api/; April 2, 2018 was the last accessed date.
+
++ \cite{DrakeJr2018}
+	Fred L. Drake, Jr. and David Goodger and Fredrik Lundh, "Extending and Embedding the *Python* Interpreter," Python Software Foundation, Beaverton, OR, April 1, 2018. 
+	Available online from *Welcome to Python.org: Python 3.6.5 documentation* at: https://docs.python.org/3/extending/; April 2, 2018 was the last accessed date.
+
++ \cite{DrakeJr2017c}
+
+	Fred L. Drake, Jr. and David Goodger and Fredrik Lundh, "*Python* 3.6.1 documentation," Python Software Foundation, Beaverton, OR, March 31, 2017.
+	Available online at: https://docs.python.org/3/; March 31, 2017 was the last accessed date.
+
 + \cite{DrakeJr2016b}
 
 	Fred L. Drake, Jr. and David Goodger and Fredrik Lundh, "The *Python* Standard Library," Python Software Foundation, Beaverton, OR, March 23, 2016.
@@ -1711,20 +1758,9 @@ Additional *Python* resources from my *BibTeX* database:
 	Fred L. Drake, Jr. and David Goodger and Fredrik Lundh, "The *Python* Language Reference," Python Software Foundation, Beaverton, OR, March 31, 2016.
 	Available online from *Python 3.5.1 documentation* at: https://docs.python.org/3/reference/index.html; April 1, 2016 was the last accessed date.
 
-+ \cite{DrakeJr2017c}
++ \cite{Ziade2008}
 
-	Fred L. Drake, Jr. and David Goodger and Fredrik Lundh, "*Python* 3.6.1 documentation," Python Software Foundation, Beaverton, OR, March 31, 2017.
-	Available online at: https://docs.python.org/3/; March 31, 2017 was the last accessed date.
-
-+ \cite{DrakeJr2018a}
-
-	Fred L. Drake, Jr. and David Goodger and Fredrik Lundh, "Python/C API Reference Manual," Python Software Foundation, Beaverton, OR, April 1, 2018.
-	Available online from *Welcome to Python.org: Python 3.6.5 documentation* at: https://docs.python.org/3/c-api/; April 2, 2018 was the last accessed date.
-
-+ \cite{DrakeJr2018}
-	Fred L. Drake, Jr. and David Goodger and Fredrik Lundh, "Extending and Embedding the *Python* Interpreter," Python Software Foundation, Beaverton, OR, April 1, 2018. 
-	Available online from *Welcome to Python.org: Python 3.6.5 documentation* at: https://docs.python.org/3/extending/; April 2, 2018 was the last accessed date.
-
+	Tarek Ziade, "Expert *Python* Programming," Packt Publishing, Birmingham, West Midlands, England, U.K., 2008.
 
 
 
