@@ -326,12 +326,12 @@ Relative imports are supported by providing relative paths to modules that are
 Notes on *Python* Classes:
 + Concepts in object-oriented programming for
 	\cite[Chapters 7, pp. 139]{Hetland2005}  
-	- **polymorphism**
-	- **encapsulation**
+	- ***polymorphism***
+	- ***encapsulation***
 	- methods
 	- attributes
 	- superclasses
-	- **inheritance**
+	- ***inheritance***
 	- constructors
 + A class is a particular type of object has a logical group of functions, and
 	"encapsulates the behavior of an object" \cite[Chapter 4, pp. 103]{Alchin2010}.
