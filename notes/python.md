@@ -381,6 +381,8 @@ Notes on *Python* Classes:
 			(subclasses, or derived classes) to inherit functions from parent
 			classes (superclasses, or base classes) but also customizes them
 			for the child classes \cite[Chapters 7, pp. 140]{Hetland2005}.
+		* This type of *Pythonic* programming exploits "duck typing"
+			\cite[Chapters 7, pp. 143]{Hetland2005}. 
 		* An object of a child class is also an instance of the parent class;
 			hence, using the **isinstance()** method for type/class checking
 			is an inadequate solution \cite[Chapters 7, pp. 140]{Hetland2005}.
@@ -388,6 +390,14 @@ Notes on *Python* Classes:
 			+ methods
 			+ built-in operators
 			+ built-in functions
+		* The advantages/benefits of polymorphism are mitigated/negated with
+			type checking functions \cite[Chapters 7, pp. 143]{Hetland2005}:
+			+ **type()**
+			+ **isinstance()**
+			+ **issubclass()**
+		* Instead of type checking (or checking the class), ask if the object is
+			behaving according to how/what I want
+			\cite[Chapters 7, pp. 143]{Hetland2005}.
 + The built-in type **object** is "a foundation type that underpins the entire
 	system \cite[Chapter 4, pp. 103]{Alchin2010}.
 + Codify relationships between packages, modules, and classes to represent
