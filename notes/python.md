@@ -379,8 +379,8 @@ Notes on *Python* Classes:
 		on an object \cite[Chapters 7, pp. 140]{Hetland2005}.
 		* That is, polymorphism not only allows objects of child classes
 			(subclasses, or derived classes) to inherit functions from parent
-			classes (superclasses, or base classes) but customize them for the 
-			child classes \cite[Chapters 7, pp. 140]{Hetland2005}.
+			classes (superclasses, or base classes) but also customizes them
+			for the child classes \cite[Chapters 7, pp. 140]{Hetland2005}.
 		* An object of a child class is also an instance of the parent class;
 			hence, using the **isinstance()** method for type/class checking
 			is an inadequate solution \cite[Chapters 7, pp. 140]{Hetland2005}.		
