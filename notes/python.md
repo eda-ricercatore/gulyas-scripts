@@ -447,6 +447,8 @@ Notes on *Python* Classes:
 		object, the descriptor has to use a dictionary to access instance objects
 		\cite[Chapter 4, pp. 131]{Alchin2010}.
 + A method is a function belonging to a class \cite[Chapter 4, pp. 131]{Alchin2010}.
+	- That is, a method is a function that is bound to object attributes (or,
+		attributes of an object/class) \cite[Chapters 7, pp. 141]{Hetland2005}
 	- Unlike functions that do not belong to a class, a method can access class
 		information \cite[Chapter 4, pp. 131]{Alchin2010}.
 	- Categories of methods \cite[Chapter 4, pp. 131]{Alchin2010}:
