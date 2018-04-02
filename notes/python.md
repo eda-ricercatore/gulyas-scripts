@@ -344,7 +344,8 @@ Notes on *Python* Classes:
 		\cite[Chapter 9, pp. 183]{Hall2009b} to hide its details "from
 		the outside world" \cite[Chapters 7, pp. 139]{Hetland2005}.
 		* This is similar to polymorphism, because encapsulation and
-			polymorphism are concepts/principles of abstraction  
+			polymorphism are concepts/principles of abstraction;
+			however, polymorphism can exist without encapsulation 
 			\cite[Chapters 7, pp. 143]{Hetland2005}.
 		* Encapsulation enables the usage of objects without knowing the
 			details of how these objects are constructed
