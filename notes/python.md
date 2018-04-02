@@ -372,6 +372,8 @@ Notes on *Python* Classes:
 		\cite[Chapters 7, pp. 145]{Hetland2005}.
 	- Note that in \cite[Chapter 7, pp. 145; Chapter 9, pp. ???]{Hetland2005},
 		properties are distinguished from attributes.
+	- An attribute is private to objects of a class
+		\cite[Chapters 7, pp. 145]{Hetland2005}. 
 + Difference instances of a class has different sets of data, but have the same
 	behavior that is determined by the class definition;
 	this behavior can be defined, extended, or altered 
