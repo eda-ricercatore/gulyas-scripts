@@ -383,7 +383,11 @@ Notes on *Python* Classes:
 			for the child classes \cite[Chapters 7, pp. 140]{Hetland2005}.
 		* An object of a child class is also an instance of the parent class;
 			hence, using the **isinstance()** method for type/class checking
-			is an inadequate solution \cite[Chapters 7, pp. 140]{Hetland2005}.		
+			is an inadequate solution \cite[Chapters 7, pp. 140]{Hetland2005}.
+		* Polymorphism applies to \cite[Chapters 7, pp. 142]{Hetland2005}:
+			+ methods
+			+ built-in operators
+			+ built-in functions
 + The built-in type **object** is "a foundation type that underpins the entire
 	system \cite[Chapter 4, pp. 103]{Alchin2010}.
 + Codify relationships between packages, modules, and classes to represent
