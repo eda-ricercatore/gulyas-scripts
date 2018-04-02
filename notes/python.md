@@ -368,7 +368,8 @@ Notes on *Python* Classes:
 		\cite[Chapter 9, pp. 184]{Hall2009b}.
 	- The state of an instance object is determined by the values of its
 		attributes/properties/fields/characteristics
-		\cite[Chapter 9, pp. 185]{Hall2009b}.
+		\cite[Chapter 9, pp. 185]{Hall2009b}
+		\cite[Chapters 7, pp. 145]{Hetland2005}.
 + Difference instances of a class has different sets of data, but have the same
 	behavior that is determined by the class definition;
 	this behavior can be defined, extended, or altered 
