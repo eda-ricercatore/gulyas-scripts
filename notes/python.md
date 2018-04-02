@@ -336,8 +336,10 @@ Notes on *Python* Classes:
 + A class is a particular type of object has a logical group of functions, and
 	"encapsulates the behavior of an object" \cite[Chapter 4, pp. 103]{Alchin2010}.
 	- A *Python* class definition is a template for custom data types that contain
-		data (i.e., attributes) and commands (i.e., methods, or functions
-		belonging to this *Python* class) \cite[Chapter 9, pp. 181]{Hall2009b}.  
+		data (i.e., attributes, or object-specific variables
+		\cite[Chapters 7, pp. 144]{Hetland2005}) and commands (i.e., methods,
+		or functions belonging to this *Python* class)
+		\cite[Chapter 9, pp. 181]{Hall2009b}.  
 + "An instance of the class represents the data for the object"
 	\cite[Chapter 4, pp. 103]{Alchin2010} \cite[Chapter 9, pp. 183]{Hall2009b}.
 	- Encapsulation enables the treatment of an object as a black box
@@ -473,6 +475,7 @@ Notes on *Python* Classes:
 + A method is a function belonging to a class \cite[Chapter 4, pp. 131]{Alchin2010}.
 	- That is, a method is a function that is bound to object attributes (or,
 		attributes of an object/class) \cite[Chapters 7, pp. 141]{Hetland2005}
+		\cite[Chapters 7, pp. 144]{Hetland2005}.
 	- Unlike functions that do not belong to a class, a method can access class
 		information \cite[Chapter 4, pp. 131]{Alchin2010}.
 	- Categories of methods \cite[Chapter 4, pp. 131]{Alchin2010}:
