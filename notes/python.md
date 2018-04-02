@@ -370,10 +370,12 @@ Notes on *Python* Classes:
 		attributes/properties/fields/characteristics
 		\cite[Chapter 9, pp. 185]{Hall2009b}
 		\cite[Chapters 7, pp. 145]{Hetland2005}.
+	- Note that in \cite[Chapter 7, pp. 145; Chapter 9, pp. ???]{Hetland2005},
+		properties are distinguished from attributes.
 + Difference instances of a class has different sets of data, but have the same
 	behavior that is determined by the class definition;
 	this behavior can be defined, extended, or altered 
-	\cite[Chapter 4, pp. 103]{Alchin2010}. 
+	\cite[Chapter 4, pp. 103]{Alchin2010}.
 + Inheritance allows a derived/child class to have a different fundamental
 	behavior from its base/parent class \cite[Chapter 4, pp. 103]{Alchin2010}
 	\cite[Chapter 9, pp. 181]{Hall2009b}.
