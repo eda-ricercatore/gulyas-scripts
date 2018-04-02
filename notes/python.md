@@ -376,8 +376,9 @@ Notes on *Python* Classes:
 		\cite{DrakeJr2016a} (which are known as "magic methods" in
 		\cite{Hall2009b}) \cite[Chapter 9, pp. 184]{Hall2009b}.
 	- Polymorphism enables type/class -dependent functions to be performed 
-		on an object, such that objects of child classes (subclasses, or derived
-		classes) do not merely inherit functions from parent classes
+		on an object.
+		That is, polymorphism allows objects of child classes (subclasses, or
+		derived classes) do not merely inherit functions from parent classes
 		(superclasses, or base classes) but customize them for the child classes 
 		\cite[Chapters 7, pp. 139]{Hetland2005}.
 + The built-in type **object** is "a foundation type that underpins the entire
