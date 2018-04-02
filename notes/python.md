@@ -343,6 +343,12 @@ Notes on *Python* Classes:
 	- Encapsulation enables the treatment of an object as a black box
 		\cite[Chapter 9, pp. 183]{Hall2009b} to hide its details "from
 		the outside world" \cite[Chapters 7, pp. 139]{Hetland2005}.
+		* This is similar to polymorphism, because encapsulation and
+			polymorphism are concepts/principles of abstraction  
+			\cite[Chapters 7, pp. 143]{Hetland2005}.
+		* Encapsulation enables the usage of objects without knowing the
+			details of how these objects are constructed
+			\cite[Chapters 7, pp. 143]{Hetland2005}.
 	- **self** refers to the instance object that the instance methods are
 		operating with \cite[Chapter 9, pp. 183]{Hall2009b}.
 	- **dir(*[instance object]*)** shows a list of attributes and methods
@@ -382,7 +388,10 @@ Notes on *Python* Classes:
 			classes (superclasses, or base classes) but also customizes them
 			for the child classes \cite[Chapters 7, pp. 140]{Hetland2005}.
 		* This type of *Pythonic* programming exploits "duck typing"
-			\cite[Chapters 7, pp. 143]{Hetland2005}. 
+			\cite[Chapters 7, pp. 143]{Hetland2005}.
+		* Polymorphism enables the usage of an object' methods without
+			detailed information about what it is (i.e., its type/class)
+			\cite[Chapters 7, pp. 143]{Hetland2005}.   
 		* An object of a child class is also an instance of the parent class;
 			hence, using the **isinstance()** method for type/class checking
 			is an inadequate solution \cite[Chapters 7, pp. 140]{Hetland2005}.
@@ -396,7 +405,7 @@ Notes on *Python* Classes:
 			+ **isinstance()**
 			+ **issubclass()**
 		* Instead of type checking (or checking the class), ask if the object is
-			behaving according to how/what I want
+			behaving according to what I want
 			\cite[Chapters 7, pp. 143]{Hetland2005}.
 + The built-in type **object** is "a foundation type that underpins the entire
 	system \cite[Chapter 4, pp. 103]{Alchin2010}.
