@@ -606,7 +606,7 @@ Notes on *Python* Classes:
 		* Alternatively, the **\_\_repr\_\_()** method can provide more
 			information about the instance object
 			\cite[Chapter 4, pp. 141-142]{Alchin2010}.
-+ Access specifiers (or access modifiers??? [REFERENCE THIS!!!]):
++ Access specifiers (or access modifiers):
 	- In *C++*, access specifiers are: public, protected, and private
 		\cite[Chapter 12]{Deitel2012} \cite[Chapter 11]{Deitel2014}
 		\cite[Chapter 7, pp. 392]{Gaddis2011} \cite[\S7.2, pp.. 349]{Lippman2013}.
@@ -614,6 +614,11 @@ Notes on *Python* Classes:
 	- In *Java*, access specifiers are also: public, protected, and private
 		\cite[Chapter 2, pp. 23; Chapter 7, pp. 138]{Schildt2007}
 		\cite[pp. 20, 145, & 153]{Eckel2006}
+	- *Python* does not support keyword-based access specifiers (or access
+		modifiers) \cite[Chapters 7, pp. 145]{Hetland2005};
+		however, an attribute or method can be set to be private by adding the
+			prefix "\_\_" (i.e., two underscores)
+			\cite[Chapters 7, pp. 145]{Hetland2005}.
 
 
 
