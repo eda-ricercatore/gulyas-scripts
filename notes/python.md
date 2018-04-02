@@ -618,7 +618,7 @@ Notes on *Python* Classes:
 		modifiers) \cite[Chapters 7, pp. 145]{Hetland2005};
 		however, an attribute or method can be set to be private by adding the
 			prefix "\_\_" (i.e., two underscores)
-			\cite[Chapters 7, pp. 145]{Hetland2005}. __
+			\cite[Chapters 7, pp. 145]{Hetland2005}.
 
 
 
