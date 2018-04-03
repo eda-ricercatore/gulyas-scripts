@@ -332,8 +332,8 @@ Notes on *Python* Classes:
 + "An instance of the class represents the data for the object"
 	\cite[Chapter 4, pp. 103]{Alchin2010} \cite[Chapter 9, pp. 183]{Hall2009b}.
 	- Encapsulation enables the treatment of an object as a black box
-		\cite[Chapter 9, pp. 183]{Hall2009b} to hide its details "from
-		the outside world" \cite[Chapter 7, pp. 139]{Hetland2005}.
+		\cite[Chapter 9, pp. 183]{Hall2009b} to hide its internal state (or details)
+		"from the outside world" \cite[Chapter 7, pp. 139,157]{Hetland2005}.
 		* This is similar to polymorphism, because encapsulation and
 			polymorphism are concepts/principles of abstraction;
 			however, polymorphism can exist without encapsulation 
@@ -933,7 +933,7 @@ Pages in \cite{Hetland2005} that deal with importing
 
 + \cite{Hetland2005}
 	- Chapters 7-9???/10??
-	- Chapters 17-19
+	- Chapters 17-19; Chapter 19 has books on OOAD.
 	- Appendices A-C
 Finished???
 Appendix ???
