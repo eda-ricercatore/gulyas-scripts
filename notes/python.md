@@ -153,13 +153,7 @@ Pages in \cite{Hetland2005} that deal with importing
 
 
 
-+ \cite{Hetland2005}
-	- Chapters 7-9???/10??
-	- Chapters 17-19
-	- Appendices A-C
-Finished???
-Appendix ???
-\cite[Chapter 17, pp. ]{Hetland2005}
+
 
 
 
@@ -936,7 +930,13 @@ Protocols masked by *Python* syntactic sugar
 
 
 
-
++ \cite{Hetland2005}
+	- Chapters 7-9???/10??
+	- Chapters 17-19
+	- Appendices A-C
+Finished???
+Appendix ???
+\cite[Chapter 17, pp. ]{Hetland2005}
 
 Chapter 3, 7, 9.
 \cite[Appendices A and B]{Langtangen2009}.
