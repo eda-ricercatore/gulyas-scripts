@@ -1555,7 +1555,7 @@ Exception chaining is a method of tracebacks that enable exceptions raised
 	during exception handling to be differentiated from the original
 	raised/thrown exception \cite[Chapter 10, pp. 235-236]{Hall2009b}. 
 
-
+ 
 
 
 
@@ -1570,7 +1570,8 @@ To raise an exception, try either of the following
 In \cite[\S5]{DrakeJr2016b} discusses all the "built-in exceptions" provided by the
 	the "The *Python* Standard Library" \cite[Chapter 8, pp. 161]{Hetland2005}.
 
-
+To create custom exception classes, create a derived class of the *Exception*
+	class \cite[Chapter 8, pp. 162]{Hetland2005}.
 
 
 
