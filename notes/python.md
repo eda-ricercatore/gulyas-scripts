@@ -1562,6 +1562,17 @@ Exception chaining is a method of tracebacks that enable exceptions raised
 \cite[Chapter 2, pp. 23-28,29-30]{Alchin2010} shows how to catch multiple
 	errors that have been raised.
 
+To raise an exception, try either of the following
+	\cite[Chapter 8, pp. 160]{Hetland2005}:
++ raise Exception, "[Error message.]"
++ raise Exception("[Error message.]")
+
+
+
+
+
+
+
 
 ###	Warnings
 
