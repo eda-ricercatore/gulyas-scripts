@@ -492,9 +492,13 @@ Notes on *Python* Classes:
 	- Like descriptors, a class and its instances can access a method
 		\cite[Chapter 4, pp. 131]{Alchin2010}.
 	- An unbound method is a method that is accessed by a class, which is
-		received by the descriptor \cite[Chapter 4, pp. 131]{Alchin2010}. 
+		received by the descriptor \cite[Chapter 4, pp. 131]{Alchin2010}
+		\cite[Chapters 7, pp. 150]{Hetland2005}.
+		* It is unbound to any **self** parameter
+			\cite[Chapters 7, pp. 150]{Hetland2005} 
 	- A bound method requires an instance of a class to for access
-		\cite[Chapter 4, pp. 131]{Alchin2010}.
+		\cite[Chapter 4, pp. 131]{Alchin2010}
+		\cite[Chapters 7, pp. 149]{Hetland2005}.
 	- When an unbound method on a class is accessed, a function object for
 		the unbound method is returned \cite[Chapter 4, pp. 131]{Alchin2010}.
 	- A function can support bound and unbound methods;
