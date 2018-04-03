@@ -616,12 +616,16 @@ Notes on *Python* Classes:
 		\cite[pp. 20, 145, & 153]{Eckel2006}
 	- *Python* does not directly support keyword-based access specifiers (or
 		access modifiers) \cite[Chapters 7, pp. 145]{Hetland2005};
-		however, an attribute or method can be set to be private by adding the
-			prefix "\_\_" (i.e., two underscores)
+		however, an attribute or method can be set to be pseudo-"private" by
+			adding the prefix "\_\_" (i.e., two/double underscores)
 			\cite[Chapters 7, pp. 145-146]{Hetland2005}.
-
-
-
+	-  Attributes and methods of a *Python* class with the prefix "\_\_" are
+		accessible as public methods \cite[Chapters 7, pp. 146]{Hetland2005};  
+		hence, I call them pseudo-"private" attributes and methods.
+	- If the prefix "\_" (single underscore) is used to indicate pseudo-"private"
+		attributes and methods of a *Python* class, these attributes and
+		methods would not be "imported with starred imports"
+		(**from [module] import \***) \cite[Chapters 7, pp. 146]{Hetland2005}.
 
 
 
