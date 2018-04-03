@@ -159,7 +159,7 @@ Pages in \cite{Hetland2005} that deal with importing
 	- Appendices A-C
 Finished???
 Appendix ???
-\cite[Chapters 17, pp. ]{Hetland2005}
+\cite[Chapter 17, pp. ]{Hetland2005}
 
 
 
@@ -325,7 +325,7 @@ Relative imports are supported by providing relative paths to modules that are
 
 Notes on *Python* Classes:
 + Concepts in object-oriented programming for
-	\cite[Chapters 7, pp. 139]{Hetland2005}  
+	\cite[Chapter 7, pp. 139]{Hetland2005}  
 	- ***polymorphism***
 	- ***encapsulation***
 	- methods
@@ -337,21 +337,21 @@ Notes on *Python* Classes:
 	"encapsulates the behavior of an object" \cite[Chapter 4, pp. 103]{Alchin2010}.
 	- A *Python* class definition is a template for custom data types that contain
 		data (i.e., attributes, or object-specific variables
-		\cite[Chapters 7, pp. 144]{Hetland2005}) and commands (i.e., methods,
+		\cite[Chapter 7, pp. 144]{Hetland2005}) and commands (i.e., methods,
 		or functions belonging to this *Python* class)
 		\cite[Chapter 9, pp. 181]{Hall2009b}.  
 + "An instance of the class represents the data for the object"
 	\cite[Chapter 4, pp. 103]{Alchin2010} \cite[Chapter 9, pp. 183]{Hall2009b}.
 	- Encapsulation enables the treatment of an object as a black box
 		\cite[Chapter 9, pp. 183]{Hall2009b} to hide its details "from
-		the outside world" \cite[Chapters 7, pp. 139]{Hetland2005}.
+		the outside world" \cite[Chapter 7, pp. 139]{Hetland2005}.
 		* This is similar to polymorphism, because encapsulation and
 			polymorphism are concepts/principles of abstraction;
 			however, polymorphism can exist without encapsulation 
-			\cite[Chapters 7, pp. 143]{Hetland2005}.
+			\cite[Chapter 7, pp. 143]{Hetland2005}.
 		* Encapsulation enables the usage of objects without knowing the
 			details of how these objects are constructed
-			\cite[Chapters 7, pp. 143]{Hetland2005}.
+			\cite[Chapter 7, pp. 143]{Hetland2005}.
 	- **self** refers to the instance object that the instance methods are
 		operating with \cite[Chapter 9, pp. 183]{Hall2009b}.
 	- **dir(*[instance object]*)** shows a list of attributes and methods
@@ -369,11 +369,11 @@ Notes on *Python* Classes:
 	- The state of an instance object is determined by the values of its
 		attributes/properties/fields/characteristics
 		\cite[Chapter 9, pp. 185]{Hall2009b}
-		\cite[Chapters 7, pp. 145]{Hetland2005}.
+		\cite[Chapter 7, pp. 145]{Hetland2005}.
 	- Note that in \cite[Chapter 7, pp. 145; Chapter 9, pp. ???]{Hetland2005},
 		properties are distinguished from attributes.
 	- An attribute is private to objects of a class
-		\cite[Chapters 7, pp. 145]{Hetland2005}. 
+		\cite[Chapter 7, pp. 145]{Hetland2005}. 
 + Difference instances of a class has different sets of data, but have the same
 	behavior that is determined by the class definition;
 	this behavior can be defined, extended, or altered 
@@ -382,7 +382,7 @@ Notes on *Python* Classes:
 	behavior from its base/parent class \cite[Chapter 4, pp. 103]{Alchin2010}
 	\cite[Chapter 9, pp. 181]{Hall2009b}.
 	- Inheritance allows specialized classes of objects to be created from
-		general classes of objects \cite[Chapters 7, pp. 139]{Hetland2005}.
+		general classes of objects \cite[Chapter 7, pp. 139]{Hetland2005}.
 	- Duck typing enables developers to modify and manipulate objects, which
 		are related via class inheritance, while ensuring type safety
 		\cite{WikipediaContributors2018a}.
@@ -390,31 +390,31 @@ Notes on *Python* Classes:
 		\cite{DrakeJr2016a} (which are known as "magic methods" in
 		\cite{Hall2009b}) \cite[Chapter 9, pp. 184]{Hall2009b}.
 	- Polymorphism enables type/class -dependent functions to be performed 
-		on an object \cite[Chapters 7, pp. 140]{Hetland2005}.
+		on an object \cite[Chapter 7, pp. 140]{Hetland2005}.
 		* That is, polymorphism not only allows objects of child classes
 			(subclasses, or derived classes) to inherit functions from parent
 			classes (superclasses, or base classes) but also customizes them
-			for the child classes \cite[Chapters 7, pp. 140]{Hetland2005}.
+			for the child classes \cite[Chapter 7, pp. 140]{Hetland2005}.
 		* This type of *Pythonic* programming exploits "duck typing"
-			\cite[Chapters 7, pp. 143]{Hetland2005}.
+			\cite[Chapter 7, pp. 143]{Hetland2005}.
 		* Polymorphism enables the usage of an object' methods without
 			detailed information about what it is (i.e., its type/class)
-			\cite[Chapters 7, pp. 143]{Hetland2005}.   
+			\cite[Chapter 7, pp. 143]{Hetland2005}.   
 		* An object of a child class is also an instance of the parent class;
 			hence, using the **isinstance()** method for type/class checking
-			is an inadequate solution \cite[Chapters 7, pp. 140]{Hetland2005}.
-		* Polymorphism applies to \cite[Chapters 7, pp. 142]{Hetland2005}:
+			is an inadequate solution \cite[Chapter 7, pp. 140]{Hetland2005}.
+		* Polymorphism applies to \cite[Chapter 7, pp. 142]{Hetland2005}:
 			+ methods
 			+ built-in operators
 			+ built-in functions
 		* The advantages/benefits of polymorphism are mitigated/negated with
-			type checking functions \cite[Chapters 7, pp. 143]{Hetland2005}:
+			type checking functions \cite[Chapter 7, pp. 143]{Hetland2005}:
 			+ **type()**
 			+ **isinstance()**
 			+ **issubclass()**
 		* Instead of type checking (or checking the class), ask if the object is
 			behaving according to what I want
-			\cite[Chapters 7, pp. 143]{Hetland2005}.
+			\cite[Chapter 7, pp. 143]{Hetland2005}.
 + The built-in type **object** is "a foundation type that underpins the entire
 	system \cite[Chapter 4, pp. 103]{Alchin2010}.
 + Codify relationships between packages, modules, and classes to represent
@@ -479,8 +479,8 @@ Notes on *Python* Classes:
 		\cite[Chapter 4, pp. 131]{Alchin2010}.
 + A method is a function belonging to a class \cite[Chapter 4, pp. 131]{Alchin2010}.
 	- That is, a method is a function that is bound to object attributes (or,
-		attributes of an object/class) \cite[Chapters 7, pp. 141]{Hetland2005}
-		\cite[Chapters 7, pp. 144]{Hetland2005}.
+		attributes of an object/class) \cite[Chapter 7, pp. 141]{Hetland2005}
+		\cite[Chapter 7, pp. 144]{Hetland2005}.
 	- Unlike functions that do not belong to a class, a method can access class
 		information \cite[Chapter 4, pp. 131]{Alchin2010}.
 	- Categories of methods \cite[Chapter 4, pp. 131]{Alchin2010}:
@@ -615,17 +615,17 @@ Notes on *Python* Classes:
 		\cite[Chapter 2, pp. 23; Chapter 7, pp. 138]{Schildt2007}
 		\cite[pp. 20, 145, & 153]{Eckel2006}
 	- *Python* does not directly support keyword-based access specifiers (or
-		access modifiers) \cite[Chapters 7, pp. 145]{Hetland2005};
+		access modifiers) \cite[Chapter 7, pp. 145]{Hetland2005};
 		however, an attribute or method can be set to be pseudo-"private" by
 			adding the prefix "\_\_" (i.e., two/double underscores)
-			\cite[Chapters 7, pp. 145-146]{Hetland2005}.
+			\cite[Chapter 7, pp. 145-146]{Hetland2005}.
 	-  Attributes and methods of a *Python* class with the prefix "\_\_" are
-		accessible as public methods \cite[Chapters 7, pp. 146]{Hetland2005};  
+		accessible as public methods \cite[Chapter 7, pp. 146]{Hetland2005};  
 		hence, I call them pseudo-"private" attributes and methods.
 	- If the prefix "\_" (single underscore) is used to indicate pseudo-"private"
 		attributes and methods of a *Python* class, these attributes and
 		methods would not be "imported with starred imports"
-		(**from [module] import \***) \cite[Chapters 7, pp. 146]{Hetland2005}.
+		(**from [module] import \***) \cite[Chapter 7, pp. 146]{Hetland2005}.
 
 
 
@@ -792,6 +792,10 @@ Protocols masked by *Python* syntactic sugar
 		functions. These capture the behavior of the objects.
 	- Attributes; also known as fields, data members, or instance variables and
 		static variables. These capture the data of the objects.
++ An object is an instance of a class; a class can have many instances of objects
+	\cite[Chapter 7, pp. 147]{Hetland2005}.
+	- A subclass can be defined by: defining more methods; overriding existing
+		methods; and having more attributes \cite[Chapter 7, pp. 146]{Hetland2005}. 
 + In *Python*, an object is a combination of the following
 	\cite[Chapter 6, pp. 169]{Alchin2010}:
 	- identity, which is its unique address in memory; it is constant in its lifetime;
@@ -1580,7 +1584,7 @@ Notes on global and local variables:
 
 
 The primary built-in object types in *Python*
-	\cite[Chapters 7, pp. 139]{Hetland2005}:
+	\cite[Chapter 7, pp. 139]{Hetland2005}:
 + numbers
 + strings
 + lists
