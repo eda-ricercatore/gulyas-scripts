@@ -642,7 +642,9 @@ Notes on *Python* Classes:
 + Access and manage polymorphic objects by adhering to  its interface (or
 	"protocol"), which is definied by its list of accessible methods and attributes
 	\cite[Chapter 7, pp. 155]{Hetland2005}.
-
+	- Unlike *Java* and *C++*, explicit interfaces (i.e., *Java* class interfaces and
+		*C++* header files) are not required by *Python*
+		\cite[Chapter 7, pp. 155]{Hetland2005}.
 
 
 
