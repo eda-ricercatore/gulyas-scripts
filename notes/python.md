@@ -144,12 +144,7 @@ Note: "A module is a file containing *Python* definitions and statements."
 	**This is different from how I define modules in *C++* and *Java*.**
 
 
-Pages in \cite{Hetland2005} that deal with importing
-	*Python* classes and modules:
-+ Abstraction of classes and modules, pp. 109--158 (Chapters 6-7), 173--202
-	(Chapter 9)
-+ Modules and The Standard Library, pp. 203--254 (Chapter 10) 
-+ Summaries: pp. 547--573 (Appendices A-C)
+
 
 
 
@@ -929,6 +924,12 @@ Protocols masked by *Python* syntactic sugar
 
 
 
+Pages in \cite{Hetland2005} that deal with importing
+	*Python* classes and modules:
++ Abstraction of classes and modules, pp. 109--158 (Chapters 6-7), 173--202
+	(Chapter 9)
++ Modules and The Standard Library, pp. 203--254 (Chapter 10) 
++ Summaries: pp. 547--573 (Appendices A-C)
 
 + \cite{Hetland2005}
 	- Chapters 7-9???/10??
