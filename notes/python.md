@@ -644,7 +644,7 @@ Notes on *Python* Classes:
 	\cite[Chapter 7, pp. 155]{Hetland2005}.
 	- Unlike *Java* and *C++*, explicit interfaces (i.e., *Java* class interfaces and
 		*C++* header files) are not required by *Python*
-		\cite[Chapter 7, pp. 155]{Hetland2005}.
+		\cite[Chapter 7, pp. 155-156]{Hetland2005}.
 
 
 
