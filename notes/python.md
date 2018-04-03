@@ -1569,6 +1569,9 @@ To avoid termination of the program by mild errors, use a warning to notify user
 	of the mild error message, and allow the *Python* program to keep executing
 	\cite[Chapter 8, pp. 159-160]{Hetland2005}.
 
+To use a warning, import the **warnings** module and/or its methods/functions
+	\cite[Chapter 8, pp. 160]{Hetland2005}.
+
 
 
 
