@@ -1545,6 +1545,12 @@ Use **try...except...else...finally** statements to handle exceptions
 	\cite[Chapter 10, pp. 221]{Hall2009b}, so that the *Python* program does not
 	have to terminate execution \cite[Chapter 8, pp. 159]{Hetland2005}. 
 
+Any unhandled exception would terminate execution of the *Python* program and
+	produce a *traceback* (i.e., error message)
+	\cite[Chapter 8, pp. 160]{Hetland2005}.
+
+
+
 Exception chaining is a method of tracebacks that enable exceptions raised
 	during exception handling to be differentiated from the original
 	raised/thrown exception \cite[Chapter 10, pp. 235-236]{Hall2009b}. 
