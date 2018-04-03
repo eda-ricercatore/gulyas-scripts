@@ -639,6 +639,17 @@ Notes on *Python* Classes:
 		attributes and methods of a *Python* class, these attributes and
 		methods would not be "imported with starred imports"
 		(**from [module] import \***) \cite[Chapter 7, pp. 146]{Hetland2005}.
++ Access and manage polymorphic objects by adhering to  its interface (or
+	"protocol"), which is definied by its list of accessible methods and attributes
+	\cite[Chapter 7, pp. 155]{Hetland2005}.
+
+
+
+
+
+
+
+
 
 
 
