@@ -1542,7 +1542,8 @@ An exception stops the execution of the *Python* software/program due to
 	an encountered error \cite[Chapter 10, pp. 221]{Hall2009b}.
 
 Use **try...except...else...finally** statements to handle exceptions
-	\cite[Chapter 10, pp. 221]{Hall2009b}. 
+	\cite[Chapter 10, pp. 221]{Hall2009b}, so that the *Python* program does not
+	have to terminate execution \cite[Chapter 8, pp. 159]{Hetland2005}. 
 
 Exception chaining is a method of tracebacks that enable exceptions raised
 	during exception handling to be differentiated from the original
@@ -1560,7 +1561,7 @@ Exception chaining is a method of tracebacks that enable exceptions raised
 
 To avoid termination of the program by mild errors, use a warning to notify users
 	of the mild error message, and allow the *Python* program to keep executing
-	\cite[Chapter 8, pp. 159-160]{Hetland2005}
+	\cite[Chapter 8, pp. 159-160]{Hetland2005}.
 
 
 
