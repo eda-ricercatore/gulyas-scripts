@@ -495,7 +495,7 @@ Notes on *Python* Classes:
 		received by the descriptor \cite[Chapter 4, pp. 131]{Alchin2010}
 		\cite[Chapters 7, pp. 150]{Hetland2005}.
 		* It is unbound to any **self** parameter
-			\cite[Chapters 7, pp. 150]{Hetland2005} 
+			\cite[Chapters 7, pp. 150]{Hetland2005}.
 	- A bound method requires an instance of a class to for access
 		\cite[Chapter 4, pp. 131]{Alchin2010}
 		\cite[Chapters 7, pp. 149]{Hetland2005}.
