@@ -648,6 +648,10 @@ Notes on *Python* Classes:
 	- The methods **hasattr()** and **getattr()** can be used to determine if
 		a given object has certain methods or attributes
 		\cite[Chapter 7, pp. 156]{Hetland2005}. 
+	- Use the **\_\_dict\_\_** attribute to examine all the attributes of a *Python*
+		object and their associated values \cite[Chapter 7, pp. 156]{Hetland2005}.
+	- Use the **inspect** module to examine all the attributes and methods of a
+		*Python* object \cite[Chapter 7, pp. 156]{Hetland2005}.
 
 
 
