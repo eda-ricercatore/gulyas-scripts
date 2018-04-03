@@ -353,7 +353,8 @@ Notes on *Python* Classes:
 			details of how these objects are constructed
 			\cite[Chapter 7, pp. 143]{Hetland2005}.
 	- **self** refers to the instance object that the instance methods are
-		operating with \cite[Chapter 9, pp. 183]{Hall2009b} \cite[Chapters 7, pp. 148]{Hetland2005}.
+		operating with \cite[Chapter 9, pp. 183]{Hall2009b}
+		\cite[Chapters 7, pp. 148]{Hetland2005}.
 	- **dir(*[instance object]*)** shows a list of attributes and methods
 		supported by the ***[instance object]*** within its namespace 
 		\cite[Chapter 9, pp. 184]{Hall2009b}.
