@@ -1556,6 +1556,16 @@ Exception chaining is a method of tracebacks that enable exceptions raised
 	errors that have been raised.
 
 
+###	Warnings
+
+To avoid termination of the program by mild errors, use a warning to notify users
+	of the mild error message, and allow the *Python* program to keep executing
+	\cite[Chapter 8, pp. 159-160]{Hetland2005}
+
+
+
+
+
 ###	Ancillary Note
 
 The philosophy of "look before you leap" (LBYL) discourages exception handling
