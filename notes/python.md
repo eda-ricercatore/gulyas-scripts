@@ -614,8 +614,8 @@ Notes on *Python* Classes:
 	- In *Java*, access specifiers are also: public, protected, and private
 		\cite[Chapter 2, pp. 23; Chapter 7, pp. 138]{Schildt2007}
 		\cite[pp. 20, 145, & 153]{Eckel2006}
-	- *Python* does not support keyword-based access specifiers (or access
-		modifiers) \cite[Chapters 7, pp. 145]{Hetland2005};
+	- *Python* does not directly support keyword-based access specifiers (or
+		access modifiers) \cite[Chapters 7, pp. 145]{Hetland2005};
 		however, an attribute or method can be set to be private by adding the
 			prefix "\_\_" (i.e., two underscores)
 			\cite[Chapters 7, pp. 145]{Hetland2005}.
@@ -1214,7 +1214,7 @@ Use a **list comprehension** to perform a conditional operation iteratively on
 
 Similarly, a **generator expression** implicitly creates an iterable object to
 	iterate over a list/collection of elements and perform an operation on each
-	enumerated item/element;
+	enumerated item/element \cite[Chapter 2, pp. 35-37]{Alchin2010};
 	a generator expression needs to be surrounded by parentheses, which can
 		belong to a function (or an operation) performed on the collection of
 		objects \cite[Chapter 2, pp. 35-37]{Alchin2010}.
