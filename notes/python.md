@@ -1567,7 +1567,8 @@ To raise an exception, try either of the following
 + raise Exception, "[Error message.]"
 + raise Exception("[Error message.]")
 
-
+In \cite[\S5]{DrakeJr2016b} discusses all the "built-in exceptions" provided by the
+	the "The *Python* Standard Library" \cite[Chapter 8, pp. 161]{Hetland2005}.
 
 
 
