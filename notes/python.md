@@ -437,7 +437,8 @@ Notes on *Python* Classes:
 		* "[A mixin does] not provide full functionality on [its] own."
 + Method resolution order (MRO) determines "the order in which *Python*
 	resolves which method to use" in software that uses "multi-level or multiple
-	inheritance" \cite[Chapter 4, pp. 106]{Alchin2010}.
+	inheritance" \cite[Chapter 4, pp. 106]{Alchin2010}
+	\cite[Chapters 7, pp. 155]{Hetland2005}.
 	- Since *Python* does not know the class hierarchy, it has "to account for all
 		the possibilities" \cite[Chapter 4, pp. 108]{Alchin2010} in which it
 		determines which method to use.
