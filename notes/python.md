@@ -656,6 +656,17 @@ Notes on *Python* Classes:
 
 
 
+A suggested method/approach for object-oriented design and analysis (OOAD)
+	is mentioned in \cite[Chapter 7, pp. 156-157]{Hetland2005}.
+
+
+
+
+
+
+
+
+
 
 
 
