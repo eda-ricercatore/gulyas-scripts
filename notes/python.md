@@ -1541,9 +1541,18 @@ In *Python* 3.x:
 An exception stops the execution of the *Python* software/program due to
 	an encountered error \cite[Chapter 10, pp. 221]{Hall2009b}.
 
+Exception handling is also known as \cite[Chapter 8, pp. 162]{Hetland2005}:
++ exception trapping
++ trapping the exceptions
++ exception catching
++ catching the exceptions
+
+
+
 Use **try...except...else...finally** statements to handle exceptions
-	\cite[Chapter 10, pp. 221]{Hall2009b}, so that the *Python* program does not
-	have to terminate execution \cite[Chapter 8, pp. 159]{Hetland2005}. 
+	\cite[Chapter 10, pp. 221]{Hall2009b} \cite[Chapter 8, pp. 162]{Hetland2005},
+	so that the *Python* program does not have to terminate execution
+	\cite[Chapter 8, pp. 159]{Hetland2005}. 
 
 Any unhandled exception would terminate execution of the *Python* program and
 	produce a *traceback* (i.e., error message)
