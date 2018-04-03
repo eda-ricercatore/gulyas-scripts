@@ -426,6 +426,10 @@ Notes on *Python* Classes:
 	\cite[Chapter 4, pp. 105]{Alchin2010}. 
 	- A child class can have multiple parent classes
 		\cite[Chapters 7, pp. 155]{Hetland2005}.
+	- The order of superclasses in the class statement determines which class
+		methods will override the methods of the other class(es);
+		methods of the earlier classes will override the methods of the later
+			classes \cite[Chapters 7, pp. 155]{Hetland2005}. 
 	- Multiple inheritance enables mixins, or support classes, to provide minor
 		add-on features that can be used by a variety of classes. 
 		\cite[Chapter 4, pp. 105]{Alchin2010}.
