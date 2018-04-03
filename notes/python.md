@@ -639,13 +639,15 @@ Notes on *Python* Classes:
 		attributes and methods of a *Python* class, these attributes and
 		methods would not be "imported with starred imports"
 		(**from [module] import \***) \cite[Chapter 7, pp. 146]{Hetland2005}.
-+ Access and manage polymorphic objects by adhering to  its interface (or
++ Access and manage polymorphic objects by adhering to its interface (or
 	"protocol"), which is definied by its list of accessible methods and attributes
 	\cite[Chapter 7, pp. 155]{Hetland2005}.
-	- Unlike *Java* and *C++*, explicit interfaces (i.e., *Java* class interfaces and
+	- Unlike *Java* and *C++*, explicit interfaces (i.e., *Java* interfaces and
 		*C++* header files) are not required by *Python*
 		\cite[Chapter 7, pp. 155-156]{Hetland2005}.
-
+	- The methods **hasattr()** and **getattr()** can be used to determine if
+		a given object has certain methods or attributes
+		\cite[Chapter 7, pp. 156]{Hetland2005}. 
 
 
 
