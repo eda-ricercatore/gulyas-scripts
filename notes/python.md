@@ -178,12 +178,14 @@ Pages in \cite{Ziade2008} that deal with
 
 
 With regards to importing *Python* modules, circular dependencies is
-	forbidden/discouraged during interpretation of *Python* programs.
-	That is, don't import a *Python* module *A*, which imports another
-		*Python* module *B* that imports *Python* module *A*.
-	Or rather, **if *Python* module *A* imports *Python* module *B*, *Python*
-		module *B* should not import *Python* module *A* **
-		"\cite[Chapter 11, pp. 241]{Hall2009b}"
+	forbidden/discouraged during interpretation of *Python* programs
+	\cite[Chapter 11, pp. 241]{Hall2009b}.
++ That is, don't import a *Python* module *A*, which imports another
+	*Python* module *B* that imports *Python* module *A*.
++ Or rather, **if *Python* module *A* imports *Python* module *B*, *Python*
+	module *B* should not import *Python* module *A* **.
++ - This "import-only-once behavior" avoids cyclical imports that result in
+		"endless loops of imports" \cite[Chapter 10, pp. 204]{Hetland2005}
 
 A *Python* package is a collection of *Python* modules \cite[Chapter 11, pp. 241]{Hall2009b},
 	and is effectively a subdirectory of *Python* modules that includes a file
@@ -290,7 +292,8 @@ When a *Python* script imports a module, it \cite[Chapter 11, pp. 250]{Hall2009b
 		hence, loading of a[/any] module is not performed multiple times, and
 			the module is not executed \cite[Chapter 10, pp. 204]{Hetland2005}. 
 	- This "import-only-once behavior" avoids cyclical imports that result in
-		"endless loops of imports" \cite[Chapter 10, pp. 204]{Hetland2005}.
+		"endless loops of imports" \cite[Chapter 10, pp. 204]{Hetland2005};
+		see circular dependencies in \cite[Chapter 11, pp. 241]{Hall2009b}.
 	- To reload a *Python* module that has been modified during execution of
 		a *Python* program, try \cite[Chapter 10, pp. 205]{Hetland2005}:
 		*[module-name]* = **reload(** *[module-name]* **)**
