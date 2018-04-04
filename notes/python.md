@@ -139,12 +139,15 @@ Tasks that I want to do, but can't yet (or have yet to try):
 
 
 
-Note: "A module is a file containing *Python* definitions and statements."
+Notes about *Python* modules:
++ "A module is a file containing *Python* definitions and statements."
 	\cite[\S6 Modules]{Brandl2017a} \cite[\S6 Modules]{Brandl2017}
 	\cite[Importing Modules: Module? What's a Module?]{Thurlow2012}
 	\cite[Chapter 11, pp. 241]{Hall2009b}.
 	**This is different from how I define modules in *C++* and *Java*.**
-
++ The filename of the file containing the code for a *Python* module should be
+	the same as the name of the aforementioned *Python* module
+	\cite[Chapter 10, pp. 209]{Hetland2005}.
 
 
 
@@ -273,7 +276,7 @@ When a *Python* script imports a module, it \cite[Chapter 11, pp. 250]{Hall2009b
 		\cite[Chapter 11, pp. 251]{Hall2009b}.
 	- Alternatively, use the path configuration file (with the ***.pth*** file extension)
 		to add directories of custom *Python* modules to **sys.path**
-		\cite[Chapter 10, pp. 205]{Hetland2005}.
+		\cite[Chapter 10, pp. 209]{Hetland2005}.
 + Loads the *Python* module into memory, and creates an internal representation
 	for the *Python* module
 	- *Python* processes/"compiles" the *Python* modules into *Python* byte
