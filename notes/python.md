@@ -1622,7 +1622,9 @@ In *Example 5*, the **except** clause catches all exceptions (i.e., catchall) th
 With **try...except...else...finally** statements, the **else** block enables its
 	statements to be executed unless exceptions happen.
 
-
+With **try...except...else...finally** statements, statements in the **finally** block
+	are guaranteed to be executed, regardless of exceptions occur in the **try**
+	block.
 
 
 
