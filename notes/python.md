@@ -281,7 +281,11 @@ When a *Python* script imports a module, it \cite[Chapter 11, pp. 250]{Hall2009b
 		and classes in the module;
 		hence, loading of a[/any] module is not performed multiple times, and
 			the module is not executed \cite[Chapter 10, pp. 204]{Hetland2005}. 
-
+	- This "import-only-once behavior" avoids cyclical imports that result in
+		"endless loops of imports" \cite[Chapter 10, pp. 204]{Hetland2005}.
+	- To reload a *Python* module that has been modified during execution of
+		a *Python* program, try \cite[Chapter 10, pp. 205]{Hetland2005}:
+		*[module-name]* = **reload(** *[module-name]* **)**
 
 
 
