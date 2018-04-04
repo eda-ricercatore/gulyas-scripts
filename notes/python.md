@@ -1619,6 +1619,22 @@ In *Example 5*, the **except** clause catches all exceptions (i.e., catchall) th
 	It can also perform some type checking on the Exception object *e* to help
 		the developers determine the specific exception that occurred.
 
+With **try...except...else...finally** statements, the **else** block enables its
+	statements to be executed unless exceptions happen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Any unhandled exception would terminate execution of the *Python* program and
