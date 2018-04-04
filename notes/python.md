@@ -1552,7 +1552,31 @@ Exception handling is also known as \cite[Chapter 8, pp. 162]{Hetland2005}:
 Use **try...except...else...finally** statements to handle exceptions
 	\cite[Chapter 10, pp. 221]{Hall2009b} \cite[Chapter 8, pp. 162]{Hetland2005},
 	so that the *Python* program does not have to terminate execution
-	\cite[Chapter 8, pp. 159]{Hetland2005}. 
+	\cite[Chapter 8, pp. 159]{Hetland2005}.
+
+Example 1:
+
+	try:
+		...
+		statements
+		...
+	except [Specific Exception #1]:
+		statements
+	except [Specific Exception #2]:
+		statements
+
+
+Example 2:
+
+	try:
+		...
+		statements
+		...
+	except ([Specific Exception #1], [Specific Exception #2]):
+		statements
+
+
+
 
 Any unhandled exception would terminate execution of the *Python* program and
 	produce a *traceback* (i.e., error message)
