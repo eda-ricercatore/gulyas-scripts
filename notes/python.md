@@ -195,6 +195,8 @@ A *Python* package is a collection of *Python* modules \cite[Chapter 11, pp. 241
 	That is, a *Python* package is a "hierarchical directory structure" of
 		*Python* files \cite[Chapter 11, pp. 252]{Hall2009b}.
 
+To import all the modules from a package *A*, try: *import A*.
+
 To import a module *B* from a package *A*, try: *import A.B*.  
 
 To import a class *C* from module *B* that belongs to package *A*, try:
