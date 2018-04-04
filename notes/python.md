@@ -1452,7 +1452,7 @@ The following modules in *The Python Standard Library* \cite{DrakeJr2016e,DrakeJ
 		together \cite[Chapter 2, pp. 38]{Alchin2010};
 		an iterable is a collection "object" that can generate an iterator to
 			iterate over each element in the collection \cite[Chapter 5, pp. 155]{Alchin2010}.
-
++ \cite[Chapter 10, pp. 215-253]{Hetland2005}.
 
 
 
