@@ -1554,7 +1554,7 @@ Use **try...except...else...finally** statements to handle exceptions
 	so that the *Python* program does not have to terminate execution
 	\cite[Chapter 8, pp. 159]{Hetland2005}.
 
-Examples of catching multiple specific examples
+Here are some examples of catching multiple specific exceptions
 	\cite[Chapter 8, pp. 164]{Hetland2005}.
 
 Example 1:
