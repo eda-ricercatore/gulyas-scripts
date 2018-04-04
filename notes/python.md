@@ -273,7 +273,8 @@ When a *Python* script imports a module, it \cite[Chapter 11, pp. 250]{Hall2009b
 	for the *Python* module
 	- *Python* compiles the *Python* modules into *Python* byte code, which
 		are saved in *.pyc* files (the "c" in ".pyc" refers to compiled), for
-		faster execution \cite[Chapter 11, pp. 251]{Hall2009b}.
+		faster execution \cite[Chapter 11, pp. 251]{Hall2009b}
+		\cite[Chapter 10, pp. 204]{Hetland2005}.
 + Executes the aforementioned internal representation.
 
 
@@ -926,13 +927,11 @@ Protocols masked by *Python* syntactic sugar
 
 Pages in \cite{Hetland2005} that deal with importing
 	*Python* classes and modules:
-+ Abstraction of classes and modules, pp. 109--158 (Chapters 6-7), 173--202
-	(Chapter 9)
 + Modules and The Standard Library, pp. 203--254 (Chapter 10) 
 + Summaries: pp. 547--573 (Appendices A-C)
 
 + \cite{Hetland2005}
-	- Chapters 7-9???/10??
+	- Chapters 10??
 	- Chapters 17-19; Chapter 19 has books on OOAD.
 	- Appendices A-C
 Finished???
