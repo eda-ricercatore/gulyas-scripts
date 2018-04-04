@@ -1534,6 +1534,19 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 
 
 
+###	Database Administration
+
+Regarding the management of information systems, or database administration:
+\cite[Chapter 17, pp. ]{Hetland2005}
+
+
+
+
+
+
+
+
+
 
 
 
