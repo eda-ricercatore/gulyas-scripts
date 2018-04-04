@@ -1557,7 +1557,7 @@ Use **try...except...else...finally** statements to handle exceptions
 Here are some examples of catching multiple specific exceptions
 	\cite[Chapter 8, pp. 164]{Hetland2005}.
 
-Example 1:
+*Example 1*:
 
 	try:
 		...
@@ -1568,8 +1568,7 @@ Example 1:
 	except [Specific Exception #2]:
 		statements
 
-
-Example 2:
+*Example 2*:
 
 	try:
 		...
@@ -1578,6 +1577,47 @@ Example 2:
 	except ([Specific Exception #1], [Specific Exception #2]):
 		statements
 
+*Example 3*:
+
+	try:
+		...
+		statements
+		...
+	except ([Specific Exception #1], [Specific Exception #2]), e:
+		print e
+
+In *Example 3*, the specific exception caught, which could be either
+	***[Specific Exception #1]*** or ***[Specific Exception #2]*** (or both????),  
+	can be printed, and execution of the *Python* program resumes
+	\cite[Chapter 8, pp. 165]{Hetland2005}.
+
+*Example 4*:
+
+	try:
+		...
+		statements
+		...
+	except:
+		statements
+
+In *Example 4*, the **except** clause catches all exceptions (i.e., catchall) that
+	can occur in the **try** block, and executes the statements in the **except**
+	block of the *Python* program \cite[Chapter 8, pp. 165-166]{Hetland2005}.
+
+*Example 5*:
+
+	try:
+		...
+		statements
+		...
+	except Exception, e:
+		statements
+
+In *Example 5*, the **except** clause catches all exceptions (i.e., catchall) that
+	can occur in the **try** block, and executes the statements in the **except**
+	block of the *Python* program \cite[Chapter 8, pp. 165-166]{Hetland2005}.
+	It can also perform some type checking on the Exception object *e* to help
+		the developers determine the specific exception that occurred.
 
 
 
