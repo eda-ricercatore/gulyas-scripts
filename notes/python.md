@@ -658,8 +658,9 @@ Notes on *Python* Classes:
 A suggested method/approach for object-oriented design and analysis (OOAD)
 	is mentioned in \cite[Chapter 7, pp. 156-157]{Hetland2005}.
 
-
-
+By using sound OOAD methods to design the software architecture, the resultant
+	*Python* program would have a modular software architecture that can
+	facilitate code reuse \cite[Chapter 10, pp. 206]{Hetland2005}.
 
 
 
