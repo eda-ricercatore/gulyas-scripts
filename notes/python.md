@@ -271,11 +271,16 @@ When a *Python* script imports a module, it \cite[Chapter 11, pp. 250]{Hall2009b
 		\cite[Chapter 11, pp. 251]{Hall2009b}.
 + Loads the *Python* module into memory, and creates an internal representation
 	for the *Python* module
-	- *Python* compiles the *Python* modules into *Python* byte code, which
-		are saved in *.pyc* files (the "c" in ".pyc" refers to compiled), for
-		faster execution \cite[Chapter 11, pp. 251]{Hall2009b}
+	- *Python* processes/"compiles" the *Python* modules into *Python* byte
+		code, which are saved in *.pyc* files (the "c" in ".pyc" refers to
+		compiled), for faster execution \cite[Chapter 11, pp. 251]{Hall2009b}
 		\cite[Chapter 10, pp. 204]{Hetland2005}.
-+ Executes the aforementioned internal representation.
++ Executes the aforementioned internal representation, after loading this *Python*
+	module for the first time \cite[Chapter 10, pp. 204]{Hetland2005}.
+	- Subsequently loadings of the module do not redfine the variables, functions,
+		and classes in the module;
+		hence, loading of a[/any] module is not performed multiple times, and
+			the module is not executed \cite[Chapter 10, pp. 204]{Hetland2005}. 
 
 
 
