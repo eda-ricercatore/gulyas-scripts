@@ -1620,13 +1620,15 @@ In *Example 5*, the **except** clause catches all exceptions (i.e., catchall) th
 		the developers determine the specific exception that occurred.
 
 With **try...except...else...finally** statements, the **else** block enables its
-	statements to be executed unless exceptions happen.
+	statements to be executed unless exceptions happen
+	\cite[Chapter 8, pp. 166-168]{Hetland2005}.
 
 With **try...except...else...finally** statements, statements in the **finally** block
 	are guaranteed to be executed, regardless of exceptions occur in the **try**
-	block.
+	block \cite[Chapter 8, pp. 168]{Hetland2005}.
 
-
+When propagated exceptions cause the *Python* program to halt, use the *stack
+	trace* to determine what happened \cite[Chapter 8, pp. 168]{Hetland2005}. 
 
 
 
