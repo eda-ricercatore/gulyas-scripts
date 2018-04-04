@@ -271,6 +271,9 @@ When a *Python* script imports a module, it \cite[Chapter 11, pp. 250]{Hall2009b
 		and *The Python Standard Library*, which helps the *Python*
 		interpreter/compiler and the operating system locate *Python* modules
 		\cite[Chapter 11, pp. 251]{Hall2009b}.
+	- Alternatively, use the path configuration file (with the ***.pth*** file extension)
+		to add directories of custom *Python* modules to **sys.path**
+		\cite[Chapter 10, pp. 205]{Hetland2005}.
 + Loads the *Python* module into memory, and creates an internal representation
 	for the *Python* module
 	- *Python* processes/"compiles" the *Python* modules into *Python* byte
