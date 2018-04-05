@@ -1557,18 +1557,21 @@ Notes regarding the management of information systems, or database
 + The function **connect()** allows the *Python* software to connect to the
 	database system \cite[Chapter 13, pp. 287-288]{Hetland2005}. 
 	- **Beware of using this function with the parameters user name and
-		password, since I could end up divulging secrets of my company, group, 
+		password, since I could end up divulging secrets of my company,
+		research group, or personal liofe.**
 	- Other functions to help *Python* software manipulate objects in the
-		database systems:
+		database systems \cite[Chapter 13, pp. 288]{Hetland2005}:
 		* close()
 		* commit(), allows open connections to be closed automatically during
 			garbage collection \cite[Chapter 13, pp. 288]{Hetland2005}.
 		* rollback()
 		* cursor()
-	- There exists *cursor object methods* that allow users/developers to
-		execute SQL operations on, and fetch data from, the *SQL* database,
-		traverse/enumerate the elements in the *SQL*  database.
-
+	- There exists *cursor object methods* that allow users/developers to:
+		execute SQL operations on, and fetch data from, the *SQL* database;
+		traverse/enumerate the elements in the *SQL*  database; and perform
+		procedures on the *SQL* database \cite[Chapter 13, pp. 289]{Hetland2005}.
+	The *Python* Database API has "constructors and constants/singletons"
+		for various types and values \cite[Chapter 13, pp. 289]{Hetland2005}.
 
 
 
