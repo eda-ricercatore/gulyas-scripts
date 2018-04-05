@@ -1524,12 +1524,16 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 + Unit testing \cite[Chapter 9, pp. 217]{Alchin2010}
 	\cite[Chapter 16, pp. 341]{Hetland2005}
 + Test-driven development \cite[Chapter 9, pp. 217]{Alchin2010}
-	\cite[Chapter 16, pp. 341]{Hetland2005}
+	\cite[Chapter 16, pp. 341-342]{Hetland2005}
 + Doctests
 	- \cite[Chapter 9, pp. 218-221]{Alchin2010}
 	- \cite[Chapter 1, pp. 5--6]{Pilgrim2009}
 + **unittest** module \cite[Chapter 9, pp. 221-230]{Alchin2010}
-
++ automated regression testing
+	- It facilitates software development, and software maintenance (for fixing
+		software bugs, refactoring, performance improvement, and to add
+		features) \cite[Chapter 16, pp. 342]{Hetland2005}.
+		
 
 
 
