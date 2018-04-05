@@ -1537,9 +1537,10 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 
 ###	Database Administration
 
-Regarding the management of information systems, or database administration:
-\cite[Chapter 17, pp. ]{Hetland2005}
-
+Notes regarding the management of information systems, or database
+	administration \cite[Chapter 13, pp. 285-290]{Hetland2005}:
++ Use the *Python* Database (DB) API to connect to SQL databases, which
+	allows SQL-based queries and execution of SQL databases.  
 
 
 
