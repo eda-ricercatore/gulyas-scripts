@@ -1595,7 +1595,7 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 + taint analysis
 + formal verification
 + memory debugging
-+ software profiling \cite[Chapter 16, pp. 341, 349, 353]{Hetland2005}:
++ software profiling \cite[Chapter 16, pp. 341, 349, 353-354]{Hetland2005}:
 	- *profile*
 	- *hotshot*
 	- *timeit*
