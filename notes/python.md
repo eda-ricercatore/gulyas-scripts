@@ -1520,7 +1520,7 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 
 ###	Software Testing, Verification, and Validation
 
-*Python* software testing concepts and methods:
+*Python* software testing, verification, and validation concepts and methods:
 + Unit testing \cite[Chapter 9, pp. 217]{Alchin2010}
 	\cite[Chapter 16, pp. 341]{Hetland2005}
 + Test-driven development \cite[Chapter 9, pp. 217]{Alchin2010}
@@ -1548,18 +1548,24 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 			improve **fault isolation** by decoupling modules and decreasing
 			inter-module dependencies (especially interdependencies)
 			\cite[Chapter 16, pp. 343]{Hetland2005};
-		refactor the software to keep software changes/modifications localized,
-			so that we do not have to extensively rewrite most of the software
-			each time we make modifications to the software
+		**refactor the software** to **keep software changes/modifications
+			localized**, so that we do not have to extensively rewrite most of
+			the software each time we make modifications to the software
 			\cite[Chapter 16, pp. 343]{Hetland2005}.
-	- A sufficiently decent software test coverage gives us confidence that
-		 when we make modifications to the software (e.g., bug fixing or
-		 software refactoring), we can quickly determine the impact of these
-		  modifications on other components of the software
-		  \cite[Chapter 16, pp. 343]{Hetland2005}.
+	- A sufficiently **decent software test coverage** gives us confidence that
+		when we make modifications to the software (e.g., **bug fixing** or
+		**software refactoring**), we can quickly determine the impact of these
+		modifications on other components of the software
+		\cite[Chapter 16, pp. 343]{Hetland2005}.
 	- Automated regression testing allows us to know which component(s) of our
 		software is(/are) working /failing \cite[Chapter 16, pp. 343]{Hetland2005}.
-
++ Advice for software testing, verification, and validation:
+	- Each build of the software (or commit pushed to a software repository)
+		should satisfy all existing test cases
+		\cite[Chapter 16, pp. 344]{Hetland2005};
+		bug fixes, software refactoring, and software maintenance should not
+			result in the failure of test cases for unmodified components of the
+			software.
 
 
 
