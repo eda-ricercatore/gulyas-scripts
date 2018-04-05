@@ -1532,23 +1532,23 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 	- \cite[Chapter 1, pp. 5--6]{Pilgrim2009}
 + **unittest** module \cite[Chapter 9, pp. 221-230]{Alchin2010}
 + automated regression testing
-	- It facilitates software development, and software maintenance (for fixing
-		software bugs, refactoring, performance improvement, and to add
+	- It facilitates software development, and **software maintenance** (for
+		fixing software bugs, refactoring, performance improvement, and to add
 		features) \cite[Chapter 16, pp. 343]{Hetland2005}.
 	- It enables software developers to find and fix software bugs earlier in
-		the software development process, and avoid an unmanageable
-		accumulation of such software bugs.
+		the software development process, and avoid an **unmanageable
+		accumulation** of such software bugs.
 		\cite[Chapter 16, pp. 343]{Hetland2005}.
-	- Software development is an organic process, which may involve making
+	- Software development is an **organic process**, which may involve making
 		multiple changes to the software architecture, algorithms, and data
 		structures \cite[Chapter 16, pp. 343]{Hetland2005};
 		automated regression testing can help us refactor our software to
-			improve fault isolation by decoupling modules and decreasing
+			improve **fault isolation** by decoupling modules and decreasing
 			inter-module dependencies (especially interdependencies)
 			\cite[Chapter 16, pp. 343]{Hetland2005};
 		refactor the software to keep software changes/modifications localized,
 			so that we do not have to extensively rewrite most of the software
-			when we make modifications to the software
+			each time we make modifications to the software
 			\cite[Chapter 16, pp. 343]{Hetland2005}.
 	- A sufficiently decent software test coverage gives us confidence that
 		 when we make modifications to the software (e.g., bug fixing or
