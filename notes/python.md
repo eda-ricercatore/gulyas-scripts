@@ -1532,7 +1532,10 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 + Doctests
 	- \cite[Chapter 9, pp. 218-221]{Alchin2010}
 	- \cite[Chapter 1, pp. 5--6]{Pilgrim2009}
-+ **unittest** module \cite[Chapter 9, pp. 221-230]{Alchin2010}
+	- Facilitates validation of software documentation and supports unit testing
+		\cite[Chapter 16, pp. 344]{Hetland2005}
++ **unittest** module \cite[Chapter 9, pp. 221-230]{Alchin2010}, which is "a
+	generic testing framework" \cite[Chapter 16, pp. 344]{Hetland2005}
 + automated regression testing
 	- It facilitates software development, and **software maintenance** (for
 		fixing software bugs, refactoring, performance improvement, and to add
