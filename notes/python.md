@@ -1545,6 +1545,10 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 + **unittest** module \cite[Chapter 9, pp. 221-230]{Alchin2010}, which is "a
 	generic testing framework" \cite[Chapter 16, pp. 344]{Hetland2005} (or
 	test framework) \cite[Chapter 16, pp. 347]{Hetland2005}.
+	- A **test fixture** are a pair of methods, **startUp()** and **tearDown()**,
+		which are "executed before and after each test method" (or method in
+		the test suite) "to provide common initialization and cleanup code for
+		all the tests" \cite[Chapter 16, pp. 347]{Hetland2005}.
 + automated regression testing
 	- It facilitates software development, and **software maintenance** (for
 		fixing software bugs, refactoring, performance improvement, and to add
