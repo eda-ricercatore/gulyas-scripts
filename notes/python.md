@@ -1566,7 +1566,8 @@ Notes regarding the management of information systems, or database
 		* rollback()
 		* cursor()
 	- There exists *cursor object methods* that allow users/developers to
-		execute SQL operations on, and fetch data from, the *SQL* database.
+		execute SQL operations on, and fetch data from, the *SQL* database,
+		traverse/enumerate the elements in the *SQL*  database.
 
 
 
