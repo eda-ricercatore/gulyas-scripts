@@ -1578,9 +1578,10 @@ Some *SQL* database engines, such as *SQLite*, do not require being run as a
 	server program nor require administrator privileges to install them
 	\cite[Chapter 13, pp. 290]{Hetland2005}.
 
-*SQL* database engines can work with local files, or centralized or distributed
-	database storage systems \cite[Chapter 13, pp. 290]{Hetland2005}.
-
+*SQL* database engines can work with \cite[Chapter 13, pp. 290]{Hetland2005}:
++ local files
++ centralized database storage systems
++ distributed database storage systems
 
 
 
