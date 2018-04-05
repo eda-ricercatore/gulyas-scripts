@@ -1539,8 +1539,8 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 
 Notes regarding the management of information systems, or database
 	administration \cite[Chapter 13, pp. 285-290]{Hetland2005}:
-+ Use the *Python* Database (DB) API to connect to SQL databases, which
-	allows SQL-based queries and execution of SQL databases
++ Use the *Python* Database (DB) API to connect to *SQL* databases, which
+	allows *SQL*-based queries and execution of *SQL* databases
 	\cite[Chapter 13, pp. 285-286]{Hetland2005}.  
 + Global variables required for compliance with the *Python* Database API (or
 	*Python* DB API) \cite[Chapter 13, pp. 286-287]{Hetland2005}:
@@ -1549,7 +1549,7 @@ Notes regarding the management of information systems, or database
 	- **threadsafety**: level of thread safety supported/provided by the
 		*Python* Database API-compliant database module;
 		its acceptable values are: {0, 1, 2, 3}.
-	- **paramstyle**: the type of parameter style chosen for SQL queries;
+	- **paramstyle**: the type of parameter style chosen for *SQL* queries;
 		its acceptable values are: "format", "pyformat", "qmark", "numeric",
 			and "named".
 + Exceptions defined by the *Python* Database API enable fine-grained error
@@ -1567,13 +1567,19 @@ Notes regarding the management of information systems, or database
 		* rollback()
 		* cursor()
 	- There exists *cursor object methods* that allow users/developers to:
-		execute SQL operations on, and fetch data from, the *SQL* database;
+		execute *SQL* operations on, and fetch data from, the *SQL* database;
 		traverse/enumerate the elements in the *SQL*  database; and perform
 		procedures on the *SQL* database \cite[Chapter 13, pp. 289]{Hetland2005}.
 	The *Python* Database API has "constructors and constants/singletons"
 		for various types and values \cite[Chapter 13, pp. 289]{Hetland2005}.
 
 
+Some *SQL* database engines, such as *SQLite*, do not require being run as a
+	server program nor require administrator privileges to install them
+	\cite[Chapter 13, pp. 290]{Hetland2005}.
+
+*SQL* database engines can work with local files, or centralized or distributed
+	database storage systems \cite[Chapter 13, pp. 290]{Hetland2005}.
 
 
 
@@ -1582,7 +1588,18 @@ Notes regarding the management of information systems, or database
 
 
 
-See \cite{Molinaro2006} for further information about SQL database management
+
+
+
+
+
+
+
+
+
+
+
+See \cite{Molinaro2006} for further information about *SQL* database management
 	and administration.
 
 ## *Python* Strings
