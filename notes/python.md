@@ -1552,6 +1552,24 @@ Notes regarding the management of information systems, or database
 	- **paramstyle**: the type of parameter style chosen for SQL queries;
 		its acceptable values are: "format", "pyformat", "qmark", "numeric",
 			and "named".
++ Exceptions defined by the *Python* Database API enable fine-grained error
+	handling \cite[Chapter 13, pp. 287]{Hetland2005}.
++ The function **connect()** allows the *Python* software to connect to the
+	database system \cite[Chapter 13, pp. 287-288]{Hetland2005}. 
+	- **Beware of using this function with the parameters user name and
+		password, since I could end up divulging secrets of my company, group, 
+	- Other functions to help *Python* software manipulate objects in the
+		database systems:
+		* close()
+		* commit()
+		* rollback()
+		* cursor()
+
+
+
+
+
+
 
 
 
