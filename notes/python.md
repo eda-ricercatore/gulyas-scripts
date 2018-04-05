@@ -14,7 +14,7 @@
 	- [Input/Output Operations](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#inputoutput-operations)
 	- [Modules in *The Python Standard Library*](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#modules-in-the-python-standard-library)
 		* [Built-in Collections](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#built-in-collections)
-	- [Software Verification, Testing, and Validation](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#software-testing)
+	- [Software Testing, Verification, and Validation](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#software-testing)
 	- [Database Administration](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#database-administration)
 + [*Python* Strings](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#python-strings)
 + [Exception Handling](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#exception-handling)
@@ -1518,11 +1518,13 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 
 
 
-###	Software Verification, Testing, and Validation
+###	Software Testing, Verification, and Validation
 
 *Python* software testing concepts and methods:
 + Unit testing \cite[Chapter 9, pp. 217]{Alchin2010}
-+ Test-driven development \cite[Chapter 9, pp. 217]{Alchin2010} 
+	\cite[Chapter 16, pp. 341]{Hetland2005}
++ Test-driven development \cite[Chapter 9, pp. 217]{Alchin2010}
+	\cite[Chapter 16, pp. 341]{Hetland2005}
 + Doctests
 	- \cite[Chapter 9, pp. 218-221]{Alchin2010}
 	- \cite[Chapter 1, pp. 5--6]{Pilgrim2009}
@@ -1537,7 +1539,15 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 + taint analysis
 + formal verification
 + memory debugging
-+ software profiling
++ software profiling \cite[Chapter 16, pp. 341]{Hetland2005}
+
+
+
+
+
+
+
+
 
 
 
