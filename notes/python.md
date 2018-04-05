@@ -1561,7 +1561,8 @@ Notes regarding the management of information systems, or database
 	- Other functions to help *Python* software manipulate objects in the
 		database systems:
 		* close()
-		* commit()
+		* commit(), allows open connections to be closed automatically during
+			garbage collection.
 		* rollback()
 		* cursor()
 
