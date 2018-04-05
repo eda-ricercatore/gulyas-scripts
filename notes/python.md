@@ -1527,6 +1527,8 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 	\cite[Chapter 16, pp. 341-342]{Hetland2005}
 	- Test-driven development helps us achieve good/decent software test
 		coverage \cite[Chapter 16, pp. 343]{Hetland2005}.
+	- An outline of test-driven development is described in
+		\cite[Chapter 16, pp. 344]{Hetland2005}. 
 + Doctests
 	- \cite[Chapter 9, pp. 218-221]{Alchin2010}
 	- \cite[Chapter 1, pp. 5--6]{Pilgrim2009}
