@@ -1541,7 +1541,9 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 + memory debugging
 + software profiling \cite[Chapter 16, pp. 341]{Hetland2005}
 
-
+Software testing, verification, and validation should be performed with respect to
+	satisfying the requirements and specifications of the software
+	\cite[Chapter 16, pp. 342]{Hetland2005}.
 
 
 
