@@ -1537,6 +1537,8 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 	- Use docstrings to document software requirements for each method,
 		function, class, module, and package
 		\cite[Chapter 16, pp. 344-345]{Hetland2005}.
+	- The **doctest.testmod(** *[module name]* **)** function checks if the 
+		\cite[Chapter 16, pp. 345]{Hetland2005}.
 + **unittest** module \cite[Chapter 9, pp. 221-230]{Alchin2010}, which is "a
 	generic testing framework" \cite[Chapter 16, pp. 344]{Hetland2005}
 + automated regression testing
