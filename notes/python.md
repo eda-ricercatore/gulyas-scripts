@@ -1562,10 +1562,11 @@ Notes regarding the management of information systems, or database
 		database systems:
 		* close()
 		* commit(), allows open connections to be closed automatically during
-			garbage collection.
+			garbage collection \cite[Chapter 13, pp. 288]{Hetland2005}.
 		* rollback()
 		* cursor()
-
+	- There exists *cursor object methods* that allow users/developers to
+		execute SQL operations on, and fetch data from, the *SQL* database.
 
 
 
