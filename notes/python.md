@@ -1540,17 +1540,26 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 Notes regarding the management of information systems, or database
 	administration \cite[Chapter 13, pp. 285-290]{Hetland2005}:
 + Use the *Python* Database (DB) API to connect to SQL databases, which
-	allows SQL-based queries and execution of SQL databases.  
+	allows SQL-based queries and execution of SQL databases
+	\cite[Chapter 13, pp. 285-286]{Hetland2005}.  
++ Global variables required for compliance with the *Python* Database API (or
+	*Python* DB API) \cite[Chapter 13, pp. 286-287]{Hetland2005}:
+	- **apilevel**: version of the *Python* Database API being used;
+		its acceptable values are: "1.0" and "2.0".
+	- **threadsafety**: level of thread safety supported/provided by the
+		*Python* Database API-compliant database module;
+		its acceptable values are: {0, 1, 2, 3}.
+	- **paramstyle**: the type of parameter style chosen for SQL queries;
+		its acceptable values are: "format", "pyformat", "qmark", "numeric",
+			and "named".
 
 
 
 
 
 
-
-
-
-
+See \cite{Molinaro2006} for further information about SQL database management
+	and administration.
 
 ## *Python* Strings
 
