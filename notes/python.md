@@ -1588,14 +1588,18 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 
 
 *Python* software analysis and verification concepts and methods:
-+ static (code) analysis \cite[Chapter 16, pp. 341]{Hetland2005}:
++ static (code) analysis \cite[Chapter 16, pp. 341, 349-352]{Hetland2005}:
 	- *PyChecker*
 	- *PyLint*
 + dynamic analysis
 + taint analysis
 + formal verification
 + memory debugging
-+ software profiling \cite[Chapter 16, pp. 341]{Hetland2005}
++ software profiling \cite[Chapter 16, pp. 341, 349, 353]{Hetland2005}:
+	- *profile*
+	- *hotshot*
+	- *timeit*
++ software linting \cite[Chapter 16, pp. 349]{Hetland2005}
 
 
 Software testing, verification, and validation should be performed with respect to
