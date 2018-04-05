@@ -1531,6 +1531,8 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 + **unittest** module \cite[Chapter 9, pp. 221-230]{Alchin2010}
 
 
+
+
 *Python* software analysis and verification concepts and methods:
 + static (code) analysis \cite[Chapter 16, pp. 341]{Hetland2005}:
 	- *PyChecker*
@@ -1541,9 +1543,10 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 + memory debugging
 + software profiling \cite[Chapter 16, pp. 341]{Hetland2005}
 
+
 Software testing, verification, and validation should be performed with respect to
-	satisfying the requirements and specifications of the software
-	\cite[Chapter 16, pp. 342]{Hetland2005}.
+	satisfying the requirements and specifications of the software (i.e., software
+	requirements specification) \cite[Chapter 16, pp. 342]{Hetland2005}.
 
 
 
