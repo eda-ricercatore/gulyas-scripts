@@ -1555,7 +1555,8 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 		 software refactoring), we can quickly determine the impact of these
 		  modifications on other components of the software
 		  \cite[Chapter 16, pp. 343]{Hetland2005}.
-
+	- Automated regression testing allows us to know which component(s) of our
+		software is(/are) working /failing \cite[Chapter 16, pp. 343]{Hetland2005}.
 
 
 
