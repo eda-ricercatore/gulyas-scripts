@@ -1532,8 +1532,11 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 + automated regression testing
 	- It facilitates software development, and software maintenance (for fixing
 		software bugs, refactoring, performance improvement, and to add
-		features) \cite[Chapter 16, pp. 342]{Hetland2005}.
-		
+		features) \cite[Chapter 16, pp. 343]{Hetland2005}.
+	- It enables software developers to find and fix software bugs earlier in
+		the software development process, and avoid an unmanageable
+		accumulation of such software bugs
+		\cite[Chapter 16, pp. 343]{Hetland2005}. 
 
 
 
