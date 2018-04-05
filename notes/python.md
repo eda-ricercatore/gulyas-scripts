@@ -1548,6 +1548,30 @@ Software testing, verification, and validation should be performed with respect 
 	satisfying the requirements and specifications of the software (i.e., software
 	requirements specification) \cite[Chapter 16, pp. 342]{Hetland2005}.
 
+Use executable-requirement specification \cite{Bailey2005} to reduce or augment
+	non-executable requirements specification
+	\cite[Chapter 16, pp. 342]{Hetland2005}.
+
+Types/categories of requirements specification
+	\cite[Chapter 16, pp. 342]{Hetland2005}:
++ functional requirements
++ non-functional requirements
+	- client satisfaction
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
