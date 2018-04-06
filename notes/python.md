@@ -1630,10 +1630,11 @@ Types/categories of requirements specification
 
 ###	Industrial-Strength High-Performance Computing
 
-To develop *Python* software for industrial-strength high-performance computing
-	\cite[Chapter 17, pp. 357]{Hetland2005}.
-
-
+To develop *Python* software for industrial-strength high-performance computing,
+	use this method to improve its performance (i.e., execution time)
+	\cite[Chapter 17, pp. 357]{Hetland2005}:
++ Develop a prototype for the software only in *Python*.
++ 
 
 
 
