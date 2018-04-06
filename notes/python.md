@@ -1701,8 +1701,14 @@ Developing mixed-language software
 + Use *Pyrex*, which is a "dialect" of *Python*, to develop extensions for *Python*
 	programs and to compile *Pyrex* programs 
 	\cite[Chapter 17, pp. 361]{Hetland2005}.
-+ Use *Weave* to integrate *C*/*C++* code into
-
++ Use *Weave* (from *SciPy* distributions) to integrate *C*/*C++* code (as strings)
+	into *Python* programs \cite[Chapter 17, pp. 361]{Hetland2005};
+	this can speed up some mathematical computations
+		\cite[Chapter 17, pp. 361]{Hetland2005}.
++ Use *NumPy* with *Weave* (from *SciPy* distributions), or with *Pyrex*, to speed
+	up computations with numeric arrays \cite[Chapter 17, pp. 361]{Hetland2005};
+	avoid using lists and *for*-loops for computing with numeric arrays 
+		\cite[Chapter 17, pp. 361]{Hetland2005}.
 
 
 
