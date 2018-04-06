@@ -1721,8 +1721,12 @@ Developing mixed-language software
 	distribution "to generate boilerplate code needed for *C* extensions"
 	\cite[Chapter 17, pp. 361]{Hetland2005}.
 
-
-
+*SWIG* (Simple Wrapper and Interface Generator) allows me to
+	\cite[Chapter 17, pp. 361-362]{Hetland2005}:
++ extend programs in *Python* (and/or another programming/scripting language)
+	with *C*/*C++* extensions.
++ generate automatic wrappers for *C*/*C++* extensions, so that they can be
+	used with programs developed in other programming/scripting languages.
 
 
 
