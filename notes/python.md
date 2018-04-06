@@ -1633,11 +1633,24 @@ Types/categories of requirements specification
 To develop *Python* software for industrial-strength high-performance computing,
 	use this method to improve its performance (i.e., execution time)
 	\cite[Chapter 17, pp. 357]{Hetland2005}:
-+ Develop a prototype for the software only in *Python*.
-+ 
-
-
-
++ Develop a modular prototype for the software only in *Python*.
++ Carry out performance profiling (as opposed to memory profiling) on the
+	*Python* prototype, and determine its performance bottlenecks.
++ Implement components/modules of the *Python* prototype in a programming
+	language with better run-time performance, such as *C*, *C++*, *FORTRAN*,
+	or *Java*.
++ The result is a mixed-language software based on *Python* and at least one
+	other software programming language, which should have a faster
+	performance than the *Python* prototype;
+	this is because the performance-critical components/modules are developed
+		in programming languages with better run-time performance.
++ If the reimplemented performance-critical components/modules have a faster
+	run-time performance than the initial *Python*-based, performance-critical
+	components/modules, but the resultant, integrated, mixed-language software
+	has a slower run-time performance, the integration of the mixed-language
+	software is the cause for the performance degradation.
+	- To resolve the problem, try another method for developing mixed-language
+		software with *Python* components.
 
 
 
