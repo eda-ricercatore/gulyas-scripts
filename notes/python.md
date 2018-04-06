@@ -1712,10 +1712,14 @@ Developing mixed-language software
 + Use the *ctypes* library (**need to be imported in the *Python* program**) to
 	"import preexisting (shared) C libraries" to execute a restricted subset of *C*
 	code, without using wrappers or APIs \cite[Chapter 17, pp. 361]{Hetland2005}.
-
-
-
-
++ Use the *subprocess* module in *The Python Standard Library*
+	\cite{DrakeJr2016e,DrakeJr2016b} to enable *Python* programs to execute
+	external programs (in *C*/*C++*/otherwise), and interact with their
+	input/output (I/O) interface via the command-line arguments, and standard
+	input, output, and error streams \cite[Chapter 17, pp. 361]{Hetland2005}.
+* Use the **modulator** script from the **Tools** directory of my *Python*
+	distribution "to generate boilerplate code needed for *C* extensions"
+	\cite[Chapter 17, pp. 361]{Hetland2005}.
 
 
 
