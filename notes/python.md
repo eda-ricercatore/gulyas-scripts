@@ -1735,9 +1735,9 @@ Developing mixed-language software
 + To generate the shared library \cite[Chapter 17, pp. 362]{Hetland2005}:
 	- Develop a *SWIG* interface file for my *C*/*C++* program/extension,
 		which is similar to *C*/*C++* header files.
-	- Via the command line interface, use *SWIG* (with the *SWIG* interface file
+	- Via the command-line interface, use *SWIG* (with the *SWIG* interface file
 		as an input) to automatically generate the wrapper code for my
-		*C*/*C++* program/extension  
+		*C*/*C++* program/extension.
 	- Compile the *C*/*C++* program/extension with the automatically generated
 		wrapper code to generate the shared library.
 
