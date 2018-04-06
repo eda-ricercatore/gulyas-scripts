@@ -16,6 +16,7 @@
 		* [Built-in Collections](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#built-in-collections)
 	- [Software Testing, Verification, and Validation](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#software-testing)
 	- [Industrial-Strength High-Performance Computing](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#industrial-strength-high-performance-computing)
+	- [Developing Mixed-Language Software]()
 	- [Database Administration](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#database-administration)
 + [*Python* Strings](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#python-strings)
 + [Exception Handling](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#exception-handling)
@@ -1662,7 +1663,7 @@ To develop *Python* software for industrial-strength high-performance computing,
 
 
 
-###	Mixed-Language Software Development
+###	Developing Mixed-Language Software
 
 
 Developing mixed-language software
@@ -1672,9 +1673,29 @@ Developing mixed-language software
 	- Craft a custom wrapper
 	- Use an existing wrapper tool, such as:
 		* *SWIG*
-		* *Cython*
-		* *Jython*
-		* *IronPython*
+		* *Cython*, for *C* programs
+		* *Jython*, for *Java* programs (can access modules and classes)
+		* *IronPython*, for programs developed for the *.Net* platform (can
+			access modules and classes)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
