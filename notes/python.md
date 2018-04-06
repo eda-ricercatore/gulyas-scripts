@@ -1630,8 +1630,8 @@ Types/categories of requirements specification
 
 ###	Industrial-Strength High-Performance Computing
 
-industrial-strength high-performance computing
-
+To develop *Python* software for industrial-strength high-performance computing
+	\cite[Chapter 17, pp. 357]{Hetland2005}.
 
 
 
