@@ -1695,11 +1695,13 @@ Developing mixed-language software
 			*Jython*, or *IronPython*) when developing extensions in
 			[*C* | *Java* | *programming languages for the .Net platform*] 
 			\cite[Chapter 17, pp. 360]{Hetland2005}.
-
-
-
-
-
++ Use *Psyco* as a "specialized just-in-time compiler for *Python*" to speed up
+	run-time performance of the *Python* programs
+	\cite[Chapter 17, pp. 360]{Hetland2005}.
++ Use *Pyrex*, which is a "dialect" of *Python*, to develop extensions for *Python*
+	programs and to compile *Pyrex* programs 
+	\cite[Chapter 17, pp. 361]{Hetland2005}.
++ Use *Weave* to integrate *C*/*C++* code into
 
 
 
