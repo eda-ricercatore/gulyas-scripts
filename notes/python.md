@@ -1673,12 +1673,28 @@ Developing mixed-language software
 	- Craft a custom wrapper
 	- Use an existing wrapper tool, such as:
 		* *SWIG*
-		* *Cython*, for *C* programs
+		* *CPython*, for *C* programs
+			+ I can use *CPython* in my *C* programs
+				\cite[Chapter 17, pp. 360]{Hetland2005}.
 		* *Jython*, for *Java* programs (can access modules and classes)
+			+ Use **jythonc** to compile my *Python* classes into *Java*
+				classes, which can be merged with *Java* programs
+				\cite[Chapter 17, pp. 359]{Hetland2005}.
+			+ I can use *Jython* in my *Java* programs
+				\cite[Chapter 17, pp. 360]{Hetland2005}.
 		* *IronPython*, for programs developed for the *.Net* platform (can
 			access modules and classes)
-
-
+			+ I can use *IronPython* in my programs for the *.Net* platform
+				\cite[Chapter 17, pp. 360]{Hetland2005}.
+		* As aforementioned, *CPython*, *Jython*, and *IronPython* enable
+			extending [*C* | *Java* | *programming languages for the .Net platform*]
+				programs with *Python* code
+				\cite[Chapter 17, pp. 360]{Hetland2005}.
+		* To extend *Python* programs with *CPython*, *Jython*, or *IronPython*,
+			adhere to the requirements of their API (i.e., API of *CPython*,
+			*Jython*, or *IronPython*) when developing extensions in
+			[*C* | *Java* | *programming languages for the .Net platform*] 
+			\cite[Chapter 17, pp. 360]{Hetland2005}.
 
 
 
