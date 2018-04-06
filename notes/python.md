@@ -1709,7 +1709,9 @@ Developing mixed-language software
 	up computations with numeric arrays \cite[Chapter 17, pp. 361]{Hetland2005};
 	avoid using lists and *for*-loops for computing with numeric arrays 
 		\cite[Chapter 17, pp. 361]{Hetland2005}.
-
++ Use the *ctypes* library (**need to be imported in the *Python* program**) to
+	"import preexisting (shared) C libraries" to execute a restricted subset of *C*
+	code, without using wrappers or APIs \cite[Chapter 17, pp. 361]{Hetland2005}.
 
 
 
