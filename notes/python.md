@@ -1735,6 +1735,11 @@ Developing mixed-language software
 + To generate the shared library \cite[Chapter 17, pp. 362]{Hetland2005}:
 	- Develop a *SWIG* interface file for my *C*/*C++* program/extension,
 		which is similar to *C*/*C++* header files.
+		* The interface file enables customization of the *SWIG* wrapper by
+			specifying what to export, and/or what not to export, to *Python*
+			\cite[Chapter 17, pp. 363]{Hetland2005}.
+		* By selecting of small subset of a *C*/*C++* library to export to *Python*,
+			we do not have to export the large *C*/*C++* library.
 	- Via the command-line interface, use *SWIG* (with the *SWIG* interface file
 		as an input) to automatically generate the wrapper code for my
 		*C*/*C++* program/extension.
