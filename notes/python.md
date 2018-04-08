@@ -1745,7 +1745,7 @@ Developing mixed-language software
 		*C*/*C++* program/extension.
 	- Compile the *C*/*C++* program/extension with the automatically generated
 		wrapper code to generate the shared library.
-
+[Insert reference for SWIG]
 
 
 
