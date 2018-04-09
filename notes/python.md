@@ -1717,7 +1717,7 @@ Developing mixed-language software
 	external programs (in *C*/*C++*/otherwise), and interact with their
 	input/output (I/O) interface via the command-line arguments, and standard
 	input, output, and error streams \cite[Chapter 17, pp. 361]{Hetland2005}.
-* Use the **modulator** script from the **Tools** directory of my *Python*
++ Use the **modulator** script from the **Tools** directory of my *Python*
 	distribution "to generate boilerplate code needed for *C* extensions"
 	\cite[Chapter 17, pp. 361]{Hetland2005}.
 + Use *Boost.Python* \cite{Abrahams2015a}.
