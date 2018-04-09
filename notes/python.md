@@ -1720,6 +1720,8 @@ Developing mixed-language software
 * Use the **modulator** script from the **Tools** directory of my *Python*
 	distribution "to generate boilerplate code needed for *C* extensions"
 	\cite[Chapter 17, pp. 361]{Hetland2005}.
++ Use *Boost.Python* \cite{Abrahams2015a}.
++ Use *SIP* \cite{RiverbankComputingLimitedStaff2016}.
 
 
 
@@ -1747,7 +1749,8 @@ Developing mixed-language software
 		wrapper code to generate the shared library.
 + \cite{Fulton2011}, which is the official source about *SWIG*, contains more
 	information about *SWIG*. 
-RiverbankComputingLimitedStaff2016
+
+
 
 
 
