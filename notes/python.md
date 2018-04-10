@@ -1791,6 +1791,7 @@ Suggested framework for developing *C*/*C++* programs/extensions for
 	mixed-language software \cite[Chapter 17, pp. 367-368]{Hetland2005}:
 + Include the **Python.h** header file first \cite[Chapter 17, pp. 367]{Hetland2005}
 	+ Include other standard header files later.
+	+ This enables some platforms to carry out redefinitions.
 
 
 
