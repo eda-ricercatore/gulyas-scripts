@@ -1745,10 +1745,22 @@ Developing mixed-language software
 	- Via the command-line interface, use *SWIG* (with the *SWIG* interface file
 		as an input) to automatically generate the wrapper code for my
 		*C*/*C++* program/extension.
+		* Use the "Man page" (from the *UNIX*/*Linux* "manual") to view the
+			complete list of options for running *SWIG* \cite{Fulton2011} from
+			the command-line interface
+			\cite[Chapter 17, pp. 363-364]{Hetland2005}.
+		* The wrapper code consist of a pair of files for each *SWIG* interface
+			file; the *C*/*C++* wrapper and its corresponding *Python* file
+			\cite[Chapter 17, pp. 364]{Hetland2005}. 
 	- Compile the *C*/*C++* program/extension with the automatically generated
 		wrapper code to generate the shared library.
 + \cite{Fulton2011}, which is the official source about *SWIG*, contains more
 	information about *SWIG*. 
++ 
+
+
+
+
 
 
 
