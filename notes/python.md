@@ -1663,6 +1663,13 @@ To develop *Python* software for industrial-strength high-performance computing,
 
 
 
+
+
+
+
+
+
+
 ###	Developing Mixed-Language Software
 
 
@@ -1671,6 +1678,8 @@ Developing mixed-language software
 + Developing wrappers around existing legacy code to add *Python* extension
 	library \cite[Chapter 17, pp. 358]{Hetland2005}:
 	- Craft a custom wrapper
+		* Develop *C* programs that uses the *Python C* API \cite{DrakeJr2018a}
+			directly \cite[Chapter 17, pp. 365]{Hetland2005}.
 	- Use an existing wrapper tool, such as:
 		* *SWIG*
 		* *CPython*, for *C* programs
@@ -1776,6 +1785,12 @@ Developing mixed-language software
 
 
 
+
+
+Suggested framework for developing *C*/*C++* programs/extensions for
+	mixed-language software \cite[Chapter 17, pp. 367-368]{Hetland2005}:
++ Include the **Python.h** header file first \cite[Chapter 17, pp. 367]{Hetland2005}
+	+ Include other standard header files later.
 
 
 
