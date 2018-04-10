@@ -1765,9 +1765,14 @@ Developing mixed-language software
 			package (i.e., **python-dev**) so that I can access the required
 			header files and the **Include** subdirectory of
 			**$PYTHON\_HOME** \cite[Chapter 17, pp. 364]{Hetland2005}.
+		* The resultant output file is a shared library with a **.so** extension,
+			which can be added to my **PYTHONPATH** so that my *Python*
+			code can access the *C*/*C++* program/extension
+			\cite[Chapter 17, pp. 365]{Hetland2005}.
 + \cite{Fulton2011}, which is the official source about *SWIG*, contains more
 	information about *SWIG*.
-
++ To simplify the compilation steps during build automation (with a *Makefile* or
+	otherwise), use **Distutils** \cite[Chapter 17, pp. 365]{Hetland2005}.
 
 
 
