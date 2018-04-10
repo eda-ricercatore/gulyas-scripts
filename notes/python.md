@@ -1754,9 +1754,20 @@ Developing mixed-language software
 			\cite[Chapter 17, pp. 364]{Hetland2005}. 
 	- Compile the *C*/*C++* program/extension with the automatically generated
 		wrapper code to generate the shared library.
+		* Details of compiling, linking, and using the *SWIG*-generated wrappers
+			are found in \cite[Chapter 17, pp. 364]{Hetland2005}.
+		* This requires access to the following header files that are found in the
+			source code of my *Python* distribution (or location of my *Python*
+			installation): **pyconfig.h** and **Python.h**
+			\cite[Chapter 17, pp. 364]{Hetland2005}.
+		* If I cannot find the location of my *Python* installation because I had
+			used a package manager to install *Python*, install a separate
+			package (i.e., **python-dev**) so that I can access the required
+			header files and the **Include** subdirectory of
+			**$PYTHON\_HOME** \cite[Chapter 17, pp. 364]{Hetland2005}.
 + \cite{Fulton2011}, which is the official source about *SWIG*, contains more
-	information about *SWIG*. 
-+ 
+	information about *SWIG*.
+
 
 
 
