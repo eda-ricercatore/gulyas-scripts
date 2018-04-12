@@ -1790,9 +1790,17 @@ Developing mixed-language software
 Suggested framework for developing *C*/*C++* programs/extensions for
 	mixed-language software \cite[Chapter 17, pp. 367-368]{Hetland2005}:
 + Include the **Python.h** header file first \cite[Chapter 17, pp. 367]{Hetland2005}
-	+ Include other standard header files later.
-	+ This enables some platforms to carry out redefinitions.
-
+	- Include other standard header files later.
+	- This enables some platforms to carry out redefinitions that would be used
+		by other header files.
++ Define a static function that \cite[Chapter 17, pp. 367]{Hetland2005}:
+	- Two parameters:
+		* pointers "to an object of the *PyObject* type"
+		* **self** object, which is a self-object (in bound methods),
+			or **NULL** (otherwise -- for other methods).
+		* **args** object, which is "a tuple of arguments" passed to the function
+			\cite[Chapter 17, pp. 368]{Hetland2005}
+	- Returns a pointer (or owned reference) "to an object of the *PyObject* type".
 
 
 
