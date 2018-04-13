@@ -1636,7 +1636,7 @@ To develop *Python* software for industrial-strength high-performance computing,
 	\cite[Chapter 17, pp. 357]{Hetland2005}:
 + Develop a modular prototype for the software only in *Python*.
 	- "Encapsulate potential bottlenecks"
-		\cite[Chapter 17, pp. 357-358]{Hetland2005}.
+		\cite[Chapter 17, pp. 357-358, 370]{Hetland2005}.
 + Carry out performance profiling (as opposed to memory profiling) on the
 	*Python* prototype, and determine its performance bottlenecks.
 + Implement components/modules of the *Python* prototype in a programming
@@ -1675,6 +1675,10 @@ To develop *Python* software for industrial-strength high-performance computing,
 
 Developing mixed-language software
 	\cite[Chapter 17, pp. 357-358]{Hetland2005}:
++ Extension philosophy \cite[Chapter 17, pp. 370]{Hetland2005}:
+	- To use existing (legacy) code (e.g., in *C*, *C++*, *FORTRAN*, ...), which are
+		not developed in *Python*
+	- To speed up bottlenecks; see [Industrial-Strength High-Performance Computing](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#developing-mixed-language-software).
 + Developing wrappers around existing legacy code to add *Python* extension
 	library \cite[Chapter 17, pp. 358]{Hetland2005}:
 	- Craft a custom wrapper
