@@ -1830,7 +1830,9 @@ Use the *Distutils* toolkit to distribute *Python* packages
 	shall:
 	- Build archive files for distribution
 	- Use archive files for compiling and installing *Python* libraries.
-+ 
++ Build *(Microsoft) Windows* installers for *Python* packages.
++ Build *(Microsoft) Windows* executable *Python* programs, using the
+	**py2exe** extension.  
 
 
 
