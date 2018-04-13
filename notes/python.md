@@ -1678,7 +1678,7 @@ Developing mixed-language software
 + Extension philosophy \cite[Chapter 17, pp. 370]{Hetland2005}:
 	- To use existing (legacy) code (e.g., in *C*, *C++*, *FORTRAN*, ...), which are
 		not developed in *Python*
-	- To speed up bottlenecks; see [Industrial-Strength High-Performance Computing](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#developing-mixed-language-software).
+	- To speed up bottlenecks; see [Industrial-Strength High-Performance Computing](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#industrial-strength-high-performance-computing).
 + Developing wrappers around existing legacy code to add *Python* extension
 	library \cite[Chapter 17, pp. 358]{Hetland2005}:
 	- Craft a custom wrapper
