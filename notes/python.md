@@ -14,7 +14,7 @@
 	- [Input/Output Operations](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#inputoutput-operations)
 	- [Modules in *The Python Standard Library*](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#modules-in-the-python-standard-library)
 		* [Built-in Collections](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#built-in-collections)
-	- [Software Testing, Verification, and Validation](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#software-testing)
+	- [Software Testing, Verification, and Validation](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#software-testing-verification-and-validation)
 	- [Industrial-Strength High-Performance Computing](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#industrial-strength-high-performance-computing)
 	- [Developing Mixed-Language Software](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#developing-mixed-language-software)
 	- [Packaging *Python* Programs](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#packaging-python-programs)
