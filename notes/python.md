@@ -1824,10 +1824,13 @@ Suggested framework for developing *C*/*C++* programs/extensions for
 
 ###	Packaging *Python* Programs
 
-
-
-
-
+Use the *Distutils* toolkit to distribute *Python* packages
+	\cite[Chapter 18, pp. 373]{Hetland2005}:
++ Develop *Python*-based install scripts for a *Python* package; the install script
+	shall:
+	- Build archive files for distribution
+	- Use archive files for compiling and installing *Python* libraries.
++ 
 
 
 
