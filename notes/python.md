@@ -17,6 +17,7 @@
 	- [Software Testing, Verification, and Validation](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#software-testing)
 	- [Industrial-Strength High-Performance Computing](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#industrial-strength-high-performance-computing)
 	- [Developing Mixed-Language Software](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#developing-mixed-language-software)
+	- [Packaging *Python* Programs]()
 	- [Database Administration](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#database-administration)
 + [*Python* Strings](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#python-strings)
 + [Exception Handling](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#exception-handling)
@@ -1805,6 +1806,40 @@ Suggested framework for developing *C*/*C++* programs/extensions for
 		* **args** object, which is "a tuple of arguments" passed to the function
 			\cite[Chapter 17, pp. 368]{Hetland2005}
 	- Returns a pointer (or owned reference) "to an object of the *PyObject* type".
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+###	Packaging *Python* Programs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
