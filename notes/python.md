@@ -1838,9 +1838,11 @@ Use the *Distutils* toolkit to distribute *Python* packages
 
 
 
+####	References for Packaging *Python* Programs
 
-
-
+References for packaging *Python* programs:
++ [\cite[\S27, Software Packaging and Distribution]{DrakeJr2016e}](https://docs.python.org/2/library/distribution.html)
++ [\cite[\S28, Software Packaging and Distribution]{DrakeJr2016b}](https://docs.python.org/3/library/distribution.html)
 
 
 
