@@ -1833,7 +1833,7 @@ Use the *Distutils* toolkit to distribute *Python* packages
 + Build *(Microsoft) Windows* installers for *Python* packages.
 + Build *(Microsoft) Windows* executable *Python* programs, using the
 	**py2exe** extension.  
-+ Build self-installing archive for my binaries
++ Build self-installing archives for my binaries
 
 
 
