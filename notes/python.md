@@ -1850,7 +1850,7 @@ Use the *Distutils* toolkit to distribute *Python* packages
 		**./setup.py install**
 		* Automatically runs the build command:
 			**./setup.py build**
-
+	- The setup script adds my/our custom modules to **PYTHONPATH**.
 
 
 
