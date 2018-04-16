@@ -1853,10 +1853,11 @@ Use the *Distutils* toolkit to distribute *Python* packages
 	- The setup script adds my/our custom modules to **PYTHONPATH**.
 + There are no universal conventions for:
 	- uninstall \cite[Chapter 18, pp. 375]{Hetland2005}
++ Additional commands of interest:
+	- **sdist** ("for `source distribution' "); to create an archive file for the installed *Python* program \cite[Chapter 18, pp. 376]{Hetland2005}; **./setup.py sdist**.
 + *Distuils* directives \cite[Chapter 18, pp. 376]{Hetland2005}:
 	- **py\_modules**: to install *Python* modules \cite[Chapter 18, pp. 376]{Hetland2005}
 	- **packages**: to install *Python* packages \cite[Chapter 18, pp. 376]{Hetland2005}
-	- **sdist** ("for `source distribution' "): to create an archive file for the installed *Python* program \cite[Chapter 18, pp. 376]{Hetland2005}.
 + Use *Distutils* to create configuration files to set up properties of the installed
 	*Python* program \cite[Chapter 18, pp. 376]{Hetland2005}.
 
