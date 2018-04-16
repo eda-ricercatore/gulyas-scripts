@@ -1851,8 +1851,12 @@ Use the *Distutils* toolkit to distribute *Python* packages
 		* Automatically runs the build command:
 			**./setup.py build**
 	- The setup script adds my/our custom modules to **PYTHONPATH**.
-
-
++ There are no universal conventions for:
+	- uninstall \cite[Chapter 18, pp. 375]{Hetland2005}
++ *Distuils* directives \cite[Chapter 18, pp. 376]{Hetland2005}:
+	- **py\_modules**: to install *Python* modules \cite[Chapter 18, pp. 376]{Hetland2005}
+	- **packages**: to install *Python* packages \cite[Chapter 18, pp. 376]{Hetland2005}
+	
 
 
 
