@@ -1846,8 +1846,10 @@ Use the *Distutils* toolkit to distribute *Python* packages
  + Universal conventions for *Distutils*-based setup scripts
  	\cite[Chapter 18, pp. 374]{Hetland2005}:
  	- The setup script is named: **setup.py**.
-
-
+	- Run the install command \cite[Chapter 18, pp. 374]{Hetland2005}:
+		**./setup.py install**
+		* Automatically runs the build command:
+			**./setup.py build**
 
 
 
