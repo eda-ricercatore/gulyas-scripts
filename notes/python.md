@@ -1856,6 +1856,7 @@ Use the *Distutils* toolkit to distribute *Python* packages
 + *Distuils* directives \cite[Chapter 18, pp. 376]{Hetland2005}:
 	- **py\_modules**: to install *Python* modules \cite[Chapter 18, pp. 376]{Hetland2005}
 	- **packages**: to install *Python* packages \cite[Chapter 18, pp. 376]{Hetland2005}
+	- **sdist** ("for `source distribution' "): to create an archive file for the installed *Python* program \cite[Chapter 18, pp. 376]{Hetland2005}.
 + Use *Distutils* to create configuration files to set up properties of the installed
 	*Python* program \cite[Chapter 18, pp. 376]{Hetland2005}.
 
