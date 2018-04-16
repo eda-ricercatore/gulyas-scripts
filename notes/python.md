@@ -1840,7 +1840,17 @@ Use the *Distutils* toolkit to distribute *Python* packages
 
 ####	References for Packaging *Python* Programs
 
-References for packaging *Python* programs:
+\cite{Ward2018a} \cite[Distributing Python Modules (Legacy version)]{DrakeJr2017c,DrakeJr2016d}
+	shows how to write a setup script to install *Python* programs.
+
+
+
+
+
+
+
+
+References for packaging *Python* programs \cite[Chapter 18, pp. 373]{Hetland2005}:
 + [\cite[\S27, Software Packaging and Distribution]{DrakeJr2016e}](https://docs.python.org/2/library/distribution.html)
 	- [\cite[\S27.1, distutils -- Building and installing *Python* modules]{DrakeJr2016e}](https://docs.python.org/2/library/distutils.html)
 + [\cite[\S28, Software Packaging and Distribution]{DrakeJr2016b}](https://docs.python.org/3/library/distribution.html)
