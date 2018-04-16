@@ -1842,7 +1842,10 @@ Use the *Distutils* toolkit to distribute *Python* packages
 
 \cite{Ward2018a} \cite[Distributing Python Modules (Legacy version)]{DrakeJr2017c,DrakeJr2016d}
 	shows how to write a setup script to install *Python* programs
-	\cite[Chapter 18, pp. 373-374]{Hetland2005}.
+	\cite[Chapter 18, pp. 373-374]{Hetland2005}:
+ + Universal conventions for *Distutils*-based setup scripts
+ 	\cite[Chapter 18, pp. 374]{Hetland2005}:
+ 	- The setup script is named: **setup.py**.
 
 
 
