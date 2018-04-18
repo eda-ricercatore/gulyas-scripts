@@ -2041,7 +2041,10 @@ Use extreme programming (XP) \cite[Chapter 19, pp. 381]{Hetland2005} \cite{Press
 		latter programming languages \cite[Chapter 19, pp. 383]{Hetland2005}.
 	- Prototyping facilitates iterative and incremental development (IID \cite{Brown2017,Babar2014,Boehm2014,Wysocki2014,Kumar2013,Robertson2013,Sifakis2013,Jalote2008,Shore2008,Schach2007,Sommerville2007,37signals2006,Subramaniam2006,Larman2005,Boehm2004,Larman2004,Wickens2004a,Wickens2004b,Larman2003,Larman2002,Felleisen2001,BrooksJr1995},
 		instead of up-front detailed analysis and design 
-		\cite[Chapter 19, pp. 383]{Hetland2005}
+		\cite[Chapter 19, pp. 383]{Hetland2005}.
+	- The executable prototypes (in *Python*) enable software developers to
+		notice problems, weaknesses, and incompleteness of the
+		prototypes \cite[Chapter 19, pp. 383]{Hetland2005}.  
 + Embrace automated software testing to facilitate software refactoring
 	\cite[Chapter 19, pp. 382]{Hetland2005}.
 + Practice the "good enough" philosophy \cite[Chapter 19, pp. 383]{Hetland2005}
