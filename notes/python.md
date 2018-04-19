@@ -2044,7 +2044,8 @@ Use extreme programming (XP) \cite[Chapter 19, pp. 381]{Hetland2005} \cite{Press
 		\cite[Chapter 19, pp. 383]{Hetland2005}.
 	- The executable prototypes (in *Python*) enable software developers to
 		notice problems, weaknesses, and incompleteness of the
-		prototypes \cite[Chapter 19, pp. 383]{Hetland2005}.  
+		prototypes \cite[Chapter 19, pp. 383]{Hetland2005}, which can be
+		fixed in subsequent iterations of the project (during the IID process).  
 + Embrace automated software testing to facilitate software refactoring
 	\cite[Chapter 19, pp. 382]{Hetland2005}.
 + Practice the "good enough" philosophy \cite[Chapter 19, pp. 383]{Hetland2005}
