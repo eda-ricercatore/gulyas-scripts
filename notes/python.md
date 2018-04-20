@@ -2033,7 +2033,24 @@ Use extreme programming (XP) \cite[Chapter 19, pp. 381]{Hetland2005} \cite{Press
 + Have the courage to refactor the software to improve certain qualities/aspects
 	of the software \cite[Chapter 19, pp. 382]{Hetland2005}.
 	- This involves modifying the software architecture and selection of
-		algorithms to implement \cite[Chapter 19, pp. 382]{Hetland2005}. 
+		algorithms to implement \cite[Chapter 19, pp. 382]{Hetland2005}.
+	- Extract symbolic constants, which are global variables that are treated as
+		constants (preferably named in upper case with underscores), and
+		provide users/developer access to these so that they can
+		customize/configure these symbolic constants easily
+		\cite[Chapter 19, pp. 383-384]{Hetland2005}.
+		* Replace multiple instances of numbers or strings as symbolic constants
+			\cite[Chapter 19, pp. 383-384]{Hetland2005}.
+		* These symbolic constants can be placed at the top of a module
+			or together in a separate module for configuration.
+			\cite[Chapter 19, pp. 384]{Hetland2005}.
+		* Use the *ConfigParser* module from The Python Standard Library
+			\cite{DrakeJr2016b,DrakeJr2016e} to create a configuration file
+			for configuring symbolic constants \cite[Chapter 19, pp. 384]{Hetland2005}.
+		* When creating the configuration file for the *ConfigParser* module,
+			split the symbolic constants into named sections using the format
+			*[section-name]*; the square brackets are required
+			\cite[Chapter 19, pp. 384]{Hetland2005}.
 + Embrace prototyping early in my software development process
 	\cite[Chapter 19, pp. 382]{Hetland2005}.
 	- Since programming in *Python* involves writing less boilerplate code than
@@ -2055,6 +2072,20 @@ Use extreme programming (XP) \cite[Chapter 19, pp. 381]{Hetland2005} \cite{Press
 		keeps me from completing or releasing "imperfect" work, which
 		Prof. Derek Abbott and Prof. Laszlo Bela Kish during our reunion
 		in early November 2016. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
