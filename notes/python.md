@@ -2052,7 +2052,7 @@ Use extreme programming (XP) \cite[Chapter 19, pp. 381]{Hetland2005} \cite{Press
 			*[section-name]*; the square brackets are required
 			\cite[Chapter 19, pp. 384]{Hetland2005}.
 		* Making the software configurable/parameterizable allows the software
-			to be customizable \cite[Chapter 19, pp. 384]{Hetland2005}.
+			to be customizable \cite[Chapter 19, pp. 385]{Hetland2005}.
 + Embrace prototyping early in my software development process
 	\cite[Chapter 19, pp. 382]{Hetland2005}.
 	- Since programming in *Python* involves writing less boilerplate code than
