@@ -2066,7 +2066,7 @@ Use extreme programming (XP) \cite[Chapter 19, pp. 381]{Hetland2005} \cite{Press
 		prototypes \cite[Chapter 19, pp. 383]{Hetland2005}, which can be
 		fixed in subsequent iterations of the project (during the IID process).  
 + Embrace automated software testing to facilitate software refactoring
-	\cite[Chapter 19, pp. 382]{Hetland2005}.
+	\cite[Chapter 19, pp. 382]{Hetland2005}; see subsection on [Software Testing, Verification, and Validation](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#software-testing-verification-and-validation).
 + Practice the "good enough" philosophy \cite[Chapter 19, pp. 383]{Hetland2005}
 	\cite{Martelli2016a,Martelli2016}, which is also espoused by Prof. Jiang Hu
 	during his classes and research lab meetings (*personal communication*).
