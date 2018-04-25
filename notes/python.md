@@ -1586,7 +1586,16 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 		bug fixes, software refactoring, and software maintenance should not
 			result in the failure of test cases for unmodified components of the
 			software.
-
++ To performing logging, choose a non-empty subset of the following:
+	- trace/print statements, printed to standard output/error.
+	- trace/print statements, output to a text file
+		\cite[Chapter 19, pp. 385-386]{Hetland2005}:
+		* Open and close file at the beginning and the end of the *Python*
+			program.
+		* Open and close file at the beginning and the end of each (set of) trace
+			statement in the *Python* program.
+	- trace/print statements, via the **logging** module of *The Python Standard
+		Library* \cite{DrakeJr2016e,DrakeJr2016b}.
 
 
 
