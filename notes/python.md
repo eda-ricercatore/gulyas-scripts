@@ -1594,8 +1594,10 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 			program.
 		* Open and close file at the beginning and the end of each (set of) trace
 			statement in the *Python* program.
-	- trace/print statements, via the **logging** module of *The Python Standard
-		Library* \cite{DrakeJr2016e,DrakeJr2016b}.
+	- trace/print statements, via the **logging** module \cite[Chapter 19, pp. 386]{Hetland2005}
+		of *The Python Standard Library* \cite{DrakeJr2016e,DrakeJr2016b}.
+		* Configure the **logging** module to customize the log entries/files
+			\cite[Chapter 19, pp. 387]{Hetland2005} 
 
 
 
