@@ -2088,10 +2088,14 @@ Use extreme programming (XP) \cite[Chapter 19, pp. 381]{Hetland2005} \cite{Press
 
 
 
-
-
-
-
+Suggested reading from \cite[Chapter 19, pp. 387]{Hetland2005}:
++ \cite{Hunt1999}
++ \cite{Fields2010,Fowler1999}
++ \cite{Gamma1995}
++ \cite{Beck2003}
++ \cite{Raymond2004}
++ \cite{Cormen2009,Cormen2001,Cormen2002}
++ \cite{Knuth2005,Knuth1997,Knuth1997a,Knuth1998,Knuth2011}
 
 
 
