@@ -657,6 +657,9 @@ Notes on *Python* Classes:
 		attributes and methods of a *Python* class, these attributes and
 		methods would not be "imported with starred imports"
 		(**from [module] import \***) \cite[Chapter 7, pp. 146]{Hetland2005}.
+	- *Python* does not have access specifiers;
+		hence, its member variables (attributes) and methods cannot be
+			private nor protected \cite[Appendix A, pp. 552]{Hetland2005}
 + Access and manage polymorphic objects by adhering to its interface (or
 	"protocol" \cite[Chapter 9, pp. 179]{Hetland2005}), which is definied by its list of accessible methods and attributes
 	\cite[Chapter 7, pp. 155]{Hetland2005}.
@@ -959,13 +962,7 @@ Pages in \cite{Hetland2005} that deal with importing
 + Modules and The Standard Library, pp. 203--254 (Chapter 10) 
 + Summaries: pp. 547--573 (Appendices A-C)
 
-+ \cite{Hetland2005}
-	- Chapters 10??
-	- Chapters 17-19; Chapter 19 has books on OOAD.
-	- Appendices A-C
-Finished???
-Appendix ???
-\cite[Chapter 17, pp. ]{Hetland2005}
+
 
 Chapter 3, 7, 9.
 \cite[Appendices A and B]{Langtangen2009}.
