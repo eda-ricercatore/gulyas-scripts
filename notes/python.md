@@ -659,7 +659,7 @@ Notes on *Python* Classes:
 		(**from [module] import \***) \cite[Chapter 7, pp. 146]{Hetland2005}.
 	- *Python* does not have access specifiers;
 		hence, its member variables (attributes) and methods cannot be
-			private nor protected \cite[Appendix A, pp. 552]{Hetland2005}
+			private nor protected \cite[Appendix A, pp. 552]{Hetland2005}.
 + Access and manage polymorphic objects by adhering to its interface (or
 	"protocol" \cite[Chapter 9, pp. 179]{Hetland2005}), which is definied by its list of accessible methods and attributes
 	\cite[Chapter 7, pp. 155]{Hetland2005}.
@@ -2359,6 +2359,14 @@ The primary built-in object types in *Python*
 
 
 
+
+Use **assert statements** to check if invariants \cite{Lee2017a,Lee2015b,Lee2014a,Backhouse2011,Lee2011,Zeller2009,Baier2008,Tucker2007,Hailperin1999,Manna1992},
+	such as preconditions, assertions, and postconditions \cite{Pierce2017,Laplante2014,Dale2012,Kourie2012,Kundu2011,Zeller2009,Tucker2007,Baldwin2004,Huth2004,Monin2003,Hailperin1999},
+	are true \cite[Appendix B, pp. 566]{Hetland2005}.
+
+The format for an assert statement is \cite[Appendix B, pp. 566]{Hetland2005}:
+	**assert [** *boolean condition* **]**, **[Error message to notify user that
+		the asssertion failed]**.
 
 
 
