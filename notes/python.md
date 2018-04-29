@@ -2368,7 +2368,10 @@ The format for an assert statement is \cite[Appendix B, pp. 566]{Hetland2005}:
 	**assert [** *boolean condition* **]**, **[Error message to notify user that
 		the asssertion failed]**.
 
-
+Augmented assignment statements provide short cuts for various arithmetic
+	expressions \cite[Appendix B, pp. 566]{Hetland2005}.
+	E.g., **x \*= 3** is equivalent to **x = x \* 3**.
+	E.g., **x += 7** is equivalent to **x = x + 7**.
 
 
 
