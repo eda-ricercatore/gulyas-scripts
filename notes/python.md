@@ -2373,7 +2373,10 @@ Augmented assignment statements provide short cuts for various arithmetic
 	E.g., **x \*= 3** is equivalent to **x = x \* 3**.
 	E.g., **x += 7** is equivalent to **x = x + 7**.
 
-
+The **pass** statement is used to represent "no-op" operations
+	\cite[Appendix B, pp. 567]{Hetland2005}.
+	It can be used in *try-catch* blocks.
+	Note that *Python* has no switch statements.
 
 
 
