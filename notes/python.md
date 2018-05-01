@@ -2378,7 +2378,7 @@ The **pass** statement is used to represent "no-op" operations
 	It can be used in *try-catch* blocks.
 	Note that *Python* has no switch statements.
 
-
+"The **del statement** unbinds variables and attributes, and removes parts (positions, slices, or slots) from data structures (mappings or sequences). It cannot be used to delete values directly because values are only deleted through garbage collection \cite[Appendix B, pp. 567]{Hetland2005}."
 
 
 
