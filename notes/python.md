@@ -1865,7 +1865,7 @@ Use the *Distutils* toolkit to distribute *Python* packages
 	\cite[Chapter 18, pp. 376]{Hetland2005}.
 
 
-\cite[Chapter 10, pp. 210, 215-253]{Hetland2005}
+
 \cite[Chapter 18, pp. 376]{Hetland2005}
 
 
