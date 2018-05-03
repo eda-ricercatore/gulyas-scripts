@@ -2359,6 +2359,32 @@ The primary built-in object types in *Python*
 
 
 
+Types of *Python* statements \cite[Appendix B, pp. 566-570]{Hetland2005}:
++ simple statements \cite[Appendix B, pp. 566-569]{Hetland2005}:
+	- expression statements \cite[Appendix B, pp. 566]{Hetland2005}
+	- asset statements \cite[Appendix B, pp. 566]{Hetland2005}
+	- assignment statements \cite[Appendix B, pp. 566]{Hetland2005}
+	- augmented assignment statements \cite[Appendix B, pp. 566]{Hetland2005}
+	- pass statements \cite[Appendix B, pp. 567]{Hetland2005}
+	- del statements \cite[Appendix B, pp. 567]{Hetland2005}
+	- print statements \cite[Appendix B, pp. 567]{Hetland2005}
+	- return statements \cite[Appendix B, pp. 567]{Hetland2005}
+	- yield statements \cite[Appendix B, pp. 567]{Hetland2005}
+	- raise statements \cite[Appendix B, pp. 568]{Hetland2005}
+	- break statements \cite[Appendix B, pp. 568]{Hetland2005}
+	- continue statements \cite[Appendix B, pp. 568]{Hetland2005}
+	- import statements \cite[Appendix B, pp. 568]{Hetland2005}
+	- global statements \cite[Appendix B, pp. 569]{Hetland2005}
+	- exec statements \cite[Appendix B, pp. 569]{Hetland2005}
++ compound statements \cite[Appendix B, pp. 569-570]{Hetland2005}:
+	- if statement \cite[Appendix B, pp. 569]{Hetland2005}
+	- while statement \cite[Appendix B, pp. 569]{Hetland2005}
+	- for statement \cite[Appendix B, pp. 570]{Hetland2005}
+	- try statement \cite[Appendix B, pp. 570]{Hetland2005}
+	- function definitions \cite[Appendix B, pp. 570]{Hetland2005}
+	- class definitions \cite[Appendix B, pp. 570]{Hetland2005}
+
+
 
 Use **assert statements** to check if invariants \cite{Lee2017a,Lee2015b,Lee2014a,Backhouse2011,Lee2011,Zeller2009,Baier2008,Tucker2007,Hailperin1999,Manna1992},
 	such as preconditions, assertions, and postconditions \cite{Pierce2017,Laplante2014,Dale2012,Kourie2012,Kundu2011,Zeller2009,Tucker2007,Baldwin2004,Huth2004,Monin2003,Hailperin1999},
@@ -2379,6 +2405,16 @@ The **pass** statement is used to represent "no-op" operations
 	Note that *Python* has no switch statements.
 
 "The **del statement** unbinds variables and attributes, and removes parts (positions, slices, or slots) from data structures (mappings or sequences). It cannot be used to delete values directly because values are only deleted through garbage collection \cite[Appendix B, pp. 567]{Hetland2005}."
+
+
+The **yield statement** pauses the execution of a generator iterator to provide
+	a value; it can be used in **for** loops
+	\cite[Appendix B, pp. 567]{Hetland2005}.
+
+
+
+
+
 
 
 
