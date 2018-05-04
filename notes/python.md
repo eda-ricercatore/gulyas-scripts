@@ -2379,6 +2379,8 @@ Types of *Python* statements \cite[Appendix B, pp. 566-570]{Hetland2005}:
 + compound statements \cite[Appendix B, pp. 569-570]{Hetland2005}:
 	- if statement \cite[Appendix B, pp. 569]{Hetland2005}
 	- while statement \cite[Appendix B, pp. 569]{Hetland2005}
+		* Can include an **else** clause that is executed when the loop
+			completes execution (under normal circumstances).
 	- for statement \cite[Appendix B, pp. 570]{Hetland2005}
 	- try statement \cite[Appendix B, pp. 570]{Hetland2005}
 	- function definitions \cite[Appendix B, pp. 570]{Hetland2005}
