@@ -960,7 +960,8 @@ Protocols masked by *Python* syntactic sugar
 Pages in \cite{Hetland2005} that deal with importing
 	*Python* classes and modules:
 + Modules and The Standard Library, pp. 203--254 (Chapter 10) 
-+ Summaries: pp. 547--573 (Appendices A-C)
++ Summaries: pp. 547--570 (Appendices A-B)
++ Online resources: pp. 571--573 (Appendix C)
 
 
 
