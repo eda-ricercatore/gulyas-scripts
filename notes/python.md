@@ -2673,7 +2673,8 @@ Additional *Python* resources from my *BibTeX* database:
 	Tarek Ziade, "Expert *Python* Programming," Packt Publishing, Birmingham, West Midlands, England, U.K., 2008.
 
 
-
+Lists of online resources can be found at:
++ \cite[Appendix C, pp. 571--573]{Hetland2005}
 
 
 
@@ -2684,6 +2685,7 @@ Additional *Python* resources from my *BibTeX* database:
 
 + \cite{Alchin2010}
 + \cite{Hall2009b}
++ \cite{Hetland2005}
 
 
 
