@@ -965,37 +965,7 @@ Pages in \cite{Hetland2005} that deal with importing
 
 
 
-Chapter 3, 7, 9.
-\cite[Appendices A and B]{Langtangen2009}.
 
-
-
-
-\cite{Langtangen2009a}
-Chapter 7,9, Appendix D,E.
-
-\cite{Langtangen2012}
-Chapter 4, 6, 7, 9.
-Appendices A and B
-
-
-
-\cite{Lee2011b}
-Chapter 4, 7.
-
-\cite[Chapter 21]{Lutz2011}.
-
-
-
-
-\cite{Lutz2013}
-Chapter 4,16-21, 22-25, 26-29, 31-32, 33-36, 39-41.
-\cite[Chapter 15]{Lutz2013}.
-
-\cite{Lutz2010}
-
-\cite{Pilgrim2009}
-\cite{Ucoluk2012}
 
 
 
@@ -2686,6 +2656,59 @@ Lists of online resources can be found at:
 + \cite{Alchin2010}
 + \cite{Hall2009b}
 + \cite{Hetland2005}
+
+Read these:
++ \cite{Beazley2009}
++ \cite{}
++ \cite{}
++ \cite{}
++ \cite{}
++ \cite{}
++ \cite{}
++ \cite{}
++ \cite{}
++ \cite{}
+
+Chapter 3, 7, 9.
+\cite[Appendices A and B]{Langtangen2009}.
+
+
+
+
+\cite{Langtangen2009a}
+Chapter 7,9, Appendix D,E.
+
+\cite{Langtangen2012}
+Chapter 4, 6, 7, 9.
+Appendices A and B
+
+
+
+\cite{Lee2011b}
+Chapter 4, 7.
+
+\cite[Chapter 21]{Lutz2011}.
+
+
+
+
+\cite{Lutz2013}
+Chapter 4,16-21, 22-25, 26-29, 31-32, 33-36, 39-41.
+\cite[Chapter 15]{Lutz2013}.
+
+\cite{Lutz2010}
+
+\cite{Pilgrim2009}
+\cite{Ucoluk2012}
+
+
+
+
+
+
+
+
+
 
 
 
