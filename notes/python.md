@@ -2660,7 +2660,7 @@ Lists of online resources can be found at:
 Read these:
 + \cite{Beazley2009}
 	- Chapters 6-8,10-11,26
-	- Stop at chapter ????
+	- Stop at chapter ????, pp. 15
 + \cite{}
 + \cite{}
 + \cite{}
