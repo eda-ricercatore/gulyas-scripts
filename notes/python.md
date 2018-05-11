@@ -19,6 +19,7 @@
 	- [Developing Mixed-Language Software](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#developing-mixed-language-software)
 	- [Packaging *Python* Programs](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#packaging-python-programs)
 	- [Database Administration](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#database-administration)
+	- [Software Development Process Methodologies]()
 + [*Python* Strings](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#python-strings)
 + [Exception Handling](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#exception-handling)
 	- [Warnings](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#warnings)
@@ -2013,9 +2014,10 @@ Some *SQL* database engines, such as *SQLite*, do not require being run as a
 
 
 
+###	Software Development Process Methodologies
 
-
-
+Use extreme programming (XP), or other agile software development
+	methodologies, 
 
 
 
