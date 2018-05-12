@@ -2659,6 +2659,7 @@ Lists of online resources can be found at:
 
 Read these:
 + \cite{Beazley2009}
+	- Chapters 6-8,10-11,26
 + \cite{}
 + \cite{}
 + \cite{}
