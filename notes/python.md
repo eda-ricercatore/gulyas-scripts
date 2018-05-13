@@ -1457,6 +1457,7 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 		* AND operation, disjunction: *{set 1} & {set 2}*, *{set 1}.intersection({set 2})*
 		* difference operation, *{set 1} - {set 2}*, *{set 1}.difference({set 2})*
 		* symmetric difference operation, *{set 1} ^ {set 2}*, *{set 1}.symmetric_difference({set 2})*
+			+ Either in {set 1} or {set 2}, but not both. 
 		* *{set 1}*.issubset(*{set 2}*)
 		* *{set 1}*.issuperset(*{set 2}*)
 		* ({set 1} - {set 2}); Or, not ({set 1} - {set 2})
