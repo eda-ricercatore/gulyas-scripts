@@ -1020,7 +1020,7 @@ Notes on *Python* functions:
 			\cite[Chapter 3, pp. 56]{Alchin2010}.
 	- Develop code that supports overriding via flexibility
 		\cite[Chapter 3, pp. 54]{Alchin2010}.
-		
+	- *Python* functions can have variable arity
 	- Types of arguments listed in order of precedence/priority
 		\cite[Chapter 3, pp. 56-59]{Alchin2010}:
 		* required arguments (ensures/guarantees that required positional
