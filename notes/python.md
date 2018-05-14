@@ -2151,7 +2151,7 @@ Exception handling is also known as \cite[Chapter 8, pp. 162]{Hetland2005}:
 
 Use **try...except...else...finally** statements to handle exceptions
 	\cite[Chapter 10, pp. 221]{Hall2009b} \cite[Chapter 8, pp. 162]{Hetland2005}
-	\cite[Chapter 3, section on "Exceptions," pp. 84-89]{Beazley2009},
+	\cite[Chapter 5, section on "Exceptions," pp. 84-89]{Beazley2009},
 	so that the *Python* program does not have to terminate execution
 	\cite[Chapter 8, pp. 159]{Hetland2005}.
 
@@ -2349,7 +2349,8 @@ Use mutual exclusion (mutex) to manage system resources, such as locks, files,
 + Use the **with** statement with the aforementioned **variable** (for the lock,
 	file object, or network connection) to perform operations with the lock, file
 	object, or network connection (using the acquired **variable**)
-	\cite[Chapter 1, section on "Exceptions," pp. 23]{Beazley2009}. 
+	\cite[Chapter 1, section on "Exceptions," pp. 23]{Beazley2009}
+	\cite[Chapter 5, section on "Context Managers and the with Statement," pp. 89-90]{Beazley2009}. 
 + When execution/control of the *Python* program is outside the context of the
 	**with** statement, such as a raised exception, the **variable** is
 	automatically released
@@ -2511,7 +2512,8 @@ Types of *Python* statements \cite[Appendix B, pp. 566-570]{Hetland2005}:
 
 Use **assert statements** to check if invariants \cite{Lee2017a,Lee2015b,Lee2014a,Backhouse2011,Lee2011,Zeller2009,Baier2008,Tucker2007,Hailperin1999,Manna1992},
 	such as preconditions, assertions, and postconditions \cite{Pierce2017,Laplante2014,Dale2012,Kourie2012,Kundu2011,Zeller2009,Tucker2007,Baldwin2004,Huth2004,Monin2003,Hailperin1999},
-	are true \cite[Appendix B, pp. 566]{Hetland2005}.
+	are true \cite[Appendix B, pp. 566]{Hetland2005}
+	\cite[Chapter 5, section on "Assertions and \_\_debug\_\_," pp. 91]{Beazley2009}.
 
 The format for an assert statement is \cite[Appendix B, pp. 566]{Hetland2005}:
 	**assert [** *boolean condition* **]**, **[Error message to notify user that
