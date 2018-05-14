@@ -431,8 +431,12 @@ Notes on *Python* Classes:
 		* The advantages/benefits of polymorphism are mitigated/negated with
 			type checking functions \cite[Chapter 7, pp. 143]{Hetland2005}:
 			+ **type()**
-			+ **isinstance()**
-			+ **issubclass()**
+			+ **isinstance(obj, cls)**
+				- Or, **\_\_instancecheck\_\_(cls, obj)**
+					\cite[Chapter 3, subsection on "Type Checking," Table 3.15, pp. 57]{Beazley2009}.
+			+ **issubclass(subcls, cls)**
+				- Or, **\_\_subclasscheck\_\_(cls, subcls)**
+					\cite[Chapter 3, subsection on "Type Checking," Table 3.15, pp. 57]{Beazley2009}.
 		* Instead of type checking (or checking the class), ask if the object is
 			behaving according to what I want
 			\cite[Chapter 7, pp. 143]{Hetland2005}.
