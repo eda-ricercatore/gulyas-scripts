@@ -1457,7 +1457,7 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 		* AND operation, disjunction: *{set 1} & {set 2}*, *{set 1}.intersection({set 2})*
 		* difference operation, *{set 1} - {set 2}*, *{set 1}.difference({set 2})*
 		* symmetric difference operation, *{set 1} ^ {set 2}*, *{set 1}.symmetric_difference({set 2})*
-			+ Either in {set 1} or {set 2}, but not both. 
+			+ Either in {set 1} or {set 2}, but not both \cite[Chapter 1, section on "Sets," pp. 15]{Beazley2009}. 
 		* *{set 1}*.issubset(*{set 2}*)
 		* *{set 1}*.issuperset(*{set 2}*)
 		* ({set 1} - {set 2}); Or, not ({set 1} - {set 2})
@@ -2392,7 +2392,7 @@ The **yield statement** pauses the execution of a generator iterator to provide
 	\cite[Appendix B, pp. 567]{Hetland2005}.
 	A generator, or generator function, is a function that includes a yield
 		statement, such that successive calls to the generator produces a
-		sequence of results \cite{Beazley2009}.
+		sequence of results \cite[Chapter 1, section on "Generators," pp. 19]{Beazley2009}.
 
 
 
