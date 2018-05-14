@@ -7,6 +7,7 @@
 + [Syntax Rules Regarding Identifiers](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#syntax-rules-regarding-identifiers)
 + [Importing *Python* Classes, Modules, and Packages](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#importing-python-classes-modules-and-packages)
 + [*Python* Classes](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#python-classes)
+	- [Object management]()
 	- [*Python* Functions](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#python-functions)
 + [*Python*-based Software Development](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#python-based-software-development)
 	- [*Python*ic Coding Style](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#pythonic-coding-style)
@@ -848,7 +849,8 @@ Protocols masked by *Python* syntactic sugar
 
 
 
-***Object management:***
+###	Object management
+
 + In the object-oriented programming (OOP) paradigm, an object (or an instance
 	of a class) has a set of methods (member functions) and attributes (i.e.,
 	fields or data members) that enable manipulation (or control) of its behavior
