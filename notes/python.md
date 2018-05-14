@@ -2393,19 +2393,21 @@ The **yield statement** pauses the execution of a generator iterator to provide
 	a value; it can be used in **for** loops
 	\cite[Appendix B, pp. 567]{Hetland2005} to generate a sequence of results
 	\cite[Chapter 1, section on "Generators," pp. 19]{Beazley2009}.
-	A generator, or generator function, is a function that includes a yield
-		statement, such that successive calls to the generator produces a
-		sequence of results
++ A generator, or generator function, is a function that includes a yield
+	statement, such that successive calls to the generator produces a
+	sequence of results
+	\cite[Chapter 1, section on "Generators," pp. 19]{Beazley2009}.
++ Calling the **next()** function executes a generator until the next **yield
+	statement**, so that it can return the value from the **yield statement** and
+	suspend the execution of the generator
+	\cite[Chapter 1, section on "Generators," pp. 19]{Beazley2009}.
+	- When the **next()** function cannot find more **yield statement**s, the
+		generator returns (after completing execution)
 		\cite[Chapter 1, section on "Generators," pp. 19]{Beazley2009}.
-	Calling the **next()** function executes a generator until the next **yield
-		statement**, so that it can return the value from the **yield statement**
-		and suspend the execution of the generator
-		\cite[Chapter 1, section on "Generators," pp. 19]{Beazley2009}.
-		When the **next()** function cannot find more **yield statement**s, the
-			generator returns (after completing execution)
-			\cite[Chapter 1, section on "Generators," pp. 19]{Beazley2009}.
-
-
++ Use generators for "processing pipelines, streas, or data flow"
+	\cite[Chapter 1, section on "Generators," pp. 19]{Beazley2009}.
++ Generators tend to be used "with other iterable objects, such as lists or files"
+	\cite[Chapter 1, section on "Generators," pp. 20]{Beazley2009}. 
 
 
 
