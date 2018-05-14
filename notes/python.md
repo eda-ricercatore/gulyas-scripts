@@ -1436,6 +1436,7 @@ The following modules in *The Python Standard Library* \cite{DrakeJr2016e,DrakeJ
 From \cite[Chapter 2, pp. 39]{Alchin2010}
 + lists
 + tuples
+	- Tuples are immutable \cite[Chapter 1, section on "Tuples", pp. 14]{Beazley2009}.
 + sets \cite[Chapter 2, pp. 39]{Alchin2010}
 	- Disallow duplicates
 	- The standard constructor accepts the following as inputs:
@@ -2326,6 +2327,7 @@ The primary built-in object types in *Python*
 + strings
 + lists
 + tuples
+	- Tuples are immutable \cite[Chapter 1, section on "Tuples", pp. 14]{Beazley2009}.
 + dictionaries
 
 
@@ -2399,7 +2401,9 @@ The **yield statement** pauses the execution of a generator iterator to provide
 		statement**, so that it can return the value from the **yield statement**
 		and suspend the execution of the generator
 		\cite[Chapter 1, section on "Generators," pp. 19]{Beazley2009}.
-		When 
+		When the **next()** function cannot find more **yield statement**s, the
+			generator returns (after completing execution)
+			\cite[Chapter 1, section on "Generators," pp. 19]{Beazley2009}.
 
 
 
