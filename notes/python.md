@@ -861,6 +861,15 @@ Protocols masked by *Python* syntactic sugar
 
 
 
+
+
+
+
+
+
+
+
+
 ###	Object management
 
 + In the object-oriented programming (OOP) paradigm, an object (or an instance
@@ -2141,7 +2150,8 @@ Exception handling is also known as \cite[Chapter 8, pp. 162]{Hetland2005}:
 
 
 Use **try...except...else...finally** statements to handle exceptions
-	\cite[Chapter 10, pp. 221]{Hall2009b} \cite[Chapter 8, pp. 162]{Hetland2005},
+	\cite[Chapter 10, pp. 221]{Hall2009b} \cite[Chapter 8, pp. 162]{Hetland2005}
+	\cite[Chapter 3, section on "Exceptions," pp. 84-89]{Beazley2009},
 	so that the *Python* program does not have to terminate execution
 	\cite[Chapter 8, pp. 159]{Hetland2005}.
 
