@@ -16,6 +16,7 @@
 	- [Modules in *The Python Standard Library*](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#modules-in-the-python-standard-library)
 		* [Built-in Collections](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#built-in-collections)
 	- [Software Testing, Verification, and Validation](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#software-testing-verification-and-validation)
+		* [Software Debugging]()
 	- [Industrial-Strength High-Performance Computing](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#industrial-strength-high-performance-computing)
 	- [Developing Mixed-Language Software](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#developing-mixed-language-software)
 	- [Packaging *Python* Programs](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#packaging-python-programs)
@@ -1254,12 +1255,12 @@ Notes on *Python* functions:
 A **coroutine** is a function "that processes a sequence of inputs," rather than a
 	set of input arguments (like normal functions)
 	\cite[Chapter 1, section on "Generators," pp. 20]{Beazley2009}.
-+ To operate on the next (set of) input in the sequence, it uses the **yield
-	statement** \cite[Chapter 1, section on "Coroutines," pp. 20]{Beazley2009}.
++ To operate on the next (set of) input in the sequence, it uses the **yield**
+	statement \cite[Chapter 1, section on "Coroutines," pp. 20]{Beazley2009}.
 + To send the next (set of) input in the sequence for processing by the
 	**coroutine**, it uses the **send function**
 	\cite[Chapter 1, section on "Coroutines," pp. 20]{Beazley2009}.
-+ The **yield statement** would suspend execution of the coroutine
++ The **yield** statement would suspend execution of the coroutine
 	\cite[Chapter 1, section on "Coroutines," pp. 20]{Beazley2009}.
 + Processing of the next (set of) input in the sequence ends when the
 	**coroutine** returns or the **close function** is called
@@ -1640,6 +1641,17 @@ Types/categories of requirements specification
 
 
 
+
+####	Software Debugging
+
+Use **assert** statements to check if invariants \cite{Lee2017a,Lee2015b,Lee2014a,Backhouse2011,Lee2011,Zeller2009,Baier2008,Tucker2007,Hailperin1999,Manna1992},
+	such as preconditions, assertions, and postconditions \cite{Pierce2017,Laplante2014,Dale2012,Kourie2012,Kundu2011,Zeller2009,Tucker2007,Baldwin2004,Huth2004,Monin2003,Hailperin1999},
+	are true \cite[Appendix B, pp. 566]{Hetland2005}
+	\cite[Chapter 5, section on "Assertions and \_\_debug\_\_," pp. 91]{Beazley2009}.
+
+The format for an assert statement is \cite[Appendix B, pp. 566]{Hetland2005}:
+	**assert [** *boolean condition* **]**, **[Error message to notify user that
+		the asssertion failed]**.
 
 
 
@@ -2510,14 +2522,18 @@ Types of *Python* statements \cite[Appendix B, pp. 566-570]{Hetland2005}:
 
 
 
-Use **assert statements** to check if invariants \cite{Lee2017a,Lee2015b,Lee2014a,Backhouse2011,Lee2011,Zeller2009,Baier2008,Tucker2007,Hailperin1999,Manna1992},
-	such as preconditions, assertions, and postconditions \cite{Pierce2017,Laplante2014,Dale2012,Kourie2012,Kundu2011,Zeller2009,Tucker2007,Baldwin2004,Huth2004,Monin2003,Hailperin1999},
-	are true \cite[Appendix B, pp. 566]{Hetland2005}
-	\cite[Chapter 5, section on "Assertions and \_\_debug\_\_," pp. 91]{Beazley2009}.
 
-The format for an assert statement is \cite[Appendix B, pp. 566]{Hetland2005}:
-	**assert [** *boolean condition* **]**, **[Error message to notify user that
-		the asssertion failed]**.
+
+See [Software Testing, Verification, and Validation](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#software-testing-verification-and-validation)
+	about using **assert** statements and the *\_\_debug\_\_* variable in the
+	debug mode.
+
+
+
+
+
+
+
 
 Augmented assignment statements provide short cuts for various arithmetic
 	expressions \cite[Appendix B, pp. 566]{Hetland2005}.
@@ -2529,10 +2545,10 @@ The **pass** statement is used to represent "no-op" operations
 	It can be used in *try-catch* blocks.
 	Note that *Python* has no switch statements.
 
-"The **del statement** unbinds variables and attributes, and removes parts (positions, slices, or slots) from data structures (mappings or sequences). It cannot be used to delete values directly because values are only deleted through garbage collection \cite[Appendix B, pp. 567]{Hetland2005}."
+"The **del** statement unbinds variables and attributes, and removes parts (positions, slices, or slots) from data structures (mappings or sequences). It cannot be used to delete values directly because values are only deleted through garbage collection \cite[Appendix B, pp. 567]{Hetland2005}."
 
 
-The **yield statement** pauses the execution of a generator iterator to provide
+The **yield** statement pauses the execution of a generator iterator to provide
 	a value; it can be used in **for** loops
 	\cite[Appendix B, pp. 567]{Hetland2005} to generate a sequence of results
 	\cite[Chapter 1, section on "Generators," pp. 19]{Beazley2009}.
@@ -2541,10 +2557,10 @@ The **yield statement** pauses the execution of a generator iterator to provide
 	sequence of results
 	\cite[Chapter 1, section on "Generators," pp. 19]{Beazley2009}.
 + Calling the **next()** function executes a generator until the next **yield
-	statement**, so that it can return the value from the **yield statement** and
+	statement**, so that it can return the value from the **yield** statement and
 	suspend the execution of the generator
 	\cite[Chapter 1, section on "Generators," pp. 19]{Beazley2009}.
-	- When the **next()** function cannot find more **yield statement**s, the
+	- When the **next()** function cannot find more **yield** statements, the
 		generator returns (after completing execution)
 		\cite[Chapter 1, section on "Generators," pp. 19]{Beazley2009}.
 + Use generators for "processing pipelines, streas, or data flow"
