@@ -1045,8 +1045,8 @@ Notes on *Python* functions:
 		\cite[Chapter 6, section on "Functions," pp. 95]{Beazley2009}.
 		* E.g., **def function\_name(param1, param2, \*\*param-last)**.
 		* To use variable-length argument lists with additional/extra keyword
-			arguments, place the **\*\*param-last** term representing
-			additional/extra keyword arguments at the end of the function
+			arguments, place the **\*\*param-last** term, which represents
+			additional/extra keyword arguments, at the end of the function
 			signature
 			\cite[Chapter 6, section on "Functions," pp. 95]{Beazley2009}.
 	- Types of arguments listed in order of precedence/priority
