@@ -1009,12 +1009,12 @@ Notes on *Python* functions:
 		a mutable dictionary \cite[Chapter 3, pp. 56]{Alchin2010}.
 	- It is recommended that arguments of a given *Python* function have
 		default values \cite[Chapter 3, pp. 53]{Alchin2010}.
-		+ In the signature of a function, the first parameter defined with a
+		* In the signature of a function, the first parameter defined with a
 			default value and subsequent parameters are considered optional
 			\cite[Chapter 6, section on "Functions," pp. 93]{Beazley2009}.
-		+ Each optional parameter requires an assignment to a default value
+		* Each optional parameter requires an assignment to a default value
 			\cite[Chapter 6, section on "Functions," pp. 93]{Beazley2009}.
-		+ Note that (as aforementioned) "argument validation assigns default
+		* Note that (as aforementioned) "argument validation assigns default
 			values to optional arguments" \cite[Chapter 3, pp. 66-67]{Alchin2010}.
 	- Keyword arguments are explicitly specified during function calls,
 		and are favored over positional arguments that are implictly specified
@@ -1033,10 +1033,17 @@ Notes on *Python* functions:
 		\cite[Chapter 6, section on "Functions," pp. 94]{Beazley2009},
 		which is indicated by prefixing the name of the last parameter in the
 		function signature with an asterisk
-		+ E.g., **def function\_name(param1, param2, \*param-last)**.
-		+ The term **\*param-last** in the above example is a tuple
+		* E.g., **def function\_name(param1, param2, \*param-last)**.
+		* The term **\*param-last** in the above example is a tuple
 			representing the set of variable/remaining arguments
 			\cite[Chapter 6, section on "Functions," pp. 94]{Beazley2009}.
+	- Prefix the name of the last parameter in the function signature with two
+		consecutive asterisks to place additional keyword arguments in a
+		dictionary, which is passed to the function so that the function can
+		"accept a large number of potentially open-ended configuration options
+		that would be too unwieldy to list as parameters" 
+		\cite[Chapter 6, section on "Functions," pp. 95]{Beazley2009}.
+		* E.g., **def function\_name(param1, param2, \*param-last)**.
 	- Types of arguments listed in order of precedence/priority
 		\cite[Chapter 3, pp. 56-59]{Alchin2010}:
 		* required arguments (ensures/guarantees that required positional
