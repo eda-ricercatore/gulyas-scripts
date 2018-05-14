@@ -26,6 +26,7 @@
 	- [Warnings](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#warnings)
 	- [Ancillary Note](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#ancillary-note)
 + [*Python* Virtual Machine (PVM)](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#python-virtual-machine-pvm)
++ [Concurrent and Parallel Programming with *Python*]()
 + [Miscellaneous](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#miscellaneous)
 + [References](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#references)
 	- [Object-Oriented *Python* Programming](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#object-oriented-python-programming)
@@ -2303,6 +2304,22 @@ The Pythonic philosophy of "easier to ask forgiveness than permission" (EAFP)
 
 Notes about the *Python* Virtual Machine (PVM):
 + \cite{Pattis2016}
+
+
+
+
+
+
+
+
+
+
+
+
+
+##	Concurrent and Parallel Programming with *Python*
+
+
 
 
 
