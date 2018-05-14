@@ -1243,7 +1243,9 @@ A **coroutine** is a function "that processes a sequence of inputs," rather than
 	\cite[Chapter 1, section on "Generators," pp. 20]{Beazley2009}.
 + To operate on the next (set of) input in the sequence, it uses the **yield
 	statement** \cite[Chapter 1, section on "Coroutines," pp. 20]{Beazley2009}.
-
++ To send the next (set of) input in the sequence for processing by the
+	**coroutine**, it uses the **send function**
+	\cite[Chapter 1, section on "Coroutines," pp. 20]{Beazley2009}.
 
 
 
