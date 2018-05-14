@@ -26,7 +26,7 @@
 	- [Warnings](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#warnings)
 	- [Ancillary Note](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#ancillary-note)
 + [*Python* Virtual Machine (PVM)](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#python-virtual-machine-pvm)
-+ [Concurrent and Parallel Programming with *Python*]()
++ [Concurrent and Parallel Programming with *Python*](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#concurrent-and-parallel-programming-with-python)
 + [Miscellaneous](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#miscellaneous)
 + [References](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#references)
 	- [Object-Oriented *Python* Programming](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#object-oriented-python-programming)
