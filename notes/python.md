@@ -940,13 +940,14 @@ Protocols masked by *Python* syntactic sugar
 | Nunbers		| int			| Integer 			|
 |				| long		| integer with arbitary precision (*Python 2* only)	|
 |				| float		| floating point	|
-
-
-
-
-
-
-
+|				| complex	| complex number	|
+|				| bool		| boolean (True or False)	|
+| Sequences		| str			| Character string	|
+|				| unicode		| Unicode 	|
+|				| float		| floating point	|
+|				| float		| floating point	|
+|				| float		| floating point	|
+|				| float		| floating point	|
 
 
 
