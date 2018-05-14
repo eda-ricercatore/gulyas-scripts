@@ -1283,8 +1283,10 @@ Functional programming features of *Python* include
 + scoping rules
 	- When mutable variables are avoided, or forbidden, scoping rules enable
 		developers to differentiate between global and local variables.
-
-
++ closures
++ decorators
++ generators
++ coroutines
 
 
 
