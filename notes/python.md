@@ -1024,7 +1024,10 @@ Notes on *Python* functions:
 		\cite[Chapter 6, section on "Functions," pp. 94]{Beazley2009},
 		which is indicated by prefixing the name of the last parameter in the
 		function signature with an asterisk
-		+ E.g., **def functio\_name(param1, param2, \*param-last)**.
+		+ E.g., **def function\_name(param1, param2, \*param-last)**.
+		+ The term **\*param-last** in the above example is a tuple
+			representing the set of variable/remaining arguments
+			\cite[Chapter 6, section on "Functions," pp. 94]{Beazley2009}.
 	- Types of arguments listed in order of precedence/priority
 		\cite[Chapter 3, pp. 56-59]{Alchin2010}:
 		* required arguments (ensures/guarantees that required positional
