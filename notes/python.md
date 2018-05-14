@@ -943,7 +943,7 @@ Protocols masked by *Python* syntactic sugar
 |				| complex	| complex number	|
 |				| bool		| boolean (**True** or **False**)	|
 | Sequences		| str			| Character string	|
-|				| unicode		| Unicode 		|
+|				| unicode		| Unicode character string		|
 |				| list			| List			|
 |				| tuple		| Tuple			|
 |				| xrange		| A range of integers created by **xrange()** (*Python 2* only)	|
