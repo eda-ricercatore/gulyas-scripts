@@ -914,7 +914,8 @@ Protocols masked by *Python* syntactic sugar
 		\cite[Chapter 6, pp. 182]{Alchin2010}, and the functions for unpickling
 		are **load()** and **loads()** \cite[Chapter 6, pp. 183]{Alchin2010}.
 + Objects can be copied using a shallow copy or deep copy method
-	\cite[Chapter 6, pp. 186-189]{Alchin2010}.
+	\cite[Chapter 6, pp. 186-189]{Alchin2010}
+	\cite[Chapter 3, section on "References and Copies," pp. 36]{Beazley2009}.
 	- Perform shallow copying with **copy()** to get a shallow copy of an object;
 		the copy object has the same data values (of the same type), but with a
 		new identity, and modifying the copy object would not modify the
