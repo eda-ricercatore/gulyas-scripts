@@ -812,6 +812,12 @@ Protocols masked by *Python* syntactic sugar
 		* **\_\_len\_\_()**, **\_\_setitem\_\_()**, **\_\_append\_\_()**,
 			**\_\_insert\_\_()**, **del sequence[index]**, **\_\_delitem\_\_()**,
 			and **\_\_contains\_\_()**
+	- \cite[Chapter 3, subsection on "Operations Common to All Sequences," Table 3.2, pp. 39-40]{Beazley2009}
+		lists a set of operations and methods that can be applied to all
+		sequences, including immutable tuples.
+	- \cite[Chapter 3, subsection on "Operations Common to All Sequences," Table 3.3, pp. 40]{Beazley2009}
+		lists a set of operations that can be applied to all mutable sequences
+		only.
 + A mapping is a set of individual pairs, where each pair has a key and a
 	corresponding value \cite[Chapter 5, pp. 164]{Alchin2010}.
 	- The ordering of the pairs by their keys is not important, since a map is
@@ -930,27 +936,6 @@ Protocols masked by *Python* syntactic sugar
 	modification of the deep copy does not affect the original copy, and vice
 		versa \cite[Chapter 6, pp. 188]{Alchin2010}.
 
-
-\cite[Chapter 3, section on "Built-in Types for Representing Data," Table 3.1, pp. 38]{Beazley2009}
-	shows the "built-in types for data representation":
-
-| Type Category	| Type name	| Description		|
-| -------------------- | ------------- |--------------------- |
-| None			| type (**None**)	| null object None |
-| Nunbers		| int			| Integer 			|
-|				| long		| integer with arbitary precision (*Python 2* only)	|
-|				| float		| floating point	|
-|				| complex	| complex number	|
-|				| bool		| boolean (**True** or **False**)	|
-| Sequences		| str			| Character string	|
-|				| unicode		| Unicode character string		|
-|				| list			| List			|
-|				| tuple		| Tuple			|
-|				| xrange		| A range of integers created by **xrange()** (*Python 2* only)	|
-|				| range		| A range of integers created by **range()** (*Python 3* only)	|
-| Mapping		| dict		| Dictionary		|
-| Sets			| set			| Mutable set		|
-|				| frozenset	| Imutable set		|
 
 
 
@@ -2405,6 +2390,38 @@ The primary built-in object types in *Python*
 + tuples
 	- Tuples are immutable \cite[Chapter 1, section on "Tuples", pp. 14]{Beazley2009}.
 + dictionaries
+
+
+
+
+
+
+\cite[Chapter 3, section on "Built-in Types for Representing Data," Table 3.1, pp. 38]{Beazley2009}
+	shows the "built-in types for data representation":
+
+| Type Category	| Type name	| Description		|
+| -------------------- | ------------- |--------------------- |
+| None			| type (**None**)	| null object None |
+| Nunbers		| int			| Integer 			|
+|				| long		| integer with arbitary precision (*Python 2* only)	|
+|				| float		| floating point	|
+|				| complex	| complex number	|
+|				| bool		| boolean (**True** or **False**)	|
+| Sequences		| str			| Character string	|
+|				| unicode		| Unicode character string		|
+|				| list			| List			|
+|				| tuple		| Tuple			|
+|				| xrange		| A range of integers created by **xrange()** (*Python 2* only)	|
+|				| range		| A range of integers created by **range()** (*Python 3* only)	|
+| Mapping		| dict		| Dictionary		|
+| Sets			| set			| Mutable set		|
+|				| frozenset	| Imutable set		|
+
+
+
+
+
+
 
 
 
