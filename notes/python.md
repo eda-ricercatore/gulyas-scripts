@@ -1002,6 +1002,9 @@ Notes on *Python* functions:
 	- positional arguments (or order-based arguments)
 		\cite[Chapter 3, pp. 53]{Alchin2010} are grouped in an immutable tuple
 		\cite[Chapter 3, pp. 56]{Alchin2010}.
+	- Keyword arguments are specified by parameter-value assignments
+		during keyword argument function calls/invocations
+		\cite[Chapter 6, section on "Functions," pp. 94]{Beazley2009}.
 	- keyword arguments \cite[Chapter 3, pp. 53]{Alchin2010} are placed in
 		a mutable dictionary \cite[Chapter 3, pp. 56]{Alchin2010}.
 	- It is recommended that arguments of a given *Python* function have
@@ -1018,6 +1021,12 @@ Notes on *Python* functions:
 		during function calls \cite[Chapter 3, pp. 54]{Alchin2010}.
 		* Keyword arguments also *Python*ic in terms of coding style
 			\cite[Chapter 3, pp. 56]{Alchin2010}.
+	- When a function call has positional arguments and keyword arguments in
+		its function signature, the positional arguments have to be placed in
+		front of keyword arguments
+		\cite[Chapter 6, section on "Functions," pp. 94]{Beazley2009}.
+	- No argument in a function call/signature can appear multiple times
+		  \cite[Chapter 6, section on "Functions," pp. 94]{Beazley2009}.
 	- Develop code that supports overriding via flexibility
 		\cite[Chapter 3, pp. 54]{Alchin2010}.
 	- *Python* functions can have variable arity
