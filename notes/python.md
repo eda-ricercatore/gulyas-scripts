@@ -1021,6 +1021,10 @@ Notes on *Python* functions:
 	- Develop code that supports overriding via flexibility
 		\cite[Chapter 3, pp. 54]{Alchin2010}.
 	- *Python* functions can have variable arity
+		\cite[Chapter 6, section on "Functions," pp. 94]{Beazley2009},
+		which is indicated by prefixing the name of the last parameter in the
+		function signature with an asterisk
+		+ E.g., **def functio\_name(param1, param2, \*param-last)**.
 	- Types of arguments listed in order of precedence/priority
 		\cite[Chapter 3, pp. 56-59]{Alchin2010}:
 		* required arguments (ensures/guarantees that required positional
