@@ -2319,9 +2319,9 @@ Notes about the *Python* Virtual Machine (PVM):
 
 ##	Concurrent and Parallel Programming with *Python*
 
-
-
-
+From my [**Notes about Scala**](https://github.com/eda-ricercatore/sardegna-scala/blob/master/notes/scala-notes.md):
++ "Concurrent programming (compare: parallel programming) \cite{WikipediaContributors2017k} -- Concurrent computing concurrently execute multiple computations during overlapping time periods; each computation/process has a separate execution point or thread of control. That is, in concurrent computing, a computation can advance independently of other computations, which may be incomplete."
++ "Parallel computing (compare: concurrent programming) \cite{WikipediaContributors2017n} -- Parallel computing is defined as the simultaneous execution of processes or calculations/computation on a computer. The types of parallel computing are: bit-level parallelism, instruction-level parallelism, data parallelism, and task parallelism. Bit-level parallelism and instruction-level parallelism are implicitly parallel. Explicitly parallel algorithms, especially those that involve concurrency, are more difficult to develop and test than sequential algorithms; concurrency in such algorithms can lead to race conditions, and other types/classes of software bugs. It is difficult to manage communication and synchronization between subtasks, such that the parallel computation would have a significant speed-up over the serial/sequential implementation."
 
 
 
