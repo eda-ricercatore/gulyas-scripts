@@ -9,6 +9,7 @@
 + [*Python* Classes](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#python-classes)
 	- [Object management](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#object-management)
 	- [*Python* Functions](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#python-functions)
+		* [Functional Programming with *Python*]()
 + [*Python*-based Software Development](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#python-based-software-development)
 	- [*Python*ic Coding Style](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#pythonic-coding-style)
 	- [*Python* Documentation](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#python-documentation)
@@ -1275,7 +1276,7 @@ A **coroutine** is a function "that processes a sequence of inputs," rather than
 
 
 
-
+####	Functional Programming with *Python*
 
 
 
@@ -1776,6 +1777,16 @@ Developing mixed-language software
 	\cite[Chapter 17, pp. 361]{Hetland2005}.
 + Use *Boost.Python* \cite{Abrahams2015a}.
 + Use *SIP* \cite{RiverbankComputingLimitedStaff2016}.
+
+
+
+
+
+
+
+
+
+
 
 
 
