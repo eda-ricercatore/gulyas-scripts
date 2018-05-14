@@ -9,7 +9,7 @@
 + [*Python* Classes](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#python-classes)
 	- [Object management](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#object-management)
 	- [*Python* Functions](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#python-functions)
-		* [Functional Programming with *Python*]()
+		* [Functional Programming with *Python*](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#functional-programming-with-python)
 + [*Python*-based Software Development](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#python-based-software-development)
 	- [*Python*ic Coding Style](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#pythonic-coding-style)
 	- [*Python* Documentation](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#python-documentation)
@@ -1278,9 +1278,13 @@ A **coroutine** is a function "that processes a sequence of inputs," rather than
 
 ####	Functional Programming with *Python*
 
+Functional programming features of *Python* include
+	\cite[Chapter 6, pp. 93]{Beazley2009}:
++ scoping rules
+	- When mutable variables are avoided, or forbidden, scoping rules enable
+		developers to differentiate between global and local variables.
 
 
- 
 
 
 
