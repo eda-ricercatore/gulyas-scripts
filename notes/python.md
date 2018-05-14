@@ -1246,8 +1246,11 @@ A **coroutine** is a function "that processes a sequence of inputs," rather than
 + To send the next (set of) input in the sequence for processing by the
 	**coroutine**, it uses the **send function**
 	\cite[Chapter 1, section on "Coroutines," pp. 20]{Beazley2009}.
-
-
++ The **yield statement** would suspend execution of the coroutine
+	\cite[Chapter 1, section on "Coroutines," pp. 20]{Beazley2009}.
++ Processing of the next (set of) input in the sequence ends when the
+	**coroutine** returns or the **close function** is called
+	\cite[Chapter 1, section on "Coroutines," pp. 20]{Beazley2009}.
 
 
 
