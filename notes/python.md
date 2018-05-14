@@ -1653,9 +1653,18 @@ The format for an assert statement is \cite[Appendix B, pp. 566]{Hetland2005}:
 	**assert [** *boolean condition* **]**, **[Error message to notify user that
 		the asssertion failed]**.
 
+The *\_\_debug\_\_* variable, which is set to **True** by default, allows *Python*
+	developers in the to test their program in the debug mode
+	\cite[Chapter 5, section on "Assertions and \_\_debug\_\_," pp. 91]{Beazley2009}.
 
-
-
+*Python* programs can be executed in the non-debugging mode by specifying
+	the **-O** option for the *Python* interpreter so that it would execute the
+	*Python* program in optimized mode (and avoid executing code associated
+	with **if \_\_debug\_\_** statements);
+	that is, use **if \_\_debug\_\_** statements) for non-essential testing and
+		validation of *Python* programs, so that the execution of (these)
+		*Python* programs can be optimized to run faster without such checks 
+	\cite[Chapter 5, section on "Assertions and \_\_debug\_\_," pp. 91]{Beazley2009}
 
 
 
