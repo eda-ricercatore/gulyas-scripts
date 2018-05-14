@@ -1043,7 +1043,7 @@ Notes on *Python* functions:
 		"accept a large number of potentially open-ended configuration options
 		that would be too unwieldy to list as parameters" 
 		\cite[Chapter 6, section on "Functions," pp. 95]{Beazley2009}.
-		* E.g., **def function\_name(param1, param2, \*param-last)**.
+		* E.g., **def function\_name(param1, param2, \*\*param-last)**.
 	- Types of arguments listed in order of precedence/priority
 		\cite[Chapter 3, pp. 56-59]{Alchin2010}:
 		* required arguments (ensures/guarantees that required positional
