@@ -2389,10 +2389,12 @@ The **pass** statement is used to represent "no-op" operations
 
 The **yield statement** pauses the execution of a generator iterator to provide
 	a value; it can be used in **for** loops
-	\cite[Appendix B, pp. 567]{Hetland2005}.
+	\cite[Appendix B, pp. 567]{Hetland2005} to generate a sequence of results
+	\cite[Chapter 1, section on "Generators," pp. 19]{Beazley2009}.
 	A generator, or generator function, is a function that includes a yield
 		statement, such that successive calls to the generator produces a
-		sequence of results \cite[Chapter 1, section on "Generators," pp. 19]{Beazley2009}.
+		sequence of results
+		\cite[Chapter 1, section on "Generators," pp. 19]{Beazley2009}.
 
 
 
