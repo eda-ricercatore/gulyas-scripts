@@ -936,7 +936,7 @@ Protocols masked by *Python* syntactic sugar
 
 | Type Category	| Type name	| Description		|
 | -------------------- | ------------- |--------------------- |
-| None			| type (None)	| null object None |
+| None			| type (**None**)	| null object None |
 | Nunbers		| int			| Integer 			|
 |				| long		| integer with arbitary precision (*Python 2* only)	|
 |				| float		| floating point	|
