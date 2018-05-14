@@ -2328,6 +2328,26 @@ From my [Notes about Scala](https://github.com/eda-ricercatore/sardegna-scala/bl
 
 
 
+###	System Resource Management
+
+Use mutual exclusion (mutex) to manage system resources, such as locks, files,
+	and network connections
+	\cite[Chapter 1, section on "Exceptions," pp. 23]{Beazley2009}.
++ Assign the lock, file object, or network connection to a variable.
++ Use the **with** statement with the aforementioned variable (for the lock, file
+	object, or network connection) to perform operations with the lock, file
+	object, or network connection
+	\cite[Chapter 1, section on "Exceptions," pp. 23]{Beazley2009}. 
+
+
+
+
+
+
+
+
+
+
 
 
 
