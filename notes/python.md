@@ -812,10 +812,10 @@ Protocols masked by *Python* syntactic sugar
 		* **\_\_len\_\_()**, **\_\_setitem\_\_()**, **\_\_append\_\_()**,
 			**\_\_insert\_\_()**, **del sequence[index]**, **\_\_delitem\_\_()**,
 			and **\_\_contains\_\_()**
-	- \cite[Chapter 3, subsection on "Operations Common to All Sequences," Table 3.2, pp. 39-40]{Beazley2009}
+	- \cite[Chapter 3, subsubsection on "Operations Common to All Sequences," Table 3.2, pp. 39-40]{Beazley2009}
 		lists a set of operations and methods that can be applied to all
 		sequences, including immutable tuples.
-	- \cite[Chapter 3, subsection on "Operations Common to All Sequences," Table 3.3, pp. 40]{Beazley2009}
+	- \cite[Chapter 3, subsubsection on "Operations Common to All Sequences," Table 3.3, pp. 40]{Beazley2009}
 		lists a set of operations that can be applied to all mutable sequences
 		only.
 + A mapping is a set of individual pairs, where each pair has a key and a
@@ -1480,7 +1480,9 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 		* AND operation, disjunction: *{set 1} & {set 2}*, *{set 1}.intersection({set 2})*
 		* difference operation, *{set 1} - {set 2}*, *{set 1}.difference({set 2})*
 		* symmetric difference operation, *{set 1} ^ {set 2}*, *{set 1}.symmetric_difference({set 2})*
-			+ Either in {set 1} or {set 2}, but not both \cite[Chapter 1, section on "Sets," pp. 15]{Beazley2009}. 
+			+ Either in {set 1} or {set 2}, but not both sets
+				\cite[Chapter 1, section on "Sets," pp. 15]{Beazley2009}
+				\cite[Chapter 3, subsection on "Set Types," Table 3.7, pp. 46]{Beazley2009}. 
 		* *{set 1}*.issubset(*{set 2}*)
 		* *{set 1}*.issuperset(*{set 2}*)
 		* ({set 1} - {set 2}); Or, not ({set 1} - {set 2})
@@ -2416,6 +2418,33 @@ The primary built-in object types in *Python*
 | Mapping		| dict		| Dictionary		|
 | Sets			| set			| Mutable set		|
 |				| frozenset	| Imutable set		|
+
+
+
+
+
+
+
+
+
+\cite[Chapter 3, section on "Built-in Types for Representing Program Structure," Table 3.9, pp. 47]{Beazley2009}
+	shows the "built-in types for representing the structure of *Python* programs":
+
+| Type Category	| Type name	| Description		|
+| -------------------- | ------------- |--------------------- |
+| Callable			| type.BuiltinFunctionType	| Built-in function or method	|
+|				| type		| Type of built-in types and classes	|
+|				| object		| Ancestor of all types and classes	|
+|				| types.FunctionType	| User-defined function		|
+|				| types.MethodType	| Class method			|
+| Modules		| types.ModuleType	| Module					|
+| Classes			| object		| Ancestor of all types and classes	|
+| Types			| type		| Type of built-in types and classes	|
+
+
+
+
+
 
 
 
