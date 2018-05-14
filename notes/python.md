@@ -941,7 +941,7 @@ Protocols masked by *Python* syntactic sugar
 |				| long		| integer with arbitary precision (*Python 2* only)	|
 |				| float		| floating point	|
 |				| complex	| complex number	|
-|				| bool		| boolean (True or False)	|
+|				| bool		| boolean (**True** or **False**)	|
 | Sequences		| str			| Character string	|
 |				| unicode		| Unicode 		|
 |				| list			| List			|
