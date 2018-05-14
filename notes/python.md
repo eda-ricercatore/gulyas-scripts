@@ -2395,7 +2395,11 @@ The **yield statement** pauses the execution of a generator iterator to provide
 		statement, such that successive calls to the generator produces a
 		sequence of results
 		\cite[Chapter 1, section on "Generators," pp. 19]{Beazley2009}.
-
+	Calling the **next()** function executes a generator until the next **yield
+		statement**, so that it can return the value from the **yield statement**
+		and suspend the execution of the generator
+		\cite[Chapter 1, section on "Generators," pp. 19]{Beazley2009}.
+		When 
 
 
 
