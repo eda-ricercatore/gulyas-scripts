@@ -932,7 +932,7 @@ Protocols masked by *Python* syntactic sugar
 
 
 \cite[Chapter 3, section on "Built-in Types for Representing Data," Table 3.1, pp. 38]{Beazley2009}
-	shows the "built-in types for data representation":"
+	shows the "built-in types for data representation":
 
 | Type Category	| Type name	| Description		|
 | -------------------- | ------------- |--------------------- |
@@ -943,11 +943,15 @@ Protocols masked by *Python* syntactic sugar
 |				| complex	| complex number	|
 |				| bool		| boolean (True or False)	|
 | Sequences		| str			| Character string	|
-|				| unicode		| Unicode 	|
-|				| float		| floating point	|
-|				| float		| floating point	|
-|				| float		| floating point	|
-|				| float		| floating point	|
+|				| unicode		| Unicode 		|
+|				| list			| List			|
+|				| tuple		| Tuple			|
+|				| xrange		| A range of integers created by **xrange()** (*Python 2* only)	|
+|				| range		| A range of integers created by **range()** (*Python 3* only)	|
+| Mapping		| dict		| Dictionary		|
+| Sets			| set			| Mutable set		|
+|				| frozenset	| Imutable set		|
+
 
 
 
