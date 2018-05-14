@@ -2476,6 +2476,18 @@ The **yield statement** pauses the execution of a generator iterator to provide
 
 
 
+\cite[Chapter 2, section on "String Literals," pp. 27-28]{Beazley2009} demonstrates
+	how *Unicode* characters can be inserted into *Python* strings.
+
+\cite[Chapter 2, section on "String Literals," Table 2.1, pp. 27-28]{Beazley2009}
+	shows a list of escape characters for *Python* strings. 
++ backslash: continuation of a statement on a new line. 
++ Null
++ Single quote
++ Double quote
++ Line feed
++ Horizontal tab
++ Vertical tab
 
 
 
