@@ -1251,7 +1251,10 @@ A **coroutine** is a function "that processes a sequence of inputs," rather than
 + Processing of the next (set of) input in the sequence ends when the
 	**coroutine** returns or the **close function** is called
 	\cite[Chapter 1, section on "Coroutines," pp. 20]{Beazley2009}.
-
++ **Coroutine**s facilitate the modeling of producer-consumer problems, where
+	the **coroutine**(s) model(s) data consumption/processing and the
+	**generator**s model(s) data generation/production
+	\cite[Chapter 1, section on "Coroutines," pp. 20-21]{Beazley2009}.
 
 
 
