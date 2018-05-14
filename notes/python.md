@@ -2310,6 +2310,10 @@ In \cite[\S5]{DrakeJr2016b} discusses all the "built-in exceptions" provided by 
 To create custom exception classes, create a derived class of the *Exception*
 	class \cite[Chapter 8, pp. 162]{Hetland2005}.
 
+Use customized exception classes to address violations of invariants \cite{Lee2017a,Lee2015b,Lee2014a,Backhouse2011,Lee2011,Zeller2009,Baier2008,Tucker2007,Hailperin1999,Manna1992},
+	such as preconditions, assertions, and postconditions \cite{Pierce2017,Laplante2014,Dale2012,Kourie2012,Kundu2011,Zeller2009,Tucker2007,Baldwin2004,Huth2004,Monin2003,Hailperin1999},
+	that can be handled/mitigated, so that the *Python* program can resume
+	execution (and avoid termination).
 
 
 
