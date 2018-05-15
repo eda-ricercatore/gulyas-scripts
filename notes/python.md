@@ -1038,8 +1038,8 @@ Notes on *Python* functions:
 			representing the set of variable/remaining arguments
 			\cite[Chapter 6, section on "Functions," pp. 94]{Beazley2009}.
 	- Prefix the name of the last parameter in the function signature with two
-		consecutive asterisks to place additional/extra keyword arguments in a
-		dictionary, which is passed to the function so that the function can
+		consecutive asterisks to place **additional/extra keyword arguments**
+		in a dictionary, which is passed to the function so that the function can
 		"accept a large number of potentially open-ended configuration options
 		that would be too unwieldy to list as parameters" 
 		\cite[Chapter 6, section on "Functions," pp. 95]{Beazley2009}.
@@ -1049,6 +1049,13 @@ Notes on *Python* functions:
 			additional/extra keyword arguments, at the end of the function
 			signature
 			\cite[Chapter 6, section on "Functions," pp. 95]{Beazley2009}.
+		* The **\*\*param-last** term can be passed to another function as
+			**\*\*param-last**, since it is placed in a dictionary
+			\cite[Chapter 6, section on "Functions," pp. 95]{Beazley2009}.
+	- Use the terms **\*param-last** and **\*\*param-last** to write wrappers
+		and proxies for other functions, so that these wrappers/proxies can
+		pass these terms to those other functions
+		\cite[Chapter 6, section on "Functions," pp. 95]{Beazley2009}.
 	- Types of arguments listed in order of precedence/priority
 		\cite[Chapter 3, pp. 56-59]{Alchin2010}:
 		* required arguments (ensures/guarantees that required positional
