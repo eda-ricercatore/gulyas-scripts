@@ -1462,6 +1462,20 @@ Functional programming features of *Python* include
 
 
 
+\cite[Chapter 6, section on "Declarative Programming," pp. 110]{Beazley2009}
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## *Python*-based Software Development
 
 Try to use a *Python*ic approach to software development.
@@ -3126,6 +3140,8 @@ Chapter 3, 7, 9.
 \cite{Langtangen2009a}
 Chapter 7,9, Appendix D,E.
 
+Quickly skim \cite{Langtangen2011}, and differentiate it from \cite{Langtangen2009a} and \cite{Langtangen2012}.
+ 
 \cite{Langtangen2012}
 Chapter 4, 6, 7, 9.
 Appendices A and B
