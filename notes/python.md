@@ -1480,7 +1480,8 @@ Use a **list comprehension** to perform a conditional operation iteratively on
 	\cite[Chapter 6, section on "List Comprehensions," pp. 109]{Beazley2009}.
 + Use square brackets for **list comprehensions**
 	\cite[Chapter 6, section on "Generator Expressions," pp. 109]{Beazley2009}.
-
++ **Create a list with the resulting data**
+	\cite[Chapter 6, section on "Generator Expressions," pp. 110]{Beazley2009}.
 
 
 Similarly, a **generator expression** implicitly creates an iterable object to
@@ -1493,10 +1494,10 @@ Similarly, a **generator expression** implicitly creates an iterable object to
 	\cite[Chapter 6, section on "Generator Expressions," pp. 109]{Beazley2009}.
 + Use parentheses for **generator expression**s
 	\cite[Chapter 6, section on "Generator Expressions," pp. 109]{Beazley2009}.
-+ It creates a generator object to iteratively prodice values on demand, so that it
-	does not have to create a list or immediately evaluate the expression inside
-	the parentheses
-	\cite[Chapter 6, section on "Generator Expressions," pp. 109]{Beazley2009}.
++ **It creates a generator object to iteratively prodice values on demand**,
+	so that it does not have to create a list or immediately evaluate the expression
+	inside the parentheses
+	\cite[Chapter 6, section on "Generator Expressions," pp. 110]{Beazley2009}.
 
 
 
