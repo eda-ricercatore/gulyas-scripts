@@ -1470,10 +1470,14 @@ Try to use a *Python*ic approach to software development.
 
 
 Use a **list comprehension** to perform a conditional operation iteratively on
-	a collection of elements \cite[Chapter 2, pp. 35]{Alchin2010}.
-	\cite[Chapter 6, section on "List Comprehensions," pp. 108]{Beazley2009}:
-
-
+	a collection of elements \cite[Chapter 2, pp. 35]{Alchin2010}
+	\cite[Chapter 6, section on "List Comprehensions," pp. 108]{Beazley2009}.
++ A **list comprehension** can also perform an (unconditional) operation on
+	a collection of elements
+	\cite[Chapter 6, section on "List Comprehensions," pp. 109]{Beazley2009}.
+	- When using tuples with **list comprehensions**, ensure that parentheses
+		(or round brackets) are used to represent those tuples 
+		\cite[Chapter 6, section on "List Comprehensions," pp. 109]{Beazley2009}.
 
 
 Similarly, a **generator expression** implicitly creates an iterable object to
