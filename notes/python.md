@@ -1338,6 +1338,9 @@ Functional programming features of *Python* include
 + scoping rules
 	- When mutable variables are avoided, or forbidden, scoping rules enable
 		developers to differentiate between global and local variables.
+	- Use the **global** statement (e.g., **global *[variable-name]***) to allow
+		local modifications of the global variable ***[variable-name]*** 
+		\cite[Chapter 6, section on "Scoping Rules," pp. 96]{Beazley2009}.
 + closures
 + decorators
 + generators
