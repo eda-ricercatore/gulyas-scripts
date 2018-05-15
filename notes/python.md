@@ -1368,10 +1368,17 @@ Functional programming features of *Python* include
 			\cite[Chapter 6, section on "Scoping Rules," pp. 97]{Beazley2009}.
 + closures
 	- Since "functions are first-class objects in *Python*," the following (operations)
-		are permissible \cite[Chapter 6, section on "Scoping Rules," pp. 98]{Beazley2009}:
+		are permissible \cite[Chapter 6, section on "Functions as Objects and Closures," pp. 98]{Beazley2009}:
 		* pass a function as an argument to another function
 		* place a function in a data structure
 		* return "a function (as a result)"
+	- To bind free variables (as bound variables), the function is treated as data
+		that includes information of the surrounding environment of the function
+		definition;
+		this data is used to bind the free variables.  
+		\cite[Chapter 6, section on "Functions as Objects and Closures," pp. 98]{Beazley2009}
+	- \cite[Chapter 6, section on "Functions as Objects and Closures," pp. 99]{Beazley2009}
+		mentions "**lazy or delayed evaluation**".
 + decorators
 + generators
 + coroutines
