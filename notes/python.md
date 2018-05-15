@@ -1323,7 +1323,8 @@ Notes on *Python* functions:
 
 A **coroutine** is a function "that processes a sequence of inputs," rather than a
 	set of input arguments (like normal functions)
-	\cite[Chapter 1, section on "Generators," pp. 20]{Beazley2009}.
+	\cite[Chapter 1, section on "Generators," pp. 20]{Beazley2009}
+	\cite[Chapter 6, section on "Coroutines and yield Expressions," pp. 104]{Beazley2009}.
 + To operate on the next (set of) input in the sequence, it uses the **yield**
 	statement \cite[Chapter 1, section on "Coroutines," pp. 20]{Beazley2009}.
 + To send the next (set of) input in the sequence for processing by the
