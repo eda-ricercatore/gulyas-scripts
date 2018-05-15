@@ -875,10 +875,10 @@ Protocols masked by *Python* syntactic sugar
 ###	Object management
 
 "All objects in Python are said to be `first class.'
-+ This means that all objects that can be named by an identifier have equal
-	status.
-+ It also means that all objects that can be named can be treated as data."
-	\cite[Chapter 3, section on "First-Class Objects," pp. 37]{Beazley2009}.
+	This means that all objects that can be named by an identifier have equal
+		status.
+	It also means that all objects that can be named can be treated as data."
+		\cite[Chapter 3, section on "First-Class Objects," pp. 37]{Beazley2009}.
 
 
 
