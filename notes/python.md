@@ -1475,17 +1475,27 @@ Use a **list comprehension** to perform a conditional operation iteratively on
 + A **list comprehension** can also perform an (unconditional) operation on
 	a collection of elements
 	\cite[Chapter 6, section on "List Comprehensions," pp. 109]{Beazley2009}.
-	- When using tuples with **list comprehensions**, ensure that parentheses
-		(or round brackets) are used to represent those tuples 
-		\cite[Chapter 6, section on "List Comprehensions," pp. 109]{Beazley2009}.
++ When using tuples with **list comprehensions**, ensure that parentheses
+	(or round brackets) are used to represent those tuples 
+	\cite[Chapter 6, section on "List Comprehensions," pp. 109]{Beazley2009}.
++ Use square brackets for **list comprehensions**
+	\cite[Chapter 6, section on "Generator Expressions," pp. 109]{Beazley2009}.
+
 
 
 Similarly, a **generator expression** implicitly creates an iterable object to
 	iterate over a list/collection of elements and perform an operation on each
 	enumerated item/element \cite[Chapter 2, pp. 35-37]{Alchin2010};
-	a generator expression needs to be surrounded by parentheses, which can
-		belong to a function (or an operation) performed on the collection of
-		objects \cite[Chapter 2, pp. 35-37]{Alchin2010}.
++ A generator expression needs to be surrounded by parentheses, which can
+	belong to a function (or an operation) performed on the collection of objects
+	\cite[Chapter 2, pp. 35-37]{Alchin2010}.
++ It behaves like a **list comprehension**, but "iteratively produces the result" 
+	\cite[Chapter 6, section on "Generator Expressions," pp. 109]{Beazley2009}.
+
+
+
+
+
 
 Likewise, a **set comprehension** performs the built-in set() function on a
 	collection of unsorted elements \cite[Chapter 2, pp. 37]{Alchin2010}.
