@@ -1378,7 +1378,10 @@ Functional programming features of *Python* include
 		this data is used to bind the free variables.  
 		\cite[Chapter 6, section on "Functions as Objects and Closures," pp. 98]{Beazley2009}
 	- \cite[Chapter 6, section on "Functions as Objects and Closures," pp. 99]{Beazley2009}
-		mentions "**lazy or delayed evaluation**".
+		mentions "**lazy or delayed evaluation**" \cite{WikipediaContributors2018c}.
+	- A closure is a object resulting from packaging the code block associated
+		with a function and its execution environment
+		\cite[Chapter 6, section on "Functions as Objects and Closures," pp. 99]{Beazley2009}.
 + decorators
 + generators
 + coroutines
