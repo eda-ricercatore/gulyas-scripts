@@ -1361,17 +1361,18 @@ Use generators and coroutines together in the following applications, where ther
 	\cite[Chapter 6, section on "Using Generators and Coroutines," pp. 106]{Beazley2009}:
 + computer systems, including file systems
 + computer networking
-+ distributed computing
++ distributed computing, which involves message queues and message passing
+	for communication \cite[Chapter 6, section on "Using Generators and Coroutines," pp. 108]{Beazley2009}:
 + dataflow processing
 	\cite[Chapter 6, section on "Using Generators and Coroutines," pp. 107]{Beazley2009}:
 	- Organize programs "like inverted pipelines"
 	- "Send values into a collection of linked coroutines" 
++ concurrent computing
+	\cite[Chapter 6, section on "Using Generators and Coroutines," pp. 108]{Beazley2009}:
 
-
-
-Advantages of using generators and coroutines together are 
+Advantages of using generators and coroutines together are:
++ memory efficiency
 	\cite[Chapter 6, section on "Using Generators and Coroutines," pp. 107]{Beazley2009}:
-+ memory efficiency.
 	- No usage of temporary lists or large data structures.
 
 
