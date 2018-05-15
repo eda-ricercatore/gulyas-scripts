@@ -2715,6 +2715,12 @@ The **yield** statement pauses the execution of a generator iterator to provide
 	- Use the **close()** function to manually indicate that the generator is no
 		longer used or is deleted
 		\cite[Chapter 6, section on "Generators and yield," pp. 103]{Beazley2009}.
+	- Calling the **close()** function causes the **GeneratorExit** exception to
+		be raised/thrown;
+		when catching the **GeneratorExit** exception, its handing shall not
+			include the use of another generator or use a **yield** statement to
+			produce another output
+		\cite[Chapter 6, section on "Generators and yield," pp. 104]{Beazley2009}.
 + Calling the **next()** function executes a generator until the next **yield
 	statement**, so that it can return the value from the **yield** statement and
 	suspend the execution of the generator
