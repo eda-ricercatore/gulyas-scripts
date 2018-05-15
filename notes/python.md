@@ -1498,6 +1498,9 @@ Similarly, a **generator expression** implicitly creates an iterable object to
 	so that it does not have to create a list or immediately evaluate the expression
 	inside the parentheses
 	\cite[Chapter 6, section on "Generator Expressions," pp. 110]{Beazley2009}.
+	- This can yield better performance and memory usage than **list
+		comprehension**
+		\cite[Chapter 6, section on "Generator Expressions," pp. 110]{Beazley2009}.
 
 
 
