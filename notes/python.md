@@ -1470,9 +1470,12 @@ Operations in declarative programming tend to include operations such as
 + **generator expressions**
 
 
-
-The origin of [the features **list comprehensions** and **generator expressions**] is loosely derived from ideas in mathematical set theory \cite[Chapter 6, section on "Declarative Programming," pp. 110]{Beazley2009}. 
-
+Miscellaneous notes on declarative programming:
++ The origin of [the features **list comprehensions** and **generator expressions**] is loosely derived from ideas in mathematical set theory
+	\cite[Chapter 6, section on "Declarative Programming," pp. 110]{Beazley2009}. 
++ Organize programs as a series of operations performed on all of the data
+	concurrently, as opposed to procedural programs that iterate over data
+	\cite[Chapter 6, section on "Declarative Programming," pp. 110]{Beazley2009}.
 
 
 
