@@ -1382,6 +1382,11 @@ Functional programming features of *Python* include
 	- A closure is a object resulting from packaging the code block associated
 		with a function and its execution environment
 		\cite[Chapter 6, section on "Functions as Objects and Closures," pp. 99]{Beazley2009}.
+	- To exploit lazy evaluation, use closures and nested functions
+		\cite[Chapter 6, section on "Functions as Objects and Closures," pp. 99]{Beazley2009}.
+	- Use a closure to preserve the state across a series of function calls faster
+		than code that do likewise with customized objects
+		\cite[Chapter 6, section on "Functions as Objects and Closures," pp. 100]{Beazley2009}.
 + decorators
 + generators
 + coroutines
