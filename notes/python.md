@@ -1464,8 +1464,10 @@ Functional programming features of *Python* include
 
 
 
-
-\cite[Chapter 6, section on "Declarative Programming," pp. 110]{Beazley2009}
+Operations in declarative programming tend to include operations such as
+	\cite[Chapter 6, section on "Declarative Programming," pp. 110]{Beazley2009}:
++ **list comprehensions**
++ **generator expressions**
 
 
 
