@@ -1357,12 +1357,22 @@ A **coroutine** is a function "that processes a sequence of inputs," rather than
 
 
 Use generators and coroutines together in the following applications, where there
-	is a frequent reception and production of values in sequences:
+	is a frequent reception and production of values in sequences
+	\cite[Chapter 6, section on "Using Generators and Coroutines," pp. 106]{Beazley2009}:
 + computer systems, including file systems
 + computer networking
 + distributed computing
-	\cite[Chapter 6, section on "Coroutines and yield Expressions," pp. 105]{Beazley2009}.
++ dataflow processing
+	\cite[Chapter 6, section on "Using Generators and Coroutines," pp. 107]{Beazley2009}:
+	- Organize programs "like inverted pipelines"
+	- "Send values into a collection of linked coroutines" 
 
+
+
+Advantages of using generators and coroutines together are 
+	\cite[Chapter 6, section on "Using Generators and Coroutines," pp. 107]{Beazley2009}:
++ memory efficiency.
+	- No usage of temporary lists or large data structures.
 
 
 
@@ -2756,6 +2766,8 @@ The **yield** statement pauses the execution of a generator iterator to provide
 			include the use of another generator or use a **yield** statement to
 			produce another output
 		\cite[Chapter 6, section on "Generators and yield," pp. 104]{Beazley2009}.
+	- "[Pull] values through a sequence of **generator** functions"
+		\cite[Chapter 6, section on "Using Generators and Coroutines," pp. 107]{Beazley2009}
 + Calling the **next()** function executes a generator until the next **yield
 	statement**, so that it can return the value from the **yield** statement and
 	suspend the execution of the generator
