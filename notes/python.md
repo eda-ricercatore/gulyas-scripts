@@ -1325,19 +1325,19 @@ A **coroutine** is a function "that processes a sequence of inputs," rather than
 	set of input arguments (like normal functions)
 	\cite[Chapter 1, section on "Generators," pp. 20]{Beazley2009}
 	\cite[Chapter 6, section on "Coroutines and yield Expressions," pp. 104]{Beazley2009}.
-+ Make an initial call of the **next()** function, "so that the coroutine executes statements
-	leading to the first **yield** expression" (or executes statements prior to the
-	first **yield** expression)
++ Make an initial call of the **next()** function, "so that the **coroutine** executes
+	statements leading to the first **yield** expression" (or executes statements
+	prior to the first **yield** expression)
 	\cite[Chapter 6, section on "Coroutines and yield Expressions," pp. 104]{Beazley2009}.
 	- To avoid errors attributed to missing this initial **next()** function call,
-		wrap the coroutine with a decorator
+		wrap the **coroutine** with a decorator
 		\cite[Chapter 6, section on "Coroutines and yield Expressions," pp. 104]{Beazley2009}. 
 + To operate on the next (set of) input in the sequence, it uses the **yield**
 	statement \cite[Chapter 1, section on "Coroutines," pp. 20]{Beazley2009}.
 + To send the next (set of) input in the sequence for processing by the
 	**coroutine**, it uses the **send function**
 	\cite[Chapter 1, section on "Coroutines," pp. 20]{Beazley2009}.
-+ The **yield** statement would suspend execution of the coroutine
++ The **yield** statement would suspend execution of the **coroutine**
 	\cite[Chapter 1, section on "Coroutines," pp. 20]{Beazley2009}.
 + Processing of the next (set of) input in the sequence ends when the
 	**coroutine** returns or the **close()** function is called
@@ -1347,6 +1347,32 @@ A **coroutine** is a function "that processes a sequence of inputs," rather than
 	the **coroutine**(s) model(s) data consumption/processing and the
 	**generator**s model(s) data generation/production
 	\cite[Chapter 1, section on "Coroutines," pp. 20-21]{Beazley2009}.
++ An exceptions can be thrown inside a **coroutine**;
+	however, **throw()** shall not be used to asynchronously control a
+		**coroutine**
+	\cite[Chapter 6, section on "Coroutines and yield Expressions," pp. 105]{Beazley2009}.
++ For a **yield** function with supplied values, it allows a coroutine to receive and
+	produce/return values
+	\cite[Chapter 6, section on "Coroutines and yield Expressions," pp. 105]{Beazley2009}.
+
+
+Use generators and coroutines together in the following applications, where there
+	is a frequent reception and production of values in sequences:
++ computer systems, including file systems
++ computer networking
++ distributed computing
+	\cite[Chapter 6, section on "Coroutines and yield Expressions," pp. 105]{Beazley2009}.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
