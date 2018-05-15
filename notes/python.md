@@ -1491,7 +1491,8 @@ Similarly, a **generator expression** implicitly creates an iterable object to
 	\cite[Chapter 2, pp. 35-37]{Alchin2010}.
 + It behaves like a **list comprehension**, but "iteratively produces the result" 
 	\cite[Chapter 6, section on "Generator Expressions," pp. 109]{Beazley2009}.
-
++ Use parentheses for **generator expression**s
+	\cite[Chapter 6, section on "Generator Expressions," pp. 109]{Beazley2009}.
 
 
 
