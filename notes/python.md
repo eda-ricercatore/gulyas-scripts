@@ -1501,8 +1501,8 @@ Similarly, a **generator expression** implicitly creates an iterable object to
 	- This can yield better performance and memory usage than **list
 		comprehension**
 		\cite[Chapter 6, section on "Generator Expressions," pp. 110]{Beazley2009}.
-
-
+	- Use **generator expression**s for efficient file processing
+		\cite[Chapter 6, section on "Generator Expressions," pp. 110]{Beazley2009}.
 
 
 
