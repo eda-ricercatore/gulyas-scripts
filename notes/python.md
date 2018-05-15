@@ -884,13 +884,6 @@ Protocols masked by *Python* syntactic sugar
 
 
 
-
-
-
-
-
-
-
 + In the object-oriented programming (OOP) paradigm, an object (or an instance
 	of a class) has a set of methods (member functions) and attributes (i.e.,
 	fields or data members) that enable manipulation (or control) of its behavior
@@ -1374,6 +1367,11 @@ Functional programming features of *Python* include
 			functions further down on the current call-stack"
 			\cite[Chapter 6, section on "Scoping Rules," pp. 97]{Beazley2009}.
 + closures
+	- Since "functions are first-class objects in *Python*," the following (operations)
+		are permissible \cite[Chapter 6, section on "Scoping Rules," pp. 98]{Beazley2009}:
+		* pass a function as an argument to another function
+		* place a function in a data structure
+		* return "a function (as a result)"
 + decorators
 + generators
 + coroutines
