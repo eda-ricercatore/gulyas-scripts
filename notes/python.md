@@ -1468,8 +1468,13 @@ Try to use a *Python*ic approach to software development.
 	This can facilitate the design and implementation of software (architectures)
 		that can be refactored easily \cite[Chapter 1]{Alchin2010}.
 
+
 Use a **list comprehension** to perform a conditional operation iteratively on
 	a collection of elements \cite[Chapter 2, pp. 35]{Alchin2010}.
+	\cite[Chapter 6, section on "List Comprehensions," pp. 108]{Beazley2009}:
+
+
+
 
 Similarly, a **generator expression** implicitly creates an iterable object to
 	iterate over a list/collection of elements and perform an operation on each
