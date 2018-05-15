@@ -1102,6 +1102,8 @@ Notes on *Python* functions:
 + Return multiple values from a function by placing them in a tuple, which is
 	returned to the function caller 
 	\cite[Chapter 6, section on "Parameter Passing and Return Values," pp. 96]{Beazley2009}.
++ "Python supports nested function definitions"
+	\cite[Chapter 6, section on "Scoping Rules," pp. 97]{Beazley2009}.
 + Types of *Python* functions \cite[Chapter 3]{Alchin2010}:
 	- decorators
 	- function annotations \cite[Chapter 3, pp. 78]{Alchin2010}.
@@ -1341,6 +1343,19 @@ Functional programming features of *Python* include
 	- Use the **global** statement (e.g., **global *[variable-name]***) to allow
 		local modifications of the global variable ***[variable-name]*** 
 		\cite[Chapter 6, section on "Scoping Rules," pp. 96]{Beazley2009}.
+	- We can use **global** statement anywhere in a function body, and
+		repeatedly use such statements
+		\cite[Chapter 6, section on "Scoping Rules," pp. 96-97]{Beazley2009}.
+	- Declare variables to be **nonlocal** to use values of local variables
+		defined in an outer function
+		\cite[Chapter 6, section on "Scoping Rules," pp. 97]{Beazley2009};
+		for functions nested more than two levels deep, such as nested
+			functions embedded in nested functions, be careful of trying to
+			access/modify local variables defined in the outermost function. 
+		**nonlocal** declarations use dynamic scoping (or dynamic scope), and
+			"don't bind name[s] to local variables defined inside arbitrary
+			functions further down on the current call-stack"
+			\cite[Chapter 6, section on "Scoping Rules," pp. 97]{Beazley2009}.
 + closures
 + decorators
 + generators
