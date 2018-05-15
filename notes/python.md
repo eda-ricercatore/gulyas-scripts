@@ -1089,6 +1089,19 @@ Notes on *Python* functions:
 			executed, regardless of whether it has any unassigned arguments
 			-- note that executing a function with unassigned arguments will
 			result in raising a *TypeError*.
++ Functions can modify input objects passed to them, and this can result in side
+	effects; hence, parameter passing cannot be classified into "pass-by-value"
+	nor "pass-by-reference"
+	\cite[Chapter 6, section on "Parameter Passing and Return Values," pp. 95]{Beazley2009}.
++ For functions that can result in side effects, use locks to protect input objects
+	passed to these functions, so that parallel and concurrent programs can
+	function correctly
+	\cite[Chapter 6, section on "Parameter Passing and Return Values," pp. 95-96]{Beazley2009}.
++ For functions that have no **return** statement, they return the **None** object
+	\cite[Chapter 6, section on "Parameter Passing and Return Values," pp. 96]{Beazley2009}.
++ Return multiple values from a function by placing them in a tuple, which is
+	returned to the function caller 
+	\cite[Chapter 6, section on "Parameter Passing and Return Values," pp. 96]{Beazley2009}.
 + Types of *Python* functions \cite[Chapter 3]{Alchin2010}:
 	- decorators
 	- function annotations \cite[Chapter 3, pp. 78]{Alchin2010}.
