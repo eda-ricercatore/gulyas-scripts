@@ -1123,6 +1123,7 @@ Notes on *Python* functions:
 			an iterator";
 			it uses the **yield** statement to enable a value to be read externally,
 				and it is analogous to the **return** statement \cite[Chapter 3, pp. 94]{Alchin2010}.
+		* See [Miscellaneous](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#miscellaneous).
 	- lambdas
 		* Has a return value in the body of a lambda, and omits any explicit
 			return statement;
@@ -1406,6 +1407,7 @@ Functional programming features of *Python* include
 		* documentation strings
 		function attributes
 + generators
+	- See [Miscellaneous](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#miscellaneous).
 + coroutines
 
 
@@ -2701,7 +2703,8 @@ The **pass** statement is used to represent "no-op" operations
 The **yield** statement pauses the execution of a generator iterator to provide
 	a value; it can be used in **for** loops
 	\cite[Appendix B, pp. 567]{Hetland2005} to generate a sequence of results
-	\cite[Chapter 1, section on "Generators," pp. 19]{Beazley2009}.
+	\cite[Chapter 1, section on "Generators," pp. 19]{Beazley2009}
+	\cite[Chapter 6, section on "Generators and yield," pp. 102]{Beazley2009}.
 + A generator, or generator function, is a function that includes a yield
 	statement, such that successive calls to the generator produces a
 	sequence of results
