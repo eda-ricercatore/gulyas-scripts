@@ -1480,7 +1480,8 @@ Use a **list comprehension** to perform a conditional operation iteratively on
 	\cite[Chapter 6, section on "List Comprehensions," pp. 109]{Beazley2009}.
 + Use square brackets for **list comprehensions**
 	\cite[Chapter 6, section on "Generator Expressions," pp. 109]{Beazley2009}.
-+ **Create a list with the resulting data**
++ **Create a list with the resulting data**; or create a list with the resultant
+	sequence of data
 	\cite[Chapter 6, section on "Generator Expressions," pp. 110]{Beazley2009}.
 
 
@@ -1503,7 +1504,11 @@ Similarly, a **generator expression** implicitly creates an iterable object to
 		\cite[Chapter 6, section on "Generator Expressions," pp. 110]{Beazley2009}.
 	- Use **generator expression**s for efficient file processing
 		\cite[Chapter 6, section on "Generator Expressions," pp. 110]{Beazley2009}.
-
+	- Does not create a sequence-like object that can be indexed or operated
+		like a list;
+		"however, a generator expression can be converted into a list using the
+			built-in **list()** function"
+		\cite[Chapter 6, section on "Generator Expressions," pp. 110]{Beazley2009}.
 
 
 
