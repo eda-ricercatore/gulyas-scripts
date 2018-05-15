@@ -658,7 +658,8 @@ Notes on *Python* Classes:
 		access modifiers) \cite[Chapter 7, pp. 145]{Hetland2005};
 		however, an attribute or method can be set to be pseudo-"private" by
 			adding the prefix "\_\_" (i.e., two/double underscores)
-			\cite[Chapter 7, pp. 145-146]{Hetland2005}.
+			\cite[Chapter 7, pp. 145-146]{Hetland2005}
+			\cite[pp. 87, subsubsection on "Class privates"]{Lutz2010}.
 	-  Attributes and methods of a *Python* class with the prefix "\_\_" are
 		accessible as public methods \cite[Chapter 7, pp. 146]{Hetland2005};  
 		hence, I call them pseudo-"private" attributes and methods.
@@ -3119,7 +3120,14 @@ Lists of online resources can be found at:
 + \cite{Alchin2010}
 + \cite{Hall2009b}
 + \cite{Hetland2005}
++ \cite{Lutz2010}
 + \cite{Sweigart2015}
+
+
+Books that I am skipping
++ \cite{Langtangen2009a}
++ \cite{Langtangen2011}
+
 
 Read these:
 + \cite{Beazley2009}
@@ -3137,26 +3145,22 @@ Read these:
 
 Chapter 3, 7, 9.
 \cite[Appendices A and B]{Langtangen2009}.
+OOP
 
 
 
-
-\cite{Langtangen2009a}
-Chapter 7,9, Appendix D,E.
-
-Quickly skim \cite{Langtangen2011}, and differentiate it from \cite{Langtangen2009a} and \cite{Langtangen2012}.
- 
 \cite{Langtangen2012}
 Chapter 4, 6, 7, 9.
-Appendices A and B
-
+Appendices F, G, and H
+OOP
 
 
 \cite{Lee2011b}
 Chapter 4, 7.
+OOP
 
 \cite[Chapter 21]{Lutz2011}.
-
+quick
 
 
 
@@ -3164,7 +3168,7 @@ Chapter 4, 7.
 Chapter 4,16-21, 22-25, 26-29, 31-32, 33-36, 39-41.
 \cite[Chapter 15]{Lutz2013}.
 
-\cite{Lutz2010}
+
 
 \cite{Pilgrim2009}
 
