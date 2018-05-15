@@ -1476,6 +1476,8 @@ Miscellaneous notes on declarative programming:
 + Organize programs as a series of operations performed on all of the data
 	concurrently, as opposed to procedural programs that iterate over data
 	\cite[Chapter 6, section on "Declarative Programming," pp. 110]{Beazley2009}.
+	- \cite[Chapter 6, section on "Declarative Programming," pp. 110-111]{Beazley2009}
+		has a good example about performing data processing on text file. 
 
 
 
