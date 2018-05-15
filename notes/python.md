@@ -874,6 +874,13 @@ Protocols masked by *Python* syntactic sugar
 
 ###	Object management
 
+"All objects in Python are said to be `first class.'
++ This means that all objects that can be named by an identifier have equal
+	status.
++ It also means that all objects that can be named can be treated as data."
+	\cite[Chapter 3, section on "First-Class Objects," pp. 37]{Beazley2009}.
+
+
 + In the object-oriented programming (OOP) paradigm, an object (or an instance
 	of a class) has a set of methods (member functions) and attributes (i.e.,
 	fields or data members) that enable manipulation (or control) of its behavior
@@ -988,7 +995,12 @@ Pages in \cite{Hetland2005} that deal with importing
 ### *Python* Functions
 
 Notes on *Python* functions:
-+ By default, *Python* functions return *None* \cite[Chapter 1, pp. 15]{Alchin2010}.
++ For functions that have no **return** statement, they return the **None** object
+	\cite[Chapter 6, section on "Parameter Passing and Return Values," pp. 96]{Beazley2009}.
+	- By default, *Python* functions return *None* \cite[Chapter 1, pp. 15]{Alchin2010}.
++ Return multiple values from a function by placing them in a tuple, which is
+	returned to the function caller 
+	\cite[Chapter 6, section on "Parameter Passing and Return Values," pp. 96]{Beazley2009}.
 + No *Python* function is given special privileges over other *Python* functions
 	\cite[Chapter 3, pp. 53]{Alchin2010}.
 + *Python* functions encapsulate code into individual units, which facilitates
@@ -1097,11 +1109,6 @@ Notes on *Python* functions:
 	passed to these functions, so that parallel and concurrent programs can
 	function correctly
 	\cite[Chapter 6, section on "Parameter Passing and Return Values," pp. 95-96]{Beazley2009}.
-+ For functions that have no **return** statement, they return the **None** object
-	\cite[Chapter 6, section on "Parameter Passing and Return Values," pp. 96]{Beazley2009}.
-+ Return multiple values from a function by placing them in a tuple, which is
-	returned to the function caller 
-	\cite[Chapter 6, section on "Parameter Passing and Return Values," pp. 96]{Beazley2009}.
 + "Python supports nested function definitions"
 	\cite[Chapter 6, section on "Scoping Rules," pp. 97]{Beazley2009}.
 + Types of *Python* functions \cite[Chapter 3]{Alchin2010}:
