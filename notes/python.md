@@ -863,8 +863,7 @@ Protocols masked by *Python* syntactic sugar
 
 
 
-
-
+By default, each *Python* function is a virtual function \cite{Ucoluk2012}.
 
 
 
@@ -3116,6 +3115,7 @@ Lists of online resources can be found at:
 + \cite{Alchin2010}
 + \cite{Hall2009b}
 + \cite{Hetland2005}
++ \cite{Sweigart2015}
 
 Read these:
 + \cite{Beazley2009}
@@ -3163,7 +3163,8 @@ Chapter 4,16-21, 22-25, 26-29, 31-32, 33-36, 39-41.
 \cite{Lutz2010}
 
 \cite{Pilgrim2009}
-\cite{Ucoluk2012}
+
+
 
 
 
