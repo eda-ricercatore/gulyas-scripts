@@ -1390,10 +1390,21 @@ Functional programming features of *Python* include
 + decorators
 	- A decorator is a function that wraps another function (i.e., inner function) or
 		class, so that the behavior of the wrapped function/class object is
-		modified/improved;
-		they are denoted by prefixing the symbol "**@**" to a token;
-		we can apply multiple decorators to a function/class definition 
+		modified/improved
 		\cite[Chapter 6, section on "Functions as Objects and Closures," pp. 100-101]{Beazley2009}.
+	- Denote a decrorator by prefixing the symbol "**@**" to a token
+		\cite[Chapter 6, section on "Functions as Objects and Closures," pp. 101]{Beazley2009}.
+	- We can apply multiple decorators to a function/class definition, each of
+		which is provided on a single line 
+		\cite[Chapter 6, section on "Functions as Objects and Closures," pp. 101]{Beazley2009}.
+	- A decorator for a class shall return a class object, instead of another type
+		of object
+		\cite[Chapter 6, section on "Functions as Objects and Closures," pp. 101]{Beazley2009}.
+	- There may be unexpected/strange interactions between decorators and
+		aspects of functions, such as \cite[Chapter 6, section on "Functions as Objects and Closures," pp. 101]{Beazley2009}:
+		* recursion
+		* documentation strings
+		function attributes
 + generators
 + coroutines
 
