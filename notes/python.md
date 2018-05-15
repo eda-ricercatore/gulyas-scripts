@@ -1340,8 +1340,9 @@ A **coroutine** is a function "that processes a sequence of inputs," rather than
 + The **yield** statement would suspend execution of the coroutine
 	\cite[Chapter 1, section on "Coroutines," pp. 20]{Beazley2009}.
 + Processing of the next (set of) input in the sequence ends when the
-	**coroutine** returns or the **close function** is called
-	\cite[Chapter 1, section on "Coroutines," pp. 20]{Beazley2009}.
+	**coroutine** returns or the **close()** function is called
+	\cite[Chapter 1, section on "Coroutines," pp. 20]{Beazley2009}
+	\cite[Chapter 6, section on "Coroutines and yield Expressions," pp. 105]{Beazley2009}.
 + **Coroutine**s facilitate the modeling of producer-consumer problems, where
 	the **coroutine**(s) model(s) data consumption/processing and the
 	**generator**s model(s) data generation/production
