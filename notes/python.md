@@ -865,8 +865,11 @@ Protocols masked by *Python* syntactic sugar
 
 By default, each *Python* function is a virtual function \cite{Ucoluk2012}.
 
-
-
+Additional information about object-oriented programming:
++ accessor and mutator functions \cite[\S7.3.1, pp. 206-208]{Ucoluk2012}
++ inheritance \cite[\S7.3.2, pp. 209-210]{Ucoluk2012}
+	- virtual functions \cite[\S7.3.2, pp. 209-210]{Ucoluk2012}
++ operator overloading \cite[\S7.3.4, pp. 211-212]{Ucoluk2012}
 
 
 
