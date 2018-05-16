@@ -1310,6 +1310,13 @@ Notes on *Python* functions:
 			self-documention;
 			lambda expressions can make the code difficult to read and
 				understand.
+		* Use **lambda** statements to define anonymous functions
+			\cite[Chapter 6, section on "Declarative Programming," pp. 112]{Beazley2009};
+			+ Syntax: ***lambda args : expression***
+				\cite[Chapter 6, section on "Declarative Programming," pp. 112]{Beazley2009}:
+				- "***args*** is a comma-separated list of arguments" 
+				- ***expression*** is a combination of variables, (constants,), operation
+					symbols, and functions.
 	- Note on **map**, **filter**, and list comprehension
 		\cite[Chapter 6, pp. 134-135]{Hetland2005}:
 		* A list comprehension can implement any **filter** or **map**
@@ -1482,12 +1489,9 @@ Miscellaneous notes on declarative programming:
 
 
 Use **lambda** statements to define anonymous functions
-	\cite[Chapter 6, section on "Declarative Programming," pp. 112]{Beazley2009}
-+ Syntax: ***lambda args : expression***
-	\cite[Chapter 6, section on "Declarative Programming," pp. 112]{Beazley2009}:
-	- "***args*** is a comma-separated list of arguments" 
-	- ***expression*** is a combination of variables, (constants,), operation
-		symbols, and functions
+	\cite[Chapter 6, section on "Declarative Programming," pp. 112]{Beazley2009};
+	see [*Python* Functions](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#python-functions).
+
 
 
 
