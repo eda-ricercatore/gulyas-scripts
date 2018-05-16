@@ -3183,7 +3183,7 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 + **Database management**.
 	- \cite{Hetland2005,Lutz2010,Lutz2011,Sileika2010,Younker2008}.
 + Functional programming.
-	- \cite{Lutz2009,Lutz2013}.
+	- \cite{Beazley2009,Lutz2009,Lutz2013}.
 	- **Read this!!!**
 + GUI development.
 	- \cite{Gift2008,Hall2009b,Hetland2005,Langtangen2009,Lee2011b,Lutz2010,Lutz2011,Vaingast2009}.
