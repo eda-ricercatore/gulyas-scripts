@@ -964,6 +964,18 @@ Use the *Uniform Access Principle* to faciliate the design of uniform programmin
 
 
 
+When an instance object access a method like an attribute, it would return a
+	**bound method** object, instead of a function object, since the method
+	access would invoke the **()** operator and execute the method
+	\cite[Chapter 7, section on "Properties," pp. 125]{Beazley2009};
+	this is similar to **partially evaluated function**s, since the **self** parameter
+		"has a value" and I would have to supply the remaining/additional
+		arguments using the **()** operator;
+	a **property** (function) executes in the background to create this bound
+		method 
+	\cite[Chapter 7, section on "Properties," pp. 125]{Beazley2009}.
+	
+	 
 
 
 
