@@ -472,6 +472,11 @@ Notes on *Python* Classes:
 		* Instead of type checking (or checking the class), ask if the object is
 			behaving according to what I want
 			\cite[Chapter 7, pp. 143]{Hetland2005}.
+	- Dynamic binding (or polymorphism in the context of inheritance) enables
+		an instance object to use a method without concern for the types
+		required for its method parameters/arguments;
+		this is because of **duck typing**
+		\cite[Chapter 7, section on "Polymorphism Dynamic Binding and Duck Typing," pp. 122]{Beazley2009}
 + The built-in type **object** is "a foundation type that underpins the entire
 	system \cite[Chapter 4, pp. 103]{Alchin2010}.
 + Codify relationships between packages, modules, and classes to represent
