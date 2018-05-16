@@ -845,7 +845,7 @@ Protocols masked by *Python* syntactic sugar
 		after the processing (or post-processing)
 		\cite[Chapter 5, pp. 166]{Alchin2010}.
 	- Examples of contexts include:
-		* file handling \cite[Chapter 5, pp. 166]{Alchin2010}
+		* **file handling** \cite[Chapter 5, pp. 166]{Alchin2010}
 	- Set things up (preprocessing):
 		* **\_\_enter\_\_()** method
 	- Clean up after the processing (or post-processing):
@@ -1477,7 +1477,7 @@ Miscellaneous notes on declarative programming:
 	concurrently, as opposed to procedural programs that iterate over data
 	\cite[Chapter 6, section on "Declarative Programming," pp. 110]{Beazley2009}.
 	- \cite[Chapter 6, section on "Declarative Programming," pp. 110-111]{Beazley2009}
-		has a good example about performing data processing on text file. 
+		has a **good example about performing data processing on text file**. 
 
 
 
