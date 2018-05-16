@@ -632,7 +632,12 @@ Notes on *Python* Classes:
 			\cite[Chapter 4, pp. 134]{Alchin2010};
 		a static method shall be defined within a *Python* class with the
 			**@staticmethod** decorator \cite[Chapter 4, pp. 134]{Alchin2010}
-			\cite[Chapter 1, section on "Objects and Classes," pp. 22]{Beazley2009}.
+			\cite[Chapter 1, section on "Objects and Classes," pp. 22]{Beazley2009}
+			just before the static method definition
+			\cite[Chapter 7, section on "Static Methods and Class Methods," pp. 123]{Beazley2009}.
+		* A static method exists within the namespace defined by a class, but
+			"it does not operate on any kind of instance"
+			\cite[Chapter 7, section on "Static Methods and Class Methods," pp. 123]{Beazley2009}.
 + There exists various ways to instantiate/create, modify, or invalidate *Python*
 	instance objects \cite[Chapter 4, pp. 135]{Alchin2010}.
 	- Creating *Python* instance objects via instantiation of a *Python* class
