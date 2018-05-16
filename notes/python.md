@@ -960,6 +960,8 @@ Use the *Uniform Access Principle* to faciliate the design of uniform programmin
 
 
 
+**An aside: See the following for information about [partially evaluated functions](https://www.boost.org/doc/libs/1_44_0/libs/spirit/classic/phoenix/doc/basic_concepts.html) in **C++**.*
+
 
 
 
