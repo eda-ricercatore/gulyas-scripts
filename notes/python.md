@@ -731,8 +731,7 @@ Notes on *Python* Classes:
 			adding the prefix "\_\_" (i.e., two/double underscores)
 			\cite[Chapter 7, pp. 145-146]{Hetland2005}
 			\cite[pp. 87, subsubsection on "Class privates"]{Lutz2010}.
-
-		\cite[Chapter 7, section on "Data Encapsulation and Private Attributes," pp. 126]{Beazley2009}
+		\cite[Chapter 7, section on "Data Encapsulation and Private Attributes," pp. 127]{Beazley2009}
 	-  Attributes and methods of a *Python* class with the prefix "\_\_" are
 		accessible as public methods \cite[Chapter 7, pp. 146]{Hetland2005};  
 		hence, I call them pseudo-"private" attributes and methods.
