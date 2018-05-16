@@ -689,7 +689,10 @@ Notes on *Python* Classes:
 		* The name of an attribute of an instance object can be accessed or
 			modified directly via *instance.attribute* \cite[Chapter 4, pp. 138]{Alchin2010};
 			other methods for accessing or modifying *instance.attribute* can
-				provide more control \cite[Chapter 4, pp. 138]{Alchin2010}. 
+				provide more control \cite[Chapter 4, pp. 138]{Alchin2010}.
+		* The special attribute **\_\_bases\_\_** is a tuple of base classes, and
+			it connects classes to their base classes
+			\cite[Chapter 7, section on "Object Representation and Attribute Binding," pp. 131]{Beazley2009}
 		* Use the **\_\_getattr\_\_()** function to obtain the value of an attribute
 			(of the instance object) \cite[Chapter 4, pp. 138]{Alchin2010};
 			e.g., use the **getattr(instance, attribute_name)** to obtain the
@@ -774,6 +777,9 @@ Notes on *Python* Classes:
 		\cite[Chapter 7, pp. 156]{Hetland2005}. 
 	- Use the **\_\_dict\_\_** attribute to examine all the attributes of a *Python*
 		object and their associated values \cite[Chapter 7, pp. 156]{Hetland2005}.
+		* The local **\_\_dict\_\_** attribute manages all modifications to an
+			instance object
+			\cite[Chapter 7, section on "Object Representation and Attribute Binding," pp. 131]{Beazley2009}.
 	- Use the **inspect** module to examine all the attributes and methods of a
 		*Python* object \cite[Chapter 7, pp. 156]{Hetland2005}.
 
@@ -1084,7 +1090,8 @@ When an instance object access a method like an attribute, it would return a
 				\cite[Chapter 7, section on "Object Memory Management," pp. 129]{Beazley2009}.
 			+ Note that for classes that redefine the method **\_\_del\_\_()**,
 				the "*Python's* cyclic garbage collector" cannot automatically
-				call the method **\_\_del\_\_()**
+				call the method **\_\_del\_\_()**;
+				do not perform dynamic memory management manually
 				\cite[Chapter 7, section on "Object Memory Management," pp. 129]{Beazley2009}.
 		* Cyclical references, which is inefficient but leads to more consistent
 			and reliable outcomes \cite[Chapter 6, pp. 178-179]{Alchin2010}
