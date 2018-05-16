@@ -948,7 +948,7 @@ Additional information about object-oriented programming:
 		executes the function-like definition to determine its value;
 	it is declared with the **@property** decorator just before its
 		definition/implementation
-	\cite[Chapter 7, section on "Properties," pp. 124]{Beazley2009}.
+	\cite[Chapter 7, section on "Properties," pp. 124-125]{Beazley2009}.
 
 
 
