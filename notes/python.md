@@ -1396,6 +1396,7 @@ Advantages of using generators and coroutines together are:
 	- No usage of temporary lists or large data structures.
 
 
+
 Notes about using recursive functions to carry out recursion:
 + The (current) maximum recursion depth is indicated by **sys.getrecursionlimit()**,
 	which can be modified with **sys.setrecursionlimit()**
@@ -1419,6 +1420,13 @@ Notes about using recursive functions to carry out recursion:
 		\cite[Chapter 6, section on "Recursion," pp. 112]{Beazley2009}.
 	- coroutines
 		\cite[Chapter 6, section on "Recursion," pp. 112]{Beazley2009}.
+
+
+
+
+
+
+
 
 
 
@@ -1488,6 +1496,11 @@ Functional programming features of *Python* include
 		aspects of functions, such as \cite[Chapter 6, section on "Decorators," pp. 102]{Beazley2009}:
 		* recursion
 		* documentation strings
+			\cite[Chapter 6, section on "Decorators," pp. 102]{Beazley2009}
+			\cite[Chapter 6, section on "Documentation Strings," pp. 113]{Beazley2009}:
+			+ (Re)write decorators to enable propagation of the function name
+				and documentation string
+				\cite[Chapter 6, section on "Documentation Strings," pp. 113]{Beazley2009}
 		* function attributes
 + generators
 	- See [Miscellaneous](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#miscellaneous).
@@ -1655,17 +1668,33 @@ Use documentation generators to produce documentation for the [software
 Use the **\_\_doc\_\_** attribute of modules, classes, and functions to access
 	docstrings \cite[Chapter 8, pp. 209]{Alchin2010}.
 
+
+
+
+
+
+Place documentation strings, or docstrings, at the start of each function, class,
+	and package
+	\cite[Chapter 6, section on "Documentation Strings," pp. 113]{Beazley2009}.
+
+
+
+
 Guidelines on what to include in docstrings \cite[Chapter 8, pp. 209]{Alchin2010}:
 + "Describe the function[/method]"
 + "Explain the arguments"
 + "Don't forget the return value"
 + "Include any expected exceptions" \cite[Chapter 8, pp. 210]{Alchin2010}
 
+
+
 Endeavor to provide additional documentation for the following
 	\cite[Chapter 8, pp. 210]{Alchin2010}:
 + Information about the installation, configuration, and execution of the software.
 + Tutorials on how to use the software.
 + "Reference documents"
+
+
 
 \cite[Chapter 2, pp. 16]{Hall2009b} suggests the following *Python* docstring to
 	provide built-in documentation for the *Python* software:
@@ -1694,6 +1723,10 @@ Endeavor to provide additional documentation for the following
 + \_\credits\_\_ = "Thanks to everyone."
 
 
+
+
+
+
 Produce documentation using documentation generators, such as:
 + *Javadoc*
 + *Doxygen*
@@ -1705,8 +1738,6 @@ The command **help(*[Python module]*)** enables a user to read documentation
 	generators, such as *pydoc* \cite[Chapter 11, pp. 248]{Hall2009b}.
 	This documentation is extracted from the comments in the *[Python module]*
 		\cite[Chapter 11, pp. 248]{Hall2009b}. 
-
-
 
 
 
