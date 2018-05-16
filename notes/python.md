@@ -641,6 +641,9 @@ Notes on *Python* Classes:
 			"it does not operate on any kind of instance";
 			call a static method using the following format: **class-name.static-method(*[arguments]*)**
 			\cite[Chapter 7, section on "Static Methods and Class Methods," pp. 123]{Beazley2009}.
+	- Class and static methods can be invoked by an instance object;
+		e.g., **instance-object.static-method()** or **instance-class-method()**
+		\cite[Chapter 7, section on "Static Methods and Class Methods," pp. 124]{Beazley2009}.
 + There exists various ways to instantiate/create, modify, or invalidate *Python*
 	instance objects \cite[Chapter 4, pp. 135]{Alchin2010}.
 	- Creating *Python* instance objects via instantiation of a *Python* class
