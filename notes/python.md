@@ -350,8 +350,10 @@ Notes on *Python* Classes:
 	\cite[Chapter 7, pp. 139]{Hetland2005}  
 	- ***polymorphism***
 	- ***encapsulation***
-	- methods
-	- attributes
+	- methods, or functions of the class
+		\cite[Chapter 7, section on "The class Statement," pp. 117]{Beazley2009}.
+	- attributes, or properties
+		\cite[Chapter 7, section on "The class Statement," pp. 117]{Beazley2009}.
 	- superclasses
 	- ***inheritance***
 	- constructors
@@ -361,7 +363,9 @@ Notes on *Python* Classes:
 		data (i.e., attributes, or object-specific variables
 		\cite[Chapter 7, pp. 144]{Hetland2005}) and commands (i.e., methods,
 		or functions belonging to this *Python* class)
-		\cite[Chapter 9, pp. 181]{Hall2009b}.  
+		\cite[Chapter 9, pp. 181]{Hall2009b}.
+	- A class variable is a variable that is part of a class
+		\cite[Chapter 7, section on "The class Statement," pp. 117]{Beazley2009}.
 + "An instance of the class represents the data for the object"
 	\cite[Chapter 4, pp. 103]{Alchin2010} \cite[Chapter 9, pp. 183]{Hall2009b}.
 	- Encapsulation enables the treatment of an object as a black box
@@ -877,7 +881,6 @@ Additional information about object-oriented programming:
 
 
 
-\cite[Chapter 7, section on "The class Statement," pp. 117]{Beazley2009}.
 
 
 
