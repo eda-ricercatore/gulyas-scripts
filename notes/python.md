@@ -372,8 +372,10 @@ Notes on *Python* Classes:
 		attribute/function binds the attribute/function to that instance object
 		\cite[Chapter 7, section on "Class Instances," pp. 118]{Beazley2009}.
 	A class defines a namespace, but it does not create a unique scope for
-		names inside each of its method
-		\cite[Chapter 7, section on "Class Instances," pp. 118]{Beazley2009}. 
+		names inside each of its method;
+		hence, for each method, references to attributes and other methods in
+			the class must be qualified through **self**
+		\cite[Chapter 7, section on "Scoping Rules," pp. 118]{Beazley2009}. 
 + "An instance of the class represents the data for the object"
 	\cite[Chapter 4, pp. 103]{Alchin2010} \cite[Chapter 9, pp. 183]{Hall2009b}.
 	- Encapsulation enables the treatment of an object as a black box
