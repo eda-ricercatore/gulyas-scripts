@@ -561,7 +561,8 @@ Notes on *Python* Classes:
 	can allow attributes to be assessed by methods
 	\cite[Chapter 4, pp. 127]{Alchin2010}.
 + A descriptor of an assigned class allows an object definition to behave just
-	like the properties of the assigned class \cite[Chapter 4, pp. 129]{Alchin2010}. 
+	like the properties of the assigned class \cite[Chapter 4, pp. 129]{Alchin2010}
+	\cite[Chapter 7, section on "Descriptors," pp. 126]{Beazley2009}. 
 	- Since a descriptor cannot use the namespace dictionary of the instance
 		object, the descriptor has to use a dictionary to access instance objects
 		\cite[Chapter 4, pp. 131]{Alchin2010}.
