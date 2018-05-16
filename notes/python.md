@@ -1411,6 +1411,10 @@ Notes about using recursive functions to carry out recursion:
 + Avoid using recursion with:
 	- decorators
 		\cite[Chapter 6, section on "Functions as Objects and Closures," pp. 101]{Beazley2009}
+		\cite[Chapter 6, section on "Recursion," pp. 113]{Beazley2009}
+		* Avoid using recursion when decorators are used for system management,
+			such as synchronization or locking
+			\cite[Chapter 6, section on "Recursion," pp. 112]{Beazley2009}.
 	- generator, or generator functions
 		\cite[Chapter 6, section on "Recursion," pp. 112]{Beazley2009}.
 	- coroutines
