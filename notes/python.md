@@ -1045,6 +1045,16 @@ When an instance object access a method like an attribute, it would return a
 + Compared to other object-oriented programming languages, "*Python*'s
 	built-in types are organized into a relatively flat hierarchy"
 	\cite[Chapter 7, section on "Abstract Base Classes," pp. 137]{Beazley2009}.
++ A **metaclass** is a special category/kind of object that creates and manages
+	classes;
+	a class definition in *Python* becomes a class object, which needs to be
+		created and managed by the **metaclass**
+	\cite[Chapter 7, section on "Metaclasses," pp. 138]{Beazley2009}.
+
+
+
+
+
 
 
 
