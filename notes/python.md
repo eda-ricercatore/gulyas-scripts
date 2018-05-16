@@ -970,7 +970,10 @@ Additional information about object-oriented programming:
 + inheritance \cite[\S7.3.2, pp. 209-210]{Ucoluk2012}
 	- virtual functions \cite[\S7.3.2, pp. 209-210]{Ucoluk2012}
 + operator overloading \cite[\S7.3.4, pp. 211-212]{Ucoluk2012}
-
+	\cite[Chapter 7, section on "Operator Overloading," pp. 133-134]{Beazley2009}.
+	- Type conversion by coercion is not supported in *Python 2.6* or *Python 3*
+		for mixed-type arithmetic
+		\cite[Chapter 7, section on "Operator Overloading," pp. 134]{Beazley2009}.
 
 
 
