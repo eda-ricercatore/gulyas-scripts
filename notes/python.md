@@ -658,7 +658,8 @@ Notes on *Python* Classes:
 	- Creating *Python* instance objects via instantiation of a *Python* class
 		 \cite[Chapter 4, pp. 136]{Alchin2010}:
 		* Use **\_\_new\_\_()** to instantiate/create an object of a *Python*
-		 	class \cite[Chapter 4, pp. 137]{Alchin2010}. 
+		 	class \cite[Chapter 4, pp. 137]{Alchin2010}.
+		 	\cite[Chapter 7, section on "Object Memory Management," pp. 129]{Beazley2009} 
 		* Use **\_\_init\_\_()** to initialize an object of a *Python* class to
 			implement behavior (i.e., perform functions and operations) that is
 		 	specific/unique to that *Python* instance object;
@@ -668,12 +669,16 @@ Notes on *Python* Classes:
 				class (such as file input operations, validation of
 				initial/preliminary user input, or to collect information
 				regarding a given running process)
-			\cite[Chapter 4, pp. 136]{Alchin2010}.
+			\cite[Chapter 4, pp. 136]{Alchin2010}
+			\cite[Chapter 7, section on "Object Memory Management," pp. 129]{Beazley2009}.
 		* Default values for instance variables of the class serve as placeholders
 			until they will be updated \cite[Chapter 4, pp. 136]{Alchin2010}.
 		* For a given *Python* instance object, the **\_\_new\_\_()** method
 			should be called before the **\_\_init\_\_()** method
 			\cite[Chapter 4, pp. 137]{Alchin2010}.
+		* The method **\_\_new\_\_()** does not automatically call the method
+			**\_\_init\_\_()**
+			\cite[Chapter 7, section on "Object Memory Management," pp. 129]{Beazley2009}
 	- Accessing and modifying attributes of a *Python* class
 		\cite[Chapter 4, pp. 138]{Alchin2010} \cite[Chapter 9, pp. 197]{Hall2009b}:
 		* The name of an attribute of an instance object can be accessed or
