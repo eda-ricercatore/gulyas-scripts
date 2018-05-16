@@ -494,9 +494,12 @@ Notes on *Python* Classes:
 			classes \cite[Chapters 7, pp. 155]{Hetland2005}. 
 	- Multiple inheritance enables mixins, or support classes, to provide minor
 		add-on features that can be used by a variety of classes. 
-		\cite[Chapter 4, pp. 105]{Alchin2010}.
+		\cite[Chapter 4, pp. 105]{Alchin2010}
+		\cite[Chapter 7, section on "Inheritance," pp. 122]{Beazley2009}.
 		* **Compare mixins with traits.**
 		* "[A mixin does] not provide full functionality on [its] own."
+		* The minor add-on features are "mixed in" with the other classes 
+			\cite[Chapter 7, section on "Inheritance," pp. 122]{Beazley2009}
 + Method resolution order (MRO) determines "the order in which *Python*
 	resolves which method to use" in software that uses "multi-level or multiple
 	inheritance" \cite[Chapter 4, pp. 106]{Alchin2010}
@@ -510,7 +513,7 @@ Notes on *Python* Classes:
 		here, specialization refers to the "depth" of the class in the inheritance
 			graph/tree/diagram, such that a grandchild is more specialized
 			than a grandparent  
-		\cite[Chapter 7, section on "Inheritance," pp. 121]{Beazley2009}.
+		\cite[Chapter 7, section on "Inheritance," pp. 121,122]{Beazley2009}.
 + **\_\_init\_\_()** is a class, when it shoud be considered as an instance object
 	(**self**), which inherits from **type** \cite[Chapter 4, pp. 122]{Alchin2010}
 	\cite[Chapter 7, pp. 102-103]{Pilgrim2009}.
