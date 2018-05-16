@@ -644,6 +644,9 @@ Notes on *Python* Classes:
 	- Class and static methods can be invoked by an instance object;
 		e.g., **instance-object.static-method()** or **instance-class-method()**
 		\cite[Chapter 7, section on "Static Methods and Class Methods," pp. 124]{Beazley2009}.
+	- The definition of static and class methods specifies using a property
+		function to handle these methods differently
+		\cite[Chapter 7, section on "Properties," pp. 125]{Beazley2009}.
 + There exists various ways to instantiate/create, modify, or invalidate *Python*
 	instance objects \cite[Chapter 4, pp. 135]{Alchin2010}.
 	- Creating *Python* instance objects via instantiation of a *Python* class
@@ -949,6 +952,11 @@ Additional information about object-oriented programming:
 	it is declared with the **@property** decorator just before its
 		definition/implementation
 	\cite[Chapter 7, section on "Properties," pp. 124-125]{Beazley2009}.
+
+A property can carry out operations in the background to modify or delete an
+	attribute, via connecting/binding the methods for modification and deletion
+	to the property
+	\cite[Chapter 7, section on "Properties," pp. 125]{Beazley2009}.
 
 
 Use the *Uniform Access Principle* to faciliate the design of uniform programming
