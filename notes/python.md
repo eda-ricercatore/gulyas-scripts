@@ -2481,7 +2481,12 @@ In *Python* 3.x:
 		\cite[Chapter 8, pp. 172]{Hall2009b}.
 + ***exec()* and *eval()* pose software security threats**, if they execute
 	malicious *Python* code \cite[Chapter 8, pp. 173]{Hall2009b}.
-
+	- The function **eval(str [,globals [,locals]])** evaluates the expression
+		contained in the string **str**, and returns the result 
+		\cite[Chapter 6, section on "eval(), exec(), and compile()," pp. 115]{Beazley2009}.
+	- The function **exec(str [, globals [, locals]])** executes the *Python* code
+		contained in the string **str**
+		\cite[Chapter 6, section on "eval(), exec(), and compile()," pp. 115]{Beazley2009}.
 
 
 
