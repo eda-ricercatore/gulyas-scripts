@@ -393,6 +393,9 @@ Notes on *Python* Classes:
 		\cite[Chapters 7, pp. 148]{Hetland2005};
 		**self** in *Python* is analogous to **this** in *C++*/*Java*
 			\cite[Chapter 7, section on "Scoping Rules," pp. 119]{Beazley2009}.
+		the required, explicit usage of **self** enables the differentiation of
+			instance attributes/variables from local variables
+			\cite[Chapter 7, section on "Scoping Rules," pp. 119]{Beazley2009}.
 	- **dir(*[instance object]*)** shows a list of attributes and methods
 		supported by the ***[instance object]*** within its namespace 
 		\cite[Chapter 9, pp. 184]{Hall2009b}.
