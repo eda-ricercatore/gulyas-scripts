@@ -499,7 +499,9 @@ Notes on *Python* Classes:
 		* **Compare mixins with traits.**
 		* "[A mixin does] not provide full functionality on [its] own."
 		* The minor add-on features are "mixed in" with the other classes 
-			\cite[Chapter 7, section on "Inheritance," pp. 122]{Beazley2009}
+			\cite[Chapter 7, section on "Inheritance," pp. 122]{Beazley2009}.
+	- If possible, avoid multiple inheritance
+		\cite[Chapter 7, section on "Inheritance," pp. 122]{Beazley2009}.
 + Method resolution order (MRO) determines "the order in which *Python*
 	resolves which method to use" in software that uses "multi-level or multiple
 	inheritance" \cite[Chapter 4, pp. 106]{Alchin2010}
