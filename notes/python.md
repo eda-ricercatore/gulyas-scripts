@@ -566,6 +566,9 @@ Notes on *Python* Classes:
 	- Since a descriptor cannot use the namespace dictionary of the instance
 		object, the descriptor has to use a dictionary to access instance objects
 		\cite[Chapter 4, pp. 131]{Alchin2010}.
+	- Only instantiate a descriptor at the class level, and not "on a per-instance
+		basis" via the method **\_\_init\_\_()** (or other methods)
+		\cite[Chapter 7, section on "Descriptors," pp. 127]{Beazley2009}.
 + A method is a function belonging to a class \cite[Chapter 4, pp. 131]{Alchin2010}.
 	- That is, a method is a function that is bound to object attributes (or,
 		attributes of an object/class) \cite[Chapter 7, pp. 141]{Hetland2005}
@@ -728,6 +731,8 @@ Notes on *Python* Classes:
 			adding the prefix "\_\_" (i.e., two/double underscores)
 			\cite[Chapter 7, pp. 145-146]{Hetland2005}
 			\cite[pp. 87, subsubsection on "Class privates"]{Lutz2010}.
+
+		\cite[Chapter 7, section on "Data Encapsulation and Private Attributes," pp. 126]{Beazley2009}
 	-  Attributes and methods of a *Python* class with the prefix "\_\_" are
 		accessible as public methods \cite[Chapter 7, pp. 146]{Hetland2005};  
 		hence, I call them pseudo-"private" attributes and methods.
