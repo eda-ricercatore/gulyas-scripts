@@ -480,7 +480,12 @@ Notes on *Python* Classes:
 + *Python* supports multiple inheritance \cite[Chapters 7, pp. 155]{Hetland2005}
 	\cite[Chapter 7, section on "Inheritance," pp. 120]{Beazley2009},
 	and enables each class to be build as another component of the software
-	\cite[Chapter 4, pp. 105]{Alchin2010}. 
+	\cite[Chapter 4, pp. 105]{Alchin2010}.
+	- "Inheritance is specified with a comma-separated list of base-class names
+		in the class statement."
+		\cite[Chapter 7, section on "Inheritance," pp. 119,121]{Beazley2009}.
+	- E.g., **class Grandchild-name(Parent-1-name, Parent-2-name, relative-3-name, relative-4-name, relative-5-name):**
+		\cite[Chapter 7, section on "Inheritance," pp. 119,121]{Beazley2009}. 
 	- A child class can have multiple parent classes
 		\cite[Chapters 7, pp. 155]{Hetland2005}.
 	- The order of superclasses in the class statement determines which class
