@@ -980,7 +980,7 @@ Additional information about object-oriented programming:
 	\cite[Chapter 7, section on "Abstract Base Classes," pp. 137]{Beazley2009}
 	- "Abstract class[es] [do] not [carry out] conformance checking on arguments
 		or return values"
-		\cite[Chapter 7, section on "Abstract Base Classes," pp. 137]{Beazley2009}
+		\cite[Chapter 7, section on "Abstract Base Classes," pp. 137]{Beazley2009}.
 
 
 
@@ -1042,7 +1042,9 @@ When an instance object access a method like an attribute, it would return a
 		status.
 	It also means that all objects that can be named can be treated as data."
 		\cite[Chapter 3, section on "First-Class Objects," pp. 37]{Beazley2009}.
-
++ Compared to other object-oriented programming languages, "*Python*'s
+	built-in types are organized into a relatively flat hierarchy"
+	\cite[Chapter 7, section on "Abstract Base Classes," pp. 137]{Beazley2009}.
 
 
 
