@@ -678,7 +678,12 @@ Notes on *Python* Classes:
 			\cite[Chapter 4, pp. 137]{Alchin2010}.
 		* The method **\_\_new\_\_()** does not automatically call the method
 			**\_\_init\_\_()**
-			\cite[Chapter 7, section on "Object Memory Management," pp. 129]{Beazley2009}
+			\cite[Chapter 7, section on "Object Memory Management," pp. 129]{Beazley2009}.
+		* A class can define the method **\_\_new\_\_()** to do either of the
+			following \cite[Chapter 7, section on "Object Memory Management," pp. 129]{Beazley2009}:
+			+ Modify values of instance objects inherited from a base class with
+				immutable variables.
+			+ To define metaclasses.
 	- Accessing and modifying attributes of a *Python* class
 		\cite[Chapter 4, pp. 138]{Alchin2010} \cite[Chapter 9, pp. 197]{Hall2009b}:
 		* The name of an attribute of an instance object can be accessed or
