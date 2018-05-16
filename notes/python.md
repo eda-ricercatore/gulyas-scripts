@@ -951,7 +951,12 @@ Additional information about object-oriented programming:
 	\cite[Chapter 7, section on "Properties," pp. 124-125]{Beazley2009}.
 
 
-
+Use the *Uniform Access Principle* to faciliate the design of uniform programming
+	interfaces, so that attribute-like (accessor) methods should be specified as
+	properties to ease the confusion between including the parentheses
+	(or round brackets) when using attribute-like (accessor) methods and ignoring
+	the parentheses when using attributes
+	\cite[Chapter 7, section on "Properties," pp. 125]{Beazley2009}.
 
 
 
