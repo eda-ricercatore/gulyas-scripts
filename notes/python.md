@@ -425,7 +425,9 @@ Notes on *Python* Classes:
 	\cite[Chapter 9, pp. 181]{Hall2009b}
 	\cite[Chapter 7, section on "Inheritance," pp. 119]{Beazley2009}.
 	- Inheritance allows specialized classes of objects to be created from
-		general classes of objects \cite[Chapter 7, pp. 139]{Hetland2005}.
+		general classes of objects \cite[Chapter 7, pp. 139]{Hetland2005},
+		by addition or modification of attributes and methods
+		\cite[Chapter 7, section on "Inheritance," pp. 119]{Beazley2009}.
 	- Duck typing enables developers to modify and manipulate objects, which
 		are related via class inheritance, while ensuring type safety
 		\cite{WikipediaContributors2018a}.
