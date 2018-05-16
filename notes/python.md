@@ -378,6 +378,8 @@ Notes on *Python* Classes:
 		\cite[Chapter 7, section on "Scoping Rules," pp. 118]{Beazley2009}. 
 + "An instance of the class represents the data for the object"
 	\cite[Chapter 4, pp. 103]{Alchin2010} \cite[Chapter 9, pp. 183]{Hall2009b}.
+	- A class definition "is a factory for creating instances" of the class 
+		\cite[Chapter 7, section on "Object Memory Management," pp. 128]{Beazley2009}.
 	- Encapsulation enables the treatment of an object as a black box
 		\cite[Chapter 9, pp. 183]{Hall2009b} to hide its internal state (or details)
 		"from the outside world" \cite[Chapter 7, pp. 139,157]{Hetland2005}.
