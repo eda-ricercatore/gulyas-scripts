@@ -945,7 +945,9 @@ Additional information about object-oriented programming:
 "A property is a special [category]/kind of attribute that computes its value
 	when accessed";
 	it is defined/implemented like a function, such that when it is accessed, it
-		executes the function-like definition to determine its value 
+		executes the function-like definition to determine its value;
+	it is declared with the **@property** decorator just before its
+		definition/implementation
 	\cite[Chapter 7, section on "Properties," pp. 124]{Beazley2009}.
 
 
