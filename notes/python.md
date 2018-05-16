@@ -506,6 +506,10 @@ Notes on *Python* Classes:
 		determines which method to use.
 	- It traverses the list of all base class, in the order from "most specialized"
 		class to "least specialized" class
+		\cite[Chapter 7, section on "Inheritance," pp. 121]{Beazley2009};
+		here, specialization refers to the "depth" of the class in the inheritance
+			graph/tree/diagram, such that a grandchild is more specialized
+			than a grandparent  
 		\cite[Chapter 7, section on "Inheritance," pp. 121]{Beazley2009}.
 + **\_\_init\_\_()** is a class, when it shoud be considered as an instance object
 	(**self**), which inherits from **type** \cite[Chapter 4, pp. 122]{Alchin2010}
