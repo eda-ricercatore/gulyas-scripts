@@ -1405,10 +1405,16 @@ Notes about using recursive functions to carry out recursion:
 + "When the maximum recursion depth is exceeded, a **RuntimeError** exception
 	is raised"
 	\cite[Chapter 6, section on "Recursion," pp. 112]{Beazley2009}.
-
-
-
-
++ Unlike some (other) functional programming languages, "*Python* does not
+	[carry out] tail-recursion optimization"
+	\cite[Chapter 6, section on "Recursion," pp. 112]{Beazley2009}. 
++ Avoid using recursion with:
+	- decorators
+		\cite[Chapter 6, section on "Functions as Objects and Closures," pp. 101]{Beazley2009}
+	- generator, or generator functions
+		\cite[Chapter 6, section on "Recursion," pp. 112]{Beazley2009}.
+	- coroutines
+		\cite[Chapter 6, section on "Recursion," pp. 112]{Beazley2009}.
 
 
 
