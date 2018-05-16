@@ -428,6 +428,14 @@ Notes on *Python* Classes:
 		general classes of objects \cite[Chapter 7, pp. 139]{Hetland2005},
 		by addition or modification of attributes and methods
 		\cite[Chapter 7, section on "Inheritance," pp. 119]{Beazley2009}.
+	- When a derived/child class defines the **\_\_init\_\_()** method, it has to
+		call the the **\_\_init\_\_()** methods of the base classes (if desired);
+		this is because the **\_\_init\_\_()** methods of the base classes are
+			not automatically invoked when the **\_\_init\_\_()** method is
+			redefined by a derived/child class;
+		if a base/parent class has not defined the **\_\_init\_\_()** method,
+			just call the **\_\_init\_\_()** method without any arguments
+		\cite[Chapter 7, section on "Inheritance," pp. 120]{Beazley2009}. 
 	- Duck typing enables developers to modify and manipulate objects, which
 		are related via class inheritance, while ensuring type safety
 		\cite{WikipediaContributors2018a}.
