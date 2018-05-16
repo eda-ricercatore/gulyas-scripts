@@ -949,7 +949,8 @@ Additional information about object-oriented programming:
 	- value(s) of its attributes, which distinguishes objects of a class from each
 		other.
 		* Use the method **super()** to access the overridden method in the
-			parent class \cite[Chapter 6, pp. 170]{Alchin2010}.
+			parent class \cite[Chapter 6, pp. 170]{Alchin2010}
+			\cite[Chapter 7, section on "Inheritance," pp. 120]{Beazley2009}.
 		* Use the **\_\_init\_\_()** method and the **\_\_new\_\_()** method to
 			set up the default values \cite[Chapter 6, pp. 170]{Alchin2010}.
 + Guidelines about using mixins:
