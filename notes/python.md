@@ -1500,7 +1500,10 @@ Functional programming features of *Python* include
 			\cite[Chapter 6, section on "Documentation Strings," pp. 113]{Beazley2009}:
 			+ (Re)write decorators to enable propagation of the function name
 				and documentation string
-				\cite[Chapter 6, section on "Documentation Strings," pp. 113]{Beazley2009}
+				\cite[Chapter 6, section on "Documentation Strings," pp. 114]{Beazley2009}
+			+ Use the decorator (function) **wraps(*[function-name]*)** in the
+				**functools** module to automatically copy these attributes
+				\cite[Chapter 6, section on "Documentation Strings," pp. 114]{Beazley2009} 
 		* function attributes
 + generators
 	- See [Miscellaneous](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#miscellaneous).
