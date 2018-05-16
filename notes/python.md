@@ -1070,14 +1070,22 @@ When an instance object access a method like an attribute, it would return a
 		\cite[Chapter 6, pp. 176]{Alchin2010}.   
 + *Python* has automatic garbage collection \cite[Chapter 6, pp. 176]{Alchin2010}
 	\cite[Chapter 5, pp. 103]{Hetland2005}
-	\cite[Chapter 3, section on "Reference Counting and Garbage Collection," pp. 34-35]{Beazley2009}.
+	\cite[Chapter 3, section on "Reference Counting and Garbage Collection," pp. 34-35]{Beazley2009}
+	\cite[Chapter 7, section on "Object Memory Management," pp. 129]{Beazley2009}.
 	- Effective garbage collection depends on
 		\cite[Chapter 6, pp. 176]{Alchin2010}:
 		* ability to reliably identify/recognize an object as garbage that will
 			cause memory leaks in the *Python* application
 		* ability to remove garbage from (main) memory
 	- Techniques for garbage collection \cite[Chapter 6, pp. 177]{Alchin2010}:
-		* Reference counting
+		* Reference counting \cite[Chapter 7, section on "Object Memory Management," pp. 129]{Beazley2009}
+			+ The method **\_\_del\_\_()** is automatically called when the
+				reference count for an object reaches zero
+				\cite[Chapter 7, section on "Object Memory Management," pp. 129]{Beazley2009}.
+			+ Note that for classes that redefine the method **\_\_del\_\_()**,
+				the "*Python's* cyclic garbage collector" cannot automatically
+				call the method **\_\_del\_\_()**
+				\cite[Chapter 7, section on "Object Memory Management," pp. 129]{Beazley2009}.
 		* Cyclical references, which is inefficient but leads to more consistent
 			and reliable outcomes \cite[Chapter 6, pp. 178-179]{Alchin2010}
 		* Weak references \cite[Chapter 6, pp. 180-181]{Alchin2010}
@@ -3055,6 +3063,8 @@ The **pass** statement is used to represent "no-op" operations
 	Note that *Python* has no switch statements.
 
 "The **del** statement unbinds variables and attributes, and removes parts (positions, slices, or slots) from data structures (mappings or sequences). It cannot be used to delete values directly because values are only deleted through garbage collection \cite[Appendix B, pp. 567]{Hetland2005}."
++ That is, the **del** statement decrements the reference count of an object
+	\cite[Chapter 7, section on "Object Memory Management," pp. 129]{Beazley2009}
 
 
 The **yield** statement pauses the execution of a generator iterator to provide
