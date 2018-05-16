@@ -731,14 +731,23 @@ Notes on *Python* Classes:
 			adding the prefix "\_\_" (i.e., two/double underscores)
 			\cite[Chapter 7, pp. 145-146]{Hetland2005}
 			\cite[pp. 87, subsubsection on "Class privates"]{Lutz2010}.
-		\cite[Chapter 7, section on "Data Encapsulation and Private Attributes," pp. 127]{Beazley2009}
+		\cite[Chapter 7, section on "Data Encapsulation and Private Attributes," pp. 127]{Beazley2009}.
+		* Alternatively, redefine the **\_\_dir\_\_()** method to make it more
+			difficult to access quasi-/pseudo- "private" variables
+			\cite[Chapter 7, section on "Data Encapsulation and Private Attributes," pp. 128]{Beazley2009}.
+		* Wrap private variables that can be modified via mutator methods with
+			the built-in **@property** decorator function, so that users would
+			use the properties rather than modify the instance variables
+			directly
+			\cite[Chapter 7, section on "Data Encapsulation and Private Attributes," pp. 128]{Beazley2009}.
 	-  Attributes and methods of a *Python* class with the prefix "\_\_" are
 		accessible as public methods \cite[Chapter 7, pp. 146]{Hetland2005};  
 		hence, I call them pseudo-"private" attributes and methods.
 	- If the prefix "\_" (single underscore) is used to indicate pseudo-"private"
 		attributes and methods of a *Python* class, these attributes and
 		methods would not be "imported with starred imports"
-		(**from [module] import \***) \cite[Chapter 7, pp. 146]{Hetland2005}.
+		(**from [module] import \***) \cite[Chapter 7, pp. 146]{Hetland2005}
+		\cite[Chapter 7, section on "Data Encapsulation and Private Attributes," pp. 128]{Beazley2009}.
 	- *Python* does not have access specifiers;
 		hence, its member variables (attributes) and methods cannot be
 			private nor protected \cite[Appendix A, pp. 552]{Hetland2005}.
