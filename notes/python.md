@@ -368,6 +368,9 @@ Notes on *Python* Classes:
 		\cite[Chapter 9, pp. 181]{Hall2009b}.
 	- A class variable is a variable that is part of a class
 		\cite[Chapter 7, section on "The class Statement," pp. 117]{Beazley2009}.
+	- The dot (**.**) operator between the name of an instance object and an
+		attribute/function binds the attribute/function to the instance object
+		\cite[Chapter 7, section on "Class Instances," pp. 118]{Beazley2009}.
 + "An instance of the class represents the data for the object"
 	\cite[Chapter 4, pp. 103]{Alchin2010} \cite[Chapter 9, pp. 183]{Hall2009b}.
 	- Encapsulation enables the treatment of an object as a black box
