@@ -605,6 +605,8 @@ Notes on *Python* Classes:
 	- A class method is a method that needs access to the attached class, and
 		the built-in *@classmethod* decorator supports it
 		\cite[Chapter 4, pp. 133-135]{Alchin2010}.
+	- A class method treats the class as an object, and operates on the object
+		\cite[Chapter 7, section on "Static Methods and Class Methods," pp. 123]{Beazley2009}.
 	- An "unbound" class method is a bound instance method that accepts an
 		instance object as the first positional argument
 		\cite[Chapter 4, pp. 133]{Alchin2010}.
