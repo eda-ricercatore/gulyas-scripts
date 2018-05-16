@@ -1315,8 +1315,15 @@ Notes on *Python* functions:
 			+ Syntax: ***lambda args : expression***
 				\cite[Chapter 6, section on "Declarative Programming," pp. 112]{Beazley2009}:
 				- "***args*** is a comma-separated list of arguments" 
-				- ***expression*** is a combination of variables, (constants,), operation
-					symbols, and functions.
+				- ***expression*** is a valid combination of arguments in
+					***args***;
+					i.e. a valid expression of arguments in ***args***;
+					***expression*** cannot include multiple statements, or
+						statements that are not expressions;
+					"***lambda*** expressions follow the same scoping rules
+						as functions"
+		* Use **lambda** statements to "specify short callback functions"
+			\cite[Chapter 6, section on "Declarative Programming," pp. 112]{Beazley2009}
 	- Note on **map**, **filter**, and list comprehension
 		\cite[Chapter 6, pp. 134-135]{Hetland2005}:
 		* A list comprehension can implement any **filter** or **map**
