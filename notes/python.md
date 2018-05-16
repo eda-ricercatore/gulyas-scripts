@@ -1481,6 +1481,15 @@ Miscellaneous notes on declarative programming:
 
 
 
+Use **lambda** statements to define anonymous functions
+	\cite[Chapter 6, section on "Declarative Programming," pp. 112]{Beazley2009}
++ Syntax: ***lambda args : expression***
+	\cite[Chapter 6, section on "Declarative Programming," pp. 112]{Beazley2009}:
+	- "***args*** is a comma-separated list of arguments" 
+	- ***expression*** is a combination of variables, (constants,), operation
+		symbols, and functions
+
+
 
 
 
@@ -2281,11 +2290,18 @@ Notes regarding the management of information systems, or database
 		procedures on the *SQL* database \cite[Chapter 13, pp. 289]{Hetland2005}.
 	The *Python* Database API has "constructors and constants/singletons"
 		for various types and values \cite[Chapter 13, pp. 289]{Hetland2005}.
++ \cite[Chapter 6, section on "Declarative Programming," pp. 111]{Beazley2009}
+	suggests using **list comprehensions and database queries** togerther
+	concurrently, using functional/declarative programming.
+
+
 
 
 Some *SQL* database engines, such as *SQLite*, do not require being run as a
 	server program nor require administrator privileges to install them
 	\cite[Chapter 13, pp. 290]{Hetland2005}.
+
+
 
 *SQL* database engines can work with \cite[Chapter 13, pp. 290]{Hetland2005}:
 + local files
