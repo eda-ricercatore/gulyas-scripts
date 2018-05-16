@@ -875,6 +875,17 @@ Additional information about object-oriented programming:
 
 
 
+
+
+\cite[Chapter 7, section on "The class Statement," pp. 117]{Beazley2009}.
+
+
+
+
+
+
+
+
 ###	Object management
 
 "All objects in Python are said to be `first class.'
