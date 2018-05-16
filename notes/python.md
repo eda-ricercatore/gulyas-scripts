@@ -1502,9 +1502,23 @@ Functional programming features of *Python* include
 				and documentation string
 				\cite[Chapter 6, section on "Documentation Strings," pp. 114]{Beazley2009}
 			+ Use the decorator (function) **wraps(*[function-name]*)** in the
-				**functools** module to automatically copy these attributes
+				**functools** module to automatically copy the documentation
+				string
 				\cite[Chapter 6, section on "Documentation Strings," pp. 114]{Beazley2009} 
 		* function attributes
+			+ A dictionary stores the (arbitrary) attributes of a function
+				\cite[Chapter 6, section on "Function Attributes," pp. 114]{Beazley2009}.
+			+ The dictionary is available as the **\_\_dict\_\_** attribute of the
+				function 
+				\cite[Chapter 6, section on "Function Attributes," pp. 114]{Beazley2009}.
+			+ These function attributes provide "parser generators and
+				application frameworks" "additional information to function
+				objects"
+				\cite[Chapter 6, section on "Function Attributes," pp. 114]{Beazley2009}
+			+ Use the decorator (function) **wraps(*[function-name]*)** in the
+				**functools** module to automatically copy these function
+				attributes
+				\cite[Chapter 6, sections on "Documentation Strings" and "Function Attributes," pp. 114]{Beazley2009}
 + generators
 	- See [Miscellaneous](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#miscellaneous).
 + coroutines
