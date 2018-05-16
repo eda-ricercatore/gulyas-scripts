@@ -352,6 +352,8 @@ Notes on *Python* Classes:
 	- ***encapsulation***
 	- methods, or functions of the class
 		\cite[Chapter 7, section on "The class Statement," pp. 117]{Beazley2009}.
+		* They are also known as instance methods
+		\cite[Chapter 7, section on "The class Statement," pp. 118]{Beazley2009}.
 	- attributes, or properties
 		\cite[Chapter 7, section on "The class Statement," pp. 117]{Beazley2009}.
 	- superclasses
