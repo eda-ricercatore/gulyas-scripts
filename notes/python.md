@@ -636,7 +636,8 @@ Notes on *Python* Classes:
 			just before the static method definition
 			\cite[Chapter 7, section on "Static Methods and Class Methods," pp. 123]{Beazley2009}.
 		* A static method exists within the namespace defined by a class, but
-			"it does not operate on any kind of instance"
+			"it does not operate on any kind of instance";
+			call a static method using the following format: **class-name.static-method(*[arguments]*)**
 			\cite[Chapter 7, section on "Static Methods and Class Methods," pp. 123]{Beazley2009}.
 + There exists various ways to instantiate/create, modify, or invalidate *Python*
 	instance objects \cite[Chapter 4, pp. 135]{Alchin2010}.
