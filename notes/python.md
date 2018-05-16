@@ -1387,16 +1387,24 @@ Use generators and coroutines together in the following applications, where ther
 + concurrent computing
 	\cite[Chapter 6, section on "Using Generators and Coroutines," pp. 108]{Beazley2009}:
 
+
+
+
 Advantages of using generators and coroutines together are:
 + memory efficiency
 	\cite[Chapter 6, section on "Using Generators and Coroutines," pp. 107]{Beazley2009}:
 	- No usage of temporary lists or large data structures.
 
 
-
-
-
-
+Notes about using recursive functions to carry out recursion:
++ The (current) maximum recursion depth is indicated by **sys.getrecursionlimit()**,
+	which can be modified with **sys.setrecursionlimit()**
+	\cite[Chapter 6, section on "Recursion," pp. 112]{Beazley2009}.
+	- Setting the maximum recursion depth beyond "stack size limits enforced
+		by the host operating system" has no effect.
++ "When the maximum recursion depth is exceeded, a **RuntimeError** exception
+	is raised"
+	\cite[Chapter 6, section on "Recursion," pp. 112]{Beazley2009}.
 
 
 
