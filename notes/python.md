@@ -2487,7 +2487,12 @@ In *Python* 3.x:
 	- The function **exec(str [, globals [, locals]])** executes the *Python* code
 		contained in the string **str**
 		\cite[Chapter 6, section on "eval(), exec(), and compile()," pp. 115]{Beazley2009}.
-
+	- Since the compilation of *Python* code, including expressions, is expensive,
+		use the function **compile(str,filename,kind)** to compile the string
+		(contain *Python* code or an expression) into bytecode for faster
+		performance (including traceback generation, when the code is executed
+		multiple times)
+		\cite[Chapter 6, section on "eval(), exec(), and compile()," pp. 115]{Beazley2009}.
 
 
 
