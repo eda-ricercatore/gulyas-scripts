@@ -422,7 +422,8 @@ Notes on *Python* Classes:
 	\cite[Chapter 4, pp. 103]{Alchin2010}.
 + Inheritance allows a derived/child class to have a different fundamental
 	behavior from its base/parent class \cite[Chapter 4, pp. 103]{Alchin2010}
-	\cite[Chapter 9, pp. 181]{Hall2009b}.
+	\cite[Chapter 9, pp. 181]{Hall2009b}
+	\cite[Chapter 7, section on "Inheritance," pp. 119]{Beazley2009}.
 	- Inheritance allows specialized classes of objects to be created from
 		general classes of objects \cite[Chapter 7, pp. 139]{Hetland2005}.
 	- Duck typing enables developers to modify and manipulate objects, which
