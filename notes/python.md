@@ -477,7 +477,8 @@ Notes on *Python* Classes:
 + Codify relationships between packages, modules, and classes to represent
 	actual/real relationships between (concrete or abstract) nouns
 	\cite[Chapter 4, pp. 105]{Alchin2010}.
-+ *Python* supports multiple inheritance \cite[Chapters 7, pp. 155]{Hetland2005},
++ *Python* supports multiple inheritance \cite[Chapters 7, pp. 155]{Hetland2005}
+	\cite[Chapter 7, section on "Inheritance," pp. 120]{Beazley2009},
 	and enables each class to be build as another component of the software
 	\cite[Chapter 4, pp. 105]{Alchin2010}. 
 	- A child class can have multiple parent classes
