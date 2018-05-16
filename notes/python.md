@@ -974,8 +974,13 @@ Additional information about object-oriented programming:
 	- Type conversion by coercion is not supported in *Python 2.6* or *Python 3*
 		for mixed-type arithmetic
 		\cite[Chapter 7, section on "Operator Overloading," pp. 134]{Beazley2009}.
-
-
++ asbtract base classes \cite[Chapter 7, section on "Abstract Base Classes," pp. 136-138]{Beazley2009}, 
+	which cannot "be instantiated directly";
+	similarly, abstract derived classes cannot "be instantiated directly"
+	\cite[Chapter 7, section on "Abstract Base Classes," pp. 137]{Beazley2009}
+	- "Abstract class[es] [do] not [carry out] conformance checking on arguments
+		or return values"
+		\cite[Chapter 7, section on "Abstract Base Classes," pp. 137]{Beazley2009}
 
 
 
