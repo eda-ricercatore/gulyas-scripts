@@ -3273,7 +3273,7 @@ Notes on regular expressions:
 
 Resources for regular expressions and test processing:
 + \cite[\S8.2, pp. 326-362]{Langtangen2009}
-
++ \cite{Friedl2006}
 
 
 
