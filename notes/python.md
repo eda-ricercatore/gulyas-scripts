@@ -3612,9 +3612,9 @@ Read these:
 
 
 \cite{Langtangen2012}
-Chapter 7, 9.
+Chapter 9.
 Appendices F, G, and H
-OOP
+
 
 
 \cite{Lee2011b}
@@ -3627,8 +3627,8 @@ quick
 
 
 \cite{Lutz2013}
-Chapter 4,16-21, 22-25, 26-29, 31-32, 33-36, 39-41.
-\cite[Chapter 15]{Lutz2013}.
+Chapter 4,15-21, 22-25, 26-29, 31-32, 33-36, 39-41.
+
 
 
 
