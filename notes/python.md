@@ -34,6 +34,7 @@
 	- [System Resource Management](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#system-resource-management)
 + [Miscellaneous](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#miscellaneous)
 	- [Regular Expressions](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#regular-expressions)
+	- [Generic Programming]()
 + [References](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#references)
 	- [Object-Oriented *Python* Programming](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#object-oriented-python-programming)
 	- [Domain Applications of *Python* Programming](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#domain-applications-of-python-programming)
@@ -3294,6 +3295,20 @@ Notes on regular expressions:
 Resources for regular expressions and test processing:
 + \cite[\S8.2, pp. 326-362]{Langtangen2009}
 + \cite{Friedl2006}
+
+
+
+###	Generic Programming
+
+- Generic programming has a performance advantage over object-oriented
+		programming, since templates carry-out known parameterization at
+		compile time while object-oriented programming leaves the
+		parameterization till run time \cite[\S8.9.5, pp. 432]{Langtangen2009}.
+
+
+
+
+
 
 
 
