@@ -1028,6 +1028,13 @@ When an instance object access a method like an attribute, it would return a
 
 
 
+To do post-processing after the definition of a class
+	\cite[Chapter 7, section on "Class Decorators," pp. 141]{Beazley2009}:
++ Customize the class creation process with the definition of a metaclass.
++ Use a **class decorator** that receives a class object as input, and returns a
+	class object as output.
+
+
 
 
 
