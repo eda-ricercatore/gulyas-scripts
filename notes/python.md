@@ -254,6 +254,21 @@ Importing *Python* submodules \cite[Chapter 11, pp. 253-254]{Hall2009b}:
 
 
 
+The **import** statements of a *Python* source file can execute code in a library
+	module, within its own namespace
+	\cite[Chapter 7, section on "Execution as the Main Program," pp. 146]{Beazley2009}.
++ Use case with test code:
+	- Test code can be placed in modules and imported by users.
+	- The test code is wrapped with an **if-else** statement, such that the test
+		code would only execute when running as the main program.
+
+
+
+
+
+
+
+
 
 
 
@@ -3170,7 +3185,7 @@ The **yield** statement pauses the execution of a generator iterator to provide
 
 In *Python*, variable assignments are not storage operations, which overwrite the
 	old values by storing a new value in their place
-	\cite[Chapter 7, section on "Class Decorators," pp. 146]{Beazley2009}
+	\cite[Chapter 7, section on "Importing Selected Symbols from a Module," pp. 146]{Beazley2009}
 + Extract symbolic constants into a module for easier customization of these
 	constants
 + See [Software Development Process Methodologies](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#software-development-process-methodologies)
