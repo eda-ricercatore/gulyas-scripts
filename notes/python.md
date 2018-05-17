@@ -34,7 +34,7 @@
 	- [System Resource Management](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#system-resource-management)
 + [Miscellaneous](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#miscellaneous)
 	- [Regular Expressions](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#regular-expressions)
-	- [Generic Programming]()
+	- [Generic Programming](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#generic-programming)
 + [References](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#references)
 	- [Object-Oriented *Python* Programming](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#object-oriented-python-programming)
 	- [Domain Applications of *Python* Programming](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#domain-applications-of-python-programming)
