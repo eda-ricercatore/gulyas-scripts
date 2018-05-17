@@ -404,7 +404,8 @@ Notes on *Python* Classes:
 	- A class variable is a variable that is part of a class
 		\cite[Chapter 7, section on "The class Statement," pp. 117]{Beazley2009}.
 	- A static variable is common to all instances of the class that it belongs to
-		\cite[\S8.6.4, pp. 390]{Langtangen2009}.
+		\cite[\S8.6.4, pp. 390]{Langtangen2009}
+		\cite[\S7.6, pp. 387-388]{Langtangen2012}.
 		* Access a static variable via **class-name.static-variable-name**,
 			rather than **instance-object-name.static-variable-name**,
 			since an assignment to **instance-object-name.static-variable-name**
@@ -3611,7 +3612,7 @@ Read these:
 
 
 \cite{Langtangen2012}
-Chapter 4, 6, 7, 9.
+Chapter 7, 9.
 Appendices F, G, and H
 OOP
 
