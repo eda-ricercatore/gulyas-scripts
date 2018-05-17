@@ -2085,6 +2085,7 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 		functions or methods in the module, and if these examples (for
 		specific sets of inputs and outputs) can be replicated, reproduced, and
 		repeated \cite[Chapter 16, pp. 345]{Hetland2005}.
+	- \cite[Chapter 11, section on "Documentation Strings and the doctest Module," pp. 181-183]{Beazley2009}
 + **unittest** module \cite[Chapter 9, pp. 221-230]{Alchin2010}, which is "a
 	generic testing framework" \cite[Chapter 16, pp. 344]{Hetland2005} (or
 	test framework) \cite[Chapter 16, pp. 347]{Hetland2005}.
@@ -2092,6 +2093,16 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 		which are "executed before and after each test method" (or method in
 		the test suite) "to provide common initialization and cleanup code for
 		all the tests" \cite[Chapter 16, pp. 347]{Hetland2005}.
+	- \cite[Chapter 11, section on "Unit Testing and the unittest Module," pp. 183-186]{Beazley2009}
+		* Use methods from **unittest.TestCase**, where **t** is an instance of
+			**unittest.TestCase** \cite[Chapter 11, section on "Unit Testing and the unittest Module," pp. 184-185]{Beazley2009}:
+			+ t.setUp()
+			+ t.tearDown()
+			+ t.assert_(expr [, msg])
+			+ t.assertEqual(x, y [,msg])
+			+ t.assertNotEqual(x, y [, msg])
+			+ t.assertAlmostEqual(x, y [, places [, msg]])
+			+ t.assertNotAlmostEqual(x, y, [, places [, msg]])
 + automated regression testing
 	- It facilitates software development, and **software maintenance** (for
 		fixing software bugs, refactoring, performance improvement, and to add
