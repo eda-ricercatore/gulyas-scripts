@@ -2103,6 +2103,8 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 			+ t.assertNotEqual(x, y [, msg])
 			+ t.assertAlmostEqual(x, y [, places [, msg]])
 			+ t.assertNotAlmostEqual(x, y, [, places [, msg]])
++ Use the *Python* debugger **pdb** to step through the code
+	\cite[Chapter 11, section on "The Python Debugger and the pdb Module," pp. 186-190]{Beazley2009}.
 + automated regression testing
 	- It facilitates software development, and **software maintenance** (for
 		fixing software bugs, refactoring, performance improvement, and to add
