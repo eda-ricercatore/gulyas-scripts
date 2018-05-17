@@ -1995,6 +1995,14 @@ The command **help(*[Python module]*)** enables a user to read documentation
 		Standard Library* \cite{DrakeJr2016e,DrakeJr2016b}
 
 
+
+Resources for passing command-line arguments
++ \cite[Chapter 8, \S8.1.1, pp. 319-322]{Langtangen2009}
+
+
+
+
+
 ###	Modules in *The Python Standard Library*
 
 The following modules in *The Python Standard Library* \cite{DrakeJr2016e,DrakeJr2016b}
@@ -2252,7 +2260,8 @@ The *\_\_debug\_\_* variable, which is set to **True** by default, allows *Pytho
 
 To develop *Python* software for industrial-strength high-performance computing,
 	use this method to improve its performance (i.e., execution time)
-	\cite[Chapter 17, pp. 357]{Hetland2005}:
+	\cite[Chapter 17, pp. 357]{Hetland2005}
+	\cite[Chapter 5, \S5.1.1, pp. 190]{Langtangen2009}:
 + Develop a modular prototype for the software only in *Python*.
 	- "Encapsulate potential bottlenecks"
 		\cite[Chapter 17, pp. 357-358, 370]{Hetland2005}.
@@ -3534,7 +3543,7 @@ Read these:
 + \cite{}
 + \cite{}
 
-Chapter 7, 9.
+Chapter 8,10.
 \cite[Appendices A and B]{Langtangen2009}.
 OOP
 
