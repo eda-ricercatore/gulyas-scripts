@@ -1067,6 +1067,9 @@ To do post-processing after the definition of a class
 
 
 
+Langtangen2009
+
+
 
 
 
@@ -2223,7 +2226,7 @@ Suggestions on software/program tuning strategies and performance optimization:
 
 
 
-####	Software Debugging
+#####	Software Debugging
 
 Use **assert** statements to check if invariants \cite{Lee2017a,Lee2015b,Lee2014a,Backhouse2011,Lee2011,Zeller2009,Baier2008,Tucker2007,Hailperin1999,Manna1992},
 	such as preconditions, assertions, and postconditions \cite{Pierce2017,Laplante2014,Dale2012,Kourie2012,Kundu2011,Zeller2009,Tucker2007,Baldwin2004,Huth2004,Monin2003,Hailperin1999},
