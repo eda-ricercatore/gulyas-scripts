@@ -1261,6 +1261,8 @@ Notes on *Python* functions:
 	- stored and transferred via data structures
 	- "wrapped [around by] other functions"
 	- "replaced by new implementations"
++ "Input data are arguments, output data are returned."
+	\cite[Appendix B, \SB.3.2, pp. 708]{Langtangen2009}.
 + Arguments of a *Python* function:
 	- positional arguments (or order-based arguments)
 		\cite[Chapter 3, pp. 53]{Alchin2010} are grouped in an immutable tuple
@@ -1905,7 +1907,6 @@ Compare this to **ordered dictionaries** \cite[Chapter 2, pp. 38]{Alchin2010}.
 
 
 
-
 ### *Python*ic Coding Style
 
 
@@ -1914,6 +1915,13 @@ Compare this to **ordered dictionaries** \cite[Chapter 2, pp. 38]{Alchin2010}.
 	Note that the term "coding style" can be used interchangeably with "coding
 		scheme", "coding standard", "coding style guide",
 		and "programming style".
+
+Resources for adopting a *Python*ic approach to software development:
++ \cite[Appendix B, \SB.3.2, pp. 706--710]{Langtangen2009}
+
+
+
+
 
 Note that \cite{Franca2014} mentions that modern *C++1X*, such as *C++11*,
 	*C++14*, and *C++17*, is becoming more like *Python*;
@@ -3577,6 +3585,7 @@ Lists of online resources can be found at:
 + \cite{Hetland2005}
 + \cite{Lutz2010}
 + \cite{Sweigart2015}
++ \cite{Langtangen2009}
 
 
 Books that I am skipping
@@ -3595,7 +3604,7 @@ Read these:
 + \cite{}
 + \cite{}
 
-\cite[Appendices A and B]{Langtangen2009}.
+
 
 
 
