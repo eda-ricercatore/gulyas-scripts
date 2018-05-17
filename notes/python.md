@@ -3170,9 +3170,11 @@ The **yield** statement pauses the execution of a generator iterator to provide
 
 In *Python*, variable assignments are not storage operations, which overwrite the
 	old values by storing a new value in their place
-	\cite[Chapter 7, section on "Class Decorators," pp. 141]{Beazley2009}
-
-
+	\cite[Chapter 7, section on "Class Decorators," pp. 146]{Beazley2009}
++ Extract symbolic constants into a module for easier customization of these
+	constants
++ See [Software Development Process Methodologies](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#software-development-process-methodologies)
+	for more information to extract symbolic constants. 
 
 
 
