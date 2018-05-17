@@ -402,6 +402,16 @@ Notes on *Python* Classes:
 		\cite[Chapter 9, pp. 181]{Hall2009b}.
 	- A class variable is a variable that is part of a class
 		\cite[Chapter 7, section on "The class Statement," pp. 117]{Beazley2009}.
+	- A static variable is common to all instances of the class that it belongs to
+		\cite[\S8.6.4, pp. 390]{Langtangen2009}.
+		* Access a static variable via **class-name.static-variable-name**,
+			rather than **instance-object-name.static-variable-name**,
+			since an assignment to **instance-object-name.static-variable-name**
+			creates a new **instance-object-name** instance attribute
+			**static-variable-name**;
+			this new instance attribute **static-variable-name** covers/hides
+				the static variable **class-name.static-variable-name**
+			\cite[\S8.6.4, pp. 390]{Langtangen2009}.
 	- The dot (**.**) operator between the name of an instance object and an
 		attribute/function binds the attribute/function to that instance object
 		\cite[Chapter 7, section on "Class Instances," pp. 118]{Beazley2009}.
@@ -797,6 +807,9 @@ Notes on *Python* Classes:
 		methods would not be "imported with starred imports"
 		(**from [module] import \***) \cite[Chapter 7, pp. 146]{Hetland2005}
 		\cite[Chapter 7, section on "Data Encapsulation and Private Attributes," pp. 128]{Beazley2009}.
+	- \cite[\S8.6.3, pp. 389]{Langtangen2009} suggests using "\_\_" (i.e., 
+		two/double underscores) for pseudo-"private" attributes and "\_" (single
+		underscore) for pseudo-"protected" attributes.
 	- *Python* does not have access specifiers;
 		hence, its member variables (attributes) and methods cannot be
 			private nor protected \cite[Appendix A, pp. 552]{Hetland2005}.
@@ -1071,7 +1084,7 @@ To do post-processing after the definition of a class
 
 
 
-Langtangen2009
+
 
 
 
