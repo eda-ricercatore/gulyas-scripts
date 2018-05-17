@@ -2184,6 +2184,20 @@ Types/categories of requirements specification
 + non-functional requirements
 	- client satisfaction
 
+####	Software Tuning and Performance Optimization
+
+Use timing measurements to determine the time taken for each different parts of
+	the program 
+	\cite[Chapter 11, subsection on "Making Timing Measurements," pp. 191]{Beazley2009}.
+
+Use memory measurements to determine the amount of memory usage (i.e.,
+	memory footprint) in my program
+	\cite[Chapter 11, subsection on "Making Memory Measurements," pp. 192-193]{Beazley2009}
+
+
+
+
+
 
 
 
