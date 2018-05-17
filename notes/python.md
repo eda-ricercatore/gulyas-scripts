@@ -84,6 +84,19 @@ Backward compatibility support for *Python 2.y* in *Python 3.x*:
 	\cite[Chapter 5, pp. 156]{Alchin2010}.
 
 
+References for *Python 3.0*:
++ \cite[Appendix, pp. 621-638]{Beazley2009}
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2194,8 +2207,8 @@ Use memory measurements to determine the amount of memory usage (i.e.,
 	memory footprint) in my program
 	\cite[Chapter 11, subsection on "Making Memory Measurements," pp. 192-193]{Beazley2009}
 
-
-
+Suggestions on software/program tuning strategies and performance optimization:
++ \cite[Chapter 11, subsection on "Tuning Strategies," pp. 194-197]{Beazley2009}
 
 
 
@@ -2430,7 +2443,8 @@ Suggested framework for developing *C*/*C++* programs/extensions for
 
 
 
-
+References for developing mixed-language software
++ \cite[Chapter 26, pp. 591-620]{Beazley2009}:
 
 
 
@@ -2950,6 +2964,12 @@ Notes about the *Python* Virtual Machine (PVM):
 From my [Notes about Scala](https://github.com/eda-ricercatore/sardegna-scala/blob/master/notes/scala-notes.md):
 + "Concurrent programming (compare: parallel programming) \cite{WikipediaContributors2017k} -- Concurrent computing concurrently execute multiple computations during overlapping time periods; each computation/process has a separate execution point or thread of control. That is, in concurrent computing, a computation can advance independently of other computations, which may be incomplete."
 + "Parallel computing (compare: concurrent programming) \cite{WikipediaContributors2017n} -- Parallel computing is defined as the simultaneous execution of processes or calculations/computation on a computer. The types of parallel computing are: bit-level parallelism, instruction-level parallelism, data parallelism, and task parallelism. Bit-level parallelism and instruction-level parallelism are implicitly parallel. Explicitly parallel algorithms, especially those that involve concurrency, are more difficult to develop and test than sequential algorithms; concurrency in such algorithms can lead to race conditions, and other types/classes of software bugs. It is difficult to manage communication and synchronization between subtasks, such that the parallel computation would have a significant speed-up over the serial/sequential implementation."
+
+
+
+
+References on concurrent and parallel programming with *Python*:
++ \cite[Chapter 20, pp. 413-447]{Beazley2009}
 
 
 
