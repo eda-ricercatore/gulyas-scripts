@@ -21,6 +21,7 @@
 	- [Industrial-Strength High-Performance Computing](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#industrial-strength-high-performance-computing)
 	- [Developing Mixed-Language Software](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#developing-mixed-language-software)
 	- [Packaging *Python* Programs](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#packaging-python-programs)
+		* [References for Packaging *Python* Programs](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#references-for-packaging-python-programs)
 	- [Database Administration](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#database-administration)
 	- [Software Development Process Methodologies](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#software-development-process-methodologies)
 + [*Python* Strings](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#python-strings)
