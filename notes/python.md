@@ -2534,9 +2534,9 @@ References for packaging *Python* programs \cite[Chapter 18, pp. 373]{Hetland200
 	- [\cite[\S27.1, distutils -- Building and installing *Python* modules]{DrakeJr2016e}](https://docs.python.org/2/library/distutils.html)
 + [\cite[\S28, Software Packaging and Distribution]{DrakeJr2016b}](https://docs.python.org/3/library/distribution.html)
 	- [\cite[\S28.1, distutils -- Building and installing *Python* modules]{DrakeJr2016b}](https://docs.python.org/3/library/distutils.html)
-- [\cite{Ward2018} \cite[Installing *Python* Modules (Legacy version)]{DrakeJr2017c,DrakeJr2016d}](https://docs.python.org/3/install/)
-- [\cite{Ward2018a} \cite[Distributing Python Modules (Legacy version)]{DrakeJr2017c,DrakeJr2016d}](https://docs.python.org/3/distutils/)
-
++ [\cite{Ward2018} \cite[Installing *Python* Modules (Legacy version)]{DrakeJr2017c,DrakeJr2016d}](https://docs.python.org/3/install/)
++ [\cite{Ward2018a} \cite[Distributing Python Modules (Legacy version)]{DrakeJr2017c,DrakeJr2016d}](https://docs.python.org/3/distutils/)
++ \cite[Chapter 8, section on "Distributing Python Programs and Libraries," pp. 152-154]{Beazley2009}
 
 
 
