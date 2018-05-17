@@ -2117,6 +2117,7 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 *Python* software testing, verification, and validation concepts and methods:
 + Unit testing \cite[Chapter 9, pp. 217]{Alchin2010}
 	\cite[Chapter 16, pp. 341]{Hetland2005}
+	\cite[Appendix B, \SB.4.6, pp. 726--728]{Langtangen2009}
 + Test-driven development \cite[Chapter 9, pp. 217]{Alchin2010}
 	\cite[Chapter 16, pp. 341-342]{Hetland2005}
 	- Test-driven development helps us achieve good/decent software test
@@ -2157,6 +2158,7 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 + Use the *Python* debugger **pdb** to step through the code
 	\cite[Chapter 11, section on "The Python Debugger and the pdb Module," pp. 186-190]{Beazley2009}.
 + automated regression testing
+	\cite[Appendix B, \SB.4.1-B.4.4, pp. 711--724]{Langtangen2009}
 	- It facilitates software development, and **software maintenance** (for
 		fixing software bugs, refactoring, performance improvement, and to add
 		features) \cite[Chapter 16, pp. 343]{Hetland2005}.
