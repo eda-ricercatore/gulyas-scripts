@@ -260,7 +260,8 @@ The **import** statements of a *Python* source file can execute code in a librar
 + Use case with test code:
 	- Test code can be placed in modules and imported by users.
 	- The test code is wrapped with an **if-else** statement, such that the test
-		code would only execute when running as the main program.
+		code would only execute when running as the main program
+		\cite[Chapter 7, section on "Execution as the Main Program," pp. 146-147]{Beazley2009}.
 
 
 
@@ -2194,7 +2195,12 @@ The *\_\_debug\_\_* variable, which is set to **True** by default, allows *Pytho
 	that is, use **if \_\_debug\_\_** statements) for non-essential testing and
 		validation of *Python* programs, so that the execution of (these)
 		*Python* programs can be optimized to run faster without such checks 
-	\cite[Chapter 5, section on "Assertions and \_\_debug\_\_," pp. 91]{Beazley2009}
+	\cite[Chapter 5, section on "Assertions and \_\_debug\_\_," pp. 91]{Beazley2009}.
+
+\cite[Chapter 8, section on "Module Loading and Compilation," pp. 148]{Beazley2009}
+	has more information about compiling modules with the **-O** option
+	(removes assertions, line numbers, and other debugging information), and
+	the **-OO** option (i.e., **-O** option with removal of docstrings).
 
 
 
