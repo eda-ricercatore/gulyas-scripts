@@ -1050,7 +1050,12 @@ When an instance object access a method like an attribute, it would return a
 	a class definition in *Python* becomes a class object, which needs to be
 		created and managed by the **metaclass**
 	\cite[Chapter 7, section on "Metaclasses," pp. 138]{Beazley2009}.
-
+	- The constructor of the metaclass uses the following information to create
+		the corresponding class object \cite[Chapter 7, section on "Metaclasses," pp. 138]{Beazley2009}:
+		* "name of the class"
+		* "list of base classes"
+		* a private dictionary containing the body of the class, as a series of
+			statements
 
 
 
