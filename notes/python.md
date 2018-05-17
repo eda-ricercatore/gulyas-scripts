@@ -2476,7 +2476,7 @@ Suggested framework for developing *C*/*C++* programs/extensions for
 
 References for developing mixed-language software
 + \cite[Chapter 26, pp. 591-620]{Beazley2009}:
-
++ \cite[Chapters 5,9-10]{Langtangen2009}.
 
 
 
@@ -3595,9 +3595,7 @@ Read these:
 + \cite{}
 + \cite{}
 
-Chapter 8,10.
 \cite[Appendices A and B]{Langtangen2009}.
-OOP
 
 
 
