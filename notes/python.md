@@ -3534,7 +3534,7 @@ Read these:
 + \cite{}
 + \cite{}
 
-Chapter 3, 7, 9.
+Chapter 7, 9.
 \cite[Appendices A and B]{Langtangen2009}.
 OOP
 
