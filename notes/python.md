@@ -3168,6 +3168,19 @@ The **yield** statement pauses the execution of a generator iterator to provide
 
 
 
+In *Python*, variable assignments are not storage operations, which overwrite the
+	old values by storing a new value in their place
+	\cite[Chapter 7, section on "Class Decorators," pp. 141]{Beazley2009}
+
+
+
+
+
+
+
+
+
+
 
 
 
