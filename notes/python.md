@@ -3300,11 +3300,14 @@ Resources for regular expressions and test processing:
 
 ###	Generic Programming
 
-- Generic programming has a performance advantage over object-oriented
++ From my [Notes about Scala](https://github.com/eda-ricercatore/sardegna-scala/blob/master/notes/scala-notes.md)
+	- Generic programming has a performance advantage over object-oriented
 		programming, since templates carry-out known parameterization at
 		compile time while object-oriented programming leaves the
 		parameterization till run time \cite[\S8.9.5, pp. 432]{Langtangen2009}.
-
++ "The difference between generic and object-oriented programming in *Python*
+	is much smaller than in *C++* because *Python* variables are not declared
+	with a specific type" \cite[\S8.9.5, pp. 435]{Langtangen2009}.
 
 
 
