@@ -2163,7 +2163,8 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 + formal verification
 + memory debugging
 + software profiling \cite[Chapter 16, pp. 341, 349, 353-354]{Hetland2005}:
-	- *profile*
+	- *profile* and *cProfile* \cite[Chapter 11, section on "Program Profiling," pp. 190-191]{Beazley2009}:
+		* *cProfile* is faster than *profile* \cite[Chapter 11, section on "Program Profiling," pp. 190]{Beazley2009}
 	- *hotshot*
 	- *timeit*
 + software linting \cite[Chapter 16, pp. 349]{Hetland2005}
