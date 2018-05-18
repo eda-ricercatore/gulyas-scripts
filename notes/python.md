@@ -2285,6 +2285,15 @@ The *\_\_debug\_\_* variable, which is set to **True** by default, allows *Pytho
 	the **-OO** option (i.e., **-O** option with removal of docstrings).
 
 
+Resources about software debugging:
++ Guidelines for software development and debugging
+	\cite[Appendix F, \F.2.1, pp. 738-740]{Langtangen2012}
+
+
+
+
+
+
 
 
 
@@ -2293,7 +2302,8 @@ The *\_\_debug\_\_* variable, which is set to **True** by default, allows *Pytho
 To develop *Python* software for industrial-strength high-performance computing,
 	use this method to improve its performance (i.e., execution time)
 	\cite[Chapter 17, pp. 357]{Hetland2005}
-	\cite[Chapter 5, \S5.1.1, pp. 190]{Langtangen2009}:
+	\cite[Chapter 5, \S5.1.1, pp. 190]{Langtangen2009}
+	\cite[Appendix G, pp. 753]{Langtangen2012}:
 + Develop a modular prototype for the software only in *Python*.
 	- "Encapsulate potential bottlenecks"
 		\cite[Chapter 17, pp. 357-358, 370]{Hetland2005}.
@@ -2488,6 +2498,7 @@ Suggested framework for developing *C*/*C++* programs/extensions for
 References for developing mixed-language software
 + \cite[Chapter 26, pp. 591-620]{Beazley2009}:
 + \cite[Chapters 5,9-10]{Langtangen2009}.
++ \cite[Appendix G]{Langtangen2012}
 
 
 
@@ -3586,9 +3597,11 @@ Lists of online resources can be found at:
 + \cite{Beazley2009}
 + \cite{Hall2009b}
 + \cite{Hetland2005}
++ \cite{Langtangen2009}
++ \cite{Langtangen2012}
 + \cite{Lutz2010}
 + \cite{Sweigart2015}
-+ \cite{Langtangen2009}
+
 
 
 Books that I am skipping
@@ -3611,9 +3624,8 @@ Read these:
 
 
 
-\cite{Langtangen2012}
-Chapter 9.
-Appendices F, G, and H
+
+
 
 
 
