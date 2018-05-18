@@ -3023,6 +3023,25 @@ From my [Notes about Scala](https://github.com/eda-ricercatore/sardegna-scala/bl
 
 References on concurrent and parallel programming with *Python*:
 + \cite[Chapter 20, pp. 413-447]{Beazley2009}
++ \cite{Lutz2011}
++ \cite{Gift2008}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3483,7 +3502,7 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 + **Numerical methods, or numerical computing**.
 	- \cite{Langtangen2006,Langtangen2009,Langtangen2009a,Langtangen2011,Langtangen2012,Linge2016}. 
 + **Parallel programming**.
-	- \cite{Gift2008,Lutz2011}.
+	- \cite{Gift2008,Lutz2011} \cite[Chapter 20, pp. 413-447]{Beazley2009}.
 + **Scientific computing, computational science, and computational engineering**.
 	- \cite{Langtangen2006,Langtangen2009}.
 	- \cite{Langtangen2009a,Langtangen2011,Langtangen2012}
@@ -3599,6 +3618,7 @@ Lists of online resources can be found at:
 + \cite{Hetland2005}
 + \cite{Langtangen2009}
 + \cite{Langtangen2012}
++ \cite{Lee2011b}
 + \cite{Lutz2010}
 + \cite{Sweigart2015}
 
@@ -3629,9 +3649,8 @@ Read these:
 
 
 
-\cite{Lee2011b}
-Chapter 4, 7.
-OOP
+
+
 
 \cite[Chapter 21]{Lutz2011}.
 quick
