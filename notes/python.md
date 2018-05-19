@@ -3624,9 +3624,21 @@ Lists of online resources can be found at:
 
 
 
+
+
 Books that I am skipping
 + \cite{Langtangen2009a}
 + \cite{Langtangen2011}
+
+
+
+
+
+Recommendations:
++ \cite{Beazley2009,Lutz2013} are good books that provide a lot of depth in
+	functional programming, object-oriented *Python* programming, 
+
+
 
 
 Read these:
@@ -3652,15 +3664,13 @@ Read these:
 
 
 
-\cite[Chapter 21]{Lutz2011}.
-quick
 
 
 
 \cite{Lutz2013}
 Chapter 4,15-21, 22-25, 26-29, 31-32, 33-36, 39-41.
-
-
+4,15-29,31-36,38-41
+Appendix C
 
 
 \cite{Pilgrim2009}
