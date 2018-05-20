@@ -2243,10 +2243,24 @@ Types/categories of requirements specification
 Use timing measurements to determine the time taken for each different parts of
 	the program 
 	\cite[Chapter 11, subsection on "Making Timing Measurements," pp. 191]{Beazley2009}.
++ Resources on timng measurements:
+	- \cite[Chapter 21]{Lutz2013}
+
+
+
+
+
 
 Use memory measurements to determine the amount of memory usage (i.e.,
 	memory footprint) in my program
 	\cite[Chapter 11, subsection on "Making Memory Measurements," pp. 192-193]{Beazley2009}
+
+
+
+
+
+
+
 
 Suggestions on software/program tuning strategies and performance optimization:
 + \cite[Chapter 11, subsection on "Tuning Strategies," pp. 194-197]{Beazley2009}
@@ -3086,6 +3100,8 @@ Use mutual exclusion (mutex) to manage system resources, such as locks, files,
 
 
 *Python* uses the off-side rule \cite{WikipediaContributors2017y}.
+	"Blocks in [*Python*] are expressed by their indentation," unlike free-form
+		programming languages.
 
 
 
@@ -3669,7 +3685,7 @@ Read these:
 
 \cite{Lutz2013}
 Chapter 4,15-21, 22-25, 26-29, 31-32, 33-36, 39-41.
-15-29,31-36,38-41
+21-29,31-36,38-41
 Appendix C
 
 
