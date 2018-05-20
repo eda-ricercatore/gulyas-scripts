@@ -1088,6 +1088,33 @@ To do post-processing after the definition of a class
 
 
 
+Other information about classes:
++ Comparison between classes and modules:
+	- \cite[Chapter 29, section on "Classes Versus Modules", pp. 884]{Lutz2013}
+		* "Because they're both about namespaces, the distinction can be
+			confusing."
+		* "Classes also support extra features that modules don't, such as
+			operator overloading, multiple instance generation, and inheritance.
+			Although both classes and modules are namespaces, you should
+				be able to tell by now that they are very different things."
+		* Modules
+			+ "Implement data/logic packages"
+			+ "Are created with Python files or other-language extensions"
+			+ "Are used by being imported"
+			+ "Form the top-level in Python program structure"
+		* Classes
+			+ "Implement new full-featured objects"
+			+ "Are created with class statements"
+			+ "Are used by being called"
+			+ "Always live within a module"
+
+
+
+
+
+
+
+
 
 
 
@@ -3685,7 +3712,7 @@ Read these:
 
 \cite{Lutz2013}
 Chapter 4,15-21, 22-25, 26-29, 31-32, 33-36, 39-41.
-26-29,31-36,38-41
+31-36,38-41
 Appendix C
 
 
