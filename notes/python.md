@@ -1993,6 +1993,7 @@ Table about *Python*'s redundant features and feature explosion
 	\cite[Chapter 41, subsection on "Against Disquieting Improvements," pp. 1411, Table 41-1]{Lutz2013}
 
 | **Category**				| **Specifics**							|
+| ------------------------------------ | ---------------------------------------------------- |
 | 3 major paradigms			| Procedural, functional, object-oriented		|
 | 2 incompatible lines			| 2.X and 3.X, with new-style classes in both	|
 | 3 string formatting tools		| % expression, str.format, string.Template		|
