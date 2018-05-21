@@ -3907,9 +3907,7 @@ Read these:
 
 
 
-\cite{Pilgrim2009}
-This book does not include academically/intellectually rigorous details.
-6-11,13,16, Appendices A and C
+
 
 
 
