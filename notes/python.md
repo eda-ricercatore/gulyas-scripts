@@ -2286,7 +2286,8 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 			\cite[Chapter 10, section on "Refactoring,"pp. 166]{Pilgrim2009}.
 		* "Comprehensive unit testing means never having to rely on a programmer who says, `Trust me.' "
 			\cite[Chapter 10, section on "Handling Changing Requirements,"pp. 162]{Pilgrim2009}.
-		* Use unit testing to improve  
+		* Use unit testing to reduce software maintenance cost and improve
+			adaptability in software project management
 			\cite[Chapter 10, section on "Refactoring,"pp. 166]{Pilgrim2009}.
 + Test-driven development \cite[Chapter 9, pp. 217]{Alchin2010}
 	\cite[Chapter 16, pp. 341-342]{Hetland2005}
@@ -2377,6 +2378,21 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 
 
 
+
+
+
+Other types of software testing:
++ functional testing \cite[Chapter 10, section on "Refactoring,"pp. 166]{Pilgrim2009}
++ integration testing \cite[Chapter 10, section on "Refactoring,"pp. 166]{Pilgrim2009}
++ user acceptance testing \cite[Chapter 10, section on "Refactoring,"pp. 166]{Pilgrim2009}
+
+
+
+
+
+
+
+
 *Python* software analysis and verification concepts and methods:
 + static (code) analysis \cite[Chapter 16, pp. 341, 349-352]{Hetland2005}:
 	- *PyChecker*
@@ -2393,19 +2409,46 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 + software linting \cite[Chapter 16, pp. 349]{Hetland2005}
 
 
+
+
+
 Software testing, verification, and validation should be performed with respect to
 	satisfying the requirements and specifications of the software (i.e., software
 	requirements specification) \cite[Chapter 16, pp. 342]{Hetland2005}.
 
+
+
+
 Use executable-requirement specification \cite{Bailey2005} to reduce or augment
 	non-executable requirements specification
 	\cite[Chapter 16, pp. 342]{Hetland2005}.
+
+
+
 
 Types/categories of requirements specification
 	\cite[Chapter 16, pp. 342]{Hetland2005}:
 + functional requirements
 + non-functional requirements
 	- client satisfaction
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ####	Software Tuning and Performance Optimization
 
