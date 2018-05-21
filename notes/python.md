@@ -3801,6 +3801,8 @@ Lists of online resources can be found at:
 + \cite{Lutz2010}
 + \cite{Lutz2011}
 + \cite{Lutz2013}
++ \cite{Pilgrim2009}
+	- This book does not include academically/intellectually rigorous details.
 + \cite{Sweigart2015}
 
 
@@ -3850,7 +3852,7 @@ Read these:
 
 
 
-
+\cite{Pilgrim2009}
 
 
 \cite{Pilgrim2009}
