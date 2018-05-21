@@ -1938,15 +1938,30 @@ Compare this to **ordered dictionaries** \cite[Chapter 2, pp. 38]{Alchin2010}.
 ### *Python*ic Coding Style
 
 
+
+
+
+
+
 \cite{vanRossum2013} describes *Python*ic software development, including
 	how to program in a *Python*ic coding style.
 	Note that the term "coding style" can be used interchangeably with "coding
 		scheme", "coding standard", "coding style guide",
 		and "programming style".
 
+
+
+
+
+
 Resources for adopting a *Python*ic approach to software development:
 + \cite[Appendix B, \SB.3.2, pp. 706--710]{Langtangen2009}
-
++ \cite[Chapter 41]{Lutz2013}
+	- The core ideals of the *Python*ic approach to software development are
+		\cite[Chapter 41, pp. 1409]{Lutz2013}:
+		* explicitness
+		* simplicity
+		* lack of redundancy
 
 
 
@@ -1956,12 +1971,16 @@ Note that \cite{Franca2014} mentions that modern *C++1X*, such as *C++11*,
 	that is, modern *C++1X* has become *Python*ic.   
 
 
+
+
+
+### *Python* Documentation
+
+
 Use documentation generators to produce documentation for the [software
 	(library) \cite{WikipediaContributors2018b}](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#python-documentation),
 	from the comments in the code.
 
-
-### *Python* Documentation
 
 Use the **\_\_doc\_\_** attribute of modules, classes, and functions to access
 	docstrings \cite[Chapter 8, pp. 209]{Alchin2010}.
@@ -3710,11 +3729,9 @@ Read these:
 
 
 
-
+\cite[Chapter 41, pp. ]{Lutz2013}
 \cite{Lutz2013}
-Chapter 4,15-21, 22-25, 26-29, 31-32, 33-36, 39-41.
-41
-Appendix C
+41, Appendix C
 
 
 \cite{Pilgrim2009}
