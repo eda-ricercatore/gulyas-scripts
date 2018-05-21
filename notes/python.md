@@ -2919,7 +2919,7 @@ Use extreme programming (XP) \cite[Chapter 19, pp. 381]{Hetland2005} \cite{Press
 			to be customizable \cite[Chapter 19, pp. 385]{Hetland2005}.
 	- Use software refactoring to improve the quality, performance (i.e., in terms
 		of execution time), memory usage, and maintainability
-		\cite[Chapter 10, section on "maintainability,"pp. 162]{Pilgrim2009}.
+		\cite[Chapter 10, section on "Refactoring,"pp. 162]{Pilgrim2009}.
 + Embrace prototyping early in my software development process
 	\cite[Chapter 19, pp. 382]{Hetland2005}.
 	- Since programming in *Python* involves writing less boilerplate code than
