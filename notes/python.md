@@ -1957,7 +1957,7 @@ Compare this to **ordered dictionaries** \cite[Chapter 2, pp. 38]{Alchin2010}.
 Resources for adopting a *Python*ic approach to software development:
 + \cite[Appendix B, \SB.3.2, pp. 706--710]{Langtangen2009}
 + \cite[Chapter 41]{Lutz2013}
-	- The core ideals of the *Python*ic approach to software development are
+	- The core values/ideals of the *Python*ic approach to software development are
 		\cite[Chapter 41, section on "The Python Paradox," pp. 1409]{Lutz2013}:
 		* explicitness
 		* simplicity
@@ -1982,7 +1982,17 @@ Resources for adopting a *Python*ic approach to software development:
 		* static methods
 		* (applications of) comprehensions
 		* (applications of) operator overloading
-	- "A sampling of redundancy and feature explosion in Python" \cite[Chapter 41, subsection on "Against Disquieting Improvements," pp. 1411, Table 41-1]{Lutz2013}.
+	- "A sampling of redundancy (in functionality and toolbox size) and feature explosion in Python" \cite[Chapter 41, subsection on "Against Disquieting Improvements," pp. 1411, Table 41-1]{Lutz2013}.
+	- There exists trade-offs between complexity and power
+		\cite[Chapter 41, subsection on "Complexity Versus Power," pp. 1412]{Lutz2013},
+		and between simplicity and elitism
+		\cite[Chapter 41, subsection on "Simplicity Versus Elitism," pp. 1412-1413]{Lutz2013}.
+
+
+
+
+
+
 
 
 
