@@ -3663,6 +3663,7 @@ Lists of online resources can be found at:
 + \cite{Langtangen2012}
 + \cite{Lee2011b}
 + \cite{Lutz2010}
++ \cite{Lutz2011}
 + \cite{Sweigart2015}
 
 
@@ -3712,7 +3713,7 @@ Read these:
 
 \cite{Lutz2013}
 Chapter 4,15-21, 22-25, 26-29, 31-32, 33-36, 39-41.
-31-36,38-41
+36,38-41
 Appendix C
 
 
