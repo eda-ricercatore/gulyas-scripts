@@ -93,6 +93,7 @@ References for *Python 3.0*:
 + \cite[Appendix, pp. 621-638]{Beazley2009}
 + \cite{Hall2009b}
 + \cite{Pilgrim2009}
++ \cite[Appendix C, pp. 1451--1463]{Lutz2013}
 
 
 
@@ -1999,6 +2000,13 @@ Resources for adopting a *Python*ic approach to software development:
 
 
 
+
+
+
+
+
+
+
 Table about *Python*'s redundant features and feature explosion
 	\cite[Chapter 41, subsection on "Against Disquieting Improvements," pp. 1411, Table 41-1]{Lutz2013}
 
@@ -3819,9 +3827,9 @@ Read these:
 
 
 
-\cite[Chapter 41, pp. ]{Lutz2013}
-\cite{Lutz2013}
-41, Appendix C
+
+
+
 
 
 \cite{Pilgrim2009}
