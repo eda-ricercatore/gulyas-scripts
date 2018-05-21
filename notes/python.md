@@ -92,8 +92,8 @@ Backward compatibility support for *Python 2.y* in *Python 3.x*:
 References for *Python 3.0*:
 + \cite[Appendix, pp. 621-638]{Beazley2009}
 + \cite{Hall2009b}
-+ \cite{Pilgrim2009}
 + \cite[Appendix C, pp. 1451--1463]{Lutz2013}
++ \cite[Appendix A, pp. 295--326]{Pilgrim2009}
 
 
 
@@ -3781,7 +3781,9 @@ Lists of online resources can be found at:
 + \cite{Lee2011b}
 + \cite{Lutz2010}
 + \cite{Lutz2011}
++ \cite{Lutz2013}
 + \cite{Sweigart2015}
+
 
 
 
