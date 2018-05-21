@@ -1958,10 +1958,37 @@ Resources for adopting a *Python*ic approach to software development:
 + \cite[Appendix B, \SB.3.2, pp. 706--710]{Langtangen2009}
 + \cite[Chapter 41]{Lutz2013}
 	- The core ideals of the *Python*ic approach to software development are
-		\cite[Chapter 41, pp. 1409]{Lutz2013}:
+		\cite[Chapter 41, section on "The Python Paradox," pp. 1409]{Lutz2013}:
 		* explicitness
 		* simplicity
 		* lack of redundancy
+	- Helpful concepts to acquire as part of my "required knowledge base"
+		\cite[Chapter 41, subsection on "On `Optional' Language Features," pp. 1409]{Lutz2013}:
+		* generators
+		* decorators
+		* slots
+		* properties
+		* descriptors
+		* metaclasses
+		* context managers
+		* closures
+		* super
+		* namespace packages
+		* Unicode
+		* function annotations
+		* relative imports
+		* keyword-only arguments
+		* class methods
+		* static methods
+		* (applications of) comprehensions
+		* (applications of) operator overloading
+
+
+
+
+
+
+
 
 
 
