@@ -2260,9 +2260,30 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 ###	Software Testing, Verification, and Validation
 
 *Python* software testing, verification, and validation concepts and methods:
-+ Unit testing \cite[Chapter 9, pp. 217]{Alchin2010}
-	\cite[Chapter 16, pp. 341]{Hetland2005}
-	\cite[Appendix B, \SB.4.6, pp. 726--728]{Langtangen2009}
++ Unit testing
+	- \cite[Chapter 9, pp. 217]{Alchin2010}
+	- \cite[Chapter 16, pp. 341]{Hetland2005}
+	- \cite[Appendix B, \SB.4.6, pp. 726--728]{Langtangen2009}
+	- \cite[Chapter 9]{Pilgrim2009}:
+		* Potential/possible benefits of unit testing \cite[Chapter 9, pp. 132]{Pilgrim2009}
+			+ It encourages developers to detail software requirements via
+				unit tests, and other aspects of their test suite for automated
+				regression testing.
+			+ It encourages developers to write code that is tailored to the unit
+				tests, and other aspects of their test suite for automated
+				regression testing.
+			+ It can be used to ensure that software refactoring does not
+				cause unit tests, and other aspects of their test suite for
+				automated regression testing, to fail.
+			+ To validate the work of a developer by demonstarting that all the
+				unit tests, and other aspects of their test suite for
+				automated regression testing, pass.
+			+ For team-developed software projects, use the unit tests by each
+				individual to check and validate that each software developer's
+				contribution or modification to the code base does not cause
+				existing unit tests to fail.
+			
+			\cite{Pilgrim2009}
 + Test-driven development \cite[Chapter 9, pp. 217]{Alchin2010}
 	\cite[Chapter 16, pp. 341-342]{Hetland2005}
 	- Test-driven development helps us achieve good/decent software test
@@ -3835,7 +3856,8 @@ Read these:
 
 
 \cite{Pilgrim2009}
-
+This book does not include academically/intellectually rigorous details.
+6-11,13,16, Appendices A and C
 
 
 
