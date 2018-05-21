@@ -2282,6 +2282,12 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 				individual to check and validate that each software developer's
 				contribution or modification to the code base does not cause
 				existing unit tests to fail.
+		* "Unit tests can give you the confidence to do large-scale refactoring"
+			\cite[Chapter 10, section on "Refactoring,"pp. 166]{Pilgrim2009}.
+		* "Comprehensive unit testing means never having to rely on a programmer who says, `Trust me.' "
+			\cite[Chapter 10, section on "Handling Changing Requirements,"pp. 162]{Pilgrim2009}.
+		* Use unit testing to improvce  
+			\cite[Chapter 10, section on "Refactoring,"pp. 166]{Pilgrim2009}.
 + Test-driven development \cite[Chapter 9, pp. 217]{Alchin2010}
 	\cite[Chapter 16, pp. 341-342]{Hetland2005}
 	- Test-driven development helps us achieve good/decent software test
