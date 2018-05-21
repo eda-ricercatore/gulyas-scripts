@@ -1982,6 +1982,58 @@ Resources for adopting a *Python*ic approach to software development:
 		* static methods
 		* (applications of) comprehensions
 		* (applications of) operator overloading
+	- "A sampling of redundancy and feature explosion in Python" \cite[Chapter 41, subsection on "Against Disquieting Improvements," pp. 1411, Table 41-1]{Lutz2013}.
+
+
+
+
+
+
+Table about *Python*'s redundant features and feature explosion
+	\cite[Chapter 41, subsection on "Against Disquieting Improvements," pp. 1411, Table 41-1]{Lutz2013}
+
+| **Category**				| **Specifics**							|
+| 3 major paradigms			| Procedural, functional, object-oriented		|
+| 2 incompatible lines			| 2.X and 3.X, with new-style classes in both	|
+| 3 string formatting tools		| % expression, str.format, string.Template		|
+| 4 attribute accessor tools		| **\_\_getattr\_\_**, **\_\_getattribute\_\_**, properties, descriptors	|
+| 2 finalization statements		| try/finally, with							|
+| 4 varieties of comprehension	| List, generator, set, dictionary				|
+| 3 class augmentation tools		| Function calls, decorators, metaclasses		|
+| 4 kinds of methods			| Instance, static, class, metaclass			|
+| 2 attribute storage systems	| Dictionaries, slots						|
+| 4 flavors of imports			| Module, package, package relative, namespace package	|
+| 2 superclass dispatch protocols	| Direct calls, super + MRO				|
+| 5 assignment statement forms	| Basic, multiname, augmented, sequence, starred	|
+| 2 types of functions			| Normal, generator						|
+| 5 function argument forms		| Basic, name=value, \*pargs, \*\*kargs, keyword-only	|
+| 2 class behavior sources		| Superclasses, metaclasses				|
+| 4 state retention options		| Classes, closures, function attributes, mutables	|
+| 2 class models				| Classic + new-style in 2.X, mandated new-style in 3.X	|
+| 2 Unicode models			| Optional in 2.X, mandated in 3.X			|
+| 2 PyDoc modes				| GUI client, required all-browser in recent 3.X	|
+| 2 byte code storage schemes	| Original, **\_\_pycache\_\_** only in recent 3.X	|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
