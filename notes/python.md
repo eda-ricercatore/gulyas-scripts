@@ -2282,8 +2282,6 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 				individual to check and validate that each software developer's
 				contribution or modification to the code base does not cause
 				existing unit tests to fail.
-			
-			\cite{Pilgrim2009}
 + Test-driven development \cite[Chapter 9, pp. 217]{Alchin2010}
 	\cite[Chapter 16, pp. 341-342]{Hetland2005}
 	- Test-driven development helps us achieve good/decent software test
