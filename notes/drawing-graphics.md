@@ -5,12 +5,22 @@
 This note describes drawing graphics via programming languages, or other
 	computer languages.
 + Asymptote (vector graphics language)
-+ \MP
-+ \MF
+	- Can use this to draw some UML diagrams.
++ MetaPost, \MP
+	- Metafont, \MF
+	- Can use this to draw UML diagrams.
+	- \cite{Michailidis20XY,Goossens2007,Syropoulos2004,Oswald2002,Hoenig1998,Goossens1997}
 + Graphviz
+	- Can use this to draw UML diagrams. 
 + PGF/TikZ
 	- PGF
 	- TikZ
+	- Can use this to draw UML diagrams.
+
+
+See the repository [baklava-graphics](https://github.com/eda-ricercatore/baklava-graphics)
+	for further information and source code about drawing diagrams, schematics,
+	and figures.
 
 
 
