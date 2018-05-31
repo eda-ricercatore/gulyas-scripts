@@ -1,10 +1,31 @@
 #	Notes About *Unified Modeling Language*
 
-Unified Modeling Language (UML)
+This document is my summary, or cheat sheet, about the Unified Modeling
+	Language (UML).
+
 
 ##	Class Diagrams
 
+In UML, the class diagram statically represents the software architecture of a
+	software.
+
+The class diagram depicts the elements, such as classes and packages, and the
+	interactions between them \cite{WikipediaContributors2018d}
+
+For each class in the class diagram, it has three compartments that are described
+	as follows \cite{WikipediaContributors2018d}: 
++ top compartment
+	- Name of the class
+	- Center aligned
+	- In bold font
+	- Captialize the first letter of each word
+		* If the class name is a concatenation of words, the first letter of each
+			word in this concatenation shal be capitalized.
++ 
+
+
 ###	Visibility and Scope of Class members
+
 
 
 ###	Types of instance-level relationships
@@ -29,9 +50,8 @@ Difference between compoition and aggregation:
 + generalization/inheritance
 + realization/implementation
 + general relationship
-	- general relationship
-		* dependency
-		+ multiplicity
+	- dependency
+	- multiplicity
 
 
 
