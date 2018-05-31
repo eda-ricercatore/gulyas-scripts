@@ -45,6 +45,7 @@ Names for repositories for my Ph.D. research shall be named after dishes and dri
 		* *R* programming language.
 		* *Python*
 		* *Texinfo*
+		* *Unified Modeling Language* (UML)
 		* See [boilerplate code](https://github.com/eda-ricercatore/boilerplate-code) for revision notes about C++.
 	- To-do list (Operation Go-to-ICCAD, in Italian).
 + references
