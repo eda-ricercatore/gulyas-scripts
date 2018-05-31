@@ -2,10 +2,43 @@
 
 Unified Modeling Language (UML)
 
+##	Class Diagrams
+
+###	Visibility and Scope of Class members
+
+
+###	Types of instance-level relationships
+
++ dependency
++ association
++ aggregation
++ composition
+
+Difference between compoition and aggregation:
++ 
++ 
 
 
 
 
+
+
+
+###	Class-level relationships
+
++ generalization/inheritance
++ realization/implementation
++ general relationship
+	- general relationship
+		* dependency
+		+ multiplicity
+
+
+
+
+
+
+###	Analysis of stereotypes
 
 
 
