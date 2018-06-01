@@ -177,6 +177,16 @@ Notes about the types of instance-level relationships
 	- It represents a "part-whole," or "part-of," relationship.
 	- An aggregation is a variant of the association relationship.
 	- An aggregation is more specific than the association relationship.
+	- It can be named.
+	- We can label an end of an association with its properties, such as:
+		* role name
+		* ownership indicator
+		* multiplicity
+		* visibility
+	- An aggregation involves only two classes, as a binary association.
+	- **Since the difference between an aggregation and an association,
+		class diagrams can ignore aggregations and simply replace them
+		with associations.**
 + composition
 	- "Represent[s] real-world whole-part relationships"
 	- "When the container is destroyed, the contents are also destroyed" 
