@@ -10,7 +10,8 @@ In UML, the class diagram statically represents the software architecture of a
 	software.
 
 The class diagram depicts the elements, such as classes and packages, and the
-	interactions between them \cite{WikipediaContributors2018d}
+	static relationships (not dynamic interactions) between them
+	\cite{WikipediaContributors2018d}.
 
 For each class in the class diagram, it has three compartments that are described
 	as follows \cite{WikipediaContributors2018d}: 
@@ -22,17 +23,19 @@ For each class in the class diagram, it has three compartments that are describe
 		* If the class name is a concatenation of words, the first letter of each
 			word in this concatenation shal be capitalized.
 		* That is, write the first letter of each word in upper case.
-		* Or, use the camel case. 
+			\cite{WikipediaContributors2018g}.
+		* Or, use the camel case \cite{WikipediaContributors2018f,WikipediaContributors2018g}.
+		* Or, use the Hungarian notation \cite{WikipediaContributors2018e}.
 + middle compartment
-	- Class attributes
-	- Left aligned
-	- Write each attribute (entirely) in lower case
-		* Use of the snake case is strongly recommended.
+	- Class attributes.
+	- Left aligned.
+	- Write each attribute (entirely) in lower case \cite{WikipediaContributors2018g}.
+		* Use of the snake case is strongly recommended \cite{WikipediaContributors2018g}.
 + bottom compartment
-	- Operations (i.e., functions or methods) that the class can executes
-	- Left aligned
-	- Write each operation (entirely) in lower case
-		* Use of the snake case is strongly recommended.
+	- Operations (i.e., functions or methods) that "the class can execute."
+	- Left aligned.
+	- Write each operation (entirely) in lower case \cite{WikipediaContributors2018g}.
+		* Use of the snake case is strongly recommended \cite{WikipediaContributors2018g}.
 
 
 
