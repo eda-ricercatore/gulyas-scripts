@@ -148,7 +148,27 @@ Types of scope for class members \cite{WikipediaContributors2018d}:
 Notes about the types of instance-level relationships
 	\cite{WikipediaContributors2018d}:
 + dependency
+	- A unidirectional association from the dependent element (or client or
+		source) to the	 independent element (or supplier, server, target).
+	- If there exists a change in the independent element, there exists a change
+		to the dependent element.
 + association
+	- A family of links that connects any number of classes.
+	- It can be named.
+	- We can label an end of an association with its properties, such as:
+		* role name
+		* ownership indicator
+		* multiplicity
+		* visibility
+	- Types of association:
+		* bidirectional
+		* unidirectional
+		* aggregation:
+			- Includes composition aggregation
+		* reflexive
+	- The most common types of association are bidirectional and unidirectional.
+	- A binary association connects two elements.
+	- A ternary association connects three elements.
 + aggregation
 + composition
 
