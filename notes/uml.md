@@ -4,6 +4,19 @@ This document is my summary, or cheat sheet, about the Unified Modeling
 	Language (UML).
 
 
+##	Author's note
+
+
+Use this set of terms, Set #1, interchangeably \cite{WikipediaContributors2018d}:
++ class instance
++ class object
++ instance
++ instance object
++ object instance
+
+
+
+
 ##	Class Diagrams
 
 In UML, the class diagram statically represents the software architecture of a
@@ -37,6 +50,10 @@ For each class in the class diagram, it has three compartments that are describe
 	- Write each operation (entirely) in lower case \cite{WikipediaContributors2018g}.
 		* Use of the snake case is strongly recommended \cite{WikipediaContributors2018g}.
 
+
+
+###	Notes about Classes and Objects
+
 Additional notes about classes:
 + A class member is an attribute or method/operation of a given class
 	 \cite{WikipediaContributors2018d}.
@@ -45,14 +62,9 @@ Additional notes about classes:
 
 
 
-Visibility of class members \cite{WikipediaContributors2018d}:
-+ "+": public
-+ "-": private
-+ "#": protected
-+ "/": derived
-+ "~": package
-+ "\*": random
-
+Additional notes about objects:
++ The state of an object is determined by the set of attributes and their
+	corresponding values. 
 
 
 
@@ -69,6 +81,38 @@ Visibility of class members \cite{WikipediaContributors2018d}:
 
 
 ###	Visibility and Scope of Class members
+
+Visibility of class members \cite{WikipediaContributors2018d}:
++ "+": public
++ "-": private
++ "#": protected
++ "/": derived
+	- Can be combined with another type of visibility
++ "~": package
++ "\*": random
+
+
+
+Types of scope for class members \cite{WikipediaContributors2018d}:
++ classifier members; or, static members
+	- The scope of a classifier member specified by the scope of the class
+		owning it.
+	- The value of a classifier attribute should be the same for all instances of
+		the class.
+	- Invocating a classifier method shall not affect the state of any class
+		instance (or instance of the class);
+		
++ instance members
+	- The scope of an instance member is restricted to a specific object instance
+		of the class.
+	- The value of an instance attribute can vary between instances of the class.
+	- Invocating an instance method can affect the state of any class instance
+		(or instance of the class).
+
+
+
+
+
 
 
 
@@ -89,6 +133,15 @@ Difference between compoition and aggregation:
 
 
 
+
+
+
+
+
+
+
+
+
 ###	Class-level relationships
 
 + generalization/inheritance
@@ -102,7 +155,26 @@ Difference between compoition and aggregation:
 
 
 
+
+
+
+
+
+
+
 ###	Analysis of stereotypes
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -110,6 +182,16 @@ Difference between compoition and aggregation:
 
 Citations/References that use the *LaTeX/BibTeX* notation are taken from my
 	*BibTeX* database (set of *BibTeX* entries).
+
+
+
+
+
+
+
+
+
+
 
 
 
