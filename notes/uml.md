@@ -154,6 +154,7 @@ Notes about the types of instance-level relationships
 		to the dependent element.
 + association
 	- A family of links that connects any number of classes.
+	- It represents a "has-a" relationship.
 	- It can be named.
 	- We can label an end of an association with its properties, such as:
 		* role name
@@ -170,11 +171,23 @@ Notes about the types of instance-level relationships
 	- A binary association connects two elements.
 	- A ternary association connects three elements.
 + aggregation
+	- "Represent[s] a software or database relationship"
+	- "When the container is destroyed, the contents are usually not destroyed"
+	- Characterized as a "catalog containment."
+	- It represents a "part-whole," or "part-of," relationship.
+	- An aggregation is a variant of the association relationship.
+	- An aggregation is more specific than the association relationship.
 + composition
+	- "Represent[s] real-world whole-part relationships"
+	- "When the container is destroyed, the contents are also destroyed" 
+	- Characterized as a "physical containment."
 
-Difference between compoition and aggregation:
-+ 
-+ 
+
+Difference between compoition and aggregation
+	\cite{WikipediaContributors2018d}:
++ "The aggregation relationship is often 'catalog' containment to distinguish it
+	from composition's 'physical' containment."
+
 
 
 
@@ -194,6 +207,7 @@ Difference between compoition and aggregation:
 ###	Class-level relationships
 
 + generalization/inheritance
+	
 + realization/implementation
 + general relationship
 	- dependency
