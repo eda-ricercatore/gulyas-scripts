@@ -3,6 +3,25 @@
 This document is my summary, or cheat sheet, about the Unified Modeling
 	Language (UML).
 
+##	Table of Contents
+
++ [Author's note](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/uml.md#authors-note)
++ [Class Diagrams](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/uml.md#class-diagrams)
+	- [Notes about Classes and Objects](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/uml.md#notes-about-classes-and-objects)
+	- [Visibility and Scope of Class members](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/uml.md#visibility-and-scope-of-class-members)
+	- [Types of instance-level relationships](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/uml.md#types-of-instance-level-relationships)
+	- [Class-level relationships](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/uml.md#class-level-relationships)
+	- [Analysis of stereotypes](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/uml.md#analysis-of-stereotypes)
++ [References](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/uml.md#references)
+
+
+
+
+
+
+
+
+
 
 ##	Author's note
 
