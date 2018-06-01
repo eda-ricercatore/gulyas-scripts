@@ -30,7 +30,8 @@ Names for repositories for my Ph.D. research shall be named after dishes and dri
 	- Software licenses
 		* *MIT License*
 		* *GNU General Public License (GNU GPL)*
-	- guidelines
+	- Guidelines for collaborating on open source software and/or hardware
+		projects.
 		* Documentation about guidelines that I am following for my research,
 			and for my research collaborators to know about.
 	- Dependency list
