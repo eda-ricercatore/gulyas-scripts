@@ -95,19 +95,26 @@ Visibility of class members \cite{WikipediaContributors2018d}:
 
 Types of scope for class members \cite{WikipediaContributors2018d}:
 + classifier members; or, static members
+	- *Underline the name of each classifier member.*
 	- The scope of a classifier member specified by the scope of the class
 		owning it.
 	- The value of a classifier attribute should be the same for all instances of
 		the class.
-	- Invocating a classifier method shall not affect the state of any class
+	- Invoking/invocating a classifier method shall not affect the state of any class
 		instance (or instance of the class);
-		
+		invoking a classifier method should not modify any instance attribute
+			of any object. 
 + instance members
+	- Assume each member of a class to be an instance member, unless its
+		name is underlined;
+		a class member that has an underlined name is an classifier member.
 	- The scope of an instance member is restricted to a specific object instance
 		of the class.
 	- The value of an instance attribute can vary between instances of the class.
-	- Invocating an instance method can affect the state of any class instance
-		(or instance of the class).
+	- Invoking/invocating an instance method can affect the state of any class instance
+		(or instance of the class);
+		invoking an instance method can modify the value of any instance
+			attribute of any object. 
 
 
 
@@ -118,6 +125,9 @@ Types of scope for class members \cite{WikipediaContributors2018d}:
 
 ###	Types of instance-level relationships
 
+
+Notes about the types of instance-level relationships
+	\cite{WikipediaContributors2018d}:
 + dependency
 + association
 + aggregation
