@@ -21,7 +21,21 @@ For each class in the class diagram, it has three compartments that are describe
 	- Captialize the first letter of each word
 		* If the class name is a concatenation of words, the first letter of each
 			word in this concatenation shal be capitalized.
-+ 
+		* That is, write the first letter of each word in upper case.
+		* Or, use the camel case. 
++ middle compartment
+	- Class attributes
+	- Left aligned
+	- Write each attribute (entirely) in lower case
+		* Use of the snake case is strongly recommended.
++ bottom compartment
+	- Operations (i.e., functions or methods) that the class can executes
+	- Left aligned
+	- Write each operation (entirely) in lower case
+		* Use of the snake case is strongly recommended.
+
+
+
 
 
 ###	Visibility and Scope of Class members
