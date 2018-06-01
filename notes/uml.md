@@ -37,6 +37,33 @@ For each class in the class diagram, it has three compartments that are describe
 	- Write each operation (entirely) in lower case \cite{WikipediaContributors2018g}.
 		* Use of the snake case is strongly recommended \cite{WikipediaContributors2018g}.
 
+Additional notes about classes:
++ A class member is an attribute or method/operation of a given class
+	 \cite{WikipediaContributors2018d}.
+
+
+
+
+
+Visibility of class members \cite{WikipediaContributors2018d}:
++ "+": public
++ "-": private
++ "#": protected
++ "/": derived
++ "~": package
++ "\*": random
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
