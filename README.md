@@ -31,22 +31,28 @@ Names for repositories for my Ph.D. research shall be named after dishes and dri
 		* *MIT License*
 		* *GNU General Public License (GNU GPL)*
 	- guidelines
-		* Documentation about guidelines that I am following
-			for my research, and for my research collaborators 
-			to know about.
+		* Documentation about guidelines that I am following for my research,
+			and for my research collaborators to know about.
 	- Dependency list
 		* List of software and software libraries that this code
 			base is dependent on.
 	- Externalities list.
-		* List of software and software libraries that this code
-			base can affect.
+		* [List of software and software libraries that this code base can affect](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/externalities.md).
+		* See [list of software dependencies](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/software_dependencies.md) and [list of other dependencies](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/dependency_list.md)
+		* Also, see this [list of software dependencies for more information](https://github.com/eda-ricercatore/boilerplate-code/blob/master/notes/miscellaneo/software-dependencies.md).
 	- Notes about the following computer languages:
-		* *GNU Octave*
-		* *R* programming language.
-		* *Python*
-		* *Texinfo*
-		* *Unified Modeling Language* (UML)
-		* See [boilerplate code](https://github.com/eda-ricercatore/boilerplate-code) for revision notes about C++.
+		* [*GNU Octave*](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/gnu-octave.md)
+		* [*Python*](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md)
+		* [*Ruby*](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/ruby.md)
+		* [*Texinfo*](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/texinfo.md)
+		* [*Unified Modeling Language* (UML)](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/uml.md)
+		* See [boilerplate code](https://github.com/eda-ricercatore/boilerplate-code) for revision notes about [*C++*, data structures, and algorithms](https://github.com/eda-ricercatore/boilerplate-code/blob/master/notes/report/data-structures_n_algor.pdf).
+		* Notes located in other repositories:
+			+ [*Scala*](https://github.com/eda-ricercatore/sardegna-scala/blob/master/notes/scala-notes.md)
+			+ [*R* programming language](https://github.com/eda-ricercatore/rosario-r/blob/master/notes/data_analytics_with_r.md). Also, see [resources for learning *R*](https://github.com/eda-ricercatore/rosario-r).
+			+ [Declaratively draw pictures and figures](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/drawing-graphics.md)
+				- See my [repository for declaratively drawing graphics more information](https://github.com/eda-ricercatore/baklava-graphics)
+	- [Note about computational thinking](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computational_thinking.md)
 	- To-do list (Operation Go-to-ICCAD, in Italian).
 + references
 	- Currently deprecated.
