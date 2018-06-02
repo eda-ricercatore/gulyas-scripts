@@ -48,6 +48,9 @@ Use this set of terms, Set #1, interchangeably \cite{WikipediaContributors2018d}
 ##	Types of UML Diagrams
 
 
+![Figure 1 Hierarchical categorization of UML diagram]()
+
+
 
 WikipediaContributors2018h
 
