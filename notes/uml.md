@@ -68,7 +68,8 @@ For each class in the class diagram, it has three compartments that are describe
 	- Left aligned.
 	- Write each operation (entirely) in lower case \cite{WikipediaContributors2018g}.
 		* Use of the snake case is strongly recommended \cite{WikipediaContributors2018g}.
-
+	- Note that I use methods and member functions interchangeably
+		\cite{WikipediaContributors2017a3}.
 
 
 ###	Notes about Classes and Objects
@@ -179,9 +180,15 @@ Notes about the types of instance-level relationships
 	- An aggregation is more specific than the association relationship.
 	- It describes a structural relationship, rather than a behavioral relationship;
 		it specifies how objects of different classes connect to each other;
-		or how objects of a class causes objects of another class to perform an
-			action on its behalf by "sending a message" to, "invoking a method"
-			on, or "calling a member function" of "the controlled object"
+		or how objects of a class (i.e., requesting objects) causes objects of
+			another class (i.e., controlled objects) to perform an action on its
+			behalf by "sending a message" to, "invoking a method" on, or
+			"calling a member function" of "the controlled object"
+		\cite{WikipediaContributors2017a3}.
+	- In an aggregation relationship, each object (requesting object and
+		controlled object) has a role;
+		this "role[s] describe the public aspects of [the] object[s]" in the context
+			of the association
 		\cite{WikipediaContributors2017a3}.
 	- It can be named.
 	- We can label an end of an association with its properties, such as:
