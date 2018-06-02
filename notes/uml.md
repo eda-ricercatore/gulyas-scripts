@@ -55,27 +55,41 @@ This figure shows the hierarchical categorization of UML diagrams
 
 The categories of *UML 2.x* are also listed, and briefly described, below
 	\cite{WikipediaContributors2018h}:
-+ structural diagrams, which "represent structural information"
++ structural diagrams, which "represent structural information" and model
+	required/necessary entities/elements of the system;
+	they can document the software architecture of software systems.
 	- **class diagrams**
-	- component diagrams
+	- component diagrams show the decomposition of the system into
+		components, and the dependencies between these components
 	- composite structure diagrams
 	- deployment diagrams
 	- object diagrams
 	- package diagrams
 	- profile diagrams
 + behavioral diagrams, which "represent general types of behavior" and
-	different aspects of interactions
-	- **activity diagrams**
+	different aspects of interactions;
+	they represent what can or must happen in the system (model);
+	they represent required behavior (and functionality) of the system and its
+		components
+	- **activity diagrams** describe the activities (or, actions and functions) of
+		each component in the system, including step-by-step operations 
 	- **state machine diagrams**
 	- **use case diagrams**
-	- **interaction diagrams**, which represent "different aspects of interactions"
+	- **interaction diagrams**, which represent "different aspects of interactions,"
+		and highlight/emphasize the system's control flow and dataflow.
 		* communication diagrams
 		* interaction overview diagrams
-		* **sequence diagrams**
+		* **sequence diagrams** show sequences of messages between
+			objects to indicate/display/show how they communicate with each
+			other
 		* **timing diagrams**
 
-Each of these diagrams can comments and notes to describe usage, constraints,
-	and intent \cite{WikipediaContributors2018h}.
+
+
+
+
+Each of these diagrams can include comments and notes to describe usage,
+	constraints, and intent \cite{WikipediaContributors2018h}.
 
 
 
@@ -94,7 +108,7 @@ Each of these diagrams can comments and notes to describe usage, constraints,
 ##	Class Diagrams
 
 In UML, the class diagram statically represents the software architecture of a
-	software.
+	software \cite{WikipediaContributors2018h}.
 
 The class diagram depicts the elements, such as classes and packages, and the
 	static relationships (not dynamic interactions) between them
@@ -290,8 +304,9 @@ Difference between composition and aggregation
 
 ###	Class-level relationships
 
+Notes about class-level relationships \cite{WikipediaContributors2018d}:
 + generalization/inheritance
-	
+	+ We use the terms generalization relationship, "is-a" relationship 
 + realization/implementation
 + general relationship
 	- dependency
@@ -318,6 +333,13 @@ Difference between composition and aggregation
 
 
 
+
+
+##	*UML* extensibility mechanisms
+
+Extensibility mechanisms of *UML* are:
++ stereotypes
++ profiles
 
 
 
