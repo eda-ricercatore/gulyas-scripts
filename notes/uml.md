@@ -53,7 +53,26 @@ This figure shows the hierarchical categorization of UML diagrams
 
 ![Figure 1 Hierarchical categorization of UML diagram](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/pics/UML_diagrams_overview.png)
 
-
+The categories of *UML 2.x* are also listed, and briefly described, below
+	\cite{WikipediaContributors2018h}:
++ structural diagrams, which "represent structural information"
+	- **class diagrams**
+	- component diagrams
+	- composite structure diagrams
+	- deployment diagrams
+	- object diagrams
+	- package diagrams
+	- profile diagrams
++ behavioral diagrams, which "represent general types of behavior" and
+	different aspects of interactions
+	- **activity diagrams**
+	- **state machine diagrams**
+	- **use case diagrams**
+	- **interaction diagrams**, which represent "different aspects of interactions"
+		* communication diagrams
+		* interaction overview diagrams
+		* **sequence diagrams**
+		* **timing diagrams**
 
 
 
