@@ -371,13 +371,30 @@ Notes about class-level relationships \cite{WikipediaContributors2018d}:
 		* A dependency can be weak, if the methods of the dependent class
 			are implemented with parameters/arguments of its methods, rather
 			than local variables of its methods.
+		* Elements in dependency relationships are characterized as tuples of
+			elements, such as 2-tuples or *n*-tuples
+			\cite{WikipediaContributors2017a4}.
+		* The independent elements are suppliers, and the dependent elements
+			clients \cite{WikipediaContributors2017a4}.
+		* The clients are contingent on the suppliers "for their specification or
+			implementation" \cite{WikipediaContributors2017a4}.
+		* In *UML*, a dependency relationship is represented by an arrow;
+			note that this arrow indicates the direction of a relationship, rather
+			than the direction of a process \cite{WikipediaContributors2017a4}.
+		* "A dependency is a model-time relationship between definitions of
+			elements in the relationship (e.g., classes);
+			this is different from *UML* links that describe "run-time
+			relationships between instances of classifiers";
+			links do not necessarily require dependencies
+			\cite{WikipediaContributors2017a4}.
 	- multiplicity
 		* A indicator that the the number of instances of a class/entity.
 
 
 
 
-
+An aside: coupling
+	\cite{WikipediaContributors2018i}
 
 
 
