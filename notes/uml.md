@@ -187,7 +187,12 @@ Notes about the types of instance-level relationships
 	- **Since the difference between an aggregation and an association is
 		insignificant during implementation, class diagrams can ignore
 		aggregations and simply replace them with associations.**
-	-
+	- Aggregation can describe the relationship between a collection, or
+		container, and each element in the collection/container;
+		note that destroying the container does not destroy the
+			elements/contents of the container;
+			hence, classes representing the elements in the container "do not
+				have a strong lifecycle dependency on the container."
 + composition
 	- "Represent[s] real-world whole-part relationships"
 	- "When the container is destroyed, the contents are also destroyed" 
