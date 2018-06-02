@@ -306,8 +306,48 @@ Difference between composition and aggregation
 
 Notes about class-level relationships \cite{WikipediaContributors2018d}:
 + generalization/inheritance
-	+ We use the terms generalization relationship, "is-a" relationship 
+	- A generalization describes the relationship between classes in terms of
+		specialization;
+		a superclass is a generalization of the subclass, and the subclass is a
+			specialization of the superclass
+	- Thus, generalization and specialization are duals of each other in terms of
+		inheritance of properties/attributes and behavior/operations of classes.
+	- We use the following terms interchangeably
+		* generalization relationship
+		* "is-a" relationship
+		* inheritance
+	- Also, we use the following terms interchangeably:
+		* superclass
+		* parent class
+		* base class
+		* base type
+	- In addition, we use the following terms interchangeably:
+		* subclass
+		* child class
+		* derived class
+		* inheriting class
+		* derived type
+		* inheriting type
+		* subtype
+	- Use case diagrams can also show generalization.
+	- Do not confuse parent-child relationships in class diagrams with
+		parent-child relationships in biology;
+		that said, they are similar generalizations in biological classification or
+			taxonomy. 
 + realization/implementation
+	- A realization/implementation relationship describes how the client model
+		element(s) "realize(s)/implement(s)/execute(s)" the behavior of the
+		supplier client model.
+	- A given supplier can be realized by multiple clients;
+		or, multiple clients can realize a given supplier.
+	- We use the following terms interchangeably:
+		* realization
+		* implementation
+	- In addition, we use the following terms interchangeably:
+		* realizes
+		* implements
+		* executes
+	- Component diagrams can also show realization.
 + general relationship
 	- dependency
 	- multiplicity
@@ -329,6 +369,35 @@ Notes about class-level relationships \cite{WikipediaContributors2018d}:
 
 
 
+
+
+
+
+
+
+
+
+##	*UML* Use Case Diagrams
+
+*UML* use case diagrams can show:
++ generalization \cite{WikipediaContributors2018d}
+
+
+
+
+
+
+
+
+
+
+
+
+##	*UML* Component Diagrams
+
+
+*UML* component diagrams can show:
++ realization \cite{WikipediaContributors2018d}
 
 
 
