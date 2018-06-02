@@ -12,7 +12,7 @@ This document is my summary, or cheat sheet, about the Unified Modeling
 	- [Visibility and Scope of Class members](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/uml.md#visibility-and-scope-of-class-members)
 	- [Types of instance-level relationships](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/uml.md#types-of-instance-level-relationships)
 	- [Class-level relationships](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/uml.md#class-level-relationships)
-	- [Analysis of stereotypes](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/uml.md#analysis-of-stereotypes)
+	- [Analysis stereotypes](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/uml.md#analysis-of-stereotypes)
 + [References](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/uml.md#references)
 
 
@@ -226,6 +226,9 @@ Notes about the types of instance-level relationships
 	- A family of links that connects any number of classes.
 	- It represents a "has-a" relationship.
 	- It can be named.
+	- An attribute of the dependent class is an instance of the independent class.
+	- It shows that one, some, or many of the "related classes make reference
+		to another related class.  
 	- We can label an end of an association with its properties, such as:
 		* role name
 		* ownership indicator
@@ -263,7 +266,7 @@ Notes about the types of instance-level relationships
 	- We can label an end of an association with its properties, such as:
 		* role name
 		* ownership indicator
-		* multiplicity
+		* multiplicity (optional notation)
 		* visibility
 	- An aggregation involves only two classes, as a binary association.
 	- **Since the difference between an aggregation and an association is
@@ -338,6 +341,12 @@ Notes about class-level relationships \cite{WikipediaContributors2018d}:
 	- A realization/implementation relationship describes how the client model
 		element(s) "realize(s)/implement(s)/execute(s)" the behavior of the
 		supplier client model.
+	- The client and supplier of the realization relationship has to be one of the
+		following elements or groups of elements:
+		* classes
+		* interfaces
+		* components
+		* packages
 	- A given supplier can be realized by multiple clients;
 		or, multiple clients can realize a given supplier.
 	- We use the following terms interchangeably:
@@ -350,7 +359,20 @@ Notes about class-level relationships \cite{WikipediaContributors2018d}:
 	- Component diagrams can also show realization.
 + general relationship
 	- dependency
+		* A relationship that indicates a class is contingent on another class
+			at an instance in time.
+		* The dependent class has a method that has a input parameter or local
+			variable that belongs to an independent class.
+		* Dependency is different from association;
+			in an association, an attribute of the the dependent class is
+				contingent on the independent class.
+			in a dependency, a parameter or local variable of a dependent
+				class's method is contingent on the independent class.
+		* A dependency can be weak, if the methods of the dependent class
+			are implemented with parameters/arguments of its methods, rather
+			than local variables of its methods.
 	- multiplicity
+		* A indicator that the the number of instances of a class/entity.
 
 
 
@@ -364,9 +386,9 @@ Notes about class-level relationships \cite{WikipediaContributors2018d}:
 
 
 
-###	Analysis of stereotypes
+###	Analysis stereotypes
 
-
+To be completed later [June 2, 2018]
 
 
 
