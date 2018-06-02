@@ -177,6 +177,12 @@ Notes about the types of instance-level relationships
 	- It represents a "part-whole," or "part-of," relationship.
 	- An aggregation is a variant of the association relationship.
 	- An aggregation is more specific than the association relationship.
+	- It describes a structural relationship, rather than a behavioral relationship;
+		it specifies how objects of different classes connect to each other;
+		or how objects of a class causes objects of another class to perform an
+			action on its behalf by "sending a message" to, "invoking a method"
+			on, or "calling a member function" of "the controlled object"
+		\cite{WikipediaContributors2017a3}.
 	- It can be named.
 	- We can label an end of an association with its properties, such as:
 		* role name
@@ -199,7 +205,7 @@ Notes about the types of instance-level relationships
 	- Characterized as a "physical containment."
 
 
-Difference between compoition and aggregation
+Difference between composition and aggregation
 	\cite{WikipediaContributors2018d}:
 + "The aggregation relationship is often 'catalog' containment to distinguish it
 	from composition's 'physical' containment."
