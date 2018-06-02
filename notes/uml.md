@@ -74,7 +74,8 @@ The categories of *UML 2.x* are also listed, and briefly described, below
 		* **sequence diagrams**
 		* **timing diagrams**
 
-
+Each of these diagrams can comments and notes to describe usage, constraints,
+	and intent \cite{WikipediaContributors2018h}.
 
 
 
