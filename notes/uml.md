@@ -184,9 +184,10 @@ Notes about the types of instance-level relationships
 		* multiplicity
 		* visibility
 	- An aggregation involves only two classes, as a binary association.
-	- **Since the difference between an aggregation and an association,
-		class diagrams can ignore aggregations and simply replace them
-		with associations.**
+	- **Since the difference between an aggregation and an association is
+		insignificant during implementation, class diagrams can ignore
+		aggregations and simply replace them with associations.**
+	-
 + composition
 	- "Represent[s] real-world whole-part relationships"
 	- "When the container is destroyed, the contents are also destroyed" 
