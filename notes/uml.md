@@ -391,7 +391,7 @@ Notes about class-level relationships \cite{WikipediaContributors2018d}:
 		* A indicator that the the number of instances of a class/entity.
 
 
-###	Coupling and Cohesion
+###	Coupling, Cohesion, and Connascence
 
 An aside: coupling measures the extent of interdependence between software
 	modules to indicate "how closely conected" pairs of "modules or routines
@@ -406,6 +406,8 @@ Low coupling tend to indicate "a well-structured computer system and a
 	good design, and" together with high cohesion facilitate high readability
 	and maintainability \cite{WikipediaContributors2018i}. 
 
+
+
 Coupling can be characterized as \cite{WikipediaContributors2018i}:
 + low
 + loose
@@ -413,6 +415,68 @@ Coupling can be characterized as \cite{WikipediaContributors2018i}:
 + high
 + tight
 + strong
+
+
+
+Types of coupling for procedural programming \cite{WikipediaContributors2018i}:
++ content coupling
++ common coupling
++ external coupling
++ control coupling
++ stamp coupling (data-structured coupling)
++ data coupling
+
+
+
+Types of coupling for object-oriented programming \cite{WikipediaContributors2018i}:
++ subclass coupling
++ temporal coupling
+
+
+
+
+Characteristic disadvantages of high coupling \cite{WikipediaContributors2018i}:
++ A change in a module can propagate to other modules
++ Higher inter-module dependency can slow down software integration, or
+	software system integration, by causing the software development team to
+	spend more time and effort to integrate the software modules.
++ It is harder to isolate a given software module for software testing, without
+	testing other software modules due to inter-module dependency. 
+
+
+
+
+Cohesion indicates the extent to which elements of a module, such as functions
+	and/or classes, are intradependent on each other;
+	cohesion measures the strength of intra-module relationships
+	\cite{WikipediaContributors2018i}.
+Low cohesion indicates that elements of the module are hardly dependent on
+	each other, and this metric hinders the expansion/scalability of the module
+	\cite{WikipediaContributors2018i}.
+
+
+
+
+
+
+
+
+In object-oriented design and analysis, **connascence** is a software quality
+	metric that measures the extent that dependency relationships between
+	software elements (e.g., classes) would result in dependent classes
+	(dependers) changing when the dependee classes change   
+	\cite{WikipediaContributors2018j}.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
