@@ -391,7 +391,7 @@ Notes about class-level relationships \cite{WikipediaContributors2018d}:
 		* A indicator that the the number of instances of a class/entity.
 
 
-
+###	Coupling and Cohesion
 
 An aside: coupling measures the extent of interdependence between software
 	modules to indicate "how closely conected" pairs of "modules or routines
@@ -399,14 +399,20 @@ An aside: coupling measures the extent of interdependence between software
 	that is, coupling indicates the strength of inter-module relationships
 	\cite{WikipediaContributors2018i}.
 Coupling and cohesion are duals of each other \cite{WikipediaContributors2018i}.
-	There exists a correlation between low coupling and high cohesion, and
-		another correlation between high coupling and low cohesion
-		\cite{WikipediaContributors2018i}. 
-	Low coupling tend to indicate "a well-structured computer system and a
-		good design, and" together with high cohesion facilitate high readability
-		and maintainability \cite{WikipediaContributors2018i}. 
+There exists a correlation between low coupling and high cohesion, and
+	another correlation between high coupling and low cohesion
+	\cite{WikipediaContributors2018i}. 
+Low coupling tend to indicate "a well-structured computer system and a
+	good design, and" together with high cohesion facilitate high readability
+	and maintainability \cite{WikipediaContributors2018i}. 
 
-
+Coupling can be characterized as \cite{WikipediaContributors2018i}:
++ low
++ loose
++ weak
++ high
++ tight
++ strong
 
 
 
