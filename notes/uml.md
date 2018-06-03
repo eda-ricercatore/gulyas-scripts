@@ -469,7 +469,8 @@ In object-oriented design and analysis, **connascence** is a software quality
 
 
 Stronger connascence imply that more effort and cost is required to make
-	appropriate changes in the dependers \cite{WikipediaContributors2018j}.
+	appropriate/compensating changes in the dependers (or connascent
+	elements) \cite{WikipediaContributors2018j}.
 
 
 
