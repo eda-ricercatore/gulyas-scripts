@@ -468,8 +468,8 @@ In object-oriented design and analysis, **connascence** is a software quality
 	\cite{WikipediaContributors2018j}.
 
 
-
-
+Stronger connascence imply that more effort and cost is required to make
+	appropriate changes in the dependers \cite{WikipediaContributors2018j}.
 
 
 
