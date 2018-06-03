@@ -463,8 +463,8 @@ Low cohesion indicates that elements of the module are hardly dependent on
 
 In object-oriented design and analysis, **connascence** is a software quality
 	metric that measures the extent that dependency relationships between
-	software elements (e.g., classes) would result in dependent classes
-	(dependers) changing when the dependee classes change   
+	software elements (e.g., classes) would result in **dependent** classes
+	(**dependers**) changing when the **dependee** classes change   
 	\cite{WikipediaContributors2018j}.
 
 
@@ -473,8 +473,9 @@ Stronger connascence imply that more effort and cost is required to make
 	elements) \cite{WikipediaContributors2018j}.
 
 
-
-
+When analyzing the connascence of an object-oriented design, examine the
+	(spatial and temporal) localities between software classes
+	\cite{WikipediaContributors2018j}.
 
 
 
