@@ -472,14 +472,28 @@ Stronger connascence imply that more effort and cost is required to make
 	appropriate/compensating changes in the dependers (or connascent
 	elements) \cite{WikipediaContributors2018j}.
 
+Decreasing (the strength of) connascence will decrease the amount of effort and
+	cost to make a change in the software system
+	\cite{WikipediaContributors2018j}.
+
 
 When analyzing the connascence of an object-oriented design, examine the
 	(spatial and temporal) localities between software classes
 	\cite{WikipediaContributors2018j}.
 
 
-
-
+"Types of connascence" \cite{WikipediaContributors2018j}
++ Static Connascences
+	- Connascence of Name (CoN)
+	- Connascence of Type (CoT)
+	- Connascence of Meaning (CoM) or Connascence of Convention (CoC)
+	- Connascence of Position (CoP)
+	- Connascence of Algorithm (CoA)
++ Dynamic Connascence
+	- Connascence of Execution (CoE)
+	- Connascence of Timing (CoT)
+	- Connascence of Values (CoV)
+	- Connascence of Identity (CoI)
 
 
 
