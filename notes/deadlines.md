@@ -1,86 +1,116 @@
 #	CFP Deadlines
 
 
-+ AAAI
++ AAAI, AAAI Conference on Artificial Intelligence
+	- http://www.aaai.org/Conferences/conferences.php
+	- VENUE
+	- CFP Deadline: Early Sep, 2018
+	- IAAI 2019, Innovative Applications of Artificial Intelligence Conference
+		* CFP Deadline: Early Sep, 2018
+		* Same venue as AAAI 2019. 
++ ACL, Annual Meeting of the Association for Computational Linguistics
 	- URL
+	- VENUE
 	- DATE
-+ ACL
-	- URL
-	- DATE
-+ CHI
-	- URL
-	- DATE
++ CHI, ACM CHI Conference on Human Factors in Computing Systems
+	- http://chi2019.acm.org
+	- Glasgow, U.K.
+	- September 14/19, 2018.
 + CVPR
-	- URL
-	- DATE
+	- http://cvpr2019.thecvf.com
+	- Long Beach, CA.
+	- Mid-November, 2018
 + ECCV
 	- URL
+	- VENUE
 	- DATE
 + EMNLP
 	- URL
+	- VENUE
 	- DATE
 + ICCV
 	- URL
+	- VENUE
 	- DATE
 + ICDM
 	- URL
+	- VENUE
 	- DATE
 + ICLR
 	- URL
+	- VENUE
 	- DATE
 + ICML
 	- URL
+	- VENUE
 	- DATE
 + IEEE Info. Theory
 	- URL
+	- VENUE
 	- DATE
 + IJCAI
 	- URL
+	- VENUE
 	- DATE
 + ISWC
 	- URL
+	- VENUE
 	- DATE
 + JMLR
 	- URL
+	- VENUE
 	- DATE
 + KDD
 	- URL
+	- VENUE
 	- DATE
 + KR
 	- URL
+	- VENUE
 	- DATE
 + LICS
 	- URL
+	- VENUE
 	- DATE
 + NAACL
 	- URL
+	- VENUE
 	- DATE
 + NIPS
 	- URL
+	- VENUE
 	- DATE
 + PAMI
 	- URL
+	- VENUE
 	- DATE
 + RecSys
 	- URL
+	- VENUE
 	- DATE
 + SIGGRAPH
 	- URL
+	- VENUE
 	- DATE
 + SIGIR
 	- URL
+	- VENUE
 	- DATE
 + SIGMOD
 	- URL
+	- VENUE
 	- DATE
 + TPAMI
 	- URL
+	- VENUE
 	- DATE
 + WSDM
 	- URL
+	- VENUE
 	- DATE
 + WWW
 	- URL
+	- VENUE
 	- DATE
 
 
