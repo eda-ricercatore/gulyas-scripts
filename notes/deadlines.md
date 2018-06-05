@@ -16,26 +16,26 @@
 	- http://chi2019.acm.org
 	- Glasgow, U.K.
 	- September 14/19, 2018.
-+ CVPR
++ CVPR, Conference on Computer Vision and Pattern Recognition
 	- http://cvpr2019.thecvf.com
 	- Long Beach, CA.
 	- Mid-November, 2018
-+ ECCV
++ ECCV, European Conference on Computer Vision
 	- URL
 	- VENUE
-	- DATE
-+ EMNLP
+	- Mid-March, 2019.
++ EMNLP, Conference on Empirical Methods in Natural Language Processing
 	- URL
 	- VENUE
-	- DATE
-+ ICCV
+	- Late May, 2019.
++ ICCV, International Conference on Computer Vision
 	- URL
 	- VENUE
-	- DATE
-+ ICDM
+	- Early/Mid- March, 2019.
++ ICDM, IEEE International Conference on Data Mining
 	- URL
 	- VENUE
-	- DATE
+	- Early June, 2019.
 + ICLR
 	- URL
 	- VENUE
