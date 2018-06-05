@@ -1,32 +1,87 @@
 #	CFP Deadlines
 
 
-
-
-
-AAAI
-ACL
-CHI
-CVPR
-ECCV
-EMNLP
-ICCV
-ICDM
-ICLR
-ICML
-IJCAI
-ISWC
-JMLR
-KDD
-KR
-LICS
-NAACL
-NIPS
-PAMI
-RecSys
-SIGIR
-WSDM
-WWW 
++ AAAI
+	- URL
+	- DATE
++ ACL
+	- URL
+	- DATE
++ CHI
+	- URL
+	- DATE
++ CVPR
+	- URL
+	- DATE
++ ECCV
+	- URL
+	- DATE
++ EMNLP
+	- URL
+	- DATE
++ ICCV
+	- URL
+	- DATE
++ ICDM
+	- URL
+	- DATE
++ ICLR
+	- URL
+	- DATE
++ ICML
+	- URL
+	- DATE
++ IEEE Info. Theory
+	- URL
+	- DATE
++ IJCAI
+	- URL
+	- DATE
++ ISWC
+	- URL
+	- DATE
++ JMLR
+	- URL
+	- DATE
++ KDD
+	- URL
+	- DATE
++ KR
+	- URL
+	- DATE
++ LICS
+	- URL
+	- DATE
++ NAACL
+	- URL
+	- DATE
++ NIPS
+	- URL
+	- DATE
++ PAMI
+	- URL
+	- DATE
++ RecSys
+	- URL
+	- DATE
++ SIGGRAPH
+	- URL
+	- DATE
++ SIGIR
+	- URL
+	- DATE
++ SIGMOD
+	- URL
+	- DATE
++ TPAMI
+	- URL
+	- DATE
++ WSDM
+	- URL
+	- DATE
++ WWW
+	- URL
+	- DATE
 
 
 
