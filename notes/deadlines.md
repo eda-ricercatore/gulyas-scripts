@@ -236,9 +236,7 @@
 
 
 	
-+ NOCS 2019, IEEE/ACM International Symp. on Networks-on-Chip
-+ PATMOS 2019, International Symposium on Power and Timing Modeling, Optimization and Simulation
-+ SOCC 2019, IEEE International System-on-Chip Conference
+
 
 
 
@@ -292,10 +290,30 @@
 	- Early Mar, 2019
 
 
++ PATMOS 2019, International Symposium on Power and Timing Modeling, Optimization and Simulation
+	- http://www.patmos-conf.org
+	- VENUE
+	- Mid and Late March, 2019.
+
+
++ SOCC 2019, IEEE International System-on-Chip Conference
+	- https://www.ieee-socc.org
+	- VENUE
+	- Early Apr, 2019.
+	
+	
 + DFT 2018, IEEE International Symposium on Defect and Fault Tolerance in VLSI and Nanotechnology Systems
 	- http://www.dfts.org
 	- VENUE
 	- Late April or Early May, 2019.
+
+
++ NOCS 2019, IEEE/ACM International Symposium on Networks-on-Chip
+	- URL
+	- VENUE
+	- Late April or May, 2019.
+
+
 
 + VLSI-SoC 2019, IFIP/IEEE International Conference on Very Large Scale Integration
 	- URL ???
