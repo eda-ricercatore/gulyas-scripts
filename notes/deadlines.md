@@ -117,7 +117,10 @@
 
 
 
-
++ RSP, International Symposium on Rapid System Prototyping
+	- http://conferences.telecom-bretagne.eu/rsp-symposium/cfp/
+	- Torino, Italy
+	- June 11 and 18, 2019.
 
 
 
@@ -151,7 +154,8 @@
 
 
 
-
++ CPS Week
+	+ http://cpsweek.org
 + HSCC 2019, ACM International Conference on Hybrid Systems: Computation and Control
 	- URL ???
 	- VENUE ???
@@ -328,6 +332,28 @@
 	- Late April or Early May, 2019.
 
 
+
+
+
+
+
+
++ ESWEEK, Embedded Systems Week
+	- https://www.esweek.org
++ CASES, International Conference on Compilers, Architectures, and Synthesis for Embedded Systems
+	- URL
+	- VENUE
+	- Late March and Early April, 2019.
++ CODES+ISSS, International Conference on Hardware/Software Codesign and System Synthesis
+	- URL
+	- VENUE
+	- Late March and Early April, 2019.
++ EMSOFT, ACM SIGBED International Conference on Embedded Software
+	- URL
+	- VENUE
+	- Late March and Early April, 2019.
+
+
 + NOCS 2019, IEEE/ACM International Symposium on Networks-on-Chip
 	- URL
 	- VENUE
@@ -359,7 +385,10 @@
 	- Late May or Early June, 2019
 
 
-
++ RSP, International Symposium on Rapid System Prototyping
+	- URL
+	- VENUE
+	- June, 2019.
 
 
 
