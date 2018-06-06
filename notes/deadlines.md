@@ -179,6 +179,12 @@
 
 
 
++ HOST 2019, IEEE International Symposium on Hardware-Oriented Security and Trust
+	- http://www.hostsymposium.org/call-for-paper.php
+	- Washington, D.C.
+	- Oct 15 and 22, 2018.
+
+
 + ISCAS 2019, International Symposium on Circuits and Systems
 	- https://www.iscas2019.org
 	- Sapporo, Hokkaido, Japan.
@@ -196,7 +202,10 @@
 	- Late Oct, 2018.
 
 
-
++ CICC 2018, IEEE Custom Integrated Circuits Conference
+	- http://ieee-cicc.org
+	- VENUE
+	- Late Oct or Early Nov, 2018.
 
 
 
@@ -214,6 +223,49 @@
 
 
 
+
+
+
+	
+
++ ASYNC 2018, IEEE International Symposium on Asynchronous Circuits and Systems
+	- http://asyncsymposium.org/async/Welcome.html
+	- VENUE
+	- Late Nov or Early Dec, 2018.
+	
+
+
+	
++ NOCS 2019, IEEE/ACM International Symp. on Networks-on-Chip
++ PATMOS 2019, International Symposium on Power and Timing Modeling, Optimization and Simulation
++ SOCC 2019, IEEE International System-on-Chip Conference
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
++ GLSVLSI, Great Lakes Symposium on VLSI
+	- http://www.glsvlsi.org
+	- VENUE
+	- December 2018.
+
+
+
+
 + SPAA, ACM Symposium on Parallelism in Algorithms and Architectures
 	- http://spaa.acm.org
 	- VENUE
@@ -221,16 +273,46 @@
 
 
 
++ ITC 2018, International Test Conference
+	- URL
+	- VENUE
+	- Feb or Mar, 2019.
+
+
++ ISVLSI 2019, IEEE Computer Society Annual Symp. on VLSI
+	- http://www.isvlsi.org
+	- VENUE
+	- Early March, 2019.
 
 
 
++ ISLPED 2018, International Symp. on Low Power Electronics and Design
+	- http://www.islped.org/
+	- VENUE
+	- Early Mar, 2019
 
 
++ DFT 2018, IEEE International Symposium on Defect and Fault Tolerance in VLSI and Nanotechnology Systems
+	- http://www.dfts.org
+	- VENUE
+	- Late April or Early May, 2019.
+
++ VLSI-SoC 2019, IFIP/IEEE International Conference on Very Large Scale Integration
+	- URL ???
+	- VENUE ???
+	- May 2019.
 
 
++ HiPEAC 2020, International Conference on High-Performance and Embedded Architectures and Compilers
+	- URL
+	- VENUE
+	- Late May or Early June, 2019
 
 
-
++ ISOCC 2017, International SoC Design Conference
+	- URL
+	- VENUE
+	- ????
 
 
 
