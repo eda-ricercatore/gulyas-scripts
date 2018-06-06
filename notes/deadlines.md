@@ -1,5 +1,6 @@
 #	CFP Deadlines
 
+##	Machine Learning-centric
 
 + AAAI, AAAI Conference on Artificial Intelligence
 	- http://www.aaai.org/Conferences/conferences.php
@@ -105,6 +106,120 @@
 	- https://www2019.thewebconf.org
 	- San Francisco, CA.
 	- Oct 29/Nov 5, 2018
+
+
+
+
+## Hardware-centric
+
+
+
+
+
+
+
+
+
+
++ DATE 2019, Design, Automation & Test in Europe Conference & Exhibition
+	- https://www.date-conference.com/call-for-papers
+	- Florence, Italy
+	- Sep 9, 2018.
++ SAC2019, ACM/SIGAPP Symposium On Applied Computing
+	- https://www.sigapp.org/sac/sac2019/
+	- Limassol, Cyprus
+	- Sep 10, 2018.
+
++ ISQED 2019, International Symposium on Quality Electronic Design
+	- http://www.isqed.org/English/Conference/Call_for_Papers.html
+	- Santa Clara, CA.
+	- Sep 10, 2018. 
+
+ + ISSCC 2019, International Solid-State Circuits Conference
+ 	- http://isscc.org/isscc-call-for-papers/
+ 	- San Francisco, CA.
+ 	- Sep 10, 2018.
+
+
++ MTV17, International Workshop on Microprocessor/SoC Test, Security & Verification
+	- http://mtvcon.org/paper-submission/
+	- VENUE ???
+	- Mid-Sep, 2018.
+
+
+
+
+
+
+
++ HSCC 2019, ACM International Conference on Hybrid Systems: Computation and Control
+	- URL ???
+	- VENUE ???
+	- Late Sep and Early Oct, 2018.
++ ICCPS, ACM/IEEE International Conference on Cyber-Physical Systems
+	- http://iccps.acm.org
+	- VENUE ???
+	- Late Sep and Early Oct, 2018.
++ ISPN, International Conference on Information Processing in Sensor Networks
+	- URL ???
+	- VENUE ???
+	- Late Sep and Early Oct, 2018.
++ RTAS, IEEE Real-Time and Embedded Technology and Applications Symposium
+	- URL ???
+	- VENUE ???
+	- Late Sep and Early Oct, 2018.
+
+
+
++ ISPD 2019, International Symposium on Physical Design
+	- http://www.ispd.cc
+	- VENUE ???
+	- Early Oct, 2018.
+
+
+
+
++ ISCAS 2019, International Symposium on Circuits and Systems
+	- https://www.iscas2019.org
+	- Sapporo, Hokkaido, Japan.
+	- Mid-/Late Oct, 2018.
+
+
++ ARCS 2019, International Conference on Architecture of Computing Systems
+	- URL ???
+	- VENUE ???
+	- Late Oct, 2018.
+
++ VTS 2019, IEEE VLSI Test Symposium
+	- URL ???
+	- VENUE ???
+	- Late Oct, 2018.
+
+
+
+
+
+
++ DAC 2019, Design Automation Conference
+	- URL ???
+	- Las Vegas, NV.
+	- Nov, 2018.
+
++ TACAS 2019, International Conference on Tools and Algorithms for the Construction and Analysis of Systems
+	- https://conf.researchr.org/track/etaps-2019/tacas-2019-papers
+	- Prague, Czech Republic
+	- Nov 7 and Nov 15, 2018
+
+
+
+
+
++ SPAA, ACM Symposium on Parallelism in Algorithms and Architectures
+	- http://spaa.acm.org
+	- VENUE
+	- Early/Mid- Feb, 2019.
+
+
 
 
 
