@@ -134,6 +134,12 @@
 
 
 
++ POPL, ACM SIGPLAN Symposium on Principles of Programming Languages
+	- https://popl19.sigplan.org
+	- https://popl19.sigplan.org/track/POPL-2019-Research-Papers#POPL-2019-Call-for-Papers
+	- http://www.sigplan.org/Conferences/POPL/
+	- Cascais/Lisbon, Portugal
+	- July 11, 2018.
 
 
 
@@ -149,7 +155,7 @@
 + ASPLOS, ACM International Conference on Architectural Support for Programming Languages and Operating Systems
 	- https://asplos-conference.org
 	- Providence, RI
-	-  July 31 and Aug 7, 2018. 
+	- July 31 and Aug 7, 2018. 
 
 
 
@@ -161,7 +167,10 @@
 	- Aug 13 and Aug 20, 2018.
 
 
-
++ CGO, International Symposium on Code Generation and Optimization
+	- http://cgo.org/cgo2019/ ???
+	- VENUE
+	- Early and Mid- Sep, 2018.
 
 
 
@@ -190,6 +199,15 @@
 	- http://mtvcon.org/paper-submission/
 	- VENUE ???
 	- Mid-Sep, 2018.
+
+
+
+
+
+
+
+
+
 
 
 
@@ -260,23 +278,52 @@
 	- Las Vegas, NV.
 	- Nov, 2018.
 
+
++ ISCA, International Symposium on Computer Architecture
+	- http://iscaconf.org/isca2019
+	- Phoenix, AZ.
+	- Nov, 2018.
+
+
 + CC, International Conference on Compiler Construction
 	- URL ???
 	- VENUE ???
 	- Nov, 2018.
 
++ PLDI, Programming Language Design and Implementation
+	- URL
+	- http://www.sigplan.org/Conferences/PLDI/
+	- VENUE
+	- Nov, 2018.
+
+
+
+
++ ETAPS, European Joint Conferences on Theory and Practice of Software
+	+ https://conf.researchr.org/home/etaps-2019
+	- Prague, Czech Republic
+	- Nov 7 and Nov 15, 2018
 + TACAS 2019, International Conference on Tools and Algorithms for the Construction and Analysis of Systems
 	- https://conf.researchr.org/track/etaps-2019/tacas-2019-papers
 	- Prague, Czech Republic
 	- Nov 7 and Nov 15, 2018
 
-
-
-
-
-
-
-
++ ESOP, European Symposium on Programming
+	- https://conf.researchr.org/track/etaps-2019/esop-2019-papers#Call-for-Papers
+	- Prague, Czech Republic
+	- Nov 7 and Nov 15, 2018
++ FASE, International Conference on Fundamental Approaches to Software Engineering
+	- https://conf.researchr.org/track/etaps-2019/fase-2019-papers
+	- Prague, Czech Republic
+	- Nov 7 and Nov 15, 2018
++ FoSSaCS, International Conference on Foundations of Software Science and Computation Structures 
+	- https://conf.researchr.org/track/etaps-2019/fossacs-2019-papers#Call-for-Papers
+	- Prague, Czech Republic
+	- Nov 7 and Nov 15, 2018
++ POST, International Conference on Principles of Security and Trust
+	- https://conf.researchr.org/track/etaps-2019/post-2019-papers
+	- Prague, Czech Republic
+	- Nov 7 and Nov 15, 2018
 
 
 
@@ -329,6 +376,15 @@
 
 
 
+
+
+
++ CF 2019, ACM International Conference on Computing Frontiers
+	+ http://www.computingfrontiers.org/2019/
+	+ Ischia, Italy
+	+ Jan 2019.
+
+
 + CADE 2019, International Conference on Automated Deduction
 	- http://www.cadeinc.org/conferences
 	- http://www.cade-27.info/
@@ -341,10 +397,14 @@
 	- Late Jan and Early Feb, 2019.
 
 
-+ LCTES, SIGBED Conference on Languages, Compilers, and Tools for Embedded Systems
++ LCTES, ACM SIGPLAN/SIGBED Conference on Languages, Compilers, Tools and Theory for Embedded Systems
 	- URL
 	- VENUE
-	- Mid Feb, 2019.
+	- Feb 2019.
+
+
+
+
 
 + SPAA, ACM Symposium on Parallelism in Algorithms and Architectures
 	- http://spaa.acm.org
@@ -353,13 +413,18 @@
 
 
 
-	
+
 
 
 + ITC 2018, International Test Conference
 	- URL
 	- VENUE
 	- Feb or Mar, 2019.
+
++ ISMM, International Symposium on Memory Management
+	- URL
+	- VENUE
+	- Mid- or Late Feb, 2019.
 
 
 + ISVLSI 2019, IEEE Computer Society Annual Symp. on VLSI
@@ -408,10 +473,19 @@
 	- VENUE
 	- Early Apr, 2019.
 
-SPLASH, ACM SIGPLAN conference on Systems, Programming, Languages and Applications: Software for Humanity
++ SPLASH, ACM SIGPLAN conference on Systems, Programming, Languages and Applications: Software for Humanity
 	- https://2019.splashcon.org
 	- VENUE
-	- April 2018.
+	- April 2019.
+
++ OOPSLA, SPLASH 2019 OOPSLA, Object-oriented Programming, Systems, Languages, and Applications
+	- URL
+	- http://oopsla.org/oopsla-history/
+	- http://www.sigplan.org/Conferences/OOPSLA/
+	- VENUE
+	- April 2019.
+
+
 
 
 
