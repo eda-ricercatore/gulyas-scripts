@@ -114,6 +114,11 @@
 
 
 
++ RSP, International Symposium on Rapid System Prototyping
+	- http://conferences.telecom-bretagne.eu/rsp-symposium/cfp/
+	- Torino, Italy
+	- June 11 and 18, 2019.
+
 
 + Scala 2018 series/track
 	- https://conf.researchr.org/track/scala-2018/scala-2018-papers
@@ -128,11 +133,6 @@
 
 
 
-
-+ RSP, International Symposium on Rapid System Prototyping
-	- http://conferences.telecom-bretagne.eu/rsp-symposium/cfp/
-	- Torino, Italy
-	- June 11 and 18, 2019.
 
 
 
