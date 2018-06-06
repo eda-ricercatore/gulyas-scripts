@@ -110,9 +110,21 @@
 
 
 
-## Hardware-centric, Verification, Automated Reasoning
+## Hardware-centric, Verification, Automated Reasoning, & Compiler Design
 
 
+
+
++ Scala 2018 series/track
+	- https://conf.researchr.org/track/scala-2018/scala-2018-papers
+	- St. Louis, MO.
+	- June 13, 2018.
+
++ ICFP, International Conference on Functional Programming
+	- https://icfp18.sigplan.org/dates
+	- http://www.icfpconference.org/contest.html
+	- St. Louis, MO.
+	- June 22, 2018. 
 
 
 
@@ -121,6 +133,36 @@
 	- http://conferences.telecom-bretagne.eu/rsp-symposium/cfp/
 	- Torino, Italy
 	- June 11 and 18, 2019.
+
+
+
+
+
+
+
++ HPCA, IEEE International Symposium on High-Performance Computer Architecture
+	- http://hpca2019.seas.gwu.edu
+	- Washington, D.C.
+	- July 27 and August 3, 2018.
+
+
++ ASPLOS, ACM International Conference on Architectural Support for Programming Languages and Operating Systems
+	- https://asplos-conference.org
+	- Providence, RI
+	-  July 31 and Aug 7, 2018. 
+
+
+
+
+
++ PPoPP, Symposium on Principles and Practice of Parallel Programming
+	- https://ppopp19.sigplan.org/track/PPoPP-2019-papers
+	- Washington, D.C..
+	- Aug 13 and Aug 20, 2018.
+
+
+
+
 
 
 
@@ -218,10 +260,20 @@
 	- Las Vegas, NV.
 	- Nov, 2018.
 
++ CC, International Conference on Compiler Construction
+	- URL ???
+	- VENUE ???
+	- Nov, 2018.
+
 + TACAS 2019, International Conference on Tools and Algorithms for the Construction and Analysis of Systems
 	- https://conf.researchr.org/track/etaps-2019/tacas-2019-papers
 	- Prague, Czech Republic
 	- Nov 7 and Nov 15, 2018
+
+
+
+
+
 
 
 
@@ -288,11 +340,20 @@
 	- VENUE
 	- Late Jan and Early Feb, 2019.
 
+
++ LCTES, SIGBED Conference on Languages, Compilers, and Tools for Embedded Systems
+	- URL
+	- VENUE
+	- Mid Feb, 2019.
+
 + SPAA, ACM Symposium on Parallelism in Algorithms and Architectures
 	- http://spaa.acm.org
 	- VENUE
 	- Early/Mid- Feb, 2019.
 
+
+
+	
 
 
 + ITC 2018, International Test Conference
@@ -336,12 +397,30 @@
 	- Late March and Early April, 2019.
 
 
++ MICRO, IEEE/ACM International Symposium on Microarchitecture
+	- https://www.microarch.org/micro52/
+	- https://www.microarch.org
+	- VENUE
+	- Late March and Early April, 2019.
+
 + SOCC 2019, IEEE International System-on-Chip Conference
 	- https://www.ieee-socc.org
 	- VENUE
 	- Early Apr, 2019.
-	
-	
+
+SPLASH, ACM SIGPLAN conference on Systems, Programming, Languages and Applications: Software for Humanity
+	- https://2019.splashcon.org
+	- VENUE
+	- April 2018.
+
+
+
++ PACT, International Conference on Parallel Architectures and Compilation Techniques
+	- http://www.pactconf.org/index.php
+	- VENUE
+	- Early and Mid- Apr, 2019.
+
+
 + DFT 2018, IEEE International Symposium on Defect and Fault Tolerance in VLSI and Nanotechnology Systems
 	- http://www.dfts.org
 	- VENUE
