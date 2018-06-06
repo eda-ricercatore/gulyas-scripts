@@ -110,7 +110,7 @@
 
 
 
-## Hardware-centric
+## Hardware-centric, Verification,
 
 
 
@@ -264,6 +264,19 @@
 
 
 
+
+
+
+
++ CAV 2018, International Conference on Computer-Aided Verification
+	- http://cavconference.org
+	- VENUE
+	- Jan 2019.
+
+
+
+
+
 + SPAA, ACM Symposium on Parallelism in Algorithms and Architectures
 	- http://spaa.acm.org
 	- VENUE
@@ -321,10 +334,23 @@
 	- May 2019.
 
 
++ FMCAD, International Conference on Formal Methods in Computer-Aided Design
+	- URL ???
+	- VENUE ???
+	- May 2019.
+
+
 + HiPEAC 2020, International Conference on High-Performance and Embedded Architectures and Compilers
 	- URL
 	- VENUE
 	- Late May or Early June, 2019
+
+
++ MEMOCODE'19, ACM-IEEE International Conference on Formal Methods and Models for System Design
+	- URL
+	- VENUE
+	- Late May or Early June, 2019
+
 
 
 + ISOCC 2017, International SoC Design Conference
