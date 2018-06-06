@@ -54,61 +54,58 @@
 	- VENUE
 	- DATE
 + JMLR, Journal of Machine Learning Research
+	- http://www.jmlr.org
++ KDD, SIGKDD Conference on Knowledge Discovery and Data Mining
+	- http://www.kdd.org/conferences
+	- VENUE
+	- Early Feb, 2019.
++ KR, International Conference on Principles of Knowledge Representation and Reasoning
+	- http://www.kr.org
+	- VENUE
+	- Early/Mid- May, 2019.
++ LICS, ACM/IEEE Symposium on Logic in Computer Science (LICS)
+	- URL
+	- VENUE
+	- Late Jan, 2019.
++ NAACL, North American Chapter of the Association for Computational Linguistics
 	- URL
 	- VENUE
 	- DATE
-+ KDD
++ NIPS, Annual Conference on Neural Information Processing Systems (NIPS 2018)
+	- URL
+	- VENUE
+	- Mid-May, 2019.
++ PAMI ???
 	- URL
 	- VENUE
 	- DATE
-+ KR
++ RecSys, ACM Conference on Recommender Systems
 	- URL
 	- VENUE
-	- DATE
-+ LICS
+	- Late April or Early May, 2019.
++ SIGGRAPH, ACM special interest group on Computer GRAPHics and Interactive Techniques
 	- URL
 	- VENUE
-	- DATE
-+ NAACL
+	- Late Jan, 2019
++ SIGIR, ACM SIGIR Conference on Research and Development in Information Retrieval 
 	- URL
 	- VENUE
-	- DATE
-+ NIPS
+	- Late Jan, 2019.
++ SIGMOD, ACM Symposium on Principles of Database Systems (PODS)
+	- SIGMOD/PODS International Conference on Management of Data
 	- URL
 	- VENUE
-	- DATE
-+ PAMI
+	- Early/Mid- July, 2018 (submission cycle #1) and Late Oct or Early Nov, 2018 (submission cycle #2).
++ IEEE Transactions on Pattern Analysis and Machine Intelligence, TPAMI
++ WSDM, ACM International Conference on Web Search and Data Mining
 	- URL
-	- VENUE
-	- DATE
-+ RecSys
-	- URL
-	- VENUE
-	- DATE
-+ SIGGRAPH
-	- URL
-	- VENUE
-	- DATE
-+ SIGIR
-	- URL
-	- VENUE
-	- DATE
-+ SIGMOD
-	- URL
-	- VENUE
-	- DATE
-+ TPAMI
-	- URL
-	- VENUE
-	- DATE
-+ WSDM
-	- URL
-	- VENUE
-	- DATE
-+ WWW
-	- URL
-	- VENUE
-	- DATE
+	- Melbourne, Australia
+	- Early/Mid- Aug, 2018.
++ WWW, The Web Conference 
+	- https://www2019.thewebconf.org
+	- San Francisco, CA.
+	- Oct 29/Nov 5, 2018
+
 
 
 
