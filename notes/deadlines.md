@@ -36,27 +36,24 @@
 	- URL
 	- VENUE
 	- Early June, 2019.
-+ ICLR
++ ICLR, International Conference on Learning Representations
+	- https://iclr.cc
+	- VENUE
+	- Late Oct, 2018.
++ ICML, International Conference on Machine Learning
+	- URL
+	- VENUE
+	- Early Feb, 2019.
++ IEEE Transactions on Information Theory
++ IJCAI, International Joint Conference on Artificial Intelligence
+	- https://ijcai.org
+	- Macao, P.R. China
+	- Late Jan, 2019.
++ ISWC, International Semantic Web Conference
 	- URL
 	- VENUE
 	- DATE
-+ ICML
-	- URL
-	- VENUE
-	- DATE
-+ IEEE Info. Theory
-	- URL
-	- VENUE
-	- DATE
-+ IJCAI
-	- URL
-	- VENUE
-	- DATE
-+ ISWC
-	- URL
-	- VENUE
-	- DATE
-+ JMLR
++ JMLR, Journal of Machine Learning Research
 	- URL
 	- VENUE
 	- DATE
