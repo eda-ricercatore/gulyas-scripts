@@ -110,7 +110,7 @@
 
 
 
-## Hardware-centric, Verification,
+## Hardware-centric, Verification, Automated Reasoning
 
 
 
@@ -254,8 +254,6 @@
 
 
 
-
-
 + GLSVLSI, Great Lakes Symposium on VLSI
 	- http://www.glsvlsi.org
 	- VENUE
@@ -275,7 +273,16 @@
 
 
 
++ CADE 2019, International Conference on Automated Deduction
+	- http://www.cadeinc.org/conferences
+	- http://www.cade-27.info/
+	- Natal, Brasil
+	- Late Jan and Early Feb, 2019.
 
++ TABLEAUX, International Conference on Automated Reasoning with Analytic Tableaux and Related Methods
+	- http://www.tableaux-ar.org/next.html
+	- VENUE
+	- Late Jan and Early Feb, 2019.
 
 + SPAA, ACM Symposium on Parallelism in Algorithms and Architectures
 	- http://spaa.acm.org
@@ -350,6 +357,28 @@
 	- URL
 	- VENUE
 	- Late May or Early June, 2019
+
+
+
+
+
+
+
+
+
+
+
+
+
++ IJCAR 2020, International Joint Conference on Automated Reasoning
+	- http://www.ijcar.org/conferences
+	- VENUE
+	- Late Jan and Early Feb, 2019.
+
+
+
+
+
 
 
 
