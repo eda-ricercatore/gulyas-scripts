@@ -141,7 +141,11 @@
 	- June 29 and July 6, 2018.
 
 
-
++ ASP-DAC, Asia and South Pacific Design Automation Conference
+	- http://www.aspdac.com/aspdac2019/
+	- http://www.aspdac.com/aspdac2019/cfp/
+	- Tokyo, Japan
+	- July 6, 2018.
 
 
 
