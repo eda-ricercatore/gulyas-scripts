@@ -320,6 +320,22 @@
 	- Mid and Late March, 2019.
 
 
++ ESWEEK, Embedded Systems Week
+	- https://www.esweek.org
++ CASES, International Conference on Compilers, Architectures, and Synthesis for Embedded Systems
+	- URL
+	- VENUE
+	- Late March and Early April, 2019.
++ CODES+ISSS, International Conference on Hardware/Software Codesign and System Synthesis
+	- URL
+	- VENUE
+	- Late March and Early April, 2019.
++ EMSOFT, ACM SIGBED International Conference on Embedded Software
+	- URL
+	- VENUE
+	- Late March and Early April, 2019.
+
+
 + SOCC 2019, IEEE International System-on-Chip Conference
 	- https://www.ieee-socc.org
 	- VENUE
@@ -338,20 +354,7 @@
 
 
 
-+ ESWEEK, Embedded Systems Week
-	- https://www.esweek.org
-+ CASES, International Conference on Compilers, Architectures, and Synthesis for Embedded Systems
-	- URL
-	- VENUE
-	- Late March and Early April, 2019.
-+ CODES+ISSS, International Conference on Hardware/Software Codesign and System Synthesis
-	- URL
-	- VENUE
-	- Late March and Early April, 2019.
-+ EMSOFT, ACM SIGBED International Conference on Embedded Software
-	- URL
-	- VENUE
-	- Late March and Early April, 2019.
+
 
 
 + NOCS 2019, IEEE/ACM International Symposium on Networks-on-Chip
