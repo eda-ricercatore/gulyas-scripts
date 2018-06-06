@@ -125,6 +125,16 @@
 	- St. Louis, MO.
 	- June 13, 2018.
 
+
+
++ IEEE Sensors, IEEE Conference on Sensors
+	- http://ieee-sensors2018.org
+	- New Delhi, India.
+	- June 18, 2018.
+
+
+
+
 + ICFP, International Conference on Functional Programming
 	- https://icfp18.sigplan.org/dates
 	- http://www.icfpconference.org/contest.html
@@ -439,6 +449,21 @@
 	- Jan, 2019.
 
 
+
++ Symposia on VLSI Technology and Circuits
+	- http://vlsisymposium.org
+	- Japan.
+	- Jan 2019.
+
+
++ SAT, International Conferences on Theory and Applications of Satisfiability Testing
+	- http://www.satisfiability.org
+	- VENUE.
+	- Jan 2019.
+
+
+
+
 + ICPC, International Conference on Program Comprehension
 	- https://2019.icse-conferences.org/track/icpc-2019/icpc-2019-papers
 	- https://www.program-comprehension.org
@@ -486,7 +511,18 @@
 
 
 
++ NEWCAS, IEEE Northeast Workshop on Circuits and Systems
+	- NEW Circuits and Systems Conference
+	- https://www.newcas2019.org
+	- Munich, Germany
+	- Feb or Mar, 2019.
 
+
++ SAMOS, International Conference on Embedded Computer Systems: Architectures, Modeling, and Simulation
+	- URL
+	- https://samos-conference.com
+	- VENUE
+	- Feb or Mar, 2019.
 
 
 + ITC 2018, International Test Conference
@@ -540,6 +576,17 @@
 	- https://www.microarch.org
 	- VENUE
 	- Late March and Early April, 2019.
+
+
+
++ MWSCAS, IEEE International Midwest Symposium on Circuits and Systems
+	- URL
+	- VENUE
+	- March or April, 2019.
+
+
+
+
 
 + SOCC 2019, IEEE International System-on-Chip Conference
 	- https://www.ieee-socc.org
@@ -610,6 +657,11 @@
 	- VENUE
 	- Late April or May, 2019.
 
+
++ ASAP, IEEE International Conference on Application-specific Systems, Architectures and Processors
+	- URL
+	- VENUE
+	- Late April or May, 2019.
 
 
 + VLSI-SoC 2019, IFIP/IEEE International Conference on Very Large Scale Integration
