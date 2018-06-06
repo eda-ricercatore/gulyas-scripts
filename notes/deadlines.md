@@ -134,6 +134,18 @@
 
 
 
++ SLE, International Conference on Software Language Engineering
+	- http://www.sleconf.org/2018/Dates.html
+	- http://www.sleconf.org/2018/CFP.html
+	- Boston, MA
+	- June 29 and July 6, 2018.
+
+
+
+
+
+
+
 + POPL, ACM SIGPLAN Symposium on Principles of Programming Languages
 	- https://popl19.sigplan.org
 	- https://popl19.sigplan.org/track/POPL-2019-Research-Papers#POPL-2019-Call-for-Papers
@@ -159,12 +171,28 @@
 
 
 
-
++ NDSS, Network and Distributed System Security Symposium
+	- http://www.ndss-symposium.org
+	- San Diego, CA.
+	- Aug, 2018.
 
 + PPoPP, Symposium on Principles and Practice of Parallel Programming
 	- https://ppopp19.sigplan.org/track/PPoPP-2019-papers
 	- Washington, D.C..
 	- Aug 13 and Aug 20, 2018.
+
+
+
+
++ ICSE, ACM/IEEE International Conference on Software Engineering
+	- https://conf.researchr.org/home/icse-2019
+	- https://2019.icse-conferences.org/track/icse-2019-Technical-Papers#Call-for-Papers
+	- Montreal, QC, Canada
+	- August 24, 2018.
+
+
+
+
 
 
 + CGO, International Symposium on Code Generation and Optimization
@@ -336,8 +364,10 @@
 	- VENUE
 	- Late Nov or Early Dec, 2018.
 	
-
-
++ VEE, ACM SIGPLAN/SIGOPS International Conference on Virtual Execution Environments
+	- URL
+	- VENUE
+	- Late Nov or Early Dec, 2018.
 	
 
 
@@ -385,6 +415,39 @@
 	+ Jan 2019.
 
 
++ ICGSE, IEEE/ACM International Conference on Global Software Engineering
+	- https://conf.researchr.org/track/icgse-2019/icgse-2019-papers
+	- Montreal, QC, Canada
+	- Jan 2019.
+
+
+
+
+
++ TechDebt, International Conference on Technical Debt
+	- https://2019.icse-conferences.org/track/TechDebt-2019#About
+	- Montreal, QC, Canada.
+	- Jan 2019.
+
++ SEAMS, International Symposium on Software Engineering for Adaptive and Self-Managing Systems
+	- https://2019.icse-conferences.org/track/seams-2019-papers
+	- Montreal, QC, Canada.
+	- Jan, 2019.
+
+
++ ICPC, International Conference on Program Comprehension
+	- https://2019.icse-conferences.org/track/icpc-2019/icpc-2019-papers
+	- https://www.program-comprehension.org
+	- Montreal, QC, Canada.
+	- Jan and early Feb, 2019.
+
+
+
+
+
+
+
+
 + CADE 2019, International Conference on Automated Deduction
 	- http://www.cadeinc.org/conferences
 	- http://www.cade-27.info/
@@ -395,6 +458,12 @@
 	- http://www.tableaux-ar.org/next.html
 	- VENUE
 	- Late Jan and Early Feb, 2019.
+
++ S&P, IEEE Symposium on Security and Privacy
+	- http://www.ieee-security.org/TC/SP2019/cfpapers.html
+	- San Francisco, CA.
+	- "A rolling deadline occurs on the 1st of each month, at 3:00 PM (UTC-7, i.e., PDT). This deadline is strict and no extensions will be granted."
+	- "All papers accepted by February 1st, 2019, or that are submitted as a revision by February 1st, 2019 and the revision is then accepted, will be included in the proceedings of the symposium in May, 2019 and invited to present their work. Other papers will be included in the 2020 proceedings."
 
 
 + LCTES, ACM SIGPLAN/SIGBED Conference on Languages, Compilers, Tools and Theory for Embedded Systems
@@ -484,6 +553,28 @@
 	- http://www.sigplan.org/Conferences/OOPSLA/
 	- VENUE
 	- April 2019.
+
+
+
++ Static Analysis Symposia
+	- http://staticanalysis.org
+	- VENUE
+	- April 2019.
+
+
+	
++ ASE, IEEE/ACM International Conference on Automated Software Engineering
+	- URL
+	- VENUE
+	- April 2019.
+
+
+
+
+
+
+
+
 
 
 
