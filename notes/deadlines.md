@@ -402,7 +402,7 @@
 + IJCAR 2020, International Joint Conference on Automated Reasoning
 	- http://www.ijcar.org/conferences
 	- VENUE
-	- Late Jan and Early Feb, 2019.
+	- Late Jan and Early Feb, 2020.
 
 
 
