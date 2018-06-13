@@ -722,6 +722,47 @@
 
 
 
+#	Journals to Publish In
+
++ IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)
++ IEEE Transactions on Multi-Scale Computing Systems (TMSCS)
++ IEEE Transactions on Sustainable Computing (T-SUSC)
++ IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I)
++ IEEE Computer Architecture Letters (CAL)
++ IEEE Transactions on Dependable and Secure Computing (TDSC)
++ IEEE Embedded Systems Letters (ESL)
++ IEEE Transactions on Very Large Scale Integration (VLSI) Systems (TVLSI)
++ IEEE Transactions on Computers (TC)
++ **IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)**
++ **IEEE Journal on Exploratory Solid-State Computational Devices and Circuits** (JXCDC), author fee required
++ [**IEEE Journal of Emerging and Selected Topics in Circuits and Systems** (JETCAS)](http://ieee-cas.org/pubs/jetcas/call-papers)
++ **IEEE Transactions on Emerging Topics on Computing** (TETC)
++ Journal of the ACM (JACM)
++ **ACM Journal on Emerging Technologies in Computing Systems (JETC)**
++ ACM Transactions on Architecture and Code Optimization (TACO)
++ ACM Transactions on Cyber-Physical Systems (TCPS)
++ ACM Transactions on Embedded Computing Systems (TECS)
++ ACM Transactions on Computational Logic (TOCL)
++ ACM Transactions on Computer Systems (TOCS)
++ ACM Transactions on Computation Theory (TOCT)
++ **ACM Transactions on Design Automation of Electronic Systems (TODAES)**
++ ACM Transactions on Modeling and Computer Simulation (TOMACS)
++ ACM Transactions on Modeling and Performance Evaluation of Computing Systems (TOMPECS)
++ ACM Transactions on Reconfigurable Technology and Systems (TRETS)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #	Author Information
 
 The MIT License (MIT)
