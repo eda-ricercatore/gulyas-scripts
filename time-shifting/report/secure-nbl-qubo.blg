@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: secure-nbl-qubo.aux
+The style file: plain.bst
+Database file #1: ./references/references.bib
+You've used 3 entries,
+            2118 wiz_defined-function locations,
+            521 strings with 4943 characters,
+and the built_in function-call counts, 894 in all, are:
+= -- 79
+> -- 53
+< -- 1
++ -- 21
+- -- 18
+* -- 61
+:= -- 162
+add.period$ -- 10
+call.type$ -- 3
+change.case$ -- 16
+chr.to.int$ -- 0
+cite$ -- 3
+duplicate$ -- 32
+empty$ -- 68
+format.name$ -- 18
+if$ -- 182
+int.to.chr$ -- 0
+int.to.str$ -- 3
+missing$ -- 4
+newline$ -- 18
+num.names$ -- 6
+pop$ -- 25
+preamble$ -- 1
+purify$ -- 15
+quote$ -- 0
+skip$ -- 20
+stack$ -- 0
+substring$ -- 15
+swap$ -- 5
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 8
+warning$ -- 0
+while$ -- 6
+width$ -- 4
+write$ -- 36
