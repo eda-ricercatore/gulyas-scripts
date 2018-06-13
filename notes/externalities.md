@@ -38,9 +38,9 @@ List of repositories that are affected by the *gulyas-scripts* repository,
 
 Repositories that can be affected are:
 + [sardegna-scala, Scala code base](https://github.com/eda-ricercatore/sardegna-scala)
-+ [scafati-presentazioni, Presentation Slides](https://github.com/eda-globetrotter/scafati-presentazioni)
-+ [Computer Architecture Notes](https://github.com/eda-globetrotter/Treviso-Arch)
-+ [SienaLaTeX, for *LaTeX*](https://github.com/eda-globetrotter/SienaLaTeX)
++ [scafati-presentazioni, Presentation Slides](https://github.com/eda-ricercatore/scafati-presentazioni)
++ [Computer Architecture Notes](https://github.com/eda-ricercatore/Treviso-Arch)
++ [SienaLaTeX, for *LaTeX*](https://github.com/eda-ricercatore/SienaLaTeX)
 	- *LaTeX* templates for:
 		* Articles
 		* Resume and curriculum vitae
