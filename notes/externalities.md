@@ -91,7 +91,7 @@ List of notes:
 	- *R*: [gulyas-scripts](https://github.com/eda-ricercatore/gulyas-scripts)
 	- *Python*: [gulyas-scripts](https://github.com/eda-ricercatore/gulyas-scripts) 
 	- *GNU Octave*: [gulyas-scripts](https://github.com/eda-ricercatore/gulyas-scripts)
-	- *LaTeX*: [SienaLaTeX, for *LaTeX*](https://github.com/eda-globetrotter/SienaLaTeX)
+	- *LaTeX*: [SienaLaTeX, for *LaTeX*](https://github.com/eda-ricercatore/SienaLaTeX)
 	- [Computer languages for drawing graphics, such as *Asymptote*, *MetaPost*, *PGF/Tikz*, & *Graphviz*](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/drawing-graphics.md)
 + Libraries, API, ... that support interoperability between programming/computer languages: [gulyas-scripts](https://github.com/eda-ricercatore/gulyas-scripts)
 + Coding style, and guidelines for commenting:
@@ -136,7 +136,7 @@ Repositories that contain material to help me revise for the
 + [Electrical Circuit Analysis](https://github.com/eda-globetrotter/como-analisi-del-circuito)
 + [Digital VLSI design + Logic Design](https://github.com/eda-globetrotter/puglia-circuiti-digitali)
 + [Computer Architecture](https://github.com/eda-globetrotter/lucca-architettura-del-computer)
-	- Include the material from: [Treviso-Arch, Report about computer architecture](https://github.com/eda-globetrotter/Treviso-Arch) 
+	- Include the material from: [Treviso-Arch, Report about computer architecture](https://github.com/eda-ricercatore/Treviso-Arch) 
 + [Signals and Systems](https://github.com/eda-globetrotter/bergamo-segnali-e-sistemi)
 + [Engineering Electromagnetics](https://github.com/eda-globetrotter/bolzano-elettromagnetismo)
 + [Probability and Statistics](https://github.com/eda-globetrotter/bologna-probabilita-e-statistica)
@@ -176,7 +176,7 @@ Other repositories/projects that Zhiyang Ong is involved, currently
 
 #	Zhiyang Ong's web page
 
-[Zhiyang Ong's web page](https://github.com/eda-ricercatore/eda-globetrotter.github.io)
+[Zhiyang Ong's web page](https://eda-ricercatore.github.io)
 
 
 #	Author Information
