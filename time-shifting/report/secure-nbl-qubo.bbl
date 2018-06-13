@@ -11,15 +11,14 @@ Miguel~F. Anjos and Jean~B. Lasserre.
 Prateek Tandon, Stanley Lam, Ben Shih, Tanay Mehta, Alex Mitev, and Zhiyang
   Ong.
 \newblock {\em Quantum Robotics: A Primer on Current Science and Future
-  Perspectives}.
-\newblock Synthesis Lectures on Quantum Computing. Morgan {\rm \&}\ Claypool
-  Publishers, San Rafael, {CA}, January 2017.
+  Perspectives}, volume~10 of {\em Synthesis Lectures on Quantum Computing}.
+\newblock Morgan {\rm \&}\ Claypool Publishers, San Rafael, {CA}, January 2017.
 
-\bibitem{UniversitiesSpaceResearchAssociationStaff2017}
+\bibitem{UniversitiesSpaceResearchAssociationStaff2015a}
 {Universities Space Research Association staff}.
-\newblock Quantum computing -- rfp.
+\newblock Quantum computing -- {RFP}.
 \newblock Available online from {\it Universities Space Research Association:
-  Quantum Computing at {USRA}} at: \url{http://www.usra.edu/quantum/rfp/};
-  August 21, 2017 was the last accessed date, 2017.
+  Quantum Computing at USRA} at: \url{http://www.usra.edu/quantum/rfp/};
+  September 1, 2017 was the last accessed date, 2015.
 
 \end{thebibliography}

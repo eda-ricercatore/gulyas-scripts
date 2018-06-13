@@ -2,41 +2,53 @@ This is BibTeX, Version 0.99d (TeX Live 2015)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: secure-nbl-qubo.aux
 The style file: plain.bst
-Database file #1: ./references/references.bib
+Database file #1: /Users/zhiyang/Documents/ricerca/lassi-bibtex/references.bib
+Reallocated buffer (elt_size=1) to 40000 items from 20000.
+Reallocated sv_buffer (elt_size=1) to 40000 items from 20000.
+Reallocated ex_buf (elt_size=1) to 40000 items from 20000.
+Reallocated out_buf (elt_size=1) to 40000 items from 20000.
+Reallocated name_tok (elt_size=4) to 40000 items from 20000.
+Reallocated name_sep_char (elt_size=1) to 40000 items from 20000.
+Reallocated buffer (elt_size=1) to 60000 items from 40000.
+Reallocated sv_buffer (elt_size=1) to 60000 items from 40000.
+Reallocated ex_buf (elt_size=1) to 60000 items from 40000.
+Reallocated out_buf (elt_size=1) to 60000 items from 40000.
+Reallocated name_tok (elt_size=4) to 60000 items from 40000.
+Reallocated name_sep_char (elt_size=1) to 60000 items from 40000.
 You've used 3 entries,
             2118 wiz_defined-function locations,
-            521 strings with 4943 characters,
-and the built_in function-call counts, 894 in all, are:
-= -- 79
+            523 strings with 4986 characters,
+and the built_in function-call counts, 900 in all, are:
+= -- 76
 > -- 53
-< -- 1
+< -- 2
 + -- 21
 - -- 18
-* -- 61
-:= -- 162
-add.period$ -- 10
+* -- 67
+:= -- 160
+add.period$ -- 9
 call.type$ -- 3
 change.case$ -- 16
 chr.to.int$ -- 0
 cite$ -- 3
-duplicate$ -- 32
-empty$ -- 68
+duplicate$ -- 33
+empty$ -- 69
 format.name$ -- 18
-if$ -- 182
+if$ -- 181
 int.to.chr$ -- 0
 int.to.str$ -- 3
 missing$ -- 4
 newline$ -- 18
 num.names$ -- 6
-pop$ -- 25
+pop$ -- 26
 preamble$ -- 1
 purify$ -- 15
 quote$ -- 0
 skip$ -- 20
 stack$ -- 0
 substring$ -- 15
-swap$ -- 5
-text.length$ -- 1
+swap$ -- 7
+text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 8
