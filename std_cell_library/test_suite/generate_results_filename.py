@@ -115,7 +115,8 @@ if __name__ == "__main__":
 #	Python database management
 #	Python: date, time, now, string
 #	Add references.
-#	Commit this.
+#	\cite{Hetland2005,Lutz2010,Lutz2011,Sileika2010,Younker2008}.
+#	\cite[Chp. 17,25]{Beazley2009}
 
 
 

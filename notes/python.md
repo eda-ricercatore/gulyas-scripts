@@ -2927,7 +2927,7 @@ Some *SQL* database engines, such as *SQLite*, do not require being run as a
 See \cite{Molinaro2006} for further information about *SQL* database management
 	and administration.
 
-
+\cite{Beazley2009}
 
 
 
