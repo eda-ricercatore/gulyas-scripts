@@ -3039,7 +3039,7 @@ To compare the content of two strings, try:
 
 To compare the identities of two strings, try:
 
-		string1 is string2
+	string1 is string2
 
 [Reference for string comparison](https://stackoverflow.com/questions/1504717/why-does-comparing-strings-in-python-using-either-or-is-sometimes-produce)
 
