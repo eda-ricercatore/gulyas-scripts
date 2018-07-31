@@ -1,0 +1,535 @@
+%	This is written by Zhiyang Ong to indicate guidelines that members of open source software and/or hardware projects shall follow.
+
+%	The MIT License (MIT)
+
+%	Copyright (c) <2014> <Zhiyang Ong>
+
+%	Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+%	The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+%	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+%	Email address: echo "cukj -wb- 23wU4X5M589 TROJANS cqkH wiuz2y 0f Mw Stanford" | awk '{ sub("23wU4X5M589","F.d_c_b. ") sub("Stanford","d0mA1n"); print $5, $2, $8; for (i=1; i<=1; i++) print "6\b"; print $9, $7, $6 }' | sed y/kqcbuHwM62z/gnotrzadqmC/ | tr 'q' ' ' | tr -d [:cntrl:] | tr -d 'ir' | tr y "\n"
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%	Preamble.
+\documentclass[letter,12pt]{article}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%	Importing LaTeX source files, without quoting the ".tex" extension.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%	File containing the LaTeX preamble.
+\input{./others/preamble_section}
+
+
+
+
+
+% definition of new \LaTeX command for the citation: \cite{Cimatti08} and \cite{Barrett09}
+% This allows mathematical/logic symbols to be typeset with the font ``Zapf Chancery'' in ``\LaTeX\ math mode''. To typeset symbols in such font, try: \mathpzc{ABCdef123}
+\DeclareMathAlphabet{\mathpzc}{OT1}{pzc}{m}{it}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Start of document
+\begin{document}
+\title{Guidelines for Collaboration}
+\date{\today}
+\author{Zhiyang Ong \thanks{Email correspondence to: \href{mailto:ongz@acm.org}{\Email\ ongz@acm.org}}}
+\maketitle
+
+
+\begin{abstract} 
+This is a set of guidelines for conduct while collaborating on open source projects. It also includes guidelines for creating a shared {\sc Bib}\TeX\ database.
+\end{abstract}
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{Revision History}
+\label{sec:RevisionHistory}
+
+Revision history: \vspace{-0.3cm}
+\begin{enumerate} \itemsep -4pt
+\item Version 1, October 2, 2014. Initial version of the guideline (for another project).
+\item Version 1.1, December 23, 2014. Version ported for this boilerplate code project.
+\item Version 2, October 20, 2015. Added guidelines for {\tt Doxygen}-supported, {\tt Javadoc}-based coding standard. This coding standard is also known as coding style, coding style guide, coding guideline, coding scheme, code convention, code documentation guideline, programming guideline, or programming style.
+\item Version 2.1, October 21, 2015. Finished guidelines for {\tt Doxygen}-supported, {\tt Javadoc}-based coding standard for {\it C++}.
+\item Version 2.2, June 4, 2016. Finished section for additional guidelines: to include documentation using {\it Markdown}, and tools for software development, integrated circuit and cyber-physical system design, and documentation.
+\item Version 3, November 3, 2016. Added guidelines for: documenting {\tt GNU Octave} and {\sc Matlab} code, in order to facilitate documentation generation using {\it Texinfo} \cite{WikipediaContributors2016h,Stallman2016,Stallman2016a,Stallman2016b}; sharing of source code, design files, sets of benchmarks, data sets, and documentation on online repositories \cite{figshareLLPstaff2016,GitHubStaff2016}; and added section on exception safety.
+\item Version 3.1, November 4, 2016. Fixed references for indent style conventions.
+\item Version 3.2, December 20, 2016. Update guidelines for conduct.
+\item Version 3.3, February 3, 2017. Update information about usage of {\it GitHub}'s services.
+\item Version 3.4, March 11, 2017. Update information on naming convention.
+\item Version 3.5, October 9, 2017. Update guidelines on commenting/writing code.
+\item Version 3.6, December 24, 2017. Fix grammatical error in a sentence.
+\item Version 3.7, January 25, 2018. Added suggestions for software architecture of my computer programs.
+\item Version 3.8, January 31, 2018. Added information about coding style guideline for different computer languages, and also about online repositories that facilitate research reproducibility, replicability, and repeatability.
+\item Version 3.9, February 1, 2018. Added information about developing software in a {\it Python}ic style.
+\item Version 4.0, June 8, 2018. Added information about specifying (co-)authors' full name, and research reproducibility, and other best practices from software development, and embedded/cyber-physical system and integrated circuit design.
+\end{enumerate}
+
+
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Guidelines for Conduct}
+\label{sec:GuidelinesforConduct}
+
+Members of the open source software and/or hardware projects should follow the {\it Code of Conduct} of the {\it Institute of Electrical and Electronics Engineers (IEEE)} \cite{IEEE2014b,IEEE2014a,IEEE2014} and the {\it Association for Computing Machinery (ACM)} \cite{ACMCouncil1992}. Also, actions of discrimination are not acceptable \cite{IEEE2014c}; we should intentionally commit to inclusive diversity. An additional guideline is ``Dave Packard's 11 simple rules'' \cite{HewlettPackardCompany2012}. \\
+
+%There are a significant amount of references for helping people to learn \LaTeX \cite{Voss2011,vanDongen2012,Syropoulos2003,Raymond2004,Mittelbach2004,Lamport1994,Krishnan2003,Krantz2001,Kottwitz2011,Koranne2011,Kopka2004,Knuth1999,Hoenig1998,Higham1998,Haralambous2007,Griffiths1997,Gratzer2007,Goossens2007,Goossens1999,Goossens1997,Diller1999,Bindner2011,Berry2009,UITCambridge2011,Scharrer2011,Pakin2008,Cormen2010,Syropoulos2004,Hamalainen2006} and related information/technologies.
+
+In addition, when there is a dispute about which technology, algorithm, design paradigm/style/pattern, process, or methodology to use, follow the ``Code Wins Arguments'' philosophy \cite{Kushner2011,Zuckerberg2012}. Also, when considerable effort has been invested in an automated regression testing/verification infrastructure, do not be afraid to ``move fast and break things'' \cite{Fong2011,Evangelista2012}. \\
+
+Lastly, we should adopt a mission-focused and value-based approach to participate in meetings and discussions for the project(s). We should be flexible/liberal enough to consider and explore viable alternate approaches to do things and solve problems. Where disputes occur, a data-driven, fact-based approach based on the ``Code Wins Arguments'' philosophy should be used to resolve conflicts.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Guidelines for Creating a Shared {\sc Bib}\TeX\ Database}
+\label{sec:GuidelinesforCreatingaSharedBibTeXDatabase}
+
+Guidelines for creating {\sc Bib}\TeX\ entries and the {\sc Bib}\TeX\ database, which is used for writing the paper, are given as follows: \vspace{-0.3cm}
+\begin{enumerate} \itemsep -4pt
+\item Each {\sc Bib}\TeX\ key should be unique: \vspace{-0.3cm}
+	\begin{enumerate} \itemsep -2pt
+	\item Check if your desired {\sc Bib}\TeX\ key already exists in the {\sc Bib}\TeX\ database.
+	\item Use the following format for creating {\sc Bib}\TeX\ keys: [first] author's last name, appended by the year of publication. E.g., my first conference paper would have the {\sc Bib}\TeX\ key Ong2014. If the year of publication is not known, use an approximate year, with XY for the last 2 digits in the year (e.g., 20XY). Alternatively, if you cannot determine if it was published this millennium or the previous millennium, use UNKNOWN. For example, use Smith20XY, or KleinbergUNKNOWN.
+	\item Remove duplicate entries in the {\sc Bib}\TeX\ database. {\bf WARNING! Before doing this, perform a union operation on the fields of the {\sc Bib}\TeX\ entries. For example, if a {\sc Bib}\TeX\ entry has information that the other {\sc Bib}\TeX\ entry does not have, and vice versa, merge the information to a {\sc Bib}\TeX\ entry.}
+	\item {\bf Rationale: Duplicate {\sc Bib}\TeX\ entries will cause problems in typesetting.}
+	\item Regarding hash collision of {\sc Bib}\TeX\ keys, such as multiple instances of Gratz2014, distinguish them by appending a letter to them. E.g., use Gratz2014a, Gratz2014b, Gratz2014c, and so on. If we run out of letters, append it with ``a'' followed by a number. The use of the letter ``a'' separates the year from the instance of {\sc Bib}\TeX\ key. That is, Gratz2014a2 tells me that it is the $29^{th}$ instance of Gratz2014, as opposed to Gratz201429.
+	\item If possible, restrict the characters of each {\sc Bib}\TeX\ key to be alphanumeric. The year is always numeric, and is appended to the (first) author's last name. \vspace{-0.2cm}
+		\begin{enumerate} \itemsep -2pt
+		\item If the (first) author's last name has characters with accents, trim the characters used to typeset the accents from the (first) author's last name, and append the year of publication to it. E.g., {\it S{\v{o}}m{\'{e}}nz{\d{i}}} (year 2000) becomes {\it Somenzi2000}.
+		\item If the (first) author's last name has characters that are not letters in English, anglicize those characters. We should avoid using the transliteration for a given non-English language, since such transliteration may not be standardized (for non-commonly spoken/used languages). Also, supporting letters from other languages is a tedious task. Hence, we can use the anglicized version of their last names instead.
+		\end{enumerate}
+	\end{enumerate}
+\item If possible, use the full name for each author. When writing research publications, if we need to reduce the authors' first name to just their initial, we can use a script to transform their names. If we need to use their full names in the reference list and if we do not include their full names, we have to look up these references again in the future to include their full names.
+\item For terms that should be typeset as is, place them in between braces (i.e., curly brackets). That is, put curly braces around acronyms and mixed-case names. \vspace{-0.3cm}
+	\begin{enumerate} \itemsep -2pt
+	\item For example, terms in upper or mixed cases (upper and lower cases), such as names (e.g., McMullen) and acronyms (e.g., SIGDA), place them in between braces (i.e., \{McMullen\} and \{SIGDA\}). This prevents the titles (or another {\sc Bib}\TeX\ field) from changing the term into lower case, with exception for the first term/word. E.g., ``ICCAD Update: A Report from SIGDA'' may typeset into ``ICCAD Update: A report from sigda''.
+	\end{enumerate}
+\item For special symbols that are typeset with \LaTeX\ in the {\tt math mode}, such as $\alpha$, place them in between a pair of dollar signs (i.e., \$$\backslash$alpha\$).
+\item For each {\sc Bib}\TeX\ entry, check if all required fields are complete. See pages 8 and 9 in \S3.1 of \cite{Patashnik1988} for a list of {\sc Bib}\TeX\ entry types; alternatively, refer to the {\it Wikipedia} entry for , or \cite[\S12.2.1, pp. 230--231]{Kopka2004}. In this/these list(s), the required fields are listed for each {\sc Bib}\TeX\ entry.
+\item For the {\tt pages} field, ensure that all page ranges are indicated with double hyphens. E.g., ``page = \{11-\--34\},''. This makes the page range looks more pretty.
+\item For the {\tt pages} field, ensure that multiple pages and/or page ranges are separated by commas. E.g., ``page = \{11-34, 57, 88, 109-\--187\},''.
+\item For books and journal articles that have an associated digital object identifier (DOI) \cite{InternationalDOIFoundationStaff2017}, ensure that the {\tt doi} field is included in the {\sc Bib}\TeX\ entry with the DOI of the publication. This makes it easier for people to access the web page for the book or journal/conference paper.
+\item Stylistic validation of the references can be carried out as follows: \vspace{-0.3cm}
+	\begin{enumerate} \itemsep -2pt
+	\item Include all {\sc Bib}\TeX\ keys in one citation in your \LaTeX\ document.
+	\item Typeset the \LaTeX\ document.
+	\item Check that the font and style of the reference list is correct.
+	\item If there are errors, correct the errors as appropriate.
+	\item Finally, the {\sc Bib}\TeX\ database should be correct.
+	\end{enumerate}
+\item Information that I would include when citing common sources of information, such as {\it Wikipedia}, using the Harvard Referencing Style: \vspace{-0.3cm}
+	\begin{enumerate} \itemsep -2pt
+	\item Wikipedia contributors, ``TITLE\_OF\_THE\_ARTICLE,'' in \{$\backslash$it Wikipedia, The Free Encyclopedia: CATEGORY\}, Wikimedia Foundation, San Francisco, CA, MONTH DATE, YEAR. Available online at: $\backslash$url\{URL\}; last accessed on August 26, 2014.
+	\item Wikibooks contributors, ``CHAPTER\_NAME,'' in \{$\backslash$it TITLE\_OF\_THE\_BOOK\}, Wikibooks: Open books for an open world, Wikimedia Foundation, San Francisco, CA, MONTH DATE, YEAR. Available online at: $\backslash$url\{URL\}; last accessed on August 26, 2014.
+	\item Wikibooks contributors, ``TITLE\_OF\_THE\_BOOK,'' Wikibooks: Open books for an open world, Wikimedia Foundation, San Francisco, CA, MONTH DATE, YEAR. Available online at: $\backslash$url\{URL\}; last accessed on August 26, 2014.
+	\item Wiktionary contributors, ``TITLE,'' Wiktionary, Wikimedia Foundation, San Francisco, CA, MONTH DATE, YEAR. Available online at: $\backslash$url\{URL\}; last accessed on August 26, 2014.
+	\item Dictionary.com, ``WORD,'' IAC, Oakland, CA, MONTH DATE, YEAR. Available online at: $\backslash$url\{URL\}; last accessed on August 26, 2014.
+	\item AUTHOR, ``TITLE,'' in \{$\backslash$it The New York Times: The Opinion Pages: Op-Ed Contributor\}, The New York Times Company, New York, NY, MONTH DATE, YEAR. Available online at: $\backslash$url\{URL\}; last accessed on August 26, 2014.
+	\item When {\sc Bib}\TeX\ entries are created for the aforementioned sources of information, populate the appropriate fields so that each information in the aforementioned sources are included in the {\sc Bib}\TeX\ entries.
+	\end{enumerate}
+\item Refer to the file ``bibtex-template.txt'' for templates for selected {\sc Bib}\TeX\ entry types. The more information that you can put in, the easier you can protect yourself from accusations of plagiarism and to make it easier for people (including yourself) to find the reference again. This is especially true for web-based references/resources.
+\end{enumerate}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Recommended Fields for {\sc Bib}\TeX\ Entries}
+\label{sec:RecommendedFieldsforBibTeXEntries}
+
+
+The recommended fields for {\sc Bib}\TeX\ entries are: \vspace{-0.3cm}
+\begin{enumerate} \itemsep -4pt
+\item techreport: \vspace{-0.3cm}
+	\begin{enumerate} \itemsep -2pt
+	\item Address
+	\item Author
+	\item Howpublished
+	\item Institution
+	\item Keywords
+	\item Month
+	\item Number
+	\item Title
+	\item Url
+	\item Year
+	\end{enumerate}
+\item proceedings: \vspace{-0.3cm}
+	\begin{enumerate} \itemsep -2pt
+	\item Address
+	\item DOI
+	\item Editor
+	\item Keywords
+	\item Month
+	\item Organization
+	\item Publisher
+	\item Series
+	\item Title
+	\item Volume
+	\item Year
+	\end{enumerate}
+\item manual: \vspace{-0.3cm}
+	\begin{enumerate} \itemsep -2pt
+	\item Address
+	\item Author
+	\item Howpublished
+	\item Keywords
+	\item Month
+	\item Organization
+	\item Title
+	\item Url
+	\item Year
+	\end{enumerate}
+\item incollection: \vspace{-0.3cm}
+	\begin{enumerate} \itemsep -2pt
+	\item Address
+	\item Author
+	\item Booktitle
+	\item Chapter
+	\item DOI
+	\item Edition
+	\item Howpublished
+	\item Keywords
+	\item Pages
+	\item Publisher
+	\item Series
+	\item Title
+	\item Url
+	\item Volume
+	\item Year
+	\end{enumerate}
+\item inproceedings: \vspace{-0.3cm}
+	\begin{enumerate} \itemsep -2pt
+	\item Address
+	\item Author
+	\item Booktitle
+	\item DOI
+	\item Keywords
+	\item Month
+	\item Organization
+	\item Pages
+	\item Publisher
+	\item Series
+	\item Title
+	\item Volume
+	\item Year
+	\end{enumerate}
+\item article: \vspace{-0.3cm}
+	\begin{enumerate} \itemsep -2pt
+	\item Address
+	\item Author
+	\item DOI
+	\item Journal
+	\item Keywords
+	\item Month
+	\item Number
+	\item Pages
+	\item Publisher
+	\item Title
+	\item Volume
+	\item Year
+	\end{enumerate}
+\item phdthesis (or mastersthesis): \vspace{-0.3cm}
+	\begin{enumerate} \itemsep -2pt
+	\item Address
+	\item Author
+	\item Howpublished
+	\item Keywords
+	\item Month
+	\item Number
+	\item School
+	\item Title
+	\item Url
+	\item Year
+	\end{enumerate}
+\item misc: \vspace{-0.3cm}
+	\begin{enumerate} \itemsep -2pt
+	\item Address
+	\item Author
+	\item Howpublished
+	\item Keywords
+	\item Month
+	\item Publisher or School
+	\item Title
+	\item Url
+	\item Year
+	\end{enumerate}
+\item book: \vspace{-0.3cm}
+	\begin{enumerate} \itemsep -2pt
+	\item Address
+	\item Author
+	\item DOI
+	\item Edition
+	\item Keywords
+	\item Month
+	\item Pages
+	\item Publisher
+	\item Series
+	\item Title
+	\item Volume
+	\item Year
+	\end{enumerate}
+\end{enumerate}
+
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Coding Standard}
+\label{sec:CodingStandard}
+
+This is a guideline for {\tt Doxygen}-supported \cite{vanHeesch2016}, {\tt Javadoc}-based \cite{Long1995} coding standard that shall be used for this boilerplate code project. The term ``coding standard'' is used interchangeably/synonymously with coding style, coding style guide, coding guideline, coding scheme, code convention, code documentation guideline, programming guideline, or programming style. My coding style/standard shall be self-documenting. The documentation generator that shall be supported is: {\tt Doxygen}. Since I am using {\tt Doxygen} for generating documentation, I can use \LaTeX\ to provide richer markup. \\
+
+{\bf Document the known bugs for each function/method.} \\
+
+%	My indent style would be the {\it 1TBS} variant of the {\it K{\rm \&}R} style \cite{WikipediaContributors2016j}, which is an abbreviation of ``{\it The One True Brace Style}'' \cite{WikipediaContributors2016j}. It is also equivalent to the {\it Kernel Normal Form style} (or {\it BSD KNF style}) \cite{WikipediaContributors2016j}. \\
+My indent style would be the {\it 1TBS} variant of the {\it K{\rm \&}R} style, which is an abbreviation of ``{\it The One True Brace Style}''. It is also equivalent to the {\it Kernel Normal Form style} (or {\it BSD KNF style}) \cite{WikipediaContributors2016j}. \\
+
+Classes, functions/methods, constants, macros, and static and instance variables shall be named using complete words or well-known abbreviations that are concatenated with an underscore in {\it C++}; this is a deviation from the {\it Hungarian notation} that uses an upper case letter to distinguish words/abbreviations in the name (i.e., the Start case style of writing; see letter case). That is, the naming convention followed is using multiple-word identifiers, via delimiter-separated words rather than letter-case separated words (e.g., Hungarian notation) \cite{WikipediaContributors2017}. \\
+
+For {\it C++} programs, the following tags shall be used in the comments: \vspace{-0.3cm}
+\begin{enumerate} \itemsep -4pt
+\item @author {\it Author's\_Name}: indicate the author ({\it Author's\_Name}) of the file/function
+\item @version {\it X.Y}: indicate the version ({\it X.Y}) of the file
+\item @section {\it SECTION\_NAME}: indicate the section ({\it SECTION\_NAME}) of the file, which can be: {\it LICENSE} or {\it DESCRIPTION}
+\item @param {\it x}: indicate the parameter ({\it x}) of the constructor or function
+\item @exception {\it Exception\_Name}, or @throws {\it Exception\_Name}: an exception that a function/method can throw
+\item @return {\it Return\_Statement}: indicate the return (type and) action of the function
+\item @see {\it reference}: a link to another element in the documentation; e.g., @see {\it Class\_Name}, or @see {\it Class\_Name\#member\_function\_name}
+\item @since {\it X.Y: Month-Day-Year}: This functionality has been added since version {\it X.Y} (and on the date {\it Month-Day-Year})
+\item @deprecated {\it description}: Describe an outdated function/method, and indicate when the function/method has deprecated
+\item ``@link {\it ... URL...} @endlink'' is used to include hyperlinks in the generated documentation for Doxygen
+\item \#\#\#\# IMPORTANT NOTES: Notes that are critical for helping the reader understanding assumptions and decisions made while developing the software
+\item @todo($<$message$>$, $<$version$>$) (or \#\#\#\# TO BE COMPLETED): Task to be finished at a later time
+\item \#\#\#\# TO BE FIXED: Task to be debugged at a later time
+\item @migration($<$message$>$, $<$version$>$): Code is being migrated to another function/method, or class.
+\item See \url{http://www.stack.nl/~dimitri/doxygen/commands.html} for more information of tags that are recognized by {\tt Doxygen}.
+\item @pre (or @precondition): Precondition(s) of the function.
+\item @assert (or @assertion): Assertion(s) of the function.
+\item @post (or @postcondition): Postcondition(s) of the function.
+\end{enumerate}
+
+The order of tags in different sections of the {\it C++} code is given as follows: \vspace{-0.3cm}
+\begin{enumerate} \itemsep -4pt
+\item Headers/Interfaces and Classes: @version, @author, @since, @link, @todo, @deprecated, @migration, and @see
+\item Constructors: @param, @throws, @since, @link, @todo, @deprecated, @migration, and @see. For collaborators modifying or extending my code, they should include the @version and @author tags before the @param tag(s).
+\item Functions/Methods: @param, @pre, @assert, @post, @return, @throws, @since, @link, @todo, @deprecated, @migration, and @see. For collaborators modifying or extending my code, they should include the @version and @author tags before the @param tag(s).
+\item Variables can use the @see tags.
+\item The @deprecated tag can be used for headers/interfaces, classes, constructors, functions/methods, and variables.
+\end{enumerate}
+
+Additional coding style guidelines can be found in \cite{Basalaj2013,ProgrammingResearchLtdStaff2013,Thereska20XY,Hoff2008a,ScienceInfusionSoftwareEngineeringProcessGroupStaff2006,Cargill1992,Misfeldt2004}. \\
+
+For a suggested coding style for {\it Python} and {\it Ruby} scripts, see \cite{vanRossum2013} and \cite{Macdonald20XY}, respectively. Regarding coding style guidelines for embedded {\it C}, see \cite{Barr2013,Labrosse1999}. In addition, there exists coding style guidelines for {\it Java} \cite{OracleCorporationStaff20XYa,Smith2003,OracleCorporationStaff2016b,OracleCorporationStaff2016,OracleCorporationStaff20XY,Long1995,Carrano2012} and {\it LabVIEW} \cite{Blume2007a,Conway2003}. Coding style guidelines for {\it Verilog} can be found at: \cite{Bening2001,Bening2000}. Likewise, the coding style guide for {\it SystemVerilog} can be found at \cite{Mintz2007}. For other coding style guidelines, see \cite{Wolf20XY,Cady2017,IntelCorporationStaff2015,Schneider2013a,Weatherwax2008,Laplante2012,McConnell2004,Feathers2005,Koopman2010,Valvano2007,Fingeroff2010,Shore2008,Schach2007,Kernighan1982}. \\
+
+%	See Section \S\ref{sssec:edasoftwaredevelopment} of my personal notes.
+% code conventions, code documentation guidelines, coding guidelines, coding scheme, coding standards, coding style guide, coding styles, programming guidelines, and programming style
+%	For my BibTeX database, use: coding scheme, coding standards, coding styles, coding guidelines, and programming style
+
+
+
+While well-documented source code is desired, natural language programming \cite{WikipediaContributors2016i} is usually infeasible due to the choices of programming/computer languages used. Also, while literate programming \cite{Knuth1984,Knuth1992a,McConnell2004,Subramaniam2006,Schach2007,Oram2007,MullerHannemann2010}
+ is encouraged, I am currently not following it due to the tedious process of developing software using literate programming. Hence, a short development time for well-commented, functionally correct, and efficient source code is prioritized over code written according to the literate programming approach.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Exception Safety}
+\label{sec:ExceptionSafety}
+
+When developing software using programming/scripting languages that enable exceptions or errors to be thrown and caught, adopt "a set of contractual guidelines" \cite{WikipediaContributors2016f} to support exception/error management. This ``set of contractual guidelines'' is based on exception safety guarantees in {\it C++} \cite{Abrahams1998,Abrahams2001,WikipediaContributors2016f} \cite[Subsection \S4.4 on ``Writing exception safe code'']{WikibooksContributors2016}. \\
+
+%\cite{Abrahams1998,Abrahams2001,WikibooksContributors2016,WikipediaContributors2016f}
+
+The levels of exception/error safety listed in descending order of safety guarantees are \cite{Abrahams1998,Abrahams2001,WikibooksContributors2016,WikipediaContributors2016f}: \vspace{-0.3cm}
+\begin{enumerate} \itemsep -4pt
+\item no throw guarantee, or failure transparency: ``Best level of exception safety.''
+\item strong exception safety, commit/rollback semantics, or no-change guarantee
+\item basic exception safety
+\item minimal exception safety, no-leak guarantee
+\item no exception safety: ``No guarantees are made. (Worst level of exception safety)''
+\end{enumerate}
+
+These aforementioned levels of exception/error safety can be partially handled. Also, the use of guards is strongly recommended for making the software and library (or, circuit or system) exception safe. \\
+
+Please judiciously consider what to do with the semipredicate problem \cite{WikipediaContributors2016e}.
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Suggested Software Architecture}
+\label{sec:SuggestedSoftwareArchitecture}
+
+At the software system level, the software architecture can be described by the following modules/components: \vspace{-0.3cm}
+\begin{enumerate} \itemsep -4pt
+\item utilities: \vspace{-0.3cm}
+	\begin{enumerate} \itemsep -2pt
+	\item parser(s): \vspace{-0.2cm}
+		\begin{enumerate} \itemsep -2pt
+		\item For input benchmarks
+		\end{enumerate}
+	\item output generator(s)
+	\item flag/switch -based printing information to standard output/error: \vspace{-0.2cm}
+		\begin{enumerate} \itemsep -2pt
+		\item Print statements only when debugging mode is on.
+		\item Else, squelch print/trace statements to speed up computation/performance.
+		\end{enumerate}
+	\end{enumerate}
+\item solvers: \vspace{-0.3cm}
+	\begin{enumerate} \itemsep -2pt
+	\item ODE solver(s) for ordinary differential equations (ODEs): \vspace{-0.2cm}
+		\begin{enumerate} \itemsep -2pt
+		\item ODE solver(s) for nonlinear ODEs.
+		\end{enumerate}
+	\item PDE solver(s) for partial differential equations (PDEs): \vspace{-0.2cm}
+		\begin{enumerate} \itemsep -2pt
+		\item PDE solver(s) for nonlinear PDEs.
+		\end{enumerate}
+	\item satisfiability modulo theories (SMT) solver(s)
+	\item boolean/proposition satisfiability (SAT) solver(s)
+	\item maximum satisfiability modulo theories (Max-SMT) solver(s)
+	\item maximum satisfiability (Max-SAT) solver(s)
+	\item pseudo-boolean optimization (PBO) solver(s)
+	\item quadratic unconstrained binary optimization (QUBO) solver(s)
+	\item weighted boolean optimization (WBO) solver(s)
+	\item framework for algorithmic portfolio optimization
+	\end{enumerate}
+\item data structures: \vspace{-0.3cm}
+	\begin{enumerate} \itemsep -2pt
+	\item directed graphs: \vspace{-0.2cm}
+		\begin{enumerate} \itemsep -2pt
+		\item directed acyclic graphs (DAGs)
+		\item binary decision diagrams (BDDs)
+		\item AND-inverter graphs (AIGs)
+		\end{enumerate}
+	\item undirected graphs: \vspace{-0.2cm}
+		\begin{enumerate} \itemsep -2pt
+		\item heaps
+		\item trees
+		\end{enumerate}
+	\item maps, dictionaries, and hash tables
+	\end{enumerate}
+\item graphical user interface (GUI), if required.
+\end{enumerate}
+
+
+
+
+Lastly, suggestions are not available for digital and mixed-signal integrated circuits (ICs) and VLSI systems, such as system-on-chips (SoCs). More work needs to be done in terms of looking at hardware refactoring, and hardware design patterns.
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Adoption of Best Practices}
+\label{sec:AdoptionOfBestPractices}
+
+
+%	References for ``reproducible workflow'' are also references for ``research reproducibility'' and ``reproducible research.''
+%	version control system, revision control, revision control system, configuration management, software configuration management...
+%	References for version/revision control with the design process of ICs, cyber-physical systems, and embedded systems: \cite{Chen2012,Stringham2010,Andrews2005,Pottie2005,Singh2004}
+Where possible, we shall try to adopt multiple best practices from leading product teams (i.e., R\&D teams) in the semiconductor and IT industries, and also good researchers spanning electrical engineering and computer science. These practices include: research reproducibility and reproducible research \cite{Schiermeier2018,Baumer2017,CodeOceanstaff2017,DatopianAtomaticLtdIncStaff2017,Kim2017,Mailund2017,Barba2016,Gandrud2015,Liberman2015,Creswell2014,Gandrud2014,Stodden2014,RunMyCodeAssociationMembers2013,Blackburn20XY,Geier20XY,Krishnamurthi20XY}, build automation \cite{Hagelberg2017,Suereth2016,Keiter2013a,Collier2012,Crookshanks2012,Humble2011,Schach2011,Fingeroff2010,Riesbeck2009a,Schach2007,Raymond2004,Schach2002,Oram1991,Driscoll20XY}, distributed version/revision control (or software configuration management) \cite{Cady2017,Olson2016,Paarsch2016,Chacon2014,GitHubContributors2014,GitHubContributors2014a,GitHubTeam2014,GitHubTrainingTeam2014,GitHubTrainingTeam2014a,GitHubTrainingTeam2014b,GitHubTrainingTeam2014c,Hamano2014,Fox2013,Wiegers2013,Collier2012,Crookshanks2012,Driscoll2012,Humble2011,Savage2011,Swicegood2010,Chacon2009,OSullivan2009,Shore2008,Albing2007,Masters2007,Oram2007,Schach2007,Raymond2004,Pressman2001,Capretz1996,McConnell1996}, regression testing \cite{Vucevic2012,Pugh2011,Schach2011,Agans2006,Schach2002}, automated software testing \cite{Cady2017,Pajankar2017b,Rother2017,Mili2015,Sale2014,Coverity2012,Humble2011,Pugh2011,Rady2011,Schach2011,Turnquist2011,Laakmann2009,Whittaker2009,Zeller2009,Jalote2008,Dasso2007,Sommerville2007,Ong2006,Subramaniam2006,Mosley2002,Schach2002,Bentley2000,Stevens2000,Fewster1999,Kernighan1999}, and automated regression testing \cite{Rierson2013,Pugh2011}. \\
+
+
+
+%	Agile Manifesto, agile methodologies, agile methods, agile development
+In addition, try to use agile (software development and VLSI design) methodologies \cite{Cady2017,Rothman2017,AltSimmons2016,Ghani2016,Jeffries2015,Jensen2015,Kelly2015,Olsen2015,Stellman2015,Babar2014,Goncalves2014,Laplante2014,Fox2013,Ambler2012,Collier2012,Crookshanks2012,Valacich2012,Appelo2011,Corr2011,Larsen2011a,Leffingwell2011,Meinel2011,Pugh2011,Eckstein2010,Larman2010,Pressman2010,Rasmusson2010,Rothman2009,Stober2010,Davies2009,Larman2009,Martin2009a,DeLucia2008,Kelly2008,Shore2008,Younker2008,Cockburn2007,Martin2007,Rothman2007,Schach2007,37signals2006,Derby2006,Hunt2006a,Subramaniam2006,Beck2005,Coplien2005,Larman2005,Boehm2004,Larman2004,Ambler2003,Larman2003,Martin2002,Beedle2001,Beedle2001a} to develop software, and design circuits, electronic designs, and cyber-physical systems (or embedded systems).
+
+
+
+
+
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Additional Guidelines}
+\label{sec:AdditionalGuidelines}
+
+Please kindly use the {\it Markdown} language for writing text documents. This is because Bitbucket will treat my text file as a file written in the {\it Markdown} syntax. That said, the raw file looks a lot better than the represented {\it Markdown} files. Their ({\tt Bitbucket}) formatting for {\it Markdown} is messed up. {\it GitHub}'s formatting for {\it Markdown} works as expected. \\
+
+In addition, tools for working with source code and \LaTeX\ source files include: \vspace{-0.3cm}
+\begin{enumerate} \itemsep -4pt
+\item {\tt git}: \cite{Driscoll2012}
+\item {\tt latexdiff}: ``determine and markup differences between two latex files'' \vspace{-0.3cm}
+	\begin{enumerate} \itemsep -2pt
+	\item Evan Driscoll, ``Latexdiff notes,'' from {\it Evan Driscoll's web page: Writings on Software: \LaTeX}, the Department of Computer Sciences, University of Wisconsin-Madison College of Engineering, University of Wisconsin-Madison, Madison, WI. Available online at: \url{http://pages.cs.wisc.edu/~driscoll/software/latex/latexdiff.html}; last accessed on February 15, 2016 \cite{Driscoll20XYb}.
+	\end{enumerate}
+\item documentation generators: \vspace{-0.3cm}
+	\begin{enumerate} \itemsep -2pt
+	\item {\tt Doxygen} \cite{vanHeesch2016}
+	\item {\tt Texinfo}-based generators \cite{WikipediaContributors2016h,Stallman2016,Stallman2016a,Stallman2016b}
+	\end{enumerate}
+\item Build automation: \vspace{-0.3cm}
+	\begin{enumerate} \itemsep -2pt
+	\item {\tt SCons} \cite{Driscoll20XY}
+	\end{enumerate}
+\end{enumerate}
+
+
+Data sets and sets of benchmarks for experiments shall be publicly published using an online repository, via {\it figshare LLP} \cite{figshareLLPstaff2016} and/or {\it DataHub} \cite{DatopianAtomaticLtdIncStaff2017}. For each data set, or each set of benchmarks, create a unique Digital Object Identifier (DOI) \cite{InternationalDOIFoundationStaff2017} to identify it. \\
+
+Repositories for software as well as designs of integrated circuits and cyber-physical systems shall be stored online, using online repositories such as {\it GitHub} \cite{GitHubStaff2016}. Each repository shall have a unique DOI to identify it, and include all source code, documentation, and design files. There also exists cloud-based repositories for the source code of software/hardware projects that allow me to execute my software (or simulate my hardware). E.g., see \cite{CodeOceanstaff2017,RunMyCodeAssociationMembers2013} as examples to facilitate research reproducibility, replicability, and repeatability. This supports research reproducibility and reproducible research \cite{Schiermeier2018,Baumer2017,CodeOceanstaff2017,DatopianAtomaticLtdIncStaff2017,Kim2017,Mailund2017,Barba2016,Gandrud2015,Liberman2015,Creswell2014,Gandrud2014,Stodden2014,RunMyCodeAssociationMembers2013,Blackburn20XY,Geier20XY,Krishnamurthi20XY}. \\
+
+Please kindly note that {\it GitHub} \cite{GitHubStaff2016}: \vspace{-0.3cm}
+\begin{enumerate} \itemsep -4pt
+\item Does not allow a {\it GitHub}-based page to be refreshed/reloaded many times in a few seconds. Else, it would report the following: x\vspace{-0.3cm}
+	\begin{enumerate} \itemsep -2pt
+	\item ``Whoa there!''
+	\item ``You have triggered an abuse detection mechanism.''
+	\item ``Please wait a few minutes before you try again.''
+	\end{enumerate}
+\end{enumerate}
+
+
+
+If possible, develop software in a {\it Python}ic style \cite[Chapter 1, pp. 1--12,12--17]{Alchin2010} \cite{Jon2014,Reitz2016a,Reitz2016,Preshing2014,Franca2014,vanRossum2013}.
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%	End of document
+%
+%	Inserting references
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%	Beginning of BACK MATTER: bibliography, indexes and colophon
+%\backmatter
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+{\linespread{1}
+\bibliographystyle{plain}
+%\bibliography{/Users/zhiyang/Documents/ricerca/antipastobibtex/references}
+\bibliography{/Users/zhiyang/Documents/ricerca/lassi-bibtex/references}
+}
+%\bibliography{/data/research/antipastobibtex/references}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{document}
