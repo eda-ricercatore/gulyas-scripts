@@ -65,7 +65,7 @@ Comparing *Python* 3.x to *Python* 2.y, the former has significant
 		differences in printing information (to standard output)
 		\cite{vanRossum2017}.
 	This can cause compatibility problems between different versions
-		of *Python* in a given *Python* software. 
+		of *Python* in a given *Python* software.
 
 Definitions of classes between *Python 3.x* and *Python 2.y* are different
 	\cite[Chapter 4, pp. 103]{Alchin2010}.
@@ -147,7 +147,7 @@ They should not include dashes. Else, an interpreting/compiling error
 
 Tasks that I can do:
 + Create and define a class, and use static methods in the class
-	(within the same script). 
+	(within the same script).
 + Use static methods of a class, from another *Python* script.
 + Create, define, and use my own *Python* modules, from any *Python*
 	script.
@@ -194,7 +194,7 @@ Notes about *Python* modules:
 Pages in \cite{Ziade2008} that deal with
 	importing *Python* classes and modules (Not helpful):
 + Naming, (pp. 91--116)
-	- Application of naming to (pp. 92): 
+	- Application of naming to (pp. 92):
 		* Variables: constants and public/private variables
 		* Functions and methods
 		* Properties
@@ -256,7 +256,7 @@ Importing *Python* submodules \cite[Chapter 11, pp. 253-254]{Hall2009b}:
 	\cite[Chapter 11, pp. 253]{Hall2009b}.
 	- **from pirate import \*** does not allow all submodules of **pirate** to be
 		imported.
-+ Implicitly 
++ Implicitly
 	-  Using **\_all\_** as the list variable, which is comparable to using an
 		import statement with the wildcard **\***.
 		* Enables the use of import statements such as
@@ -300,14 +300,14 @@ The **import** statements of a *Python* source file can execute code in a librar
 
 A **weakly internal** variable is a variable with a leading underscore,
 	**_[variable name]**, that is explicitly imported
-	\cite[Chapter 11, pp. 246]{Hall2009b}. 
+	\cite[Chapter 11, pp. 246]{Hall2009b}.
 
 
 
 While literate programming
 	\cite{Knuth1984,Knuth1992a,McConnell2004,Subramaniam2006,Schach2007,Oram2007,MullerHannemann2010}
 	is recommended, self-documenting code would suffice
-	\cite[Chapter 11, pp. 246-247]{Hall2009b}. 
+	\cite[Chapter 11, pp. 246-247]{Hall2009b}.
 
 If the functionality of an imported module is changed/modified and updated, use
 	the *imp* module from *The Python Standard Library*
@@ -338,7 +338,7 @@ When a *Python* script imports a module, it \cite[Chapter 11, pp. 250]{Hall2009b
 	- Subsequently loadings of the module do not redfine the variables, functions,
 		and classes in the module;
 		hence, loading of a[/any] module is not performed multiple times, and
-			the module is not executed \cite[Chapter 10, pp. 204]{Hetland2005}. 
+			the module is not executed \cite[Chapter 10, pp. 204]{Hetland2005}.
 	- This "import-only-once behavior" avoids cyclical imports that result in
 		"endless loops of imports" \cite[Chapter 10, pp. 204]{Hetland2005};
 		see circular dependencies in \cite[Chapter 11, pp. 241]{Hall2009b}.
@@ -422,17 +422,17 @@ Notes on *Python* Classes:
 		names inside each of its method;
 		hence, for each method, references to attributes and other methods in
 			the class must be qualified through **self**
-		\cite[Chapter 7, section on "Scoping Rules," pp. 118]{Beazley2009}. 
+		\cite[Chapter 7, section on "Scoping Rules," pp. 118]{Beazley2009}.
 + "An instance of the class represents the data for the object"
 	\cite[Chapter 4, pp. 103]{Alchin2010} \cite[Chapter 9, pp. 183]{Hall2009b}.
-	- A class definition "is a factory for creating instances" of the class 
+	- A class definition "is a factory for creating instances" of the class
 		\cite[Chapter 7, section on "Object Memory Management," pp. 128]{Beazley2009}.
 	- Encapsulation enables the treatment of an object as a black box
 		\cite[Chapter 9, pp. 183]{Hall2009b} to hide its internal state (or details)
 		"from the outside world" \cite[Chapter 7, pp. 139,157]{Hetland2005}.
 		* This is similar to polymorphism, because encapsulation and
 			polymorphism are concepts/principles of abstraction;
-			however, polymorphism can exist without encapsulation 
+			however, polymorphism can exist without encapsulation
 			\cite[Chapter 7, pp. 143]{Hetland2005}.
 		* Encapsulation enables the usage of objects without knowing the
 			details of how these objects are constructed
@@ -446,7 +446,7 @@ Notes on *Python* Classes:
 			instance attributes/variables from local variables
 			\cite[Chapter 7, section on "Scoping Rules," pp. 119]{Beazley2009}.
 	- **dir(*[instance object]*)** shows a list of attributes and methods
-		supported by the ***[instance object]*** within its namespace 
+		supported by the ***[instance object]*** within its namespace
 		\cite[Chapter 9, pp. 184]{Hall2009b}.
 	- Each instance object is associated with an unique identity (number), which
 		can be obtained with **id(*[instance object]*)**.
@@ -464,10 +464,10 @@ Notes on *Python* Classes:
 	- Note that in \cite[Chapter 7, pp. 145; Chapter 9, pp. ???]{Hetland2005},
 		properties are distinguished from attributes.
 	- An attribute is private to objects of a class
-		\cite[Chapter 7, pp. 145]{Hetland2005}. 
+		\cite[Chapter 7, pp. 145]{Hetland2005}.
 + Difference instances of a class has different sets of data, but have the same
 	behavior that is determined by the class definition;
-	this behavior can be defined, extended, or altered 
+	this behavior can be defined, extended, or altered
 	\cite[Chapter 4, pp. 103]{Alchin2010}.
 + Inheritance allows a derived/child class to have a different fundamental
 	behavior from its base/parent class \cite[Chapter 4, pp. 103]{Alchin2010}
@@ -484,14 +484,14 @@ Notes on *Python* Classes:
 			redefined by a derived/child class;
 		if a base/parent class has not defined the **\_\_init\_\_()** method,
 			just call the **\_\_init\_\_()** method without any arguments
-		\cite[Chapter 7, section on "Inheritance," pp. 120]{Beazley2009}. 
+		\cite[Chapter 7, section on "Inheritance," pp. 120]{Beazley2009}.
 	- Duck typing enables developers to modify and manipulate objects, which
 		are related via class inheritance, while ensuring type safety
 		\cite{WikipediaContributors2018a}.
 	- Polymorphism allows operators to be overloaded with *special methods*
 		\cite{DrakeJr2016a} (which are known as "magic methods" in
 		\cite{Hall2009b}) \cite[Chapter 9, pp. 184]{Hall2009b}.
-	- Polymorphism enables type/class -dependent functions to be performed 
+	- Polymorphism enables type/class -dependent functions to be performed
 		on an object \cite[Chapter 7, pp. 140]{Hetland2005}.
 		* That is, polymorphism not only allows objects of child classes
 			(subclasses, or derived classes) to inherit functions from parent
@@ -539,20 +539,20 @@ Notes on *Python* Classes:
 		in the class statement."
 		\cite[Chapter 7, section on "Inheritance," pp. 119,121]{Beazley2009}.
 	- E.g., **class Grandchild-name(Parent-1-name, Parent-2-name, relative-3-name, relative-4-name, relative-5-name):**
-		\cite[Chapter 7, section on "Inheritance," pp. 119,121]{Beazley2009}. 
+		\cite[Chapter 7, section on "Inheritance," pp. 119,121]{Beazley2009}.
 	- A child class can have multiple parent classes
 		\cite[Chapters 7, pp. 155]{Hetland2005}.
 	- The order of superclasses in the class statement determines which class
 		methods will override the methods of the other class(es);
 		methods of the earlier classes will override the methods of the later
-			classes \cite[Chapters 7, pp. 155]{Hetland2005}. 
+			classes \cite[Chapters 7, pp. 155]{Hetland2005}.
 	- Multiple inheritance enables mixins, or support classes, to provide minor
-		add-on features that can be used by a variety of classes. 
+		add-on features that can be used by a variety of classes.
 		\cite[Chapter 4, pp. 105]{Alchin2010}
 		\cite[Chapter 7, section on "Inheritance," pp. 122]{Beazley2009}.
 		* **Compare mixins with traits.**
 		* "[A mixin does] not provide full functionality on [its] own."
-		* The minor add-on features are "mixed in" with the other classes 
+		* The minor add-on features are "mixed in" with the other classes
 			\cite[Chapter 7, section on "Inheritance," pp. 122]{Beazley2009}.
 	- If possible, avoid multiple inheritance
 		\cite[Chapter 7, section on "Inheritance," pp. 122]{Beazley2009}.
@@ -580,7 +580,7 @@ Notes on *Python* Classes:
 	- A plugin extends a base class by using Python's extension features, such
 		as the built-in subclass syntax and the support "for common plugin
 		needs", so that it can complement the functionality of the base class
-		\cite[Chapter 4, pp. 123]{Alchin2010}. 
+		\cite[Chapter 4, pp. 123]{Alchin2010}.
 	- An example of support "for common plugin needs" would be input
 		validation \cite[Chapter 4, pp. 123]{Alchin2010}:
 	- The plugin, or plugin system, should be well documented, in terms of its
@@ -611,7 +611,7 @@ Notes on *Python* Classes:
 	\cite[Chapter 4, pp. 127]{Alchin2010}.
 + A descriptor of an assigned class allows an object definition to behave just
 	like the properties of the assigned class \cite[Chapter 4, pp. 129]{Alchin2010}
-	\cite[Chapter 7, section on "Descriptors," pp. 126]{Beazley2009}. 
+	\cite[Chapter 7, section on "Descriptors," pp. 126]{Beazley2009}.
 	- Since a descriptor cannot use the namespace dictionary of the instance
 		object, the descriptor has to use a dictionary to access instance objects
 		\cite[Chapter 4, pp. 131]{Alchin2010}.
@@ -706,7 +706,7 @@ Notes on *Python* Classes:
 		 \cite[Chapter 4, pp. 136]{Alchin2010}:
 		* Use **\_\_new\_\_()** to instantiate/create an object of a *Python*
 		 	class \cite[Chapter 4, pp. 137]{Alchin2010}.
-		 	\cite[Chapter 7, section on "Object Memory Management," pp. 129]{Beazley2009} 
+		 	\cite[Chapter 7, section on "Object Memory Management," pp. 129]{Beazley2009}
 		* Use **\_\_init\_\_()** to initialize an object of a *Python* class to
 			implement behavior (i.e., perform functions and operations) that is
 		 	specific/unique to that *Python* instance object;
@@ -810,7 +810,7 @@ Notes on *Python* Classes:
 		methods would not be "imported with starred imports"
 		(**from [module] import \***) \cite[Chapter 7, pp. 146]{Hetland2005}
 		\cite[Chapter 7, section on "Data Encapsulation and Private Attributes," pp. 128]{Beazley2009}.
-	- \cite[\S8.6.3, pp. 389]{Langtangen2009} suggests using "\_\_" (i.e., 
+	- \cite[\S8.6.3, pp. 389]{Langtangen2009} suggests using "\_\_" (i.e.,
 		two/double underscores) for pseudo-"private" attributes and "\_" (single
 		underscore) for pseudo-"protected" attributes.
 	- *Python* does not have access specifiers;
@@ -824,7 +824,7 @@ Notes on *Python* Classes:
 		\cite[Chapter 7, pp. 155-156]{Hetland2005}.
 	- The methods **hasattr()** and **getattr()** can be used to determine if
 		a given object has certain methods or attributes
-		\cite[Chapter 7, pp. 156]{Hetland2005}. 
+		\cite[Chapter 7, pp. 156]{Hetland2005}.
 	- Use the **\_\_dict\_\_** attribute to examine all the attributes of a *Python*
 		object and their associated values \cite[Chapter 7, pp. 156]{Hetland2005}.
 		* The local **\_\_dict\_\_** attribute manages all modifications to an
@@ -910,7 +910,7 @@ Protocols masked by *Python* syntactic sugar
 		* See the table at the bottom of \cite[Chapter 5, pp. 151]{Alchin2010}
 			and the top of \cite[Chapter 5, pp. 152]{Alchin2010} for alternate
 			ways to place custom objects (e.g., on the right-hand side, and
-			in-line via in-place operators) 
+			in-line via in-place operators)
 + Additional Operations with Numbers
 	- Use the **\_\_index\_\_()** method to use an instance object as an index
 		in a sequence (e.g., list) \cite[Chapter 5, pp. 152]{Alchin2010}.
@@ -936,7 +936,7 @@ Protocols masked by *Python* syntactic sugar
 		* **<=**, or **\_\_lte\_\_()**
 		* **>=**, or **\_\_gte\_\_()**
 		* Default method for comparison **\_\_cmp\_\_()** compares **self**
-			with **other** \cite[Chapter 5, pp. 155]{Alchin2010} 
+			with **other** \cite[Chapter 5, pp. 155]{Alchin2010}
 + Iterables \cite[Chapter 5, pp. 155]{Alchin2010}:
 	- To determine if an object is iterable, use the built-in **iter()** function (or
 		rather, **\_\_iter\_\_()**) to obtain an iterator;
@@ -956,7 +956,7 @@ Protocols masked by *Python* syntactic sugar
 			\cite[Chapter 5, pp. 156]{Alchin2010}.
 	- If the **\_\_iter\_\_()** method is not implemented, the **\_\_getitem\_\_()**
 		method is used to access the element at the current position of the
-		iterator \cite[Chapter 5, pp. 157]{Alchin2010}. 
+		iterator \cite[Chapter 5, pp. 157]{Alchin2010}.
 + *Python* supports sequences, such as lists, tuples, sets, and strings
 	\cite[Chapter 5, pp. 159]{Alchin2010}:
 	- Each type of these sequences \cite[Chapter 5, pp. 159]{Alchin2010}:
@@ -1024,7 +1024,7 @@ Additional information about object-oriented programming:
 	- Type conversion by coercion is not supported in *Python 2.6* or *Python 3*
 		for mixed-type arithmetic
 		\cite[Chapter 7, section on "Operator Overloading," pp. 134]{Beazley2009}.
-+ asbtract base classes \cite[Chapter 7, section on "Abstract Base Classes," pp. 136-138]{Beazley2009}, 
++ asbtract base classes \cite[Chapter 7, section on "Abstract Base Classes," pp. 136-138]{Beazley2009},
 	which cannot "be instantiated directly";
 	similarly, abstract derived classes cannot "be instantiated directly"
 	\cite[Chapter 7, section on "Abstract Base Classes," pp. 137]{Beazley2009}
@@ -1070,10 +1070,10 @@ When an instance object access a method like an attribute, it would return a
 		"has a value" and I would have to supply the remaining/additional
 		arguments using the **()** operator;
 	a **property** (function) executes in the background to create this bound
-		method 
+		method
 	\cite[Chapter 7, section on "Properties," pp. 125]{Beazley2009}.
-	
-	 
+
+
 
 
 
@@ -1162,7 +1162,7 @@ Other information about classes:
 + An object is an instance of a class; a class can have many instances of objects
 	\cite[Chapter 7, pp. 147]{Hetland2005}.
 	- A subclass can be defined by: defining more methods; overriding existing
-		methods; and having more attributes \cite[Chapter 7, pp. 146]{Hetland2005}. 
+		methods; and having more attributes \cite[Chapter 7, pp. 146]{Hetland2005}.
 + In *Python*, an object is a combination of the following
 	\cite[Chapter 6, pp. 169]{Alchin2010}:
 	- identity, which is its unique address in memory; it is constant in its lifetime;
@@ -1261,7 +1261,7 @@ Other information about classes:
 
 Pages in \cite{Hetland2005} that deal with importing
 	*Python* classes and modules:
-+ Modules and The Standard Library, pp. 203--254 (Chapter 10) 
++ Modules and The Standard Library, pp. 203--254 (Chapter 10)
 + Summaries: pp. 547--570 (Appendices A-B)
 + Online resources: pp. 571--573 (Appendix C)
 
@@ -1279,7 +1279,7 @@ Notes on *Python* functions:
 	\cite[Chapter 6, section on "Parameter Passing and Return Values," pp. 96]{Beazley2009}.
 	- By default, *Python* functions return *None* \cite[Chapter 1, pp. 15]{Alchin2010}.
 + Return multiple values from a function by placing them in a tuple, which is
-	returned to the function caller 
+	returned to the function caller
 	\cite[Chapter 6, section on "Parameter Passing and Return Values," pp. 96]{Beazley2009}.
 + No *Python* function is given special privileges over other *Python* functions
 	\cite[Chapter 3, pp. 53]{Alchin2010}.
@@ -1335,7 +1335,7 @@ Notes on *Python* functions:
 		consecutive asterisks to place **additional/extra keyword arguments**
 		in a dictionary, which is passed to the function so that the function can
 		"accept a large number of potentially open-ended configuration options
-		that would be too unwieldy to list as parameters" 
+		that would be too unwieldy to list as parameters"
 		\cite[Chapter 6, section on "Functions," pp. 95]{Beazley2009}.
 		* E.g., **def function\_name(param1, param2, \*\*param-last)**.
 		* To use variable-length argument lists with additional/extra keyword
@@ -1396,7 +1396,7 @@ Notes on *Python* functions:
 + Types of *Python* functions \cite[Chapter 3]{Alchin2010}:
 	- decorators
 	- function annotations \cite[Chapter 3, pp. 78]{Alchin2010}.
-		* Attach an expression to each input argument and the return value. 
+		* Attach an expression to each input argument and the return value.
 	- generators
 		* A generator has the "flexibility of a function and the performance of
 			an iterator";
@@ -1406,7 +1406,7 @@ Notes on *Python* functions:
 	- lambdas
 		* Has a return value in the body of a lambda, and omits any explicit
 			return statement;
-			only allows a single expression \cite[Chapter 3, pp. 97]{Alchin2010}. 
+			only allows a single expression \cite[Chapter 3, pp. 97]{Alchin2010}.
 	- introspection
 		* Any access/examination of information at run-time, such as
 			\cite[Chapter 3, pp. 97]{Alchin2010}:
@@ -1423,7 +1423,7 @@ Notes on *Python* functions:
 		before/after the execution of the returned function
 		\cite[Chapter 3, pp. 68]{Alchin2010}.
 	- Use decorators to avoid boilerplate code and simplify the functions
-		\cite[Chapter 3, pp. 77]{Alchin2010}. 
+		\cite[Chapter 3, pp. 77]{Alchin2010}.
 	- Applications of decorators \cite[Chapter 3, pp. 67-68]{Alchin2010}:
 		* access control
 		* cleanup of temporary objects
@@ -1533,7 +1533,7 @@ Notes on *Python* functions:
 		* outer_function(*param_1*)(*param_2*)
 		* The following pair of statements:
 			+ temp_function = outer_function(*param_1*)
-			+ temp_function(*param_2*) 
+			+ temp_function(*param_2*)
 + *Python* supports "functional programming" via the
 	following functions \cite[Chapter 6, pp. 133]{Hetland2005}:  
 	- **map** \cite[Chapter 6, pp. 133-134]{Hetland2005}:
@@ -1590,7 +1590,7 @@ Notes on *Python* functions:
 			\cite[Chapter 6, section on "Declarative Programming," pp. 112]{Beazley2009};
 			+ Syntax: ***lambda args : expression***
 				\cite[Chapter 6, section on "Declarative Programming," pp. 112]{Beazley2009}:
-				- "***args*** is a comma-separated list of arguments" 
+				- "***args*** is a comma-separated list of arguments"
 				- ***expression*** is a valid combination of arguments in
 					***args***;
 					i.e. a valid expression of arguments in ***args***;
@@ -1624,7 +1624,7 @@ A **coroutine** is a function "that processes a sequence of inputs," rather than
 	\cite[Chapter 6, section on "Coroutines and yield Expressions," pp. 104]{Beazley2009}.
 	- To avoid errors attributed to missing this initial **next()** function call,
 		wrap the **coroutine** with a decorator
-		\cite[Chapter 6, section on "Coroutines and yield Expressions," pp. 104]{Beazley2009}. 
+		\cite[Chapter 6, section on "Coroutines and yield Expressions," pp. 104]{Beazley2009}.
 + To operate on the next (set of) input in the sequence, it uses the **yield**
 	statement \cite[Chapter 1, section on "Coroutines," pp. 20]{Beazley2009}.
 + To send the next (set of) input in the sequence for processing by the
@@ -1659,7 +1659,7 @@ Use generators and coroutines together in the following applications, where ther
 + dataflow processing
 	\cite[Chapter 6, section on "Using Generators and Coroutines," pp. 107]{Beazley2009}:
 	- Organize programs "like inverted pipelines"
-	- "Send values into a collection of linked coroutines" 
+	- "Send values into a collection of linked coroutines"
 + concurrent computing
 	\cite[Chapter 6, section on "Using Generators and Coroutines," pp. 108]{Beazley2009}:
 
@@ -1684,7 +1684,7 @@ Notes about using recursive functions to carry out recursion:
 	\cite[Chapter 6, section on "Recursion," pp. 112]{Beazley2009}.
 + Unlike some (other) functional programming languages, "*Python* does not
 	[carry out] tail-recursion optimization"
-	\cite[Chapter 6, section on "Recursion," pp. 112]{Beazley2009}. 
+	\cite[Chapter 6, section on "Recursion," pp. 112]{Beazley2009}.
 + Avoid using recursion with:
 	- decorators
 		\cite[Chapter 6, section on "Functions as Objects and Closures," pp. 101]{Beazley2009}
@@ -1717,7 +1717,7 @@ Functional programming features of *Python* include
 	- When mutable variables are avoided, or forbidden, scoping rules enable
 		developers to differentiate between global and local variables.
 	- Use the **global** statement (e.g., **global *[variable-name]***) to allow
-		local modifications of the global variable ***[variable-name]*** 
+		local modifications of the global variable ***[variable-name]***
 		\cite[Chapter 6, section on "Scoping Rules," pp. 96]{Beazley2009}.
 	- We can use **global** statement anywhere in a function body, and
 		repeatedly use such statements
@@ -1727,7 +1727,7 @@ Functional programming features of *Python* include
 		\cite[Chapter 6, section on "Scoping Rules," pp. 97]{Beazley2009};
 		for functions nested more than two levels deep, such as nested
 			functions embedded in nested functions, be careful of trying to
-			access/modify local variables defined in the outermost function. 
+			access/modify local variables defined in the outermost function.
 		**nonlocal** declarations use dynamic scoping (or dynamic scope), and
 			"don't bind name[s] to local variables defined inside arbitrary
 			functions further down on the current call-stack"
@@ -1780,12 +1780,12 @@ Functional programming features of *Python* include
 			+ Use the decorator (function) **wraps(*[function-name]*)** in the
 				**functools** module to automatically copy the documentation
 				string
-				\cite[Chapter 6, section on "Documentation Strings," pp. 114]{Beazley2009} 
+				\cite[Chapter 6, section on "Documentation Strings," pp. 114]{Beazley2009}
 		* function attributes
 			+ A dictionary stores the (arbitrary) attributes of a function
 				\cite[Chapter 6, section on "Function Attributes," pp. 114]{Beazley2009}.
 			+ The dictionary is available as the **\_\_dict\_\_** attribute of the
-				function 
+				function
 				\cite[Chapter 6, section on "Function Attributes," pp. 114]{Beazley2009}.
 			+ These function attributes provide "parser generators and
 				application frameworks" "additional information to function
@@ -1812,12 +1812,12 @@ Operations in declarative programming tend to include operations such as
 
 Miscellaneous notes on declarative programming:
 + The origin of [the features **list comprehensions** and **generator expressions**] is loosely derived from ideas in mathematical set theory
-	\cite[Chapter 6, section on "Declarative Programming," pp. 110]{Beazley2009}. 
+	\cite[Chapter 6, section on "Declarative Programming," pp. 110]{Beazley2009}.
 + Organize programs as a series of operations performed on all of the data
 	concurrently, as opposed to procedural programs that iterate over data
 	\cite[Chapter 6, section on "Declarative Programming," pp. 110]{Beazley2009}.
 	- \cite[Chapter 6, section on "Declarative Programming," pp. 110-111]{Beazley2009}
-		has a **good example about performing data processing on text file**. 
+		has a **good example about performing data processing on text file**.
 
 
 
@@ -1846,7 +1846,7 @@ Use a **list comprehension** to perform a conditional operation iteratively on
 	a collection of elements
 	\cite[Chapter 6, section on "List Comprehensions," pp. 109]{Beazley2009}.
 + When using tuples with **list comprehensions**, ensure that parentheses
-	(or round brackets) are used to represent those tuples 
+	(or round brackets) are used to represent those tuples
 	\cite[Chapter 6, section on "List Comprehensions," pp. 109]{Beazley2009}.
 + Use square brackets for **list comprehensions**
 	\cite[Chapter 6, section on "Generator Expressions," pp. 109]{Beazley2009}.
@@ -1861,7 +1861,7 @@ Similarly, a **generator expression** implicitly creates an iterable object to
 + A generator expression needs to be surrounded by parentheses, which can
 	belong to a function (or an operation) performed on the collection of objects
 	\cite[Chapter 2, pp. 35-37]{Alchin2010}.
-+ It behaves like a **list comprehension**, but "iteratively produces the result" 
++ It behaves like a **list comprehension**, but "iteratively produces the result"
 	\cite[Chapter 6, section on "Generator Expressions," pp. 109]{Beazley2009}.
 + Use parentheses for **generator expression**s
 	\cite[Chapter 6, section on "Generator Expressions," pp. 109]{Beazley2009}.
@@ -2152,7 +2152,7 @@ The command **help(*[Python module]*)** enables a user to read documentation
 	about the *[Python module]* that is automatically produced by documentation
 	generators, such as *pydoc* \cite[Chapter 11, pp. 248]{Hall2009b}.
 	This documentation is extracted from the comments in the *[Python module]*
-		\cite[Chapter 11, pp. 248]{Hall2009b}. 
+		\cite[Chapter 11, pp. 248]{Hall2009b}.
 
 
 
@@ -2183,7 +2183,7 @@ The following modules in *The Python Standard Library* \cite{DrakeJr2016e,DrakeJ
 	can be useful in developing *Python* software .
 + *itertools*
 	Enables a set/chain of functions to be performed on each element in a
-		collection \cite[Chapter 2, pp. 38]{Alchin2010}. 
+		collection \cite[Chapter 2, pp. 38]{Alchin2010}.
 	- The *zip()* function enables multiple iterables to be combined
 		together \cite[Chapter 2, pp. 38]{Alchin2010};
 		an iterable is a collection "object" that can generate an iterator to
@@ -2223,7 +2223,7 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 		* symmetric difference operation, *{set 1} ^ {set 2}*, *{set 1}.symmetric_difference({set 2})*
 			+ Either in {set 1} or {set 2}, but not both sets
 				\cite[Chapter 1, section on "Sets," pp. 15]{Beazley2009}
-				\cite[Chapter 3, subsection on "Set Types," Table 3.7, pp. 46]{Beazley2009}. 
+				\cite[Chapter 3, subsection on "Set Types," Table 3.7, pp. 46]{Beazley2009}.
 		* *{set 1}*.issubset(*{set 2}*)
 		* *{set 1}*.issuperset(*{set 2}*)
 		* ({set 1} - {set 2}); Or, not ({set 1} - {set 2})
@@ -2237,13 +2237,13 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 	- For functions that return multiple values, named tuples can be used to
 		return these sets of values.
 		They allow the returned values to be accessible by named fields, just
-			like dictionaries. 
+			like dictionaries.
 + dictionaries \cite[Chapter 2, pp. 44]{Alchin2010}
 	- unordered data structure
 + ordered dictionaries \cite[Chapter 2, pp. 44]{Alchin2010}
 	- ordered data structure
 	- Has all the features of a dictionary, while having a reliable ordering of keys
-		for its *(key,value)* pairs. 
+		for its *(key,value)* pairs.
 + dictionaries with defaults \cite[Chapter 2, pp. 44-45]{Alchin2010}
 	- A dictionary with defaults is assumed to have (optimal) default values for
 		keys that cannot be found in the mapping.
@@ -2294,7 +2294,7 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 	- Test-driven development helps us achieve good/decent software test
 		coverage \cite[Chapter 16, pp. 343]{Hetland2005}.
 	- An outline of test-driven development is described in
-		\cite[Chapter 16, pp. 344]{Hetland2005}. 
+		\cite[Chapter 16, pp. 344]{Hetland2005}.
 + Doctests
 	- \cite[Chapter 9, pp. 218-221]{Alchin2010}
 	- \cite[Chapter 1, pp. 5--6]{Pilgrim2009}
@@ -2373,7 +2373,7 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 	- trace/print statements, via the **logging** module \cite[Chapter 19, pp. 386]{Hetland2005}
 		of *The Python Standard Library* \cite{DrakeJr2016e,DrakeJr2016b}.
 		* Configure the **logging** module to customize the log entries/files
-			\cite[Chapter 19, pp. 387]{Hetland2005} 
+			\cite[Chapter 19, pp. 387]{Hetland2005}
 
 
 
@@ -2453,7 +2453,7 @@ Types/categories of requirements specification
 ####	Software Tuning and Performance Optimization
 
 Use timing measurements to determine the time taken for each different parts of
-	the program 
+	the program
 	\cite[Chapter 11, subsection on "Making Timing Measurements," pp. 191]{Beazley2009}.
 + Resources on timng measurements:
 	- \cite[Chapter 21]{Lutz2013}
@@ -2502,7 +2502,7 @@ The *\_\_debug\_\_* variable, which is set to **True** by default, allows *Pytho
 	with **if \_\_debug\_\_** statements);
 	that is, use **if \_\_debug\_\_** statements) for non-essential testing and
 		validation of *Python* programs, so that the execution of (these)
-		*Python* programs can be optimized to run faster without such checks 
+		*Python* programs can be optimized to run faster without such checks
 	\cite[Chapter 5, section on "Assertions and \_\_debug\_\_," pp. 91]{Beazley2009}.
 
 \cite[Chapter 8, section on "Module Loading and Compilation," pp. 148]{Beazley2009}
@@ -2602,13 +2602,13 @@ Developing mixed-language software
 		* To extend *Python* programs with *CPython*, *Jython*, or *IronPython*,
 			adhere to the requirements of their API (i.e., API of *CPython*,
 			*Jython*, or *IronPython*) when developing extensions in
-			[*C* | *Java* | *programming languages for the .Net platform*] 
+			[*C* | *Java* | *programming languages for the .Net platform*]
 			\cite[Chapter 17, pp. 360]{Hetland2005}.
 + Use *Psyco* as a "specialized just-in-time compiler for *Python*" to speed up
 	run-time performance of the *Python* programs
 	\cite[Chapter 17, pp. 360]{Hetland2005}.
 + Use *Pyrex*, which is a "dialect" of *Python*, to develop extensions for *Python*
-	programs and to compile *Pyrex* programs 
+	programs and to compile *Pyrex* programs
 	\cite[Chapter 17, pp. 361]{Hetland2005}.
 + Use *Weave* (from *SciPy* distributions) to integrate *C*/*C++* code (as strings)
 	into *Python* programs \cite[Chapter 17, pp. 361]{Hetland2005};
@@ -2616,7 +2616,7 @@ Developing mixed-language software
 		\cite[Chapter 17, pp. 361]{Hetland2005}.
 + Use *NumPy* with *Weave* (from *SciPy* distributions), or with *Pyrex*, to speed
 	up computations with numeric arrays \cite[Chapter 17, pp. 361]{Hetland2005};
-	avoid using lists and *for*-loops for computing with numeric arrays 
+	avoid using lists and *for*-loops for computing with numeric arrays
 		\cite[Chapter 17, pp. 361]{Hetland2005}.
 + Use the *ctypes* library (**need to be imported in the *Python* program**) to
 	"import preexisting (shared) C libraries" to execute a restricted subset of *C*
@@ -2670,7 +2670,7 @@ Developing mixed-language software
 			\cite[Chapter 17, pp. 363-364]{Hetland2005}.
 		* The wrapper code consist of a pair of files for each *SWIG* interface
 			file; the *C*/*C++* wrapper and its corresponding *Python* file
-			\cite[Chapter 17, pp. 364]{Hetland2005}. 
+			\cite[Chapter 17, pp. 364]{Hetland2005}.
 	- Compile the *C*/*C++* program/extension with the automatically generated
 		wrapper code to generate the shared library.
 		* Details of compiling, linking, and using the *SWIG*-generated wrappers
@@ -2765,7 +2765,7 @@ Use the *Distutils* toolkit to distribute *Python* packages
 			instances \cite[Chapter 18, pp. 378-379]{Hetland2005}.
 	- Use the **--inplace** option to compile/build the *Python*
 		modules/extensions in the current directory
-		\cite[Chapter 18, pp. 378]{Hetland2005}. 
+		\cite[Chapter 18, pp. 378]{Hetland2005}.
 + There are no universal conventions for:
 	- uninstall \cite[Chapter 18, pp. 375]{Hetland2005}
 + Additional commands of interest:
@@ -2812,7 +2812,7 @@ Use the *Distutils* toolkit to distribute *Python* packages
 		Else, if the *MANIFEST.in* file exists, it will be read instead of being
 			overwritten \cite[Chapter 18, pp. 377]{Hetland2005}.
 + To distribute the *Python* modules as an archive file for installation, use the
-	**bdist** command for creating binary distributions for the *Python* modules 
+	**bdist** command for creating binary distributions for the *Python* modules
 	that are operating system-specific (OS-specific)
 	\cite[Chapter 18, pp. 377]{Hetland2005}.
 	- **python** [*Python* modules] **bdist --formats=***[option]*
@@ -2888,7 +2888,7 @@ Notes regarding the management of information systems, or database
 + Exceptions defined by the *Python* Database API enable fine-grained error
 	handling \cite[Chapter 13, pp. 287]{Hetland2005}.
 + The function **connect()** allows the *Python* software to connect to the
-	database system \cite[Chapter 13, pp. 287-288]{Hetland2005}. 
+	database system \cite[Chapter 13, pp. 287-288]{Hetland2005}.
 	- **Beware of using this function with the parameters user name and
 		password, since I could end up divulging secrets of my company,
 		research group, or personal liofe.**
@@ -2940,9 +2940,9 @@ See \cite{Molinaro2006} for further information about *SQL* database management
 ###	Software Development Process Methodologies
 
 Use extreme programming (XP) \cite[Chapter 19, pp. 381]{Hetland2005} \cite{Pressman2010,Sommerville2007,Jayaswal2007,Wells2009,Jalote2008,DeLucia2008,Beck2005,Larman2003,Beck2001,Wells1999},
-	or other agile software development methodologies \cite{Stellman2015,Kelly2015,Laplante2014,Crookshanks2012,Rasmusson2010,Shore2008,Larman2004,Boehm2004}, 
+	or other agile software development methodologies \cite{Stellman2015,Kelly2015,Laplante2014,Crookshanks2012,Rasmusson2010,Shore2008,Larman2004,Boehm2004},
 	to develop *Python* software/programs.
-+ Be adaptive and flexible \cite[Chapter 19, pp. 382]{Hetland2005}. 
++ Be adaptive and flexible \cite[Chapter 19, pp. 382]{Hetland2005}.
 + Have the courage to refactor the software to improve certain qualities/aspects
 	of the software \cite[Chapter 19, pp. 382]{Hetland2005}.
 	- This involves modifying the software architecture and selection of
@@ -2975,7 +2975,7 @@ Use extreme programming (XP) \cite[Chapter 19, pp. 381]{Hetland2005} \cite{Press
 		*C++*/*Java*, it is more amenable to facilitate prototyping than these
 		latter programming languages \cite[Chapter 19, pp. 383]{Hetland2005}.
 	- Prototyping facilitates iterative and incremental development (IID) \cite{Brown2017,Babar2014,Boehm2014,Wysocki2014,Kumar2013,Robertson2013,Sifakis2013,Jalote2008,Shore2008,Schach2007,Sommerville2007,37signals2006,Subramaniam2006,Larman2005,Boehm2004,Larman2004,Wickens2004a,Wickens2004b,Larman2003,Larman2002,Felleisen2001,BrooksJr1995},
-		instead of up-front detailed analysis and design 
+		instead of up-front detailed analysis and design
 		\cite[Chapter 19, pp. 383]{Hetland2005}.
 	- The executable prototypes (in *Python*) enable software developers to
 		notice problems, weaknesses, and incompleteness of the
@@ -2989,7 +2989,7 @@ Use extreme programming (XP) \cite[Chapter 19, pp. 381]{Hetland2005} \cite{Press
 	- This helps me to avoid problems associated with perfectionism, which
 		keeps me from completing or releasing "imperfect" work, which
 		Prof. Derek Abbott and Prof. Laszlo Bela Kish during our reunion
-		in early November 2016. 
+		in early November 2016.
 
 
 
@@ -3021,7 +3021,7 @@ In *Python* 3.x:
 + ***exec()* and *eval()* pose software security threats**, if they execute
 	malicious *Python* code \cite[Chapter 8, pp. 173]{Hall2009b}.
 	- The function **eval(str [,globals [,locals]])** evaluates the expression
-		contained in the string **str**, and returns the result 
+		contained in the string **str**, and returns the result
 		\cite[Chapter 6, section on "eval(), exec(), and compile()," pp. 115]{Beazley2009}.
 	- The function **exec(str [, globals [, locals]])** executes the *Python* code
 		contained in the string **str**
@@ -3033,9 +3033,15 @@ In *Python* 3.x:
 		multiple times)
 		\cite[Chapter 6, section on "eval(), exec(), and compile()," pp. 115]{Beazley2009}.
 
+To compare the content of two strings, try:
 
+	string1 == string2
 
+To compare the identities of two strings, try:
 
+		string1 is string2
+
+[Reference for string comparison](https://stackoverflow.com/questions/1504717/why-does-comparing-strings-in-python-using-either-or-is-sometimes-produce)
 
 
 
@@ -3137,7 +3143,7 @@ With **try...except...else...finally** statements, statements in the **finally**
 	block \cite[Chapter 8, pp. 168]{Hetland2005}.
 
 When propagated exceptions cause the *Python* program to halt, use the *stack
-	trace* to determine what happened \cite[Chapter 8, pp. 168]{Hetland2005}. 
+	trace* to determine what happened \cite[Chapter 8, pp. 168]{Hetland2005}.
 
 
 
@@ -3158,9 +3164,9 @@ Any unhandled exception would terminate execution of the *Python* program and
 
 Exception chaining is a method of tracebacks that enable exceptions raised
 	during exception handling to be differentiated from the original
-	raised/thrown exception \cite[Chapter 10, pp. 235-236]{Hall2009b}. 
+	raised/thrown exception \cite[Chapter 10, pp. 235-236]{Hall2009b}.
 
- 
+
 
 
 
@@ -3287,7 +3293,7 @@ Use mutual exclusion (mutex) to manage system resources, such as locks, files,
 	file object, or network connection) to perform operations with the lock, file
 	object, or network connection (using the acquired **variable**)
 	\cite[Chapter 1, section on "Exceptions," pp. 23]{Beazley2009}
-	\cite[Chapter 5, section on "Context Managers and the with Statement," pp. 89-90]{Beazley2009}. 
+	\cite[Chapter 5, section on "Context Managers and the with Statement," pp. 89-90]{Beazley2009}.
 + When execution/control of the *Python* program is outside the context of the
 	**with** statement, such as a raised exception, the **variable** is
 	automatically released
@@ -3320,9 +3326,9 @@ Use mutual exclusion (mutex) to manage system resources, such as locks, files,
 
 
 
-Notes on global and local variables: 
+Notes on global and local variables:
 + A global variable (e.g., "*x*") would be shadowed by a local variable (e.g., "*x*")
-	of the same name \cite[Chapter 6, pp. 127]{Hetland2005}. 
+	of the same name \cite[Chapter 6, pp. 127]{Hetland2005}.
 	- To access the aforementioned global variable (e.g., "*x*"), try:
 		*globals()['x']*
 + To rebind a global variable (e.g., "*x*") in a function, which assigns a new value
@@ -3335,7 +3341,7 @@ Notes on global and local variables:
 + Local variables support abstraction and encapsulation, which improves the
 	comprehensibility and robustness of the software
 	\cite[Chapter 6, pp. 128]{Hetland2005}.
-+ Note the existence of non-local variables \cite{WikipediaContributors2017a2}. 
++ Note the existence of non-local variables \cite{WikipediaContributors2017a2}.
 
 
 
@@ -3443,7 +3449,7 @@ Types of *Python* statements \cite[Appendix B, pp. 566-570]{Hetland2005}:
 	- try statement \cite[Appendix B, pp. 570]{Hetland2005}
 	- function definitions \cite[Appendix B, pp. 570]{Hetland2005}
 		* Create function objects
-		* Bind global or local variables to these function objects. 
+		* Bind global or local variables to these function objects.
 	- class definitions \cite[Appendix B, pp. 570]{Hetland2005}
 		* Create class objects
 		* Bind global or local variables to these class objects.
@@ -3511,7 +3517,7 @@ The **yield** statement pauses the execution of a generator iterator to provide
 + Use generators for "processing pipelines, streas, or data flow"
 	\cite[Chapter 1, section on "Generators," pp. 19]{Beazley2009}.
 + Generators tend to be used "with other iterable objects, such as lists or files"
-	\cite[Chapter 1, section on "Generators," pp. 20]{Beazley2009}. 
+	\cite[Chapter 1, section on "Generators," pp. 20]{Beazley2009}.
 
 
 
@@ -3519,8 +3525,8 @@ The **yield** statement pauses the execution of a generator iterator to provide
 	how *Unicode* characters can be inserted into *Python* strings.
 
 \cite[Chapter 2, section on "String Literals," Table 2.1, pp. 27-28]{Beazley2009}
-	shows a list of escape characters for *Python* strings. 
-+ backslash: continuation of a statement on a new line. 
+	shows a list of escape characters for *Python* strings.
++ backslash: continuation of a statement on a new line.
 + Null
 + Single quote
 + Double quote
@@ -3546,7 +3552,7 @@ In *Python*, variable assignments are not storage operations, which overwrite th
 + Extract symbolic constants into a module for easier customization of these
 	constants
 + See [Software Development Process Methodologies](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#software-development-process-methodologies)
-	for more information to extract symbolic constants. 
+	for more information to extract symbolic constants.
 
 
 
@@ -3596,12 +3602,12 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 	from my *BibTeX* database (set of *BibTeX* entries).
 
 **If these citations/references are not found in this list of references, information
-	about them can be found in my *BibTeX* database.** 
+	about them can be found in my *BibTeX* database.**
 
 + [ParewaLabsPvtLtdStaff20XY]
 
 	Parewa Labs Pvt. Ltd. staff, "Learn Python Programming," Parewa Labs Pvt. Ltd., Kupondole, Lalitpur, Lalitpur District, Nepal.
-	
+
 	Available online from {\it Programming Tutorial, Articles and Examples -- Programiz} at: \url{https://www.programiz.com/python-programming/}; last accessed on April 1, 2017.
 
 	**[Note in my *BibTeX* database.]**
@@ -3655,7 +3661,7 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 	- Hans Petter Langtangen, "Python Scripting for Computational Science," Third edition, in the Texts in Computational Science and Engineering series, Volume 3, Springer-Verlag Berlin Heidelberg, Heidelberg, Germany, 2009. DOI:https://dx.doi.org/10.1007/978-3-540-73916-6.
 + \cite{Langtangen2009a}
 	- Chapter 8.3,8.6,8.8,8.10, Appendix B.
-	- Hans Petter Langtangen, "A Primer on Scientific Programming with Python," Texts in Computational Science and Engineering, Volume 6, Springer-Verlag Berlin Heidelberg, Heidelberg, Germany, 2009. DOI:https://dx.doi.org/10.1007/978-3-642-02475-7. 
+	- Hans Petter Langtangen, "A Primer on Scientific Programming with Python," Texts in Computational Science and Engineering, Volume 6, Springer-Verlag Berlin Heidelberg, Heidelberg, Germany, 2009. DOI:https://dx.doi.org/10.1007/978-3-642-02475-7.
 + \cite{Langtangen2011}
 	- Chapter 4, 6, 7, 9.
 	- Hans Petter Langtangen, "A Primer on Scientific Programming with Python," Second edition, in Springer-Verlag Berlin Heidelberg series, Texts in Computational Science and Engineering, Volume 6, Heidelberg, Germany, 2011. DOI:https://dx.doi.org/10.1007/978-3-642-18366-9.
@@ -3731,7 +3737,7 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 + Network programming.
 	- \cite{Goerzen2004,Hetland2005,Lutz2011,Rhodes2010,Sileika2010}.
 + **Numerical methods, or numerical computing**.
-	- \cite{Langtangen2006,Langtangen2009,Langtangen2009a,Langtangen2011,Langtangen2012,Linge2016}. 
+	- \cite{Langtangen2006,Langtangen2009,Langtangen2009a,Langtangen2011,Langtangen2012,Linge2016}.
 + **Parallel programming**.
 	- \cite{Gift2008,Lutz2011} \cite[Chapter 20, pp. 413-447]{Beazley2009}.
 + **Scientific computing, computational science, and computational engineering**.
@@ -3800,7 +3806,7 @@ Additional *Python* resources from my *BibTeX* database:
 	Available online from *Welcome to Python.org: Python 3.6.5 documentation* at: https://docs.python.org/3/c-api/; April 2, 2018 was the last accessed date.
 
 + \cite{DrakeJr2018}
-	Fred L. Drake, Jr. and David Goodger and Fredrik Lundh, "Extending and Embedding the *Python* Interpreter," Python Software Foundation, Beaverton, OR, April 1, 2018. 
+	Fred L. Drake, Jr. and David Goodger and Fredrik Lundh, "Extending and Embedding the *Python* Interpreter," Python Software Foundation, Beaverton, OR, April 1, 2018.
 
 	Available online from *Welcome to Python.org: Python 3.6.5 documentation* at: https://docs.python.org/3/extending/; April 2, 2018 was the last accessed date.
 
@@ -3872,7 +3878,7 @@ Books that I am skipping
 
 Recommendations:
 + \cite{Beazley2009,Lutz2013} are good books that provide a lot of depth in
-	functional programming, object-oriented *Python* programming, 
+	functional programming, object-oriented *Python* programming,
 
 
 
@@ -3958,4 +3964,3 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 Email address: echo "cukj -wb- 23wU4X5M589 TROJANS cqkH wiuz2y 0f Mw Stanford" | awk '{ sub("23wU4X5M589","F.d_c_b. ") sub("Stanford","d0mA1n"); print $5, $2, $8; for (i=1; i<=1; i++) print "6\b"; print $9, $7, $6 }' | sed y/kqcbuHwM62z/gnotrzadqmC/ | tr 'q' ' ' | tr -d [:cntrl:] | tr -d 'ir' | tr y "\n"		Don't compromise my computing accounts. You have been warned.
-

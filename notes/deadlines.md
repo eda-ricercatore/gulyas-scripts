@@ -277,6 +277,15 @@
 
 
 
+
+
++ VTS 2019, IEEE VLSI Test Symposium
+	- http://tttc-vts.org/public_html/new/2019/
+	- Monterey, CA.
+	- Oct 5, 2018.
+
+
+
 + ISPD 2019, International Symposium on Physical Design
 	- http://www.ispd.cc
 	- VENUE ???
@@ -301,12 +310,6 @@
 	- URL ???
 	- VENUE ???
 	- Late Oct, 2018.
-
-+ VTS 2019, IEEE VLSI Test Symposium
-	- URL ???
-	- VENUE ???
-	- Late Oct, 2018.
-
 
 + CICC 2018, IEEE Custom Integrated Circuits Conference
 	- http://ieee-cicc.org
@@ -675,6 +678,11 @@
 	- VENUE ???
 	- May 2019.
 
+
++ IISWC, IEEE International Symposium on Workload Characterization
+	- http://www.iiswc.org/
+	- VENUE???
+	- Early May 2019
 
 + HiPEAC 2020, International Conference on High-Performance and Embedded Architectures and Compilers
 	- URL
