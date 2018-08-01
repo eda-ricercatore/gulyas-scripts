@@ -4,11 +4,14 @@
 
 + AAAI, AAAI Conference on Artificial Intelligence
 	- http://www.aaai.org/Conferences/conferences.php
-	- VENUE
-	- CFP Deadline: Early Sep, 2018
-	- IAAI 2019, Innovative Applications of Artificial Intelligence Conference
-		* CFP Deadline: Early Sep, 2018
-		* Same venue as AAAI 2019. 
+	- https://aaai.org/Conferences/AAAI-19/
+	- Honolulu, Hawaii, U.S.A.
+	- **August 30 and September 5, 2018**
++ IAAI 2019, Innovative Applications of Artificial Intelligence Conference
+	- https://aaai.org/Conferences/AAAI-19/iaai-19/iaai-19-call/
+	- Same venue as AAAI 2019.
+	- Honolulu, Hawaii, U.S.A.
+	- **September 5, 2018**
 + ACL, Annual Meeting of the Association for Computational Linguistics
 	- URL
 	- VENUE
@@ -16,11 +19,11 @@
 + CHI, ACM CHI Conference on Human Factors in Computing Systems
 	- http://chi2019.acm.org
 	- Glasgow, U.K.
-	- September 14/19, 2018.
+	- **September 14/19, 2018.**
 + CVPR, Conference on Computer Vision and Pattern Recognition
 	- http://cvpr2019.thecvf.com
 	- Long Beach, CA.
-	- Mid-November, 2018
+	- **November 16, 2018**
 + ECCV, European Conference on Computer Vision
 	- URL
 	- VENUE
@@ -40,7 +43,7 @@
 + ICLR, International Conference on Learning Representations
 	- https://iclr.cc
 	- VENUE
-	- Late Oct, 2018.
+	- Late Oct, 2018. **When is the deadline???**
 + ICML, International Conference on Machine Learning
 	- URL
 	- VENUE
@@ -77,6 +80,7 @@
 	- VENUE
 	- Mid-May, 2019.
 + PAMI ???
+	- Basically, this refers to PAMITC Sponsored Conferences, such as CVPR and ICCV.
 	- URL
 	- VENUE
 	- DATE
@@ -88,21 +92,24 @@
 	- URL
 	- VENUE
 	- Late Jan, 2019
-+ SIGIR, ACM SIGIR Conference on Research and Development in Information Retrieval 
++ SIGIR, ACM SIGIR Conference on Research and Development in Information Retrieval
 	- URL
 	- VENUE
 	- Late Jan, 2019.
 + SIGMOD, ACM Symposium on Principles of Database Systems (PODS)
 	- SIGMOD/PODS International Conference on Management of Data
-	- URL
-	- VENUE
+	- http://sigmod2019.org
+	- http://sigmod2019.org/sigmodcfp
+	- Amsterdam, The Netherlands
+	- June 30 - July 5, 2019.
 	- Early/Mid- July, 2018 (submission cycle #1) and Late Oct or Early Nov, 2018 (submission cycle #2).
+	- Abstract submission deadlines: July 12 (Round 1), October 18 (Round 2)
 + IEEE Transactions on Pattern Analysis and Machine Intelligence, TPAMI
 + WSDM, ACM International Conference on Web Search and Data Mining
-	- URL
+	- http://www.wsdm-conference.org/2019/call-for-papers.php
 	- Melbourne, Australia
-	- Early/Mid- Aug, 2018.
-+ WWW, The Web Conference 
+	- **August 8 and 15, 2018**.
++ WWW, The Web Conference
 	- https://www2019.thewebconf.org
 	- San Francisco, CA.
 	- Oct 29/Nov 5, 2018
@@ -139,7 +146,7 @@
 	- https://icfp18.sigplan.org/dates
 	- http://www.icfpconference.org/contest.html
 	- St. Louis, MO.
-	- June 22, 2018. 
+	- June 22, 2018.
 
 
 
@@ -181,14 +188,14 @@
 + ASPLOS, ACM International Conference on Architectural Support for Programming Languages and Operating Systems
 	- https://asplos-conference.org
 	- Providence, RI
-	- July 31 and Aug 7, 2018. 
+	- July 31 and Aug 7, 2018.
 
 
 
 + NDSS, Network and Distributed System Security Symposium
 	- http://www.ndss-symposium.org
 	- San Diego, CA.
-	- Aug, 2018.
+	- Aug 7, 2018.
 
 + PPoPP, Symposium on Principles and Practice of Parallel Programming
 	- https://ppopp19.sigplan.org/track/PPoPP-2019-papers
@@ -210,9 +217,10 @@
 
 
 + CGO, International Symposium on Code Generation and Optimization
-	- http://cgo.org/cgo2019/ ???
-	- VENUE
-	- Early and Mid- Sep, 2018.
+	- http://cgo.org/cgo2019/
+	- Washington DC
+	- Feb 16-20, 2019
+	- August 31 and September 7, 2018.
 
 
 
@@ -229,7 +237,7 @@
 + ISQED 2019, International Symposium on Quality Electronic Design
 	- http://www.isqed.org/English/Conference/Call_for_Papers.html
 	- Santa Clara, CA.
-	- Sep 10, 2018. 
+	- Sep 10, 2018.
 
  + ISSCC 2019, International Solid-State Circuits Conference
  	- http://isscc.org/isscc-call-for-papers/
@@ -239,8 +247,8 @@
 
 + MTV17, International Workshop on Microprocessor/SoC Test, Security & Verification
 	- http://mtvcon.org/paper-submission/
-	- VENUE ???
-	- Mid-Sep, 2018.
+	- Austin, TX
+	- September 16, 2018.
 
 
 
@@ -259,15 +267,17 @@
 + CPS Week
 	+ http://cpsweek.org
 + HSCC 2019, ACM International Conference on Hybrid Systems: Computation and Control
-	- URL ???
-	- VENUE ???
-	- Late Sep and Early Oct, 2018.
+	- http://hscc2019.eecs.umich.edu
+	- Montreal, Canada
+	- April 16-18, 2019.
+	- October 5 and 12, 2018.
 + ICCPS, ACM/IEEE International Conference on Cyber-Physical Systems
 	- http://iccps.acm.org
 	- VENUE ???
 	- Late Sep and Early Oct, 2018.
 + ISPN, International Conference on Information Processing in Sensor Networks
 	- URL ???
+	- http://ipsn.acm.org
 	- VENUE ???
 	- Late Sep and Early Oct, 2018.
 + RTAS, IEEE Real-Time and Embedded Technology and Applications Symposium
@@ -303,7 +313,7 @@
 + ISCAS 2019, International Symposium on Circuits and Systems
 	- https://www.iscas2019.org
 	- Sapporo, Hokkaido, Japan.
-	- Mid-/Late Oct, 2018.
+	- Oct 15, 2018.
 
 
 + ARCS 2019, International Conference on Architecture of Computing Systems
@@ -313,8 +323,9 @@
 
 + CICC 2018, IEEE Custom Integrated Circuits Conference
 	- http://ieee-cicc.org
-	- VENUE
-	- Late Oct or Early Nov, 2018.
+	- Austin, TX
+	- April 14–17, 2019
+	- November 5, 2018
 
 
 
@@ -361,7 +372,7 @@
 	- https://conf.researchr.org/track/etaps-2019/fase-2019-papers
 	- Prague, Czech Republic
 	- Nov 7 and Nov 15, 2018
-+ FoSSaCS, International Conference on Foundations of Software Science and Computation Structures 
++ FoSSaCS, International Conference on Foundations of Software Science and Computation Structures
 	- https://conf.researchr.org/track/etaps-2019/fossacs-2019-papers#Call-for-Papers
 	- Prague, Czech Republic
 	- Nov 7 and Nov 15, 2018
@@ -374,18 +385,20 @@
 
 
 
-	
+
 
 + ASYNC 2018, IEEE International Symposium on Asynchronous Circuits and Systems
 	- http://asyncsymposium.org/async/Welcome.html
-	- VENUE
-	- Late Nov or Early Dec, 2018.
-	
+	- http://www.async2019.jp
+	- Hirosaki, Japan
+	- May 12-15, 2019.
+	- December 7 and 14, 2018.
+
 + VEE, ACM SIGPLAN/SIGOPS International Conference on Virtual Execution Environments
 	- URL
 	- VENUE
 	- Late Nov or Early Dec, 2018.
-	
+
 
 
 
@@ -616,7 +629,7 @@
 	- April 2019.
 
 
-	
+
 + ASE, IEEE/ACM International Conference on Automated Software Engineering
 	- URL
 	- VENUE
