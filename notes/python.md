@@ -3587,6 +3587,19 @@ Resources for regular expressions and test processing:
 	is much smaller than in *C++* because *Python* variables are not declared
 	with a specific type" \cite[\S8.9.5, pp. 435]{Langtangen2009}.
 
+Other references for generics and generic programming
++ https://github.com/python/mypy
+
+####	Official Documentation Involving Generics
+
+The Python Standard Library \cite{DrakeJr2016b} has documentation on generics
+	in \cite[\S27.1.4]{DrakeJr2016b}, which are available from *Python 3.5* and
+	are not backwards compatible.
+
+
+Concepts encountered while learning how to use generic programming in *Python*:
++ Variable Annotation
+
 
 
 
