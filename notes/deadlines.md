@@ -703,6 +703,12 @@
 	- May 2019.
 
 
++ HPEC, IEEE High Performance Extreme Computing Conference
+	- http://ieee-hpec.org
+	- Waltham, MA
+	- Mid-/Late May, 2019.
+
+
 + IISWC, IEEE International Symposium on Workload Characterization
 	- http://www.iiswc.org/
 	- VENUE???
