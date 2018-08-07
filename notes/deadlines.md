@@ -254,7 +254,10 @@
 
 
 
-
++ FPGA 2019, ACM/SIGDA International Symposium on Field-Programmable Gate Arrays
+	- February 24-26, 2019
+	- Seaside, California.
+	- CFP deadline: September 16, 2018
 
 
 
