@@ -84,6 +84,7 @@ import time
 import warnings
 import re
 import filecmp
+from datetime import date
 
 ###############################################################
 
@@ -103,7 +104,9 @@ class generate_filename:
 				library that uses noise-based logic.
 		"""
 		print("	Get the date.")
-		
+		today = str(date.today())
+		print(today)
+
 
 ###############################################################
 # Main method for the program.

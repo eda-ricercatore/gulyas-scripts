@@ -26,8 +26,13 @@ To-do list:
 + Run automated regression testing, and/or regression verification, to put
 		the experimental results of each build in the correct directory.
 		And, commit and push that build to the cloud-based research repository.
-+
-+
++ Create scripts for performance measurement and analysis.
+	- *Python*
+	- *GNU Octave*
+	- *Scala*/*Chisel*
+	- *SPICE*???
+	- ???
++ Develop *R* scripts for statistical analysis of experimental results.
 + Get references for QUBO and QUBO solvers.
 	If there are no classical QUBO solvers, develop one using GLPK
 		and meta-heuristics.
