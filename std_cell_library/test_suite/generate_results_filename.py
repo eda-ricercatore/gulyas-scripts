@@ -85,6 +85,7 @@ import warnings
 import re
 import filecmp
 from datetime import date
+import datetime
 
 ###############################################################
 
@@ -104,8 +105,26 @@ class generate_filename:
 				library that uses noise-based logic.
 		"""
 		print("	Get the date.")
-		today = str(date.today())
-		print(today)
+		print("")
+		now = datetime.datetime.now()
+		print("Current date and time using instance attributes:")
+		print("Current year: %d" % now.year)
+		print("Current month: %d" % now.month)
+		print("Current day: %d" % now.day)
+		print("Current hour: %d" % now.hour)
+		print("Current minute: %d" % now.minute)
+		print("Current second: %d" % now.second)
+		print("Current microsecond: %d" % now.microsecond)
+		print("")
+		print("Current date and time using strftime:")
+		print(now.strftime("%Y-%m-%d %H:%M"))
+		print("")
+		print("Current date and time using isoformat:")
+		print(now.isoformat())
+		print("")
+		current_time = str(now.day) + "-" + str(now.month) + "-" + str(now.year) + "-" + str(now.hour) + "-"  + str(now.minute) + "-"  + str(now.second) + "-"  + str(now.microsecond) + ".txt"
+		print(current_time)
+		return current_time
 
 
 ###############################################################
@@ -116,7 +135,7 @@ if __name__ == "__main__":
 	print("===================================================")
 	print("Generate filename to store experimental/simulation results.")
 	print("")
-	generate_filename.create_filename()
+	filename = generate_filename.create_filename()
 	print("")
 	print("	= end =")
 
