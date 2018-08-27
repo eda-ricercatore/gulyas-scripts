@@ -1,10 +1,10 @@
-#	Operation Go2ICCAD
+#	Operation Go2DATE
 
 Questions:
 + \cite{Dahl2013}
 	- How to convert QUBO into a quantum machine instruction (QMI)
 		A QMI produces probabilistic results, rather than deterministic
-			results that assembly instructions in von Neumann computing. 
+			results that assembly instructions in von Neumann computing.
 		Representations of qubits (and their weights) and couplers
 			(and their strengths) as chimera graphs (bipartite graphs).
 + Get access to the API, or dynamic libraries, of dwave_sapi2.
@@ -21,6 +21,7 @@ Questions:
 
 
 To-do list:
++ 
 + Get references for QUBO and QUBO solvers.
 	If there are no classical QUBO solvers, develop one using GLPK
 		and meta-heuristics.
@@ -138,7 +139,7 @@ Design for Security
 
 
 
-#	Operazione Andare a ICCAD
+#	Operazione Andare a DATE
 
 + Find the cross-correlation of RTW waves.
 + Find the covariance of RTW waves.
@@ -148,7 +149,7 @@ Design for Security
 
 + Keep learning *Scala*.
 	- Implement tools for noise-based logic via object-oriented
-		functional programming. 
+		functional programming.
 + Learn *R*.
 	- Apply *R*-based data analytics to my software development and
 		hardware design process.
@@ -257,7 +258,7 @@ Design for Security
 + Try to implement the following in *GNU Octave*:
 	- Usage of private and hidden functions again
 	- Examples of nested inheritance
-	- Examples of multiple inheritance. 
+	- Examples of multiple inheritance.
 + \S15 Plotting
 + \S14 Input/Output (I/O) operations
 	(or I/O operazioni)
@@ -273,7 +274,7 @@ From the *GNU Octave* manual \cite{Eaton2016a}:
 + \S16 Matrix multiplication
 + \S17.7 Approximations: Rational approximations
 + \S17.8 Coordinate transformation
-	- E.g., from polar coordinate system to cartesian coordinate system??? 
+	- E.g., from polar coordinate system to cartesian coordinate system???
 + \S17.9 Mathematical constants
 + \S18 Linear algebra
 + \S27 Set operations
@@ -307,14 +308,14 @@ From the *GNU Octave* manual \cite{Eaton2016a}:
 	- processors
 	- VLSI systems
 	- AMS/RF ICs
-	- mixed-signal SoC 
+	- mixed-signal SoC
 	- In HDLs, such as Chisel and SystemC/SystemC-AMS
 
 #	Scripts to Hack
 
 + Script to check if a list of names is unique
 	- Flag similar names, and prompt use to verify their equivalence.
-	- E.g., Ann Kripa George, Ann K. George, and Ann George are 
+	- E.g., Ann Kripa George, Ann K. George, and Ann George are
 		equivalent.
 + Script to change/remove file extensions.
 	- Add (-a)
@@ -362,4 +363,3 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 Email address: echo "cukj -wb- 23wU4X5M589 TROJANS cqkH wiuz2y 0f Mw Stanford" | awk '{ sub("23wU4X5M589","F.d_c_b. ") sub("Stanford","d0mA1n"); print $5, $2, $8; for (i=1; i<=1; i++) print "6\b"; print $9, $7, $6 }' | sed y/kqcbuHwM62z/gnotrzadqmC/ | tr 'q' ' ' | tr -d [:cntrl:] | tr -d 'ir' | tr y "\n"		Don't compromise my computing accounts. You have been warned.
-

@@ -2,7 +2,7 @@
 
 """
 	This is written by Zhiyang Ong to generate a filename to store
-		experimental data/results from running experiments and/or
+		experimental data/results from running experiments, and/or
 		automated software regression testing and hardware regression
 		verification.
 
@@ -20,16 +20,21 @@
 
 
 	Its procedure is described as follows:
-	Initialize an empty list of publishers.
-	Enumerate each line in the input BibTeX database.
-		If the currently enumerated line contains the 'Publisher'
-			BibTeX field,
-			Add its contents to set of publishers. 
-	Sort the set of publishers.
+	If the optional "-h" flag is specified,
+		display the brief user manual.
+	Get the current date and time in the DD-MM-YY-HH-MM-SS format,
+		and create an empty file named after the current date and time.
+
 
 	Notes/Assumptions:
-	Assume that the 'Publisher' standard BibTeX field is a single line
-		field.
+	Since I would be categorizing and storing the experimental results
+		based on the year and month, the filename containg experimental
+		results would be named in the DD-MM-YY-HH-MM-SS format so that
+		I can quickly find the file of a given build (or experimental
+		run) as I read the filename from left to right.
+
+
+
 
 
 	Revision History:
@@ -62,13 +67,13 @@ __date__ = 'Apr 17, 2017'
 	sys			Get access to any command-line arguments.
 	os			Use any operating system dependent functionality.
 	os.path		For pathname manipulations.
-	
+
 	subprocess -> call
 				To make system calls.
 	time		To measure elapsed time.
 	warnings	Raise warnings.
 	re			Use regular expressions.
-	filecmp		For file comparison. 
+	filecmp		For file comparison.
 """
 
 import sys
@@ -97,7 +102,8 @@ class generate_filename:
 				results, from characterizing the standard cell
 				library that uses noise-based logic.
 		"""
-		print("")
+		print("	Get the date.")
+		
 
 ###############################################################
 # Main method for the program.
@@ -117,12 +123,3 @@ if __name__ == "__main__":
 #	Add references.
 #	\cite{Hetland2005,Lutz2010,Lutz2011,Sileika2010,Younker2008}.
 #	\cite[Chp. 17,25]{Beazley2009}
-
-
-
-
-
-
-
-
-
