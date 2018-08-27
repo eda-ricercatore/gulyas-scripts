@@ -21,7 +21,13 @@ Questions:
 
 
 To-do list:
-+ 
++ Create file with filename named in the DD-MM-YY-HH-MM-SS format, which is
+		stored in correct directory.
++ Run automated regression testing, and/or regression verification, to put
+		the experimental results of each build in the correct directory.
+		And, commit and push that build to the cloud-based research repository.
++
++
 + Get references for QUBO and QUBO solvers.
 	If there are no classical QUBO solvers, develop one using GLPK
 		and meta-heuristics.
