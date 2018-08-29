@@ -1,15 +1,16 @@
 #!/Library/Frameworks/Python.framework/Versions/3.6/bin/python3
 
 """
-	This is written by Zhiyang Ong to generate a filename to store
-		experimental data/results from running experiments, and/or
-		automated software regression testing and hardware regression
+	This is written by Zhiyang Ong to execute another run of automated
+		regression testing, and store the experimental data/results
+        from running experiments, and/or automated software regression
+        testing and hardware regression
 		verification.
 
 
 
 	Synopsis: command name and [argument(s)]
-	./generate_results_filename.py [-h]
+	./run_regression_testing.py [-h]
 
 	Parameters:
 	[input BibTeX file]:	A BibTeX database.
@@ -97,94 +98,5 @@ import datetime
 
 ###############################################################
 class generate_filename:
-	##	Method to generate a filename for the results of the
-	#		experimental/simulation run, or execution of the
-	#		automated regression testing (for software) or
-	#		automated regression verification.
-	#	@return - List of input arguments to the program.
-	#	O(1) method.
 	@staticmethod
 	def create_filename():
-		"""
-			Generate filename to store experimental/simulation
-				results, from characterizing the standard cell
-				library that uses noise-based logic.
-		"""
-		now = datetime.datetime.now()
-		"""
-		print("Current date and time using instance attributes:")
-		print("Current year: %d" % now.year)
-		print("Current month: %d" % now.month)
-		print("Current day: %d" % now.day)
-		print("Current hour: %d" % now.hour)
-		print("Current minute: %d" % now.minute)
-		print("Current second: %d" % now.second)
-		print("Current microsecond: %d" % now.microsecond)
-		print("")
-		print("Current date and time using strftime:")
-		print(now.strftime("%Y-%m-%d %H:%M"))
-		print("")
-		print("Current date and time using isoformat:")
-		print(now.isoformat())
-		print("")
-		"""
-		current_time = str(now.day) + "-" + str(now.month) + "-" + str(now.year) + "-" + str(now.hour) + "-"  + str(now.minute) + "-"  + str(now.second) + "-"  + str(now.microsecond) + ".txt"
-		print(current_time)
-		return current_time
-	# ============================================================
-	##	Method to determine if the user wants help, and conequently
-	#		display the user manual.
-	#	O(n) method, with respect to the number of input arguments.
-	@staticmethod
-	def check_if_help_wanted():
-		# If user wants to read the brief user manual,
-		if "-h" in sys.argv:
-			# Display the user manual and exit.
-			print("-------------------------------------------------")
-			print("==>	This script performs genetic technology mapping.")
-			print("")
-			print("This script can be executed as follows:")
-			print("./problem1_solution.py [input JSON netlist] [output JSON technology mapping] [-h]")
-			print("")
-			print("==>	This other script performs incremental regression testing")
-			print("	of my solution for genetic technology mapping.")
-			print("")
-			print("This other script can be executed as follows:")
-			print("./incremental_test.py [input JSON netlist] [output JSON technology mapping] [-h]")
-			print("")
-			print("An optional '-h' flag can be used as any input argument")
-			print("	to show the brief user manual and exit.")
-			print("")
-			print("-------------------------------------------------")
-
-
-
-
-
-
-
-
-
-
-
-
-
-###############################################################
-# Main method for the program.
-
-#	If this is executed as a Python script,
-if __name__ == "__main__":
-	generate_filename.check_if_help_wanted()
-	print("===================================================")
-	print("Generate filename to store experimental/simulation results.")
-	print("")
-	filename = generate_filename.create_filename()
-	print("")
-	print("	= end =")
-
-
-#	Python database management
-#	Python: date, time, now, string
-#	Add references.
-#	\cite{Hetland2005,Lutz2010,Lutz2011,Sileika2010,Younker2008}.
-#	\cite[Chp. 17,25]{Beazley2009}
