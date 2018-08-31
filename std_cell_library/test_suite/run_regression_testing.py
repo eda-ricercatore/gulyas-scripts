@@ -38,7 +38,6 @@
 	References:
 	\cite[datetime module, \S8.1.4 datetime Objects, now() function]{DrakeJr2016b}
 
-
 	Revision History:
 	August 30, 2018			Version 0.1, initial build.
 """
@@ -114,6 +113,16 @@ class run_regression_tests:
 				cases of multiple/double/dual file extensions
 				in file_io.py module (in the utilities package)
 				of my genetic technology mapping tool.
+				+ os.path.split()
+				+ os.path.splitext()
+
+			Implement functions to write output files to a
+				specific directory:
+				+ os.chdir()
+				+ os.path.join()
+
+			References:
+				\cite[\S11 File and Directory Access, \S11.2 os.path - Common pathname manipulations]{DrakeJr2016b}
 
 			Implement functions to do process date and time
 				in a date_time_operations module in the
