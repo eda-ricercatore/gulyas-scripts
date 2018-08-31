@@ -35,6 +35,12 @@
 
 
 
+	References:
+	\cite{SaltyCrane2014}
+		Eliot "Salty Crane", "How to get the current date and time in Python," from Salty Crane Blog, June 26, 2008. Available online from Salty Crane Blog at: https://www.saltycrane.com/blog/2008/06/how-to-get-current-date-and-time-in/; modified on October 22, 2014; self-published; August 31, 2018 was the last accessed date
+
+	\cite[datetime module, \S8.1.4 datetime Objects, now() function]{DrakeJr2016b}
+
 
 
 	Revision History:
@@ -108,7 +114,9 @@ class generate_filename:
 		"""
 			Generate filename to store experimental/simulation
 				results, from characterizing the standard cell
-				library that uses noise-based logic.
+				library that uses noise-based logic
+				\cite{SaltyCrane2014}
+				\cite[datetime module, \S8.1.4 datetime Objects, now() function]{DrakeJr2016b}.
 		"""
 		now = datetime.datetime.now()
 		"""

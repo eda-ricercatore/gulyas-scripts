@@ -3,18 +3,14 @@
 """
 	This is written by Zhiyang Ong to execute another run of automated
 		regression testing, and store the experimental data/results
-        from running experiments, and/or automated software regression
-        testing and hardware regression
+        from running experiments, simulation results, and/or automated
+        software regression testing and hardware regression
 		verification.
-
-
 
 	Synopsis: command name and [argument(s)]
 	./run_regression_testing.py [-h]
 
 	Parameters:
-	[input BibTeX file]:	A BibTeX database.
-
 	[-h]				:	If an optional "-h" flag is used as an
 							input argument, show the brief user manual
 							and exit (terminate the program).
@@ -22,9 +18,12 @@
 
 	Its procedure is described as follows:
 	If the optional "-h" flag is specified,
-		display the brief user manual.
-	Get the current date and time in the DD-MM-YY-HH-MM-SS format,
-		and create an empty file named after the current date and time.
+		display the brief user manual and exit.
+	Generate filename of the output file, for storing experimental or
+		simulation results.
+	Run the experiments and/or simulations.
+		Write the experimental and/or simulation results to output file.
+
 
 
 	Notes/Assumptions:
@@ -36,10 +35,12 @@
 
 
 
+	References:
+	\cite[datetime module, \S8.1.4 datetime Objects, now() function]{DrakeJr2016b}
 
 
 	Revision History:
-	April 17, 2017			Version 0.1, initial build.
+	August 30, 2018			Version 0.1, initial build.
 """
 
 
@@ -59,7 +60,7 @@
 
 __author__ = 'Zhiyang Ong'
 __version__ = '0.2'
-__date__ = 'Apr 17, 2017'
+__date__ = 'August 30, 2018'
 
 ###############################################################
 
@@ -94,9 +95,43 @@ import datetime
 
 # Module to process input arguments to the script/program.
 #from utilities.queue_ip_arguments import queue_ip_args
+"""
+	Module to generate the filename for storing the experimental
+		results and simulation output.
+"""
+from generate_results_filename import generate_filename
+
+###############################################################
+class run_regression_tests:
+	@staticmethod
+	def check_filename():
+		temp_op_filename = generate_filename.create_filename()
+		"""
+			Delimit the string "temp_op_filename" into tokens,
+				using "-" as a delimiter.
+
+			Implement functions to get file extension to handle
+				cases of multiple/double/dual file extensions
+				in file_io.py module (in the utilities package)
+				of my genetic technology mapping tool.
+
+			Implement functions to do process date and time
+				in a date_time_operations module in the
+				utilities package of my genetic technology
+				mapping tool.
+		"""
 
 
 ###############################################################
-class generate_filename:
-	@staticmethod
-	def create_filename():
+# Main method for the program.
+
+#	If this is executed as a Python script,
+if __name__ == "__main__":
+	generate_filename.check_if_help_wanted()
+	print("===================================================")
+	print("Run automated regression testing to obtain a set of")
+	print("	experimental/simulation results.")
+	print("")
+	filename = generate_filename.create_filename()
+	print("")
+	print("	= end =")
