@@ -115,6 +115,9 @@ class run_regression_tests:
 				of my genetic technology mapping tool.
 				+ os.path.split()
 				+ os.path.splitext()
+					\cite{Dharmkar2017}
+			Implement function to compare a file extension to
+				a target/specific file extension.
 
 			Implement functions to write output files to a
 				specific directory:
@@ -122,7 +125,11 @@ class run_regression_tests:
 				+ os.path.join()
 
 			References:
-				\cite[\S11 File and Directory Access, \S11.2 os.path - Common pathname manipulations]{DrakeJr2016b}
+				\cite[\S11 File and Directory Access, \S11.2 os.path - Common pathname manipulations]{DrakeJr2016b};
+					see \url{https://docs.python.org/3/library/os.path.html}
+				\cite{Hong2016};
+					see \url{https://www.bogotobogo.com/python/python_files.php}
+				\cite{nosklo2017}.
 
 			Implement functions to do process date and time
 				in a date_time_operations module in the
