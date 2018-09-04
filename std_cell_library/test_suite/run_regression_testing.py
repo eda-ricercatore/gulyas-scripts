@@ -29,14 +29,15 @@
 	Notes/Assumptions:
 	Since I would be categorizing and storing the experimental results
 		based on the year and month, the filename containg experimental
-		results would be named in the DD-MM-YY-HH-MM-SS format so that
+		results would be named in the DD-MM-YY-HR-SS-US format so that
 		I can quickly find the file of a given build (or experimental
 		run) as I read the filename from left to right.
 
 
 
 	References:
-	\cite[datetime module, \S8.1.4 datetime Objects, now() function]{DrakeJr2016b}
+	[DrakeJr2016b]
+		datetime module, section 8.1.4 datetime Objects, now() function
 
 	Revision History:
 	August 30, 2018			Version 0.1, initial build.
@@ -106,18 +107,8 @@ class run_regression_tests:
 	def check_filename():
 		temp_op_filename = generate_filename.create_filename()
 		"""
-			Delimit the string "temp_op_filename" into tokens,
-				using "-" as a delimiter.
-
-			Implement functions to get file extension to handle
-				cases of multiple/double/dual file extensions
-				in file_io.py module (in the utilities package)
-				of my genetic technology mapping tool.
-				+ os.path.split()
-				+ os.path.splitext()
-					\cite{Dharmkar2017}
-			Implement function to compare a file extension to
-				a target/specific file extension.
+			Delimit the filename string "DD-MM-YY-HH-MM-SS-US"
+				into tokens, using "-" as a delimiter.
 
 			Implement functions to write output files to a
 				specific directory:
@@ -125,11 +116,13 @@ class run_regression_tests:
 				+ os.path.join()
 
 			References:
-				\cite[\S11 File and Directory Access, \S11.2 os.path - Common pathname manipulations]{DrakeJr2016b};
-					see \url{https://docs.python.org/3/library/os.path.html}
-				\cite{Hong2016};
-					see \url{https://www.bogotobogo.com/python/python_files.php}
-				\cite{nosklo2017}.
+			[DrakeJr2016b]
+				Section 11 File and Directory Access, subsection 11.2 os.path - Common pathname manipulations;
+				see https://docs.python.org/3/library/os.path.html;
+			[Hong2016]
+				see https://www.bogotobogo.com/python/python_files.php;
+			[nosklo2017]
+
 
 			Implement functions to do process date and time
 				in a date_time_operations module in the
