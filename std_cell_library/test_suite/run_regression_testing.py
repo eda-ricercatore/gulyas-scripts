@@ -107,9 +107,6 @@ class run_regression_tests:
 	def check_filename():
 		temp_op_filename = generate_filename.create_filename()
 		"""
-			Delimit the filename string "DD-MM-YY-HH-MM-SS-US"
-				into tokens, using "-" as a delimiter.
-
 			Implement functions to write output files to a
 				specific directory:
 				+ os.chdir()
@@ -124,10 +121,6 @@ class run_regression_tests:
 			[nosklo2017]
 
 
-			Implement functions to do process date and time
-				in a date_time_operations module in the
-				utilities package of my genetic technology
-				mapping tool.
 		"""
 
 
