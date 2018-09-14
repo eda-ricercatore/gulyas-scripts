@@ -33,11 +33,27 @@
 		I can quickly find the file of a given build (or experimental
 		run) as I read the filename from left to right.
 
+	To implement functions to write output files to a specific directory,
+		I would not be using the methods "os.chdir()" and "os.path.join()".
+	Instead, I would be specifying a base directory that is appended
+		with information from the current date (i.e., year and month).
+	This avoids having to implement and test methods that I would
+		probably not use often.
+
 
 
 	References:
 	[DrakeJr2016b]
 		datetime module, section 8.1.4 datetime Objects, now() function
+
+	[DrakeJr2016b]
+		Section 11 File and Directory Access, subsection 11.2 os.path - Common pathname manipulations;
+		see https://docs.python.org/3/library/os.path.html;
+
+	[Hong2016]
+		see https://www.bogotobogo.com/python/python_files.php;
+
+	[nosklo2017]
 
 	Revision History:
 	August 30, 2018			Version 0.1, initial build.
@@ -109,18 +125,6 @@ class run_regression_tests:
 		"""
 			Implement functions to write output files to a
 				specific directory:
-				+ os.chdir()
-				+ os.path.join()
-
-			References:
-			[DrakeJr2016b]
-				Section 11 File and Directory Access, subsection 11.2 os.path - Common pathname manipulations;
-				see https://docs.python.org/3/library/os.path.html;
-			[Hong2016]
-				see https://www.bogotobogo.com/python/python_files.php;
-			[nosklo2017]
-
-
 		"""
 
 
