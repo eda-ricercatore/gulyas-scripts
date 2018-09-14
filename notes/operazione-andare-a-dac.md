@@ -22,7 +22,13 @@ Questions:
 
 To-do list:
 + Create file with filename named in the DD-MM-YY-HH-MM-SS format, which is
-		stored in correct directory.
+	stored in correct directory.
++ Store test results in a database (in *CSV* format), and manage it with a *SQL*
+	database (e.g., *MySQL*).
+	- Process this with a *NoSQL* database.
+	- Process this with a *NewSQL* database.
++ Finish assignments 1 and 2 for the data science course.
++ Figure out how to do generic programming in *Python*?
 + Run automated regression testing, and/or regression verification, to put
 		the experimental results of each build in the correct directory.
 		And, commit and push that build to the cloud-based research repository.
