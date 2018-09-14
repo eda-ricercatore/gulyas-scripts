@@ -2204,10 +2204,10 @@ The following modules in *The Python Standard Library* \cite{DrakeJr2016e,DrakeJ
 ####	Built-in Collections
 
 From \cite[Chapter 2, pp. 39]{Alchin2010}
-+ lists
-+ tuples
++ lists \cite[\S5.1]{Brandl2017a}
++ tuples (and lists, sequences, and ranges) \cite[\S5.3]{Brandl2017a}
 	- Tuples are immutable \cite[Chapter 1, section on "Tuples", pp. 14]{Beazley2009}.
-+ sets \cite[Chapter 2, pp. 39]{Alchin2010}
++ sets \cite[Chapter 2, pp. 39]{Alchin2010} \cite[\S5.4]{Brandl2017a}
 	- Disallow duplicates
 	- The standard constructor accepts the following as inputs:
 		* sequences
@@ -2245,7 +2245,7 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 		return these sets of values.
 		They allow the returned values to be accessible by named fields, just
 			like dictionaries.
-+ dictionaries \cite[Chapter 2, pp. 44]{Alchin2010}
++ dictionaries \cite[Chapter 2, pp. 44]{Alchin2010} \cite[\S5.5]{Brandl2017a}
 	- unordered data structure
 + ordered dictionaries \cite[Chapter 2, pp. 44]{Alchin2010}
 	- ordered data structure
