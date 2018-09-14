@@ -1281,7 +1281,8 @@ Notes on *Python* functions:
 + Return multiple values from a function by placing them in a tuple, which is
 	returned to the function caller
 	\cite[Chapter 6, section on "Parameter Passing and Return Values," pp. 96]{Beazley2009}.
-	- \cite{saffsd2017} shows other methods of returning multiple values;
+	- \cite{saffsd2017} and \cite{Lathkar2018} show other methods of
+		returning multiple values;
 		the methods are listed as follows.
 		* As a named **tuple**
 		* As a **dictionary**
