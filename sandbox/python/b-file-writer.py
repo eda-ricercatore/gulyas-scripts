@@ -58,6 +58,27 @@ from datetime import date
 import datetime
 
 
+
+
+"""
+	A function with three return values.
+"""
+def function_with_3_return_values():
+	month = 5
+	year = 2018
+	filename = "name_of_file.txt"
+	#	Return values as a dictionary.
+	#return {"month":month, "year":year, "filename":filename}
+	#	Return values as a tuple.
+	return month, year, filename
+
+
+
+
+
+
+
+
 """
 	Create a dictionary (associative memories, or associative arrays) of
 		(number, name) months.
@@ -72,5 +93,10 @@ except KeyError:
 	print("	Numerical representation for the month is out of bounds.")
 
 # ~/Documents/ricerca/risultati_sperimentali/std-cell-library-characterization
-
+cur_month, cur_year, cur_filename = function_with_3_return_values()
+print("cur_month is:",cur_month)
+print("cur_year is:",cur_year)
+print("cur_filename is:",cur_filename)
+something = function_with_3_return_values()
+print("something is:",something)
 # Change directory

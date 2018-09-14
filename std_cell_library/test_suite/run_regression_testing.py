@@ -104,6 +104,7 @@ import re
 import filecmp
 from datetime import date
 import datetime
+from calendar import month_name
 
 ###############################################################
 
@@ -139,5 +140,10 @@ if __name__ == "__main__":
 	print("	experimental/simulation results.")
 	print("")
 	filename = generate_filename.create_filename()
+	print("")
+	print("	Month #4 is:",month_name[4])
+	print("	Month #0 is:",month_name[0],"=end.")
+	#print("	Month #100 is:",month_name[100])
+	print("	Month #100 is:",month_name[-78])
 	print("")
 	print("	= end =")
