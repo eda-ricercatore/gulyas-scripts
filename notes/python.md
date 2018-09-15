@@ -1281,13 +1281,14 @@ Notes on *Python* functions:
 + Return multiple values from a function by placing them in a tuple, which is
 	returned to the function caller
 	\cite[Chapter 6, section on "Parameter Passing and Return Values," pp. 96]{Beazley2009}.
-	- \cite{saffsd2017} and \cite{Lathkar2018} show other methods of
+	- \cite{saffsd2017}, \cite{Agrawal20XY}, and \cite{Lathkar2018} show other methods of
 		returning multiple values;
 		the methods are listed as follows.
 		* As a named **tuple**
 		* As a **dictionary**
 		* As a **list**
 		* As an **object**, using the instantiation of a *Python* class.
+	- We can also use a generator to return multiple values \cite{rlms2014}.
 + No *Python* function is given special privileges over other *Python* functions
 	\cite[Chapter 3, pp. 53]{Alchin2010}.
 + *Python* functions encapsulate code into individual units, which facilitates
