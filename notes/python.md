@@ -1285,7 +1285,9 @@ Notes on *Python* functions:
 		returning multiple values;
 		the methods are listed as follows.
 		* As a named **tuple**
-			+ Or, tuples \cite{MantidContributors20XY}
+			+ Or, tuples \cite{MantidContributors20XY}.
+			+ \cite{LaRooy2013} indicates that returned variables without
+				surrounding round brackets.
 		* As a **dictionary**
 		* As a **list**
 		* As an **object**, using the instantiation of a *Python* class.
