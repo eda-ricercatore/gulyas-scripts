@@ -1369,8 +1369,8 @@ Notes on *Python* functions:
 		* **\*\*kwargs** is an example of using an arbitrary number of
 			keyword arguments \cite[\S4.7.3 'Arbitrary Argument Lists' and \S4.7.4 'Unpacking Argument Lists']{Brandl2017a}.
 		* When calling a multi-value returning function, I can assign
-			**_** to an unwanted return value (or **_BLAH** to unwanted
-			return values
+			"**_**" to an unwanted return value (or "**_BLAH**" to unwanted
+			return values.
 	- Use the terms **\*param-last** and **\*\*param-last** to write wrappers
 		and proxies for other functions, so that these wrappers/proxies can
 		pass these terms to those other functions
