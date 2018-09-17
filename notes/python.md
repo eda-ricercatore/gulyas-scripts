@@ -1299,6 +1299,8 @@ Notes on *Python* functions:
 		* I can assign variables to default values.
 		* However, I cannot assign optional variables to default values before
 			assigning values to optional variables.
+	- To return a variable number of values, try using a list, dictionary,
+		or object,
 + No *Python* function is given special privileges over other *Python* functions
 	\cite[Chapter 3, pp. 53]{Alchin2010}.
 + *Python* functions encapsulate code into individual units, which facilitates
@@ -1364,6 +1366,8 @@ Notes on *Python* functions:
 		* The **\*\*param-last** term can be passed to another function as
 			**\*\*param-last**, since it is placed in a dictionary
 			\cite[Chapter 6, section on "Functions," pp. 95]{Beazley2009}.
+		* **\*\*kwargs** is an example of using an arbitrary number of
+			keyword arguments \cite[\S4.7.3 'Arbitrary Argument Lists' and \S4.7.4 'Unpacking Argument Lists']{Brandl2017a}.
 	- Use the terms **\*param-last** and **\*\*param-last** to write wrappers
 		and proxies for other functions, so that these wrappers/proxies can
 		pass these terms to those other functions
