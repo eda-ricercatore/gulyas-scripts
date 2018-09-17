@@ -1287,11 +1287,18 @@ Notes on *Python* functions:
 		* As a named **tuple**
 			+ Or, tuples \cite{MantidContributors20XY}.
 			+ \cite{LaRooy2013} indicates that returned variables without
-				surrounding round brackets.
+				surrounding round brackets are returned as a tuple, rather
+				than multiple separate variables;
+				the individual elements of the tuple can be accessed separately.
 		* As a **dictionary**
 		* As a **list**
 		* As an **object**, using the instantiation of a *Python* class.
 	- We can also use a generator to return multiple values \cite{rlms2014}.
+	- As of September 2017, 2018, I cannot create a function with optional
+		input parameters.
+		* I can assign variables to default values.
+		* However, I cannot assign optional variables to default values before
+			assigning values to optional variables.
 + No *Python* function is given special privileges over other *Python* functions
 	\cite[Chapter 3, pp. 53]{Alchin2010}.
 + *Python* functions encapsulate code into individual units, which facilitates
