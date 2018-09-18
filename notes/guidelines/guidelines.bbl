@@ -1,0 +1,1263 @@
+\begin{thebibliography}{100}
+
+\bibitem{37signals2006}
+37signals.
+\newblock {\em Getting Real: The smarter, faster, easier way to build a
+  successful web application}.
+\newblock 37signals, Chicago, {IL}, 2006.
+
+\bibitem{Abrahams1998}
+David Abrahams.
+\newblock Exception-safety in generic components: Lessons learned from
+  specifying exception-safety for the {C++} standard library.
+\newblock In {\em Proceedings of the International Seminar on Generic
+  Programming}, volume 1766 of {\em Lecture Notes in Computer Science}, pages
+  69--79, Wadern, Merzig-Wadern, Saarland, Germany, April 27 -- May 1 1998.
+  Springer-Verlag Berlin Heidelberg.
+
+\bibitem{Abrahams2001}
+David Abrahams.
+\newblock Exception-safety in generic components: Lessons learned from
+  specifying exception-safety for the {C++} standard library.
+\newblock Available online from {\it Boost C++ Libraries: Community} at:
+  \url{http://www.boost.org/community/exception_safety.html}; self-published;
+  October 27, 2016 was the last accessed date, 2001.
+
+\bibitem{ACMCouncil1992}
+{ACM Council}.
+\newblock {ACM} code of ethics and professional conduct.
+\newblock Available online at: \url{http://www.acm.org/about/code-of-ethics};
+  September 27, 2014 was the last accessed date, October 16 1992.
+
+\bibitem{Agans2006}
+David~J. Agans.
+\newblock {\em Debugging: The 9 Indispensable Rules for Finding Even the Most
+  Elusive Software and Hardware Problems}.
+\newblock {AMACOM}, New York, {NY}, 2006.
+
+\bibitem{Albing2007}
+Carl Albing, {J. P.} Vossen, and Cameron Newham.
+\newblock {\em {bash} Cookbook: Solutions and Examples for {bash} Users}.
+\newblock O'Reilly Media, Sebastopol, {CA}, 2007.
+
+\bibitem{Alchin2010}
+Marty Alchin.
+\newblock {\em Pro {Python}: Advanced Coding Techniques and Tools}.
+\newblock The Expert's Voice$^{\textregistered}$\ in Open Source. Apress,
+  Berkeley, {CA}, 2010.
+
+\bibitem{AltSimmons2016}
+Rachel {Alt-Simmons}.
+\newblock {\em Agile by Design: An Implementation Guide to Analytic Lifecycle
+  Management}.
+\newblock {Wiley} {\rm \&}\ {SAS} Business. John Wiley {\rm \&}\ Sons, Hoboken,
+  {NJ}, 2016.
+
+\bibitem{Ambler2003}
+Scott~W. Ambler.
+\newblock {\em Agile Database Techniques: Effective Strategies for the Agile
+  Software Developer}.
+\newblock Wiley Publishing, Indianapolis, {IN}, 2003.
+
+\bibitem{Ambler2012}
+Scott~W. Ambler and Mark Lines.
+\newblock {\em Disciplined Agile Delivery: A Practitioner's Guide to Agile
+  Software Delivery in the Enterprise}.
+\newblock {IBM} Press and Pearson {PLC}, Armonk, {NY} and Boston, {MA}, 2012.
+
+\bibitem{Appelo2011}
+Jurgen Appelo.
+\newblock {\em Management 3.0: Leading Agile Developers, Developing Agile
+  Leaders}.
+\newblock Addison-Wesley Signature Series. Addison-Wesley, Boston, {MA}, 2011.
+
+\bibitem{Babar2014}
+Muhammad~Ali Babar, Alan~W. Brown, and Ivan Mistrik.
+\newblock {\em Agile Software Architecture: Aligning Agile Processes and
+  Software Architectures}.
+\newblock Morgan Kaufmann, Waltham, {MA}, 2014.
+
+\bibitem{Barba2016}
+Lorena~A. Barba.
+\newblock The hard road to reproducibility.
+\newblock {\em Science}, 354(6308):142, October 7 2016.
+
+\bibitem{Barr2013}
+Michael Barr.
+\newblock Embedded {C} coding standard.
+\newblock Self-published, Gaithersburg, {MD}, 2013.
+
+\bibitem{Basalaj2013}
+Wojciech Basalaj and Richard Corden.
+\newblock High integrity {C++} coding standard {V4.0}: An overview.
+\newblock Technical report, Programming Research Ltd., Hersham, Surrey,
+  England, {U.K.}, November 2013.
+
+\bibitem{Baumer2017}
+Benjamin~S. Baumer, Daniel~T. Kaplan, and Nicholas~J. Horton.
+\newblock {\em Modern Data Science with {R}}.
+\newblock Texts in Statistical Science. {CRC} Press, Boca Raton, {FL}, 2017.
+
+\bibitem{Beck2005}
+Kent Beck and Cynthia Andres.
+\newblock {\em Extreme Programming Explained: Embrace Change}.
+\newblock The {XP} Series. Pearson Education, Upper Saddle River, {NJ}, second
+  edition, 2005.
+
+\bibitem{Beedle2001}
+Mike Beedle, Arie {van Bennekum}, Alistair Cockburn, Ward Cunningham, Martin
+  Fowler, Jim Highsmith, Andrew Hunt, Ron Jeffries, Jon Kern, Brian Marick,
+  Robert~C. Martin, Ken Schwaber, Jeff Sutherland, and Dave Thomas.
+\newblock Manifesto for {Agile} software development.
+\newblock Available online at: \url{http://www.agilemanifesto.org/}; February
+  7, 2016 was the last accessed date, 2001.
+
+\bibitem{Beedle2001a}
+Mike Beedle, Arie {van Bennekum}, Alistair Cockburn, Ward Cunningham, Martin
+  Fowler, Jim Highsmith, Andrew Hunt, Ron Jeffries, Jon Kern, Brian Marick,
+  Robert~C. Martin, Ken Schwaber, Jeff Sutherland, and Dave Thomas.
+\newblock Principles behind the agile manifesto.
+\newblock Available online from {\it Manifesto for Agile Software Development}
+  at: \url{http://agilemanifesto.org/principles.html}; June 9, 2018 was the
+  last accessed date, 2001.
+
+\bibitem{Bening2000}
+Lionel Bening and Harry Foster.
+\newblock {\em Principles of Verifiable {RTL} Design: A Functional Coding Style
+  Supporting Verification Processes in {Verilog}}.
+\newblock Kluwer Academic Publishers, New York, {NY}, 2000.
+
+\bibitem{Bening2001}
+Lionel Bening and Harry Foster.
+\newblock {\em Principles of Verifiable {RTL} Design: A functional coding style
+  supporting verification processes in {Verilog}}.
+\newblock Kluwer Academic Publishers, New York, {NY}, second edition, 2001.
+
+\bibitem{Bentley2000}
+Jon Bentley.
+\newblock {\em Programming Pearls}.
+\newblock Addison-Wesley, Reading, {MA}, second edition, 2000.
+
+\bibitem{Blackburn20XY}
+Steve Blackburn and Matthias Hauswirth.
+\newblock Artifact evaluation.
+\newblock Available online from {\it University of Lugano: Faculty of
+  Informatics: Evaluate Collaboratory, Experimental Evaluation of Software and
+  Systems in Computer Science} at: \url{http://evaluate.inf.usi.ch/artifacts};
+  June 25, 2017 was the last accessed date.
+
+\bibitem{Blume2007a}
+Peter~A. Blume.
+\newblock {\em The {LabVIEW} Style Book}.
+\newblock Prentice Hall, Upper Saddle River, {NJ}, 2007.
+
+\bibitem{Boehm2004}
+Barry Boehm and Richard Turner.
+\newblock {\em Balancing Agility and Discipline: A Guide for the Perplexed}.
+\newblock Pearson Education, Boston, {MA}, 2004.
+
+\bibitem{Cady2017}
+Field Cady.
+\newblock {\em The Data Science Handbook}.
+\newblock John Wiley {\rm \&}\ Sons, Hoboken, {NJ}, 2017.
+
+\bibitem{Capretz1996}
+Luiz~Fernando Capretz and Miriam A.~M. Capretz.
+\newblock {\em Object-Oriented Software Design and Maintenance}, volume~6 of
+  {\em Series on Software Engineering and Knowledge Engineering}.
+\newblock World Scientific Publishing, Singapore, 1996.
+
+\bibitem{Cargill1992}
+Tom Cargill.
+\newblock {\em {C++} Programming Style}.
+\newblock Addison-Wesley, Reading, {MA}, 1992.
+
+\bibitem{Carrano2012}
+Frank~M. Carrano.
+\newblock {\em Data Structures and Abstractions with Java}.
+\newblock Prentice Hall, Upper Saddle River, {NJ}, third edition, 2012.
+
+\bibitem{Chacon2009}
+Scott Chacon.
+\newblock {\em Pro {Git}}.
+\newblock Apress, New York, {NY}, 2009.
+
+\bibitem{Chacon2014}
+Scott Chacon and Ben Straub.
+\newblock {\em Pro {Git}: Everything You Need to Know About {Git}}.
+\newblock The Expert's Voice$^{\textregistered}$. Apress Media, {LLC},
+  Berkeley, {CA}, second edition, 2014.
+
+\bibitem{Cockburn2007}
+Alistair Cockburn.
+\newblock {\em Agile Software Development: The Cooperative Game}.
+\newblock Agile Software Development Series. Pearson Education, Boston, {MA},
+  second edition, 2007.
+
+\bibitem{CodeOceanstaff2017}
+{Code Ocean staff}.
+\newblock Code ocean: Discover {\rm \&}\ run scientific code.
+\newblock Available online at: \url{https://codeocean.com}; February 2, 2018
+  was the last accessed date, 2017.
+
+\bibitem{Collier2012}
+Ken Collier.
+\newblock {\em Agile Analytics: A Value-Driven Approach to Business
+  Intelligence and Data Warehousing}.
+\newblock Agile Software Development Series. Addison-Wesley, Boston, {MA},
+  2012.
+
+\bibitem{HewlettPackardCompany2012}
+Hewlett-Packard Company.
+\newblock Dave packard's 11 simple rules.
+\newblock Available online in {\it Hewlett-Packard Company: Retiree Home:
+  History: Founders {\rm \&}\ early contributors--Dave Packard} at:
+  \url{http://www.hp.com/retiree/history/founders/packard/11rules.html}; March
+  15, 2014 was the last accessed date, 2012.
+
+\bibitem{Conway2003}
+Jon Conway and Steve Watts.
+\newblock {\em A Software Engineering Approach to
+  {LabVIEW}$^{\texttrademark}$}.
+\newblock National Instruments Virtual Instrumentation Series. Prentice Hall,
+  Upper Saddle River, {NJ}, 2003.
+
+\bibitem{Coplien2005}
+James~O. Coplien and Neil~B. Harrison.
+\newblock {\em Organizational Patterns of Agile Software Development 2004}.
+\newblock Prentice-Hall, Upper Saddle River, {NJ}, 2005.
+
+\bibitem{Corr2011}
+Lawrence Corr and Jim Stagnitto.
+\newblock {\em Agile Data Warehouse Design: Collaborative Dimensional Modeling,
+  from Whiteboard to Star Schema 2011}.
+\newblock {DecisionOne Press}, Leeds, West Yorkshire, Yorkshire and the Humber,
+  England, {U.K.}, 2011.
+
+\bibitem{Coverity2012}
+Coverity.
+\newblock Coverity scan: 2012 open source report.
+\newblock Technical report, {Coverity, Inc.}, San Francisco, {CA}, 2012.
+
+\bibitem{Creswell2014}
+John~W. Creswell.
+\newblock {\em Research Design: Qualitative, Quantitative, and Mixed Methods
+  Approaches}.
+\newblock {SAGE} Publications, Thousand Oaks, {CA}, fourth edition, 2014.
+
+\bibitem{Crookshanks2012}
+Edward Crookshanks.
+\newblock {\em Practical Software Development Techniques: Tools and Techniques
+  for Building Enterprise Software}.
+\newblock Nokel Services, third edition, 2012.
+
+\bibitem{Dasso2007}
+Aristides Dasso and Ana Funes.
+\newblock {\em Verification, Validation and Testing in Software Engineering}.
+\newblock Idea Group Publishing, Hershey, {PA}, 2007.
+
+\bibitem{DatopianAtomaticLtdIncStaff2017}
+{Datopian (Atomatic Ltd), Inc. staff}.
+\newblock {DataHub}: Frictionless data, data online made simple.
+\newblock Available online at: \url{http://datahub.io}; February 2, 2018 was
+  the last accessed date, 2017.
+
+\bibitem{Davies2009}
+Rachel Davies and Liz Sedley.
+\newblock {\em Agile Coaching}.
+\newblock Pragmatic Bookshelf. The Pragmatic Programmers, Raleigh, {NC}, 2009.
+
+\bibitem{DeLucia2008}
+Andrea {De Lucia}, Filomena Ferrucci, Genny Tortora, and Maurizio Tucci.
+\newblock {\em Emerging Methods, Technologies, and Process Management in
+  Software Engineering}.
+\newblock John Wiley {\rm \&}\ Sons, Hoboken, {NJ}, 2008.
+
+\bibitem{Derby2006}
+Esther Derby and Diana Larsen.
+\newblock {\em Agile Retrospectives: Making Good Teams Great}.
+\newblock The Pragmatic Programmers, Raleigh, {NC}, 2006.
+
+\bibitem{Driscoll20XYb}
+Evan Driscoll.
+\newblock {Latexdiff} notes.
+\newblock Available online from {\it University of Wisconsin-Madison:
+  University of Wisconsin-Madison College of Engineering: Department of
+  Computer Sciences: Evan Driscoll's web page: Writings on Software: \LaTeX}
+  at: \url{http://pages.cs.wisc.edu/~driscoll/software/latex/latexdiff.html};
+  February 15, 2016 was the last accessed date.
+
+\bibitem{Driscoll20XY}
+Evan Driscoll.
+\newblock Scons documentation recommendatitons.
+\newblock Available online from {\it Evan Driscoll's web page: Writings on
+  Software: SCons}, the Department of Computer Sciences, University of
+  Wisconsin--Madison College of Engineering, University of Wisconsin--Madison
+  at: \url{http://pages.cs.wisc.edu/~driscoll/software/scons/index.html};
+  February 15, 2016 was the last accessed date.
+
+\bibitem{Driscoll2012}
+Evan Driscoll.
+\newblock Version control.
+\newblock Available online from {\it Evan Driscoll's web page: Writings on
+  Software}, the Department of Computer Sciences, University of
+  Wisconsin--Madison College of Engineering, University of Wisconsin--Madison
+  at: \url{http://pages.cs.wisc.edu/~driscoll/software/vcs/}; February 15, 2016
+  was the last accessed date, February 22 2012.
+
+\bibitem{Eckstein2010}
+Jutta Eckstein.
+\newblock {\em Agile Software Development with Distributed Teams: Staying Agile
+  in a Global World}.
+\newblock Dorset House Publishing, New York, {NY}, 2010.
+
+\bibitem{Evangelista2012}
+Benny Evangelista.
+\newblock Facebook's hacker way -- ``move fast and break things''.
+\newblock Available online in {\it The San Francisco Chronicle: {The SF Gate}:
+  Blogs at SFGate.com: The Technology Chronicles} at:
+  \url{http://blog.sfgate.com/techchron/2012/02/01/facebooks-hacker-way-move-fast-and-break-things/};
+  October 9, 2014 was the last accessed date, February 1 2012.
+
+\bibitem{Feathers2005}
+Michael~C. Feathers.
+\newblock {\em Working Effectively with Legacy Code}.
+\newblock Robert C. Martin Series. Pearson Education, Upper Saddle River, {NJ},
+  2005.
+
+\bibitem{Fewster1999}
+Mark Fewster and Dorothy Graham.
+\newblock {\em Software Test Automation: Effective Use of Test Execution
+  Tools}.
+\newblock {ACM} Press and Addison-Wesley, New York, {NY} and Harlow, Essex,
+  England, {U.K.}, 1999.
+
+\bibitem{figshareLLPstaff2016}
+{figshare LLP staff}.
+\newblock figshare: credit for all your research.
+\newblock Available online at: \url{https://figshare.com/}; November 4, 2016
+  was the last accessed date, 2016.
+
+\bibitem{Fingeroff2010}
+Michael Fingeroff.
+\newblock {\em High-Level Synthesis Blue Book}.
+\newblock Xlibris Corporation, Bloomington, {IN}, 2010.
+
+\bibitem{Fong2011}
+Rachel Fong.
+\newblock Move fast and break things.
+\newblock Available online in {\it {MIT} Admissions: Blogs: Academics {\rm \&}\
+  Research} at:
+  \url{http://mitadmissions.org/blogs/entry/move_fast_and_break_things};
+  October 9, 2014 was the last accessed date, June 25 2011.
+
+\bibitem{Fox2013}
+Armando Fox and David Patterson.
+\newblock {\em Engineering Long-Lasting Software: An Agile Approach Using
+  {SaaS} and Cloud Computing}.
+\newblock Strawberry Canyon {LLC}, beta 0.9.1 edition, January 10 2013.
+
+\bibitem{Franca2014}
+Daniel Fran{\c{c}}a.
+\newblock {C++} has become more {Pythonic}-{Jeff Preshing}.
+\newblock Available online from {\it Standard {C++}: Blog} at:
+  \url{https://isocpp.org/blog/2014/12/c-has-become-more-pythonic};
+  self-published; February 1, 2018 was the last accessed date, December 2 2014.
+
+\bibitem{Gandrud2014}
+Christopher Gandrud.
+\newblock {\em Reproducible Research with {R} and {RStudio}}.
+\newblock Chapman {\rm \&}\ Hall/{CRC} The {R} Series. {CRC} Press, Boca Raton,
+  {FL}, 2014.
+
+\bibitem{Gandrud2015}
+Christopher Gandrud.
+\newblock {\em Reproducible Research with {R} and {RStudio}}.
+\newblock Chapman {\rm \&}\ Hall/{CRC} The {R} Series. {CRC} Press, Boca Raton,
+  {FL}, second edition, 2015.
+
+\bibitem{Geier20XY}
+Matthias Geier.
+\newblock Reproducible research.
+\newblock Available online from {\it Matthias Geier's web page} at:
+  \url{http://mg.readthedocs.io/reproducible_research.html}; self-published;
+  April 24, 2017 was the last accessed date.
+
+\bibitem{Ghani2016}
+Imran Ghani, Dayang Norhayati~Abang Jawawi, Siva Dorairaj, and Ahmed Sidky.
+\newblock {\em Emerging Innovations in Agile Software Development}.
+\newblock Advances in Systems Analysis, Software Engineering, and High
+  Performance Computing. Information Science Reference, Hershey, {PA}, 2016.
+
+\bibitem{GitHubContributors2014}
+{GitHub contributors}.
+\newblock Documentation.
+\newblock Available online at: \url{http://www.git-scm.com/doc}; August 1, 2014
+  was the last accessed date, 2014.
+
+\bibitem{GitHubContributors2014a}
+{GitHub contributors}.
+\newblock Reference.
+\newblock Available online at: \url{http://www.git-scm.com/docs}; August 1,
+  2014 was the last accessed date, 2014.
+
+\bibitem{GitHubStaff2016}
+{GitHub staff}.
+\newblock {GitHub}.
+\newblock Available online at: \url{https://github.com/}; November 4, 2016 was
+  the last accessed date, 2016.
+
+\bibitem{GitHubTeam2014}
+{GitHub team}.
+\newblock {Git} reference.
+\newblock Available online at: \url{http://gitref.org/}; August 1, 2014 was the
+  last accessed date, 2014.
+
+\bibitem{GitHubTrainingTeam2014c}
+{GitHub Training Team}.
+\newblock Community.
+\newblock Available online at: \url{http://www.git-scm.com/community}; August
+  1, 2014 was the last accessed date, 2014.
+
+\bibitem{GitHubTrainingTeam2014}
+{GitHub Training Team}.
+\newblock {GitHub} {Git} cheat sheet.
+\newblock Available online at:
+  \url{https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf};
+  August 1, 2014 was the last accessed date, 2014.
+
+\bibitem{GitHubTrainingTeam2014a}
+{GitHub Training Team}.
+\newblock {GitHub} training.
+\newblock Available online at: \url{https://training.github.com/}; August 14,
+  2014 was the last accessed date, 2014.
+
+\bibitem{GitHubTrainingTeam2014b}
+{GitHub Training Team}.
+\newblock {GitHub} training kit: Open source teaching resources -- open source
+  training content. present your way to better version control.
+\newblock Available online at: \url{https://training.github.com/kit/}; August
+  14, 2014 was the last accessed date, 2014.
+
+\bibitem{Goncalves2014}
+Luis Gon{\c{c}}alves and Ben Linders.
+\newblock Getting value out of agile retrospectives: A toolbox of retrospective
+  exercises.
+\newblock Self-published, Raleigh, {NC}, September 12 2014.
+
+\bibitem{Hagelberg2017}
+Philip~N. Hagelberg.
+\newblock Leiningen.
+\newblock Available online from at:
+  \url{https://github.com/technomancy/leiningen}; self-published; October 23,
+  2017 was the last accessed date, October 21 2017.
+
+\bibitem{Hamano2014}
+Junio~C. Hamano, Linus Torvalds, Shawn Pearce, Johannes Schindelin, Nicolas
+  Pitre, Ren{\'{e}} Scharfe, Jeff King, Jonathan Nieder, Johan Herland,
+  Johannes Sixt, Sverre Rabbelier, Michael~J. Gruber, Nguy{\~{e}}n
+  Th{\'{a}}i~Ng{\d{o}}c Duy, {\AE}var~Arnfj{\"{o}}r{\dh} Bjarmason, and Thomas
+  Rast.
+\newblock {Git}.
+\newblock Available online at: \url{http://www.git-scm.com/} and
+  \url{http://git-blame.blogspot.com/}; August 1, 2014 was the last accessed
+  date, August 12 2014.
+
+\bibitem{Hoff2008a}
+Todd Hoff.
+\newblock {C++} coding standard.
+\newblock Available online from {\it Possibility Outpost: Programmer's Corner}
+  at: \url{http://www.possibility.com/Cpp/CppCodingStandard.html}; February 16,
+  2016 was the last accessed date, March 1 2008.
+
+\bibitem{Humble2011}
+Jez Humble and David Farley.
+\newblock {\em Continuous Delivery: Reliable Software Releases through Build,
+  Test, and Deployment Automation}.
+\newblock Addison-Wesley Signature Series. Pearson Education, Boston, {MA},
+  2011.
+
+\bibitem{Hunt2006a}
+John Hunt.
+\newblock {\em Agile Software Construction}.
+\newblock Springer-Verlag London, London, {U.K.}, 2006.
+
+\bibitem{IEEE2014b}
+{IEEE Board of Directors}.
+\newblock {IEEE} code of ethics.
+\newblock Available online at:
+  \url{http://www.ieee.org/about/ieee_code_of_conduct.pdf}; October 2, 2014 was
+  the last accessed date, June 2014.
+
+\bibitem{IEEE2014a}
+{IEEE Board of Directors}.
+\newblock {IEEE} code of ethics.
+\newblock In {\em {IEEE} Policies}, page 7.3. Institute of Electrical and
+  Electronics Engineers, New York, {NY}, 2014.
+
+\bibitem{IEEE2014}
+{IEEE Board of Directors}.
+\newblock {IEEE} policies.
+\newblock Technical report, Institute of Electrical and Electronics Engineers,
+  New York, {NY}, August 2014.
+
+\bibitem{IEEE2014c}
+{IEEE Board of Directors}.
+\newblock Nondiscrimination policy.
+\newblock In {\em {IEEE} Policies}, page 9.8. Institute of Electrical and
+  Electronics Engineers, New York, {NY}, 2014.
+
+\bibitem{IntelCorporationStaff2015}
+{Intel Corporation staff}.
+\newblock {\em {Intel}$^{\textregistered}$\ 64 and {IA-32} Architectures
+  Optimization Reference Manual}.
+\newblock {Intel Corporation}, Santa Clara, {CA}, September 2015.
+
+\bibitem{InternationalDOIFoundationStaff2017}
+{International DOI Foundation staff}.
+\newblock Digital object identifier system.
+\newblock Available online at: \url{https://www.doi.org/}; January 20, 2017 was
+  the last accessed date, January 10 2017.
+
+\bibitem{Jalote2008}
+Pankaj Jalote.
+\newblock {\em A Concise Introduction to Software Engineering}.
+\newblock Undergraduate Topics in Computer Science. Springer-Verlag London,
+  London, {U.K.}, 2008.
+
+\bibitem{Jeffries2015}
+Ron Jeffries.
+\newblock {\em The Nature of Software Development: Keep It Simple, Make It
+  Valuable, Build It Piece by Piece}.
+\newblock The Pragmatic Programmers, Raleigh, {NC}, 2015.
+
+\bibitem{Jensen2015}
+Randall~W. Jensen.
+\newblock {\em Improving Software Development Productivity: Effective
+  Leadership and Quantitative Methods in Software Management}.
+\newblock Prentice Hall, Upper Saddle River, {NJ}, 2015.
+
+\bibitem{Jon2014}
+Jon.
+\newblock What does pythonic mean? $[$closed$]$.
+\newblock Available online from {\it Stack Exchange Inc.: Stack Overflow:
+  Questions} at:
+  \url{https://stackoverflow.com/questions/25011078/what-does-pythonic-mean};
+  February 1, 2018 was the last accessed date, July 29 2014.
+
+\bibitem{Keiter2013a}
+Eric~R. Keiter, Thomas~V. Russo, Richard~L. Schiek, Peter~E. Sholander,
+  Heidi~K. Thornquist, Ting Mei, Jason~C. Verley, and David~G. Baur.
+\newblock Building guide: How to build {Xyce}$^{\texttrademark}$\ from source
+  code.
+\newblock Technical Report {SAND2013-7294}, Sandia National Laboratories,
+  Sandia Corporation, Albuquerque, {NM}, August 2013.
+
+\bibitem{Kelly2008}
+Allan Kelly.
+\newblock {\em Changing Software Development: Learning to Become Agile}.
+\newblock John Wiley {\rm \&}\ Sons, Chichester, West Sussex, England, {U.K.},
+  2008.
+
+\bibitem{Kelly2015}
+Allan Kelly.
+\newblock {\em Xanpan: Team Centric Agile Software Development -- Combining
+  {Kanban} and {XP} - inspiration for creating your own hybrid}.
+\newblock Software Strategy Ltd., London, {U.K.}, 2015.
+
+\bibitem{Kernighan1999}
+Brian~W. Kernighan and Rob Pike.
+\newblock {\em The Practice of Programming}.
+\newblock Addison-Wesley Professional Computing Series. Addison-Wesley,
+  Reading, {MA}, 1999.
+
+\bibitem{Kernighan1982}
+Brian~W. Kernighan and P.~J. Plauger.
+\newblock {\em The Elements of Programming Style}.
+\newblock McGraw-Hill, New York, {NY}, second edition, 1982.
+
+\bibitem{Kim2017}
+Joshua Kim.
+\newblock `whiplash', the {MIT} media lab, and the rest of us.
+\newblock Available online from {\it Inside Higher Ed: Higher Education Blogs:
+  {Blog U}} at:
+  \url{https://www.insidehighered.com/blogs/technology-and-learning/whiplash-mit-media-lab-and-rest-us};
+  February 24, 2017 was the last accessed date, January 22 2017.
+
+\bibitem{Knuth1984}
+Donald~E. Knuth.
+\newblock Literate programming.
+\newblock {\em The Computer Journal}, 27(2):97--111, 1984.
+
+\bibitem{Knuth1992a}
+Donald~E. Knuth.
+\newblock {\em Literate Programming}.
+\newblock Center for the Study of Language and Information -- Lecture Notes.
+  The University of Chicago Press, Chicago, {IL}, 1992.
+
+\bibitem{Koopman2010}
+Philip Koopman.
+\newblock {\em Better Embedded System Software}.
+\newblock Drumnadrochit Education, 2010.
+
+\bibitem{Kopka2004}
+Helmut Kopka and Patrick~W. Daly.
+\newblock {\em Guide to {\LaTeX}}.
+\newblock Addison-Wesley Series on Tools and Techniques for Computer
+  Typesetting. Addison-Wesley, Boston, {MA}, fourth edition, 2004.
+
+\bibitem{Krishnamurthi20XY}
+Shriram Krishnamurthi.
+\newblock Artifact evaluation for software conferences.
+\newblock Available online from {\it Brown University: Computer Science
+  Department: Prof. Shriram Krishnamurthi's web page} at:
+  \url{http://www.artifact-eval.org}; self-published; June 25, 2017 was the
+  last accessed date.
+
+\bibitem{Kushner2011}
+David Kushner.
+\newblock {Facebook} philosophy: Move fast and break things -- hacker culture
+  is alive and well at {Facebook}.
+\newblock Available online in {\it {IEEE Spectrum}} at:
+  \url{http://spectrum.ieee.org/at-work/innovation/facebook-philosophy-move-fast-and-break-things/0};
+  October 9, 2014 was the last accessed date, June 1 2011.
+
+\bibitem{Laakmann2009}
+Gayle Laakmann.
+\newblock Cracking the technical interview: 150 technical interview questions
+  and solutions, written by experts.
+\newblock Self-published, 2009.
+
+\bibitem{Labrosse1999}
+Jean~J. Labrosse.
+\newblock {\em Embedded Systems Building Blocks: Complete and Ready-to-Use
+  Modules in {C}}.
+\newblock {CMP} Books, Lawrence, {KS}, second edition, 1999.
+
+\bibitem{Laplante2014}
+Phillip~A. Laplante.
+\newblock {\em Requirements Engineering for Software and Systems}.
+\newblock Auerbach Applied Software Engineering. {CRC} Press, Boca Raton, {FL},
+  second edition, 2014.
+
+\bibitem{Laplante2012}
+Phillip~A. Laplante and Seppo~J. Ovaska.
+\newblock {\em Real-Time Systems Design and Analysis: Tools for the
+  Practitioner}.
+\newblock John Wiley {\rm \&}\ Sons and Institute of Electrical and Electronics
+  Engineers, Hoboken, {NJ} and New York, {NY}, fourth edition, 2012.
+
+\bibitem{Larman2004}
+Craig Larman.
+\newblock {\em Agile and Iterative Development: A Manager's Guide}.
+\newblock The Agile Software Development. Addison-Wesley, Boston, {MA}, 2004.
+
+\bibitem{Larman2005}
+Craig Larman.
+\newblock {\em Applying {UML} and Patterns: An Introduction to Object-Oriented
+  Analysis and Design and Iterative Development}.
+\newblock Prentice Hall, Upper Saddle River, {NJ}, third edition, 2005.
+
+\bibitem{Larman2003}
+Craig Larman and Victor~R. Basili.
+\newblock Iterative and incremental development: A brief history.
+\newblock {\em {IEEE} Computer}, 36(6):47--56, June 2003.
+
+\bibitem{Larman2009}
+Craig Larman and Bas Vodde.
+\newblock {\em Scaling Lean {\rm \&}\ Agile Development: Thinking and
+  Organizational Tools for Large-Scale Scrum}.
+\newblock Pearson Education, Boston, {MA}, 2009.
+
+\bibitem{Larman2010}
+Craig Larman and Bas Vodde.
+\newblock {\em Practices for Scaling Lean {\rm \&}\ Agile Development: Large,
+  Multisite, and Offshore Product Development with Large-Scale Scrum}.
+\newblock Pearson Education, Boston, {MA}, 2010.
+
+\bibitem{Larsen2011a}
+Diana Larsen and Ainsley Nies.
+\newblock Liftoff: Launching agile teams {\rm \&}\ projects.
+\newblock Self-published, Hillsboro, {OR}, 2011.
+
+\bibitem{Leffingwell2011}
+Dean Leffingwell.
+\newblock {\em Agile Software Requirements: Lean Requirements Practices for
+  Teams, Programs, and the Enterprise}.
+\newblock Agile Software Development Series. Addison-Wesley, Boston, {MA},
+  2011.
+
+\bibitem{Liberman2015}
+Mark Liberman.
+\newblock Replicability vs. reproducibility -- or is it the other way around?
+\newblock Available online from the {\it University of Pennsylvania: School of
+  Arts {\rm \&}\ Sciences: Linguistic Data Consortium (LDC)} at:
+  \url{http://languagelog.ldc.upenn.edu/nll/?p=21956}; April 21, 2017 was the
+  last accessed date, October 31 2015.
+
+\bibitem{Long1995}
+Fred Long, Dhruv Mohindra, Robert~C. Seacord, Dean~F. Sutherland, and David
+  Svoboda.
+\newblock {\em {Java}$^{\texttrademark}$\ Coding Guidelines: 75 Recommendations
+  for Reliable and Secure Programs}.
+\newblock The {SEI} Series in Software Engineering. Addison-Wesley, Upper
+  Saddle River, {NJ}, 1995.
+
+\bibitem{Macdonald20XY}
+Ian Macdonald.
+\newblock The unofficial {Ruby} usage guide.
+\newblock Available online from {\it Caliban -- Opinion and Righteous Anger:
+  Ruby Projects: Recommended Tutorials} at:
+  \url{http://www.caliban.org/ruby/rubyguide.shtml}; self-published; October
+  20, 2015 was the last accessed date.
+
+\bibitem{Mailund2017}
+Thomas Mailund.
+\newblock {\em Beginning Data Science in {R}: Data Analysis, Visualization, and
+  Modelling for the Data Scientist}.
+\newblock Apress Media, {LLC}, Berkeley, {CA}, 2017.
+
+\bibitem{Martin2002}
+Robert~C. Martin.
+\newblock {\em Agile Software Development, Principles, Patterns, and
+  Practices}.
+\newblock Prentice-Hall, Upper Saddle River, {NJ}, 2002.
+
+\bibitem{Martin2009a}
+Robert~C. Martin.
+\newblock {\em Clean Code: A Handbook of Agile Software Craftsmanship}.
+\newblock Robert C. Martin Series. Pearson Education, Upper Saddle River, {NJ},
+  2009.
+
+\bibitem{Martin2007}
+Robert~C. Martin and Micah Martin.
+\newblock {\em Agile Principles, Patterns, and Practices in {C\#}}.
+\newblock Robert C. Martin. Prentice Hall, Boston, {MA}, 2007.
+
+\bibitem{Masters2007}
+Jon Masters and Richard Blum.
+\newblock {\em Professional {Linux} Programming}.
+\newblock Programmer to Programmer$^{\texttrademark}$. Wiley Publishing,
+  Indianapolis, {IN}, 2007.
+
+\bibitem{McConnell1996}
+Steve {McConnell}.
+\newblock {\em Rapid Development: Taming Wild Software Schedules}.
+\newblock Microsoft Press, Redmond, {WA}, 1996.
+
+\bibitem{McConnell2004}
+Steve {McConnell}.
+\newblock {\em Code Complete: A Practical Handbook of Software Construction}.
+\newblock Microsoft Press, Redmond, {WA}, second edition, 2004.
+
+\bibitem{Mili2015}
+Ali Mili and Fairouz Tchier.
+\newblock {\em Software Testing: Concepts and Operations}.
+\newblock John Wiley {\rm \&}\ Sons, Hoboken, {NJ}, 2015.
+
+\bibitem{Mintz2007}
+Mike Mintz and Robert Ekendahl.
+\newblock {\em Hardware Verification with {\it SystemVerilog}: An
+  Object-Oriented Framework}.
+\newblock Springer Science+Business Media, {LCC}, New York, {NY}, 2007.
+
+\bibitem{Misfeldt2004}
+Trevor Misfeldt, Gregory Bumgardner, and Andrew Gray.
+\newblock {\em The Elements of {C++} Style}.
+\newblock Cambridge University Press, New York, {NY}, 2004.
+
+\bibitem{Mosley2002}
+Daniel~J. Mosley and Bruce~A. Posey.
+\newblock {\em Just Enough Software Test Automation}.
+\newblock Just Enough, Yourdon Press Series. Prentice Hall, Upper Saddle River,
+  {NJ}, 2002.
+
+\bibitem{MullerHannemann2010}
+Matthias M{\"{u}}ller-Hannemann and Stefan Schirra.
+\newblock {\em Algorithm Engineering: Bridging the Gap between Algorithm Theory
+  and Practice}, volume 5971 of {\em Lecture Notes in Computer Science}.
+\newblock Springer-Verlag Berlin Heidelberg, Heidelberg, Germany, 2010.
+
+\bibitem{Olsen2015}
+Dan Olsen.
+\newblock {\em The Lean Product Playbook: How to Innovate with Minimum Viable
+  Products and Rapid Customer Feedback}.
+\newblock John Wiley {\rm \&}\ Sons, Hoboken, {NJ}, 2015.
+
+\bibitem{Ong2006}
+Zhiyang Ong.
+\newblock Test automation for software quality assurance: A comparative study
+  of hardware and software test automation.
+\newblock Available online at:
+  \url{https://sites.google.com/site/zhiyangong/zhiyang_internship_report2.pdf?attredirects=0};
+  March 3, 2011 was the last accessed date, August 8 2006.
+
+\bibitem{OracleCorporationStaff20XY}
+{Oracle Corporation staff}.
+\newblock How to write {Doc} comments for the {Javadoc} tool.
+\newblock Available online from {\it {Oracle} Corporation: {Oracle} Technology
+  Network: Recently Published Technical Articles: Articles About {Java}
+  Technology} at:
+  \url{http://www.oracle.com/technetwork/articles/java/index-137868.html};
+  January 30, 2017 was the last accessed date.
+
+\bibitem{OracleCorporationStaff20XYa}
+{Oracle Corporation staff}.
+\newblock {Javadoc} tool.
+\newblock Available online from {\it {Oracle} Corporation: {Oracle} Technology
+  Network: Recently Published Technical Articles: Articles About {Java}
+  Technology} at:
+  \url{http://www.oracle.com/technetwork/articles/java/index-jsp-135444.html};
+  January 30, 2017 was the last accessed date.
+
+\bibitem{OracleCorporationStaff2016b}
+{Oracle Corporation staff}.
+\newblock Javadoc tool.
+\newblock Available online from {\it {Oracle} Corporation: {Oracle} Technology
+  Network: {Oracle} Technology Network for {Java} Developers: {Java SE} at a
+  Glance: {Java SE} Documentation} at:
+  \url{http://www.oracle.com/technetwork/java/javase/documentation/index-jsp-135444.html};
+  January 30, 2017 was the last accessed date.
+
+\bibitem{OracleCorporationStaff2016}
+{Oracle Corporation staff}.
+\newblock {javadoc}.
+\newblock Available online from {\it {Oracle} Corporation: {Oracle} Help
+  Center: {Java} Platform, Standard Edition ({Java SE}) 8: {Java} Platform
+  Standard Edition 8 Documentation: {JDK} Tools and Utilities: {Java} Platform,
+  Standard Edition Tools Reference: \S5 Create and Build Applications} at:
+  \url{https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javadoc.html};
+  January 30, 2017 was the last accessed date, January 2016.
+
+\bibitem{Oram1991}
+Andrew Oram and Steve Talbott.
+\newblock {\em Managing Projects with {make}: {C} Programming Utility}.
+\newblock O'Reilly {\rm \&}\ Associates, Sebastopol, {CA}, second edition,
+  1991.
+
+\bibitem{Oram2007}
+Andy Oram and Greg Wilson.
+\newblock {\em Beautiful Code: Leading Programmers Explain How They Think}.
+\newblock O'Reilly Media, Sebastopol, {CA}, 2007.
+
+\bibitem{OSullivan2009}
+Bryan O'Sullivan.
+\newblock {\em Mercurial: The Definitive Guide}.
+\newblock Modern Software for Collaboration. O'Reilly Media, Sebastopol, {CA},
+  2009.
+
+\bibitem{Paarsch2016}
+Harry~J. Paarsch and Konstantin Golyaev.
+\newblock {\em A Gentle Introduction to Effective Computing in Quantitative
+  Research: What Every Research Assistant Should Know}.
+\newblock The {MIT} Press, London, {U.K.}, 2016.
+
+\bibitem{Pajankar2017b}
+Ashwin Pajankar.
+\newblock {\em {Python} Unit Test Automation: Practical Techniques for {Python}
+  Developers and Testers}.
+\newblock Apress Media, {LLC}, Berkeley, {CA}, 2017.
+
+\bibitem{Patashnik1988}
+Oren Patashnik.
+\newblock {\sc Bib}{\TeX}ing.
+\newblock Available online at:
+  \url{http://mirrors.ctan.org/biblio/bibtex/base/btxdoc.pdf}; September 24,
+  2014 was the last accessed date, February 8 1988.
+
+\bibitem{Meinel2011}
+Hasso Plattner, Christoph Meinel, and Larry Leifer.
+\newblock {\em Design Thinking: Understand -- Improve -- Apply}.
+\newblock Understanding Innovation. Springer-Verlag Berlin Heidelberg,
+  Heidelberg, Germany, 2011.
+
+\bibitem{Preshing2014}
+Jeff Preshing.
+\newblock {C++} has become more {Pythonic}.
+\newblock Available online from {\it Preshing on Programming} at:
+  \url{http://preshing.com/20141202/cpp-has-become-more-pythonic/}; February 1,
+  2018 was the last accessed date, December 2 2014.
+
+\bibitem{Pressman2001}
+Roger~S. Pressman.
+\newblock {\em Software Engineering: A Practitioner's Approach}.
+\newblock McGraw-Hill Series in Computer Science. McGraw-Hill, New York, {NY},
+  fifth edition, 2001.
+
+\bibitem{Pressman2010}
+Roger~S. Pressman.
+\newblock {\em Software Engineering: A Practitioner's Approach}.
+\newblock McGraw-Hill, New York, {NY}, seventh edition, 2010.
+
+\bibitem{ProgrammingResearchLtdStaff2013}
+{Programming Research Ltd. staff}.
+\newblock High integrity {C++}: Coding standard version 4.0.
+\newblock Technical report, Programming Research Ltd., Hersham, Surrey,
+  England, {U.K.}, October 3 2013.
+
+\bibitem{Pugh2011}
+Ken Pugh.
+\newblock {\em {Lean-Agile} Acceptance Test-Driven Development: Better Software
+  Through Collaboration}.
+\newblock Net Objectives {Lean-Agile}. Addison-Wesley, Boston, {MA}, 2011.
+
+\bibitem{Rady2011}
+Ben Rady and Rod Coffin.
+\newblock {\em Continuous Testing: With Ruby, Rails, and JavaScript}.
+\newblock Pragmatic Bookshelf. The Pragmatic Programmers, Raleigh, {NC}, 2011.
+
+\bibitem{Rasmusson2010}
+Jonathan Rasmusson.
+\newblock {\em The Agile Samurai: How Agile Masters Deliver Great Software}.
+\newblock The Pragmatic Programmers, Raleigh, {NC}, September 15 2010.
+
+\bibitem{Raymond2004}
+Eric~S. Raymond.
+\newblock {\em The Art of {UNIX} Programming}.
+\newblock Addison-Wesley Professional Computing Series. Pearson Education,
+  Boston, {MA}, 2004.
+
+\bibitem{Reitz2016a}
+Kenneth Reitz.
+\newblock Code style.
+\newblock Available online from {\it The Hitchhiker's Guide to {Python}} at:
+  \url{http://docs.python-guide.org/en/latest/writing/style/}; self-published;
+  February 1, 2018 was the last accessed date, 2016.
+
+\bibitem{Reitz2016}
+Kenneth Reitz and Tanya Schlusser.
+\newblock {\em The Hitchhiker's Guide to {Python}: Best Practices for
+  Development}.
+\newblock O'Reilly Media, Sebastopol, {CA}, 2016.
+
+\bibitem{Rierson2013}
+Leanna Rierson.
+\newblock {\em Developing Safety-Critical Software: A Practical Guide for
+  Aviation Software and {DO-178C} Compliance}.
+\newblock {CRC} Press, Boca Raton, {FL}, 2013.
+
+\bibitem{Riesbeck2009a}
+Chris Riesbeck.
+\newblock Useful {C++ / Unix} resources.
+\newblock Available online from {\it Prof. Chris Riesbeck's web page:
+  Programming}, Computer Science Division, Department of Electrical Engineering
+  and Computer Science, Robert R. McCormick School of Engineering and Applied
+  Science, Northwestern University at:
+  \url{http://www.cs.northwestern.edu/~riesbeck/programming/c++/}; September
+  30, 2015 was the last accessed date, July 2 2009.
+
+\bibitem{Rother2017}
+Kristian Rother.
+\newblock {\em Pro {Python} Best Practices: Debugging, Testing and
+  Maintenance}.
+\newblock Apress Media, {LLC}, Berkeley, {CA}, 2017.
+
+\bibitem{Rothman2007}
+Johanna Rothman.
+\newblock {\em Manage It!: Your Guide to Modern Pragmatic Project Management}.
+\newblock Pragmatic Bookshelf. The Pragmatic Programmers, Raleigh, {NC}, 2007.
+
+\bibitem{Rothman2009}
+Johanna Rothman.
+\newblock {\em Manage Your Project Portfolio: Increase Your Capacity and Finish
+  More Projects}.
+\newblock Pragmatic Bookshelf. The Pragmatic Programmers, Raleigh, {NC}, 2009.
+
+\bibitem{Rothman2017}
+Johanna Rothman.
+\newblock {\em Create Your Successful Agile Project: Collaborate, Measure,
+  Estimate, Deliver}.
+\newblock The Pragmatic Programmers, Raleigh, {NC}, 2017.
+
+\bibitem{RunMyCodeAssociationMembers2013}
+{RunMyCode Association members}.
+\newblock {RunMyCode}.
+\newblock Available online at: \url{http://www.runmycode.org/}; November 13,
+  2016 was the last accessed date, 2013.
+
+\bibitem{Sale2014}
+David Sale.
+\newblock {\em Testing {Python}: Applying Unit Testing, {TDD}, {BDD} and
+  Acceptance Testing}.
+\newblock John Wiley {\rm \&}\ Sons, Chichester, West Sussex, England, {U.K.},
+  2014.
+
+\bibitem{Savage2011}
+Peter Savage.
+\newblock {Git} in the trenches.
+\newblock Available online at: \url{http://cbx33.github.io/gitt/},
+  \url{http://cbx33.github.io/gitt/download.html}, and
+  \url{https://github.com/cbx33/gitt}; self-published; August 1, 2014 was the
+  last accessed date, August 2011.
+
+\bibitem{Schach2002}
+Stephen~R. Schach.
+\newblock {\em Object-Oriented and Classical Software Engineering}.
+\newblock McGraw-Hill, New York, {NY}, fifth edition, 2002.
+
+\bibitem{Schach2007}
+Stephen~R. Schach.
+\newblock {\em Object-Oriented and Classical Software Engineering}.
+\newblock McGraw-Hill, New York, {NY}, seventh edition, 2007.
+
+\bibitem{Schach2011}
+Stephen~R. Schach.
+\newblock {\em Object-Oriented and Classical Software Engineering}.
+\newblock McGraw-Hill, New York, {NY}, eighth edition, 2011.
+
+\bibitem{Schiermeier2018}
+Quirin Schiermeier.
+\newblock Data management made simple.
+\newblock {\em Nature}, 555(7697):403--405, March 13 2018.
+
+\bibitem{Schneider2013a}
+Anna Schneider.
+\newblock How to become a data scientist before you graduate.
+\newblock {\em Berkeley Science Review}, July 30 2013.
+
+\bibitem{ScienceInfusionSoftwareEngineeringProcessGroupStaff2006}
+{Science Infusion Software Engineering Process Group staff}.
+\newblock Science infusion software engineering process group ({SISEPG}) {C++}
+  programming standards and guidelines.
+\newblock Available online as Version 1.11 from {\it United States Department
+  of Commerce: National Oceanic and Atmospheric Administration: National
+  Weather Service: Office of Hydrologic Development, now known as the National
+  Water Center: Hydrology Laboratory} at:
+  \url{http://www.nws.noaa.gov/oh/hrl/developers_docs/C++_Software_Standards.pdf};
+  October 27, 2015 was the last accessed date, November 17 2006.
+
+\bibitem{Shore2008}
+James Shore and Shane Warden.
+\newblock {\em The Art of Agile Development}.
+\newblock Theory in Practice. O'Reilly Media, Sebastopol, {CA}, 2008.
+
+\bibitem{Smith2003}
+Kevin~A. Smith and Doug Kramer.
+\newblock Requirements for writing {Java API} specifications.
+\newblock Available online from {\it {Oracle} Corporation: {Oracle} Technology
+  Network: {Oracle} Technology Network for {Java} Developers: {Java SE} at a
+  Glance: {Java SE} Documentation} at:
+  \url{http://www.oracle.com/technetwork/java/javase/documentation/index-142372.html};
+  January 30, 2017 was the last accessed date, January 2003.
+
+\bibitem{Sommerville2007}
+Ian Sommerville.
+\newblock {\em Software Engineering}.
+\newblock Pearson Education, Harlow, Essex, England, {U.K.}, eighth edition,
+  2007.
+
+\bibitem{Stallman2016a}
+Richard Stallman and Bob Chassell.
+\newblock {GNU Texinfo} 6.3.
+\newblock Available online from {\it The GNU Operating System and the Free
+  Software Movement: {GNU} Software: {Texinfo} -- The {GNU} Documentation
+  System: {Texinfo} manuals: {GNU Texinfo} manual} at:
+  \url{https://www.gnu.org/software/texinfo/manual/texinfo/texinfo.html};
+  November 4, 2016 was the last accessed date, September 11 2016.
+
+\bibitem{Stallman2016b}
+Richard Stallman and Bob Chassell.
+\newblock {GNU Texinfo} manual.
+\newblock Available online from {\it The GNU Operating System and the Free
+  Software Movement: {GNU} Software: {Texinfo} -- The {GNU} Documentation
+  System: {Texinfo} manuals} at:
+  \url{https://www.gnu.org/software/texinfo/manual/texinfo/}; November 4, 2016
+  was the last accessed date, September 11 2016.
+
+\bibitem{Stallman2016}
+Richard Stallman and Bob Chassell.
+\newblock {Texinfo}: The {GNU} documentation system.
+\newblock Available online from {\it The GNU Operating System and the Free
+  Software Movement: {GNU} Software} at:
+  \url{https://www.gnu.org/software/texinfo/}; November 4, 2016 was the last
+  accessed date, September 11 2016.
+
+\bibitem{Stellman2015}
+Andrew Stellman and Jennifer Greene.
+\newblock {\em Learning Agile: Understanding Scrum, {XP}, Lean, and {Kanban}}.
+\newblock O'Reilly Media, Sebastopol, {CA}, 2015.
+
+\bibitem{Stevens2000}
+Perdita Stevens and Rob Pooley.
+\newblock {\em Using {UML}: Software Engineering with Objects and Components}.
+\newblock Addison-Wesley Object Technology Series. Addison-Wesley, Essex,
+  England, {U.K.}, 2000.
+
+\bibitem{Stober2010}
+Thomas Stober and Uwe Hansmann.
+\newblock {\em Agile Software Development: Best Practices for Large Software
+  Development Projects}.
+\newblock Springer-Verlag Berlin Heidelberg, Heidelberg, Germany, 2010.
+
+\bibitem{Stodden2014}
+Victoria Stodden, Friedrich Leisch, and Roger~D. Peng.
+\newblock {\em Implementing Reproducible Research}.
+\newblock Chapman {\rm \&}\ Hall/{CRC} The {R} Series. {CRC} Press, Boca Raton,
+  {FL}, 2014.
+
+\bibitem{Subramaniam2006}
+Venkat Subramaniam and Andy Hunt.
+\newblock {\em Practices of an Agile Developer: Working in the Real World}.
+\newblock The Pragmatic Programmers, Raleigh, {NC}, 2006.
+
+\bibitem{Suereth2016}
+Joshua Suereth and Matthew Farwell.
+\newblock {\em {sbt} in Action: The simple {Scala} build tool}.
+\newblock Manning Publications Co., Shelter Island, {NY}, 2016.
+
+\bibitem{Swicegood2010}
+Travis Swicegood.
+\newblock {\em Pragmatic Guide to {Git}}.
+\newblock The Pragmatic Programmers, Raleigh, {NC}, November 1 2010.
+
+\bibitem{Olson2016}
+Risk~Danger technoweenie Olson, Brandon Keepers, Anatoly Borodin, Lucas
+  Werkmeister, Steve Streeting, and Scott Barron.
+\newblock Git large file storage.
+\newblock Available online at: \url{https://git-lfs.github.com/} and
+  \url{https://github.com/github/git-lfs}; April 1, 2016 was the last accessed
+  date, March 31 2016.
+
+\bibitem{Thereska20XY}
+Eno Thereska.
+\newblock {C++} coding standard.
+\newblock Available online from {\it Eno Thereska's home page: Department of
+  Electrical and Computer Engineering, College of Engineering, Carnegie Mellon
+  University} at:
+  \url{https://users.ece.cmu.edu/~eno/coding/CppCodingStandard.html}; February
+  16, 2016 was the last accessed date.
+
+\bibitem{Turnquist2011}
+Greg~L. Turnquist.
+\newblock {\em {Python} Testing Cookbook: Over 70 simple but incredibly
+  effective recipes for taking control of automate testing using powerful
+  {Python} testing tools}.
+\newblock Quick answers to common problems. Packt Publishing, Birmingham, West
+  Midlands, England, {U.K.}, 2011.
+
+\bibitem{Valacich2012}
+Joseph~S. Valacich, Joey~F. George, and Jeffrey~A. Hoffer.
+\newblock {\em Essentials of Systems Analysis and Design}.
+\newblock Pearson Education, Upper Saddle River, {NJ}, fifth edition, 2012.
+
+\bibitem{Valvano2007}
+Jonathan~W. Valvano.
+\newblock {\em Embedded Microcomputer Systems: Real Time Interfacing}.
+\newblock Cengage Learning, Stamford, {CT}, third edition, 2007.
+
+\bibitem{vanHeesch2016}
+Dimitri {van Heesch}.
+\newblock Doxygen.
+\newblock Available online at {M.C.G.V. Stack}:
+  \url{http://www.stack.nl/~dimitri/doxygen/} and \url{http://doxygen.org/};
+  November 4, 2016 was the last accessed date, September 11 2016.
+
+\bibitem{vanRossum2013}
+Guido {van Rossum}, Barry Warsaw, and Nick Coghlan.
+\newblock Style guide for {Python} code.
+\newblock Available online as {\it {Python}: {Python} Developer's Guide:
+  {Python} Enhancement Proposals: {Python} Enhancement Proposal 0} at:
+  \url{https://www.python.org/dev/peps/pep-0008/}; October 20, 2015 was the
+  last accessed date, August 1 2013.
+
+\bibitem{Vucevic2012}
+Doug Vucevic and Wayne Yaddow.
+\newblock {\em Testing the Data Warehouse Practicum: Assuring Data Content,
+  Data Structures and Quality}.
+\newblock Trafford Publishing, Bloomington, {IN}, 2012.
+
+\bibitem{Weatherwax2008}
+John~L. Weatherwax.
+\newblock Solution manuals and various book notes.
+\newblock Available online at:
+  \url{http://waxworksmath.com/ce_solutionmanuals.asp}; self-published; May 31,
+  2015 was the last accessed date, 2008.
+
+\bibitem{Whittaker2009}
+James~A. Whittaker.
+\newblock {\em Exploratory Software Testing: Tips, Tricks, Tours, and
+  Techniques to Guide Test Design}.
+\newblock Addison-Wesley, Boston, {MA}, 2009.
+
+\bibitem{Wiegers2013}
+Karl Wiegers and Joy Beatty.
+\newblock {\em Software Requirements}.
+\newblock Best Practices. Microsoft Press, Redmond, {WA}, third edition, 2013.
+
+\bibitem{WikibooksContributors2016}
+{Wikibooks contributors}.
+\newblock Exception handling.
+\newblock In {\em {C++} Programming}, chapter~4. Wikimedia Foundation, San
+  Francisco, {CA}, February 11 2016.
+
+\bibitem{WikipediaContributors2016f}
+{Wikipedia contributors}.
+\newblock Exception safety.
+\newblock Available online from {\it Wikipedia, The Free Encyclopedia:
+  CATEGORY} at: \url{https://en.wikipedia.org/wiki/Exception_safety}; October
+  29, 2016 was the last accessed date, September 26 2016.
+
+\bibitem{WikipediaContributors2016j}
+{Wikipedia contributors}.
+\newblock Indent style.
+\newblock Available online in {\it Wikipedia, The Free Encyclopedia: Source
+  code} at: \url{https://en.wikipedia.org/wiki/Indent_style}; November 4, 2016
+  was the last accessed date, October 30 2016.
+
+\bibitem{WikipediaContributors2016i}
+{Wikipedia contributors}.
+\newblock Natural language programming.
+\newblock Available online in {\it Wikipedia, The Free Encyclopedia: Computer
+  programming} at:
+  \url{https://en.wikipedia.org/wiki/Natural_language_programming}; November 4,
+  2016 was the last accessed date, November 2 2016.
+
+\bibitem{WikipediaContributors2016e}
+{Wikipedia contributors}.
+\newblock Semipredicate problem.
+\newblock Available online from {\it Wikipedia, The Free Encyclopedia:
+  Programming language topics} at:
+  \url{https://en.wikipedia.org/wiki/Semipredicate_problem}; October 29, 2016
+  was the last accessed date, October 23 2016.
+
+\bibitem{WikipediaContributors2016h}
+{Wikipedia contributors}.
+\newblock {Texinfo}.
+\newblock Available online in {\it Wikipedia, The Free Encyclopedia: Markup
+  languages} at: \url{https://en.wikipedia.org/wiki/Texinfo}; November 4, 2016
+  was the last accessed date, April 29 2016.
+
+\bibitem{WikipediaContributors2017}
+{Wikipedia contributors}.
+\newblock Naming convention (programming).
+\newblock Available online from {\it Wikipedia, The Free Encyclopedia: Source
+  code} at:
+  \url{https://en.wikipedia.org/wiki/Naming_convention_(programming)}; March
+  10, 2017 was the last accessed date, February 26 2017.
+
+\bibitem{Wolf20XY}
+Clifford Wolf.
+\newblock {Clifford} on programming style.
+\newblock Available online from {\it Clifford Wolf's Personal Homepage} at:
+  \url{http://www.clifford.at/style.html}; self-published; March 14, 2016 was
+  the last accessed date.
+
+\bibitem{Younker2008}
+Jeff Younker.
+\newblock {\em Foundations of Agile {Python} Development}.
+\newblock Apress, Berkeley, {CA}, 2008.
+
+\bibitem{Zeller2009}
+Andreas Zeller.
+\newblock {\em Why Programs Fail: A Guide to Systematic Debugging}.
+\newblock Morgan Kaufmann, Burlington, {MA}, second edition, 2009.
+
+\bibitem{Zuckerberg2012}
+Mark Zuckerberg.
+\newblock Letter from {Mark Zuckerberg}.
+\newblock Available online as {\it {Form S-1} REGISTRATION STATEMENT Under The
+  Securities Act of 1933, {Facebook, Inc.}} at:
+  \url{http://www.sec.gov/Archives/edgar/data/1326801/000119312512034517/d287954ds1.htm#toc287954_10};
+  October 9, 2014 was the last accessed date, February 1 2012.
+
+\end{thebibliography}

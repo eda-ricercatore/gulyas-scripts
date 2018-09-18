@@ -1369,8 +1369,17 @@ Notes on *Python* functions:
 		* **\*\*kwargs** is an example of using an arbitrary number of
 			keyword arguments \cite[\S4.7.3 'Arbitrary Argument Lists' and \S4.7.4 'Unpacking Argument Lists']{Brandl2017a}.
 		* When calling a multi-value returning function, I can assign
-			"**_**" to an unwanted return value (or "**_BLAH**" to unwanted
+			"**_**" to an unwanted return value (or "**_BLAH**, **_BLAH_BLAH**, **_BLAH_BLAH_BLAH**" to unwanted
 			return values.
+		* I can use a parameterized method/function call to determine
+			the number of values that I should return;
+			an input parameter/argument is used as a switch to determine
+				the number of return values, and I should call the
+				method/function with this "extra" input argument.
+		* \cite[Section on "Functional Programming Modules," and subsection on "functools - Higher-order functions and operations on callable objects"]{DrakeJr2016b} show how to use
+			**functools.partial(func, \*args, \*\*keywords**) to obtain
+			variable output values;
+			this enables multiple output values to be returned.
 	- Use the terms **\*param-last** and **\*\*param-last** to write wrappers
 		and proxies for other functions, so that these wrappers/proxies can
 		pass these terms to those other functions
@@ -3762,6 +3771,7 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 	- Table of common computational complexities cite[\S5.1.1, pp. 157]{Ucoluk2012}
 + Data structures.
 	- \cite{Lutz2011,Lutz2013,Sweigart2015,Ucoluk2012}.
+	- 
 	- **Read this!!!**
 + **Database management**.
 	- \cite{Hetland2005,Lutz2010,Lutz2011,Sileika2010,Younker2008}.
