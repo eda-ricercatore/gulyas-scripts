@@ -342,8 +342,8 @@
 
 + ISPD 2019, International Symposium on Physical Design
 	- http://www.ispd.cc
-	- VENUE ???
-	- Submission deadline: Early Oct, 2018.
+	- San Francisco Bay Area, CA.
+	- Submission deadline: October 1 and 8, 2018.
 
 
 
