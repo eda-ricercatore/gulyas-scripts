@@ -360,10 +360,6 @@
 	- Submission deadline: Oct 15, 2018.
 
 
-+ ARCS 2019, International Conference on Architecture of Computing Systems
-	- URL ???
-	- VENUE ???
-	- Submission deadline: Late Oct, 2018.
 
 + CICC 2018, IEEE Custom Integrated Circuits Conference
 	- http://ieee-cicc.org
@@ -374,27 +370,26 @@
 
 
 + DAC 2019, Design Automation Conference
-	- URL ???
+	- https://dac.com
 	- Las Vegas, NV.
 	- Submission deadline: Nov, 2018.
 
 
-+ ISCA, International Symposium on Computer Architecture
-	- http://iscaconf.org/isca2019
-	- Phoenix, AZ.
-	- Submission deadline: Nov, 2018.
+
 
 
 + CC, International Conference on Compiler Construction
-	- URL ???
-	- VENUE ???
-	- Submission deadline: Nov, 2018.
+	- https://cc-conference.github.io/19/
+	- February 16-17, 2019.
+	- Washington, D.C..
+	- Submission deadline: November 3 and 7, 2018.
 
 + PLDI, Programming Language Design and Implementation
-	- URL
+	- https://pldi19.sigplan.org
 	- http://www.sigplan.org/Conferences/PLDI/
-	- VENUE
-	- Submission deadline: Nov, 2018.
+	- June 24-26 (June 22-28), 2018.
+	- Phoenix, AZ
+	- Submission deadline: Nov 16, 2018.
 
 
 
@@ -439,12 +434,16 @@
 	- Submission deadline: Nov 7 and Nov 15, 2018
 
 
++ ISCA, International Symposium on Computer Architecture
+	- http://iscaconf.org/isca2019
+	- June 22-26, 2019.
+	- Phoenix, AZ.
+	- Submission deadline: December 3 and 7, 2018.
 
 
 
 
-
-+ ASYNC 2018, IEEE International Symposium on Asynchronous Circuits and Systems
++ ASYNC 2019, IEEE International Symposium on Asynchronous Circuits and Systems
 	- http://asyncsymposium.org/async/Welcome.html
 	- http://www.async2019.jp
 	- Hirosaki, Japan
@@ -452,12 +451,18 @@
 	- Submission deadline: December 7 and 14, 2018.
 
 + VEE, ACM SIGPLAN/SIGOPS International Conference on Virtual Execution Environments
-	- URL
-	- VENUE
-	- Submission deadline: Late Nov or Early Dec, 2018.
+	- https://conf.researchr.org/home/vee-2019
+	- April 13-14, 2019.
+	- Providence, Rhode Island.
+	- Submission deadline: December 7 and 14, 2018.
 
 
 
++ ARCS 2019, International Conference on Architecture of Computing Systems
+	- http://arcs2019.itec.kit.edu
+	- May 20-23, 2019.
+	- Copenhagen, Denmark.
+	- Submission deadline: December 10, 2018.
 
 
 
