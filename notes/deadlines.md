@@ -306,27 +306,28 @@
 
 
 
-+ CPS Week
++ CPS-IoT Week, CPS & IoT Week
 	+ http://cpsweek.org
+	+ Montréal, Canada.
+	+ April 16-18, 2019.
 + HSCC 2019, ACM International Conference on Hybrid Systems: Computation and Control
 	- http://hscc2019.eecs.umich.edu
 	- Montreal, Canada
 	- Conference dates: April 16-18, 2019.
-	- Submission deadline: October 5 and 12, 2018.
+	- Submission deadline: October 10 and 17, 2018.
 + ICCPS, ACM/IEEE International Conference on Cyber-Physical Systems
-	- http://iccps.acm.org
-	- VENUE ???
-	- Submission deadline: Late Sep and Early Oct, 2018.
+	- http://iccps.acm.org and http://iccps.acm.org/2019/
+	- Submission deadline: October 17, 2018.
 + ISPN, International Conference on Information Processing in Sensor Networks
-	- URL ???
+	- http://ipsn.acm.org/2019/index.html
 	- http://ipsn.acm.org
-	- VENUE ???
-	- Submission deadline: Late Sep and Early Oct, 2018.
+	- Submission deadline: October 10 and 17, 2018.
 + RTAS, IEEE Real-Time and Embedded Technology and Applications Symposium
-	- URL ???
-	- VENUE ???
-	- Submission deadline: Late Sep and Early Oct, 2018.
-
+	- http://2019.rtas.org
+	- Submission deadline: October 17, 2018.
++ IOTDI 2019, ACM/IEEE Conference on Internet of Things Design and Implementation
+	- http://conferences.computer.org/iotDI/2019/
+	- Submission deadline: October 10 and 17, 2018.
 
 
 
