@@ -99,4 +99,19 @@ print("cur_year is:",cur_year)
 print("cur_filename is:",cur_filename)
 something = function_with_3_return_values()
 print("something is:",something)
+
+
+
+#	Location to store simulation and/or experimental results.
+result_repository = /Documents/ricerca/risultati_sperimentali/std-cell-library-characterization
+
+
+
+
+
+
+
+
+
+
 # Change directory

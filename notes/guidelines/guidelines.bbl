@@ -65,6 +65,11 @@ Scott~W. Ambler and Mark Lines.
   Software Delivery in the Enterprise}.
 \newblock {IBM} Press and Pearson {PLC}, Armonk, {NY} and Boston, {MA}, 2012.
 
+\bibitem{Anderson1993}
+Ronald~E. Anderson, Deborah~G. Johnson, Donald Gotterbarn, and Judith Perrolle.
+\newblock Using the new {ACM} code of ethics in decision making.
+\newblock {\em Communications of the {ACM}}, 36(2):98--107, February 1993.
+
 \bibitem{Appelo2011}
 Jurgen Appelo.
 \newblock {\em Management 3.0: Leading Agile Developers, Developing Agile
@@ -155,6 +160,25 @@ Peter~A. Blume.
 Barry Boehm and Richard Turner.
 \newblock {\em Balancing Agility and Discipline: A Guide for the Perplexed}.
 \newblock Pearson Education, Boston, {MA}, 2004.
+
+\bibitem{Brinkman2017}
+Bo~Brinkman, Catherine Flick, Don Gotterbarn, Keith Miller, Kate Vazansky, and
+  Marty~J. Wolf.
+\newblock Listening to professional voices: Draft 2 of the {ACM} code of ethics
+  and professional conduct.
+\newblock {\em Communications of the {ACM}}, 60(5):105--111, May 2017.
+
+\bibitem{Brinkman2016a}
+Bo~Brinkman, Don Gotterbarn, Keith Miller, and Marty~J. Wolf.
+\newblock Making a positive impact: Updating the {ACM} code of ethics.
+\newblock {\em Communications of the {ACM}}, 59(12):7--13, December 2016.
+
+\bibitem{Brinkman2016}
+Bo~Brinkman, Don Gotterbarn, Keith~W. Miller, and Marty~J. Wolf.
+\newblock All hands on deck for {ACM} ethics: Updating the {Code}, revising
+  enforcement, promoting integrity.
+\newblock {\em {ACM} Computers and Society: Newsletter of the {ACM} Special
+  Interest Group on Computers and Society}, 46(3):5--8, November 2016.
 
 \bibitem{Cady2017}
 Field Cady.
@@ -445,6 +469,51 @@ Luis Gon{\c{c}}alves and Ben Linders.
   exercises.
 \newblock Self-published, Raleigh, {NC}, September 12 2014.
 
+\bibitem{Gotterbarn2018a}
+Don Gotterbarn, Bo~Brinkman, Catherine Flick, Michael~S. Kirkpatrick, Keith
+  Miller, Kate Varansky, Marty~J. Wolf, Eve Anderson, Ron Anderson, Amy
+  Bruckman, Karla Carter, Michael Davis, Penny Duquenoy, Jeremy Epstein, Kai
+  Kimppa, Lorraine Kisselburgh, Shrawan Kumar, Andrew {McGettrick}, Natasa
+  {Milic-Frayling}, Denise Oram, Simon Rogerson, David Shama, Janice Sipior,
+  Eugene Spafford, and Les Waguespack.
+\newblock {ACM} code of ethics and professional conduct.
+\newblock Available online from the {\it {ACM} Committee on Professional
+  Ethics} at: \url{https://www.acm.org/code-of-ethics}; September 19, 2018 was
+  the last accessed date, June 22 2018.
+
+\bibitem{Gotterbarn2018}
+Don Gotterbarn, Bo~Brinkman, Catherine Flick, Keith Miller, Marty Wolf, Kate
+  Vazansky, Florence Appel, Karla Carter, Fran Grodzinsky, Michael~S.
+  Kirkpatrick, Anthony Lobo, Denise Oram, and Simon Rogerson.
+\newblock {ACM} code of ethics and professional conduct.
+\newblock Available online from the {\it {ACM} Committee on Professional
+  Ethics} at: \url{https://ethics.acm.org}; September 19, 2018 was the last
+  accessed date, June 22 2018.
+
+\bibitem{Gotterbarn2018b}
+Don Gotterbarn, Amy Bruckman, Catherine Flick, Keith Miller, and Marty~J. Wolf.
+\newblock {ACM} code of ethics: A guide for positive action.
+\newblock {\em Communications of the {ACM}}, 61(1):121--128, January 2018.
+
+\bibitem{Gotterbarn1997}
+Don Gotterbarn, Keith Miller, and Simon Rogerson.
+\newblock Software engineering code of ethics.
+\newblock {\em Communications of the {ACM}}, 40(11):110--118, November 1997.
+
+\bibitem{Gotterbarn1999}
+Donald Gotterbarn, Keith Miller, Simon Rogerson, Steve Barber, Peter Barnes,
+  Ilene Burnstein, Michael Davis, Amr {El-Kadi}, N.~Ben Fairweather, Milton
+  Fulghum, N.~Jayaram, Tom Jewett, Mark Kanko, Ernie Kallman, Duncan Langford,
+  Joyce~Currie Little, Ed~Mechler, Manuel~J. Norman, Douglas Phillips,
+  Peter~Ron Prinzivalli, Patrick Sullivan, John Weckert, Vivian Weil,
+  S.~Weisband, and Laurie~Honour Werth.
+\newblock The joint {ACM/IEEE-CS} software engineering code of ethics and
+  professional practice.
+\newblock Available online from {\it {ACM/IEEE-CS} Joint Task Force on Software
+  Engineering Ethics and Professional Practices (SEEPP)} at:
+  \url{https://ethics.acm.org/code-of-ethics/software-engineering-code/};
+  September 19, 2018 was the last accessed date, 1999.
+
 \bibitem{Hagelberg2017}
 Philip~N. Hagelberg.
 \newblock Leiningen.
@@ -694,6 +763,15 @@ Mark Liberman.
   Arts {\rm \&}\ Sciences: Linguistic Data Consortium (LDC)} at:
   \url{http://languagelog.ldc.upenn.edu/nll/?p=21956}; April 21, 2017 was the
   last accessed date, October 31 2015.
+
+\bibitem{Lippert2008}
+Eric Lippert.
+\newblock Vexing exceptions.
+\newblock Available online from {\it Microsoft Corporation: Microsoft Developer
+  network: MSDN Blogs: Fabulous Adventures In Coding, Eric Lippert's Erstwhile
+  Blog} at:
+  \url{https://blogs.msdn.microsoft.com/ericlippert/2008/09/10/vexing-exceptions/};
+  September 19, 2018 was the last accessed date, September 10 2008.
 
 \bibitem{Long1995}
 Fred Long, Dhruv Mohindra, Robert~C. Seacord, Dean~F. Sutherland, and David
@@ -1241,6 +1319,11 @@ Clifford Wolf.
 \newblock Available online from {\it Clifford Wolf's Personal Homepage} at:
   \url{http://www.clifford.at/style.html}; self-published; March 14, 2016 was
   the last accessed date.
+
+\bibitem{Wolf2016}
+Marty~J. Wolf.
+\newblock The acm code of ethics: a call to action.
+\newblock {\em Communications of the {ACM}}, 59(12):6, December 2016.
 
 \bibitem{Younker2008}
 Jeff Younker.

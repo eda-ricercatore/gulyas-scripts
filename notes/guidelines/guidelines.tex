@@ -75,6 +75,7 @@ Revision history: \vspace{-0.3cm}
 \item Version 3.8, January 31, 2018. Added information about coding style guideline for different computer languages, and also about online repositories that facilitate research reproducibility, replicability, and repeatability.
 \item Version 3.9, February 1, 2018. Added information about developing software in a {\it Python}ic style.
 \item Version 4.0, June 8, 2018. Added information about specifying (co-)authors' full name, and research reproducibility, and other best practices from software development, and embedded/cyber-physical system and integrated circuit design.
+\item Version 4.1, September 19, 2018. Updated ACM Code of Ethics and Professional Conduct; added The Joint {ACM/IEEE-CS} Software Engineering Code of Ethics and Professional Practice; and updated guidelines on exception handling.
 \end{enumerate}
 
 
@@ -89,7 +90,7 @@ Revision history: \vspace{-0.3cm}
 \section{Guidelines for Conduct}
 \label{sec:GuidelinesforConduct}
 
-Members of the open source software and/or hardware projects should follow the {\it Code of Conduct} of the {\it Institute of Electrical and Electronics Engineers (IEEE)} \cite{IEEE2014b,IEEE2014a,IEEE2014} and the {\it Association for Computing Machinery (ACM)} \cite{ACMCouncil1992}. Also, actions of discrimination are not acceptable \cite{IEEE2014c}; we should intentionally commit to inclusive diversity. An additional guideline is ``Dave Packard's 11 simple rules'' \cite{HewlettPackardCompany2012}. \\
+Members of the open source software and/or hardware projects should follow the {\it Code of Conduct} of the {\it Institute of Electrical and Electronics Engineers (IEEE)} \cite{IEEE2014b,IEEE2014a,IEEE2014} and the {\it Association for Computing Machinery (ACM)} \cite{Gotterbarn2018b,Gotterbarn2018a,Gotterbarn2018,Brinkman2016a,ACMCouncil1992,Brinkman2017,Brinkman2016,Wolf2016,Anderson1993}, including the ``The Joint {ACM/IEEE-CS} Software Engineering Code of Ethics and Professional Practice'' \cite{Gotterbarn1999,Gotterbarn1997}. Also, actions of discrimination are not acceptable \cite{IEEE2014c}; we should intentionally commit to inclusive diversity. An additional guideline is ``Dave Packard's 11 simple rules'' \cite{HewlettPackardCompany2012}. \\
 
 %There are a significant amount of references for helping people to learn \LaTeX \cite{Voss2011,vanDongen2012,Syropoulos2003,Raymond2004,Mittelbach2004,Lamport1994,Krishnan2003,Krantz2001,Kottwitz2011,Koranne2011,Kopka2004,Knuth1999,Hoenig1998,Higham1998,Haralambous2007,Griffiths1997,Gratzer2007,Goossens2007,Goossens1999,Goossens1997,Diller1999,Bindner2011,Berry2009,UITCambridge2011,Scharrer2011,Pakin2008,Cormen2010,Syropoulos2004,Hamalainen2006} and related information/technologies.
 
@@ -369,6 +370,8 @@ The levels of exception/error safety listed in descending order of safety guaran
 \end{enumerate}
 
 These aforementioned levels of exception/error safety can be partially handled. Also, the use of guards is strongly recommended for making the software and library (or, circuit or system) exception safe. \\
+
+These guidelines about exceptions help software developers know what to do about fatal exceptions, boneheaded exceptions, vexing exceptions (due to unfortunate design decisions). Vexing exceptions and boneheaded exceptions, to a lesser extent, are preventable exceptions \cite{Lippert2008}. Hence, we should develop software that avoids triggering preventable exceptions.
 
 Please judiciously consider what to do with the semipredicate problem \cite{WikipediaContributors2016e}.
 
