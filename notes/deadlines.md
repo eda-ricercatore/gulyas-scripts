@@ -273,10 +273,7 @@
 	- Limassol, Cyprus
 	- Submission deadline: Sep 10, 2018.
 
-+ ISQED 2019, International Symposium on Quality Electronic Design
-	- http://www.isqed.org/English/Conference/Call_for_Papers.html
-	- Santa Clara, CA.
-	- Submission deadline: Sep 10, 2018.
+
 
  + ISSCC 2019, International Solid-State Circuits Conference
  	- http://isscc.org/isscc-call-for-papers/
@@ -366,7 +363,10 @@
 	- Submission deadline: October 10 and 17, 2018.
 
 
-
++ ISQED 2019, International Symposium on Quality Electronic Design
+	- http://www.isqed.org/English/Conference/Call_for_Papers.html
+	- Santa Clara, CA.
+	- Submission deadline: October 14 (delayed), 2018.
 
 
 
