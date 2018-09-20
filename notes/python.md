@@ -3399,7 +3399,7 @@ The primary built-in object types in *Python*
 | Type Category	| Type name	| Description		|
 | -------------------- | ------------- |--------------------- |
 | None			| type (**None**)	| null object None |
-| Nunbers		| int			| Integer 			|
+| Numbers		| int			| Integer 			|
 |				| long		| integer with arbitary precision (*Python 2* only)	|
 |				| float		| floating point	|
 |				| complex	| complex number	|
@@ -3771,7 +3771,7 @@ Citations/References that use the *LaTeX/BibTeX* notation are taken
 	- Table of common computational complexities cite[\S5.1.1, pp. 157]{Ucoluk2012}
 + Data structures.
 	- \cite{Lutz2011,Lutz2013,Sweigart2015,Ucoluk2012}.
-	- 
+	-
 	- **Read this!!!**
 + **Database management**.
 	- \cite{Hetland2005,Lutz2010,Lutz2011,Sileika2010,Younker2008}.
