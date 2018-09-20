@@ -928,9 +928,15 @@ Protocols masked by *Python* syntactic sugar
 		\cite[Chapter 5, pp. 154]{Alchin2010}
 		\cite[Chapter 9, pp. 197, Table 9.2]{Hall2009b}:
 		* **is**, can compare known constants (e.g., **None**)
+			+ Compare object IDs (and locations in memory).
 		* **is not**, can compare known constants (e.g., **None**)
+			+ Compare object IDs (and locations in memory).
 		* **==**, or **\_\_eq\_\_()**
+			+ Check if objects are equivalent, rather than if they are
+				the same object.
 		* **!=**, or **\_\_ne\_\_()** (i.e., not equal)
+		+ Check if objects are equivalent, rather than if they are
+			the same object.
 		* **<**, or **\_\_lt\_\_()**
 		* **>**, or **\_\_gt\_\_()**
 		* **<=**, or **\_\_lte\_\_()**
