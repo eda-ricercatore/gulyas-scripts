@@ -289,6 +289,20 @@
 	- Austin, TX
 	- Submission deadline: September 16, 2018.
 
++ ISPASS, IEEE International Symposium on Performance Analysis of Systems and Software
+	- https://www.ispass.org/ispass2019/
+	- Madison, WI.
+	- March 24-26, 2019.
+	- Submission deadline: September 28 and October 6, 2018.
+
+
+
+
+
+
+
+
+
 
 
 
@@ -301,6 +315,27 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
++ ISPD 2019, International Symposium on Physical Design
+	- http://www.ispd.cc
+	- San Francisco Bay Area, CA.
+	- Submission deadline: October 1 and 8, 2018.
+
++ VTS 2019, IEEE VLSI Test Symposium
+	- http://tttc-vts.org/public_html/new/2019/
+	- Monterey, CA.
+	- Submission deadline: Oct 5, 2018.
 
 
 
@@ -333,17 +368,6 @@
 
 
 
-+ VTS 2019, IEEE VLSI Test Symposium
-	- http://tttc-vts.org/public_html/new/2019/
-	- Monterey, CA.
-	- Submission deadline: Oct 5, 2018.
-
-
-
-+ ISPD 2019, International Symposium on Physical Design
-	- http://www.ispd.cc
-	- San Francisco Bay Area, CA.
-	- Submission deadline: October 1 and 8, 2018.
 
 
 
@@ -361,11 +385,26 @@
 
 
 
-+ CICC 2018, IEEE Custom Integrated Circuits Conference
-	- http://ieee-cicc.org
-	- Austin, TX
-	- Conference dates: April 14–17, 2019
-	- Submission deadline: November 5, 2018
+
+
+
+
+
++ SIGMETRICS 2019, ACM SIGMETRICS / IFIP Performance conference
+	- https://www.sigmetrics.org/sigmetrics2019/call_for_papers.html
+	- Phoenix, AZ.
+	- June 24-28, 2019.
+	- Submission deadline (For Fall submissions): October 22 and 29, 2018.
+	- Submission deadline (For Winter submissions): February 11 and 18, 2018.
+
++ ICS 2019, International Conference on Supercomputing
+	- https://www.ics-conference.org
+	- Phoenix, AZ.
+	- June 26-28, 2019.
+
+
+
+
 
 
 
@@ -378,18 +417,26 @@
 
 
 
-+ CC, International Conference on Compiler Construction
-	- https://cc-conference.github.io/19/
-	- February 16-17, 2019.
-	- Washington, D.C..
-	- Submission deadline: November 3 and 7, 2018.
 
-+ PLDI, Programming Language Design and Implementation
-	- https://pldi19.sigplan.org
-	- http://www.sigplan.org/Conferences/PLDI/
-	- June 24-26 (June 22-28), 2018.
+
+
+
++ FCRC, Federated Computing Research Conference
+	- https://fcrc.acm.org
 	- Phoenix, AZ
-	- Submission deadline: Nov 16, 2018.
+	- Conference dates: June 22-28, 2019.
+	- Associated conferences:
+		* COLT 2019: Conference on Learning Theory
+		* E-energy: 2019 ACM e-Energy Conference
+		* EC 2019: The 20th ACM Conference on Economics and Computation
+		* HPDC 2019: The 28th Int’l Symposium on High-Performance Parallel and Distributed Computing
+		* ICS 2019: The 33rd ACM International Conference on Supercomputing
+		* ISCA 2019: The 46th International Symposium on Computer Architecture
+		* IWQoS 2019: IEEE/ACM International Symposium on Quality of Service
+		* PLDI 2019: 40th ACM SIGPLAN Conference on Programming Language Design and Implementation
+		* SIGMETRICS 2019: International Conference on Measurement and Modeling of Computer Systems
+		* SPAA 2019: ACM Symposium on Parallelism in Algorithms and Architectures
+		* STOC 2019: 51st ACM Symposium on Theory of Computing
 
 
 
@@ -401,6 +448,28 @@
 	- Phoenix, AZ
 	- Conference dates: June 23-26, 2019.
 	- Submission deadline: November 2, 2018.
+
+
+
+
++ CC, International Conference on Compiler Construction
+	- https://cc-conference.github.io/19/
+	- February 16-17, 2019.
+	- Washington, D.C..
+	- Submission deadline: November 3 and 7, 2018.
+
++ CICC 2018, IEEE Custom Integrated Circuits Conference
+	- http://ieee-cicc.org
+	- Austin, TX
+	- Conference dates: April 14–17, 2019
+	- Submission deadline: November 5, 2018
+
+
+
+
+
+
+
 
 
 
@@ -432,6 +501,27 @@
 	- https://conf.researchr.org/track/etaps-2019/post-2019-papers
 	- Prague, Czech Republic
 	- Submission deadline: Nov 7 and Nov 15, 2018
+
+
+
+
+
+
+
++ PLDI, Programming Language Design and Implementation
+	- https://pldi19.sigplan.org
+	- http://www.sigplan.org/Conferences/PLDI/
+	- June 24-26 (June 22-28), 2018.
+	- Phoenix, AZ
+	- Submission deadline: Nov 16, 2018.
+
+
+
+
+
+
+
+
 
 
 + ISCA, International Symposium on Computer Architecture
@@ -557,6 +647,16 @@
 	- Conference dates: July 18-20, 2019.
 	- Submission deadline: January 2019.
 
+
+
+
+
+
++ HPDC, International ACM Symposium on High-Performance Parallel and Distributed Computing
+	- http://www.hpdc.org/2019/papers/call-for-papers/
+	- Phoenix, AZ.
+	- June 22-29, 2019.
+	- Submission deadline: January 16 and 23, 2018.
 
 
 
