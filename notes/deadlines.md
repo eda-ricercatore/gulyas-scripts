@@ -281,10 +281,7 @@
  	- Submission deadline: Sep 10, 2018.
 
 
-+ MTV17, International Workshop on Microprocessor/SoC Test, Security & Verification
-	- http://mtvcon.org/paper-submission/
-	- Austin, TX
-	- Submission deadline: September 16, 2018.
+
 
 + ISPASS, IEEE International Symposium on Performance Analysis of Systems and Software
 	- https://www.ispass.org/ispass2019/
@@ -295,7 +292,10 @@
 
 
 
-
++ MTV17, International Workshop on Microprocessor/SoC Test, Security & Verification
+	- http://mtvcon.org/paper-submission/
+	- Austin, TX
+	- Submission deadline: September 30 (delayed), 2018.
 
 
 
