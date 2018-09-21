@@ -29,7 +29,7 @@
 	Notes/Assumptions:
 	Since I would be categorizing and storing the experimental results
 		based on the year and month, the filename containg experimental
-		results would be named in the DD-MM-YY-HR-SS-US format so that
+		results would be named in the DD-MM-YY-HR-MN-SS-US format so that
 		I can quickly find the file of a given build (or experimental
 		run) as I read the filename from left to right.
 
@@ -116,7 +116,7 @@ from calendar import month_name
 	Module to generate the filename for storing the experimental
 		results and simulation output.
 """
-from generate_results_filename import generate_filename
+from utilities.generate_results_filename import generate_filename
 
 ###############################################################
 class run_regression_tests:
@@ -143,7 +143,13 @@ if __name__ == "__main__":
 	print("")
 	print("	Month #4 is:",month_name[4])
 	print("	Month #0 is:",month_name[0],"=end.")
-	#print("	Month #100 is:",month_name[100])
-	print("	Month #100 is:",month_name[-78])
+	try:
+		print("	Month #100 is:",month_name[100])
+	except IndexError:
+		print("	Cannot have month indices > 12.")
+	try:
+		print("	Month #-78 is:",month_name[-78])
+	except IndexError:
+		print("	Cannot have negative month indices.")
 	print("")
 	print("	= end =")

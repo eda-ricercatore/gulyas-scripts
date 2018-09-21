@@ -137,7 +137,7 @@ class generate_filename:
 		print("")
 		"""
 		current_time = str(now.day) + "-" + str(now.month) + "-" + str(now.year) + "-" + str(now.hour) + "-"  + str(now.minute) + "-"  + str(now.second) + "-"  + str(now.microsecond) + ".txt"
-		print(current_time)
+		#print(current_time)
 		return current_time
 	# ============================================================
 	##	Method to determine if the user wants help, and conequently
