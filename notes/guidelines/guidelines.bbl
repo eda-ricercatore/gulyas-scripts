@@ -65,6 +65,11 @@ Scott~W. Ambler and Mark Lines.
   Software Delivery in the Enterprise}.
 \newblock {IBM} Press and Pearson {PLC}, Armonk, {NY} and Boston, {MA}, 2012.
 
+\bibitem{Ambler2006}
+Scott~W. Ambler and Pramod~J. Sadalage.
+\newblock {\em Refactoring Databases: Evolutionary Database Design}.
+\newblock Addison-Wesley Signature Series. Addison-Wesley, Boston, {MA}, 2006.
+
 \bibitem{Anderson1993}
 Ronald~E. Anderson, Deborah~G. Johnson, Donald Gotterbarn, and Judith Perrolle.
 \newblock Using the new {ACM} code of ethics in decision making.
@@ -126,6 +131,13 @@ Mike Beedle, Arie {van Bennekum}, Alistair Cockburn, Ward Cunningham, Martin
   at: \url{http://agilemanifesto.org/principles.html}; June 9, 2018 was the
   last accessed date, 2001.
 
+\bibitem{Bender2011}
+James Bender and Jeff {McWherter}.
+\newblock {\em Professional Test Driven Development with {{C}\#}: Developing
+  Real-World Applications with {TDD}}.
+\newblock {Wrox} Programmer to Programmer$^{\texttrademark}$. Wiley Publishing,
+  Indianapolis, {IN}, 2011.
+
 \bibitem{Bening2000}
 Lionel Bening and Harry Foster.
 \newblock {\em Principles of Verifiable {RTL} Design: A Functional Coding Style
@@ -142,6 +154,14 @@ Lionel Bening and Harry Foster.
 Jon Bentley.
 \newblock {\em Programming Pearls}.
 \newblock Addison-Wesley, Reading, {MA}, second edition, 2000.
+
+\bibitem{Binkert2011}
+Nathan Binkert, Bradford Beckmann, Gabriel Black, Steven~K. Reinhardt, Ali
+  Saidi, Arkaprava Basu, Joel Hestness, Derek~R. Hower, Tushar Krishna, Somayeh
+  Sardashti, Rathijit Sen, Korey Sewell, Muhammad Shoaib, Nilay Vaish, Mark~D.
+  Hill, and David~A. Wood.
+\newblock The {gem5} simulator.
+\newblock {\em {ACM SIGARCH} Computer Architecture News}, 39(2):1--7, May 2011.
 
 \bibitem{Blackburn20XY}
 Steve Blackburn and Matthias Hauswirth.
@@ -179,6 +199,13 @@ Bo~Brinkman, Don Gotterbarn, Keith~W. Miller, and Marty~J. Wolf.
   enforcement, promoting integrity.
 \newblock {\em {ACM} Computers and Society: Newsletter of the {ACM} Special
   Interest Group on Computers and Society}, 46(3):5--8, November 2016.
+
+\bibitem{Brown1998}
+William~J. Brown, Raphael~C. Malveau, Hays W.~``Skip'' {McCormick, III}, and
+  Thomas~J. Mowbray.
+\newblock {\em AntiPatterns: Refactoring Software, Architectures, and Projects
+  in Crisis}.
+\newblock John Wiley {\rm \&}\ Sons, Hoboken, {NJ}, 1998.
 
 \bibitem{Cady2017}
 Field Cady.
@@ -302,6 +329,17 @@ Esther Derby and Diana Larsen.
 \newblock {\em Agile Retrospectives: Making Good Teams Great}.
 \newblock The Pragmatic Programmers, Raleigh, {NC}, 2006.
 
+\bibitem{DiGennaro2011}
+Davide {Di Gennaro}.
+\newblock Advanced {C++} metaprogramming.
+\newblock Self-published, 2011.
+
+\bibitem{Dooley2017}
+John~F. Dooley.
+\newblock {\em Software Development, Design and Coding: With Patterns,
+  Debugging, Unit Testing, and Refactoring}.
+\newblock Apress Media, {LLC}, Berkeley, {CA}, second edition, 2017.
+
 \bibitem{Driscoll20XYb}
 Evan Driscoll.
 \newblock {Latexdiff} notes.
@@ -343,6 +381,12 @@ Benny Evangelista.
   \url{http://blog.sfgate.com/techchron/2012/02/01/facebooks-hacker-way-move-fast-and-break-things/};
   October 9, 2014 was the last accessed date, February 1 2012.
 
+\bibitem{Evans2004}
+Eric Evans.
+\newblock {\em Domain-Driven Design: Tackling Complexity in the Heart of
+  Software}.
+\newblock Pearson Education, Boston, {MA}, 2004.
+
 \bibitem{Feathers2005}
 Michael~C. Feathers.
 \newblock {\em Working Effectively with Legacy Code}.
@@ -355,6 +399,12 @@ Mark Fewster and Dorothy Graham.
   Tools}.
 \newblock {ACM} Press and Addison-Wesley, New York, {NY} and Harlow, Essex,
   England, {U.K.}, 1999.
+
+\bibitem{Fields2010}
+Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck.
+\newblock {\em Refactoring}.
+\newblock Addison-Wesley Signature Series. Addison-Wesley, Boston, {MA}, ruby
+  edition, 2010.
 
 \bibitem{figshareLLPstaff2016}
 {figshare LLP staff}.
@@ -374,6 +424,12 @@ Rachel Fong.
   Research} at:
   \url{http://mitadmissions.org/blogs/entry/move_fast_and_break_things};
   October 9, 2014 was the last accessed date, June 25 2011.
+
+\bibitem{Fowler1999}
+Martin Fowler, Kent Beck, John Brant, William Opdyke, and Don Roberts.
+\newblock {\em Refactoring: Improving the Design of Existing Code}.
+\newblock Addison-Wesley Object Technology Series. Addison-Wesley, Reading,
+  {MA}, 1999.
 
 \bibitem{Fox2013}
 Armando Fox and David Patterson.
@@ -406,6 +462,13 @@ Matthias Geier.
 \newblock Available online from {\it Matthias Geier's web page} at:
   \url{http://mg.readthedocs.io/reproducible_research.html}; self-published;
   April 24, 2017 was the last accessed date.
+
+\bibitem{gem5developers2014}
+{gem5 developers}.
+\newblock The {gem5} simulator system: A modular platform for computer system
+  architecture research.
+\newblock Available online at: \url{http://www.gem5.org/Main_Page};
+  self-published; October 9, 2014 was the last accessed date, October 27 2014.
 
 \bibitem{Ghani2016}
 Imran Ghani, Dayang Norhayati~Abang Jawawi, Siva Dorairaj, and Ahmed Sidky.
@@ -546,6 +609,12 @@ Jez Humble and David Farley.
 \newblock Addison-Wesley Signature Series. Pearson Education, Boston, {MA},
   2011.
 
+\bibitem{Hunt2008}
+Andy Hunt.
+\newblock {\em Pragmatic Thinking and Learning: Refactor Your Wetware}.
+\newblock Pragmatic Bookshelf. The Pragmatic Programmers, Raleigh, {NC},
+  September 15 2008.
+
 \bibitem{Hunt2006a}
 John Hunt.
 \newblock {\em Agile Software Construction}.
@@ -634,6 +703,11 @@ Allan Kelly.
   {Kanban} and {XP} - inspiration for creating your own hybrid}.
 \newblock Software Strategy Ltd., London, {U.K.}, 2015.
 
+\bibitem{Kerievsky2005}
+Joshua Kerievsky.
+\newblock {\em Refactoring to Patterns}.
+\newblock Addison-Wesley Signature Series. Addison-Wesley, Boston, {MA}, 2005.
+
 \bibitem{Kernighan1999}
 Brian~W. Kernighan and Rob Pike.
 \newblock {\em The Practice of Programming}.
@@ -702,6 +776,11 @@ Jean~J. Labrosse.
 \newblock {\em Embedded Systems Building Blocks: Complete and Ready-to-Use
   Modules in {C}}.
 \newblock {CMP} Books, Lawrence, {KS}, second edition, 1999.
+
+\bibitem{Laplante2004}
+Phillip~A. Laplante.
+\newblock {\em Real-Time Systems Design and Analysis}.
+\newblock John Wiley {\rm \&}\ Sons, Hoboken, {NJ}, third edition, 2004.
 
 \bibitem{Laplante2014}
 Phillip~A. Laplante.
@@ -827,6 +906,12 @@ Steve {McConnell}.
 Steve {McConnell}.
 \newblock {\em Code Complete: A Practical Handbook of Software Construction}.
 \newblock Microsoft Press, Redmond, {WA}, second edition, 2004.
+
+\bibitem{Meszaros2007}
+Gerard Meszaros.
+\newblock {\em {xUnit} Test Patterns: Refactoring Test Code}.
+\newblock Addison-Wesley Signature Series. Pearson Education, Boston, {MA},
+  2007.
 
 \bibitem{Mili2015}
 Ali Mili and Fairouz Tchier.
@@ -1123,6 +1208,14 @@ Ian Sommerville.
 \newblock {\em Software Engineering}.
 \newblock Pearson Education, Harlow, Essex, England, {U.K.}, eighth edition,
   2007.
+
+\bibitem{Spolsky2008}
+Joel Spolsky.
+\newblock {\em More Joel on Software: Further Thoughts on Diverse and
+  Occasionally Related Matters That Will Prove of Interest to Software
+  Developers, Designers, and Managers, and to Those who, Whether by Good
+  Fortune or Ill Luck, Work with Them in Some Capacity}.
+\newblock Apress, Berkeley, {CA}, 2008.
 
 \bibitem{Stallman2016a}
 Richard Stallman and Bob Chassell.

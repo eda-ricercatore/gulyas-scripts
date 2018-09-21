@@ -2,6 +2,7 @@ This is BibTeX, Version 0.99d (TeX Live 2015)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: guidelines.aux
 The style file: plain.bst
+Reallocated field_info (elt_size=4) to 10129 items from 5000.
 Database file #1: /Users/zhiyang/Documents/ricerca/lassi-bibtex/references.bib
 Reallocated buffer (elt_size=1) to 40000 items from 20000.
 Reallocated sv_buffer (elt_size=1) to 40000 items from 20000.
@@ -15,44 +16,44 @@ Reallocated ex_buf (elt_size=1) to 60000 items from 40000.
 Reallocated out_buf (elt_size=1) to 60000 items from 40000.
 Reallocated name_tok (elt_size=4) to 60000 items from 40000.
 Reallocated name_sep_char (elt_size=1) to 60000 items from 40000.
-You've used 208 entries,
+You've used 223 entries,
             2118 wiz_defined-function locations,
-            1661 strings with 47194 characters,
-and the built_in function-call counts, 53348 in all, are:
-= -- 5034
-> -- 2571
+            1727 strings with 49484 characters,
+and the built_in function-call counts, 57619 in all, are:
+= -- 5436
+> -- 2817
 < -- 8
-+ -- 1058
-- -- 832
-* -- 2882
-:= -- 9369
-add.period$ -- 668
-call.type$ -- 208
-change.case$ -- 957
++ -- 1159
+- -- 916
+* -- 3151
+:= -- 10139
+add.period$ -- 720
+call.type$ -- 223
+change.case$ -- 1035
 chr.to.int$ -- 0
-cite$ -- 208
-duplicate$ -- 2142
-empty$ -- 4576
-format.name$ -- 832
-if$ -- 11262
+cite$ -- 223
+duplicate$ -- 2312
+empty$ -- 4900
+format.name$ -- 916
+if$ -- 12144
 int.to.chr$ -- 0
-int.to.str$ -- 208
-missing$ -- 244
-newline$ -- 1043
-num.names$ -- 416
-pop$ -- 1517
+int.to.str$ -- 223
+missing$ -- 269
+newline$ -- 1118
+num.names$ -- 446
+pop$ -- 1625
 preamble$ -- 1
-purify$ -- 832
+purify$ -- 904
 quote$ -- 0
-skip$ -- 1400
+skip$ -- 1493
 stack$ -- 0
-substring$ -- 1294
-swap$ -- 233
+substring$ -- 1384
+swap$ -- 248
 text.length$ -- 8
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 604
+type$ -- 640
 warning$ -- 0
-while$ -- 440
-width$ -- 211
-write$ -- 2290
+while$ -- 472
+width$ -- 226
+write$ -- 2463

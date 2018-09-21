@@ -1,8 +1,9 @@
 \BOOKMARK [1][]{section.1}{Guidelines for Conduct}{}% 1
 \BOOKMARK [1][]{section.2}{Guidelines for Creating a Shared 1!BibTeX Database}{}% 2
-\BOOKMARK [1][]{section.3}{Recommended Fields for 1!BibTeX Entries}{}% 3
-\BOOKMARK [1][]{section.4}{Coding Standard}{}% 4
-\BOOKMARK [1][]{section.5}{Exception Safety}{}% 5
-\BOOKMARK [1][]{section.6}{Suggested Software Architecture}{}% 6
-\BOOKMARK [1][]{section.7}{Adoption of Best Practices}{}% 7
-\BOOKMARK [1][]{section.8}{Additional Guidelines}{}% 8
+\BOOKMARK [2][]{subsection.2.1}{Recommended Fields for 1!BibTeX Entries}{section.2}% 3
+\BOOKMARK [1][]{section.3}{Coding Standard}{}% 4
+\BOOKMARK [1][]{section.4}{Exception Safety}{}% 5
+\BOOKMARK [1][]{section.5}{Suggested Software Architecture}{}% 6
+\BOOKMARK [1][]{section.6}{Adoption of Best Practices}{}% 7
+\BOOKMARK [2][]{subsection.6.1}{Practice of Automated Regression Testing}{section.6}% 8
+\BOOKMARK [1][]{section.7}{Additional Guidelines}{}% 9

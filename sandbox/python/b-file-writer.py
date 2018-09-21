@@ -103,8 +103,9 @@ print("something is:",something)
 
 
 #	Location to store simulation and/or experimental results.
-result_repository = /Documents/ricerca/risultati_sperimentali/std-cell-library-characterization
-
+result_repository_relative_path = "~/Documents/ricerca/risultati_sperimentali/std-cell-library-characterization"
+result_repository_absolute_path = os.path.expanduser(result_repository_relative_path)
+print("result_repository_absolute_path is:",result_repository_absolute_path,"=")
 
 
 

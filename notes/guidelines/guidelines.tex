@@ -51,6 +51,14 @@ This is a set of guidelines for conduct while collaborating on open source proje
 \end{abstract}
 
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%	Create the table of contents
+\tableofcontents
+%	Start the numbering of chapters from 1, instead of 0.
+%\setcounter{chapter}{1}
+%	Increase the depth of each section in the Table of Contents to 4.
+\setcounter{secnumdepth}{4}
+
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -76,6 +84,7 @@ Revision history: \vspace{-0.3cm}
 \item Version 3.9, February 1, 2018. Added information about developing software in a {\it Python}ic style.
 \item Version 4.0, June 8, 2018. Added information about specifying (co-)authors' full name, and research reproducibility, and other best practices from software development, and embedded/cyber-physical system and integrated circuit design.
 \item Version 4.1, September 19, 2018. Updated ACM Code of Ethics and Professional Conduct; added The Joint {ACM/IEEE-CS} Software Engineering Code of Ethics and Professional Practice; and updated guidelines on exception handling.
+\item Version 4.2, September 21, 2018. Added acknowledgements, shout outs, for people who helped me with automated regression testing. And, refactored document.
 \end{enumerate}
 
 
@@ -151,8 +160,8 @@ Guidelines for creating {\sc Bib}\TeX\ entries and the {\sc Bib}\TeX\ database, 
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Recommended Fields for {\sc Bib}\TeX\ Entries}
-\label{sec:RecommendedFieldsforBibTeXEntries}
+\subsection{Recommended Fields for {\sc Bib}\TeX\ Entries}
+\label{ssec:RecommendedFieldsforBibTeXEntries}
 
 
 The recommended fields for {\sc Bib}\TeX\ entries are: \vspace{-0.3cm}
@@ -383,12 +392,12 @@ Please judiciously consider what to do with the semipredicate problem \cite{Wiki
 
 At the software system level, the software architecture can be described by the following modules/components: \vspace{-0.3cm}
 \begin{enumerate} \itemsep -4pt
+\item parser(s): \vspace{-0.3cm}
+	\begin{enumerate} \itemsep -2pt
+	\item For input benchmarks
+	\end{enumerate}
 \item utilities: \vspace{-0.3cm}
 	\begin{enumerate} \itemsep -2pt
-	\item parser(s): \vspace{-0.2cm}
-		\begin{enumerate} \itemsep -2pt
-		\item For input benchmarks
-		\end{enumerate}
 	\item output generator(s)
 	\item flag/switch -based printing information to standard output/error: \vspace{-0.2cm}
 		\begin{enumerate} \itemsep -2pt
@@ -454,9 +463,24 @@ Where possible, we shall try to adopt multiple best practices from leading produ
 
 
 %	Agile Manifesto, agile methodologies, agile methods, agile development
-In addition, try to use agile (software development and VLSI design) methodologies \cite{Cady2017,Rothman2017,AltSimmons2016,Ghani2016,Jeffries2015,Jensen2015,Kelly2015,Olsen2015,Stellman2015,Babar2014,Goncalves2014,Laplante2014,Fox2013,Ambler2012,Collier2012,Crookshanks2012,Valacich2012,Appelo2011,Corr2011,Larsen2011a,Leffingwell2011,Meinel2011,Pugh2011,Eckstein2010,Larman2010,Pressman2010,Rasmusson2010,Rothman2009,Stober2010,Davies2009,Larman2009,Martin2009a,DeLucia2008,Kelly2008,Shore2008,Younker2008,Cockburn2007,Martin2007,Rothman2007,Schach2007,37signals2006,Derby2006,Hunt2006a,Subramaniam2006,Beck2005,Coplien2005,Larman2005,Boehm2004,Larman2004,Ambler2003,Larman2003,Martin2002,Beedle2001,Beedle2001a} to develop software, and design circuits, electronic designs, and cyber-physical systems (or embedded systems).
+In addition, try to use agile (software development and VLSI design) methodologies \cite{Cady2017,Rothman2017,AltSimmons2016,Ghani2016,Jeffries2015,Jensen2015,Kelly2015,Olsen2015,Stellman2015,Babar2014,Goncalves2014,Laplante2014,Fox2013,Ambler2012,Collier2012,Crookshanks2012,Valacich2012,Appelo2011,Corr2011,Larsen2011a,Leffingwell2011,Meinel2011,Pugh2011,Eckstein2010,Larman2010,Pressman2010,Rasmusson2010,Rothman2009,Stober2010,Davies2009,Larman2009,Martin2009a,DeLucia2008,Kelly2008,Shore2008,Younker2008,Cockburn2007,Martin2007,Rothman2007,Schach2007,37signals2006,Derby2006,Hunt2006a,Subramaniam2006,Beck2005,Coplien2005,Larman2005,Boehm2004,Larman2004,Ambler2003,Larman2003,Martin2002,Beedle2001,Beedle2001a} to develop software, and design circuits, electronic designs, and cyber-physical systems (or embedded systems). \\
+
+Also, carry out refactoring \cite{Fields2010,Fowler1999} on an ad-hoc basis to improve the software \cite{Dooley2017,Jeffries2015,Babar2014,Fox2013,Crookshanks2012,Bender2011,DiGennaro2011,Koopman2010,Shore2008,Spolsky2008,Meszaros2007,37signals2006,Feathers2005,Kerievsky2005,Evans2004,McConnell2004,Stevens2000,Brown1998}, hardware {\Huge Insert citations!!!}, and/or system \cite{Collier2012,Rothman2007,Laplante2004} architecture as well as databases \cite{Ambler2006}. In terms of personal and professional development, collaborators are strongly encouraged to refactor their wetware \cite{Hunt2008}, too.
 
 
+
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Practice of Automated Regression Testing}
+\label{ssec:PracticeOfAutomatedRegressionTesting}
+
+Regarding the practice of automated regression testing, Mr. Heiko Maurer (then a lecturer at the University of Adelaide) and Dr./Mr. Tishampati Dhar (a former classmate at the University of Adelaide) suggests printing information regarding passed test cases to a file (or to standard output) and printing information regarding failed test cases to another file (or to standard error). During build automation of software, such as {\it gem5} \cite{gem5developers2014,Binkert2011}, carry out automated (regression) testing during the last stage of the build/installation process to ensure that the build/installation was done correctly. When performing automated software testing (or software test automation), list the the test cases and their test results (i.e., ``OK''/``Fail''), just like {\it gem5} during the testing phase of build automation.
 
 
 
@@ -510,6 +534,15 @@ Please kindly note that {\it GitHub} \cite{GitHubStaff2016}: \vspace{-0.3cm}
 
 If possible, develop software in a {\it Python}ic style \cite[Chapter 1, pp. 1--12,12--17]{Alchin2010} \cite{Jon2014,Reitz2016a,Reitz2016,Preshing2014,Franca2014,vanRossum2013}.
 
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{Acknowledgments}
+\label{sec:Acknowledgments}
+
+
+Mr. David Knight (then a lecturer at the University of Adelaide) and Dr. Charles Lakos (then a senior lecturer at the University of Adelaide) introduced me to regression testing and automated software testing during their introductory course on software engineering. Subsequently, Mr. Heiko Maurer (then a lecturer at the University of Adelaide) planted the seeds of automated regression testing with his suggestion of separating the results of test cases that passed from the results of test cases that failed. Shortly after, Dr./Mr. Tishampati Dhar (a former classmate at the University of Adelaide) suggests printing information regarding passed test cases to a file (or to standard output) and printing information regarding failed test cases to another file (or to standard error). Months later, Dr. Francis Vaughan (then a senior lecturer at the University of Adelaide), Mr. Kevin J. Maciunas (then a lecturer at the University of Adelaide), and Dr. Robert Esser (then a senior lecturer at the University of Adelaide) helped me develop a sound methodology towards automated regression testing. In addition, Dr. Lakos and Dr. Esser introduced me to using formal methods and software formal verification in the software development process.
 
 
 
