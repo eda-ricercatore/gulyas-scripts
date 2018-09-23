@@ -324,6 +324,15 @@ Andrea {De Lucia}, Filomena Ferrucci, Genny Tortora, and Maurizio Tucci.
   Software Engineering}.
 \newblock John Wiley {\rm \&}\ Sons, Hoboken, {NJ}, 2008.
 
+\bibitem{DeOrio2016}
+Andrew {DeOrio} and Andrew Giugliano.
+\newblock Long-term effects of partner programming in an introductory computer
+  science sequence.
+\newblock In {\em Proceedings of the $123^{rd}$ {ASEE} Annual Conference and
+  Exposition on Engineering Education}, number 15189 in ASEE Conferences and
+  Meetings, New Orleans, {LA}, June 26--29 2016. American Society for
+  Engineering Education, American Society for Engineering Education.
+
 \bibitem{Derby2006}
 Esther Derby and Diana Larsen.
 \newblock {\em Agile Retrospectives: Making Good Teams Great}.
@@ -1003,6 +1012,11 @@ Andy Oram and Greg Wilson.
 \newblock {\em Beautiful Code: Leading Programmers Explain How They Think}.
 \newblock O'Reilly Media, Sebastopol, {CA}, 2007.
 
+\bibitem{Oram2011}
+Andy Oram and Greg Wilson.
+\newblock {\em Making Software: What Really Works, and Why We Believe It}.
+\newblock Theory in Practice. O'Reilly Media, Sebastopol, {CA}, 2011.
+
 \bibitem{OSullivan2009}
 Bryan O'Sullivan.
 \newblock {\em Mercurial: The Definitive Guide}.
@@ -1349,6 +1363,12 @@ James~A. Whittaker.
 \newblock {\em Exploratory Software Testing: Tips, Tricks, Tours, and
   Techniques to Guide Test Design}.
 \newblock Addison-Wesley, Boston, {MA}, 2009.
+
+\bibitem{Wiegers2002}
+Karl Wiegers.
+\newblock {\em Peer Reviews in Software: A Practical Guide}.
+\newblock Addison-Wesley Information Technology Series. Addison-Wesley,
+  Reading, {MA}, 2002.
 
 \bibitem{Wiegers2013}
 Karl Wiegers and Joy Beatty.

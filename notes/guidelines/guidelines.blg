@@ -2,7 +2,7 @@ This is BibTeX, Version 0.99d (TeX Live 2015)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: guidelines.aux
 The style file: plain.bst
-Reallocated field_info (elt_size=4) to 10129 items from 5000.
+Reallocated field_info (elt_size=4) to 10198 items from 5000.
 Database file #1: /Users/zhiyang/Documents/ricerca/lassi-bibtex/references.bib
 Reallocated buffer (elt_size=1) to 40000 items from 20000.
 Reallocated sv_buffer (elt_size=1) to 40000 items from 20000.
@@ -16,44 +16,44 @@ Reallocated ex_buf (elt_size=1) to 60000 items from 40000.
 Reallocated out_buf (elt_size=1) to 60000 items from 40000.
 Reallocated name_tok (elt_size=4) to 60000 items from 40000.
 Reallocated name_sep_char (elt_size=1) to 60000 items from 40000.
-You've used 223 entries,
+You've used 226 entries,
             2118 wiz_defined-function locations,
-            1727 strings with 49484 characters,
-and the built_in function-call counts, 57619 in all, are:
-= -- 5436
-> -- 2817
-< -- 8
-+ -- 1159
-- -- 916
-* -- 3151
-:= -- 10139
-add.period$ -- 720
-call.type$ -- 223
-change.case$ -- 1035
+            1747 strings with 50170 characters,
+and the built_in function-call counts, 58421 in all, are:
+= -- 5519
+> -- 2850
+< -- 9
++ -- 1172
+- -- 926
+* -- 3198
+:= -- 10280
+add.period$ -- 732
+call.type$ -- 226
+change.case$ -- 1047
 chr.to.int$ -- 0
-cite$ -- 223
-duplicate$ -- 2312
-empty$ -- 4900
-format.name$ -- 916
-if$ -- 12144
+cite$ -- 226
+duplicate$ -- 2350
+empty$ -- 4970
+format.name$ -- 926
+if$ -- 12320
 int.to.chr$ -- 0
-int.to.str$ -- 223
-missing$ -- 269
-newline$ -- 1118
-num.names$ -- 446
-pop$ -- 1625
+int.to.str$ -- 226
+missing$ -- 274
+newline$ -- 1133
+num.names$ -- 452
+pop$ -- 1641
 preamble$ -- 1
-purify$ -- 904
+purify$ -- 915
 quote$ -- 0
-skip$ -- 1493
+skip$ -- 1512
 stack$ -- 0
-substring$ -- 1384
-swap$ -- 248
-text.length$ -- 8
+substring$ -- 1399
+swap$ -- 252
+text.length$ -- 9
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 640
+type$ -- 648
 warning$ -- 0
-while$ -- 472
-width$ -- 226
-write$ -- 2463
+while$ -- 478
+width$ -- 229
+write$ -- 2501
