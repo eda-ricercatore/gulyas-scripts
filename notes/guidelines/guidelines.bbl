@@ -163,6 +163,14 @@ Nathan Binkert, Bradford Beckmann, Gabriel Black, Steven~K. Reinhardt, Ali
 \newblock The {gem5} simulator.
 \newblock {\em {ACM SIGARCH} Computer Architecture News}, 39(2):1--7, May 2011.
 
+\bibitem{Black2010a}
+David Black, Hemendra Talesara, and Neil Johnson.
+\newblock Using agile techniques with {ESL}: For better results.
+\newblock Available online from {\it North American {SystemC} User's Group
+  ({NASCUG}): NASCUG 14} at:
+  \url{http://www.nascug.org/events/14th/Agile_ESL.pdf}; self-published;
+  September 25, 2018 was the last accessed date, 2010.
+
 \bibitem{Blackburn20XY}
 Steve Blackburn and Matthias Hauswirth.
 \newblock Artifact evaluation.
@@ -170,6 +178,12 @@ Steve Blackburn and Matthias Hauswirth.
   Informatics: Evaluate Collaboratory, Experimental Evaluation of Software and
   Systems in Computer Science} at: \url{http://evaluate.inf.usi.ch/artifacts};
   June 25, 2017 was the last accessed date.
+
+\bibitem{Blokdyk20XY}
+Gerardus Blokdyk.
+\newblock {\em Technical Debt: Standard Requirements, Practical Tools for
+  Self-Assessment}.
+\newblock The Art of Service, Brendale, Queensland, Australia.
 
 \bibitem{Blume2007a}
 Peter~A. Blume.
@@ -180,6 +194,15 @@ Peter~A. Blume.
 Barry Boehm and Richard Turner.
 \newblock {\em Balancing Agility and Discipline: A Guide for the Perplexed}.
 \newblock Pearson Education, Boston, {MA}, 2004.
+
+\bibitem{Brahma2017}
+Seshu Brahma.
+\newblock The benefits of personal projects.
+\newblock Available online from {\it The University of Texas at Austin: College
+  of Natural Sciences: Department of Computer Science: {ReadMe} -- {UTCS}
+  Student Blogs: Seshu Brahma's blog} at:
+  \url{http://www.cs.utexas.edu/blog/benefits-personal-projects}; April 17,
+  2017 was the last accessed date, April 14 2017.
 
 \bibitem{Brinkman2017}
 Bo~Brinkman, Catherine Flick, Don Gotterbarn, Keith Miller, Kate Vazansky, and
@@ -399,8 +422,7 @@ Eric Evans.
 \bibitem{Feathers2005}
 Michael~C. Feathers.
 \newblock {\em Working Effectively with Legacy Code}.
-\newblock Robert C. Martin Series. Pearson Education, Upper Saddle River, {NJ},
-  2005.
+\newblock Robert C. Martin. Pearson Education, Upper Saddle River, {NJ}, 2005.
 
 \bibitem{Fewster1999}
 Mark Fewster and Dorothy Graham.
@@ -479,6 +501,11 @@ Matthias Geier.
 \newblock Available online at: \url{http://www.gem5.org/Main_Page};
   self-published; October 9, 2014 was the last accessed date, October 27 2014.
 
+\bibitem{Gerstlauer2001}
+Andreas Gerstlauer, Rainer D{\"{o}}mer, Junyu Peng, and Daniel~D. Gajski.
+\newblock {\em System Design: A Practical Guide with {SpecC}}.
+\newblock Kluwer Academic Publishers, Norwell, {MA}, 2001.
+
 \bibitem{Ghani2016}
 Imran Ghani, Dayang Norhayati~Abang Jawawi, Siva Dorairaj, and Ahmed Sidky.
 \newblock {\em Emerging Innovations in Agile Software Development}.
@@ -535,6 +562,14 @@ Imran Ghani, Dayang Norhayati~Abang Jawawi, Siva Dorairaj, and Ahmed Sidky.
 \newblock Available online at: \url{https://training.github.com/kit/}; August
   14, 2014 was the last accessed date, 2014.
 
+\bibitem{Goering2010}
+Richard Goering.
+\newblock Can agile software development methods help {SoC} design?
+\newblock Available online from {\it Cadence Design Systems: Cadence Community:
+  Blogs: Industry Insights Blogs} at:
+  \url{https://community.cadence.com/cadence_blogs_8/b/ii/posts/can-agile-software-development-methods-help-soc-design};
+  September 25, 2018 was the last accessed date, August 18 2010.
+
 \bibitem{Goncalves2014}
 Luis Gon{\c{c}}alves and Ben Linders.
 \newblock Getting value out of agile retrospectives: A toolbox of retrospective
@@ -586,6 +621,12 @@ Donald Gotterbarn, Keith Miller, Simon Rogerson, Steve Barber, Peter Barnes,
   \url{https://ethics.acm.org/code-of-ethics/software-engineering-code/};
   September 19, 2018 was the last accessed date, 1999.
 
+\bibitem{Guo2016}
+Yuepu Guo.
+\newblock {\em Measuring and Monitoring Technical Debt}.
+\newblock PhD thesis, {University of Maryland, Baltimore County}, Baltimore,
+  {MD}, 2016.
+
 \bibitem{Hagelberg2017}
 Philip~N. Hagelberg.
 \newblock Leiningen.
@@ -603,6 +644,18 @@ Junio~C. Hamano, Linus Torvalds, Shawn Pearce, Johannes Schindelin, Nicolas
 \newblock Available online at: \url{http://www.git-scm.com/} and
   \url{http://git-blame.blogspot.com/}; August 1, 2014 was the last accessed
   date, August 12 2014.
+
+\bibitem{Hennessy2018}
+John Hennessy and David Patterson.
+\newblock A new golden age for computer architecture: Domain-specific
+  hardware/software co-design, enhanced security, open instruction sets, and
+  agile chip development.
+\newblock Available online from {\it {IEEE} Consultants' Network of Silicon
+  Valley ({IEEE-CNSV}): Events} at:
+  \url{https://californiaconsultants.org/event/annual-cnsv-dinner-meeting-a-new-golden-age-for-computer-architecture/}
+  and
+  \url{https://californiaconsultants.org/wp-content/uploads/2018/04/CNSV-1806-Patterson.pdf};
+  July 20, 2018 was the last accessed date, June 13 2018.
 
 \bibitem{Hoff2008a}
 Todd Hoff.
@@ -683,6 +736,12 @@ Randall~W. Jensen.
 \newblock {\em Improving Software Development Productivity: Effective
   Leadership and Quantitative Methods in Software Management}.
 \newblock Prentice Hall, Upper Saddle River, {NJ}, 2015.
+
+\bibitem{Johnson2018a}
+Neil Johnson and Bryan Morris.
+\newblock {AgileSoC}: Bring agile to the world of hardware development.
+\newblock Available online at: \url{http://agilesoc.com}; self-published;
+  September 25, 2018 was the last accessed date, 2018.
 
 \bibitem{Jon2014}
 Jon.
@@ -765,6 +824,11 @@ Shriram Krishnamurthi.
   Department: Prof. Shriram Krishnamurthi's web page} at:
   \url{http://www.artifact-eval.org}; self-published; June 25, 2017 was the
   last accessed date.
+
+\bibitem{Kruchten2012}
+Philippe Kruchten, Robert~L. Nord, and Ipek Ozkaya.
+\newblock Technical debt: From metaphor to theory and practice.
+\newblock {\em {IEEE} Software}, 29(6):18--21, November--December 2012.
 
 \bibitem{Kushner2011}
 David Kushner.
@@ -892,8 +956,7 @@ Robert~C. Martin.
 \bibitem{Martin2009a}
 Robert~C. Martin.
 \newblock {\em Clean Code: A Handbook of Agile Software Craftsmanship}.
-\newblock Robert C. Martin Series. Pearson Education, Upper Saddle River, {NJ},
-  2009.
+\newblock Robert C. Martin. Pearson Education, Upper Saddle River, {NJ}, 2009.
 
 \bibitem{Martin2007}
 Robert~C. Martin and Micah Martin.
@@ -915,6 +978,14 @@ Steve {McConnell}.
 Steve {McConnell}.
 \newblock {\em Code Complete: A Practical Handbook of Software Construction}.
 \newblock Microsoft Press, Redmond, {WA}, second edition, 2004.
+
+\bibitem{McLellan2014a}
+Paul {McLellan}.
+\newblock Agile {IC} development.
+\newblock Available online from {\it {SemiWiki.com}: Semiconductor Expert
+  Forum} at:
+  \url{https://www.semiwiki.com/forum/content/3889-agile-ic-development.html};
+  September 23, 2018 was the last accessed date, October 1 2014.
 
 \bibitem{Meszaros2007}
 Gerard Meszaros.
@@ -938,6 +1009,25 @@ Trevor Misfeldt, Gregory Bumgardner, and Andrew Gray.
 \newblock {\em The Elements of {C++} Style}.
 \newblock Cambridge University Press, New York, {NY}, 2004.
 
+\bibitem{MondragonTorres2013}
+Antonio~F. {Mondragon-Torres}.
+\newblock An agile embedded systems capstone course: Overview, experiences, and
+  lessons learned.
+\newblock In {\em Proceedings of the $43^{rd}$\ IEEE Frontiers in Education
+  Conference ({FIE 2013})}, Oklahoma City, {OK}, October 23--26 2013. American
+  Society for Engineering Education, Institute of Electrical and Electronics
+  Engineers, and {IEEE} Computer Society, {IEEE} Press.
+
+\bibitem{MondragonTorres2011}
+Antonio~F. {Mondragon-Torres}, Alexander Kozitsky, Clifford Bundick, Edward {Mc
+  Kenna Jr.}, Eric Alley, Matthew Lloyd, Peter Stanley, and Roger Lane.
+\newblock Work in progress -- an agile embedded systems design capstone course.
+\newblock In {\em Proceedings of the $41^{st}$\ Annual {ASEE/IEEE} Frontiers in
+  Education Conference ({FIE 2011})}, pages {F4F--1} -- {F4F--3}, Rapid City,
+  {SD}, October 12--15 2011. American Society for Engineering Education,
+  Institute of Electrical and Electronics Engineers, and {IEEE} Computer
+  Society, {IEEE} Press.
+
 \bibitem{Mosley2002}
 Daniel~J. Mosley and Bruce~A. Posey.
 \newblock {\em Just Enough Software Test Automation}.
@@ -949,6 +1039,11 @@ Matthias M{\"{u}}ller-Hannemann and Stefan Schirra.
 \newblock {\em Algorithm Engineering: Bridging the Gap between Algorithm Theory
   and Practice}, volume 5971 of {\em Lecture Notes in Computer Science}.
 \newblock Springer-Verlag Berlin Heidelberg, Heidelberg, Germany, 2010.
+
+\bibitem{Myers1998}
+W.~Myers.
+\newblock Why software developers refuse to improve.
+\newblock {\em {IEEE} Computer}, 31(4):110--112, April 1998.
 
 \bibitem{Olsen2015}
 Dan Olsen.
@@ -1093,6 +1188,14 @@ Eric~S. Raymond.
 \newblock {\em The Art of {UNIX} Programming}.
 \newblock Addison-Wesley Professional Computing Series. Pearson Education,
   Boston, {MA}, 2004.
+
+\bibitem{Read2003}
+Robert~L. Read.
+\newblock An essay on how to be a programmer.
+\newblock Available online at:
+  \url{http://samizdat.mines.edu/howto/HowToBeAProgrammer.html} and
+  \url{http://samizdat.mines.edu/howto/HowToBeAProgrammer.pdf}; April 2, 2014
+  was the last accessed date, 2003.
 
 \bibitem{Reitz2016a}
 Kenneth Reitz.
@@ -1262,6 +1365,12 @@ Andrew Stellman and Jennifer Greene.
 \newblock {\em Learning Agile: Understanding Scrum, {XP}, Lean, and {Kanban}}.
 \newblock O'Reilly Media, Sebastopol, {CA}, 2015.
 
+\bibitem{Sterling2011}
+Chris Sterling.
+\newblock {\em Managing Software Debt: Building for Inevitable Change}.
+\newblock Agile Software Development Series. Addison-Wesley, Boston, {MA},
+  2011.
+
 \bibitem{Stevens2000}
 Perdita Stevens and Rob Pooley.
 \newblock {\em Using {UML}: Software Engineering with Objects and Components}.
@@ -1311,6 +1420,12 @@ Eno Thereska.
   University} at:
   \url{https://users.ece.cmu.edu/~eno/coding/CppCodingStandard.html}; February
   16, 2016 was the last accessed date.
+
+\bibitem{Tornhill2018}
+Adam Tornhill.
+\newblock {\em Software Design {X-Rays}: Fix Technical Debt with Behavioral
+  Code Analysis}.
+\newblock The Pragmatic Programmers, Raleigh, {NC}, 2018.
 
 \bibitem{Turnquist2011}
 Greg~L. Turnquist.
@@ -1425,6 +1540,22 @@ Karl Wiegers and Joy Beatty.
   code} at:
   \url{https://en.wikipedia.org/wiki/Naming_convention_(programming)}; March
   10, 2017 was the last accessed date, February 26 2017.
+
+\bibitem{WikipediaContributors2018m}
+{Wikipedia contributors}.
+\newblock Code refactoring.
+\newblock Available online from {\it Wikipedia, The Free Encyclopedia:
+  21st-century revolutions} at:
+  \url{https://en.wikipedia.org/wiki/Code_refactoring}; September 25, 2018 was
+  the last accessed date, September 20 2018.
+
+\bibitem{Wilson2011a}
+Ron Wilson.
+\newblock Agile development in the {SoC} design world?
+\newblock Available online from {\it {Embedded.com}: Insights: Agile
+  Collection} at:
+  \url{https://www.embedded.com/electronics-blogs/agile-collection/4218869/Agile-development-in-the-SoC-design-world-};
+  September 25, 2018 was the last accessed date, August 17 2011.
 
 \bibitem{Wolf20XY}
 Clifford Wolf.

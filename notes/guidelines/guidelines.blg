@@ -2,7 +2,7 @@ This is BibTeX, Version 0.99d (TeX Live 2015)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: guidelines.aux
 The style file: plain.bst
-Reallocated field_info (elt_size=4) to 10198 items from 5000.
+Reallocated field_info (elt_size=4) to 10612 items from 5000.
 Database file #1: /Users/zhiyang/Documents/ricerca/lassi-bibtex/references.bib
 Reallocated buffer (elt_size=1) to 40000 items from 20000.
 Reallocated sv_buffer (elt_size=1) to 40000 items from 20000.
@@ -16,44 +16,46 @@ Reallocated ex_buf (elt_size=1) to 60000 items from 40000.
 Reallocated out_buf (elt_size=1) to 60000 items from 40000.
 Reallocated name_tok (elt_size=4) to 60000 items from 40000.
 Reallocated name_sep_char (elt_size=1) to 60000 items from 40000.
-You've used 226 entries,
+Warning--empty year in Blokdyk20XY
+You've used 244 entries,
             2118 wiz_defined-function locations,
-            1747 strings with 50170 characters,
-and the built_in function-call counts, 58421 in all, are:
-= -- 5519
-> -- 2850
-< -- 9
-+ -- 1172
-- -- 926
-* -- 3198
-:= -- 10280
-add.period$ -- 732
-call.type$ -- 226
-change.case$ -- 1047
+            1864 strings with 55234 characters,
+and the built_in function-call counts, 63304 in all, are:
+= -- 5994
+> -- 3062
+< -- 10
++ -- 1262
+- -- 994
+* -- 3475
+:= -- 11100
+add.period$ -- 789
+call.type$ -- 244
+change.case$ -- 1130
 chr.to.int$ -- 0
-cite$ -- 226
-duplicate$ -- 2350
-empty$ -- 4970
-format.name$ -- 926
-if$ -- 12320
+cite$ -- 245
+duplicate$ -- 2531
+empty$ -- 5398
+format.name$ -- 994
+if$ -- 13365
 int.to.chr$ -- 0
-int.to.str$ -- 226
-missing$ -- 274
-newline$ -- 1133
-num.names$ -- 452
-pop$ -- 1641
+int.to.str$ -- 244
+missing$ -- 286
+newline$ -- 1223
+num.names$ -- 488
+pop$ -- 1774
 preamble$ -- 1
-purify$ -- 915
+purify$ -- 985
 quote$ -- 0
-skip$ -- 1512
+skip$ -- 1646
 stack$ -- 0
-substring$ -- 1399
-swap$ -- 252
-text.length$ -- 9
+substring$ -- 1597
+swap$ -- 281
+text.length$ -- 10
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 648
-warning$ -- 0
-while$ -- 478
-width$ -- 229
-write$ -- 2501
+type$ -- 712
+warning$ -- 1
+while$ -- 520
+width$ -- 247
+write$ -- 2696
+(There was 1 warning)
