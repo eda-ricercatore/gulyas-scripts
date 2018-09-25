@@ -179,12 +179,6 @@ Steve Blackburn and Matthias Hauswirth.
   Systems in Computer Science} at: \url{http://evaluate.inf.usi.ch/artifacts};
   June 25, 2017 was the last accessed date.
 
-\bibitem{Blokdyk20XY}
-Gerardus Blokdyk.
-\newblock {\em Technical Debt: Standard Requirements, Practical Tools for
-  Self-Assessment}.
-\newblock The Art of Service, Brendale, Queensland, Australia.
-
 \bibitem{Blume2007a}
 Peter~A. Blume.
 \newblock {\em The {LabVIEW} Style Book}.
@@ -419,6 +413,20 @@ Eric Evans.
   Software}.
 \newblock Pearson Education, Boston, {MA}, 2004.
 
+\bibitem{Faes2008}
+Philippe Faes.
+\newblock What is hardware refactoring?
+\newblock Available online from {\it Sigasi: Sigasi Insights: Tech Articles}
+  at: \url{http://insights.sigasi.com/tech/hardware_refactoring.html};
+  September 26, 2018 was the last accessed date, December 18 2008.
+
+\bibitem{Faes2010}
+Philippe Paul~Henri Faes and Hendrik Richard~Pieter Eeckhaut.
+\newblock Device and method for refactoring hardware code.
+\newblock Available online from {\it {Google Patents}} at:
+  \url{https://patents.google.com/patent/EP2175387A1/en}; September 26, 2018
+  was the last accessed date, April 14 2010.
+
 \bibitem{Feathers2005}
 Michael~C. Feathers.
 \newblock {\em Working Effectively with Legacy Code}.
@@ -644,6 +652,21 @@ Junio~C. Hamano, Linus Torvalds, Shawn Pearce, Johannes Schindelin, Nicolas
 \newblock Available online at: \url{http://www.git-scm.com/} and
   \url{http://git-blame.blogspot.com/}; August 1, 2014 was the last accessed
   date, August 12 2014.
+
+\bibitem{Haynal20XY}
+Steve Haynal.
+\newblock Refactoring to prepare {RTL} for reuse.
+\newblock Available online from {\it Design {\rm \&}\ Reuse: D{\rm\&}R Industry
+  Articles} at:
+  \url{https://www.design-reuse.com/articles/20119/refactoring-rtl-reuse.html};
+  September 26, 2018 was the last accessed date.
+
+\bibitem{Haynal2008}
+Steve Haynal.
+\newblock Refactoring to prepare {RTL} for reuse.
+\newblock Available online from {\it SofterHardware: PDF} at:
+  \url{http://www.softerhardware.com/pdf/ip08a.pdf}; self-published; September
+  26, 2018 was the last accessed date, 2008.
 
 \bibitem{Hennessy2018}
 John Hennessy and David Patterson.
