@@ -2,7 +2,7 @@ This is BibTeX, Version 0.99d (TeX Live 2015)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: guidelines.aux
 The style file: plain.bst
-Reallocated field_info (elt_size=4) to 10681 items from 5000.
+Reallocated field_info (elt_size=4) to 10911 items from 5000.
 Database file #1: /Users/zhiyang/Documents/ricerca/lassi-bibtex/references.bib
 Reallocated buffer (elt_size=1) to 40000 items from 20000.
 Reallocated sv_buffer (elt_size=1) to 40000 items from 20000.
@@ -16,44 +16,44 @@ Reallocated ex_buf (elt_size=1) to 60000 items from 40000.
 Reallocated out_buf (elt_size=1) to 60000 items from 40000.
 Reallocated name_tok (elt_size=4) to 60000 items from 40000.
 Reallocated name_sep_char (elt_size=1) to 60000 items from 40000.
-You've used 247 entries,
+You've used 257 entries,
             2118 wiz_defined-function locations,
-            1884 strings with 56181 characters,
-and the built_in function-call counts, 63952 in all, are:
-= -- 6057
-> -- 3089
-< -- 10
-+ -- 1273
-- -- 1002
-* -- 3495
-:= -- 11207
-add.period$ -- 798
-call.type$ -- 247
-change.case$ -- 1144
+            1950 strings with 58836 characters,
+and the built_in function-call counts, 66929 in all, are:
+= -- 6361
+> -- 3204
+< -- 12
++ -- 1320
+- -- 1038
+* -- 3660
+:= -- 11684
+add.period$ -- 832
+call.type$ -- 257
+change.case$ -- 1192
 chr.to.int$ -- 0
-cite$ -- 247
-duplicate$ -- 2547
-empty$ -- 5464
-format.name$ -- 1002
-if$ -- 13509
+cite$ -- 257
+duplicate$ -- 2675
+empty$ -- 5729
+format.name$ -- 1038
+if$ -- 14171
 int.to.chr$ -- 0
-int.to.str$ -- 247
-missing$ -- 284
-newline$ -- 1238
-num.names$ -- 494
-pop$ -- 1798
+int.to.str$ -- 257
+missing$ -- 292
+newline$ -- 1288
+num.names$ -- 514
+pop$ -- 1874
 preamble$ -- 1
-purify$ -- 995
+purify$ -- 1033
 quote$ -- 0
-skip$ -- 1671
+skip$ -- 1764
 stack$ -- 0
-substring$ -- 1612
-swap$ -- 284
-text.length$ -- 10
+substring$ -- 1735
+swap$ -- 314
+text.length$ -- 12
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 726
+type$ -- 762
 warning$ -- 0
-while$ -- 526
-width$ -- 250
-write$ -- 2725
+while$ -- 552
+width$ -- 260
+write$ -- 2841

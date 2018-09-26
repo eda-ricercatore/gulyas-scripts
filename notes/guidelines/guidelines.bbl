@@ -6,6 +6,14 @@
   successful web application}.
 \newblock 37signals, Chicago, {IL}, 2006.
 
+\bibitem{Aboulafia2016}
+Sara Aboulafia.
+\newblock 5 ways to kill your credibility as a product manager.
+\newblock Available online from {\it UserVoice: {UserVoice} Blog, The Product
+  Management Blog} at:
+  \url{https://community.uservoice.com/blog/5-ways-to-kill-your-credibility-as-a-product-manager/};
+  September 26, 2018 was the last accessed date, July 14 2016.
+
 \bibitem{Abrahams1998}
 David Abrahams.
 \newblock Exception-safety in generic components: Lessons learned from
@@ -335,6 +343,14 @@ Rachel Davies and Liz Sedley.
 \newblock {\em Agile Coaching}.
 \newblock Pragmatic Bookshelf. The Pragmatic Programmers, Raleigh, {NC}, 2009.
 
+\bibitem{Davis2013a}
+Chad Davis.
+\newblock Mental hygiene for software engineers: Avoiding micro level technical
+  debt.
+\newblock Available online from {\it {DZone}} at:
+  \url{https://dzone.com/articles/mental-hygiene-software}; September 27, 2018
+  was the last accessed date, January 23 2013.
+
 \bibitem{DeLucia2008}
 Andrea {De Lucia}, Filomena Ferrucci, Genny Tortora, and Maurizio Tucci.
 \newblock {\em Emerging Methods, Technologies, and Process Management in
@@ -345,7 +361,7 @@ Andrea {De Lucia}, Filomena Ferrucci, Genny Tortora, and Maurizio Tucci.
 Andrew {DeOrio} and Andrew Giugliano.
 \newblock Long-term effects of partner programming in an introductory computer
   science sequence.
-\newblock In {\em Proceedings of the $123^{rd}$ {ASEE} Annual Conference and
+\newblock In {\em Proceedings of the $123^{rd}$\ {ASEE} Annual Conference and
   Exposition on Engineering Education}, number 15189 in ASEE Conferences and
   Meetings, New Orleans, {LA}, June 26--29 2016. American Society for
   Engineering Education, American Society for Engineering Education.
@@ -482,6 +498,13 @@ Daniel Fran{\c{c}}a.
 \newblock Available online from {\it Standard {C++}: Blog} at:
   \url{https://isocpp.org/blog/2014/12/c-has-become-more-pythonic};
   self-published; February 1, 2018 was the last accessed date, December 2 2014.
+
+\bibitem{Gadoury2010}
+Brian Gadoury.
+\newblock Keep your tools sharp to avoid personal technical debt.
+\newblock Available online from {\it End Point: Our Blog} at:
+  \url{https://www.endpoint.com/blog/2010/10/12/keep-your-tools-sharp-to-avoid-personal};
+  September 26, 2018 was the last accessed date, October 12 2010.
 
 \bibitem{Gandrud2014}
 Christopher Gandrud.
@@ -664,9 +687,18 @@ Steve Haynal.
 \bibitem{Haynal2008}
 Steve Haynal.
 \newblock Refactoring to prepare {RTL} for reuse.
-\newblock Available online from {\it SofterHardware: PDF} at:
+\newblock Available online from {\it SofterHardware: Publications} at:
   \url{http://www.softerhardware.com/pdf/ip08a.pdf}; self-published; September
   26, 2018 was the last accessed date, 2008.
+
+\bibitem{Haynal2008a}
+Steve Haynal, Timothy Kam, Michael Kishinevsky, Emily Shriver, and Xinning
+  Wang.
+\newblock A {SystemVerilog} rewriting system for {RTL} abstraction with
+  {Pentium} case study.
+\newblock In {\em Proceedings of the $6^{th}$\ {ACM/IEEE} International
+  Conference on Formal Methods and Models for Co-Design ({MEMOCODE} '08)},
+  Anaheim, {CA}, June 5--7 2008. {IEEE} Press.
 
 \bibitem{Hennessy2018}
 John Hennessy and David Patterson.
@@ -773,6 +805,18 @@ Jon.
   Questions} at:
   \url{https://stackoverflow.com/questions/25011078/what-does-pythonic-mean};
   February 1, 2018 was the last accessed date, July 29 2014.
+
+\bibitem{Keating1999}
+Michael Keating and Pierre Bricaud.
+\newblock {\em Reuse Methodology Manual: For {System-on-a-Chip} Designs}.
+\newblock Kluwer Academic Publishers, Dordrecht, {The Netherlands}, second
+  edition, 1999.
+
+\bibitem{Keating2002}
+Michael Keating and Pierre Bricaud.
+\newblock {\em Reuse Methodology Manual: For {System-on-a-Chip} Designs}.
+\newblock Kluwer Academic Publishers, Dordrecht, {The Netherlands}, third
+  edition, 2002.
 
 \bibitem{Keiter2013a}
 Eric~R. Keiter, Thomas~V. Russo, Richard~L. Schiek, Peter~E. Sholander,
@@ -930,6 +974,13 @@ Dean Leffingwell.
   Teams, Programs, and the Enterprise}.
 \newblock Agile Software Development Series. Addison-Wesley, Boston, {MA},
   2011.
+
+\bibitem{Levin2017}
+Mike Levin.
+\newblock Incurring more personal technical debt, but so what?
+\newblock Available online from {\it Medium: Mike Levin, {SEO} in {NYC}} at:
+  \url{https://medium.com/@mikelevinseo/incurring-more-personal-technical-debt-but-so-what-aad4bca1fa5c};
+  September 27, 2018 was the last accessed date, October 27 2017.
 
 \bibitem{Liberman2015}
 Mark Liberman.
@@ -1165,6 +1216,15 @@ Hasso Plattner, Christoph Meinel, and Larry Leifer.
 \newblock {\em Design Thinking: Understand -- Improve -- Apply}.
 \newblock Understanding Innovation. Springer-Verlag Berlin Heidelberg,
   Heidelberg, Germany, 2011.
+
+\bibitem{Prause2011}
+Christian~R. Prause.
+\newblock Reputation-based self-management of software process artifact quality
+  in consortium research projects.
+\newblock In {\em Proceedings of the $19^{th}$\ {ACM SIGSOFT} Symposium and the
+  $13^{th}$\ European Conference on Foundations of Software Engineering
+  ({ESEC/FSE}'11)}, pages 380--383, Szeged, Hungary, September 5--9 2011. {ACM}
+  Special Interest Group on Software Engineering ({SIGSOFT}), {ACM} Press.
 
 \bibitem{Preshing2014}
 Jeff Preshing.
@@ -1601,6 +1661,22 @@ Jeff Younker.
 Andreas Zeller.
 \newblock {\em Why Programs Fail: A Guide to Systematic Debugging}.
 \newblock Morgan Kaufmann, Burlington, {MA}, second edition, 2009.
+
+\bibitem{Zeng2005}
+Kaiping Zeng and Sorin~A. Huss.
+\newblock {RAMS}: A {VHDL-AMS} code refactoring tool supporting high level
+  analog synthesis.
+\newblock In {\em Proceedings of the $6^{th}$\ {IEEE} Computer Society Annual
+  Symposium on {VLSI}: New Frontiers in VLSI Design ({ISVLSI}'05)}, Tampa,
+  {FL}, May 11--12 2005. {IEEE} Computer Society, {IEEE} Press.
+
+\bibitem{Zeng2006}
+Kaiping Zeng and Sorin~A. Huss.
+\newblock Architecture refinements by code refactoring of behavioral {VHDL-AMS}
+  models.
+\newblock In {\em Proceedings of the {IEEE} International Symposium on Circuits
+  and Systems ({ISCAS 2006})}, pages 1475--1478, Island of Kos, Greece, May
+  21--24 2006. {IEEE} Press.
 
 \bibitem{Zuckerberg2012}
 Mark Zuckerberg.
