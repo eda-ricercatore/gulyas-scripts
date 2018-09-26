@@ -28,6 +28,18 @@ List of repositories that are affected by the *gulyas-scripts* repository,
 + [gulyas-scripts](https://github.com/eda-ricercatore/gulyas-scripts)
 	- Notes
 	- Scripts
++ [bibtex-analytics](https://github.com/eda-ricercatore/bibtex-analytics)
+	- Notes
+	- Scripts
++ [2018-wannabe-postdoc-1 (Genetic Technology Mapping)](https://github.com/BDAthlon/2018-wannabe-postdoc-1)
+	- Notes
++ [2018-wannabe-postdoc-2 (Genetic Circuit Tuning)](https://github.com/BDAthlon/2018-wannabe-postdoc-2)
+	- Notes
+
+
+
+
+
 
 
 
