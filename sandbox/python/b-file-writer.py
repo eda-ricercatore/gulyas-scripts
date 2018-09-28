@@ -44,6 +44,7 @@ __date__ = 'September 11, 2018'
 	re			Use regular expressions.
 	filecmp		For file comparison.
 	datetime	For date and time processing.
+	json		For parsing JSON files and processing JSON-based data.
 """
 
 import sys
@@ -56,9 +57,16 @@ import re
 import filecmp
 from datetime import date
 import datetime
+import json
 
 
+###############################################################
+#	Import Custom Python Modules
 
+# Package and module to perform file I/O operations.
+from utilities.file_io import file_io_operations
+
+###############################################################
 
 """
 	A function with three return values.
@@ -92,6 +100,8 @@ try:
 except KeyError:
 	print("	Numerical representation for the month is out of bounds.")
 
+
+# Test function with three return values.
 # ~/Documents/ricerca/risultati_sperimentali/std-cell-library-characterization
 cur_month, cur_year, cur_filename = function_with_3_return_values()
 print("cur_month is:",cur_month)
@@ -109,10 +119,32 @@ print("result_repository_absolute_path is:",result_repository_absolute_path,"=")
 
 
 
+# A dictionary.
+a = {'one': 1, 'two': 2, 'three': 3}
+print("a is:",a,"=")
+a.clear()
+print("a is:",a,"=")
+b = dict()
+print("b is:",b,"=")
+if a==b:
+	print("a is equal to b.")
 
+Congleton2017_json = "/Users/zhiyang/Documents/ricerca/gulyas-scripts/sandbox/python/json-files/Congleton2017.json"
+WikipediaContributors2018p_1_json = "/Users/zhiyang/Documents/ricerca/gulyas-scripts/sandbox/python/json-files/WikipediaContributors2018p-1.json"
+WikipediaContributors2018p_2_json = "/Users/zhiyang/Documents/ricerca/gulyas-scripts/sandbox/python/json-files/WikipediaContributors2018p-2.json"
+WikipediaContributors2018p_3_json = "/Users/zhiyang/Documents/ricerca/gulyas-scripts/sandbox/python/json-files/WikipediaContributors2018p-3.json"
+WikipediaContributors2018p_4_json = "/Users/zhiyang/Documents/ricerca/gulyas-scripts/sandbox/python/json-files/WikipediaContributors2018p-4.json"
 
+# Parsing JSON files \cite{Congleton2017}.
+if file_io_operations.is_path_valid(Congleton2017_json):
+	print("=	Start parsing Congleton2017_json.")
+# Create a file object to read the file Congleton2017_json.
+Congleton2017_json_fo = file_io_operations.open_file_object_read(Congleton2017_json)
+# Load the JSON file (object) into a dictionary.
+Congleton2017_json_dict = json.load(Congleton2017_json_fo)
+print("=	Print the entire Congleton2017_json_dict.")
+print(Congleton2017_json_dict)
+print("=	For each  Congleton2017_json_dict.")
 
-
-
-
-# Change directory
+print("=	Close the file objects.")
+file_io_operations.close_file_object(Congleton2017_json_fo)

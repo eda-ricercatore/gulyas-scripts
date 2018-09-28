@@ -21,10 +21,6 @@ Questions:
 
 
 To-do list:
-+ Get references for "hardware refactoring" and "agile SoC" design.
-	- RTL refactoring
-	- HDL refactoring
-	- VLSI refactoring
 + In Python, do the following:
 	- Access relative paths. Test my solution.
 	- Implement software configuration parser.
