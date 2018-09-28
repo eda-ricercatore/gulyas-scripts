@@ -144,7 +144,8 @@ Congleton2017_json_fo = file_io_operations.open_file_object_read(Congleton2017_j
 Congleton2017_json_dict = json.load(Congleton2017_json_fo)
 print("=	Print the entire Congleton2017_json_dict.")
 print(Congleton2017_json_dict)
-print("=	For each  Congleton2017_json_dict.")
-
+print("=	For each dictionary in Congleton2017_json_dict, print its name field.")
+for dict in Congleton2017_json_dict:
+	print(dict['Name'])
 print("=	Close the file objects.")
 file_io_operations.close_file_object(Congleton2017_json_fo)
