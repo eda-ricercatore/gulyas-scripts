@@ -23,9 +23,6 @@ Questions:
 To-do list:
 + In Python, do the following:
 	- Access relative paths. Test my solution.
-	- Implement software configuration parser.
-		+ Parse **.config** files in JSON format.
-	- Parse JSON files.
 + Create file with filename named in the DD-MM-YY-HH-MM-SS format, which is
 	stored in correct directory.
 + Store test results in a database (in *CSV* format), and manage it with a *SQL*

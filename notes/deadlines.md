@@ -548,6 +548,19 @@
 
 
 
+
++ ACM Student Research Competition (SRC), for the 24rd ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)
+	- https://www.sigarch.org/call-contributions/asplos-2019-student-research-competition/
+	- Providence, RI, USA
+	- April 13-17, 2019
+	- Abstract submission: Friday, December 8, 2018 (11:59pm PST)
+	- Acceptance notification: Friday, Feb 2, 2019
+
+
+
+
+
+
 + ARCS 2019, International Conference on Architecture of Computing Systems
 	- http://arcs2019.itec.kit.edu
 	- May 20-23, 2019.

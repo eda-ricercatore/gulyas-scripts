@@ -149,3 +149,20 @@ for dict in Congleton2017_json_dict:
 	print(dict['Name'])
 print("=	Close the file objects.")
 file_io_operations.close_file_object(Congleton2017_json_fo)
+
+print("=	Learning about transforming relative paths.")
+print(os.path.expanduser("~/Documents/ricerca"))
+print(os.path.expanduser("~/this/is/nonsense"))
+print(os.path.expanduser("../../"))
+print(os.path.expanduser("statistics/__pycache__/"))
+print("	Is this path '../../' a directory?:",os.path.isdir("../../"),"=")
+print(os.getcwd())
+print("	Is this path 'statistics/__pycache__/' a directory?:",os.path.isdir("statistics/__pycache__/"),"=")
+"""
+	This shows the following.
+	Relative paths begin from the home directory, and is a string
+		that starts with "~/".
+	Paths based on the current working directory, such as paths
+		that begin with "../" or a "[name of subdirectory]", are
+		not considered relative paths.
+"""
