@@ -22,9 +22,14 @@ Questions:
 
 To-do list:
 + In Python, do the following:
-	- Access relative paths. Test my solution.
+	- Access relative paths. Test my solution. Done.
 + Create file with filename named in the DD-MM-YY-HH-MM-SS format, which is
-	stored in correct directory.
+	stored in correct directory. Done.
++ Find the latest modified file.
+	- Read the results file to check if it contains what has been written
+		to it; also, check if the file contains only one line.
++ Push the results file to the results repository, using a Python-based
+	Git interface.
 + Store test results in a database (in *CSV* format), and manage it with a *SQL*
 	database (e.g., *MySQL*).
 	- Process this with a *NoSQL* database.
