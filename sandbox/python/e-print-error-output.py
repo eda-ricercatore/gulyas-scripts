@@ -68,7 +68,56 @@ import datetime
 import json
 import calendar
 import logging
+from sys import stdin, stdout, stderr
+
+
 
 ##############################################################
 
+"""
+	Methods that do not work
+
+	print >> stderr, "Method 2."
+"""
+
+"""
+	Resources that I do not know how to do.
+	https://pytest.readthedocs.io/en/2.8.7/capture.html
+	http://forums.devshed.com/python-programming-11/redirect-stdout-stderr-file-500952.html
+
+	Related resources:
+	https://www.gnuradio.org/doc/doxygen/page_logger.html
+"""
+
+##############################################################
+
+# Functions that are used for printing to standard error.
+def eprint(*args, **kwargs):
+    print(*args, file=sys.stderr, **kwargs)
+
+##############################################################
+
+print("=	Beginning of program.")
+
 print("First method to print error/log messages.")
+#random_suffix = ".suffix"
+#stderr.write("Couldn't load data set, error: {0}\n".format(random_suffix))
+stderr.write("Method 1.\n")
+sys.stderr.write("Method 1a.\n")
+print("Second method to print error/log messages.")
+print("Method 2.", file=sys.stderr)
+print("Third method to print error/log messages.")
+logging.debug("Method 3.")
+print("Fourth method to print error/log messages.")
+logging.info("Method 4.")
+print("Fifth method to print error/log messages.")
+logging.warning("Method 5.")
+print("Sixth method to print error/log messages.")
+logging.error("Method 6.")
+print("Seventh method to print error/log messages.")
+logging.critical("Method 7.")
+print("Eighth method to print error/log messages.")
+eprint("Method 8.")
+
+
+print("=	End of program.")
