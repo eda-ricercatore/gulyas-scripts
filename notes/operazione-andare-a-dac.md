@@ -28,10 +28,16 @@ To-do list:
 + Find the latest modified file.
 	- Read the results file to check if it contains what has been written
 		to it; also, check if the file contains only one line.
+		* List all files in a certain path.
+		* For each listed file, determine if it has the latest time stamp.
+		* Return the file name of the file with the latest time stamp.
 + Push the results file to the results repository, using a Python-based
 	Git interface.
+	- Make a system call to do so, via Git.
+	- Use a package/module/libary to do so.
 + Store test results in a database (in *CSV* format), and manage it with a *SQL*
 	database (e.g., *MySQL*).
+	- Git interface to SQL database.
 	- Process this with a *NoSQL* database.
 	- Process this with a *NewSQL* database.
 + Finish assignments 1 and 2 for the data science course.

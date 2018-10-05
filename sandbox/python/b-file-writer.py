@@ -109,8 +109,14 @@ print("cur_year is:",cur_year)
 print("cur_filename is:",cur_filename)
 something = function_with_3_return_values()
 print("something is:",something)
-
-
+"""
+	The following line does not work, since it returns three values
+		and there are only two output variables/placeholders (i.e.,
+		two variables to store/hold the three output values).
+"""
+left_holder, right_holder = function_with_3_return_values()
+print("left_holder is:",left_holder)
+print("right_holder is:",right_holder)
 
 #	Location to store simulation and/or experimental results.
 result_repository_relative_path = "~/Documents/ricerca/risultati_sperimentali/std-cell-library-characterization"
