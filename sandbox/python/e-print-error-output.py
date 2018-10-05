@@ -7,6 +7,12 @@
 	Synopsis: command name
 	./e-print-error-output.py
 
+
+	References:
+	\cite{Ajitsaria2018}
+
+
+
 	Revision History:
 	September 11, 2018			Version 0.1, initial build.
 """
