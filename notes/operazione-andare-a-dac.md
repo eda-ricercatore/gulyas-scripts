@@ -34,10 +34,10 @@ To-do list:
 + Push the results file to the results repository, using a Python-based
 	Git interface.
 	- Make a system call to do so, via Git.
-	- Use a package/module/libary to do so.
+	- Use a package/module/libary to do so. Do this in *Python*.
 + Store test results in a database (in *CSV* format), and manage it with a *SQL*
 	database (e.g., *MySQL*).
-	- Git interface to SQL database.
+	- *Python* interface to *SQL* database.
 	- Process this with a *NoSQL* database.
 	- Process this with a *NewSQL* database.
 + Finish assignments 1 and 2 for the data science course.
