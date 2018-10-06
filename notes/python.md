@@ -3654,6 +3654,7 @@ To use *Python* to interface with a *Git*-based repository, I can try the
 		It also provides an interface for other programming languages to
 			interface with *Git*.
 	- Since I am unable to install *libgit2* correctly, I cannot use *pygit2*.
+	- Abandon *pygit2* solution.
 
 
 
