@@ -3644,6 +3644,16 @@ Concepts encountered while learning how to use generic programming in *Python*:
 
 
 
+###	*Python* Interface to *Git*
+
+To use *Python* to interface with a *Git*-based repository, I can try the
+	following:
++ [pygit2 - libgit2 bindings in Python](https://github.com/libgit2/pygit2)
+	- This requires installation of [libgit2](https://libgit2.org/), which
+		provides *C* bindings to *Git*.
+		It also provides an interface for other programming languages to
+			interface with *Git*.
+	- Since I am unable to install *libgit2* correctly, I cannot 
 
 
 
