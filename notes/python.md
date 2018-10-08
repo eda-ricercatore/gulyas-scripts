@@ -3666,7 +3666,11 @@ To use *Python* to interface with a *Git*-based repository, I can try the
 	- Hence, I cannot experiment with *Gittle*.
 + [GitPython](https://github.com/gitpython-developers/GitPython)
 	- I cannot import the *Git* module (*git*), via my *Python* script.
-
+	- I have used *pip install GitPython* to install it, but I still cannot
+		import the *Git* module (*git*) via my *Python* script.
++ Use the *Python* module *subprocess* to run commands via the command-line
+	interface (CLI) to run *Git* commands to add, commit, and push additions
+	and updates.
 
 
 
