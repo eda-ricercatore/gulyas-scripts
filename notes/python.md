@@ -3648,6 +3648,9 @@ Concepts encountered while learning how to use generic programming in *Python*:
 
 To use *Python* to interface with a *Git*-based repository, I can try the
 	following:
++ [dulwich](https://www.dulwich.io/)
+	- [Dulwich documentation](https://www.dulwich.io/docs/)
+	- https://git.samba.org/?p=jelmer/dulwich.git;a=summary
 + [pygit2 - libgit2 bindings in Python](https://github.com/libgit2/pygit2)
 	- This requires installation of [libgit2](https://libgit2.org/), which
 		provides *C* bindings to *Git*.
@@ -3655,6 +3658,14 @@ To use *Python* to interface with a *Git*-based repository, I can try the
 			interface with *Git*.
 	- Since I am unable to install *libgit2* correctly, I cannot use *pygit2*.
 	- Abandon *pygit2* solution.
++ [Gittle](https://github.com/FriendCode/gittle)
+	- The installation process via *pip* requires installing *pycrypto*,
+		which already exists, and terminates because of the existence of
+		*pycrypto*.
+	- I tried installing *pycrypto* via other means, but am unable to do so.
+	- Hence, I cannot experiment with *Gittle*.
++ [GitPython](https://github.com/gitpython-developers/GitPython)
+	- I cannot import the *Git* module (*git*), via my *Python* script.
 
 
 
