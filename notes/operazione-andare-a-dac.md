@@ -32,6 +32,14 @@ To-do list:
 	- *Python* interface to *SQL* database.
 	- Process this with a *NoSQL* database.
 	- Process this with a *NewSQL* database.
+	- References from my *BibTeX* database about this:
+		* \cite{Hetland2005}
+			+ Blah
+		* \cite{Lutz2010}
+		* \cite{Lutz2011}
+		* \cite{Sileika2010}
+		* \cite{Younker2008}
+		* \cite{Sweigart2015}
 + Finish assignments 1 and 2 for the data science course.
 + Run automated regression testing, and/or regression verification, to put
 		the experimental results of each build in the correct directory.
