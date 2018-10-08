@@ -33,8 +33,9 @@ To-do list:
 		* Return the file name of the file with the latest time stamp.
 + Push the results file to the results repository, using a Python-based
 	Git interface.
-	- Make a system call to do so, via Git.
+	- Make a system/subprocess call to do so, via Git.
 	- Use a package/module/libary to do so. Do this in *Python*.
+		* Attempts to do so failed.
 + Store test results in a database (in *CSV* format), and manage it with a *SQL*
 	database (e.g., *MySQL*).
 	- *Python* interface to *SQL* database.
