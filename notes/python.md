@@ -3622,6 +3622,15 @@ Notes on regular expressions:
 	- finadall()
 	- sub()
 	- escape()
++ Use the *re.VERBOSE* flag to verbosely describe regular expressions
+	with space characters, tabs, newlines, and comments
+	\cite[Tip on pp. 243]{Hetland2005}.
++ By default, the repetition operators of a regular expression are
+	greedy, since they will try to "match as much as possible"
+	\cite[pp. 244]{Hetland2005}.
++ By placing a question mark after a repetition operator, the repetition
+	operator becomes nongreedy and it will match as little as possible \cite[pp. 244]{Hetland2005}.
+
 
 
 
