@@ -3602,10 +3602,10 @@ In *Python*, variable assignments are not storage operations, which overwrite th
 ###	Regular Expressions
 
 Notes on regular expressions:
-+ The core syntax of regular expression is based on the *Perl* context in various
-	programming languages (*Python*, *Ruby*, and *Tcl*) and tools (*Egrep*,
-	*Vi/Vim*, and *Emacs*) \cite[\S8.2, pp. 326]{Langtangen2009}.
-
++ The core syntax of regular expression is based on the *Perl* context in
+	various programming languages (*Python*, *Ruby*, and *Tcl*) and tools
+	(*Egrep*, *Vi/Vim*, and *Emacs*) \cite[\S8.2, pp. 326]{Langtangen2009}.
++ A wildcard is denoted with an asterisk **\*** \cite[pp. 236]{Hetland2005}
 
 
 
