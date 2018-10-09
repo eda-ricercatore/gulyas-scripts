@@ -21,12 +21,6 @@ Questions:
 
 
 To-do list:
-+ Find the latest modified file.
-	- Read the results file to check if it contains what has been written
-		to it; also, check if the file contains only one line.
-		* List all files in a certain path.
-		* For each listed file, determine if it has the latest time stamp.
-		* Return the file name of the file with the latest time stamp.
 + Store test results in a database (in *CSV* format), and manage it with a *SQL*
 	database (e.g., *MySQL*).
 	- *Python* interface to *SQL* database.
