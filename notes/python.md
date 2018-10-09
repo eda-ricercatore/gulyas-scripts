@@ -2229,8 +2229,13 @@ The following modules in *The Python Standard Library* \cite{DrakeJr2016e,DrakeJ
 		an iterable is a collection "object" that can generate an iterator to
 			iterate over each element in the collection \cite[Chapter 5, pp. 155]{Alchin2010}.
 + \cite[Chapter 10, pp. 215-253]{Hetland2005}.
-
-
+	- **difflib** module \cite[pp. 251]{Hetland2005}
+		* Determine how similar two sequences are.
+		* Choose the sequence from a list of sequences that is most
+			similar to a given sequence.
+	- **csv** module enables file read/write (or input/output) operations
+		regarding tabular data stored in the comma-separated values (CSV)
+		format \cite[pp. 251]{Hetland2005}.
 
 
 
