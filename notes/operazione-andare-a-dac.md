@@ -36,8 +36,7 @@ To-do list:
 		* \cite{Hetland2005}
 			+ Use the module **shelve** to provide database functionality
 				\cite[pp. 231-235]{Hetland2005}
-			+ //Chapters 6-7
-			+ Chapters 10???, 11?, chapter 13 (285), chapter 15-16, 17???--18???,19??
+			+ chapter 13 (285)
 			+ Determine how to import SQL modules for database
 				administration/management
 		* \cite{Lutz2010}
