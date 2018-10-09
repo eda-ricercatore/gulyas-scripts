@@ -3606,7 +3606,22 @@ Notes on regular expressions:
 	various programming languages (*Python*, *Ruby*, and *Tcl*) and tools
 	(*Egrep*, *Vi/Vim*, and *Emacs*) \cite[\S8.2, pp. 326]{Langtangen2009}.
 + A wildcard is denoted with an asterisk **\*** \cite[pp. 236]{Hetland2005}
-
++ As asterisk is denoted with a backslash and an asterisk **\*** \cite[pp. 236]{Hetland2005}
+	- A backslash is placed before special characters, such as a backslash,
+		so that they be treated as normal characters
+		\cite[pp. 236]{Hetland2005}.
++ To search for repeated patterns, enclose them in brackets "(*patterns*)",
+	appended by an asterisk "\*", a plus symbol "+", or a tuple "{m,n}"
+	\cite[pp. 238]{Hetland2005}.
++ Functions that can be used with regular expressions
+	\cite[Table 10-8, pp. 239]{Hetland2005}:
+	- compile()
+	- search()
+	- match()
+	- split()
+	- finadall()
+	- sub()
+	- escape()
 
 
 
