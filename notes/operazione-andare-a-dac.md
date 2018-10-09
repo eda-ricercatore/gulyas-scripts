@@ -34,7 +34,10 @@ To-do list:
 	- Process this with a *NewSQL* database.
 	- References from my *BibTeX* database about this:
 		* \cite{Hetland2005}
-			+ Blah
+			+ //Chapters 6-7
+			+ Chapters 10???, 11?, chapter 13 (285), chapter 15-16, 17???--18???,19??
+			+ Determine how to import SQL modules for database
+				administration/management
 		* \cite{Lutz2010}
 		* \cite{Lutz2011}
 		* \cite{Sileika2010}
