@@ -10,11 +10,15 @@
 
 	Notes/Assumptions:
 		Modules that interface with SQL databases.
+
 		Modules that provide database functionality
 		+ **shelve** \cite[pp. 231-235]{Hetland2005}
 
 
 	References:
+	+ Poor references:
+		- \cite{Hetland2005}
+			Not enough code examples, and code examples do not work.
 	...
 
 
