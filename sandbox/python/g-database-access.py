@@ -9,10 +9,18 @@
 
 
 	Notes/Assumptions:
-		Modules that interface with SQL databases.
+		My Python software shall be based on the Python portable
+			SQL database API \cite[pp. 179]{Lutz2011}, so that my
+			Python software would be independent of vendor-specific
+			SQL database packages.
+		Note that to use a vendor-specific SQL database, I need to
+			install a vendor-specific Python extension module for it
+			\cite[pp. 179]{Lutz2011}.
 
+		Modules that interface with SQL databases.
+		+ sqlite3 \cite[pp. 179]{Lutz2011}
 		Modules that provide database functionality
-		+ **shelve** \cite[pp. 231-235]{Hetland2005}
+		+ shelve \cite[pp. 231-235]{Hetland2005}
 
 
 	References:
@@ -89,7 +97,33 @@ from sys import stdin, stdout, stderr
 #import git
 import subprocess
 
+##############################################################
 
+#	Methods that do not work.
+# pysqlite interface \cite[pp. 291]{Hetland2005}
+#import sqlite
+
+#	Methods yet to be explored.
+# Serializes an in-memory object to/from file streams \cite[pp. 163-164,166-167]{Lutz2011}
+import pickle
+# Key-based string-only storage files \cite[pp. 163-166]{Lutz2011}
+import dbm
+"""
+	Module that provides database functionality
+		\cite[pp. 231-235]{Hetland2005}.
+	"key-based persistent object stores, pickles objects to/from
+		dbm files" \cite[pp. 163-166]{Lutz2011}
+"""
+import shelve
+
+
+
+#	Methods under exploration, and methods that work.
+"""
+	Python portable SQL database API \cite[pp. 179-182]{Lutz2011};
+		examples for SQLite are provided
+"""
+import sqlite3
 
 ##############################################################
 
@@ -103,6 +137,5 @@ import subprocess
 """
 
 
-import pysqlite
 
 print("=	Accessing and modifying a SQL database.")

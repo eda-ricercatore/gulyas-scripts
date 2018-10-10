@@ -3709,8 +3709,8 @@ To use *Python* to interface with a *Git*-based repository, I can try the
 Citations/References that use the *LaTeX/BibTeX* notation are taken
 	from my *BibTeX* database (set of *BibTeX* entries).
 
-**If these citations/references are not found in this list of references, information
-	about them can be found in my *BibTeX* database.**
+**If these citations/references are not found in this list of references,
+	information about them can be found in my *BibTeX* database.**
 
 + [ParewaLabsPvtLtdStaff20XY]
 
