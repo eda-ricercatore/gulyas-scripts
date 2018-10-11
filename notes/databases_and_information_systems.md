@@ -21,25 +21,54 @@ object-relational mapping
 
 ##	Categories of Databases
 
+##	SQL
+
+Relational databases
++
++ relational database management systems
+	- database servers
+		* MySQL
+		* PostgreSQL
+			+ Supports ODBC
+		* SQLite
+		* Firebird (database server)
+	- database clients
+		* SQuirrel SQL client
+
+
 
 ###	NoSQL
 
 ####	Key-Value Store
 
-Relational databases
-+
-+ relational database management systems
+####	NoSQL Database Management Systems
+
++ HBase
++ Cassandra
++ MongoDB
+
+
 
 Document-oriented database (= document store)
 + Use document-oriented information (= semi-structured data)
 + Examples:
 	- XML database
 
+###	NewSQL
 
 
 
 
-##	Distributed Databases
+##	Distributed Databases for Big Data
+
+
++ Hive
++ Spark
++ Kafka
++ Flume
+
+
+Apache Ignite???
 
 
 ###	Distributed Databases Based on MapReduce
@@ -47,6 +76,14 @@ Document-oriented database (= document store)
 Apache Hadoop (and HDFS):
 + Pig
 
+
+
+
+##	Database Data Formats
+
++ ODBC
++ JDBC
++ GNU Data Access
 
 
 
