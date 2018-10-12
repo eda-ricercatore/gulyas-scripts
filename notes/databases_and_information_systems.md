@@ -10,11 +10,66 @@
 ##	Database Management Systems
 
 A database is a collection of data that is systematically organized
-	for access, storage, and processing \cite{DictionaryDotComStaff2018}.
+	for access, storage, and processing
+	\cite{DictionaryDotComStaff2018,WikipediaContributors2018r}.
 
 A "general-purpose" database management system (DBMS) is a software system that enables people to create, maintain, and access databases \cite{WikipediaContributors2018r}.
 
+The main functions of DBMS are \cite{WikipediaContributors2018r}:
++ data definition, data is organized according to definitions of
+	relationships between the data; these definitions need to be created,
+	modified, and deleted
++ update, which allows data to be added, modified, or removed from
+	the database
++ retrieval, which allows data to be accessed
++ administration, which involves registering people to access the
+	database and monitoring them, and implementing techniques for data
+	security and data integrity, performance monitoring, concurrency
+	control, and data/information recovery
 
+A data model (or datamodel) is a description of how data is organized
+	and related to each other, and the relationships between data and
+	entities in the real world \cite{WikipediaContributors2018x};
+We can create data models using entities, attributes, relations, and
+	tables \cite{WikipediaContributors2018x}.
+In enterprise modeling, a function model complements a data model
+	\cite{WikipediaContributors2018x}.
+The main categories of data model instances are
+	\cite{WikipediaContributors2018x}:
++ conceptual data model, which is a technology-independent description
+	of the semantics of a specific domain (in the information context
+	\cite{WikipediaContributors2018y}) and defines the scope of the
+	model
++ logical data model (or logical schema \cite{WikipediaContributors2018y}),
+	which describes the semantics of a conceptual model for "a
+	particular data manipulation technology", in terms of (relational)
+	tables, columns, object-oriented classes, and XML tags;
+	a logical data model is a detailed reflection of a conceptual data
+		model's domain-specific semantics, and is independent of the
+		physical data model ("particular database management product or
+		storage technology" \cite{WikipediaContributors2018y});
+	it is a representation of a domain-specific abstract structure
+		(or, they "represent the abstract structure of a domain of
+		information") \cite{WikipediaContributors2018y};
+	use the logical data model to create databases, and use it as the
+		basis of a physical data model \cite{WikipediaContributors2018y}
++ physical data model, which describes how data is physically stored
+	in terms of partitions, processors, and tablespaces.
+
+
+WikipediaContributors2018w
+
+A database model is an abstract model (specifically, a data model) that
+	describes the logical structure of a database, such.
+	\cite{WikipediaContributors2018w}
+
+
+A query language, or data query languages (DQL), is a computer language for
+	making queries on databases and information systems \cite{WikipediaContributors2018v}.
+
+The main categories of query languages are \cite{WikipediaContributors2018v}:
++ database query languages
++ information retrieval query languages
 
 
 ##	Database Design
@@ -116,7 +171,10 @@ Data formats for databases \cite{WikipediaContributors2018r}:
 + ODBC, Open Database Connectivity \cite{WikipediaContributors2018t}
 	- API to access DBMS
 	- There exists ODBC-to-JDBC (ODBC-JDBC) and JDBC-to-ODBC
-		(JDBC-to-ODBC) bridges
+		(JDBC-to-ODBC) bridges.
+	- Also, see *unixODBC* and Microsoft Windows ODBC
+		\cite{WikipediaContributors2018u} for the ODBC data API for
+		associated operating systems.
 + JDBC, Java Database Connectivity.
 	- API based on *Java* to access/modify a database
 		\cite{WikipediaContributors2018s}.
@@ -128,7 +186,7 @@ Data formats for databases \cite{WikipediaContributors2018r}:
 			features, and is considered as a complete architecture
 			for databases.
 		* "*Libgda* is a database access library", which serves
-			as a database and abstraction layer.
+			as "a database and abstraction layer".
 
 
 Use ODBC, JDBC, and GDA wrappers for database management systems
