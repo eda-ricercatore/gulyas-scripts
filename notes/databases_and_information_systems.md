@@ -9,19 +9,49 @@
 
 ##	Database Management Systems
 
+A database is a collection of data that is systematically organized
+	for access, storage, and processing \cite{DictionaryDotComStaff2018}.
 
-A database management system allows databases to be ...
+A "general-purpose" database management system (DBMS) is a software system that enables people to create, maintain, and access databases \cite{WikipediaContributors2018r}.
+
+
 
 
 ##	Database Design
 
+cite this!!!
+
++ Database design is the process of organizing data/information, using a
+	database model.
++ Database design involves creating the ontology of the desired data set:
+	- Data classification
+		* Deciding what/which data to store.
+	- Identifying the relationships between the data.
++ The types of ontology are:
+	- domain ontology (or domain-specific ontology)
+	- upper ontology (or foundation ontology)
+		* A model of common objects, and common relationships between these
+			objects, that can be applies to a set of domain ontologies.
+	- hybrid ontology
+		* A combination of domain ontology and upper ontology.
+	- Reference: https://en.wikipedia.org/wiki/Ontology_(information_science)
+		* ontology visualization techniques
+		* ontology engineering (or ontology building), part of knowledge
+			engineering
+
+
 object-relational mapping
 
+##	Database Models
 
 
 ##	Categories of Databases
 
-##	SQL
+###	Object Databases
+
+
+
+###	SQL
 
 Relational databases
 +
@@ -81,9 +111,28 @@ Apache Hadoop (and HDFS):
 
 ##	Database Data Formats
 
-+ ODBC
-+ JDBC
-+ GNU Data Access
+Data formats for databases \cite{WikipediaContributors2018r}:
++ SQL
++ ODBC, Open Database Connectivity \cite{WikipediaContributors2018t}
+	- API to access DBMS
+	- There exists ODBC-to-JDBC (ODBC-JDBC) and JDBC-to-ODBC
+		(JDBC-to-ODBC) bridges
++ JDBC, Java Database Connectivity.
+	- API based on *Java* to access/modify a database
+		\cite{WikipediaContributors2018s}.
++ GDA, GNU Data Access \cite{WikipediaContributors2017a5}
+	- *GNOME-DB* is a *GNOME*-based database management systems.
+	- It supports access to persistent data (in databases).
+	- GDA, GNU Data Access, is its data management API.
+		* Compared to JDBC and ODBC, it provides a larger set of
+			features, and is considered as a complete architecture
+			for databases.
+		* "*Libgda* is a database access library", which serves
+			as a database and abstraction layer.
+
+
+Use ODBC, JDBC, and GDA wrappers for database management systems
+	of my choice \cite{WikipediaContributors2017a5}.
 
 
 
