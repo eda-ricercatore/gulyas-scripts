@@ -7,7 +7,7 @@
 
 
 
-##	Database Management Systems
+##	Definitions of Database, Database Management System, and Related Concepts
 
 A database is a collection of data that is systematically organized
 	for access, storage, and processing
@@ -38,23 +38,43 @@ The main categories of data model instances are
 	\cite{WikipediaContributors2018x}:
 + conceptual data model, which is a technology-independent description
 	of the semantics of a specific domain (in the information context
-	\cite{WikipediaContributors2018y}) and defines the scope of the
-	model
+	as abstract structures \cite{WikipediaContributors2018y}) and
+	defines the scope of the model
 + logical data model (or logical schema \cite{WikipediaContributors2018y}),
 	which describes the semantics of a conceptual model for "a
 	particular data manipulation technology", in terms of (relational)
-	tables, columns, object-oriented classes, and XML tags;
-	a logical data model is a detailed reflection of a conceptual data
+	tables, columns, object-oriented classes, and XML tags
+	- A logical data model is a detailed reflection of a conceptual data
 		model's domain-specific semantics, and is independent of the
 		physical data model ("particular database management product or
-		storage technology" \cite{WikipediaContributors2018y});
-	it is a representation of a domain-specific abstract structure
+		storage technology" \cite{WikipediaContributors2018y})
+	- It is a representation of a domain-specific abstract structure
 		(or, they "represent the abstract structure of a domain of
 		information") \cite{WikipediaContributors2018y};
-	use the logical data model to create databases, and use it as the
+	- Use the logical data model to create databases, and use it as the
 		basis of a physical data model \cite{WikipediaContributors2018y}
+	- types of logical data models \cite{WikipediaContributors2018y}
+		* hierarchical data model
+		* network data model
+		* relational model
+		* object-oriented data model
+	- rationale/justifications for creating logical data model
+		\cite{WikipediaContributors2018y}:
+		* Facilitates understanding of business data elements and requirements.
+		* Provides the basis for database design.
+		* Facilitates the avoidance of data redundancy, data inconsistency,
+			and business transaction inconsistency;
+			avoidance of the latter pair is dependent on avoiding data
+				redundancy.
+		* Facilitates re-use and sharing of data.
+		* Facilitates the reduction of time and effort/cost in developing
+			and maintaining the database.
+		* Verifies the logical process models.
+		* Facilitates impact analysis.
 + physical data model, which describes how data is physically stored
 	in terms of partitions, processors, and tablespaces.
+
+
 
 
 WikipediaContributors2018w
@@ -70,6 +90,14 @@ A query language, or data query languages (DQL), is a computer language for
 The main categories of query languages are \cite{WikipediaContributors2018v}:
 + database query languages
 + information retrieval query languages
+
+###	Side Notes on Definitions
+
+A domain model captures concepts of a problem domain, but it does not
+	capture the relationships (and their structure) of data in that domain;
+	a logical data model does capture such relationships and their structure
+		\cite{WikipediaContributors2018y}.
+
 
 
 ##	Database Design
