@@ -27,6 +27,10 @@ The main functions of DBMS are \cite{WikipediaContributors2018r}:
 	security and data integrity, performance monitoring, concurrency
 	control, and data/information recovery
 
+A database model is an abstract model (specifically, a data model) that
+	describes the logical structure of a database, and how to store,
+	organize, and manipulate data \cite{WikipediaContributors2018w}.
+
 A data model (or datamodel) is a description of how data is organized
 	and related to each other, and the relationships between data and
 	entities in the real world \cite{WikipediaContributors2018x};
@@ -61,10 +65,20 @@ The main categories of data model instances are
 	- Use the logical data model to create databases, and use it as the
 		basis of a physical data model \cite{WikipediaContributors2018y}
 	- types of logical data models \cite{WikipediaContributors2018y}
-		* hierarchical data model
-		* network data model
-		* relational model
-		* object-oriented data model
+		* hierarchical data model \cite{WikipediaContributors2018w}.
+		* network data model \cite{WikipediaContributors2018w}
+		* relational model \cite{WikipediaContributors2018w}
+		* object-oriented data model, object model, and objective database
+			\cite{WikipediaContributors2018w}
+		* entity-relationship model \cite{WikipediaContributors2018w}
+			+ enhanced entity-relationship model
+				\cite{WikipediaContributors2018w}
+		* document model \cite{WikipediaContributors2018w}
+		* entity-attribute-value model \cite{WikipediaContributors2018w}
+		* star schema \cite{WikipediaContributors2018w}
+		* object-relational database \cite{WikipediaContributors2018w}
+			+ An object-relational database is a combination of the object
+				model and the relational model.
 	- rationale/justifications for creating logical data model
 		\cite{WikipediaContributors2018y}:
 		* Facilitates understanding of business data elements and requirements.
@@ -103,14 +117,66 @@ The main categories of data model instances are
 		Operational Data Store (ODS), it is usually not de-normalized";
 		else, de-normalize the physical data model to meet performance
 			requirements of the database (context-dependent).
+	- Examples:
+		* inverted index \cite{WikipediaContributors2018w}
+		* flat file \cite{WikipediaContributors2018w}
 
+Other database models (or data models) \cite{WikipediaContributors2018w}:
++ associative model
++ correlational model
++ multi-dimensional model
++ multi-value model
++ semantic model
++ XML database
++ named graph
++ triplestore
 
+WikipediaContributors2018z
 WikipediaContributors2018w
 
-A database model is an abstract model (specifically, a data model) that
-	describes the logical structure of a database, such.
-	\cite{WikipediaContributors2018w}
+The relational data model is the most popular database model (and data model);
+	it uses the table-based format \cite{WikipediaContributors2018w}.
 
+##	Ancillary Definitions
+
+"A database segment is a database object that occupies physical space,
+	such as table data and indexes/indices" \cite{WikipediaContributors2018z}.
+
+A tablespace is a storage location of the actual data underlying database
+	objects (database storage locations) \cite{WikipediaContributors2018z};
+	it provides a layer of abstraction between the logical and physical
+		data models \cite{WikipediaContributors2018z};
+	it allocates storage for all data segments managed by the DBMS
+		\cite{WikipediaContributors2018z};
+	when creating database segments, we can refer to the tablespace by name
+		\cite{WikipediaContributors2018z};
+	it does not store the logical database structure;
+	for a given logic schema, an unique object in the schema has a
+		unique tablespace \cite{WikipediaContributors2018z};
+	for a given tablespace, it allows multiple database segments to
+		refer to it \cite{WikipediaContributors2018z};
+	for a given tablespace, use it to specify a database model that
+		forms a bond between logical and physical data
+		\cite{WikipediaContributors2018z};
+	use a tablespace to optimize performance of database access/modification
+		and decide where to store indexes/indices and tables
+		\cite{WikipediaContributors2018z};
+	a tablespace can store its data in a file in the file system
+		\cite{WikipediaContributors2018z};
+	a file cannot be associated with multiple tablespaces
+		\cite{WikipediaContributors2018z};
+	a DBMS allows the direct configuration of a tablespace over device
+		entries of an operating system (i.e., raw devices), in order to
+		gain a performance speedup "by avoiding OS file system overheads"
+		\cite{WikipediaContributors2018z}.
+
+In *UNIX*-like operating systems, a raw device is a special logical device
+	that is associated with character device files, and enables/allows
+	direct access by a storage device (e.g., hard disk drive)
+	\cite{WikipediaContributors2017a6};
+	that is, the raw device allows software applications to use storage
+		devices directly, without using the page caches and buffers of the
+		operating system \cite{WikipediaContributors2017a6}.
 
 A query language, or data query languages (DQL), is a computer language for
 	making queries on databases and information systems \cite{WikipediaContributors2018v}.
