@@ -40,6 +40,13 @@ The main categories of data model instances are
 	of the semantics of a specific domain (in the information context
 	as abstract structures \cite{WikipediaContributors2018y}) and
 	defines the scope of the model
+	- "Includes high-level data constructs" that are used to create
+		architectural descriptions in layperson terms
+		\cite{WikipediaContributors2018y}.
+	- Avoids technical names to facilitate understanding of the
+		architectural description's data basis
+		\cite{WikipediaContributors2018y}.
+	- "May not be normalized" \cite{WikipediaContributors2018y}.
 + logical data model (or logical schema \cite{WikipediaContributors2018y}),
 	which describes the semantics of a conceptual model for "a
 	particular data manipulation technology", in terms of (relational)
@@ -71,10 +78,31 @@ The main categories of data model instances are
 			and maintaining the database.
 		* Verifies the logical process models.
 		* Facilitates impact analysis.
+	- Includes entities (tables), attributes (columns/fields), and
+		relationships (keys) \cite{WikipediaContributors2018y}
+	- Uses defined (and specific) business names, and less generic names,
+		for entities and attributes \cite{WikipediaContributors2018y}.
+	- Is technology independent, and is based on platforms and DBMSes
+		\cite{WikipediaContributors2018y}.
+	- "Is normalized to the fourth normal form (4NF)"
+		\cite{WikipediaContributors2018y}.
 + physical data model, which describes how data is physically stored
 	in terms of partitions, processors, and tablespaces.
-
-
+	- Involves using specific database management technology
+		\cite{WikipediaContributors2018y}.
+	- "Includes tables, columns, keys, data types, validation rules,
+		database triggers, stored procedures, domains, and access
+		constraints" \cite{WikipediaContributors2018y}.
+	- Uses more defined (and specific) business names, for entities and
+		attributes, subject to limitations of DBMS and company defined
+		standards \cite{WikipediaContributors2018y};
+		e.g., abbreviated column names \cite{WikipediaContributors2018y}.
+	- "Includes primary keys and indices for fast data access"
+		\cite{WikipediaContributors2018y}.
+	- If the database is for "online transaction processing (OLTP) or
+		Operational Data Store (ODS), it is usually not de-normalized";
+		else, de-normalize the physical data model to meet performance
+			requirements of the database (context-dependent).
 
 
 WikipediaContributors2018w
