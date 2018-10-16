@@ -206,7 +206,21 @@ A block device, or block special file, provides software with buffered
 	character, byte, nor block, due to the buffering
 	\cite{WikipediaContributors2018a3}.
 
-An operating system can represent hardware as character/block devices.
+An operating system can represent hardware devices, such as hard
+	disks, as character/block devices \cite{WikipediaContributors2018a3}.
+
+A device node corresponds to a resource allocated by the kernel of the
+	operating system \cite{WikipediaContributors2018a3}.
+
+A pseudo-device is a device node in UNIX-like systems that do not
+	correspond to a physical device \cite{WikipediaContributors2018a3}.
+
+The *mknod* system call, which is a service request made from a computer
+	program on the OS kernel, creates nodes in the file system tree
+	\cite{WikipediaContributors2018a3};
+	such nodes can be moved or deleted using file system system calls
+		and commands \cite{WikipediaContributors2018a3}.
+
 
 
 
