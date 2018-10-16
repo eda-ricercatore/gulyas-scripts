@@ -276,7 +276,11 @@ A primary key is a specific choice of columns that can uniquely
 		a minimal superkey), and other candidate kets are alternate
 		keys \cite{WikipediaContributors2018a6}.
 
+A natural key is a primary key consisting of real-world observables
+	\cite{WikipediaContributors2018a6}.
 
+A surrogate key is an attribute that functions as a key
+	\cite{WikipediaContributors2018a6}.
 
 
 
