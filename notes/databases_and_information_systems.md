@@ -255,12 +255,26 @@ A view can function as a relational table, although its data would be
 	an external table can be considered as a view
 		\cite{WikipediaContributors2018a5}.
 
+For the relational model of database, a table can be considered as a
+	relation, even though they are not strictly equivalent
+	\cite{WikipediaContributors2018a5}.
 
+In a hierarchical database, which is a non-relational system, a table
+	has a distant counterpart known as structured file, which can
+	have repeating information in a row (i.e., the child data segments)
+	\cite{WikipediaContributors2018a5};
+	"data are stored [as a] sequence of physical records"
+		\cite{WikipediaContributors2018a5}.
 
 A primary key is a specific choice of columns that can uniquely
 	identify rows \cite{WikipediaContributors2018a5};
-	primary key definition
-		\cite{WikipediaContributors2018a6}.
+	for "the relational model in databases, a primary key is a specific
+		choice of a minimal set of attributes (columns) that uniquely
+		specify a tuple (row) in a relation (table)"
+		\cite{WikipediaContributors2018a6};
+	mathematically, "a primary key is a choice of candidate key (i.e.,
+		a minimal superkey), and other candidate kets are alternate
+		keys \cite{WikipediaContributors2018a6}.
 
 
 
