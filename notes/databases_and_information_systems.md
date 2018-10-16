@@ -176,8 +176,9 @@ In *UNIX*-like operating systems, a raw device is a special logical device
 	direct access by a storage device (e.g., hard disk drive)
 	\cite{WikipediaContributors2017a6};
 	that is, the raw device allows software applications to use storage
-		devices directly, without using the page caches and buffers of the
-		operating system - although the disk buffer \cite{WikipediaContributors2018a2,WikipediaContributors2016l}
+		devices directly, without using the page caches
+		\cite{WikipediaContributors2018a4} and buffers of the operating
+		system - although the disk buffer \cite{WikipediaContributors2018a2,WikipediaContributors2016l}
 		of the tertiary storage devices would still be used
 		\cite{WikipediaContributors2017a6}.
 
@@ -223,13 +224,48 @@ The *mknod* system call, which is a service request made from a computer
 
 
 
-
 A query language, or data query languages (DQL), is a computer language for
 	making queries on databases and information systems \cite{WikipediaContributors2018v}.
 
 The main categories of query languages are \cite{WikipediaContributors2018v}:
 + database query languages
 + information retrieval query languages
+
+
+"A table is a collection of related data" stored in a database, using
+	a structured format consists of (horizontal) rows and (vertical) columns
+	(identifiable by name) \cite{WikipediaContributors2018a5};
+	the number of columns are specified (and fixed), and the table can
+		have any number of columns \cite{WikipediaContributors2018a5};
+	for any {row, column} entry, it can have multiple values;
+	a table is defined for relational databases and flat-file databases
+		\cite{WikipediaContributors2018a5}.
+
+
+A table can be used to describe a relation, which is a set without
+	duplicates \cite{WikipediaContributors2018a5};
+	however, most tables are multisets (or bags)
+		\cite{WikipediaContributors2018a5}.
+
+A table can have associated metadata, such as constraints on the table
+	or values for certain columns \cite{WikipediaContributors2018a5}.
+
+A view can function as a relational table, although its data would be
+	computed/calculated at query time \cite{WikipediaContributors2018a5};
+	an external table can be considered as a view
+		\cite{WikipediaContributors2018a5}.
+
+
+
+A primary key is a specific choice of columns that can uniquely
+	identify rows \cite{WikipediaContributors2018a5};
+	primary key definition
+		\cite{WikipediaContributors2018a6}.
+
+
+
+
+
 
 ###	Side Notes on Definitions
 
