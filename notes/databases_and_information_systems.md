@@ -171,12 +171,43 @@ A tablespace is a storage location of the actual data underlying database
 		\cite{WikipediaContributors2018z}.
 
 In *UNIX*-like operating systems, a raw device is a special logical device
-	that is associated with character device files, and enables/allows
+	that is associated with character device files
+	\cite{WikipediaContributors2018a3,Bovet2006}, and enables/allows
 	direct access by a storage device (e.g., hard disk drive)
 	\cite{WikipediaContributors2017a6};
 	that is, the raw device allows software applications to use storage
 		devices directly, without using the page caches and buffers of the
-		operating system \cite{WikipediaContributors2017a6}.
+		operating system - although the disk buffer \cite{WikipediaContributors2018a2,WikipediaContributors2016l}
+		of the tertiary storage devices would still be used
+		\cite{WikipediaContributors2017a6}.
+
+In *UNIX*-like operating systems, a device file (or special file) is an
+	interface to a device driver, and appears in a file system as an
+	ordinary file \cite{WikipediaContributors2018a3}.
+	Using I/O system calls for the application, users can interact with
+		its device driver \cite{WikipediaContributors2018a3}.
+	It is managed by the virtual file system \cite{WikipediaContributors2018a3};
+		the controlling daemon "monitors hardware addition and removal
+			at run time" and modifies the device file system (if the device
+			file system has not been modified by the kernel)
+			\cite{WikipediaContributors2018a3}.
+
+A "character device (driver), or character special file, provides unbuffered,
+	direct access to the hardware device" \cite{WikipediaContributors2018a3};
+	it can also request for read and write operations to align to block
+		boundaries (or otherwise) \cite{WikipediaContributors2018a3};
+	block-based hardware typically requires software to read/write aligned
+		blocks \cite{WikipediaContributors2018a3}.
+
+A block device, or block special file, provides software with buffered
+	access to hardware devices with restrictions on size or alignment
+	\cite{WikipediaContributors2018a3};
+	however, it has no guarantee on performance nor order of data between any
+	character, byte, nor block, due to the buffering.
+
+An operating system can represent hardware as character/block devices.
+
+
 
 A query language, or data query languages (DQL), is a computer language for
 	making queries on databases and information systems \cite{WikipediaContributors2018v}.
