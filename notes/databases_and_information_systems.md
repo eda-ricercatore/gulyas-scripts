@@ -203,7 +203,8 @@ A block device, or block special file, provides software with buffered
 	access to hardware devices with restrictions on size or alignment
 	\cite{WikipediaContributors2018a3};
 	however, it has no guarantee on performance nor order of data between any
-	character, byte, nor block, due to the buffering.
+	character, byte, nor block, due to the buffering
+	\cite{WikipediaContributors2018a3}.
 
 An operating system can represent hardware as character/block devices.
 
