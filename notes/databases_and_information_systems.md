@@ -267,7 +267,8 @@ In a hierarchical database, which is a non-relational system, a table
 		\cite{WikipediaContributors2018a5}.
 
 A primary key is a specific choice of columns that can uniquely
-	identify rows \cite{WikipediaContributors2018a5};
+	identify rows \cite{WikipediaContributors2018a5} (or identify
+	a tuple in a relation \cite{WikipediaContributors2018a6});
 	for "the relational model in databases, a primary key is a specific
 		choice of a minimal set of attributes (columns) that uniquely
 		specify a tuple (row) in a relation (table)"
@@ -281,6 +282,36 @@ A natural key is a primary key consisting of real-world observables
 
 A surrogate key is an attribute that functions as a key
 	\cite{WikipediaContributors2018a6}.
++ In certain circumstances, during software development or a data
+	science project, it can be inconvenient to use a natural key
+	to identify a tuple in a relation, since it may require multiple
+	columns or large text fields;
+	hence, use a surrogate key as a substitute .
+	\cite{WikipediaContributors2018a6}
+
+
+"In relational database terms, a primary key does not differ in form
+	or function from alternate keys" \cite{WikipediaContributors2018a6};	there can be different reasons for choosing a key as the primary
+		key over other keys, such as \cite{WikipediaContributors2018a6}:
+		it is the "preferred" identifier for data in the table;
+		its usage as foreign key references from other tables;
+		it indicates certain technical rather than semantic feature
+			of the table; and
+		special syntax features of certain computer languages and software
+			that are used to identify primary keys.
+
+Even though the relational database model (based on relational calculus and
+	relational algebra) does not distinguish keys based on whether they are
+	primary keys, the SQL computer language standard has a feature for
+	primary keys to provide a convenience to the application engineer
+	\cite{WikipediaContributors2018a6}.
+
+
+
+
+
+
+
 
 
 
