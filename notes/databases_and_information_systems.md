@@ -285,9 +285,10 @@ A surrogate key is an attribute that functions as a key
 + In certain circumstances, during software development or a data
 	science project, it can be inconvenient to use a natural key
 	to identify a tuple in a relation, since it may require multiple
-	columns or large text fields;
-	hence, use a surrogate key as a substitute .
-	\cite{WikipediaContributors2018a6}
+	columns or large text fields \cite{WikipediaContributors2018a6}.
+	- Hence, use a surrogate key as a substitute (primary key) to avoid
+		giving priority/importance.
+		\cite{WikipediaContributors2018a6}
 
 
 "In relational database terms, a primary key does not differ in form
