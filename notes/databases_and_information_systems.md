@@ -268,12 +268,12 @@ In a hierarchical database, which is a non-relational system, a table
 
 A primary key is a specific choice of columns that can uniquely
 	identify rows \cite{WikipediaContributors2018a5} (or identify
-	a tuple in a relation \cite{WikipediaContributors2018a6});
-	for "the relational model in databases, a primary key is a specific
+	a tuple in a relation \cite{WikipediaContributors2018a6}).
+	- For "the relational model in databases, a primary key is a specific
 		choice of a minimal set of attributes (columns) that uniquely
 		specify a tuple (row) in a relation (table)"
 		\cite{WikipediaContributors2018a6};
-	mathematically, "a primary key is a choice of candidate key (i.e.,
+	- Mathematically, "a primary key is a choice of candidate key (i.e.,
 		a minimal superkey), and other candidate kets are alternate
 		keys \cite{WikipediaContributors2018a6}.
 
@@ -287,8 +287,20 @@ A surrogate key is an attribute that functions as a key
 	to identify a tuple in a relation, since it may require multiple
 	columns or large text fields \cite{WikipediaContributors2018a6}.
 	- Hence, use a surrogate key as a substitute (primary key) to avoid
-		giving priority/importance.
-		\cite{WikipediaContributors2018a6}
+		giving more priority/importance to the natural key or other
+		candidate keys \cite{WikipediaContributors2018a6}.
+	- Similarly, a surrogate key can be chosen instead of any of the
+		multiple candidate keys that do not provide an advantage over
+		the other candidate keys \cite{WikipediaContributors2018a6}.
+	- Since primary keys are chosen to facilitate information processing
+		during software development or a data science project, many
+		cases of database application design use surrogate primary
+		keys to further facilitate information processing
+		\cite{WikipediaContributors2018a6}.
+- For databases based on the hybrid object-relational model, which is
+	based on the object-oriented programming model and the relational
+	model, 
+	\cite{WikipediaContributors2018a6}.
 
 
 "In relational database terms, a primary key does not differ in form
