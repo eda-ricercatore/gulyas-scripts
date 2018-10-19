@@ -273,18 +273,18 @@ In a **hierarchical database**, which is a **non-relational system**, a
 A **primary key** is a specific choice of columns that can uniquely
 	identify rows \cite{WikipediaContributors2018a5} (or identify
 	a tuple in a relation \cite{WikipediaContributors2018a6}).
-	- For "the relational model in databases, a primary key is a specific
-		choice of a minimal set of attributes (columns) that uniquely
-		specify a tuple (row) in a relation (table)"
-		\cite{WikipediaContributors2018a6};
-	- Mathematically, "a primary key is a choice of candidate key (i.e.,
-		a minimal superkey), and other candidate kets are alternate
-		keys \cite{WikipediaContributors2018a6}.
-
-A natural key is a primary key consisting of real-world observables
++ For "the relational model in databases, a primary key is a specific
+	choice of a minimal set of attributes (columns) that uniquely
+	specify a tuple (row) in a relation (table)"
+	\cite{WikipediaContributors2018a6};
++ Mathematically, "a primary key is a choice of candidate key (i.e.,
+	a minimal superkey), and other candidate kets are **alternate keys**
 	\cite{WikipediaContributors2018a6}.
 
-A surrogate key is an attribute that functions as a key
+A **natural key** is a primary key consisting of real-world observables
+	\cite{WikipediaContributors2018a6}.
+
+A **surrogate key** is an attribute that functions as a key
 	\cite{WikipediaContributors2018a6}.
 + In certain circumstances, during software development or a data
 	science project, it can be inconvenient to use a natural key
@@ -301,10 +301,10 @@ A surrogate key is an attribute that functions as a key
 	of database application design use surrogate primary keys to
 	further facilitate information processing
 	\cite{WikipediaContributors2018a6}.
-+ For databases based on the hybrid object-relational model (OM), which is
-	based on the object-oriented programming model and the relational
-	model, they also use surrogate primary keys to further facilitate
-	information processing \cite{WikipediaContributors2018a6}.
++ For databases based on the hybrid **object-relational model** (**OM**),
+	which is based on the object-oriented programming model and the
+	relational model, they also use surrogate primary keys to further
+	facilitate information processing \cite{WikipediaContributors2018a6}.
 	- The restrictions on surrogate primary keys are:
 		* Primary keys are immutable (not changed nor reused)
 			\cite{WikipediaContributors2018a6}
