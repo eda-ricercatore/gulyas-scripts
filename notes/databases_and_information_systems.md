@@ -187,13 +187,13 @@ In *UNIX*-like operating systems, a **raw device** is a special logical device
 In *UNIX*-like operating systems, a **device file** (or **special file**) is an
 	interface to a device driver, and appears in a file system as an
 	ordinary file \cite{WikipediaContributors2018a3}.
-	Using I/O system calls for the application, users can interact with
-		its device driver \cite{WikipediaContributors2018a3}.
-	It is managed by the virtual file system \cite{WikipediaContributors2018a3};
-		the controlling daemon "monitors hardware addition and removal
-			at run time" and modifies the device file system (if the device
-			file system has not been modified by the kernel)
-			\cite{WikipediaContributors2018a3}.
++ Using I/O system calls for the application, users can interact with
+	its device driver \cite{WikipediaContributors2018a3}.
++ It is managed by the virtual file system \cite{WikipediaContributors2018a3};
+	- the controlling daemon "monitors hardware addition and removal
+		at run time" and modifies the device file system (if the device
+		file system has not been modified by the kernel)
+		\cite{WikipediaContributors2018a3}.
 
 A "**character device (driver)**, or **character special file**, provides
 	unbuffered, direct access to the hardware device"
