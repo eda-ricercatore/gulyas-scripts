@@ -101,7 +101,7 @@ The main categories of data model instances are
 		\cite{WikipediaContributors2018y}.
 	- "Is normalized to the fourth normal form (4NF)"
 		\cite{WikipediaContributors2018y}.
-+ physical data model, which describes how data is physically stored
++ **physical data model**, which describes how data is physically stored
 	in terms of partitions, processors, and tablespaces.
 	- Involves using specific database management technology
 		\cite{WikipediaContributors2018y}.
@@ -114,23 +114,23 @@ The main categories of data model instances are
 		e.g., abbreviated column names \cite{WikipediaContributors2018y}.
 	- "Includes primary keys and indices for fast data access"
 		\cite{WikipediaContributors2018y}.
-	- If the database is for "online transaction processing (OLTP) or
-		Operational Data Store (ODS), it is usually not de-normalized";
+	- If the database is for "**online transaction processing** (**OLTP**) or
+		**Operational Data Store** (**ODS**), it is usually not de-normalized";
 		else, de-normalize the physical data model to meet performance
 			requirements of the database (context-dependent).
 	- Examples:
 		* inverted index \cite{WikipediaContributors2018w}
 		* flat file \cite{WikipediaContributors2018w}
 
-Other database models (or data models) \cite{WikipediaContributors2018w}:
-+ associative model
-+ correlational model
-+ multi-dimensional model
-+ multi-value model
-+ semantic model
-+ XML database
-+ named graph
-+ triplestore
+Other **database models** (or **data models**) \cite{WikipediaContributors2018w}:
++ **associative model**
++ **correlational model**
++ **multi-dimensional model**
++ **multi-value model**
++ **semantic model**
++ **XML database**
++ **named graph**
++ **triplestore**
 
 WikipediaContributors2018z
 WikipediaContributors2018w
