@@ -145,29 +145,29 @@ The **relational data model** is the most popular database model (and data
 	such as table data and indexes/indices" \cite{WikipediaContributors2018z}.
 
 A **tablespace** is a storage location of the actual data underlying database
-	objects (database storage locations) \cite{WikipediaContributors2018z};
-	it provides a layer of abstraction between the logical and physical
-		data models \cite{WikipediaContributors2018z};
-	it allocates storage for all data segments managed by the DBMS
-		\cite{WikipediaContributors2018z};
-	when creating database segments, we can refer to the tablespace by name
-		\cite{WikipediaContributors2018z};
-	it does not store the logical database structure;
-	for a given logic schema, an unique object in the schema has a
+	objects (database storage locations) \cite{WikipediaContributors2018z}.
++ it provides a layer of abstraction between the logical and physical
+	data models \cite{WikipediaContributors2018z};
++ it allocates storage for all data segments managed by the DBMS
+	\cite{WikipediaContributors2018z};
++ when creating database segments, we can refer to the tablespace by name
+	\cite{WikipediaContributors2018z};
++ it does not store the logical database structure;
+	- for a given logic schema, an unique object in the schema has a
 		unique tablespace \cite{WikipediaContributors2018z};
-	for a given tablespace, it allows multiple database segments to
+	- for a given tablespace, it allows multiple database segments to
 		refer to it \cite{WikipediaContributors2018z};
-	for a given tablespace, use it to specify a database model that
+	- for a given tablespace, use it to specify a database model that
 		forms a bond between logical and physical data
 		\cite{WikipediaContributors2018z};
-	use a tablespace to optimize performance of database access/modification
+	- use a tablespace to optimize performance of database access/modification
 		and decide where to store indexes/indices and tables
 		\cite{WikipediaContributors2018z};
-	a tablespace can store its data in a file in the file system
+	- a tablespace can store its data in a file in the file system
 		\cite{WikipediaContributors2018z};
-	a file cannot be associated with multiple tablespaces
+	- a file cannot be associated with multiple tablespaces
 		\cite{WikipediaContributors2018z};
-	a DBMS allows the direct configuration of a tablespace over device
+	- a DBMS allows the direct configuration of a tablespace over device
 		entries of an operating system (i.e., raw devices), in order to
 		gain a performance speedup "by avoiding OS file system overheads"
 		\cite{WikipediaContributors2018z}.
