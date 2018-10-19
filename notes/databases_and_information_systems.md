@@ -9,20 +9,20 @@
 
 ##	Definitions of Database, Database Management System, and Related Concepts
 
-A database is a collection of data that is systematically organized
+A **database** is a collection of data that is systematically organized
 	for access, storage, and processing
 	\cite{DictionaryDotComStaff2018,WikipediaContributors2018r}.
 
-A "general-purpose" database management system (DBMS) is a software system that enables people to create, maintain, and access databases \cite{WikipediaContributors2018r}.
+A "general-purpose" **database management system** (**DBMS**) is a software system that enables people to create, maintain, and access databases \cite{WikipediaContributors2018r}.
 
 The main functions of DBMS are \cite{WikipediaContributors2018r}:
-+ data definition, data is organized according to definitions of
++ **data definition**, data is organized according to definitions of
 	relationships between the data; these definitions need to be created,
 	modified, and deleted
-+ update, which allows data to be added, modified, or removed from
++ **update**, which allows data to be added, modified, or removed from
 	the database
-+ retrieval, which allows data to be accessed
-+ administration, which involves registering people to access the
++ **retrieval**, which allows data to be accessed
++ **administration**, which involves registering people to access the
 	database and monitoring them, and implementing techniques for data
 	security and data integrity, performance monitoring, concurrency
 	control, and data/information recovery
