@@ -354,7 +354,7 @@ Even though the relational database model (based on **relational calculus** and
 
 ###	Side Notes on Definitions
 
-A domain model captures concepts of a problem domain, but it does not
+A **domain model** captures concepts of a **problem domain**, but it does not
 	capture the relationships (and their structure) of data in that domain;
 	a logical data model does capture such relationships and their structure
 		\cite{WikipediaContributors2018y}.
