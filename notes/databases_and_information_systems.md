@@ -172,16 +172,16 @@ A **tablespace** is a storage location of the actual data underlying database
 		gain a performance speedup "by avoiding OS file system overheads"
 		\cite{WikipediaContributors2018z}.
 
-In *UNIX*-like operating systems, a raw device is a special logical device
-	that is associated with character device files
+In *UNIX*-like operating systems, a **raw device** is a special logical device
+	that is associated with **character device files**
 	\cite{WikipediaContributors2018a3,Bovet2006}, and enables/allows
-	direct access by a storage device (e.g., hard disk drive)
-	\cite{WikipediaContributors2017a6};
-	that is, the raw device allows software applications to use storage
-		devices directly, without using the page caches
-		\cite{WikipediaContributors2018a4} and buffers of the operating
-		system - although the disk buffer \cite{WikipediaContributors2018a2,WikipediaContributors2016l}
-		of the tertiary storage devices would still be used
+	direct access by a **storage device** (e.g., hard disk drive)
+	\cite{WikipediaContributors2017a6}.
++ that is, the raw device allows software applications to use storage
+	devices directly, without using the page caches
+	\cite{WikipediaContributors2018a4} and buffers of the operating
+	system - although the **disk buffer** \cite{WikipediaContributors2018a2,WikipediaContributors2016l}
+		of the **tertiary storage devices** would still be used
 		\cite{WikipediaContributors2017a6}.
 
 In *UNIX*-like operating systems, a device file (or special file) is an
