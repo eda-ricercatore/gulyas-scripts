@@ -27,20 +27,20 @@ The main functions of DBMS are \cite{WikipediaContributors2018r}:
 	security and data integrity, performance monitoring, concurrency
 	control, and data/information recovery
 
-A database model is an abstract model (specifically, a data model) that
+A **database model** is an abstract model (specifically, a data model) that
 	describes the logical structure of a database, and how to store,
 	organize, and manipulate data \cite{WikipediaContributors2018w}.
 
-A data model (or datamodel) is a description of how data is organized
+A **data model** (or **datamodel**) is a description of how data is organized
 	and related to each other, and the relationships between data and
 	entities in the real world \cite{WikipediaContributors2018x};
 We can create data models using entities, attributes, relations, and
 	tables \cite{WikipediaContributors2018x}.
-In enterprise modeling, a function model complements a data model
+In enterprise modeling, a **function model** complements a data model
 	\cite{WikipediaContributors2018x}.
 The main categories of data model instances are
 	\cite{WikipediaContributors2018x}:
-+ conceptual data model, which is a technology-independent description
++ **conceptual data model**, which is a technology-independent description
 	of the semantics of a specific domain (in the information context
 	as abstract structures \cite{WikipediaContributors2018y}) and
 	defines the scope of the model
@@ -51,7 +51,8 @@ The main categories of data model instances are
 		architectural description's data basis
 		\cite{WikipediaContributors2018y}.
 	- "May not be normalized" \cite{WikipediaContributors2018y}.
-+ logical data model (or logical schema \cite{WikipediaContributors2018y}),
++ **logical data model** (or **logical schema**
+	\cite{WikipediaContributors2018y}),
 	which describes the semantics of a conceptual model for "a
 	particular data manipulation technology", in terms of (relational)
 	tables, columns, object-oriented classes, and XML tags
@@ -59,24 +60,24 @@ The main categories of data model instances are
 		model's domain-specific semantics, and is independent of the
 		physical data model ("particular database management product or
 		storage technology" \cite{WikipediaContributors2018y})
-	- It is a representation of a domain-specific abstract structure
+	- It is a representation of a **domain-specific abstract structure**
 		(or, they "represent the abstract structure of a domain of
 		information") \cite{WikipediaContributors2018y};
 	- Use the logical data model to create databases, and use it as the
 		basis of a physical data model \cite{WikipediaContributors2018y}
 	- types of logical data models \cite{WikipediaContributors2018y}
-		* hierarchical data model \cite{WikipediaContributors2018w}.
-		* network data model \cite{WikipediaContributors2018w}
-		* relational model \cite{WikipediaContributors2018w}
-		* object-oriented data model, object model, and objective database
-			\cite{WikipediaContributors2018w}
-		* entity-relationship model \cite{WikipediaContributors2018w}
-			+ enhanced entity-relationship model
+		* **hierarchical data model** \cite{WikipediaContributors2018w}.
+		* **network data model** \cite{WikipediaContributors2018w}
+		* **relational model \cite{WikipediaContributors2018w}
+		* **object-oriented data model**, **object model**, and
+			**objective database** \cite{WikipediaContributors2018w}
+		* **entity-relationship model** \cite{WikipediaContributors2018w}
+			+ **enhanced entity-relationship model**
 				\cite{WikipediaContributors2018w}
-		* document model \cite{WikipediaContributors2018w}
-		* entity-attribute-value model \cite{WikipediaContributors2018w}
-		* star schema \cite{WikipediaContributors2018w}
-		* object-relational database \cite{WikipediaContributors2018w}
+		* **document model** \cite{WikipediaContributors2018w}
+		* **entity-attribute-value model** \cite{WikipediaContributors2018w}
+		* **star schema** \cite{WikipediaContributors2018w}
+		* **object-relational database** \cite{WikipediaContributors2018w}
 			+ An object-relational database is a combination of the object
 				model and the relational model.
 	- rationale/justifications for creating logical data model
