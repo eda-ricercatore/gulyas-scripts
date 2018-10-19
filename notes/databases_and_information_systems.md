@@ -312,9 +312,9 @@ A **surrogate key** is an attribute that functions as a key
 			record \cite{WikipediaContributors2018a6}
 		* Primary keys should be an anonymous trigger, or numeric
 			identifier \cite{WikipediaContributors2018a6}
-		* Since these restrictions only apply for the relational
-			data model and the object-relational model
-
+		* These restrictions only apply for the object-relational model,
+			such as the **active record pattern**
+			\cite{WikipediaContributors2018a6}
 
 
 
