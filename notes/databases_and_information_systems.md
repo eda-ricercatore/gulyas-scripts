@@ -326,16 +326,17 @@ A **surrogate key** is an attribute that functions as a key
 
 
 "In relational database terms, a primary key does not differ in form
-	or function from alternate keys" \cite{WikipediaContributors2018a6};	there can be different reasons for choosing a key as the primary
-		key over other keys, such as \cite{WikipediaContributors2018a6}:
-		it is the "preferred" identifier for data in the table;
-		its usage as foreign key references from other tables;
-		it indicates certain technical rather than semantic feature
-			of the table; and
-		special syntax features of certain computer languages and software
-			that are used to identify primary keys.
+	or function from alternate keys" \cite{WikipediaContributors2018a6};
++ there can be different reasons for choosing a key as the primary
+	key over other keys, such as \cite{WikipediaContributors2018a6}:
+	- it is the "preferred" identifier for data in the table;
+	- its usage as foreign key references from other tables;
+	- it indicates certain technical rather than semantic feature
+		of the table; and
+	- special syntax features of certain computer languages and software
+		that are used to identify primary keys.
 
-Even though the relational database model (based on relational calculus and
+Even though the relational database model (based on **relational calculus** and
 	relational algebra) does not distinguish keys based on whether they are
 	primary keys, the SQL computer language standard has a feature for
 	primary keys to provide a convenience to the application engineer
