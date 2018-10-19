@@ -135,8 +135,9 @@ Other **database models** (or **data models**) \cite{WikipediaContributors2018w}
 WikipediaContributors2018z
 WikipediaContributors2018w
 
-The relational data model is the most popular database model (and data model);
-	it uses the table-based format \cite{WikipediaContributors2018w}.
+The **relational data model** is the most popular database model (and data
+	model);
+	it uses the **table-based format** \cite{WikipediaContributors2018w}.
 
 ##	Ancillary Definitions
 
