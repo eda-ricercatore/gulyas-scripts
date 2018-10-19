@@ -184,7 +184,7 @@ In *UNIX*-like operating systems, a **raw device** is a special logical device
 		of the **tertiary storage devices** would still be used
 		\cite{WikipediaContributors2017a6}.
 
-In *UNIX*-like operating systems, a device file (or special file) is an
+In *UNIX*-like operating systems, a **device file** (or **special file**) is an
 	interface to a device driver, and appears in a file system as an
 	ordinary file \cite{WikipediaContributors2018a3}.
 	Using I/O system calls for the application, users can interact with
@@ -195,30 +195,31 @@ In *UNIX*-like operating systems, a device file (or special file) is an
 			file system has not been modified by the kernel)
 			\cite{WikipediaContributors2018a3}.
 
-A "character device (driver), or character special file, provides unbuffered,
-	direct access to the hardware device" \cite{WikipediaContributors2018a3};
-	it can also request for read and write operations to align to block
-		boundaries (or otherwise) \cite{WikipediaContributors2018a3};
-	block-based hardware typically requires software to read/write aligned
-		blocks \cite{WikipediaContributors2018a3}.
+A "**character device (driver)**, or **character special file**, provides
+	unbuffered, direct access to the hardware device"
+	\cite{WikipediaContributors2018a3};
++ it can also request for read and write operations to align to block
+	boundaries (or otherwise) \cite{WikipediaContributors2018a3};
++ block-based hardware typically requires software to read/write aligned
+	blocks \cite{WikipediaContributors2018a3}.
 
-A block device, or block special file, provides software with buffered
+A **block device**, or **block special file**, provides software with buffered
 	access to hardware devices with restrictions on size or alignment
 	\cite{WikipediaContributors2018a3};
-	however, it has no guarantee on performance nor order of data between any
++ however, it has no guarantee on performance nor order of data between any
 	character, byte, nor block, due to the buffering
 	\cite{WikipediaContributors2018a3}.
 
 An operating system can represent hardware devices, such as hard
-	disks, as character/block devices \cite{WikipediaContributors2018a3}.
+	disks, as **character/block devices** \cite{WikipediaContributors2018a3}.
 
-A device node corresponds to a resource allocated by the kernel of the
+A **device node** corresponds to a resource allocated by the kernel of the
 	operating system \cite{WikipediaContributors2018a3}.
 
-A pseudo-device is a device node in UNIX-like systems that do not
-	correspond to a physical device \cite{WikipediaContributors2018a3}.
+A **pseudo-device** is a **device node** in UNIX-like systems that do not
+	correspond to a **physical device** \cite{WikipediaContributors2018a3}.
 
-The *mknod* system call, which is a service request made from a computer
+The ***mknod*** system call, which is a service request made from a computer
 	program on the OS kernel, creates nodes in the file system tree
 	\cite{WikipediaContributors2018a3};
 	such nodes can be moved or deleted using file system system calls
