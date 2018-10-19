@@ -337,7 +337,7 @@ A **surrogate key** is an attribute that functions as a key
 		that are used to identify primary keys.
 
 Even though the relational database model (based on **relational calculus** and
-	relational algebra) does not distinguish keys based on whether they are
+	**relational algebra**) does not distinguish keys based on whether they are
 	primary keys, the SQL computer language standard has a feature for
 	primary keys to provide a convenience to the application engineer
 	\cite{WikipediaContributors2018a6}.
