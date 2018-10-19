@@ -139,10 +139,10 @@ The relational data model is the most popular database model (and data model);
 
 ##	Ancillary Definitions
 
-"A database segment is a database object that occupies physical space,
+"A **database segment** is a database object that occupies physical space,
 	such as table data and indexes/indices" \cite{WikipediaContributors2018z}.
 
-A tablespace is a storage location of the actual data underlying database
+A **tablespace** is a storage location of the actual data underlying database
 	objects (database storage locations) \cite{WikipediaContributors2018z};
 	it provides a layer of abstraction between the logical and physical
 		data models \cite{WikipediaContributors2018z};
@@ -297,13 +297,19 @@ A surrogate key is an attribute that functions as a key
 	of database application design use surrogate primary keys to
 	further facilitate information processing
 	\cite{WikipediaContributors2018a6}.
-+ For databases based on the hybrid object-relational model, which is
++ For databases based on the hybrid object-relational model (OM), which is
 	based on the object-oriented programming model and the relational
 	model, they also use surrogate primary keys to further facilitate
 	information processing \cite{WikipediaContributors2018a6}.
-
-
-
+	- The restrictions on surrogate primary keys are:
+		* Primary keys are immutable (not changed nor reused)
+			\cite{WikipediaContributors2018a6}
+		* Primary keys should be deleted, together with associated
+			record \cite{WikipediaContributors2018a6}
+		* Primary keys should be an anonymous trigger, or numeric
+			identifier \cite{WikipediaContributors2018a6}
+		* Since these restrictions only apply for the relational
+			data model and the object-relational model
 
 
 
