@@ -259,18 +259,18 @@ A **view** can function as a relational table, although its data would be
 + an **external table** can be considered as a view
 		\cite{WikipediaContributors2018a5}.
 
-For the relational model of database, a table can be considered as a
-	relation, even though they are not strictly equivalent
+For the **relational model of database**, a **table** can be considered as a
+	**relation**, even though they are not strictly equivalent
 	\cite{WikipediaContributors2018a5}.
 
-In a hierarchical database, which is a non-relational system, a table
-	has a distant counterpart known as structured file, which can
-	have repeating information in a row (i.e., the child data segments)
+In a **hierarchical database**, which is a **non-relational system**, a
+	**table** has a distant counterpart known as **structured file**, which can
+	have repeating information in a row (i.e., the **child data segments**)
 	\cite{WikipediaContributors2018a5};
-	"data are stored [as a] sequence of physical records"
-		\cite{WikipediaContributors2018a5}.
++ "data are stored [as a] sequence of physical records"
+	\cite{WikipediaContributors2018a5}.
 
-A primary key is a specific choice of columns that can uniquely
+A **primary key** is a specific choice of columns that can uniquely
 	identify rows \cite{WikipediaContributors2018a5} (or identify
 	a tuple in a relation \cite{WikipediaContributors2018a6}).
 	- For "the relational model in databases, a primary key is a specific
