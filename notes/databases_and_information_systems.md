@@ -292,15 +292,27 @@ A surrogate key is an attribute that functions as a key
 	- Similarly, a surrogate key can be chosen instead of any of the
 		multiple candidate keys that do not provide an advantage over
 		the other candidate keys \cite{WikipediaContributors2018a6}.
-	- Since primary keys are chosen to facilitate information processing
-		during software development or a data science project, many
-		cases of database application design use surrogate primary
-		keys to further facilitate information processing
-		\cite{WikipediaContributors2018a6}.
-- For databases based on the hybrid object-relational model, which is
-	based on the object-oriented programming model and the relational
-	model, 
++ Since primary keys are chosen to facilitate information processing
+	during software development or a data science project, many cases
+	of database application design use surrogate primary keys to
+	further facilitate information processing
 	\cite{WikipediaContributors2018a6}.
++ For databases based on the hybrid object-relational model, which is
+	based on the object-oriented programming model and the relational
+	model, they also use surrogate primary keys to further facilitate
+	information processing \cite{WikipediaContributors2018a6}.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 "In relational database terms, a primary key does not differ in form
