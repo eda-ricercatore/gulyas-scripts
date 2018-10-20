@@ -313,8 +313,16 @@ A **natural key** is a primary key consisting of real-world observables
 + Use natural keys in business-related columns
 	\cite{WikipediaContributors2018a7}.
 + "A natural key is a **candidate key** that has a logical relationship
-	to the attributes within that row" \cite{WikipediaContributors2018a7}
-
+	to the attributes within that row" \cite{WikipediaContributors2018a7}.
++ The primary advantage of a natural key over a surrogate key is its
+	existence \cite{WikipediaContributors2018a7};
+	- hence, no new, artificial column has to be added to the schema to
+		create the surrogate key \cite{WikipediaContributors2018a7}.
+	- this has no significant meaning outside the database environment
+		\cite{WikipediaContributors2018a7}.
+	- When a natural key can be identified, selection of the natural key
+		over the surrogate primary keys can simplify data processing
+		\cite{WikipediaContributors2018a7}.
 
 
 A **surrogate key** is an attribute that functions as a key
