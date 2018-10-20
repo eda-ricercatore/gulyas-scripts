@@ -280,10 +280,25 @@ A **primary key** is a specific choice of columns that can uniquely
 + Mathematically, "a primary key is a choice of candidate key (i.e.,
 	a minimal superkey), and other candidate kets are **alternate keys**
 	\cite{WikipediaContributors2018a6}.
-+ 
++ Assign an unique index to each alternate key, so that we can use the
+	unique index to determine if duplicates (of alternate keys) exist
+	\cite{WikipediaContributors2018a6};
+	- use this to prevent insertion/addition of duplicate alternate keys
+		\cite{WikipediaContributors2018a6}; and
+	- unique columns in databases cannot include duplicates
+		\cite{WikipediaContributors2018a6}.
+	- for a single-table select, or filtering in a *where* [command/] clause,
+		we can use alternate keys as primary keys
+		\cite{WikipediaContributors2018a6}.
+	- However, alternate keys cannot be used as primary keys
+		\cite{WikipediaContributors2018a6}.
+
+
 
 A **natural key** is a primary key consisting of real-world observables
 	\cite{WikipediaContributors2018a6}.
+
+
 
 A **surrogate key** is an attribute that functions as a key
 	\cite{WikipediaContributors2018a6}.
