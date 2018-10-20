@@ -280,6 +280,7 @@ A **primary key** is a specific choice of columns that can uniquely
 + Mathematically, "a primary key is a choice of candidate key (i.e.,
 	a minimal superkey), and other candidate kets are **alternate keys**
 	\cite{WikipediaContributors2018a6}.
++ 
 
 A **natural key** is a primary key consisting of real-world observables
 	\cite{WikipediaContributors2018a6}.
@@ -301,7 +302,7 @@ A **surrogate key** is an attribute that functions as a key
 	of database application design use surrogate primary keys to
 	further facilitate information processing
 	\cite{WikipediaContributors2018a6}.
-+ For databases based on the hybrid **object-relational model** (**OM**),
++ For databases based on the hybrid **object-relational model** (**ORM**),
 	which is based on the object-oriented programming model and the
 	relational model, they also use surrogate primary keys to further
 	facilitate information processing \cite{WikipediaContributors2018a6}.
@@ -315,7 +316,11 @@ A **surrogate key** is an attribute that functions as a key
 		* These restrictions only apply for the object-relational model,
 			such as the **active record pattern**
 			\cite{WikipediaContributors2018a6}
-
+		* Hence, for databases based on the relational model, or SQL
+			standard, do due diligence when deciding which key should
+			be an immutable primary key \cite{WikipediaContributors2018a6};
+			some DBMSes do not allow usage of the **UPDATE** SQL statement
+				to change values of the primary keys.
 
 
 
