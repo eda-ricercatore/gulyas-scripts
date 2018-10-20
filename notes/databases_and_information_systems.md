@@ -323,6 +323,8 @@ A **natural key** is a primary key consisting of real-world observables
 	- When a natural key can be identified, selection of the natural key
 		over the surrogate primary keys can simplify data processing
 		\cite{WikipediaContributors2018a7}.
+	- It ensure that there exists only a row per key, since this is
+		based on a real-world observation \cite{WikipediaContributors2018a7}.
 
 
 A **surrogate key** is an attribute that functions as a key
