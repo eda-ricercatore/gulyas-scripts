@@ -307,13 +307,13 @@ A **primary key** is a specific choice of columns that can uniquely
 
 A **natural key** is a primary key consisting of real-world observables
 	\cite{WikipediaContributors2018a6}.
-+ A natural key (or business key) is a unique key in databases based on
-	relational model, and is based on real-world attributes
-	\cite{WikipediaContributors2018a7}.
++ A natural key (or, **business key** or **domain key**) is a unique key
+	in databases based on relational model, and is based on real-world
+	attributes \cite{WikipediaContributors2018a7}.
 + Use natural keys in business-related columns
 	\cite{WikipediaContributors2018a7}.
-+ A natural key is a **candidate key**
-	\cite{WikipediaContributors2018a7}
++ "A natural key is a **candidate key** that has a logical relationship
+	to the attributes within that row" \cite{WikipediaContributors2018a7}
 
 
 
