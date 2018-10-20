@@ -277,7 +277,7 @@ A **primary key** is a specific choice of columns that can uniquely
 	choice of a minimal set of attributes (columns) that uniquely
 	specify a tuple (row) in a relation (table)"
 	\cite{WikipediaContributors2018a6};
-+ Mathematically, "a primary key is a choice of candidate key (i.e.,
++ Mathematically, "a primary key is a choice of **candidate key** (i.e.,
 	a minimal superkey), and other candidate keys are **alternate keys**
 	\cite{WikipediaContributors2018a6}.
 + Assign an unique index to each alternate key, so that we can use the
@@ -312,7 +312,7 @@ A **natural key** is a primary key consisting of real-world observables
 	\cite{WikipediaContributors2018a7}.
 + Use natural keys in business-related columns
 	\cite{WikipediaContributors2018a7}.
-+ A natural key is a candidate key
++ A natural key is a **candidate key**
 	\cite{WikipediaContributors2018a7}
 
 
