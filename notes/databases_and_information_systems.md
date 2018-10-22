@@ -326,6 +326,10 @@ A **natural key** is a primary key consisting of real-world observables
 	- It ensure that there exists only a row per key, since this is
 		based on a real-world observation \cite{WikipediaContributors2018a7}.
 
+**Add the following references to my notes: WikipediaContributors2018a10, WikipediaContributors2018a9, WikipediaContributors2018a8**
+
+
+
 
 A **surrogate key** is an attribute that functions as a key
 	\cite{WikipediaContributors2018a6}.
