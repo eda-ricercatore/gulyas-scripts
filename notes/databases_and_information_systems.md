@@ -329,8 +329,28 @@ A **natural key** is a primary key consisting of real-world observables
 	- Open-world assumption (OWA) \cite{WikipediaContributors2018a8}
 	- Closed-world assumption (CWA) \cite{WikipediaContributors2018a9}
 	- Single version of the truth (SVOT) \cite{WikipediaContributors2018a10}
-
-
+		* A data warehouse that has a single centralized database, or a
+			distributed synchronized database, to store "all of an organization's data in a consistent and non-redundant form."
+	- Single source of truth (SSOT) \cite{WikipediaContributors2018a11}
+		* A method to "structure information models and associated data
+			schema," so "that every data element is stored exactly once"
+			\cite{WikipediaContributors2018a11}.
+		* "Always source a particular piece of information from one place"
+			\cite{WikipediaContributors2018a10}.
+		* Use referencing to link to data elements in the SSOT databases,
+			which are based on the relational schema or distant federated
+			databases, so that "all other locations of the data" refer/point
+			"to the primary `source of truth' location"
+			\cite{WikipediaContributors2018a11};
+			- this avoids the need to keep duplicates of a data element updated,
+				by allowing value from the only/primary location to
+				propagate throughout the computer network
+				\cite{WikipediaContributors2018a11};
+			- it also avoids the risks of "incorrectly linked duplicates",
+				and denormalizing data elements (see
+				database denormalization \cite{WikipediaContributors2018a12}).
+			- Usage of pointers also covers copying and updating database
+				tables, rows, and cells \cite{WikipediaContributors2018a11}
 
 
 A **surrogate key** is an attribute that functions as a key
