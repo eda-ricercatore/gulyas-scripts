@@ -413,7 +413,10 @@ A **surrogate key** is an attribute that functions as a key
 			\cite{WikipediaContributors2011}
 + The attributes/features/qualities/characteristics of a surrogate key are
 	\cite{WikipediaContributors2018a13}:
-	- a unique 
+	- a unique, system-wide value that is never reused
+	- system generated value
+	- immutable value that cannot be modified by users or applications
+	- 
 
 
 
