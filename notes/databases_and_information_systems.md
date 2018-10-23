@@ -362,7 +362,16 @@ A **surrogate key** is an attribute that functions as a key
 			standard, do due diligence when deciding which key should
 			be an immutable primary key \cite{WikipediaContributors2018a6};
 			some DBMSes do not allow usage of the **UPDATE** SQL statement
-				to change values of the primary keys.
+				to change values of the primary keys
+				\cite{WikipediaContributors2018a6}.
+
+
+
+
+
+
+
+
 
 
 
