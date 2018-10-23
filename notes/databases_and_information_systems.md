@@ -307,9 +307,9 @@ A **primary key** is a specific choice of columns that can uniquely
 
 A **natural key** is a primary key consisting of real-world observables
 	\cite{WikipediaContributors2018a6}.
-+ A natural key (or, **business key** or **domain key**) is a unique key
-	in databases based on relational model, and is based on real-world
-	attributes \cite{WikipediaContributors2018a7}.
++ A natural key (or, **business key** or **domain key**) is a **unique key**
+	in database design that uses the relational model, and is based on
+	real-world attributes \cite{WikipediaContributors2018a7}.
 + Use natural keys in business-related columns
 	\cite{WikipediaContributors2018a7}.
 + "A natural key is a **candidate key** that has a logical relationship
@@ -323,10 +323,12 @@ A **natural key** is a primary key consisting of real-world observables
 	- When a natural key can be identified, selection of the natural key
 		over the surrogate primary keys can simplify data processing
 		\cite{WikipediaContributors2018a7}.
-	- It ensure that there exists only a row per key, since this is
+	- It ensures that there exists only a row per key, since this is
 		based on a real-world observation \cite{WikipediaContributors2018a7}.
-
-**Add the following references to my notes: WikipediaContributors2018a10, WikipediaContributors2018a9, WikipediaContributors2018a8**
++ I noted some flimsy connection to the following references:
+	- Open-world assumption (OWA) \cite{WikipediaContributors2018a8}
+	- Closed-world assumption (CWA) \cite{WikipediaContributors2018a9}
+	- Single version of the truth (SVOT) \cite{WikipediaContributors2018a10}
 
 
 
