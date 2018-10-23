@@ -416,7 +416,10 @@ A **surrogate key** is an attribute that functions as a key
 	- a unique, system-wide value that is never reused
 	- system generated value
 	- immutable value that cannot be modified by users or applications
-	- 
+	- value without semantic significance
+	- value is not accessible by users or applications
+	- value is not comprised/combined/composed, and cannot be decomposed into constituents, and not a synthesis
+
 
 
 
