@@ -355,6 +355,14 @@ A **natural key** is a primary key consisting of real-world observables
 
 A **surrogate key** is an attribute that functions as a key
 	\cite{WikipediaContributors2018a6}.
++ Synonyms of "surrogate key" are \cite{WikipediaContributors2018a13}:
+	- synthetic key
+	- entity identifier
+	- system-generated key
+	- database sequence number
+	- factless key
+	- technical key
+	- arbitrary unique identifier
 + In certain circumstances, during software development or a data
 	science project, it can be inconvenient to use a natural key
 	to identify a tuple in a relation, since it may require multiple
@@ -374,7 +382,8 @@ A **surrogate key** is an attribute that functions as a key
 	which is based on the object-oriented programming model and the
 	relational model, they also use surrogate primary keys to further
 	facilitate information processing \cite{WikipediaContributors2018a6}.
-	- The restrictions on surrogate primary keys are:
+	- The restrictions on surrogate primary keys are
+		\cite{WikipediaContributors2018a6}:
 		* Primary keys are immutable (not changed nor reused)
 			\cite{WikipediaContributors2018a6}
 		* Primary keys should be deleted, together with associated
