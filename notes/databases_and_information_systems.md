@@ -440,9 +440,12 @@ In a temporal database, each row has a natural/business key and the
 	surrogate key, so that the former has a mapping to an unique entity
 	in modeled world and the latter has a mapping to a unique row in
 	the database \cite{WikipediaContributors2018a13}.
-
-Each row in the table/database represents the values of attributes for
++ Each row in the table/database represents the values of attributes for
 	a time slice, and indicate the life span of the entity
+	\cite{WikipediaContributors2018a13}.
++ Hence, for a natural/business key or unique entity in modeled world,
+	it can have multiple entries in a temporal database (since a person
+	or an organization can have multiple business entities)
 	\cite{WikipediaContributors2018a13}.
 
 
