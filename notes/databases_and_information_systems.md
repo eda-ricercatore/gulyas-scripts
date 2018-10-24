@@ -421,10 +421,25 @@ A **surrogate key** is an attribute that functions as a key
 	- value is not accessible by users or applications
 	- value is not comprised/combined/composed of values from different
 		domains, and cannot be decomposed into constituents, and not
-		a synthesis of application data in the database.
+		a synthesis/derivation of application data in the database.
 	- a surrogate key can be used as a primary key
++ The surrogate key can exist as a separate from other database/system generated
+	values, such as universally unique identifier (UUID) and
+	globally unique identifier (GUID) \cite{WikipediaContributors2018a13,WikipediaContributors2018a14}.
++ Surrogate keys are typically sequential numbers
+	\cite{WikipediaContributors2018a13}.
++ By designing the surrogate key to be independent from all fields
+	of the database, changes in the data values or design of the database
+	would not affect the value of the surrogate key
+	\cite{WikipediaContributors2018a13};
+	such designs of the database facilitate software development using
+		agile development processes and ensure that the surrogate keys
+		remain unique \cite{WikipediaContributors2018a13}.
 
-In a temporal database, each row has a primary key and the 
+In a temporal database, each row has a natural/business key and the
+	surrogate key, so that the former has a mapping to an unique entity
+	in modeled world and the latter has a mapping to a unique row in
+	the database \cite{WikipediaContributors2018a13}.
 
 
 
