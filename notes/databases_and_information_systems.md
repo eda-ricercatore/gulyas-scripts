@@ -146,9 +146,9 @@ The **relational data model** is the most popular database model (and data
 
 
 
-A storage record is a group of fields, data, or words
+A **storage record** is a group of fields, data, or words
 	\cite{WikipediaContributors2016m}
-+ A record is "a self-contained collection of information about a single
++ A **record** is "a self-contained collection of information about a single
 	object", or a collection of distinct items
 	\cite{WikipediaContributors2016m}.
 
