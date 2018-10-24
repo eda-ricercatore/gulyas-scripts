@@ -435,6 +435,10 @@ A **surrogate key** is an attribute that functions as a key
 	such designs of the database facilitate software development using
 		agile development processes and ensure that the surrogate keys
 		remain unique \cite{WikipediaContributors2018a13}.
++ Advantages of surrogate keys \cite{WikipediaContributors2018a13}:
+	- immutability of surrogate keys, unlike primary keys and natural keys
+	- requirement changes, 
+
 
 In a temporal database, each row has a natural/business key and the
 	surrogate key, so that the former has a mapping to an unique entity
