@@ -437,7 +437,14 @@ A **surrogate key** is an attribute that functions as a key
 		remain unique \cite{WikipediaContributors2018a13}.
 + Advantages of surrogate keys \cite{WikipediaContributors2018a13}:
 	- immutability of surrogate keys, unlike primary keys and natural keys
-	- requirement changes, 
+	- requirement changes, which may affect natural keys, would not affect
+		surrogate keys;
+		merging databases may affect natural keys, but not surrogate keys
+	- performance (in terms of lookup time... access time???) of surrogate
+		keys is better than natural/business keys
+		- This is because the former only depends on finding records with
+			one column (unique, immutable surrogate key), while the latter
+			depends on finding records {CITE THIS!!!} with multiple columns.
 
 
 In a temporal database, each row has a natural/business key and the
