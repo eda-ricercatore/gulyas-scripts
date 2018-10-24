@@ -141,6 +141,17 @@ The **relational data model** is the most popular database model (and data
 
 ##	Ancillary Definitions
 
+
+
+
+
+
+A storage record is a group of fields, data, or words
+	\cite{WikipediaContributors2016m}
++ A record is "a self-contained collection of information about a single
+	object", or a collection of distinct items
+	\cite{WikipediaContributors2016m}.
+
 "A **database segment** is a database object that occupies physical space,
 	such as table data and indexes/indices" \cite{WikipediaContributors2018z}.
 
