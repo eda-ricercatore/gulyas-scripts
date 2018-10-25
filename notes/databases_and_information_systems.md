@@ -213,6 +213,11 @@ A **storage record** is a group of fields, data, or words
 	- A record type is a data type that describes a set of variables
 		(i.e., the variable name is the identifier/label of the field) and
 		their values \cite{WikipediaContributors2018a16}.
+	- A record has a set of keys, which can be an empty set
+		\cite{WikipediaContributors2018a16}.
+		* A key is an identifier for a field, or a set of fields
+			\cite{WikipediaContributors2018a16}.
+
 
 "A **database segment** is a database object that occupies physical space,
 	such as table data and indexes/indices" \cite{WikipediaContributors2018z}.
@@ -363,7 +368,8 @@ A **primary key** is a specific choice of columns that can uniquely
 		\cite{WikipediaContributors2018a6}.
 	- However, alternate keys cannot be used as primary keys
 		\cite{WikipediaContributors2018a6}.
-
++ A **primary key** is a unique key that is also known as a **record key**
+	\cite{WikipediaContributors2018a16}.
 
 
 
