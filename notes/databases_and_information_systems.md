@@ -210,6 +210,9 @@ A **storage record** is a group of fields, data, or words
 			+ This assumes that the array can be a dynamic array, which
 				is also known as growable array, resizable array, dynamic
 				table, mutable array, or array list.
+	- A record type is a data type that describes a set of variables
+		(i.e., the variable name is the identifier/label of the field) and
+		their values \cite{WikipediaContributors2018a16}.
 
 "A **database segment** is a database object that occupies physical space,
 	such as table data and indexes/indices" \cite{WikipediaContributors2018z}.
