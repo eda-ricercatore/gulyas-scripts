@@ -154,8 +154,13 @@ A **storage record** is a group of fields, data, or words
 + A row (or tuple) "represents a single, implicitly structured data item
 	in a table," or "a set of related data" \cite{WikipediaContributors2018a15}
 	- Each row in a table (or relational database) has the same structure
-		\cite{WikipediaContributors2018a15}
-	- The implicit structure for a row is a
+		\cite{WikipediaContributors2018a15}.
+	- Each row in a table represents a set of related data
+		\cite{WikipediaContributors2018a15}.
+	- The implicit structure and significance of a row implies a sequence
+		of data values, or a sequence of sets of data values, such that
+		each column in that row has a value, or a set of data values
+		\cite{WikipediaContributors2018a15}.
 
 "A **database segment** is a database object that occupies physical space,
 	such as table data and indexes/indices" \cite{WikipediaContributors2018z}.
