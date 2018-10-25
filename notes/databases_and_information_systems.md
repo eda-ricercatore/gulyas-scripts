@@ -151,7 +151,7 @@ A **storage record** is a group of fields, data, or words
 + A **record** is "a self-contained collection of information about a single
 	object", or a collection of distinct items
 	\cite{WikipediaContributors2016m}.
-+ A row (or tuple) "represents a single, implicitly structured data item
++ A **row** (or **tuple**) "represents a single, implicitly structured data item
 	in a table," or "a set of related data" \cite{WikipediaContributors2018a15}
 	- Each row in a table (or relational database) has the same structure
 		\cite{WikipediaContributors2018a15}.
@@ -303,7 +303,7 @@ A **primary key** is a specific choice of columns that can uniquely
 	specify a tuple (row) in a relation (table)"
 	\cite{WikipediaContributors2018a6};
 + Mathematically, "a primary key is a choice of **candidate key** (i.e.,
-	a minimal superkey), and other candidate keys are **alternate keys**
+	a **minimal superkey**), and other candidate keys are **alternate keys**
 	\cite{WikipediaContributors2018a6}.
 + Assign an unique index to each alternate key, so that we can use the
 	unique index to determine if duplicates (of alternate keys) exist
@@ -351,12 +351,13 @@ A **natural key** is a primary key consisting of real-world observables
 	- It ensures that there exists only a row per key, since this is
 		based on a real-world observation \cite{WikipediaContributors2018a7}.
 + I noted some flimsy connection to the following references:
-	- Open-world assumption (OWA) \cite{WikipediaContributors2018a8}
-	- Closed-world assumption (CWA) \cite{WikipediaContributors2018a9}
-	- Single version of the truth (SVOT) \cite{WikipediaContributors2018a10}
+	- **Open-world assumption** (**OWA**) \cite{WikipediaContributors2018a8}
+	- **Closed-world assumption** (**CWA**) \cite{WikipediaContributors2018a9}
+	- **Single version of the truth** (**SVOT**)
+		\cite{WikipediaContributors2018a10}
 		* A data warehouse that has a single centralized database, or a
 			distributed synchronized database, to store "all of an organization's data in a consistent and non-redundant form."
-	- Single source of truth (SSOT) \cite{WikipediaContributors2018a11}
+	- **Single source of truth** (**SSOT**) \cite{WikipediaContributors2018a11}
 		* A method to "structure information models and associated data
 			schema," so "that every data element is stored exactly once"
 			\cite{WikipediaContributors2018a11}.
