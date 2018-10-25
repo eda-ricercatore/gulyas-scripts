@@ -204,9 +204,12 @@ A **storage record** is a group of fields, data, or words
 			a collection \cite{WikipediaContributors2018a16}.
 		* A record is different from an array, since each field had a name
 			and can be of a different type in comparison to other fields
-			\cite{WikipediaContributors2018a16};
-			an array does not have names for each element, and all the
-				elements of the array must have the same data type.
+			\cite{WikipediaContributors2018a16}
+			+ An array does not have names for each element, and all the
+				elements of the array must have the same data type
+			+ This assumes that the array can be a dynamic array, which
+				is also known as growable array, resizable array, dynamic
+				table, mutable array, or array list.
 
 "A **database segment** is a database object that occupies physical space,
 	such as table data and indexes/indices" \cite{WikipediaContributors2018z}.
