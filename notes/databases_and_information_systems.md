@@ -169,7 +169,7 @@ A **storage record** is a group of fields, data, or words
 		data type \cite{WikipediaContributors2018a15}.
 + A **record** (or **structure**, **struct**, or **compound data**)
 	is a basic **data structure** \cite{WikipediaContributors2018a16}.
-	- Rows of a database and spreadsheets are
+	- **Rows** of a database and spreadsheets are (also) known as **records**.
 	- "**Data structures** serve as the basis for **abstract data types**
 		(**ADT**). `The ADT defines the logical form of the data type. The data
 		structure implements the physical form of the data type.'
@@ -186,17 +186,20 @@ A **storage record** is a group of fields, data, or words
 			contrasts with data structures, which are concrete representations
 			of data, and are the point of view of an implementer, not a user."
 			\cite{WikipediaContributors2018a18}
-		* "Formally, an ADT may be defined as a "class of objects whose logical
-		behavior is defined by a set of values and a set of operations";[1]
-		this is analogous to an algebraic structure in mathematics. What is
-		meant by `behavior' varies by author, with the two main types of formal
-		specifications for behavior being axiomatic (algebraic) specification
-		and an abstract model;[2] these correspond to axiomatic semantics and
-		operational semantics of an abstract machine, respectively. Some
-		authors also include the computational complexity (`cost'), both in
-		terms of time (for computing operations) and space (for representing
-		values)."
-
+		* "Formally, an **ADT** may be defined as a "class of objects whose
+			logical behavior is defined by a set of values and a set of
+			operations";[1] this is analogous to an algebraic structure in
+			mathematics. What is meant by `behavior' varies by author, with the
+			two main types of formal specifications for behavior being axiomatic
+			(algebraic) specification and an abstract model;[2] these
+			correspond to axiomatic semantics and operational semantics of an
+			abstract machine, respectively. Some authors also include the
+			computational complexity (`cost'), both in terms of time (for
+			computing operations) and space (for representing values)."
+			\cite{WikipediaContributors2018a18}
+	- A "**record** is a collection of fields" (or, members or elements),
+		which are fixed in "number and sequence" and the fields can have
+		different data types \cite{WikipediaContributors2018a16}.
 
 "A **database segment** is a database object that occupies physical space,
 	such as table data and indexes/indices" \cite{WikipediaContributors2018z}.
