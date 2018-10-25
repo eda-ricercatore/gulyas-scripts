@@ -257,7 +257,8 @@ The main categories of query languages are \cite{WikipediaContributors2018v}:
 	(identifiable by name) \cite{WikipediaContributors2018a5,WikipediaContributors2018a15};
 + the number of columns are specified (and fixed), and the table can
 	have any number of rows \cite{WikipediaContributors2018a5};
-+ for any {row, column} entry, it can have multiple values;
++ for any {row, column} entry, it can have multiple values
+	\cite{WikipediaContributors2018a5};
 + a table is defined for relational databases and flat-file databases
 	\cite{WikipediaContributors2018a5}.
 + A **table** can be used to describe a **relation**, which is a set without
