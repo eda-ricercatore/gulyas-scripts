@@ -158,9 +158,15 @@ A **storage record** is a group of fields, data, or words
 	- Each row in a table represents a set of related data
 		\cite{WikipediaContributors2018a15}.
 	- The implicit structure and significance of a row implies a sequence
-		of data values, or a sequence of sets of data values, such that
-		each column in that row has a value, or a set of data values
+		of data values (or a sequence of sets of data values) such that
+		each column in that row has a value (or a set of data values)
 		\cite{WikipediaContributors2018a15}.
+	- A row is a relvar that is comprised of a set of two-tuples, where each
+		two-tuple consist of the name of the appropriate column and the value
+		associated with this row for that column
+		\cite{WikipediaContributors2018a15}.
+	- Each column of a row/table requires data value(s) of a specific
+		data type \cite{WikipediaContributors2018a15}.
 
 "A **database segment** is a database object that occupies physical space,
 	such as table data and indexes/indices" \cite{WikipediaContributors2018z}.
