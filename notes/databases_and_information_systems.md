@@ -189,12 +189,12 @@ A **storage record** is a group of fields, data, or words
 		* "Formally, an **ADT** may be defined as a "class of objects whose
 			logical behavior is defined by a set of values and a set of
 			operations";[1] this is analogous to an algebraic structure in
-			mathematics. What is meant by `behavior' varies by author, with the
+			mathematics. What is meant by 'behavior' varies by author, with the
 			two main types of formal specifications for behavior being axiomatic
 			(algebraic) specification and an abstract model;[2] these
 			correspond to axiomatic semantics and operational semantics of an
 			abstract machine, respectively. Some authors also include the
-			computational complexity (`cost'), both in terms of time (for
+			computational complexity ('cost'), both in terms of time (for
 			computing operations) and space (for representing values)."
 			\cite{WikipediaContributors2018a18}
 	- A "**record** is a collection of fields" (or, members or elements),
