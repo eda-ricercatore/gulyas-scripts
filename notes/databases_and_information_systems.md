@@ -200,6 +200,8 @@ A **storage record** is a group of fields, data, or words
 	- A "**record** is a collection of fields" (or, members or elements),
 		which are fixed in "number and sequence" and the fields can have
 		different data types \cite{WikipediaContributors2018a16}.
+		* Note that a record/element is a collection, not an element of
+			a collection \cite{WikipediaContributors2018a16}.
 
 "A **database segment** is a database object that occupies physical space,
 	such as table data and indexes/indices" \cite{WikipediaContributors2018z}.
