@@ -151,6 +151,11 @@ A **storage record** is a group of fields, data, or words
 + A **record** is "a self-contained collection of information about a single
 	object", or a collection of distinct items
 	\cite{WikipediaContributors2016m}.
++ A row (or tuple) "represents a single, implicitly structured data item
+	in a table," or "a set of related data" \cite{WikipediaContributors2018a15}
+	- Each row in a table (or relational database) has the same structure
+		\cite{WikipediaContributors2018a15}
+	- The implicit structure for a row is a
 
 "A **database segment** is a database object that occupies physical space,
 	such as table data and indexes/indices" \cite{WikipediaContributors2018z}.
@@ -249,20 +254,17 @@ The main categories of query languages are \cite{WikipediaContributors2018v}:
 
 "A **table** is a collection of related data" stored in a database, using
 	a structured format consists of (horizontal) rows and (vertical) columns
-	(identifiable by name) \cite{WikipediaContributors2018a5};
+	(identifiable by name) \cite{WikipediaContributors2018a5,WikipediaContributors2018a15};
 + the number of columns are specified (and fixed), and the table can
-	have any number of columns \cite{WikipediaContributors2018a5};
+	have any number of rows \cite{WikipediaContributors2018a5};
 + for any {row, column} entry, it can have multiple values;
 + a table is defined for relational databases and flat-file databases
 	\cite{WikipediaContributors2018a5}.
-
-
-A **table** can be used to describe a **relation**, which is a set without
++ A **table** can be used to describe a **relation**, which is a set without
 	duplicates \cite{WikipediaContributors2018a5};
-+ however, most tables are **multisets** (or **bags**)
+	- however, most tables are **multisets** (or **bags**)
 		\cite{WikipediaContributors2018a5}.
-
-A table can have **associated metadata**, such as constraints on the table
++ A table can have **associated metadata**, such as constraints on the table
 	or values for certain columns \cite{WikipediaContributors2018a5}.
 
 A **view** can function as a relational table, although its data would be
