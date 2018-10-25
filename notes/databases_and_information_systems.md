@@ -167,6 +167,36 @@ A **storage record** is a group of fields, data, or words
 		\cite{WikipediaContributors2018a15}.
 	- Each column of a row/table requires data value(s) of a specific
 		data type \cite{WikipediaContributors2018a15}.
++ A **record** (or **structure**, **struct**, or **compound data**)
+	is a basic **data structure** \cite{WikipediaContributors2018a16}.
+	- Rows of a database and spreadsheets are
+	- "**Data structures** serve as the basis for **abstract data types**
+		(**ADT**). `The ADT defines the logical form of the data type. The data
+		structure implements the physical form of the data type.'
+		\cite{WikipediaContributors2018a17}"
+		* "An **abstract data type**, a data structure that is defined
+			indirectly by the operations that may be performed on it, and the
+			mathematical properties of those operations (including their space
+			and time cost)" \cite{WikipediaContributors2018a17}
+		* "In computer science, an **abstract data type** (**ADT**) is a
+			mathematical model for data types, where a data type is defined by
+			its behavior (semantics) from the point of view of a user of the
+			data, specifically in terms of possible values, possible operations
+			on data of this type, and the behavior of these operations. This
+			contrasts with data structures, which are concrete representations
+			of data, and are the point of view of an implementer, not a user."
+			\cite{WikipediaContributors2018a18}
+		* "Formally, an ADT may be defined as a "class of objects whose logical
+		behavior is defined by a set of values and a set of operations";[1]
+		this is analogous to an algebraic structure in mathematics. What is
+		meant by `behavior' varies by author, with the two main types of formal
+		specifications for behavior being axiomatic (algebraic) specification
+		and an abstract model;[2] these correspond to axiomatic semantics and
+		operational semantics of an abstract machine, respectively. Some
+		authors also include the computational complexity (`cost'), both in
+		terms of time (for computing operations) and space (for representing
+		values)."
+
 
 "A **database segment** is a database object that occupies physical space,
 	such as table data and indexes/indices" \cite{WikipediaContributors2018z}.
