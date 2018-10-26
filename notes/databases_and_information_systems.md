@@ -220,6 +220,8 @@ A **storage record** is a group of fields, data, or words
 		\cite{WikipediaContributors2018a16}.
 		* A **key** is an identifier for a field, or a set of fields
 			\cite{WikipediaContributors2018a16}.
++ A record is a set of unordered elements
+	\cite{WikipediaContributors2018a19}
 + A **self-defining record** is a self-contained collection of information
 	that "identify the record type and locate information within the record",
 	so that "elements can be stored in any order or omitted"
@@ -230,6 +232,41 @@ A **storage record** is a group of fields, data, or words
 
 
 
+A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
+	is a member of a data domain D_i \cite{WikipediaContributors2018a1}.
++ For any tuple of a relation, its elements (or **attribute value**s) are not
+	ordered \cite{WikipediaContributors2018a1};
+	note that, mathematically, a tuple is a finite ordered list/sequence
+		of elements \cite{WikipediaContributors2018a19}.
+	- An **attribute** (or **data type** or **type**) is a pair of a name
+		and a domain \cite{WikipediaContributors2018a1}.
+	- An **attribute value** is a pair of an attribute name and an element
+		of the attribute's domain \cite{WikipediaContributors2018a1}.
+	- A **tuple** is a set of unique attribute values, such that no pair
+		of attribute values (or any two distinct attribute values)
+		\cite{WikipediaContributors2018a1}
+		* A tuple can also be described as a function that maps names to
+			values \cite{WikipediaContributors2018a1}.
+	- A **heading** is "a set of attributes" that has "no two distinct
+		elements" [that] have the same name" \cite{WikipediaContributors2018a1}.
+	- A **body** is a set of tuples that have the same heading
+		\cite{WikipediaContributors2018a1}.
+	- Hence, a **relation** is a pair of a heading and a body, such that "the
+		heading of the relation" is "also the heading of each tuple in the
+		body [of the relation]" \cite{WikipediaContributors2018a1}.
+	- The **degree of a heading** is the number of attributes in the heading
+		\cite{WikipediaContributors2018a1}.
+	- The degree of a *n*-tuple is the
+		\cite{WikipediaContributors2018a1}.
++ Additional notes
+	- "In mathematics, a **tuple** is a finite ordered list (sequence) of
+		elements" \cite{WikipediaContributors2018a19}.
+	- "A **n-tuple** is an ordered list (or sequence) of *n* elements, where
+		*n* is a non-negative integer" \cite{WikipediaContributors2018a19}.
+	- A 0-tuple is also known as an empty sequence, or empty tuple
+		\cite{WikipediaContributors2018a19}.
+	- There exists only one instance of a 0-tuple
+		\cite{WikipediaContributors2018a19}.
 
 
 "A **database segment** is a database object that occupies physical space,
