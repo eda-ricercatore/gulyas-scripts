@@ -166,8 +166,8 @@ A **storage record** is a group of fields, data, or words
 		associated with this row for that column
 		\cite{WikipediaContributors2018a15}.
 		* A **relvar**, or relation variable, is a variable that is assigned
-			a relation and what 
-			\cite{WikipediaContributors2017a7}
+			a relation and "the relation itself"
+			\cite{WikipediaContributors2017a7}.
 	- Each column of a row/table requires data value(s) of a specific
 		data type \cite{WikipediaContributors2018a15}.
 + A **record** (or **structure**, **struct**, or **compound data**)
