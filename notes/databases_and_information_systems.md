@@ -161,10 +161,13 @@ A **storage record** is a group of fields, data, or words
 		of data values (or a sequence of sets of data values) such that
 		each column in that row has a value (or a set of data values)
 		\cite{WikipediaContributors2018a15}.
-	- A row is a relvar that is comprised of a set of two-tuples, where each
+	- A row is a **relvar** that is comprised of a set of two-tuples, where each
 		two-tuple consist of the name of the appropriate column and the value
 		associated with this row for that column
 		\cite{WikipediaContributors2018a15}.
+		* A **relvar**, or relation variable, is a variable that is assigned
+			a relation and what 
+			\cite{WikipediaContributors2017a7}
 	- Each column of a row/table requires data value(s) of a specific
 		data type \cite{WikipediaContributors2018a15}.
 + A **record** (or **structure**, **struct**, or **compound data**)
