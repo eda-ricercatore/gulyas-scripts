@@ -215,7 +215,7 @@ A **storage record** is a group of fields, data, or words
 		their values \cite{WikipediaContributors2018a16}.
 	- A record has a set of keys, which can be an empty set
 		\cite{WikipediaContributors2018a16}.
-		* A key is an identifier for a field, or a set of fields
+		* A **key** is an identifier for a field, or a set of fields
 			\cite{WikipediaContributors2018a16}.
 
 
@@ -356,6 +356,8 @@ A **primary key** is a specific choice of columns that can uniquely
 + Mathematically, "a primary key is a choice of **candidate key** (i.e.,
 	a **minimal superkey**), and other candidate keys are **alternate keys**
 	\cite{WikipediaContributors2018a6}.
+	- An alternate key is also known as a secondary key
+		\cite{WikipediaContributors2018a16}.
 + Assign an unique index to each alternate key, so that we can use the
 	unique index to determine if duplicates (of alternate keys) exist
 	\cite{WikipediaContributors2018a6};
