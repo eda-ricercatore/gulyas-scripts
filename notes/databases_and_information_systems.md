@@ -217,6 +217,16 @@ A **storage record** is a group of fields, data, or words
 		\cite{WikipediaContributors2018a16}.
 		* A **key** is an identifier for a field, or a set of fields
 			\cite{WikipediaContributors2018a16}.
++ A **self-defining record** is a self-contained collection of information
+	that "identify the record type and locate information within the record",
+	so that "elements can be stored in any order or omitted"
+	\cite{WikipediaContributors2018a16}.
+
+
+
+
+
+
 
 
 "A **database segment** is a database object that occupies physical space,
