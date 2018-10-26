@@ -220,8 +220,8 @@ A **storage record** is a group of fields, data, or words
 		\cite{WikipediaContributors2018a16}.
 		* A **key** is an identifier for a field, or a set of fields
 			\cite{WikipediaContributors2018a16}.
-+ A record is a set of unordered elements
-	\cite{WikipediaContributors2018a19}
++ A record is a set of unordered pairs of a label and a value (or
+	a set of label-accessible elements) \cite{WikipediaContributors2018a19}.
 + A **self-defining record** is a self-contained collection of information
 	that "identify the record type and locate information within the record",
 	so that "elements can be stored in any order or omitted"
@@ -263,10 +263,18 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 		elements" \cite{WikipediaContributors2018a19}.
 	- "A **n-tuple** is an ordered list (or sequence) of *n* elements, where
 		*n* is a non-negative integer" \cite{WikipediaContributors2018a19}.
-	- A 0-tuple is also known as an empty sequence, or empty tuple
-		\cite{WikipediaContributors2018a19}.
+	- A 0-tuple is also known as an empty sequence, empty tuple, null tuple,
+		unit, or empty sequence \cite{WikipediaContributors2018a19}.
 	- There exists only one instance of a 0-tuple
 		\cite{WikipediaContributors2018a19}.
+	- A 1-tuple is a singleton, monuple, or monad
+		\cite{WikipediaContributors2018a19}.
+	- A 2-tuple is an ordered pair, dual, couple, twin, duad, or dyad
+		\cite{WikipediaContributors2018a19}.
+	- A 3-tuple is a triple, triplet, treble, or triad
+		\cite{WikipediaContributors2018a19}.
+	- A n-tuple can be defined as a function, nested ordered pair, nested
+		sets \cite{WikipediaContributors2018a19}.
 
 
 "A **database segment** is a database object that occupies physical space,
