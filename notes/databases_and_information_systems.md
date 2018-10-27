@@ -262,16 +262,16 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 	(**CWA**) \cite{WikipediaContributors2018a9}, a *n*-ary relation is
 	a set of tuples on some set of *n* sets *S_1, S_2, ..., S_n*
 	\cite{WikipediaContributors2018a1}.
-	- This can be understood as an extension of a *n*-adic predicate
-		all and only those *n*-tuples whose values,
-		substituted for corresponding free variables in the predicate
-
+	- This can be understood as an extension of a *n*-adic predicate,
+		for all "*n*-tuples whose values, substituted for corresponding
+		free variables in the predicate, yield propositions that hold true"
+		implies and is implied by values in the relation
 		\cite{WikipediaContributors2018a1}
 	- "All and only spartans are bold" means the following.
 		- $\forall x [B(x) \Leftrightarrow S(x)]$ \cite{rmw2015}
-		- "B(x) \Leftrightarrow S(x)" means that B(x) implies S(x)
-			(B(x) \Rightarrow S(x)) and S(x) implies B(x)
-			(B(x) \Leftarrow S(x), or S(x) \Rightarrow B(x))
+		- The logical biconditional "B(x) \Leftrightarrow S(x)" (if and
+			only if) means that B(x) implies S(x) (B(x) \Rightarrow S(x)) and
+			S(x) implies B(x) (B(x) \Leftarrow S(x), or S(x) \Rightarrow B(x))
 + Additional notes
 	- "In mathematics, a **tuple** is a finite ordered list (sequence) of
 		elements" \cite{WikipediaContributors2018a19}.
