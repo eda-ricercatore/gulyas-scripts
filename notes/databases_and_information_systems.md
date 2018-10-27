@@ -256,8 +256,9 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 		body [of the relation]" \cite{WikipediaContributors2018a1}.
 	- The **degree of a heading** is the number of attributes in the heading
 		\cite{WikipediaContributors2018a1}.
-	- The degree of a *n*-tuple is the
+	- The degree of a *n*-tuple is *n*, *n >= 0*
 		\cite{WikipediaContributors2018a1}.
++ sdsa
 + Additional notes
 	- "In mathematics, a **tuple** is a finite ordered list (sequence) of
 		elements" \cite{WikipediaContributors2018a19}.
