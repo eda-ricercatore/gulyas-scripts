@@ -399,8 +399,10 @@
 
 + ICS 2019, International Conference on Supercomputing
 	- https://www.ics-conference.org
+	- https://ics19.eecis.udel.edu/index.html
 	- Phoenix, AZ.
 	- June 26-28, 2019.
+	- Submission deadline: January 25 and February 1, 2019.
 
 
 
@@ -427,8 +429,11 @@
 	- Conference dates: June 22-28, 2019.
 	- Associated conferences:
 		* COLT 2019: Conference on Learning Theory
+			+ Submission deadline: February 1, 2019.
 		* E-energy: 2019 ACM e-Energy Conference
+			+ Submission deadline: January 21 and 28, 2019.
 		* EC 2019: The 20th ACM Conference on Economics and Computation
+			- Submission deadline: February 15, 2018.
 		* HPDC 2019: The 28th Int’l Symposium on High-Performance Parallel and Distributed Computing
 		* ICS 2019: The 33rd ACM International Conference on Supercomputing
 		* ISCA 2019: The 46th International Symposium on Computer Architecture
@@ -584,8 +589,9 @@
 
 + GLSVLSI, Great Lakes Symposium on VLSI
 	- http://www.glsvlsi.org
-	- VENUE
-	- Submission deadline: December 2018.
+	- Washington, D.C.
+	- May 2019
+	- Submission deadline: December 17, 2018.
 
 
 
@@ -594,26 +600,28 @@
 
 
 
-+ CAV 2018, International Conference on Computer-Aided Verification
-	- http://cavconference.org
-	- VENUE
-	- Submission deadline: Jan 2019.
 
-
++ SPAA, ACM Symposium on Parallelism in Algorithms and Architectures
+	- http://spaa.acm.org
+	- June 22-24, 2019
+	- Phoenix, AZ
+	- Submission deadline: January 8 and 11, 2019.
 
 
 
 
 + CF 2019, ACM International Conference on Computing Frontiers
 	+ http://www.computingfrontiers.org/2019/
-	+ Ischia, Italy
-	+ Submission deadline: Jan 2019.
+	+ Alghero, Sardinia, Italy
+	+ May 1-3, 2019
+	+ Submission deadline: Jan 14, 2019.
 
 
 + ICGSE, IEEE/ACM International Conference on Global Software Engineering
 	- https://conf.researchr.org/track/icgse-2019/icgse-2019-papers
 	- Montreal, QC, Canada
-	- Submission deadline: Jan 2019.
+	- May 24-26, 2019.
+	- Submission deadline: January 25 and February 4, 2019.
 
 
 
@@ -622,34 +630,39 @@
 + TechDebt, International Conference on Technical Debt
 	- https://2019.icse-conferences.org/track/TechDebt-2019#About
 	- Montreal, QC, Canada.
-	- Submission deadline: Jan 2019.
+	- Submission deadline: January 14 and 21 2019.
 
 + SEAMS, International Symposium on Software Engineering for Adaptive and Self-Managing Systems
 	- https://2019.icse-conferences.org/track/seams-2019-papers
 	- Montreal, QC, Canada.
-	- Submission deadline: Jan, 2019.
+	- May 25-26, 2019.
+	- Submission deadline: January 11 and 18, 2019.
+
+
+
 
 
 
 + Symposia on VLSI Technology and Circuits
 	- http://vlsisymposium.org
-	- Japan.
-	- Submission deadline: Jan 2019.
+	- Kyoto, Japan.
+	- June 9-14, 2019.
+	- Submission deadline: January 28, 2019.
 
 
 + SAT, International Conferences on Theory and Applications of Satisfiability Testing
 	- http://www.satisfiability.org
-	- VENUE.
+	- Lisbon, Portugal.
 	- Submission deadline: Jan 2019.
 
 
 
 + LICS, Annual ACM/IEEE Symposium on Logic in Computer Science
-	- CONFERENCE-SPECIFIC URL.
+	- http://lics.siglog.org/lics19/
 	- http://lics.siglog.org
-	- VENUE.
-	- Conference dates:
-	- Submission deadline: January 2019.
+	- Vancouver, Canada.
+	- Conference dates: June 24-27, 2019.
+	- Submission deadline: January 4-11, 2019.
 
 
 + CCC, Computational Complexity Conference
@@ -691,7 +704,8 @@
 	- http://www.cadeinc.org/conferences
 	- http://www.cade-27.info/
 	- Natal, Brasil
-	- Submission deadline: Late Jan and Early Feb, 2019.
+	- August 25-30, 2019.
+	- Submission deadline: February 15 and 22, 2019.
 
 + TABLEAUX, International Conference on Automated Reasoning with Analytic Tableaux and Related Methods
 	- http://www.tableaux-ar.org/next.html
@@ -711,13 +725,17 @@
 	- Submission deadline: Feb 2019.
 
 
++ CAV 2018, International Conference on Computer-Aided Verification
+	- http://cavconference.org
+	- New York, NY.
+	- July 15-18, 2019.
+	- Submission deadline: February 7, 2019.
 
 
 
-+ SPAA, ACM Symposium on Parallelism in Algorithms and Architectures
-	- http://spaa.acm.org
-	- VENUE
-	- Submission deadline: Early/Mid- Feb, 2019.
+
+
+
 
 
 + PODC, ACM Symposium on Principles of Distributed Computing
