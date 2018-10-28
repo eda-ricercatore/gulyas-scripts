@@ -411,7 +411,7 @@
 + DAC 2019, Design Automation Conference
 	- https://dac.com
 	- Las Vegas, NV.
-	- Submission deadline: Nov, 2018.
+	- Submission deadline: November 20 and 27, 2018.
 
 
 
