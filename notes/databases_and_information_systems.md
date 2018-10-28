@@ -703,7 +703,8 @@ Relational databases
 		* Firebird (database server)
 	- database clients
 		* SQuirrel SQL client
-
+	- distributed SQL
+		* Apache Ignite: https://en.wikipedia.org/wiki/Apache_Ignite
 
 
 ###	NoSQL
@@ -775,6 +776,16 @@ Data formats for databases \cite{WikipediaContributors2018r}:
 
 Use ODBC, JDBC, and GDA wrappers for database management systems
 	of my choice \cite{WikipediaContributors2017a5}.
+
+
+#	To-Do List: Tasks
+
++ Use design of experiments (DOE) to access quality of database systems
+
+
+
+
+
 
 
 
