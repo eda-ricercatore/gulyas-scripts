@@ -281,8 +281,14 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 	- A **database schema** (or "relational schema") is a collection of named
 		relational schemas \cite{WikipediaContributors2018a1}.
 	- Since "the domain of each attribute is a data type," and the named
-		relational schema is effectively a relation variable (or relvar)
+		relational schema is effectively a **relation variable** (or
+		**relvar**) \cite{WikipediaContributors2018a1}.
+	- A relational database is composed of named **relation variables** (or
+		**relvars**), so that the database can be kept updated
 		\cite{WikipediaContributors2018a1}.
+		* When a relvar is updated, its body would be replaced with another
+			set of tuple \cite{WikipediaContributors2018a1}.
+
 + In *SQL*, a relation is a table representation, such that each row of the
 	table represents a tuple and each column represents the values of an attribute \cite{WikipediaContributors2018a1}.
 + The body of a relation has a set of unordered tuples
