@@ -272,6 +272,19 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 		- The logical biconditional "B(x) \Leftrightarrow S(x)" (if and
 			only if) means that B(x) implies S(x) (B(x) \Rightarrow S(x)) and
 			S(x) implies B(x) (B(x) \Leftarrow S(x), or S(x) \Rightarrow B(x))
++ A **relation schema** is a pair of a heading and "a set of constraints
+	defined in terms of that heading", and can include a name
+	\cite{WikipediaContributors2018a1}.
+	- A **relation** is "an instantiation of a relation schema" if it has
+		the heading of that [relation] schema and it satisfies the
+		applicable constraints \cite{WikipediaContributors2018a1}.
+	- A **database schema** (or "relational schema") is a collection of named
+		relational schemas \cite{WikipediaContributors2018a1}.
+	- Since "the domain of each attribute is a data type," and the named
+		relational schema is effectively a relation variable (or relvar)
+		\cite{WikipediaContributors2018a1}.
++ In *SQL*, a relation is a table representation, such that each row of the
+	table represents a tuple and each column represents the values of an attribute \cite{WikipediaContributors2018a1}.
 + Additional notes
 	- "In mathematics, a **tuple** is a finite ordered list (sequence) of
 		elements" \cite{WikipediaContributors2018a19}.
