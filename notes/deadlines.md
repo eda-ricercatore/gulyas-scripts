@@ -403,12 +403,6 @@
 
 
 
-+ DAC 2019, Design Automation Conference
-	- https://dac.com
-	- Las Vegas, NV.
-	- Submission deadline: November 20 and 27, 2018.
-
-
 
 
 
@@ -516,6 +510,12 @@
 
 
 
++ DAC 2019, Design Automation Conference
+	- https://dac.com
+	- Las Vegas, NV.
+	- Submission deadline: November 20 and 27, 2018.
+
+
 
 
 
@@ -589,6 +589,12 @@
 
 
 
++ LICS, Annual ACM/IEEE Symposium on Logic in Computer Science
+	- http://lics.siglog.org/lics19/
+	- http://lics.siglog.org
+	- Vancouver, Canada.
+	- Conference dates: June 24-27, 2019.
+	- Submission deadline: January 4-11, 2019.
 
 
 
@@ -602,12 +608,38 @@
 
 
 
++ SEAMS, International Symposium on Software Engineering for Adaptive and Self-Managing Systems
+	- https://2019.icse-conferences.org/track/seams-2019-papers
+	- Montreal, QC, Canada.
+	- May 25-26, 2019.
+	- Submission deadline: January 11 and 18, 2019.
+
+
+
+
 
 + CF 2019, ACM International Conference on Computing Frontiers
 	+ http://www.computingfrontiers.org/2019/
 	+ Alghero, Sardinia, Italy
 	+ May 1-3, 2019
 	+ Submission deadline: Jan 14, 2019.
+
+
+
+
+
++ TechDebt, International Conference on Technical Debt
+	- https://2019.icse-conferences.org/track/TechDebt-2019#About
+	- Montreal, QC, Canada.
+	- Submission deadline: January 14 and 21 2019.
+
+
++ HPDC, International ACM Symposium on High-Performance Parallel and Distributed Computing
+	- http://www.hpdc.org/2019/papers/call-for-papers/
+	- Phoenix, AZ.
+	- June 22-29, 2019.
+	- Submission deadline: January 16 and 23, 2018.
+
 
 
 
@@ -632,19 +664,6 @@
 
 
 
-+ TechDebt, International Conference on Technical Debt
-	- https://2019.icse-conferences.org/track/TechDebt-2019#About
-	- Montreal, QC, Canada.
-	- Submission deadline: January 14 and 21 2019.
-
-+ SEAMS, International Symposium on Software Engineering for Adaptive and Self-Managing Systems
-	- https://2019.icse-conferences.org/track/seams-2019-papers
-	- Montreal, QC, Canada.
-	- May 25-26, 2019.
-	- Submission deadline: January 11 and 18, 2019.
-
-
-
 
 
 
@@ -662,12 +681,6 @@
 
 
 
-+ LICS, Annual ACM/IEEE Symposium on Logic in Computer Science
-	- http://lics.siglog.org/lics19/
-	- http://lics.siglog.org
-	- Vancouver, Canada.
-	- Conference dates: June 24-27, 2019.
-	- Submission deadline: January 4-11, 2019.
 
 
 + CCC, Computational Complexity Conference
@@ -683,11 +696,6 @@
 
 
 
-+ HPDC, International ACM Symposium on High-Performance Parallel and Distributed Computing
-	- http://www.hpdc.org/2019/papers/call-for-papers/
-	- Phoenix, AZ.
-	- June 22-29, 2019.
-	- Submission deadline: January 16 and 23, 2018.
 
 
 
@@ -705,12 +713,7 @@
 
 
 
-+ CADE 2019, International Conference on Automated Deduction
-	- http://www.cadeinc.org/conferences
-	- http://www.cade-27.info/
-	- Natal, Brasil
-	- August 25-30, 2019.
-	- Submission deadline: February 15 and 22, 2019.
+
 
 + TABLEAUX, International Conference on Automated Reasoning with Analytic Tableaux and Related Methods
 	- http://www.tableaux-ar.org/next.html
@@ -738,6 +741,11 @@
 
 
 
++ SIGMETRICS 2019, ACM SIGMETRICS / IFIP Performance conference
+	- https://www.sigmetrics.org/sigmetrics2019/call_for_papers.html
+	- Phoenix, AZ.
+	- June 24-28, 2019.
+	- Submission deadline (For Winter submissions): February 11 and 18, 2018.
 
 
 
@@ -750,7 +758,12 @@
 
 
 
-
+ + CADE 2019, International Conference on Automated Deduction
+ 	- http://www.cadeinc.org/conferences
+ 	- http://www.cade-27.info/
+ 	- Natal, Brasil
+ 	- August 25-30, 2019.
+ 	- Submission deadline: February 15 and 22, 2019.
 
 + NEWCAS, IEEE Northeast Workshop on Circuits and Systems
 	- NEW Circuits and Systems Conference
