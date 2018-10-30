@@ -397,13 +397,6 @@
 	- Submission deadline (For Fall submissions): October 22 and 29, 2018.
 	- Submission deadline (For Winter submissions): February 11 and 18, 2018.
 
-+ ICS 2019, International Conference on Supercomputing
-	- https://www.ics-conference.org
-	- https://ics19.eecis.udel.edu/index.html
-	- Phoenix, AZ.
-	- June 26-28, 2019.
-	- Submission deadline: January 25 and February 1, 2019.
-
 
 
 
@@ -615,6 +608,18 @@
 	+ Alghero, Sardinia, Italy
 	+ May 1-3, 2019
 	+ Submission deadline: Jan 14, 2019.
+
+
+
++ ICS 2019, International Conference on Supercomputing
+	- https://www.ics-conference.org
+	- https://ics19.eecis.udel.edu/index.html
+	- Phoenix, AZ.
+	- June 26-28, 2019.
+	- Submission deadline: January 25 and February 1, 2019.
+
+
+
 
 
 + ICGSE, IEEE/ACM International Conference on Global Software Engineering
