@@ -692,13 +692,7 @@
 
 
 
-+ CCC, Computational Complexity Conference
-	- CONFERENCE-SPECIFIC URL.
-	- http://www.computationalcomplexity.org/conferences.php
-	- http://computationalcomplexity.org
-	- New Jersey, NJ.
-	- Conference dates: July 18-20, 2019.
-	- Submission deadline: January 2019.
+
 
 
 
@@ -808,6 +802,19 @@
  	- Natal, Brasil
  	- August 25-30, 2019.
  	- Submission deadline: February 15 and 22, 2019.
+
+
+
++ CCC, Computational Complexity Conference
+	- CONFERENCE-SPECIFIC URL.
+	- http://www.computationalcomplexity.org/conferences.php
+	- http://computationalcomplexity.org
+	- New Jersey, NJ.
+	- Conference dates: July 18-20, 2019.
+	- Submission deadline: February 19 2019.
+
+
+
 
 + NEWCAS, IEEE Northeast Workshop on Circuits and Systems
 	- NEW Circuits and Systems Conference
