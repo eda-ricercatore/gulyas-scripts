@@ -295,6 +295,8 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 			from other relvars" \cite{WikipediaContributors2018a1};
 			the "base relvar" is independent from other relvars
 				\cite{WikipediaContributors2018a1}.
+		* The term **base table** in SQL is analogous to the base relation
+			variable \cite{WikipediaContributors2018a1}.
 + In *SQL*, a relation is a table representation, such that each row of the
 	table represents a tuple and each column represents the values of an attribute \cite{WikipediaContributors2018a1}.
 + The body of a relation has a set of unordered tuples
