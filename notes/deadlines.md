@@ -641,6 +641,15 @@
 	- Submission deadline: January 16 and 23, 2018.
 
 
++ FCRC, Federated Computing Research Conference
+	- https://fcrc.acm.org
+	- Phoenix, AZ
+	- Conference dates: June 22-28, 2019.
+	- Associated conference:
+		* E-energy: 2019 ACM e-Energy Conference
+			+ Submission deadline: January 21 and 28, 2019.
+
+
 
 
 + ICS 2019, International Conference on Supercomputing
@@ -733,6 +742,27 @@
 	- Submission deadline: Feb 2019.
 
 
+
+
+
+
+
++ FCRC, Federated Computing Research Conference
+	- https://fcrc.acm.org
+	- Phoenix, AZ
+	- Conference dates: June 22-28, 2019.
+	- Associated conferences:
+		* COLT 2019: Conference on Learning Theory
+			+ Submission deadline: February 1, 2019.
+
+
+
+
+
+
+
+
+
 + CAV 2018, International Conference on Computer-Aided Verification
 	- http://cavconference.org
 	- New York, NY.
@@ -755,6 +785,20 @@
  - http://www.podc.org
  - VENUE
  - Submission deadline: Early/Mid- Feb, 2019.
+
+
+ + FCRC, Federated Computing Research Conference
+ 	- https://fcrc.acm.org
+ 	- Phoenix, AZ
+ 	- Conference dates: June 22-28, 2019.
+ 	- Associated conferences:
+ 		* EC 2019: The 20th ACM Conference on Economics and Computation
+ 			- Submission deadline: February 15, 2018.
+
+
+
+
+
 
 
 
