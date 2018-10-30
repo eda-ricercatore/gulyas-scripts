@@ -288,6 +288,22 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 		\cite{WikipediaContributors2018a1}.
 		* When a relvar is updated, its body would be replaced with another
 			set of tuple \cite{WikipediaContributors2018a1}.
+		* When an relvar is updated, its body would be replaced by a different
+			set of tuples \cite{WikipediaContributors2018a1}.
+		* The two classes of relvar are: **base relation variables** and
+			**derived relation variables** (or virtual relvars, referred
+			to by short-term view) \cite{WikipediaContributors2018a1}.
+
+
+
+
+
+
+
+
+
+
+
 
 + In *SQL*, a relation is a table representation, such that each row of the
 	table represents a tuple and each column represents the values of an attribute \cite{WikipediaContributors2018a1}.
