@@ -272,6 +272,13 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 		- The logical biconditional "B(x) \Leftrightarrow S(x)" (if and
 			only if) means that B(x) implies S(x) (B(x) \Rightarrow S(x)) and
 			S(x) implies B(x) (B(x) \Leftarrow S(x), or S(x) \Rightarrow B(x))
+	- "In set theory and [mathematical] logic, a relation is a mathematical
+		property that assigns truth values to k-tuples of individuals"
+		\cite{WikipediaContributors2018a20}.
+		* "This property describes a possible connection between the
+			components of a *k*-tuple" \cite{WikipediaContributors2018a20}.
+		* "For a given set of *k*-tuples", assign a truth value to each
+			*k*-tuple" based on whether the property holds or not.
 + A **relation schema** is a pair of a heading and "a set of constraints
 	defined in terms of that heading", and can include a name
 	\cite{WikipediaContributors2018a1}.
