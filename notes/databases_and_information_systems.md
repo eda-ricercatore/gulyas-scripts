@@ -295,7 +295,15 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 		homogeneous relation) \cite{WikipediaContributors2018a20}.
 	- When each of the sets are unique, the relation is heterogeneous (i.e.,
 		heterogeneous relation) \cite{WikipediaContributors2018a20}.
-	- A 
+	- When the cardinality of the collection of sets is one, the
+		property/relation is a unary relation
+		\cite{WikipediaContributors2018a20}.
+	- When the cardinality of the collection of sets is three, the
+		property/relation is a ternary relation
+		\cite{WikipediaContributors2018a20}.
+	- When the cardinality of the collection of sets is four, the
+		property/relation is a quaternary relation
+		\cite{WikipediaContributors2018a20}.
 + A **relation schema** is a pair of a heading and "a set of constraints
 	defined in terms of that heading", and can include a name
 	\cite{WikipediaContributors2018a1}.
