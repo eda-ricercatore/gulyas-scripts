@@ -291,6 +291,10 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 		\cite{WikipediaContributors2018a20}.
 	- A relation over a collection of sets is a subset of their Cartesian
 		product \cite{WikipediaContributors2018a20}.
+	- When the sets are equivalent, the relation is homogeneous (i.e.,
+		homogeneous relation) \cite{WikipediaContributors2018a20}.
+	- When each of the sets are unique, the relation is heterogeneous (i.e.,
+		heterogeneous relation) \cite{WikipediaContributors2018a20}.
 + A **relation schema** is a pair of a heading and "a set of constraints
 	defined in terms of that heading", and can include a name
 	\cite{WikipediaContributors2018a1}.
