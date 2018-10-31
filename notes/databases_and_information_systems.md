@@ -404,6 +404,10 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 			power set on *A \times B*" ("ordered by inclusion" in the
 			lattice of subsets of *A \times B*)
 			\cite{WikipediaContributors2018a21}.
+		* A three-place relation (or 3-place relation) is also known as:
+			ternary relation, triadic relation, 3-adic relation,
+			3-ary relation, or 3-dimensional relation
+			\cite{WikipediaContributors2018a22}.
 	- A 2-tuple is an ordered pair, dual, couple, twin, duad, or dyad
 		\cite{WikipediaContributors2018a19}.
 	- A 3-tuple is a triple, triplet, treble, or triad
