@@ -313,6 +313,12 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 			to specify the *k* sets and a subset of their Cartesian
 			product" -- "*L* is a (*k*+1)-tuple"
 			\cite{WikipediaContributors2018a20}.
+	- Each element set *x_j* of a relation is a domain of the relation
+		\cite{WikipediaContributors2018a20};
+		however, the relation does not uniquely specify any given sequence
+			of domains \cite{WikipediaContributors2018a20};
+		also, all domains *x_j*s of a *k*-ary relation (over *X*) belong
+			to the same set *X* \cite{WikipediaContributors2018a20}.
 + A **relation schema** is a pair of a heading and "a set of constraints
 	defined in terms of that heading", and can include a name
 	\cite{WikipediaContributors2018a1}.
