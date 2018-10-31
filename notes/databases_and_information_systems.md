@@ -279,6 +279,18 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 			components of a *k*-tuple" \cite{WikipediaContributors2018a20}.
 		* "For a given set of *k*-tuples", assign a truth value to each
 			*k*-tuple" based on whether the property holds or not.
+	- A relation is an "ordered set" \cite{WikipediaContributors2018a20}.
+	- The relation's arity, adicity, or dimension of a relation is *k*,
+		and it is known as a *k*-ary relation, *k*-adic relation, or
+		*k*-dimensional relation \cite{WikipediaContributors2018a20}.
+	- If a relation has a finite arity, adicity, or dimension, it is
+		known as a finite-place relation or finitary relation
+		\cite{WikipediaContributors2018a20}.
+	- We can generalize a finitary relation to an infinite sequence that
+		includes **infinitary relations** between infinitudes of individuals
+		\cite{WikipediaContributors2018a20}.
+	- A relation over a collection of sets is a subset of their Cartesian
+		product \cite{WikipediaContributors2018a20}.
 + A **relation schema** is a pair of a heading and "a set of constraints
 	defined in terms of that heading", and can include a name
 	\cite{WikipediaContributors2018a1}.
@@ -331,12 +343,20 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 		elements" \cite{WikipediaContributors2018a19}.
 	- "A **n-tuple** is an ordered list (or sequence) of *n* elements, where
 		*n* is a non-negative integer" \cite{WikipediaContributors2018a19}.
-	- A 0-tuple is also known as an empty sequence, empty tuple, null tuple,
-		unit, or empty sequence \cite{WikipediaContributors2018a19}.
+	- A 0-tuple \cite{WikipediaContributors2018a20} is also known as
+		an empty sequence, empty tuple \cite{WikipediaContributors2018a20},
+		null tuple, unit, or empty sequence \cite{WikipediaContributors2018a19}.
+	- "There are only two zero-place relations": a 0-tuple that always holds,
+		and the other 0-tuple that never holds
+		\cite{WikipediaContributors2018a20}.
 	- There exists only one instance of a 0-tuple
 		\cite{WikipediaContributors2018a19}.
 	- A 1-tuple is a singleton, monuple, or monad
 		\cite{WikipediaContributors2018a19}.
+	- A one-place relation is a unary relation, and a two-place relation
+		is a binary relation (e.g., equalities, inequalities, divisors,
+		or a set membership) or dyadic relation
+		\cite{WikipediaContributors2018a20}.
 	- A 2-tuple is an ordered pair, dual, couple, twin, duad, or dyad
 		\cite{WikipediaContributors2018a19}.
 	- A 3-tuple is a triple, triplet, treble, or triad
