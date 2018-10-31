@@ -397,6 +397,9 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 		is a binary relation (e.g., equalities, inequalities, divisors,
 		or a set membership) or dyadic relation
 		\cite{WikipediaContributors2018a20}.
+		* Synonymous terms for a binary relation are: dyadic relation,
+			2-place relation, and correspondence
+			\cite{WikipediaContributors2018a21}.
 	- A 2-tuple is an ordered pair, dual, couple, twin, duad, or dyad
 		\cite{WikipediaContributors2018a19}.
 	- A 3-tuple is a triple, triplet, treble, or triad
