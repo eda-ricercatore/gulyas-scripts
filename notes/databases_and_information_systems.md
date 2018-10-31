@@ -278,7 +278,8 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 		* "This property describes a possible connection between the
 			components of a *k*-tuple" \cite{WikipediaContributors2018a20}.
 		* "For a given set of *k*-tuples", assign a truth value to each
-			*k*-tuple" based on whether the property holds or not.
+			*k*-tuple" based on whether the property holds or not
+			\cite{WikipediaContributors2018a20}.
 	- A relation is an "ordered set" \cite{WikipediaContributors2018a20}.
 	- The relation's arity, adicity, or dimension of a relation is *k*,
 		and it is known as a *k*-ary relation, *k*-adic relation, or
@@ -311,8 +312,8 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 		\cite{WikipediaContributors2018a20}.
 	- Alternatively, an (embedded/included) relation is "a mathematical
 		object determined by the specification of *n* component mathematical
-		objects" (or *n*-tuples) \cite{WikipediaContributors2018a20};
-		hence, for "a relation *L* over *k* sets, there are *k+1* things
+		objects" (or *n*-tuples) \cite{WikipediaContributors2018a20}
+		* For "a relation *L* over *k* sets, there are *k+1* things
 			to specify the *k* sets and a subset of their Cartesian
 			product" -- "*L* is a (*k*+1)-tuple"
 			\cite{WikipediaContributors2018a20}.
@@ -348,8 +349,8 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 			**derived relation variables** (or virtual relvars, referred
 			to as the short-term **view**) \cite{WikipediaContributors2018a1}.
 		* The "**base relation variable** is a relvar [that] is not derived
-			from other relvars" \cite{WikipediaContributors2018a1};
-			the "base relvar" is independent from other relvars
+			from other relvars" \cite{WikipediaContributors2018a1}
+			* The "base relvar" is independent from other relvars
 				\cite{WikipediaContributors2018a1}.
 		* The term **base table** in SQL is analogous to the base relation
 			variable \cite{WikipediaContributors2018a1}.
