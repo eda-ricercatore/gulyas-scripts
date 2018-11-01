@@ -252,7 +252,7 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 	- A **tuple** is a set of unique attribute values, such that no pair
 		of attribute values (or any two distinct attribute values)
 		\cite{WikipediaContributors2018a1}
-		* A tuple can also be described as a function that maps names to
+		* A **tuple** can also be described as a function that maps names to
 			values \cite{WikipediaContributors2018a1}.
 	- A **heading** is "a set of attributes" that has "no two distinct
 		elements" [that] have the same name" \cite{WikipediaContributors2018a1}.
