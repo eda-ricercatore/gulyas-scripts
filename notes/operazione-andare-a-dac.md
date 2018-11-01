@@ -47,6 +47,8 @@ To-do list:
 		* \cite{Younker2008}
 		* \cite{Sweigart2015}
 		* \cite{Beazley2009}
++ Do statistical analysis via *Python*
+	- [Statsmodels](https://en.wikipedia.org/wiki/Statsmodels)
 + Learn different data/information visualization tools (to plot graphs...)
  	- *Bokeh*
 	- *Plot.ly* (i.e., Plotly)
@@ -54,8 +56,8 @@ To-do list:
 	- Graphviz
 	- [Tulip (software)](https://en.wikipedia.org/wiki/Tulip_(software))
 	- Gephy
-	- Matplotlib
-	- D3.js
+	- [matplotlib](https://en.wikipedia.org/wiki/Matplotlib)
+	- [D3.js (uses JavaScript)](https://en.wikipedia.org/wiki/D3.js)
 	- [Tableau](https://en.wikipedia.org/wiki/Tableau_Software)
 	- Qlikview (from Qlik)
 	- FusionCharts
@@ -66,6 +68,7 @@ To-do list:
 	- [NetworkX](https://en.wikipedia.org/wiki/NetworkX)
 	- Additional resources
 		* https://en.wikipedia.org/wiki/List_of_information_graphics_software
+		* https://en.wikipedia.org/wiki/Category:Python_scientific_libraries
 + Using Continuous Integration/Deployment (CI/CD) pipelines
 	- Jenkins, TeamCity, TFS, CruiseControl
 	- Build automation
