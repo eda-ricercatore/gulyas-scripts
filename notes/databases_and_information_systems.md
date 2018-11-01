@@ -305,17 +305,17 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 		**homogeneous relation**) \cite{WikipediaContributors2018a20}.
 	- When each of the sets are unique, the **relation is heterogeneous** (i.e.,
 		**heterogeneous relation**) \cite{WikipediaContributors2018a20}.
-		* For a relation over domains *X_1, ..., X_k*, a sequence of
+		* For a **relation** over domains *X_1, ..., X_k*, a sequence of
 			variables (*x_1, ..., x_k*) is a range over the respective
 			domains (i.e., *X_1, ..., X_k*) \cite{WikipediaContributors2018a20}.
 	- When the cardinality of the collection of sets is one, the
-		property/relation is a unary relation
+		property/relation is a **unary relation**
 		\cite{WikipediaContributors2018a20}.
 	- When the cardinality of the collection of sets is three, the
-		property/relation is a ternary relation
+		property/relation is a **ternary relation**
 		\cite{WikipediaContributors2018a20}.
 	- When the cardinality of the collection of sets is four, the
-		property/relation is a quaternary relation
+		property/relation is a **quaternary relation**
 		\cite{WikipediaContributors2018a20}.
 	- Alternatively, an (embedded/included) relation is "a mathematical
 		object determined by the specification of *n* component mathematical
