@@ -602,18 +602,19 @@ A **primary key** is a specific choice of columns that can uniquely
 	\cite{WikipediaContributors2018a6}.
 	- An **alternate key** is also known as a **secondary key**
 		\cite{WikipediaContributors2018a16}.
-+ Assign an unique index to each alternate key, so that we can use the
-	unique index to determine if duplicates (of alternate keys) exist
++ Assign an unique index to each **alternate key**, so that we can use the
+	unique index to determine if duplicates (of **alternate keys**) exist
 	\cite{WikipediaContributors2018a6};
-	- Do/Use this to prevent insertion/addition of duplicate alternate keys
+	- Do/Use this to prevent insertion/addition of **duplicate alternate keys**
 		\cite{WikipediaContributors2018a6}; and
 	- Unique columns in databases cannot include duplicates
 		\cite{WikipediaContributors2018a6}.
 	- For a single-table select, or filtering in a *where* clause, we can use
-		alternate keys as primary keys \cite{WikipediaContributors2018a6}.
-	- However, alternate keys cannot be used as primary keys when joining
-		multiple tables \cite{WikipediaContributors2018a6}.
-+ A **primary key** is a unique key that is also known as a **record key**
+		**alternate keys** as **primary keys**
+		\cite{WikipediaContributors2018a6}.
+	- However, **alternate keys** cannot be used as **primary keys** when
+		joining multiple tables \cite{WikipediaContributors2018a6}.
++ A **primary key** is a **unique key** that is also known as a **record key**
 	\cite{WikipediaContributors2018a16}.
 
 
