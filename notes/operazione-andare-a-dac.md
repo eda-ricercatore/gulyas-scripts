@@ -32,6 +32,7 @@ To-do list:
 		* \cite{Younker2008}
 		* \cite{Sweigart2015}
 		* \cite{Beazley2009}
++ Plot graphs using *Bokeh* and *Plot.ly*
 + Finish assignments 1 and 2 for the data science course.
 + Run automated regression testing, and/or regression verification, to put
 		the experimental results of each build in the correct directory.
