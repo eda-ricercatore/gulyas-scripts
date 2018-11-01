@@ -771,7 +771,8 @@ A **surrogate key** is an attribute that functions as a key
 		keys** is better than **natural**/**business keys**
 		- This is because the former only depends on finding records with
 			one column (unique, immutable **surrogate key**), while the latter
-			depends on finding records {CITE THIS!!!} with multiple columns.
+			depends on finding records \cite{WikipediaContributors2018a5}
+			with multiple columns.
 
 
 In a temporal database, each row has a natural/business key and the
