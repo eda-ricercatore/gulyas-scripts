@@ -69,7 +69,7 @@ The main categories of data model instances are
 		* **hierarchical data model** \cite{WikipediaContributors2018w}.
 		* **network data model** \cite{WikipediaContributors2018w}
 		* **relational model** \cite{WikipediaContributors2018w}
-			+ "Codd's theorem states that" the "following foundational
+			+ "**Codd's theorem** states that" the "following foundational
 				query languages for the relational model are precisely
 				equivalent in expressive power": relational algebra
 				and domain-independent relational calculus queries
