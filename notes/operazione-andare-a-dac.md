@@ -25,7 +25,22 @@ To-do list:
 	database (e.g., *MySQL*).
 	- *Python* interface to *SQL* database.
 	- Process this with a *NoSQL* database.
+		* Mongo/DynamoDB
+		* Redis
+		* Riak
+		* Redis/Riak/Dynamo
+		* Apache
+		* Cassandra
+		* Solr, Lucene, Elastic Search, Memcached
 	- Process this with a *NewSQL* database.
+	- Big data technologies
+		* Hadoop
+		* Hive
+		* Pig
+		* Spark
+		* Real-time data pipelines and streaming applications
+			+ Kafka
+			+ NiFi
 	- References from my *BibTeX* database about this:
 		* \cite{Lutz2011}
 		* \cite{Sileika2010}
@@ -33,6 +48,36 @@ To-do list:
 		* \cite{Sweigart2015}
 		* \cite{Beazley2009}
 + Plot graphs using *Bokeh* and *Plot.ly*
+	- Matplotlib
+	- D3.js
++ Using Continuous Integration/Deployment (CI/CD) pipelines
+	- Jenkins, TeamCity, TFS, CruiseControl
+	- Build automation
+		* [Gulp](https://gulpjs.com)
+		* Maven
+		* Gradle
+		* Dependency management and deployable artifact assembly
+			+ Grunt
+			+ WebPack
+			+ NPM
+			+ Yarn
+			+ Bower
+	- Task runners and bundling tools
+		* NPM
+		* yeoman
+		* gulp
+		* browserify
+		* webpack
++ Log processing
+	- Elastic
+	- Logstash
+	- Splunk
++ Cloud platforms
+	- AWS/EC2
+	- Rackspace Open Cloud
++ Cloud automation tools
+	- Ansible
+	- Chef
 + Finish assignments 1 and 2 for the data science course.
 + Run automated regression testing, and/or regression verification, to put
 		the experimental results of each build in the correct directory.
