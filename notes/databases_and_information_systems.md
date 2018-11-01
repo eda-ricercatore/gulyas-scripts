@@ -296,7 +296,7 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 	- If a relation has a **finite arity**, **adicity**, or **dimension**,
 		it is known as a **finite-place relation** or **finitary relation**
 		\cite{WikipediaContributors2018a20}.
-	- We can generalize a finitary relation to an infinite sequence that
+	- We can generalize a **finitary relation** to an infinite sequence that
 		includes **infinitary relations** between infinitudes of individuals
 		\cite{WikipediaContributors2018a20}.
 	- A relation over a collection of sets is a subset of their Cartesian
