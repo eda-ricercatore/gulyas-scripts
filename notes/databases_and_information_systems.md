@@ -220,10 +220,10 @@ A **storage record** is a group of fields, data, or words
 			+ This assumes that the **array** can be a **dynamic array**,
 				which is also known as **growable array**, **resizable array**,
 				**dynamic table**, **mutable array**, or **array list**.
-	- A record type is a data type that describes a set of variables
+	- A **record type** is a data type that describes a set of variables
 		(i.e., the variable name is the identifier/label of the field) and
 		their values \cite{WikipediaContributors2018a16}.
-	- A record has a set of keys, which can be an empty set
+	- A **record** has a set of keys, which can be an empty set
 		\cite{WikipediaContributors2018a16}.
 		* A **key** is an identifier for a field, or a set of fields
 			\cite{WikipediaContributors2018a16}.
