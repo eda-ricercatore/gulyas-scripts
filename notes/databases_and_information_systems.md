@@ -662,7 +662,7 @@ A **natural key** is a primary key consisting of real-world observables
 			\cite{WikipediaContributors2018a11}.
 		* "Always source a particular piece of information from one place"
 			\cite{WikipediaContributors2018a10}.
-		* Use referencing to link to data elements in the SSOT databases,
+		* Use referencing to link to data elements in the **SSOT databases**,
 			which are based on the relational schema or distant federated
 			databases, so that "all other locations of the data" refer/point
 			"to the primary `source of truth' location"
