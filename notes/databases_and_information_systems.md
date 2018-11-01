@@ -378,14 +378,14 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 			\cite{WikipediaContributors2018a1}.
 	- This is summarized from a set-theoretic perspective
 		\cite{WikipediaContributors2018a20}.
-+ In *SQL*, a relation is a table representation, such that each row of the
++ In *SQL*, a **relation** is a table representation, such that each row of the
 	table represents a tuple and each column represents the values of
 	an attribute \cite{WikipediaContributors2018a1}.
-+ The body of a relation has a set of unordered tuples
++ The body of a **relation** has a set of unordered tuples
 	\cite{WikipediaContributors2018a1}.
-	- Similarly, the rows/records of an SQL table are unordered
+	- Similarly, the **rows/records** of an **SQL table** are unordered
 		\cite{WikipediaContributors2018a1}.
-+ Similarly, the attributes/elements of a tuple/heading are unordered
++ Similarly, the **attributes/elements** of a **tuple/heading** are unordered
 	\cite{WikipediaContributors2018a1}.
 + Additional notes
 	- "In mathematics, a **tuple** is a finite ordered list (sequence) of
