@@ -41,6 +41,8 @@ To-do list:
 		* Real-time data pipelines and streaming applications
 			+ Kafka
 			+ NiFi
+			+ Flink
+			+ Beam
 	- References from my *BibTeX* database about this:
 		* \cite{Lutz2011}
 		* \cite{Sileika2010}
@@ -52,10 +54,11 @@ To-do list:
 + Learn different data/information visualization tools (to plot graphs...)
  	- *Bokeh*
 	- *Plot.ly* (i.e., Plotly)
-	- Graph-tool
+	- [graph-tool](https://en.wikipedia.org/wiki/Graph-tool)
 	- Graphviz
 	- [Tulip (software)](https://en.wikipedia.org/wiki/Tulip_(software))
-	- Gephy
+	- [Gephi](https://en.wikipedia.org/wiki/Gephi)
+		* https://gephi.org/
 	- [matplotlib](https://en.wikipedia.org/wiki/Matplotlib)
 	- [D3.js (uses JavaScript)](https://en.wikipedia.org/wiki/D3.js)
 	- [Tableau](https://en.wikipedia.org/wiki/Tableau_Software)
@@ -69,8 +72,13 @@ To-do list:
 	- Additional resources
 		* https://en.wikipedia.org/wiki/List_of_information_graphics_software
 		* https://en.wikipedia.org/wiki/Category:Python_scientific_libraries
-+ Using Continuous Integration/Deployment (CI/CD) pipelines
+		* https://en.wikipedia.org/wiki/Visual_analytics
+		* https://en.wikipedia.org/wiki/Data_visualization
+		* https://en.wikipedia.org/wiki/Information_visualization
+		* https://en.wikipedia.org/wiki/Software_visualization
++ Using Continuous Integration/Deployment (CI/CD) pipelines and DevOps
 	- Jenkins, TeamCity, TFS, CruiseControl
+	- Jenkins, CircleCI, Concourse, Jira, GitHub, Artifactory, code analyzers and security scanners.
 	- Build automation
 		* [Gulp](https://gulpjs.com)
 		* Maven
