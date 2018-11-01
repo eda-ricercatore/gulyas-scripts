@@ -47,9 +47,25 @@ To-do list:
 		* \cite{Younker2008}
 		* \cite{Sweigart2015}
 		* \cite{Beazley2009}
-+ Plot graphs using *Bokeh* and *Plot.ly*
++ Learn different data/information visualization tools (to plot graphs...)
+ 	- *Bokeh*
+	- *Plot.ly* (i.e., Plotly)
+	- Graph-tool
+	- Graphviz
+	- [Tulip (software)](https://en.wikipedia.org/wiki/Tulip_(software))
+	- Gephy
 	- Matplotlib
 	- D3.js
+	- [Tableau](https://en.wikipedia.org/wiki/Tableau_Software)
+	- Qlikview (from Qlik)
+	- FusionCharts
+	- Highcharts
+	- Datawrapper
+	- Sisense
+	- [yEd](https://en.wikipedia.org/wiki/YEd)
+	- [NetworkX](https://en.wikipedia.org/wiki/NetworkX)
+	- Additional resources
+		* https://en.wikipedia.org/wiki/List_of_information_graphics_software
 + Using Continuous Integration/Deployment (CI/CD) pipelines
 	- Jenkins, TeamCity, TFS, CruiseControl
 	- Build automation
