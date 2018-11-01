@@ -317,9 +317,10 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 	- When the cardinality of the collection of sets is four, the
 		property/relation is a **quaternary relation**
 		\cite{WikipediaContributors2018a20}.
-	- Alternatively, an (embedded/included) relation is "a mathematical
-		object determined by the specification of *n* component mathematical
-		objects" (or *n*-tuples) \cite{WikipediaContributors2018a20}
+	- Alternatively, an (**embedded**/**included**) **relation** is "a
+		mathematical object determined by the specification of *n*
+		component mathematical objects" (or *n*-tuples)
+		\cite{WikipediaContributors2018a20}
 		* For "a relation *L* over *k* sets, there are *k+1* things
 			to specify the *k* sets and a subset of their Cartesian
 			product" -- "*L* is a (*k*+1)-tuple"
