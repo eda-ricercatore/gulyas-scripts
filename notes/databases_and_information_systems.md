@@ -649,7 +649,8 @@ A **natural key** is a primary key consisting of real-world observables
 	- **Single version of the truth** (**SVOT**)
 		\cite{WikipediaContributors2018a10}
 		* A data warehouse that has a single centralized database, or a
-			distributed synchronized database, to store "all of an organization's data in a consistent and non-redundant form."
+			distributed synchronized database, to store "all of an organization's
+			data in a consistent and non-redundant form."
 	- **Single source of truth** (**SSOT**) \cite{WikipediaContributors2018a11}
 		* A method to "structure information models and associated data
 			schema," so "that every data element is stored exactly once"
