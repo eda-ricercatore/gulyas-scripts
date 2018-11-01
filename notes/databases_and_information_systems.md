@@ -419,14 +419,14 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 			known as: **ternary relation**, **triadic relation**,
 			**3-adic relation**, **3-ary relation**, or
 			**3-dimensional relation** \cite{WikipediaContributors2018a22}.
-	- A 2-tuple is an ordered pair, dual, couple, twin, duad, or dyad
+	- A **2-tuple** is an **ordered pair**, **dual**, **couple**, **twin**,
+		**duad**, or **dyad** \cite{WikipediaContributors2018a19}.
+	- A **3-tuple** is a **triple**, **triplet**, **treble**, or **triad**
 		\cite{WikipediaContributors2018a19}.
-	- A 3-tuple is a triple, triplet, treble, or triad
-		\cite{WikipediaContributors2018a19}.
-	- A n-tuple can be defined as a function, nested ordered pair, nested
-		sets \cite{WikipediaContributors2018a19}.
+	- A **n-tuple** can be defined as a **function**, **nested ordered pair**,
+		**nested sets** \cite{WikipediaContributors2018a19}.
 
-Notes about Codd's theorem:
+Notes about **Codd's theorem**:
 + Either we can formulate a database query using relational algebra and
 	domain-independent relational calculus, or it cannot be
 	formulated/expressed \cite{WikipediaContributors2017a8}.
