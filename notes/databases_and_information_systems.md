@@ -420,6 +420,11 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 	- A n-tuple can be defined as a function, nested ordered pair, nested
 		sets \cite{WikipediaContributors2018a19}.
 
+Notes about Codd's theorem:
++ Queries made using domain-independent relational calculus are invariant of
+	domain selection \cite{WikipediaContributors2017a8}.
++ 
+
 
 "A **database segment** is a database object that occupies physical space,
 	such as table data and indexes/indices" \cite{WikipediaContributors2018z}.
