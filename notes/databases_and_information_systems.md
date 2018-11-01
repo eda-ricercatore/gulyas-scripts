@@ -358,7 +358,7 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 			to as the short-term **view**) \cite{WikipediaContributors2018a1}.
 		* The "**base relation variable** is a relvar [that] is not derived
 			from other relvars" \cite{WikipediaContributors2018a1}
-			* The "base relvar" is independent from other relvars
+			* The "**base relvar**" is independent from other relvars
 				\cite{WikipediaContributors2018a1}.
 		* The term **base table** in SQL is analogous to the base relation
 			variable \cite{WikipediaContributors2018a1}.
