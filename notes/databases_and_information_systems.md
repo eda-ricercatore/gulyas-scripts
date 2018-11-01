@@ -212,14 +212,14 @@ A **storage record** is a group of fields, data, or words
 		different data types \cite{WikipediaContributors2018a16}.
 		* Note that a **record**/element is a collection, not an element of
 			a collection \cite{WikipediaContributors2018a16}.
-		* A record is different from an array, since each field had a name
+		* A **record** is different from an array, since each field had a name
 			and can be of a different type in comparison to other fields
 			\cite{WikipediaContributors2018a16}
-			+ An array does not have names for each element, and all the
+			+ An **array** does not have names for each element, and all the
 				elements of the array must have the same data type
-			+ This assumes that the array can be a dynamic array, which
-				is also known as growable array, resizable array, dynamic
-				table, mutable array, or array list.
+			+ This assumes that the **array** can be a **dynamic array**,
+				which is also known as **growable array**, **resizable array**,
+				**dynamic table**, **mutable array**, or **array list**.
 	- A record type is a data type that describes a set of variables
 		(i.e., the variable name is the identifier/label of the field) and
 		their values \cite{WikipediaContributors2018a16}.
