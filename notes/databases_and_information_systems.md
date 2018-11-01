@@ -351,8 +351,8 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 	- A relational database is composed of named **relation variables** (or
 		**relvars**), so that the database can be kept updated
 		\cite{WikipediaContributors2018a1}.
-		* When a relvar is updated, its body would be replaced by a different
-			set of tuples \cite{WikipediaContributors2018a1}.
+		* When a **relvar** is updated, its body would be replaced by a
+			different set of tuples \cite{WikipediaContributors2018a1}.
 		* The two classes of relvar are: **base relation variables** and
 			**derived relation variables** (or virtual relvars, referred
 			to as the short-term **view**) \cite{WikipediaContributors2018a1}.
