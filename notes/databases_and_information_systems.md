@@ -421,9 +421,22 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 		sets \cite{WikipediaContributors2018a19}.
 
 Notes about Codd's theorem:
++ Either we can formulate a database query using relational algebra and
+	domain-independent relational calculus, or it cannot be
+	formulated/expressed \cite{WikipediaContributors2017a8}.
 + Queries made using domain-independent relational calculus are invariant of
-	domain selection \cite{WikipediaContributors2017a8}.
-+ 
+	selecting external domains (i.e., domains [of values] outside the database)
+	\cite{WikipediaContributors2017a8}.
+	- A database query to "select all tuples" outside of relation *R*
+		in the database" \cite{WikipediaContributors2017a8}.
+	- To query a tuple constructed from "sets of atomic data items" is
+		domain dependent (i.e., not domain independent)
+		\cite{WikipediaContributors2017a8}.
++ Relational algebra and domain-independent relational calculus are
+	fairly different foundational query languages, such that the former
+	is a variable-free language and the latter is a logical language
+	(related to first-order logic) with variables and quantification
+	\cite{WikipediaContributors2017a8}.
 
 
 "A **database segment** is a database object that occupies physical space,
