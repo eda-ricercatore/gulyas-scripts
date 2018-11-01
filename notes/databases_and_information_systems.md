@@ -160,13 +160,13 @@ A **storage record** is a group of fields, data, or words
 	\cite{WikipediaContributors2016m}.
 + A **row** (or **tuple**) "represents a single, implicitly structured data item
 	in a table," or "a set of related data" \cite{WikipediaContributors2018a15}
-	- Each row in a table (or relational database) has the same structure
+	- Each **row** in a table (or relational database) has the same structure
 		\cite{WikipediaContributors2018a15}.
-	- Each row in a table represents a set of related data
+	- Each **row** in a table represents a set of related data
 		\cite{WikipediaContributors2018a15}.
-	- The implicit structure and significance of a row implies a sequence
+	- The implicit structure and significance of a **row** implies a sequence
 		of data values (or a sequence of sets of data values) such that
-		each column in that row has a value (or a set of data values)
+		each column in that **row** has a value (or a set of data values)
 		\cite{WikipediaContributors2018a15}.
 	- A row is a **relvar** that is comprised of a set of two-tuples, where each
 		two-tuple consist of the name of the appropriate column and the value
@@ -175,8 +175,8 @@ A **storage record** is a group of fields, data, or words
 		* A **relvar**, or **relation variable**, is a variable that is
 			assigned a relation and "the relation itself"
 			\cite{WikipediaContributors2017a7}.
-	- Each column of a row/table requires data value(s) of a specific
-		data type \cite{WikipediaContributors2018a15}.
+	- Each **column** of a **row**/**table** requires data value(s)
+		of a specific data type \cite{WikipediaContributors2018a15}.
 + A **record** (or **structure**, **struct**, or **compound data**)
 	is a basic **data structure** \cite{WikipediaContributors2018a16}.
 	- **Rows** of a database and spreadsheets are (also) known as **records**.
@@ -279,7 +279,7 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 		- The logical biconditional "B(x) \Leftrightarrow S(x)" (if and
 			only if) means that B(x) implies S(x) (B(x) \Rightarrow S(x)) and
 			S(x) implies B(x) (B(x) \Leftarrow S(x), or S(x) \Rightarrow B(x))
-	- "In set theory and [mathematical] logic, a relation is a mathematical
+	- "In set theory and [mathematical] logic, a **relation** is a mathematical
 		property that assigns truth values to k-tuples of individuals"
 		\cite{WikipediaContributors2018a20}.
 		* "This property describes a possible connection between the
@@ -293,8 +293,8 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 		***k*-dimensional relation** \cite{WikipediaContributors2018a20}.
 	- "A ***n*-ary** (or ***k*-ary**) **relation** is a set of *n*-tuples"
 		\cite{WikipediaContributors2018a20}.
-	- If a relation has a **finite arity**, **adicity**, or **dimension**, it is
-		known as a finite-place relation or finitary relation
+	- If a relation has a **finite arity**, **adicity**, or **dimension**,
+		it is known as a **finite-place relation** or **finitary relation**
 		\cite{WikipediaContributors2018a20}.
 	- We can generalize a finitary relation to an infinite sequence that
 		includes **infinitary relations** between infinitudes of individuals
