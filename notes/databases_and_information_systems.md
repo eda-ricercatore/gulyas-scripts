@@ -689,18 +689,18 @@ A **surrogate key** is an attribute that functions as a key
 	- **technical key**
 	- **arbitrary unique identifier**
 + In certain circumstances, during software development or a data
-	science project, it can be inconvenient to use a natural key
+	science project, it can be inconvenient to use a **natural key**
 	to identify a tuple in a relation, since it may require multiple
 	columns or large text fields \cite{WikipediaContributors2018a6}.
-	- Hence, use a surrogate key as a substitute (primary key) to avoid
-		giving more priority/importance to the natural key or other
-		candidate keys \cite{WikipediaContributors2018a6}.
-	- Similarly, a surrogate key can be chosen instead of any of the
-		multiple candidate keys that do not provide an advantage over
-		the other candidate keys \cite{WikipediaContributors2018a6}.
-+ Since primary keys are chosen to facilitate information processing
+	- Hence, use a **surrogate key** as a substitute (**primary key**)
+		to avoid giving more priority/importance to the **natural key** or
+		other **candidate keys** \cite{WikipediaContributors2018a6}.
+	- Similarly, a **surrogate key** can be chosen instead of any of the
+		multiple **candidate keys** that do not provide an advantage over
+		the other **candidate keys** \cite{WikipediaContributors2018a6}.
++ Since **primary keys** are chosen to facilitate information processing
 	during software development or a data science project, many cases
-	of database application design use surrogate primary keys to
+	of database application design use **surrogate primary keys** to
 	further facilitate information processing
 	\cite{WikipediaContributors2018a6}.
 + For databases based on the hybrid **object-relational model** (**ORM**),
