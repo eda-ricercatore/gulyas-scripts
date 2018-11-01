@@ -705,24 +705,24 @@ A **surrogate key** is an attribute that functions as a key
 	\cite{WikipediaContributors2018a6}.
 + For databases based on the hybrid **object-relational model** (**ORM**),
 	which is based on the object-oriented programming model and the
-	relational model, they also use surrogate primary keys to further
+	relational model, they also use **surrogate primary keys** to further
 	facilitate information processing \cite{WikipediaContributors2018a6}.
-	- The restrictions on surrogate primary keys are
+	- The restrictions on **surrogate primary keys** are
 		\cite{WikipediaContributors2018a6}:
-		* Primary keys are immutable (not changed nor reused)
+		* **Primary keys** are immutable (not changed nor reused)
 			\cite{WikipediaContributors2018a6}
-		* Primary keys should be deleted, together with associated
+		* **Primary keys** should be deleted, together with associated
 			record \cite{WikipediaContributors2018a6}
-		* Primary keys should be an anonymous trigger, or numeric
+		* **Primary keys** should be an anonymous trigger, or numeric
 			identifier \cite{WikipediaContributors2018a6}
-		* These restrictions only apply for the object-relational model,
+		* These restrictions only apply for the **object-relational model**,
 			such as the **active record pattern**
 			\cite{WikipediaContributors2018a6}
-		* Hence, for databases based on the relational model, or SQL
-			standard, do due diligence when deciding which key should
-			be an immutable primary key \cite{WikipediaContributors2018a6};
+		* Hence, for databases based on the **relational model**, or **SQL
+			standard**, do due diligence when deciding which key should
+			be an immutable **primary key** \cite{WikipediaContributors2018a6};
 			some DBMSes do not allow usage of the **UPDATE** SQL statement
-				to change values of the primary keys
+				to change values of the **primary keys**
 				\cite{WikipediaContributors2018a6}.
 + A surrogate key "is a unique identifier for an entity in the
 	modeled world ([data model]) or an object in the database ([storage model])"
