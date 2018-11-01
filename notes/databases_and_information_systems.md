@@ -301,10 +301,10 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 		\cite{WikipediaContributors2018a20}.
 	- A **relation** over a collection of sets is a subset of their Cartesian
 		product \cite{WikipediaContributors2018a20}.
-	- When the sets are equivalent, the relation is homogeneous (i.e.,
-		homogeneous relation) \cite{WikipediaContributors2018a20}.
-	- When each of the sets are unique, the relation is heterogeneous (i.e.,
-		heterogeneous relation) \cite{WikipediaContributors2018a20}.
+	- When the sets are equivalent, the **relation is homogeneous** (i.e.,
+		**homogeneous relation**) \cite{WikipediaContributors2018a20}.
+	- When each of the sets are unique, the **relation is heterogeneous** (i.e.,
+		**heterogeneous relation**) \cite{WikipediaContributors2018a20}.
 		* For a relation over domains *X_1, ..., X_k*, a sequence of
 			variables (*x_1, ..., x_k*) is a range over the respective
 			domains (i.e., *X_1, ..., X_k*) \cite{WikipediaContributors2018a20}.
