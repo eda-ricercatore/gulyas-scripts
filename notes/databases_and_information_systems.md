@@ -299,7 +299,7 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 	- We can generalize a **finitary relation** to an infinite sequence that
 		includes **infinitary relations** between infinitudes of individuals
 		\cite{WikipediaContributors2018a20}.
-	- A relation over a collection of sets is a subset of their Cartesian
+	- A **relation** over a collection of sets is a subset of their Cartesian
 		product \cite{WikipediaContributors2018a20}.
 	- When the sets are equivalent, the relation is homogeneous (i.e.,
 		homogeneous relation) \cite{WikipediaContributors2018a20}.
