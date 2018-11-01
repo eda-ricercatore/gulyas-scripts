@@ -227,7 +227,7 @@ A **storage record** is a group of fields, data, or words
 		\cite{WikipediaContributors2018a16}.
 		* A **key** is an identifier for a field, or a set of fields
 			\cite{WikipediaContributors2018a16}.
-+ A record is a set of unordered pairs of a label and a value (or
++ A **record** is a set of unordered pairs of a label and a value (or
 	a set of label-accessible elements) \cite{WikipediaContributors2018a19}.
 + A **self-defining record** is a self-contained collection of information
 	that "identify the record type and locate information within the record",
