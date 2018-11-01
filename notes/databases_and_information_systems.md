@@ -291,7 +291,7 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 	- The relation's **arity**, **adicity**, or **dimension of a relation** is *k*,
 		and it is known as a ***k*-ary relation**, ***k*-adic relation**, or
 		***k*-dimensional relation** \cite{WikipediaContributors2018a20}.
-	- "A *n*-ary (or *k*-ary) relation is a set of *n*-tuples"
+	- "A ***n*-ary** (or ***k*-ary**) **relation** is a set of *n*-tuples"
 		\cite{WikipediaContributors2018a20}.
 	- If a relation has a finite arity, adicity, or dimension, it is
 		known as a finite-place relation or finitary relation
