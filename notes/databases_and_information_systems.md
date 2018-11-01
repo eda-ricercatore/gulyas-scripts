@@ -13,7 +13,9 @@ A **database** is a collection of data that is systematically organized
 	for access, storage, and processing
 	\cite{DictionaryDotComStaff2018,WikipediaContributors2018r}.
 
-A "general-purpose" **database management system** (**DBMS**) is a software system that enables people to create, maintain, and access databases \cite{WikipediaContributors2018r}.
+A "general-purpose" **database management system** (**DBMS**) is a
+	software system that enables people to create, maintain, and access
+	databases \cite{WikipediaContributors2018r}.
 
 The main functions of DBMS are \cite{WikipediaContributors2018r}:
 + **data definition**, data is organized according to definitions of
@@ -376,7 +378,8 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 	- This is summarized from a set-theoretic perspective
 		\cite{WikipediaContributors2018a20}.
 + In *SQL*, a relation is a table representation, such that each row of the
-	table represents a tuple and each column represents the values of an attribute \cite{WikipediaContributors2018a1}.
+	table represents a tuple and each column represents the values of
+	an attribute \cite{WikipediaContributors2018a1}.
 + The body of a relation has a set of unordered tuples
 	\cite{WikipediaContributors2018a1}.
 	- Similarly, the rows/records of an SQL table are unordered
@@ -494,9 +497,10 @@ In *UNIX*-like operating systems, a **raw device** is a special logical device
 + that is, the raw device allows software applications to use storage
 	devices directly, without using the page caches
 	\cite{WikipediaContributors2018a4} and buffers of the operating
-	system - although the **disk buffer** \cite{WikipediaContributors2018a2,WikipediaContributors2016l}
-		of the **tertiary storage devices** would still be used
-		\cite{WikipediaContributors2017a6}.
+	system - although the **disk buffer**
+	\cite{WikipediaContributors2018a2,WikipediaContributors2016l}
+	of the **tertiary storage devices** would still be used
+	\cite{WikipediaContributors2017a6}.
 
 In *UNIX*-like operating systems, a **device file** (or **special file**) is an
 	interface to a device driver, and appears in a file system as an
