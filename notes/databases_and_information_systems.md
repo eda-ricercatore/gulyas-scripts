@@ -747,7 +747,7 @@ A **surrogate key** is an attribute that functions as a key
 	- value is not comprised/combined/composed of values from different
 		domains, and cannot be decomposed into constituents, and not
 		a synthesis/derivation of application data in the database.
-	- a surrogate key can be used as a primary key
+	- a **surrogate key** can be used as a **primary key**
 + The surrogate key can exist as a separate from other database/system generated
 	values, such as universally unique identifier (UUID) and
 	globally unique identifier (GUID) \cite{WikipediaContributors2018a13,WikipediaContributors2018a14}.
