@@ -264,11 +264,11 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 	- The degree of a *n*-tuple is *n*, *n >= 0*
 		\cite{WikipediaContributors2018a1}.
 + In terms of a finitary relation, under the **closed-world assumption**
-	(**CWA**) \cite{WikipediaContributors2018a9}, a *n*-ary relation is
+	(**CWA**) \cite{WikipediaContributors2018a9}, a ***n*-ary relation** is
 	a set of tuples on some set of *n* sets *S_1, S_2, ..., S_n*
 	\cite{WikipediaContributors2018a1}.
-	- This can be understood as an extension of a *n*-adic predicate,
-		for all "*n*-tuples whose values, substituted for corresponding
+	- This can be understood as an extension of a ***n*-adic predicate**,
+		for all "***n*-tuples** whose values, substituted for corresponding
 		free variables in the predicate, yield propositions that hold true"
 		implies and is implied by values in the relation
 		\cite{WikipediaContributors2018a1}
