@@ -565,8 +565,8 @@ The main categories of **query languages** are
 	have any number of rows \cite{WikipediaContributors2018a5};
 + for any {row, column} entry, it can have multiple values
 	\cite{WikipediaContributors2018a5};
-+ a table is defined for relational databases and flat-file databases
-	\cite{WikipediaContributors2018a5}.
++ a **table** is defined for **relational databases** and
+	**flat-file databases** \cite{WikipediaContributors2018a5}.
 + A **table** can be used to describe a **relation**, which is a set without
 	duplicates \cite{WikipediaContributors2018a5};
 	- however, most tables are **multisets** (or **bags**)
