@@ -436,11 +436,13 @@ Notes about Codd's theorem:
 		domain dependent (i.e., not domain independent), and yield
 		different results \cite{WikipediaContributors2017a8}.
 + Relational algebra and domain-independent relational calculus are
-	fairly different foundational query languages, such that the former
-	is a variable-free language and the latter is a logical language
-	(related to first-order logic) with variables and quantification
-	\cite{WikipediaContributors2017a8}.
-
+	fairly different foundational query languages, in terms of syntax,
+	such that the former is a variable-free language and the latter is a
+	logical language (related to first-order logic) with variables and
+	quantification \cite{WikipediaContributors2017a8}.
++ If a query language's expressive power is equivalent to that of
+	relational algebra, it is **relationally complete**.
+	\cite{WikipediaContributors2017a8}
 
 
 
