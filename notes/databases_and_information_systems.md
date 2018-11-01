@@ -552,7 +552,8 @@ A **query language**, or **data query languages** (**DQL**), is a computer
 	language for making queries on databases and information systems
 	\cite{WikipediaContributors2018v}.
 
-The main categories of query languages are \cite{WikipediaContributors2018v}:
+The main categories of **query languages** are
+	\cite{WikipediaContributors2018v}:
 + **database query languages**
 + **information retrieval query languages**
 
