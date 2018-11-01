@@ -593,14 +593,14 @@ In a **hierarchical database**, which is a **non-relational system**, a
 A **primary key** is a specific choice of columns that can uniquely
 	identify rows \cite{WikipediaContributors2018a5} (or identify
 	a tuple in a relation \cite{WikipediaContributors2018a6}).
-+ For "the relational model in databases, a primary key is a specific
++ For "the relational model in databases, a **primary key** is a specific
 	choice of a minimal set of attributes (columns) that uniquely
 	specify a tuple (row) in a relation (table)"
 	\cite{WikipediaContributors2018a6};
-+ Mathematically, "a primary key is a choice of **candidate key** (i.e.,
-	a **minimal superkey**), and other candidate keys are **alternate keys**
++ Mathematically, "a **primary key** is a choice of **candidate key** (i.e.,
+	a **minimal superkey**), and other **candidate keys** are **alternate keys**
 	\cite{WikipediaContributors2018a6}.
-	- An alternate key is also known as a secondary key
+	- An **alternate key** is also known as a **secondary key**
 		\cite{WikipediaContributors2018a16}.
 + Assign an unique index to each alternate key, so that we can use the
 	unique index to determine if duplicates (of alternate keys) exist
