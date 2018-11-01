@@ -287,7 +287,7 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 		* "For a given set of *k*-tuples", assign "a truth value to each
 			*k*-tuple" based on whether the property holds or not
 			\cite{WikipediaContributors2018a20}.
-	- A relation is an "ordered set" \cite{WikipediaContributors2018a20}.
+	- A **relation** is an "ordered set" \cite{WikipediaContributors2018a20}.
 	- The relation's **arity**, **adicity**, or **dimension of a relation** is *k*,
 		and it is known as a ***k*-ary relation**, ***k*-adic relation**, or
 		***k*-dimensional relation** \cite{WikipediaContributors2018a20}.
