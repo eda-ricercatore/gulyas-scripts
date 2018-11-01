@@ -362,8 +362,8 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 				\cite{WikipediaContributors2018a1}.
 		* The term **base table** in SQL is analogous to the base relation
 			variable \cite{WikipediaContributors2018a1}.
-		* A **derived relation variable** (virtual relvar, or view) is
-			defined as a mathematical expression based on the operators
+		* A **derived relation variable** (**virtual relvar**, or **view**)
+			is defined as a mathematical expression based on the operators
 			of relational algebra or relational calculus
 			\cite{WikipediaContributors2018a1}.
 			+ A derived relation variable operating on a set/collection of
