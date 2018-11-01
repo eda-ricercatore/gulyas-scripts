@@ -427,21 +427,21 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 		**nested sets** \cite{WikipediaContributors2018a19}.
 
 Notes about **Codd's theorem**:
-+ Either we can formulate a database query using relational algebra and
-	domain-independent relational calculus, or it cannot be
++ Either we can formulate a **database query** using **relational algebra**
+	and **domain-independent relational calculus**, or it cannot be
 	formulated/expressed \cite{WikipediaContributors2017a8}.
-+ Queries made using domain-independent relational calculus are invariant of
-	selecting external domains (i.e., domains [of values] outside the database)
-	\cite{WikipediaContributors2017a8}.
-	- Database queries that "return different results for different domains"
-		are forbidden, since they are domain dependent
++ Queries made using **domain-independent relational calculus** are invariant
+	of selecting external domains (i.e., domains [of values] outside the
+	database) \cite{WikipediaContributors2017a8}.
+	- **Database queries** that "return different results for different
+		domains" are forbidden, since they are **domain dependent**
 		\cite{WikipediaContributors2017a8}.
-	- We cannot perform database queries to "select all tuples" outside
+	- We cannot perform **database queries** to "select all tuples" outside
 		of relation *R* in the database" \cite{WikipediaContributors2017a8}.
 	- To query a tuple constructed from "sets of atomic data items" is
-		domain dependent (i.e., not domain independent), and yield
+		**domain dependent** (i.e., **not domain independent**), and yield
 		different results \cite{WikipediaContributors2017a8}.
-+ Relational algebra and domain-independent relational calculus are
++ **Relational algebra** and **domain-independent relational calculus** are
 	fairly different foundational query languages, in terms of syntax,
 	such that the former is a variable-free language and the latter is a
 	logical language (related to first-order logic) with variables and
