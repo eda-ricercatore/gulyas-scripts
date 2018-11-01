@@ -748,27 +748,29 @@ A **surrogate key** is an attribute that functions as a key
 		domains, and cannot be decomposed into constituents, and not
 		a synthesis/derivation of application data in the database.
 	- a **surrogate key** can be used as a **primary key**
-+ The surrogate key can exist as a separate from other database/system generated
-	values, such as universally unique identifier (UUID) and
-	globally unique identifier (GUID) \cite{WikipediaContributors2018a13,WikipediaContributors2018a14}.
-+ Surrogate keys are typically sequential numbers
++ The **surrogate key** can exist as a separate from other database/system
+	generated values, such as **universally unique identifier** (**UUID**)
+	and **globally unique identifier** (**GUID**) \cite{WikipediaContributors2018a13,WikipediaContributors2018a14}.
++ **Surrogate keys** are typically sequential numbers
 	\cite{WikipediaContributors2018a13}.
-+ By designing the surrogate key to be independent from all fields
++ By designing the **surrogate key** to be independent from all fields
 	of the database, changes in the data values or design of the database
-	would not affect the value of the surrogate key
+	would not affect the value of the **surrogate key**
 	\cite{WikipediaContributors2018a13};
 	such designs of the database facilitate software development using
-		agile development processes and ensure that the surrogate keys
+		agile development processes and ensure that the **surrogate keys**
 		remain unique \cite{WikipediaContributors2018a13}.
-+ Advantages of surrogate keys \cite{WikipediaContributors2018a13}:
-	- immutability of surrogate keys, unlike primary keys and natural keys
-	- requirement changes, which may affect natural keys, would not affect
-		surrogate keys;
-		merging databases may affect natural keys, but not surrogate keys
-	- performance (in terms of lookup time... access time???) of surrogate
-		keys is better than natural/business keys
++ Advantages of **surrogate keys** \cite{WikipediaContributors2018a13}:
+	- immutability of **surrogate keys**, unlike **primary keys** and
+		**natural keys**
+	- requirement changes, which may affect **natural keys**, would not
+		affect **surrogate keys**;
+		merging databases may affect **natural keys**, but not
+			**surrogate keys**
+	- performance (in terms of lookup time... access time???) of **surrogate
+		keys** is better than **natural**/**business keys**
 		- This is because the former only depends on finding records with
-			one column (unique, immutable surrogate key), while the latter
+			one column (unique, immutable **surrogate key**), while the latter
 			depends on finding records {CITE THIS!!!} with multiple columns.
 
 
