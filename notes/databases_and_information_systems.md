@@ -284,7 +284,7 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 		\cite{WikipediaContributors2018a20}.
 		* "This property describes a possible connection between the
 			components of a *k*-tuple" \cite{WikipediaContributors2018a20}.
-		* "For a given set of *k*-tuples", assign a truth value to each
+		* "For a given set of *k*-tuples", assign "a truth value to each
 			*k*-tuple" based on whether the property holds or not
 			\cite{WikipediaContributors2018a20}.
 	- A relation is an "ordered set" \cite{WikipediaContributors2018a20}.
