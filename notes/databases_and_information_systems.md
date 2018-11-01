@@ -392,22 +392,24 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 		elements" \cite{WikipediaContributors2018a19}.
 	- "A **n-tuple** is an ordered list (or sequence) of *n* elements, where
 		*n* is a non-negative integer" \cite{WikipediaContributors2018a19}.
-	- A 0-tuple \cite{WikipediaContributors2018a20} is also known as
-		an empty sequence, empty tuple \cite{WikipediaContributors2018a20},
-		null tuple, unit, or empty sequence \cite{WikipediaContributors2018a19}.
-	- "There are only two zero-place relations": a 0-tuple that always holds,
-		and the other 0-tuple that never holds
-		\cite{WikipediaContributors2018a20}.
-	- There exists only one instance of a 0-tuple
+	- A **0-tuple** \cite{WikipediaContributors2018a20} is also known as
+		an **empty sequence**, **empty tuple**
+		\cite{WikipediaContributors2018a20},
+		**null tuple**, **unit**, or **empty sequence**
 		\cite{WikipediaContributors2018a19}.
-	- A 1-tuple is a singleton, monuple, or monad
-		\cite{WikipediaContributors2018a19}.
-	- A one-place relation is a unary relation, and a two-place relation
-		is a binary relation (e.g., equalities, inequalities, divisors,
-		or a set membership) or dyadic relation
+	- "There are only two **zero-place relations**": a **0-tuple** that
+		always holds, and the other **0-tuple** that never holds
 		\cite{WikipediaContributors2018a20}.
-		* Synonymous terms for a binary relation are: dyadic relation,
-			2-place relation, and correspondence
+	- There exists only one instance of a **0-tuple**
+		\cite{WikipediaContributors2018a19}.
+	- A **1-tuple** is a **singleton**, **monuple**, or **monad**
+		\cite{WikipediaContributors2018a19}.
+	- A **one-place relation** is a **unary relation**, and a
+		**two-place relation** is a **binary relation** (e.g., equalities,
+		inequalities, divisors, or a set membership) or **dyadic relation**
+		\cite{WikipediaContributors2018a20}.
+		* Synonymous terms for a **binary relation** are: **dyadic relation**,
+			**2-place relation**, and **correspondence**
 			\cite{WikipediaContributors2018a21}.
 		* "A binary relation on *A \times B* is an element in the
 			power set on *A \times B*" ("ordered by inclusion" in the
