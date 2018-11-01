@@ -364,17 +364,17 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 			variable \cite{WikipediaContributors2018a1}.
 		* A **derived relation variable** (**virtual relvar**, or **view**)
 			is defined as a mathematical expression based on the operators
-			of relational algebra or relational calculus
+			of **relational algebra** or **relational calculus**
 			\cite{WikipediaContributors2018a1}.
-			+ A derived relation variable operating on a set/collection of
+			+ A **derived relation variable** operating on a set/collection of
 				relations (assigned to database variables) results in another
 				relation (i.e., "derived relation")
 				\cite{WikipediaContributors2018a1}.
-			+ Each derived relation variable should contain at least one
-				base relation variable as an operand
+			+ Each **derived relation variable** should contain at least one
+				**base relation variable** as an operand
 				\cite{WikipediaContributors2018a1}.
-		* The **Data Definition Language** is used to define base relation
-			variables and derived relation variables
+		* The **Data Definition Language** is used to define
+			**base relation variables** and **derived relation variables**
 			\cite{WikipediaContributors2018a1}.
 	- This is summarized from a set-theoretic perspective
 		\cite{WikipediaContributors2018a20}.
