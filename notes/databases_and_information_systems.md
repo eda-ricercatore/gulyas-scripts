@@ -241,8 +241,8 @@ A **storage record** is a group of fields, data, or words
 
 A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 	is a member of a data domain D_i \cite{WikipediaContributors2018a1}.
-+ For any tuple of a relation, its elements (or **attribute value**s) are not
-	ordered \cite{WikipediaContributors2018a1};
++ For any **tuple** of a relation, its elements (or **attribute value**s)
+	are not ordered \cite{WikipediaContributors2018a1};
 	note that, mathematically, a tuple is a finite ordered list/sequence
 		of elements \cite{WikipediaContributors2018a19}.
 	- An **attribute** (or **data type** or **type**) is a pair of a name
