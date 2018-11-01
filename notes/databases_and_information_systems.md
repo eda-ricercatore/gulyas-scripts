@@ -272,7 +272,7 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 		free variables in the predicate, yield propositions that hold true"
 		implies and is implied by values in the relation
 		\cite{WikipediaContributors2018a1}
-	- "All and only spartans are bold" means the following.
+	- "**All and only** spartans are bold" means the following.
 		- $\forall x [B(x) \Leftrightarrow S(x)]$ \cite{rmw2015}
 		- The logical biconditional "B(x) \Leftrightarrow S(x)" (if and
 			only if) means that B(x) implies S(x) (B(x) \Rightarrow S(x)) and
