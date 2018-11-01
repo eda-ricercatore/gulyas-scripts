@@ -354,7 +354,7 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 		* When a **relvar** is updated, its body would be replaced by a
 			different set of tuples \cite{WikipediaContributors2018a1}.
 		* The two classes of relvar are: **base relation variables** and
-			**derived relation variables** (or virtual relvars, referred
+			**derived relation variables** (or **virtual relvars**, referred
 			to as the short-term **view**) \cite{WikipediaContributors2018a1}.
 		* The "**base relation variable** is a relvar [that] is not derived
 			from other relvars" \cite{WikipediaContributors2018a1}
