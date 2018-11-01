@@ -343,8 +343,8 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 	- A **relation** is "an instantiation of a relation schema" if it has
 		the heading of that [relation] schema and it satisfies the
 		applicable constraints \cite{WikipediaContributors2018a1}.
-	- A **database schema** (or "**relational schema**") is a collection of named
-		relational schemas \cite{WikipediaContributors2018a1}.
+	- A **database schema** (or "**relational schema**") is a collection of
+		named relational schemas \cite{WikipediaContributors2018a1}.
 	- Since "the domain of each attribute is a data type," and the named
 		relational schema is effectively a **relation variable** (or
 		**relvar**) \cite{WikipediaContributors2018a1}.
