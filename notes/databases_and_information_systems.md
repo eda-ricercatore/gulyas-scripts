@@ -466,8 +466,8 @@ Notes about **Codd's theorem**:
 
 Notes about **relational calculus**:
 + Regarding the **relational model** of databases, **relational calculus**
-	includes the following calculi to declaratively specify of database
-	queries \cite{WikipediaContributors2018a23}:
+	includes the following calculi to declaratively specify database queries
+	\cite{WikipediaContributors2018a23}:
 	- **tuple relational calculus**
 	- **domain relational calculus**
 + In contrast, the **relational model** of databases allows
@@ -483,8 +483,12 @@ Notes about **relational calculus**:
 
 
 Notes about **relational algebra**:
-+
-
++ The **relational model** of databases allows **relational algebra** to
+	provide procedural specification of database queries
+	\cite{WikipediaContributors2018a23}.
++ In contrast, **relational model** of databases allows **relational calculus**
+	to declaratively specify database queries
+	\cite{WikipediaContributors2018a23}.
 
 
 
