@@ -39,6 +39,12 @@ To-do list:
 		* Apache
 		* Nginx
 		* Solr, Lucene, Elastic Search (ElasticSearch), Memcache/Memcached
+		* DSE???
+		* Apache Lucene, Memcache, RabbitMQ
+		* graph databases
+			+ Neo4J
+			+ AllgroGraph
+			+ OrientDB
 		* Document Store
 			+ CouchDB
 			+ MongoDB
@@ -47,7 +53,9 @@ To-do list:
 			+ Redis
 			+ KyotoTycoon
 			+ Cassandra
-			+ LevelDB
+			+ [LevelDB](https://github.com/google/leveldb)
+				- Developed by Sanjay Ghemawat (sanjay@google.com) and Jeff Dean (jeff@google.com)
+			+ [RocksDB](https://github.com/facebook/rocksdb)
 			+ DynamoDB
 		* Column Store / columnar databases
 			+ ClickHouse
@@ -67,6 +75,7 @@ To-do list:
 			+ Hadoop ecosystem (HDFS, MapReduce, Hive, Hbase)
 			+ Hadoop integration with large scale distributed data platforms like Teradata, Teradata Aster, Vertica, Greenplum, Netezza, DB2, Oracle, etc
 			+ Cloudera/MapR/Hortonworks
+			+ MapReduce, HDFS, Tez, Hive, Spark
 		* Hive
 			+ Proficiency in Hive internals (including HCatalog), SQOOP, Pig, Oozie and Flume/Kafka.
 		* Pig
@@ -82,6 +91,10 @@ To-do list:
 			+ Spark-Streaming
 		* Pig, Hive, Oozie and Impala
 		* YARN, Tez
+		* ZooKeeper
+		* SQS
+		* Mesos
+		* Marathon
 	- References from my *BibTeX* database about this:
 		* \cite{Lutz2011}
 		* \cite{Sileika2010}
@@ -123,11 +136,16 @@ To-do list:
 		* https://en.wikipedia.org/wiki/Software_visualization
 		* Exposure to tools data acquisition, transformation & integration tools like Talend, Informatica, etc. & BI tools like Tableau, Pentaho, etc.
 + Using Continuous Integration/Deployment (CI/CD) pipelines and DevOps
+	- Concourse
 	- Jenkins, TeamCity, TFS, CruiseControl
 	- Jenkins, CircleCI, Concourse, Jira, GitHub, Artifactory, code analyzers and security scanners.
+	- Jira/Confluence
+	- Zuul, Nodepool, Jenkins Job Builder
 	- Jira
 	- VSTS, AWS OpsWorks
 	- Chef, Puppet, and Ansible
+	- Nexus, SonarQube
+	- Ant, Maven, Git, SVN, Jenkins, Travis, Puppet, Ansible, Docker
 	- SaltStack
 		* https://en.wikipedia.org/wiki/Salt_(software)
 		* See [Infrastructure as code (IaC)](https://en.wikipedia.org/wiki/Infrastructure_as_Code)
@@ -140,6 +158,9 @@ To-do list:
 		* Varnish
 		* HAProxy
 		* Apache
+	- test driven development methodology
+		* Junit, Mockito, Mocha, Chai
+		* HVM testing
 	- Build automation
 		* [Gulp](https://gulpjs.com)
 			+ https://gulpjs.com/docs/en/getting-started/quick-start
@@ -147,6 +168,8 @@ To-do list:
 		* Ant
 		* Gradle
 		* Grunt, Gulp, Brunch, Closure Compiler etc
+		* Gerrit, Jenkins, and Maven
+		* Rake, Gradle, Webpack, and SBT
 		* Dependency management and deployable artifact assembly
 			+ Grunt
 			+ WebPack
@@ -175,6 +198,20 @@ To-do list:
 		* Flume
 		* Avro
 		* Experience with modern DevOps tooling for cloud provisioning (jcloud, fog, libcloud etc) and automation tooling like Docker, Chef, Puppet, CloudFormation or Salt.
+	- front-end build pipeline tooling:
+		* NPM
+		* Bower
+		* Grunt
+		* Gulp
+		* SASS
+	- API design/development
+		* RPC
+		* REST
+		* JSON
+		* XML
+		* SOAP
+	- serial data communication systems
+		* CAN, FlexRay, MOST, and Ethernet
 	- enterprise architecture
 		* TEAF
 		* FEAF
@@ -183,6 +220,10 @@ To-do list:
 		* Also, includes the following:
 			+ [Project Portfolio Management (PPM)](https://en.wikipedia.org/wiki/Project_portfolio_management)
 			+ https://en.wikipedia.org/wiki/Comparison_of_project_management_software
+			+ JAXRS; JAXB; AMQP JMS; LDAP and SNMP.
+	- Java/J2EE Experience
+		- MySQL, Hibernate, JMS, Spring (Core, MVC, Integration)
+		- JAXRS; JAXB; AMQP JMS; LDAP and SNMP.
 + machine learning and data Visual_analytics
 	- graphx
 	- [mllib](https://spark.apache.org/mllib/)
@@ -191,7 +232,11 @@ To-do list:
 	- tensorflow
 	- Aster
 	- Resources
+		* Caffe, Tensorflow, MxNet, Torch, PyTorch, Theano, Chainer, DyNet
+		* Caffe2, TensorFlow, MPI, Gloo, NCCL2, Horovod
 		* BigDL, Caffe, Caffe2, Chainer, Keras, Paddle.
+		* Expertise in deep learning (CNN,RNN,DBN,DBM,LSTM),
+		* pytorch, scikit-learn, tensorflow, pandas, jupyter, spacy, gensim, vowpal wabbit, crfsuite, scrapy, spark, AWS, docker, kafka
 		* https://www.quora.com/What-are-the-best-machine-learning-libraries https://medium.com/activewizards-machine-learning-company/top-20-python-libraries-for-data-science-in-2018-2ae7d1db8049
 		* Before Tensorflow, Caffe or PyTorch came to be, Theano was the most widely used library for deep learning.
 		* Lasagne is a high-level deep learning library that runs on top of Theano.
@@ -208,10 +253,13 @@ To-do list:
 + Cloud platforms
 	- AWS/EC2
 	- Rackspace Open Cloud
+	- Ceph
+	- Consul
 	- Container Orchestration
 	- Container technologies
 		* Docker
 		* Rocket
+		* Linkerd, Kubernetes, DC/OS, gRPC, Zipkin, Docker, and Prometheus.
 	- Virtualization
 		* VMware
 		* OpenStack
@@ -221,6 +269,8 @@ To-do list:
 + cryptographic hardware
 	- TPM
 	- HSM
++ Security vulnerability identification and remediation
+	- OWASP
 + Finish assignments 1 and 2 for the data science course.
 + Run automated regression testing, and/or regression verification, to put
 		the experimental results of each build in the correct directory.
