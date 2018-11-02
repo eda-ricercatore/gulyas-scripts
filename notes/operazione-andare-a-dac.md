@@ -34,6 +34,7 @@ To-do list:
 		* Redis
 		* Riak
 		* Redis/Riak/Dynamo
+		* CouchBase
 		* Apache
 		* Solr, Lucene, Elastic Search (ElasticSearch), Memcached
 		* See [DB-Engines Ranking of Wide Column Stores](https://db-engines.com/en/ranking/wide+column+store)
@@ -49,6 +50,7 @@ To-do list:
 			+ Proficiency in Hive internals (including HCatalog), SQOOP, Pig, Oozie and Flume/Kafka.
 		* Pig
 		* Spark
+			+ MLlib or Mahout
 		* Experience with Big Data and infrastructure technologies including: Kafka, AWS, Streamsets, Docker, Spark.
 		* Real-time data pipelines and streaming applications
 			+ Kafka
@@ -85,6 +87,10 @@ To-do list:
 	- Sisense
 	- [yEd](https://en.wikipedia.org/wiki/YEd)
 	- [NetworkX](https://en.wikipedia.org/wiki/NetworkX)
+	- TDWM, KXEN
+	- Zeppelin
+	- R-Shiny
+	- Python Notebooks (Ipython/Jupyter Notebooks)
 	- Additional resources
 		* https://en.wikipedia.org/wiki/List_of_information_graphics_software
 		* https://en.wikipedia.org/wiki/Category:Python_scientific_libraries
@@ -99,6 +105,8 @@ To-do list:
 	- Jira
 	- VSTS, AWS OpsWorks
 	- Chef, Puppet, and Ansible
+	- SaltStack
+	- Bugzilla
 	- Terraform, CloudFormation, Spinnaker, Concourse
 	- Build automation
 		* [Gulp](https://gulpjs.com)
@@ -112,14 +120,40 @@ To-do list:
 			+ NPM
 			+ Yarn
 			+ Bower
+	- Cross-language development
+		* Thrift
 	- Task runners and bundling tools
 		* NPM
 		* yeoman
 		* gulp
 		* browserify
 		* webpack
+	- Monitoring/Alerting tools
+		* Data Dog (or DataDog)
+		* Nagios
+		* Graphite
+		* APM tools
+		* New Relic
+		* Icinga
+		* AppDynamics
 	- ETL technologies
 		* Flume
+		* Avro
+	- enterprise architecture
+		* TEAF
+		* FEAF
+		* TOGAF
+		* Zachman
+		* Also, includes the following:
+			+ [Project Portfolio Management (PPM)](https://en.wikipedia.org/wiki/Project_portfolio_management)
+			+ https://en.wikipedia.org/wiki/Comparison_of_project_management_software
++ machine learning and data Visual_analytics
+	- graphx
+	- mllib
+	- hadoop
+	- spark
+	- tensorflow
+	- Aster
 + Log processing
 	- Elastic
 	- Logstash
