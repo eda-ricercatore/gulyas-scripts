@@ -464,8 +464,26 @@ Notes about **Codd's theorem**:
 			+ multiset semantics
 				- Can represent duplicate rows
 
+Notes about **relational calculus**:
++ Regarding the **relational model** of databases, **relational calculus**
+	includes the following calculi to declaratively specify of database
+	queries \cite{WikipediaContributors2018a23}:
+	- **tuple relational calculus**
+	- **domain relational calculus**
++ In contrast, the **relational model** of databases allows
+	**relational algebra** to provide procedural specification of database
+	queries \cite{WikipediaContributors2018a23}.
 
 
+
+
+
+
+
+
+
+Notes about **relational algebra**:
++
 
 
 
