@@ -447,10 +447,22 @@ Notes about **Codd's theorem**:
 	**logical language** (related to **first-order logic**) with variables
 	and quantification \cite{WikipediaContributors2017a8}.
 + If a **query language**'s **expressive power** is equivalent to that of
-	relational algebra, it is **relationally complete**.
-	\cite{WikipediaContributors2017a8}
-
-
+	relational algebra, it is **relationally complete**
+	\cite{WikipediaContributors2017a8}.
+	- E.g., relational calculus \cite{WikipediaContributors2017a8}.
+	- **Relational completeness** does not guarantee all interesting
+		**database queries** can be expressed in **relationally complete**
+		languages \cite{WikipediaContributors2017a8}.
+		* E.g., SQL operations for counting tuples and summing up values
+			in tuples \cite{WikipediaContributors2017a8}.
+		* E.g., Computing the transitive closure of a graph
+			\cite{WikipediaContributors2017a8}.
+		* This is because SQL has features that are not captured by
+			**relational algebra**, such as \cite{WikipediaContributors2017a8}:
+			+ SQL nulls
+			+ three-valued logic
+			+ multiset semantics
+				- Can represent duplicate rows
 
 
 
