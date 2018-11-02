@@ -31,18 +31,24 @@ To-do list:
 		* Mongo/DynamoDB
 			+ MongoDB
 			+ AWS DynamoDB
-		* Redis
+		* Data-Structures:
+			+ Redis
 		* Riak
 		* Redis/Riak/Dynamo
 		* CouchBase
 		* Apache
 		* Nginx
 		* Solr, Lucene, Elastic Search (ElasticSearch), Memcache/Memcached
+		* Document Store
+			+ CouchDB
+			+ MongoDB
+			+ RethinkDB
 		* Key/Value stores
 			+ Redis
 			+ KyotoTycoon
 			+ Cassandra
 			+ LevelDB
+			+ DynamoDB
 		* Column Store / columnar databases
 			+ ClickHouse
 		* full text search engines
@@ -125,6 +131,7 @@ To-do list:
 	- SaltStack
 		* https://en.wikipedia.org/wiki/Salt_(software)
 		* See [Infrastructure as code (IaC)](https://en.wikipedia.org/wiki/Infrastructure_as_Code)
+		* See https://en.wikipedia.org/wiki/Comparison_of_open-source_configuration_management_software
 	- Bugzilla
 	- Terraform, CloudFormation, Spinnaker, Concourse
 		* Terraform Salt
@@ -139,6 +146,7 @@ To-do list:
 		* Maven
 		* Ant
 		* Gradle
+		* Grunt, Gulp, Brunch, Closure Compiler etc
 		* Dependency management and deployable artifact assembly
 			+ Grunt
 			+ WebPack
@@ -177,11 +185,22 @@ To-do list:
 			+ https://en.wikipedia.org/wiki/Comparison_of_project_management_software
 + machine learning and data Visual_analytics
 	- graphx
-	- mllib
+	- [mllib](https://spark.apache.org/mllib/)
 	- hadoop
 	- spark
 	- tensorflow
 	- Aster
+	- Resources
+		* BigDL, Caffe, Caffe2, Chainer, Keras, Paddle.
+		* https://www.quora.com/What-are-the-best-machine-learning-libraries https://medium.com/activewizards-machine-learning-company/top-20-python-libraries-for-data-science-in-2018-2ae7d1db8049
+		* Before Tensorflow, Caffe or PyTorch came to be, Theano was the most widely used library for deep learning.
+		* Lasagne is a high-level deep learning library that runs on top of Theano.
+		* [MLJAR](https://mljar.com/)
+		* https://github.com/josephmisiti/awesome-machine-learning
+		* https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md
+		* https://github.com/josephmisiti/awesome-machine-learning/blob/master/courses.md
+		* https://github.com/josephmisiti/awesome-machine-learning/blob/master/blogs.md
+		* https://www.kdnuggets.com/2018/04/top-16-open-source-deep-learning-libraries.html
 + Log processing
 	- Elastic
 	- Logstash
@@ -189,6 +208,13 @@ To-do list:
 + Cloud platforms
 	- AWS/EC2
 	- Rackspace Open Cloud
+	- Container Orchestration
+	- Container technologies
+		* Docker
+		* Rocket
+	- Virtualization
+		* VMware
+		* OpenStack
 + Cloud automation tools
 	- Ansible
 	- Chef
