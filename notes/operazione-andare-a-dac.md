@@ -36,9 +36,24 @@ To-do list:
 		* Redis/Riak/Dynamo
 		* CouchBase
 		* Apache
-		* Solr, Lucene, Elastic Search (ElasticSearch), Memcached
+		* Nginx
+		* Solr, Lucene, Elastic Search (ElasticSearch), Memcache/Memcached
+		* Key/Value stores
+			+ Redis
+			+ KyotoTycoon
+			+ Cassandra
+			+ LevelDB
+		* Column Store / columnar databases
+			+ ClickHouse
+		* full text search engines
+			+ Elastic Search (ElasticSearch)
 		* See [DB-Engines Ranking of Wide Column Stores](https://db-engines.com/en/ranking/wide+column+store)
 	- Process this with a *NewSQL* database.
+	- Time series databases
+		* OpenTSDB
+		* Graphite
+		* Prometheus
+		* Grafana
 	- Resource:
 		* [DB-Engines Ranking](https://db-engines.com/en/ranking)
 	- Big data technologies
@@ -91,6 +106,8 @@ To-do list:
 	- Zeppelin
 	- R-Shiny
 	- Python Notebooks (Ipython/Jupyter Notebooks)
+	- Sketch
+	- Figma
 	- Additional resources
 		* https://en.wikipedia.org/wiki/List_of_information_graphics_software
 		* https://en.wikipedia.org/wiki/Category:Python_scientific_libraries
@@ -106,8 +123,16 @@ To-do list:
 	- VSTS, AWS OpsWorks
 	- Chef, Puppet, and Ansible
 	- SaltStack
+		* https://en.wikipedia.org/wiki/Salt_(software)
+		* See [Infrastructure as code (IaC)](https://en.wikipedia.org/wiki/Infrastructure_as_Code)
 	- Bugzilla
 	- Terraform, CloudFormation, Spinnaker, Concourse
+		* Terraform Salt
+	- Load balancing and reverse proxies
+		* Nginx
+		* Varnish
+		* HAProxy
+		* Apache
 	- Build automation
 		* [Gulp](https://gulpjs.com)
 			+ https://gulpjs.com/docs/en/getting-started/quick-start
@@ -122,6 +147,8 @@ To-do list:
 			+ Bower
 	- Cross-language development
 		* Thrift
+	- Experience with API tooling and standards
+		* Swagger/OpenAPI, OAuth/JWT)
 	- Task runners and bundling tools
 		* NPM
 		* yeoman
@@ -139,6 +166,7 @@ To-do list:
 	- ETL technologies
 		* Flume
 		* Avro
+		* Experience with modern DevOps tooling for cloud provisioning (jcloud, fog, libcloud etc) and automation tooling like Docker, Chef, Puppet, CloudFormation or Salt.
 	- enterprise architecture
 		* TEAF
 		* FEAF
@@ -164,6 +192,9 @@ To-do list:
 + Cloud automation tools
 	- Ansible
 	- Chef
++ cryptographic hardware
+	- TPM
+	- HSM
 + Finish assignments 1 and 2 for the data science course.
 + Run automated regression testing, and/or regression verification, to put
 		the experimental results of each build in the correct directory.
