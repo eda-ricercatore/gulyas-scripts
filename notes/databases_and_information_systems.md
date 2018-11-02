@@ -463,6 +463,15 @@ Notes about **Codd's theorem**:
 			+ three-valued logic
 			+ multiset semantics
 				- Can represent duplicate rows
++ Effectively, for expressing database queries in the **relational model**
+	(for databases), **relational algebra** and **relational calculus**
+	are logically equivalent \cite{WikipediaContributors2018a23};
+	for any expression in **relational algebra**, there exists an equivalent
+		expression in **relational calculus**
+		\cite{WikipediaContributors2018a23}.
+
+
+
 
 Notes about **relational calculus**:
 + Regarding the **relational model** of databases, **relational calculus**
