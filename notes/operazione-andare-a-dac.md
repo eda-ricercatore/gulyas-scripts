@@ -25,24 +25,40 @@ To-do list:
 	database (e.g., *MySQL*).
 	- *Python* interface to *SQL* database.
 	- Process this with a *NoSQL* database.
+		* Cassandra
+		* Hbase
+		* Accumulo
 		* Mongo/DynamoDB
+			+ MongoDB
+			+ AWS DynamoDB
 		* Redis
 		* Riak
 		* Redis/Riak/Dynamo
 		* Apache
-		* Cassandra
-		* Solr, Lucene, Elastic Search, Memcached
+		* Solr, Lucene, Elastic Search (ElasticSearch), Memcached
+		* See [DB-Engines Ranking of Wide Column Stores](https://db-engines.com/en/ranking/wide+column+store)
 	- Process this with a *NewSQL* database.
+	- Resource:
+		* [DB-Engines Ranking](https://db-engines.com/en/ranking)
 	- Big data technologies
 		* Hadoop
+			+ Hadoop ecosystem (HDFS, MapReduce, Hive, Hbase)
+			+ Hadoop integration with large scale distributed data platforms like Teradata, Teradata Aster, Vertica, Greenplum, Netezza, DB2, Oracle, etc
+			+ Cloudera/MapR/Hortonworks
 		* Hive
+			+ Proficiency in Hive internals (including HCatalog), SQOOP, Pig, Oozie and Flume/Kafka.
 		* Pig
 		* Spark
+		* Experience with Big Data and infrastructure technologies including: Kafka, AWS, Streamsets, Docker, Spark.
 		* Real-time data pipelines and streaming applications
 			+ Kafka
 			+ NiFi
 			+ Flink
 			+ Beam
+			+ Storm
+			+ Spark-Streaming
+		* Pig, Hive, Oozie and Impala
+		* YARN, Tez
 	- References from my *BibTeX* database about this:
 		* \cite{Lutz2011}
 		* \cite{Sileika2010}
@@ -76,12 +92,19 @@ To-do list:
 		* https://en.wikipedia.org/wiki/Data_visualization
 		* https://en.wikipedia.org/wiki/Information_visualization
 		* https://en.wikipedia.org/wiki/Software_visualization
+		* Exposure to tools data acquisition, transformation & integration tools like Talend, Informatica, etc. & BI tools like Tableau, Pentaho, etc.
 + Using Continuous Integration/Deployment (CI/CD) pipelines and DevOps
 	- Jenkins, TeamCity, TFS, CruiseControl
 	- Jenkins, CircleCI, Concourse, Jira, GitHub, Artifactory, code analyzers and security scanners.
+	- Jira
+	- VSTS, AWS OpsWorks
+	- Chef, Puppet, and Ansible
+	- Terraform, CloudFormation, Spinnaker, Concourse
 	- Build automation
 		* [Gulp](https://gulpjs.com)
+			+ https://gulpjs.com/docs/en/getting-started/quick-start
 		* Maven
+		* Ant
 		* Gradle
 		* Dependency management and deployable artifact assembly
 			+ Grunt
@@ -95,6 +118,8 @@ To-do list:
 		* gulp
 		* browserify
 		* webpack
+	- ETL technologies
+		* Flume
 + Log processing
 	- Elastic
 	- Logstash
