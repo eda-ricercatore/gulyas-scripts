@@ -479,7 +479,10 @@ Notes about **relational calculus**:
 	\cite{WikipediaContributors2018a23}:
 	- **tuple relational calculus**
 	- **domain relational calculus** (DRC)
-		* **Domain relational calculus** (DRC) is a  \cite{WikipediaContributors2017a9}
+		* **Domain relational calculus** (DRC) is a method of computation
+			that serves as a **declarative database query language** for the
+			**relational model** (or relational data model)
+			\cite{WikipediaContributors2017a9}.
 + In contrast, the **relational model** of databases allows
 	**relational algebra** to provide procedural specification of database
 	queries \cite{WikipediaContributors2018a23}.
