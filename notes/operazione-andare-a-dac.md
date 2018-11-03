@@ -161,6 +161,8 @@ To-do list:
 	- test driven development methodology
 		* Junit, Mockito, Mocha, Chai
 		* HVM testing
+		* [Selenium](https://www.seleniumhq.org/)
+			+ Selenium is a portable software-testing framework for web applications.
 	- Build automation
 		* [Gulp](https://gulpjs.com)
 			+ https://gulpjs.com/docs/en/getting-started/quick-start

@@ -478,11 +478,13 @@ Notes about **relational calculus**:
 	includes the following calculi to declaratively specify database queries
 	\cite{WikipediaContributors2018a23}:
 	- **tuple relational calculus**
-	- **domain relational calculus**
+	- **domain relational calculus** (DRC)
+		* **Domain relational calculus** (DRC) is a  \cite{WikipediaContributors2017a9}
 + In contrast, the **relational model** of databases allows
 	**relational algebra** to provide procedural specification of database
 	queries \cite{WikipediaContributors2018a23}.
-
++ Note that the definition of calculus is "any method or system of
+	calculation" \cite{WikipediaContributors2018a24}.
 
 
 
