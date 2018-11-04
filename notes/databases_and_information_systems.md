@@ -483,6 +483,10 @@ Notes about **relational calculus**:
 			that serves as a **declarative database query language** for the
 			**relational model** (or relational data model)
 			\cite{WikipediaContributors2017a9}.
+		* Queries in **DRC** have the structure/form of a set of
+			**domain variable**s or constants, such that the set
+			**DRC** formulas in that structure are true
+			\cite{WikipediaContributors2017a9}.
 + In contrast, the **relational model** of databases allows
 	**relational algebra** to provide procedural specification of database
 	queries \cite{WikipediaContributors2018a23}.
