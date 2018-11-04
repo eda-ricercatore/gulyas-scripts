@@ -477,7 +477,10 @@ Notes about **relational calculus**:
 + Regarding the **relational model** of databases, **relational calculus**
 	includes the following calculi to declaratively specify database queries
 	\cite{WikipediaContributors2018a23}:
-	- **tuple relational calculus**
+	- **tuple relational calculus** is a method of computation that serves
+		as a **declarative database query language** for the
+		**relational model** (or relational data model), regarding
+		**data manipulation** \cite{WikipediaContributors2018a25}.
 	- **domain relational calculus** (DRC)
 		* **Domain relational calculus** (DRC) is a method of computation
 			that serves as a **declarative database query language** for the
