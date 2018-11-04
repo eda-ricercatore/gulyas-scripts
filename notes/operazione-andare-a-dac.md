@@ -63,6 +63,41 @@ To-do list:
 			+ Elastic Search (ElasticSearch)
 		* See [DB-Engines Ranking of Wide Column Stores](https://db-engines.com/en/ranking/wide+column+store)
 	- Process this with a *NewSQL* database.
+	- Notes:
+* https://en.wikipedia.org/wiki/Comparison_of_relational_database_management_systems
+* https://en.wikipedia.org/wiki/Relational_database_management_system
+* https://en.wikipedia.org/wiki/NoSQL
+* https://en.wikipedia.org/wiki/NewSQL
+* https://en.wikipedia.org/wiki/Apache_Ignite
+* https://en.wikipedia.org/wiki/Shared-nothing_architecture
+* https://en.wikipedia.org/wiki/Relation_algebra
+* https://en.wikipedia.org/wiki/Database_transaction
+* https://en.wikipedia.org/wiki/Transaction_log
+* https://en.wikipedia.org/wiki/Database_trigger
+* https://en.wikipedia.org/wiki/Database_index
+* https://en.wikipedia.org/wiki/Stored_procedure
+* https://en.wikipedia.org/wiki/Cursor_(databases)
+* https://en.wikipedia.org/wiki/Partition_(database)
+* https://en.wikipedia.org/wiki/Foreign_key
+* https://en.wikipedia.org/wiki/Null_(SQL)
+* https://en.wikipedia.org/wiki/Create,_read,_update_and_delete (CRUD)
+* https://en.wikipedia.org/wiki/CAP_theorem
+* https://en.wikipedia.org/wiki/Armstrong%27s_axioms
+* https://en.wikipedia.org/wiki/ACID
+* https://en.wikipedia.org/wiki/Concurrency_control
+* https://en.wikipedia.org/wiki/Query_optimization
+* https://en.wikipedia.org/wiki/Query_plan
+* https://en.wikipedia.org/wiki/Query_optimization
+* https://en.wikipedia.org/wiki/Replication_(computing)#DATABASE
+* https://en.wikipedia.org/wiki/Database_administration_and_automation
+* https://en.wikipedia.org/wiki/Database_storage_structures
+* https://en.wikipedia.org/wiki/Distributed_database
+* https://en.wikipedia.org/wiki/Referential_integrity
+* https://en.wikipedia.org/wiki/Relational_algebra
+* https://en.wikipedia.org/wiki/Transaction_processing
+* https://en.wikipedia.org/wiki/Object-relational_database
+* https://en.wikipedia.org/wiki/Outline_of_databases
+* https://en.wikipedia.org/wiki/Object-relational_impedance_mismatch
 	- Time series databases
 		* OpenTSDB
 		* Graphite
