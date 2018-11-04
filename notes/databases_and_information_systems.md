@@ -487,6 +487,13 @@ Notes about **relational calculus**:
 			**domain variable**s or constants, such that the set
 			**DRC** formulas in that structure are true
 			\cite{WikipediaContributors2017a9}.
+		* **DRC** and **tuple relational calculus** have the same operators:
+			**logical connectives**, such as negation, conjunction, and
+			disjunction \cite{WikipediaContributors2017a9}.
+		* In **DRC**, variables can be bind with **existential and universal
+			quantifiers** \cite{WikipediaContributors2017a9}.
++ The computational expressiveness of **DRC** and **relational algebra**
+	\cite{WikipediaContributors2017a9}.
 + In contrast, the **relational model** of databases allows
 	**relational algebra** to provide procedural specification of database
 	queries \cite{WikipediaContributors2018a23}.
