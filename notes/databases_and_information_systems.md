@@ -463,11 +463,12 @@ Notes about **Codd's theorem**:
 			+ three-valued logic
 			+ multiset semantics
 				- Can represent duplicate rows
-	- Conflicting statement from \cite{WikipediaContributors2018a25}
+	- Conflicting statement from \cite{WikipediaContributors2018a25}???
 		* A **relationally complete** query language for the
 			**relational model** can express queries in
 			**tuple relational calculus**, **domain relational calculus**,
 			and **relational algebra**.
+		* **Validate the aforementioned statement!!!**
 + Effectively, for expressing database queries in the **relational model**
 	(for databases), **relational algebra** and **relational calculus**
 	are logically equivalent \cite{WikipediaContributors2018a23};
