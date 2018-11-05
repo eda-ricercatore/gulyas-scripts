@@ -997,6 +997,8 @@ object-relational mapping
 	- The basic building block of a **relational database** is the
 		**domain** (or **data domain**), which is "similar [to],
 		but not equal to, a **data type** \cite{WikipediaContributors2018a25}.
+		* See [Ancillary Definitions](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/databases_and_information_systems.md#ancillary-definitions)
+		regarding the definitions of **domain** (or **data domain**).
 	- **row**, which is analogous to a **tuple**
 		\cite{WikipediaContributors2018a25}
 		* See [Ancillary Definitions](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/databases_and_information_systems.md#ancillary-definitions)
