@@ -3,8 +3,29 @@
 
 ##	Table of Contents
 
++ [Definitions of Database, Database Management System, and Related Concepts](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/databases_and_information_systems.md#definitions-of-database-database-management-system-and-related-concepts)
++ [Ancillary Definitions](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/databases_and_information_systems.md#ancillary-definitions)
+	- [Side Notes on Definitions](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/databases_and_information_systems.md#side-notes-on-definitions)
++ [Database Design](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/databases_and_information_systems.md#database-design)
++ [Database Models](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/databases_and_information_systems.md#database-models)
++ [Categories of Databases](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/databases_and_information_systems.md#categories-of-databases)
+	- [Object Databases](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/databases_and_information_systems.md#object-databases)
+	- [SQL](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/databases_and_information_systems.md#sql)
+	- [NoSQL](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/databases_and_information_systems.md#nosql)
+		* [Key-Value Store](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/databases_and_information_systems.md#key-value-store)
+		* [NoSQL Database Management Systems](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/databases_and_information_systems.md#nosql-database-management-systems)
+	- [NewSQL](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/databases_and_information_systems.md#newsql)
++ [Distributed Databases for Big Data](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/databases_and_information_systems.md#distributed-databases-for-big-data)
+	- [Distributed Databases Based on MapReduce](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/databases_and_information_systems.md#distributed-databases-based-on-mapreduce)
++ [Database Data Formats](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/databases_and_information_systems.md#database-data-formats)
+
+[To-Do List: Tasks](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/databases_and_information_systems.md#to-do-list-tasks)
 
 
+[References](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/databases_and_information_systems.md#references)
+
+
+[Author Information](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/databases_and_information_systems.md#author-information)
 
 
 ##	Definitions of Database, Database Management System, and Related Concepts
@@ -947,9 +968,14 @@ object-relational mapping
 
 ###	SQL
 
-Relational databases
-+
-+ relational database management systems
+**Relational databases**
++ Components of **relational databases**:
+	- The basic building block of a **relational database** is the
+		**domain** (or **data domain**), which is "similar [to],
+		but not equal to, a **data type** \cite{WikipediaContributors2018a25}.
+	- tuple/row \cite{WikipediaContributors2018a25}
+		* See
++ **relational database management systems** (**RDBMS**)
 	- database servers
 		* MySQL
 		* PostgreSQL
