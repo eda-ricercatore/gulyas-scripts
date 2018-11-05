@@ -460,6 +460,13 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 	duplicates \cite{WikipediaContributors2018a5};
 	- however, most tables are **multisets** (or **bags**)
 		\cite{WikipediaContributors2018a5}.
+	- For the **relational model of database**, "a **table** is [a]
+		"visual representation of a **relation**"
+		\cite{WikipediaContributors2018a25}
+	- For the **relational model of database**, a **table** can be
+		considered as a **relation**, even though they are not strictly
+		equivalent
+		\cite{WikipediaContributors2018a5,WikipediaContributors2018a25}.
 + A table can have **associated metadata**, such as constraints on the table
 	or values for certain columns \cite{WikipediaContributors2018a5}.
 
@@ -468,9 +475,7 @@ A **view** can function as a relational table, although its data would be
 + an **external table** can be considered as a view
 		\cite{WikipediaContributors2018a5}.
 
-For the **relational model of database**, a **table** can be considered as a
-	**relation**, even though they are not strictly equivalent
-	\cite{WikipediaContributors2018a5}.
+
 
 In a **hierarchical database**, which is a **non-relational system**, a
 	**table** has a distant counterpart known as **structured file**, which can
@@ -516,7 +521,8 @@ Notes about **Codd's theorem**:
 			+ three-valued logic
 			+ multiset semantics
 				- Can represent duplicate rows
-	- Conflicting statement from \cite{WikipediaContributors2018a25}???
+	- Conflicting statement from \cite{WikipediaContributors2018a25}
+		**[FIX THIS!!!]**
 		* A **relationally complete** query language for the
 			**relational model** can express queries in
 			**tuple relational calculus**, **domain relational calculus**,
@@ -868,8 +874,9 @@ A **surrogate key** is an attribute that functions as a key
 		affect **surrogate keys**;
 		merging databases may affect **natural keys**, but not
 			**surrogate keys**
-	- performance (in terms of lookup time... access time???) of **surrogate
-		keys** is better than **natural**/**business keys**
+	- performance (in terms of lookup time... access time
+		**[FIX THIS!!!]**) of **surrogate keys** is better than
+		**natural**/**business keys**
 		- This is because the former only depends on finding records with
 			one column (unique, immutable **surrogate key**), while the latter
 			depends on finding records with multiple columns
@@ -980,7 +987,7 @@ object-relational mapping
 		\cite{WikipediaContributors2018a25}
 		* See [Ancillary Definitions](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/databases_and_information_systems.md#ancillary-definitions)
 		regarding the definitions of **row** and **tuple**.
-	- **table**, which is a visual representation of a **relation**
+	- **table**, which is a "visual representation of a **relation**"
 		\cite{WikipediaContributors2018a25}
 		* See [Ancillary Definitions](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/databases_and_information_systems.md#ancillary-definitions)
 		regarding the definitions of **table** and **relation**.
@@ -1028,7 +1035,7 @@ Document-oriented database (= document store)
 + Flume
 
 
-Apache Ignite???
+Apache Ignite **[FIX THIS!!!]**
 
 
 ###	Distributed Databases Based on MapReduce
