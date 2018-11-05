@@ -463,6 +463,11 @@ Notes about **Codd's theorem**:
 			+ three-valued logic
 			+ multiset semantics
 				- Can represent duplicate rows
+	- Conflicting statement from \cite{WikipediaContributors2018a25}
+		* A **relationally complete** query language for the
+			**relational model** can express queries in
+			**tuple relational calculus**, **domain relational calculus**,
+			and **relational algebra**.
 + Effectively, for expressing database queries in the **relational model**
 	(for databases), **relational algebra** and **relational calculus**
 	are logically equivalent \cite{WikipediaContributors2018a23};
@@ -495,8 +500,18 @@ Notes about **relational calculus**:
 			disjunction \cite{WikipediaContributors2017a9}.
 		* In **DRC**, variables can be bind with **existential and universal
 			quantifiers** \cite{WikipediaContributors2017a9}.
+		* **domain relational calculus** (DRC) is also known as
+			**domain calculus** \cite{WikipediaContributors2018a25}
+		* **DRC** contains fragments of first-order logic
+			\cite{WikipediaContributors2018a25}.
++ In terms of expressive power, **tuple relational calculus** and
+	**domain relational calculus** are equivalent
+	\cite{WikipediaContributors2018a25}.
 + The computational expressiveness of **DRC** and **relational algebra**
-	\cite{WikipediaContributors2017a9}.
+	are equivalent \cite{WikipediaContributors2017a9}.
++ In terms of expressive power, **tuple relational calculus** and
+	**relational algebra** are equivalent
+	\cite{WikipediaContributors2018a25}.
 + In contrast, the **relational model** of databases allows
 	**relational algebra** to provide procedural specification of database
 	queries \cite{WikipediaContributors2018a23}.
