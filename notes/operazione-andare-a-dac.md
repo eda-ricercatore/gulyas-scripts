@@ -292,6 +292,7 @@ To-do list:
 		* https://github.com/josephmisiti/awesome-machine-learning/blob/master/courses.md
 		* https://github.com/josephmisiti/awesome-machine-learning/blob/master/blogs.md
 		* https://www.kdnuggets.com/2018/04/top-16-open-source-deep-learning-libraries.html
+		* mxnet, pytorch, tensorflow, Keras, sklearn, statsmodels
 + Log processing
 	- Elastic
 	- Logstash
@@ -306,9 +307,14 @@ To-do list:
 		* Docker
 		* Rocket
 		* Linkerd, Kubernetes, DC/OS, gRPC, Zipkin, Docker, and Prometheus.
+		* Docker, Kubernetes, Helm, Jenkins, AWS, Prometheus, Grafana
 	- Virtualization
 		* VMware
 		* OpenStack
+	- Data-driven:
+		* Google Analytics, Google Optimize, HotJar, Metabase, Airflow, ELK
+	- Others:
+		* EC2, EMR, Kinesis and Redshift
 + Cloud automation tools
 	- Ansible
 	- Chef
