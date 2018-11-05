@@ -282,6 +282,9 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 		the same \cite{WikipediaContributors2018a1}
 		* A **tuple** can also be described as a function that maps names to
 			values \cite{WikipediaContributors2018a1}.
+		* "A **tuple** is a finite sequence of attributes" (i.e.,
+			"ordered pairs of domains and values")
+			\cite{WikipediaContributors2018a25}
 	- A **heading** is "a set of attributes" that has "no two distinct
 		elements" [that] have the same name" \cite{WikipediaContributors2018a1}.
 	- A **body** is a set of tuples that have the same heading
