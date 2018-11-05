@@ -447,6 +447,38 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 	- A **n-tuple** can be defined as a **function**, **nested ordered pair**,
 		**nested sets** \cite{WikipediaContributors2018a19}.
 
+"A **table** is a collection of related data" stored in a database, using
+	a structured format consists of (horizontal) rows and (vertical) columns
+	(identifiable by name) \cite{WikipediaContributors2018a5,WikipediaContributors2018a15};
++ the number of columns are specified (and fixed), and the table can
+	have any number of rows \cite{WikipediaContributors2018a5};
++ for any {row, column} entry, it can have multiple values
+	\cite{WikipediaContributors2018a5};
++ a **table** is defined for **relational databases** and
+	**flat-file databases** \cite{WikipediaContributors2018a5}.
++ A **table** can be used to describe a **relation**, which is a set without
+	duplicates \cite{WikipediaContributors2018a5};
+	- however, most tables are **multisets** (or **bags**)
+		\cite{WikipediaContributors2018a5}.
++ A table can have **associated metadata**, such as constraints on the table
+	or values for certain columns \cite{WikipediaContributors2018a5}.
+
+A **view** can function as a relational table, although its data would be
+	computed/calculated at **query time** \cite{WikipediaContributors2018a5};
++ an **external table** can be considered as a view
+		\cite{WikipediaContributors2018a5}.
+
+For the **relational model of database**, a **table** can be considered as a
+	**relation**, even though they are not strictly equivalent
+	\cite{WikipediaContributors2018a5}.
+
+In a **hierarchical database**, which is a **non-relational system**, a
+	**table** has a distant counterpart known as **structured file**, which can
+	have repeating information in a row (i.e., the **child data segments**)
+	\cite{WikipediaContributors2018a5};
++ "data are stored [as a] sequence of physical records"
+	\cite{WikipediaContributors2018a5}.
+
 Notes about **Codd's theorem**:
 + Either we can formulate a **database query** using **relational algebra**
 	and **domain-independent relational calculus**, or it cannot be
@@ -657,37 +689,7 @@ The main categories of **query languages** are
 + **information retrieval query languages**
 
 
-"A **table** is a collection of related data" stored in a database, using
-	a structured format consists of (horizontal) rows and (vertical) columns
-	(identifiable by name) \cite{WikipediaContributors2018a5,WikipediaContributors2018a15};
-+ the number of columns are specified (and fixed), and the table can
-	have any number of rows \cite{WikipediaContributors2018a5};
-+ for any {row, column} entry, it can have multiple values
-	\cite{WikipediaContributors2018a5};
-+ a **table** is defined for **relational databases** and
-	**flat-file databases** \cite{WikipediaContributors2018a5}.
-+ A **table** can be used to describe a **relation**, which is a set without
-	duplicates \cite{WikipediaContributors2018a5};
-	- however, most tables are **multisets** (or **bags**)
-		\cite{WikipediaContributors2018a5}.
-+ A table can have **associated metadata**, such as constraints on the table
-	or values for certain columns \cite{WikipediaContributors2018a5}.
 
-A **view** can function as a relational table, although its data would be
-	computed/calculated at **query time** \cite{WikipediaContributors2018a5};
-+ an **external table** can be considered as a view
-		\cite{WikipediaContributors2018a5}.
-
-For the **relational model of database**, a **table** can be considered as a
-	**relation**, even though they are not strictly equivalent
-	\cite{WikipediaContributors2018a5}.
-
-In a **hierarchical database**, which is a **non-relational system**, a
-	**table** has a distant counterpart known as **structured file**, which can
-	have repeating information in a row (i.e., the **child data segments**)
-	\cite{WikipediaContributors2018a5};
-+ "data are stored [as a] sequence of physical records"
-	\cite{WikipediaContributors2018a5}.
 
 A **primary key** is a specific choice of columns that can uniquely
 	identify rows \cite{WikipediaContributors2018a5} (or identify
