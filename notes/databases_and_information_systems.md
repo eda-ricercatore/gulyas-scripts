@@ -969,12 +969,19 @@ object-relational mapping
 ###	SQL
 
 **Relational databases**
-+ Components of **relational databases**:
++ Components of **relational databases**, and their analogous mapping to
+	\cite{WikipediaContributors2018a25}:
 	- The basic building block of a **relational database** is the
 		**domain** (or **data domain**), which is "similar [to],
 		but not equal to, a **data type** \cite{WikipediaContributors2018a25}.
-	- tuple/row \cite{WikipediaContributors2018a25}
-		* See
+	- **row**, which is analogous to a **tuple**
+		\cite{WikipediaContributors2018a25}
+		* See [Ancillary Definitions](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/databases_and_information_systems.md#ancillary-definitions)
+		regarding the definitions of **row** and **tuple**.
+	- **table**, which is a visual representation of a **relation**
+		\cite{WikipediaContributors2018a25}
+		* See [Ancillary Definitions](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/databases_and_information_systems.md#ancillary-definitions)
+		regarding the definitions of **table** and **relation**.
 + **relational database management systems** (**RDBMS**)
 	- database servers
 		* MySQL
