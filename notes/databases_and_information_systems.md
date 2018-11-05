@@ -297,7 +297,8 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 	- The **degree of a *n*-tuple** is *n*, *n >= 0*
 		\cite{WikipediaContributors2018a1}.
 + "A relation is a set of ordered pairs of domains and names"
-	\cite{WikipediaContributors2018a25}.
+	\cite{WikipediaContributors2018a25};
+	**[a relation is a set of unordered tuples/(pairs of domains and values)][Fix This!!!]**
 	- Alternatively, "a relation is a set of (compatible) tuples"
 		\cite{WikipediaContributors2018a25}.
 + In terms of a finitary relation, under the **closed-world assumption**
