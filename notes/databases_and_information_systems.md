@@ -272,6 +272,9 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 		of elements \cite{WikipediaContributors2018a19}.
 	- An **attribute** (or **data type** or **type**) is a pair of a name
 		and a domain \cite{WikipediaContributors2018a1}.
+		* An **attribute** is an "ordered pair of domains and values"
+			\cite{WikipediaContributors2018a25}
+			**[Are attributes supposed to be ordered?][Fix This!!!]**
 	- An **attribute value** is a pair of an attribute name and an element
 		of the attribute's domain \cite{WikipediaContributors2018a1}.
 	- A **tuple** is a set of unique attribute values, such that no pair
