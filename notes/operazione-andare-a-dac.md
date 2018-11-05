@@ -250,6 +250,12 @@ To-do list:
 		* JSON
 		* XML
 		* SOAP
+	- Proficiency with design software
+		* Sketch
+		* Framer
+		* Invision
+		* Adobe CC:XD
+		* Or, other wireframing/prototyping design software
 	- serial data communication systems
 		* CAN, FlexRay, MOST, and Ethernet
 	- enterprise architecture

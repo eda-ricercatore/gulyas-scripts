@@ -296,6 +296,8 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 		\cite{WikipediaContributors2018a1}.
 	- The **degree of a *n*-tuple** is *n*, *n >= 0*
 		\cite{WikipediaContributors2018a1}.
++
+	
 + In terms of a finitary relation, under the **closed-world assumption**
 	(**CWA**) \cite{WikipediaContributors2018a9}, a ***n*-ary relation** is
 	a set of tuples on some set of *n* sets *S_1, S_2, ..., S_n*
