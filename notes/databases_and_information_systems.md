@@ -196,6 +196,10 @@ A **storage record** is a group of fields, data, or words
 		* A **relvar**, or **relation variable**, is a variable that is
 			assigned a relation and "the relation itself"
 			\cite{WikipediaContributors2017a7}.
+	- "A **tuple** is a finite sequence of **attributes**," where an
+		attribute is an "ordered pair of domains and values"
+		\cite{WikipediaContributors2018a25}
+		**[Here, tuple is defined with ordering.][Fix This!!!]**
 	- Each **column** of a **row**/**table** requires data value(s)
 		of a specific data type \cite{WikipediaContributors2018a15}.
 + A **record** (or **structure**, **struct**, or **compound data**)
@@ -271,8 +275,8 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 	- An **attribute value** is a pair of an attribute name and an element
 		of the attribute's domain \cite{WikipediaContributors2018a1}.
 	- A **tuple** is a set of unique attribute values, such that no pair
-		of attribute values (or any two distinct attribute values)
-		\cite{WikipediaContributors2018a1}
+		of attribute values (or any two distinct attribute values) are
+		the same \cite{WikipediaContributors2018a1}
 		* A **tuple** can also be described as a function that maps names to
 			values \cite{WikipediaContributors2018a1}.
 	- A **heading** is "a set of attributes" that has "no two distinct
