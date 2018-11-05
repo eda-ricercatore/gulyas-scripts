@@ -174,6 +174,9 @@ To-do list:
 	- Concourse
 	- Jenkins, TeamCity, TFS, CruiseControl
 	- Jenkins, CircleCI, Concourse, Jira, GitHub, Artifactory, code analyzers and security scanners.
+	- Bamboo
+	- Jenkins
+	- Travis
 	- Jira/Confluence
 	- Zuul, Nodepool, Jenkins Job Builder
 	- Jira
