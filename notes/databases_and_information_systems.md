@@ -384,6 +384,12 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 	- Since "the domain of each attribute is a data type," and the named
 		relational schema is effectively a **relation variable** (or
 		**relvar**) \cite{WikipediaContributors2018a1}.
+	- This is summarized from a set-theoretic perspective
+		\cite{WikipediaContributors2018a20}.
+	- "A **relational database schema** is a tuple *S = (D, R, h)*, where
+		*D* is the domain of atomic values, *R* is a finite set of
+		relational names, *h:R \longrightarrow*
+		\cite{WikipediaContributors2018a25}
 	- A relational database is composed of named **relation variables** (or
 		**relvars**), so that the database can be kept updated
 		\cite{WikipediaContributors2018a1}.
@@ -412,8 +418,6 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 		* The **Data Definition Language** is used to define
 			**base relation variables** and **derived relation variables**
 			\cite{WikipediaContributors2018a1}.
-	- This is summarized from a set-theoretic perspective
-		\cite{WikipediaContributors2018a20}.
 + In *SQL*, a **relation** is a table representation, such that each row of the
 	table represents a tuple and each column represents the values of
 	an attribute \cite{WikipediaContributors2018a1}.
