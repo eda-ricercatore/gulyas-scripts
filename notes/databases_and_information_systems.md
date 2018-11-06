@@ -576,6 +576,14 @@ Notes about **relational calculus**:
 		as a **declarative database query language** for the
 		**relational model** (or relational data model), regarding
 		**data manipulation** \cite{WikipediaContributors2018a25}.
+		* In **tuple relational calculus**, just like **DRC**, formulas
+			use **logical connectives** (or logical operators) to combine
+			atoms and use **existential and universal quantifiers** to
+			bind variables \cite{WikipediaContributors2018a25}.
+		* The aforementioned **logical connectives** are negation,
+			conjunction, and disjunction \cite{WikipediaContributors2018a25}.
+		* **Tuple relational calculus** contains fragments of
+			first-order logic \cite{WikipediaContributors2018a25}
 	- **domain relational calculus** (DRC)
 		* **Domain relational calculus** (DRC) is a method of computation
 			that serves as a **declarative database query language** for the
@@ -588,8 +596,9 @@ Notes about **relational calculus**:
 		* **DRC** and **tuple relational calculus** have the same operators:
 			**logical connectives**, such as negation, conjunction, and
 			disjunction \cite{WikipediaContributors2017a9}.
-		* In **DRC**, variables can be bind with **existential and universal
-			quantifiers** \cite{WikipediaContributors2017a9}.
+		* In **DRC**, variables can be bind with
+			**existential and universal quantifiers**
+			\cite{WikipediaContributors2017a9}.
 		* **domain relational calculus** (DRC) is also known as
 			**domain calculus** \cite{WikipediaContributors2018a25}
 		* **DRC** contains fragments of first-order logic
