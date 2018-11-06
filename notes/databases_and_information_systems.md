@@ -586,7 +586,15 @@ Notes about **relational calculus**:
 			first-order logic \cite{WikipediaContributors2018a25}.
 		* For a given **relational database schema**, a **query expression**
 			can be formed using formulas of the given schema
-			\cite{WikipediaContributors2018a25}
+			\cite{WikipediaContributors2018a25}.
+		* The results of **domain- specific/dependent queries** are
+			proportional to the **relational database schema**'s
+			domain size \cite{WikipediaContributors2018a25}.
+		Hence, use **domain-independent queries** instead of
+		 	**domain- specific/dependent queries**, because
+			**domain-independent queries** will return the same result
+			for a given database, regardless of the used schema
+			(and selected domain) \cite{WikipediaContributors2018a25}.
 	- **domain relational calculus** (DRC)
 		* **Domain relational calculus** (DRC) is a method of computation
 			that serves as a **declarative database query language** for the
