@@ -388,8 +388,19 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 		\cite{WikipediaContributors2018a20}.
 	- "A **relational database schema** is a tuple *S = (D, R, h)*, where
 		*D* is the domain of atomic values, *R* is a finite set of
-		relational names, *h:R \longrightarrow*
-		\cite{WikipediaContributors2018a25}
+		relational names, *h:R \rightarrow 2^{C}* is a function that
+		associates each header with its corresponding relation name in *R*,
+		and *C* is a set of column names (or attributes) and includes
+		headers as a finite subset of *C* \cite{WikipediaContributors2018a25}.
+		- This definition uses a simpler relational model than the
+			**full relational model** that has multiple domains and each
+			header is a set of column names that is mapped to a domain
+			\cite{WikipediaContributors2018a25}.
+		- A tuple over a domain is a partial function that maps a set of
+			column names tuples to an atomic value in *D*
+			\cite{WikipediaContributors2018a25}.
+		- Each tuple in a relation shall contain the same set of
+			**column names** \cite{WikipediaContributors2018a25}.
 	- A relational database is composed of named **relation variables** (or
 		**relvars**), so that the database can be kept updated
 		\cite{WikipediaContributors2018a1}.
