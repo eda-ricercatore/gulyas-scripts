@@ -583,7 +583,10 @@ Notes about **relational calculus**:
 		* The aforementioned **logical connectives** are negation,
 			conjunction, and disjunction \cite{WikipediaContributors2018a25}.
 		* **Tuple relational calculus** contains fragments of
-			first-order logic \cite{WikipediaContributors2018a25}
+			first-order logic \cite{WikipediaContributors2018a25}.
+		* For a given **relational database schema**, a **query expression**
+			can be formed using formulas of the given schema
+			\cite{WikipediaContributors2018a25}
 	- **domain relational calculus** (DRC)
 		* **Domain relational calculus** (DRC) is a method of computation
 			that serves as a **declarative database query language** for the
