@@ -131,9 +131,13 @@
 + mainly based on
 + the basis of, forms the basis of, provides the basis of
 + underpinning, underpins
++ is rooted in
++ is anchored in
 
 
-
++ rather than
++ as opposed to
++ instead of
 
 
 

@@ -499,7 +499,7 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 	**flat-file databases** \cite{WikipediaContributors2018a5}.
 + A **table** can be used to describe a **relation**, which is a set without
 	duplicates \cite{WikipediaContributors2018a5};
-	- however, most tables are **multisets** (or **bags**)
+	- however, most tables are **multi-sets** (or **bags**)
 		\cite{WikipediaContributors2018a5}.
 		* E.g, this is true for *SQL* \cite{WikipediaContributors2018a26}.
 	- For the **relational model of database**, "a **table** is [a]
@@ -561,7 +561,7 @@ Notes about **Codd's theorem**:
 			**relational algebra**, such as \cite{WikipediaContributors2017a8}:
 			+ SQL nulls
 			+ three-valued logic
-			+ multiset semantics
+			+ multi-set semantics
 				- Can represent duplicate rows
 	- Conflicting statement from \cite{WikipediaContributors2018a25}
 		**[FIX THIS!!!]**
@@ -1058,7 +1058,16 @@ object-relational mapping
 		* See [Ancillary Definitions](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/databases_and_information_systems.md#ancillary-definitions)
 		regarding the definitions of **table** and **relation**.
 + Quasi-relational *SQL*
-	- *SQL* is 
+	- Even though **relational algebra** underpins *SQL*, *SQL* does not
+		implement accurately/exactly \cite{WikipediaContributors2018a26}.
+		* For example, tables (or operands) in *SQL* do not
+			correspond to (or concur with) relations in **relational algebra**
+			\cite{WikipediaContributors2018a26}.
+			+ A *SQL* table is a multi-set (or bag), as opposed to a set
+				in **relational algebra** \cite{WikipediaContributors2018a26}.
+		* SQL implementations do not allow some theorems in
+			**relational algebra** to be specified
+			\cite{WikipediaContributors2018a26}.
 + **relational database management systems** (**RDBMS**)
 	- database servers
 		* MySQL
