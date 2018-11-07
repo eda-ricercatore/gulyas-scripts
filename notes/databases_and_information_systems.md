@@ -659,8 +659,13 @@ Notes about **relational algebra**:
 	data storage "and defining queries" \cite{WikipediaContributors2018a26}.
 	- The primary/primitive operators of Codd's algebra (from E. F. Codd's
 		**relational model**) form the basis of **query languages** for
-		**database management**
-		\cite{WikipediaContributors2018a26}.
+		**database management** \cite{WikipediaContributors2018a26}.
+		* The operators are \cite{WikipediaContributors2018a26}:
+			+ selection
+			+ projection
+			+ Cartesian product (or, cross product, or cross join)
+			+ set union
+			+ set difference
 
 
 
