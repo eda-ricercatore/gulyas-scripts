@@ -666,7 +666,9 @@ Notes about **relational algebra**:
 			+ Cartesian product (or, cross product, or cross join)
 			+ set union
 			+ set difference
-
+	- The natural join *SQL* operator, and join-like *SQL* operators,
+		enables compositions of functions to be defined
+		\cite{WikipediaContributors2018a26}.
 
 
 
