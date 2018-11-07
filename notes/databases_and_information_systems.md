@@ -1064,7 +1064,8 @@ object-relational mapping
 			correspond to (or concur with) relations in **relational algebra**
 			\cite{WikipediaContributors2018a26}.
 			+ A *SQL* table is a multi-set (or bag), as opposed to a set
-				in **relational algebra** \cite{WikipediaContributors2018a26}.
+				(of tuples, or ordered pairs of domains and names) in
+				**relational algebra** \cite{WikipediaContributors2018a26}.
 		* SQL implementations do not allow some theorems in
 			**relational algebra** to be specified
 			\cite{WikipediaContributors2018a26}.
