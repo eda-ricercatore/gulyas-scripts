@@ -501,6 +501,7 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 	duplicates \cite{WikipediaContributors2018a5};
 	- however, most tables are **multisets** (or **bags**)
 		\cite{WikipediaContributors2018a5}.
+		* E.g, this is true for *SQL* \cite{WikipediaContributors2018a26}.
 	- For the **relational model of database**, "a **table** is [a]
 		"visual representation of a **relation**"
 		\cite{WikipediaContributors2018a25}
@@ -653,8 +654,10 @@ Notes about **relational algebra**:
 + In contrast, **relational model** of databases allows **relational calculus**
 	to declaratively specify database queries
 	\cite{WikipediaContributors2018a23}.
-
-
++ "**Relational algebra** is a family of algebras" that has well-founded
+	semantics for operations on relational databases, such as modeling
+	data storage "and defining queries" \cite{WikipediaContributors2018a26}.
+	- \cite{WikipediaContributors2018a26}.
 
 
 
