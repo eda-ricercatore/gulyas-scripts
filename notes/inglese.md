@@ -104,7 +104,9 @@
 
 + consist of
 + comprised
-+ combined
++ combined/combine
+	- merge
+	- unite
 + composed
 + contained
 + includes

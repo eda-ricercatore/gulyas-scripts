@@ -304,9 +304,14 @@ A **relation** is a set of tuples {d_1, d_2, ..., d_n}, where each tuple d_i
 + "In [the context of] database analysis and data management, a **data domain**
 	refers to all the values [that] a data element [can] contain"
 	\cite{WikipediaContributors2017a10}.
-	To determine the boundary of a **data domain** (or **domain boundary**),
+	- To determine the boundary of a **data domain** (or **domain boundary**),
 		enumerate a list of values for a data type
 		\cite{WikipediaContributors2017a10}.
+	- This definition of **data domain** unites the following concepts of
+		domain \cite{WikipediaContributors2017a10}:
+		* An area that influence/control is exerted/asserted/exercised
+		* "The set of values [for variables] for which [the] function/domain
+			is defined"
 + In terms of a finitary relation, under the **closed-world assumption**
 	(**CWA**) \cite{WikipediaContributors2018a9}, a ***n*-ary relation** is
 	a set of tuples on some set of *n* sets *S_1, S_2, ..., S_n*
