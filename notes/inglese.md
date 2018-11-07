@@ -29,7 +29,7 @@
 + additionally
 + coupled with
 + Together with
-+ WIthal
++ Withal
 + Therewith
 
 
@@ -124,7 +124,13 @@
 
 
 
-
++ loosely based on
++ largely based on
++ partially based on
++ essentially based on
++ mainly based on
++ the basis of, forms the basis of, provides the basis of
++ underpinning, underpins
 
 
 

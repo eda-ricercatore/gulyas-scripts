@@ -1057,6 +1057,8 @@ object-relational mapping
 		\cite{WikipediaContributors2018a25}
 		* See [Ancillary Definitions](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/databases_and_information_systems.md#ancillary-definitions)
 		regarding the definitions of **table** and **relation**.
++ Quasi-relational *SQL*
+	- *SQL* is 
 + **relational database management systems** (**RDBMS**)
 	- database servers
 		* MySQL
