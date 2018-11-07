@@ -657,7 +657,10 @@ Notes about **relational algebra**:
 + "**Relational algebra** is a family of algebras" that has well-founded
 	semantics for operations on relational databases, such as modeling
 	data storage "and defining queries" \cite{WikipediaContributors2018a26}.
-	- \cite{WikipediaContributors2018a26}.
+	- The primary/primitive operators of Codd's algebra (from E. F. Codd's
+		**relational model**) form the basis of **query languages** for
+		**database management**
+		\cite{WikipediaContributors2018a26}.
 
 
 
