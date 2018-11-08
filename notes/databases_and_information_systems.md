@@ -1011,8 +1011,8 @@ In the context of **relational database**s, a **foreign key** is a non-empty
 	collection of fields (including a single field) in a table (*Table A*) that
 	uniquely identifies a row of another table (*Table B*, or the same table
 	*Table A*) \cite{WikipediaContributors2018a34}.
-+ That is, a **foreign key**, defined in *Table B*, refers to a **unique key**
-	in *Table A* \cite{WikipediaContributors2018a34}.
++ That is, a **foreign key**, which is defined in *Table B*, refers to a
+	**unique key** in *Table A* \cite{WikipediaContributors2018a34}.
 
 
 
