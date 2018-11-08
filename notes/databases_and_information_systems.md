@@ -682,8 +682,8 @@ Notes about **relational algebra**:
 			+ Category theory \cite{WikipediaContributors2018a30} is a
 				part of abstract algebra \cite{WikipediaContributors2018a31}.
 		* The natural **join *SQL* operator** enables relations associated
-			with a **foreign key** to be combined
-			\cite{WikipediaContributors2018a26}.
+			with a **foreign key** \cite{WikipediaContributors2018a34} to be
+			combined \cite{WikipediaContributors2018a26}.
 	- **Relational algebra** cannot express **transitive closure**s
 		\cite{WikipediaContributors2018a26};
 		**relational algebra** does not allow expressions to represent
@@ -1035,7 +1035,8 @@ In a temporal database, each row has a **natural**/**business key** and the
 + there can be different reasons for choosing a key as the **primary
 	key** over other keys, such as \cite{WikipediaContributors2018a6}:
 	- it is the **"preferred" identifier** for data in the table;
-	- its usage as **foreign key references** from other tables;
+	- its usage as **foreign key references**
+		\cite{WikipediaContributors2018a34} from other tables;
 	- it indicates certain technical rather than semantic feature
 		of the table; and
 	- special syntax features of certain computer languages and software
