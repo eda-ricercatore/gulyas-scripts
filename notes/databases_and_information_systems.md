@@ -708,13 +708,18 @@ Notes about **relational algebra**:
 			into equivalent but smaller **binary expression tree**s
 			\cite{WikipediaContributors2018a26}, such that their
 			subtrees are smaller.
-			- A smaller subtree implies smaller subexpressions that
+			+ A smaller subtree implies smaller subexpressions that
 				provide/produce smaller relations
 				\cite{WikipediaContributors2018a26}.
-			- In addition, **query optimization** tries to compute
+			+ In addition, **query optimization** tries to compute
 				**common subexpressions** once, and reuse these results
 				in other queries that contain these **common subexpressions**
 				\cite{WikipediaContributors2018a26}.
+			+ Rules for **query optimization**
+				\cite{WikipediaContributors2018a26}:
+				- selection
+				- projection
+				- rename
 
 
 
