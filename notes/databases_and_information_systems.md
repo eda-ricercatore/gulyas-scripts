@@ -669,7 +669,15 @@ Notes about **relational algebra**:
 	- The natural join *SQL* operator, and join-like *SQL* operators,
 		enables compositions of functions to be defined
 		\cite{WikipediaContributors2018a26}.
-
+		* In category theory \cite{WikipediaContributors2018a29}, the join operator is known as fiber product
+			\cite{WikipediaContributors2018a26}, pullback, fibre product,
+			fibered product, or Cartesian square
+			\cite{WikipediaContributors2018a27}.
+			+ In category theory \cite{WikipediaContributors2018a29}, limits
+				\cite{WikipediaContributors2018a28} (such as pullbacks) represent the inherent/intrinsic/essential properties of
+				**universal constructions**
+				\cite{WikipediaContributors2018a27,WikipediaContributors2018a29}.
+	-
 
 
 "A **database segment** is a database object that occupies physical space,
