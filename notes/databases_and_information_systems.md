@@ -696,6 +696,27 @@ Notes about **relational algebra**:
 			+ **hierarchical queries** are implemented by recursive
 				**common table expressions** (**CTE**)
 				\cite{WikipediaContributors2018a32}
+	- Use properties of **relational algebra** to perform
+		**query optimization** \cite{WikipediaContributors2018a26}
+		* A **binary expression tree** is a special type of binary trees
+			that represent algebraic and boolean expressions
+			\cite{WikipediaContributors2018a33}.
+		* Represent queries as **binary expression tree**s, such that their
+			"internal nodes are operators", "leaves are relations", and
+			"subtress are subexpressions" \cite{WikipediaContributors2018a26}.
+		* **Query optimization** transforms a **binary expression tree**s
+			into equivalent but smaller **binary expression tree**s
+			\cite{WikipediaContributors2018a26}, such that their
+			subtrees are smaller.
+			- A smaller subtree implies smaller subexpressions that
+				provide/produce smaller relations
+				\cite{WikipediaContributors2018a26}.
+			- In addition, **query optimization** tries to compute
+				**common subexpressions** once, and reuse these results
+				in other queries that contain these **common subexpressions**
+				\cite{WikipediaContributors2018a26}.
+
+
 
 "A **database segment** is a database object that occupies physical space,
 	such as table data and indexes/indices" \cite{WikipediaContributors2018z}.
