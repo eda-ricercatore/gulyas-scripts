@@ -1008,12 +1008,14 @@ A **surrogate key** is an attribute that functions as a key
 			\cite{WikipediaContributors2018a5,WikipediaContributors2018a6}.
 
 In the context of **relational database**s, a **foreign key** is a non-empty
-	collection of fields (including a single field) in a table (*Table A*) that
-	uniquely identifies a row of another table (*Table B*, or the same table
-	*Table A*) \cite{WikipediaContributors2018a34}.
+	collection of fields (including a single field) in a **table** (*Table A*)
+	that uniquely identifies a row of another **table** (*Table B*, or the same
+	**table** *Table A*) \cite{WikipediaContributors2018a34}.
 + That is, a **foreign key**, which is defined in *Table B*, refers to a
 	**unique key** in *Table A* \cite{WikipediaContributors2018a34}.
-
++ The **table** defining the **foreign key** is the **child table**, and
+	the other table using the **foreign key** to uniquely identify a row
+	is known as the **referenced table** (or **parent table**).
 
 
 In a temporal database, each row has a **natural**/**business key** and the
