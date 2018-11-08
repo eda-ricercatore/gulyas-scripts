@@ -684,7 +684,18 @@ Notes about **relational algebra**:
 		* The natural **join *SQL* operator** enables relations associated
 			with a **foreign key** to be combined
 			\cite{WikipediaContributors2018a26}.
-
+	- **Relational algebra** cannot express **transitive closure**s
+		\cite{WikipediaContributors2018a26};
+		**relational algebra** does not allow expressions to represent
+			operators, such as **transitive closure**
+			\cite{WikipediaContributors2018a26}.
+		* However, *SQL* allows **fixpoint queries**
+			\cite{WikipediaContributors2018a26} and general
+			**recursive fixpoint queries**, such as **hierarchical queries**
+			\cite{WikipediaContributors2018a32}.
+			+ **hierarchical queries** are implemented by recursive
+				**common table expressions** (**CTE**)
+				\cite{WikipediaContributors2018a32}
 
 "A **database segment** is a database object that occupies physical space,
 	such as table data and indexes/indices" \cite{WikipediaContributors2018z}.
