@@ -666,10 +666,12 @@ Notes about **relational algebra**:
 			+ Cartesian product (or, cross product, or cross join)
 			+ set union
 			+ set difference
-	- The natural join *SQL* operator, and join-like *SQL* operators,
-		enables compositions of functions to be defined
+	- The natural **join *SQL* operator**, and **join-like *SQL* operators**,
+		enables compositions of relations to be defined
 		\cite{WikipediaContributors2018a26}.
-		* In category theory \cite{WikipediaContributors2018a29,WikipediaContributors2018a30}, the join operator is known as fiber product
+		* In category theory
+			\cite{WikipediaContributors2018a29,WikipediaContributors2018a30},
+			the join operator is known as fiber product
 			\cite{WikipediaContributors2018a26}, pullback, fibre product,
 			fibered product, or Cartesian square
 			\cite{WikipediaContributors2018a27}.
@@ -679,7 +681,9 @@ Notes about **relational algebra**:
 				\cite{WikipediaContributors2018a27,WikipediaContributors2018a29}.
 			+ Category theory \cite{WikipediaContributors2018a30} is a
 				part of abstract algebra \cite{WikipediaContributors2018a31}.
-	-
+		* The natural **join *SQL* operator** enables relations associated
+			with a **foreign key** to be combined
+			\cite{WikipediaContributors2018a26}.
 
 
 "A **database segment** is a database object that occupies physical space,
