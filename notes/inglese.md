@@ -103,7 +103,7 @@
 
 
 + consist of
-+ comprised
++ comprised of
 + combined/combine
 	- merge
 	- unite
