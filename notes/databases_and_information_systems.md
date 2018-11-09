@@ -1045,8 +1045,8 @@ In the context of **relational database**s, a **foreign key** is a non-empty
 			+ **self-referencing foreign key**
 			+ **recursive foreign key**
 		* "In database management systems, this is often accomplished by
-			linking a first and second reference to the same table"
-			\cite{WikipediaContributors2018a34}
+			linking a first and second reference to the same table"???
+			**[Fix This!!!]** \cite{WikipediaContributors2018a34}
 + The **referential integrity** constraint for the **child table** and
 	the **referenced table** (or **parent table**) is that the **foreign key**
 	of the **referenced table** (or **parent table**) must be equivalent
@@ -1078,7 +1078,7 @@ In the context of **relational database**s, a **foreign key** is a non-empty
 		independently \cite{WikipediaContributors2018a34}.
 	- Hence, **foreign key**s allow "cascading relationships between tables"
 		to be formed \cite{WikipediaContributors2018a34}.
-+ Use **data integrity** constraints to define **foreign key**s in the 
++ Use **data integrity** constraints to define **foreign key**s in the
 	\cite{WikipediaContributors2018a34}.
 
 
