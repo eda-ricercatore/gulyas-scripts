@@ -1016,6 +1016,19 @@ In the context of **relational database**s, a **foreign key** is a non-empty
 + The **table** defining the **foreign key** is the **child table**, and
 	the other table using the **foreign key** to uniquely identify a row
 	is known as the **referenced table** (or **parent table**).
++ The **referential integrity** constraint for the **child table** and
+	the **referenced table** (or **parent table**) is that the **foreign key**
+	of the **referenced table** (or **parent table**) must be equivalent
+	to the **candidate key** for a particular row of the **child table**
+	(or **primary table**??? **[Fix This!!!]**)
+	\cite{WikipediaContributors2018a34}.
+	- The **foreign key** of the **referenced table** (or **parent table**)
+		cannot be a **candidate key** for multiple rows of the
+		**child table** \cite{WikipediaContributors2018a34}.
+
+
+
+
 
 
 In a temporal database, each row has a **natural**/**business key** and the
