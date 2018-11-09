@@ -1007,6 +1007,12 @@ A **surrogate key** is an attribute that functions as a key
 			depends on finding records with multiple columns
 			\cite{WikipediaContributors2018a5,WikipediaContributors2018a6}.
 
+
+
+
+
+
+
 In the context of **relational database**s, a **foreign key** is a non-empty
 	collection of fields (including a single field) in a **table** (*Table A*)
 	that uniquely identifies a row of another **table** (*Table B*, or the same
@@ -1016,6 +1022,25 @@ In the context of **relational database**s, a **foreign key** is a non-empty
 + The **table** defining the **foreign key** is the **child table**, and
 	the other table using the **foreign key** to uniquely identify a row
 	is known as the **referenced table** (or **parent table**).
+	- The following terms are used interchangeably
+		\cite{WikipediaContributors2018a34}:
+		* **referenced table**
+		* **parent table**
+		* master table
+	- The following terms are used interchangeably
+		\cite{WikipediaContributors2018a34}:
+		* **child table**
+		* **referencing table**
+	- A one-to-many relationship between the **parent table** (or
+		**referenced table**) and the **child table** (or **referencing table**)
+		can exist \cite{WikipediaContributors2018a34}.
+	- When the **child table** (**referencing table**) and the
+		**parent table** (or **referenced table**) are the same, the
+		**foreign key** refers back to the same table
+		\cite{WikipediaContributors2018a34}.
+		* **Foreign key**s that refer back to the same table is known in
+			*SQL:2003* (current revision of the SQL database query language
+			is *SQL:2016*).
 + The **referential integrity** constraint for the **child table** and
 	the **referenced table** (or **parent table**) is that the **foreign key**
 	of the **referenced table** (or **parent table**) must be equivalent
@@ -1028,20 +1053,17 @@ In the context of **relational database**s, a **foreign key** is a non-empty
 	- Many "**database management systems** provide mechanisms" to
 		check/validate that the **referential integrity** constraint is
 		satisfied \cite{WikipediaContributors2018a34}.
-	- The following terms are used interchangeably
-		\cite{WikipediaContributors2018a34}:
-		* **referenced table**
-		* **parent table**
-		* master table
 	- When **referential integrity** constraint is not satisfied, the
 		**foreign key**s liable for violating this constraint in the
 		**referenced table** (or **parent table**) can be invalidated
 		or modified \cite{WikipediaContributors2018a34}.
-	- When designing databases, **foreign key**s facilitate the modeling
-		of relationships between different entities
-		\cite{WikipediaContributors2018a34}.
-
-
++ When designing databases, **foreign key**s facilitate the modeling of
+	relationships between different entities
+	\cite{WikipediaContributors2018a34}.
++ After carrying out database normalization \cite{WikipediaContributors2018a35}
+	to remove data redundancy and to improve data integrity, **foreign key**s
+	can connect (separate) tables in the database that were separated during
+	database normalization \cite{WikipediaContributors2018a34}.
 
 
 
