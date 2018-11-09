@@ -1037,7 +1037,9 @@ In the context of **relational database**s, a **foreign key** is a non-empty
 		**foreign key**s liable for violating this constraint in the
 		**referenced table** (or **parent table**) can be invalidated
 		or modified \cite{WikipediaContributors2018a34}.
-
+	- When designing databases, **foreign key**s facilitate the modeling
+		of relationships between different entities
+		\cite{WikipediaContributors2018a34}.
 
 
 
