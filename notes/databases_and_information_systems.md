@@ -1040,7 +1040,10 @@ In the context of **relational database**s, a **foreign key** is a non-empty
 		\cite{WikipediaContributors2018a34}.
 		* **Foreign key**s that refer back to the same table is known in
 			*SQL:2003* (current revision of the SQL database query language
-			is *SQL:2016*).
+			is *SQL:2016*) \cite{WikipediaContributors2018a34}.
+		* "In database management systems, this is often accomplished by
+			linking a first and second reference to the same table"
+			\cite{WikipediaContributors2018a34}
 + The **referential integrity** constraint for the **child table** and
 	the **referenced table** (or **parent table**) is that the **foreign key**
 	of the **referenced table** (or **parent table**) must be equivalent
