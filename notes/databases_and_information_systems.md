@@ -1070,8 +1070,14 @@ In the context of **relational database**s, a **foreign key** is a non-empty
 	to remove data redundancy and to improve data integrity, **foreign key**s
 	can connect (separate) tables in the database that were separated during
 	database normalization \cite{WikipediaContributors2018a34}.
-
-
++ A **child table** (or **referencing table**) can have multiple
+	**foreign key**s, and each **foreign key** can have a different
+	**parent table** (or **referenced table**)
+	\cite{WikipediaContributors2018a34}.
+	- The **database management system** will enforce each **foreign key**
+		independently \cite{WikipediaContributors2018a34}.
+	- Hence, **foreign key**s allow "cascading relationships between tables"
+		to be formed \cite{WikipediaContributors2018a34}.
 
 
 
