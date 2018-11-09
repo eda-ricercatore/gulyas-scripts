@@ -1078,7 +1078,8 @@ In the context of **relational database**s, a **foreign key** is a non-empty
 		independently \cite{WikipediaContributors2018a34}.
 	- Hence, **foreign key**s allow "cascading relationships between tables"
 		to be formed \cite{WikipediaContributors2018a34}.
-
++ Use **data integrity** constraints to define **foreign key**s
+	\cite{WikipediaContributors2018a34}.
 
 
 
