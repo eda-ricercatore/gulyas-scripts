@@ -1090,6 +1090,23 @@ In the context of **relational database**s, a **foreign key** is a non-empty
 		**referencing table**) to link to (or reference) the
 		**primary key**s in the **parent table** (or **referenced table**)
 		\cite{WikipediaContributors2018a34}.
+	- When rows/records in a **parent table** (or **referenced table**)
+		are deleted or updated, carry out (one of) the following five
+		**referential actions** to **foreign keys** in the **child table**
+		(or **referencing table**) \cite{WikipediaContributors2018a34}:
+		* CASCADE
+		* RESTRICT
+		* NO ACTION
+		* SET NULL
+		* SET DEFAULT
+
+
+
+
+
+
+
+
 
 
 
