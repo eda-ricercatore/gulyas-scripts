@@ -1080,7 +1080,16 @@ In the context of **relational database**s, a **foreign key** is a non-empty
 		to be formed \cite{WikipediaContributors2018a34}.
 + Use **data integrity** constraints to define **foreign key**s in the
 	\cite{WikipediaContributors2018a34}.
-
+	- Use the **ALTER TABLE** statement to exclude/omit references in the
+		**child table** (or **referencing table**), so that the
+		**foreign key**s can reference the **primary key**s in the
+		**parent table** (or **referenced table**)
+		\cite{WikipediaContributors2018a34}.
+	- Alternatively, define **foreign key**s via the **CREATE TABLE**
+		statement, and include references in the **child table** (or
+		**referencing table**) to link to (or reference) the
+		**primary key**s in the **parent table** (or **referenced table**)
+		\cite{WikipediaContributors2018a34}.
 
 
 
