@@ -1028,6 +1028,23 @@ In the context of **relational database**s, a **foreign key** is a non-empty
 	- Many "**database management systems** provide mechanisms" to
 		check/validate that the **referential integrity** constraint is
 		satisfied \cite{WikipediaContributors2018a34}.
+	- The following terms are used interchangeably
+		\cite{WikipediaContributors2018a34}:
+		* **referenced table**
+		* **parent table**
+		* master table
+	- When **referential integrity** constraint is not satisfied, the
+		**foreign key**s liable for violating this constraint in the
+		**referenced table** (or **parent table**) can be invalidated
+		or modified \cite{WikipediaContributors2018a34}.
+
+
+
+
+
+
+
+
 
 
 
