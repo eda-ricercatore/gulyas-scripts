@@ -1104,9 +1104,12 @@ In the context of **relational database**s, a **foreign key** is a non-empty
 Other types of keys:
 + "A **composite key** is **candidate key** that is comprised of [multiple]
 	attributes (table columns) that uniquely identify an entity occurrence
-	(table row)" \cite{WikipediaContributors2018a34}.
-+ A **compound key** is a **composite key** that consists of attributes
-	
+	(table row)" \cite{WikipediaContributors2018a36}.
++ A **compound key** is a **composite key**, where each attribute is a
+	**foreign key** \cite{WikipediaContributors2018a36}.
+	- A **compound key** is a **composite key** that consists of
+		**foreign keys** as attributes \cite{WikipediaContributors2018a36}.
+
 
 
 
