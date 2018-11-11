@@ -41,6 +41,7 @@ To-do list:
 		* Solr, Lucene, Elastic Search (ElasticSearch), Memcache/Memcached
 		* DSE???
 		* Apache Lucene, Memcache, RabbitMQ
+		* ZooKeeper, and/or Consul
 		* graph databases
 			+ Neo4J
 			+ AllgroGraph
@@ -130,6 +131,7 @@ To-do list:
 		* SQS
 		* Mesos
 		* Marathon
+		* Ceph
 	- References from my *BibTeX* database about this:
 		* \cite{Lutz2011}
 		* \cite{Sileika2010}
@@ -323,6 +325,11 @@ To-do list:
 	- HSM
 + Security vulnerability identification and remediation
 	- OWASP
++ Other technology stacks:
+	- Go, Docker, Kafka, Elasticsearch
+	- Go, Ruby, Javascript, HTML, CSS, Ember.js, C/C++, MySQL, Libvirt, KVM, QEMU, OpenVSwitch, Chef, Ansible, Zookeeper, Kafka, Redis
+	- Go, Consul, Kafka, SQL, Chef, Git, Jira, Sentry, Prometheus, Lightstep, Docker, Kubernetes
+	- Kubernetes, Go, GRPC, MySQL, Prometheus, Kafka
 + Finish assignments 1 and 2 for the data science course.
 + Run automated regression testing, and/or regression verification, to put
 		the experimental results of each build in the correct directory.
