@@ -142,7 +142,7 @@ To-do list:
 	- [Statsmodels](https://en.wikipedia.org/wiki/Statsmodels)
 + Learn different data/information visualization tools (to plot graphs...)
  	- *Bokeh*
-	- *Plot.ly* (i.e., Plotly)
+	- *Plot.ly* (i.e., Plotly and Plotly API)
 	- [graph-tool](https://en.wikipedia.org/wiki/Graph-tool)
 	- Graphviz
 	- [Tulip (software)](https://en.wikipedia.org/wiki/Tulip_(software))
@@ -280,6 +280,7 @@ To-do list:
 	- tensorflow
 	- Aster
 	- Resources
+		* Caffe, Torch, Theano, TensorFlow, CNTK
 		* Caffe, Tensorflow, MxNet, Torch, PyTorch, Theano, Chainer, DyNet
 		* Caffe2, TensorFlow, MPI, Gloo, NCCL2, Horovod
 		* BigDL, Caffe, Caffe2, Chainer, Keras, Paddle.
@@ -330,6 +331,10 @@ To-do list:
 	- Go, Ruby, Javascript, HTML, CSS, Ember.js, C/C++, MySQL, Libvirt, KVM, QEMU, OpenVSwitch, Chef, Ansible, Zookeeper, Kafka, Redis
 	- Go, Consul, Kafka, SQL, Chef, Git, Jira, Sentry, Prometheus, Lightstep, Docker, Kubernetes
 	- Kubernetes, Go, GRPC, MySQL, Prometheus, Kafka
+	- Python (3.5>=), packages: argparse, shapely, Munkres, numpy, cv2, logging, Pillow
+		* ES6
+		* Plotly.js
+		* OpenLayers
 + Finish assignments 1 and 2 for the data science course.
 + Run automated regression testing, and/or regression verification, to put
 		the experimental results of each build in the correct directory.
