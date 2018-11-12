@@ -339,6 +339,7 @@ To-do list:
 	- *GNU Octave*
 	- *Scala*/*Chisel*
 	- *SPICE*???
+	- [Nim](https://nim-lang.org/features.html)
 	- ???
 + Develop *R* scripts for statistical analysis of experimental results.
 + Get references for QUBO and QUBO solvers.
