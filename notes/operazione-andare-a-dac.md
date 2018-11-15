@@ -356,6 +356,19 @@ To-do list:
 	- security, AWS, Chef, Git, Jira, Docker, Jenkins, TDD, and Continuous Integration CI/CD.
 	- Gerkin, BDD.
 	- Load testing frameworks/tools like JMeter, Gatling, Locust
+	- Java, Selenium, JUnit, Cucumber-JVM
+	- API Testing experience
+	- BDD (Cucumber, Gherkin)
+	- Python, Gherkin, Cucumber, Espresso, XUI Test
+	- tech stack
+		* ReactJS
+		* GraphQL
+		* Apollo Client & Server
+		* Some Redux
+		* Using ES6/7 features throughout the app so knowledge on those is a plus.
+		* We use Cypress for testing
+		* CircleCI for continuous integration.
+		* Functional programming principles in React with Recompose
 	- Celery
 	- Elasticsearch and ELK pipeline
 	- Sets of skills
