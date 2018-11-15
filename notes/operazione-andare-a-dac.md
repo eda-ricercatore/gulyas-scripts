@@ -24,6 +24,7 @@ To-do list:
 + Store test results in a database (in *CSV* format), and manage it with a *SQL*
 	database (e.g., *MySQL*).
 	- *Python* interface to *SQL* database.
+		* Aurora
 	- Process this with a *NoSQL* database.
 		* Cassandra
 		* Hbase
@@ -42,6 +43,9 @@ To-do list:
 		* DSE???
 		* Apache Lucene, Memcache, RabbitMQ
 		* ZooKeeper, and/or Consul
+		* noSQL (e.g. Postgres), Python based ORM (e.g. SQL Alchemy) and database technologies (e.g. HDFS, Cassandra, Elastic Search, Druid, etc.)
+		* cassandra/hbase/Elastic/Mongo/Couchbase/Redis
+		* MongoDB (or any other NoSQL database), Redis (or any other key value store)
 		* graph databases
 			+ Neo4J
 			+ AllgroGraph
@@ -132,6 +136,10 @@ To-do list:
 		* Mesos
 		* Marathon
 		* Ceph
+		* big data pipelines (Hadoop, Spark, Kafka, Flume, Arrow, Avro, RabbitMQ, Flink, etc.)
+		* data science technology stack (Spark, Hadoop, Docker, AWS etc.).
+		* Hands-on experience with machine learning concepts: regression and classification, clustering, feature selection, feature engineering, curse of dimensionality, bias-variance tradeoff, neural networks, SVMs, etc.
+		* Spark MLlib, Python (scikit-learn, pandas), and R
 	- References from my *BibTeX* database about this:
 		* \cite{Lutz2011}
 		* \cite{Sileika2010}
@@ -164,6 +172,8 @@ To-do list:
 	- Python Notebooks (Ipython/Jupyter Notebooks)
 	- Sketch
 	- Figma
+	- Python Seaborn
+	- JS D3??? Or, D3.js (see mention above)
 	- Additional resources
 		* https://en.wikipedia.org/wiki/List_of_information_graphics_software
 		* https://en.wikipedia.org/wiki/Category:Python_scientific_libraries
@@ -186,6 +196,7 @@ To-do list:
 	- Chef, Puppet, and Ansible
 	- Nexus, SonarQube
 	- Ant, Maven, Git, SVN, Jenkins, Travis, Puppet, Ansible, Docker
+	- GitFlow
 	- SaltStack
 		* https://en.wikipedia.org/wiki/Salt_(software)
 		* See [Infrastructure as code (IaC)](https://en.wikipedia.org/wiki/Infrastructure_as_Code)
@@ -270,7 +281,7 @@ To-do list:
 			+ https://en.wikipedia.org/wiki/Comparison_of_project_management_software
 			+ JAXRS; JAXB; AMQP JMS; LDAP and SNMP.
 	- Java/J2EE Experience
-		- MySQL, Hibernate, JMS, Spring (Core, MVC, Integration)
+		- MySQL, Hibernate, JMS, Spring framework (Core, MVC, Integration)
 		- JAXRS; JAXB; AMQP JMS; LDAP and SNMP.
 + machine learning and data Visual_analytics
 	- graphx
@@ -302,6 +313,8 @@ To-do list:
 	- Splunk
 + Cloud platforms
 	- AWS/EC2
+	- AWS (EC2, EMR, RDS, Redshift), Google Cloud, Microsoft Azure
+	- Celery, Redis, Docker, Kubernetes, Jenkins
 	- Rackspace Open Cloud
 	- Ceph
 	- Consul
@@ -331,10 +344,66 @@ To-do list:
 	- Go, Ruby, Javascript, HTML, CSS, Ember.js, C/C++, MySQL, Libvirt, KVM, QEMU, OpenVSwitch, Chef, Ansible, Zookeeper, Kafka, Redis
 	- Go, Consul, Kafka, SQL, Chef, Git, Jira, Sentry, Prometheus, Lightstep, Docker, Kubernetes
 	- Kubernetes, Go, GRPC, MySQL, Prometheus, Kafka
+	- Pytest/nose, Selenium, Jupyter, Jenkins, SQL.
+	- AWS, Azure, Google cloud
+	- Docker/Kubernetes, Apache Spark, Jupyter, and Hadoop
+	- Docker, Kubernetes, Ansible, Terraform
+	- Icinga2, ELK and Prometheus
+	- Node.js, python, docker, Redis, postgress, ELK, prometheus
+	- microservice architecture using Docker, Node.js, Python, Redis, Postgres and ELK stack in the backend with Angular & Electron in the frontend
+	- Docker, cluster schedulers (Mesos/Kubernetes/Swarm)
+	- ELK, Queuing and monitoring infra
+	- security, AWS, Chef, Git, Jira, Docker, Jenkins, TDD, and Continuous Integration CI/CD.
+	- Gerkin, BDD.
+	- Load testing frameworks/tools like JMeter, Gatling, Locust
+	- Celery
+	- Elasticsearch and ELK pipeline
+	- Sets of skills
+		* AWS cloud services: EC2, EMR, RDS, Lambda, Redshift
+		* NoSQL databases, such as HBase, Cassandra, MongoDB, or DynamoDB
+		* messaging systems, such as AWS SQS, AWS Kinesis, Kafka, or RabbitMQ, ZeroMQ
+		* big data tools and stream-processing systems: Hadoop, Spark, Storm, Spark-Streaming
+		* data pipeline and workflow management tools: Azkaban, Luigi, Airflow
+		* Very well versed with ADT, ORU, ORM and document exchange messages specification
+		*  data interchange formats like JSON and XML
+		* Django, Ruby on Rails, Flask
+		* In-Memory caching technologies, such as memcached or Redis
+		* Cutting edge C++ knowledge (C++17, C++20)
+		* stream pipelines and all sorts of datastores (SQL, NoSQL, triplestores, wide column, graph)
+		* Knowledge of data standards, file formats, and biomedical ontologies and vocabularies such as SNOMED-CT, UMLS, etc. DICOM
+		* all types of datastores - NoSQL, wide column, Graph, triplestores
+		* Spark, Kafka
+		* Experience with stream pipelines and data store technologies (nosql, wide column and graph). We are Currently using Cassandra, Kafka, Amazon dynamoDB, Redis, Neo4j and Mysql.
+		* NLP library: spaCy, NLTK, GATE, CoreNLP, gensim
+		* Deep Learning applied to NLP, for example through distributed representations (e.g. Word2Vec, fastText, etc)
+		* large databases (e.g. THIN)
+		* Monitoring solutions experience (ELK, NewRelic)
+		* Infrastructure-as-code and automation tools (e.g. Terraform, Ansible/Chef, Cloud Formation)
+		* Configure and Monitor SIEMS and DLP systems
+		* RxJava, Kotlin, Dagger
+		* big data platform tools such as Hadoop, Hive, Druid, Kafka, Ambari, Spark
+		* data management tools in on a big data plate form such as Atlas, Ranger , Knox
+		* implementing BI solutions in a heavily regulated environment e.g. PII, GDPR, HIPPA & SOX
+		* big data platform tools such as Hadoop, Hive Druid, Kafka, Ambari, Spark, Zeppelin
+		* PowerBI, Tableau, Qlikview
+		* Hadoop data platform is capable of supporting a growing list of downstream platforms like Tableau, Zeppelin etc.
+		* Expertise with Hive, YARN, Spark, Presto, Kafka, SOLR, Oozie, Sentry, Encryption, Hbase, etc.
+		* Experience utilising Portfolio & Project Management (PPM) tools such as CA PPM (Clarity), ServiceNow, JIRA, Microsoft Project Server, etc.
+		* big data platform tools such as Hadoop, Hive, Druid, Kafka, Ambari, Spark
+		* web analytics platforms such as Google Analytics, Appsflyer or Mixpanel
+		* NoSQL databases, such as MongoDB, Cassandra, HBase
+		* Proficiency in using query languages such as SQL on a big data platform e.g. Hadoop, Hive
+		* data visualisation tools, such as D3.js, GGplot, Tableau etc.
+		* Excellent understanding of machine learning techniques and algorithms, such as k-NN, Naive Bayes, SVM, Decision Forests, etc.
+		* Apache Kafka
 	- Python (3.5>=), packages: argparse, shapely, Munkres, numpy, cv2, logging, Pillow
 		* ES6
 		* Plotly.js
 		* OpenLayers
+	- UI/UX:
+		* Experience using design tools such as Photoshop, Illustrator, Sketch, InDesign, etc. for creating highly-detailed mockups
+		* Some awareness of the technology which will serve your designs and implementations, such as apache/nginx, Flask/django, PostgreSQL/MySQL, git, websockets, etc.
+		* Bootstrap, bulma, etc.
 + Finish assignments 1 and 2 for the data science course.
 + Run automated regression testing, and/or regression verification, to put
 		the experimental results of each build in the correct directory.
