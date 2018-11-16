@@ -24,7 +24,7 @@ To-do list:
 + Store test results in a database (in *CSV* format), and manage it with a *SQL*
 	database (e.g., *MySQL*).
 	- *Python* interface to *SQL* database.
-		* Aurora
+		* Aurora, SQLite
 	- Process this with a *NoSQL* database.
 		* Cassandra
 		* Hbase
