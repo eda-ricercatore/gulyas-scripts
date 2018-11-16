@@ -33,9 +33,11 @@
 	- VENUE
 	- Submission deadline: Late May, 2019.
 + ICCV, International Conference on Computer Vision
-	- URL
-	- VENUE
-	- Submission deadline: Early/Mid- March, 2019.
+	- http://iccv2019.thecvf.com/submission/timeline
+	- http://iccv2019.thecvf.com/submission/main_conference/author_guidelines
+	- Seoul, South Korea
+	- October 27 - November 3, 2018.
+	- Submission deadline: **March 22, 2019**.
 + ICDM, IEEE International Conference on Data Mining
 	- URL
 	- VENUE
@@ -45,14 +47,21 @@
 	- VENUE
 	- Submission deadline: Late Oct, 2018. **When is the deadline???**
 + ICML, International Conference on Machine Learning
-	- URL
-	- VENUE
-	- Submission deadline: Early Feb, 2019.
+	- https://icml.cc/Conferences/2019/CallForPapers
+	- Long Beach, CA.
+	- Submission deadline: January 18 and 23, 2019.
 + IEEE Transactions on Information Theory
 + IJCAI, International Joint Conference on Artificial Intelligence
 	- https://ijcai.org
+	- http://ijcai19.org/
 	- Macao, P.R. China
-	- Submission deadline: Late Jan, 2019.
+	- August 10-16, 2019
+	- Submission deadline: February 19 and 25, 2019.
++ IJCNN, International Joint Conference on Neural Networks
+	- https://www.ijcnn.org/callforpapers
+	- Budapest, Hungary
+	- July 14-19, 2019.
+	- December 15, 2018.
 + ISWC, International Semantic Web Conference
 	- URL
 	- VENUE
@@ -61,8 +70,9 @@
 	- http://www.jmlr.org
 + KDD, SIGKDD Conference on Knowledge Discovery and Data Mining
 	- http://www.kdd.org/conferences
-	- VENUE
-	- Submission deadline: Early Feb, 2019.
+	- Anchorage, Alaska
+	- August 3 - 7, 2019
+	- Submission deadline: February 3, 2019.
 + KR, International Conference on Principles of Knowledge Representation and Reasoning
 	- http://www.kr.org
 	- VENUE
