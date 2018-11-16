@@ -27,7 +27,7 @@
 + ECCV, European Conference on Computer Vision
 	- URL
 	- VENUE
-	- Submission deadline: Mid-March, 2019.
+	- Submission deadline: **Mid-March, 2019.**
 + EMNLP, Conference on Empirical Methods in Natural Language Processing
 	- URL
 	- VENUE
@@ -49,19 +49,19 @@
 + ICML, International Conference on Machine Learning
 	- https://icml.cc/Conferences/2019/CallForPapers
 	- Long Beach, CA.
-	- Submission deadline: January 18 and 23, 2019.
+	- Submission deadline: **January 18 and 23, 2019.**
 + IEEE Transactions on Information Theory
 + IJCAI, International Joint Conference on Artificial Intelligence
 	- https://ijcai.org
 	- http://ijcai19.org/
 	- Macao, P.R. China
 	- August 10-16, 2019
-	- Submission deadline: February 19 and 25, 2019.
+	- Submission deadline: **February 19 and 25, 2019.**
 + IJCNN, International Joint Conference on Neural Networks
 	- https://www.ijcnn.org/callforpapers
 	- Budapest, Hungary
 	- July 14-19, 2019.
-	- December 15, 2018.
+	- Submission deadline: **December 15, 2018.**
 + ISWC, International Semantic Web Conference
 	- URL
 	- VENUE
@@ -80,7 +80,7 @@
 + LICS, ACM/IEEE Symposium on Logic in Computer Science (LICS)
 	- https://lics.siglog.org/lics19/
 	- Vancouver, Canada.
-	- Submission deadline: January 4 and 11, 2019.
+	- Submission deadline: **January 4 and 11, 2019.**
 + NAACL, North American Chapter of the Association for Computational Linguistics
 	- URL
 	- VENUE
@@ -88,7 +88,7 @@
 + NIPS, Annual Conference on Neural Information Processing Systems (NIPS 2018)
 	- URL
 	- VENUE
-	- Submission deadline: Mid-May, 2019.
+	- Submission deadline: **Mid-May, 2019.**
 + PAMI ???
 	- Basically, this refers to PAMITC Sponsored Conferences, such as CVPR and ICCV.
 	- URL
