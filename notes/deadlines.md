@@ -78,9 +78,9 @@
 	- VENUE
 	- Submission deadline: Early/Mid- May, 2019.
 + LICS, ACM/IEEE Symposium on Logic in Computer Science (LICS)
-	- URL
-	- VENUE
-	- Submission deadline: Late Jan, 2019.
+	- https://lics.siglog.org/lics19/
+	- Vancouver, Canada.
+	- Submission deadline: January 4 and 11, 2019.
 + NAACL, North American Chapter of the Association for Computational Linguistics
 	- URL
 	- VENUE
