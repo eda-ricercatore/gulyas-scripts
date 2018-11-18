@@ -1098,6 +1098,37 @@
 
 
 
+#	Conferences in Signal Processing and Communication/Information Theory
+
+IEEE International Conference on Multimedia and Expo (ICME 2019)
++ http://www.icme2019.org/
++ July 8-12, 2019
++ Shanghai, China
++ Submission deadline: December 3, 2018.
+
+IEEE International Conference on Computational Photography (ICCP 2019)
++ http://iccp2019.naist.jp/
++ May 15-17, 2019
++ Tokyo, Japan
++ Submission deadline: December 17, 2018
+
+IEEE Data Science Workshop (DSW 2019)
++ https://2019.ieeedatascience.org/
++ June 2-5, 2019
++ Minneapolis, MN.
++ Submission deadline: February 8, 2019.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
