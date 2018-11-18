@@ -46,6 +46,8 @@ To-do list:
 		* noSQL (e.g. Postgres), Python based ORM (e.g. SQL Alchemy) and database technologies (e.g. HDFS, Cassandra, Elastic Search, Druid, etc.)
 		* cassandra/hbase/Elastic/Mongo/Couchbase/Redis
 		* MongoDB (or any other NoSQL database), Redis (or any other key value store)
+		* SQL (Postgress) and NoSQL (Redis, DynamoDb) databases
+		* Knowledge of Big data and NoSQL technologies such as Hadoop YARN, Spark, Hive, Cassandra, HBase, Storm, CASK, Kafka, Flume, is preferred.
 		* graph databases
 			+ Neo4J
 			+ AllgroGraph
@@ -116,6 +118,7 @@ To-do list:
 			+ Hadoop integration with large scale distributed data platforms like Teradata, Teradata Aster, Vertica, Greenplum, Netezza, DB2, Oracle, etc
 			+ Cloudera/MapR/Hortonworks
 			+ MapReduce, HDFS, Tez, Hive, Spark
+			+ Distributed systems experience, using tools such as Hadoop, EMR, Spark, ElasticSearch, MongoDB, AeroSpike, Kafka
 		* Hive
 			+ Proficiency in Hive internals (including HCatalog), SQOOP, Pig, Oozie and Flume/Kafka.
 		* Pig
@@ -195,6 +198,7 @@ To-do list:
 	- VSTS, AWS OpsWorks
 	- Chef, Puppet, and Ansible
 	- Nexus, SonarQube
+	- Familiarity working with monitoring tools like Icinga, Sensu, Ganglia, Statsd, Graphite, or the TICK stack is a plus.
 	- Ant, Maven, Git, SVN, Jenkins, Travis, Puppet, Ansible, Docker
 	- GitFlow
 	- SaltStack
