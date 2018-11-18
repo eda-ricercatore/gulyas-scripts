@@ -1098,7 +1098,12 @@
 
 
 
-#	Conferences in Signal Processing and Communication/Information Theory
+#	Conferences and Journals in Signal Processing and Communication/Information Theory
+
+IEEE International Conference on Communications
++ http://icc2019.ieee-icc.org/
++ May 20-24, 2019
++ Shanghai, China
 
 IEEE International Conference on Multimedia and Expo (ICME 2019)
 + http://www.icme2019.org/
@@ -1119,6 +1124,37 @@ IEEE Data Science Workshop (DSW 2019)
 + Submission deadline: February 8, 2019.
 
 
+IEEE Global Communications Conference (GLOBECOM)
++ http://ieee-globecom.org/
+
+
+
+Other conferences in signal processing and communication/information theory:
++IEEE International Conference on Image Processing (ICIP)
++ IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
++ IEEE Global Conference on Signal and Information Processing (GlobalSIP)
++ IEEE International Symposium on Biomedical Imaging (ISBI)
++ IEEE Conference on Advance Video and Signal-Based Surveillance (AVSS)
++ ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN)
++ IEEE International Symposium on Signal Processing and Information Technology (ISSPIT)
++ International Symposium on Information Theory (ISIT)
++ [Allerton Conference](http://allerton.csl.illinois.edu/)
++ Conference on Information Sciences and Systems (CISS)
++ IEEE Consumer Communications & Networking Conference (ICCNC)
++ IEEE International Conference on Blockchain and Cryptocurrency (ICBC)
+	- http://icbc2019.ieee-icbc.org/
+	- Seoul, South Korea
+	- May 15-17, 2019
+	- Submission deadline: December 7, 2018.
++ IEEE/IFIP Network Operations and Management Symposium (NOMS)
+	- http://noms2018.ieee-noms.org/
+	- Taipei, Taiwan
+	- April 23-27, 2018
++ IEEE Conference on Communications and Network Security (CNS)
+	- http://cns2019.ieee-cns.org/
+	- Washington, D.C.
+	- June 10-12, 2019
++ IEEE INFOCOM
 
 
 
@@ -1128,15 +1164,17 @@ IEEE Data Science Workshop (DSW 2019)
 
 
 
-
-
-
-
-
-
-
-
-
+Journals in signal processing and communication/information theory:
++ IEEE Transactions on Signal Processing
++ IEEE Journal of Selected Topics in Signal Processing
++ IEEE Signal Processing Letters
++ IEEE/ACM Transactions on Audio, Speech, and Language Processing
++ IEEE Transactions on Information Forensics and Security
++ IEEE Transactions on Image Processing
++ IEEE Transactions on Computational Imaging
++ IEEE Transactions on Signal and Information Processing over Networks
++ IEEE Transactions on Multimedia
++ IEEE Transactions on Information Theory
 
 #	Author Information
 
