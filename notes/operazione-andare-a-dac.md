@@ -176,6 +176,7 @@ To-do list:
 	- Sketch
 	- Figma
 	- Python Seaborn
+	- Experience building reports and dashboards in a data visualization tool like Tableau, Birst, or Looker
 	- JS D3??? Or, D3.js (see mention above)
 	- Additional resources
 		* https://en.wikipedia.org/wiki/List_of_information_graphics_software
@@ -336,6 +337,7 @@ To-do list:
 		* Google Analytics, Google Optimize, HotJar, Metabase, Airflow, ELK
 	- Others:
 		* EC2, EMR, Kinesis and Redshift
+		* Docker, Kubernetes, ceph
 + Cloud automation tools
 	- Ansible
 	- Chef
