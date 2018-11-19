@@ -193,6 +193,7 @@ To-do list:
 	- Jenkins
 	- Travis
 	- Jira/Confluence
+	- Jira, VersionOne, TFS, Jenkins, Travis, CircleCI, Veracode, Fortify, Artifactory, Nexus, New Relic, Nagios
 	- Zuul, Nodepool, Jenkins Job Builder
 	- Jira
 	- VSTS, AWS OpsWorks
