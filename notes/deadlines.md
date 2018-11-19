@@ -1126,6 +1126,10 @@ IEEE Data Science Workshop (DSW 2019)
 
 IEEE Global Communications Conference (GLOBECOM)
 + http://ieee-globecom.org/
++ http://globecom2019.ieee-globecom.org/
++ December 9-13, 2019
++ Waikoloa, HI.
++ Submission deadline: April 15, 2019.
 
 
 
@@ -1154,12 +1158,29 @@ Other conferences in signal processing and communication/information theory:
 	- http://cns2019.ieee-cns.org/
 	- Washington, D.C.
 	- June 10-12, 2019
-+ IEEE INFOCOM
-
-
-
-
-
++ IEEE International Conference on Computer Communications (IEEE INFOCOM)
+	- http://infocom2019.ieee-infocom.org/
+	- April 29 - May 2, 2019
+	- Paris, France
+	- Submission deadlines: July 24 and 31, 2018.
++  IFIP/IEEE International Symposium on Integrated Network Management (IFIP/IEEE IM)
+	- April 8-12, 2019
+	- Washington, D.C.
+	- Submission deadlines: September 10, 2018 (extended from August 19, 2018).
++ IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN)
++ IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids
+	- Alternatively known as: IEEE International Conference on Smart Grid Communications (SmartGridComm)
+	- http://sgc2019.ieee-smartgridcomm.org/
+	- October 21-24, 2019
+	- Beijing, China
+	- Submission deadline: April 15, 2019
++ IEEE Wireless Communications and Networking Conference (WCNC)
+	- http://wcnc2019.ieee-wcnc.org/
+	- April 15-18, 2019
+	- Marrakech, Morocco
+	- Submission deadline: November 2, 2019
++ IEEE International Conference on E-health Networking, Application & Services (Healthcom/HEALTHCOM)
+	- Submission deadline: May 2019.
 
 
 
@@ -1175,6 +1196,25 @@ Journals in signal processing and communication/information theory:
 + IEEE Transactions on Signal and Information Processing over Networks
 + IEEE Transactions on Multimedia
 + IEEE Transactions on Information Theory
++ IEEE Communications Surveys & Tutorials
++ IEEE Transactions on Cognitive Communications and Networking (TCCN)
++ IEEE Transactions on Communications
++ IEEE Transactions on Green Communications and Networking (TGCN)
++ IEEE Transactions on Molecular, Biological and Multi-scale Communications (TMBMC)
++ IEEE Transactions on Network and Service Management (IEEE TNSM)
++ IEEE Transactions on Wireless Communications
++ IEEE/ACM Transactions on Networking
++ IEEE/OSA Journal of Optical Communications and Networking
++ IEEE Internet of Things Journal
++ IEEE Journal of Biomedical and Health Informatics (J-BHI)
++ ***IEEE Transactions on Network Science and Engineering (TNSE)***
++ IEEE Transactions on Cloud Computing
++ IEEE Transactions on Smart Grid
++ IEEE Transactions on Mobile Computing (TMC)
++ IEEE/OSA Journal of Lightwave Technology
+
+
+
 
 #	Author Information
 
