@@ -48,6 +48,7 @@ To-do list:
 		* MongoDB (or any other NoSQL database), Redis (or any other key value store)
 		* SQL (Postgress) and NoSQL (Redis, DynamoDb) databases
 		* Knowledge of Big data and NoSQL technologies such as Hadoop YARN, Spark, Hive, Cassandra, HBase, Storm, CASK, Kafka, Flume, is preferred.
+		* Experience with NoSQL architectures and map-reduce concepts atop Hadoop, HDFS, and Hive
 		* graph databases
 			+ Neo4J
 			+ AllgroGraph
@@ -139,6 +140,7 @@ To-do list:
 		* Mesos
 		* Marathon
 		* Ceph
+		* Operational experience working with Memcache or Redis style caching cluster
 		* big data pipelines (Hadoop, Spark, Kafka, Flume, Arrow, Avro, RabbitMQ, Flink, etc.)
 		* data science technology stack (Spark, Hadoop, Docker, AWS etc.).
 		* Hands-on experience with machine learning concepts: regression and classification, clustering, feature selection, feature engineering, curse of dimensionality, bias-variance tradeoff, neural networks, SVMs, etc.
@@ -246,7 +248,7 @@ To-do list:
 		* gulp
 		* browserify
 		* webpack
-	- Monitoring/Alerting tools
+	- Monitoring/Alerting tools, and System management and monitoring technologies
 		* Data Dog (or DataDog)
 		* Nagios
 		* Graphite
@@ -254,6 +256,7 @@ To-do list:
 		* New Relic
 		* Icinga
 		* AppDynamics
+		* Prometheus
 	- ETL technologies
 		* Flume
 		* Avro
@@ -307,6 +310,7 @@ To-do list:
 		* https://www.quora.com/What-are-the-best-machine-learning-libraries https://medium.com/activewizards-machine-learning-company/top-20-python-libraries-for-data-science-in-2018-2ae7d1db8049
 		* Before Tensorflow, Caffe or PyTorch came to be, Theano was the most widely used library for deep learning.
 		* Lasagne is a high-level deep learning library that runs on top of Theano.
+		* Experience with cloud storage technologies (e.g. CloudSQL, Spanner, Bigtable, Aurora)
 		* [MLJAR](https://mljar.com/)
 		* https://github.com/josephmisiti/awesome-machine-learning
 		* https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md
@@ -339,6 +343,7 @@ To-do list:
 	- Others:
 		* EC2, EMR, Kinesis and Redshift
 		* Docker, Kubernetes, ceph
+		* Experience with cloud storage technologies (e.g. CloudSQL, Spanner, Bigtable, Aurora)
 + Cloud automation tools
 	- Ansible
 	- Chef
@@ -368,6 +373,8 @@ To-do list:
 	- API Testing experience
 	- BDD (Cucumber, Gherkin)
 	- Python, Gherkin, Cucumber, Espresso, XUI Test
+	- Experience with testing technologies (JUnit, Espresso, Mockito, Robolectric)
+	- Experience with distributed messages systems ( Apache Kafka)
 	- tech stack
 		* ReactJS
 		* GraphQL
