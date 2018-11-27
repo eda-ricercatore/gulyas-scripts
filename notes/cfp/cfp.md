@@ -173,7 +173,22 @@ SEC2.6 Security vulnerabilities in artificial intelligence
 
 
 
+##	ISCA CFP
 
++ Processor, memory, and storage systems architecture
++ Multiprocessor systems
++ Datacenter-scale computing
++ IoT, mobile and embedded architecture
++ Interconnection network, router and network interface architecture
++ Accelerator-based, application-specific and reconfigurable architecture
++ Architectural support for programming languages or software development
++ Architectural support for security or virtualization
++ Instruction, thread and data-level parallelism
++ Dependable processor and system architecture
++ Architecture for emerging technologies and applications, including quantum computing, novel memory technologies, etc.
++ Effects of circuits or technology on architecture
++ Architecture modeling and simulation methodologies
++ Evaluation and measurement of real computing systems
 
 
 
