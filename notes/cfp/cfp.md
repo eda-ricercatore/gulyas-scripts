@@ -191,6 +191,130 @@ SEC2.6 Security vulnerabilities in artificial intelligence
 + Evaluation and measurement of real computing systems
 
 
+#	ASYNC CFP
+
+Asynchronous VLSI computations are at the heart of recent deep learning and neuromorphic designs, and well-suited for distributed tasks in fast or low-energy processing and communication
+
++ Asynchronous pipelines, architectures, CPUs, and memories
++ Asynchronous ultra-low power systems, energy harvesting, and mixed-signal/analogue
++ Asynchrony in emerging technologies, including bio, neural, nano, and quantum computing
++ CAD tools for asynchronous design, synthesis, analysis, and optimization
++ Formal methods for verification and performance/power analysis
++ Test, security, fault tolerance, and radiation hard design
++ Asynchronous variability-tolerant design, resilient design, and design for manufacturing
++ Asynchronous design for neural networks and machine learning applications
++ Circuit designs, case studies, comparisons, and applications
++ Mixed-timed circuits, clock domain crossing, GALS systems, Network-on-Chip, and multi-chip interconnects
++ Hardware implementations of asynchronous models and algorithms, asynchronous techniques in clocked designs, and elastic and latency-tolerant synchronous design
+
+
+
+
+##	ASPLOS CFP
+
+
++ Existing and emerging platforms at all scales, from embedded to cloud
++ Internet services, cloud computing, and datacenters
++ Multicore architectures and systems
++ Heterogeneous architectures and accelerators
++ Systems for enabling parallelism at an extreme scale
++ Programming models, languages, and compilation for all platforms
++ Managing, storing, and computing on big data
++ Virtualization and virtualized systems
++ Memory and storage technologies and architectures
++ Power, energy, and thermal management
++ Security, reliability, and availability
++ Verification and testing, and their impact on design
++ Support for approximations and approximate computing
++ Non-traditional computing systems
+
+
+
+##	SPAA CFP
+
+
++ Parallel and Distributed Algorithms
++ Green Computing & Power-Efficient Architectures
++ Parallel Complexity Theory
++ Multi-Core Architectures
++ Compilers and Tools for Concurrent Programming
++ Transactional Memory Hardware and Software
++ Game Theory and Collaborative Learning
++ Resource Management and Awareness
++ Mobile, Ad-Hoc, and Sensor Networks
++ Synergy of Parallelism in Algorithms, Programming and Architecture
++ Parallel and Distributed Data Structures
++ Management of Massive Data Sets
++ Parallel and Distributed Architectures
++ Instruction Level Parallelism and VLSI
++ Supercomputer Architecture and Computing
++ The Internet and the World Wide Web
++ Routing and Information Dissemination
++ Peer-to-Peer Systems
++ Robustness, Self-Stabilization, and Security
+
+
+
+
+#	Computing Frontiers CFP
+
+We seek original research contributions at the frontiers of a wide range of topics, including novel computing paradigms, computational models, algorithms, application paradigms, development environments, compilers, operating environments, computer architectures (from embedded to HPC systems), hardware substrates, memory technologies, and storage solutions.
+
++ Innovative Approaches, Algorithms, and Models of Computing, Including but Not Limited to
+	- Approximate and inexact computing, probabilistic computing
+	- Quantum computing
+	- Biological computing models, including brain computing, neural computing, computational neuroscience, and biologically-inspired architectures
+	- Reconfigurable computing
+	- Dataflow approaches
++ Approaches to Overcoming Technological Limitations
+	- Limits on technology scaling and Moore's Law
+	- Defect- and variability-tolerant designs
+	- New materials such as graphene
+	- Nanoscale design, optoelectronics, and dark silicon
+	- New memory designs such as 3D stacked technology
+	- Challenges for many-core designs and accelerators
+	- Dealing with manufacturing variability
+	- Computing on mobile devices
++ Embedded and Cyber-Physical Systems
+	- Design space exploration and modeling and development frameworks
+	- Ultra-low power designs, energy scavenging
+	- Reactive and real-time systems, reconfigurable and self-aware systems
+	- Sensor networks, internet of things, and architectural innovation for wearable computing
++ New Approaches for Big Data Analytics and Machine and Deep Learning
+	- High performance data analytics
+	- Data search and representation
+	- Novel architecture and system designs
++ Large-Scale System Design
+	- Homogeneous and heterogeneous architectures, runtimes, networking
+	- Power- and energy-management for clouds, data centers, and exascale systems
++ Fault Tolerance and Resilience
+	- Solutions for ultra-large and safety-critical systems
+	- Hardware and software approaches to cope with adverse environments such as space
++ Compiler Technologies
+	- Advanced/novel analyses
+	- Hardware/software integrated solutions
+	- High-level synthesis
++ Programming Languages, Models, and Runtimes
+	- Development environments and tools
+	- New programming approaches for next generation systems and applications
+	- Domain-specific languages
+	- Task-based approaches
+	- Graphical and high-level programming
+	- Performance analysis, debugging, correctness tools
++ System Software
+	- Advances in operating systems, virtualization, and container technologies
+	- New approaches for resource and job management, and scheduling
+	- Workflow systems
++ Security
+	- Methods, system support, and hardware for protecting against malicious code
+	- Real-time implementations of security algorithms and protocols
+	- Quantum and post-quantum cryptography
+	- Advanced persistent threats, cyber and physical attacks, and countermeasures
++ Computers and Society, Interdisciplinary Applications
+	- Education, health, cost/energy-efficient design, smart cities, and emerging markets
+	- Applications bridging multiple disciplines in interesting ways
+
+
 
 
 
