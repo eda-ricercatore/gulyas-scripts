@@ -93,6 +93,7 @@ class statistical_analysis_tester:
 	#	O(1) method.
 	@staticmethod
 	def test_statistical_analysis():
+		print("==	Testing class: statistical_analysis.")
 		print("1) Number of test cases passed:	{}" .format(statistical_analysis.number_test_cases_passed))
 		print("2) Number of test cases used:	{}" .format(statistical_analysis.number_test_cases_used))
 		for x in range(1,7):

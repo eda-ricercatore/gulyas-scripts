@@ -14,7 +14,10 @@
 
 	Check if the filename is based on the following format:
 		DD-MM-YY-HH-MM-SS.txt
-	If it is not, 
+	If it is not, warn the user.
+		This is because it may create difficulties in developing
+			scripts to process, analyze, and visualize the data.
+
 
 
 	Notes/Assumptions:
@@ -71,6 +74,7 @@ __date__ = 'Apr 17, 2017'
 	warnings	Raise warnings.
 	re			Use regular expressions.
 	filecmp		For file comparison.
+	calendar	For checking if given year is a leap year.
 """
 
 import sys
@@ -83,73 +87,153 @@ import re
 import filecmp
 from datetime import date
 import datetime
+import calendar
 
 ###############################################################
 
 #	Import Custom Python Modules
 
+"""
+	Package and module to print statistics of software testing
+		results.
+"""
+from statistics.test_statistics import statistical_analysis
+# Package and module to generate filename with time stamp.
+from utilities.generate_results_filename import generate_filename
 # Module to process input arguments to the script/program.
 #from utilities.queue_ip_arguments import queue_ip_args
 
 
 ###############################################################
-class generate_filename:
-	##	Method to generate a filename for the results of the
-	#		experimental/simulation run, or execution of the
-	#		automated regression testing (for software) or
-	#		automated regression verification.
-	#	@return - List of input arguments to the program.
+class generate_filename_tester:
+	##	Method to check if the current month has 31 days.
+	#	@param mm - Input month to determine if it has 31 days.
+	#	@return a boolean true, if the current month has 31 days.
 	#	O(1) method.
 	@staticmethod
-	def create_filename():
-		"""
-			Generate filename to store experimental/simulation
-				results, from characterizing the standard cell
-				library that uses noise-based logic
-				\cite{SaltyCrane2014}
-				\cite[datetime module, \S8.1.4 datetime Objects, now() function]{DrakeJr2016b}.
-		"""
-		now = datetime.datetime.now()
-		"""
-		print("Current date and time using instance attributes:")
-		print("Current year: %d" % now.year)
-		print("Current month: %d" % now.month)
-		print("Current day: %d" % now.day)
-		print("Current hour: %d" % now.hour)
-		print("Current minute: %d" % now.minute)
-		print("Current second: %d" % now.second)
-		print("Current microsecond: %d" % now.microsecond)
-		print("")
-		print("Current date and time using strftime:")
-		print(now.strftime("%Y-%m-%d %H:%M"))
-		print("")
-		print("Current date and time using isoformat:")
-		print(now.isoformat())
-		print("")
-		"""
-		current_time = str(now.day) + "-" + str(now.month) + "-" + str(now.year) + "-" + str(now.hour) + "-"  + str(now.minute) + "-"  + str(now.second) + "-"  + str(now.microsecond) + ".txt"
-		#print(current_time)
-		return current_time
-	# ============================================================
-	##	Method to determine if the user wants help, and conequently
-	#		display the user manual.
-	#	O(n) method, with respect to the number of input arguments.
+	def is_31_day_month(mm):
+		if mm in [1, 3, 5, 7, 8, 10, 12]:
+			return True
+		else:
+			return False
+	##	Method to check if the current month has 30 days.
+	#	@param mm - Input month to determine if it has 30 days.
+	#	@return a boolean true, if the current month has 30 days.
+	#	O(1) method.
 	@staticmethod
-	def check_if_help_wanted():
-		# If user wants to read the brief user manual,
-		if "-h" in sys.argv:
-			# Display the user manual and exit.
-			print("-------------------------------------------------")
-			print("==>	This script generates a filename based on.")
-			print("	the date and time.")
-			print("")
-			print("This script can be executed as follows:")
-			print("./generate_results_filename.py [-h]")
-			print("")
-			print("An optional '-h' flag can be used as any input argument")
-			print("	to show the brief user manual and exit.")
-			print("")
-			print("-------------------------------------------------")
+	def is_30_day_month(mm):
+		if mm in [4, 6, 9, 11]:
+			return True
+		else:
+			return False
+	##	Method to test method for generating a filename with
+	#		the current time stamp.
+	#	@param - Nothing.
+	#	@return - Nothing.
+	#	O(1) method.
+	@staticmethod
+	def check_filename_format():
+		print("	Generate a filename with the current time stamp.")
+		temp_op_filename = generate_filename.create_filename()
+		print("	Testing filename:",temp_op_filename,"=")
+		print("	Check against the format: DD-MM-YY-HH-MM-SS.txt")
+		print("	Tokenize generated filename.")
+		# Tokenize the generated filename with the delimiter "-".
+		tokens = temp_op_filename.split("-")
+		"""
+			Check against the format: DD-MM-YY-HH-MM-SS.txt.
+			tokens[0] = DD/Day
+			tokens[1] = MM/Month
+			tokens[2] = YY/Year
+			tokens[3] = HH/Hour
+			tokens[4] = MM/Minute
+			tokens[5] = SS/Second
+		"""
+		print("	Testing if 1st token is appropriate date (DD/date value).")
+		prompt = "	... Test: DD value is >= 0.				{}"
+		statistical_analysis.increment_number_test_cases_used()
+		if 1 <= int(tokens[0]):
+			print(prompt .format("OK"))
+			statistical_analysis.increment_number_test_cases_passed()
+		else:
+			print(prompt .format("FAIL!!!"))
+		# If month is February during a leap year, DD <= 29.
+		prompt = "	... Test: DD value is <= 29, leap year Feb.		{}"
+		statistical_analysis.increment_number_test_cases_used()
+		if 2 == int(tokens[1]) and 29 < int(tokens[0]) and calendar.isleap(tokens[2]):
+			print(prompt .format("FAIL!!!"))
+		else:
+			print(prompt .format("OK"))
+			statistical_analysis.increment_number_test_cases_passed()
+		# If year isn't a leap year & month is February, DD <= 28.
+		prompt = "	... Test: DD value is <= 28, non-leap year Feb.		{}"
+		statistical_analysis.increment_number_test_cases_used()
+		if 2 == int(tokens[1]) and 29 < int(tokens[0]) and not calendar.isleap(tokens[2]):
+			print(prompt .format("FAIL!!!"))
+		else:
+			print(prompt .format("OK"))
+			statistical_analysis.increment_number_test_cases_passed()
+		prompt = "	... Test: DD value is <= 30, 30-day month.		{}"
+		statistical_analysis.increment_number_test_cases_used()
+		if generate_filename_tester.is_30_day_month(tokens[1]) and 30 < int(tokens[0]):
+			print(prompt .format("FAIL!!!"))
+		else:
+			print(prompt .format("OK"))
+			statistical_analysis.increment_number_test_cases_passed()
+		prompt = "	... Test: DD value is <= 31, 31-day month.		{}"
+		statistical_analysis.increment_number_test_cases_used()
+		if generate_filename_tester.is_31_day_month(tokens[1]) and 31 < int(tokens[0]):
+			print(prompt .format("FAIL!!!"))
+		else:
+			print(prompt .format("OK"))
+			statistical_analysis.increment_number_test_cases_passed()
+		print("	Testing if 2nd token is appropriate date (MM/month value).")
+		prompt = "	... Test: MM/month value is >= 1.			{}"
+		statistical_analysis.increment_number_test_cases_used()
+		if 1 <= int(tokens[1]):
+			print(prompt .format("OK"))
+			statistical_analysis.increment_number_test_cases_passed()
+		else:
+			print(prompt .format("FAIL!!!"))
+		prompt = "	... Test: MM/month value is <= 12.			{}"
+		statistical_analysis.increment_number_test_cases_used()
+		if 12 >= int(tokens[1]):
+			print(prompt .format("OK"))
+			statistical_analysis.increment_number_test_cases_passed()
+		else:
+			print(prompt .format("FAIL!!!"))
+		print("	Testing if 3rd token is appropriate date (YY/year value).")
+		prompt = "	... Test: YY/year value is >= 2000.			{}"
+		statistical_analysis.increment_number_test_cases_used()
+		if 2000 <= int(tokens[2]):
+			print(prompt .format("OK"))
+			statistical_analysis.increment_number_test_cases_passed()
+		else:
+			print(prompt .format("FAIL!!!"))
+		print("	Testing if 4th token is appropriate date (HH/hour value).")
+		prompt = "	... Test: HH/hour value is >= 0.			{}"
+		statistical_analysis.increment_number_test_cases_used()
+		if 0 <= int(tokens[3]):
+			print(prompt .format("OK"))
+			statistical_analysis.increment_number_test_cases_passed()
+		else:
+			print(prompt .format("FAIL!!!"))
+		prompt = "	... Test: HH/hour value is <= 23.			{}"
+		statistical_analysis.increment_number_test_cases_used()
+		if 23 >= int(tokens[3]):
+			print(prompt .format("OK"))
+			statistical_analysis.increment_number_test_cases_passed()
+		else:
+			print(prompt .format("FAIL!!!"))
+	##	Method to test methods associated with generating filename with
+	#		the current time stamp.
+	#	@param - Nothing.
+	#	@return - Nothing.
+	#	O(1) method.
+	@staticmethod
+	def test_filename_generation_methods():
+		print("==	Testing class: generate_filename.")
+		generate_filename_tester.check_filename_format()
 
 
 
@@ -159,22 +243,6 @@ class generate_filename:
 
 
 
-
-
-
-
-###############################################################
-# Main method for the program.
-
-#	If this is executed as a Python script,
-if __name__ == "__main__":
-	generate_filename.check_if_help_wanted()
-	print("===================================================")
-	print("Generate filename to store experimental/simulation results.")
-	print("")
-	filename = generate_filename.create_filename()
-	print("")
-	print("	= end =")
 
 
 #	Python database management

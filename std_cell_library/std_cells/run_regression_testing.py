@@ -110,6 +110,18 @@ from calendar import month_name
 
 #	Import Custom Python Modules
 
+"""
+	Package and module to print statistics of software testing
+		results.
+"""
+from statistics.test_statistics import statistical_analysis
+# Package and module to check the validation of statistical analysis.
+from statistics.test_statistics_tester import statistical_analysis_tester
+
+# Package and module to perform date and time operations.
+from utilities.date_time_processing import date_time_operations
+# Package and module to test date and time operations.
+from utilities.date_time_processing_tester import date_time_operations_tester
 # Module to process input arguments to the script/program.
 #from utilities.queue_ip_arguments import queue_ip_args
 """
@@ -117,6 +129,14 @@ from calendar import month_name
 		results and simulation output.
 """
 from utilities.generate_results_filename import generate_filename
+"""
+	Module to test if the generated filename (based on the
+		then-current time stamp) conforms to the specified
+		format.
+"""
+from utilities.generate_results_filename_tester import generate_filename_tester
+
+
 
 ###############################################################
 class run_regression_tests:
@@ -162,6 +182,12 @@ if __name__ == "__main__":
 	filename = generate_filename.create_filename()
 	print("filename is:",filename,"=end.")
 	print("")
+	# - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+	statistical_analysis_tester.test_statistical_analysis()
+	date_time_operations_tester.test_date_time_operations()
+	print("-	-	-	-	-	-	-	-	-	-	-	-	-")
+	generate_filename_tester.test_filename_generation_methods()
+	print("-	-	-	-	-	-	-	-	-	-	-	-	-")
 	print("	Month #4 is:",month_name[4])
 	print("	Month #0 is:",month_name[0],"=end.")
 	try:
