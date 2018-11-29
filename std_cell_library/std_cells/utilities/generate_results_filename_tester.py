@@ -151,7 +151,7 @@ class generate_filename_tester:
 		# Tokenize the generated filename with the delimiter "-".
 		tokens = temp_op_filename_wo_extn.split("-")
 		"""
-			Check against the format: DD-MM-YY-HH-MM-SS-uS.txt.
+			Check against the format: DD-MM-YY-HH-MM-SS-uS[.txt].
 			tokens[0] = DD/Day
 			tokens[1] = MM/Month
 			tokens[2] = YY/Year
@@ -160,7 +160,7 @@ class generate_filename_tester:
 			tokens[5] = [SS/Second]
 			tokens[6] = [uS/Microsecond]
 		"""
-		prompt = "	... Test: filename format is DD-MM-YY-HH-MM-SS-uS.		{}"
+		prompt = "	... Test: filename format is DD-MM-YY-HH-MM-SS-uS.	{}"
 		statistical_analysis.increment_number_test_cases_used()
 		if 7 == len(tokens):
 			print(prompt .format("OK"))
