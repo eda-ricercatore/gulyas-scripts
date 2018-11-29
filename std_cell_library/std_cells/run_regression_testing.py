@@ -135,6 +135,7 @@ from utilities.generate_results_filename import generate_filename
 		format.
 """
 from utilities.generate_results_filename_tester import generate_filename_tester
+from utilities.miscellaneous import misc
 
 
 
@@ -196,4 +197,9 @@ if __name__ == "__main__":
 	except IndexError:
 		print("	Cannot have negative month indices.")
 	print("")
+	# - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+	if misc.add_commit_push_updates_to_git_repository("Update build: Added access to Git repository"):
+		print("Update repository of simulation/experimental results.")
+	else:
+		print("DID NOT update repository of simulation/experimental results.")
 	print("	= end =")
