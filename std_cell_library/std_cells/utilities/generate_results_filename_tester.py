@@ -260,6 +260,36 @@ class generate_filename_tester:
 			statistical_analysis.increment_number_test_cases_passed()
 		else:
 			print(prompt .format("FAIL!!!"))
+		print("	Testing if 6th token is appropriate date (SS/second value).")
+		prompt = "	... Test: SS/second value is >= 0.			{}"
+		statistical_analysis.increment_number_test_cases_used()
+		if 0 <= int(tokens[5]):
+			print(prompt .format("OK"))
+			statistical_analysis.increment_number_test_cases_passed()
+		else:
+			print(prompt .format("FAIL!!!"))
+		prompt = "	... Test: SS/second is <= 59.				{}"
+		statistical_analysis.increment_number_test_cases_used()
+		if 59 >= int(tokens[5]):
+			print(prompt .format("OK"))
+			statistical_analysis.increment_number_test_cases_passed()
+		else:
+			print(prompt .format("FAIL!!!"))
+		print("	Testing if 7th token is appropriate date (uS/microsecond value).")
+		prompt = "	... Test: uS/microsecond value is >= 0.			{}"
+		statistical_analysis.increment_number_test_cases_used()
+		if 0 <= int(tokens[6]):
+			print(prompt .format("OK"))
+			statistical_analysis.increment_number_test_cases_passed()
+		else:
+			print(prompt .format("FAIL!!!"))
+		prompt = "	... Test: uS/microsecond value is <= 999999.		{}"
+		statistical_analysis.increment_number_test_cases_used()
+		if 999999 >= int(tokens[6]):
+			print(prompt .format("OK"))
+			statistical_analysis.increment_number_test_cases_passed()
+		else:
+			print(prompt .format("FAIL!!!"))
 	##	Method to test methods associated with generating filename with
 	#		the current time stamp.
 	#	@param - Nothing.
