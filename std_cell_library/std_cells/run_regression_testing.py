@@ -160,13 +160,7 @@ class run_regression_tests:
 			print("	to show the brief user manual and exit.")
 			print("")
 			print("-------------------------------------------------")
-	@staticmethod
-	def check_filename():
-		temp_op_filename = generate_filename.create_filename()
-		"""
-			Implement functions to write output files to a
-				specific directory:
-		"""
+
 
 
 ###############################################################
@@ -188,6 +182,9 @@ if __name__ == "__main__":
 	print("-	-	-	-	-	-	-	-	-	-	-	-	-")
 	generate_filename_tester.test_filename_generation_methods()
 	print("-	-	-	-	-	-	-	-	-	-	-	-	-")
+	print("!	!	!	!	!	!	!	!	!	!	!")
+	print(">>	Get statistics of the software testing process.")
+	statistical_analysis.print_statistics_of_software_testing()
 	print("	Month #4 is:",month_name[4])
 	print("	Month #0 is:",month_name[0],"=end.")
 	try:
