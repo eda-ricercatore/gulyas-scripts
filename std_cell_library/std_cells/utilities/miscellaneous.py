@@ -82,6 +82,17 @@ from utilities.configuration_manager import config_manager
 ##	Module with methods that perform miscellaneous tasks.
 class misc:
 	# ============================================================
+	##	Method to determine where to store the results of the
+	#		experimental, simulation, verification, or testing runs
+	#	@param filename - A filename that has the DD-MM-YY-HH-MM-SS.txt.
+	#	@return boolean True if the path to the desired location can
+	#		be found;
+	#		Else, return boolean False.
+	#	O(1) method.
+	@staticmethod
+	def find_desired_location_for_results(filename):
+		return True
+	# ============================================================
 	##	Method to add, commit, and push additions and updates
 	#		to a Git repository.
 	#	@param comment - A comment for this commit/build [to the

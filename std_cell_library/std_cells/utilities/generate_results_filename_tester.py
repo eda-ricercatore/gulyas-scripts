@@ -13,7 +13,7 @@
 		that I have specified.
 
 	Check if the filename is based on the following format:
-		DD-MM-YY-HH-MM-SS.txt
+		DD-MM-YY-HH-MM-SS-uS.txt
 	If it is not, warn the user.
 		This is because it may create difficulties in developing
 			scripts to process, analyze, and visualize the data.
@@ -23,7 +23,7 @@
 	Notes/Assumptions:
 	Since I would be categorizing and storing the experimental results
 		based on the year and month, the filename containg experimental
-		results would be named in the DD-MM-YY-HH-MM-SS format so that
+		results would be named in the DD-MM-YY-HH-MM-SS-uS format so that
 		I can quickly find the file of a given build (or experimental
 		run) as I read the filename from left to right.
 
@@ -136,19 +136,39 @@ class generate_filename_tester:
 		print("	Generate a filename with the current time stamp.")
 		temp_op_filename = generate_filename.create_filename()
 		print("	Testing filename:",temp_op_filename,"=")
-		print("	Check against the format: DD-MM-YY-HH-MM-SS.txt")
-		print("	Tokenize generated filename.")
+		print("	Check against the format: DD-MM-YY-HH-MM-SS-uS.txt")
+		# https://stackoverflow.com/questions/678236/how-to-get-the-filename-without-the-extension-from-a-path-in-python
+		temp_op_filename_wo_extn, file_extn = os.path.splitext(temp_op_filename)
+		print("	Testing if the filename has the correct file extension.")
+		prompt = "	... Test: file extension is '.txt'.			{}"
+		statistical_analysis.increment_number_test_cases_used()
+		if ".txt" == file_extn:
+			print(prompt .format("OK"))
+			statistical_analysis.increment_number_test_cases_passed()
+		else:
+			print(prompt .format("FAIL!!!"))
+		print("	Testing if filename without file extension has right format.")
 		# Tokenize the generated filename with the delimiter "-".
-		tokens = temp_op_filename.split("-")
+		tokens = temp_op_filename_wo_extn.split("-")
 		"""
-			Check against the format: DD-MM-YY-HH-MM-SS.txt.
+			Check against the format: DD-MM-YY-HH-MM-SS-uS.txt.
 			tokens[0] = DD/Day
 			tokens[1] = MM/Month
 			tokens[2] = YY/Year
 			tokens[3] = HH/Hour
 			tokens[4] = MM/Minute
-			tokens[5] = SS/Second
+			tokens[5] = [SS/Second]
+			tokens[6] = [uS/Microsecond]
 		"""
+		prompt = "	... Test: filename format is DD-MM-YY-HH-MM-SS-uS.		{}"
+		statistical_analysis.increment_number_test_cases_used()
+		if 7 == len(tokens):
+			print(prompt .format("OK"))
+			statistical_analysis.increment_number_test_cases_passed()
+		else:
+			print(prompt .format("FAIL!!!"))
+			print(tokens)
+		print("	Tokenize generated filename.")
 		print("	Testing if 1st token is appropriate date (DD/date value).")
 		prompt = "	... Test: DD value is >= 0.				{}"
 		statistical_analysis.increment_number_test_cases_used()

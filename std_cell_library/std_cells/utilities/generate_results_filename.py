@@ -22,14 +22,14 @@
 	Its procedure is described as follows:
 	If the optional "-h" flag is specified,
 		display the brief user manual.
-	Get the current date and time in the DD-MM-YY-HH-MM-SS format,
+	Get the current date and time in the DD-MM-YY-HH-MM-SS-uS format,
 		and create an empty file named after the current date and time.
 
 
 	Notes/Assumptions:
 	Since I would be categorizing and storing the experimental results
 		based on the year and month, the filename containg experimental
-		results would be named in the DD-MM-YY-HH-MM-SS format so that
+		results would be named in the DD-MM-YY-HH-MM-SS-uS format so that
 		I can quickly find the file of a given build (or experimental
 		run) as I read the filename from left to right.
 

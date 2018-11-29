@@ -118,12 +118,30 @@ from statistics.test_statistics import statistical_analysis
 # Package and module to check the validation of statistical analysis.
 from statistics.test_statistics_tester import statistical_analysis_tester
 
+# Package and module to process input arguments to the script/program.
+from utilities.queue_ip_arguments import queue_ip_args
+# Package and module to validate processing of input arguments.
+from utilities.queue_ip_arguments_tester import queue_ip_args_tester
+# Package and module to perform file I/O (input/output) operations.
+from utilities.file_io import file_io_operations
+# Package and module to test file I/O (input/output) operations.
+from utilities.file_io_tester import file_io_operations_tester
 # Package and module to perform date and time operations.
 from utilities.date_time_processing import date_time_operations
 # Package and module to test date and time operations.
 from utilities.date_time_processing_tester import date_time_operations_tester
 # Module to process input arguments to the script/program.
 #from utilities.queue_ip_arguments import queue_ip_args
+"""
+	Package and module to configure the software application's
+		parameters.
+"""
+from utilities.configuration_manager import config_manager
+"""
+	Package and module to test the configuration of the software
+		application's parameters.
+"""
+from utilities.configuration_manager_tester import config_manager_tester
 """
 	Module to generate the filename for storing the experimental
 		results and simulation output.
@@ -178,9 +196,14 @@ if __name__ == "__main__":
 	print("filename is:",filename,"=end.")
 	print("")
 	# - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+	#	Insert test cases for statistical analysis package
 	statistical_analysis_tester.test_statistical_analysis()
-	date_time_operations_tester.test_date_time_operations()
 	print("-	-	-	-	-	-	-	-	-	-	-	-	-")
+	# Insert test cases for testing the utilities package.
+	file_io_operations_tester.test_file_io_operations()
+	#queue_ip_args_tester.test_queue_ip_args()
+	config_manager_tester.test_configure_sw_application_parameters()
+	date_time_operations_tester.test_date_time_operations()
 	generate_filename_tester.test_filename_generation_methods()
 	print("-	-	-	-	-	-	-	-	-	-	-	-	-")
 	print("!	!	!	!	!	!	!	!	!	!	!")
@@ -198,8 +221,12 @@ if __name__ == "__main__":
 		print("	Cannot have negative month indices.")
 	print("")
 	# - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-	if misc.add_commit_push_updates_to_git_repository("Update build: Added access to Git repository"):
+	#os.rename("/Users/zhiyang/Documents/ricerca/risultati_sperimentali/std-cell-library-characterization/.git/index.lock","/Users/zhiyang/Documents/ricerca/risultati_sperimentali/std-cell-library-characterization/.git/index.lock-spare")
+"""
+	absolute_path = "/Users/zhiyang/Documents/ricerca/risultati_sperimentali/std-cell-library-characterization"
+	if config_manager.set_result_repository(absolute_path) and misc.add_commit_push_updates_to_git_repository("Update build: Added access to Git repository"):
 		print("Update repository of simulation/experimental results.")
 	else:
 		print("DID NOT update repository of simulation/experimental results.")
 	print("	= end =")
+"""
