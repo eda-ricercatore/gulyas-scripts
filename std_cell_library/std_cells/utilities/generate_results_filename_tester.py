@@ -225,6 +225,21 @@ class generate_filename_tester:
 			statistical_analysis.increment_number_test_cases_passed()
 		else:
 			print(prompt .format("FAIL!!!"))
+		print("	Testing if 5th token is appropriate date (MM/minute value).")
+		prompt = "	... Test: MM/minute value is >= 0.			{}"
+		statistical_analysis.increment_number_test_cases_used()
+		if 0 <= int(tokens[4]):
+			print(prompt .format("OK"))
+			statistical_analysis.increment_number_test_cases_passed()
+		else:
+			print(prompt .format("FAIL!!!"))
+		prompt = "	... Test: MM/minute value is <= 59.			{}"
+		statistical_analysis.increment_number_test_cases_used()
+		if 59 >= int(tokens[4]):
+			print(prompt .format("OK"))
+			statistical_analysis.increment_number_test_cases_passed()
+		else:
+			print(prompt .format("FAIL!!!"))
 	##	Method to test methods associated with generating filename with
 	#		the current time stamp.
 	#	@param - Nothing.
