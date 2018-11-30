@@ -34,6 +34,7 @@
 	- [System Resource Management](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#system-resource-management)
 + [*Python*-based Data Science](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#python-based-data-science)
 	- [Probability Theory, Statistical Analysis, Random Processes, Stochastic Modeling, and Noise](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#probability-theory-statistical-analysis-random-processes-stochastic-modeling-and-noise)
+	- [Machine Learning](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#machine-learning)
 	- [Data Visualization](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#data-visualization)
 	- [Additional Information and Resources](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#additional-information-and-resources)
 + [Miscellaneous](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#miscellaneous)
@@ -3364,6 +3365,7 @@ Use mutual exclusion (mutex) to manage system resources, such as locks, files,
 
 
 ###	Machine Learning
+
 
 [Google Colaboratory](https://colab.research.google.com/)
 
