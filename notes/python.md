@@ -3351,12 +3351,34 @@ Use mutual exclusion (mutex) to manage system resources, such as locks, files,
 
 
 
+##	*Python*-based Data Science
+
+
+###	Probability Theory, Statistical Analysis, Random Processes, Stochastic Modeling, and Noise
 
 
 
 
 
 
+###	Data Visualization
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+###	Additional Information and Resources
+
+See the following regarding [database administration and information systems](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#database-administration).
 
 
 
