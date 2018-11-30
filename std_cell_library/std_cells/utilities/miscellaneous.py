@@ -211,6 +211,17 @@ class misc:
 		#print("path_to_results_file:",path_to_results_file,"=")
 		return path_to_results_file
 	# ============================================================
+	##	Method to store the results file in the specified absolute path.
+	#	@param path_to_file - A path to store the results file.
+	#	@return a file object for the results file.
+	#	O(1) method.
+	@staticmethod
+	def store_results(path_to_file):
+		if path_to_file is not None:
+			return open(path_to_file, 'w+')
+		else:
+			return None
+	# ============================================================
 	##	Method to add, commit, and push additions and updates
 	#		to a Git repository.
 	#	@param comment - A comment for this commit/build [to the

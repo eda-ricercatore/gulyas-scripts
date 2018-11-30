@@ -69,6 +69,9 @@ import calendar
 from statistics.test_statistics import statistical_analysis
 
 
+
+# Package and module to perform file I/O operations.
+from utilities.file_io import file_io_operations
 """
 	Package and module to configure the software application's
 		parameters.
@@ -448,6 +451,9 @@ class misc_tester:
 			print("misc.get_absolute_path_to_store_results():",misc.get_absolute_path_to_store_results(),"=")
 			print(results_location.find(misc.get_absolute_path_to_store_results()))
 			"""
+		f_obj = misc.store_results(results_location)
+		f_obj.write("Storage of experimental, simulation, verification, and testing results work.")
+		file_io.close_file_object(f_obj)
 	## =========================================================
 	#	Method to test the miscellaneous methods.
 	#	@param - Nothing
