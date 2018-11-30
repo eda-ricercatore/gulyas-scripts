@@ -160,6 +160,12 @@ class misc:
 	#	O(1) method.
 	@staticmethod
 	def find_desired_location_for_results(filename):
+		# Does filename have the DD-MM-YY-HH-MM-SS-uS.txt format?
+		if not misc.check_filename_format(filename):
+			return False
+		# Remove file extension, and tokenize the filename.
+		filename_wo_extn, file_extn = os.path.splitext(filename)
+		tokens = filename_wo_extn.split("-")
 		return True
 	# ============================================================
 	##	Method to add, commit, and push additions and updates

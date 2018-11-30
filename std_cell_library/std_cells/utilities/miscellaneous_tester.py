@@ -231,7 +231,7 @@ class misc_tester:
 			All fields/tokens need to be numbers, else an exception
 				would be thrown.
 		"""
-		if misc.check_filename_format("30-15-1582-00-00-00-00.txt"):
+		if misc.check_filename_format("30-11-1582-00-00-00-00.txt"):
 			print(prompt .format("FAIL!!!"))
 		else:
 			print(prompt .format("OK"))
@@ -242,18 +242,18 @@ class misc_tester:
 			All fields/tokens need to be numbers, else an exception
 				would be thrown.
 		"""
-		if misc.check_filename_format("30-15-2083-00-00-00-00.txt"):
-			print(prompt .format("FAIL!!!"))
-		else:
+		if misc.check_filename_format("2-2-2083-00-00-00-00.txt"):
 			print(prompt .format("OK"))
 			statistical_analysis.increment_number_test_cases_passed()
+		else:
+			print(prompt .format("FAIL!!!"))
 		prompt = "	... Test: filename with HH/hour = -3.			{}"
 		statistical_analysis.increment_number_test_cases_used()
 		"""
 			All fields/tokens need to be numbers, else an exception
 				would be thrown.
 		"""
-		if misc.check_filename_format("30-15-1582--3-00-00-00.txt"):
+		if misc.check_filename_format("30-5-2015--3-00-00-00.txt"):
 			print(prompt .format("FAIL!!!"))
 		else:
 			print(prompt .format("OK"))
@@ -264,7 +264,7 @@ class misc_tester:
 			All fields/tokens need to be numbers, else an exception
 				would be thrown.
 		"""
-		if misc.check_filename_format("30-15-1582-25-00-00-00.txt"):
+		if misc.check_filename_format("3-5-2017-25-00-00-00.txt"):
 			print(prompt .format("FAIL!!!"))
 		else:
 			print(prompt .format("OK"))
@@ -275,22 +275,132 @@ class misc_tester:
 			All fields/tokens need to be numbers, else an exception
 				would be thrown.
 		"""
-		if misc.check_filename_format("30-15-1582-25-00-00-00.txt"):
-			print(prompt .format("FAIL!!!"))
-		else:
+		if misc.check_filename_format("12-1-2013-17-00-00-00.txt"):
 			print(prompt .format("OK"))
 			statistical_analysis.increment_number_test_cases_passed()
-		prompt = "	... Test: filename with HH/hour = 25.			{}"
+		else:
+			print(prompt .format("FAIL!!!"))
+		prompt = "	... Test: filename with MM/minute = -8.			{}"
 		statistical_analysis.increment_number_test_cases_used()
 		"""
 			All fields/tokens need to be numbers, else an exception
 				would be thrown.
 		"""
-		if misc.check_filename_format("30-15-1582-25-00-00-00.txt"):
+		if misc.check_filename_format("7-4-2012-2--8-00-00.txt"):
 			print(prompt .format("FAIL!!!"))
 		else:
 			print(prompt .format("OK"))
 			statistical_analysis.increment_number_test_cases_passed()
+		prompt = "	... Test: filename with MM/minute = 73.			{}"
+		statistical_analysis.increment_number_test_cases_used()
+		"""
+			All fields/tokens need to be numbers, else an exception
+				would be thrown.
+		"""
+		if misc.check_filename_format("25-1-2020-5-73-00-00.txt"):
+			print(prompt .format("FAIL!!!"))
+		else:
+			print(prompt .format("OK"))
+			statistical_analysis.increment_number_test_cases_passed()
+		prompt = "	... Test: filename with MM/minute = 59.			{}"
+		statistical_analysis.increment_number_test_cases_used()
+		"""
+			All fields/tokens need to be numbers, else an exception
+				would be thrown.
+		"""
+		if misc.check_filename_format("25-1-2020-5-59-00-00.txt"):
+			print(prompt .format("OK"))
+			statistical_analysis.increment_number_test_cases_passed()
+		else:
+			print(prompt .format("FAIL!!!"))
+		prompt = "	... Test: filename with MM/minute = 0.			{}"
+		statistical_analysis.increment_number_test_cases_used()
+		"""
+			All fields/tokens need to be numbers, else an exception
+				would be thrown.
+		"""
+		if misc.check_filename_format("25-1-2020-5-0-00-00.txt"):
+			print(prompt .format("OK"))
+			statistical_analysis.increment_number_test_cases_passed()
+		else:
+			print(prompt .format("FAIL!!!"))
+		prompt = "	... Test: filename with SS/second = -4.			{}"
+		statistical_analysis.increment_number_test_cases_used()
+		"""
+			All fields/tokens need to be numbers, else an exception
+				would be thrown.
+		"""
+		if misc.check_filename_format("25-1-2020-5-8--4-00.txt"):
+			print(prompt .format("FAIL!!!"))
+		else:
+			print(prompt .format("OK"))
+			statistical_analysis.increment_number_test_cases_passed()
+		prompt = "	... Test: filename with SS/second = 81.			{}"
+		statistical_analysis.increment_number_test_cases_used()
+		"""
+			All fields/tokens need to be numbers, else an exception
+				would be thrown.
+		"""
+		if misc.check_filename_format("25-1-2020-5-8-81-00.txt"):
+			print(prompt .format("FAIL!!!"))
+		else:
+			print(prompt .format("OK"))
+			statistical_analysis.increment_number_test_cases_passed()
+		prompt = "	... Test: filename with SS/second = 36.			{}"
+		statistical_analysis.increment_number_test_cases_used()
+		"""
+			All fields/tokens need to be numbers, else an exception
+				would be thrown.
+		"""
+		if misc.check_filename_format("25-1-2020-5-8-36-00.txt"):
+			print(prompt .format("OK"))
+			statistical_analysis.increment_number_test_cases_passed()
+		else:
+			print(prompt .format("FAIL!!!"))
+		prompt = "	... Test: filename with uS/microsecond = -129.		{}"
+		statistical_analysis.increment_number_test_cases_used()
+		"""
+			All fields/tokens need to be numbers, else an exception
+				would be thrown.
+		"""
+		if misc.check_filename_format("25-1-2020-5-8-4--129.txt"):
+			print(prompt .format("FAIL!!!"))
+		else:
+			print(prompt .format("OK"))
+			statistical_analysis.increment_number_test_cases_passed()
+		prompt = "	... Test: filename with uS/microsecond = 16534785929.	{}"
+		statistical_analysis.increment_number_test_cases_used()
+		"""
+			All fields/tokens need to be numbers, else an exception
+				would be thrown.
+		"""
+		if misc.check_filename_format("25-1-2020-5-8-32-16534785929.txt"):
+			print(prompt .format("FAIL!!!"))
+		else:
+			print(prompt .format("OK"))
+			statistical_analysis.increment_number_test_cases_passed()
+		prompt = "	... Test: filename with uS/microsecond = 0.		{}"
+		statistical_analysis.increment_number_test_cases_used()
+		"""
+			All fields/tokens need to be numbers, else an exception
+				would be thrown.
+		"""
+		if misc.check_filename_format("25-1-2020-5-8-32-0.txt"):
+			print(prompt .format("OK"))
+			statistical_analysis.increment_number_test_cases_passed()
+		else:
+			print(prompt .format("FAIL!!!"))
+		prompt = "	... Test: filename with uS/microsecond = 999999.	{}"
+		statistical_analysis.increment_number_test_cases_used()
+		"""
+			All fields/tokens need to be numbers, else an exception
+				would be thrown.
+		"""
+		if misc.check_filename_format("25-1-2020-5-8-51-999999.txt"):
+			print(prompt .format("OK"))
+			statistical_analysis.increment_number_test_cases_passed()
+		else:
+			print(prompt .format("FAIL!!!"))
 
 	## =========================================================
 	#	Method to test the miscellaneous methods.
