@@ -405,16 +405,47 @@ class misc_tester:
 	#	Method to test the miscellaneous method that determines
 	#		where to store the results of experimental, simulation,
 	#		verification, and testing runs.
+	#	This does not correct check if the results file is placed
+	#		in the correct subdirectory of the results repository.
 	#	@param - Nothing
 	#	@return a string representing the location to store the
 	#		aforementioned results.
 	#	O(1) method.
 	@staticmethod
 	def test_find_desired_location_for_results():
+		incorrect_format_result = "'filename' needs to have the format: DD-MM-YY-HH-MM-SS-uS.txt."
 		print("==	Test: test_find_desired_location_for_results().")
-		test_filename = "25-3-2010-5-8-51-999999.txt"
+		test_filename = "25-3-2010-5-8-51-9994073289.dwq"
 		results_location = misc.find_desired_location_for_results(test_filename)
-		
+		prompt = "	... Test: filename is 25-3-2010-5-8-51-9994073289.dwq.	{}"
+		statistical_analysis.increment_number_test_cases_used()
+		if misc.find_desired_location_for_results(test_filename) == incorrect_format_result:
+			print(prompt .format("OK"))
+			statistical_analysis.increment_number_test_cases_passed()
+		else:
+			print(prompt .format("FAIL!!!"))
+		print("==	Test: test_find_desired_location_for_results().")
+		test_filename = "25-3-2010-5-8-51-9407.txt"
+		results_location = misc.find_desired_location_for_results(test_filename)
+		prompt = "	... Test: filename 25-3-2010-5-8-51-9407.txt included.	{}"
+		statistical_analysis.increment_number_test_cases_used()
+		if misc.check_absolute_path_to_store_results(results_location,test_filename):
+			print(prompt .format("OK"))
+			statistical_analysis.increment_number_test_cases_passed()
+		else:
+			print(prompt .format("FAIL!!!"))
+		prompt = "	... Test: 25-3-2010-5-8-51-9407.txt, correct path.	{}"
+		statistical_analysis.increment_number_test_cases_used()
+		if misc.get_absolute_path_to_store_results() in results_location:
+			print(prompt .format("OK"))
+			statistical_analysis.increment_number_test_cases_passed()
+		else:
+			print(prompt .format("FAIL!!!"))
+			"""
+			print("results_location:",results_location,"=")
+			print("misc.get_absolute_path_to_store_results():",misc.get_absolute_path_to_store_results(),"=")
+			print(results_location.find(misc.get_absolute_path_to_store_results()))
+			"""
 	## =========================================================
 	#	Method to test the miscellaneous methods.
 	#	@param - Nothing

@@ -191,8 +191,14 @@ class misc:
 		# Remove file extension, and tokenize the filename.
 		filename_wo_extn, file_extn = os.path.splitext(filename)
 		tokens = filename_wo_extn.split("-")
-		path_to_results_file = misc.get_absolute_path_to_store_results() +  "/" + tokens[2] + "/" + month_name[int(tokens[1])] + "/" + filename
-		print("path_to_results_file:",path_to_results_file,"=")
+		"""
+			In the repository to store results from experiments,
+				simulations, and verification runs, and testing runs,
+				classify the files by subdirectories according to year
+				first before the month.
+		"""
+		path_to_results_file = misc.get_absolute_path_to_store_results() +  "/" + tokens[2] + "/" + month_name[int(tokens[1])].lower() + "/" + filename
+		#print("path_to_results_file:",path_to_results_file,"=")
 		return path_to_results_file
 	# ============================================================
 	##	Method to add, commit, and push additions and updates
