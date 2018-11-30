@@ -74,10 +74,13 @@ from shutil import copyfile
 		results.
 """
 from statistics.test_statistics import statistical_analysis
+
 # Package and module to process input arguments to the script/program.
 #from utilities.queue_ip_arguments import queue_ip_args
 # Package and module to perform file I/O operations.
 from utilities.file_io import file_io_operations
+# Package and module to generate filename with time stamp.
+from utilities.generate_results_filename import generate_filename
 
 ###############################################################
 """
@@ -166,7 +169,7 @@ class file_io_operations_tester:
 		prompt = "	Test: file_io_operations.open_file_object_write(...)	{}"
 		statistical_analysis.increment_number_test_cases_used()
 		try:
-			f_obj = file_io_operations.open_file_object_write(filename)
+			f_obj = file_io_operations.open_file_object_write("run_regression_testing-write-copy.py")
 			print(prompt .format("FAIL!!!"))
 		except:
 			print(prompt .format("OK"))
@@ -174,7 +177,7 @@ class file_io_operations_tester:
 		prompt = "	Test: file_io_ops[BLAH].open_file_object_write_new(...)	{}"
 		statistical_analysis.increment_number_test_cases_used()
 		try:
-			f_obj = file_io_operations.open_file_object_write_new(filename)
+			f_obj = file_io_operations.open_file_object_write_new("run_regression_testing-write-new-copy.py")
 			print(prompt .format("OK"))
 			statistical_analysis.increment_number_test_cases_passed()
 		except:
@@ -186,7 +189,7 @@ class file_io_operations_tester:
 		file_io_operations.close_file_object(f_obj)
 		# Copy a file from [source] to [destination]
 		#copyfile("dev-notes/run_regression_testing-copy.py","dev-notes/run_regression_testing.py")
-		copyfile("dev-notes/run_regression_testing.py","dev-notes/run_regression_testing-copy.py")
+		#copyfile("dev-notes/run_regression_testing.py","dev-notes/run_regression_testing-copy.py")
 	## =========================================================
 	#	Method to test file operations on files with the same content.
 	#	@param - Nothing
@@ -197,7 +200,7 @@ class file_io_operations_tester:
 		print("	Testing file operations on files with the same content.")
 		prompt = "	... Test: file_io_operations.file_comparison(...)	{}"
 		statistical_analysis.increment_number_test_cases_used()
-		if file_io_operations.file_comparison("dev-notes/run_regression_testing.py","dev-notes/run_regression_testing-copy.py"):
+		if file_io_operations.file_comparison("dev-notes/run_regression_testing-original-copy.py","dev-notes/run_regression_testing-same-copy.py"):
 			print(prompt .format("OK"))
 			statistical_analysis.increment_number_test_cases_passed()
 		else:
@@ -205,7 +208,7 @@ class file_io_operations_tester:
 		print("	Testing file operations on files with the different content.")
 		prompt = "	... Test: file_io_operations.file_comparison(...)	{}"
 		statistical_analysis.increment_number_test_cases_used()
-		if file_io_operations.file_comparison("dev-notes/run_regression_testing.py","makefile"):
+		if file_io_operations.file_comparison("dev-notes/run_regression_testing-original-copy.py","dev-notes/run_regression_testing-different-copy.py"):
 			print(prompt .format("FAIL!!!"))
 		else:
 			print(prompt .format("OK"))

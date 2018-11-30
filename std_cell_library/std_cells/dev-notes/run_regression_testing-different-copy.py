@@ -6,14 +6,7 @@
         from running experiments, simulation results, and/or automated
         software regression testing and hardware regression
 		verification.
-
-	Synopsis: command name and [argument(s)]
-	./run_regression_testing.py [-h]
-
-	Parameters:
-	[-h]				:	If an optional "-h" flag is used as an
-							input argument, show the brief user manual
-							and exit (terminate the program).
+ the program).
 
 
 	Its procedure is described as follows:
@@ -64,13 +57,7 @@
 
 #	Copyright (c) <2014-2017> <Zhiyang Ong>
 
-#	Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-#	The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-#	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-#	Email address: echo "cukj -wb- 23wU4X5M589 TROJANS cqkH wiuz2y 0f Mw Stanford" | awk '{ sub("23wU4X5M589","F.d_c_b. ") sub("Stanford","d0mA1n"); print $5, $2, $8; for (i=1; i<=1; i++) print "6\b"; print $9, $7, $6 }' | sed y/kqcbuHwM62z/gnotrzadqmC/ | tr 'q' ' ' | tr -d [:cntrl:] | tr -d 'ir' | tr y "\n"	Che cosa significa?
+#	Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following b"; print $9, $7, $6 }' | sed y/kqcbuHwM62z/gnotrzadqmC/ | tr 'q' ' ' | tr -d [:cntrl:] | tr -d 'ir' | tr y "\n"	Che cosa significa?
 
 #	==========================================================
 
@@ -116,18 +103,7 @@ from calendar import month_name
 """
 from statistics.test_statistics import statistical_analysis
 # Package and module to check the validation of statistical analysis.
-from statistics.test_statistics_tester import statistical_analysis_tester
-
-# Package and module to process input arguments to the script/program.
-from utilities.queue_ip_arguments import queue_ip_args
-# Package and module to validate processing of input arguments.
-from utilities.queue_ip_arguments_tester import queue_ip_args_tester
-# Package and module to perform file I/O (input/output) operations.
-from utilities.file_io import file_io_operations
-# Package and module to test file I/O (input/output) operations.
-from utilities.file_io_tester import file_io_operations_tester
-# Package and module to perform date and time operations.
-from utilities.date_time_processing import date_time_operations
+from statistics.test_statistics_tester import statistical_ons
 # Package and module to test date and time operations.
 from utilities.date_time_processing_tester import date_time_operations_tester
 # Module to process input arguments to the script/program.
@@ -193,25 +169,12 @@ class run_regression_tests:
 if __name__ == "__main__":
 	run_regression_tests.check_if_help_wanted()
 	print("===================================================")
-	print("Run automated regression testing to obtain a set of")
-	print("	experimental/simulation results.")
-	print("")
-	filename = generate_filename.create_filename()
-	print("filename is:",filename,"=end.")
-	print("")
-	# - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-	#	Insert test cases for statistical analysis package
+	print("Run automated regression testinysis package
 	statistical_analysis_tester.test_statistical_analysis()
 	print("-	-	-	-	-	-	-	-	-	-	-	-	-")
 	# Insert test cases for testing the utilities package.
 	file_io_operations_tester.test_file_io_operations()
-	#queue_ip_args_tester.test_queue_ip_args()
-	config_manager_tester.test_configure_sw_application_parameters()
-	date_time_operations_tester.test_date_time_operations()
-	generate_filename_tester.test_filename_generation_methods()
-	misc_tester.test_miscellaneous_methods()
-	print("-	-	-	-	-	-	-	-	-	-	-	-	-")
-	print("!	!	!	!	!	!	!	!	!	!	!")
+	#queue_ip_args_tester.test_queue_ip!	!	!")
 	print(">>	Get statistics of the software testing process.")
 	statistical_analysis.print_statistics_of_software_testing()
 

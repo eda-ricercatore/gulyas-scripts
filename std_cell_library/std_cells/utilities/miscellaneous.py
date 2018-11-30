@@ -166,6 +166,7 @@ class misc:
 		# Remove file extension, and tokenize the filename.
 		filename_wo_extn, file_extn = os.path.splitext(filename)
 		tokens = filename_wo_extn.split("-")
+		
 		return True
 	# ============================================================
 	##	Method to add, commit, and push additions and updates
