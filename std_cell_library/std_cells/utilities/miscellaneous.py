@@ -191,11 +191,8 @@ class misc:
 		# Remove file extension, and tokenize the filename.
 		filename_wo_extn, file_extn = os.path.splitext(filename)
 		tokens = filename_wo_extn.split("-")
-		month_number = int(tokens[1])
-		month_name_str = month_name[int(tokens[1])]
-		#path_to_results_file = misc.get_absolute_path_to_store_results() +  "/" + tokens[2] + "/" + month_name(month_number) + "/" + filename
 		path_to_results_file = misc.get_absolute_path_to_store_results() +  "/" + tokens[2] + "/" + month_name[int(tokens[1])] + "/" + filename
-		print("path_to_results_file:",path_to_results_file)
+		print("path_to_results_file:",path_to_results_file,"=")
 		return path_to_results_file
 	# ============================================================
 	##	Method to add, commit, and push additions and updates
