@@ -197,7 +197,17 @@ class misc:
 				classify the files by subdirectories according to year
 				first before the month.
 		"""
-		path_to_results_file = misc.get_absolute_path_to_store_results() +  "/" + tokens[2] + "/" + month_name[int(tokens[1])].lower() + "/" + filename
+		# Does a directory for the specified year exists?
+		path_to_results_file = misc.get_absolute_path_to_store_results() +  "/" + tokens[2]
+		if not os.path.isdir(path_to_results_file):
+			# Creat the directory for the specified year.
+			os.mkdir(path_to_results_file)
+		# Does a directory for the specified month exists?
+		path_to_results_file = path_to_results_file + "/" + month_name[int(tokens[1])].lower()
+		if not os.path.isdir(path_to_results_file):
+			# Creat the directory for the specified month.
+			os.mkdir(path_to_results_file)
+		path_to_results_file = path_to_results_file + "/" + filename
 		#print("path_to_results_file:",path_to_results_file,"=")
 		return path_to_results_file
 	# ============================================================
