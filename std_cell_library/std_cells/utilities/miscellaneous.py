@@ -12,7 +12,7 @@
 
 	#### IMPORTANT NOTES:
 	#### IMPORTANT ASSUMPTIONS:
-	A test suite for this Python module is not provided.
+	A complete test suite for this Python module is not provided.
 	This is because it would require a Python interface to Git in order
 		to test if differences between the last build (or build *n*) and
 		the previous last build (or build *n*-1) have been committed and
@@ -77,14 +77,75 @@ import warnings
 		parameters.
 """
 from utilities.configuration_manager import config_manager
+# Package and module to generate filename with time stamp.
+from utilities.generate_results_filename import generate_filename
 
 ###############################################################
 ##	Module with methods that perform miscellaneous tasks.
 class misc:
 	# ============================================================
+	##	Method to determine if a filename has the DD-MM-YY-HH-MM-SS-uS.txt
+	#		format.
+	#	@param filename - A filename.
+	#	@return boolean True if the path to the desired location can
+	#		be found;
+	#		Else, return boolean False.
+	#	O(1) method.
+	@staticmethod
+	def check_filename_format(filename):
+		filename_wo_extn, file_extn = os.path.splitext(filename)
+		if ".txt" != file_extn:
+			return False
+		tokens = filename_wo_extn.split("-")
+		"""
+			Check against the format: DD-MM-YY-HH-MM-SS-uS[.txt].
+			tokens[0] = DD/Day
+			tokens[1] = MM/Month
+			tokens[2] = YY/Year
+			tokens[3] = HH/Hour
+			tokens[4] = MM/Minute
+			tokens[5] = [SS/Second]
+			tokens[6] = [uS/Microsecond]
+		"""
+		if 7 != len(tokens):
+			return False
+		if 1 > int(tokens[0]):
+			return False
+		if 2 == int(tokens[1]) and 29 < int(tokens[0]) and calendar.isleap(tokens[2]):
+			return False
+		if 2 == int(tokens[1]) and 28 < int(tokens[0]) and not calendar.isleap(tokens[2]):
+			return False
+		if generate_filename_tester.is_30_day_month(tokens[1]) and 30 < int(tokens[0]):
+			return False
+		if generate_filename_tester.is_31_day_month(tokens[1]) and 31 < int(tokens[0]):
+			return False
+		if 1 > int(tokens[1]):
+			return False
+		if 12 < int(tokens[1]):
+			return False
+		if 2000 > int(tokens[2]):
+			return False
+		if 0 > int(tokens[3]):
+			return False
+		if 23 < int(tokens[3]):
+			return False
+		if 0 > int(tokens[4]):
+			return False
+		if 59 < int(tokens[4]):
+			return False
+		if 0 > int(tokens[5]):
+			return False
+		if 59 < int(tokens[5]):
+			return False
+		if 0 > int(tokens[6]):
+			return False
+		if 999999 < int(tokens[6]):
+			return False
+		return True
+	# ============================================================
 	##	Method to determine where to store the results of the
 	#		experimental, simulation, verification, or testing runs
-	#	@param filename - A filename that has the DD-MM-YY-HH-MM-SS.txt.
+	#	@param filename - A filename that has the DD-MM-YY-HH-MM-SS-uS.txt.
 	#	@return boolean True if the path to the desired location can
 	#		be found;
 	#		Else, return boolean False.

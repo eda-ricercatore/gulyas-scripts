@@ -153,7 +153,11 @@ from utilities.generate_results_filename import generate_filename
 		format.
 """
 from utilities.generate_results_filename_tester import generate_filename_tester
+"""
+	Module to test miscellaneous methods.
+"""
 from utilities.miscellaneous import misc
+from utilities.miscellaneous_tester import misc_tester
 
 
 
@@ -205,10 +209,12 @@ if __name__ == "__main__":
 	config_manager_tester.test_configure_sw_application_parameters()
 	date_time_operations_tester.test_date_time_operations()
 	generate_filename_tester.test_filename_generation_methods()
+	misc_tester.test_miscellaneous_methods()
 	print("-	-	-	-	-	-	-	-	-	-	-	-	-")
 	print("!	!	!	!	!	!	!	!	!	!	!")
 	print(">>	Get statistics of the software testing process.")
 	statistical_analysis.print_statistics_of_software_testing()
+
 	print("	Month #4 is:",month_name[4])
 	print("	Month #0 is:",month_name[0],"=end.")
 	try:
