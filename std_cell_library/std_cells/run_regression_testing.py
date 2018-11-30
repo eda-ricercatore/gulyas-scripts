@@ -214,18 +214,6 @@ if __name__ == "__main__":
 	print("!	!	!	!	!	!	!	!	!	!	!")
 	print(">>	Get statistics of the software testing process.")
 	statistical_analysis.print_statistics_of_software_testing()
-
-	print("	Month #4 is:",month_name[4].lower())
-	print("	Month #0 is:",month_name[0],"=end.")
-	try:
-		print("	Month #100 is:",month_name[100])
-	except IndexError:
-		print("	Cannot have month indices > 12.")
-	try:
-		print("	Month #-78 is:",month_name[-78])
-	except IndexError:
-		print("	Cannot have negative month indices.")
-	print("")
 	# - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 	#os.rename("/Users/zhiyang/Documents/ricerca/risultati_sperimentali/std-cell-library-characterization/.git/index.lock","/Users/zhiyang/Documents/ricerca/risultati_sperimentali/std-cell-library-characterization/.git/index.lock-spare")
 """
