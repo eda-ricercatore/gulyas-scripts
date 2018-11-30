@@ -180,7 +180,7 @@ class generate_filename_tester:
 		# If month is February during a leap year, DD <= 29.
 		prompt = "	... Test: DD value is <= 29, leap year Feb.		{}"
 		statistical_analysis.increment_number_test_cases_used()
-		if 2 == int(tokens[1]) and 29 < int(tokens[0]) and calendar.isleap(tokens[2]):
+		if 2 == int(tokens[1]) and 29 < int(tokens[0]) and calendar.isleap(int(tokens[2])):
 			print(prompt .format("FAIL!!!"))
 		else:
 			print(prompt .format("OK"))
@@ -188,7 +188,7 @@ class generate_filename_tester:
 		# If year isn't a leap year & month is February, DD <= 28.
 		prompt = "	... Test: DD value is <= 28, non-leap year Feb.		{}"
 		statistical_analysis.increment_number_test_cases_used()
-		if 2 == int(tokens[1]) and 28 < int(tokens[0]) and not calendar.isleap(tokens[2]):
+		if 2 == int(tokens[1]) and 28 < int(tokens[0]) and not calendar.isleap(int(tokens[2])):
 			print(prompt .format("FAIL!!!"))
 		else:
 			print(prompt .format("OK"))

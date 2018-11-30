@@ -58,6 +58,7 @@ __date__ = 'July 31, 2018'
 	time		To measure elapsed time.
 	warnings	Raise warnings.
 	re			Use regular expressions.
+	calendar	For checking if given year is a leap year.
 """
 
 import sys
@@ -68,6 +69,7 @@ import subprocess
 #import time
 import warnings
 #import re
+import calendar
 
 ###############################################################
 #	Import Custom Python Modules
@@ -78,7 +80,13 @@ import warnings
 """
 from utilities.configuration_manager import config_manager
 # Package and module to generate filename with time stamp.
-from utilities.generate_results_filename import generate_filename
+#from utilities.generate_results_filename import generate_filename
+"""
+	Module to test if the generated filename (based on the
+		then-current time stamp) conforms to the specified
+		format.
+"""
+from utilities.generate_results_filename_tester import generate_filename_tester
 
 ###############################################################
 ##	Module with methods that perform miscellaneous tasks.
@@ -111,9 +119,9 @@ class misc:
 			return False
 		if 1 > int(tokens[0]):
 			return False
-		if 2 == int(tokens[1]) and 29 < int(tokens[0]) and calendar.isleap(tokens[2]):
+		if 2 == int(tokens[1]) and 29 < int(tokens[0]) and calendar.isleap(int(tokens[2])):
 			return False
-		if 2 == int(tokens[1]) and 28 < int(tokens[0]) and not calendar.isleap(tokens[2]):
+		if 2 == int(tokens[1]) and 28 < int(tokens[0]) and not calendar.isleap(int(tokens[2])):
 			return False
 		if generate_filename_tester.is_30_day_month(tokens[1]) and 30 < int(tokens[0]):
 			return False

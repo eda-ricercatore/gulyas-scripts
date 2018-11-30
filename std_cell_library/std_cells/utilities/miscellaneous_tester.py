@@ -46,6 +46,7 @@ __date__ = 'July 31, 2018'
 	time		To measure elapsed time.
 	warnings	Raise warnings.
 	re			Use regular expressions.
+	calendar	For checking if given year is a leap year.
 """
 
 import sys
@@ -56,6 +57,7 @@ import subprocess
 #import time
 import warnings
 #import re
+import calendar
 
 ###############################################################
 #	Import Custom Python Modules
@@ -77,6 +79,12 @@ from utilities.configuration_manager import config_manager
 		class.
 """
 from utilities.miscellaneous import misc
+"""
+	Module to test if the generated filename (based on the
+		then-current time stamp) conforms to the specified
+		format.
+"""
+from utilities.generate_results_filename_tester import generate_filename_tester
 
 ###############################################################
 ##	Module with methods that perform miscellaneous tasks.
@@ -97,6 +105,193 @@ class misc_tester:
 		else:
 			print(prompt .format("OK"))
 			statistical_analysis.increment_number_test_cases_passed()
+		prompt = "	... Test: filename no file extension has 6 tokens.	{}"
+		statistical_analysis.increment_number_test_cases_used()
+		if misc.check_filename_format("HH-MM-SS-uS.txt"):
+			print(prompt .format("FAIL!!!"))
+		else:
+			print(prompt .format("OK"))
+			statistical_analysis.increment_number_test_cases_passed()
+		prompt = "	... Test: filename with -ve DD/day.			{}"
+		statistical_analysis.increment_number_test_cases_used()
+		if misc.check_filename_format("-5-MM-YY-HH-MM-SS-uS.txt"):
+			print(prompt .format("FAIL!!!"))
+		else:
+			print(prompt .format("OK"))
+			statistical_analysis.increment_number_test_cases_passed()
+		prompt = "	... Test: filename with DD/day >29, Feb.		{}"
+		statistical_analysis.increment_number_test_cases_used()
+		"""
+			All fields/tokens need to be numbers, else an exception
+				would be thrown.
+		"""
+		if misc.check_filename_format("35-2-2016-00-00-00-00.txt"):
+			print(prompt .format("FAIL!!!"))
+		else:
+			print(prompt .format("OK"))
+			statistical_analysis.increment_number_test_cases_passed()
+		prompt = "	... Test: filename with DD/day=29, Feb, leap year.	{}"
+		statistical_analysis.increment_number_test_cases_used()
+		if misc.check_filename_format("29-2-2016-00-00-00-00.txt"):
+			print(prompt .format("OK"))
+			statistical_analysis.increment_number_test_cases_passed()
+		else:
+			print(prompt .format("FAIL!!!"))
+		prompt = "	... Test: filename with DD/day=28, Feb, not leap year.	{}"
+		statistical_analysis.increment_number_test_cases_used()
+		"""
+			All fields/tokens need to be numbers, else an exception
+				would be thrown.
+		"""
+		if misc.check_filename_format("28-2-2017-00-00-00-00.txt"):
+			print(prompt .format("OK"))
+			statistical_analysis.increment_number_test_cases_passed()
+		else:
+			print(prompt .format("FAIL!!!"))
+		prompt = "	... Test: filename with DD/day = 34.			{}"
+		statistical_analysis.increment_number_test_cases_used()
+		"""
+			All fields/tokens need to be numbers, else an exception
+				would be thrown.
+		"""
+		if misc.check_filename_format("34-6-2017-00-00-00-00.txt"):
+			print(prompt .format("OK"))
+			statistical_analysis.increment_number_test_cases_passed()
+		else:
+			print(prompt .format("FAIL!!!"))
+		prompt = "	... Test: filename with DD/day=31, 31 day mth.		{}"
+		statistical_analysis.increment_number_test_cases_used()
+		"""
+			All fields/tokens need to be numbers, else an exception
+				would be thrown.
+		"""
+		if misc.check_filename_format("31-7-2017-00-00-00-00.txt"):
+			print(prompt .format("OK"))
+			statistical_analysis.increment_number_test_cases_passed()
+		else:
+			print(prompt .format("FAIL!!!"))
+		prompt = "	... Test: filename with DD/day=30, 30 day mth.		{}"
+		statistical_analysis.increment_number_test_cases_used()
+		"""
+			All fields/tokens need to be numbers, else an exception
+				would be thrown.
+		"""
+		if misc.check_filename_format("30-9-2017-00-00-00-00.txt"):
+			print(prompt .format("OK"))
+			statistical_analysis.increment_number_test_cases_passed()
+		else:
+			print(prompt .format("FAIL!!!"))
+		prompt = "	... Test: filename with MM/month = 0.			{}"
+		statistical_analysis.increment_number_test_cases_used()
+		"""
+			All fields/tokens need to be numbers, else an exception
+				would be thrown.
+		"""
+		if misc.check_filename_format("30-0-2017-00-00-00-00.txt"):
+			print(prompt .format("FAIL!!!"))
+		else:
+			print(prompt .format("OK"))
+			statistical_analysis.increment_number_test_cases_passed()
+		prompt = "	... Test: filename with MM/month = -4.			{}"
+		statistical_analysis.increment_number_test_cases_used()
+		"""
+			All fields/tokens need to be numbers, else an exception
+				would be thrown.
+		"""
+		if misc.check_filename_format("30--4-2017-00-00-00-00.txt"):
+			print(prompt .format("FAIL!!!"))
+		else:
+			print(prompt .format("OK"))
+			statistical_analysis.increment_number_test_cases_passed()
+		prompt = "	... Test: filename with MM/month = 15.			{}"
+		statistical_analysis.increment_number_test_cases_used()
+		"""
+			All fields/tokens need to be numbers, else an exception
+				would be thrown.
+		"""
+		if misc.check_filename_format("30-15-2017-00-00-00-00.txt"):
+			print(prompt .format("FAIL!!!"))
+		else:
+			print(prompt .format("OK"))
+			statistical_analysis.increment_number_test_cases_passed()
+		prompt = "	... Test: filename with MM/month = 9.			{}"
+		statistical_analysis.increment_number_test_cases_used()
+		"""
+			All fields/tokens need to be numbers, else an exception
+				would be thrown.
+		"""
+		if misc.check_filename_format("30-9-2017-00-00-00-00.txt"):
+			print(prompt .format("OK"))
+			statistical_analysis.increment_number_test_cases_passed()
+		else:
+			print(prompt .format("FAIL!!!"))
+		prompt = "	... Test: filename with YY/year = 1582.			{}"
+		statistical_analysis.increment_number_test_cases_used()
+		"""
+			All fields/tokens need to be numbers, else an exception
+				would be thrown.
+		"""
+		if misc.check_filename_format("30-15-1582-00-00-00-00.txt"):
+			print(prompt .format("FAIL!!!"))
+		else:
+			print(prompt .format("OK"))
+			statistical_analysis.increment_number_test_cases_passed()
+		prompt = "	... Test: filename with YY/year = 2083.			{}"
+		statistical_analysis.increment_number_test_cases_used()
+		"""
+			All fields/tokens need to be numbers, else an exception
+				would be thrown.
+		"""
+		if misc.check_filename_format("30-15-2083-00-00-00-00.txt"):
+			print(prompt .format("FAIL!!!"))
+		else:
+			print(prompt .format("OK"))
+			statistical_analysis.increment_number_test_cases_passed()
+		prompt = "	... Test: filename with HH/hour = -3.			{}"
+		statistical_analysis.increment_number_test_cases_used()
+		"""
+			All fields/tokens need to be numbers, else an exception
+				would be thrown.
+		"""
+		if misc.check_filename_format("30-15-1582--3-00-00-00.txt"):
+			print(prompt .format("FAIL!!!"))
+		else:
+			print(prompt .format("OK"))
+			statistical_analysis.increment_number_test_cases_passed()
+		prompt = "	... Test: filename with HH/hour = 25.			{}"
+		statistical_analysis.increment_number_test_cases_used()
+		"""
+			All fields/tokens need to be numbers, else an exception
+				would be thrown.
+		"""
+		if misc.check_filename_format("30-15-1582-25-00-00-00.txt"):
+			print(prompt .format("FAIL!!!"))
+		else:
+			print(prompt .format("OK"))
+			statistical_analysis.increment_number_test_cases_passed()
+		prompt = "	... Test: filename with HH/hour = 17.			{}"
+		statistical_analysis.increment_number_test_cases_used()
+		"""
+			All fields/tokens need to be numbers, else an exception
+				would be thrown.
+		"""
+		if misc.check_filename_format("30-15-1582-25-00-00-00.txt"):
+			print(prompt .format("FAIL!!!"))
+		else:
+			print(prompt .format("OK"))
+			statistical_analysis.increment_number_test_cases_passed()
+		prompt = "	... Test: filename with HH/hour = 25.			{}"
+		statistical_analysis.increment_number_test_cases_used()
+		"""
+			All fields/tokens need to be numbers, else an exception
+				would be thrown.
+		"""
+		if misc.check_filename_format("30-15-1582-25-00-00-00.txt"):
+			print(prompt .format("FAIL!!!"))
+		else:
+			print(prompt .format("OK"))
+			statistical_analysis.increment_number_test_cases_passed()
+
 	## =========================================================
 	#	Method to test the miscellaneous methods.
 	#	@param - Nothing
