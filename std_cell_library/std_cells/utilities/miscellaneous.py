@@ -70,6 +70,7 @@ import subprocess
 import warnings
 #import re
 import calendar
+from calendar import month_name
 
 ###############################################################
 #	Import Custom Python Modules
@@ -91,6 +92,32 @@ from utilities.generate_results_filename_tester import generate_filename_tester
 ###############################################################
 ##	Module with methods that perform miscellaneous tasks.
 class misc:
+	absolute_path_to_store_results = "/Users/zhiyang/Documents/ricerca/risultati_sperimentali/std-cell-library-characterization"
+	# ============================================================
+	##	Method to get the absolute path to store results.
+	#	It is an accessor method.
+	#	@param - Nothing.
+	#	@return the absolute path to store results.
+	#	O(1) method.
+	@staticmethod
+	def get_absolute_path_to_store_results():
+		return misc.absolute_path_to_store_results
+	# ============================================================
+	##	Method to validate the absolute path to store results.
+	#	It is an query method
+	#	@param path_to_file - A path to store the results file.
+	#	@param filename - A filename.
+	#	@return boolean True, if the path to the desired location can
+	#		be contains the value in "misc.absolute_path_to_store_results"
+	#		and the filename of the results file.
+	#		Else, return boolean False.
+	#	O(1) method.
+	@staticmethod
+	def check_absolute_path_to_store_results(path_to_file,filename):
+		if path_to_file.find(filename):
+			return True
+		else:
+			return False
 	# ============================================================
 	##	Method to determine if a filename has the DD-MM-YY-HH-MM-SS-uS.txt
 	#		format.
@@ -154,20 +181,22 @@ class misc:
 	##	Method to determine where to store the results of the
 	#		experimental, simulation, verification, or testing runs
 	#	@param filename - A filename that has the DD-MM-YY-HH-MM-SS-uS.txt.
-	#	@return boolean True if the path to the desired location can
-	#		be found;
-	#		Else, return boolean False.
+	#	@return a string representing the absolute path of the location.
 	#	O(1) method.
 	@staticmethod
 	def find_desired_location_for_results(filename):
 		# Does filename have the DD-MM-YY-HH-MM-SS-uS.txt format?
 		if not misc.check_filename_format(filename):
-			return False
+			return "'filename' needs to have the format: DD-MM-YY-HH-MM-SS-uS.txt."
 		# Remove file extension, and tokenize the filename.
 		filename_wo_extn, file_extn = os.path.splitext(filename)
 		tokens = filename_wo_extn.split("-")
-		
-		return True
+		month_number = int(tokens[1])
+		month_name_str = month_name[int(tokens[1])]
+		#path_to_results_file = misc.get_absolute_path_to_store_results() +  "/" + tokens[2] + "/" + month_name(month_number) + "/" + filename
+		path_to_results_file = misc.get_absolute_path_to_store_results() +  "/" + tokens[2] + "/" + month_name[int(tokens[1])] + "/" + filename
+		print("path_to_results_file:",path_to_results_file)
+		return path_to_results_file
 	# ============================================================
 	##	Method to add, commit, and push additions and updates
 	#		to a Git repository.

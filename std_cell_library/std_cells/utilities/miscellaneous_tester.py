@@ -401,7 +401,20 @@ class misc_tester:
 			statistical_analysis.increment_number_test_cases_passed()
 		else:
 			print(prompt .format("FAIL!!!"))
-
+	## =========================================================
+	#	Method to test the miscellaneous method that determines
+	#		where to store the results of experimental, simulation,
+	#		verification, and testing runs.
+	#	@param - Nothing
+	#	@return a string representing the location to store the
+	#		aforementioned results.
+	#	O(1) method.
+	@staticmethod
+	def test_find_desired_location_for_results():
+		print("==	Test: test_find_desired_location_for_results().")
+		test_filename = "25-3-2010-5-8-51-999999.txt"
+		results_location = misc.find_desired_location_for_results(test_filename)
+		
 	## =========================================================
 	#	Method to test the miscellaneous methods.
 	#	@param - Nothing
@@ -411,3 +424,4 @@ class misc_tester:
 	def test_miscellaneous_methods():
 		print("==	Testing class: misc_tester.")
 		misc_tester.test_check_filename_format()
+		misc_tester.test_find_desired_location_for_results()

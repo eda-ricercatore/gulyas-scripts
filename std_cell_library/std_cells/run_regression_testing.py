@@ -215,7 +215,7 @@ if __name__ == "__main__":
 	print(">>	Get statistics of the software testing process.")
 	statistical_analysis.print_statistics_of_software_testing()
 
-	print("	Month #4 is:",month_name[4])
+	print("	Month #4 is:",month_name[4].lower())
 	print("	Month #0 is:",month_name[0],"=end.")
 	try:
 		print("	Month #100 is:",month_name[100])
