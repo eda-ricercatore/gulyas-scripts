@@ -453,7 +453,7 @@ class misc_tester:
 			"""
 		f_obj = misc.store_results(results_location)
 		f_obj.write("Storage of experimental, simulation, verification, and testing results work.")
-		file_io.close_file_object(f_obj)
+		file_io_operations.close_file_object(f_obj)
 	## =========================================================
 	#	Method to test the miscellaneous methods.
 	#	@param - Nothing
