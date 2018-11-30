@@ -407,6 +407,8 @@ class misc_tester:
 	#		verification, and testing runs.
 	#	This does not correct check if the results file is placed
 	#		in the correct subdirectory of the results repository.
+	#	#### TO BE COMPLETED
+	#		Test if the subdirectory is correct. This is busywork.
 	#	@param - Nothing
 	#	@return a string representing the location to store the
 	#		aforementioned results.
