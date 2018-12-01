@@ -22,9 +22,9 @@ Questions:
 
 To-do list:
 + Store test results in a database (in *CSV* format), and manage it with a *SQL*
-	database (e.g., *MySQL*).
+	database (e.g., *MySQL*, *PostgreSQL*, *MariaDB*).
 	- *Python* interface to *SQL* database.
-		* Aurora, SQLite
+		* Aurora, SQLite,
 	- Process this with a *NoSQL* database.
 		* Cassandra
 		* Hbase
@@ -44,6 +44,7 @@ To-do list:
 		* Apache Lucene, Memcache, RabbitMQ
 		* ZooKeeper, and/or Consul
 		* noSQL (e.g. Postgres), Python based ORM (e.g. SQL Alchemy) and database technologies (e.g. HDFS, Cassandra, Elastic Search, Druid, etc.)
+		* knowledge of NoSQL databases (e.g. Cassandra, ELK), Storm, Nginx technologies.
 		* cassandra/hbase/Elastic/Mongo/Couchbase/Redis
 		* MongoDB (or any other NoSQL database), Redis (or any other key value store)
 		* SQL (Postgress) and NoSQL (Redis, DynamoDb) databases
@@ -142,6 +143,8 @@ To-do list:
 		* Ceph
 		* Operational experience working with Memcache or Redis style caching cluster
 		* big data pipelines (Hadoop, Spark, Kafka, Flume, Arrow, Avro, RabbitMQ, Flink, etc.)
+		* familiarity with ELK stack (Elasticsearch, Logstash, Kibana)
+			+ logs management (ELK stack)
 		* data science technology stack (Spark, Hadoop, Docker, AWS etc.).
 		* Hands-on experience with machine learning concepts: regression and classification, clustering, feature selection, feature engineering, curse of dimensionality, bias-variance tradeoff, neural networks, SVMs, etc.
 		* Spark MLlib, Python (scikit-learn, pandas), and R
@@ -204,6 +207,10 @@ To-do list:
 	- Nexus, SonarQube
 	- Familiarity working with monitoring tools like Icinga, Sensu, Ganglia, Statsd, Graphite, or the TICK stack is a plus.
 	- Ant, Maven, Git, SVN, Jenkins, Travis, Puppet, Ansible, Docker
+	- administrating CI servers (preferable: Jenkins, GitLab CI)
+	- creating Continuous Integration environments
+	- configuration management tools (Ansible, Puppet, Chef... More than Git, Mercurial, SVN, and CVS)
+	- infrastructure monitoring
 	- GitFlow
 	- SaltStack
 		* https://en.wikipedia.org/wiki/Salt_(software)
@@ -335,6 +342,7 @@ To-do list:
 		* Rocket
 		* Linkerd, Kubernetes, DC/OS, gRPC, Zipkin, Docker, and Prometheus.
 		* Docker, Kubernetes, Helm, Jenkins, AWS, Prometheus, Grafana
+		* Docker, LXC
 	- Virtualization
 		* VMware
 		* OpenStack
@@ -344,6 +352,8 @@ To-do list:
 		* EC2, EMR, Kinesis and Redshift
 		* Docker, Kubernetes, ceph
 		* Experience with cloud storage technologies (e.g. CloudSQL, Spanner, Bigtable, Aurora)
+		* cloud orchestration (Terraform, CloudFormation)
+		* dynamic routing protocols
 + Cloud automation tools
 	- Ansible
 	- Chef
@@ -352,6 +362,7 @@ To-do list:
 	- HSM
 + Security vulnerability identification and remediation
 	- OWASP
++ software-defined networking, SDN (i.e. OpenContrail)
 + Other technology stacks:
 	- Go, Docker, Kafka, Elasticsearch
 	- Go, Ruby, Javascript, HTML, CSS, Ember.js, C/C++, MySQL, Libvirt, KVM, QEMU, OpenVSwitch, Chef, Ansible, Zookeeper, Kafka, Redis
@@ -368,6 +379,12 @@ To-do list:
 	- ELK, Queuing and monitoring infra
 	- security, AWS, Chef, Git, Jira, Docker, Jenkins, TDD, and Continuous Integration CI/CD.
 	- Gerkin, BDD.
+	- stress testing (locust.io)
+	- designing high availability systems
+	- application security hardening
+	- distributed tracing (OpenTracing/Zipkin)
+	- collecting and analyzing performance metrics (InfluxDB, Prometheus, statsd, Grafana)
+	- Docker orchestration systems and cluster managers (Kubernetes, Mesos/Marathon, ECS)
 	- Load testing frameworks/tools like JMeter, Gatling, Locust
 	- Java, Selenium, JUnit, Cucumber-JVM
 	- API Testing experience
@@ -417,6 +434,7 @@ To-do list:
 		* Hadoop data platform is capable of supporting a growing list of downstream platforms like Tableau, Zeppelin etc.
 		* Expertise with Hive, YARN, Spark, Presto, Kafka, SOLR, Oozie, Sentry, Encryption, Hbase, etc.
 		* Experience utilising Portfolio & Project Management (PPM) tools such as CA PPM (Clarity), ServiceNow, JIRA, Microsoft Project Server, etc.
+		* project management tools (JIRA, Confluence),
 		* big data platform tools such as Hadoop, Hive, Druid, Kafka, Ambari, Spark
 		* web analytics platforms such as Google Analytics, Appsflyer or Mixpanel
 		* NoSQL databases, such as MongoDB, Cassandra, HBase
@@ -424,6 +442,7 @@ To-do list:
 		* data visualisation tools, such as D3.js, GGplot, Tableau etc.
 		* Excellent understanding of machine learning techniques and algorithms, such as k-NN, Naive Bayes, SVM, Decision Forests, etc.
 		* Apache Kafka
+		* vw / xgboost
 	- Python (3.5>=), packages: argparse, shapely, Munkres, numpy, cv2, logging, Pillow
 		* ES6
 		* Plotly.js
