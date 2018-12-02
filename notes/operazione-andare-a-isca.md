@@ -580,7 +580,7 @@ Design for Security
 
 
 
-#	Operazione Andare a DATE
+#	Operazione Andare a ISCA
 
 + Find the cross-correlation of RTW waves.
 + Find the covariance of RTW waves.
