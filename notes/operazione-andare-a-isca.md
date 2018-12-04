@@ -21,6 +21,7 @@ Questions:
 
 
 To-do list:
++ **Reference machine learning libraries!!!**
 + Store test results in a database (in *CSV* format), and manage it with a *SQL*
 	database (e.g., *MySQL*, *PostgreSQL*, *MariaDB*).
 	- *Python* interface to *SQL* database.
@@ -532,7 +533,7 @@ Not stored in my BibTeX database; append "https://dx.doi.org/" to DOI:
 + https://dx.doi.org/10.1109/IJCNN.2017.7966350
 
 
-
+**Add more references!!!**
 
 ### QUBO + Pseudo-Boolean Optimization (PBO)
 
