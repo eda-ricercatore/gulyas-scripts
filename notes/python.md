@@ -3397,6 +3397,12 @@ Resources for *Python*-based machine learning:
 		+ \cite{TheSciPyCommunity2018c,TheSciPyCommunity2018b,PlanetSciPyContributors2018}
 + [PyTorch](https://pytorch.org/)
 	- \cite{Paszke2018,Paszke2017,Paszke2018a}
++ [Theano](https://github.com/Theano/Theano)
+	- Also, see http://www.deeplearning.net/software/theano/.
+	- \cite{AlRfou2018,AlRfou2017,AlRfou2016}
+	- \cite{Ketkar2017,Sjardin2016}
++ [Microsoft Cognitive Toolkit (CNTK)](https://www.microsoft.com/en-us/cognitive-toolkit/)
+	- \cite{MicrosoftCognitiveToolkitContributors2018}
 
 
 

@@ -206,6 +206,7 @@ To-do list:
 	- VSTS, AWS OpsWorks
 	- Chef, Puppet, and Ansible
 	- Nexus, SonarQube
+	- Experience with a source code management/code review system (github, gerrit, etc).
 	- Familiarity working with monitoring tools like Icinga, Sensu, Ganglia, Statsd, Graphite, or the TICK stack is a plus.
 	- Ant, Maven, Git, SVN, Jenkins, Travis, Puppet, Ansible, Docker
 	- administrating CI servers (preferable: Jenkins, GitLab CI)
