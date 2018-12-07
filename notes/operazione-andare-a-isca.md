@@ -214,6 +214,7 @@ To-do list:
 	- administrating CI servers (preferable: Jenkins, GitLab CI)
 	- creating Continuous Integration environments
 	- configuration management tools (Ansible, Puppet, Chef... More than Git, Mercurial, SVN, and CVS)
+	- Demonstrable experience with DevOps tools (e.g. Puppet, Cheff, Ansible or Vagrant).
 	- infrastructure monitoring
 	- GitFlow
 	- SaltStack
