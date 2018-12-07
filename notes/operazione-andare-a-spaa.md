@@ -594,7 +594,7 @@ Design for Security
 
 
 
-#	Operazione Andare a ISCA
+#	Operazione Andare a SPAA
 
 + Find the cross-correlation of RTW waves.
 + Find the covariance of RTW waves.
