@@ -48,6 +48,7 @@ To-do list:
 		* knowledge of NoSQL databases (e.g. Cassandra, ELK), Storm, Nginx technologies.
 		* cassandra/hbase/Elastic/Mongo/Couchbase/Redis
 		* MongoDB (or any other NoSQL database), Redis (or any other key value store)
+		* Working knowledge of SQL, Spark, or Hive preferred
 		* SQL (Postgress) and NoSQL (Redis, DynamoDb) databases
 		* Knowledge of Big data and NoSQL technologies such as Hadoop YARN, Spark, Hive, Cassandra, HBase, Storm, CASK, Kafka, Flume, is preferred.
 		* Experience with NoSQL architectures and map-reduce concepts atop Hadoop, HDFS, and Hive
@@ -143,6 +144,7 @@ To-do list:
 		* Marathon
 		* Ceph
 		* Operational experience working with Memcache or Redis style caching cluster
+		* Experience working with NoSQL solutions such as Cassandra, Redis is a big plus
 		* big data pipelines (Hadoop, Spark, Kafka, Flume, Arrow, Avro, RabbitMQ, Flink, etc.)
 		* familiarity with ELK stack (Elasticsearch, Logstash, Kibana)
 			+ logs management (ELK stack)
@@ -429,6 +431,9 @@ To-do list:
 		* Configure and Monitor SIEMS and DLP systems
 		* RxJava, Kotlin, Dagger
 		* big data platform tools such as Hadoop, Hive, Druid, Kafka, Ambari, Spark
+		* Experience with common security tools such as nmap, Burp Proxy, Brakeman, etc.
+		* Experience with bug bounty programs and reporting issues to them (send examples, please!)
+		* Familiarity with search domain (Information retrieval, NLP, Solr/ Lucene or related tech)
 		* data management tools in on a big data plate form such as Atlas, Ranger , Knox
 		* implementing BI solutions in a heavily regulated environment e.g. PII, GDPR, HIPPA & SOX
 		* big data platform tools such as Hadoop, Hive Druid, Kafka, Ambari, Spark, Zeppelin
