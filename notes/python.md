@@ -3402,7 +3402,23 @@ Resources for *Python*-based machine learning:
 	- \cite{AlRfou2018,AlRfou2017,AlRfou2016}
 	- \cite{Ketkar2017,Sjardin2016}
 + [Microsoft Cognitive Toolkit (CNTK)](https://www.microsoft.com/en-us/cognitive-toolkit/)
-	- \cite{MicrosoftCognitiveToolkitContributors2018}
+	- Project source code \cite{MicrosoftCognitiveToolkitContributors2018,MicrosoftCognitiveToolkitContributors2018a,MicrosoftCognitiveToolkitDocumentationContributors2017}
+	- Project documention \cite{MicrosoftCognitiveToolkitDocumentationContributors2018,MicrosoftCognitiveToolkitDocumentationContributors2017a}
++ [ONNX](https://github.com/onnx/onnx)
+	- \cite{OpenNeuralNetworkExchangeContributors2018,OpenNeuralNetworkExchangeContributors2018a}
+	- Other resources: \cite{OpenNeuralNetworkExchangeContributors2018b,OpenNeuralNetworkExchangeContributors2018c,OpenNeuralNetworkExchangeContributors2018d}
++ [Keras](https://github.com/keras-team/keras/)
+	- \cite{KerasContributors2018}
++ [Caffe2](https://github.com/caffe2/caffe2)
+	- \cite{Caffe2Contributors2018}
++ [Apache MXNet](https://mxnet.apache.org/)
+	- \cite{MXNetContributors2018}
++ [pomegranate](https://github.com/jmschrei/pomegranate)
+	- \cite{Schreiber2018}
+
+
+
+
 
 
 
