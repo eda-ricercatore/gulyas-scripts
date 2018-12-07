@@ -1,4 +1,4 @@
-#	Operation Go2ISCA
+#	Operation Go2SPAA
 
 Questions:
 + \cite{Dahl2013}
