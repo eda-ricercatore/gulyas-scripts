@@ -408,6 +408,7 @@ To-do list:
 		* Functional programming principles in React with Recompose
 	- Celery
 	- Elasticsearch and ELK pipeline
+	- LibreOffice, Apache OpenOffice, and NeoOffice.
 	- Sets of skills
 		* AWS cloud services: EC2, EMR, RDS, Lambda, Redshift
 		* NoSQL databases, such as HBase, Cassandra, MongoDB, or DynamoDB
