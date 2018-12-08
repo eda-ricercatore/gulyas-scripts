@@ -1069,6 +1069,9 @@
 #	Journals to Publish In
 
 + IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)
+	- "nature-inspired computing topics"
+	- "A few such illustrative examples are glial cell networks, computational neuroscience, Brain Computer Interface, ambient intelligence, non-fuzzy computing with words, artificial life, cultural learning, artificial endocrine networks, social reasoning, artificial hormone networks, computational intelligence for the IoT and Smart-X technologies."
+	- https://cis.ieee.org/publications/t-emerging-topics-in-ci
 + IEEE Transactions on Multi-Scale Computing Systems (TMSCS)
 + IEEE Transactions on Sustainable Computing (T-SUSC)
 + IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I)
