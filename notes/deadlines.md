@@ -1073,10 +1073,26 @@
 	- "A few such illustrative examples are glial cell networks, computational neuroscience, Brain Computer Interface, ambient intelligence, non-fuzzy computing with words, artificial life, cultural learning, artificial endocrine networks, social reasoning, artificial hormone networks, computational intelligence for the IoT and Smart-X technologies."
 	- https://cis.ieee.org/publications/t-emerging-topics-in-ci
 + IEEE Transactions on Multi-Scale Computing Systems (TMSCS)
+	- "The IEEE Transactions on Multi-Scale Computing Systems (TMSCS) is a peer-reviewed publication devoted to computing systems that exploit multi-scale and multi-functionality. These systems consist of computational modules that utilize diverse implementation scales (from micro down to the nano scale) and heterogeneous hardware and software functionalities; moreover, these modules can be based on operating principles and models that are valid within but not necessarily across their respective scales and computational domains. Contributions to TMSCS must address computation of information and data at higher system-levels for processing by digital and emerging domains. These computing systems can also rely on diverse frameworks based on paradigms at molecular, quantum and other physical, chemical and biological levels. Innovative techniques such as inexact computing, management/optimization of smart infrastructures and neuromorphic modules are also considered within scope."
+	- " This publication covers pure research and applications within novel topics related to high performance computing, computational sustainability, storage organization and efficient algorithmic information distribution/processing; articles dealing with hardware/software implementations (functional units, architectures and algorithms), multi-scale modeling and simulation, mathematical models and designs across multiple scaling domains and functions are encouraged. Novel solutions based on digital and non-traditional emerging paradigms are sought for improving performance and efficiency in computation. Contributions on related topics would also be considered for publication."
+	- Topics include, but are not limited to, the following:
+		* Cross-layer and multi-scale design and optimization
+		* Efficient algorithms for information distribution/processing
+		* Nanoelectronics, including biological, quantum, and post-CMOS devices and circuits
+		* High-performance multicore and cloud computing, memory, and storage systems
+		* Hardware and software solutions for IoT applications
+		* Design techniques for reliability, security, and testability at various scales
+		* Cyber-physical systems and systems of systems
+		* Smart grid and smart city
+		* Sustainable and green computing
+		* New and emerging application areas and computing trend
+	- https://www.computer.org/web/tmscs/about
 + IEEE Transactions on Sustainable Computing (T-SUSC)
 + IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I)
 + IEEE Computer Architecture Letters (CAL)
 + IEEE Transactions on Dependable and Secure Computing (TDSC)
+	- "IEEE Transactions on Dependable and Secure Computing (TDSC) publishes archival research results focusing on research into foundations, methodologies, and mechanisms that support the achievement–through design, modeling, and evaluation–of systems and networks that are dependable and secure to the desired degree without compromising performance. The focus also includes measurement, modeling, and simulation techniques, and foundations for jointly evaluating, verifying, and designing for performance, security, and dependability constraints."
+	- https://www.computer.org/web/tdsc/about
 + IEEE Embedded Systems Letters (ESL)
 + IEEE Transactions on Very Large Scale Integration (VLSI) Systems (TVLSI)
 + IEEE Transactions on Computers (TC)
