@@ -1251,7 +1251,7 @@
 
 ##	Comments on Submitting Articles to Journals for Publication
 
-If I am using noise-based logic to implement neuromorphic processors, send the article(s) to TETCI.
+If I am using noise-based logic to implement **neuromorphic processors**, send the article(s) to **TETCI**.
 
 For cell-library implementation, circuit simulation (or, logic simulation) for noise-based logic, try the following:
 - JETC
