@@ -3442,12 +3442,15 @@ Machine learning and deep learning resources:
 ###	Data Visualization and Information Visualization
 
 *Python* libraries and packages for data visualization and information visualization:
++ [Bokeh]({https://bokeh.pydata.org/en/latest/)
+	- \cite{BokehContributors2018}
 + [Yellowbrick](https://github.com/DistrictDataLabs/yellowbrick)
 	- \cite{YellowbrickContributors2018}
 	- http://www.scikit-yb.org/en/latest/
 	- **machine learning visualization**
 + [GGobi](http://www.ggobi.org/)
 	- \cite{GGobiContributors20XY}
+
 
 
 
