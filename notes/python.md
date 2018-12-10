@@ -3435,9 +3435,11 @@ Machine learning and deep learning resources:
 
 
 
+###	Computational Science and Engineering, & Numerical Computing
 
-
-
+*Python* libraries for computational science (or scientific computing), computational engineering, and numerical computing:
++ [*Python(x,y)*](http://python-xy.github.io/)
+	- \cite{Raybaut2015}
 
 
 
