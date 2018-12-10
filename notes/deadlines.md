@@ -1090,24 +1090,124 @@
 + IEEE Transactions on Sustainable Computing (T-SUSC)
 + IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I)
 + IEEE Computer Architecture Letters (CAL)
+	- "IEEE Computer Architecture Letters is a rigorously peer-reviewed forum for publishing early, high-impact results in the areas of uni- and multiprocessor computer systems, computer architecture, microarchitecture, workload characterization, performance evaluation and simulation techniques, and power-aware computing. Submissions are welcomed on any topic in computer architecture, especially but not limited to: microprocessor and multiprocessor systems, microarchitecture and ILP processors, workload characterization, performance evaluation and simulation techniques, compiler-hardware and operating system-hardware interactions, interconnect architectures, memory and cache systems, power and thermal issues at the architecture level, I/O architectures and techniques, independent validation of previously published results, analysis of unsuccessful techniques, domain-specific processor architectures (e.g., embedded, graphics, network, etc.), real-time and high-availability architectures, reconfigurable systems."
+	- https://www.computer.org/web/cal/about
 + IEEE Transactions on Dependable and Secure Computing (TDSC)
 	- "IEEE Transactions on Dependable and Secure Computing (TDSC) publishes archival research results focusing on research into foundations, methodologies, and mechanisms that support the achievement–through design, modeling, and evaluation–of systems and networks that are dependable and secure to the desired degree without compromising performance. The focus also includes measurement, modeling, and simulation techniques, and foundations for jointly evaluating, verifying, and designing for performance, security, and dependability constraints."
 	- https://www.computer.org/web/tdsc/about
 + IEEE Embedded Systems Letters (ESL)
+	- The journal is currently published quarterly consisting of new, short and critically refereed technical papers. Submissions are welcome on any topic in the broad area of embedded systems and embedded software, especially but not limited to:
+		* Architectural and micro-architectural design of embedded systems: microarchitectures, customizable processors, signal processing, multi-processor SOC and NOC architectures;
+		* Design automation algorithms, methods, and tools for VLSI implementations: specification languages, models and synthesis methods;
+		* Component modeling and component-based development methodologies; Hardware-software co-design, co-design methodologies, design exploration tools;
+		* Compilation and managed runtime environments for embedded systems; Profiling, measurement, analysis techniques for embedded applications; OS, middleware and support systems for embedded-system design;
+		* Programming languages and software engineering for embedded or realtime applications;
+		* Non-functional aspects of embedded systems including low power, reliability, dependability and availability. Low power design and power management;
+		* Testing, validation, and verification of embedded software;
+		* Embedded systems security;
+		* Applications of embedded systems and software: military, avionics, and automotive: case studies, applications of new methodologies and tools to applications with increased system heterogeneity and scale.
+	- https://ieee-ceda.org/publication/esl-publication/about
 + IEEE Transactions on Very Large Scale Integration (VLSI) Systems (TVLSI)
 + IEEE Transactions on Computers (TC)
+	- "These areas include, but are not limited to, the following: a) computer organizations and architectures; b) operating systems, software systems, and communication protocols; c) real-time systems and embedded systems; d) digital devices, computer components, and interconnection networks; e) specification, design, prototyping, and testing methods and tools; f) performance, fault tolerance, reliability, security, and testability; g) case studies and experimental and theoretical evaluations; and h) new and important applications and trends."
+	- https://www.computer.org/web/tc/about
 + **IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)**
 + **IEEE Journal on Exploratory Solid-State Computational Devices and Circuits** (JXCDC), author fee required
 + [**IEEE Journal of Emerging and Selected Topics in Circuits and Systems** (JETCAS)](http://ieee-cas.org/pubs/jetcas/call-papers)
+	- "The IEEE Journal on Emerging and Selected Topics in Circuits and Systems is published quarterly and solicits, with particular emphasis on emerging areas, special issues on topics that cover the entire scope of the IEEE Circuits and Systems (CAS) Society, namely the theory, analysis, design, tools, and implementation of circuits and systems, spanning their theoretical foundations, applications, and architectures for signal and information processing."
+	- http://ieee-cas.org/pubs/jetcas/information-authors
 + **IEEE Transactions on Emerging Topics on Computing** (TETC)
+	- "IEEE Transactions on Emerging Topics in Computing publishes papers on emerging aspects of computer science, computing technology, and computing applications not currently covered by other IEEE Computer Society Transactions."
+	- **"Some examples of emerging topics in computing include: IT for Green, Synthetic and organic computing structures and systems, Advanced analytics, Social/occupational computing, Location-based/client computer systems, Morphic computer design, Electronic game systems, & Health-care IT."**
+	- https://www.computer.org/web/tetc
 + Journal of the ACM (JACM)
+	- https://jacm.acm.org/about.cfm
+	- "Logic and Computation"
+	- "Quantum Computing"
 + **ACM Journal on Emerging Technologies in Computing Systems (JETC)**
+	- https://jetc.acm.org/
+	- [Author Guidelines: Manuscript Preparation](https://jetc.acm.org/authors.cfm)
+	- [About JETC Scope](https://jetc.acm.org/about.cfm)
+	- "The Journal of Emerging Technologies in Computing Systems invites submissions of original technical papers describing research and development in emerging technologies in computing systems. Major economic and technical challenges are expected to impede the continued scaling of semiconductor devices. This has resulted in the search for alternate mechanical, biological/biochemical, nanoscale electronic, asynchronous and quantum computing and sensor technologies. As the underlying nanotechnologies continue to evolve in the labs of chemists, physicists, and biologists, it has become imperative for computer scientists and engineers to translate the potential of the basic building blocks (analogous to the transistor) emerging from these labs into information systems. Their design will face multiple challenges ranging from the inherent (un)reliability due to the self-assembly nature of the fabrication processes for nanotechnologies, from the complexity due to the sheer volume of nanodevices that will have to be integrated for complex functionality, and from the need to integrate these new nanotechnologies with silicon devices in the same system."
+	- The journal provides comprehensive coverage of innovative work in the specification, design analysis, simulation, verification, testing, and evaluation of computing systems constructed out of emerging technologies and advanced semiconductors. Topics include, but are not limited to:
+		* Logic Primitive Design and Synthesis
+			+ how to design computational logic primitives from the new nanotechnologies and design tools supporting their effective design and verification
+		* System-Level Specification, Design and Synthesis
+			+ how to interconnect these computational primitives to build complete information systems, and design tools for specifying, synthesizing, and verifying such systems
+		* Software-Level Specification, Design and Synthesis
+			+ how to develop the necessary software so that applications can be effectively mapped onto information systems implemented using these new nanotechnologies, and tools for generating and verifying the software
+		* Mixed-Technology Systems
+			+ how to interface across potentially hybrid nanotechnologies that may co-exist in the same information system
+		* Interactions of Emerging Technologies and Applications
+			+ how to develop software/hardware for emerging technologies/applications such as neuromorphic computing and machine learning, system security/privacy, etc.
+	- "JETC publishes research papers (no more than 25 pages in the ACM Journal/Transactions Format, http://www.acm.org/publications/submissions), tutorial and survey papers (approximately 40 to 50 pages with an extensive bibliography), and short technical notes (less than ten pages). Excessively over-length research paper will be returned without review."
 + ACM Transactions on Architecture and Code Optimization (TACO)
+	- https://taco.acm.org/about.cfm
+	- "The average turnaround time from submission to first response is 47 days, and at most 2 months. For revised manuscripts, the review process goes even faster. Many accepted manuscripts go through two rounds of review to reach a final decision only 5 months after submission. Accepted manuscripts are published in the digital library immediately after acceptance. They are printed in the next ACM TACO issue, which means an extra delay of at most 3 months. Hence, excellent manuscripts can make it from submission to print in 6 months; papers needing a major revision will make it to print in at most 9 months. The ACM TACO acceptance rate after two review rounds varies around 30%."
 + ACM Transactions on Cyber-Physical Systems (TCPS)
+	- https://tcps.acm.org/about.cfm
+	- TCPS will cover the following topics:
+		* Computation Abstractions
+		* System Modeling and Languages
+		* System Compositionality and Integration
+		* Design Automation and Tool Chains
+		* Trustworthy System Designs
+		* Resilient and Robust System Designs
+		* Human in the Loop.
+	- The application domains covered by TCPS include, but not limited to: Healthcare, Transportation, Automotive, Avionics, Energy, Living Space, and Robotics.
 + ACM Transactions on Embedded Computing Systems (TECS)
+	- https://tecs.acm.org/index.cfm
 + ACM Transactions on Computational Logic (TOCL)
+	- https://tocl.acm.org/
+	- https://tocl.acm.org/about.cfm
+	- In particular, submissions on the semantic aspects of the mentioned topics are welcome.
+		* Automated Deduction
+		* Automata and Temporal Logic
+		* Automated Verification
+		* Concurrency Calculi and Tools
+		* Constraint Programming
+		* Finite Model Theory and Complexity of Logical Theories
+		* Functional Programming and Lambda Calculus
+		* Logical Aspects of Computational Complexity
+		* Logical Aspects of Computational Linguistics and Computational Semantics
+		* Logical Aspects of Databases
+		* Logical Aspects of Knowledge Representation, Logic of Geometry, Physics, and Other Commonsense Domains
+		* Logic and Machine Learning
+		* Logic Programming
+		* **Logics of Uncertainty**
+		* Modal Logic, Epistemic Logic, Dynamic Logic, Logic and Games
+		* Model Checking and Formal Methods
+		* Nonmonotonic Reasoning and Answer Sets
+		* Program Development and Verification
+		* Program Specification
+		* Proof Theory
+		* Term Rewriting Systems
+		* Type Theory and Logical Frameworks
 + ACM Transactions on Computer Systems (TOCS)
+	- https://tocs.acm.org/scope.cfm
+	- ACM Transactions on Computer Systems (TOCS) presents research and development results on the design, implementation, analysis, evaluation, and use of computer systems and systems software. The term "computer systems" is interpreted broadly and includes operating systems, systems architecture and hardware, distributed systems, optimizing compilers, and the interaction between systems and computer networks. Articles appearing in TOCS will tend either to present new techniques and concepts, or to report on experiences and experiments with actual systems. Insights useful to system designers, builders, and users will be emphasized.
+		* Cloud systems
+		* Dependable Systems
+		* Design of entire systems
+		* Distributed systems
+		* Embedded Systems
+		* File and storage systems
+		* Impact of technology trends
+		* Mobile systems
+		* Operating systems
+		* Performance and power optimization
+		* Secure systems
+		* System Management
+		* System verification
+		* Systems and Compiler Optimization
+		* Systems and Computer Architecture
+		* Systems and Databases
+		* Systems and Networking
+		* Systems and Programming Languages
+		* Virtualization
 + ACM Transactions on Computation Theory (TOCT)
+	- https://toct.acm.org/about.cfm
+	- "The ACM Transactions on Computation Theory (ToCT) is a peer-reviewed journal that explores the mathematical nature of computation and its theoretical limitations (with an emphasis on computational complexity, foundations of cryptography and other computation-based topics in theoretical computer science)."
 + **ACM Transactions on Design Automation of Electronic Systems (TODAES)**
 + ACM Transactions on Modeling and Computer Simulation (TOMACS)
 + ACM Transactions on Modeling and Performance Evaluation of Computing Systems (TOMPECS)
