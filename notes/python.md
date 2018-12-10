@@ -3404,7 +3404,7 @@ Resources for *Python*-based machine learning:
 + [SciPy](https://scipy.org/)
 	- Books: \cite{NunezIglesias2017,Bressert2013}
 	- Other resources:
-		+ \cite{Varoquaux2018,SciPyCookbookContributors2015,Jones2018f,Jones2018e,Jones2018d,TheSciPyCommunity2018a,TheSciPyCommunity2018,Jones2018c,Jones2018b,Jones2018a,Jones2018,RojasG2015}
+		+ \cite{Varoquaux2018,SciPyCookbookContributors2015,Jones2018f,Jones2018e,Jones2018d,TheSciPyCommunity2018a,TheSciPyCommunity2018,Jones2018c,Jones2018b,Jones2018a,Jones2018,RojasG2015,BlancoSilva2013}
 		+ \cite{TheSciPyCommunity2018c,TheSciPyCommunity2018b,PlanetSciPyContributors2018}
 + [PyTorch](https://pytorch.org/)
 	- \cite{Paszke2018,Paszke2017,Paszke2018a}
@@ -3452,7 +3452,8 @@ Machine learning and deep learning resources:
 	- **machine learning visualization**
 + [GGobi](http://www.ggobi.org/)
 	- \cite{GGobiContributors20XY}
-
++ References
+	- \cite{Raman2015,Milovanovic2015}
 
 
 
