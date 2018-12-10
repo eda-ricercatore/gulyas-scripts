@@ -25,6 +25,7 @@
 		* [References for Packaging *Python* Programs](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#references-for-packaging-python-programs)
 	- [Database Administration](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#database-administration)
 	- [Software Development Process Methodologies](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#software-development-process-methodologies)
+		* [Integrated Development Environments (IDEs)](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#integrated-development-environments-ides)
 + [*Python* Strings](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#python-strings)
 + [Exception Handling](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#exception-handling)
 	- [Warnings](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#warnings)
