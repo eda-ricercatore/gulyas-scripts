@@ -3450,10 +3450,13 @@ Machine learning and deep learning resources:
 	- \cite{YellowbrickContributors2018}
 	- http://www.scikit-yb.org/en/latest/
 	- **machine learning visualization**
++ [Matplotlib](https://matplotlib.org/)
+	- \cite{Caswell2018,Caswell2018a,Hunter2007}
+	- \cite{Hunter2018,Hunter2018a,Hunter2016}
 + [GGobi](http://www.ggobi.org/)
 	- \cite{GGobiContributors20XY}
 + References
-	- \cite{Raman2015,Milovanovic2015}
+	- \cite{Raman2015,Milovanovic2015,Milovanovic2013}
 
 
 
