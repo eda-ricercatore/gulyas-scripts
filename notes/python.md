@@ -3443,7 +3443,7 @@ Machine learning and deep learning resources:
 ###	Data Visualization and Information Visualization
 
 *Python* libraries and packages for data visualization and information visualization:
-+ [Bokeh]({https://bokeh.pydata.org/en/latest/)
++ [Bokeh](https://bokeh.pydata.org/en/latest/)
 	- \cite{BokehContributors2018}
 	- \cite{BokehContributors2018a}
 + [Yellowbrick](https://github.com/DistrictDataLabs/yellowbrick)
