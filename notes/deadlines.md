@@ -1209,9 +1209,44 @@
 	- https://toct.acm.org/about.cfm
 	- "The ACM Transactions on Computation Theory (ToCT) is a peer-reviewed journal that explores the mathematical nature of computation and its theoretical limitations (with an emphasis on computational complexity, foundations of cryptography and other computation-based topics in theoretical computer science)."
 + **ACM Transactions on Design Automation of Electronic Systems (TODAES)**
+	- https://todaes.acm.org/about.cfm
+	- "TODAES aims at fast review turnarounds such that the first review results will come out within 60 days on average."
+	- "The journal intends to provide a comprehensive coverage of innovative works concerning the specification, design, analysis, simulation, testing, and evaluation of very large scale integrated electronic systems, emphasizing a computer science/engineering orientation."
 + ACM Transactions on Modeling and Computer Simulation (TOMACS)
+	- https://tomacs.acm.org/about.cfm
+	- "The ACM Transactions on Modeling and Computer Simulation (TOMACS) provides a single archival source for the publication of high-quality research and developmental results referring to all phases of the modeling and simulation life cycle. The subjects of emphasis are discrete event simulation, combined discrete and continuous simulation, as well as Monte Carlo methods."
+	- Topics include:
+		* Modeling Methodology:
+			+ modeling languages, model reuse, component-based approaches, agent-based approaches, multi-formalism modeling, hierarchical, multi-level modeling, meta modeling and visual modeling, composition and refinement of models, hybrid modeling.
+		* Model Execution:
+			+ development and analysis of algorithms and data structures, approximative algorithms, hybrid algorithms, parallel algorithms, including GPU based approaches, distributed simulation, grid-based and cloud-based execution, inter-operation of simulation systems, distributed simulations for training, test and evaluation purposes, data driven simulation.
+		* Random numbers and objects:
+			+ random number generators and testing, low-discrepancy sequences, random variate transformations, stochastic process and random object generators, statistical distribution fitting and data modeling.
+		* Experiment design and simulation analysis:
+			+ analysis of the stochastic nature of simulation output and algorithms, including rare event simulation, simulation-based optimization and search, sensitivity analysis, variance reduction techniques and Markov chain Monte Carlo approaches.
+		* Verification, validation, and accreditation of models:
+			+ detailed studies, workflow-based support, addressing questions of provenance, statistical model checking, reproducibility of simulation results.
+		* Interplay between other areas of computer science and simulation:
+			+ simulation for decision support, workflows, artificial intelligence, virtual reality, big data, service-oriented approaches, grid-computing, visual analytics, probabilistic programming.
+		* Advanced Applications:
+			+ Novel techniques and tools for simulating specific complex systems such as those arising in communication networks, computer science, cyber physical systems, health care, manufacturing, social science, systems biology, systems medicine, transportation systems.
 + ACM Transactions on Modeling and Performance Evaluation of Computing Systems (TOMPECS)
+	- "ACM Transactions on Modeling and Performance Evaluation of Computing Systems (ToMPECS) is a new ACM journal that publishes refereed articles on all aspects of the modeling, analysis, and performance evaluation of computing and communication systems."
+	- ACM ToMPECS solicits and will publish peer-reviewed articles that:
+		* Define, develop, and assess new performance evaluation methodologies, including analytical techniques, experimental design, formal methods, instrumentation techniques, mathematical modeling, optimization, queueing theory, reliability analysis, simulation, statistical analysis, stochastic modeling, verification and validation, and workload characterization;
+		* Provide new insights on the performance of computing and communication systems; or
+		* Introduce new settings in which performance modeling and evaluation can play an important role.
+	- "The target areas for the application of these performance evaluation methodologies are broad, and include traditional areas such as computer networks, computer systems, storage systems, telecommunication networks, and Web-based systems, as well as new areas such as data centers, green computing/communications, energy grid networks, and on-line social networks."
+	- https://tompecs.acm.org/about.cfm
 + ACM Transactions on Reconfigurable Technology and Systems (TRETS)
+	- Topics appropriate for TRETS include all levels of reconfigurable system abstractions and all aspects of reconfigurable technology including platforms, programming environments and application successes, such as:
+		* The systems architecture of a reconfigurable platform.
+		* Programming environments of reconfigurable systems, especially those designed for use with reconfigurable systems that will lead to increased programmer productivity.
+		* Logic synthesis and related tools, as they relate to reconfigurable systems.
+		* Languages and compilers for reconfigurable systems.
+		* Applications on which success can be demonstrated.
+		* The underlying technology from which reconfigurable systems are developed, including FPGA architectures and their associated computer-aided design algorithms.
+	- https://trets.acm.org/about.cfm
 
 
 
