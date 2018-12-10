@@ -3414,7 +3414,7 @@ Resources for *Python*-based machine learning:
 + [Apache MXNet](https://mxnet.apache.org/)
 	- \cite{MXNetContributors2018}
 + [pomegranate](https://github.com/jmschrei/pomegranate)
-	- \cite{Schreiber2018}
+	- \cite{Schreiber2018,Schreiber2018a}
 
 
 

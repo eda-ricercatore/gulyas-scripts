@@ -43,6 +43,7 @@ To-do list:
 		* Nginx
 		* Solr, Lucene, Elastic Search (ElasticSearch), Memcache/Memcached
 		* DSE???
+		* HDFS???
 		* Apache Lucene, Memcache, RabbitMQ
 		* ZooKeeper, and/or Consul
 		* noSQL (e.g. Postgres), Python based ORM (e.g. SQL Alchemy) and database technologies (e.g. HDFS, Cassandra, Elastic Search, Druid, etc.)
