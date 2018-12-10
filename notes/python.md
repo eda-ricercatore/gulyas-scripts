@@ -3053,10 +3053,11 @@ Suggested reading from \cite[Chapter 19, pp. 387]{Hetland2005}:
 + \cite{Knuth2005,Knuth1997,Knuth1997a,Knuth1998,Knuth2011}
 
 
+####	Integrated Development Environments (IDEs)
 
-
-
-
+List of integrated development environments (IDEs):
++ [Spyder](https://github.com/spyder-ide/spyder)
+	- \cite{SpyderProjectContributors2018}
 
 
 
@@ -3440,8 +3441,8 @@ Machine learning and deep learning resources:
 *Python* libraries for computational science (or scientific computing), computational engineering, and numerical computing:
 + [*Python(x,y)*](http://python-xy.github.io/)
 	- \cite{Raybaut2015}
-
-
++ [QuTiP](https://github.com/qutip)
+	- \cite{Pitchford2018}
 
 
 
