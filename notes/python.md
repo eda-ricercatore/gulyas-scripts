@@ -3381,7 +3381,7 @@ Resources for *Python*-based machine learning:
 	- *TensorFlow* web page and software \cite{GoogleBrainTeam2018}
 + [scikit-learn](https://scikit-learn.org/)
 	- \cite{Blondel2018,Pedregosa2011}
-	- \cite{Buitinck2013,Cremilleux2013,Pedregosa2018,Sonnenburg2018}
+	- \cite{Buitinck2013,Cremilleux2013,Pedregosa2018,Sonnenburg2018,Hauck2014,Avila2017}
 	- \cite{Blondel2018a,Blondel2018b,Blondel2018c,Blondel2018d,Blondel2018e,Blondel2018f,Blondel2018g,Blondel2018h,Blondel2018i}
 + [Google Colaboratory](https://colab.research.google.com/)
 	- A "free Google Cloud-based Jupyter notebook environment"
@@ -3394,6 +3394,7 @@ Resources for *Python*-based machine learning:
 	- [Google Colaboratory — Simplifying Data Science Workflow](https://towardsdatascience.com/google-colaboratory-simplifying-data-science-workflow-c70059386323)
 + [pandas: Python Data Analysis Library](http://pandas.pydata.org/)
 	- \cite{McKinney2018,McKinney2012,McKinney2013}
+	- \cite{Chen2018a}
 	- \cite{Augspurger2018e,Augspurger2018d,Augspurger2018c,Augspurger2018b,Augspurger2018a,pandasDevelopmentTeam2016,Augspurger2018}
 + [NumPy](http://www.numpy.org/index.html)
 	- Books: \cite{Idris2015,Oliphant2015,Oliphant2006}
@@ -3401,9 +3402,9 @@ Resources for *Python*-based machine learning:
 		+ \cite{NumPyCommunity2018a,NumPyCommunity2018,NumPyDevelopers2018}
 		+ \cite{Jones2018k,Jones2018j,Jones2018l,Jones2018i,Jones2018h,Jones2018g,Gundersen2007c,Gundersen2007b,Gundersen2007a,Gundersen2007,Gundersen2008b,Gundersen2008a,Gundersen2008}
 + [SciPy](https://scipy.org/)
-	- Books: \cite{NunezIglesias2017}
+	- Books: \cite{NunezIglesias2017,Bressert2013}
 	- Other resources:
-		+ \cite{Varoquaux2018,SciPyCookbookContributors2015,Jones2018f,Jones2018e,Jones2018d,TheSciPyCommunity2018a,TheSciPyCommunity2018,Jones2018c,Jones2018b,Jones2018a,Jones2018}
+		+ \cite{Varoquaux2018,SciPyCookbookContributors2015,Jones2018f,Jones2018e,Jones2018d,TheSciPyCommunity2018a,TheSciPyCommunity2018,Jones2018c,Jones2018b,Jones2018a,Jones2018,RojasG2015}
 		+ \cite{TheSciPyCommunity2018c,TheSciPyCommunity2018b,PlanetSciPyContributors2018}
 + [PyTorch](https://pytorch.org/)
 	- \cite{Paszke2018,Paszke2017,Paszke2018a}
@@ -3444,6 +3445,7 @@ Machine learning and deep learning resources:
 *Python* libraries and packages for data visualization and information visualization:
 + [Bokeh]({https://bokeh.pydata.org/en/latest/)
 	- \cite{BokehContributors2018}
+	- \cite{BokehContributors2018a}
 + [Yellowbrick](https://github.com/DistrictDataLabs/yellowbrick)
 	- \cite{YellowbrickContributors2018}
 	- http://www.scikit-yb.org/en/latest/
