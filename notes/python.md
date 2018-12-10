@@ -3059,6 +3059,9 @@ Suggested reading from \cite[Chapter 19, pp. 387]{Hetland2005}:
 List of integrated development environments (IDEs):
 + [Spyder](https://github.com/spyder-ide/spyder)
 	- \cite{SpyderProjectContributors2018}
++ [Jupyter](http://jupyter.org/)
++ [PyCharm Edu](https://www.jetbrains.com/pycharm-edu/)
++ [JetBrains Student](https://www.jetbrains.com/student/)
 
 
 
