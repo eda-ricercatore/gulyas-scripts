@@ -1249,7 +1249,22 @@
 	- https://trets.acm.org/about.cfm
 
 
+##	Comments on Submitting Articles to Journals for Publication
 
+If I am using noise-based logic to implement neuromorphic processors, send the article(s) to TETCI.
+
+For cell-library implementation, circuit simulation (or, logic simulation) for noise-based logic, try the following:
+- JETC
+- TOCL
+- TOCS
+- TODAES
+- ToMPECS
+- JETCAS
+- TETC
+- TCAD
+- TMSCS
+- TC
+- JACM
 
 
 #	Conferences and Journals in Signal Processing and Communication/Information Theory
