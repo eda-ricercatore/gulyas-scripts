@@ -2658,6 +2658,8 @@ Developing mixed-language software
 + Use *Psyco* as a "specialized just-in-time compiler for *Python*" to speed up
 	run-time performance of the *Python* programs
 	\cite[Chapter 17, pp. 360]{Hetland2005}.
++ Use **[Numba](http://numba.pydata.org/)** \cite{NumbaContributors2018} as a
+	high-performance Python compiler. It is a NumPy-aware, LLVM-based dynamic compiler \cite{NumbaContributors2018a}.
 + Use *Pyrex*, which is a "dialect" of *Python*, to develop extensions for *Python*
 	programs and to compile *Pyrex* programs
 	\cite[Chapter 17, pp. 361]{Hetland2005}.
@@ -3372,7 +3374,7 @@ Use mutual exclusion (mutex) to manage system resources, such as locks, files,
 	- http://www.statsmodels.org/stable/index.html
 + [PyMC3](https://docs.pymc.io/)
 	- https://numfocus.org/project/pymc3
-	- \cite{ThePyMCDevelopmentTeam2018}
+	- \cite{ThePyMCDevelopmentTeam2018,PyMC3Contributors2018}
 	- \cite{Salvatier2016}
 	- [PyMC](PyMCContributors2018) ... The old version.
 
@@ -3459,6 +3461,9 @@ Machine learning and deep learning resources:
 	- \cite{Hunter2018,Hunter2018a,Hunter2016}
 + [GGobi](http://www.ggobi.org/)
 	- \cite{GGobiContributors20XY}
++ [Orange](https://orange.biolab.si/)
+	- \cite{OrangeContributors2018}
+	- https://github.com/biolab/orange3 \cite{OrangeContributors2018a}
 + References
 	- \cite{Raman2015,Milovanovic2015,Milovanovic2013}
 
