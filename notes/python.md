@@ -3370,7 +3370,11 @@ Use mutual exclusion (mutex) to manage system resources, such as locks, files,
 + [StatsModels](https://github.com/statsmodels/statsmodels)
 	- \cite{Taylor2018}
 	- http://www.statsmodels.org/stable/index.html
-
++ [PyMC3](https://docs.pymc.io/)
+	- https://numfocus.org/project/pymc3
+	- \cite{ThePyMCDevelopmentTeam2018}
+	- \cite{Salvatier2016}
+	- [PyMC](PyMCContributors2018) ... The old version.
 
 
 
@@ -3474,6 +3478,8 @@ Machine learning and deep learning resources:
 	- \cite{Pitchford2018}
 
 
+Resources about such libraries: \cite{Avila2017,RojasG2015,Hauck2014,BlancoSilva2013,Bressert2013}
+
 
 
 ###	Additional Information and Resources
@@ -3481,7 +3487,8 @@ Machine learning and deep learning resources:
 See the following regarding [database administration and information systems](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#database-administration).
 
 
-
+Strongly recommended resource for data science:
++ **[Anaconda Distribution: The Most Popular Python/R Data Science Distribution](https://www.anaconda.com/distribution/)** \cite{AnacondaStaff2018}
 
 
 ##	Miscellaneous
