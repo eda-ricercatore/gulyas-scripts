@@ -1,5 +1,8 @@
 #	CFP Deadlines
 
+"Finish your Ph.D.! Finish your [term deleted] Ph.D.!!!"
+- Mr. Erik King, during the last conversation that we had at Sbisa dining hall on December 10, 2018. He graduates with his Masters later that week.
+
 ##	Machine Learning-centric
 
 + AAAI, AAAI Conference on Artificial Intelligence
