@@ -46,6 +46,7 @@ To-do list:
 		* HDFS???
 		* Apache Lucene, Memcache, RabbitMQ
 		* ZooKeeper, and/or Consul
+		* MariaDB???
 		* noSQL (e.g. Postgres), Python based ORM (e.g. SQL Alchemy) and database technologies (e.g. HDFS, Cassandra, Elastic Search, Druid, etc.)
 		* knowledge of NoSQL databases (e.g. Cassandra, ELK), Storm, Nginx technologies.
 		* cassandra/hbase/Elastic/Mongo/Couchbase/Redis
@@ -454,6 +455,7 @@ To-do list:
 		* Excellent understanding of machine learning techniques and algorithms, such as k-NN, Naive Bayes, SVM, Decision Forests, etc.
 		* Apache Kafka
 		* vw / xgboost
+		* Knowledges of Web test frameworks like Selenium, React.js, Headless Chromium is a plus
 	- Python (3.5>=), packages: argparse, shapely, Munkres, numpy, cv2, logging, Pillow
 		* ES6
 		* Plotly.js
