@@ -129,7 +129,15 @@ Fix mathematical proof for paper and implement processor subsystems.
 	- San Francisco, CA.
 	- Submission deadline: Oct 29/Nov 5, 2018
 
+###	Attack Plan
 
++ ICML: January 18 and 23, 2019.
++ ICCV: March 22, 2019.
++ ECCV: March 2019.
++ NIPS: May 2019.
++ CVPR: November 2019.
++ AAAI Conference on Artificial Intelligence: August/September 2019.
++ IJCNN: December 2019.
 
 
 ## Hardware-centric, Verification, Automated Reasoning, & Compiler Design

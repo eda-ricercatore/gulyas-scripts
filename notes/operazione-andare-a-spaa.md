@@ -22,7 +22,7 @@ Questions:
 
 To-do list:
 + [x] **Reference machine learning libraries!!!**
-+ [ ] Libraries associated with NumFOCUS.
++ [x] Libraries associated with NumFOCUS.
 + [ ] Store test results in a database (in *CSV* format), and manage it with a *SQL*
 	database (e.g., *MySQL*, *PostgreSQL*, *MariaDB*).
 	- *Python* interface to *SQL* database.
@@ -272,6 +272,7 @@ To-do list:
 		* Icinga
 		* AppDynamics
 		* Prometheus
+		* Experience using system monitoring tools (e.g. New Relic) and automated testing frameworks
 	- ETL technologies
 		* Flume
 		* Avro
