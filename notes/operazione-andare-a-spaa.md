@@ -27,6 +27,9 @@ To-do list:
 	database (e.g., *MySQL*, *PostgreSQL*, *MariaDB*).
 	- *Python* interface to *SQL* database.
 		* Aurora, SQLite,
+		* Kudu
+			+ https://en.wikipedia.org/wiki/Apache_Kudu
+			+ https://kudu.apache.org/
 	- Process this with a *NoSQL* database.
 		* Cassandra
 		* Hbase
