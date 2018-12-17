@@ -24,7 +24,10 @@ To-do list:
 + [x] **Reference machine learning libraries!!!**
 + [x] Libraries associated with NumFOCUS.
 + [ ] Store test results in a database (in *CSV* format), and manage it with a *SQL*
-	database (e.g., *MySQL*, *PostgreSQL*, *MariaDB*).
+	- SQL database
+		* *MySQL*
+		* *PostgreSQL*
+		* *MariaDB*
 	- *Python* interface to *SQL* database.
 		* Aurora, SQLite,
 		* Kudu
