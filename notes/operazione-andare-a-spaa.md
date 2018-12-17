@@ -29,7 +29,8 @@ To-do list:
 		* *PostgreSQL*
 		* *MariaDB*
 	- *Python* interface to *SQL* database.
-		* Aurora, SQLite,
+		* Aurora
+		* SQLite
 		* Kudu
 			+ https://en.wikipedia.org/wiki/Apache_Kudu
 			+ https://kudu.apache.org/
