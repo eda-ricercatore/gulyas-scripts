@@ -34,6 +34,7 @@ To-do list:
 		* Kudu
 			+ https://en.wikipedia.org/wiki/Apache_Kudu
 			+ https://kudu.apache.org/
+			+ *Is this a NoSQL database?*
 	- Process this with a *NoSQL* database.
 		* Cassandra
 		* Hbase
