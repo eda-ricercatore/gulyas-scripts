@@ -35,6 +35,7 @@ To-do list:
 			+ https://en.wikipedia.org/wiki/Apache_Kudu
 			+ https://kudu.apache.org/
 			+ *Is this a NoSQL database?*
+			+ *Does this support "Big Data" analytics?*
 	- Process this with a *NoSQL* database.
 		* Cassandra
 		* Hbase
