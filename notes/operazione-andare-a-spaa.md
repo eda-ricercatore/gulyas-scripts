@@ -227,6 +227,7 @@ To-do list:
 	- creating Continuous Integration environments
 	- configuration management tools (Ansible, Puppet, Chef... More than Git, Mercurial, SVN, and CVS)
 	- Demonstrable experience with DevOps tools (e.g. Puppet, Cheff, Ansible or Vagrant).
+	- Experience with containerization, AWS, PBX, SIP technologies is a plus
 	- infrastructure monitoring
 	- GitFlow
 	- SaltStack
@@ -361,6 +362,7 @@ To-do list:
 		* Linkerd, Kubernetes, DC/OS, gRPC, Zipkin, Docker, and Prometheus.
 		* Docker, Kubernetes, Helm, Jenkins, AWS, Prometheus, Grafana
 		* Docker, LXC
+		* VMware ESXi or Windows Development/Windows containers.
 	- Virtualization
 		* VMware
 		* OpenStack
@@ -422,6 +424,10 @@ To-do list:
 	- Celery
 	- Elasticsearch and ELK pipeline
 	- LibreOffice, Apache OpenOffice, and NeoOffice.
+	- Tech stack is described as:
+		* Front­end: JavaScript (ES5/ES6), AJAX, jQuery, React/Angular/Vue, Bootstrap, templating, markdown/markup, built tools, task runners, PWAs, etc...
+		* Middle­tier: REST and RESTful interfaces, AJAX, RPC, WebSockets/Socket.io, Web Workers, Node.js/Express, etc…
+		* Back­end: SQL/No­SQL databases, Message Queue Systems, Big Data systems, Node.js, MongoDB, Redis, etc…
 	- Sets of skills
 		* AWS cloud services: EC2, EMR, RDS, Lambda, Redshift
 		* NoSQL databases, such as HBase, Cassandra, MongoDB, or DynamoDB
@@ -431,6 +437,8 @@ To-do list:
 		* Very well versed with ADT, ORU, ORM and document exchange messages specification
 		*  data interchange formats like JSON and XML
 		* Django, Ruby on Rails, Flask
+		* Must have experience with working on few technologies such as spring framework, SpringBoot, SpringMVC, JPA, MyBatis, Tomcat, Nginx
+		* Knowledge of authentication protocols such as basic and digest authentication, SAML, LDAP, and OAuth.
 		* In-Memory caching technologies, such as memcached or Redis
 		* Cutting edge C++ knowledge (C++17, C++20)
 		* stream pipelines and all sorts of datastores (SQL, NoSQL, triplestores, wide column, graph)
