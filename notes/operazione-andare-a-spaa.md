@@ -56,6 +56,7 @@ To-do list:
 		* Apache Lucene, Memcache, RabbitMQ
 		* ZooKeeper, and/or Consul
 		* MariaDB???
+		* Comprehensive knowledge of the internal workings of at least one of Postgres, Mongo, Redis
 		* noSQL (e.g. Postgres), Python based ORM (e.g. SQL Alchemy) and database technologies (e.g. HDFS, Cassandra, Elastic Search, Druid, etc.)
 		* knowledge of NoSQL databases (e.g. Cassandra, ELK), Storm, Nginx technologies.
 		* cassandra/hbase/Elastic/Mongo/Couchbase/Redis
@@ -399,6 +400,7 @@ To-do list:
 	- ELK, Queuing and monitoring infra
 	- security, AWS, Chef, Git, Jira, Docker, Jenkins, TDD, and Continuous Integration CI/CD.
 	- Gerkin, BDD.
+	- Core Technical Skills that are REQUIRED: PHP 5, Javascript, JQuery, Node.js, MySQL (administration and database design/creation), Full-stack familiarity (HTML/CSS, Apache web server, Ubuntu Linux), Encoding and Decoding JSON to and from OOP, ORM, Consuming RESTful APIs, Experience with Eclipse IDE (desirable)
 	- stress testing (locust.io)
 	- designing high availability systems
 	- application security hardening
@@ -433,6 +435,7 @@ To-do list:
 		* NoSQL databases, such as HBase, Cassandra, MongoDB, or DynamoDB
 		* messaging systems, such as AWS SQS, AWS Kinesis, Kafka, or RabbitMQ, ZeroMQ
 		* big data tools and stream-processing systems: Hadoop, Spark, Storm, Spark-Streaming
+		* Understanding of standard networking protocols and components such as: TCP/IP, HTTP, DNS, ICMP, the OSI Model, Subnetting, and Load Balancing
 		* data pipeline and workflow management tools: Azkaban, Luigi, Airflow
 		* Very well versed with ADT, ORU, ORM and document exchange messages specification
 		*  data interchange formats like JSON and XML
