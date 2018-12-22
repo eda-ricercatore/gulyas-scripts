@@ -438,9 +438,11 @@ To-do list:
 		* Understanding of standard networking protocols and components such as: TCP/IP, HTTP, DNS, ICMP, the OSI Model, Subnetting, and Load Balancing
 		* data pipeline and workflow management tools: Azkaban, Luigi, Airflow
 		* Very well versed with ADT, ORU, ORM and document exchange messages specification
+		* DBT experience
 		*  data interchange formats like JSON and XML
 		* Django, Ruby on Rails, Flask
 		* Must have experience with working on few technologies such as spring framework, SpringBoot, SpringMVC, JPA, MyBatis, Tomcat, Nginx
+		* Experience with performance optimization of queries in Redshift & Postgres
 		* Knowledge of authentication protocols such as basic and digest authentication, SAML, LDAP, and OAuth.
 		* In-Memory caching technologies, such as memcached or Redis
 		* Cutting edge C++ knowledge (C++17, C++20)
@@ -464,6 +466,12 @@ To-do list:
 		* implementing BI solutions in a heavily regulated environment e.g. PII, GDPR, HIPPA & SOX
 		* big data platform tools such as Hadoop, Hive Druid, Kafka, Ambari, Spark, Zeppelin
 		* PowerBI, Tableau, Qlikview
+		* Production experience with AWS tools including at least some of the following: EC2, S3, Kinesis, CloudFormation, Redshift
+		* Experience with at least one data warehousing platform (Redshift, Athena, Hive, Snowflake, etc.)
+		* Knowledge of a majority of the following: Elixir, Erlang, Ruby, JavaScript, PHP, Postgresql, MySQL, Apache Solr, Elasticsearch.
+		* Knowledge of web frameworks (like Sinatra/Rails), testing frameworks (like Rspec/Minitest) and Javascript. Experience with Ruby, MySQL and Apache Solr is a plus.
+		* Experience with Python ORMs like SQLAlchemy and Python libraries like Pandas, Scikit-Learn, Numpy and Scipy
+		* Experience within the domain of Advanced Analytics and Data Science is highly desirable, e.g. hands-on experience with solutions such as Spark, MapReduce, Python, Redshift, Hive, Pig and visualization tools.
 		* Hadoop data platform is capable of supporting a growing list of downstream platforms like Tableau, Zeppelin etc.
 		* Expertise with Hive, YARN, Spark, Presto, Kafka, SOLR, Oozie, Sentry, Encryption, Hbase, etc.
 		* Experience utilising Portfolio & Project Management (PPM) tools such as CA PPM (Clarity), ServiceNow, JIRA, Microsoft Project Server, etc.
