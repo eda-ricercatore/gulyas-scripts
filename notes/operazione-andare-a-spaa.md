@@ -352,6 +352,7 @@ To-do list:
 + Cloud platforms
 	- AWS/EC2
 	- AWS (EC2, EMR, RDS, Redshift), Google Cloud, Microsoft Azure
+	- Experience with an Automation framework (Chef, Puppet Ansible, CloudFormation)
 	- Celery, Redis, Docker, Kubernetes, Jenkins
 	- Rackspace Open Cloud
 	- Ceph
@@ -439,7 +440,8 @@ To-do list:
 		* data pipeline and workflow management tools: Azkaban, Luigi, Airflow
 		* Very well versed with ADT, ORU, ORM and document exchange messages specification
 		* DBT experience
-		*  data interchange formats like JSON and XML
+		* Object oriented programming experience (e.g. using Java, J2EE, EJB, .NET, WebSphere, etc.).
+		* data interchange formats like JSON and XML
 		* Django, Ruby on Rails, Flask
 		* Must have experience with working on few technologies such as spring framework, SpringBoot, SpringMVC, JPA, MyBatis, Tomcat, Nginx
 		* Experience with performance optimization of queries in Redshift & Postgres
@@ -470,7 +472,19 @@ To-do list:
 		* Experience with at least one data warehousing platform (Redshift, Athena, Hive, Snowflake, etc.)
 		* Knowledge of a majority of the following: Elixir, Erlang, Ruby, JavaScript, PHP, Postgresql, MySQL, Apache Solr, Elasticsearch.
 		* Knowledge of web frameworks (like Sinatra/Rails), testing frameworks (like Rspec/Minitest) and Javascript. Experience with Ruby, MySQL and Apache Solr is a plus.
+		* Demonstrated proficiency with Docker and container orchestration technologies (Kubernetes, ECS, etc.)
+		* Expertise with AWS services such as EC2, IAM, S3, etc.
+		* Expertise with several continuous integration technologies (Jenkins, Ansible, CloudFormation, Terraform, etc.)
+		* Experience with load balancing technologies such as ELB, NGINX, etc.
+		* Experience with network technologies like DNS, AWS security groups, VPCs, etc.
+		* Extensive experience manipulating and analyzing complex data with SQL, Python and/or R. Knowledge of Google BigQuery and Java/Scala is a plus.
+		* You’ll lead, analyze, implement, and socialize a robust A/B/multivariate testing program, collaborating closely with product, engineering, marketing, and content.
+		* You’re familiar with all aspects of SEO: on-page, external, and technical, and you have used tools such as ahrefs, DeepCrawl, Screaming Frog, SEMRush, and Google Search Console to optimize for search.
+		* RStudio packages: The tidyverse, R Markdown, and Shiny
+		* A sample of the technologies you’ll be exposed to: Python, Javascript/Angular, Impala (Big data data database), AWS, Docker, Kubernetes, Git.
 		* Experience with Python ORMs like SQLAlchemy and Python libraries like Pandas, Scikit-Learn, Numpy and Scipy
+		* Should have experience in dealing with XML and JSON data formats.
+		* Knowledge in Hadoop (HDFS, YARN), its programming models (MapReduce, Spark), and its services such as Hive, HBase etc.
 		* Experience within the domain of Advanced Analytics and Data Science is highly desirable, e.g. hands-on experience with solutions such as Spark, MapReduce, Python, Redshift, Hive, Pig and visualization tools.
 		* Hadoop data platform is capable of supporting a growing list of downstream platforms like Tableau, Zeppelin etc.
 		* Expertise with Hive, YARN, Spark, Presto, Kafka, SOLR, Oozie, Sentry, Encryption, Hbase, etc.
