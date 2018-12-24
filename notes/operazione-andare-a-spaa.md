@@ -486,6 +486,7 @@ To-do list:
 		* Should have experience in dealing with XML and JSON data formats.
 		* Knowledge in Hadoop (HDFS, YARN), its programming models (MapReduce, Spark), and its services such as Hive, HBase etc.
 		* Technical Fluency.  Languages and tools such as Python/Java/Scala, AWS (S3/EMR/Athena/Glue) and SQL. Experience with big data processing tools including Spark, Hadoop, Hive, Yarn, and Airflow. Experience working with either a MapReduce system of any size/scale.
+		* Experience writing production datasets in SQL/Hive OR building internal/production data tools for ETL, experimentation, or exploration in a scripting language (Python, R, etc.)
 		* Experience within the domain of Advanced Analytics and Data Science is highly desirable, e.g. hands-on experience with solutions such as Spark, MapReduce, Python, Redshift, Hive, Pig and visualization tools.
 		* Hadoop data platform is capable of supporting a growing list of downstream platforms like Tableau, Zeppelin etc.
 		* Expertise with Hive, YARN, Spark, Presto, Kafka, SOLR, Oozie, Sentry, Encryption, Hbase, etc.
