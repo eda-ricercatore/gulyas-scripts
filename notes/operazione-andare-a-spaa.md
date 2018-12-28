@@ -492,9 +492,19 @@ To-do list:
 		* Hands-on experience with Big Data technologies (e.g Hadoop, Hive, Spark)
 		* Ansible: it’s not that bad, and helps us move quickly, but any configuration management tool is applicable.
 		* Elasticsearch / Kibana: You can readily access information & love metrics
+		* Familiarity with common web application testing tools for DAST, SAST, and IAST analysis such as Burp Suite, Checkmarx, Veracode
+		* Completed graduate-level coursework in survey statistics—bonus points if you've completed coursework in adjacent fields/methods (e.g., econometrics, NLP, experimental design, political science, or quantitative social psychology)
+		* Exposure to container technologies - container orchestrators (Kubernetes, Mesos, Docker Swarm Mode) is a plus
+		* Experience with Cloud based services, Microservices a Cloud Computing class or similar experience
+		* Technical Skills needed: vSphere, vSAN, NSX, vROps, Storage, Database, Middleware, and Scripting
+		* Experience of Unity, C# and 3D application development.
+		* Working knowledge of HMD (ie Oculus, HTC Vive, Hololens)
+		* Experience with Hololens, HTC Vive, Oculus, Google Cardboard and other leading AR/VR platforms
+		* Knowledge of NoSQL technologies (e.g. Cassandra, MongoDB, Redis, etc.) and/or search-based datastores and libraries (Lucene, Solr, etc.)
 		* Experience within the domain of Advanced Analytics and Data Science is highly desirable, e.g. hands-on experience with solutions such as Spark, MapReduce, Python, Redshift, Hive, Pig and visualization tools.
 		* Hadoop data platform is capable of supporting a growing list of downstream platforms like Tableau, Zeppelin etc.
 		* Expertise with Hive, YARN, Spark, Presto, Kafka, SOLR, Oozie, Sentry, Encryption, Hbase, etc.
+		* We are cloud agnostic and run our infrastructure and systems on Azure, AWS, as well as dedicated servers.
 		* Experience utilising Portfolio & Project Management (PPM) tools such as CA PPM (Clarity), ServiceNow, JIRA, Microsoft Project Server, etc.
 		* project management tools (JIRA, Confluence),
 		* big data platform tools such as Hadoop, Hive, Druid, Kafka, Ambari, Spark
