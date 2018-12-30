@@ -18,42 +18,42 @@ Reallocated name_tok (elt_size=4) to 60000 items from 40000.
 Reallocated name_sep_char (elt_size=1) to 60000 items from 40000.
 You've used 257 entries,
             2118 wiz_defined-function locations,
-            1950 strings with 58836 characters,
-and the built_in function-call counts, 66929 in all, are:
-= -- 6361
+            1952 strings with 59046 characters,
+and the built_in function-call counts, 67074 in all, are:
+= -- 6381
 > -- 3204
-< -- 12
+< -- 13
 + -- 1320
 - -- 1038
-* -- 3660
-:= -- 11684
+* -- 3670
+:= -- 11698
 add.period$ -- 832
 call.type$ -- 257
 change.case$ -- 1192
 chr.to.int$ -- 0
 cite$ -- 257
-duplicate$ -- 2675
-empty$ -- 5729
+duplicate$ -- 2682
+empty$ -- 5739
 format.name$ -- 1038
-if$ -- 14171
+if$ -- 14209
 int.to.chr$ -- 0
 int.to.str$ -- 257
 missing$ -- 292
 newline$ -- 1288
 num.names$ -- 514
-pop$ -- 1874
+pop$ -- 1872
 preamble$ -- 1
 purify$ -- 1033
 quote$ -- 0
-skip$ -- 1764
+skip$ -- 1774
 stack$ -- 0
-substring$ -- 1735
-swap$ -- 314
-text.length$ -- 12
+substring$ -- 1759
+swap$ -- 321
+text.length$ -- 13
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 762
 warning$ -- 0
-while$ -- 552
+while$ -- 555
 width$ -- 260
-write$ -- 2841
+write$ -- 2843

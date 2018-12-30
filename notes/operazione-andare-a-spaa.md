@@ -505,6 +505,8 @@ To-do list:
 		* Hadoop data platform is capable of supporting a growing list of downstream platforms like Tableau, Zeppelin etc.
 		* Expertise with Hive, YARN, Spark, Presto, Kafka, SOLR, Oozie, Sentry, Encryption, Hbase, etc.
 		* API development
+		* You highly experienced with JavaScript/Node.js, SQL/NoSQL databases
+		* We are fans of the Lean Startup methodology, we love Trello, Jira, Slack
 		* We are cloud agnostic and run our infrastructure and systems on Azure, AWS, as well as dedicated servers.
 		* Experience utilising Portfolio & Project Management (PPM) tools such as CA PPM (Clarity), ServiceNow, JIRA, Microsoft Project Server, etc.
 		* project management tools (JIRA, Confluence),

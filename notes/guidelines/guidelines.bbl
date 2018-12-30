@@ -698,7 +698,10 @@ Steve Haynal, Timothy Kam, Michael Kishinevsky, Emily Shriver, and Xinning
   {Pentium} case study.
 \newblock In {\em Proceedings of the $6^{th}$\ {ACM/IEEE} International
   Conference on Formal Methods and Models for Co-Design ({MEMOCODE} '08)},
-  Anaheim, {CA}, June 5--7 2008. {IEEE} Press.
+  pages 79--88, Anaheim, {CA}, June 5--7 2008. {ACM} Special Interest Group on
+  Design Automation ({SIGDA}), {ACM} Special Interest Group on Embedded Systems
+  ({SIGBED}), {IEEE} Circuits and Systems Society ({CAS}), and {IEEE} Council
+  on {EDA} ({CEDA}), {IEEE} Press.
 
 \bibitem{Hennessy2018}
 John Hennessy and David Patterson.
