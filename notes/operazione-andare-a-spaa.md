@@ -24,6 +24,7 @@ To-do list:
 + [x] **Reference machine learning libraries!!!**
 + [x] Libraries associated with NumFOCUS.
 + [ ] Store test results in a database (in *CSV* format), and manage it with a *SQL*
++ [ ] Update technologies listed in https://insights.stackoverflow.com/survey/2018/
 	- SQL database
 		* *MySQL*
 		* *PostgreSQL*
@@ -164,6 +165,24 @@ To-do list:
 		* data science technology stack (Spark, Hadoop, Docker, AWS etc.).
 		* Hands-on experience with machine learning concepts: regression and classification, clustering, feature selection, feature engineering, curse of dimensionality, bias-variance tradeoff, neural networks, SVMs, etc.
 		* Spark MLlib, Python (scikit-learn, pandas), and R
+	- List of database systems:
+		* PostgreSQL
+		* MySQL
+		* Orcale Database
+		* Microsoft SQL Server
+		* Azure
+		* Amazon Redshift
+		* SQLite
+		* IBM DB2
+		* H2
+		* Sybase
+		* Exasol
+		* Apache Derby
+		* MariaDB
+		* HyperSQL
+		* ClickHouse
+		* cassandra
+		* Reference: https://www.jetbrains.com/datagrip/
 	- References from my *BibTeX* database about this:
 		* \cite{Lutz2011}
 		* \cite{Sileika2010}
@@ -385,6 +404,13 @@ To-do list:
 + Security vulnerability identification and remediation
 	- OWASP
 + software-defined networking, SDN (i.e. OpenContrail)
++ text editors and intergrated development environments (IDEs):
+	- EmEditor
+		* https://www.emeditor.com/#download
+		* https://en.wikipedia.org/wiki/EmEditor
+	- Cloud-based text editors and IDEs
+		* https://www.editpad.org/
+		* https://www.mytextarea.com/ 
 + Other technology stacks:
 	- Go, Docker, Kafka, Elasticsearch
 	- Go, Ruby, Javascript, HTML, CSS, Ember.js, C/C++, MySQL, Libvirt, KVM, QEMU, OpenVSwitch, Chef, Ansible, Zookeeper, Kafka, Redis
