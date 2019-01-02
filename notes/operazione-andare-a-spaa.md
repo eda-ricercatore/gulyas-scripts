@@ -411,6 +411,11 @@ To-do list:
 	- Cloud-based text editors and IDEs
 		* https://www.editpad.org/
 		* https://www.mytextarea.com/
+	- Failed attempts:
+		- wisdom.ai. This has a limit of 5000 BibTeX entries.
+		- CiteULike. This has a limit of 5000 BibTeX entries.
+		- JabRef works, but it is hard to reuse keywords.
+		- BibDesk crashes, if not hangs (is not responsive), for large BibTeX databases.
 + Other technology stacks:
 	- Go, Docker, Kafka, Elasticsearch
 	- Go, Ruby, Javascript, HTML, CSS, Ember.js, C/C++, MySQL, Libvirt, KVM, QEMU, OpenVSwitch, Chef, Ansible, Zookeeper, Kafka, Redis
