@@ -504,6 +504,7 @@ To-do list:
 		* Experience with at least one data warehousing platform (Redshift, Athena, Hive, Snowflake, etc.)
 		* Knowledge of a majority of the following: Elixir, Erlang, Ruby, JavaScript, PHP, Postgresql, MySQL, Apache Solr, Elasticsearch.
 		* Knowledge of web frameworks (like Sinatra/Rails), testing frameworks (like Rspec/Minitest) and Javascript. Experience with Ruby, MySQL and Apache Solr is a plus.
+		* Experience with Java, Boost, QML, Jira, JavaScript, React, or DDP
 		* Demonstrated proficiency with Docker and container orchestration technologies (Kubernetes, ECS, etc.)
 		* Expertise with AWS services such as EC2, IAM, S3, etc.
 		* Expertise with several continuous integration technologies (Jenkins, Ansible, CloudFormation, Terraform, etc.)
