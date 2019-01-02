@@ -706,10 +706,6 @@ Fix mathematical proof for paper and implement processor subsystems.
 	- Submission deadline: January 28, 2019.
 
 
-+ SAT, International Conferences on Theory and Applications of Satisfiability Testing
-	- http://www.satisfiability.org
-	- Lisbon, Portugal.
-	- Submission deadline: Jan 2019.
 
 
 
@@ -727,10 +723,11 @@ Fix mathematical proof for paper and implement processor subsystems.
 
 
 + ICPC, International Conference on Program Comprehension
-	- https://2019.icse-conferences.org/track/icpc-2019/icpc-2019-papers
+	- https://conf.researchr.org/home/icpc-2019
+	- https://conf.researchr.org/track/icpc-2019/icpc-2019-Technical-Research
 	- https://www.program-comprehension.org
 	- Montreal, QC, Canada.
-	- Submission deadline: Jan and early Feb, 2019.
+	- Submission deadline: January 30 and February 7, 2019.
 
 
 
@@ -741,10 +738,7 @@ Fix mathematical proof for paper and implement processor subsystems.
 
 
 
-+ TABLEAUX, International Conference on Automated Reasoning with Analytic Tableaux and Related Methods
-	- http://www.tableaux-ar.org/next.html
-	- VENUE
-	- Submission deadline: Late Jan and Early Feb, 2019.
+
 
 + S&P, IEEE Symposium on Security and Privacy
 	- http://www.ieee-security.org/TC/SP2019/cfpapers.html
@@ -753,10 +747,7 @@ Fix mathematical proof for paper and implement processor subsystems.
 	- "All papers accepted by February 1st, 2019, or that are submitted as a revision by February 1st, 2019 and the revision is then accepted, will be included in the proceedings of the symposium in May, 2019 and invited to present their work. Other papers will be included in the 2020 proceedings."
 
 
-+ LCTES, ACM SIGPLAN/SIGBED Conference on Languages, Compilers, Tools and Theory for Embedded Systems
-	- URL
-	- VENUE
-	- Submission deadline: Feb 2019.
+
 
 
 
@@ -787,6 +778,13 @@ Fix mathematical proof for paper and implement processor subsystems.
 	- Submission deadline: February 7, 2019.
 
 
++ NEWCAS, IEEE Northeast Workshop on Circuits and Systems
+	- NEW Circuits and Systems Conference
+	- https://www.newcas2019.org
+	- Munich, Germany.
+	- June 23-26, 2019.
+	- Submission deadline: February 10, 2019.
+
 
 + SIGMETRICS 2019, ACM SIGMETRICS / IFIP Performance conference
 	- https://www.sigmetrics.org/sigmetrics2019/call_for_papers.html
@@ -798,10 +796,9 @@ Fix mathematical proof for paper and implement processor subsystems.
 
 
 
-+ PODC, ACM Symposium on Principles of Distributed Computing
- - http://www.podc.org
- - VENUE
- - Submission deadline: Early/Mid- Feb, 2019.
+
+
+
 
 
  + FCRC, Federated Computing Research Conference
@@ -826,6 +823,21 @@ Fix mathematical proof for paper and implement processor subsystems.
  	- August 25-30, 2019.
  	- Submission deadline: February 15 and 22, 2019.
 
++ ISVLSI 2019, IEEE Computer Society Annual Symp. on VLSI
+	- http://www.isvlsi.org
+	- http://www.eng.ucy.ac.cy/theocharides/isvlsi19/
+	- Miami, FL
+	- Submission deadline: February 17, 2019.
+
+
++ PODC, ACM Symposium on Principles of Distributed Computing
+	- http://www.podc.org
+	- Toronto, Ontario, Canada
+	- July 29 - August 2, 2019
+	- Submission deadline: February 18, 2019.
+
+
+
 
 
 + CCC, Computational Complexity Conference
@@ -837,44 +849,67 @@ Fix mathematical proof for paper and implement processor subsystems.
 	- Submission deadline: February 19 2019.
 
 
++ LCTES, ACM SIGPLAN/SIGBED Conference on Languages, Compilers, Tools and Theory for Embedded Systems
+	- https://conf.researchr.org/home/LCTES-2019
+	- Phoenix, AZ.
+	- June 22-28, 2019.
+	- Submission deadline: February 22 - March 1, 2019.
 
-
-+ NEWCAS, IEEE Northeast Workshop on Circuits and Systems
-	- NEW Circuits and Systems Conference
-	- https://www.newcas2019.org
-	- Munich, Germany
-	- Submission deadline: Feb or Mar, 2019.
-
-
-+ SAMOS, International Conference on Embedded Computer Systems: Architectures, Modeling, and Simulation
-	- URL
-	- https://samos-conference.com
-	- VENUE
-	- Submission deadline: Feb or Mar, 2019.
-
-
-+ ITC 2018, International Test Conference
-	- URL
-	- VENUE
-	- Submission deadline: Feb or Mar, 2019.
 
 + ISMM, International Symposium on Memory Management
-	- URL
-	- VENUE
-	- Submission deadline: Mid- or Late Feb, 2019.
+	- https://conf.researchr.org/home/ismm-2019
+	- https://www.sigplan.org/Conferences/ISMM/
+	- Phoenix, AZ
+	- Submission deadline: February 22, 2019.
 
-
-+ ISVLSI 2019, IEEE Computer Society Annual Symp. on VLSI
-	- http://www.isvlsi.org
-	- VENUE
-	- Submission deadline: Early March, 2019.
 
 
 
 + ISLPED 2018, International Symp. on Low Power Electronics and Design
 	- http://www.islped.org/
-	- VENUE
-	- Submission deadline: Early Mar, 2019
+	- EPFL, Lausanne, Switzerland
+	- July 29-31, 2019.
+	- Submission deadline: February 25 and March 4, 2019.
+
+
+
+
++ SAMOS, International Conference on Embedded Computer Systems: Architectures, Modeling, and Simulation
+	- https://samos-conference.com
+	- Samos Island, Greece.
+	- Submission deadline: March 1, 2019.
+
+
+
++ SAT, International Conferences on Theory and Applications of Satisfiability Testing
+	- http://sat2019.tecnico.ulisboa.pt/
+	- http://www.satisfiability.org
+	- Lisbon, Portugal.
+	- July 7-12, 2019.
+	- Submission deadline: March 1 and 8, 2019
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
++ MWSCAS, IEEE International Midwest Symposium on Circuits and Systems
+	- https://www.mwscas2019.org/
+	- Dallas, TX
+	- August 4-7, 2019.
+	- Submission deadline: March 8, 2019.
+
+
 
 
 + PATMOS 2019, International Symposium on Power and Timing Modeling, Optimization and Simulation
@@ -883,20 +918,6 @@ Fix mathematical proof for paper and implement processor subsystems.
 	- Submission deadline: Mid and Late March, 2019.
 
 
-+ ESWEEK, Embedded Systems Week
-	- https://www.esweek.org
-+ CASES, International Conference on Compilers, Architectures, and Synthesis for Embedded Systems
-	- URL
-	- VENUE
-	- Submission deadline: Late March and Early April, 2019.
-+ CODES+ISSS, International Conference on Hardware/Software Codesign and System Synthesis
-	- URL
-	- VENUE
-	- Submission deadline: Late March and Early April, 2019.
-+ EMSOFT, ACM SIGBED International Conference on Embedded Software
-	- URL
-	- VENUE
-	- Submission deadline: Late March and Early April, 2019.
 
 
 + MICRO, IEEE/ACM International Symposium on Microarchitecture
@@ -907,10 +928,37 @@ Fix mathematical proof for paper and implement processor subsystems.
 
 
 
-+ MWSCAS, IEEE International Midwest Symposium on Circuits and Systems
-	- URL
-	- VENUE
-	- Submission deadline: March or April, 2019.
+
+
+
++ ITC 2018, International Test Conference
+	- http://www.itctestweek.org/
+	- http://www.itctestweek.org/wp-content/uploads/2018/11/P211340-1_ITC_2019_Call-for-Papers_DD2-mt.pdf
+	- Washington, D.C.
+	- Submission deadline: April 4 and 11, 2019.
+
+
+
+
+
+
+
++ ESWEEK, Embedded Systems Week
+	- https://www.esweek.org
+	- New York, NY.
+	- Submission deadline: **April 5 and 12, 2019**.
++ CASES, International Conference on Compilers, Architectures, and Synthesis for Embedded Systems
++ CODES+ISSS, International Conference on Hardware/Software Codesign and System Synthesis
++ EMSOFT, ACM SIGBED International Conference on Embedded Software
++ Internet of Medical Things (IoMT) track
++ International Symposium on Networks-on-Chip (NOCS); mentioned later in greater details.
+
+
+
+
+
+
+
 
 
 
@@ -981,6 +1029,17 @@ Fix mathematical proof for paper and implement processor subsystems.
 	- http://www.pactconf.org/index.php
 	- VENUE
 	- Submission deadline: Early and Mid- Apr, 2019.
+
+
+
++ TABLEAUX, International Conference on Automated Reasoning with Analytic Tableaux and Related Methods
+	- https://tableaux2019.org/
+	- http://www.tableaux-ar.org/next.html
+	- London, U.K..
+	- September 3-5, 2019.
+	- Submission deadline: April 21-24, 2019.
+
+
 
 
 + DFT 2018, IEEE International Symposium on Defect and Fault Tolerance in VLSI and Nanotechnology Systems
