@@ -947,8 +947,8 @@ Fix mathematical proof for paper and implement processor subsystems.
 	- https://www.esweek.org
 	- New York, NY.
 	- Submission deadline: **April 5 and 12, 2019**.
-	- CASES, International Conference on Compilers, Architectures, and Synthesis for Embedded Systems
-	- CODES+ISSS, International Conference on Hardware/Software Codesign and System Synthesis
+	- **CASES, International Conference on Compilers, Architectures, and Synthesis for Embedded Systems**
+	- **CODES+ISSS, International Conference on Hardware/Software Codesign and System Synthesis**
 	- EMSOFT, ACM SIGBED International Conference on Embedded Software
 	- Internet of Medical Things (IoMT) track
 	- International Symposium on Networks-on-Chip (NOCS); mentioned later in greater details.
