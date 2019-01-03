@@ -979,8 +979,8 @@ Fix mathematical proof for paper and implement processor subsystems.
 + FOCS, Annual IEEE Symposium on Foundations of Computer Science
 	- CONFERENCE-SPECIFIC URL.
 	- http://ieee-focs.org
-	- VENUE
-	- Conference dates:
+	- Baltimore, MD
+	- Conference dates: November 9-12, 2019.
 	- Submission deadline: Early April, 2019.
 
 
@@ -1016,12 +1016,19 @@ Fix mathematical proof for paper and implement processor subsystems.
 
 
 
++ ICCAD, International Conference On Computer Aided Design
+	- https://iccad.com/
+	- Westminster, CO (i.e., Denver area of Colorado)
+	- November 4-7, 2019.
+	- Submission deadline: April 2019.
+	- **CFP would be released in mid-January, 2019.**
 
 
-
-
-
-
++ ICCD, IEEE International Conference on Computer Design
+	- https://www.iccd-conf.com/Home.html
+	- VENUE
+	- Dates
+	- Submission deadline: April/May 2019.
 
 
 
