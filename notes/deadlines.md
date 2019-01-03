@@ -927,6 +927,12 @@ Fix mathematical proof for paper and implement processor subsystems.
 	- Submission deadline: Late March and Early April, 2019.
 
 
++ SOCC 2019, IEEE International System-on-Chip Conference
+	- https://www.ieee-socc.org
+	- Singapore
+	- Submission deadline: March 30, 2019.
+
+
 
 
 
@@ -962,12 +968,6 @@ Fix mathematical proof for paper and implement processor subsystems.
 
 
 
-
-
-+ SOCC 2019, IEEE International System-on-Chip Conference
-	- https://www.ieee-socc.org
-	- Singapore
-	- Submission deadline: March 30, 2019.
 
 
 
