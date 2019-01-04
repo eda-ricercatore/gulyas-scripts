@@ -408,9 +408,33 @@ To-do list:
 	- EmEditor
 		* https://www.emeditor.com/#download
 		* https://en.wikipedia.org/wiki/EmEditor
+		* Can handle files up to 240 GB, but only runs on *Windows*.
 	- Cloud-based text editors and IDEs
 		* https://www.editpad.org/
 		* https://www.mytextarea.com/
+		* cloud9:http://c9.io/
+		* Codenvy:https://codenvy.io/
+		* Koding:http://koding.com/
+		* http://www.ideone.com/
+		* Codiva:https://www.codiva.io/
+		* https://codepanel.io/?rc=crCNA%3D%3D+
+		* [ShiftEdit](https://shiftedit.net/about)
+		* Nitrous Inc., SourceLair,
+		* [SloopEngine](https://sloopengine.io/)
+		* [codeanywhere](https://codeanywhere.com/)
+		* Eclipse Che
+		* Repl.it
+		* Tutorialspoint: Tutorialspoint.com
+		* [Pythonanywhere.com, from PythonAnywhere LLP](https://www.pythonanywhere.com/)
+		* Ideone
+		* Hackerearth
+		* Jdoodle
+		* Ultimate++
+	- For *LaTeX*:
+		* TeXstudio
+		* Texmaker
+	- Data Science:
+		* [Rodeo](https://rodeo.yhat.com/)
 	- Failed attempts:
 		- wisdom.ai. This has a limit of 5000 BibTeX entries.
 		- CiteULike. This has a limit of 5000 BibTeX entries.
