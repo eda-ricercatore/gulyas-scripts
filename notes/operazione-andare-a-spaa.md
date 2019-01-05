@@ -325,6 +325,8 @@ To-do list:
 		* Invision
 		* Adobe CC:XD
 		* Or, other wireframing/prototyping design software
+	- rapid prototyping tools (for UI/UX design):
+		* InVision
 	- serial data communication systems
 		* CAN, FlexRay, MOST, and Ethernet
 	- enterprise architecture
@@ -337,8 +339,34 @@ To-do list:
 			+ https://en.wikipedia.org/wiki/Comparison_of_project_management_software
 			+ JAXRS; JAXB; AMQP JMS; LDAP and SNMP.
 	- Java/J2EE Experience
-		- MySQL, Hibernate, JMS, Spring framework (Core, MVC, Integration)
-		- JAXRS; JAXB; AMQP JMS; LDAP and SNMP.
+		* MySQL, Hibernate, JMS, Spring framework (Core, MVC, Integration)
+		* JAXRS; JAXB; AMQP JMS; LDAP and SNMP.
+		* Java developers:
+			+ Java IDE
+			+ Git client
+			+ XML editor
+			+ Mylyn
+			+ Maven
+			+ Gradle (integration)
+		* Java EE developers:
+			+ Enterprise Java and Web applications
+			+ Java IDE
+			+ JPA
+			+ JSF
+			+ Mylyn
+			+ Maven
+			+ Git
+		* For JavaScript and Web developers
+			+ JavaScript, HTML, CSS, XML languages support, Git client, Mylyn
+		* For PHP developers
+			+ PHP language support, Git client, Mylyn,
+			+ editor with syntax highlighting for JavaScript, HTML, CSS, and XML
+		* Eclipse committers
+			+ Eclipse platform, package addition for PDE, Git, Marketplace Client, source code ...
+		* Eclipse for Rich Client Platform/Applications (RCP) and Remote Application Platform (RCP + RAP)
+			+ Eclipse plug-ins plus Maven and Gradle tooling and XML editor.
+		* Eclipse for Scout Developers
+			+ For Java/HTML5 framework, develop business applications to run on desktop, on tablets, and mobile devices.
 + machine learning and data Visual_analytics
 	- graphx
 	- [mllib](https://spark.apache.org/mllib/)
@@ -404,7 +432,7 @@ To-do list:
 + Security vulnerability identification and remediation
 	- OWASP
 + software-defined networking, SDN (i.e. OpenContrail)
-+ text editors and intergrated development environments (IDEs):
++ **text editors and intergrated development environments (IDEs)**:
 	- EmEditor
 		* https://www.emeditor.com/#download
 		* https://en.wikipedia.org/wiki/EmEditor
@@ -433,6 +461,19 @@ To-do list:
 	- For *LaTeX*:
 		* TeXstudio
 		* Texmaker
+	- For C and C++:
+		* With Mylyn integration
+	- Eclipse DSL tools
+		* Java and DSL developers: Java Xtrend IDE, DSL Framework (Xtext), Git client, XML editor, and Maven
+	- Eclipse Modeling Tools
+		* Has tools and runtimes for building model-based applications
+		* For graphically design domain-specific models
+	- Eclipse for Testers
+		* Software development quality assurance process, such as Jubula and Mylyn
+	- Eclipse for Parallel Application Developers
+		* Tools for C, C++, Fortran, and UPC including MPI, OpenMP, OpenACC, a parallel debugger, and remotely building, running, and monitoring applications.
+	- Eclipse IDE for Rust developers
+		* Rust language support, Git client, command-line integration, Mylyn, and editors.
 	- Data Science:
 		* [Rodeo](https://rodeo.yhat.com/)
 	- Failed attempts:
