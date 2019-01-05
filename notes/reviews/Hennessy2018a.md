@@ -21,8 +21,9 @@ Walter Isaacson wrote:
 + He has the humility to appreciate the opinions of others \cite[\S Forward, pp. x]{Hennessy2018a}.
 + A healthy ego does not require ignoring second-guessers and have unwavering conviction about everything, most things, or even many things. This can circumvent or mitigate the combination of ego and insecurity by being humble and confident/secure \cite[\S Forward, pp. x]{Hennessy2018a}.
 + Steve Jobs may be brash and aggresssive, but he has the humility and wisdom to "listen intently" to others and process their opinions \cite[\S Forward, pp. x]{Hennessy2018a}.
-
-
++ Being humble requires authenticity, and avoid giving "the pretense of humility" \cite[\S Forward, pp. x]{Hennessy2018a}.
+	- However, Benjamin Franklin argues that by wearing a mask of a particular virtue (or leadership skill), "we become the mask that we wear" (quote from Shakespeare's Prince Hal, which is used by Benjamin Franklin) \cite[\S Forward, pp. x]{Hennessy2018a}.
+- Humility provides the foundation for other leadership "principles"/skills, such as empathy and "leadership as service" (think servant leadership) \cite[\S Forward, pp. xi]{Hennessy2018a}.
 
 
 
