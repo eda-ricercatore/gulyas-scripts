@@ -11,4 +11,39 @@
 
 ##	To-Do List
 
-Change the publisher in my BibTeX database from "Stanford University Press" to "Stanford Business Books."
+
+
+##	Forward section
+
+Walter Isaacson wrote:
++ Walter Isaacson describes Dr. John L. Hennessy as a creative leader, who can combine wisdom with intelligence and critical/analytical reasoning \cite[\S Forward, pp. ix]{Hennessy2018a}.
++ Dr. John L. Hennessy "distill[ed] ten core concepts" "from various leadership styles" that he learned from, and present these "abstract principles[/concepts] ... with insightful stories and memorable anecdotes [to] bring them to life" \cite[\S Forward, pp. ix]{Hennessy2018a}.
++ He has the humility to appreciate the opinions of others \cite[\S Forward, pp. x]{Hennessy2018a}.
++ A healthy ego does not require ignoring second-guessers and have unwavering conviction about everything, most things, or even many things. This can circumvent or mitigate the combination of ego and insecurity by being humble and confident/secure \cite[\S Forward, pp. x]{Hennessy2018a}.
++ Steve Jobs may be brash and aggresssive, but he has the humility and wisdom to "listen intently" to others and process their opinions \cite[\S Forward, pp. x]{Hennessy2018a}.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##	Words that I learned
+
++ rectitude
+	- righteousness
+	- moral virtue
+	- integrity
++ gravitas
+	- seriousness
