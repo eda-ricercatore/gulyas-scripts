@@ -36,7 +36,11 @@ Walter Isaacson wrote:
 
 
 
+##	To-Do List
 
+Make a copy of the "Coda: Books from Which I Have Learned" chapter: pp. 159-175.
+
+Also, make a copy of the "Notes" chapter, pp. 179-180.
 
 
 
