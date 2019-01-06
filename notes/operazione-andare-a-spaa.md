@@ -502,6 +502,7 @@ To-do list:
 	- In-depth knowledge of relational databases (e.g. PostgreSQL, MySQL) and/or open source search engines (e.g. Elastic Search)
 	- Experience with queuing platforms like ActiveMQ, Google Pub/Sub, Kafka
 	- Gerkin, BDD.
+	- Experience with distributed computing platforms (e.g. Spark)
 	- Core Technical Skills that are REQUIRED: PHP 5, Javascript, JQuery, Node.js, MySQL (administration and database design/creation), Full-stack familiarity (HTML/CSS, Apache web server, Ubuntu Linux), Encoding and Decoding JSON to and from OOP, ORM, Consuming RESTful APIs, Experience with Eclipse IDE (desirable)
 	- Knowledge of source control tools (Git, CodeCommit, SVN, and TFS), build/release tools (Jenkins, CodeBuild, CodeDeploy, CodePipeline), and infrastructure as code tools (Terraform, CloudFormation)
 	- Strong grasp of Configuration Management (Chef, Puppet, Ansible, Salt Stack)
