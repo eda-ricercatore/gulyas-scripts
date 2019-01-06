@@ -516,6 +516,19 @@ To-do list:
 	- tech stack
 		* Jira, Confluence, DevOps, Continuous Integration and Continuous Delivery, Microsoft Development Tools
 		* Git, MS Build, Team Foundation Server, Jenkins, Unit Testing, Powershell, Perl, C#, .NET, Visual Studio, Python
+	- tech stack:
+		* Excellent skills in creating high-fidelity prototypes using Invision, Principle, Code or similar
+		* Relevant experience in agile methodologies (Scrum, Agile, etc) and PM tools (e.g. Jira, Pivotal Tracker, Confluence etc.)
+		* Experience with relational (e.g. MySQL, PostgreSQL) and NoSQL (e.g. MongoDB, ElasticSearch) databases
+	- tech stack:
+		* Experience with NoSQL databases. MongoDB is a plus
+		* Experience with real-time and streaming data processing
+		* Experience with queuing platforms like Kafka
+		* Knowledge of BigQuery
+		* Familiarity with GCP/AWS cloud services
+		* Familiarity with TensorFlow
+		* Comfortable with CI/CD Pipelines
+		* Experience with Git version control
 	- tech stack
 		* ReactJS
 		* GraphQL
