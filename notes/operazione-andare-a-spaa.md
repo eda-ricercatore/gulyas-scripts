@@ -497,8 +497,13 @@ To-do list:
 	- Docker, cluster schedulers (Mesos/Kubernetes/Swarm)
 	- ELK, Queuing and monitoring infra
 	- security, AWS, Chef, Git, Jira, Docker, Jenkins, TDD, and Continuous Integration CI/CD.
+	- Knowledge of BigQuery and GraphQL
+	- Experience using system monitoring tools (e.g. New Relic) and automated testing frameworks
+	- Experience with queuing platforms like ActiveMQ, Google Pub/Sub, Kafka
 	- Gerkin, BDD.
 	- Core Technical Skills that are REQUIRED: PHP 5, Javascript, JQuery, Node.js, MySQL (administration and database design/creation), Full-stack familiarity (HTML/CSS, Apache web server, Ubuntu Linux), Encoding and Decoding JSON to and from OOP, ORM, Consuming RESTful APIs, Experience with Eclipse IDE (desirable)
+	- Knowledge of source control tools (Git, CodeCommit, SVN, and TFS), build/release tools (Jenkins, CodeBuild, CodeDeploy, CodePipeline), and infrastructure as code tools (Terraform, CloudFormation)
+	- Strong grasp of Configuration Management (Chef, Puppet, Ansible, Salt Stack)
 	- stress testing (locust.io)
 	- designing high availability systems
 	- application security hardening
@@ -521,6 +526,12 @@ To-do list:
 		* Relevant experience in agile methodologies (Scrum, Agile, etc) and PM tools (e.g. Jira, Pivotal Tracker, Confluence etc.)
 		* Experience with relational (e.g. MySQL, PostgreSQL) and NoSQL (e.g. MongoDB, ElasticSearch) databases
 	- tech stack:
+		* Expertise in Go preferred, but not required. If you’re new to Go, then proficiency in a mainstream language such as Java, Python, C++, Scala, etc.., and a willingness to learn Go required.
+		* You've got experience writing, deploying and monitoring microservices.
+		* Working knowledge of SQL and relational databases(we use Postgres)
+		* You've used an RPC framework like gRPC or Thrift.
+		* You have high level experience working in a containerized infrastructure deployed in the cloud(AWS, GCP, Azure)
+	- tech stack:
 		* Experience with NoSQL databases. MongoDB is a plus
 		* Experience with real-time and streaming data processing
 		* Experience with queuing platforms like Kafka
@@ -529,7 +540,22 @@ To-do list:
 		* Familiarity with TensorFlow
 		* Comfortable with CI/CD Pipelines
 		* Experience with Git version control
-	- tech stack
+	- tech stack:
+		* Ability to configure and maintain webservers (e.g. apache & nginx), DNS servers, Firewalls, LDAP servers, Tomcat servers
+		* Ability to back up the Data infrastructure
+		* Ability to manage/configure  Git, Maven and Jenkins
+		* Managing QA/production release and deployment
+		* Ability to Install/Configure/Manage VM servers using OpenStack
+		* Ability to install configure or manage Monitoring servers using Opensource softwares
+		* Experience with Amazon Web Services:
+		* autoscaling, & use of Netflix Asgard
+		* ELB management,
+		* EBS storage management
+		* S3
+		* RDS
+		* Manage configuration using Puppet
+		* Familiar with Cloud Computing in genera
+	- tech stack:
 		* ReactJS
 		* GraphQL
 		* Apollo Client & Server
