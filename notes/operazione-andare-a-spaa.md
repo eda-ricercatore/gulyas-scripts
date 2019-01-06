@@ -499,6 +499,7 @@ To-do list:
 	- security, AWS, Chef, Git, Jira, Docker, Jenkins, TDD, and Continuous Integration CI/CD.
 	- Knowledge of BigQuery and GraphQL
 	- Experience using system monitoring tools (e.g. New Relic) and automated testing frameworks
+	- In-depth knowledge of relational databases (e.g. PostgreSQL, MySQL) and/or open source search engines (e.g. Elastic Search)
 	- Experience with queuing platforms like ActiveMQ, Google Pub/Sub, Kafka
 	- Gerkin, BDD.
 	- Core Technical Skills that are REQUIRED: PHP 5, Javascript, JQuery, Node.js, MySQL (administration and database design/creation), Full-stack familiarity (HTML/CSS, Apache web server, Ubuntu Linux), Encoding and Decoding JSON to and from OOP, ORM, Consuming RESTful APIs, Experience with Eclipse IDE (desirable)
