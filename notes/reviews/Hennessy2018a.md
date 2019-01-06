@@ -23,10 +23,11 @@ Walter Isaacson wrote:
 + Steve Jobs may be brash and aggresssive, but he has the humility and wisdom to "listen intently" to others and process their opinions \cite[\S Forward, pp. x]{Hennessy2018a}.
 + Being humble requires authenticity, and avoid giving "the pretense of humility" \cite[\S Forward, pp. x]{Hennessy2018a}.
 	- However, Benjamin Franklin argues that by wearing a mask of a particular virtue (or leadership skill), "we become the mask that we wear" (quote from Shakespeare's Prince Hal, which is used by Benjamin Franklin) \cite[\S Forward, pp. x]{Hennessy2018a}.
-- Humility provides the foundation for other leadership "principles"/skills, such as empathy and "leadership as service" (think servant leadership) \cite[\S Forward, pp. xi]{Hennessy2018a}.
-
-
-
++ Humility provides the foundation for other leadership "principles"/skills, such as empathy, "leadership as service" (think servant leadership), and collaboration \cite[\S Forward, pp. xi]{Hennessy2018a}.
+	- Being humble helps us to "listen to [others], find common ground," and collaborate \cite[\S Forward, pp. xi]{Hennessy2018a}.
+	- Collaborative teams have been more productive than singular inventors \cite[\S Forward, pp. xi]{Hennessy2018a}.
++ Storytelling is an important leadership skill \cite[\S Forward, pp. xi]{Hennessy2018a}.
++ "Leadership is about creating a narrative," and storytelling enables a leader to shape the narrative \cite[\S Forward, pp. xii]{Hennessy2018a}.
 
 
 

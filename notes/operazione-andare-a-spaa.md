@@ -512,6 +512,10 @@ To-do list:
 	- Python, Gherkin, Cucumber, Espresso, XUI Test
 	- Experience with testing technologies (JUnit, Espresso, Mockito, Robolectric)
 	- Experience with distributed messages systems ( Apache Kafka)
+	- Experience in CFD combustion or other reacting-flow simulations.
+	- tech stack
+		* Jira, Confluence, DevOps, Continuous Integration and Continuous Delivery, Microsoft Development Tools
+		* Git, MS Build, Team Foundation Server, Jenkins, Unit Testing, Powershell, Perl, C#, .NET, Visual Studio, Python
 	- tech stack
 		* ReactJS
 		* GraphQL
