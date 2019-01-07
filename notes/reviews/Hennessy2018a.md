@@ -29,6 +29,31 @@ Walter Isaacson wrote:
 + Storytelling is an important leadership skill \cite[\S Forward, pp. xi]{Hennessy2018a}.
 + "Leadership is about creating a narrative," and storytelling enables a leader to shape the narrative \cite[\S Forward, pp. xii]{Hennessy2018a}.
 
+##	Introduction section
+
++ "I hoped that I could succeed, if I approached the job with humility about my own skills, a scientist's respect for the facts, and a stellar team." - Dr. John L. Hennessy \cite[\S Introduction, pp. 4]{Hennessy2018a}.
++ Dr. John L. Hennessy classifies aspects of effective leadership into the following categories: fundamental principles of good leadership (e.g., humility, authenticity, service, and empathy), steadfastness to hold on to these principles, a methodology for institutional transformation (by using courage and the aforementioned fundamental principles), and a methodology for transformational change (i.e., taking a great institution to new heights) \cite[\S Introduction, pp. 6]{Hennessy2018a}.
++ Build a determined team around a compelling vision of change for an old institution, and take actions to ensure that the transformation has lasting impact \cite[\S Introduction, pp. 7]{Hennessy2018a}.
++ Leaders of organizations should focus on the well-being of organizations/governments/countries that they serve in, and the well-being of their members/employees/students and customers/clients/citizens \cite[\S Introduction, pp. 7]{Hennessy2018a}.
++ There is a knowledge gap regarding how to lead organizations through necessary transformations \cite[\S Introduction, pp. 7]{Hennessy2018a}.
++ "Our world is changing at an ever-increasing pace" - Dr. John L. Hennessy \cite[\S Introduction, pp. 7]{Hennessy2018a}.
+	- Hence, organizations [and individuals] have to renew themselves with respect to changes and megatrends and macro-trends \cite[\S Introduction, pp. 7]{Hennessy2018a}.
++ Prepare future, emerging, and junior leaders to address "the changing nature of leadership in the twenty-first century" \cite[\S Introduction, pp. 8]{Hennessy2018a}.
+
+
+
+##	Chapter 1, Humility
+
+"It is unwise to be too sure of one's own wisdom. It is healthy to be reminded that the strongest might weaken and the wisest might err."
+\- [Mohandas Karamchand Gandhi, Mahatma Gandhi](https://www.goodreads.com/quotes/4794-it-is-unwise-to-be-too-sure-of-one-s-own)
+
+
++
+\cite[\S1 Humility: The Basis for Effective Leadership, pp. 9]{Hennessy2018a}.
+
+
+
+
 
 
 

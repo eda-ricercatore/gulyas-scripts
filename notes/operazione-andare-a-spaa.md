@@ -503,6 +503,11 @@ To-do list:
 	- Experience with queuing platforms like ActiveMQ, Google Pub/Sub, Kafka
 	- Gerkin, BDD.
 	- Experience with distributed computing platforms (e.g. Spark)
+	- Familiarity with Agile project management tools and practices such as Jira, Confluence, Trello.
+	- Familiarity with modern data engineering ecosystem and relevant practices: Elastic Search, Graph databases, ETL/ELT, etc.
+	- Familiarity with React/Redux frameworks is a plus.
+	- Prototyping abilities with InVision / Axure / Flinto
+	- Knowledgeable with industry standard authentication protocols such SAML SSO and OAuth2
 	- Core Technical Skills that are REQUIRED: PHP 5, Javascript, JQuery, Node.js, MySQL (administration and database design/creation), Full-stack familiarity (HTML/CSS, Apache web server, Ubuntu Linux), Encoding and Decoding JSON to and from OOP, ORM, Consuming RESTful APIs, Experience with Eclipse IDE (desirable)
 	- Knowledge of source control tools (Git, CodeCommit, SVN, and TFS), build/release tools (Jenkins, CodeBuild, CodeDeploy, CodePipeline), and infrastructure as code tools (Terraform, CloudFormation)
 	- Strong grasp of Configuration Management (Chef, Puppet, Ansible, Salt Stack)
