@@ -48,7 +48,9 @@ Walter Isaacson wrote:
 + Confidence arises from humility, rather than from ego \cite[\S1 Humility: The Basis for Effective Leadership, pp. 9]{Hennessy2018a}.
 	- Avoid wearing a mask of confidence, phony bravado, or misplaced confidence \cite[\S1 Humility: The Basis for Effective Leadership, pp. 9]{Hennessy2018a}.
 	- **"Arrogance sees only our strengths, ignores our weaknesses, and overlooks the strengths of others, therefore leaving us vulnerable to catastrophic mistakes. Humility shows us where our weaknesses lie so we can compensate for them. Humility makes us earn our confidence" \cite[\S1 Humility: The Basis for Effective Leadership, pp. 9]{Hennessy2018a}.**
-
++ Provide career-enabling educational opportunities for my descendants \cite[\S1 Humility: The Basis for Effective Leadership, pp. 9]{Hennessy2018a}.
++ "It is likely there are students who know more about almost any subject than you do." \cite[\S1 Humility: The Basis for Effective Leadership, pp. 9]{Hennessy2018a}.
++ Leaders need the expertise and assistance of their team members to succeed; hence, **"start by admitting what [I] don't know, learn what [my] team members know, and humbly asking for their support"** \cite[\S1 Humility: The Basis for Effective Leadership, pp. 9]{Hennessy2018a}.
 
 
 
