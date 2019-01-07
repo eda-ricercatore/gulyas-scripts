@@ -44,6 +44,7 @@ Walter Isaacson wrote:
 ##	Chapter 1, Humility
 
 "It is unwise to be too sure of one's own wisdom. It is healthy to be reminded that the strongest might weaken and the wisest might err."
+
 \- [Mohandas Karamchand Gandhi, Mahatma Gandhi](https://www.goodreads.com/quotes/4794-it-is-unwise-to-be-too-sure-of-one-s-own)
 
 
