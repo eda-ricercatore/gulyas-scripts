@@ -9,7 +9,6 @@
 	Title = {Leading Matters: Lessons from My Journey},
 	Year = {2018}}
 
-##	To-Do List
 
 
 
