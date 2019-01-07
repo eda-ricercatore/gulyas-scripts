@@ -45,10 +45,9 @@ Walter Isaacson wrote:
 
 "It is unwise to be too sure of one's own wisdom. It is healthy to be reminded that the strongest might weaken and the wisest might err."
 \- [Mohandas Karamchand Gandhi, Mahatma Gandhi](https://www.goodreads.com/quotes/4794-it-is-unwise-to-be-too-sure-of-one-s-own)
-
-
-+
-\cite[\S1 Humility: The Basis for Effective Leadership, pp. 9]{Hennessy2018a}.
++ Confidence arises from humility, rather than from ego \cite[\S1 Humility: The Basis for Effective Leadership, pp. 9]{Hennessy2018a}.
+	- Avoid wearing a mask of confidence, phony bravado, or misplaced confidence \cite[\S1 Humility: The Basis for Effective Leadership, pp. 9]{Hennessy2018a}.
+	- **"Arrogance sees only our strengths, ignores our weaknesses, and overlooks the strengths of others, therefore leaving us vulnerable to catastrophic mistakes. Humility shows us where our weaknesses lie so we can compensate for them. Humility makes us earn our confidence" \cite[\S1 Humility: The Basis for Effective Leadership, pp. 9]{Hennessy2018a}.**
 
 
 
