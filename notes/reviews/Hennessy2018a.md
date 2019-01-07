@@ -48,13 +48,14 @@ Walter Isaacson wrote:
 + Confidence arises from humility, rather than from ego \cite[\S1 Humility: The Basis for Effective Leadership, pp. 9]{Hennessy2018a}.
 	- Avoid wearing a mask of confidence, phony bravado, or misplaced confidence \cite[\S1 Humility: The Basis for Effective Leadership, pp. 9]{Hennessy2018a}.
 	- **"Arrogance sees only our strengths, ignores our weaknesses, and overlooks the strengths of others, therefore leaving us vulnerable to catastrophic mistakes. Humility shows us where our weaknesses lie so we can compensate for them. Humility makes us earn our confidence" \cite[\S1 Humility: The Basis for Effective Leadership, pp. 9]{Hennessy2018a}.**
-+ Provide career-enabling educational opportunities for my descendants \cite[\S1 Humility: The Basis for Effective Leadership, pp. 9]{Hennessy2018a}.
-+ "It is likely there are students who know more about almost any subject than you do." \cite[\S1 Humility: The Basis for Effective Leadership, pp. 9]{Hennessy2018a}.
-+ Leaders need the expertise and assistance of their team members to succeed; hence, **"start by admitting what [I] don't know, learn what [my] team members know, and humbly asking for their support"** \cite[\S1 Humility: The Basis for Effective Leadership, pp. 9]{Hennessy2018a}.
-
-
-
-
++ Provide career-enabling educational opportunities for my descendants \cite[\S1 Humility: The Basis for Effective Leadership, pp. 10]{Hennessy2018a}.
++ "It is likely there are students who know more about almost any subject than you do." \cite[\S1 Humility: The Basis for Effective Leadership, pp. 10]{Hennessy2018a}.
++ Leaders need the expertise and assistance of their team members to succeed; hence, **"start by admitting what [I] don't know, learn what [my] team members know, and humbly asking for their support"** \cite[\S1 Humility: The Basis for Effective Leadership, pp. 10]{Hennessy2018a}.
++ "For my part, as university president, I understood I was merely a tool for these operations, not the engine itself" \cite[\S1 Humility: The Basis for Effective Leadership, pp. 11]{Hennessy2018a}.
++ Be humble and honest in admitting my mistakes, and rally the team for the future \cite[\S1 Humility: The Basis for Effective Leadership, pp. 17]{Hennessy2018a}.
++ Develop the practice of an artful, directed humility focused on self-deprivation, just as I would develop practices of courage and decisiveness. It also involves allowing others to announce my accomplishments, "realizing and openly admitting that my understanding may not be [correct/]right", "willingly soliciting [help/]assistance [when I] know [I] need help," "taking opportunities to learn from [my] mistakes," and "stepping up to [challenging] moments" that help me grow. Such humility does not imply "a lack of ambition". Here, ambition refers to community-centric ambition that makes a difference and an impact on the institution and communities that I serve, as opposed to selfish ambition that primarily benefits only me (or my loved ones and myself). Hence, the only possibility to be ambitious and humble is to have selfless ambition that benefits others \cite[\S1 Humility: The Basis for Effective Leadership, pp. 18]{Hennessy2018a}.
++ Select people based on their "ability to grow on the job" \cite[\S1 Humility: The Basis for Effective Leadership, pp. 19]{Hennessy2018a}.
+	- When selecting
 
 
 
@@ -70,11 +71,14 @@ Also, make a copy of the "Notes" chapter, pp. 179-180.
 
 
 
-##	Words that I learned
+##	Words and phrases that I learned
 
++ do the heavy lifting for projects
++ fieldwork
++ gravitas
+	- seriousness
 + rectitude
 	- righteousness
 	- moral virtue
 	- integrity
-+ gravitas
-	- seriousness
++ step up to the moment
