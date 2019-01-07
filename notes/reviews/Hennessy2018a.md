@@ -55,7 +55,10 @@ Walter Isaacson wrote:
 + Be humble and honest in admitting my mistakes, and rally the team for the future \cite[\S1 Humility: The Basis for Effective Leadership, pp. 17]{Hennessy2018a}.
 + Develop the practice of an artful, directed humility focused on self-deprivation, just as I would develop practices of courage and decisiveness. It also involves allowing others to announce my accomplishments, "realizing and openly admitting that my understanding may not be [correct/]right", "willingly soliciting [help/]assistance [when I] know [I] need help," "taking opportunities to learn from [my] mistakes," and "stepping up to [challenging] moments" that help me grow. Such humility does not imply "a lack of ambition". Here, ambition refers to community-centric ambition that makes a difference and an impact on the institution and communities that I serve, as opposed to selfish ambition that primarily benefits only me (or my loved ones and myself). Hence, the only possibility to be ambitious and humble is to have selfless ambition that benefits others \cite[\S1 Humility: The Basis for Effective Leadership, pp. 18]{Hennessy2018a}.
 + Select people based on their "ability to grow on the job" \cite[\S1 Humility: The Basis for Effective Leadership, pp. 19]{Hennessy2018a}.
-	- When selecting
+	- When you work with people who can "grow on the job," attempt to calibrate their ability to "grow on the job" and measure their ability to "grow on the job" \cite[\S1 Humility: The Basis for Effective Leadership, pp. 19]{Hennessy2018a}.
+	- When hiring people or selecting a replacement for someone, use a person's ability to "grow on the job" as the centerpiece of the search/replacement process \cite[\S1 Humility: The Basis for Effective Leadership, pp. 19]{Hennessy2018a}.
+	- If you can access the humility of a person, you can gauge their ability to learn on the job. This is because that person can acknowledge that they have much to learn, that other people are better than them "at certain things," "and that the ideas of many people are almost always better informed than the opinion of one. Consequently, humility can lead to dedication towards "learning how to be better at what [we] do" \cite[\S1 Humility: The Basis for Effective Leadership, pp. 19]{Hennessy2018a}.
+	- 
 
 
 
