@@ -87,6 +87,19 @@ Walter Isaacson wrote:
 + "Even if we're acting for the greater good, sharing a difficult truth can be painful, especially when the truth will hurt people we care about" \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 24]{Hennessy2018a}.
 + Be brutally honest, like Steve Jobs, even when it hurts my social well-being (in terms of being like) \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 24]{Hennessy2018a}.
 + "*While giving the people-pleasing answer might feel good in the moment, the consequences will haunt the organization for a long time.*  Better to **follow the path of authenticity**: **understand the overall mission and direction** - put your feet in the right place - **and make the tough calls** - stand firm" \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 25]{Hennessy2018a}.
++ Pick up the responsibility to "deliver bad news", rather than "hiding from [deliver] bad news" or "passing [the] responsibility to others" \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 25]{Hennessy2018a}.
+	- Do so promptly, "balance [my] empathy and humane tendencies [with] the requirements of [my] job ([being] authentic and honest)" \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 25]{Hennessy2018a}.
+	- Challenges and challenging times provide me with opportunities "to live up to the authentic ideals [that I] have chosen for" myself, "to act as the leader [that I] strive to be," even when doing so makes me uncomfortable or takes me through a painful process \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 25-26]{Hennessy2018a}.
+	- As I "grow into the leader that [I] aspire to be," I do so "one [painful or] uncomfortable moment at a time" \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 26]{Hennessy2018a}.
++ Ask myself if my constituents perceive me to be consistent, truthful, trustworthy, and authentic \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 26]{Hennessy2018a}.
+	- This question matters especially if I am asking people to follow me in a particular direction for the greater good (or well-being) of the institution (or the larger community at heart), and the welfare of those people, especially if that direction is not "an ideal fit for their own ambitions and plans" \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 26]{Hennessy2018a}.
+		* If the direction is not for the well-being of the community/institution, they will not get behind me \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 26]{Hennessy2018a}.
++ **"Leading any complex institution is a marathon, not a sprint. You need to think in the long term"** \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 26]{Hennessy2018a}.
+	- Build trust with your constituents with long-term thinking, so that when I have to make touch decisions, they would not doubt that I would avoid short-term thinking only. Else, my effectiveness as a leader would be undermined \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 26]{Hennessy2018a}.
++ Organizations, such as universities and corporations, have internal constituents (e.g., employees) and external constituents (shareholders, alumni, donors, students/parents, research funders, board of trustees, and board of directors) \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 27]{Hennessy2018a}.
++ A united team does not imply that the team would always have an unanimous agreement on everything (or every issue). It implies that the team would "back the leadership 100 percent, even when the circumstances shifted slightly and we adjusted course" \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 27]{Hennessy2018a}.
+	- When the leadership and the important constituents are fully committed at the start, even when individuals have doubts and uncertainties, so that they can act collaboratively, share ideas and vision prior to them being fully shaped \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 27]{Hennessy2018a}.
+
 
 
 
@@ -112,7 +125,8 @@ Also, make a copy of the "Notes" chapter, pp. 179-180.
 ##	Words and phrases that I learned
 
 
-
++ approximately parallel
+	- They are approximately parallels of each other.
 + assiduously
 + atavistic
 + do the heavy lifting for projects
@@ -125,3 +139,5 @@ Also, make a copy of the "Notes" chapter, pp. 179-180.
 	- moral virtue
 	- integrity
 + step up to the moment
++ "true scoop"
+	- resolve to give people the true scoop on that situation
