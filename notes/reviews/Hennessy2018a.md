@@ -58,10 +58,20 @@ Walter Isaacson wrote:
 	- When you work with people who can "grow on the job," attempt to calibrate their ability to "grow on the job" and measure their ability to "grow on the job" \cite[\S1 Humility: The Basis for Effective Leadership, pp. 19]{Hennessy2018a}.
 	- When hiring people or selecting a replacement for someone, use a person's ability to "grow on the job" as the centerpiece of the search/replacement process \cite[\S1 Humility: The Basis for Effective Leadership, pp. 19]{Hennessy2018a}.
 	- If you can access the humility of a person, you can gauge their ability to learn on the job. This is because that person can acknowledge that they have much to learn, that other people are better than them "at certain things," "and that the ideas of many people are almost always better informed than the opinion of one. Consequently, humility can lead to dedication towards "learning how to be better at what [we] do" \cite[\S1 Humility: The Basis for Effective Leadership, pp. 19]{Hennessy2018a}.
-	- 
+	- Endeavor to be a humility-centered leader, and change the leadership role accordingly \cite[\S1 Humility: The Basis for Effective Leadership, pp. 19]{Hennessy2018a}.
++ In start-up environments, little mistakes can prove to be fatal to the the start-ups \cite[\S1 Humility: The Basis for Effective Leadership, pp. 19]{Hennessy2018a}.
+	- Hence, leaders in start-up environments have to lead by becoming the equals of the start-up employees. These leaders should "[devote/commit/]dedicate [themselves] to helping [their employees] do better" \cite[\S1 Humility: The Basis for Effective Leadership, pp. 19]{Hennessy2018a}.
+	- "Perhaps the most important instances when you need to practice humility are when you have made the wrong decision. Mistakes happen to every leader, and it's better to accept them, to have the courage to admit the mistakes, and to decide how to move on" ... "The process is not necessarily pleasant, but it is a lot easier if you are humble" \cite[\S1 Humility: The Basis for Effective Leadership, pp. 20]{Hennessy2018a}.
 
 
 
+
+##	Chapter 2, Authenticity and Trust: The Essential Ingredients for Effective Leadership
+
+
++ "Maintaining one's integrity is often presented as the greatest challenges faced by adults in their professional and private lives" \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 21]{Hennessy2018a}.
++ Become an embodiment of integrity, trustworthiness, and honor \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 21]{Hennessy2018a}.
++ "When we talk about integrity, when we tell our children, `Don't lie, don't steal, don't cheat, and follow the rules, even when no one is looking,' we are guiding them towards behaviors that tens of millions of people practice every day" \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 21]{Hennessy2018a}.
 
 
 
