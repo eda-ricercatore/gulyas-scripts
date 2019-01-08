@@ -3,11 +3,11 @@
 ##	BibTeX Entry
 
 	@book{Hennessy2018a,
-	Address = {Stanford, {CA}},
-	Author = {John L. Hennessy},
-	Publisher = {Stanford Business Books},
-	Title = {Leading Matters: Lessons from My Journey},
-	Year = {2018}}
+		Address = {Stanford, {CA}},
+		Author = {John L. Hennessy},
+		Publisher = {Stanford Business Books},
+		Title = {Leading Matters: Lessons from My Journey},
+		Year = {2018}}
 
 
 
