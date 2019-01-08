@@ -79,6 +79,18 @@ Walter Isaacson wrote:
 + Learn how to "improve [myself so that I can] become all that [I] can be", so that I can avoid animalistic tendencies to "win by any means or at all costs" \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 22]{Hennessy2018a}.
 + Beware of buzzword forms of "authentic leadership" \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 22]{Hennessy2018a}.
 + "Endeavor to be what [I] desire to" be, so that other people can see that in me (and improves my reputation - and how I appear to them) \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 23]{Hennessy2018a}.
++ "Identify good and true characteristics [that I admire], and work to embody them" \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 23]{Hennessy2018a}.
++ Endeavor to practice the following: "identify the virtues you admire, strive to embody them, and be humble about the journey" (since I probably don't embody them on a consistent basis) \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 23]{Hennessy2018a}.
++ Think about the following questions as a leader: "what path [do I want] to follow in my [life/]career, and what position to take on issues that split the community I [am] leading \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 23]{Hennessy2018a}.
++ When people try to sway my stance on an issue, articulate the rationale (leading to my decision to take that stance) to myself and others/them \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 23]{Hennessy2018a}.
++ It is hard to speak the difficult truth on the side of the minority when there are huge consequences ("sharing unfortunate news or risking rejection, humiliation, [risk of] bodily injury, and large-scale social ostracism") and risky rewards \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 23-24]{Hennessy2018a}.
++ "Even if we're acting for the greater good, sharing a difficult truth can be painful, especially when the truth will hurt people we care about" \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 24]{Hennessy2018a}.
++ Be brutally honest, like Steve Jobs, even when it hurts my social well-being (in terms of being like) \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 24]{Hennessy2018a}.
++ "*While giving the people-pleasing answer might feel good in the moment, the consequences will haunt the organization for a long time.*  Better to **follow the path of authenticity**: **understand the overall mission and direction** - put your feet in the right place - **and make the tough calls** - stand firm" \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 25]{Hennessy2018a}.
+
+
+
+
 
 
 
@@ -101,12 +113,13 @@ Also, make a copy of the "Notes" chapter, pp. 179-180.
 
 
 
-
++ assiduously
 + atavistic
 + do the heavy lifting for projects
 + fieldwork
 + gravitas
 	- seriousness
++ impetuousness
 + rectitude
 	- righteousness
 	- moral virtue
