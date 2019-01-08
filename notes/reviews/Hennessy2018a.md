@@ -99,8 +99,8 @@ Walter Isaacson wrote:
 + Organizations, such as universities and corporations, have internal constituents (e.g., employees) and external constituents (shareholders, alumni, donors, students/parents, research funders, board of trustees, and board of directors) \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 27]{Hennessy2018a}.
 + A united team does not imply that the team would always have an unanimous agreement on everything (or every issue). It implies that the team would "back the leadership 100 percent, even when the circumstances shifted slightly and we adjusted course" \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 27]{Hennessy2018a}.
 	- When the leadership and the important constituents are fully committed at the start, even when individuals have doubts and uncertainties, so that they can act collaboratively, share ideas and vision prior to them being fully shaped \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 27]{Hennessy2018a}.
-
-
++ "Although the board may ask tough questions and challenge the leadership, once a decision is made, the board and leadership team are joined" \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 28]{Hennessy2018a}.
++ "Develop a trust relationship [with constituents] by being available, open to questions, and candid in my responses" \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 28]{Hennessy2018a}.
 
 
 
@@ -131,6 +131,9 @@ Also, make a copy of the "Notes" chapter, pp. 179-180.
 + atavistic
 + do the heavy lifting for projects
 + fieldwork
++ from XYZ to ABC, from QWERTY to ZXCVB
+	- they asked about from XYZ to ABC, from QWERTY to ZXCVB.
+	- from A to B to C to D to E such as F, G, and/or H.
 + gravitas
 	- seriousness
 + impetuousness
