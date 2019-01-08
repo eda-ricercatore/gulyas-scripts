@@ -101,12 +101,12 @@ Walter Isaacson wrote:
 	- When the leadership and the important constituents are fully committed at the start, even when individuals have doubts and uncertainties, so that they can act collaboratively, share ideas and vision prior to them being fully shaped \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 27]{Hennessy2018a}.
 + "Although the board may ask tough questions and challenge the leadership, once a decision is made, the board and leadership team are joined" \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 28]{Hennessy2018a}.
 + "Develop a trust relationship [with constituents] by being available, open to questions, and candid in my responses" \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 28]{Hennessy2018a}.
-
-
-
-
-
-
++ "Demonstrate [to people] that rational decision making [is] my modus operandi" \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 29]{Hennessy2018a}.
++ Let the insights that I share with my constituents "form the basis of a trust relationship going forward" \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 29]{Hennessy2018a}.
++ Be open and trustworthy with my constituents \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 29]{Hennessy2018a}.
++ Help my "corporation develop trust relationships with [its] customers," and avoid misleading (or deceiving) them "about product capabilities, availability, or reliability". Else, it would "lose customers and damage their reputations, making it harder to recover by replacing the lost customers" \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 29]{Hennessy2018a}.
++ A corporation must "[go] beyond the more minimal standard of honesty demanded by the Sarbanes-Oxley Act. Do the shareholders believe that the management team is assessing its challenges and opportunities?"
+\cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 30]{Hennessy2018a}.
 
 
 
