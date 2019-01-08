@@ -72,6 +72,19 @@ Walter Isaacson wrote:
 + "Maintaining one's integrity is often presented as the greatest challenges faced by adults in their professional and private lives" \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 21]{Hennessy2018a}.
 + Become an embodiment of integrity, trustworthiness, and honor \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 21]{Hennessy2018a}.
 + "When we talk about integrity, when we tell our children, `Don't lie, don't steal, don't cheat, and follow the rules, even when no one is looking,' we are guiding them towards behaviors that tens of millions of people practice every day" \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 21]{Hennessy2018a}.
++ **"Far more difficult to practice every day, especially as an adult, is authenticity, the practice of speaking honestly and being true not just to ourselves, but to others, to our communities, to the rest of humanity, even when being honest may subject us to criticism or lead to discord"** \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 21]{Hennessy2018a}.
++ Endeavor to authentically exhibit integrity in my interactions with others \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 22]{Hennessy2018a}.
++ "Authenticity, a nuanced and multidimensional characteristic, is essential to building trust and therefore to successful leadership" \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 22]{Hennessy2018a}.
++ Decide where to stand on issues, and stand firm in my convictions with courage \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 22]{Hennessy2018a}.
++ Learn how to "improve [myself so that I can] become all that [I] can be", so that I can avoid animalistic tendencies to "win by any means or at all costs" \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 22]{Hennessy2018a}.
++ Beware of buzzword forms of "authentic leadership" \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 22]{Hennessy2018a}.
++ "Endeavor to be what [I] desire to" be, so that other people can see that in me (and improves my reputation - and how I appear to them) \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 23]{Hennessy2018a}.
+
+
+
+
+
+
 
 
 
@@ -86,6 +99,10 @@ Also, make a copy of the "Notes" chapter, pp. 179-180.
 
 ##	Words and phrases that I learned
 
+
+
+
++ atavistic
 + do the heavy lifting for projects
 + fieldwork
 + gravitas
