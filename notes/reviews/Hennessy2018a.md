@@ -197,9 +197,10 @@ Walter Isaacson wrote:
 	- "When empathy contravenes fairness" \cite[\S4 Empathy: How It Shapes a Leader and an Institution, pp. 58]{Hennessy2018a}.
 + "Act upon [empathy] with fairness and reason" \cite[\S4 Empathy: How It Shapes a Leader and an Institution, pp. 58]{Hennessy2018a}.
 + Express the qualities of "empathy and fairness" "in all areas of your leadership." Prioritize the health and family of my team members before their work, and have the team pick up the slack \cite[\S4 Empathy: How It Shapes a Leader and an Institution, pp. 59]{Hennessy2018a}.
-
-
-
++ "Taking compensation for a job that one is not fulfilling is not fair to the university. Leaving others on the team to take up the slack isn't fair either. Nor is it healthy for team morale when one person doesn't contribute equally" \cite[\S4 Empathy: How It Shapes a Leader and an Institution, pp. 59]{Hennessy2018a}.
+	- Don't wait too long to tell the offending person that they are slacking, "especially when some aspects of their work are exceptional" \cite[\S4 Empathy: How It Shapes a Leader and an Institution, pp. 59]{Hennessy2018a}. "In the name of fairness, though, it's necessary. Still, I tried to communicate the difficult message clearly and with empathy" \cite[\S4 Empathy: How It Shapes a Leader and an Institution, pp. 59-60]{Hennessy2018a}.
+	- "If an employee acts out egregiously, intentionally bringing harm to others or to the institution, in my mind that employee has already fired him or herself" \cite[\S4 Empathy: How It Shapes a Leader and an Institution, pp. 60]{Hennessy2018a}.
++ "Software is much more scalable than large-scale industrialization" \cite[\S4 Empathy: How It Shapes a Leader and an Institution, pp. 60]{Hennessy2018a}.
 
 
 
@@ -222,6 +223,9 @@ Also, make a copy of the "Notes" chapter, pp. 179-180.
 ##	Words and phrases that I learned
 
 
+
+
++ AI-systems
 + approximately parallel
 	- They are approximately parallels of each other.
 + assiduously
