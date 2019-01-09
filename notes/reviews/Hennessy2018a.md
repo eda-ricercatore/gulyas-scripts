@@ -135,7 +135,10 @@ Walter Isaacson wrote:
 	- When attempting to lead an organization/institution alone, the role of the leader becomes bigger and heavier over time till it is unbearable  \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 37]{Hennessy2018a}.
 	- A leader's task is to plan a direction with the support of the organization's/institution's members, and encourage these members to help the organization/institution arrive at its destination together \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 37]{Hennessy2018a}.
 + A humility-based perspective of leadership recognizes that members of my community/organization/institution are dependent on me, and I am also dependent on them (including low-wage workers who play an important role in the day-to-day operations of the organization/institution) \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 37]{Hennessy2018a}.
-
++ Balance the needs and desires of different categories of constituents of my community/organization/institution, including their short- and long- term interests \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 37]{Hennessy2018a}.
+	- Leaders seeking a long-term tenure at their organizations/institutions should align their interests and compensation with the long-term interests of the communities/organizations/institutions and their stakeholders \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 37]{Hennessy2018a}.
++ "A long-term focus means... thinking five to ten years out for a corporation and ten to twenty for a university." Short-term interests should not be ignored when "thinking about new directions and developments" to help the organization/institution move in a good trajectory \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 37]{Hennessy2018a}.
+	- As "the landscape of challenges and opportunities" change with new discoveries and inventions, keep exploring new opportunities and help the team/organization/institution get ready to pursue emerging "new directions and opportunities" \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 37]{Hennessy2018a}.
 
 
 
