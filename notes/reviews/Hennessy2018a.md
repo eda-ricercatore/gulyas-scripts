@@ -170,6 +170,7 @@ Walter Isaacson wrote:
 + If a public service initiative of an organization/institution "veers from its core missions," the organization/institution should "seek a viable exit strategy that minimizes the harm to the community being served" \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 45]{Hennessy2018a}.
 + We should use our creativity to create initiatives that extend the core missions of our organizations/institutions and serve our surrounding/neighboring communities \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 45]{Hennessy2018a}.
 + Consider how to create initiatives and programs to help my constituents (e.g., students, employees, and team members) "develop a service mind-set," so that they can pursue servant leadership in turn (i.e., become servant leaders) \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 46]{Hennessy2018a}.
+	- Expose students "to work[/internship] opportunities in the public and nonprofit [sectors/]arenas" \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 46]{Hennessy2018a}.
 
 
 
