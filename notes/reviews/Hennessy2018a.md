@@ -120,8 +120,11 @@ Walter Isaacson wrote:
 "It is better to lead from behind and to put others in front, especially when you celebrate victory when nice things occur. You take the front line when there is danger. Then people will appreciate your leadership."
 \- [Nelson Mandela](https://www.goodreads.com/quotes/382246-it-is-better-to-lead-from-behind-and-to-put)
 
-
-
++ The following aspects of leadership affect how leaders perceive leadership as service \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 35]{Hennessy2018a}:
+	- their remuneration package
+	- their authority (i.e., the extent of their authority)
+	- the priority of their decisions
+	- their subordinates should be dedicated to serving their institution (and their leader)
 
 
 
