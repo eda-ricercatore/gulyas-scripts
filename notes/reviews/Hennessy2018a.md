@@ -148,6 +148,7 @@ Walter Isaacson wrote:
 	- Unfortunately, these doubts can only be avoided by thinking about the short-term incrementally \cite[\S3 Leadership as Service: Understanding Who Works for Whom, pp. 39]{Hennessy2018a}.
 + Leaders have to serve other leaders of the organization, and the rest of the organization \cite[\S3 Leadership as Service: Understanding Who Works for Whom, pp. 39]{Hennessy2018a}.
 + "One of the realities of leadership is that the higher one climbs in terms of responsibility, the more the world will ask one to serve outside one's core constituencies"... "How do you decide which invitations to accept and which to decline? Regretfully, you must learn to say no to most of these requests. Why? For one, it would be impossible to do them all"... "Ultimately, any external service you render must be tempered by the fact that your first duty is to your organization and its stakeholders" \cite[\S3 Leadership as Service: Understanding Who Works for Whom, pp. 40]{Hennessy2018a}.
+	- "Develop the fortitude to say no" \cite[\S4 Empathy: How It Shapes a Leader and an Institution, pp. 56]{Hennessy2018a}.
 + The "three-part filter" for considering invitations to external service is \cite[\S3 Leadership as Service: Understanding Who Works for Whom, pp. 41]{Hennessy2018a}:
 	- "How important was the service and the institution being served?"
 	- "Could I contribute in an impactful way or could others easily provide the service?"
@@ -182,9 +183,16 @@ Walter Isaacson wrote:
 + Developing an empathetic response from my organization/institution (i.e., empathy-driven institutional response) to a heart-touching story via a series of well-considered steps \cite[\S4 Empathy: How It Shapes a Leader and an Institution, pp. 53]{Hennessy2018a}.
 + Dr. John L. Hennessy and the concerned student used their creativity to develop an empathy-driven institutional response to her problem by creating a loan forgiveness program for professional degree students pursuing socially valuable career paths \cite[\S4 Empathy: How It Shapes a Leader and an Institution, pp. 53-55]{Hennessy2018a}.
 + Develop an "emotional triage to help [me] decide where to put [my] energy and resources" \cite[\S4 Empathy: How It Shapes a Leader and an Institution, pp. 55]{Hennessy2018a} with this "series of questions" \cite[\S4 Empathy: How It Shapes a Leader and an Institution, pp. 56]{Hennessy2018a}:
-	- "Does "
-+ "Integrate [my] head and heart" in my community/public service and decision making \cite[\S4 Empathy: How It Shapes a Leader and an Institution, pp. 56]{Hennessy2018a}.
-
+	- "Does your heart lead you to this issue?"
+	- "Do you believe in it enough to take action?"
+	- "Would addressing the issue at hand fit with your organization's mission?"
+	- "If so, does your organization have the resources to help?"
+	- "If not, could you address it personally?"
+	- "Of the resources either you or your organization has available, how much do you want to dedicate to this cause, knowing that doing so will limit the resources available for other causes?"
+	- "Can you design an impactful, sustainable response to this need?"
+	- "These questions can lead you to a deeper understanding of your own values, your colleagues' and your organization's reach, and the issues affecting people in your community and beyond."
++ "Integrate [my]/your head and heart" in my community/public service and decision making, by "listening to [my]/your heart while using [my]/your head, plotting [my]/your direction with a combination of the two" \cite[\S4 Empathy: How It Shapes a Leader and an Institution, pp. 56]{Hennessy2018a}.
++ For each organization/"institution that practices philanthropy," not just philanthropic organizations but also corporations/companies and universities, it has to deal with the problem of "mission creep." When the organization/institution starts to "[make] donations to whoever[/whatever] [that] has the most sympathetic story," instead of adhering to well-defined "guidelines about what they plan to give and to whom" \cite[\S4 Empathy: How It Shapes a Leader and an Institution, pp. 56]{Hennessy2018a}.
 
 
 
