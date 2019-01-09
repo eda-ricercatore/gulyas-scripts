@@ -125,9 +125,8 @@ Walter Isaacson wrote:
 	- their authority (i.e., the extent of their authority)
 	- the priority of their decisions
 	- their subordinates should be dedicated to serving their institution (and their leader)
-
-
-
++ It is important for leaders to remember that the leader's role is to serve their subordinates who are doing the heavy lifting, and help them be "as effective and productive as they can be." A perspective on this is to look at a pyramidal organization chart that is inverted \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 35]{Hennessy2018a}.
++ In order to lead an institution/organization well, a leader has to accept and live the servant-leadership role. The leader has to prioritize the well-being of their organization/institution and community over their (potential) personal gains \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 35]{Hennessy2018a}.
 
 
 
@@ -155,13 +154,15 @@ Also, make a copy of the "Notes" chapter, pp. 179-180.
 	- They are approximately parallels of each other.
 + assiduously
 + atavistic
-+ do the heavy lifting for projects
 + fieldwork
 + from XYZ to ABC, from QWERTY to ZXCVB
 	- they asked about from XYZ to ABC, from QWERTY to ZXCVB.
 	- from A to B to C to D to E such as F, G, and/or H.
 + gravitas
 	- seriousness
++ heavy lifting
+	- do the heavy lifting
+	- do the heavy lifting for projects
 + impetuousness
 + rectitude
 	- righteousness
