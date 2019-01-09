@@ -111,8 +111,7 @@ Walter Isaacson wrote:
 	- "The constant change of environment and the need to compete for every rung up the latter also reinforces normative behavior" \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 31]{Hennessy2018a}.
 + "Much of your career path is about knowing where you're headed today, but not necessarily knowing the final destination. It's not fixed yet. You're creating that destination - and yourself - as you go. Some core values may be built in you when you're really young, but so much more develops over time, from your own life experiences, watching other people, or reading great biographies. It's always less painful to learn from others when you can" \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 32]{Hennessy2018a}.
 + Gordon Bell challenged John L. Hennessy to personally commit to technological innovations that he had been part of, and co-found a spin-off (i.e., start-up using technology transferred from his research lab) to commercialize those technologies. Dr. Bell posited that technologies developed during transformative projects should be further developed commercially (by the spin-off) \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 33]{Hennessy2018a}.
-
-
++ "It is not easy to alter one's set course" \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 33]{Hennessy2018a}.
 
 
 
