@@ -127,11 +127,14 @@ Walter Isaacson wrote:
 	- their subordinates should be dedicated to serving their institution (and their leader)
 + It is important for leaders to remember that the leader's role is to serve their subordinates who are doing the heavy lifting, and help them be "as effective and productive as they can be." A perspective on this is to look at a pyramidal organization chart that is inverted \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 35]{Hennessy2018a}.
 + In order to lead an institution/organization well, a leader has to accept and live the servant-leadership role. The leader has to prioritize the well-being of their organization/institution and community over their (potential) personal gains \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 35]{Hennessy2018a}.
-
-
-
-
-
+	- Take up a leadership role to serve the team, rather than beacuse of the title, social status, or accouterments that come with the role \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 36]{Hennessy2018a}.
+	- The larger the leadership role is, "the bigger the role of service in that leadership" \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 36]{Hennessy2018a}.
+	- I cannot achieve organizational/institutional success on my own. I should remember that my success depends on helping other members of the organization/institution succeed \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 36]{Hennessy2018a}.
+	- "My career largely existed in reflection of theirs" \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 36]{Hennessy2018a}.
+	- A leader's task is "to lead the [organization/]institution on a journey of success, by serving each of those constituencies in a manner that maximized the likelihood of our collective success" \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 37]{Hennessy2018a}.
+	- When attempting to lead an organization/institution alone, the role of the leader becomes bigger and heavier over time till it is unbearable  \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 37]{Hennessy2018a}.
+	- A leader's task is to plan a direction with the support of the organization's/institution's members, and encourage these members to help the organization/institution arrive at its destination together \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 37]{Hennessy2018a}.
++ A humility-based perspective of leadership recognizes that members of my community/organization/institution are dependent on me, and I am also dependent on them (including low-wage workers who play an important role in the day-to-day operations of the organization/institution) \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 37]{Hennessy2018a}.
 
 
 
