@@ -176,11 +176,11 @@ Walter Isaacson wrote:
 
 ##	Chapter 4, Empathy: How It Shapes a Leader and an Institution
 
+Decision making, for big decisions or otherwise, should not solely/only involve empirical facts, data, and dispassionate judgment. Instead, decision making and goal setting should include empathy, which provides "a crucial check on actions" that requires "a deep understanding of and concern for the human condition." This allows us to make decisions and engage in actions for "the well-being of all."
 
 
 
-
-\cite[\S4 Empathy: How It Shapes a Leader and an Institution, pp. 46]{Hennessy2018a}.
+\cite[\S4 Empathy: How It Shapes a Leader and an Institution, pp. 52]{Hennessy2018a}.
 
 
 
