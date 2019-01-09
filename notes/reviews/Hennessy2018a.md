@@ -162,8 +162,14 @@ Walter Isaacson wrote:
 	- Non-profit organizations and government agencies tend to receive more requests to help and serve the people (and engage in public service) \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 42]{Hennessy2018a}.
 	- Resolve to pursue the core missions in ways that would connect the resources of the organization/institution to/with "the needs of the surrounding communities" \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 42]{Hennessy2018a}.
 	- Research universities can transfer their technological innovations to improve "the quality of life and better functioning of society" \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 42]{Hennessy2018a}.
-
-
+	- Leland Stanford Sr. "wishes that [Stanford University] promote the public welfare by exercising an influence in behalf of humanity and civilization" \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 43]{Hennessy2018a}.
+	- Public (research) universities should provide public services for the betterment of societies \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 43]{Hennessy2018a}.
++ Important questions for leaders "in universities, corporations, non-profit [organizations], [and] government agencies" to think about serving "the less privileged inhabitants of" their communities are \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 43]{Hennessy2018a}:
+	- "How should leaders think about the role of public service?"
+	- "How should leaders choose which initiatives to support?"
++ If a public service initiative of an organization/institution "veers from its core missions," the organization/institution should "seek a viable exit strategy that minimizes the harm to the community being served" \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 45]{Hennessy2018a}.
++ We should use our creativity to create initiatives that extend the core missions of our organizations/institutions and serve our surrounding/neighboring communities \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 45]{Hennessy2018a}.
++ Consider how to create initiatives and programs to help my constituents (e.g., students, employees, and team members) "develop a service mind-set"
 
 
 
@@ -195,16 +201,20 @@ Also, make a copy of the "Notes" chapter, pp. 179-180.
 	- They are approximately parallels of each other.
 + assiduously
 + atavistic
++ conscientious workers/students
 + fieldwork
 + from XYZ to ABC, from QWERTY to ZXCVB
 	- they asked about from XYZ to ABC, from QWERTY to ZXCVB.
 	- from A to B to C to D to E such as F, G, and/or H.
++ goodwill
+	- "send cheer and goodwill to those [who] need lifting up"
 + gravitas
 	- seriousness
 + heavy lifting
 	- do the heavy lifting
 	- do the heavy lifting for projects
 + impetuousness
++ mind-set
 + rectitude
 	- righteousness
 	- moral virtue
@@ -212,3 +222,4 @@ Also, make a copy of the "Notes" chapter, pp. 179-180.
 + step up to the moment
 + "true scoop"
 	- resolve to give people the true scoop on that situation
++ world-view
