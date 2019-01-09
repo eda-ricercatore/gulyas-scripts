@@ -135,10 +135,37 @@ Walter Isaacson wrote:
 	- When attempting to lead an organization/institution alone, the role of the leader becomes bigger and heavier over time till it is unbearable  \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 37]{Hennessy2018a}.
 	- A leader's task is to plan a direction with the support of the organization's/institution's members, and encourage these members to help the organization/institution arrive at its destination together \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 37]{Hennessy2018a}.
 + A humility-based perspective of leadership recognizes that members of my community/organization/institution are dependent on me, and I am also dependent on them (including low-wage workers who play an important role in the day-to-day operations of the organization/institution) \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 37]{Hennessy2018a}.
-+ Balance the needs and desires of different categories of constituents of my community/organization/institution, including their short- and long- term interests \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 37]{Hennessy2018a}.
-	- Leaders seeking a long-term tenure at their organizations/institutions should align their interests and compensation with the long-term interests of the communities/organizations/institutions and their stakeholders \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 37]{Hennessy2018a}.
-+ "A long-term focus means... thinking five to ten years out for a corporation and ten to twenty for a university." Short-term interests should not be ignored when "thinking about new directions and developments" to help the organization/institution move in a good trajectory \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 37]{Hennessy2018a}.
-	- As "the landscape of challenges and opportunities" change with new discoveries and inventions, keep exploring new opportunities and help the team/organization/institution get ready to pursue emerging "new directions and opportunities" \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 37]{Hennessy2018a}.
++ Balance the needs and desires of different categories of constituents of my community/organization/institution \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 37]{Hennessy2018a}, including their short- and long- term interests \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 38]{Hennessy2018a}.
+	- Leaders seeking a long-term tenure at their organizations/institutions should align their interests and compensation with the long-term interests of the communities/organizations/institutions and their stakeholders \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 38]{Hennessy2018a}.
++ "A long-term focus means... thinking five to ten years out for a corporation and ten to twenty for a university." Short-term interests should not be ignored when "thinking about new directions and developments" to help the organization/institution move in a good trajectory \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 38]{Hennessy2018a}.
+	- As "the landscape of challenges and opportunities" change with new discoveries and inventions, keep exploring new opportunities and help the team/organization/institution get ready to pursue emerging "new directions and opportunities" \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 39]{Hennessy2018a}.
+	- Dr. John L. Hennessy thought about the following questions with his long-term focus \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 39]{Hennessy2018a}:
+		* "What does Stanford stand for?"
+		* "What shall we be in ten years?"
+		* "In one hundred years?"
+		* "How do we ensure that future generations of our community will have the same opportunities that we have had?"
++ "Long-term [thinking] introduces more uncertainty and can raise doubts about a direction" \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 39]{Hennessy2018a}.
+	- Unfortunately, these doubts can only be avoided by thinking about the short-term incrementally \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 39]{Hennessy2018a}.
++ Leaders have to serve other leaders of the organization, and the rest of the organization \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 39]{Hennessy2018a}.
++ "One of the realities of leadership is that the higher one climbs in terms of responsibility, the more the world will ask one to serve outside one's core constituencies"... "How do you decide which invitations to accept and which to decline? Regretfully, you must learn to say no to most of these requests. Why? For one, it would be impossible to do them all"... "Ultimately, any external service you render must be tempered by the fact that your first duty is to your organization and its stakeholders" \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 40]{Hennessy2018a}.
++ The "three-part filter" for considering invitations to external service is \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 41]{Hennessy2018a}:
+	- "How important was the service and the institution being served?"
+	- "Could I contribute in an impactful way or could others easily provide the service?"
+	- "Would the service opportunity contribute to my learning and growth?"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
