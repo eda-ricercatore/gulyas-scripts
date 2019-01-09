@@ -181,9 +181,9 @@ Walter Isaacson wrote:
 + By using trial and error, develop the skill to balance empathy and reason. "Choose and shape the opportunities [to act with empathy] that make the most sense for you and your organization" \cite[\S4 Empathy: How It Shapes a Leader and an Institution, pp. 52]{Hennessy2018a}.
 + Developing an empathetic response from my organization/institution (i.e., empathy-driven institutional response) to a heart-touching story via a series of well-considered steps \cite[\S4 Empathy: How It Shapes a Leader and an Institution, pp. 53]{Hennessy2018a}.
 + Dr. John L. Hennessy and the concerned student used their creativity to develop an empathy-driven institutional response to her problem by creating a loan forgiveness program for professional degree students pursuing socially valuable career paths \cite[\S4 Empathy: How It Shapes a Leader and an Institution, pp. 53-55]{Hennessy2018a}.
-
-
-
++ Develop an "emotional triage to help [me] decide where to put [my] energy and resources" \cite[\S4 Empathy: How It Shapes a Leader and an Institution, pp. 55]{Hennessy2018a} with this "series of questions" \cite[\S4 Empathy: How It Shapes a Leader and an Institution, pp. 56]{Hennessy2018a}:
+	- "Does "
++ "Integrate [my] head and heart" in my community/public service and decision making \cite[\S4 Empathy: How It Shapes a Leader and an Institution, pp. 56]{Hennessy2018a}.
 
 
 
