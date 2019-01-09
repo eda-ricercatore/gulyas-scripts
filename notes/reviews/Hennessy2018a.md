@@ -152,8 +152,12 @@ Walter Isaacson wrote:
 	- "How important was the service and the institution being served?"
 	- "Could I contribute in an impactful way or could others easily provide the service?"
 	- "Would the service opportunity contribute to my learning and growth?"
-
-
++ Beware of making commitments during lull periods that are harder to remain dedicated/committed to during busy periods (which may affect my personal integrity), when my primary constituents require more commitment from me (in terms of time and otherwise) \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 41]{Hennessy2018a}.
+	- Avoid responding with "I am too busy this year," which opens the door for other/additional/further requests, such as "`How about next year or the year after?'" This subsequent response "leads to [the] problem" of predicting my availability that far in advance; \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 41]{Hennessy2018a}.
+	- Avoid over-commitments such that they jeopardize my ability to serve my primary constituents \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 41]{Hennessy2018a}.
+	- If I cannot commit to something (as a personal service to the broader world) for more than two months, decline the request/invitation \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 41]{Hennessy2018a}.
++ Create core missions for an organization/institution such that pursuing the core mission would lead to the organization/institution "[serving] the broader community" in the form of "external service initiatives" \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 41]{Hennessy2018a}.
+	- Also, the organization/institution can pursue the core missions in ways that lead to "[serving] the broader community"  and "external service initiatives" \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 41]{Hennessy2018a}.
 
 
 
