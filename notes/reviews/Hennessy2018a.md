@@ -179,7 +179,23 @@ Walter Isaacson wrote:
 + **Decision making, for big decisions or otherwise, should not solely/only involve empirical facts, data, and dispassionate judgment. Instead, decision making and goal setting should include empathy, which provides "a crucial check on actions" that requires "a deep understanding of and concern for the human condition." This allows us to make decisions and engage in actions for "the well-being of all"** \cite[\S4 Empathy: How It Shapes a Leader and an Institution, pp. 52]{Hennessy2018a}.
 + "Empathy cannot be calculated by an equation or confirmed by a set of facts, and this is frustrating for an engineering like me. By the same token, empathy is not something you can justify simply with appeals to foundational documents, such as a mission statement. Rather, empathy comes from the heart, which is what makes this deeply human emotion both wonderfully meaningful and, if it is misguided or allowed to overwhelm reason, potentially dangerous" \cite[\S4 Empathy: How It Shapes a Leader and an Institution, pp. 52]{Hennessy2018a}.
 + By using trial and error, develop the skill to balance empathy and reason. "Choose and shape the opportunities [to act with empathy] that make the most sense for you and your organization" \cite[\S4 Empathy: How It Shapes a Leader and an Institution, pp. 52]{Hennessy2018a}.
-+ Developing an empathetic response from my organization/institution to a heart-touching story via a series of well-considered steps \cite[\S4 Empathy: How It Shapes a Leader and an Institution, pp. 53]{Hennessy2018a}.
++ Developing an empathetic response from my organization/institution (i.e., empathy-driven institutional response) to a heart-touching story via a series of well-considered steps \cite[\S4 Empathy: How It Shapes a Leader and an Institution, pp. 53]{Hennessy2018a}.
++ Dr. John L. Hennessy and the concerned student used their creativity to develop an empathy-driven institutional response to her problem by creating a loan forgiveness program for professional degree students pursuing socially valuable career paths \cite[\S4 Empathy: How It Shapes a Leader and an Institution, pp. 53-55]{Hennessy2018a}.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
