@@ -168,7 +168,7 @@ Walter Isaacson wrote:
 	- "How should leaders think about the role of public service?"
 	- "How should leaders choose which initiatives to support?"
 + If a public service initiative of an organization/institution "veers from its core missions," the organization/institution should "seek a viable exit strategy that minimizes the harm to the community being served" \cite[\S3 Leadership as Service: Understanding Who Works for Whom, pp. 45]{Hennessy2018a}.
-+ We should use our creativity to create initiatives that extend the core missions of our organizations/institutions and serve our surrounding/neighboring communities \cite[\S3 Leadership as Service: Understanding Who Works for Whom, pp. 45]{Hennessy2018a}.
++ We should use our creativity to create initiatives that extend the core missions of our organizations/institutions and serve our surrounding/neighboring communities \cite[\S3 Leadership as Service: Understanding Who Works for Whom, pp. 46]{Hennessy2018a}.
 + Consider how to create service learning initiatives and programs to help my constituents (e.g., students, employees, and team members) "develop a service mind-set," so that they can pursue servant leadership in turn (i.e., become servant leaders) \cite[\S3 Leadership as Service: Understanding Who Works for Whom, pp. 46]{Hennessy2018a}.
 	- Expose students "to work[/internship] opportunities in the public and nonprofit [sectors/]arenas" \cite[\S3 Leadership as Service: Understanding Who Works for Whom, pp. 46]{Hennessy2018a}.
 
@@ -176,14 +176,9 @@ Walter Isaacson wrote:
 
 ##	Chapter 4, Empathy: How It Shapes a Leader and an Institution
 
-Decision making, for big decisions or otherwise, should not solely/only involve empirical facts, data, and dispassionate judgment. Instead, decision making and goal setting should include empathy, which provides "a crucial check on actions" that requires "a deep understanding of and concern for the human condition." This allows us to make decisions and engage in actions for "the well-being of all."
-
-
-
-\cite[\S4 Empathy: How It Shapes a Leader and an Institution, pp. 52]{Hennessy2018a}.
-
-
-
++ **Decision making, for big decisions or otherwise, should not solely/only involve empirical facts, data, and dispassionate judgment. Instead, decision making and goal setting should include empathy, which provides "a crucial check on actions" that requires "a deep understanding of and concern for the human condition." This allows us to make decisions and engage in actions for "the well-being of all"** \cite[\S4 Empathy: How It Shapes a Leader and an Institution, pp. 52]{Hennessy2018a}.
++ "Empathy cannot be calculated by an equation or confirmed by a set of facts, and this is frustrating for an engineering like me. By the same token, empathy is not something you can justify simply with appeals to foundational documents, such as a mission statement. Rather, empathy comes from the heart, which is what makes this deeply human emotion both wonderfully meaningful and, if it is misguided or allowed to overwhelm reason, potentially dangerous" \cite[\S4 Empathy: How It Shapes a Leader and an Institution, pp. 52]{Hennessy2018a}.
++ By using trial and error, develop the skill to balance empathy and reason. "Choose and shape the opportunities [to act with empathy] that make the most sense for you and your organization" \cite[\S4 Empathy: How It Shapes a Leader and an Institution, pp. 52]{Hennessy2018a}.
 
 
 
