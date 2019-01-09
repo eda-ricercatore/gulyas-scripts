@@ -115,8 +115,10 @@ Walter Isaacson wrote:
 
 
 
+##	Chapter 3, Leadership as Service: Understanding Who Works for Whom
 
-
+"It is better to lead from behind and to put others in front, especially when you celebrate victory when nice things occur. You take the front line when there is danger. Then people will appreciate your leadership."
+\- [Nelson Mandela](https://www.goodreads.com/quotes/382246-it-is-better-to-lead-from-behind-and-to-put)
 
 
 
