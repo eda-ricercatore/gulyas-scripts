@@ -157,7 +157,11 @@ Walter Isaacson wrote:
 	- Avoid over-commitments such that they jeopardize my ability to serve my primary constituents \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 41]{Hennessy2018a}.
 	- If I cannot commit to something (as a personal service to the broader world) for more than two months, decline the request/invitation \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 41]{Hennessy2018a}.
 + Create core missions for an organization/institution such that pursuing the core mission would lead to the organization/institution "[serving] the broader community" in the form of "external service initiatives" \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 41]{Hennessy2018a}.
-	- Also, the organization/institution can pursue the core missions in ways that lead to "[serving] the broader community"  and "external service initiatives" \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 41]{Hennessy2018a}.
+	- Also, the organization/institution can pursue the core missions in ways that lead to "[serving] the broader community"  and "external service initiatives." This can be a service "extension to their product [and service] offerings" "that has social value, rather than a [pure] profit motive" \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 42]{Hennessy2018a}.
+	- Regarding "[serving] the broader community"  and "external service initiatives," they can include community service to help the locals in the region.
+	- Non-profit organizations and government agencies tend to receive more requests to help and serve the people (and engage in public service) \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 42]{Hennessy2018a}.
+	- Resolve to pursue the core missions in ways that would connect the resources of the organization/institution to/with "the needs of the surrounding communities" \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 42]{Hennessy2018a}.
+	- Research universities can transfer their technological innovations to improve "the quality of life and better functioning of society" \cite[\S2 Leadership as Service: Understanding Who Works for Whom, pp. 42]{Hennessy2018a}.
 
 
 
