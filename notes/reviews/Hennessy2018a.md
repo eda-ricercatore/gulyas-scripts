@@ -105,8 +105,30 @@ Walter Isaacson wrote:
 + Let the insights that I share with my constituents "form the basis of a trust relationship going forward" \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 29]{Hennessy2018a}.
 + Be open and trustworthy with my constituents \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 29]{Hennessy2018a}.
 + Help my "corporation develop trust relationships with [its] customers," and avoid misleading (or deceiving) them "about product capabilities, availability, or reliability". Else, it would "lose customers and damage their reputations, making it harder to recover by replacing the lost customers" \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 29]{Hennessy2018a}.
-+ A corporation must "[go] beyond the more minimal standard of honesty demanded by the Sarbanes-Oxley Act. Do the shareholders believe that the management team is assessing its challenges and opportunities?"
-\cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 30]{Hennessy2018a}.
++ A corporation must "[go] beyond the more minimal standard of honesty demanded by the Sarbanes-Oxley Act. Do the shareholders believe that the management team is assessing its challenges and opportunities?" \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 30]{Hennessy2018a}.
++ To avoid decadence and jaded attitude in tenured faculty, remind them that their reputation would erode if they do not "go the extra mile, push [themselves] harder, take on new challenges, and make the tough decisions" \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 31]{Hennessy2018a}.
++ Avoid cutting corners, prioritizing short-term gains over long-term well-being of the corporation, "undermining [my] peers," and being ruthless \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 31]{Hennessy2018a}.
+	- "The constant change of environment and the need to compete for every rung up the latter also reinforces normative behavior" \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 31]{Hennessy2018a}.
++ "Much of your career path is about knowing where you're headed today, but not necessarily knowing the final destination. It's not fixed yet. You're creating that destination - and yourself - as you go. Some core values may be built in you when you're really young, but so much more develops over time, from your own life experiences, watching other people, or reading great biographies. It's always less painful to learn from others when you can" \cite[\S2 Authenticity and Trust: The Essential Ingredients for Effective Leadership, pp. 32]{Hennessy2018a}.
++ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
