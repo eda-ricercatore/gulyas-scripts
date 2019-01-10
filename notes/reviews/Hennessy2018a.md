@@ -271,8 +271,8 @@ Walter Isaacson wrote:
 
 "Coming together is a beginning; [keeping/]staying together is progress; working together is success."
 \- [Edward Everett Hale](https://www.brainyquote.com/quotes/edward_everett_hale_121997):
-	- https://quotefancy.com/quote/37219/Henry-Ford-Coming-together-is-the-beginning-Keeping-together-is-progress-Working-together
-	- https://en.wikiquote.org/wiki/Talk:Henry_Ford
++ https://quotefancy.com/quote/37219/Henry-Ford-Coming-together-is-the-beginning-Keeping-together-is-progress-Working-together
++ https://en.wikiquote.org/wiki/Talk:Henry_Ford
 
 
 
