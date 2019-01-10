@@ -270,7 +270,7 @@ Walter Isaacson wrote:
 ##	Chapter 6, Collaboration and Teamwork: You Cannot Do It Alone
 
 "Coming together is a beginning; [keeping/]staying together is progress; working together is success."
-\- [Edward Everett Hale](https://www.brainyquote.com/quotes/edward_everett_hale_121997)
+\- [Edward Everett Hale](https://www.brainyquote.com/quotes/edward_everett_hale_121997):
 	- https://quotefancy.com/quote/37219/Henry-Ford-Coming-together-is-the-beginning-Keeping-together-is-progress-Working-together
 	- https://en.wikiquote.org/wiki/Talk:Henry_Ford
 
