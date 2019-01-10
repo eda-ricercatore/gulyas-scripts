@@ -78,3 +78,151 @@ For this workshop we welcome original work covering different aspects of:
 + Programming Models for Edge Computing
 + Coupling HPC to Edge Applications
 + Communication and Control Strategies for Deploying and Managing Applications at the Edge
+
+
+
+#	FastPath: Workshop on Performance Analysis of Machine Learning Systems
+
+https://www.sigarch.org/call-contributions/workshop-on-performance-analysis-of-machine-learning-systems/
+
+Call for Papers:
+FastPath: Workshop on Performance Analysis of Machine Learning Systems
+
+March 24, 2019 in Madison, Wisconsin, USA
+URL: https://tinyurl.com/2019-FastPath
+Abstract or Paper Registration Deadline
+February 8, 2019
+Final Submission Deadline
+February 8, 2019
+
+FastPath: International Workshop on Performance Analysis of Machine Learning Systems
+in conjunction with ISPASS 2019
+Madison, Wisconsin, USA
+March 24, 2019
+
+FastPath 2019 brings together researchers and practitioners involved in cross-stack hardware/software performance analysis, modeling, and evaluation for efficient machine learning systems. Machine learning demands tremendous amount of computing. Current machine learning systems are diverse, including cellphones, high performance computing systems, database systems, self-driving cars, robotics, and in-home appliances. Many machine-learning systems have customized hardware and/or software. The types and components of such systems vary, but a partial list includes traditional CPUs assisted with accelerators (ASICs, FPGAs, GPUs), memory accelerators, I/O accelerators, hybrid systems, converged infrastructure, and IT appliances. Designing efficient machine learning systems poses several challenges.
+
+These include distributed training on big data, hyper-parameter tuning for models, emerging accelerators, fast I/O for random inputs, approximate computing for training and inference, programming models for a diverse machine-learning workloads, high-bandwidth interconnect, efficient mapping of processing logic on hardware, and cross system stack performance optimization. Emerging infrastructure supporting big data analytics, cognitive computing, large-scale machine learning, mobile computing, and internet-of-things, exemplify system designs optimized for machine learning at large.
+
+FastPath seeks to facilitate the exchange of ideas on performance optimization of machine learning/AI systems and seeks papers on a wide range of topics including, but not limited to:
+– Workload characterization, performance modeling and profiling of machine learning applications
+– GPUs, FPGAs, ASIC accelerators
+– Memory, I/O, storage, network accelerators
+– Hardware/software co-design
+– Efficient machine learning algorithms
+– Approximate computing in machine learning
+– Power/Energy and learning acceleration
+– Software, library, and runtime for machine learning systems
+– Workload scheduling and orchestration
+– Machine learning in cloud systems
+– Large-scale machine learning systems
+– Emerging intelligent/cognitive system
+– Converged/integrated infrastructure
+– Machine learning systems for specific domains, e.g., financial, biological, education, commerce, healthcare
+
+SUBMISSION GUIDELINES:
+Prospective authors must submit a 2-4 page extended abstract electronically at: https://easychair.org/conferences/?conf=fastpath2019
+
+Authors of selected abstracts will be invited to give a 30-min presentation at the workshop.
+
+IMPORTANT DATES:
+Submission: February 8, 2019
+Notification: February 22, 2019
+Final Materials / Workshop: March 24, 2019
+
+ORGANIZERS:
+General Chair:
+Erik Altman
+
+Program Committee Chairs:
+Zehra Sura
+Parijat Dube
+
+
+##	From the Official Web Page
+
+https://researcher.watson.ibm.com/researcher/view_group.php?id=9888
+
+FastPath 2019
+International Workshop on Performance
+Analysis of Machine Learning Systems
+March 24, 2019 - Madison, Wisconsin, USA
+In conjunction with ISPASS 2019
+https://tinyurl.com/2019-FastPath
+
+FastPath 2019 Program:  Pending
+
+FastPath 2019 brings together researchers and practitioners involved in cross-stack hardware/software performance analysis, modeling, and evaluation for efficient machine learning systems. Machine learning demands tremendous amount of computing. Current machine learning systems are diverse, including cellphones, high performance computing systems, database systems, self-driving cars, robotics, and in-home appliances. Many machine-learning systems have customized hardware and/or software. The types and components of such systems vary, but a partial list includes traditional CPUs assisted with accelerators (ASICs, FPGAs, GPUs), memory accelerators, I/O accelerators, hybrid systems, converged infrastructure, and IT appliances. Designing efficient machine learning systems poses several challenges.
+
+These include distributed training on big data, hyper-parameter tuning for models, emerging accelerators, fast I/O for random inputs, approximate computing for training and inference, programming models for a diverse machine-learning workloads, high-bandwidth interconnect, efficient mapping of processing logic on hardware, and cross system stack performance optimization. Emerging infrastructure supporting big data analytics, cognitive computing, large-scale machine learning, mobile computing, and internet-of-things, exemplify system designs optimized for machine learning at large.
+
+
+Topics
+
+FastPath seeks to facilitate the exchange of ideas on performance analysis and evaluation of machine learning/AI systems and seeks papers on a wide range of topics including, but not limited to:
+
++ Workload characterization, performance modeling and profiling of machine
++ learning applications
++ GPUs, FPGAs, ASIC accelerators
++ Memory, I/O, storage, network accelerators
++ Hardware/software co-design
++ Efficient machine learning algorithms
++ Approximate computing in machine learning
++ Power/Energy and learning acceleration
+
++ Software, library, and runtime for machine learning systems
++ Workload scheduling and orchestration
++ Machine learning in cloud systems
++ Large-scale machine learning systems
++ Emerging intelligent/cognitive systems
++ Converged/integrated infrastructure
++ Machine learning systems for specific domains, e.g., financial, biological, education, commerce, healthcare
+
+
+Submission
+
+FastPath 2019 Call for Papers is available here.
+
+Prospective authors must submit a 2-4 page extended abstract electronically at:
+
+https://easychair.org/conferences/?conf=fastpath2019
+
+Authors of selected abstracts will be invited to give a 30-min presentation at the workshop.
+
+
+Key Dates
+
++ Submission: February 8, 2019
++ Notification: February 22, 2019
++ Final Materials / Workshop: March 24, 2019
+
+
+Organizers
+
++ General Chair: Erik Altman (IBM)
++ Program Committee Chairs: Zehra Sura (IBM), Parijat Dube (IBM)
+
+
+Program Committee
+TBD: TBD Institution
+
+Invited Speakers:
+
+Tushar Krishna: Georgia Tech
+
+Peter Mattson: Google
+
+Vijay Janapa Reddi: Harvard
+
+
+Previous Editions
+
+FastPath 2018 was held in conjunction with ISPASS 2018. Full-day with 4 invited speakers and panel.
+
+FastPath 2015 was held in conjunction with ISPASS 2015. Half-day with 4 invited speakers.
+
+FastPath 2014 was held in conjunction with ISPASS 2014. Full-day with 3 invited speakers and 4 Regular speaker.
+
+FastPath 2013 was held in conjunction with ISPASS 2013. Full-day with 1 keynote speaker, 6 invited speakers and 1 Regular speaker.
+
+FastPath 2012 was held in conjunction with ISPASS 2012. Half-day with 1 keynote speaker and 3 invited speakers.

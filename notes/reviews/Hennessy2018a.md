@@ -233,6 +233,56 @@ Walter Isaacson wrote:
 	- "Step up when the community needs you" \cite[\S5 Courage: Standing Up for the Institution and the Community, pp. 69]{Hennessy2018a}
 	- "Sometimes courage means standing firm" \cite[\S5 Courage: Standing Up for the Institution and the Community, pp. 73]{Hennessy2018a}
 	- "Don't be afraid to take risks" \cite[\S5 Courage: Standing Up for the Institution and the Community, pp. 76]{Hennessy2018a}
++ "When facing a real challenge in a leadership role, people have a tendency to personalize that challenge, to make solving it their own private quest. From my experience, you will solve few such challenges that way. Rather, you are more likely to become overwhelmed, to let your emotions and passions get in the way, and to lose perspective and objectivity" \cite[\S5 Courage: Standing Up for the Institution and the Community, pp. 66]{Hennessy2018a}.
++ "In difficult times, I found it helpful to remember that the challenges were not about me as a person, but about my role as the leader of my organization" \cite[\S5 Courage: Standing Up for the Institution and the Community, pp. 66]{Hennessy2018a}.
++ "From the looks of it, most leaders feel comfortable in front of a crowd. They seem always to know what to say and how to say it. Behind the scenes, though, they have to tap into their courage to rise to the occasion. They have to work hard to make it look easy. How do they do it? When leaders focus on speaking not as themselves but as a voice for their organization, they become the embodiment of the institution, and thus they speak with a power and confidence they would never have speaking just for themselves. Remember, your institution has enough confidence in you to have made you its leader, so no matter how personally frightened or nervous you may be, you can speak from that confidence and from that duty" \cite[\S5 Courage: Standing Up for the Institution and the Community, pp. 69]{Hennessy2018a}.
++ From the end of [Abraham Lincoln's second inaugural address](https://en.wikipedia.org/wiki/Abraham_Lincoln%27s_second_inaugural_address):
+	- "With malice toward none, with charity for all, with firmness in the right as God gives us to see the right, let us strive on to finish the work we are in, to bind up the nation's wounds, to care for him who shall have borne the battle and for his widow and his orphan, to do all which may achieve and cherish a just and lasting peace among ourselves and with all nations."
+	- \cite[\S5 Courage: Standing Up for the Institution and the Community, pp. 71]{Hennessy2018a}.
++ "In the second inaugural, [Abraham Lincoln] reminds us that the right and courageous action is not seeking revenge, but acting with compassion and working for peace" \cite[\S5 Courage: Standing Up for the Institution and the Community, pp. 71]{Hennessy2018a}.
++ "Explore the relationships between intrinsic differences and societal effects" \cite[\S5 Courage: Standing Up for the Institution and the Community, pp. 71]{Hennessy2018a}.
++ Dr. John L. Hennessy sought to learn about the impact of implicit and explicit bias on "girls and women ... pursuing careers in science and" engineering \cite[\S5 Courage: Standing Up for the Institution and the Community, pp. 71-72]{Hennessy2018a}.
++ Backlash against attempts to improve social equity, including gender equity and ethnic/racial equity \cite[\S5 Courage: Standing Up for the Institution and the Community, pp. 72]{Hennessy2018a}.
++ "Increasing the representation of women in these fields [or, science and engineering] was both fair and important to the country" \cite[\S5 Courage: Standing Up for the Institution and the Community, pp. 72]{Hennessy2018a}.
++ The "Google memo" also used biology to justify differences in abilities between genders \cite[\S5 Courage: Standing Up for the Institution and the Community, pp. 72]{Hennessy2018a}.
++ "Speak[ing] out to carry the voice of your institution" "does not mean [that] your rhetoric will carry the day" \cite[\S5 Courage: Standing Up for the Institution and the Community, pp. 72]{Hennessy2018a}.
++ "Courage means being willing to try - and to continue trying - even if you may not succeed. Creating lasting social change requires persistent action, across generations. Even if you don't realize the end result you seek in your lifetime, you can find courage in the fact that you are changing people's lives for the better along the way" \cite[\S5 Courage: Standing Up for the Institution and the Community, pp. 72]{Hennessy2018a}.
++ Suggestions for public speaking \cite[\S5 Courage: Standing Up for the Institution and the Community, pp. 72-73]{Hennessy2018a}:
+	- "Prepare your message"
+	- "Edit [your message] ruthlessly (make it shorter, more precise, clearer)"
+	- "Practice [your message] endlessly (assuming you have time, crises have their own clocks)"
++ "If you focus on the needs of your audience first, you can trust that you will stay on course and your courage will find you" \cite[\S5 Courage: Standing Up for the Institution and the Community, pp. 73]{Hennessy2018a}.
++ "Find the courage to stand firm" against speaking out for an "advocated speech or action [that] would violate a core principle of the institution, would be unfair to individuals, or would have negative consequences for the institution" \cite[\S5 Courage: Standing Up for the Institution and the Community, pp. 73]{Hennessy2018a}.
++ "Find a way to listen to demands [from (student) protesters and advocacy groups], to discern the right action, and to stand firm with our decisions" \cite[\S5 Courage: Standing Up for the Institution and the Community, pp. 74]{Hennessy2018a}.
++ "Beware [of] unintended consequences" \cite[\S5 Courage: Standing Up for the Institution and the Community, pp. 74]{Hennessy2018a}.
++ "New challenges are constantly emerging, and what might be considered success is forever evolving" \cite[\S5 Courage: Standing Up for the Institution and the Community, pp. 76]{Hennessy2018a}.
++ "**In the fast-moving twenty-first century, the overly cautious are soon rolled over by the speeding wheels of change**" \cite[\S5 Courage: Standing Up for the Institution and the Community, pp. 76]{Hennessy2018a}. "Effective modern leadership is driven by the ability to manage and grow an organization in an environment of continuous change" \cite[\S5 Courage: Standing Up for the Institution and the Community, pp. 76-77]{Hennessy2018a}. "This means not only activating the courage to take well-calculated risks, but also learning to navigate the cycle that follows risk, quickly decisively recovering if a risk fails, or capitalizing on its successes. Further, even if risk-taking is against your nature, for the good of the organization, you must find the courage to practice it. As the leader, you set the behavior pattern for everyone you lead. A risk-adverse leader's behavior can undercut innovation and the sharing of new ideas throughout an organization" \cite[\S5 Courage: Standing Up for the Institution and the Community, pp. 77]{Hennessy2018a}.
++ "Being a risk-taker has its own challenges" \cite[\S5 Courage: Standing Up for the Institution and the Community, pp. 77]{Hennessy2018a}.
++ "A chief executive can encounter resistance from institutional stakeholders who don't want to see change, either because they are doing well with the status quo (often managers and supervisors), because they are afraid of losing what they've got (often investors and lower-level employees), or because they have a thoughtful disagreement with the new direction. This last group should never be ignored, because they may be - at least partially - right" \cite[\S5 Courage: Standing Up for the Institution and the Community, pp. 77]{Hennessy2018a}.
++ "It is your job as a leader to decide whether or not to take a risk. You may improve your chances of success by doing your due diligence, and you may minimize the likely backlash by educating your stakeholders on the benefits of your strategy, but in the end the decision is yours" \cite[\S5 Courage: Standing Up for the Institution and the Community, pp. 77]{Hennessy2018a}.
++ "If you realize you have steered your organization in the wrong direction, you need to find the courage to admit that fact and change course, ideally minimizing your losses. The deeper you are into the process, the more courage it takes to reverse yourself" \cite[\S5 Courage: Standing Up for the Institution and the Community, pp. 77]{Hennessy2018a}.
++ "You may suspect I'm speaking from experience here. I am" \cite[\S5 Courage: Standing Up for the Institution and the Community, pp. 77]{Hennessy2018a}.
++ "showing the courage to pursue it" and "the courage to walk away from it" (when negotiations fell apart, since the deal would violate the fundamental principles and core values of Stanford) \cite[\S5 Courage: Standing Up for the Institution and the Community, pp. 81]{Hennessy2018a}.
++ "The Stanford community supports mindful risk-taking and respects bold, value-driven action" \cite[\S5 Courage: Standing Up for the Institution and the Community, pp. 81]{Hennessy2018a}.
++ "Though you may need to let go of a dream, when you lead with courage, your effort will not be lost, and you may be pleasantly surprised by what you gain" \cite[\S5 Courage: Standing Up for the Institution and the Community, pp. 81]{Hennessy2018a}.
+
+
+##	Chapter 6, Collaboration and Teamwork: You Cannot Do It Alone
+
+"Coming together is a beginning; [keeping/]staying together is progress; working together is success."
+\- [Edward Everett Hale](https://www.brainyquote.com/quotes/edward_everett_hale_121997)
+	- https://quotefancy.com/quote/37219/Henry-Ford-Coming-together-is-the-beginning-Keeping-together-is-progress-Working-together
+	- https://en.wikiquote.org/wiki/Talk:Henry_Ford
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -261,13 +311,16 @@ Also, make a copy of the "Notes" chapter, pp. 179-180.
 
 
 
-
++ abate
+	your fear will abate
 + AI-systems
 + approximately parallel
 	- They are approximately parallels of each other.
 + assiduously
 + atavistic
 + conscientious workers/students
++ "converting detractors into committed supporters"
+	\cite[\S5 Courage: Standing Up for the Institution and the Community, pp. 79]{Hennessy2018a}.
 + fieldwork
 + from XYZ to ABC, from QWERTY to ZXCVB
 	- they asked about from XYZ to ABC, from QWERTY to ZXCVB.

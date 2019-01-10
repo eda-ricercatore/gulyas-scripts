@@ -303,6 +303,7 @@ To-do list:
 		* AppDynamics
 		* Prometheus
 		* Experience using system monitoring tools (e.g. New Relic) and automated testing frameworks
+		* Experience with monitoring frameworks such as Stackdriver.
 	- ETL technologies
 		* Flume
 		* Avro
@@ -584,8 +585,10 @@ To-do list:
 		* messaging systems, such as AWS SQS, AWS Kinesis, Kafka, or RabbitMQ, ZeroMQ
 		* big data tools and stream-processing systems: Hadoop, Spark, Storm, Spark-Streaming
 		* Understanding of standard networking protocols and components such as: TCP/IP, HTTP, DNS, ICMP, the OSI Model, Subnetting, and Load Balancing
+		* Knowledge of routing protocols such as BGP and OSPF
 		* data pipeline and workflow management tools: Azkaban, Luigi, Airflow
 		* Very well versed with ADT, ORU, ORM and document exchange messages specification
+		* Develop public APIs on either APIGEE
 		* DBT experience
 		* Object oriented programming experience (e.g. using Java, J2EE, EJB, .NET, WebSphere, etc.).
 		* data interchange formats like JSON and XML
