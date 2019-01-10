@@ -201,6 +201,14 @@ Walter Isaacson wrote:
 	- Don't wait too long to tell the offending person that they are slacking, "especially when some aspects of their work are exceptional" \cite[\S4 Empathy: How It Shapes a Leader and an Institution, pp. 59]{Hennessy2018a}. "In the name of fairness, though, it's necessary. Still, I tried to communicate the difficult message clearly and with empathy" \cite[\S4 Empathy: How It Shapes a Leader and an Institution, pp. 59-60]{Hennessy2018a}.
 	- "If an employee acts out egregiously, intentionally bringing harm to others or to the institution, in my mind that employee has already fired him or herself" \cite[\S4 Empathy: How It Shapes a Leader and an Institution, pp. 60]{Hennessy2018a}.
 + "Software is much more scalable than large-scale industrialization" \cite[\S4 Empathy: How It Shapes a Leader and an Institution, pp. 60]{Hennessy2018a}.
++ Think about the societal impact of machine learning and AI-systems on unemployment and underemployment \cite[\S4 Empathy: How It Shapes a Leader and an Institution, pp. 60]{Hennessy2018a}.
++ "We may see more and more people experiencing long-term unemployment or underemployment. We need to start thinking about those people now - not least because many may be our neighbors or co-workers. We need to realize that a shifting job market driven by radical technological innovation may lead to temporary unemployment, but it does not mean that the affected individual is unemployable" \cite[\S4 Empathy: How It Shapes a Leader and an Institution, pp. 60]{Hennessy2018a}. "We have to think about jobs that didn't even exist before, as well as those that cannot be replaced by computers, no matter how smart" \cite[\S4 Empathy: How It Shapes a Leader and an Institution, pp. 60-61]{Hennessy2018a}. "We need more teachers, and we need more people working with the elderly as our society ages -  in other words, jobs in which the human element is deeply embedded and not reducible to algorithms" \cite[\S4 Empathy: How It Shapes a Leader and an Institution, pp. 61]{Hennessy2018a}.
++ "As leaders and educators, we need to start right now preparing people for that work, and that education must include teaching empathy. It's that human element, the emotional connection and caring, that a human can bring and a robot or an app cannot" \cite[\S4 Empathy: How It Shapes a Leader and an Institution, pp. 61]{Hennessy2018a}.
++ "Empathy usually implies compassion and perhaps charity, but we are looking for more than that: we are looking for the kind of empathy that changes people as a result of their interactions with each other, the kind of empathy that arises when one sees the world anew through someone else's eyes" \cite[\S4 Empathy: How It Shapes a Leader and an Institution, pp. 62]{Hennessy2018a}.
++ The Knight-Hennessy Scholar program seeks candidates with empathy, and it would also seek to strengthen the empathy of successful candidates "during their time" Stanford \cite[\S4 Empathy: How It Shapes a Leader and an Institution, pp. 62]{Hennessy2018a}.
++ Seek to strengthen other people's resolve to help \cite[\S4 Empathy: How It Shapes a Leader and an Institution, pp. 62]{Hennessy2018a}.
++ "Stretch beyond understanding that suffering and actually feel it," and "make consequential change and alleviate human suffering" \cite[\S4 Empathy: How It Shapes a Leader and an Institution, pp. 62]{Hennessy2018a}.
++ Open your heart to people from "economically challenged neighborhood[s] or homeless shelter[s]," and "allow yourself to be changed by the experience." "Let [such] deep empathy guide [me]," and commit/dedicate myself "to creating positive change in the world" \cite[\S4 Empathy: How It Shapes a Leader and an Institution, pp. 63]{Hennessy2018a}.
 
 
 
@@ -210,6 +218,35 @@ Walter Isaacson wrote:
 
 
 
+##	Chapter 5, Courage: Standing Up for the Institution and the Community
+
++ "Humility, authenticity, empathy, service-mindedness - these characteristics shape a leader's vision and chart a course toward right action. Courage, on the other hand, compels a leader to take that right action. While many people can discern what is right and true, acting on that discernment is more difficult. The leaders who practice courageous action are ready to transform their organizations in necessary, significant, and lasting ways" \cite[\S5 Courage: Standing Up for the Institution and the Community, pp. 65]{Hennessy2018a}.
++ "People often conflate courage with bravery. Certainly they are connected: acts of bravery usually require an underlying courage, and a courageous life is sometimes made manifest through acts of bravery" \cite[\S5 Courage: Standing Up for the Institution and the Community, pp. 65]{Hennessy2018a}.
++ **"To my mind, courage is continuous, a character trait that serves as a foundation to a life of decisiveness and moral direction. Bravery, however, is incident-based, a willingness to take enormous risks during those brief moments when they need to be taken"** \cite[\S5 Courage: Standing Up for the Institution and the Community, pp. 65]{Hennessy2018a}.
+	- "A soldier storming a pillbox on Omaha Beach on D-Day is incredibly brave; that same soldier, now permanently injured, requires courage to get through the subsequent years of pain, disability, and reinventing his life" \cite[\S5 Courage: Standing Up for the Institution and the Community, pp. 65]{Hennessy2018a}.
++ "**In large and small ways, the courage in our character is tested regularly.** As a leader, you may need to draw on personal courage to respond to events outside your organization, such as a natural disaster or a national tragedy. You also may need to call on your courage to address internal events, to take necessary risks, to change your position, to admit a mistake, or to recover from a failure" \cite[\S5 Courage: Standing Up for the Institution and the Community, pp. 66]{Hennessy2018a}.
++ "To different degrees, each of us has that courage in our character. How much we're willing to exercise it, I believe, is a product of how many times we've flexed and strengthened that muscle in the past. Courageous people are no less fearful than everyone else; rather they've learned to live with their fears while taking right action... The learning curve is long and punctuated with moments of terror. Yet acting with courage gets easier with each lesson" \cite[\S5 Courage: Standing Up for the Institution and the Community, pp. 66]{Hennessy2018a}.
++ "Demands for courage from a leader are often greater than from the people they lead" \cite[\S5 Courage: Standing Up for the Institution and the Community, pp. 66]{Hennessy2018a}.
++ "Leaders ... enjoy certain advantages that help them bolster their courage" \cite[\S5 Courage: Standing Up for the Institution and the Community, pp. 66]{Hennessy2018a}.
++ "Four pillars [that help to] bolster" Dr. John L. Hennessy's courage \cite[\S5 Courage: Standing Up for the Institution and the Community, pp. 66-82]{Hennessy2018a}:
+	- "Remember the core mission" \cite[\S5 Courage: Standing Up for the Institution and the Community, pp. 66]{Hennessy2018a}
+	- "Step up when the community needs you" \cite[\S5 Courage: Standing Up for the Institution and the Community, pp. 69]{Hennessy2018a}
+	- "Sometimes courage means standing firm" \cite[\S5 Courage: Standing Up for the Institution and the Community, pp. 73]{Hennessy2018a}
+	- "Don't be afraid to take risks" \cite[\S5 Courage: Standing Up for the Institution and the Community, pp. 76]{Hennessy2018a}
+
+
+
+
+
+
+
+
+@book{Hennessy2018a,
+	Address = {Stanford, {CA}},
+	Author = {John L. Hennessy},
+	Publisher = {Stanford Business Books},
+	Title = {Leading Matters: Lessons from My Journey},
+	Year = {2018}}
 
 
 ##	To-Do List
