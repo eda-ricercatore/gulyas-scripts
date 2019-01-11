@@ -279,8 +279,8 @@ Walter Isaacson wrote:
 + "[Team leaders,] your team members are your equals, and in terms of contribution, some will be your superiors" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 83]{Hennessy2018a}.
 + Avoid being a petty, tyrannic team leader that demands their "contribution... be recognized before and above everyone else's" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 83]{Hennessy2018a}.
 + "The classic model, *[primus inter pares](https://en.wikipedia.org/wiki/Primus_inter_pares)*, or first among equals, has produced the best results" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 83]{Hennessy2018a}.
-
-
++ "An effective leader needs to know not only how to participate on a team, but also how to build a team, how to motivate its members, and how to "
+\cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 84]{Hennessy2018a}.
 
 
 
