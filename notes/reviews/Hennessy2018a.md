@@ -310,14 +310,20 @@ Walter Isaacson wrote:
 	- "Encourage new ideas and tough questions."
 	- Don't "[shoot people] down for bringing to the table a problem that needed attention." Instead, excoriate team members "for not bringing problem[s] to the table".
 		- Create a safe space for team members to bring up problems, so that they won't be "afraid to speak up."
-
-
-
-
-
-
-
-
++ "Knowing your role: The key to successful collaboration" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 88]{Hennessy2018a}
++ For "effective collaboration, you must find your part and play it" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 88]{Hennessy2018a}.
++ Learn to be "diplomatic, measured, and... patient" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 88]{Hennessy2018a}.
++ Learn to be a deep thinker \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 88]{Hennessy2018a}.
++ Find a public visionary for the team \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 88]{Hennessy2018a}.
++ If possible, create teams such that for certain roles, various team members can interchangeably fulfill those roles \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 89]{Hennessy2018a}.
++ Encourage team members to share information that the team needs to know \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 89]{Hennessy2018a}.
++ **"Collaboration is much more than a few personalities teaming up and working together, hoping the chemistry will balance out. It is rather like a marriage - you make compromises and adjustments toward the overall goal; you face doubts and resolve them together"** \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 92]{Hennessy2018a}.
++ "By thinking outside the normal structure of relationships, by building truly collaborative teams, and by aligning our interests, we were able to achieve remarkable things" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 92]{Hennessy2018a}.
++ Collaborating up the chain \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 92]{Hennessy2018a}.
++ "Reflecting on how my superiors encouraged and challenged me to stretch for my goals, I learned how to be a more effective mentor myself" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 92]{Hennessy2018a}.
++ Dr. John L. Hennessy draws an analogy between the CEO and board of directors of a corporation with the president (or equivalent) and board of trustees (who are volunteers) of a university \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 93]{Hennessy2018a}.
++ The board (of directors/trustees) shall provide "fiduciary oversight" for the organization (or, corporation or university), and "step in when the actions of the leader are not serving the [organization] well" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 93]{Hennessy2018a}.
++ A CEO should keep the board of directors of the corporation informed of major issues and challenges concerning the corporation/organization, so that the board would not be surprised when they learn/hear about these from others. In addition, the CEO shall "engage the board in discussions about major decisions and strategic directions, [and gain] wisdom from the board's perspective." A president of a university shall do likewise for the university's board of trustees \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 93]{Hennessy2018a}.
 
 
 
