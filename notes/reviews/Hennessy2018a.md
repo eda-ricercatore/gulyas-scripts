@@ -275,12 +275,33 @@ Walter Isaacson wrote:
 + Resources about the quote at the start of the chapter:
 	- https://quotefancy.com/quote/37219/Henry-Ford-Coming-together-is-the-beginning-Keeping-together-is-progress-Working-together
 	- https://en.wikiquote.org/wiki/Talk:Henry_Ford
+	- *This quote (attributed to Henry Ford) is disputed or misattributed. It should be attributed to Edward Everett Hale, or both Edward Everett Hale and Henry Ford.*
 + "Leadership is... all about collaboration and teamwork" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 83]{Hennessy2018a}.
 + "[Team leaders,] your team members are your equals, and in terms of contribution, some will be your superiors" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 83]{Hennessy2018a}.
 + Avoid being a petty, tyrannic team leader that demands their "contribution... be recognized before and above everyone else's" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 83]{Hennessy2018a}.
 + "The classic model, *[primus inter pares](https://en.wikipedia.org/wiki/Primus_inter_pares)*, or first among equals, has produced the best results" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 83]{Hennessy2018a}.
-+ "An effective leader needs to know not only how to participate on a team, but also how to build a team, how to motivate its members, and how to "
-\cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 84]{Hennessy2018a}.
++ "An effective leader needs to know not only how to participate on a team, but also how to build a team, how to motivate its members, and how to foster an environment that supports creative thinking, in which  team members can make the kind of nonlinear, non-incremental contributions that lead to great outcomes" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 84]{Hennessy2018a}.
++ Science and engineering/technology can play a part/role in transforming individuals into "dedicated collaborators" and value/recognize/appreciate synergistic collaboration \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 84]{Hennessy2018a}.
+	- "Living and working in Silicon Valley and at Stanford have reinforced that belief every single day" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 84]{Hennessy2018a}.
++ Recognize that junior members can make insightful contributions because of their "youthful energy, greater willingness to take risks, recent exposure to the latest innovations, an anti-authoritarian attitude, less fear of losing one's reputation, and freedom from precedent" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 84]{Hennessy2018a}.
+	- "High-tech companies and academia" recognize this, and try "to break down boundaries, both within and across teams" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 84]{Hennessy2018a}.
+	- "`Flattening' of authority" and "dismantling hierarchical thinking" happen more frequently in science and engineering, since young scientists and engineers are more likely to better research productivity \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 84-85]{Hennessy2018a}.
+	- "Science and engineering are quantitive [and empirical field]: we can objectively measure and assess the strength of an idea." Since "records of experiments" tend to be meticulously kept, they serve as evidence to settle disputes about the experimental results and attributing/giving/claiming/getting credit \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 85]{Hennessy2018a}.
++ The leader should be a true team player by "encourag[ing] equitable opportunities [for all] to contribute," and set the tone for the corporate culture (or organization's culture). This indicates that the leader "honestly value[s] the contributions of others, [and] set the course for success" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 85]{Hennessy2018a}.
++ Develop and use EDA/CAD tools to give small research teams (in computer architecture, VLSI design, compiler design, and operating systems) leverage to design state-of-the-art processors \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 86]{Hennessy2018a}.
++ Include "independent, critical thinkers" in the research (or advanced R&D) team who are "willing to revisit and reinvent the conventional wisdom" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 86]{Hennessy2018a}.
++ Brainstorming should entail a brief literature review (to "read the relevant literature"), and "offer[ing] ideas for consideration". Constraints and boundaries for brainstorming shall be imposed by "old-timers" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 86]{Hennessy2018a}.
++ Use Jeff Bezos's two-pizza rule to create "small, highly effective teams", or "tight group[s] of top-notch thinkers," which can be more efficient than larger teams \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 86]{Hennessy2018a}.
+	- Jeff Bezos's two-pizza rule is to organize team meetings for small team sizes, such that two pizzas can feed everyone on the team \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 86]{Hennessy2018a}.
++ **"Research has shown that the most productive teams contain the maximum diversity of skills, viewpoints, and personalities"** \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 86]{Hennessy2018a}.
+	- **"How do you maximize team heterogeneity, while at the same time holding the team together? This is the ultimate challenge to the leader of any such team"** \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 86]{Hennessy2018a}.
++ For multidisciplinary teams (which can offer multiple/different perspectives), "equally empower each member of your teams" to avoid breaking up/down the team into cliques based on their niche. This is because each research community has its own parlance (or, nomenclature, terminology, or "technical vocabulary"). In addition, a hierarchy of sub- teams/groups may result if at least one sub- team/group perceives itself to be superior, more valuable, or more important than other sub- teams/groups \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 87]{Hennessy2018a}.
++ Ground rules for mitigating/circumventing intrateam rivalries \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 87]{Hennessy2018a}:
+	- Create a shared goal about "achiev[ing] something great," such that each part of the outcome/thing "[has] to be excellent".
+		* This rule "establishe[s]... basic respect for the expertise of all" team members.
+	- "At the start, ... don't criticize ideas".
+		* This "support[s] innovative, cross-disciplinary thinking" by team members to "think them through and evaluate them without judgment on the source or prejudgment of the idea." 
+
 
 
 
