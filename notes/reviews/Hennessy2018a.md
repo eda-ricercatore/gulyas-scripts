@@ -300,7 +300,16 @@ Walter Isaacson wrote:
 	- Create a shared goal about "achiev[ing] something great," such that each part of the outcome/thing "[has] to be excellent".
 		* This rule "establishe[s]... basic respect for the expertise of all" team members.
 	- "At the start, ... don't criticize ideas".
-		* This "support[s] innovative, cross-disciplinary thinking" by team members to "think them through and evaluate them without judgment on the source or prejudgment of the idea." 
+		* This "support[s] innovative, cross-disciplinary thinking" by team members to "think them through and evaluate them without judgment on the source or prejudgment of the idea."
+	- "Encourage tough questions" that should be "asked with respect and received with openness", prior to evaluating the ideas/suggestions.
+		* This encourage team members to vigorously, or even ruthlessly, challenge the ideas, rather than the team members.
+	- "*Team members must be treated with the utmost mutual respect.* After all, if we weren't good enough to be part of the team, we wouldn't have been invited into it. Especially in a group made up of alpha-status individuals, team leaders must quash the notion that the person who speaks the loudest wins. Instead, you must cultivate a work environment that encourages thoughtful debate while discouraging personal criticism or anger."
+		* Senior team members should "model and enforce this behavior."
++ Important practices for leaders \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 88]{Hennessy2018a}:
+	- "Use the [aforementioned] ground rules for teamwork" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 87]{Hennessy2018a}.
+	- "Encourage new ideas and tough questions."
+	- Don't "[shoot people] down for bringing to the table a problem that needed attention." Instead, excoriate team members "for not bringing problem[s] to the table".
+		- Create a safe space for team members to bring up problems, so that they won't be "afraid to speak up."
 
 
 
@@ -341,6 +350,7 @@ Also, make a copy of the "Notes" chapter, pp. 179-180.
 + abate
 	your fear will abate
 + AI-systems
++ alpha-status individuals
 + approximately parallel
 	- They are approximately parallels of each other.
 + assiduously
