@@ -271,9 +271,10 @@ Walter Isaacson wrote:
 
 "Coming together is a beginning; [keeping/]staying together is progress; working together is success."
 \- [Edward Everett Hale](https://www.brainyquote.com/quotes/edward_everett_hale_121997):
-+ https://quotefancy.com/quote/37219/Henry-Ford-Coming-together-is-the-beginning-Keeping-together-is-progress-Working-together
-+ https://en.wikiquote.org/wiki/Talk:Henry_Ford
 
++ Resources about the quote at the start of the chapter:
+	- https://quotefancy.com/quote/37219/Henry-Ford-Coming-together-is-the-beginning-Keeping-together-is-progress-Working-together
+	- https://en.wikiquote.org/wiki/Talk:Henry_Ford
 + "Leadership is... all about collaboration and teamwork" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 83]{Hennessy2018a}.
 + "[Team leaders,] your team members are your equals, and in terms of contribution, some will be your superiors" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 83]{Hennessy2018a}.
 + Avoid being a petty, tyrannic team leader that demands their "contribution... be recognized before and above everyone else's" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 83]{Hennessy2018a}.
