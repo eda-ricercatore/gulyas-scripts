@@ -324,9 +324,14 @@ Walter Isaacson wrote:
 + Dr. John L. Hennessy draws an analogy between the CEO and board of directors of a corporation with the president (or equivalent) and board of trustees (who are volunteers) of a university \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 93]{Hennessy2018a}.
 + The board (of directors/trustees) shall provide "fiduciary oversight" for the organization (or, corporation or university), and "step in when the actions of the leader are not serving the [organization] well." It shall be willing to develop a "collaborative relationship" with the CEO (or president of the university). "The board [shall support] the CEO," "[act] as advisors," and "[use] their knowledge and skills to enhance the work of the management team" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 93]{Hennessy2018a}.
 + A CEO shall pursue a "collaborative relationship" with the board. The CEO should keep the board of directors of the corporation informed of major issues and challenges concerning the corporation/organization, so that the board would not be surprised when they learn/hear about these from others. In addition, the CEO shall "engage the board in discussions about major decisions and strategic directions, [and gain] wisdom from the board's perspective." A president of a university shall do likewise for the university's board of trustees \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 93]{Hennessy2018a}.
-
-
-
++ The important principles for a successful collaborative relationship (or collaboration) between the CEO (or president of the university) and the board are \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 93]{Hennessy2018a}:
+	- "[Know and respect] our roles"
+		* E.g., the board shall not do the job of the leadership, and "manage or run the university."
+		* "Another major role [of the board is that] it is a source of both philanthropy and fundraising, giving and soliciting the gifts that enable the university to thrive" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 93]{Hennessy2018a}.
+		* E.g., the leadership 's job is "to manage or run the university"... "the leadership [shall recognize] that the board [has] ultimate responsibility for appointing and evaluating the CEO/president, for protecting the reputation of the university (a shared responsibility), and for ensuring the institution's long-term financial health." In addition, the leadership shall recognize that "the trustees are the guardians of the interests of future generations"... The leadership shall also be "honest and forthright with the board," "[engage] the board on virtually every major decision," and "[trust] that [the board] would listen to and support the decisions of the leadership team."
+		* "Understanding these roles allowed us to build a trust relationship."
+	- Have "mutual trust" for each other.
++ "The team leader: Choose well and then be ready to help out" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 94]{Hennessy2018a}.
 
 
 
