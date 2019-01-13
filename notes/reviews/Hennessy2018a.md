@@ -336,7 +336,12 @@ Walter Isaacson wrote:
  	- "How do you choose the right person?"
 	- "Who can you trust to recruit a talented team with the right interpersonal chemistry, to establish a respectful and productive team culture, and to draw the best performance out of each individual member so they reach their collective goals?"
 	- How do you help the leader succeed?
+	- Initially, "this transition can feel vulnerable."
+	- Remember that you got to where you are because you are a good team leader and a member. "Now[,] you must entrust that job to someone else."
+	- "How do you know that person will carry the mantle well?"
 	\cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 94]{Hennessy2018a}.
+	- Don't expect or demand my teammates to exhibit the skills and drive that are at least as good as my skills and drive when I was a team member without a leadership role.
+	- When I have to delegate team leadership to someone else, beware of "recruiting a team leader" by comparing that person's potential to perform with my performance as a team leader. Else, my self-bias (or self-serving bias) against my weakness, failures, errors, and mistakes makes it hard to equitably (or fairly) compare the leadership candidate with my current/past performance as a leaders.
 
 
 
