@@ -344,7 +344,7 @@ Walter Isaacson wrote:
 	- Avoid looking for a leader who would do things exactly the way I would. Instead, look for people with "a history of positive collaboration and... [exhibit] the leadership characteristics" required to get tasks/jobs done.
 	- After choosing the team leader, allow the new leader to perform without my oversight and without my micromanagement.
 	- Be aware of the risk of (harshly) judging the actions of the new leader, so avoid condemning the perceived "subpar performance" of the new leader \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 94-95]{Hennessy2018a}. Hence, avoid trying to intervene in the leadership and management of them team by helping (or offering to help) the new leader. The only exception is when the team is highly dysfunctional to me and/or others in my social network. Remember that leaders can become better after making mistakes, learning from the mistakes, and avoiding similar mistakes in the future \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 95]{Hennessy2018a}.
-
+	- "Trust your team leader, and trust your own judgment. In your role as executive, you don't have the bandwidth to micromanage your appointed leaders. That said, if you see - or if others call your attention to - a project sliding off course, you will need to intervene" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 95]{Hennessy2018a}.
 
 
 
