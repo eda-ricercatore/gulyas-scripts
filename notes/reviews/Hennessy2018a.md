@@ -339,12 +339,11 @@ Walter Isaacson wrote:
 	- Initially, "this transition can feel vulnerable."
 	- Remember that you got to where you are because you are a good team leader and a member. "Now[,] you must entrust that job to someone else."
 	- "How do you know that person will carry the mantle well?"
-	\cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 94]{Hennessy2018a}.
 	- Don't expect or demand my teammates to exhibit the skills and drive that are at least as good as my skills and drive when I was a team member without a leadership role.
 	- When I have to delegate team leadership to someone else, beware of "recruiting a team leader" by comparing that person's potential to perform with my performance as a team leader. Else, my self-bias (or self-serving bias) against my weaknesses, failures, errors, and mistakes makes it hard to equitably (or fairly) compare the leadership candidate with my current/past performance as a team leader. I may not have consciously chosen to remember my slow learning pace when learning technologies with steep learning curves, weaknesses, failures, errors, and mistakes.
 	- Avoid looking for a leader who would do things exactly the way I would. Instead, look for people with "a history of positive collaboration and... [exhibit] the leadership characteristics" required to get tasks/jobs done.
-
-
+	- After choosing the team leader, allow the new leader to perform without my oversight and without my micromanagement.
+	- Be aware of the risk of (harshly) judging the actions of the new leader, so avoid condemning the perceived "subpar performance" of the new leader \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 94-95]{Hennessy2018a}. Hence, avoid trying to intervene in the leadership and management of them team by helping (or offering to help) the new leader. The only exception is when the team is highly dysfunctional to me and/or others in my social network. Remember that leaders can become better after making mistakes, learning from the mistakes, and avoiding similar mistakes in the future \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 95]{Hennessy2018a}.
 
 
 
