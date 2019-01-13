@@ -341,8 +341,8 @@ Walter Isaacson wrote:
 	- "How do you know that person will carry the mantle well?"
 	\cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 94]{Hennessy2018a}.
 	- Don't expect or demand my teammates to exhibit the skills and drive that are at least as good as my skills and drive when I was a team member without a leadership role.
-	- When I have to delegate team leadership to someone else, beware of "recruiting a team leader" by comparing that person's potential to perform with my performance as a team leader. Else, my self-bias (or self-serving bias) against my weakness, failures, errors, and mistakes makes it hard to equitably (or fairly) compare the leadership candidate with my current/past performance as a leaders.
-
+	- When I have to delegate team leadership to someone else, beware of "recruiting a team leader" by comparing that person's potential to perform with my performance as a team leader. Else, my self-bias (or self-serving bias) against my weaknesses, failures, errors, and mistakes makes it hard to equitably (or fairly) compare the leadership candidate with my current/past performance as a team leader. I may not have consciously chosen to remember my slow learning pace when learning technologies with steep learning curves, weaknesses, failures, errors, and mistakes.
+	- Avoid looking for a leader who would do things exactly the way I would. Instead, look for people with "a history of positive collaboration and... [exhibit] the leadership characteristics" required to get tasks/jobs done.
 
 
 
