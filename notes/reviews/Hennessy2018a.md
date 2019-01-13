@@ -332,6 +332,33 @@ Walter Isaacson wrote:
 		* "Understanding these roles allowed us to build a trust relationship."
 	- Have "mutual trust" for each other.
 + "The team leader: Choose well and then be ready to help out" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 94]{Hennessy2018a}.
++ A leader shall "[participate] in the teams s/he (or, (s)he, he/she) create," and "[delegate] team leadership to others" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 94]{Hennessy2018a}.
+ 	- "How do you choose the right person?"
+	- "Who can you trust to recruit a talented team with the right interpersonal chemistry, to establish a respectful and productive team culture, and to draw the best performance out of each individual member so they reach their collective goals?"
+	- How do you help the leader succeed?
+	\cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 94]{Hennessy2018a}.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
