@@ -104,9 +104,14 @@ Fix mathematical proof for paper and implement processor subsystems.
 	- VENUE
 	- Submission deadline: Late April or Early May, 2019.
 + SIGGRAPH, ACM special interest group on Computer GRAPHics and Interactive Techniques
-	- URL
-	- VENUE
-	- Submission deadline: Late Jan, 2019
+	- https://s2019.siggraph.org/
+	- Los Angeles, CA.
+	- Submission deadlines:
+		* Technical papers: January 13 and 14, 2019
+		* Emerging Technologies: February 12, 2019.
+		* Art Papers:
+			+
+			+ ["The SIGGRAPH Art Papers program brings together communities of researchers and practitioners working at the intersections of art, design, humanities, science, and technology."](https://s2019.siggraph.org/conference/programs-events/art-papers/art-papers-submissions/)
 + SIGIR, ACM SIGIR Conference on Research and Development in Information Retrieval
 	- URL
 	- VENUE

@@ -524,6 +524,8 @@ To-do list:
 	- BDD (Cucumber, Gherkin)
 	- Python, Gherkin, Cucumber, Espresso, XUI Test
 	- Experience with testing technologies (JUnit, Espresso, Mockito, Robolectric)
+	- Unit Testing Tools  –  Google Test or CPPUnit ; Code quality tools
+ 	- Familiarity with Linux, Maven, Git/Stash, Jira, Bamboo/Jenkins
 	- Experience with distributed messages systems ( Apache Kafka)
 	- Experience in CFD combustion or other reacting-flow simulations.
 	- tech stack

@@ -345,6 +345,14 @@ Walter Isaacson wrote:
 	- After choosing the team leader, allow the new leader to perform without my oversight and without my micromanagement.
 	- Be aware of the risk of (harshly) judging the actions of the new leader, so avoid condemning the perceived "subpar performance" of the new leader \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 94-95]{Hennessy2018a}. Hence, avoid trying to intervene in the leadership and management of them team by helping (or offering to help) the new leader. The only exception is when the team is highly dysfunctional to me and/or others in my social network. Remember that leaders can become better after making mistakes, learning from the mistakes, and avoiding similar mistakes in the future \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 95]{Hennessy2018a}.
 	- "Trust your team leader, and trust your own judgment. In your role as executive, you don't have the bandwidth to micromanage your appointed leaders. That said, if you see - or if others call your attention to - a project sliding off course, you will need to intervene" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 95]{Hennessy2018a}.
+	- When intervening in the challenges of a dysfunctional team, coach the struggling leader. Ask questions to "illuminate key issues [for] the team leader... to consider" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 95]{Hennessy2018a}:
+		* "Is the team converging?"
+		* "Have they identified clear opportunities and challenges?"
+		* "Do they have a plan for engaging wider support?"
+			+ The leader and the team core may "[have] a clear vision," but they may not "[have] engaged [with] the broader community" for the necessary support.
+	- "If you have picked the right person and you ask the right questions, your team leader will get the message and address the issue" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 95]{Hennessy2018a}.
+	-
+	\cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 95]{Hennessy2018a}.
 
 
 
