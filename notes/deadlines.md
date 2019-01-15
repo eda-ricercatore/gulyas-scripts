@@ -1097,7 +1097,8 @@ Fix mathematical proof for paper and implement processor subsystems.
 + HPEC, IEEE High Performance Extreme Computing Conference
 	- http://ieee-hpec.org
 	- Waltham, MA
-	- Submission deadline: Mid-/Late May, 2019.
+	- September 24-26, 2019.
+	- Submission deadline: May 17, 2019.
 
 
 + IISWC, IEEE International Symposium on Workload Characterization

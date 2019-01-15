@@ -19,11 +19,12 @@
 + Cosa fare adesso?
 	- BDA project has more test cases
 		* Which modules are tested more than the original?
-	- Is the gulyas-scripts far behind?
+	- Is the *gulyas-scripts* far behind?
 		* Non lo so.
-
-
-
+	- *Python*-based boilerplate code for the BDA project and the *gulyas-scripts*
+		* statistics
+		* utilities
+	- Write scripts to compare the differences between these two subdirectories.
 
 
 
@@ -51,8 +52,9 @@
 
 
 
-
-
++ Fix resume and CV
+	- Use "Experience," instead of "Work Experience"
+	- Use "Skills," instead of "Computer Skills"
 
 
 
