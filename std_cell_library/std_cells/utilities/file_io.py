@@ -168,7 +168,8 @@ class file_io_operations:
 			if not os.path.isdir(current_path):
 				print("	... Creating directory for month at:",current_path)
 				try:
-					os.mkdirs(current_path, exist_ok = True)
+					#os.mkdirs(current_path, exist_ok = True)
+					os.makedirs(current_path, exist_ok = True)
 				except OSError:
 					print("Encountered error in making directory.", file=sys.stderr)
 					logging.error("Determine why directory for month cannot be created.")
@@ -177,7 +178,8 @@ class file_io_operations:
 		else:
 			print("	... Creating directory for year at:",current_path)
 			try:
-				os.mkdirs(current_path, exist_ok = True)
+				#os.mkdirs(current_path, exist_ok = True)
+				os.makedirs(current_path, exist_ok = True)
 			except OSError:
 				print("Encountered error in making directory.", file=sys.stderr)
 				logging.error("Determine why directory for year cannot be created.")
@@ -187,7 +189,8 @@ class file_io_operations:
 			print("	...os.path.isdir(current_path):",os.path.isdir(current_path))
 			print("	... Creating directory for month at:",current_path)
 			try:
-				os.mkdirs(current_path, exist_ok = True)
+				#os.mkdirs(current_path, exist_ok = True)
+				os.makedirs(current_path, exist_ok = True)
 			except OSError:
 				print("Encountered error in making directory.", file=sys.stderr)
 				logging.error("Determine why directory for month cannot be created.")
