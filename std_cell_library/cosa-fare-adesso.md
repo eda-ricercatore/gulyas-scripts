@@ -8,16 +8,26 @@
 		* Do not run the regression test suite in this subsubdirectory.
 		- Test cases passed:	131
 		- Test cases used:		131
-
-
 + For my BDA project 1:
 	- 2018-wannabe-postdoc-1
 	- Last ran test suite: January 15, 2018 a 1459 ora.
-	- Test cases passed:	134
-	- Test cases used:		134
-	- not tested:
+	- Test cases passed:	166
+	- Test cases used:		166
+	- not fully tested:
 		* miscellaneous.py
 		* utilities/miscellaneous_tester.py
++ Cosa fare adesso?
+	- BDA project has more test cases
+		* Which modules are tested more than the original?
+	- Is the gulyas-scripts far behind?
+		* Non lo so.
+
+
+
+
+
+
+
 
 
 
