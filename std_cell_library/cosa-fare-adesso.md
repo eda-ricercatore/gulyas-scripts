@@ -1,15 +1,34 @@
 #	Cosa Fare Adesso?
 
 + Successfully run test suite for automated regression testing.
-	- std_cell_library/
-	- 
+	- std_cell_library/std_cells
+		* **Use the regression test suite in this subsubdirectory.**
+	- std_cell_library/test_suite
+		* This subsubdirectory is deprecated.
+		* Do not run the regression test suite in this subsubdirectory.
+		- Test cases passed:	131
+		- Test cases used:		131
 
 
++ For my BDA project 1:
+	- 2018-wannabe-postdoc-1
+	- Last ran test suite: January 15, 2018 a 1459 ora.
+	- Test cases passed:	134
+	- Test cases used:		134
+	- not tested:
+		* miscellaneous.py
+		* utilities/miscellaneous_tester.py
 
 
 
 
 #	Cosa Fare Dopo?
+
+
+
+
+
+
 
 ##	Cosa Fare Dopo? Niente!
 
