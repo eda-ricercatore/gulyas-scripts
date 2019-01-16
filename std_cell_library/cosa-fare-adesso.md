@@ -35,7 +35,7 @@
 
 #	Cosa Fare Dopo?
 
-
++ Write script to calculate tuition fees, and verify bill.
 
 
 
