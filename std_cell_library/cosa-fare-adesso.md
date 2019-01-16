@@ -36,6 +36,11 @@
 #	Cosa Fare Dopo?
 
 + Write script to calculate tuition fees, and verify bill.
++ Fix resume and CV
+	- Use "Experience," instead of "Work Experience"
+	- Use "Skills," instead of "Computer Skills"
+
+
 
 
 
@@ -44,17 +49,14 @@
 ##	Cosa Fare Dopo? Niente!
 
 
++ Number of keywords in my BibTeX database: 83906.
++ Number of publishers in my BibTeX database: 1784.
++ Number of series in my BibTeX database: 1086.
 
 
 
 
 
-
-
-
-+ Fix resume and CV
-	- Use "Experience," instead of "Work Experience"
-	- Use "Skills," instead of "Computer Skills"
 
 
 
