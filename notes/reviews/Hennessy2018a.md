@@ -356,12 +356,16 @@ Walter Isaacson wrote:
 	- Can "the [team] leader... attract or inspire team members"? \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 96]{Hennessy2018a}.
 	- "When you have no one better to take over leadership, you need to make the hard decision: cut your losses and move on. In such cases, I have tried to end the effort gracefully, declaring a partial victory, letting the team claim some success, while diverting resources to more worthy projects with stronger teams" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 96]{Hennessy2018a}.
 + "Handling a collaborative effort that doesn't work out" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 96]{Hennessy2018a}.
-+ Factor affecting the success of team collaborations \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 96]{Hennessy2018a}:
++ Factors affecting the success of team collaborations \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 96]{Hennessy2018a}:
 	- "The choice of the team leader"
 	- The support that the organization/institution provides to "visionaries behind [an] initiative"
 	- Is the "rationale for [an] initiative" "as compelling as [the visionaries] thought it was"?
-
-+ "Celebrating shared success" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 96]{Hennessy2018a}.
+	- Did we select sufficiently good "task force members" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 97]{Hennessy2018a}?
+	- Did we fail to establish a proper framework for the initiative \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 97]{Hennessy2018a}?
+	- Did we fail to delegate tasks appropriately and set the task force to work \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 97]{Hennessy2018a}?
++ When "the opposition [is] entrenched," do you "[steamroll] the opposition" and strain/damage the "trust relationship" with the board of trustees/directors, "[undermine your] ability to pilot future initiatives that required support from the faculty," and adversely affect the well-being of the institution \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 97]{Hennessy2018a}?
++ If you cannot find or create a "graceful exit," "find the courage to admit your mistakes and move on to other opportunities" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 97]{Hennessy2018a}
++ "Celebrating shared success" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 98]{Hennessy2018a}.
 
 
 
@@ -433,6 +437,7 @@ Also, make a copy of the "Notes" chapter, pp. 179-180.
 	- righteousness
 	- moral virtue
 	- integrity
++ selective private universities/institutions
 + step up to the moment
 + "true scoop"
 	- resolve to give people the true scoop on that situation
