@@ -388,7 +388,7 @@ Notes from this chapter:
 
 "To succeed, planning alone is insufficient. One must improvise as well."
 \- [Isaac Asimov, for the character Salvor Hardin's speech in the novel *Foundation*](https://en.wikipedia.org/wiki/Salvor_Hardin)
-\cite[\S7 Innovation: The Key to Success in Industry and Academia, pp. 99]{Hennessy2018a}
+\cite[\S7 Innovation: The Key to Success in Industry and Academia, pp. 101]{Hennessy2018a}
 
 
 
