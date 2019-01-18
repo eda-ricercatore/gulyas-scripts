@@ -419,6 +419,24 @@ Notes from this chapter:
 + "Open your eyes, [Kathleen Sullivan and Bob Joss] said. Get out of your head. Don't just advocate for your own turf, but think about the needs of the university as a whole, and of its future generations of students" \cite[\S7 Innovation: The Key to Success in Industry and Academia, pp. 113]{Hennessy2018a}.
 
 
+##	Chapter 8, Intellectual Curiosity: Why Being a Lifelong Learner is Crucial
+
+
+
+\cite[\S8 Intellectual Curiosity: Why Being a Lifelong Learner is Crucial, pp. 113]{Hennessy2018a}.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
