@@ -316,6 +316,107 @@ We seek original research contributions at the frontiers of a wide range of topi
 
 
 
+#	ICML
+
+Primary / Secondary
++ Applications
+	- Computational Biology and Genomics
+	- Computational Social Sciences
+	- Computer Vision
+	- Crowdsourcing
+	- Healthcare
+	- Information Retrieval
+	- Natural Language Processing
+	- Neuroscience and Cognitive Science
+	- Other Applications
+	- Recommender Systems
+	- Robotics
+	- Speech Processing
+	- Sustainability, Climate and Environment
++ Deep Learning
+	- Algorithms
+	- Architectures
+	- Bayesian Deep Learning
+	- Deep Generative Models
+	- Deep Learning Theory
+	- Deep Sequence Models
+	- Generative Adversarial Networks
+	- Optimization
+	- Others
++ General Machine Learning
+	- Active Learning
+	- Clustering
+	- Dimensionality Reduction
+	- Ensemble Methods
+	- Kernel Methods
+	- Metric Learning
+	- Networks and Relational Learning
+	- Others
+	- Ranking and Preference Learning
+	- Representation Learning
+	- Semi-supervised learning
+	- Structured Prediction
+	- Supervised Learning
+	- Systems and Software
+	- Time Series and Sequence Models
+	- Transfer and Multitask Learning
+	- Unsupervised Learning
++ Learning Theory
+	- Computational Learning Theory
+	- Game Theory and Mechanism Design
+	- Information Theory and Estimation
+	- Non-parametric Methods
+	- Online Learning
+	- Statistical Learning Theory
+	- Supervised Learning
+	- Unsupervised and Semi-supervised Learning
++ Optimization
+	- Combinatorial Optimization
+	- Convex Optimization
+	- Large Scale Learning and Big Data
+	- Matrix Factorization
+	- Non-convex Optimization
+	- Optimization - Others
+	- Parallel and Distributed Learning
+	- Randomized Linear Algebra
+	- Sparsity and Compressed Sensing
+	- Tensor Methods
++ Probabilistic Inference
+	- Approximate Inference
+	- Bayesian Methods
+	- Bayesian Nonparametrics
+	- Gaussian Processes
+	- Generative Models
+	- Monte Carlo Methods
+	- Probabilistic Programming
+	- Spectral Learning
++ Reinforcement Learning and Control
+	- Bandits
+	- Deep Reinforcement Learning
+	- Multiagent Learning
+	- Planning and Control
+	- Safety
+	- Theory and Algorithms
++ Trustworthy Machine Learning
+	- Adversarial Examples
+	- Causality
+	- Fairness
+	- Interpretability
+	- Privacy-preserving Statistics and Machine Learning
+	- Robust Statistics and Machine Learning
+
+
+
+Primary: Adversarial Examples
+Secondary: Fairness, Interpretability, Privacy-preserving Statistics and Machine Learning, and Robust Statistics and Machine Learning
+
+Title: A Hardware Approach to Mitigating Adversarial Machine Learning
+
+Abstract (maximum 5000 characters): We discuss a secure hardware implementation of deep neural network to mitigate adversarial machine learning. We propose a solution using noise-based logic to implement a deep neural network that is robust to attacks via adversarial machine learning. We discuss preliminary experimental results using robust statistics.
+
+
+
+
 
 
 

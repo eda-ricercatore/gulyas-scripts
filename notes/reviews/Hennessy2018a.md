@@ -421,19 +421,18 @@ Notes from this chapter:
 
 ##	Chapter 8, Intellectual Curiosity: Why Being a Lifelong Learner is Crucial
 
+"The important thing is not to stop questioning; never lose a holy curiosity" \- [Albert Einstein](https://en.wikiquote.org/wiki/Curiosity) \cite[\S8 Intellectual Curiosity: Why Being a Lifelong Learner is Crucial, pp. 117]{Hennessy2018a}.
 
-
-\cite[\S8 Intellectual Curiosity: Why Being a Lifelong Learner is Crucial, pp. 113]{Hennessy2018a}.
-
-
-
-
-
-
-
-
-
-
+Notes:
++ Be "a well-rounded and better-informed human being" \cite[\S8 Intellectual Curiosity: Why Being a Lifelong Learner is Crucial, pp. 117]{Hennessy2018a}.
++ Become "an innately curious person" \cite[\S8 Intellectual Curiosity: Why Being a Lifelong Learner is Crucial, pp. 118]{Hennessy2018a}.
++ "At each stop, you need to be able to understand enough argot, to ask relevant questions, and to discern how new developments may have an impact on the university" \cite[\S8 Intellectual Curiosity: Why Being a Lifelong Learner is Crucial, pp. 119]{Hennessy2018a}.
++ "If you want to lead well, your learning must continue" \cite[\S8 Intellectual Curiosity: Why Being a Lifelong Learner is Crucial, pp. 119]{Hennessy2018a}.
++ "[Become] a voracious reader" \cite[\S8 Intellectual Curiosity: Why Being a Lifelong Learner is Crucial, pp. 120]{Hennessy2018a}.
++ Engage in "the pursuit of knowledge and deep exploration of the possible," and acquire "[an] insatiable desire to learn" \cite[\S8 Intellectual Curiosity: Why Being a Lifelong Learner is Crucial, pp. 120]{Hennessy2018a}.
++ Maintain my "lifelong curiosity" \cite[\S8 Intellectual Curiosity: Why Being a Lifelong Learner is Crucial, pp. 120]{Hennessy2018a}.
++ "I read the stories of great leaders to examine their habits, to understand what characteristics helped make them successful"
+\cite[\S8 Intellectual Curiosity: Why Being a Lifelong Learner is Crucial, pp. 121]{Hennessy2018a}.
 
 
 
