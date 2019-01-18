@@ -271,11 +271,13 @@ Walter Isaacson wrote:
 
 "Coming together is a beginning; [keeping/]staying together is progress; working together is success."
 \- [Edward Everett Hale](https://www.brainyquote.com/quotes/edward_everett_hale_121997):
-
 + Resources about the quote at the start of the chapter:
 	- https://quotefancy.com/quote/37219/Henry-Ford-Coming-together-is-the-beginning-Keeping-together-is-progress-Working-together
 	- https://en.wikiquote.org/wiki/Talk:Henry_Ford
 	- *This quote (attributed to Henry Ford) is disputed or misattributed. It should be attributed to Edward Everett Hale, or both Edward Everett Hale and Henry Ford.*
+
+
+Notes from this chapter:
 + "Leadership is... all about collaboration and teamwork" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 83]{Hennessy2018a}.
 + "[Team leaders,] your team members are your equals, and in terms of contribution, some will be your superiors" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 83]{Hennessy2018a}.
 + Avoid being a petty, tyrannic team leader that demands their "contribution... be recognized before and above everyone else's" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 83]{Hennessy2018a}.
@@ -364,14 +366,19 @@ Walter Isaacson wrote:
 	- Did we fail to establish a proper framework for the initiative \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 97]{Hennessy2018a}?
 	- Did we fail to delegate tasks appropriately and set the task force to work \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 97]{Hennessy2018a}?
 + When "the opposition [is] entrenched," do you "[steamroll] the opposition" and strain/damage the "trust relationship" with the board of trustees/directors, "[undermine your] ability to pilot future initiatives that required support from the faculty," and adversely affect the well-being of the institution \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 97]{Hennessy2018a}?
-+ If you cannot find or create a "graceful exit," "find the courage to admit your mistakes and move on to other opportunities" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 97]{Hennessy2018a}
++ If you cannot find or create a "graceful exit," "find the courage to admit your mistakes and move on to other opportunities" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 97]{Hennessy2018a}.
 + "Celebrating shared success" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 98]{Hennessy2018a}.
-
-
-
-
-
-
++ "When collaboration works well, when a team reaches or even exceed its goals, often team members don't want to see it end. In fact, the way you end is almost as important as how you begin" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 98]{Hennessy2018a}.
++ To create "a successful team," try to do the following \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 98]{Hennessy2018a}:
+	- "Convene a group whose members have found a way to work well with each other despite their differences"
+	- "Convene a group whose members" "have set out in pursuit of a goal and achieved it, and who have made an important contribution to the larger enterprise"
+	- Teams like these are highly valuable, and you should endeavor to preserve the team and help the team grow as well as you can help them. This enables you to work with your "team members again," and allow them to bring their highly valuable skills and experiences "to other teams."
+	- Help the more capable/successful team members pursue leadership roles on teams of their own.
++ "In a face-pace work environment, the tendency is to shut down successful teams abruptly with a simple thank you for their work, or worse, to let a team deflate on its own, with its members dribbling off alone or in small groups. Rather, as one of the great lessons of human culture suggests, successful team efforts should end in celebration and ceremony - a gathering in which each member is recognized for his or her contribution, and the accomplishments of the entire group for his and her contribution, and the accomplishments of the entire group are placed in context and honored" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 98]{Hennessy2018a}.
++ "It is easy to dismiss such celebrations as mere retirement parties, but they are meaningful opportunities. As you are the person overseeing the team, your orchestration of this event is one of the most important contributions you can make in a team's story. You are telling all of them, from the leader down to the most junior member, that they are important, and that what they accomplished was valuable" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 98]{Hennessy2018a}.
++ "Thank each person individually for something particular they had done to support our success. I wanted everyone to know how their specific actions had made the institution better. I wanted them to hear that their efforts mattered and I appreciated them, deeply" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 99]{Hennessy2018a}.
++ "Collaboration is about" "genuine gratitude and shared goodwill elevated all our spirits" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 99]{Hennessy2018a}.
++ "Becoming more as a team than you ever could be alone? Why wait until those important people - your teammates - have moved on before you notice who they were to you? Why not celebrate your time together while you are still a team?" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 99]{Hennessy2018a}.
 
 
 
