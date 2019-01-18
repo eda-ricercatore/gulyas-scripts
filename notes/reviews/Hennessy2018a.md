@@ -351,8 +351,8 @@ Walter Isaacson wrote:
 		* "Do they have a plan for engaging wider support?"
 			+ The leader and the team core may "[have] a clear vision," but they may not "[have] engaged [with] the broader community" for the necessary support.
 	- "If you have picked the right person and you ask the right questions, your team leader will get the message and address the issue" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 95]{Hennessy2018a}.
-	-
-	\cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 95]{Hennessy2018a}.
+	- If your coaching does improve the leadership challenge, "assess the options[, impact, and cost of] replacing your team leader" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 95]{Hennessy2018a}.
+		* Can you fill in as an "interim team leader [(i.e., Do you have the time to do so? Can you provide the required effort for this task?)], while also recruiting and onboarding a replacement?" Else, replacing the team leader may lead to a worse outcome than "maintaining the status quo" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 95]{Hennessy2018a}.
 
 
 Finish this!
