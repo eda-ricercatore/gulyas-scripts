@@ -431,8 +431,7 @@ Notes:
 + "[Become] a voracious reader" \cite[\S8 Intellectual Curiosity: Why Being a Lifelong Learner is Crucial, pp. 120]{Hennessy2018a}.
 + Engage in "the pursuit of knowledge and deep exploration of the possible," and acquire "[an] insatiable desire to learn" \cite[\S8 Intellectual Curiosity: Why Being a Lifelong Learner is Crucial, pp. 120]{Hennessy2018a}.
 + Maintain my "lifelong curiosity" \cite[\S8 Intellectual Curiosity: Why Being a Lifelong Learner is Crucial, pp. 120]{Hennessy2018a}.
-+ "I read the stories of great leaders to examine their habits, to understand what characteristics helped make them successful"
-\cite[\S8 Intellectual Curiosity: Why Being a Lifelong Learner is Crucial, pp. 121]{Hennessy2018a}.
++ "I read the stories of great leaders to examine their habits, to understand what characteristics helped make them successful, to see how they prepared themselves for moments of crisis, and to understand how they handled success and - perhaps more important - failure" \cite[\S8 Intellectual Curiosity: Why Being a Lifelong Learner is Crucial, pp. 121]{Hennessy2018a}.
 
 
 
