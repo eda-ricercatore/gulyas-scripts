@@ -391,6 +391,31 @@ Notes from this chapter:
 \cite[\S7 Innovation: The Key to Success in Industry and Academia, pp. 101]{Hennessy2018a}
 
 
+Notes from this chapter:
++ "We've all heard the old adage that the only thing constant is change. Thanks to innovation and the digital revolution, the speed of change has increased. In Silicon Valley, we have felt that acutely for a half century. Now the rest of the world is feeling it, too, and we see no indication of that pace slowing anytime soon." \cite[\S7 Innovation: The Key to Success in Industry and Academia, pp. 101]{Hennessy2018a}
++ "Despite the central role of innovation and change based on innovation, in both academia and industry, these two worlds operate very differently. A failure to recognize that difference can be dangerous. Run a company like a university, and you risk oblivion; run a college like a company, and you will likely face a faculty mutiny. Nonetheless, both types of institutions must innovate to survive" \cite[\S7 Innovation: The Key to Success in Industry and Academia, pp. 102]{Hennessy2018a}.
++ "Much of the difference between academia and industry has to do with time horizons and risk-taking. In my experience, in the university you see more `far out' innovation driven purely by curiosity or serendipity. Why? Generally speaking, academics are not up against a deadline, rushing to market to beat the competition, nor are they at risk of losing their business if they fail to do so. Indeed, academics are not trying to design and fabricate a complete solution; instead they are striving to advance a field or to demonstrate a new idea. So they have the leisure of following curiosity, even allowing serendipity to happen. Rather than pressing toward next quarter's income statement or next year's product, the academic time horizon opens the door to fundamental research, work that can change the world. In fact, a revolutionary contribution in the future is much more highly valued than an incremental contribution today" \cite[\S7 Innovation: The Key to Success in Industry and Academia, pp. 102]{Hennessy2018a}.
++ "At a university, you can take these kinds of risks, demonstrate a basic advance in knowledge, and be rewarded for that risk without much downside. On the flip-side, research that leads to incremental improvements does not receive much attention" \cite[\S7 Innovation: The Key to Success in Industry and Academia, pp. 103]{Hennessy2018a}.
++ Quoted from \cite[\S7 Innovation: The Key to Success in Industry and Academia, pp. 103]{Hennessy2018a}:
+	- I can't tell you how many times I have had this conversation with students: the student opens with, "I want to create a start-up." I ask them to tell me about their technology, and they answer, "Well, I don't have it yet, but I want to do a start-up!" I remind these students that great-start-ups begin with great technology discoveries (or at least novel applications, such as eBay or Airbnb or Uber). Innovation presents great opportunities for smart entrepreneurs, not the other way around.
++ "A university research environment allows great freedom for innovation, in that academics are largely untethered from many practical considerations" \cite[\S7 Innovation: The Key to Success in Industry and Academia, pp. 104]{Hennessy2018a}.
++ "Some of these research projects will remain simply interesting while others will lead to important discoveries and practical applications. It is not easy to predict *a priori* which will be which. Indeed, only a small set of these research opportunities are likely either to advance significantly the state of knowledge or to be applicable immediately in the creation of new products or companies" \cite[\S7 Innovation: The Key to Success in Industry and Academia, pp. 104]{Hennessy2018a}.
++ "One of Steve Job's core philosophies was that he didn't ask his customers what they wanted, because it wasn't their job to invent the future. It was his job" \cite[\S7 Innovation: The Key to Success in Industry and Academia, pp. 104]{Hennessy2018a}.
++ "Partners in innovation" \cite[\S7 Innovation: The Key to Success in Industry and Academia, pp. 105]{Hennessy2018a}.
++ "The real power of academic and commercial symbiosis lies at this interface between ideas and implementation. Because graduate students and faculty enjoy the freedom to explore, radically new concepts and serendipitous ideas emerge from universities. Those ideas can sit idle until someone recognizes real-life, potentially profitable applications for them. The role of venture capitalists, government agencies, and ambitious entrepreneurs is to carry those ideas across this interface and make them real products and services that benefit humanity" \cite[\S7 Innovation: The Key to Success in Industry and Academia, pp. 105]{Hennessy2018a}.
++ "With a new algorithm and near obsession with getting the right result, Sergey and Larry created a significantly improved solution" \cite[\S7 Innovation: The Key to Success in Industry and Academia, pp. 105]{Hennessy2018a}.
++ "Academia and industry need each other" \cite[\S7 Innovation: The Key to Success in Industry and Academia, pp. 106]{Hennessy2018a}.
++ "Academia and Industry: Finding Synergies, Transferring Discoveries" \cite[\S7 Innovation: The Key to Success in Industry and Academia, pp. 106]{Hennessy2018a}.
++ "Recognize [the] differences" between "industry and academia" "and work to complement each other. [Bridge] that gap" \cite[\S7 Innovation: The Key to Success in Industry and Academia, pp. 106]{Hennessy2018a}.
++ Since universities see technology transfer as a source of revenue, they create university-based venture funds, entrepreneurial incubators, and research commercialization initiatives \cite[\S7 Innovation: The Key to Success in Industry and Academia, pp. 106]{Hennessy2018a}.
+
+
+
+
+
+
+
+
 
 
 
@@ -424,6 +449,9 @@ Also, make a copy of the "Notes" chapter, pp. 179-180.
 	- They are approximately parallels of each other.
 + assiduously
 + atavistic
++ carte blanche
+	- we can start nearly carte blanche
++ cold selling a new idea to investors
 + conscientious workers/students
 + "converting detractors into committed supporters"
 	\cite[\S5 Courage: Standing Up for the Institution and the Community, pp. 79]{Hennessy2018a}.
@@ -445,10 +473,13 @@ Also, make a copy of the "Notes" chapter, pp. 179-180.
 	- righteousness
 	- moral virtue
 	- integrity
++ seen a pretty full palette
 + selective private universities/institutions
 + step up to the moment
 + "true scoop"
 	- resolve to give people the true scoop on that situation
++ user trust
+	- \cite[\S7 Innovation: The Key to Success in Industry and Academia, pp. 105]{Hennessy2018a}.
 + world-view
 
 
