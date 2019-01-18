@@ -353,9 +353,16 @@ Walter Isaacson wrote:
 	- "If you have picked the right person and you ask the right questions, your team leader will get the message and address the issue" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 95]{Hennessy2018a}.
 	- If your coaching does improve the leadership challenge, "assess the options[, impact, and cost of] replacing your team leader" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 95]{Hennessy2018a}.
 		* Can you fill in as an "interim team leader [(i.e., Do you have the time to do so? Can you provide the required effort for this task?)], while also recruiting and onboarding a replacement?" Else, replacing the team leader may lead to a worse outcome than "maintaining the status quo" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 95]{Hennessy2018a}.
+	- Can "the [team] leader... attract or inspire team members"? \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 96]{Hennessy2018a}.
+	- "When you have no one better to take over leadership, you need to make the hard decision: cut your losses and move on. In such cases, I have tried to end the effort gracefully, declaring a partial victory, letting the team claim some success, while diverting resources to more worthy projects with stronger teams" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 96]{Hennessy2018a}.
++ "Handling a collaborative effort that doesn't work out" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 96]{Hennessy2018a}.
++ Factor affecting the success of team collaborations \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 96]{Hennessy2018a}:
+	- "The choice of the team leader"
+	- The support that the organization/institution provides to "visionaries behind [an] initiative"
+	- Is the "rationale for [an] initiative" "as compelling as [the visionaries] thought it was"?
 
++ "Celebrating shared success" \cite[\S6 Collaboration and Teamwork: You Cannot Do It Alone, pp. 96]{Hennessy2018a}.
 
-Finish this!
 
 
 
