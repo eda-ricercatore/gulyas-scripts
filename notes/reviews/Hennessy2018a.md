@@ -408,6 +408,18 @@ Notes from this chapter:
 + "Academia and Industry: Finding Synergies, Transferring Discoveries" \cite[\S7 Innovation: The Key to Success in Industry and Academia, pp. 106]{Hennessy2018a}.
 + "Recognize [the] differences" between "industry and academia" "and work to complement each other. [Bridge] that gap" \cite[\S7 Innovation: The Key to Success in Industry and Academia, pp. 106]{Hennessy2018a}.
 + Since universities see technology transfer as a source of revenue, they create university-based venture funds, entrepreneurial incubators, and research commercialization initiatives \cite[\S7 Innovation: The Key to Success in Industry and Academia, pp. 106]{Hennessy2018a}.
++ Do not "[make] the process of licensing university IP financially or bureaucratically burdensome" \cite[\S7 Innovation: The Key to Success in Industry and Academia, pp. 107]{Hennessy2018a}.
++ "Managing innovation: A guiding hand" \cite[\S7 Innovation: The Key to Success in Industry and Academia, pp. 108]{Hennessy2018a}.
++ "An innovative environment begins with amazing people - creative thinkers who take risks and do radically new things. Once you have found your people, as a leader your jobs is to get out of their way. Great companies and universities are hotbeds of innovation, but only when they allow creative thinkers to decide where the next opportunities exist" \cite[\S7 Innovation: The Key to Success in Industry and Academia, pp. 108]{Hennessy2018a}.
++ "The leadership team mighty identify and prioritize strategically important areas, such as genomics, machine learning, or new energy technologies, in which they see clear research opportunities and potential for significant societal benefits. However, this strategically focused research requires a light touch. You must refrain from providing a highly detailed, prescribed roadmap for your people to follow. Instead, you need to allow for serendipity and discovery. After all, you aren't the expert in their fields. They are" \cite[\S7 Innovation: The Key to Success in Industry and Academia, pp. 108]{Hennessy2018a}.
++ Avoid the natural desire to control and micromanage a research team working towards breakthroughs, and stifle innovation \cite[\S7 Innovation: The Key to Success in Industry and Academia, pp. 109]{Hennessy2018a}.
++ "Embracing innovation means accepting and recovering from failure. The challenge is to avoid as many failures as possible and recover from the others as quickly as possible" \cite[\S7 Innovation: The Key to Success in Industry and Academia, pp. 110]{Hennessy2018a}.
++ "[Craft] a strategic plan that charts the development of a new set of activities and renews an organization" (pp. 111) by "focusing on a single project or initiative" (pp. 110) \cite[\S7 Innovation: The Key to Success in Industry and Academia, pp. 110-111]{Hennessy2018a}.
++ "The arts are an intricate part of a great education, and they are an important part of the lives of our MBA students" \- Bob Joss, dean of Stanford business school \cite[\S7 Innovation: The Key to Success in Industry and Academia, pp. 113]{Hennessy2018a}.
++ "Open your eyes, [Kathleen Sullivan and Bob Joss] said. Get out of your head. Don't just advocate for your own turf, but think about the needs of the university as a whole, and of its future generations of students" \cite[\S7 Innovation: The Key to Success in Industry and Academia, pp. 113]{Hennessy2018a}.
+
+
+
 
 
 
@@ -451,10 +463,12 @@ Also, make a copy of the "Notes" chapter, pp. 179-180.
 + atavistic
 + carte blanche
 	- we can start nearly carte blanche
++ category innovation, rather than merely product innovation
 + cold selling a new idea to investors
 + conscientious workers/students
 + "converting detractors into committed supporters"
 	\cite[\S5 Courage: Standing Up for the Institution and the Community, pp. 79]{Hennessy2018a}.
++ embark on a campaign to educate stakeholders that the status quo is not enough
 + fieldwork
 + from XYZ to ABC, from QWERTY to ZXCVB
 	- they asked about from XYZ to ABC, from QWERTY to ZXCVB.
@@ -476,6 +490,7 @@ Also, make a copy of the "Notes" chapter, pp. 179-180.
 + seen a pretty full palette
 + selective private universities/institutions
 + step up to the moment
++ sui generis
 + "true scoop"
 	- resolve to give people the true scoop on that situation
 + user trust
