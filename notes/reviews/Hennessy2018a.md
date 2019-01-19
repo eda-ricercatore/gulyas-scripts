@@ -432,17 +432,28 @@ Notes:
 + Engage in "the pursuit of knowledge and deep exploration of the possible," and acquire "[an] insatiable desire to learn" \cite[\S8 Intellectual Curiosity: Why Being a Lifelong Learner is Crucial, pp. 120]{Hennessy2018a}.
 + Maintain my "lifelong curiosity" \cite[\S8 Intellectual Curiosity: Why Being a Lifelong Learner is Crucial, pp. 120]{Hennessy2018a}.
 + "I read the stories of great leaders to examine their habits, to understand what characteristics helped make them successful, to see how they prepared themselves for moments of crisis, and to understand how they handled success and - perhaps more important - failure" \cite[\S8 Intellectual Curiosity: Why Being a Lifelong Learner is Crucial, pp. 121]{Hennessy2018a}.
++ "Literature, biographies, and histories - they're like laboratories in which we can examine and learn critical lessons without having to live the difficulties ourselves. Reading about failures helped me understand both how to avoid some mistakes and how to recover from others. I learned that the best leaders don't just accept failure, they take responsibility for it, and they fight to turn failure into success" \cite[\S8 Intellectual Curiosity: Why Being a Lifelong Learner is Crucial, pp. 122]{Hennessy2018a}.
++ "It's easy to accept the laurels for success, though ideally you will recognize that the people who worked for you deserve those laurels as much as, if not more than, you do. It's not so easy to admit that you were wrong and accept responsibility for your mistakes. This is where many leaders go astray: they blame failures on their subordinates. Not only is it morally wrong to blame others but, practically speaking, doing so will destroy your credibility as a leader" \cite[\S8 Intellectual Curiosity: Why Being a Lifelong Learner is Crucial, pp. 123]{Hennessy2018a}.
++ "In challenging moments, great leaders show their true character" \cite[\S8 Intellectual Curiosity: Why Being a Lifelong Learner is Crucial, pp. 123]{Hennessy2018a}.
++ "If you can't take the blame for failure, you shouldn't take the job" \cite[\S8 Intellectual Curiosity: Why Being a Lifelong Learner is Crucial, pp. 123]{Hennessy2018a}.
++ "I also learned from my reading that great leaders don't make the same mistake twice. More than that, when they encounter a similar situation again, they have already thought long and hard about the previous failure, and they have already formulated a new strategy for success. Leaders analyze their failures from every angle, until they know it better than many people know their successes. This is not guilt or self-recrimination; it is about learning to do better the next time. In these leaders' analyses of their failures, I recognized a pattern: they took a scientifically curious, empirical approach. What went wrong? What can be changed? How can you move further along the learning curve to success? All leaders - not just presidents and military officers, but also scientists, CEOs, and entrepreneurs - need to face failure with humility, courage, and intelligence" \cite[\S8 Intellectual Curiosity: Why Being a Lifelong Learner is Crucial, pp. 123]{Hennessy2018a}.
++ "We all have character flaws, and we all make mistakes. What matters is that you avoid mistakes when you can, accept and recover from them when they come, and then move on" \cite[\S8 Intellectual Curiosity: Why Being a Lifelong Learner is Crucial, pp. 124]{Hennessy2018a}.
++ "[Understand your] failures in a larger context," don't personalize them, and "[see] failure as part of the leadership journey," [and] recover quickly" \cite[\S8 Intellectual Curiosity: Why Being a Lifelong Learner is Crucial, pp. 124]{Hennessy2018a}.
++ "No matter what your industry, field of study, or leadership position, you can prepare yourself for success - and for failure - by staying curious and learning from others" \cite[\S8 Intellectual Curiosity: Why Being a Lifelong Learner is Crucial, pp. 124]{Hennessy2018a}.
 
 
+##	Chapter 9, Storytelling: Communicating a Vision
 
 
-
-
-
-
-
-
-
+Notes from this chapter:
++ "Introduce a new idea" "with a story," rather than "facts and figures"
+\cite[\S9 Storytelling: Communicating a Vision, pp. 127]{Hennessy2018a}.
++ "[Prepare] creative thinkers to engage in transformative leadership" \cite[\S9 Storytelling: Communicating a Vision, pp. 128]{Hennessy2018a}.
++ "Engage the heart" \cite[\S9 Storytelling: Communicating a Vision, pp. 130]{Hennessy2018a}.
++ "Crafting the vision as a story" \cite[\S9 Storytelling: Communicating a Vision, pp. 131]{Hennessy2018a}.
++ Develop the "ability to tell appropriate, compelling, and inspiring stories" \cite[\S9 Storytelling: Communicating a Vision, pp. 135]{Hennessy2018a}.
++ "Your whole object here is not to make a living but it is to make a life that is worth living." \- "Peter Gomes, the Pusey Minister at Harvard's Memorial Church" \cite[\S9 Storytelling: Communicating a Vision, pp. 136]{Hennessy2018a}.
++ "True success does not consist in doing what we set forth to do, what we had hoped to do, nor even in doing what we have struggled to do, but in doing something that is worth doing" \- A. Lawrence Lowell, former Harvard President \cite[\S9 Storytelling: Communicating a Vision, pp. 136]{Hennessy2018a}.
 
 
 
