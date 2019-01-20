@@ -453,7 +453,37 @@ Notes from this chapter:
 + "Crafting the vision as a story" \cite[\S9 Storytelling: Communicating a Vision, pp. 131]{Hennessy2018a}.
 + Develop the "ability to tell appropriate, compelling, and inspiring stories" \cite[\S9 Storytelling: Communicating a Vision, pp. 135]{Hennessy2018a}.
 + "Your whole object here is not to make a living but it is to make a life that is worth living." \- "Peter Gomes, the Pusey Minister at Harvard's Memorial Church" \cite[\S9 Storytelling: Communicating a Vision, pp. 136]{Hennessy2018a}.
-+ "True success does not consist in doing what we set forth to do, what we had hoped to do, nor even in doing what we have struggled to do, but in doing something that is worth doing" \- A. Lawrence Lowell, former Harvard President \cite[\S9 Storytelling: Communicating a Vision, pp. 136]{Hennessy2018a}.
++ "True success does not consist in doing what we set forth to do, what we had hoped to do, nor even in doing what we have struggled to do, but in doing something that is worth doing." \- A. Lawrence Lowell, former Harvard President, quoted by Peter Gomes \cite[\S9 Storytelling: Communicating a Vision, pp. 136]{Hennessy2018a}.
++ "Retelling old stories has it weaknesses: many people have already heard them, and the stories themselves can go stale, losing their purchase on a changing world. That's why it's important to look and listen, perpetually, for new stories" \cite[\S9 Storytelling: Communicating a Vision, pp. 138]{Hennessy2018a}.
++ "In the academic world, the campus press office and alumni magazine are excellent sources for timely and relatively unheard stories. Even more effective, though, is a simple walk around campus. Get out of the office, talk to students, chat with faculty members - one is bound to pick up good stories. In the corporate world, the company newsletter, website, and magazine are valuable sources. So are trade shows and other industry gatherings, but as in the academy, some of the best stories are picked up in casual settings with employees" \cite[\S9 Storytelling: Communicating a Vision, pp. 138]{Hennessy2018a}.
++ "You don't need to rush off and assiduously write down every story you hear. Rather, you need to develop an `ear' for the telling anecdote, the wise lesson, and the illuminating story. Jot down some notes when you get the chance, or just remember who told it to you so you can get back to them for details. As a university president or corporate CEO, your goal is to have a regularly refreshed quiver full of stories you can pull out for almost any occasion, especially when you are asked to speak extemporaneously" \cite[\S9 Storytelling: Communicating a Vision, pp. 138]{Hennessy2018a}.
++ "Meanwhile, practice your storytelling skills for those times when you need to sell your audience on your vision of something that does not yet exist. Fill that story with as much verisimilitude as possible - make your audience live it - and you just may enlist them to help you change the world" \cite[\S9 Storytelling: Communicating a Vision, pp. 138]{Hennessy2018a}.
++ "The Knight-Hennessy Scholars program," "like so many other life-changing endeavors, began with a story" \cite[\S9 Storytelling: Communicating a Vision, pp. 138]{Hennessy2018a}.
+
+
+
+
+
+
+
+
+##	Chapter 10, Legacy: What You Leave Behind
+
+
+Notes from this chapter:
++
+\cite[\S10 Legacy: What You Leave Behind, pp. 138]{Hennessy2018a}.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
