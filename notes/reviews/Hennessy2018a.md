@@ -469,9 +469,14 @@ Notes from this chapter:
 
 ##	Chapter 10, Legacy: What You Leave Behind
 
+"The great use of a life is to spend it for something that outlasts it." \- [Attributed to William James](https://quoteinvestigator.com/tag/henry-james/) \cite[\S10 Legacy: What You Leave Behind, pp. 138]{Hennessy2018a}. Also, see https://quoteinvestigator.com/2012/11/28/great-life/ and https://quoteinvestigator.com/category/william-james/.
+
+
+
+
 
 Notes from this chapter:
-+
++ 
 \cite[\S10 Legacy: What You Leave Behind, pp. 138]{Hennessy2018a}.
 
 
