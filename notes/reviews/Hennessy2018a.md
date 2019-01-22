@@ -469,20 +469,18 @@ Notes from this chapter:
 
 ##	Chapter 10, Legacy: What You Leave Behind
 
-"The great use of a life is to spend it for something that outlasts it." \- [Attributed to William James](https://quoteinvestigator.com/tag/henry-james/) \cite[\S10 Legacy: What You Leave Behind, pp. 138]{Hennessy2018a}. Also, see https://quoteinvestigator.com/2012/11/28/great-life/ and https://quoteinvestigator.com/category/william-james/.
+"The great use of a life is to spend it for something that outlasts it." \- [Attributed to William James](https://quoteinvestigator.com/tag/henry-james/) \cite[\S10 Legacy: What You Leave Behind, pp. 139]{Hennessy2018a}. Also, see https://quoteinvestigator.com/2012/11/28/great-life/ and https://quoteinvestigator.com/category/william-james/.
 
 
 
 
 
 Notes from this chapter:
-+ 
-\cite[\S10 Legacy: What You Leave Behind, pp. 138]{Hennessy2018a}.
++ "I never thought in terms of legacy, neither during my sixteen years as president nor in my earlier leadership roles. Instead, I thought about leadering authentically and ethically, to build trust with the Stanford community so that together we could improve Stanford in ways that would last far beyond my leadership" \cite[\S10 Legacy: What You Leave Behind, pp. 139]{Hennessy2018a}.
++ "To achieve this collective goal, we needed to emphasize and invest in the right initiatives. Hence, we focused on building the endowment for financial aid, so future generations would have access to more financial assistance. Similarly, in choosing where to expand our multidisciplinary efforts, we targeted areas - such as environmental sustainability, international affairs, and human health - in which we expected major challenges not just in the next decade but fifty years in the future" \cite[\S10 Legacy: What You Leave Behind, pp. 139]{Hennessy2018a}.
++ If I am more concerned about "shepherding my reputation and avoiding risks, I would have missed" [opportunities to create start-ups or become a provost at a research university]. I would have been "worry"
 
-
-
-
-
+\cite[\S10 Legacy: What You Leave Behind, pp. 139]{Hennessy2018a}.
 
 
 
@@ -568,7 +566,7 @@ Also, make a copy of the "Notes" chapter, pp. 179-180.
 
 The MIT License (MIT)
 
-Copyright (c) <2016> Zhiyang Ong
+Copyright (c) <2018-2019> Zhiyang Ong
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 

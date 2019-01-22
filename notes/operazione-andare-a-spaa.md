@@ -586,6 +586,7 @@ To-do list:
 		* NoSQL databases, such as HBase, Cassandra, MongoDB, or DynamoDB
 		* messaging systems, such as AWS SQS, AWS Kinesis, Kafka, or RabbitMQ, ZeroMQ
 		* big data tools and stream-processing systems: Hadoop, Spark, Storm, Spark-Streaming
+		* **Expertise and experience in Revit, Dynamo and/or other Revit scripting languages**... Strong background in computational design and design analysis... Fluency in a technical programming language (python, javascript, C#) is highly desired.
 		* Understanding of standard networking protocols and components such as: TCP/IP, HTTP, DNS, ICMP, the OSI Model, Subnetting, and Load Balancing
 		* Knowledge of routing protocols such as BGP and OSPF
 		* data pipeline and workflow management tools: Azkaban, Luigi, Airflow
