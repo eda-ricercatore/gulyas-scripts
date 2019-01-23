@@ -1,5 +1,7 @@
 #	*Git* and *GitHub* Tutorial
 
+A brief introduction to *Git* and *GitHub* can be found in the ["Hello World" tutorial](https://guides.github.com/activities/hello-world/) \cite{GitHubStaff2016b}, from [GitHub Guides](https://guides.github.com/) \cite{GitHubStaff20XY}.
+
 ##	Brief Introduction to *Git*
 
 
@@ -11,6 +13,38 @@
 
 
 ##	Brief Introduction to *GitHub*
+
+
+
+
+
+
+
+#	References
+
+BibTeX entries for references that I used.
+
+	@misc{GitHubStaff2016b,
+		Address = {San Francisco, {CA}},
+		Author = {{GitHub staff}},
+		Howpublished = {Available online from {\it GitHub: GitHub Guides} at: \url{https://guides.github.com/activities/hello-world/}; January 24, 2018 was the last accessed date},
+		Month = {April 7},
+		Publisher = {{GitHub, Inc.}},
+		Title = {Hello World},
+		Url = {https://guides.github.com/activities/hello-world/},
+		Year = {2016}}
+
+	@misc{GitHubStaff20XY,
+		Address = {San Francisco, {CA}},
+		Author = {{GitHub staff}},
+		Howpublished = {Available online from {\it GitHub} at: \url{https://guides.github.com/}; January 24, 2018 was the last accessed date},
+		Publisher = {{GitHub, Inc.}},
+		Title = {{GitHub} Guides},
+		Url = {https://guides.github.com/}}
+
+
+
+
 
 
 
