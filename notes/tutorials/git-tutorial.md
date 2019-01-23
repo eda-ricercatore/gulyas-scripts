@@ -7,7 +7,7 @@ A brief introduction to *Git* and *GitHub* can be found in the
 
 Use *GitHub*, or another Web-based source-code-hosting service, to share your
 	portfolio online with other people \cite{Nguyen2014}.
-	The portfolio can be for software development, data science, embedded
+	The portfolio can be used for software development, data science, embedded
 		hardware design, VLSI design, UI/UX design, and/or product design.
 
 
