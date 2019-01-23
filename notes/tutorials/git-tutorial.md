@@ -53,7 +53,7 @@ The main web page for GitHub, after logging in, is shown below.
 
 The [Documenting your projects on GitHub](https://guides.github.com/features/wikis/) \cite{GitHubStaff2016c} document shows us how we can document our projects for software development, data science, or otherwise, such that other people can quickly and easily find information that they need about your project/repository.
 
-\cite{Gruber2004} is a seminal document on *Markdown*, which we can use as a reference for *Markdown*. *Markdown* provides us with a simple way to document projects hosted in *GitHub* repositories, or other Web-based source-code-hosting service.
+[\cite{Gruber2004}](http://daringfireball.net/projects/markdown/) is a seminal document on *Markdown*, which we can use as a reference for *Markdown*. *Markdown* provides us with a simple way to document projects hosted in *GitHub* repositories, or other Web-based source-code-hosting service.
 
 Quick look-up references/manuals for *Markdown* are:
 + [\cite{Chapellier2018}](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
