@@ -23,6 +23,27 @@ Use *GitHub*, or another Web-based source-code-hosting service, to share your
 
 ##	Brief Introduction to *GitHub*
 
+The main web page for GitHub is shown below, and is available at: https://github.com/.
+
+![main web page for GitHub]()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ###	Documenting Projects
 
