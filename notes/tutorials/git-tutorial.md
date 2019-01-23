@@ -1,6 +1,15 @@
 #	*Git* and *GitHub* Tutorial
 
-A brief introduction to *Git* and *GitHub* can be found in the ["Hello World" tutorial](https://guides.github.com/activities/hello-world/) \cite{GitHubStaff2016b}, from [GitHub Guides](https://guides.github.com/) \cite{GitHubStaff20XY}.
+A brief introduction to *Git* and *GitHub* can be found in the
+	["Hello World" tutorial](https://guides.github.com/activities/hello-world/)
+	\cite{GitHubStaff2016b}, from [GitHub Guides](https://guides.github.com/)
+	\cite{GitHubStaff20XY}.
+
+Use *GitHub*, or another Web-based source-code-hosting service, to share your
+	portfolio online with other people \cite{Nguyen2014}.
+	The portfolio can be for software development, data science, embedded
+		hardware design, VLSI design, UI/UX design, and/or product design.
+
 
 ##	Brief Introduction to *Git*
 
@@ -15,8 +24,12 @@ A brief introduction to *Git* and *GitHub* can be found in the ["Hello World" tu
 ##	Brief Introduction to *GitHub*
 
 
+###	Documenting Projects
 
+\cite{Gruber2004} is a seminal document on *Markdown*, which we can use as a reference for *Markdown*. *Markdown* provides us with a simple way to document projects hosted in *GitHub* repositories, or other Web-based source-code-hosting service.
 
+Quick look-up references/manuals for *Markdown* are:
++ [\cite{Chapellier2018}](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
 
 
 
@@ -41,6 +54,56 @@ BibTeX entries for references that I used.
 		Publisher = {{GitHub, Inc.}},
 		Title = {{GitHub} Guides},
 		Url = {https://guides.github.com/}}
+
+	@misc{Chapellier2018,
+		Address = {San Francisco, {CA}},
+		Author = {Cyril Chapellier},
+		Howpublished = {Available online from {\it GitHub: tchapi} at: \url{https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md}; December 7, 2018 was the last accessed date},
+		Month = {August 20},
+		Publisher = {{GitHub, Inc.}},
+		Title = {Markdown Cheatsheet: Markdown Cheatsheet for GitHub},
+		Url = {https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md},
+		Year = {2018}}
+
+	@misc{Nguyen2014,
+		Address = {San Francisco, {CA}},
+		Author = {Dan Nguyen},
+		Howpublished = {Available online from {\it Dan Nguyen's web page} at: \url{https://dannguyen.github.io/github-for-portfolios/}; February 28, 2017 was the last accessed date},
+		Month = {April 13},
+		Publisher = {{GitHub, Inc.}},
+		Title = {Build a Web Portfolio from Scratch: with {Github Pages}},
+		Url = {https://dannguyen.github.io/github-for-portfolios/},
+		Year = {2014}}
+
+	@misc{Gruber2004,
+		Author = {John Gruber},
+		Howpublished = {Available online as version 1.0.1 at: \url{http://daringfireball.net/projects/markdown/}; October 9, 2015 was the last accessed date},
+		Month = {December 17},
+		Publisher = {The Daring Fireball Company {LLC}},
+		Title = {Markdown},
+		Url = {http://daringfireball.net/projects/markdown/},
+		Year = {2004}}
+
+	@book{Kopka2004,
+		Address = {Boston, {MA}},
+		Author = {Kopka, Helmut and Daly, Patrick W.},
+		Edition = {Fourth},
+		Publisher = {Addison-Wesley},
+		Series = {Addison-Wesley Series on Tools and Techniques for Computer Typesetting},
+		Title = {Guide to {\LaTeX}},
+		Year = {2004}}
+
+
+
+
+
+##	Notes about In-Text Citation
+
+I use LaTeX and BibTeX notations \cite{Kopka2004} for in-text citations in this document.
+
+
+
+
 
 
 
