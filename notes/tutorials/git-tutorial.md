@@ -35,6 +35,15 @@ Quick look-up references/manuals for *Markdown* are:
 + [\cite{GitHubStaff2014}](https://guides.github.com/features/mastering-markdown/)
 
 
+
+###	Miscellaneous Information
+
+Use the [Making Your Code Citable](https://guides.github.com/activities/citable-code/) \cite{GitHubStaff2016d} document to learn how to assign a digital object identifier (DOI), so that a *GitHub* repository can be cited along with its associated research publications.
+
+
+
+
+
 #	References
 
 BibTeX entries for references that I used.
@@ -94,6 +103,42 @@ BibTeX entries for references that I used.
 		Series = {Addison-Wesley Series on Tools and Techniques for Computer Typesetting},
 		Title = {Guide to {\LaTeX}},
 		Year = {2004}}
+
+	@misc{GitHubStaff2016d,
+		Address = {San Francisco, {CA}},
+		Author = {{GitHub staff}},
+		Howpublished = {Available online from {\it GitHub: GitHub Guides} at: \url{https://guides.github.com/activities/citable-code/}; January 24, 2018 was the last accessed date},
+		Month = {October},
+		Publisher = {{GitHub, Inc.}},
+		Title = {Making Your Code Citable},
+		Url = {https://guides.github.com/activities/citable-code/},
+		Year = {2016}}
+
+	@misc{GitHubStaff2016c,
+		Address = {San Francisco, {CA}},
+		Author = {{GitHub staff}},
+		Howpublished = {Available online from {\it GitHub: GitHub Guides} at: \url{https://guides.github.com/features/wikis/}; January 24, 2018 was the last accessed date},
+		Month = {July 15},
+		Publisher = {{GitHub, Inc.}},
+		Title = {Documenting your projects on {GitHub}},
+		Url = {https://guides.github.com/features/wikis/},
+		Year = {2016}}
+
+	@misc{GitHubStaff2014,
+		Address = {San Francisco, {CA}},
+		Author = {{GitHub staff}},
+		Howpublished = {Available online from {\it GitHub: GitHub Guides} at: \url{https://guides.github.com/features/mastering-markdown/} and \url{https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf}; January 24, 2018 was the last accessed date},
+		Month = {January 15},
+		Publisher = {{GitHub, Inc.}},
+		Title = {Mastering {Markdown}},
+		Url = {https://guides.github.com/features/mastering-markdown/},
+		Year = {2014}}
+
+
+
+
+
+
 
 
 
