@@ -25,7 +25,11 @@ Use *GitHub*, or another Web-based source-code-hosting service, to share your
 
 The main web page for GitHub is shown below, and is available at: https://github.com/.
 
-![main web page for GitHub]()
+![main web page for GitHub](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/github-main-page.jpg)
+
+The main web page for GitHub, after logging in, is shown below.
+
+![main web page for GitHub after logging in](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/github-main-page-logged-in.jpg)
 
 
 
