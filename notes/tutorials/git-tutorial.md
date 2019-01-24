@@ -93,11 +93,11 @@ This brings you to a page to [create a new *GitHub* repository](https://github.c
 
 ![Create a new *GitHub* repository](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/new-repository-1.jpg)
 
-To avoid committing temporary files associated with the main/primary computer language (supported by *GitHub*) used in your repository, click on the "Add .gitignore: None" button and select one of the computer languages from the drop-down list.
+To avoid committing temporary files associated with the main/primary computer language (supported by *GitHub*) used in your repository, click on the "Add .gitignore: None" button and select one of the computer languages from the drop-down list. If you are using computer languages not supported by *GitHub* in your project/repository, ignore this step.
 
 ![Select one of the computer languages from the drop-down list.](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/new-repository-2.jpg)
 
-
+Click on the "Create repository" button at the bottom of the web page.
 
 
 
