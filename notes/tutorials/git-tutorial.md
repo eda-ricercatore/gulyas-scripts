@@ -43,9 +43,9 @@ To customize your *GitHub* profile, click on the icon with your profile picture
 ![Drop-down list "Settings" option](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/profile-dropdown-menu-settings.jpg)
 
 
+You can edit profile information for your *GitHub* account, such as your name, to disclose/display an email address publicly (and if so, which email address) or avoid displaying any email address, a short biography of yourself, the URL of your web page, and your current location.
 
-
-
+![Public profile settings](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/profile-settings.jpg)
 
 
 
