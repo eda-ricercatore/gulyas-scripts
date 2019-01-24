@@ -50,6 +50,19 @@ You can edit profile information for your *GitHub* account, such as your name, t
 
 
 
+To change username and password of your *GitHub* profile, select the "Account" option of the menu on the right by clicking on it to go to the ["Account" page](https://github.com/settings/admin).
+
+
+
+![To change username and password of your *GitHub* profile](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/change-username-password.jpg)
+
+
+
+
+
+
+
+
 
 
 
