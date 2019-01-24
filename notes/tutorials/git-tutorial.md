@@ -83,6 +83,32 @@ To add and/or change email addresses associated with your *GitHub* profile, [sel
 
 
 
+###	Creating A New *GitHub* Repository
+
+To create a new *GitHub* repository, click on the plus icon "+" on the top-right corner of the *GitHub* page, on the left of the profile picture icon.
+
+![Click on the plus icon "+" on the top-right corner of the *GitHub* page](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/new-repository.jpg)
+
+This brings you to a page to [create a new *GitHub* repository](https://github.com/new). Provide a name for the *GitHub* repository that you are trying to create. Also, provide a description for the *GitHub* repository. In addition, select either the "Public" or "Private" option for the *GitHub* repository. Furthermore, if you want a new/empty README file for the *GitHub* repository, check the "Initialize this repository with a README" option.
+
+![Create a new *GitHub* repository](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/new-repository-1.jpg)
+
+To avoid committing temporary files associated with the main/primary computer language (supported by *GitHub*) used in your repository, click on the "Add .gitignore: None" button and select one of the computer languages from the drop-down list.
+
+![Select one of the computer languages from the drop-down list.](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/new-repository-2.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
