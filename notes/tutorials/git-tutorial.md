@@ -58,7 +58,7 @@ To change username and password of your *GitHub* profile, select the "Account" o
 
 
 
-To change your username for your *GitHub* @ Texas A&M University profile, click on change username. You will be warned about changing your username. Proceed by clicking on the "I understand, let's change my username" option/button.
+To change your username for your *GitHub* profile, click on change username. You will be warned about changing your username. Proceed by clicking on the "I understand, let's change my username" option/button.
 
 ![Warning about changing your username](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/change-username-2.jpg)
 
