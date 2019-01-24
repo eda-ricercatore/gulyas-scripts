@@ -72,6 +72,22 @@ The next screen should indicate that your username has been renamed, and it shou
 
 
 
+To add and/or change email addresses associated with your *GitHub* profile, [select the "Emails" option of the "Personal settings" menu on the right](https://github.com/settings/emails).
+
+
+![To add and/or change email addresses associated with your *GitHub* profile](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/change-email.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
