@@ -40,7 +40,7 @@ To customize your *GitHub* profile, click on the icon with your profile picture
 	and select the ["Settings" option](https://github.com/settings/profile)
 	from the drop-down list.
 
-![Drop-down list "Settings" option]
+![Drop-down list "Settings" option]()
 
 
 
