@@ -1,3 +1,5 @@
+#!/opt/local/bin/octave
+
 #	"Call for Paper" (CFP) Deadlines
 
 "Finish your Ph.D.! Finish your [term deleted] Ph.D.!!!"  

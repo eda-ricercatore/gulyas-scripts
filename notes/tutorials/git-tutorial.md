@@ -34,13 +34,13 @@ The main web page for GitHub, after logging in, is shown below.
 
 
 
-###	Customize Your *GitHub* Profile
+###	Customizing Your *GitHub* Profile
 
 To customize your *GitHub* profile, click on the icon with your profile picture
 	and select the ["Settings" option](https://github.com/settings/profile)
 	from the drop-down list.
 
-![Drop-down list "Settings" option]()
+![Drop-down list "Settings" option](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/profile-dropdown-menu-settings.jpg)
 
 
 
