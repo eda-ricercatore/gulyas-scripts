@@ -166,9 +166,9 @@ On the vertical list/menu beginning with "Options" on the right side of the "Set
 
 ![click on the "Collaborators" option](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/repository-settings.jpg)
 
+To add collaborators to your *GitHub* repository, enter their *GitHub* username or email addresses associated with their *GitHub* account, and click on the "Add collaborator" button on the center-right side of the page.
 
-
-
+![click on the "Add collaborator" button](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/add-collaborators.jpg)
 
 
 
