@@ -144,11 +144,31 @@ The updated README file is shown below.
 
 To modify a *GitHub* repository using the
 	[command-line interface](https://en.wikipedia.org/wiki/Command-line_interface) on [*Unix*-like operating systems](https://en.wikipedia.org/wiki/Unix-like) (such as macOS, [GNU/](https://en.wikipedia.org/wiki/GNU/Linux_naming_controversy)[Linux](https://en.wikipedia.org/wiki/Linux), freeBSD, NetBSD, or Open BSD),
-	and upload this modification (via `commit` and `push` commands) to my,
+	and upload this modification (via `commit` and `push` commands) to my
+		*GitHub* repository,
 	run the following sequence of commands.
 + `git add -A` (to add file modifications in the repository to this commit)
 + `git commit -m [Descriptive text for this set of file additions/modifications/deletions]` (commit this set of file modifications to the "holding stage," before this set of modifications is pushed/committed to the *GitHub* repository).
 + `git push`
+
+
+
+
+###	Adding Collaborators to A *GitHub* Repository
+
+
+To add collaborators to a *GitHub* repository, begin by clicking on the "Settings" tab of the repository, which is the rightmost tab near the top of the web page for the repository. This "Settings" tab is circled in red.
+
+![Click on the "Settings" tab of the repository](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/updated-readme-file.jpg)
+
+
+On the vertical list/menu beginning with "Options" on the right side of the "Settings" page of the *GitHub* repository, click on the "Collaborators" option. This "Collaborators" option is circled in red.
+
+![click on the "Collaborators" option](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/repository-settings.jpg)
+
+
+
+
 
 
 
