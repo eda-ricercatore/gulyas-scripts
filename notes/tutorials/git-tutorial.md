@@ -13,7 +13,17 @@ Use *GitHub*, or another Web-based source-code-hosting service, to share your
 
 ##	Brief Introduction to *Git*
 
+[*Git* is a free and open source distributed version control system](https://en.wikipedia.org/wiki/Git). You can use it to track different versions/revisions of your projects.
 
+To modify a *Git* repository using the
+	[command-line interface](https://en.wikipedia.org/wiki/Command-line_interface) on [*Unix*-like operating systems](https://en.wikipedia.org/wiki/Unix-like) (such as macOS, [GNU/](https://en.wikipedia.org/wiki/GNU/Linux_naming_controversy)[Linux](https://en.wikipedia.org/wiki/Linux), freeBSD, NetBSD, or Open BSD),
+	and upload this modification (via `commit` and `push` commands) to my
+		server/Web -based *GitHub* repository,
+	run the following sequence of commands.
++ `git add -A` (to add file modifications in the repository to this commit)
++ `git commit -m [Descriptive text for this set of file additions/modifications/deletions]` (commit this set of file modifications to the "holding stage," before this set of modifications is pushed/committed to the *GitHub* repository).
++ `git push` (this set of file modifications to the server or Web-based *Git*
+	service)
 
 
 
