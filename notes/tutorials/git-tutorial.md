@@ -27,6 +27,11 @@ To modify a *Git* repository using the
 
 
 
+Resources for learning about *Git*:
++ https://www.atlassian.com/git/tutorials
++ https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
+
+
 
 
 
