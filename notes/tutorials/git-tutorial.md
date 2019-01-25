@@ -27,6 +27,10 @@ To modify a *Git* repository using the
 
 
 
+![Git commit and push](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/git-commit-push-files.jpg)
+
+
+
 Resources for learning about *Git*:
 + https://www.atlassian.com/git/tutorials
 + https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
@@ -167,6 +171,10 @@ To modify a *GitHub* repository using the
 + `git push`
 
 
+![Git commit and push](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/git-commit-push-files.jpg)
+
+
+
 
 
 ###	Adding Collaborators to A *GitHub* Repository
@@ -240,6 +248,79 @@ To determine the URL to [clone a *GitHub* repository](https://git-scm.com/book/e
 To determine the URL to [clone a *GitHub* repository](https://git-scm.com/book/en/v1/Git-Basics-Getting-a-Git-Repository) by [HTTPS](https://help.github.com/articles/cloning-a-repository/), click on the green "Clone or download" button on the right side of the Web page for the *GitHub* repository. Subsequently, click on the "copy to clipboard" icon to copy the URL (for the HTTPS protocol).
 
 ![Clone with HTTPS](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/git-clone-https.jpg)
+
+
+
+
+###	Generating SSH Keys
+
+To generate a pair of SSH Keys (i.e., the public key and the corresponding
+	private key) for the [Secure Shell protocol, or SSH protocol](https://www.ssh.com/ssh/protocol/)
+	from the command line in the *Terminal* application,
+	use the `ssh-keygen -f [*location where SSH private and public key would be stored*]/[name associated with this pair of SSH keys] -C [A description that would be associated with this pair of SSH keys]` command.
+
+![Generate SSH keys](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/read-public-ssh-key.jpg)
+
+The contents of the public SHH key can be read as a text file.
+
+![Read public SSH key](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/read-public-ssh-key-2.jpg)
+
+
+###	Associating SSH Public Keys with a *GitHub* Profile
+
+Go to your *GitHub* profile's "Settings" page, and under the "Personal settings" list on the right, select the "SSH and GPG keys" option. Click on the green "New SSH key" button to add a SSH key to this repository. Also, for each displayed SSH key that is associated with your *GitHub* profile, you can click the grey button with the "Delete" label to dissociate that SSH key from your *GitHub* profile.
+
+![Setting SSH keys](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/settings-ssh-keys.jpg)
+
+When adding a public SSH key to your *GitHub* profile, describe the public SSH key (e.g., the computer account and the computer where its corresponding private SSH key is stored) in the text box labeled "Title" and paste the public SSH key into the text box labeled "Key".
+
+![Adding public SSH key](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/add-ssh-key.jpg)
+
+
+
+
+
+
+
+
+###	Cloning a *GitHub* Repository by SSH, via the Command-Line Interface
+
+To clone a *GitHub* repository by SSH, via the command-line interface, the following prerequisites/preconditions must be satisfied.
++ A pair of SSH keys (specifically, a public SSH key and a private SSH key) must be associated with SSH connections to the *GitHub* server. See the subsubsection on ["Generating SSH Keys"]() to obtain such pairs of SSH keys.
++ Associate the public SSH key (of any pair of SSH key) for SSH connections from a computer, which contains the associated private SSH key, with your *GitHub* profile. See subsubsection on ["Associating SSH Public Keys with a *GitHub* Profile"]() to do so.
+
+
+
+
+From the command-line interface, use the `git clone [URL of *GitHub* repository for the SSH protocol]` command to clone a *GitHub* repository by SSH.
+
+![CLI command for cloning *GitHub* repository](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/terminal-clone.jpg)
+
+
+
+
+
+
+Visually, the contents of a directory where a *Git*/*GitHub* repository would be clone are shown before and after the cloning process.
+
+
+Before cloning a *Git*/*GitHub* repository, the contents of the directory are shown below.
+
+![Before cloning Git repository](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/before-clone.jpg)
+
+After cloning a *Git*/*GitHub* repository, the contents of the directory are shown below.
+
+![After cloning Git repository](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/after-clone.jpg)
+
+The contents of the cloned *Git*/*GitHub* repository are shown below.
+
+![Contents of cloned *Git*/*GitHub* repository](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/after-clone-2.jpg)
+
+
+
+
+
+
 
 
 
