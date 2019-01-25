@@ -124,7 +124,7 @@ Click on the "Create repository" button at the bottom of the web page.
 
 When viewing a text file in the *GitHub* repository, indicate if the text file can be edited by checking if there is an "editing" icon that is shaped like a pencil/pen. If this "editing" icon exists, click on the "editing" icon to edit the text file. In the picture shown below, this "editing" icon is circled in red.
 
-![Text file that can be edited, and is shown in a panel with an "editing" icon in the top-right corner of the panel](https://github.tamu.edu/zhiyang-ong/ecen-215-spring-2019-lab/blob/master/lab-setup/git-tutorial-pics/administrative-tasks/initial-repository.jpg)
+![Text file that can be edited, and is shown in a panel with an "editing" icon in the top-right corner of the panel](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/initial-repository.jpg)
 
 This brings you to an online text editor to edit the text file, which has read and write permissions, so that the file can be modified and saved online (i.e., commit and push the modification).
 
