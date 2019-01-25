@@ -118,6 +118,43 @@ Click on the "Create repository" button at the bottom of the web page.
 
 
 
+###	Modifying A *GitHub* Repository
+
+####	Online (or Web-based) Modifications of A *GitHub* Repository
+
+When viewing a text file in the *GitHub* repository, indicate if the text file can be edited by checking if there is an "editing" icon that is shaped like a pencil/pen. If this "editing" icon exists, click on the "editing" icon to edit the text file.
+
+![Text file that can be edited, and is shown in a panel with an "editing" icon in the top-right corner of the panel](https://github.tamu.edu/zhiyang-ong/ecen-215-spring-2019-lab/blob/master/lab-setup/git-tutorial-pics/administrative-tasks/initial-repository.jpg)
+
+This brings you to an online text editor to edit the text file, which has read and write permissions, so that the file can be modified and saved online (i.e., commit and push the modification).
+
+![online text editor to edit a text file](https://github.tamu.edu/zhiyang-ong/ecen-215-spring-2019-lab/blob/master/lab-setup/git-tutorial-pics/administrative-tasks/editing-readme-file.jpg)
+
+To accept this modification of the file, and commit (or upload) this modification, click on the green "Commit changes" button in the bottom-left corner of the Web page.
+
+![To accept this modification of the file, and commit (or upload) this modification](https://github.tamu.edu/zhiyang-ong/ecen-215-spring-2019-lab/blob/master/lab-setup/git-tutorial-pics/administrative-tasks/committing-files.jpg)
+
+The updated README file is shown below.
+
+![updated README file](https://github.tamu.edu/zhiyang-ong/ecen-215-spring-2019-lab/blob/master/lab-setup/git-tutorial-pics/administrative-tasks/updated-readme-file.jpg)
+
+
+
+####	Command-Line Interface -based Modifications of A *GitHub* Repository
+
+To modify a *GitHub* repository using the
+	[command-line interface](https://en.wikipedia.org/wiki/Command-line_interface) on [*Unix*-like operating systems](https://en.wikipedia.org/wiki/Unix-like) (such as macOS, [GNU/](https://en.wikipedia.org/wiki/GNU/Linux_naming_controversy)[Linux](https://en.wikipedia.org/wiki/Linux), freeBSD, NetBSD, or Open BSD),
+	and upload this modification (via `commit` and `push` commands) to my,
+	run the following sequence of commands.
++ `git add -A` (to add file modifications in the repository to this commit)
++ `git commit -m [Descriptive text for this set of file additions/modifications/deletions]` (commit this set of file modifications to the "holding stage," before this set of modifications is pushed/committed to the *GitHub* repository).
++ `git push`
+
+
+
+
+
+
 
 
 
