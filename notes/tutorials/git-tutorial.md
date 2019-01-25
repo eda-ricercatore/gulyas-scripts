@@ -81,6 +81,15 @@ To add and/or change email addresses associated with your *GitHub* profile, [sel
 
 
 
+###	*GitHub* Repositories
+
+Each project that you work on can be stored locally on your computer, and online with your cloud-based *GitHub* account. To store your project with your *GitHub* account, create and associate a *GitHub* repository to your project. This *GitHub* repository would contain additions, deletions, or modifications of your files associated with that project. For files stored in the *GitHub* repository as [text files (e.g., using the ASCII character set, UTF-8 character encoding, or similar text file formats)](https://en.wikipedia.org/wiki/Text_file), each commit/modification pushed to your *GitHub* repository would show the differences between the files in the current commit/version and the previous commit/version (if they exist).
+
+
+
+
+
+
 
 
 ###	Creating A New *GitHub* Repository
