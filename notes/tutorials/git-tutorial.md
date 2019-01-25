@@ -128,15 +128,15 @@ When viewing a text file in the *GitHub* repository, indicate if the text file c
 
 This brings you to an online text editor to edit the text file, which has read and write permissions, so that the file can be modified and saved online (i.e., commit and push the modification).
 
-![online text editor to edit a text file](https://github.tamu.edu/zhiyang-ong/ecen-215-spring-2019-lab/blob/master/lab-setup/git-tutorial-pics/administrative-tasks/editing-readme-file.jpg)
+![Online text editor to edit a text file](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/editing-readme-file.jpg)
 
 To accept this modification of the file, and commit (or upload) this modification, click on the green "Commit changes" button in the bottom-left corner of the Web page.
 
-![To accept this modification of the file, and commit (or upload) this modification](https://github.tamu.edu/zhiyang-ong/ecen-215-spring-2019-lab/blob/master/lab-setup/git-tutorial-pics/administrative-tasks/committing-files.jpg)
+![To accept this modification of the file, and commit or upload this modification](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/committing-files.jpg)
 
 The updated README file is shown below.
 
-![updated README file](https://github.tamu.edu/zhiyang-ong/ecen-215-spring-2019-lab/blob/master/lab-setup/git-tutorial-pics/administrative-tasks/updated-readme-file.jpg)
+![updated README file](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/updated-readme-file.jpg)
 
 
 
