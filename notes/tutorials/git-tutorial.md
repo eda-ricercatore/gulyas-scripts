@@ -227,6 +227,34 @@ Drag files to the shaded region labeled "Drag files here to add them to your rep
 
 
 
+###	Finding the URL to Clone a *GitHub* Repository
+
+To determine the URL to [clone a *GitHub* repository](https://git-scm.com/book/en/v1/Git-Basics-Getting-a-Git-Repository) by SSH, click on the green "Clone or download" button on the right side of the Web page for the *GitHub* repository. Subsequently, click on the "copy to clipboard" icon to copy the URL (for the SSH protocol).
+
+![Clone with SSH](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/git-clone-ssh.jpg)
+
+
+
+
+
+To determine the URL to [clone a *GitHub* repository](https://git-scm.com/book/en/v1/Git-Basics-Getting-a-Git-Repository) by [HTTPS](https://help.github.com/articles/cloning-a-repository/), click on the green "Clone or download" button on the right side of the Web page for the *GitHub* repository. Subsequently, click on the "copy to clipboard" icon to copy the URL (for the HTTPS protocol).
+
+![Clone with HTTPS](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/git-clone-https.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
