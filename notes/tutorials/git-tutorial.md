@@ -130,7 +130,7 @@ This brings you to an online text editor to edit the text file, which has read a
 
 ![Online text editor to edit a text file](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/editing-readme-file.jpg)
 
-To accept this modification of the file, and commit (or upload) this modification, click on the green "Commit changes" button in the bottom-left corner of the Web page.
+In the text boxes under the "Commit changes" label, write a summary of the modification in the top text box labeled, and write an optional brief description of the modification in the bottom text box. To accept this modification of the file, and commit (or upload) this modification, click on the green "Commit changes" button in the bottom-left corner of the Web page.
 
 ![To accept this modification of the file, and commit or upload this modification](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/committing-files.jpg)
 
