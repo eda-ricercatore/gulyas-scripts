@@ -174,6 +174,25 @@ To add collaborators to your *GitHub* repository, enter their *GitHub* username 
 
 
 
+###	Removing Collaborators From A *GitHub* Repository
+
+Go to the "Collaborators" page via the "Settings" page of the *GitHub* repository, and click on the cross on the right side of a collaborator who you want to remove access to the repository.
+
+![Remove collaborator from the repository](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/remove-collaborators.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
