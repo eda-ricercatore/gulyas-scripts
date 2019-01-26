@@ -634,6 +634,10 @@ To-do list:
 		* Extensive experience manipulating and analyzing complex data with SQL, Python and/or R. Knowledge of Google BigQuery and Java/Scala is a plus.
 		* You’ll lead, analyze, implement, and socialize a robust A/B/multivariate testing program, collaborating closely with product, engineering, marketing, and content.
 		* You’re familiar with all aspects of SEO: on-page, external, and technical, and you have used tools such as ahrefs, DeepCrawl, Screaming Frog, SEMRush, and Google Search Console to optimize for search.
+		* Set of skills:
+			+ Experience with modern programming languages (Java, Scala, Go, TypeScript)
+			+ Database / Data Storage experience (SQL / MySQL, MongoDB, DynamoDB)
+			+ Interest in Infrastructure Tooling (Docker, Nomad, Consul, Vault, Prometheus)
 		* RStudio packages: The tidyverse, R Markdown, and Shiny
 		* A sample of the technologies you’ll be exposed to: Python, Javascript/Angular, Impala (Big data data database), AWS, Docker, Kubernetes, Git.
 		* Experience with Python ORMs like SQLAlchemy and Python libraries like Pandas, Scikit-Learn, Numpy and Scipy
