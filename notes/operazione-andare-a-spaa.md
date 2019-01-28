@@ -22,6 +22,7 @@ Questions:
 
 To-do list:
 + [ ] Figure what conferences to target next.
++ [ ] Build noise-based logic circuit for matrix and tensor operations, and to implement artificial neural networks.
 + [x] **Reference machine learning libraries!!!**
 + [x] Libraries associated with NumFOCUS.
 + [ ] Store test results in a database (in *CSV* format), and manage it with a *SQL*
