@@ -21,6 +21,7 @@ Questions:
 
 
 To-do list:
++ [ ] Figure what conferences to target next.
 + [x] **Reference machine learning libraries!!!**
 + [x] Libraries associated with NumFOCUS.
 + [ ] Store test results in a database (in *CSV* format), and manage it with a *SQL*
