@@ -299,6 +299,8 @@ From the command-line interface, use the `git clone [URL of *GitHub* repository 
 
 
 Fix THIS!!!
+Do by the weekend.
+
 
 
 Visually, the contents of a directory where a *Git*/*GitHub* repository would be clone are shown before and after the cloning process.
