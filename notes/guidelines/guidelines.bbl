@@ -1,7 +1,7 @@
 \begin{thebibliography}{100}
 
-\bibitem{37signals2006}
-37signals.
+\bibitem{37signalsStaff2006}
+{37signals staff}.
 \newblock {\em Getting Real: The smarter, faster, easier way to build a
   successful web application}.
 \newblock 37signals, Chicago, {IL}, 2006.
@@ -143,7 +143,7 @@ Mike Beedle, Arie {van Bennekum}, Alistair Cockburn, Ward Cunningham, Martin
 James Bender and Jeff {McWherter}.
 \newblock {\em Professional Test Driven Development with {{C}\#}: Developing
   Real-World Applications with {TDD}}.
-\newblock {Wrox} Programmer to Programmer$^{\texttrademark}$. Wiley Publishing,
+\newblock {Wrox} Programmer to Programmer{\texttrademark}. Wiley Publishing,
   Indianapolis, {IN}, 2011.
 
 \bibitem{Bening2000}
@@ -293,8 +293,7 @@ Hewlett-Packard Company.
 
 \bibitem{Conway2003}
 Jon Conway and Steve Watts.
-\newblock {\em A Software Engineering Approach to
-  {LabVIEW}$^{\texttrademark}$}.
+\newblock {\em A Software Engineering Approach to {LabVIEW}{\texttrademark}}.
 \newblock National Instruments Virtual Instrumentation Series. Prentice Hall,
   Upper Saddle River, {NJ}, 2003.
 
@@ -824,7 +823,7 @@ Michael Keating and Pierre Bricaud.
 \bibitem{Keiter2013a}
 Eric~R. Keiter, Thomas~V. Russo, Richard~L. Schiek, Peter~E. Sholander,
   Heidi~K. Thornquist, Ting Mei, Jason~C. Verley, and David~G. Baur.
-\newblock Building guide: How to build {Xyce}$^{\texttrademark}$\ from source
+\newblock Building guide: How to build {Xyce}{\texttrademark}\ from source
   code.
 \newblock Technical Report {SAND2013-7294}, Sandia National Laboratories,
   Sandia Corporation, Albuquerque, {NM}, August 2013.
@@ -1005,7 +1004,7 @@ Eric Lippert.
 \bibitem{Long1995}
 Fred Long, Dhruv Mohindra, Robert~C. Seacord, Dean~F. Sutherland, and David
   Svoboda.
-\newblock {\em {Java}$^{\texttrademark}$\ Coding Guidelines: 75 Recommendations
+\newblock {\em {Java}{\texttrademark}\ Coding Guidelines: 75 Recommendations
   for Reliable and Secure Programs}.
 \newblock The {SEI} Series in Software Engineering. Addison-Wesley, Upper
   Saddle River, {NJ}, 1995.
@@ -1043,7 +1042,7 @@ Robert~C. Martin and Micah Martin.
 \bibitem{Masters2007}
 Jon Masters and Richard Blum.
 \newblock {\em Professional {Linux} Programming}.
-\newblock Programmer to Programmer$^{\texttrademark}$. Wiley Publishing,
+\newblock Programmer to Programmer{\texttrademark}. Wiley Publishing,
   Indianapolis, {IN}, 2007.
 
 \bibitem{McConnell1996}
