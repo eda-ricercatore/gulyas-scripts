@@ -478,13 +478,10 @@ Notes from this chapter:
 Notes from this chapter:
 + "I never thought in terms of legacy, neither during my sixteen years as president nor in my earlier leadership roles. Instead, I thought about leadering authentically and ethically, to build trust with the Stanford community so that together we could improve Stanford in ways that would last far beyond my leadership" \cite[\S10 Legacy: What You Leave Behind, pp. 139]{Hennessy2018a}.
 + "To achieve this collective goal, we needed to emphasize and invest in the right initiatives. Hence, we focused on building the endowment for financial aid, so future generations would have access to more financial assistance. Similarly, in choosing where to expand our multidisciplinary efforts, we targeted areas - such as environmental sustainability, international affairs, and human health - in which we expected major challenges not just in the next decade but fifty years in the future" \cite[\S10 Legacy: What You Leave Behind, pp. 139]{Hennessy2018a}.
-+ If I am more concerned about "shepherding my reputation and avoiding risks, I would have missed" [opportunities to create start-ups or become a provost at a research university]. I would have been "worry"
-
-\cite[\S10 Legacy: What You Leave Behind, pp. 139]{Hennessy2018a}.
-
-
-
-
++ If I am more concerned about "shepherding my reputation and avoiding risks, I would have missed" [opportunities to create start-ups or become a provost at a research university]. I would have been "worrying about my legacy too much or too early" \cite[\S10 Legacy: What You Leave Behind, pp. 141]{Hennessy2018a}.
++ "Intead of worrying about my legacy too much or too early, I'm choosing now - as I always have - to follow the path of making meaningful contributions. Focusing my life's work on making a difference seems a far better strategy than being either a young person obsessing about my image or an old person trying to burnish a mediocre or damaged reputation in my final years" \cite[\S10 Legacy: What You Leave Behind, pp. 141]{Hennessy2018a}.
++ "Often what guided my behavior was not legacy-building, but guarding my limited time, energy, and resources. I think of this as the opportunity cost dilemma. The opportunity cost is your time, your energy, and your stature -  your ability to use your position to do something that matters. To do the greatest good, you need to regularly ask yourself, `How can I use my time and my position most effectively?' " \cite[\S10 Legacy: What You Leave Behind, pp. 141]{Hennessy2018a}.
++ "Stay focused on moving forward," so that fear of failure or disruptions has a smaller effect on paralyzing me as a leader \cite[\S10 Legacy: What You Leave Behind, pp. 141]{Hennessy2018a}.
 
 
 
