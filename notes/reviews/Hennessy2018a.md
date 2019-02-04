@@ -482,6 +482,9 @@ Notes from this chapter:
 + "Intead of worrying about my legacy too much or too early, I'm choosing now - as I always have - to follow the path of making meaningful contributions. Focusing my life's work on making a difference seems a far better strategy than being either a young person obsessing about my image or an old person trying to burnish a mediocre or damaged reputation in my final years" \cite[\S10 Legacy: What You Leave Behind, pp. 141]{Hennessy2018a}.
 + "Often what guided my behavior was not legacy-building, but guarding my limited time, energy, and resources. I think of this as the opportunity cost dilemma. The opportunity cost is your time, your energy, and your stature -  your ability to use your position to do something that matters. To do the greatest good, you need to regularly ask yourself, `How can I use my time and my position most effectively?' " \cite[\S10 Legacy: What You Leave Behind, pp. 141]{Hennessy2018a}.
 + "Stay focused on moving forward," so that fear of failure or disruptions has a smaller effect on paralyzing me as a leader \cite[\S10 Legacy: What You Leave Behind, pp. 141]{Hennessy2018a}.
++ "It's hard to predict *a priori* which of our actions might have the biggest and most enduring impact: we simply do not know where our journey is going even over the one or two decades where that most leaders are in office" \cite[\S10 Legacy: What You Leave Behind, pp. 145]{Hennessy2018a}.
++ "Au contraire: predicting the future is very hard" \cite[\S10 Legacy: What You Leave Behind, pp. 145]{Hennessy2018a}.
++ "The last three decades have taught me not to fear mistakes, but instead to learn from them, make adjustments, and carry on. I have also learned, to paraphrase Dr. Martin Luther King Jr., you don't need to see the whole staircase to take the first step. So we will step forward, guided by wisdoms gained from the past and curiosity about the future" \cite[\S11 Conclusion: Building the Future, pp. 155-156]{Hennessy2018a}.
 
 
 
@@ -490,19 +493,8 @@ Notes from this chapter:
 
 
 
-@book{Hennessy2018a,
-	Address = {Stanford, {CA}},
-	Author = {John L. Hennessy},
-	Publisher = {Stanford Business Books},
-	Title = {Leading Matters: Lessons from My Journey},
-	Year = {2018}}
 
 
-##	To-Do List
-
-Make a copy of the "Coda: Books from Which I Have Learned" chapter: pp. 159-175.
-
-Also, make a copy of the "Notes" chapter, pp. 179-180.
 
 
 
