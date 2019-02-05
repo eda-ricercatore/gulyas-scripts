@@ -235,6 +235,44 @@ An online text editor would be opened for you to edit/write a text file. This is
 
 
 
+
+###	Deleting a File Online
+
+Directory of file to be deleted.
+
+![Directory of file to be deleted](https://github.tamu.edu/zhiyang-ong/ecen-215-spring-2019-lab/blob/master/lab-setup/git-tutorial-pics/file-deletion/directory-of-file-to-be-deleted.jpg)
+
+File to be deleted. Click on the icon of a trash can on the right (circled in red) to delete the file.
+
+![File to be deleted.](https://github.tamu.edu/zhiyang-ong/ecen-215-spring-2019-lab/blob/master/lab-setup/git-tutorial-pics/file-deletion/file-to-be-deleted.jpg)
+
+Deleting file.
+
+![Deleting file - Step 1](https://github.tamu.edu/zhiyang-ong/ecen-215-spring-2019-lab/blob/master/lab-setup/git-tutorial-pics/file-deletion/deleting-file-1.jpg)
+
+
+![Deleting file - Step 2](https://github.tamu.edu/zhiyang-ong/ecen-215-spring-2019-lab/blob/master/lab-setup/git-tutorial-pics/file-deletion/deleting-file-2.jpg)
+
+File deleted.
+
+![File deleted.](https://github.tamu.edu/zhiyang-ong/ecen-215-spring-2019-lab/blob/master/lab-setup/git-tutorial-pics/file-deletion/file-deleted.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ###	Uploading Files Online
 
 You can upload files for your repository by clicking the "Upload files" button near the top of the repositories.
