@@ -259,13 +259,13 @@ The two added syllabi.
 
 ![The two added syllabi](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/upload-subdirectory/two-syllabi.jpg)
 
-Adding more syllabi to the Git repository.
+Adding more syllabi to the Git repository, by uploading the modified directory (initial directory with additional files) again.
 
 ![Adding more syllabi to the Git repository](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/upload-subdirectory/add-more-syllabi-upload-directory-again.jpg)
 
 ***IMPORTANT NOTE!!!: Initial uploaded syllabi were not overwritten.***
 
-Initial uploaded syllabi were not overwritten.
+The directory/folder is modified. Initial uploaded syllabi were not overwritten.
 
 ![Initial uploaded syllabi were not overwritten](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/upload-subdirectory/uploaded-directory.jpg)
 
