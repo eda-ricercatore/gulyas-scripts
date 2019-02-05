@@ -250,6 +250,7 @@ Deleting file.
 
 ![Deleting file - Step 1](https://github.tamu.edu/zhiyang-ong/ecen-215-spring-2019-lab/blob/master/lab-setup/git-tutorial-pics/file-deletion/deleting-file-1.jpg)
 
+Add a comment to describe this file deletion. And, click on the "Commit changes" green button below to confirm deletion of the file.
 
 ![Deleting file - Step 2](https://github.tamu.edu/zhiyang-ong/ecen-215-spring-2019-lab/blob/master/lab-setup/git-tutorial-pics/file-deletion/deleting-file-2.jpg)
 
