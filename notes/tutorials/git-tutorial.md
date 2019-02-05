@@ -239,7 +239,7 @@ Drag files to the shaded region labeled "Drag files here to add them to your rep
 
 You can also upload folders/directories for your repository by clicking the "Upload files" button near the top of the repositories.
 
-![Upload files to *Git* repository](https://github.tamu.edu/zhiyang-ong/ecen-215-spring-2019-lab/blob/master/lab-setup/git-tutorial-pics/administrative-tasks/upload-files.jpg)
+![Upload files to *Git* repository](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/upload-files.jpg)
 
 Drag folders/directories to the shaded region labeled "Drag files here to add them to your repository."
 
