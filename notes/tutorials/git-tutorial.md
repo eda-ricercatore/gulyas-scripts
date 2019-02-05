@@ -247,11 +247,11 @@ Initial Git repository without any syllabus.
 
 ![Initial Git repository without any syllabus](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/upload-subdirectory/git-repo-before-uploads.jpg)
 
-Adding two syllabi to the Git repository.
+Uploaded directory with two syllabi to the Git repository.
 
 ![Adding two syllabi to the Git repository](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/upload-subdirectory/add-two-syllabi.jpg)
 
-Added directory and two syllabi.
+Added directory with two syllabi.
 
 ![Added directory and two syllabi](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/upload-subdirectory/added-directory.jpg)
 
