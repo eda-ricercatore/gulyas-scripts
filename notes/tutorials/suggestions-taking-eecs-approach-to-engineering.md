@@ -19,10 +19,10 @@ By recognizing analogies between dynamical systems, you can map electrical circu
 + [Mechanical–electrical analogies](https://en.wikipedia.org/wiki/Mechanical%E2%80%93electrical_analogies)
 + [System equivalence](https://en.wikipedia.org/wiki/System_equivalence)
 
-![An example of equivalent analogical models or dynamical analogies, where a mechanical system (shown on top) is compared with an electrical system (shown below)](https://github.tamu.edu/zhiyang-ong/ecen-215-spring-2019-lab/blob/master/notes/pics/equivalent-systems.jpg)
+![An example of equivalent analogical models or dynamical analogies, where a mechanical system (shown on top) is compared with an electrical system (shown below)](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/suggestions-taking-eecs-approach-to-engineering-pics/equivalent-systems.jpg)
 
 
-![A table describing the analogical models or dynamical analogies between mechanical, electrical, thermal, and fluid systems](https://github.tamu.edu/zhiyang-ong/ecen-215-spring-2019-lab/blob/master/notes/pics/table-of-analogies.jpg)
+![A table describing the analogical models or dynamical analogies between mechanical, electrical, thermal, and fluid systems](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/suggestions-taking-eecs-approach-to-engineering-pics/table-of-analogies.jpg)
 
 
 
