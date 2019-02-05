@@ -239,26 +239,32 @@ Drag files to the shaded region labeled "Drag files here to add them to your rep
 
 You can also upload folders/directories for your repository by clicking the "Upload files" button near the top of the repositories.
 
-![Upload files to *Git* repository](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/upload-files.jpg)
+![Upload files to *Git* repository](https://github.tamu.edu/zhiyang-ong/ecen-215-spring-2019-lab/blob/master/lab-setup/git-tutorial-pics/administrative-tasks/upload-files.jpg)
 
 Drag folders/directories to the shaded region labeled "Drag files here to add them to your repository."
 
 Initial Git repository without any syllabus.
 
-![Initial Git repository without any syllabus](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/upload-subdirectory/git-repo-no-syllabus.jpg)
+![Initial Git repository without any syllabus](https://github.tamu.edu/zhiyang-ong/ecen-215-spring-2019-lab/blob/master/lab-setup/git-tutorial-pics/upload-subdirectory/git-repo-before-uploads.jpg)
 
 Adding two syllabi to the Git repository.
 
-![Adding two syllabi to the Git repository](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/upload-subdirectory/git-repo-adding-syllabus.jpg)
+![Adding two syllabi to the Git repository](https://github.tamu.edu/zhiyang-ong/ecen-215-spring-2019-lab/blob/master/lab-setup/git-tutorial-pics/upload-subdirectory/add-two-syllabi.jpg)
+
+![Added directory and two syllabi](https://github.tamu.edu/zhiyang-ong/ecen-215-spring-2019-lab/blob/master/lab-setup/git-tutorial-pics/upload-subdirectory/added-directory.jpg)
+
+![The two added syllabi](https://github.tamu.edu/zhiyang-ong/ecen-215-spring-2019-lab/blob/master/lab-setup/git-tutorial-pics/upload-subdirectory/two-syllabi.jpg)
 
 Adding more syllabi to the Git repository.
 
-![Adding more syllabi to the Git repository](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/upload-subdirectory/git-repo-adding-more-syllabi.jpg)
+![Adding more syllabi to the Git repository](https://github.tamu.edu/zhiyang-ong/ecen-215-spring-2019-lab/blob/master/lab-setup/git-tutorial-pics/upload-subdirectory/add-more-syllabi-upload-directory-again.jpg)
 
 IMPORTANT NOTE!!!: Initial uploaded syllabi were not overwritten.
 
-![Initial uploaded syllabi were not overwritten](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/upload-subdirectory/no-overwrites.jpg)
+![Initial uploaded syllabi were not overwritten](https://github.tamu.edu/zhiyang-ong/ecen-215-spring-2019-lab/blob/master/lab-setup/git-tutorial-pics/upload-subdirectory/uploaded-directory.jpg)
 
+
+![Information regrading the initial upload of files is retained](https://github.tamu.edu/zhiyang-ong/ecen-215-spring-2019-lab/blob/master/lab-setup/git-tutorial-pics/upload-subdirectory/no-overwrite.jpg)
 
 
 
