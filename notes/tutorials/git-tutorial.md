@@ -243,12 +243,19 @@ You can also upload folders/directories for your repository by clicking the "Upl
 
 Drag folders/directories to the shaded region labeled "Drag files here to add them to your repository."
 
+Initial Git repository without any syllabus.
+
 ![Initial Git repository without any syllabus](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/upload-subdirectory/git-repo-no-syllabus.jpg)
+
+Adding two syllabi to the Git repository.
 
 ![Adding two syllabi to the Git repository](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/upload-subdirectory/git-repo-adding-syllabus.jpg)
 
+Adding more syllabi to the Git repository.
+
 ![Adding more syllabi to the Git repository](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/upload-subdirectory/git-repo-adding-more-syllabi.jpg)
 
+IMPORTANT NOTE!!!: Initial uploaded syllabi were not overwritten.
 
 ![Initial uploaded syllabi were not overwritten](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/upload-subdirectory/no-overwrites.jpg)
 
