@@ -269,7 +269,7 @@ The directory/folder is modified. Initial uploaded syllabi were not overwritten.
 
 ![Initial uploaded syllabi were not overwritten](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/upload-subdirectory/uploaded-directory.jpg)
 
-Information regrading the initial upload of files is retained, while other files are added to the directory/folder (that was uploaded).
+Information regarding the initial upload of files is retained, while other files are added to the directory/folder (that was uploaded).
 
 ![Information regrading the initial upload of files is retained](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/upload-subdirectory/no-overwrite.jpg)
 
