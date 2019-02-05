@@ -12,7 +12,28 @@ Use *GitHub*, or another Web-based source-code-hosting service, to share your
 
 
 
-
+**Contents:**
++ [Brief Introduction to *Git*](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial.md#brief-introduction-to-git)
++ [Brief Introduction to *GitHub*](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial.md#brief-introduction-to-github)
+	- [Customizing Your *GitHub* Profile](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial.md#customizing-your-github-profile)
+	- [*GitHub* Repositories](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial.md#github-repositories)
+	- [Creating A New *GitHub* Repository](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial.md#creating-a-new-github-repository)
+	- [Modifying A *GitHub* Repository](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial.md#modifying-a-github-repository)
+		* [Online (or Web-based) Modifications of A *GitHub* Repository](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial.md#online-or-web-based-modifications-of-a-github-repository)
+		* [Command-Line Interface -based Modifications of A *GitHub* Repository](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial.md#command-line-interface--based-modifications-of-a-github-repository)
+	- [Adding Collaborators to A *GitHub* Repository](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial.md#adding-collaborators-to-a-github-repository)
+	- [Removing Collaborators From A *GitHub* Repository](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial.md#removing-collaborators-from-a-github-repository)
+	- [Creating a New File Online](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial.md#creating-a-new-file-online)
+	- [Deleting a File Online](https://github.tamu.edu/zhiyang-ong/ecen-215-spring-2019-lab/blob/master/lab-setup/git-tutorial.md#deleting-a-file-online)
+	- [Uploading Files Online](https://github.tamu.edu/zhiyang-ong/ecen-215-spring-2019-lab/blob/master/lab-setup/git-tutorial.md#uploading-files-online)
+	- [Upload Folders/Directories Online](https://github.tamu.edu/zhiyang-ong/ecen-215-spring-2019-lab/blob/master/lab-setup/git-tutorial.md#upload-foldersdirectories-online)
+	- [Finding the URL to Clone a *GitHub* Repository](https://github.tamu.edu/zhiyang-ong/ecen-215-spring-2019-lab/blob/master/lab-setup/git-tutorial.md#finding-the-url-to-clone-a-github-repository)
+	- [For submitting pre-lab assignments and laboratory reports for *ECEN 215*](https://github.tamu.edu/zhiyang-ong/ecen-215-spring-2019-lab/blob/master/lab-setup/git-tutorial.md#for-submitting-pre-lab-assignments-and-laboratory-reports-for-ecen-215)
+	- [Documenting Projects](https://github.tamu.edu/zhiyang-ong/ecen-215-spring-2019-lab/blob/master/lab-setup/git-tutorial.md#documenting-projects)
+	- [Miscellaneous Information](https://github.tamu.edu/zhiyang-ong/ecen-215-spring-2019-lab/blob/master/lab-setup/git-tutorial.md#miscellaneous-information)
++ [References](https://github.tamu.edu/zhiyang-ong/ecen-215-spring-2019-lab/blob/master/lab-setup/git-tutorial.md#references)
+	- [Notes about In-Text Citation](https://github.tamu.edu/zhiyang-ong/ecen-215-spring-2019-lab/blob/master/lab-setup/git-tutorial.md#notes-about-in-text-citation)
++ [Author Information](https://github.tamu.edu/zhiyang-ong/ecen-215-spring-2019-lab/blob/master/lab-setup/git-tutorial.md#author-information)
 
 
 
@@ -240,23 +261,23 @@ An online text editor would be opened for you to edit/write a text file. This is
 
 Directory of file to be deleted.
 
-![Directory of file to be deleted](https://github.tamu.edu/zhiyang-ong/ecen-215-spring-2019-lab/blob/master/lab-setup/git-tutorial-pics/file-deletion/directory-of-file-to-be-deleted.jpg)
+![Directory of file to be deleted](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/file-deletion/directory-of-file-to-be-deleted.jpg)
 
 File to be deleted. Click on the icon of a trash can on the right (circled in red) to delete the file.
 
-![File to be deleted.](https://github.tamu.edu/zhiyang-ong/ecen-215-spring-2019-lab/blob/master/lab-setup/git-tutorial-pics/file-deletion/file-to-be-deleted.jpg)
+![File to be deleted.](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/file-deletion/file-to-be-deleted.jpg)
 
 Deleting file.
 
-![Deleting file - Step 1](https://github.tamu.edu/zhiyang-ong/ecen-215-spring-2019-lab/blob/master/lab-setup/git-tutorial-pics/file-deletion/deleting-file-1.jpg)
+![Deleting file - Step 1](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/file-deletion/deleting-file-1.jpg)
 
 Add a comment to describe this file deletion. And, click on the "Commit changes" green button below to confirm deletion of the file.
 
-![Deleting file - Step 2](https://github.tamu.edu/zhiyang-ong/ecen-215-spring-2019-lab/blob/master/lab-setup/git-tutorial-pics/file-deletion/deleting-file-2.jpg)
+![Deleting file - Step 2](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/file-deletion/deleting-file-2.jpg)
 
 File deleted.
 
-![File deleted.](https://github.tamu.edu/zhiyang-ong/ecen-215-spring-2019-lab/blob/master/lab-setup/git-tutorial-pics/file-deletion/file-deleted.jpg)
+![File deleted.](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/file-deletion/file-deleted.jpg)
 
 
 
