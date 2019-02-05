@@ -20,6 +20,24 @@ Questions:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 To-do list:
 + [ ] Figure what conferences to target next.
 + [ ] List CFP deadlines in sequential order.
