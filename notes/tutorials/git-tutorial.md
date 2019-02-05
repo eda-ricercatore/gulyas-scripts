@@ -235,6 +235,33 @@ Drag files to the shaded region labeled "Drag files here to add them to your rep
 
 
 
+###	Upload Folders/Directories Online
+
+You can also upload folders/directories for your repository by clicking the "Upload files" button near the top of the repositories.
+
+![Upload files to *Git* repository](https://github.tamu.edu/zhiyang-ong/ecen-215-spring-2019-lab/blob/master/lab-setup/git-tutorial-pics/administrative-tasks/upload-files.jpg)
+
+Drag folders/directories to the shaded region labeled "Drag files here to add them to your repository."
+
+![Initial Git repository without any syllabus](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/upload-subdirectory/git-repo-no-syllabus.jpg)
+
+![Adding two syllabi to the Git repository](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/upload-subdirectory/git-repo-adding-syllabus.jpg)
+
+![Adding more syllabi to the Git repository](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/upload-subdirectory/git-repo-adding-more-syllabi.jpg)
+
+
+![Initial uploaded syllabi were not overwritten](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/upload-subdirectory/no-overwrites.jpg)
+
+
+
+
+
+
+
+
+
+
+
 ###	Finding the URL to Clone a *GitHub* Repository
 
 To determine the URL to [clone a *GitHub* repository](https://git-scm.com/book/en/v1/Git-Basics-Getting-a-Git-Repository) by SSH, click on the green "Clone or download" button on the right side of the Web page for the *GitHub* repository. Subsequently, click on the "copy to clipboard" icon to copy the URL (for the SSH protocol).
