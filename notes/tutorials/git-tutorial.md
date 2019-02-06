@@ -237,6 +237,16 @@ To add collaborators to your *GitHub* repository, enter their *GitHub* username 
 
 Go to the "Collaborators" page via the "Settings" page of the *GitHub* repository, and click on the cross on the right side of a collaborator who you want to remove access to the repository.
 
+Going to the "Settings" page of the *GitHub* repository.
+
+![Click on the "Settings" tab of the repository](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/updated-readme-file.jpg)
+
+Go to the "Collaborators" page of the *GitHub* repository.
+
+![click on the "Collaborators" option](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/repository-settings.jpg)
+
+Click on the cross on the right side of a collaborator who you want to remove access to the repository.
+
 ![Remove collaborator from the repository](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/remove-collaborators.jpg)
 
 
@@ -247,6 +257,42 @@ Go to the "Collaborators" page via the "Settings" page of the *GitHub* repositor
 To set your *GitHub* repository to private, begin by clicking on the "Settings" tab of the repository, which is the rightmost tab near the top of the web page for the repository. This "Settings" tab is circled in red.
 
 ![Click on the "Settings" tab of the repository](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/updated-readme-file.jpg)
+
+Initial "Settings" page of the *GitHub* repository.
+
+![Initial "Settings" page of the *GitHub* repository.](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/make-repo-private/repo-settings-page.jpg)
+
+
+Scroll to the bottom of the "Settings" page of the *GitHub* repository.
+
+![Scroll to the bottom of the "Settings" page of the *GitHub* repository.](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/make-repo-private/make-repo-private.jpg)
+
+Click on the grey/gray "Make private" button in the "Danger Zone".
+
+The tab/window would be darkened, and a pseudo-"pop-up window" would ask you to type in the name of the *GitHub* repository that you are trying to make private.
+
+Type in the name of the *GitHub* repository, and click on the "I understand, make this repository private." button.
+
+![First Warning, Darkened Pop-up Window](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/make-repo-private/make-repo-private-warning.jpg)
+
+
+
+You will be redirected to a page to authenticate your identity. This acts as a second warning to remind you of the seriousness of your action in making the repository private.
+
+![NetID authentication](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/make-repo-private/make-repo-private-authentication.jpg)
+
+
+You will return to the "Settings" page of the *GitHub* repository, with the "Private" flag beside the name of the repository (near the top left corner of the window/tab).
+
+![Private repo 1](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/make-repo-private/private-repo-1.jpg)
+
+When you scroll to the bottom of the page, you will notice a "Make public" button in the "Danger Zone". This is because the *GitHub* repository is currently private, and cannot be made "private private". However, it has the "Make public" button in the "Danger Zone" to allow the administrator/collaborator of the *GitHub* repository make set the *GitHub* repository to public, so that everyone can see it again.
+
+![Private repo 2](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/make-repo-private/private-repo-2.jpg)
+
+Similarly, when you return to the main page of the *GitHub* repository, you will notice the "Private" flag beside the name of the repository (near the top left corner of the window/tab).
+
+![Private repo indicator](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/make-repo-private/private-repo-indicator.jpg)
 
 
 
