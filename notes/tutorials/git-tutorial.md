@@ -268,11 +268,11 @@ Scroll to the bottom of the "Settings" page of the *GitHub* repository.
 
 ![Scroll to the bottom of the "Settings" page of the *GitHub* repository.](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/make-repo-private/make-repo-private.jpg)
 
-Click on the grey/gray "Make private" button in the "Danger Zone".
+Click on the grey/gray "Make private" button (circled in red) in the "Danger Zone".
 
 The tab/window would be darkened, and a pseudo-"pop-up window" would ask you to type in the name of the *GitHub* repository that you are trying to make private.
 
-Type in the name of the *GitHub* repository, and click on the "I understand, make this repository private." button.
+Type in the name of the *GitHub* repository, and click on the "I understand, make this repository private." button (circled in red).
 
 ![First Warning, Darkened Pop-up Window](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/make-repo-private/make-repo-private-warning.jpg)
 
@@ -283,15 +283,15 @@ You will be redirected to a page to authenticate your identity. This acts as a s
 ![NetID authentication](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/make-repo-private/make-repo-private-authentication.jpg)
 
 
-You will return to the "Settings" page of the *GitHub* repository, with the "Private" flag beside the name of the repository (near the top left corner of the window/tab).
+You will return to the "Settings" page of the *GitHub* repository, with the "Private" flag (circled in red) beside the name of the repository (near the top left corner of the window/tab).
 
 ![Private repo 1](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/make-repo-private/private-repo-1.jpg)
 
-When you scroll to the bottom of the page, you will notice a "Make public" button in the "Danger Zone". This is because the *GitHub* repository is currently private, and cannot be made "private private". However, it has the "Make public" button in the "Danger Zone" to allow the administrator/collaborator of the *GitHub* repository make set the *GitHub* repository to public, so that everyone can see it again.
+When you scroll to the bottom of the page, you will notice a "Make public" button (circled in red) in the "Danger Zone". This is because the *GitHub* repository is currently private, and cannot be made "private private". However, it has the "Make public" button in the "Danger Zone" to allow the administrator/collaborator of the *GitHub* repository make set the *GitHub* repository to public, so that everyone can see it again.
 
 ![Private repo 2](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/make-repo-private/private-repo-2.jpg)
 
-Similarly, when you return to the main page of the *GitHub* repository, you will notice the "Private" flag beside the name of the repository (near the top left corner of the window/tab).
+Similarly, when you return to the main page of the *GitHub* repository, you will notice the "Private" flag (circled in red) beside the name of the repository (near the top left corner of the window/tab).
 
 ![Private repo indicator](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/make-repo-private/private-repo-indicator.jpg)
 
