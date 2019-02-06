@@ -23,6 +23,7 @@ Use *GitHub*, or another Web-based source-code-hosting service, to share your
 		* [Command-Line Interface -based Modifications of A *GitHub* Repository](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial.md#command-line-interface--based-modifications-of-a-github-repository)
 	- [Adding Collaborators to A *GitHub* Repository](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial.md#adding-collaborators-to-a-github-repository)
 	- [Removing Collaborators From A *GitHub* Repository](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial.md#removing-collaborators-from-a-github-repository)
+	- [Setting Your *GitHub* Repository to Private](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial.md#removing-collaborators-from-a-github-repository)
 	- [Creating a New File Online](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial.md#creating-a-new-file-online)
 	- [Deleting a File Online](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial.md#deleting-a-file-online)
 	- [Uploading Files Online](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial.md#uploading-files-online)
