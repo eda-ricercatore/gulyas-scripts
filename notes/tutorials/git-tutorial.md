@@ -242,6 +242,15 @@ Go to the "Collaborators" page via the "Settings" page of the *GitHub* repositor
 
 
 
+###	Setting Your *GitHub* Repository to Private
+
+To set your *GitHub* repository to private, begin by clicking on the "Settings" tab of the repository, which is the rightmost tab near the top of the web page for the repository. This "Settings" tab is circled in red.
+
+![Click on the "Settings" tab of the repository](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/updated-readme-file.jpg)
+
+
+
+
 
 
 
