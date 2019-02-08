@@ -149,8 +149,12 @@ Fix mathematical proof for paper and implement processor subsystems.
 + **[IJCAI](http://ijcai19.org/): February 19 and 25, 2019.**
 + [LCTES](https://conf.researchr.org/home/LCTES-2019) February 22 - March 1, 2019.
 + [ISLPED](): February 25 and March 4, 2019.
++ [SAT 2019](): March 1 and 8, 2019
 + **[ICCV: March 22, 2019.](http://iccv2019.thecvf.com/submission/main_conference/author_guidelines)**
 + ECCV: March 2019???
++ [MICRO](https://www.microarch.org/micro52/): March 29 and April 5, 2019.
++ [ESWEEK](https://www.esweek.org): April 5 and 12, 2019.
++ [ICCD, IEEE International Conference on Computer Design](https://www.iccd-conf.com/Home.html): April/May 2019.
 + **[NIPS: May 2019.](https://nips.cc/): https://nips.cc/**
 + CVPR: November 2019.
 + AAAI Conference on Artificial Intelligence: August/September 2019.
@@ -952,9 +956,10 @@ Fix mathematical proof for paper and implement processor subsystems.
 
 + MICRO, IEEE/ACM International Symposium on Microarchitecture
 	- https://www.microarch.org/micro52/
+	- https://www.microarch.org/micro52/submit/papers.html
 	- https://www.microarch.org
-	- VENUE
-	- Submission deadline: Late March and Early April, 2019.
+	- Columbus, Ohio, USA.
+	- Submission deadline: March 29 and April 5, 2019.
 
 
 + SOCC 2019, IEEE International System-on-Chip Conference
