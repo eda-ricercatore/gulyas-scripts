@@ -35,7 +35,7 @@ List of repositories that are affected by the *gulyas-scripts* repository,
 	- Notes
 + [2018-wannabe-postdoc-2 (Genetic Circuit Tuning)](https://github.com/BDAthlon/2018-wannabe-postdoc-2)
 	- Notes
-+ [](https://github.com/eda-ricercatore/dal-bhat-cv/)
++ [dal-bhat-cv, for the "Dorsa Sadigh wannabes" team that is participating in the DAC 2019 System Design Contest](https://github.com/eda-ricercatore/dal-bhat-cv/)
 
 
 
