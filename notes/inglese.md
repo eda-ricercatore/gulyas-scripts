@@ -152,6 +152,7 @@
 
 + argot
 + jargon
++ nomenclature
 + patois
 + slang
 + terminology
