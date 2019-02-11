@@ -4,9 +4,9 @@
 \contentsline {subsection}{\numberline {2.2}Template Information for the ``Annote'' {\sc Bib}T\kern -.1667em\lower .5ex\hbox {E}\kern -.125emX\spacefactor \@m {}\ Field}{7}{subsection.2.2}
 \contentsline {subsection}{\numberline {2.3}Template Information for the ``Howpublished'' {\sc Bib}T\kern -.1667em\lower .5ex\hbox {E}\kern -.125emX\spacefactor \@m {}\ Field}{8}{subsection.2.3}
 \contentsline {section}{\numberline {3}Coding Standard}{8}{section.3}
-\contentsline {section}{\numberline {4}Exception Safety}{9}{section.4}
+\contentsline {section}{\numberline {4}Exception Safety}{10}{section.4}
 \contentsline {section}{\numberline {5}Suggested Software Architecture}{10}{section.5}
 \contentsline {section}{\numberline {6}Adoption of Best Practices}{11}{section.6}
-\contentsline {subsection}{\numberline {6.1}Practice of Automated Regression Testing}{11}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.1}Practice of Automated Regression Testing}{12}{subsection.6.1}
 \contentsline {subsection}{\numberline {6.2}Cloud-based Data Science and Machine Learning}{12}{subsection.6.2}
 \contentsline {section}{\numberline {7}Additional Guidelines}{12}{section.7}

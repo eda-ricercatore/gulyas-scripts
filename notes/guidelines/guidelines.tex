@@ -114,12 +114,16 @@ Lastly, we should adopt a mission-focused and value-based approach to participat
 \section{Guidelines for Creating a Shared {\sc Bib}\TeX\ Database}
 \label{sec:GuidelinesforCreatingaSharedBibTeXDatabase}
 
-Guidelines for creating {\sc Bib}\TeX\ entries and the {\sc Bib}\TeX\ database, which is used for writing the paper, are given as follows: \vspace{-0.3cm}
-\begin{enumerate} \itemsep -4pt
+Guidelines for creating {\sc Bib}\TeX\ entries and the {\sc Bib}\TeX\ database, which is used for writing the paper, are given as follows: \vspace{-0.2cm}
+\begin{enumerate} \itemsep -2pt
 \item Each {\sc Bib}\TeX\ key should be unique: \vspace{-0.3cm}
 	\begin{enumerate} \itemsep -2pt
-	\item Check if your desired {\sc Bib}\TeX\ key already exists in the {\sc Bib}\TeX\ database.
-	\item Use the following format for creating {\sc Bib}\TeX\ keys: [first] author's last name, appended by the year of publication. E.g., my first conference paper would have the {\sc Bib}\TeX\ key Ong2014. If the year of publication is not known, use an approximate year, with XY for the last 2 digits in the year (e.g., 20XY). Alternatively, if you cannot determine if it was published this millennium or the previous millennium, use UNKNOWN. For example, use Smith20XY, or KleinbergUNKNOWN.
+	\item Check if your desired {\sc Bib}\TeX\ key already exists in the {\sc Bib}\TeX\ database: \vspace{-0.1cm}
+		\begin{enumerate} %\itemsep -2pt
+		\item If it does, do not add it to the  {\sc Bib}\TeX\ database.
+		\item Else, add it to the  {\sc Bib}\TeX\ database.
+		\end{enumerate}
+	\item Use the following format for creating {\sc Bib}\TeX\ keys: [first] author's last name, appended by the year of publication. E.g., my first conference paper would have the {\sc Bib}\TeX\ key Ong2014. If the year of publication is not known, use an approximate year, with XY for the last 2 digits in the year (e.g., 20XY). Alternatively, if you cannot determine if it was published this millennium or the previous millennium, use 20XY (or UNKNOWN). For example, use Smith20XY (preferred), or KleinbergUNKNOWN.
 	\item Remove duplicate entries in the {\sc Bib}\TeX\ database. {\bf WARNING! Before doing this, perform a union operation on the fields of the {\sc Bib}\TeX\ entries. For example, if a {\sc Bib}\TeX\ entry has information that the other {\sc Bib}\TeX\ entry does not have, and vice versa, merge the information to a {\sc Bib}\TeX\ entry.}
 	\item {\bf Rationale: Duplicate {\sc Bib}\TeX\ entries will cause problems in typesetting.}
 	\item Regarding hash collision of {\sc Bib}\TeX\ keys, such as multiple instances of Gratz2014, distinguish them by appending a letter to them. E.g., use Gratz2014a, Gratz2014b, Gratz2014c, and so on. If we run out of letters, append it with ``a'' followed by a number. The use of the letter ``a'' separates the year from the instance of {\sc Bib}\TeX\ key. That is, Gratz2014a2 tells me that it is the $29^{th}$ instance of Gratz2014, as opposed to Gratz201429.
