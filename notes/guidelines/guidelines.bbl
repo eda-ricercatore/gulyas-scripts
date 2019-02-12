@@ -61,6 +61,12 @@ Rachel {Alt-Simmons}.
 \newblock {Wiley} {\rm \&}\ {SAS} Business. John Wiley {\rm \&}\ Sons, Hoboken,
   {NJ}, 2016.
 
+\bibitem{AmazonWebServicesStaff2019}
+{Amazon Web Services staff}.
+\newblock {Amazon Web Services} ({AWS}): Cloud computing services.
+\newblock Available online from {\it Amazon} at: \url{https://aws.amazon.com/};
+  February 11, 2018 was the last accessed date, 2019.
+
 \bibitem{Ambler2003}
 Scott~W. Ambler.
 \newblock {\em Agile Database Techniques: Effective Strategies for the Agile
@@ -77,6 +83,12 @@ Scott~W. Ambler and Mark Lines.
 Scott~W. Ambler and Pramod~J. Sadalage.
 \newblock {\em Refactoring Databases: Evolutionary Database Design}.
 \newblock Addison-Wesley Signature Series. Addison-Wesley, Boston, {MA}, 2006.
+
+\bibitem{AnacondaStaff2019}
+{Anaconda staff}.
+\newblock Anaconda cloud.
+\newblock Available online at: \url{https://anaconda.org/}; February 11, 2018
+  was the last accessed date, 2019.
 
 \bibitem{Anderson1993}
 Ronald~E. Anderson, Deborah~G. Johnson, Donald Gotterbarn, and Judith Perrolle.
@@ -605,6 +617,13 @@ Luis Gon{\c{c}}alves and Ben Linders.
 \newblock Getting value out of agile retrospectives: A toolbox of retrospective
   exercises.
 \newblock Self-published, Raleigh, {NC}, September 12 2014.
+
+\bibitem{GoogleAIStaff2019}
+{Google AI staff}.
+\newblock Colaboratory.
+\newblock Available online from {\it Google: Google AI} at:
+  \url{https://colab.research.google.com/}; February 13, 2018 was the last
+  accessed date, 2019.
 
 \bibitem{Gotterbarn2018a}
 Don Gotterbarn, Bo~Brinkman, Catherine Flick, Michael~S. Kirkpatrick, Keith
