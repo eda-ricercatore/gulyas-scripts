@@ -65,7 +65,7 @@ Rachel {Alt-Simmons}.
 {Amazon Web Services staff}.
 \newblock {Amazon Web Services} ({AWS}): Cloud computing services.
 \newblock Available online from {\it Amazon} at: \url{https://aws.amazon.com/};
-  February 11, 2018 was the last accessed date, 2019.
+  February 11, 2019 was the last accessed date, 2019.
 
 \bibitem{Ambler2003}
 Scott~W. Ambler.
@@ -87,7 +87,7 @@ Scott~W. Ambler and Pramod~J. Sadalage.
 \bibitem{AnacondaStaff2019}
 {Anaconda staff}.
 \newblock Anaconda cloud.
-\newblock Available online at: \url{https://anaconda.org/}; February 11, 2018
+\newblock Available online at: \url{https://anaconda.org/}; February 11, 2019
   was the last accessed date, 2019.
 
 \bibitem{Anderson1993}
@@ -100,6 +100,22 @@ Jurgen Appelo.
 \newblock {\em Management 3.0: Leading Agile Developers, Developing Agile
   Leaders}.
 \newblock Addison-Wesley Signature Series. Addison-Wesley, Boston, {MA}, 2011.
+
+\bibitem{AtlassianStaff2018b}
+{Atlassian staff}.
+\newblock Tutorial: Learn {Bitbucket} with {Git}.
+\newblock Available online from {\it Atlassian: Atlassian Documentation:
+  {Bitbucket Cloud} documentation: Tutorials} at:
+  \url{https://confluence.atlassian.com/bitbucket/tutorial-learn-bitbucket-with-git-759857287.html};
+  February 15, 2019 was the last accessed date, October 24 2018.
+
+\bibitem{AtlassianStaff2018a}
+{Atlassian staff}.
+\newblock Tutorial: Learn {Bitbucket} with {Mercurial}.
+\newblock Available online from {\it Atlassian: Atlassian Documentation:
+  {Bitbucket Cloud} documentation: Tutorials} at:
+  \url{https://confluence.atlassian.com/bitbucket/tutorial-learn-bitbucket-with-mercurial-759857394.html};
+  February 15, 2019 was the last accessed date, October 24 2018.
 
 \bibitem{Babar2014}
 Muhammad~Ali Babar, Alan~W. Brown, and Ivan Mistrik.
@@ -368,6 +384,15 @@ Andrea {De Lucia}, Filomena Ferrucci, Genny Tortora, and Maurizio Tucci.
   Software Engineering}.
 \newblock John Wiley {\rm \&}\ Sons, Hoboken, {NJ}, 2008.
 
+\bibitem{DeMare2015}
+Mathias {De Mar{\'{e}}} and {other contributors}.
+\newblock {Mercurial}: the definitive guide.
+\newblock Available online from {\it Mercurial community: Mercurial {SCM}:
+  {Mercurial} -- the definitive guide} as version/build {1.90-ebb51bf94742} at:
+  \url{https://book.mercurial-scm.org/read/} and
+  \url{https://book.mercurial-scm.org/}; self-published; February 15, 2019 was
+  the last accessed date, 2015.
+
 \bibitem{DeOrio2016}
 Andrew {DeOrio} and Andrew Giugliano.
 \newblock Long-term effects of partner programming in an introductory computer
@@ -554,35 +579,35 @@ Imran Ghani, Dayang Norhayati~Abang Jawawi, Siva Dorairaj, and Ahmed Sidky.
 \newblock Advances in Systems Analysis, Software Engineering, and High
   Performance Computing. Information Science Reference, Hershey, {PA}, 2016.
 
-\bibitem{GitHubContributors2014}
-{GitHub contributors}.
+\bibitem{GitContributors2014b}
+{Git contributors}.
+\newblock Community.
+\newblock Available online at: \url{http://www.git-scm.com/community}; August
+  1, 2014 was the last accessed date, 2014.
+
+\bibitem{GitContributors2014}
+{Git contributors}.
 \newblock Documentation.
 \newblock Available online at: \url{http://www.git-scm.com/doc}; August 1, 2014
   was the last accessed date, 2014.
 
-\bibitem{GitHubContributors2014a}
-{GitHub contributors}.
+\bibitem{GitContributors2014a}
+{Git contributors}.
 \newblock Reference.
 \newblock Available online at: \url{http://www.git-scm.com/docs}; August 1,
   2014 was the last accessed date, 2014.
+
+\bibitem{GitHubStaff2014a}
+{GitHub staff}.
+\newblock {Git} reference.
+\newblock Available online at: \url{http://gitref.org/}; August 1, 2014 was the
+  last accessed date, 2014.
 
 \bibitem{GitHubStaff2016}
 {GitHub staff}.
 \newblock {GitHub}.
 \newblock Available online at: \url{https://github.com/}; November 4, 2016 was
   the last accessed date, 2016.
-
-\bibitem{GitHubTeam2014}
-{GitHub team}.
-\newblock {Git} reference.
-\newblock Available online at: \url{http://gitref.org/}; August 1, 2014 was the
-  last accessed date, 2014.
-
-\bibitem{GitHubTrainingTeam2014c}
-{GitHub Training Team}.
-\newblock Community.
-\newblock Available online at: \url{http://www.git-scm.com/community}; August
-  1, 2014 was the last accessed date, 2014.
 
 \bibitem{GitHubTrainingTeam2014}
 {GitHub Training Team}.
@@ -622,7 +647,7 @@ Luis Gon{\c{c}}alves and Ben Linders.
 {Google AI staff}.
 \newblock Colaboratory.
 \newblock Available online from {\it Google: Google AI} at:
-  \url{https://colab.research.google.com/}; February 13, 2018 was the last
+  \url{https://colab.research.google.com/}; February 13, 2019 was the last
   accessed date, 2019.
 
 \bibitem{Gotterbarn2018a}
@@ -1081,6 +1106,44 @@ Paul {McLellan}.
   Forum} at:
   \url{https://www.semiwiki.com/forum/content/3889-agile-ic-development.html};
   September 23, 2018 was the last accessed date, October 1 2014.
+
+\bibitem{MercurialContributors20XYa}
+{Mercurial contributors}.
+\newblock Learning {Mercurial} in workflows.
+\newblock Available online from the {\it Mercurial community: Mercurial {SCM}}
+  at: \url{https://www.mercurial-scm.org/guide}; self-published; February 15,
+  2019 was the last accessed date.
+
+\bibitem{MercurialContributors20XY}
+{Mercurial contributors}.
+\newblock Mercurial {SCM}.
+\newblock Available online from the {\it Mercurial community} at:
+  \url{https://www.mercurial-scm.org/}; self-published; February 15, 2019 was
+  the last accessed date.
+
+\bibitem{MercurialContributors2013}
+{Mercurial contributors}.
+\newblock A tutorial on using {Mercurial}.
+\newblock Available online from {\it Mercurial community: Mercurial {SCM}:
+  Mercurial \[Wiki\]} at: \url{https://www.mercurial-scm.org/wiki/Tutorial};
+  self-published; February 15, 2019 was the last accessed date, September 2
+  2013.
+
+\bibitem{MercurialContributors2013a}
+{Mercurial contributors}.
+\newblock Understanding mercurial.
+\newblock Available online from {\it Mercurial community: Mercurial {SCM}:
+  Mercurial \[Wiki\]} at:
+  \url{https://www.mercurial-scm.org/wiki/UnderstandingMercurial};
+  self-published; February 15, 2019 was the last accessed date, September 2
+  2013.
+
+\bibitem{MercurialContributors2019}
+{Mercurial contributors}.
+\newblock Mercurial \[wiki\].
+\newblock Available online from {\it Mercurial community: Mercurial {SCM}} at:
+  \url{https://www.mercurial-scm.org/wiki/}; self-published; February 15, 2019
+  was the last accessed date, February 1 2019.
 
 \bibitem{Meszaros2007}
 Gerard Meszaros.
