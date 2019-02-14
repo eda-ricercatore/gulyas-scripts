@@ -154,7 +154,7 @@ Fix mathematical proof for paper and implement processor subsystems.
 + ECCV: March 2019???
 + [MICRO](https://www.microarch.org/micro52/): March 29 and April 5, 2019.
 + [ESWEEK](https://www.esweek.org): April 5 and 12, 2019.
-+ [ICCD, IEEE International Conference on Computer Design](https://www.iccd-conf.com/Home.html): April/May 2019.
++ [ICCD, IEEE International Conference on Computer Design](https://www.iccd-conf.com/Home.html): June 21 and 28, 2019.
 + **[NIPS: May 2019.](https://nips.cc/): https://nips.cc/**
 + CVPR: November 2019.
 + AAAI Conference on Artificial Intelligence: August/September 2019.
@@ -1053,17 +1053,17 @@ Fix mathematical proof for paper and implement processor subsystems.
 
 + ICCAD, International Conference On Computer Aided Design
 	- https://iccad.com/
+	- [CFP](https://iccad.com/2019_call_for_papers): https://iccad.com/sites/iccad.com/files/ICCAD%202019%20Call%20for%20Papers.pdf
 	- Westminster, CO (i.e., Denver area of Colorado)
 	- November 4-7, 2019.
-	- Submission deadline: April 2019.
-	- **CFP would be released in mid-January, 2019.**
+	- Submission deadline: April 1 and 8, 2019.
 
 
 + ICCD, IEEE International Conference on Computer Design
 	- https://www.iccd-conf.com/Home.html
-	- VENUE
-	- Dates
-	- Submission deadline: April/May 2019.
+	- Abu Dhabi, United Arab Emirates.
+	- November 17-20, 2019.
+	- Submission deadline: June 21 and 28, 2019.
 
 
 
