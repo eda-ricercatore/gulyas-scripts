@@ -1046,10 +1046,7 @@ Fix mathematical proof for paper and implement processor subsystems.
 
 
 
-+ ASE, IEEE/ACM International Conference on Automated Software Engineering
-	- URL
-	- VENUE
-	- Submission deadline: April 2019.
+
 
 
 
@@ -1080,6 +1077,14 @@ Fix mathematical proof for paper and implement processor subsystems.
 	- September 3-5, 2019.
 	- Submission deadline: April 21-24, 2019.
 
++ FORMATS, International Conference on Formal Modeling and Analysis of Timed Systems
+	- https://lipn.univ-paris13.fr/formats2019/
+	- Amsterdam, The Netherlands.
+	- August 26-31, 2019.
+	- Submission deadline: April 21 and 24, 2019.
+
+
+
 
 
 
@@ -1098,10 +1103,6 @@ Fix mathematical proof for paper and implement processor subsystems.
 
 
 
-+ NOCS 2019, IEEE/ACM International Symposium on Networks-on-Chip
-	- URL
-	- VENUE
-	- Submission deadline: Late April or May, 2019.
 
 
 + ASAP, IEEE International Conference on Application-specific Systems, Architectures and Processors
@@ -1110,16 +1111,37 @@ Fix mathematical proof for paper and implement processor subsystems.
 	- Submission deadline: Late April or May, 2019.
 
 
++ RV, International Conference on Runtime Verification
+	- https://www.react.uni-saarland.de/rv2019/
+	- Porto, Portugal.
+	- October 8-11, 2019.
+	- Submission deadline: April 30, 2019.
+
+
 + VLSI-SoC 2019, IFIP/IEEE International Conference on Very Large Scale Integration
 	- URL ???
 	- VENUE ???
 	- Submission deadline: May 2019.
 
++ ASE, IEEE/ACM International Conference on Automated Software Engineering
+	- https://2019.ase-conferences.org/
+	- San Diego, California.
+	- November 11-15, 2019.
+	- Submission deadline: May 6 and 13, 2019.
+
+
++ NOCS 2019, IEEE/ACM International Symposium on Networks-on-Chip
+	- https://www.engr.colostate.edu/nocs2019/
+	- New York, NY.
+	- October 17–18, 2019.
+	- Submission deadline: May 10 and 17, 2019.
+
 
 + FMCAD, International Conference on Formal Methods in Computer-Aided Design
-	- URL ???
-	- VENUE ???
-	- Submission deadline: May 2019.
+	- https://fmcad.forsyte.at/FMCAD19/
+	- San Jose, California.
+	- October 22-25, 2019.
+	- Submission deadline: May 10 and 17, 2019.
 
 
 + HPEC, IEEE High Performance Extreme Computing Conference
@@ -1147,10 +1169,10 @@ Fix mathematical proof for paper and implement processor subsystems.
 
 
 + RSP, International Symposium on Rapid System Prototyping
-	- URL
+	- https://www.esweek.org/rsp-about
 	- VENUE
 	- Submission deadline: June, 2019.
-
+	- ***Find out when is the CFP deadline.***
 
 
 + ICCD, IEEE International Conference on Computer Design

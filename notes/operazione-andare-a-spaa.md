@@ -540,6 +540,7 @@ To-do list:
 	- distributed tracing (OpenTracing/Zipkin)
 	- collecting and analyzing performance metrics (InfluxDB, Prometheus, statsd, Grafana)
 	- Docker orchestration systems and cluster managers (Kubernetes, Mesos/Marathon, ECS)
+	- Experience in the technologies we use is helpful but not required. They are: Go for core infrastructure; ObjC, Java and C# for native UI development on iOS, OSX, Android and Windows; Node.js and IcedCoffeeScript for Web development; FUSE for client file systems; MySQL/InnoDB, DynamoDB, S3 and EC2 for hosting.
 	- Load testing frameworks/tools like JMeter, Gatling, Locust
 	- Java, Selenium, JUnit, Cucumber-JVM
 	- API Testing experience
