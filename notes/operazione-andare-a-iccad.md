@@ -1,5 +1,7 @@
 #	Operation Go2SPAA
 
+##	Questions
+
 Questions:
 + \cite{Dahl2013}
 	- How to convert QUBO into a quantum machine instruction (QMI)
@@ -35,10 +37,10 @@ Questions:
 
 
 
+##	To-Do List
 
 
-
-To-do list:
+***To-do list:***
 + [x] Figure what conferences to target next.
 + [x] List CFP deadlines in sequential order.
 + [x] **Reference machine learning libraries!!!**
@@ -901,7 +903,7 @@ Design for Security
 
 
 
-#	Operazione Andare a SPAA
+#	Operazione Andare a ICCAD
 
 + Find the cross-correlation of RTW waves.
 + Find the covariance of RTW waves.
