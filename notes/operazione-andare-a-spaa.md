@@ -45,6 +45,18 @@ To-do list:
 + [ ] Use circuits and scripts from TA job as toy examples to test my NBL solutions.
 + [x] **Reference machine learning libraries!!!**
 + [x] Libraries associated with NumFOCUS.
++ [ ] Graph
+	- [ ] directed graphs
+		* [ ] directed acyclic graphs (DAGs)
+	- [ ] undirected graphs
++ [ ] Database access
+	- For experimental results.
++ [ ] Statistical comparison
++ [ ] Data visualization.
+	- [ ] Bokeh
+	- [ ] Matplotlib
++ [ ] Standard cell library
++ [ ] Logic simulator
 + [ ] Store test results in a database (in *CSV* format), and manage it with a *SQL*
 + [ ] Update technologies listed in https://insights.stackoverflow.com/survey/2018/
 	- SQL database
