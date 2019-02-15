@@ -39,8 +39,8 @@ Questions:
 
 
 To-do list:
-+ [ ] Figure what conferences to target next.
-+ [ ] List CFP deadlines in sequential order.
++ [x] Figure what conferences to target next.
++ [x] List CFP deadlines in sequential order.
 + [ ] Build noise-based logic circuit for matrix and tensor operations, and to implement artificial neural networks.
 + [ ] Use circuits and scripts from TA job as toy examples to test my NBL solutions.
 + [x] **Reference machine learning libraries!!!**
