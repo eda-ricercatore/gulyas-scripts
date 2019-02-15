@@ -45,11 +45,31 @@ To-do list:
 + [x] Libraries associated with NumFOCUS.
 + [ ] Graph
 	- [ ] directed graphs
+		* Implement directed graphs that have:
+			+ [ ] vertices with labels
+			+ [ ] edges with labels but no identities
+			+ [ ] edges with labels and identities
+		* Based on the definition of edges with labels and identities
+			\cite{WikipediaContributors2018a39},
+			if a set/list/heap pf edges are required,
+				use a graph which edges have identities.
+			Else, use a graph which edges have no identities.
 		* [ ] directed acyclic graphs (DAGs)
-		* [ ] directed acyclic multigraphs, where their edges with identities (DAMs)
+		* [ ] directed acyclic multigraphs, where their edges have labels (DAMs)
 	- [ ] undirected graphs
+		* Implement directed graphs that have:
+			+ [ ] vertices with labels
+			+ [ ] edges with labels but no identities
+			+ [ ] edges with labels and identities
+		* Based on the definition of edges with labels and identities
+			\cite{WikipediaContributors2018a39},
+			if a set/list/heap pf edges are required,
+				use a graph which edges have identities.
+			Else, use a graph which edges have no identities.
 	- [ ] mixed multigraphs
-		* [ ] Where their edges can be directed or undirected, and have identities
+		* Where their edges can be directed or undirected
+		* [ ] Mixed multigraphs which edges have identities
+		* [ ] Mixed multigraphs which edges have no identities
 + [ ] Database access
 	- For experimental results.
 + [ ] Statistical comparison
