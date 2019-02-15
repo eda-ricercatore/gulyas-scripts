@@ -70,6 +70,14 @@ To-do list:
 		* Where their edges can be directed or undirected
 		* [ ] Mixed multigraphs which edges have identities
 		* [ ] Mixed multigraphs which edges have no identities
+	- [ ] hypergraphs
+		* \cite{Bretto2013}
+		* \cite{Cong2003a}
+		* \cite{Alpert1996}
+		* \cite{Berge1989}
+		* \cite{Johnson2013b}
+		* These references are numbered [6,22,27,40,106] in my notes on data structures and algorithms.
+		* Not so good references: \cite{Basu2007,Lovasz2012,Bunke2008,Crama2011,Lecoutre2009,Carrington2005,Scheinerman1997,Sarrafzadeh1996}
 + [ ] Database access
 	- For experimental results.
 + [ ] Statistical comparison
