@@ -1026,21 +1026,22 @@ Fix mathematical proof for paper and implement processor subsystems.
 
 + SPLASH, ACM SIGPLAN conference on Systems, Programming, Languages and Applications: Software for Humanity
 	- https://2019.splashcon.org
-	- VENUE
-	- Submission deadline: April 2019.
+	- Athens, Greece.
+	- Submission deadline: April 5, 2019 for OOPSLA.
 
 + OOPSLA, SPLASH 2019 OOPSLA, Object-oriented Programming, Systems, Languages, and Applications
 	- URL
 	- http://oopsla.org/oopsla-history/
 	- http://www.sigplan.org/Conferences/OOPSLA/
-	- VENUE
-	- Submission deadline: April 2019.
+	- Athens, Greece.
+	- Submission deadline: April 5, 2019.
 
 
 
 + Static Analysis Symposia
 	- http://staticanalysis.org
-	- VENUE
+	- October 9-11, 2019.
+	- Porto, Portugal.
 	- Submission deadline: April 2019.
 
 
@@ -1065,9 +1066,10 @@ Fix mathematical proof for paper and implement processor subsystems.
 
 
 + PACT, International Conference on Parallel Architectures and Compilation Techniques
-	- http://www.pactconf.org/index.php
-	- VENUE
-	- Submission deadline: Early and Mid- Apr, 2019.
+	- http://pactconf.org/
+	- September 23-26, 2019.
+	- Seattle, Washington.
+	- Submission deadline: April 11 and 15, 2019.
 
 
 
