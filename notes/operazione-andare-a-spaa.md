@@ -54,13 +54,16 @@ To-do list:
 			if a set/list/heap pf edges are required,
 				use a graph which edges have identities.
 			Else, use a graph which edges have no identities.
+		* [ ] directed graphs
 		* [ ] directed acyclic graphs (DAGs)
+		* [ ] directed multigraphs
 		* [ ] directed acyclic multigraphs, where their edges have labels (DAMs)
 	- [ ] undirected graphs
-		* Implement directed graphs that have:
+		* Implement undirected graphs that have:
 			+ [ ] vertices with labels
 			+ [ ] edges with labels but no identities
 			+ [ ] edges with labels and identities
+			+ [ ] undirected multigraphs
 		* Based on the definition of edges with labels and identities
 			\cite{WikipediaContributors2018a39},
 			if a set/list/heap pf edges are required,
