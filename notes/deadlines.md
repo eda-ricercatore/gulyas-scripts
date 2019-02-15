@@ -1061,6 +1061,14 @@ Fix mathematical proof for paper and implement processor subsystems.
 
 
 
++ ASAP, IEEE International Conference on Application-specific Systems, Architectures and Processors
+	- https://asap2019.csl.cornell.edu/
+	- New York, NY. @Cornell Tech.
+	- July 15-17, 2019.
+	- Submission deadline: April 2 and 8, 2019.
+
+
+
 
 + PACT, International Conference on Parallel Architectures and Compilation Techniques
 	- http://pactconf.org/
@@ -1088,10 +1096,6 @@ Fix mathematical proof for paper and implement processor subsystems.
 
 
 
-+ DFT 2018, IEEE International Symposium on Defect and Fault Tolerance in VLSI and Nanotechnology Systems
-	- http://www.dfts.org
-	- VENUE
-	- Submission deadline: Late April or Early May, 2019.
 
 
 
@@ -1105,10 +1109,8 @@ Fix mathematical proof for paper and implement processor subsystems.
 
 
 
-+ ASAP, IEEE International Conference on Application-specific Systems, Architectures and Processors
-	- URL
-	- VENUE
-	- Submission deadline: Late April or May, 2019.
+
+
 
 
 + RV, International Conference on Runtime Verification
@@ -1122,6 +1124,12 @@ Fix mathematical proof for paper and implement processor subsystems.
 	- URL ???
 	- VENUE ???
 	- Submission deadline: May 2019.
+
++ DFT 2018, IEEE International Symposium on Defect and Fault Tolerance in VLSI and Nanotechnology Systems
+	- http://www.dfts.org
+	- ESA-ESTEC & TU Delft, Netherlands.
+	- October 2–4, 2019.
+	- Submission deadline: May 3 and 17, 2019.
 
 + ASE, IEEE/ACM International Conference on Automated Software Engineering
 	- https://2019.ase-conferences.org/
