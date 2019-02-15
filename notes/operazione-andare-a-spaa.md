@@ -41,14 +41,15 @@ Questions:
 To-do list:
 + [x] Figure what conferences to target next.
 + [x] List CFP deadlines in sequential order.
-+ [ ] Build noise-based logic circuit for matrix and tensor operations, and to implement artificial neural networks.
-+ [ ] Use circuits and scripts from TA job as toy examples to test my NBL solutions.
 + [x] **Reference machine learning libraries!!!**
 + [x] Libraries associated with NumFOCUS.
 + [ ] Graph
 	- [ ] directed graphs
 		* [ ] directed acyclic graphs (DAGs)
+		* [ ] directed acyclic multigraphs, where their edges with identities (DAMs)
 	- [ ] undirected graphs
+	- [ ] mixed multigraphs
+		* [ ] Where their edges can be directed or undirected, and have identities
 + [ ] Database access
 	- For experimental results.
 + [ ] Statistical comparison
@@ -58,6 +59,8 @@ To-do list:
 + [ ] Standard cell library
 + [ ] Logic simulator
 + [ ] Store test results in a database (in *CSV* format), and manage it with a *SQL*
++ [ ] Build noise-based logic circuit for matrix and tensor operations, and to implement artificial neural networks.
++ [ ] Use circuits and scripts from TA job as toy examples to test my NBL solutions.
 + [ ] Update technologies listed in https://insights.stackoverflow.com/survey/2018/
 	- SQL database
 		* *MySQL*
