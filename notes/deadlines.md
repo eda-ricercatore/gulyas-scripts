@@ -949,8 +949,16 @@ Fix mathematical proof for paper and implement processor subsystems.
 
 + PATMOS 2019, International Symposium on Power and Timing Modeling, Optimization and Simulation
 	- http://www.patmos-conf.org
-	- VENUE
+	- Rhodes Island, Greece
 	- Submission deadline: Mid and Late March, 2019.
+
+
++ FM, International Symposium on Formal Methods
+	- http://formalmethods2019.inesctec.pt/?page_id=565
+	- FM Week
+	- Porto, Portugal.
+	- October 7-11, 2019.
+	- Submission deadline: March 28 and April 11, 2019.
 
 
 
@@ -967,84 +975,6 @@ Fix mathematical proof for paper and implement processor subsystems.
 	- https://www.ieee-socc.org
 	- Singapore
 	- Submission deadline: March 30, 2019.
-
-
-
-
-
-
-+ ITC 2018, International Test Conference
-	- http://www.itctestweek.org/
-	- http://www.itctestweek.org/wp-content/uploads/2018/11/P211340-1_ITC_2019_Call-for-Papers_DD2-mt.pdf
-	- Washington, D.C.
-	- Submission deadline: April 4 and 11, 2019.
-
-
-
-
-
-
-
-+ ESWEEK, Embedded Systems Week
-	- https://www.esweek.org
-	- New York, NY.
-	- Submission deadline: **April 5 and 12, 2019**.
-	- **CASES, International Conference on Compilers, Architectures, and Synthesis for Embedded Systems**
-	- **CODES+ISSS, International Conference on Hardware/Software Codesign and System Synthesis**
-	- EMSOFT, ACM SIGBED International Conference on Embedded Software
-	- Internet of Medical Things (IoMT) track
-	- International Symposium on Networks-on-Chip (NOCS); mentioned later in greater details.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-+ FOCS, Annual IEEE Symposium on Foundations of Computer Science
-	- CONFERENCE-SPECIFIC URL.
-	- http://ieee-focs.org
-	- Baltimore, MD
-	- Conference dates: November 9-12, 2019.
-	- Submission deadline: Early April, 2019.
-
-
-
-
-
-
-+ SPLASH, ACM SIGPLAN conference on Systems, Programming, Languages and Applications: Software for Humanity
-	- https://2019.splashcon.org
-	- Athens, Greece.
-	- Submission deadline: April 5, 2019 for OOPSLA.
-
-+ OOPSLA, SPLASH 2019 OOPSLA, Object-oriented Programming, Systems, Languages, and Applications
-	- URL
-	- http://oopsla.org/oopsla-history/
-	- http://www.sigplan.org/Conferences/OOPSLA/
-	- Athens, Greece.
-	- Submission deadline: April 5, 2019.
-
-
-
-+ Static Analysis Symposia
-	- http://staticanalysis.org
-	- October 9-11, 2019.
-	- Porto, Portugal.
-	- Submission deadline: April 2019.
-
-
 
 
 
@@ -1070,12 +1000,103 @@ Fix mathematical proof for paper and implement processor subsystems.
 
 
 
++ ITC 2018, International Test Conference
+	- http://www.itctestweek.org/
+	- http://www.itctestweek.org/wp-content/uploads/2018/11/P211340-1_ITC_2019_Call-for-Papers_DD2-mt.pdf
+	- Washington, D.C.
+	- Submission deadline: April 4 and 11, 2019.
+
+
+
+
+
+
+
++ ESWEEK, Embedded Systems Week
+	- https://www.esweek.org
+	- New York, NY.
+	- Submission deadline: **April 5 and 12, 2019**.
+	- **CASES, International Conference on Compilers, Architectures, and Synthesis for Embedded Systems**
+	- **CODES+ISSS, International Conference on Hardware/Software Codesign and System Synthesis**
+	- EMSOFT, ACM SIGBED International Conference on Embedded Software
+	- Internet of Medical Things (IoMT) track
+	- International Symposium on Networks-on-Chip (NOCS); mentioned later in greater details.
+	- **Find out CFP deadline for "RSP, International Symposium on Rapid System Prototyping".**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
++ FOCS, Annual IEEE Symposium on Foundations of Computer Science
+	- http://focs2019.cs.jhu.edu/
+	- http://ieee-focs.org
+	- Baltimore, MD
+	- Conference dates: November 9-12, 2019.
+	- Submission deadline: April 5, 2019.
+
+
+
+
+
+
++ SPLASH, ACM SIGPLAN conference on Systems, Programming, Languages and Applications: Software for Humanity
+	- https://2019.splashcon.org
+	- Athens, Greece.
+	- Submission deadline: April 5, 2019 for OOPSLA.
+
++ OOPSLA, SPLASH 2019 OOPSLA, Object-oriented Programming, Systems, Languages, and Applications
+	- URL
+	- http://oopsla.org/oopsla-history/
+	- http://www.sigplan.org/Conferences/OOPSLA/
+	- Athens, Greece.
+	- Submission deadline: April 5, 2019.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 + PACT, International Conference on Parallel Architectures and Compilation Techniques
 	- http://pactconf.org/
 	- September 23-26, 2019.
 	- Seattle, Washington.
 	- Submission deadline: April 11 and 15, 2019.
 
+
++ Static Analysis Symposia
+	- http://staticanalysis.org/sas2019/
+	- http://staticanalysis.org
+	- October 8-11, 2019.
+	- Porto, Portugal.
+	- Submission deadline: April 18 and 25 2019.
+
+
++ VLSI-SoC 2019, IFIP/IEEE International Conference on Very Large Scale Integration
+	- https://vlsi-soc.pe/
+	- Cuzco, Peru.
+	- October 6 and 9, 2019.
+	- Submission deadline: April 18 and 25, 2019.
 
 
 + TABLEAUX, International Conference on Automated Reasoning with Analytic Tableaux and Related Methods
@@ -1120,10 +1141,6 @@ Fix mathematical proof for paper and implement processor subsystems.
 	- Submission deadline: April 30, 2019.
 
 
-+ VLSI-SoC 2019, IFIP/IEEE International Conference on Very Large Scale Integration
-	- URL ???
-	- VENUE ???
-	- Submission deadline: May 2019.
 
 + DFT 2018, IEEE International Symposium on Defect and Fault Tolerance in VLSI and Nanotechnology Systems
 	- http://www.dfts.org
