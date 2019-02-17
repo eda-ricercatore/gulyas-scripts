@@ -48,6 +48,7 @@ Flags for work-in-progress:
 + [x] **Reference machine learning libraries!!!**
 + [x] Libraries associated with NumFOCUS.
 + [ ] Graph
+	- Synthesize functions/methods/behavior and attributes/fields/properties that have to exist for all graphs, all directed graphs, and all undirected graphs.
 	- [ ] directed graphs
 		* Implement directed graphs that have:
 			+ [ ] vertices with labels
