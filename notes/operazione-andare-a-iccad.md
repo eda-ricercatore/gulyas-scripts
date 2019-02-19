@@ -50,6 +50,11 @@ Flags for work-in-progress:
 + [ ] Graph
 	- Synthesize functions/methods/behavior and attributes/fields/properties that have to exist for all graphs, all directed graphs, and all undirected graphs. COMPLETE THIS!!!!
 	- Fix functions for directed and undirected graphs.
+	- References about graphs, the graph data structure:
+		* Goodrich2013
+		* Goodrich2011
+		* Cormen2009
+		* Goldman2008
 	- [ ] directed graphs
 		* Implement directed graphs that have:
 			+ [ ] vertices with labels
