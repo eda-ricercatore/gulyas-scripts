@@ -55,6 +55,9 @@ Flags for work-in-progress:
 		* Goodrich2011
 		* Cormen2009
 		* Goldman2008
+		* Atallah2009
+		* Atallah2009a (for parallel graph algorithms)
+		* Cormen2013
 	- [ ] directed graphs
 		* Implement directed graphs that have:
 			+ [ ] vertices with labels
