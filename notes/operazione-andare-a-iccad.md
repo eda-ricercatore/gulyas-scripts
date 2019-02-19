@@ -51,13 +51,18 @@ Flags for work-in-progress:
 	- Synthesize functions/methods/behavior and attributes/fields/properties that have to exist for all graphs, all directed graphs, and all undirected graphs. COMPLETE THIS!!!!
 	- Fix functions for directed and undirected graphs.
 	- References about graphs, the graph data structure:
-		* Goodrich2013
-		* Goodrich2011
-		* Cormen2009
-		* Goldman2008
-		* Atallah2009
-		* Atallah2009a (for parallel graph algorithms)
-		* Cormen2013
+		* \cite{Goodrich2013}
+		* \cite{Goodrich2011}
+		* \cite{Cormen2013}
+		* \cite{Cormen2009}
+		* \cite{Goldman2008}
+		* \cite{Atallah2009}
+			+ Chapters 1-5, 6???, 7-9, 10, 11, 17, 19, 24, 25, 28.
+			+ See pp. 9-10 for information about Fibonacci heaps.
+			+ Example using dynamic programming to solve the TSP problem,
+				pp.1-17 - 1-18.
+			+ ???
+		* \cite{Atallah2009a} (for parallel graph algorithms)
 	- [ ] directed graphs
 		* Implement directed graphs that have:
 			+ [ ] vertices with labels
