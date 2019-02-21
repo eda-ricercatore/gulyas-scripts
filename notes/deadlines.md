@@ -862,11 +862,7 @@ Fix mathematical proof for paper and implement processor subsystems.
  	- August 25-30, 2019.
  	- Submission deadline: February 15 and 22, 2019.
 
-+ ISVLSI 2019, IEEE Computer Society Annual Symp. on VLSI
-	- http://www.isvlsi.org
-	- http://www.eng.ucy.ac.cy/theocharides/isvlsi19/
-	- Miami, FL
-	- Submission deadline: February 17, 2019.
+
 
 
 + PODC, ACM Symposium on Principles of Distributed Computing
@@ -930,7 +926,12 @@ Fix mathematical proof for paper and implement processor subsystems.
 
 
 
-
++ ISVLSI 2019, IEEE Computer Society Annual Symp. on VLSI
+	- http://www.isvlsi.org
+	- http://www.eng.ucy.ac.cy/theocharides/isvlsi19/
+	- Miami, FL
+	- Submission deadline: February 17, 2019.
+	- New submission deadline: March 3, 2019.
 
 
 

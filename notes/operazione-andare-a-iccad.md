@@ -1,4 +1,4 @@
-#	Operation Go2SPAA
+#	Operation Go2ICCAD
 
 ##	Questions
 
@@ -56,7 +56,9 @@ Flags for work-in-progress:
 		* [ ] \cite{Cormen2013}
 		* [ ] \cite{Cormen2009}
 		* [ ] \cite{Goldman2008}
-		* [x] \cite{Atallah2009}
+			+ Chapters (51), 52-57.
+			+ Collection of Elements -> Algorthmically Positioned: Untagged: Elements are Comparable (need not be unique) -> FibonacciHeap (PriorityQueue Interface), Figures 2.6-2.7.
+			* [x] \cite{Atallah2009}
 			+ Chapters 1-5, 6???, 7-9, 10, 11, 17, 19, 24, 25, 28.
 			+ See pp. 9-10 for information about Fibonacci heaps.
 			+ Example using dynamic programming to solve the TSP problem,
