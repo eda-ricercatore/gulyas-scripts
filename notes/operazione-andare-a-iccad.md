@@ -101,6 +101,7 @@ Flags for work-in-progress:
 		* \cite{Johnson2013b}
 		* These references are numbered [6,22,27,40,106] in my notes on data structures and algorithms.
 		* Not so good references: \cite{Basu2007,Lovasz2012,Bunke2008,Crama2011,Lecoutre2009,Carrington2005,Scheinerman1997,Sarrafzadeh1996}
+	- [ ] Use checkpointing to restart the simulation by continuing the simulation \cite{WikipediaContributors2019a,Koren2007,Wagner2011,Garg2002,Kshemkalyani2011,Koch2009,Bader2008}.
 + [ ] Database access
 	- For experimental results.
 + [ ] Statistical comparison
