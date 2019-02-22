@@ -142,14 +142,14 @@ Fix mathematical proof for paper and implement processor subsystems.
 + ICML: January 18 and 23, 2019.
 + **[SIGMETRICS 2019](https://www.sigmetrics.org/sigmetrics2019/call_for_papers.html): February 11 and 18, 2018.**
 + [CADE 2019](http://www.cade-27.info/): February 15 and 22, 2019.
-+ **[ISVLSI 2019, IEEE Computer Society Annual Symp. on VLSI](http://www.eng.ucy.ac.cy/theocharides/isvlsi19/)**:
-	- February 17, 2019.
-	- http://www.isvlsi.org
 + [PODC](http://www.podc.org): February 18, 2019.
 + **[IJCAI](http://ijcai19.org/): February 19 and 25, 2019.**
 + [LCTES](https://conf.researchr.org/home/LCTES-2019) February 22 - March 1, 2019.
 + [ISLPED](http://www.islped.org/): February 25 and March 4, 2019.
 + [SAT 2019](http://sat2019.tecnico.ulisboa.pt/): March 1 and 8, 2019
++ **[ISVLSI 2019, IEEE Computer Society Annual Symp. on VLSI](http://www.eng.ucy.ac.cy/theocharides/isvlsi19/)**:
+	- March 3, 2019.
+	- http://www.isvlsi.org
 + **[ICCV: March 22, 2019.](http://iccv2019.thecvf.com/submission/main_conference/author_guidelines)**
 + ECCV: March 2019???
 + [MICRO](https://www.microarch.org/micro52/): March 29 and April 5, 2019.
