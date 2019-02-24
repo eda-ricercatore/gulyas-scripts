@@ -685,6 +685,7 @@ Flags for work-in-progress:
 		* DBT experience
 		* Object oriented programming experience (e.g. using Java, J2EE, EJB, .NET, WebSphere, etc.).
 		* data interchange formats like JSON and XML
+		* Knowledge in machine learning framework - Tensorflow, Caffe, Torch or Theano
 		* Django, Ruby on Rails, Flask
 		* Must have experience with working on few technologies such as spring framework, SpringBoot, SpringMVC, JPA, MyBatis, Tomcat, Nginx
 		* Experience with performance optimization of queries in Redshift & Postgres
@@ -722,6 +723,22 @@ Flags for work-in-progress:
 		* Experience with load balancing technologies such as ELB, NGINX, etc.
 		* Experience with network technologies like DNS, AWS security groups, VPCs, etc.
 		* Extensive experience manipulating and analyzing complex data with SQL, Python and/or R. Knowledge of Google BigQuery and Java/Scala is a plus.
+		* tech stack:
+			+ Research publications at relevant conferences such as SIGGRAPH, ACM Trans on Graphics, CVPR, ICCV, ICCP, SPIE, JOSA a major plus.
+			+ Expertise in Deep Learning, Machine learning and familiarity with tools like Scipy, Boost, Caffe, TensorFlow, OpenCV, DLIB etc. and related areas.
+		* tech stack:
+			+ Publication record in top conferences (ICML, ICLR, NIPS, KDD, IJCAI, AAAI etc )
+			+ Good knowledge and handson experience in distributed technologies such as Hadoop, Hive, Spark Experience in Scala programming language.
+			+ Publications in relevant top venues (e.g., KDD, NIPS, ICML, AAAI, IJCAI, ICDM, ACL etc.)
+		* tech stack:
+			+ Security and privacy
+		    + Virtualization and container technologies (e.g., Xen and Docker)
+			+ Cloud services (e.g., AWS and Azure)
+			+ Distributed programming tools (e.g., Hadoop, Cassandra, and ZooKeeper)
+			+ In-home wireless network protocols (WiFi, Bluetooth, Zigbee, and Z-wave)
+			+ Systems for machine learning training and inference (Tensorflow, MXNet, Caffe etc)
+			+ Storage systems
+		* Experience with open source platforms like Hadoop, Spark, Hive, Pig; and/or ML life-cycle/collaboration/automation platforms like AirFlow, FB Learner, MLFlow; and/or assistants like Alexa, a plus.
 		* You’ll lead, analyze, implement, and socialize a robust A/B/multivariate testing program, collaborating closely with product, engineering, marketing, and content.
 		* You’re familiar with all aspects of SEO: on-page, external, and technical, and you have used tools such as ahrefs, DeepCrawl, Screaming Frog, SEMRush, and Google Search Console to optimize for search.
 		* Set of skills:
