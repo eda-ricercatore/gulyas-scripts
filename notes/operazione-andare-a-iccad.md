@@ -49,8 +49,8 @@ Flags for work-in-progress:
 + [x] Libraries associated with NumFOCUS.
 + [ ] Graph
 	- [ ] Synthesize functions/methods/behavior and attributes/fields/properties that have to exist for all graphs, all directed graphs, and all undirected graphs. COMPLETE THIS!!!!
-	- [] Fix functions for directed and undirected graphs.
-	- [] References about graphs, the graph data structure:
+	- [ ] Fix functions for directed and undirected graphs.
+	- [ ] References about graphs, the graph data structure:
 		* [ ] \cite{Goodrich2013}
 		* [ ] \cite{Goodrich2011}
 		* [ ] \cite{Cormen2013}
