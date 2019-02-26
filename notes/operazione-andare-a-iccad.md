@@ -48,14 +48,14 @@ Flags for work-in-progress:
 + [x] **Reference machine learning libraries!!!**
 + [x] Libraries associated with NumFOCUS.
 + [ ] Graph
-	- [ ] Synthesize functions/methods/behavior and attributes/fields/properties that have to exist for all graphs, all directed graphs, and all undirected graphs. COMPLETE THIS!!!!
-	- [ ] Fix functions for directed and undirected graphs.
-	- [ ] References about graphs, the graph data structure:
-		* [ ] \cite{Goodrich2013}
-		* [ ] \cite{Goodrich2011}
-		* [ ] \cite{Cormen2013}
-		* [ ] \cite{Cormen2009}
-		* [ ] \cite{Goldman2008}
+	- [x] Synthesize functions/methods/behavior and attributes/fields/properties that have to exist for all graphs, all directed graphs, and all undirected graphs. COMPLETE THIS!!!!
+	- [x] Fix functions for directed and undirected graphs.
+	- [x] References about graphs, the graph data structure:
+		* [x] \cite{Goodrich2013}
+		* [x] \cite{Goodrich2011}
+		* [x] \cite{Cormen2013}
+		* [x] \cite{Cormen2009}
+		* [x] \cite{Goldman2008}
 			+ Chapters (51), 52-57.
 			+ Collection of Elements -> Algorthmically Positioned: Untagged: Elements are Comparable (need not be unique) -> FibonacciHeap (PriorityQueue Interface), Figures 2.6-2.7.
 			* [x] \cite{Atallah2009}
@@ -82,7 +82,7 @@ Flags for work-in-progress:
 		* Implement undirected graphs that have:
 			+ [ ] vertices with labels
 			+ [ ] edges with labels but no identities
-			+ [ ] edges with labels and identities
+			+ [x] edges with labels and identities [Ignored]
 			+ [ ] undirected multigraphs
 		* Based on the definition of edges with labels and identities
 			\cite{WikipediaContributors2018a39},
@@ -91,7 +91,7 @@ Flags for work-in-progress:
 			Else, use a graph which edges have no identities.
 	- [ ] mixed multigraphs
 		* Where their edges can be directed or undirected
-		* [ ] Mixed multigraphs which edges have identities
+		* [x] Mixed multigraphs which edges have identities [Ignored]
 		* [ ] Mixed multigraphs which edges have no identities
 	- [ ] hypergraphs
 		* \cite{Bretto2013}
