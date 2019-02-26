@@ -67,7 +67,7 @@ Flags for work-in-progress:
 	- [ ] directed graphs
 		* Implement directed graphs that have:
 			+ [ ] vertices with labels
-			+ [ ] edges with labels but no identities
+			+ [x] edges with labels but no identities [Ignored]
 			+ [ ] edges with labels and identities
 		* Based on the definition of edges with labels and identities
 			\cite{WikipediaContributors2018a39},
