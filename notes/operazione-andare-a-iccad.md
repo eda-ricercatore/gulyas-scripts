@@ -28,9 +28,9 @@ Questions:
 
 Flags for work-in-progress:
 + \#\#\#\# IMPORTANT NOTES
-+ #### TO BE COMPLETED
-	- Or: @todo(<message>, <version>)
-+ #### TO BE FIXED
++ \#\#\#\# TO BE COMPLETED
+	- Or: @todo(\<message\>, \<version\>)
++ \#\#\#\# TO BE FIXED
 
 
 
