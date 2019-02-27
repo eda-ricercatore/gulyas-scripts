@@ -144,8 +144,8 @@ Fix mathematical proof for paper and implement processor subsystems.
 + [CADE 2019](http://www.cade-27.info/): February 15 and 22, 2019.
 + [PODC](http://www.podc.org): February 18, 2019.
 + **[IJCAI](http://ijcai19.org/): February 19 and 25, 2019.**
-+ [LCTES](https://conf.researchr.org/home/LCTES-2019) February 22 - March 1, 2019.
-+ [ISLPED](http://www.islped.org/): February 25 and March 4, 2019.
++ [LCTES](https://conf.researchr.org/home/LCTES-2019): (Extended deadline) March 8, 2019.
++ [ISLPED](http://www.islped.org/): (Extended deadline) March 4 and March 11, 2019.
 + [SAT 2019](http://sat2019.tecnico.ulisboa.pt/): March 1 and 8, 2019
 + **[ISVLSI 2019, IEEE Computer Society Annual Symp. on VLSI](http://www.eng.ucy.ac.cy/theocharides/isvlsi19/)**:
 	- March 3, 2019.
@@ -889,6 +889,7 @@ Fix mathematical proof for paper and implement processor subsystems.
 	- Phoenix, AZ.
 	- June 22-28, 2019.
 	- Submission deadline: February 22 - March 1, 2019.
+	- Extended submission deadline: March 8, 2019.
 
 
 + ISMM, International Symposium on Memory Management
@@ -905,6 +906,7 @@ Fix mathematical proof for paper and implement processor subsystems.
 	- EPFL, Lausanne, Switzerland
 	- July 29-31, 2019.
 	- Submission deadline: February 25 and March 4, 2019.
+	- Extended submission deadline: March 4 and March 11, 2019.
 
 
 
