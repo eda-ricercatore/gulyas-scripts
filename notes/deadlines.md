@@ -159,6 +159,7 @@ Fix mathematical proof for paper and implement processor subsystems.
 + [ESWEEK](https://www.esweek.org): April 5 and 12, 2019.
 + [PACT](http://pactconf.org/): April 11 and 15, 2019.
 + [VLSI-SoC](https://vlsi-soc.pe/): April 18 and 25, 2019.
++ [CP 2019](http://cp2019.a4cp.org/): May 3 and 10, 2019.
 + **[NIPS: May 2019.](https://nips.cc/): https://nips.cc/**
 + [ICCD, IEEE International Conference on Computer Design](https://www.iccd-conf.com/Home.html): June 21 and 28, 2019.
 + AAAI Conference on Artificial Intelligence: August/September 2019.
