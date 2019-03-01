@@ -1155,6 +1155,19 @@ Fix mathematical proof for paper and implement processor subsystems.
 	- October 2–4, 2019.
 	- Submission deadline: May 3 and 17, 2019.
 
+
+
++ CP 2019,International Conference on Principles and Practice of Constraint Programming
+	- http://cp2019.a4cp.org/
+	- Stamford, CT.
+	- September 30 - October 4, 2019.
+	- Submission deadline: May 3 and 10, 2019.
+
+
+
+
+
+
 + ASE, IEEE/ACM International Conference on Automated Software Engineering
 	- https://2019.ase-conferences.org/
 	- San Diego, California.
