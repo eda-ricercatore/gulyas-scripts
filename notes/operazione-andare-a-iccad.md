@@ -50,6 +50,7 @@ Flags for work-in-progress:
 + [ ] Graph
 	- [x] Synthesize functions/methods/behavior and attributes/fields/properties that have to exist for all graphs, all directed graphs, and all undirected graphs. COMPLETE THIS!!!!
 	- [x] Fix functions for directed and undirected graphs.
+	- [x] Extend the Exception class for graph_exception.
 	- [x] References about graphs, the graph data structure:
 		* [x] \cite{Goodrich2013}
 		* [x] \cite{Goodrich2011}
