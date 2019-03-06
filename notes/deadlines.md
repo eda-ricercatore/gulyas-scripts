@@ -139,19 +139,8 @@ Fix mathematical proof for paper and implement processor subsystems.
 
 ###	Attack Plan
 
-+ ICML: January 18 and 23, 2019.
-+ **[SIGMETRICS 2019](https://www.sigmetrics.org/sigmetrics2019/call_for_papers.html): February 11 and 18, 2018.**
-+ [CADE 2019](http://www.cade-27.info/): February 15 and 22, 2019.
-+ [PODC](http://www.podc.org): February 18, 2019.
-+ **[IJCAI](http://ijcai19.org/): February 19 and 25, 2019.**
 + [LCTES](https://conf.researchr.org/home/LCTES-2019): (Extended deadline) March 8, 2019.
-+ [ISLPED](http://www.islped.org/): (Extended deadline) March 4 and March 11, 2019.
-+ [SAT 2019](http://sat2019.tecnico.ulisboa.pt/): March 1 and 8, 2019
-+ **[ISVLSI 2019, IEEE Computer Society Annual Symp. on VLSI](http://www.eng.ucy.ac.cy/theocharides/isvlsi19/)**:
-	- March 3, 2019.
-	- http://www.isvlsi.org
 + **[ICCV: March 22, 2019.](http://iccv2019.thecvf.com/submission/main_conference/author_guidelines)**
-+ ECCV: March 2019???
 + [MICRO](https://www.microarch.org/micro52/): March 29 and April 5, 2019.
 + [ICCAD](https://iccad.com/): April 1 and 8, 2019.
 + [ASAP](https://asap2019.csl.cornell.edu/): April 2 and 8, 2019.
@@ -160,7 +149,7 @@ Fix mathematical proof for paper and implement processor subsystems.
 + [PACT](http://pactconf.org/): April 11 and 15, 2019.
 + [VLSI-SoC](https://vlsi-soc.pe/): April 18 and 25, 2019.
 + [CP 2019](http://cp2019.a4cp.org/): May 3 and 10, 2019.
-+ **[NIPS: May 2019.](https://nips.cc/): https://nips.cc/**
++ **[NIPS 2019](https://nips.cc/): May 23, 2019.**
 + [ICCD, IEEE International Conference on Computer Design](https://www.iccd-conf.com/Home.html): June 21 and 28, 2019.
 + AAAI Conference on Artificial Intelligence: August/September 2019.
 + CVPR: November 2019.
