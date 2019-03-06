@@ -155,6 +155,8 @@ Fix mathematical proof for paper and implement processor subsystems.
 + CVPR: November 2019.
 + IJCNN: December 2019.
 
+Fix this
+
 
 
 
