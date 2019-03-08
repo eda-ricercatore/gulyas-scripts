@@ -139,7 +139,7 @@ Fix mathematical proof for paper and implement processor subsystems.
 
 ###	Attack Plan
 
-+ [LCTES](https://conf.researchr.org/home/LCTES-2019): (Extended deadline) March 8, 2019.
++ [LCTES](https://conf.researchr.org/home/LCTES-2019): (Extended deadline) March 8, 2019. Is over???
 + **[ICCV: March 22, 2019.](http://iccv2019.thecvf.com/submission/main_conference/author_guidelines)**
 + [MICRO](https://www.microarch.org/micro52/): March 29 and April 5, 2019.
 + [ICCAD](https://iccad.com/): April 1 and 8, 2019.
