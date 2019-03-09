@@ -103,9 +103,10 @@ Fix mathematical proof for paper and implement processor subsystems.
 	- VENUE
 	- DATE
 + RecSys, ACM Conference on Recommender Systems
-	- URL
-	- VENUE
-	- Submission deadline: Late April or Early May, 2019.
+	- https://recsys.acm.org/recsys19/
+	- Copenhagen, Denmark.
+	- September 16-20, 2019.
+	- Submission deadline: April 15 and 23, 2019.
 + SIGGRAPH, ACM special interest group on Computer GRAPHics and Interactive Techniques
 	- https://s2019.siggraph.org/
 	- Los Angeles, CA.
