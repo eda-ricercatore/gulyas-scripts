@@ -489,6 +489,62 @@ Notes from this chapter:
 
 
 
+##	Coda
+
+![https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Hennessy2018a-pictures/IMG_2367.JPG](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Hennessy2018a-pictures/IMG_2367.JPG)
+
+![https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Hennessy2018a-pictures/IMG_2368.JPG](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Hennessy2018a-pictures/IMG_2368.JPG)
+
+![https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Hennessy2018a-pictures/IMG_2370.JPG](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Hennessy2018a-pictures/IMG_2370.JPG)
+
+![https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Hennessy2018a-pictures/IMG_2369.JPG](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Hennessy2018a-pictures/IMG_2369.JPG)
+
+![https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Hennessy2018a-pictures/IMG_2371.JPG](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Hennessy2018a-pictures/IMG_2371.JPG)
+
+![https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Hennessy2018a-pictures/IMG_2372.JPG](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Hennessy2018a-pictures/IMG_2372.JPG)
+
+![https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Hennessy2018a-pictures/IMG_2373.JPG](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Hennessy2018a-pictures/IMG_2373.JPG)
+
+![https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Hennessy2018a-pictures/IMG_2374.JPG](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Hennessy2018a-pictures/IMG_2374.JPG)
+
+![https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Hennessy2018a-pictures/IMG_2375.JPG](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Hennessy2018a-pictures/IMG_2375.JPG)
+
+![https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Hennessy2018a-pictures/IMG_2376.JPG](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Hennessy2018a-pictures/IMG_2376.JPG)
+
+![https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Hennessy2018a-pictures/IMG_2377.JPG](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Hennessy2018a-pictures/IMG_2377.JPG)
+
+![https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Hennessy2018a-pictures/IMG_2378.JPG](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Hennessy2018a-pictures/IMG_2378.JPG)
+
+![https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Hennessy2018a-pictures/IMG_2379.JPG](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Hennessy2018a-pictures/IMG_2379.JPG)
+
+![https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Hennessy2018a-pictures/IMG_2380.JPG](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Hennessy2018a-pictures/IMG_2380.JPG)
+
+![https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Hennessy2018a-pictures/IMG_2381.JPG](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Hennessy2018a-pictures/IMG_2381.JPG)
+
+![https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Hennessy2018a-pictures/IMG_2382.JPG](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Hennessy2018a-pictures/IMG_2382.JPG)
+
+![https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Hennessy2018a-pictures/IMG_2383.JPG](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Hennessy2018a-pictures/IMG_2383.JPG)
+
+![https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Hennessy2018a-pictures/IMG_2384.JPG](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Hennessy2018a-pictures/IMG_2384.JPG)
+
+![https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Hennessy2018a-pictures/IMG_2385.JPG](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Hennessy2018a-pictures/IMG_2385.JPG)
+
+![https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Hennessy2018a-pictures/IMG_2386.JPG](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Hennessy2018a-pictures/IMG_2386.JPG)
+
+![https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Hennessy2018a-pictures/IMG_2387.JPG](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Hennessy2018a-pictures/IMG_2387.JPG)
+
+![https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Hennessy2018a-pictures/IMG_2388.JPG](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Hennessy2018a-pictures/IMG_2388.JPG)
+
+![https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Hennessy2018a-pictures/IMG_2389.JPG](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Hennessy2018a-pictures/IMG_2389.JPG)
+
+![https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Hennessy2018a-pictures/IMG_2392.JPG](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Hennessy2018a-pictures/IMG_2392.JPG)
+
+![https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Hennessy2018a-pictures/IMG_2393.JPG](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Hennessy2018a-pictures/IMG_2393.JPG)
+
+
+
+
+
 
 
 
