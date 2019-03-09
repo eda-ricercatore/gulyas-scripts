@@ -93,10 +93,10 @@ Fix mathematical proof for paper and implement processor subsystems.
 	- URL
 	- VENUE
 	- DATE
-+ NIPS, Annual Conference on Neural Information Processing Systems (NIPS 2018)
-	- URL
-	- VENUE
-	- Submission deadline: **Mid-May, 2019.**
++ NIPS, Annual Conference on Neural Information Processing Systems (NIPS 2019)
+	- https://nips.cc/
+	- Vancouver, Canada.
+	- Submission deadline: **May 16 and 23, 2019.**
 + PAMI ???
 	- Basically, this refers to PAMITC Sponsored Conferences, such as CVPR and ICCV.
 	- URL
@@ -150,7 +150,7 @@ Fix mathematical proof for paper and implement processor subsystems.
 + [PACT](http://pactconf.org/): April 11 and 15, 2019.
 + [VLSI-SoC](https://vlsi-soc.pe/): April 18 and 25, 2019.
 + [CP 2019](http://cp2019.a4cp.org/): May 3 and 10, 2019.
-+ **[NIPS 2019](https://nips.cc/): May 23, 2019.**
++ **[NIPS 2019](https://nips.cc/): May 16 and 23, 2019.**
 + **[ICDM 2019](http://icdm2019.bigke.org/): June 5, 2019.**
 + [ICCD, IEEE International Conference on Computer Design](https://www.iccd-conf.com/Home.html): June 21 and 28, 2019.
 + AAAI Conference on Artificial Intelligence: August/September 2019.
