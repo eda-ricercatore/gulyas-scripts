@@ -15,7 +15,9 @@
 		Year = {2015}}
 
 
-##	\S1 rgdtfygu
+##	\S1 Building a Winning Resume
+
+Be willing to include terms, such as "unemployed" and "in transition," to your current job title. E.g., be willing to use "unemployed engineer" if this term accurately describes me \cite[\S1.8, pp. 15]{Fasano2015}.
 
 Stop at \S1.8.
 
