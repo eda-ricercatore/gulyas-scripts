@@ -19,7 +19,11 @@
 
 Be willing to include terms, such as "unemployed" and "in transition," to your current job title. E.g., be willing to use "unemployed engineer" if this term accurately describes me \cite[\S1.8, pp. 15]{Fasano2015}.
 
-Stop at \S1.8.
+##	\S2 Landing and Acing an Engineering Job Interview
+
+\S2{\citation}"Ask for help, not a job."
+
+Stop at \S2.1.
 
 
 
