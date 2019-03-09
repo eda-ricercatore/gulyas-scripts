@@ -21,12 +21,20 @@ Be willing to include terms, such as "unemployed" and "in transition," to your c
 
 ##	\S2 Landing and Acing an Engineering Job Interview
 
-\S2{\citation}"Ask for help, not a job."
+\cite[\S2.1, pp. 20]{Fasano2015} "Ask for help, not a job."
 
-Stop at \S2.1.
+##	\S3 Career Goals Act as Your Destination
 
+\cite[\S3.8 pp. 38-39]{Fasano2015} describes planning to achieve your goals by breaking down the steps needed to achieve those "goals into smaller, achievable steps".
 
+SMART acronym \cite[\S3.8 pp. 38-39]{Fasano2015}:
++ Specific
++ Measurable
++ Achievable
++ Relevant
++ Time bound
 
+"When preparing a plan to achieve your goals, be SMART and create specific, measurable, achievable, relevant, and time-bound steps. Remember: small steps bring about BIG results \cite[\S3.8 pp. 39]{Fasano2015}."
 
 
 
