@@ -44,11 +44,12 @@ Fix mathematical proof for paper and implement processor subsystems.
 	- http://iccv2019.thecvf.com/submission/main_conference/author_guidelines
 	- Seoul, South Korea
 	- October 27 - November 3, 2018.
-	- Submission deadline: **March 22, 2019**.
+	- Submission deadline: **March 15 and 22, 2019**.
 + ICDM, IEEE International Conference on Data Mining
-	- URL
-	- VENUE
-	- Submission deadline: Early June, 2019.
+	- http://icdm2019.bigke.org/
+	- http://www.cs.uvm.edu/~icdm/
+	- Beijing, China.
+	- Submission deadline: June 5, 2019.
 + ICLR, International Conference on Learning Representations
 	- https://iclr.cc
 	- VENUE
@@ -139,8 +140,8 @@ Fix mathematical proof for paper and implement processor subsystems.
 
 ###	Attack Plan
 
-+ [LCTES](https://conf.researchr.org/home/LCTES-2019): (Extended deadline) March 8, 2019. Is over???
-+ **[ICCV: March 22, 2019.](http://iccv2019.thecvf.com/submission/main_conference/author_guidelines)**
++ [LCTES](https://conf.researchr.org/home/LCTES-2019): (Extended deadline) March 8, 2019.
++ **[ICCV](http://iccv2019.thecvf.com/submission/main_conference/author_guidelines): March 15 and 22, 2019.**
 + [MICRO](https://www.microarch.org/micro52/): March 29 and April 5, 2019.
 + [ICCAD](https://iccad.com/): April 1 and 8, 2019.
 + [ASAP](https://asap2019.csl.cornell.edu/): April 2 and 8, 2019.
@@ -150,6 +151,7 @@ Fix mathematical proof for paper and implement processor subsystems.
 + [VLSI-SoC](https://vlsi-soc.pe/): April 18 and 25, 2019.
 + [CP 2019](http://cp2019.a4cp.org/): May 3 and 10, 2019.
 + **[NIPS 2019](https://nips.cc/): May 23, 2019.**
++ **[ICDM 2019](http://icdm2019.bigke.org/): June 5, 2019.**
 + [ICCD, IEEE International Conference on Computer Design](https://www.iccd-conf.com/Home.html): June 21 and 28, 2019.
 + AAAI Conference on Artificial Intelligence: August/September 2019.
 + CVPR: November 2019.

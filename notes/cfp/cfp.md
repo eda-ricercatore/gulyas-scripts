@@ -415,6 +415,39 @@ Title: A Hardware Approach to Mitigating Adversarial Machine Learning
 Abstract (maximum 5000 characters): We discuss a secure hardware implementation of deep neural network to mitigate adversarial machine learning. We propose a solution using noise-based logic to implement a deep neural network that is robust to attacks via adversarial machine learning. We discuss preliminary experimental results using robust statistics.
 
 
+#	ICCV
+
+
++ 3D Computer Vision
++ Action Recognition
++ Big data and Large Scale Methods
++ Biometrics, face and gesture
++ Biomedical image analysis
++ Computational photography, photometry, shape from X
++ Deep Learning
++ Low-level vision and Image Processing
++ Motion and Tracking
++ Optimization methods
++ Recognition: detection, categorization, indexing and matching
++ Robot Vision
++ Segmentation, grouping and shape representation
++ Statistical learning
++ Video: events, activities and surveillance
++ Vision for X
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
