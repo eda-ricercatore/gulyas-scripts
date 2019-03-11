@@ -37,14 +37,17 @@ SMART acronym \cite[\S3.8 pp. 38-39]{Fasano2015}:
 "When preparing a plan to achieve your goals, be SMART and create specific, measurable, achievable, relevant, and time-bound steps. Remember: small steps bring about BIG results \cite[\S3.8 pp. 39]{Fasano2015}."
 
 
+##	\S8 Stay Focused, Organized, Productive, and Stress-Free
 
+![\S8.Reference, pp. 134]()
 
+##	\S9 Be a Leader Every Day
 
+![\S9.Reference, pp. 145]()
 
+##	\S11 The Time is Now: Take Action
 
-
-
-
+![\S10.Reference, pp. 151]()
 
 
 
