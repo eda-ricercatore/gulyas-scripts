@@ -86,7 +86,7 @@ From \cite[\S11.5 Action Exercise Worksheet--SMART Process to Achieve Goal \#\[i
 + "A = Achievable. While your goals should be challenging, ensure that they are realistic."
 + "Relevant. Ensure that the steps you are taking toward your goal are relevant."
 + "Contact at least one person who has achieved this goal or one very similar to it to make sure that your steps are both realistic and relevant to the goal."
-
++ Next to each of the steps listed at the beginning of this worksheet, write a deadline as a specific date. Add this specific date to your calendar with a few reminders.
 
 
 
