@@ -727,6 +727,8 @@ Flags for work-in-progress:
 		* skill set:
 			+ SQL, javascript, and google appscript
 			+ Familiarity with HR systems and tools (e.g. Workday, Reflektive, Zugata, Culture Amp)
+			+ You are a skilled engineer. You've got a strong background working in our stack (Python, Django or React, ES6 or Node.js, etc.) -- even if you aren't a daily coder, you regularly exercise your coding muscles and try to be an asset on any technical context your team may need.
+			+ Help the team build tools for partners and developers that come to our platform to create Apps that live on Zapier. Imagine Postman meets OpenAPI on steroids.
 		* tech stack:
 			+ Research publications at relevant conferences such as SIGGRAPH, ACM Trans on Graphics, CVPR, ICCV, ICCP, SPIE, JOSA a major plus.
 			+ Expertise in Deep Learning, Machine learning and familiarity with tools like Scipy, Boost, Caffe, TensorFlow, OpenCV, DLIB etc. and related areas.
