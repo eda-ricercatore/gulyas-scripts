@@ -75,6 +75,24 @@ From \cite[\S11.3A Action Exercise Worksheet -- Define Your End Results in One Y
 + "Who can help me reach my goals?"
 + "How do my goals reflect my values?"
 
+From \cite[\S11.4 Action Exercise Worksheet--Formulate and Prioritize Goals]{Fasano2015}:
++ Goal / Timeline
+
+
+From \cite[\S11.5 Action Exercise Worksheet--SMART Process to Achieve Goal \#\[i\]]{Fasano2015}:
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
