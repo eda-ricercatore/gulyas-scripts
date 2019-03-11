@@ -91,6 +91,10 @@ From \cite[\S11.5 Action Exercise Worksheet--SMART Process to Achieve Goal \#\[i
 
 
 
+##	\S13 The Best of the Blog
+
+From \cite[\S13.3 Twelve Rules of Zen Monks That May Help You Reduce Stress and Improve Quality in Your Engineering Career]{Fasano2015} and publications from Leo Babauta:
+
 
 
 

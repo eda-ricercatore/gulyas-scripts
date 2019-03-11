@@ -724,6 +724,9 @@ Flags for work-in-progress:
 		* Experience with load balancing technologies such as ELB, NGINX, etc.
 		* Experience with network technologies like DNS, AWS security groups, VPCs, etc.
 		* Extensive experience manipulating and analyzing complex data with SQL, Python and/or R. Knowledge of Google BigQuery and Java/Scala is a plus.
+		* skill set:
+			+ SQL, javascript, and google appscript
+			+ Familiarity with HR systems and tools (e.g. Workday, Reflektive, Zugata, Culture Amp)
 		* tech stack:
 			+ Research publications at relevant conferences such as SIGGRAPH, ACM Trans on Graphics, CVPR, ICCV, ICCP, SPIE, JOSA a major plus.
 			+ Expertise in Deep Learning, Machine learning and familiarity with tools like Scipy, Boost, Caffe, TensorFlow, OpenCV, DLIB etc. and related areas.
