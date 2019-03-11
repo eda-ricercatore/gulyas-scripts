@@ -80,7 +80,12 @@ From \cite[\S11.4 Action Exercise Worksheet--Formulate and Prioritize Goals]{Fas
 
 
 From \cite[\S11.5 Action Exercise Worksheet--SMART Process to Achieve Goal \#\[i\]]{Fasano2015}:
-
++ Goal \#\[i\]
++ "S = Specific. List the steps required to achieve this goal."
++ "M = Measurable. List at least three criteria that you can use to measure your progress towards your goal."
++ "A = Achievable. While your goals should be challenging, ensure that they are realistic."
++ "Relevant. Ensure that the steps you are taking toward your goal are relevant."
++ "Contact at least one person who has achieved this goal or one very similar to it to make sure that your steps are both realistic and relevant to the goal."
 
 
 
