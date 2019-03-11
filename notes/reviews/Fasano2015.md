@@ -45,12 +45,35 @@ SMART acronym \cite[\S3.8 pp. 38-39]{Fasano2015}:
 
 ![\S9.Reference, pp. 145]()
 
-##	\S11 The Time is Now: Take Action
+##	\S10 The Time is Now: Take Action
 
 ![\S10.Reference, pp. 151]()
 
 
+##	\S11 Tools and Templates for Setting and Achieving Your Career Goals
 
+
+Include the following in my resume and CV \cite[\S11.1 Template for a Winning R{\'{e}}sum{\'{e}}]{Fasano2015}:
++ Professional Licenses, Memberships, and Affiliations
++ Society Activities
+	- Position, organization, and responsibilities. Include year term, as applicable.
++ Relevant Coursework in my **Education** section.
++ Awards and Certifications
+	- List in reverse chronological order.
+	- Award/Certification, award giving body, month and year
++ References:
+	- List number of recommendations on LinkedIn.
+
+From \cite{\S11.2, Action Exercise Worksheet--Define Your Values}{Fasano2015}:
++ "Define your values here by writing, in full sentences and complete thoughts, the core values that you hold. What principles guide you daily?""
+
+From \cite[\S11.3A Action Exercise Worksheet -- Define Your End Results in One Year; \S11.3B Action Exercise Worksheet -- Define Your End Results in Two Years; \S11.3B Action Exercise Worksheet -- Define Your End Results in Five Years]{Fasano2015}:
++ "Ideally, where do I want to be in my career in one year (or two years, or five years)? What would my day look like (for one or two year plan/goal)?"
++ "Why do I want to be there? What are the specific reasons (or drivers) for those goals (for one or two year plan/goal)?"
++ "What additional skills or training will I need to get there?"
++ "How can I ensure that I will achieve that goal?"
++ "Who can help me reach my goals?"
++ "How do my goals reflect my values?"
 
 
 
