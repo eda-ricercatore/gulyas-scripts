@@ -94,9 +94,18 @@ From \cite[\S11.5 Action Exercise Worksheet--SMART Process to Achieve Goal \#\[i
 ##	\S13 The Best of the Blog
 
 From \cite[\S13.3 Twelve Rules of Zen Monks That May Help You Reduce Stress and Improve Quality in Your Engineering Career]{Fasano2015} and publications from Leo Babauta:
-+ 
-
-
++ Do one thing at a time.
++ Do it slowly and deliberately.
++ Do it completely.
++ Do less.
++ Put space between things.
++ Develop rituals.
++ Designate time for certain things.
++ Devote time to sitting.
++ Smile and serve others.
++ Make cleaning and cooking become meditation.
++ Think about what is necessary.
++ Live simply.
 
 
 
