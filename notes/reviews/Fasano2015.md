@@ -39,15 +39,26 @@ SMART acronym \cite[\S3.8 pp. 38-39]{Fasano2015}:
 
 ##	\S8 Stay Focused, Organized, Productive, and Stress-Free
 
-![\S8.Reference, pp. 134]()
+![S8.Reference, pp. 134](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Fasano2015-pictures/IMG_2530-gd.JPG)
+
+![S8.Reference, pp. 134](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Fasano2015-pictures/IMG_2531.JPG)
 
 ##	\S9 Be a Leader Every Day
 
-![\S9.Reference, pp. 145]()
+![S9.Reference, pp. 145](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Fasano2015-pictures/IMG_2532.JPG)
+
+![S9.Reference, pp. 145](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Fasano2015-pictures/IMG_2533.JPG)
+
+
 
 ##	\S10 The Time is Now: Take Action
 
-![\S10.Reference, pp. 151]()
+![S10.Reference, pp. 151](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Fasano2015-pictures/IMG_2534.JPG)
+
+![S10.Reference, pp. 151](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Fasano2015-pictures/IMG_2535.JPG)
+
+
+
 
 
 ##	\S11 Tools and Templates for Setting and Achieving Your Career Goals
@@ -110,6 +121,21 @@ From \cite[\S13.3 Twelve Rules of Zen Monks That May Help You Reduce Stress and 
 
 
 
+##	Appendix: Recommended Reading
+
+![page 193](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Fasano2015-pictures/IMG_2540.JPG)
+
+![page 194](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Fasano2015-pictures/IMG_2541.JPG)
+
+![page 195](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Fasano2015-pictures/IMG_2542.JPG
+
+![page 196](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Fasano2015-pictures/IMG_2543.JPG)
+
+![page 197](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Fasano2015-pictures/IMG_2544.JPG)
+
+##	Additional Information
+
+![Other books in the series](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/Fasano2015-pictures/IMG_2545.JPG)
 
 
 
