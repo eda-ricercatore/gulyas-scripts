@@ -35,6 +35,12 @@ Fix mathematical proof for paper and implement processor subsystems.
 	- URL
 	- VENUE
 	- Submission deadline: **Mid-March, 2019.**
++ ECML PKDD, European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases
+	- http://ecmlpkdd2019.org/
+	- http://ecmlpkdd2019.org/submissions/deadlines/
+	- September 16-20, 2019.
+	- Würzburg, Germany.
+	- Submission deadline: March 29 and April 5, 2019.
 + EMNLP, Conference on Empirical Methods in Natural Language Processing
 	- URL
 	- VENUE
