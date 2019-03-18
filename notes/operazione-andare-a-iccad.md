@@ -47,6 +47,10 @@ Flags for work-in-progress:
 + [x] List CFP deadlines in sequential order.
 + [x] **Reference machine learning libraries!!!**
 + [x] Libraries associated with NumFOCUS.
++ [x] Clear *Safari* tabs.
++ [ ] Clear *Chrome* tabs.
++ [ ] Fix git "push" operation.
++ [ ] Fix hg "push" operation.
 + [ ] Graph
 	- [x] Synthesize functions/methods/behavior and attributes/fields/properties that have to exist for all graphs, all directed graphs, and all undirected graphs. COMPLETE THIS!!!!
 	- [x] Fix functions for directed and undirected graphs.
@@ -112,8 +116,13 @@ Flags for work-in-progress:
 + [ ] Standard cell library
 + [ ] Logic simulator
 + [ ] Store test results in a database (in *CSV* format), and manage it with a *SQL*
++ [ ] Port logic simulator to GPGPU platform via CUDA.
+	- [ ] Get references for CUDA-based programming (or software development).
+	- [ ] Learn CUDA-based programming (or software development).
 + [ ] Build noise-based logic circuit for matrix and tensor operations, and to implement artificial neural networks.
 + [ ] Use circuits and scripts from TA job as toy examples to test my NBL solutions.
++ [ ] Write paper \#1 on the NBL cell library design and the NBL logic simulator.
++ [ ] Write paper \#2 on circuits and electronic system to implement matrix and tensor operations.
 + [ ] Update technologies listed in https://insights.stackoverflow.com/survey/2018/
 	- SQL database
 		* *MySQL*
