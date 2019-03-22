@@ -147,7 +147,6 @@ Fix mathematical proof for paper and implement processor subsystems.
 
 ###	Attack Plan
 
-+ **[ICCV](http://iccv2019.thecvf.com/submission/main_conference/author_guidelines): March 15 and 22, 2019.**
 + **[MICRO](https://www.microarch.org/micro52/): March 29 and April 5, 2019.**
 + **[ICCAD](https://iccad.com/): April 1 and 8, 2019.**
 + [ASAP](https://asap2019.csl.cornell.edu/): April 2 and 8, 2019.
@@ -163,7 +162,7 @@ Fix mathematical proof for paper and implement processor subsystems.
 + **CVPR: November 2019.**
 + **IJCNN: December 2019.**
 
-Fix this!!! 
+Fix this!!!
 
 
 
