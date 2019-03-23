@@ -735,6 +735,40 @@ Flags for work-in-progress:
 		* Experience with load balancing technologies such as ELB, NGINX, etc.
 		* Experience with network technologies like DNS, AWS security groups, VPCs, etc.
 		* Extensive experience manipulating and analyzing complex data with SQL, Python and/or R. Knowledge of Google BigQuery and Java/Scala is a plus.
+		* Tools: Slurm, Docker, Grafana.
+		* skill set:
+			+ Agile development approaches
+				- Lean-startup and design-thinking inspired methods incorporating short product development, business-hypothesis-driven experimentation, iterative product releases, and validated learning
+			+ Programming languages and operating systems
+				- Python
+				- Javascript
+				- Unix/Linux/MacOSX
+				- RDF, JSON-LD, SPARQL
+			+ Tools
+				- Git
+				- Slack
+				- JIRA
+			+ Web app development
+				- Django
+				- Django REST Framework (for API development)
+				- Node
+			+ Backend
+				- SOLR/Lucene or ElasticSearch
+				- Amazon Web Services (AWS) or other cloud service providers
+				- “Serverless” computing (e.g., AWS Lambda)
+				- Application containerization (such as Docker or Kubernetes)
+			+ Javascript frameworks
+				-  Vue and/or Nuxt
+				- Webpack
+			+ Mobile development
+				- Using responsive design and development techniques, possibly including the use of Progressive Web Application (PWA) techniques and technologies
+			+ Other
+				- Topic modeling (ideally using Mallet)
+				- Video formats and metadata (for both archiving and streaming)
+				- RDF, JSON-LD, Sparql and GraphQL for knowledge graph development and use
+				- Content markup including:  HTML, XML, ePUB, PDF
+				- Named Entity Recognition (NER)
+				- Experience applying statistics, modeling, and machine learning
 		* skill set:
 			+ SQL, javascript, and google appscript
 			+ Familiarity with HR systems and tools (e.g. Workday, Reflektive, Zugata, Culture Amp)
