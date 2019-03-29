@@ -611,6 +611,9 @@ Flags for work-in-progress:
 	- Prototyping abilities with InVision / Axure / Flinto
 	- Knowledgeable with industry standard authentication protocols such SAML SSO and OAuth2
 	- Core Technical Skills that are REQUIRED: PHP 5, Javascript, JQuery, Node.js, MySQL (administration and database design/creation), Full-stack familiarity (HTML/CSS, Apache web server, Ubuntu Linux), Encoding and Decoding JSON to and from OOP, ORM, Consuming RESTful APIs, Experience with Eclipse IDE (desirable)
+	- tech stack:
+		* Experience with Deep Learning frameworks, e.g., PyTorch, DeepLearning4J, TensorFlow
+		* Experience in SPARK (using Python or Scala). Knowledge of AWS services will be appreciated.
 	- Knowledge of source control tools (Git, CodeCommit, SVN, and TFS), build/release tools (Jenkins, CodeBuild, CodeDeploy, CodePipeline), and infrastructure as code tools (Terraform, CloudFormation)
 	- Strong grasp of Configuration Management (Chef, Puppet, Ansible, Salt Stack)
 	- stress testing (locust.io)
@@ -624,6 +627,7 @@ Flags for work-in-progress:
 	- Java, Selenium, JUnit, Cucumber-JVM
 	- API Testing experience
 	- BDD (Cucumber, Gherkin)
+	- Experience implementing search solutions with technologies such as SOLR, Elasticsearch, Lucene is preferred.
 	- Python, Gherkin, Cucumber, Espresso, XUI Test
 	- Experience with testing technologies (JUnit, Espresso, Mockito, Robolectric)
 	- Unit Testing Tools  –  Google Test or CPPUnit ; Code quality tools
