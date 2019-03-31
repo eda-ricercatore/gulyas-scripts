@@ -611,6 +611,15 @@ Flags for work-in-progress:
 	- Prototyping abilities with InVision / Axure / Flinto
 	- Knowledgeable with industry standard authentication protocols such SAML SSO and OAuth2
 	- Core Technical Skills that are REQUIRED: PHP 5, Javascript, JQuery, Node.js, MySQL (administration and database design/creation), Full-stack familiarity (HTML/CSS, Apache web server, Ubuntu Linux), Encoding and Decoding JSON to and from OOP, ORM, Consuming RESTful APIs, Experience with Eclipse IDE (desirable)
+	- Experience with Statistical Process Control design including Six Sigma tools and processes.
+	- Experience with Products Development Life Cycle (Systems, Software)
+	- Experience in Software Quality and process (e.g., SPICE, CMMI)
+	- Knowledge of Requirements Management tools (e.g., JAMA)
+	- Experience with requirements derivation and tracking tools (DOORS, Jama, etc.)
+	- Experience with design of experiment (DOE/DOX), critical analysis, and characterization.
+	- Experience in a high-volume manufacturing environment.
+	- Experience with optical design software such as Zemax, Code V or comparable
+	- Ensure high level of data integrity with our ATS (Lever) and other HR systems
 	- tech stack:
 		* Experience with Deep Learning frameworks, e.g., PyTorch, DeepLearning4J, TensorFlow
 		* Experience in SPARK (using Python or Scala). Knowledge of AWS services will be appreciated.
