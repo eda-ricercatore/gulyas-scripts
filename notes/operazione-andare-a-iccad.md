@@ -620,6 +620,8 @@ Flags for work-in-progress:
 	- Experience in a high-volume manufacturing environment.
 	- Experience with optical design software such as Zemax, Code V or comparable
 	- Ensure high level of data integrity with our ATS (Lever) and other HR systems
+	- Experience in Java and Apex is an advantage
+	- Experience with Zend Framework or Laravel (optional)
 	- tech stack:
 		* Experience with Deep Learning frameworks, e.g., PyTorch, DeepLearning4J, TensorFlow
 		* Experience in SPARK (using Python or Scala). Knowledge of AWS services will be appreciated.
