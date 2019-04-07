@@ -622,6 +622,38 @@ Flags for work-in-progress:
 	- Ensure high level of data integrity with our ATS (Lever) and other HR systems
 	- Experience in Java and Apex is an advantage
 	- Experience with Zend Framework or Laravel (optional)
+	- skill set:
+		* Understand data landscape i.e tooling, tech stack, source systems etc. and work closely with the data Engineering team to improve the data collection and quality.
+		* Ability to define and spot macro and micro levels trends with statistical significance on a regular basis and understand key drivers driving those trends.
+		* 8+ years of data analyst experience with 4+ years of proven industry experience in a large scale environment(PBs scale, globally distributed teams).
+		* Strong experience in Python, R, SQL, Tableau, Google Analytics, Hive and BigQuery (or any other Big data/Cloud equivalent) etc.
+	- skill set:
+		* Build and Support scalable and reliable data solutions that can enable self-service reporting and advanced analytics at Cloudflare using modern data lake and EDW technologies (Hadoop, Spark, Cloud, NoSQL etc.) in a agile manner.
+		* 3+ years of development experience in Big data space working with Petabytes of data and building large scale data solutions.
+		* Solid understanding of Google Cloud Platform, Hadoop, Python, Spark, Hive, and Kafka.
+		* Experience in all aspects of data systems(both Big data and traditional) including data schema design, ETL, aggregation strategy, and performance optimization.
+		* Capable of working closely with business and product teams to ensure data solutions are aligned with business initiatives and are of high quality.
+	- skill set:
+		* Partner and align with business leaders, stakeholders, product managers and internal teams to understand the business and product challenges and goals and address them using predictive analytics in a globally distributed environment.
+		* Understand data landscape i.e tooling, tech stack, source systems etc. and work closely with the data Engineering team to improve the data collection and quality.
+		* Understand business/product strategy and high-level roadmap and align analysis efforts to enable them with data insights and help achieve their strategic goals.
+		* Strong audience focused presentation and storytelling skills focused on key takeaways in a crisp and concise manner.
+		* Define hypothesis driven models and best practices to derive and publish model scores/insights/learnings at scale within the company.
+		* Ability to define and spot macro and micro levels trends with statistical significance on a regular basis and understand key drivers driving those trends.
+		* 8+ years of data scientist experience with 4+ years of proven industry experience in a large scale environment(PBs scale, globally distributed teams).
+		* Proven lead in driving multi-million dollar revenue generator models for the company and setting up data science related best practices at a company.
+		* 2+ years experience with a fast-growing SaaS business based company is preferred.
+		* Strong experience in Python, R, Spark, SQL, Tableau, Google Analytics, Hive and BigQuery (or any other Big data/Cloud equivalent) etc.
+	- skill set:
+		* Solid foundation in computer science, with strong competencies in algorithms, data structures, software design, web security, and building large, distributed systems
+		* Excel at planning, working multi-functionally, leading execution across teams to meet commitments and deliver with predictability
+		* Demonstrate a track record of leading teams, including hiring, onboarding, and professional development. You inspire your team to reach higher. You’re as good as explaining “why” as you are “how”
+		* Experience implementing tools, process, internal instrumentation, methodologies and resolving blockages
+		* Demonstrated ability to recruit and hire top talent
+		* Comfortable managing teams/projects with tight deadlines and short release cycles
+		* Experience working with and getting the best out of post-doctorate researchers
+		* Being passionate about cryptography and/or web technology such as TLS
+		* Familiarity working with DNS, database systems, Internet performance, and/or Internet security
 	- tech stack:
 		* Experience with Deep Learning frameworks, e.g., PyTorch, DeepLearning4J, TensorFlow
 		* Experience in SPARK (using Python or Scala). Knowledge of AWS services will be appreciated.
