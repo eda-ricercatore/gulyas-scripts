@@ -154,7 +154,10 @@ Fix mathematical proof for paper and implement processor subsystems.
 + [PACT](http://pactconf.org/): April 11 and 15, 2019.
 + [VLSI-SoC](https://vlsi-soc.pe/): April 18 and 25, 2019.
 + [CP 2019](http://cp2019.a4cp.org/): May 3 and 10, 2019.
++ [FMCAD](https://fmcad.forsyte.at/FMCAD19/): May 10 and 17, 2019.
 + **[NeurIPS 2019](https://nips.cc/): May 16 and 23, 2019.**
++ [HPEC](http://ieee-hpec.org): May 17, 2019.
++ [MEMOCODE'19](https://memocode.github.io/2019/): May 31 and June 7, 2019.
 + **[ICDM 2019](http://icdm2019.bigke.org/): June 5, 2019.**
 + [ICCD, IEEE International Conference on Computer Design](https://www.iccd-conf.com/Home.html): June 21 and 28, 2019.
 + *AAAI Conference on Artificial Intelligence: August/September 2019.*
@@ -1206,9 +1209,10 @@ Fix mathematical proof for paper and implement processor subsystems.
 
 
 + MEMOCODE'19, ACM-IEEE International Conference on Formal Methods and Models for System Design
-	- URL
-	- VENUE
-	- Submission deadline: Late May or Early June, 2019
+	- https://memocode.github.io/2019/
+	- San Diego, CA.
+	- October 9-11, 2019.
+	- Submission deadline: May 31 and June 7, 2019
 
 
 + RSP, International Symposium on Rapid System Prototyping
