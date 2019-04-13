@@ -669,6 +669,7 @@ Flags for work-in-progress:
 		* Experience with Bayesian non-parametrics (CRP, IBP, etc.)
 		* Experience with advanced MCMC techniques such as DREAM, Hamiltonian-MC, variational approximations, etc.
 		* Experience or keen interest in FP (Scala, Haskell, Clojure, Erlang, OCaML/SML, Elm, F\#)
+	- skill set: Use Python, React/Redux, Spark, Presto, Airflow, Git, CircleCI, and more.
 	- tech stack:
 		* Experience with Deep Learning frameworks, e.g., PyTorch, DeepLearning4J, TensorFlow
 		* Experience in SPARK (using Python or Scala). Knowledge of AWS services will be appreciated.
