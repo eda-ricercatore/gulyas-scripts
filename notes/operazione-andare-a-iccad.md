@@ -671,9 +671,78 @@ Flags for work-in-progress:
 		* Experience or keen interest in FP (Scala, Haskell, Clojure, Erlang, OCaML/SML, Elm, F\#)
 	- skill set: Use Python, React/Redux, Spark, Presto, Airflow, Git, CircleCI, and more.
 	- Experience with data analytics platforms, such as Semantic Pro, Semantic Cortex, IBM i2
+	- Experience in working with large data sets and distributed computing tools (Hive, Redshift) is a plus
+	- Experience using vector editors like Figma or Sketch and prototyping tools like Principle or Framer
+	- You are an expert in AfterEffects, Cinema 4D, Sketch, Principle
+	- You will be expected to have a good understanding of a broad range of traditional supervised and unsupervised techniques (e.g. logistic regression, SVMs, GBDTs, Random Forests, k-means and other clustering techniques, matrix factorization, LDA . . .) as well as be up to date with latest ML advances (e.g. Deep Neural Networks, or non-parametric Bayesian methods).
+	- Conduct testing such as functional testing, user acceptance testing (UAT), automated acceptance testing (AAT), and specification by example.
+	- skill set:
+		* 3+ years of experience in machine learning, data mining, natural language processing, information retrieval, or statistical analysis
+		* Experience working with large data sets using open source technologies such as Spark, Hadoop, and NoSQL
+		* Experience developing and productizing real-world AI/ML applications such as prediction, personalization, recommendation, content understanding and NLP
+		* Experience working with at least 3 of the following popular machine learning frameworks/libraries: sklearn, tensorflow, pytorch, caffe, keras, theano, cntk, mxnet, spark mllib
+		* Experience developing and deploying deep learning NLP models is a plus
+		* Experience working with a knowledge graph is a plus
 	- tech stack:
 		* Experience with Deep Learning frameworks, e.g., PyTorch, DeepLearning4J, TensorFlow
 		* Experience in SPARK (using Python or Scala). Knowledge of AWS services will be appreciated.
+	- tech stack:
+		* 2+ years of analytical work experience (experience working with product organizations a plus)
+		* Strong critical thinking and problem solving skills
+		* Experience  communicating effectively with non-technical audiences
+		* Strong ability to devise data-driven solutions to business problems
+		* Strong competency with SQL
+		* Experience with or exposure to a scripting language (Python preferred)
+	- tech stack:
+		* 5+ years of relevant analytical experience working with data or MS in a relevant technical field and 2+ years of analytical work experience (experience working with product organizations a plus)
+		* Strong critical thinking and problem solving skills
+		* Comfort and expertise communicating effectively with a wide-range of audiences (including product managers, engineers, business development managers, occasionally executives)
+		* Strong ability to devise data-driven solutions to business problems
+		* Ability to drive impact by thoughtfully tackling open-ended problems
+		* Strong data intuition and deep understanding of and experience with statistical and/or ML modeling techniques
+		* Strong competency with SQL
+		* Fluency in a scripting language (Python preferred)
+		* A plus: Experience with large scale data processing tools (Apache Spark) or implementing systems in production at scale
+	- tech stack:
+		* Netflix culture resonates with you.
+		* You can communicate effectively with experts of all backgrounds.
+		* You are an expert analyst and can pick up any tool (e.g. Tableau, D3) to get the job done.
+		* You dream in SQL and Python (or other similar languages).
+		* You are comfortable with Big Data technologies like Hadoop, Spark, Hive, Presto etc.
+	- Expertise in SQL, programming (e.g. Python, Scala), ETL and data warehousing concepts at scale (TBs of data)
+	- Expertise in broad technical skills spanning data access, data storage, data processing, and data visualization.  Skills include: SQL, logical / semantic data modeling, ETL and data warehousing concepts, programming languages (Python)
+	- Expertise in statistical inference including experimentation and observational methods to causal inference
+	- Strong coding experience. Experience with open-source ML packages (specifically sklearn, TensorFlow/Keras/PyTorch).
+	- tech stack:
+		* 5+ years of research experience with a track record of delivering quality results
+		* Expertise in machine learning spanning supervised and unsupervised learning methods
+		* Experience in successfully applying machine learning to real-world problems
+		* Strong mathematical skills with knowledge of statistical methods
+		* Strong software development experience in languages such as Scala, Java, Python, C++ or C#
+		* Great interpersonal skills
+		* PhD or MS in Computer Science, Statistics, or related field
+		* Experience in Recommendation Systems, Personalization, Search, or Computational Advertising
+		* Experience using Deep Learning, Bandits, Probabilistic Graphical Models, or Reinforcement Learning in real applications
+		* Experience in optimization algorithms and numerical computation
+		* Experience with Spark, TensorFlow, or Keras
+		* Experience with cloud computing platforms and large web-scale distributed systems
+		* Open source contributions
+	- tech stack:
+		* 5+ years of research experience with a track record of delivering quality results
+		* Expertise in machine learning spanning supervised and unsupervised learning methods
+		* Experience in contextual multi-armed bandit algorithms and/or reinforcement learning
+		* Experience in successfully applying machine learning to real-world problems
+		* Strong mathematical skills with knowledge of statistical methods
+		* Strong software development experience in languages such as Scala, Java, Python, C++ or C#
+		* Great interpersonal skills
+		* PhD or MS in Computer Science, Statistics, or related field
+		* Recommendation Systems, Personalization, Search, or Computational Advertising
+		* Deep Learning or Causal Inference
+		* Optimization algorithms and numerical computation
+		* Spark, TensorFlow, or Keras
+		* Cloud computing platforms and large web-scale distributed systems
+	- tech stack:
+	- tech stack:
 	- Knowledge of source control tools (Git, CodeCommit, SVN, and TFS), build/release tools (Jenkins, CodeBuild, CodeDeploy, CodePipeline), and infrastructure as code tools (Terraform, CloudFormation)
 	- Strong grasp of Configuration Management (Chef, Puppet, Ansible, Salt Stack)
 	- stress testing (locust.io)
