@@ -742,7 +742,70 @@ Flags for work-in-progress:
 		* Spark, TensorFlow, or Keras
 		* Cloud computing platforms and large web-scale distributed systems
 	- tech stack:
+		* Write C++ code to tackle scientific algorithmic problems such as: transforming 3D coordinates, Metropolis Monte Carlo simulation, Gradient Descent minimization, and others.
+		* Implement highly optimized multi-threaded C++ or CUDA code that scales well on cloud infrastructure.
+		* Work closely with other software engineers via code reviews and testing to foster high-quality software and systems.
+		* Solid computer science fundamentals, with strong competencies in data structures, algorithms, and compilers.   
+		* Experience profiling C/C++ code to find and fix performance bottlenecks.
+		* Comfort with the Linux command-line environment.
+		* Background in Biology, Chemistry or Physics.
+		* Familiarity working with Docker and Kubernetes.
+		* Knowledge of parallel computing paradigms and demonstrated proficiency in some of the following: openMP, CUDA, or openCL.
+		* https://www.atomwise.com/jobs/senior-software-engineer-scientific-computing/
 	- tech stack:
+		* You should think about joining us if you care about making a difference in treating disease and saving human lives. But also, if you are up to tackling some of the hardest open challenges in deep learning today:
+			+ Non-stationary, unbalanced, and noisy data: Our training data is seldom i.i.d.; new medicines are unlocked by pushing out into newly-discovered biology. Classes are extremely unbalanced, ratios of 1 positive to 70,000 negatives are typical. Help us reason about how to learn appropriately without dismissing nor overfitting to the data; identify when we can trust a label or have confidence in a prediction; and develop techniques to find and correct for systemic biases.
+			+ Extreme scaling: Medicinal chemists can synthesize about a trillion trillion molecules today. Help us scale predictive algorithms to orders of magnitude beyond those contemplated in any other problem domain today.
+			+ Multi-parameter optimization: Medicine has to be both safe and effective, so we have to concurrently optimize a number of criteria such as potency, selectivity, solubility, toxicity, synthesizability, etc. Help us efficiently explore the Pareto frontier and avoid mode collapse.
+			+ Adversarial generation of synthetic data: Data augmentation has shown utility in improving the robustness of predictions. Help us find ways to best integrate molecular physics simulation and machine learning to impute new data.
+			+ Explainability and visualization: Subtle patterns govern molecular recognition. Help us to understand how they lead to the discovery of fundamental chemistry by AI.
+		* Ph.D. or M.Sc. in computer science, statistics, data science, or related field
+		* 5+ years of extensive practical experience and proven track record of developing, implementing, debugging, and extending machine learning algorithm
+		* Knowledge of modern neural network frameworks such as Tensorflow, Torch, or Theano
+		* Strong analytical and statistical skills
+		* Scientific rigor, healthy skepticism, and detail-orientation in running and analyzing experiments
+		* Familiarity with processing large data sets in a Linux environment
+		* Software engineering skills and coding experience in at least one high-level programming language (Python, R, Java, C/C++, etc.)
+		* Biomedical knowledge or experience in processing chemical or biological data is preferred but not required
+		* Experience with cloud computing environments (AWS/Azure/GCE)
+		* https://www.atomwise.com/jobs/senior-machine-learning-research-scientist/
+	- tech stack:
+		* Interact with customers to understand their project requirements.
+		* Generate and analyze predictive results, and deliver these to our clients.
+		* Communicate our results and capabilities through scientific publications.
+		* Analyze, curate, and automate the processing of our biochemical databases.
+		* Help to develop our modeling software.
+		* Ph.D. in chemistry, biology or a related field.
+		* Extensive knowledge of medicinal chemistry.
+		* Minimum 3 years of experience in lead optimization at a pharmaceutical company.
+		* Experience in Computer-Aided Drug Design: structure/ligand-based drug design, molecular docking, virtual screening, QSAR, pharmacophore modeling, PK/PD data analysis and modeling.
+		* Comfortable on the Linux command-line.
+		* Undergraduate knowledge of statistics.
+		* Good knowledge of Python, Perl, Bash, or related scripting languages.
+		* Statistical modeling.
+		* Experience with cloud computing environments (AWS/Azure/GCE).
+		* https://www.atomwise.com/jobs/senior-computational-chemist/
+	- tech stack:
+		* M.Sc/Ph.D. in Computer Science, Statistics, Cheminformatics, Bioinformatics, Computational Biology or B.S. in Computer Science with 7+ years experience.
+		* Strong computer science fundamentals
+		* 5+ years of experience in database engineering, data processing pipelines, and HPC
+		* Strong database design and software-engineering best practices
+		* Strong knowledge of statistics, data analytics, and data visualization
+		* Strong coding skills in at least one high-level programming language (Python, Java, C++, etc)
+		* Good familiarity with Linux command-line environment
+		* Experience in bioinformatics or cheminformatics, working with ingestion of third-party and internal data sources
+		* Experience working with scalable algorithms utilizing large amounts of data
+		* Experience with cloud computing environments (AWS/Azure/GCE)
+		* Experience with non-relational databases
+		* Familiarity with organic chemistry
+		* https://www.atomwise.com/jobs/senior-data-engineer-cheminformatics-bioinformatics/
+	- tech stack:
+		* Hadoop ecosystem and its components.
+		* Hadoop, Hive, HBase, and Pig
+		* Working experience in HQL
+		* Pig Latin Scripts and MapReduce jobs
+		* Hands-on experience in backend programming, particularly Java, and Node.js
+		* Analytical and problem-solving skills
 	- Knowledge of source control tools (Git, CodeCommit, SVN, and TFS), build/release tools (Jenkins, CodeBuild, CodeDeploy, CodePipeline), and infrastructure as code tools (Terraform, CloudFormation)
 	- Strong grasp of Configuration Management (Chef, Puppet, Ansible, Salt Stack)
 	- stress testing (locust.io)
