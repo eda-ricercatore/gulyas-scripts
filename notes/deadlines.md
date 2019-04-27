@@ -147,6 +147,9 @@ Fix mathematical proof for paper and implement processor subsystems.
 
 ###	Attack Plan
 
+MTFD: Meet The Final Deadline; and, apply for [research internships](https://github.com/christine-hu/summer-2019-internships).
+
+
 + **[ICCAD](https://iccad.com/): April 1 and 8, 2019.**
 + **[ESWEEK](https://www.esweek.org): April 5 and 12, 2019.**
 	- ISSS+CODES, 300 word abstract.
