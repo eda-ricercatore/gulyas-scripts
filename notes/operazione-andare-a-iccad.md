@@ -807,6 +807,13 @@ Flags for work-in-progress:
 		* Hands-on experience in backend programming, particularly Java, and Node.js
 		* Analytical and problem-solving skills
 	- Expertise in additional statistical methods (e.g., Bayesian approaches, dyadic analysis, causal inference approaches, factor analysis, SEM)
+	- Use of Jira and A-Ha planning tools.
+	- Build data tooling to enable data lake, data warehouse, and analytics workflows within the AWS cloud (S3, Redshift, DynamoDB, Spark, Kinesis, Kubernetes, etc.)
+	- tech stack:
+		* Well-versed in one or more of the following languages and functional programming in general: Scala, Java, Python, JavaScript
+		* Expert in SQL and comfortable designing, writing and maintaining complex SQL based ETL.
+		* Experience with building large-scale batch and real-time data pipelines; ETL design, implementation, and maintenance.
+		* Experience with schema design and data modeling, and the analytical skills to QA data and identify gaps and inconsistencies.
 	- tech stack:
 		* Write complex data flows using SQL, frameworks (e.g., Scalding, Spark), and scripting languages (e.g., Python, R)
 		* Use data visualization tools (e.g., Tableau, Zeppelin) to share ongoing insights.
