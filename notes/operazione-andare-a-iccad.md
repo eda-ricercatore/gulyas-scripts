@@ -806,6 +806,16 @@ Flags for work-in-progress:
 		* Pig Latin Scripts and MapReduce jobs
 		* Hands-on experience in backend programming, particularly Java, and Node.js
 		* Analytical and problem-solving skills
+	- Expertise in additional statistical methods (e.g., Bayesian approaches, dyadic analysis, causal inference approaches, factor analysis, SEM)
+	- tech stack:
+		* Write complex data flows using SQL, frameworks (e.g., Scalding, Spark), and scripting languages (e.g., Python, R)
+		* Use data visualization tools (e.g., Tableau, Zeppelin) to share ongoing insights.
+		* Skilled with Figma (or Sketch) and prototyping tools such as Framer, Principle
+		* You have a deep and nuanced understanding of statistics, especially involving class imbalance problems.
+		* Scalding
+		* Full Stack Development
+		* Presto or Hive
+		* Spark
 	- Knowledge of source control tools (Git, CodeCommit, SVN, and TFS), build/release tools (Jenkins, CodeBuild, CodeDeploy, CodePipeline), and infrastructure as code tools (Terraform, CloudFormation)
 	- Strong grasp of Configuration Management (Chef, Puppet, Ansible, Salt Stack)
 	- stress testing (locust.io)
