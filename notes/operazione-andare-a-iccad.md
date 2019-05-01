@@ -809,6 +809,102 @@ Flags for work-in-progress:
 	- Expertise in additional statistical methods (e.g., Bayesian approaches, dyadic analysis, causal inference approaches, factor analysis, SEM)
 	- Use of Jira and A-Ha planning tools.
 	- Build data tooling to enable data lake, data warehouse, and analytics workflows within the AWS cloud (S3, Redshift, DynamoDB, Spark, Kinesis, Kubernetes, etc.)
+	- Experience with SAML, OAuth
+	- Working with Jira and Confluence a plus.
+	- Experience working with modern deep learning software architecture and frameworks including: Tensorflow, MxNet, Caffe, Caffe2, Torch, and/or PyTorch.
+	- Experience with configuration management systems (Ansible and/or Puppet, Saltstack)
+	- tech stack:
+		* Remote hardware administration with IPMI
+		* Configuration and management of
+		* SGE/Univa, Slurm, LSF or other DRMS
+		* Jenkins CI
+		* Phabricator
+		* FlexLM licensing
+		* Puppet, Ansible, Nagios
+		* LLVM, GCC
+		* DVCS e.g. Git
+		* AWS, Azure, Google Cloud
+		* XML and XPath/XSLT
+		* Web programming – HTML/DOM, JavaScript, SQL
+		* A solid knowledge about how orchestration tools (Kubernetes, Swarm, OpenStack, etc) can be used to deploy, scale, and operate virtualized entities
+		* Understand CPU virtualization and container technology from the inside out (hypervisors, Xen, LXC, Docker)
+		* The role involves using a range of technologies, such as Python, CMake, BuildBot, Phabricator, AWS etc.
+		* Good knowledge of management and security frameworks (SNMP/MIB agents, CLI, RESTful API, OpenBMC) is very useful
+		* Knowledge of storage systems (File, Block) is a plus (Local/Network/Cloud Attached)
+		* Knowledge of ILOM, BMC, and OCP (Open Compute) is a plus
+		* Test automation experience (Some exposure to CTest is desirable)
+	- OpenStack:
+			- Dashboard (Horizon)
+			Compute Service (Nova)
+			Networking (Neutron)
+			Object store (Swift)
+			Identity service (Keystone)
+			Metering & Data Collection Service (Ceilometer)
+			Orchestration (Heat)
+			Bare Metal Provisioning Service (Ironic)
+			Container Orchestration Engine Provisioning (Magnum)
+			Computable object storage (Storlets)
+			Deploys OpenStack using OpenStack itself (Tripleo)
+			Billing and chargebacks (Cloudkitty)
+			Optimization Service (Watcher)
+			Distributed SDN controller (Dragonflow)
+			OpenStack Networking integration for containers (Kuryr)
+			NFV Orchestration (Tacker)
+			Networking Automation for Multi-Region Deployments (Tricircle)
+			Command-line interface for all OpenStack services (Openstackclient)
+			Instances High Availability Service (Masakari)
+			Lightweight OCI containers (LOCI)
+			EC2 API proxy (EC2API)
+			Official Python SDK for OpenStack APIs (Openstacksdk)
+			Block Storage (Cinder)
+			Image service (Glance)
+			Big Data Processing Framework Provisioning (Sahara)
+			Application Catalog (Murano)
+			Containers Service (Zun)
+			Puppet modules to deploy OpenStack (Puppet-openstack)
+			Clustering service (Senlin)
+			Event, Metadata Indexing Service (Panko)
+			Root Cause Analysis service (Vitrage)
+			Load balancer (Octavia)
+			Accelerators resource management (Cyborg)
+			Deploys OpenStack in containers using Helm (Openstack-helm)
+			OpenStack Storage integration for containers (Fuxi)
+			Client library for interacting with OpenStack clouds (Shade)
+			Database as a Service (Trove)
+			Shared filesystems (Manila)
+			DNS service (Designate)
+			Key management (Barbican)
+			Governance (Congress)
+			Software Development Lifecycle Automation (Solum)
+			Deploys OpenStack in containers using Ansible (Kolla-ansible)
+			Monitoring (Monasca)
+			Workflow service (Mistral)
+			Functions Service (Qinling)
+			RPM package specs to deploy OpenStack (RPM-packaging)
+			Messaging Service (Zaqar)
+			Ansible playbooks to deploy OpenStack (Openstack-ansible)
+			Benchmark service (Rally)
+			Application Data Protection as a Service (Karbor)
+			Backup, Restore, and Disaster Recovery (Freezer)
+			Packaging-rpm (Packaging-rpm)
+			Indexing and Search (Searchlight)
+			Deploys OpenStack in containers using Charms and Juju (Openstack-charms)
+			Resource reservation service (Blazar)
+			Alarming Service (Aodh)
+			Ansible playbooks using ironic (Bifrost)
+			Chef cookbooks to deploy OpenStack (Chef-openstack)
+			EC2 API compatibility layer for OpenStack (Ec2-api)
+			Python Software Development Kit (Python SDK)
+			Ansible playbooks and roles for deployment (OpenStackAnsible)
+	- Silicon bring-up
+	- Silicon characterisation
+	- Massively parallel computing systems
+	- Laravel
+	- SQL working experience (Redshift/PostgreSQL/MySQL)
+	- Experience working with a CI system is preferred (ex. TeamCity, Concourse, Jenkins, etc.)
+	- Functional test automation tool experience is preferred (ex. Junit, TestNG, Serenity, etc.)
+	- Experience with profiling tools like PerfView (CPU, Memory, Garbage collection)
+	- Expert knowledge of debugging and crash dump analysis in Windbg
 	- tech stack:
 		* Well-versed in one or more of the following languages and functional programming in general: Scala, Java, Python, JavaScript
 		* Expert in SQL and comfortable designing, writing and maintaining complex SQL based ETL.
@@ -994,6 +1090,15 @@ Flags for work-in-progress:
 			+ Publication record in top conferences (ICML, ICLR, NIPS, KDD, IJCAI, AAAI etc )
 			+ Good knowledge and handson experience in distributed technologies such as Hadoop, Hive, Spark Experience in Scala programming language.
 			+ Publications in relevant top venues (e.g., KDD, NIPS, ICML, AAAI, IJCAI, ICDM, ACL etc.)
+			+ You have publications in communities such as WWW, SIGIR, FAT*, NeurIPS, WSDM, SIGDIAL, RecSys, CHI, KDD, AAAI, ACL, ICML, or related.
+			+ You have hands-on experience implementing production machine learning systems at scale in Java, Scala, Python, or similar languages. Experience with XGBoost, TensorFlow is also a plus.
+			+ You preferably have experience with data pipeline tools like Apache Beam or even our open source API for it, Scio and cloud platforms like GCP or AWS.
+			+ Extensive experience manipulating and analysing complex data with SQL, Python and/or R. Knowledge of Google BigQuery and Java/Scala is a plus.
+			+ Familiarity with marketing tracking platforms (e.g. DoubleClick, Google Tag Manager, Google Analytics) preferred
+			+  Become an expert on leveraging existing state-of-the-art tooling into the Spotify eco-system (TensorFlow, TFX, Kubeflow Pipelines, Cloud Bigtable)
+			+  Contribute to new and existing Spotify open source machine learning and data processing products (scio, zoltar)
+			+  You preferably have experience with data processing and storage frameworks like Google Cloud Dataflow, Hadoop, Scalding, Spark, Storm, Cassandra, Kafka, etc.
+			+ Extensive publication record at peer-reviewed ML conferences (e.g. NIPS, ICML, AISTATS, UAI, COLT, ICLR, AAAI, etc) as well conferences with applied ML (e.g. KDD, WSDM, WWW, CIKM, RecSys, etc).
 		* tech stack:
 			+ Security and privacy
 		    + Virtualization and container technologies (e.g., Xen and Docker)
