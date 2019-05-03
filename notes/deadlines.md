@@ -150,12 +150,6 @@ Fix mathematical proof for paper and implement processor subsystems.
 MTFD: Meet The Final Deadline; and, apply for [research internships](https://github.com/christine-hu/summer-2019-internships).
 
 
-+ **[ICCAD](https://iccad.com/): April 1 and 8, 2019.**
-+ **[ESWEEK](https://www.esweek.org): April 5 and 12, 2019.**
-	- ISSS+CODES, 300 word abstract.
-+ [ASAP](https://asap2019.csl.cornell.edu/): April 9 and 15, 2019.
-+ [PACT](http://pactconf.org/): April 11 and 15, 2019.
-+ [VLSI-SoC](https://vlsi-soc.pe/): April 18 and 25, 2019.
 + [CP 2019](http://cp2019.a4cp.org/): May 3 and 10, 2019.
 + [FMCAD](https://fmcad.forsyte.at/FMCAD19/): May 10 and 17, 2019.
 + **[NeurIPS 2019](https://nips.cc/): May 16 and 23, 2019.**
