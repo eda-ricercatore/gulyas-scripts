@@ -905,6 +905,20 @@ Flags for work-in-progress:
 	- Functional test automation tool experience is preferred (ex. Junit, TestNG, Serenity, etc.)
 	- Experience with profiling tools like PerfView (CPU, Memory, Garbage collection)
 	- Expert knowledge of debugging and crash dump analysis in Windbg
+	- Experience wrangling very large datasets by writing and maintaining data processing pipelines with Hadoop, Spark, BigQuery, Redshift, or similar
+	- Google Data Studio
+	- The successful candidate would be strong in SQL, AWS, Snowflake, Databricks, and Python.
+	- Experience with streaming data frameworks like spark streaming, kafka streaming, Flink and similar tools a plus.
+	- Experience with large scale messaging systems like Kafka or RabbitMQ or commercial systems.
+	- Experience with working with and operating workflow or orchestration frameworks, including open source tools like Airflow and Luigi or commercial enterprise tools.
+	- [Plus] Familiarity with interactive data visualization using tools like D3.js
+	- Experience with MPP databases, such as Snowflake, Redshift, BigQuery, Vertica, etc.
+	- A fluidity with tools commonly used for data analysis such as Python (numpy, pandas, and scikit learn), R, and Spark (MLlib).
+	- Experience with at least one prototyping tool (eg. Axure, Framer, Principle)
+	- Proficiency in developing pixel perfect mockups using Sketch and/or Adobe Design tools.
+	- Analyze all aspects of the Snowflake Query Engine and drive initiatives to understand what bottlenecks may exist and to improve them.  
+	- Experience with cloud APIs (e.g., a public cloud such as AWS, Azure, GCP or an advanced private cloud such as Google, Facebook)
+	- Prior experience with infrastructure automation frameworks (Ansible, Terraform, Chef or Puppet, etc.)
 	- tech stack:
 		* Well-versed in one or more of the following languages and functional programming in general: Scala, Java, Python, JavaScript
 		* Expert in SQL and comfortable designing, writing and maintaining complex SQL based ETL.
