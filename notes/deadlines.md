@@ -58,8 +58,9 @@ Fix mathematical proof for paper and implement processor subsystems.
 	- Submission deadline: June 5, 2019.
 + ICLR, International Conference on Learning Representations
 	- https://iclr.cc
+	- https://iclr.cc/Conferences/2019/CallForPapers
 	- VENUE
-	- Submission deadline: Late Oct, 2018. **When is the deadline???**
+	- Submission deadline: September 27, 2018.
 + ICML, International Conference on Machine Learning
 	- https://icml.cc/Conferences/2019/CallForPapers
 	- Long Beach, CA.
