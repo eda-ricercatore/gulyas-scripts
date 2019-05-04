@@ -851,6 +851,16 @@ Flags for work-in-progress:
 	- Spark and/or other big data architectures (Hadoop, MapReduce) in high-volume environments
 	- VM embeddings in other systems (e.g., DBMSs, Big Data frameworks, Microservices, etc.)
 	- Virtual machines: Managed runtime systems (e.g., JVM, Dalvik VM, Android Runtime (ART), LLVM, .NET CLR, RPython, etc.)
+	- tech stack:
+		* PHP5, PHP7, HTML5, CSS3, JavaScript, Jquery, MySQL, NoSql
+		* Should have in depth understanding in LAMP stack
+		* Must have Good OOP (Object Oriented Programming) concepts
+		* Knowledge in MVC Framework e.g (Zend Framework, Laravel)
+		* Clear understanding of JSON, AJAX, XML, CURL, Web Service
+		* Knowledge of the Linux command line tools optional
+		* Good to have experience in Angular JS and Node JS, concept of UI/UX
+		* Experience in handling large database, including designing & advanced querying in MySql
+		* Good knowledge of version control tools like GIT, SVN
 	- Versatile with languages and technologies. You pick the right technology for the job. You might have dabbled with iOS, Android, React Native or Flutter; you tinkered with TensorFlow, Caffe or Torch; you know when to use Mongo vs Redshift; and you have an opinion on web frameworks.
 	- OpenStack:
 		* Dashboard (Horizon)

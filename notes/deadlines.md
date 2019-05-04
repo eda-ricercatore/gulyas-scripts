@@ -152,12 +152,14 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 
 + [CP 2019](http://cp2019.a4cp.org/): May 9 and 15, 2019.
 + [FMCAD](https://fmcad.forsyte.at/FMCAD19/): May 10 and 17, 2019.
++ [NOCS 2019](https://www.engr.colostate.edu/nocs2019/): May 10 and 17, 2019.
 + **[NeurIPS 2019](https://nips.cc/): May 16 and 23, 2019.**
 + [HPEC](http://ieee-hpec.org): May 17, 2019.
 + [MEMOCODE'19](https://memocode.github.io/2019/): May 31 and June 7, 2019.
 + **[ICDM 2019](http://icdm2019.bigke.org/): June 5, 2019.**
 + [ICCD, IEEE International Conference on Computer Design](https://www.iccd-conf.com/Home.html): June 21 and 28, 2019.
 + [SPLASH 2019 PL Mentoring Workshop (PLMW)](https://2019.splashcon.org/track/splash-2019-PLMW): July 2019.
++ [International Workshop on Highly Efficient Neural Processing (HENP)](http://cmalab.snu.ac.kr/HENP2019): August 31, 2019.
 + *AAAI Conference on Artificial Intelligence: August/September 2019.*
 + **CVPR: November 2019.**
 + **IJCNN: December 2019.**
@@ -182,9 +184,10 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 
 
 
-+ RSP, International Symposium on Rapid System Prototyping
++ RSP, International Workshop on Rapid System Prototyping
 	- http://conferences.telecom-bretagne.eu/rsp-symposium/cfp/
-	- Torino, Italy
+	- New York, NY.
+	- Formerly, International Symposium on Rapid System Prototyping
 	- Submission deadline: June 11 and 18, 2019.
 
 
@@ -296,7 +299,7 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 + CGO, International Symposium on Code Generation and Optimization
 	- https://cgo-conference.github.io/cgo2020/
 	- San Diego, CA.
-	- Feb 22-26, 2019.
+	- Feb 22-26, 2020.
 	- Submission deadline: August 30 and September 6, 2019.
 
 
