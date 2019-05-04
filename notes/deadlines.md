@@ -150,7 +150,7 @@ Fix mathematical proof for paper and implement processor subsystems.
 MTFD: Meet The Final Deadline; and, apply for [research internships](https://github.com/christine-hu/summer-2019-internships).
 
 
-+ [CP 2019](http://cp2019.a4cp.org/): May 3 and 10, 2019.
++ [CP 2019](http://cp2019.a4cp.org/): May 9 and 15, 2019.
 + [FMCAD](https://fmcad.forsyte.at/FMCAD19/): May 10 and 17, 2019.
 + **[NeurIPS 2019](https://nips.cc/): May 16 and 23, 2019.**
 + [HPEC](http://ieee-hpec.org): May 17, 2019.
@@ -195,18 +195,18 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 
 
 + IEEE Sensors, IEEE Conference on Sensors
-	- http://ieee-sensors2018.org
-	- New Delhi, India.
-	- Submission deadline: June 18, 2018.
+	- https://ieee-sensors2019.org/
+	- Montreal, Canada.
+	- Submission deadline: June 18, 2019.
 
 
 
 
 + ICFP, International Conference on Functional Programming
-	- https://icfp18.sigplan.org/dates
+	- https://conf.researchr.org/home/icfp-2019
 	- http://www.icfpconference.org/contest.html
-	- St. Louis, MO.
-	- Submission deadline: June 22, 2018.
+	- Berlin, Germany.
+	- Submission deadline: May 10, 2019.
 
 
 
@@ -293,10 +293,10 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 
 
 + CGO, International Symposium on Code Generation and Optimization
-	- http://cgo.org/cgo2019/
-	- Washington DC
-	- Feb 16-20, 2019
-	- Submission deadline: August 31 and September 7, 2018.
+	- https://cgo-conference.github.io/cgo2020/
+	- San Diego, CA.
+	- Feb 22-26, 2019.
+	- Submission deadline: August 30 and September 6, 2019.
 
 
 
@@ -1159,7 +1159,7 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 	- http://cp2019.a4cp.org/
 	- Stamford, CT.
 	- September 30 - October 4, 2019.
-	- Submission deadline: May 3 and 10, 2019.
+	- Submission deadline: May 9 and 15, 2019.
 
 
 
