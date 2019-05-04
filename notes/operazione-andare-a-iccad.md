@@ -917,6 +917,7 @@ Flags for work-in-progress:
 	- Experience with at least one prototyping tool (eg. Axure, Framer, Principle)
 	- Proficiency in developing pixel perfect mockups using Sketch and/or Adobe Design tools.
 	- Analyze all aspects of the Snowflake Query Engine and drive initiatives to understand what bottlenecks may exist and to improve them.  
+	- Build integration code with many cutting-edge technologies and processes, including Python 3, Go, Presto, AWS, ML, NLP.
 	- Experience with cloud APIs (e.g., a public cloud such as AWS, Azure, GCP or an advanced private cloud such as Google, Facebook)
 	- Prior experience with infrastructure automation frameworks (Ansible, Terraform, Chef or Puppet, etc.)
 	- tech stack:
