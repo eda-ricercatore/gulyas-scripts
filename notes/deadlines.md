@@ -212,10 +212,10 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 
 
 + SLE, International Conference on Software Language Engineering
-	- http://www.sleconf.org/2018/Dates.html
-	- http://www.sleconf.org/2018/CFP.html
-	- Boston, MA
-	- Submission deadline: June 29 and July 6, 2018.
+	- http://www.sleconf.org/2019/Dates.html
+	- http://www.sleconf.org/2019/CFP.html
+	- Athens, Greece.
+	- Submission deadline: June 14 and June 21, 2019.
 
 
 + ASP-DAC, Asia and South Pacific Design Automation Conference
