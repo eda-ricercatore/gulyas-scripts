@@ -859,6 +859,11 @@ Flags for work-in-progress:
 	- Domain knowledge and project experience in below area will be a plus: x86 architecture; Linux kernel; Virtualization; Cloud SW stacks; Big data; Machine Learning, compiler and run time optimization, etc.
 	- Knowledge of Linux and/or Windows programming and computer graphics including OpenCL\*, OpenGL\*, DirectX\*
 	- tech stack:
+		* Knowledge of dsx, IGC, and IA
+		* Web service development with NodeJS (Backend server Javascript), front-end Javascript and Flask (Open source python library)
+		* Both relational database and NoSQL database technologies
+		* The main responsibility will be to enable different personas like Data Scientist, Data Curator, and Data Engineer to collaborate with each other on their Data Journey and work with various products like dsx, IGC, IA, and DFD.
+	- tech stack:
 		* PHP5, PHP7, HTML5, CSS3, JavaScript, Jquery, MySQL, NoSql
 		* Should have in depth understanding in LAMP stack
 		* Must have Good OOP (Object Oriented Programming) concepts
