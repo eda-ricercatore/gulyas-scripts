@@ -851,6 +851,13 @@ Flags for work-in-progress:
 	- Spark and/or other big data architectures (Hadoop, MapReduce) in high-volume environments
 	- VM embeddings in other systems (e.g., DBMSs, Big Data frameworks, Microservices, etc.)
 	- Virtual machines: Managed runtime systems (e.g., JVM, Dalvik VM, Android Runtime (ART), LLVM, .NET CLR, RPython, etc.)
+	- We preferred students experienced in the use of ROS (Robot Operating System) and simulation engines such as Unity3D and Unreal Engine 4.
+	- ***Knowledge of parallelism in shared (Intel TBB, OpenMP) and distributed (Intel MPI, Apache Spark, Dask) memory***
+	- Speech (NLP: ASR, MT, NLP, NLU, TTS, DM, and ASP)
+	- Knowledge of OpenCL/SYCL languages
+	- ***Experience with large-scale, distributed data processing frameworks (e.g., Spark, Kafka, YARN, Tachyon, Mesos, etc.) is a plus***
+	- Domain knowledge and project experience in below area will be a plus: x86 architecture; Linux kernel; Virtualization; Cloud SW stacks; Big data; Machine Learning, compiler and run time optimization, etc.
+	- Knowledge of Linux and/or Windows programming and computer graphics including OpenCL\*, OpenGL\*, DirectX\*
 	- tech stack:
 		* PHP5, PHP7, HTML5, CSS3, JavaScript, Jquery, MySQL, NoSql
 		* Should have in depth understanding in LAMP stack
