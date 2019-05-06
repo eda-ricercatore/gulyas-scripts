@@ -858,6 +858,10 @@ Flags for work-in-progress:
 	- ***Experience with large-scale, distributed data processing frameworks (e.g., Spark, Kafka, YARN, Tachyon, Mesos, etc.) is a plus***
 	- Domain knowledge and project experience in below area will be a plus: x86 architecture; Linux kernel; Virtualization; Cloud SW stacks; Big data; Machine Learning, compiler and run time optimization, etc.
 	- Knowledge of Linux and/or Windows programming and computer graphics including OpenCL\*, OpenGL\*, DirectX\*
+	- ***Open-source projects that demonstrate relevant skills  and/or publications in relevant conferences and journals (e.g. NIPS, ICML, ICLR, CVPR, ICCV, ECCV, ICASSP)***
+	- ***Experience working with analytics tools such as Google Analytics, Heap Analytics, Chartmogul, Baremetrics, Periscope, Tableau, Mode Analytics, Looker, or similar***
+	- tech stack: Golang, AWS (DynamoDB, Lambda, EC2, Kinesis, SQS, S3), ReactJS, Snowflake, Terraform, Redis, SolrCloud, Kafka, Riak, Docker/Kubernetes, and Linux
+	- You know what the CAP theorem is and you feel confident that you can speak to what it does and does not cover in systems design.
 	- tech stack:
 		* Knowledge of dsx, IGC, and IA
 		* Web service development with NodeJS (Backend server Javascript), front-end Javascript and Flask (Open source python library)
