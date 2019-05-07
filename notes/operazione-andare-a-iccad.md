@@ -861,7 +861,26 @@ Flags for work-in-progress:
 	- ***Open-source projects that demonstrate relevant skills  and/or publications in relevant conferences and journals (e.g. NIPS, ICML, ICLR, CVPR, ICCV, ECCV, ICASSP)***
 	- ***Experience working with analytics tools such as Google Analytics, Heap Analytics, Chartmogul, Baremetrics, Periscope, Tableau, Mode Analytics, Looker, or similar***
 	- tech stack: Golang, AWS (DynamoDB, Lambda, EC2, Kinesis, SQS, S3), ReactJS, Snowflake, Terraform, Redis, SolrCloud, Kafka, Riak, Docker/Kubernetes, and Linux
+	- tech stack:
+		*  Solid knowledge in control theory, especially model predictive control
+		* Experience in one or more of the following areas:
+			+ Robust control
+			+ Adaptive control
+			+ Nonlinear control
+			+ State estimation
+			+ Parameter estimation
+			+ Model identification
+			+ Optimization
+		* Experience in one or more of the following areas:
+			+ Control theory
+			+ Motion planning
+			+ Optimization
+			+ Formal logic
+			+ Game AI development
+		* Experience with sensors: cameras, lidars, ultrasonic, etc.
+		* Computer vision experience, image processing experience
 	- You know what the CAP theorem is and you feel confident that you can speak to what it does and does not cover in systems design.
+	- Expert in prototyping traditional ML (GBMs, scikit, etc.) and AI frameworks (keras, tensorflow, mxnet, pytorch, etc.) for a variety of applications
 	- tech stack:
 		* Knowledge of dsx, IGC, and IA
 		* Web service development with NodeJS (Backend server Javascript), front-end Javascript and Flask (Open source python library)
@@ -1168,6 +1187,9 @@ Flags for work-in-progress:
 			+ Systems for machine learning training and inference (Tensorflow, MXNet, Caffe etc)
 			+ Storage systems
 		* Experience with open source platforms like Hadoop, Spark, Hive, Pig; and/or ML life-cycle/collaboration/automation platforms like AirFlow, FB Learner, MLFlow; and/or assistants like Alexa, a plus.
+		* "Knowledge of Bayesian Global Optimization tools and technique"
+		* Working with Big Data, ML, AI. Keras, TensorFlow, Python, Redshift, S3, Spark, Random Forests and Vowpal Wabbit
+		* Experience implementing production-ready machine learning solutions is a plus
 		* You’ll lead, analyze, implement, and socialize a robust A/B/multivariate testing program, collaborating closely with product, engineering, marketing, and content.
 		* You’re familiar with all aspects of SEO: on-page, external, and technical, and you have used tools such as ahrefs, DeepCrawl, Screaming Frog, SEMRush, and Google Search Console to optimize for search.
 		* Set of skills:
@@ -1268,6 +1290,11 @@ Flags for work-in-progress:
 		hardware (VLSI system).
 + Implement my solution for adversarial machine learning using NBL.
 
+
+
+
+Funny lines in job descriptions:
++ ["Frequently caught reading and engaging too much in AI/ML banter"](https://jobs.lever.co/sigopt/b172f247-6185-43e3-bc18-4a79f243122a), last viewed May 7, 2019. Jobs with SigOpt
 
 
 
