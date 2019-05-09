@@ -1125,6 +1125,32 @@ Flags for work-in-progress:
 		* Extensive experience manipulating and analyzing complex data with SQL, Python and/or R. Knowledge of Google BigQuery and Java/Scala is a plus.
 		* Tools: Slurm, Docker, Grafana.
 		* skill set:
+			+ Bachelor’s degree in Computer Science, Math, Statistics, Economics, or other quantitative field; Masters or PhD strongly preferred
+			+ Significant experience in custom ETL design, implementation and maintenance, including serving machine learning models in production for multiple high-growth companies, preferably those with technical products
+			+ Track record of developing and evolving complex data environments and intelligence platforms for business users
+			+ Demonstrable ability to relate high-level business requirements to technical ETL and data infrastructure needs, including underlying data models and scripts
+			+ History of proactively identifying forward-looking data engineering strategies, utilizing cutting-edge technologies, and implementing at scale
+			+ Hands-on experience with schema design and dimensional data modeling
+			+ Understanding of statistical modeling, machine learning and data mining concepts
+			+ Demonstrable critical thinking and analytical skills, including the ability and confidence to make conclusions and recommendations from data
+			+ Experience interacting with key stakeholders in different fields, interpreting challenges and opportunities into actionable engineering strategies
+			+ Experience with Big Data/distributed frameworks such as Spark, Kubernetes, Hadoop, Hive, Presto,
+			+ Experience with job schedulers; Airflow, Luigi, Azkaban, etc.
+			+ Experience with continuous integration and automation tools and processes
+			+ Advanced SQL and relational database knowledge (MySQL, PostgreSQL) in addition to warehousing and dimension modeling
+			+ Scripting in Python required, experience with Scala/Go a plus
+			+ Programming against APIs required
+			+ Experience with Snowflake and/or Looker a plus
+			+ Effective communication and interpersonal skills
+		* skill set:
+			+ Bachelor’s degree in Computer Science, Math, Statistics, Economics, or other quantitative field; Masters or PhD strongly preferred
+			+ Previous experience in data science or quantitative analytics role, preferably in a high-growth company
+			+ Comprehensive understanding of statistical modeling, machine learning and data mining concepts, and experience applying these methods within a business environment
+			+ Strong knowledge of Python. Familiarity with at least one statistical modeling / machine learning tool such as R or Matlab is a plus, as well as experience with languages such as Scala or Go
+			+ Expert knowledge of, and hands-on experience with, SQL
+			+ Demonstrable critical thinking and analytical skills, including the ability and confidence to make conclusions and recommendations from data
+			+ Experience interacting with key stakeholders in different fields, interpreting challenges and opportunities into actionable data-driven analysis and implementing science-driven data products
+		* skill set:
 			+ Agile development approaches
 				- Lean-startup and design-thinking inspired methods incorporating short product development, business-hypothesis-driven experimentation, iterative product releases, and validated learning
 			+ Programming languages and operating systems
@@ -1180,7 +1206,7 @@ Flags for work-in-progress:
 			+ Extensive publication record at peer-reviewed ML conferences (e.g. NIPS, ICML, AISTATS, UAI, COLT, ICLR, AAAI, etc) as well conferences with applied ML (e.g. KDD, WSDM, WWW, CIKM, RecSys, etc).
 		* tech stack:
 			+ Security and privacy
-		    + Virtualization and container technologies (e.g., Xen and Docker)
+			+ Virtualization and container technologies (e.g., Xen and Docker)
 			+ Cloud services (e.g., AWS and Azure)
 			+ Distributed programming tools (e.g., Hadoop, Cassandra, and ZooKeeper)
 			+ In-home wireless network protocols (WiFi, Bluetooth, Zigbee, and Z-wave)
