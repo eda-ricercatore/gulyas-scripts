@@ -11,9 +11,9 @@ Fix mathematical proof for paper and implement processor subsystems.
 
 + AAAI, AAAI Conference on Artificial Intelligence
 	- http://www.aaai.org/Conferences/conferences.php
-	- https://aaai.org/Conferences/AAAI-19/
-	- Honolulu, Hawaii, U.S.A.
-	- Submission deadline: **August 30 and September 5, 2018**
+	- https://aaai.org/Conferences/AAAI-20/
+	- New York, NY.
+	- Submission deadline: ????**August 30 and September 5, 2018**???? To be updated.
 + IAAI 2019, Innovative Applications of Artificial Intelligence Conference
 	- https://aaai.org/Conferences/AAAI-19/iaai-19/iaai-19-call/
 	- Same venue as AAAI 2019.
@@ -152,7 +152,7 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 
 
 + [CP 2019](http://cp2019.a4cp.org/): May 9 and 15, 2019.
-+ [FMCAD](https://fmcad.forsyte.at/FMCAD19/): May 10 and 17, 2019.
++ [FMCAD](https://fmcad.forsyte.at/FMCAD19/): May 17 and 24, 2019. (Extended)
 + [NOCS 2019](https://www.engr.colostate.edu/nocs2019/): May 10 and 17, 2019.
 + **[NeurIPS 2019](https://nips.cc/): May 16 and 23, 2019.**
 + [HPEC](http://ieee-hpec.org): May 17, 2019.
@@ -161,7 +161,7 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 + [ICCD, IEEE International Conference on Computer Design](https://www.iccd-conf.com/Home.html): June 21 and 28, 2019.
 + [SPLASH 2019 PL Mentoring Workshop (PLMW)](https://2019.splashcon.org/track/splash-2019-PLMW): July 2019.
 + [International Workshop on Highly Efficient Neural Processing (HENP)](http://cmalab.snu.ac.kr/HENP2019): August 31, 2019.
-+ *AAAI Conference on Artificial Intelligence: August/September 2019.*
++ *[AAAI Conference on Artificial Intelligence](https://aaai.org/Conferences/AAAI-20/): August/September 2019.*
 + **CVPR: November 2019.**
 + **IJCNN: December 2019.**
 
@@ -1189,7 +1189,8 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 	- https://fmcad.forsyte.at/FMCAD19/
 	- San Jose, California.
 	- October 22-25, 2019.
-	- Submission deadline: May 10 and 17, 2019.
+	- Submission deadline: ~~May 10 and 17, 2019.~~ May 17 and 24, 2019. (Extended)
+
 
 
 + HPEC, IEEE High Performance Extreme Computing Conference
