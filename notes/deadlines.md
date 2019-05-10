@@ -1200,8 +1200,10 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 
 + IISWC, IEEE International Symposium on Workload Characterization
 	- http://www.iiswc.org/
-	- VENUE???
-	- Submission deadline: Early May 2019
+	- http://www.iiswc.org/iiswc2019/index.html
+	- Orlando, FL.
+	- November 3-5, 2019
+	- Submission deadline: May 24 and 31, 2019
 
 + HiPEAC 2020, International Conference on High-Performance and Embedded Architectures and Compilers
 	- URL
