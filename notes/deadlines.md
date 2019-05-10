@@ -152,10 +152,10 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 
 
 + [CP 2019](http://cp2019.a4cp.org/): May 9 and 15, 2019.
-+ [FMCAD](https://fmcad.forsyte.at/FMCAD19/): May 17 and 24, 2019. (Extended)
 + [NOCS 2019](https://www.engr.colostate.edu/nocs2019/): May 10 and 17, 2019.
 + **[NeurIPS 2019](https://nips.cc/): May 16 and 23, 2019.**
 + [HPEC](http://ieee-hpec.org): May 17, 2019.
++ [FMCAD](https://fmcad.forsyte.at/FMCAD19/): May 17 and 24, 2019. (Extended)
 + [MEMOCODE'19](https://memocode.github.io/2019/): May 31 and June 7, 2019.
 + **[ICDM 2019](http://icdm2019.bigke.org/): June 5, 2019.**
 + [ICCD, IEEE International Conference on Computer Design](https://www.iccd-conf.com/Home.html): June 21 and 28, 2019.
