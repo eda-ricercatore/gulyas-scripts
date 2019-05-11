@@ -3209,7 +3209,7 @@ From \cite[\8.5 User-defined Exceptions]{Brandl2017a}:
 + "The exception instance arguments stored in .args __str__ allows args to be printed directly, but may be overridden in exception subclasses"
 + "When an exception occurs, it may have an associated value, also known as the exception's argument. The presence and type of the argument depend on the exception type."
 + "The except clause may specify a variable after the exception name. The variable is bound to an exception instance with the arguments stored in instance.args. For convenience, the exception instance defines __str__|() so the arguments can be printed directly without having to reference .args. One may also instantiate an exception first before raising it and add any attributes to it as desired."
-
++ "This must be either an exception instance or an exception class (a class that derives from Exception). If an exception class is passed, it will be implicitly instantiated by calling its constructor with no arguments: ***raise ValueError  # shorthand for 'raise ValueError()'***"
 
 
 
