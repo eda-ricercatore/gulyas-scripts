@@ -3202,14 +3202,28 @@ With **try...except...else...finally** statements, statements in the **finally**
 When propagated exceptions cause the *Python* program to halt, use the *stack
 	trace* to determine what happened \cite[Chapter 8, pp. 168]{Hetland2005}.
 
-From \cite[\8.5 User-defined Exceptions]{Brandl2017a}:
+From \cite[\S8.3 Handling Exceptions]{Brandl2017a}:
 + "A class in an except clause is compatible with an exception if it is the same class or a base class thereof (but not the other way around — an except clause listing a derived class is not compatible with a base class)."
 + "If an exception occurs which does not match the exception named in the except clause, it is passed on to outer try statements; if no handler is found, it is an unhandled exception and execution stops with a message."
 + "The try ... except statement has an optional else clause, which, when present, must follow all except clauses. It is useful for code that must be executed if the try clause does not raise an exception."
 + "The exception instance arguments stored in .args __str__ allows args to be printed directly, but may be overridden in exception subclasses"
 + "When an exception occurs, it may have an associated value, also known as the exception's argument. The presence and type of the argument depend on the exception type."
 + "The except clause may specify a variable after the exception name. The variable is bound to an exception instance with the arguments stored in instance.args. For convenience, the exception instance defines __str__|() so the arguments can be printed directly without having to reference .args. One may also instantiate an exception first before raising it and add any attributes to it as desired."
+
+
+
+From \cite[\S8.4 Raising Exceptions]{Brandl2017a}:
 + "The sole argument to raise indicates the exception to be raised. This must be either an exception instance or an exception class (a class that derives from Exception). If an exception class is passed, it will be implicitly instantiated by calling its constructor with no arguments: ***raise ValueError  # shorthand for 'raise ValueError()'***"
+
+
+
+
+From \cite[\S8.5 User-defined Exceptions]{Brandl2017a}:
+
+
+
+
+
 
 
 
