@@ -1024,7 +1024,39 @@ Flags for work-in-progress:
 		* Experience working with large data sets and distributed computing tools (e.g. Redshift, Presto)
 		* Experience pushing code and navigating a complex codebase
 		* Active Quora user with curiosity about the product
+	- Deep experience with MySQL, NoSQL datastores like HBase or similar
 	- Strong grasp of Configuration Management (Chef, Puppet, Ansible, Salt Stack)
+	- skills to develop:
+		* Deep understanding of at least one popular server side MVC Framework (e.g Django, Rails, AngularJS etc).
+		* Knowledge of backend storage systems like MySQL, HBase, Memcached, Redis, Kafka etc.
+		* Experience working with open source technologies like Kafka, Hadoop, Hive, Presto, and Spark
+		* Take end to end ownership of Machine Learning systems - from data pipelines and training, to realtime prediction engines.
+		* General understanding of Machine Learning at the level of a semester-long ML class (college or multiple MOOCs)
+	- skill set:
+		* Deep knowledge of web technologies, e.g. HTML, CSS. Experience with LESS or SASS is a plus.
+		* Deep knowledge of JavaScript frameworks, e.g. jQuery. Experience with pure Javascript is a plus.
+		* Some knowledge of server-side languages and web frameworks. Experience with Python is a plus.
+		* Experience debugging across multiple browsers. Experience with UI testing tools like Selenium or phantomJS is a plus.
+		* Experience optimizing the speed and performance of websites.
+		* Experience maintaining large and growing code bases in a fast-moving environment.
+		* Interest in staying current with new and evolving web technologies.
+	- skill set:
+		* 7+ years of industry/academic experience in Machine Learning or related field
+		* You will be expected to have a good understanding of a broad range of traditional supervised and unsupervised techniques (e.g. logistic regression, SVMs, GBDTs, Random Forests, k-means and other clustering techniques, matrix factorization, LDA . . .) as well as be up to date with latest ML advances (e.g. Deep Neural Networks, or non-parametric Bayesian methods).
+		* Previous experience building end to end scalable Machine Learning systems
+		* Software engineering skills. Knowledge of Python and C++ is a plus.
+		* Knowledge of existing open source frameworks such as scikit-learn, Torch, Caffe, or Theano is a plus
+		* BS, MS, or PhD in Computer Science, Engineering, Statistics or a related technical field
+		* Love of the Quora product
+	- skill set:
+		* BS, MS or PhD in Computer Science, Machine Learning, NLP or a related technical field
+		* 5+ years of industry experience preferred
+		* Good mathematical understanding of popular NLP and Machine Learning algorithms
+		* Experience building production-ready NLP or information retrieval systems
+		* Hands-on experience with NLP tools, libraries and corpora (e.g. NLTK, Stanford CoreNLP, Wikipedia corpus, etc)
+		* Knowledge of Python or C++, or the ability to learn them quickly
+		* Love of the Quora product
+	- ***Expertise in multivariate analysis, graphical models, Bayesian hierarchical modelling, Markov chain Monte Carlo (MCMC), mixture models, stochastic processes, generalized linear models (GLMs), dimensionality reduction (PCA/CCA/MDS/tSNE) and other machine learning techniques***
 	- stress testing (locust.io)
 	- designing high availability systems
 	- application security hardening
