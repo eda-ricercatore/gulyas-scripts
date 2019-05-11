@@ -984,6 +984,8 @@ Flags for work-in-progress:
 	- Build integration code with many cutting-edge technologies and processes, including Python 3, Go, Presto, AWS, ML, NLP.
 	- Experience with cloud APIs (e.g., a public cloud such as AWS, Azure, GCP or an advanced private cloud such as Google, Facebook)
 	- Prior experience with infrastructure automation frameworks (Ansible, Terraform, Chef or Puppet, etc.)
+	- ***Experience with one of the ML platforms: Python / scikit-learn, Spark, vowpal wabbit, etc***
+	- Virtualization and containerization (Xen, LXC, cgroups, Docker, Kubernetes)
 	- tech stack:
 		* Well-versed in one or more of the following languages and functional programming in general: Scala, Java, Python, JavaScript
 		* Expert in SQL and comfortable designing, writing and maintaining complex SQL based ETL.
@@ -999,6 +1001,29 @@ Flags for work-in-progress:
 		* Presto or Hive
 		* Spark
 	- Knowledge of source control tools (Git, CodeCommit, SVN, and TFS), build/release tools (Jenkins, CodeBuild, CodeDeploy, CodePipeline), and infrastructure as code tools (Terraform, CloudFormation)
+	- Experience in working with large data sets and distributed computing tools (Hive, Redshift)
+	- skill set:
+		* B.S. or M.S. in Economics, Statistics, or a similar field and 1+ year work experience in data science or analytics, or Ph.D. in a quantitative social/behavioral science (e.g. Economics, Sociology, Psychology, Statistics, or a similar field)
+		* Coursework in experimental design, causal inference, and/or econometrics
+		* Experience running and analyzing behavioral experiments
+		* Statistical intuition and knowledge of various hypothesis testing and regression approaches, e.g. hierarchical modeling, difference-in-differences
+		* Familiarity with Python or similar scripting language
+		* Experience communicating technical statistical concepts clearly, for example, teaching or consulting
+		* Demonstrated ability working effectively with cross-functional teams
+		* Experience using git and pushing to a codebase
+		* Experience with software engineering projects or coursework
+	- skill set:
+		* B.S., M.S., or Ph.D. in a quantitative field
+		* 4+ years work experience in an analytical or quantitative role as a Data Scientist
+		* 2+ years experience working on product analytics in a two-sided marketplace
+		* Extensive experience generating insights using statistical techniques (e.g. regression, hypothesis testing)
+		* Demonstrated ability to clearly explain data results to cross-functional teams
+		* Experience using a procedural programming language (e.g. Python, R) to manipulate, clean, and analyze data
+		* Ability to exercise judgment and combine quantitative skills with intuition and common sense
+		* Experience evangelizing best practices and process improvements on your team
+		* Experience working with large data sets and distributed computing tools (e.g. Redshift, Presto)
+		* Experience pushing code and navigating a complex codebase
+		* Active Quora user with curiosity about the product
 	- Strong grasp of Configuration Management (Chef, Puppet, Ansible, Salt Stack)
 	- stress testing (locust.io)
 	- designing high availability systems

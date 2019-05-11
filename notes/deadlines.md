@@ -1206,9 +1206,10 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 	- Submission deadline: May 24 and 31, 2019
 
 + HiPEAC 2020, International Conference on High-Performance and Embedded Architectures and Compilers
-	- URL
-	- VENUE
-	- Submission deadline: Late May or Early June, 2019
+	- https://www.hipeac.net/2020/bologna/#/
+	- Bologna, Italy.
+	- January 20-22, 2020.
+	- Submission deadline: June 1, 2019.
 
 
 + MEMOCODE'19, ACM-IEEE International Conference on Formal Methods and Models for System Design
