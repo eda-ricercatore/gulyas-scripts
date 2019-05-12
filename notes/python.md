@@ -3204,8 +3204,14 @@ When propagated exceptions cause the *Python* program to halt, use the *stack
 
 From \cite[\S8.3 Handling Exceptions]{Brandl2017a}:
 + "A class in an except clause is compatible with an exception if it is the same class or a base class thereof (but not the other way around — an except clause listing a derived class is not compatible with a base class)."
++ "If no exception occurs, the except clause is skipped and execution of the try statement is finished."
++ "If an exception occurs during execution of the try clause, the rest of the clause is skipped. Then if its type matches the exception named after the except keyword, the except clause is executed, and then execution continues after the try statement."
 + "If an exception occurs which does not match the exception named in the except clause, it is passed on to outer try statements; if no handler is found, it is an unhandled exception and execution stops with a message."
++ "A try statement may have more than one except clause, to specify handlers for different exceptions. At most one handler will be executed. Handlers only handle exceptions that occur in the corresponding try clause, not in other handlers of the same try statement. An except clause may name multiple exceptions as a parenthesized tuple."
++ "A class in an except clause is compatible with an exception if it is the same class or a base class thereof (but not the other way around - an except clause listing a derived class is not compatible with a base class)."
++ "The last except clause may omit the exception name(s), to serve as a wildcard. Use this with extreme caution, since it is easy to mask a real programming error in this way! It can also be used to print an error message and then re-raise the exception (allowing a caller to handle the exception as well)."
 + "The try ... except statement has an optional else clause, which, when present, must follow all except clauses. It is useful for code that must be executed if the try clause does not raise an exception."
++ "The use of the else clause is better than adding additional code to the try clause because it avoids accidentally catching an exception that wasn't raised by the code being protected by the try ... except statement."
 + "The exception instance arguments stored in .args __str__ allows args to be printed directly, but may be overridden in exception subclasses"
 + "When an exception occurs, it may have an associated value, also known as the exception's argument. The presence and type of the argument depend on the exception type."
 + "The except clause may specify a variable after the exception name. The variable is bound to an exception instance with the arguments stored in instance.args. For convenience, the exception instance defines __str__|() so the arguments can be printed directly without having to reference .args. One may also instantiate an exception first before raising it and add any attributes to it as desired."
@@ -3219,11 +3225,15 @@ From \cite[\S8.4 Raising Exceptions]{Brandl2017a}:
 
 
 From \cite[\S8.5 User-defined Exceptions]{Brandl2017a}:
++ "Exception classes can be defined which do anything any other class can do, but are usually kept simple, often only offering a number of attributes that allow information about the error to be extracted by handlers for the exception."
++ "When creating a module that can raise several distinct errors, a common practice is to create a base class for exceptions defined by that module, and subclass that to create specific exception classes for different error conditions"
 
-
-
-
-
+From \cite[\S8.6 Defining Clean-up Actions]{Brandl2017a}:
++ "The try statement has another optional clause (the finally clause) which is intended to define clean-up actions that must be executed under all circumstances."
++ "A finally clause is always executed before leaving the try statement, whether an exception has occurred or not. When an exception has occurred in the try clause and has not been handled by an except clause (or it has occurred in an except or else clause), it is re-raised after the finally clause has been executed."
++ "The finally clause is also executed `on the way out' when any other clause of the try statement is left via a break, continue or return statement."
++ "The finally clause is executed in any event."
++ "In real world applications, the finally clause is useful for releasing external resources (such as files or network connections), regardless of whether the use of the resource was successful."
 
 
 
