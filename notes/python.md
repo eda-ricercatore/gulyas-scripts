@@ -3248,7 +3248,7 @@ From \cite[\S8.7 Predefined Clean-up Actions]{Brandl2017a}:
 
 
 ![Illustration of the try-except-else-finally block in *Python*](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/pics/try-except-else-finally-block.jpg)
-
+Figure 1, Illustration of the try-except-else-finally block in *Python*.
 
 
 
