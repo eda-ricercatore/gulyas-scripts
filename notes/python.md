@@ -3228,12 +3228,30 @@ From \cite[\S8.5 User-defined Exceptions]{Brandl2017a}:
 + "Exception classes can be defined which do anything any other class can do, but are usually kept simple, often only offering a number of attributes that allow information about the error to be extracted by handlers for the exception."
 + "When creating a module that can raise several distinct errors, a common practice is to create a base class for exceptions defined by that module, and subclass that to create specific exception classes for different error conditions"
 
+
+
+
+
 From \cite[\S8.6 Defining Clean-up Actions]{Brandl2017a}:
 + "The try statement has another optional clause (the finally clause) which is intended to define clean-up actions that must be executed under all circumstances."
 + "A finally clause is always executed before leaving the try statement, whether an exception has occurred or not. When an exception has occurred in the try clause and has not been handled by an except clause (or it has occurred in an except or else clause), it is re-raised after the finally clause has been executed."
 + "The finally clause is also executed `on the way out' when any other clause of the try statement is left via a break, continue or return statement."
 + "The finally clause is executed in any event."
 + "In real world applications, the finally clause is useful for releasing external resources (such as files or network connections), regardless of whether the use of the resource was successful."
+
+
+From \cite[\S8.7 Predefined Clean-up Actions]{Brandl2017a}:
++ "The with statement allows objects like files to be used in a way that ensures they are always cleaned up promptly and correctly."
++ From \cite{Brandl2017a}: [\S8 Errors and Exceptions](https://docs.python.org/3/tutorial/errors.html)
+
+
+
+
+[]()
+
+
+
+
 
 
 
