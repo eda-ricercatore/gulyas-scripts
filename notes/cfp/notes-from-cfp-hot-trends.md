@@ -226,3 +226,38 @@ FastPath 2014 was held in conjunction with ISPASS 2014. Full-day with 3 invited 
 FastPath 2013 was held in conjunction with ISPASS 2013. Full-day with 1 keynote speaker, 6 invited speakers and 1 Regular speaker.
 
 FastPath 2012 was held in conjunction with ISPASS 2012. Half-day with 1 keynote speaker and 3 invited speakers.
+
+
+
+#	Workshop on Attacks and Solutions in Hardware Security (ASHES 2019)
+
++ Fault injection, side channels, hardware Trojans, and countermeasures
++ Tamper sensing and tamper protection
++ New physical attack vectors or methods
++ Biometrics
++ Secure sensors
++ Device fingerprinting and hardware forensics
++ Lightweight hardware solutions
++ Secure, efficient, and lightweight hardware implementations
++ Security of reconfigurable and adaptive hardware
++ Emerging computing technologies in security
++ New designs and materials in hardware security
++ Nanophysics and nanotechnology in hardware security
++ Physical unclonable functions and new/emerging variants thereof
++ Item tagging, secure supply chains, and product piracy
++ Intellectual property protection and content protection
++ Scalable hardware solutions for large numbers of players/endpoints
++ Hardware security and machine learning: Secure hardware implementations of machine learning algorithms, machine learning in side channel attacks, etc.
++ Hardware security in emerging application scenarios: Internet of Things, smart home, automotive and autonomous systems, wearable computing, pervasive and ubiquitous computing, etc.
++ Architectural factors and hardware security in the cloud
++ Electronic voting machines
++ Nuclear weapons inspections and control
++ Physical layer and wireless network security
++ Anti-forensic attacks and protection: Hardware virtualization, anti-forensic resilient memory acquisition, etc.
++ Mobile devices, smart cards, and chip cards
++ Architectural factors in hardware security, isolation versus encryption
++ Secure hardware for multiparty computation
++ Integration of hardware root of trust and PUFs
++ Quality metrics for secure hardware
++ Conformance and evaluation of secure hardware
++ Formal treatments, proofs, standardization, or categorization of hardware-related techniques
