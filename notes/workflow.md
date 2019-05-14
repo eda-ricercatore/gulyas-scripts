@@ -13,6 +13,8 @@ Execute the following commands in *Terminal* application of a UNIX-like operatin
 	conda update anaconda
 
 
+As of May 14, 2019, arvo (U.S. PDT), I cannot successfully run the command *conda update anaconda*.
+
 
 
 
