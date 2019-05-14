@@ -3252,6 +3252,9 @@ Figure 1, Illustration of the try-except-else-finally block in *Python*.
 
 
 
+The *Python* Exception class hierarchy is described in \cite{PowellMorse2017} and \cite[From Learn Python Programming, The Definitive Guide: Python Errors and Built-in Exceptions]{ParewaLabsStaff20XY}.
+
+
 
 
 

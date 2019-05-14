@@ -1056,6 +1056,7 @@ Flags for work-in-progress:
 		* Hands-on experience with NLP tools, libraries and corpora (e.g. NLTK, Stanford CoreNLP, Wikipedia corpus, etc)
 		* Knowledge of Python or C++, or the ability to learn them quickly
 		* Love of the Quora product
+	- ***Experience building shallow or deep learning models (GBDT, CNN, RNN, LSTM), toolkits e.g. OpenCV, Matlab, RStudio, Weka, MLLib and frameworks PyTorch, TensorFlow, CNTK***
 	- ***Expertise in multivariate analysis, graphical models, Bayesian hierarchical modelling, Markov chain Monte Carlo (MCMC), mixture models, stochastic processes, generalized linear models (GLMs), dimensionality reduction (PCA/CCA/MDS/tSNE) and other machine learning techniques***
 	- stress testing (locust.io)
 	- designing high availability systems
