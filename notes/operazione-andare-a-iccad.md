@@ -1058,6 +1058,13 @@ Flags for work-in-progress:
 		* Love of the Quora product
 	- ***Experience building shallow or deep learning models (GBDT, CNN, RNN, LSTM), toolkits e.g. OpenCV, Matlab, RStudio, Weka, MLLib and frameworks PyTorch, TensorFlow, CNTK***
 	- ***Expertise in multivariate analysis, graphical models, Bayesian hierarchical modelling, Markov chain Monte Carlo (MCMC), mixture models, stochastic processes, generalized linear models (GLMs), dimensionality reduction (PCA/CCA/MDS/tSNE) and other machine learning techniques***
+	- Experience working with Atlassian products (JIRA, Confluence)
+	- Knowledge of Internet protocols (e.g., TCP/IP, BGP, OSPF, TACACS, IPSEC, SNMP, SYSLOG)
+	- skill set for data science:
+		* ***Technical mastery in one or more of the following languages/tools to wrangle and understand data: Python (NumPy, SciPy, scikit-learn), Spotfire, Tableau.***
+		* ***Experience with Spark (MapReduce, PIG, HIVE)***
+		* 5+ years of experience with R or Python and some knowledge of SQL and experience with other software environments e.g. SAS, Matlab, Spotfire, Tableau, Qlikview, SPSS, KNIME and/or other data mining tools. Experience with other software components for data preparation and integration e.g. Data Virtualization and Big Data tools such as Hadoop and Spark and/or further programming or scripting environments e.g. .Net, Java, IronPython, Javascript, C++ is a plus.
+		* 5+ years of experience with R or Python and some knowledge of SQL and experience with other software environments e.g. SAS, Matlab, Spotfire, Tableau, Qlikview, SPSS, KNIME and/or other data mining tools. Experience with other software components for data preparation and integration e.g. Data Virtualization and Big Data tools such as Hadoop and Spark and/or further programming or scripting environments e.g. .Net, Java, IronPython, Javascript, C++ is a plus.
 	- stress testing (locust.io)
 	- designing high availability systems
 	- application security hardening
