@@ -1060,6 +1060,9 @@ Flags for work-in-progress:
 	- ***Expertise in multivariate analysis, graphical models, Bayesian hierarchical modelling, Markov chain Monte Carlo (MCMC), mixture models, stochastic processes, generalized linear models (GLMs), dimensionality reduction (PCA/CCA/MDS/tSNE) and other machine learning techniques***
 	- Experience working with Atlassian products (JIRA, Confluence)
 	- Knowledge of Internet protocols (e.g., TCP/IP, BGP, OSPF, TACACS, IPSEC, SNMP, SYSLOG)
+	- Speech (NLP: ASR, MT, NLP, NLU, TTS, DM, and ASP)
+	- Experience with SQL and Statistical/mathematical programming software packages (R, SPSS, CPLEX, LONDO or Xpress etc)
+	- ***Programming skills sufficient to extract, transform, and clean large (multi-TB) data sets in a Unix/Linux environment.***
 	- skill set for data science:
 		* ***Technical mastery in one or more of the following languages/tools to wrangle and understand data: Python (NumPy, SciPy, scikit-learn), Spotfire, Tableau.***
 		* ***Experience with Spark (MapReduce, PIG, HIVE)***
