@@ -1063,6 +1063,9 @@ Flags for work-in-progress:
 	- Speech (NLP: ASR, MT, NLP, NLU, TTS, DM, and ASP)
 	- Experience with SQL and Statistical/mathematical programming software packages (R, SPSS, CPLEX, LONDO or Xpress etc)
 	- ***Programming skills sufficient to extract, transform, and clean large (multi-TB) data sets in a Unix/Linux environment.***
+	- Experience with NLP libraries such as SpaCy, Stanford CoreNLP, OpenNLP, or NLTK
+	- ***Experience with big data techniques (such as Hadoop, MapReduce, Hive, Pig, Spark)***
+	- ***Familiar with one or more machine learning, statistical modeling tools such as R, Matlab, scikit learn and deep learning frameworks, such as tensorflow, keras, caffe, torch.***
 	- skill set for data science:
 		* ***Technical mastery in one or more of the following languages/tools to wrangle and understand data: Python (NumPy, SciPy, scikit-learn), Spotfire, Tableau.***
 		* ***Experience with Spark (MapReduce, PIG, HIVE)***
