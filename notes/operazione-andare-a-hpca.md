@@ -1401,6 +1401,77 @@ Flags for work-in-progress:
 	- Experience using design tools such as Photoshop, Illustrator, Sketch, InDesign, etc. for creating highly-detailed mockups
 	- Some awareness of the technology which will serve your designs and implementations, such as apache/nginx, Flask/django, PostgreSQL/MySQL, git, websockets, etc.
 	- Bootstrap, bulma, etc.
++ Areas of interest:
+	- Distributed and parallel systems
+	- Information retrieval
+	- Large software systems
+	- Web application development
+	- Database management
+	- Cloud computing
+	- Cloud security
+	- DevOps
++ technologies/frameworks:
+	- ReactJS
+	- Java/Scala
+	- Spark
+	- Ruby/JRuby
+	- ElasticSearch
+	- MySQL
+	- Kubernetes
+	- Amazon Web Services
+	- MS Azure
+	- Google Cloud Platform
++ Knowledge of NoSQL technologies (e.g. Cassandra, MongoDB, Redis, etc.) and/or search-based datastores and libraries (Lucene, Solr, etc.
++ Experience with Cloud based services, Microservices a Cloud Computing class or similar experience
++ Produce high quality and well-documented code in an automated CI/CD environment
++ Collaborate with engineering and product teams to design, develop, and publish software supporting a highly available, fault-tolerant SaaS platform
++ skill set:
+	- Expertise in Golang and proficiency in other languages (Preferably C/C++,NodeJs, Python).
+	- Commercial experience with REST, RPC and message exchange protocols.
+	- Experience with frameworks such as: Gin, Gorilla, Dep, Ginkgo
+	- Knowledge around message queuing and distributed tasking (SMS,ZeroQ, RabbitMQ etc)
+	- Working knowledge in Kubernetes, Rancher or Docker swarm.
+	- Ability to write clean and effective Godoc comments
++ Preferred Skills: Tensorflow, Slurm, Kubernetes
++ Quantum Algorithm for Near-term Quantum Devices
+	- A general-purpose fault-tolerant quantum computer will require millions of physical qubits and millions of quantum gate operations. With quantum computers of significant size now on the horizon, we should understand how to best exploit the initially limited abilities and how to develop and run useful quantum algorithms within the limited circuit depth of intermediate size quantum devices with limited error correction.
++ Research in Practical Applications of Quantum-Safe Communication
+	- Quantum communication may refer to quantum cryptography, quantum teleportation, and quantum entanglement. Among those, quantum key distribution (QKD) is one of the most practical applications in recent years. Quantum cryptography takes the advantage of the laws of quantum physics to protect data,
+	- Currently, the most significant problems in practical quantum cryptography systems include: high-speed quantum random number generation, long-distance fiber quantum key distribution with high key generation speed, co-fiber transmission of classical and quantum optical signals, as well as practical commercialization and stabilization.
+	- Our project aims to study these critical issues in quantum cryptography system for practical applications. Due to the transmission loss and dark count, the bottleneck for its practical application lies in the trade-off between high speed key generation rate and long transmission distance. In order to solve these problems, one potential solution is to design more efficient telecommunication protocol to exceed the theoretical up bound of the generation rate. Meanwhile, the project will also focus on the study and practical solutions for quantum random number generation, post-quantum cryptography algorithm, the migration of classical and quantum networks, etc
++ Building an innovative and systematic AI benchmarks platform
+	- Currently in Alibaba Group, deep learning and related applications have been employed in various business departments. Tmall, Alitrip, Taobao, Ant Financial and other departments are making extensive use of emerging deep learning technologies to continuously improve application and algorithms and enhance the consumer experience. On the one hand, Alibaba's engineering teams design, experiment and deploy different deep learning algorithms and applications every day. On the other hand, deep learning requires a lot of computational power, which also puts higher requirements on the computational power of the hardware and their adaptability to the application. How to balance the demand and supply relationship between these two and integrate the solution into a systematic platform product? How to automatically and systematically evaluate the computional power of an AI hardware? How to evaluate the advantages and disadvantages of a hardware for usage in an application and give customer recommendations through a systematic platform? These are the challenges we are currently dealing with and we need to solve. Recently we have launched the AI ​​Matrix product (through aimatrix.ai website), but it is still in the early stage of the product. In the future, we need more people who have the same understanding as us and are willing to involve in solving these problems. Let's contribute our own strength and make the AI ​​Matrix as an effective systematic platform and an impactful technical brand.
+	- [AI Matrix](https://aimatrix.ai/en-us/)
+	- https://github.com/alibaba/ai-matrix
++ Using HW/SW Mechanisms to Improve Performance of remote Heterogeneous Systems
+	- Alibaba is an e-commerce and AI company. We generate enormous data and consume huge amount of computation and storage resources every day. It is critical for Alibaba to keep on improving data center design given the emerging of powerful accelerator computation clusters.
+	- We would focus on:
+		* 1. Analyze different AI workloads in distributed GPU clusters, study their computation and network requirement
+		* 2. Based on current remote accelerator technique, improve its efficiency via hardware/software solutions
+		* 3. Apply the technique to real workload
+	- Requirement:
+		* 1. PHD candidate, experienced with distributed heterogeneous systems
+		* 2. It's a plus if candidate worked with deep learning algorithms
+		* 3. it's a plus if candidate has top conference publications
++ Last mile of datacenter as a computer -- local protocol and semantics based ASIC/FPGA cloud
+	- Developers and customers prefer to use heterogeneous compute resources with a set of local server access protocol and semantics. We need to find talents to do research and prototyping with a specific local API on an ASIC or FPGA chip.
++ Emerging Accelerator Architecture, Programming Model, and Optimizations
+	- The emerging hardware accelerator architectures, such as process-in-memory (PIM) and neuromorphic computing,  have shown great potential to speed up AI/ML and data-heavy applications. This research aims to investigate these non-traditional architecture designs and their performance implications for domain-specific applications in Alibaba datacenters and ecosystem. It will study the emerging architecture’s programming model for usability and explore the software-hardware co-design strategies (e.g. reinforcement learning based architecture space exploration, architecture-aware compression and sparsity exploitation) and optimization trade-offs to maximize the performance.
++ Execution engine optimization based on GPUs and other modern hardware
+	- Targeting Maxcompute SQL engine, we'd like to import modern hardware technology (such as GPU, FPGA etc) to model and improve the core operators of the distributed execution engine, optimize the system performance on specific scenes at last.
++ Performance/Power/Area (PPA) Modeling & Analysis
+	- The ***Computing Technology Lab of Alibaba Damo Academy*** focuses on advanced research topics in computing, memory/storage, and interconnect technologies that can revolutionize today's computing systems with holistic innovations ranging from system architectures to VLSI designs, to enable new computing capabilities for improving energy efficiency and performance across multiple application domains, including both high-performance and embedded computing.
++ Research on Domain Specific Architecture
+	- As the end of Dennard's scaling and Moore's Law running out of steam, the traditional architecture for general-purpose processors can no longer meet the requirements of high performance and low energy consumption for various emerging applications. To allow the computing to have higher performance/energy efficiency, Domain Specific Architecture (DSA) has become a popular solution. However, there are many challenges in the DSA design. For example, the definition of the scope of Domain, trade-off between specialization and general-purpose, instruction set design, compiler design and optimization, memory wall, ultra-low-power design, micro-structure design and optimization, etc. This internship Project is a thorough and detailed study of the DSA to address these challenges.
+	- The Computing Technology Lab focuses on advanced research topics in computing, memory/storage, and interconnect technologies that can revolutionize today's computing systems with holistic innovations ranging from system architectures to VLSI designs, to enable new computing capabilities for improving energy efficiency and performance across multiple application domains, including both high-performance and embedded computing.
+
+
+
+
+
+
+
+
 
 
 
