@@ -1380,21 +1380,21 @@ Flags for work-in-progress:
 + Apache Kafka
 + vw / xgboost
 + Knowledges of Web test frameworks like Selenium, React.js, Headless Chromium is a plus
-+ a set of skills:
-	+ Statistical analysis and modeling
-	+ Database architectures
-	+ Hadoop-based technologies (e.g. MapReduce, Hive and Pig)
-	+ SQL-based technologies (e.g. PostgreSQL and MySQL)
-	+ NoSQL technologies (e.g. Cassandra and MongoDB)
-	+ Data modeling tools (e.g. ERWin, Enterprise Architect and Visio)
-	+ Python, C/C++ Java, Perl
-	+ MatLab, SAS, R
-	+ Data warehousing solutions
-	+ Predictive modeling, NLP and text analysis
-	+ Machine learning
-	+ Data mining
-	+ UNIX, Linux, Solaris and MS Windows
-	+ Python (3.5>=), packages: argparse, shapely, Munkres, numpy, cv2, logging, Pillow
++ set of skills:
+	- Statistical analysis and modeling
+	- Database architectures
+	- Hadoop-based technologies (e.g. MapReduce, Hive and Pig)
+	- SQL-based technologies (e.g. PostgreSQL and MySQL)
+	- NoSQL technologies (e.g. Cassandra and MongoDB)
+	- Data modeling tools (e.g. ERWin, Enterprise Architect and Visio)
+	- Python, C/C++ Java, Perl
+	- MatLab, SAS, R
+	- Data warehousing solutions
+	- Predictive modeling, NLP and text analysis
+	- Machine learning
+	- Data mining
+	- UNIX, Linux, Solaris and MS Windows
+	- Python (3.5>=), packages: argparse, shapely, Munkres, numpy, cv2, logging, Pillow
 * ES6
 * Plotly.js
 * OpenLayers
