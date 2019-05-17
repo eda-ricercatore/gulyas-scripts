@@ -1,4 +1,4 @@
-#	Operation Go2ICCAD
+#	Operation Go2HPCA
 
 ##	Questions
 
@@ -622,746 +622,7 @@ Flags for work-in-progress:
 	- Ensure high level of data integrity with our ATS (Lever) and other HR systems
 	- Experience in Java and Apex is an advantage
 	- Experience with Zend Framework or Laravel (optional)
-	- skill set:
-		* Understand data landscape i.e tooling, tech stack, source systems etc. and work closely with the data Engineering team to improve the data collection and quality.
-		* Ability to define and spot macro and micro levels trends with statistical significance on a regular basis and understand key drivers driving those trends.
-		* 8+ years of data analyst experience with 4+ years of proven industry experience in a large scale environment(PBs scale, globally distributed teams).
-		* Strong experience in Python, R, SQL, Tableau, Google Analytics, Hive and BigQuery (or any other Big data/Cloud equivalent) etc.
-	- skill set:
-		* Build and Support scalable and reliable data solutions that can enable self-service reporting and advanced analytics at Cloudflare using modern data lake and EDW technologies (Hadoop, Spark, Cloud, NoSQL etc.) in a agile manner.
-		* 3+ years of development experience in Big data space working with Petabytes of data and building large scale data solutions.
-		* Solid understanding of Google Cloud Platform, Hadoop, Python, Spark, Hive, and Kafka.
-		* Experience in all aspects of data systems(both Big data and traditional) including data schema design, ETL, aggregation strategy, and performance optimization.
-		* Capable of working closely with business and product teams to ensure data solutions are aligned with business initiatives and are of high quality.
-	- skill set:
-		* Partner and align with business leaders, stakeholders, product managers and internal teams to understand the business and product challenges and goals and address them using predictive analytics in a globally distributed environment.
-		* Understand data landscape i.e tooling, tech stack, source systems etc. and work closely with the data Engineering team to improve the data collection and quality.
-		* Understand business/product strategy and high-level roadmap and align analysis efforts to enable them with data insights and help achieve their strategic goals.
-		* Strong audience focused presentation and storytelling skills focused on key takeaways in a crisp and concise manner.
-		* Define hypothesis driven models and best practices to derive and publish model scores/insights/learnings at scale within the company.
-		* Ability to define and spot macro and micro levels trends with statistical significance on a regular basis and understand key drivers driving those trends.
-		* 8+ years of data scientist experience with 4+ years of proven industry experience in a large scale environment(PBs scale, globally distributed teams).
-		* Proven lead in driving multi-million dollar revenue generator models for the company and setting up data science related best practices at a company.
-		* 2+ years experience with a fast-growing SaaS business based company is preferred.
-		* Strong experience in Python, R, Spark, SQL, Tableau, Google Analytics, Hive and BigQuery (or any other Big data/Cloud equivalent) etc.
-	- skill set:
-		* Solid foundation in computer science, with strong competencies in algorithms, data structures, software design, web security, and building large, distributed systems
-		* Excel at planning, working multi-functionally, leading execution across teams to meet commitments and deliver with predictability
-		* Demonstrate a track record of leading teams, including hiring, onboarding, and professional development. You inspire your team to reach higher. You’re as good as explaining “why” as you are “how”
-		* Experience implementing tools, process, internal instrumentation, methodologies and resolving blockages
-		* Demonstrated ability to recruit and hire top talent
-		* Comfortable managing teams/projects with tight deadlines and short release cycles
-		* Experience working with and getting the best out of post-doctorate researchers
-		* Being passionate about cryptography and/or web technology such as TLS
-		* Familiarity working with DNS, database systems, Internet performance, and/or Internet security
-	- skill set:
-		* You will help build customer facing apps and our core platform to create, improve, and scale agricultural models. Our culture is built on cross-disciplinary collaboration, learning, and rapid prototyping. CiBO is a science-based company, so prepare to learn and invent with us!
-		* Graduate degree in a technical field and 5+ years experience as a Data Scientist working on commercial software products
-		* Experience engineering production-level software systems evidenced by having built a parallel/distributed system, using software best practices, performance optimizations, or an automated pipeline to interpret other data science experiments
-		* Experience applying the scientific method to complex, multivariate unstructured problems to produce rigorously-defendable conclusion in prose and graphics
-		* Experience across and significant work in at least one of clustering and classification, multivariate regression, prediction, and forecasting; and dimensionality reduction and feature engineering
-		* Experience or interest in Bayesian methods of crafting generative probabilistic models; engineering informative priors and solution via MCMC
-		* Experience collecting, curating, structuring and retrieving large data sets in relational databases.
-		* Additional experience with NoSQL preferred
-		* Experience with either time-series or spatial statistics, especially Gaussian Processes
-		* Experience creating complex data visualizations for multivariate data
-		* Experience with AWS or other programmatic distributed computing environments
-		* Experience with Bayesian non-parametrics (CRP, IBP, etc.)
-		* Experience with advanced MCMC techniques such as DREAM, Hamiltonian-MC, variational approximations, etc.
-		* Experience or keen interest in FP (Scala, Haskell, Clojure, Erlang, OCaML/SML, Elm, F\#)
-	- skill set: Use Python, React/Redux, Spark, Presto, Airflow, Git, CircleCI, and more.
-	- Experience with data analytics platforms, such as Semantic Pro, Semantic Cortex, IBM i2
-	- Experience in working with large data sets and distributed computing tools (Hive, Redshift) is a plus
-	- Experience using vector editors like Figma or Sketch and prototyping tools like Principle or Framer
-	- You are an expert in AfterEffects, Cinema 4D, Sketch, Principle
-	- You will be expected to have a good understanding of a broad range of traditional supervised and unsupervised techniques (e.g. logistic regression, SVMs, GBDTs, Random Forests, k-means and other clustering techniques, matrix factorization, LDA . . .) as well as be up to date with latest ML advances (e.g. Deep Neural Networks, or non-parametric Bayesian methods).
-	- Conduct testing such as functional testing, user acceptance testing (UAT), automated acceptance testing (AAT), and specification by example.
-	- skill set:
-		* 3+ years of experience in machine learning, data mining, natural language processing, information retrieval, or statistical analysis
-		* Experience working with large data sets using open source technologies such as Spark, Hadoop, and NoSQL
-		* Experience developing and productizing real-world AI/ML applications such as prediction, personalization, recommendation, content understanding and NLP
-		* Experience working with at least 3 of the following popular machine learning frameworks/libraries: sklearn, tensorflow, pytorch, caffe, keras, theano, cntk, mxnet, spark mllib
-		* Experience developing and deploying deep learning NLP models is a plus
-		* Experience working with a knowledge graph is a plus
-	- tech stack:
-		* Experience with Deep Learning frameworks, e.g., PyTorch, DeepLearning4J, TensorFlow
-		* Experience in SPARK (using Python or Scala). Knowledge of AWS services will be appreciated.
-	- tech stack:
-		* 2+ years of analytical work experience (experience working with product organizations a plus)
-		* Strong critical thinking and problem solving skills
-		* Experience  communicating effectively with non-technical audiences
-		* Strong ability to devise data-driven solutions to business problems
-		* Strong competency with SQL
-		* Experience with or exposure to a scripting language (Python preferred)
-	- tech stack:
-		* 5+ years of relevant analytical experience working with data or MS in a relevant technical field and 2+ years of analytical work experience (experience working with product organizations a plus)
-		* Strong critical thinking and problem solving skills
-		* Comfort and expertise communicating effectively with a wide-range of audiences (including product managers, engineers, business development managers, occasionally executives)
-		* Strong ability to devise data-driven solutions to business problems
-		* Ability to drive impact by thoughtfully tackling open-ended problems
-		* Strong data intuition and deep understanding of and experience with statistical and/or ML modeling techniques
-		* Strong competency with SQL
-		* Fluency in a scripting language (Python preferred)
-		* A plus: Experience with large scale data processing tools (Apache Spark) or implementing systems in production at scale
-	- tech stack:
-		* Netflix culture resonates with you.
-		* You can communicate effectively with experts of all backgrounds.
-		* You are an expert analyst and can pick up any tool (e.g. Tableau, D3) to get the job done.
-		* You dream in SQL and Python (or other similar languages).
-		* You are comfortable with Big Data technologies like Hadoop, Spark, Hive, Presto etc.
-	- Expertise in SQL, programming (e.g. Python, Scala), ETL and data warehousing concepts at scale (TBs of data)
-	- Expertise in broad technical skills spanning data access, data storage, data processing, and data visualization.  Skills include: SQL, logical / semantic data modeling, ETL and data warehousing concepts, programming languages (Python)
-	- Expertise in statistical inference including experimentation and observational methods to causal inference
-	- Strong coding experience. Experience with open-source ML packages (specifically sklearn, TensorFlow/Keras/PyTorch).
-	- tech stack:
-		* 5+ years of research experience with a track record of delivering quality results
-		* Expertise in machine learning spanning supervised and unsupervised learning methods
-		* Experience in successfully applying machine learning to real-world problems
-		* Strong mathematical skills with knowledge of statistical methods
-		* Strong software development experience in languages such as Scala, Java, Python, C++ or C#
-		* Great interpersonal skills
-		* PhD or MS in Computer Science, Statistics, or related field
-		* Experience in Recommendation Systems, Personalization, Search, or Computational Advertising
-		* Experience using Deep Learning, Bandits, Probabilistic Graphical Models, or Reinforcement Learning in real applications
-		* Experience in optimization algorithms and numerical computation
-		* Experience with Spark, TensorFlow, or Keras
-		* Experience with cloud computing platforms and large web-scale distributed systems
-		* Open source contributions
-	- tech stack:
-		* 5+ years of research experience with a track record of delivering quality results
-		* Expertise in machine learning spanning supervised and unsupervised learning methods
-		* Experience in contextual multi-armed bandit algorithms and/or reinforcement learning
-		* Experience in successfully applying machine learning to real-world problems
-		* Strong mathematical skills with knowledge of statistical methods
-		* Strong software development experience in languages such as Scala, Java, Python, C++ or C#
-		* Great interpersonal skills
-		* PhD or MS in Computer Science, Statistics, or related field
-		* Recommendation Systems, Personalization, Search, or Computational Advertising
-		* Deep Learning or Causal Inference
-		* Optimization algorithms and numerical computation
-		* Spark, TensorFlow, or Keras
-		* Cloud computing platforms and large web-scale distributed systems
-	- tech stack:
-		* Write C++ code to tackle scientific algorithmic problems such as: transforming 3D coordinates, Metropolis Monte Carlo simulation, Gradient Descent minimization, and others.
-		* Implement highly optimized multi-threaded C++ or CUDA code that scales well on cloud infrastructure.
-		* Work closely with other software engineers via code reviews and testing to foster high-quality software and systems.
-		* Solid computer science fundamentals, with strong competencies in data structures, algorithms, and compilers.   
-		* Experience profiling C/C++ code to find and fix performance bottlenecks.
-		* Comfort with the Linux command-line environment.
-		* Background in Biology, Chemistry or Physics.
-		* Familiarity working with Docker and Kubernetes.
-		* Knowledge of parallel computing paradigms and demonstrated proficiency in some of the following: openMP, CUDA, or openCL.
-		* https://www.atomwise.com/jobs/senior-software-engineer-scientific-computing/
-	- tech stack:
-		* You should think about joining us if you care about making a difference in treating disease and saving human lives. But also, if you are up to tackling some of the hardest open challenges in deep learning today:
-			+ Non-stationary, unbalanced, and noisy data: Our training data is seldom i.i.d.; new medicines are unlocked by pushing out into newly-discovered biology. Classes are extremely unbalanced, ratios of 1 positive to 70,000 negatives are typical. Help us reason about how to learn appropriately without dismissing nor overfitting to the data; identify when we can trust a label or have confidence in a prediction; and develop techniques to find and correct for systemic biases.
-			+ Extreme scaling: Medicinal chemists can synthesize about a trillion trillion molecules today. Help us scale predictive algorithms to orders of magnitude beyond those contemplated in any other problem domain today.
-			+ Multi-parameter optimization: Medicine has to be both safe and effective, so we have to concurrently optimize a number of criteria such as potency, selectivity, solubility, toxicity, synthesizability, etc. Help us efficiently explore the Pareto frontier and avoid mode collapse.
-			+ Adversarial generation of synthetic data: Data augmentation has shown utility in improving the robustness of predictions. Help us find ways to best integrate molecular physics simulation and machine learning to impute new data.
-			+ Explainability and visualization: Subtle patterns govern molecular recognition. Help us to understand how they lead to the discovery of fundamental chemistry by AI.
-		* Ph.D. or M.Sc. in computer science, statistics, data science, or related field
-		* 5+ years of extensive practical experience and proven track record of developing, implementing, debugging, and extending machine learning algorithm
-		* Knowledge of modern neural network frameworks such as Tensorflow, Torch, or Theano
-		* Strong analytical and statistical skills
-		* Scientific rigor, healthy skepticism, and detail-orientation in running and analyzing experiments
-		* Familiarity with processing large data sets in a Linux environment
-		* Software engineering skills and coding experience in at least one high-level programming language (Python, R, Java, C/C++, etc.)
-		* Biomedical knowledge or experience in processing chemical or biological data is preferred but not required
-		* Experience with cloud computing environments (AWS/Azure/GCE)
-		* https://www.atomwise.com/jobs/senior-machine-learning-research-scientist/
-	- tech stack:
-		* Interact with customers to understand their project requirements.
-		* Generate and analyze predictive results, and deliver these to our clients.
-		* Communicate our results and capabilities through scientific publications.
-		* Analyze, curate, and automate the processing of our biochemical databases.
-		* Help to develop our modeling software.
-		* Ph.D. in chemistry, biology or a related field.
-		* Extensive knowledge of medicinal chemistry.
-		* Minimum 3 years of experience in lead optimization at a pharmaceutical company.
-		* Experience in Computer-Aided Drug Design: structure/ligand-based drug design, molecular docking, virtual screening, QSAR, pharmacophore modeling, PK/PD data analysis and modeling.
-		* Comfortable on the Linux command-line.
-		* Undergraduate knowledge of statistics.
-		* Good knowledge of Python, Perl, Bash, or related scripting languages.
-		* Statistical modeling.
-		* Experience with cloud computing environments (AWS/Azure/GCE).
-		* https://www.atomwise.com/jobs/senior-computational-chemist/
-	- tech stack:
-		* M.Sc/Ph.D. in Computer Science, Statistics, Cheminformatics, Bioinformatics, Computational Biology or B.S. in Computer Science with 7+ years experience.
-		* Strong computer science fundamentals
-		* 5+ years of experience in database engineering, data processing pipelines, and HPC
-		* Strong database design and software-engineering best practices
-		* Strong knowledge of statistics, data analytics, and data visualization
-		* Strong coding skills in at least one high-level programming language (Python, Java, C++, etc)
-		* Good familiarity with Linux command-line environment
-		* Experience in bioinformatics or cheminformatics, working with ingestion of third-party and internal data sources
-		* Experience working with scalable algorithms utilizing large amounts of data
-		* Experience with cloud computing environments (AWS/Azure/GCE)
-		* Experience with non-relational databases
-		* Familiarity with organic chemistry
-		* https://www.atomwise.com/jobs/senior-data-engineer-cheminformatics-bioinformatics/
-	- tech stack:
-		* Hadoop ecosystem and its components.
-		* Hadoop, Hive, HBase, and Pig
-		* Working experience in HQL
-		* Pig Latin Scripts and MapReduce jobs
-		* Hands-on experience in backend programming, particularly Java, and Node.js
-		* Analytical and problem-solving skills
-	- Expertise in additional statistical methods (e.g., Bayesian approaches, dyadic analysis, causal inference approaches, factor analysis, SEM)
-	- Use of Jira and A-Ha planning tools.
-	- Build data tooling to enable data lake, data warehouse, and analytics workflows within the AWS cloud (S3, Redshift, DynamoDB, Spark, Kinesis, Kubernetes, etc.)
-	- Experience with SAML, OAuth
-	- Working with Jira and Confluence a plus.
-	- Experience working with modern deep learning software architecture and frameworks including: Tensorflow, MxNet, Caffe, Caffe2, Torch, and/or PyTorch.
-	- Experience with configuration management systems (Ansible and/or Puppet, Saltstack)
-	- tech stack:
-		* Remote hardware administration with IPMI
-		* Configuration and management of
-		* SGE/Univa, Slurm, LSF or other DRMS
-		* Jenkins CI
-		* Phabricator
-		* FlexLM licensing
-		* Puppet, Ansible, Nagios
-		* LLVM, GCC
-		* DVCS e.g. Git
-		* AWS, Azure, Google Cloud
-		* XML and XPath/XSLT
-		* Web programming – HTML/DOM, JavaScript, SQL
-		* A solid knowledge about how orchestration tools (Kubernetes, Swarm, OpenStack, etc) can be used to deploy, scale, and operate virtualized entities
-		* Understand CPU virtualization and container technology from the inside out (hypervisors, Xen, LXC, Docker)
-		* The role involves using a range of technologies, such as Python, CMake, BuildBot, Phabricator, AWS etc.
-		* Good knowledge of management and security frameworks (SNMP/MIB agents, CLI, RESTful API, OpenBMC) is very useful
-		* Knowledge of storage systems (File, Block) is a plus (Local/Network/Cloud Attached)
-		* Knowledge of ILOM, BMC, and OCP (Open Compute) is a plus
-		* Test automation experience (Some exposure to CTest is desirable)
-	- Bonus: Prior experience with Zendesk, Jira or Asana, SQL, in Customer Service or Hospitality
-	- Producing effective and interactive data visualizations (Tableau, Shiny, D3)
-	- Experience with Databricks or Spark, EMR
-	- Bonus points for experience building interactive data visualizations using libraries like D3, Highcharts, and Leaflet, and for experience working with big data systems like Hive, Hadoop, Scalding and Spark.
-	- Experience with Scala, Scalding, Luigi,Hive, machine learning pipelines and model training is a plus
-	- Automate DB (Oracle, Postgres, MongoDB, ...) configuration, deployment, backups, ...
-	- Experience with at least one of: Oracle, Postgres, MongoDB, Solr
-	- Chef/Puppet/Ansible/Terraform experience is nice to have
-	- Experience with full-text search engines (Solr, Elasticsearch).
-	- Familiarity with Docker (and Kubernetes/Mesos Marathon)
-	- Familiarity with Angular framework
-	- You will work with technologies like: AWS, Docker (Mesos/Kubernetes), HashiCorp tools (Terraform, Consul, Vault,...), Chef, Ansible, SQL and NoSQL databases, Nginx, ...
-	- Elasticsearch, Hadoop, Big Data experience is a plus
-	- workflow management tools like Airflow
-	- search backends like ElasticSearch
-	- Spark and/or other big data architectures (Hadoop, MapReduce) in high-volume environments
-	- VM embeddings in other systems (e.g., DBMSs, Big Data frameworks, Microservices, etc.)
-	- Virtual machines: Managed runtime systems (e.g., JVM, Dalvik VM, Android Runtime (ART), LLVM, .NET CLR, RPython, etc.)
-	- We preferred students experienced in the use of ROS (Robot Operating System) and simulation engines such as Unity3D and Unreal Engine 4.
-	- ***Knowledge of parallelism in shared (Intel TBB, OpenMP) and distributed (Intel MPI, Apache Spark, Dask) memory***
-	- Speech (NLP: ASR, MT, NLP, NLU, TTS, DM, and ASP)
-	- Knowledge of OpenCL/SYCL languages
-	- ***Experience with large-scale, distributed data processing frameworks (e.g., Spark, Kafka, YARN, Tachyon, Mesos, etc.) is a plus***
-	- Domain knowledge and project experience in below area will be a plus: x86 architecture; Linux kernel; Virtualization; Cloud SW stacks; Big data; Machine Learning, compiler and run time optimization, etc.
-	- Knowledge of Linux and/or Windows programming and computer graphics including OpenCL\*, OpenGL\*, DirectX\*
-	- ***Open-source projects that demonstrate relevant skills  and/or publications in relevant conferences and journals (e.g. NIPS, ICML, ICLR, CVPR, ICCV, ECCV, ICASSP)***
-	- ***Experience working with analytics tools such as Google Analytics, Heap Analytics, Chartmogul, Baremetrics, Periscope, Tableau, Mode Analytics, Looker, or similar***
-	- tech stack: Golang, AWS (DynamoDB, Lambda, EC2, Kinesis, SQS, S3), ReactJS, Snowflake, Terraform, Redis, SolrCloud, Kafka, Riak, Docker/Kubernetes, and Linux
-	- tech stack:
-		*  Solid knowledge in control theory, especially model predictive control
-		* Experience in one or more of the following areas:
-			+ Robust control
-			+ Adaptive control
-			+ Nonlinear control
-			+ State estimation
-			+ Parameter estimation
-			+ Model identification
-			+ Optimization
-		* Experience in one or more of the following areas:
-			+ Control theory
-			+ Motion planning
-			+ Optimization
-			+ Formal logic
-			+ Game AI development
-		* Experience with sensors: cameras, lidars, ultrasonic, etc.
-		* Computer vision experience, image processing experience
-	- You know what the CAP theorem is and you feel confident that you can speak to what it does and does not cover in systems design.
-	- Expert in prototyping traditional ML (GBMs, scikit, etc.) and AI frameworks (keras, tensorflow, mxnet, pytorch, etc.) for a variety of applications
-	- tech stack:
-		* Knowledge of dsx, IGC, and IA
-		* Web service development with NodeJS (Backend server Javascript), front-end Javascript and Flask (Open source python library)
-		* Both relational database and NoSQL database technologies
-		* The main responsibility will be to enable different personas like Data Scientist, Data Curator, and Data Engineer to collaborate with each other on their Data Journey and work with various products like dsx, IGC, IA, and DFD.
-	- tech stack:
-		* PHP5, PHP7, HTML5, CSS3, JavaScript, Jquery, MySQL, NoSql
-		* Should have in depth understanding in LAMP stack
-		* Must have Good OOP (Object Oriented Programming) concepts
-		* Knowledge in MVC Framework e.g (Zend Framework, Laravel)
-		* Clear understanding of JSON, AJAX, XML, CURL, Web Service
-		* Knowledge of the Linux command line tools optional
-		* Good to have experience in Angular JS and Node JS, concept of UI/UX
-		* Experience in handling large database, including designing & advanced querying in MySql
-		* Good knowledge of version control tools like GIT, SVN
-	- Versatile with languages and technologies. You pick the right technology for the job. You might have dabbled with iOS, Android, React Native or Flutter; you tinkered with TensorFlow, Caffe or Torch; you know when to use Mongo vs Redshift; and you have an opinion on web frameworks.
-	- OpenStack:
-		* Dashboard (Horizon)
-		* Compute Service (Nova)
-		* Networking (Neutron)
-		* Object store (Swift)
-		* Identity service (Keystone)
-		* Metering & Data Collection Service (Ceilometer)
-		* Orchestration (Heat)
-		* Bare Metal Provisioning Service (Ironic)
-		* Container Orchestration Engine Provisioning (Magnum)
-		* Computable object storage (Storlets)
-		* Deploys OpenStack using OpenStack itself (Tripleo)
-		* Billing and chargebacks (Cloudkitty)
-		* Optimization Service (Watcher)
-		* Distributed SDN controller (Dragonflow)
-		* OpenStack Networking integration for containers (Kuryr)
-		* NFV Orchestration (Tacker)
-		* Networking Automation for Multi-Region Deployments (Tricircle)
-		* Command-line interface for all OpenStack services (Openstackclient)
-		* Instances High Availability Service (Masakari)
-		* Lightweight OCI containers (LOCI)
-		* EC2 API proxy (EC2API)
-		* Official Python SDK for OpenStack APIs (Openstacksdk)
-		* Block Storage (Cinder)
-		* Image service (Glance)
-		* Big Data Processing Framework Provisioning (Sahara)
-		* Application Catalog (Murano)
-		* Containers Service (Zun)
-		* Puppet modules to deploy OpenStack (Puppet-openstack)
-		* Clustering service (Senlin)
-		* Event, Metadata Indexing Service (Panko)
-		* Root Cause Analysis service (Vitrage)
-		* Load balancer (Octavia)
-		* Accelerators resource management (Cyborg)
-		* Deploys OpenStack in containers using Helm (Openstack-helm)
-		* OpenStack Storage integration for containers (Fuxi)
-		* Client library for interacting with OpenStack clouds (Shade)
-		* Database as a Service (Trove)
-		* Shared filesystems (Manila)
-		* DNS service (Designate)
-		* Key management (Barbican)
-		* Governance (Congress)
-		* Software Development Lifecycle Automation (Solum)
-		* Deploys OpenStack in containers using Ansible (Kolla-ansible)
-		* Monitoring (Monasca)
-		* Workflow service (Mistral)
-		* Functions Service (Qinling)
-		* RPM package specs to deploy OpenStack (RPM-packaging)
-		* Messaging Service (Zaqar)
-		* Ansible playbooks to deploy OpenStack (Openstack-ansible)
-		* Benchmark service (Rally)
-		* Application Data Protection as a Service (Karbor)
-		* Backup, Restore, and Disaster Recovery (Freezer)
-		* Packaging-rpm (Packaging-rpm)
-		* Indexing and Search (Searchlight)
-		* Deploys OpenStack in containers using Charms and Juju (Openstack-charms)
-		* Resource reservation service (Blazar)
-		* Alarming Service (Aodh)
-		* Ansible playbooks using ironic (Bifrost)
-		* Chef cookbooks to deploy OpenStack (Chef-openstack)
-		* EC2 API compatibility layer for OpenStack (Ec2-api)
-		* Python Software Development Kit (Python SDK)
-		* Ansible playbooks and roles for deployment (OpenStackAnsible)
-	- Silicon bring-up
-	- Silicon characterisation
-	- Massively parallel computing systems
-	- Laravel
-	- SQL working experience (Redshift/PostgreSQL/MySQL)
-	- Experience working with a CI system is preferred (ex. TeamCity, Concourse, Jenkins, etc.)
-	- Functional test automation tool experience is preferred (ex. Junit, TestNG, Serenity, etc.)
-	- Experience with profiling tools like PerfView (CPU, Memory, Garbage collection)
-	- Expert knowledge of debugging and crash dump analysis in Windbg
-	- Experience wrangling very large datasets by writing and maintaining data processing pipelines with Hadoop, Spark, BigQuery, Redshift, or similar
-	- Google Data Studio
-	- The successful candidate would be strong in SQL, AWS, Snowflake, Databricks, and Python.
-	- Experience with streaming data frameworks like spark streaming, kafka streaming, Flink and similar tools a plus.
-	- Experience with large scale messaging systems like Kafka or RabbitMQ or commercial systems.
-	- Experience with working with and operating workflow or orchestration frameworks, including open source tools like Airflow and Luigi or commercial enterprise tools.
-	- [Plus] Familiarity with interactive data visualization using tools like D3.js
-	- Experience with MPP databases, such as Snowflake, Redshift, BigQuery, Vertica, etc.
-	- A fluidity with tools commonly used for data analysis such as Python (numpy, pandas, and scikit learn), R, and Spark (MLlib).
-	- Experience with at least one prototyping tool (eg. Axure, Framer, Principle)
-	- Proficiency in developing pixel perfect mockups using Sketch and/or Adobe Design tools.
-	- Analyze all aspects of the Snowflake Query Engine and drive initiatives to understand what bottlenecks may exist and to improve them.  
-	- Build integration code with many cutting-edge technologies and processes, including Python 3, Go, Presto, AWS, ML, NLP.
-	- Experience with cloud APIs (e.g., a public cloud such as AWS, Azure, GCP or an advanced private cloud such as Google, Facebook)
-	- Prior experience with infrastructure automation frameworks (Ansible, Terraform, Chef or Puppet, etc.)
-	- ***Experience with one of the ML platforms: Python / scikit-learn, Spark, vowpal wabbit, etc***
-	- Virtualization and containerization (Xen, LXC, cgroups, Docker, Kubernetes)
-	- tech stack:
-		* Well-versed in one or more of the following languages and functional programming in general: Scala, Java, Python, JavaScript
-		* Expert in SQL and comfortable designing, writing and maintaining complex SQL based ETL.
-		* Experience with building large-scale batch and real-time data pipelines; ETL design, implementation, and maintenance.
-		* Experience with schema design and data modeling, and the analytical skills to QA data and identify gaps and inconsistencies.
-	- tech stack:
-		* Write complex data flows using SQL, frameworks (e.g., Scalding, Spark), and scripting languages (e.g., Python, R)
-		* Use data visualization tools (e.g., Tableau, Zeppelin) to share ongoing insights.
-		* Skilled with Figma (or Sketch) and prototyping tools such as Framer, Principle
-		* You have a deep and nuanced understanding of statistics, especially involving class imbalance problems.
-		* Scalding
-		* Full Stack Development
-		* Presto or Hive
-		* Spark
-	- Knowledge of source control tools (Git, CodeCommit, SVN, and TFS), build/release tools (Jenkins, CodeBuild, CodeDeploy, CodePipeline), and infrastructure as code tools (Terraform, CloudFormation)
-	- Experience in working with large data sets and distributed computing tools (Hive, Redshift)
-	- skill set:
-		* B.S. or M.S. in Economics, Statistics, or a similar field and 1+ year work experience in data science or analytics, or Ph.D. in a quantitative social/behavioral science (e.g. Economics, Sociology, Psychology, Statistics, or a similar field)
-		* Coursework in experimental design, causal inference, and/or econometrics
-		* Experience running and analyzing behavioral experiments
-		* Statistical intuition and knowledge of various hypothesis testing and regression approaches, e.g. hierarchical modeling, difference-in-differences
-		* Familiarity with Python or similar scripting language
-		* Experience communicating technical statistical concepts clearly, for example, teaching or consulting
-		* Demonstrated ability working effectively with cross-functional teams
-		* Experience using git and pushing to a codebase
-		* Experience with software engineering projects or coursework
-	- skill set:
-		* B.S., M.S., or Ph.D. in a quantitative field
-		* 4+ years work experience in an analytical or quantitative role as a Data Scientist
-		* 2+ years experience working on product analytics in a two-sided marketplace
-		* Extensive experience generating insights using statistical techniques (e.g. regression, hypothesis testing)
-		* Demonstrated ability to clearly explain data results to cross-functional teams
-		* Experience using a procedural programming language (e.g. Python, R) to manipulate, clean, and analyze data
-		* Ability to exercise judgment and combine quantitative skills with intuition and common sense
-		* Experience evangelizing best practices and process improvements on your team
-		* Experience working with large data sets and distributed computing tools (e.g. Redshift, Presto)
-		* Experience pushing code and navigating a complex codebase
-		* Active Quora user with curiosity about the product
-	- Deep experience with MySQL, NoSQL datastores like HBase or similar
-	- Strong grasp of Configuration Management (Chef, Puppet, Ansible, Salt Stack)
-	- skills to develop:
-		* Deep understanding of at least one popular server side MVC Framework (e.g Django, Rails, AngularJS etc).
-		* Knowledge of backend storage systems like MySQL, HBase, Memcached, Redis, Kafka etc.
-		* Experience working with open source technologies like Kafka, Hadoop, Hive, Presto, and Spark
-		* Take end to end ownership of Machine Learning systems - from data pipelines and training, to realtime prediction engines.
-		* General understanding of Machine Learning at the level of a semester-long ML class (college or multiple MOOCs)
-	- skill set:
-		* Deep knowledge of web technologies, e.g. HTML, CSS. Experience with LESS or SASS is a plus.
-		* Deep knowledge of JavaScript frameworks, e.g. jQuery. Experience with pure Javascript is a plus.
-		* Some knowledge of server-side languages and web frameworks. Experience with Python is a plus.
-		* Experience debugging across multiple browsers. Experience with UI testing tools like Selenium or phantomJS is a plus.
-		* Experience optimizing the speed and performance of websites.
-		* Experience maintaining large and growing code bases in a fast-moving environment.
-		* Interest in staying current with new and evolving web technologies.
-	- skill set:
-		* 7+ years of industry/academic experience in Machine Learning or related field
-		* You will be expected to have a good understanding of a broad range of traditional supervised and unsupervised techniques (e.g. logistic regression, SVMs, GBDTs, Random Forests, k-means and other clustering techniques, matrix factorization, LDA . . .) as well as be up to date with latest ML advances (e.g. Deep Neural Networks, or non-parametric Bayesian methods).
-		* Previous experience building end to end scalable Machine Learning systems
-		* Software engineering skills. Knowledge of Python and C++ is a plus.
-		* Knowledge of existing open source frameworks such as scikit-learn, Torch, Caffe, or Theano is a plus
-		* BS, MS, or PhD in Computer Science, Engineering, Statistics or a related technical field
-		* Love of the Quora product
-	- skill set:
-		* BS, MS or PhD in Computer Science, Machine Learning, NLP or a related technical field
-		* 5+ years of industry experience preferred
-		* Good mathematical understanding of popular NLP and Machine Learning algorithms
-		* Experience building production-ready NLP or information retrieval systems
-		* Hands-on experience with NLP tools, libraries and corpora (e.g. NLTK, Stanford CoreNLP, Wikipedia corpus, etc)
-		* Knowledge of Python or C++, or the ability to learn them quickly
-		* Love of the Quora product
-	- ***Experience building shallow or deep learning models (GBDT, CNN, RNN, LSTM), toolkits e.g. OpenCV, Matlab, RStudio, Weka, MLLib and frameworks PyTorch, TensorFlow, CNTK***
-	- ***Expertise in multivariate analysis, graphical models, Bayesian hierarchical modelling, Markov chain Monte Carlo (MCMC), mixture models, stochastic processes, generalized linear models (GLMs), dimensionality reduction (PCA/CCA/MDS/tSNE) and other machine learning techniques***
-	- Experience working with Atlassian products (JIRA, Confluence)
-	- Knowledge of Internet protocols (e.g., TCP/IP, BGP, OSPF, TACACS, IPSEC, SNMP, SYSLOG)
-	- Speech (NLP: ASR, MT, NLP, NLU, TTS, DM, and ASP)
-	- Experience with SQL and Statistical/mathematical programming software packages (R, SPSS, CPLEX, LONDO or Xpress etc)
-	- ***Programming skills sufficient to extract, transform, and clean large (multi-TB) data sets in a Unix/Linux environment.***
-	- Experience with NLP libraries such as SpaCy, Stanford CoreNLP, OpenNLP, or NLTK
-	- ***Experience with big data techniques (such as Hadoop, MapReduce, Hive, Pig, Spark)***
-	- ***Familiar with one or more machine learning, statistical modeling tools such as R, Matlab, scikit learn and deep learning frameworks, such as tensorflow, keras, caffe, torch.***
-	- skill set for data science:
-		* ***Technical mastery in one or more of the following languages/tools to wrangle and understand data: Python (NumPy, SciPy, scikit-learn), Spotfire, Tableau.***
-		* ***Experience with Spark (MapReduce, PIG, HIVE)***
-		* 5+ years of experience with R or Python and some knowledge of SQL and experience with other software environments e.g. SAS, Matlab, Spotfire, Tableau, Qlikview, SPSS, KNIME and/or other data mining tools. Experience with other software components for data preparation and integration e.g. Data Virtualization and Big Data tools such as Hadoop and Spark and/or further programming or scripting environments e.g. .Net, Java, IronPython, Javascript, C++ is a plus.
-		* 5+ years of experience with R or Python and some knowledge of SQL and experience with other software environments e.g. SAS, Matlab, Spotfire, Tableau, Qlikview, SPSS, KNIME and/or other data mining tools. Experience with other software components for data preparation and integration e.g. Data Virtualization and Big Data tools such as Hadoop and Spark and/or further programming or scripting environments e.g. .Net, Java, IronPython, Javascript, C++ is a plus.
-	- stress testing (locust.io)
-	- designing high availability systems
-	- application security hardening
-	- distributed tracing (OpenTracing/Zipkin)
-	- collecting and analyzing performance metrics (InfluxDB, Prometheus, statsd, Grafana)
-	- Docker orchestration systems and cluster managers (Kubernetes, Mesos/Marathon, ECS)
-	- Experience in the technologies we use is helpful but not required. They are: Go for core infrastructure; ObjC, Java and C# for native UI development on iOS, OSX, Android and Windows; Node.js and IcedCoffeeScript for Web development; FUSE for client file systems; MySQL/InnoDB, DynamoDB, S3 and EC2 for hosting.
-	- Load testing frameworks/tools like JMeter, Gatling, Locust
-	- Java, Selenium, JUnit, Cucumber-JVM
-	- API Testing experience
-	- BDD (Cucumber, Gherkin)
-	- Experience implementing search solutions with technologies such as SOLR, Elasticsearch, Lucene is preferred.
-	- Python, Gherkin, Cucumber, Espresso, XUI Test
-	- Experience with testing technologies (JUnit, Espresso, Mockito, Robolectric)
-	- Unit Testing Tools  –  Google Test or CPPUnit ; Code quality tools
- 	- Familiarity with Linux, Maven, Git/Stash, Jira, Bamboo/Jenkins
-	- Experience with distributed messages systems ( Apache Kafka)
-	- Experience in CFD combustion or other reacting-flow simulations.
-	- tech stack
-		* Jira, Confluence, DevOps, Continuous Integration and Continuous Delivery, Microsoft Development Tools
-		* Git, MS Build, Team Foundation Server, Jenkins, Unit Testing, Powershell, Perl, C#, .NET, Visual Studio, Python
-	- tech stack:
-		* Excellent skills in creating high-fidelity prototypes using Invision, Principle, Code or similar
-		* Relevant experience in agile methodologies (Scrum, Agile, etc) and PM tools (e.g. Jira, Pivotal Tracker, Confluence etc.)
-		* Experience with relational (e.g. MySQL, PostgreSQL) and NoSQL (e.g. MongoDB, ElasticSearch) databases
-	- tech stack:
-		* Expertise in Go preferred, but not required. If you’re new to Go, then proficiency in a mainstream language such as Java, Python, C++, Scala, etc.., and a willingness to learn Go required.
-		* You've got experience writing, deploying and monitoring microservices.
-		* Working knowledge of SQL and relational databases(we use Postgres)
-		* You've used an RPC framework like gRPC or Thrift.
-		* You have high level experience working in a containerized infrastructure deployed in the cloud(AWS, GCP, Azure)
-	- tech stack:
-		* Experience with NoSQL databases. MongoDB is a plus
-		* Experience with real-time and streaming data processing
-		* Experience with queuing platforms like Kafka
-		* Knowledge of BigQuery
-		* Familiarity with GCP/AWS cloud services
-		* Familiarity with TensorFlow
-		* Comfortable with CI/CD Pipelines
-		* Experience with Git version control
-	- tech stack:
-		* Ability to configure and maintain webservers (e.g. apache & nginx), DNS servers, Firewalls, LDAP servers, Tomcat servers
-		* Ability to back up the Data infrastructure
-		* Ability to manage/configure  Git, Maven and Jenkins
-		* Managing QA/production release and deployment
-		* Ability to Install/Configure/Manage VM servers using OpenStack
-		* Ability to install configure or manage Monitoring servers using Opensource softwares
-		* Experience with Amazon Web Services:
-		* autoscaling, & use of Netflix Asgard
-		* ELB management,
-		* EBS storage management
-		* S3
-		* RDS
-		* Manage configuration using Puppet
-		* Familiar with Cloud Computing in genera
-	- tech stack:
-		* ReactJS
-		* GraphQL
-		* Apollo Client & Server
-		* Some Redux
-		* Using ES6/7 features throughout the app so knowledge on those is a plus.
-		* We use Cypress for testing
-		* CircleCI for continuous integration.
-		* Functional programming principles in React with Recompose
-	- Celery
-	- Elasticsearch and ELK pipeline
-	- LibreOffice, Apache OpenOffice, and NeoOffice.
-	- Tech stack is described as:
-		* Front­end: JavaScript (ES5/ES6), AJAX, jQuery, React/Angular/Vue, Bootstrap, templating, markdown/markup, built tools, task runners, PWAs, etc...
-		* Middle­tier: REST and RESTful interfaces, AJAX, RPC, WebSockets/Socket.io, Web Workers, Node.js/Express, etc…
-		* Back­end: SQL/No­SQL databases, Message Queue Systems, Big Data systems, Node.js, MongoDB, Redis, etc…
-	- Sets of skills
-		* data science skill set:
-			+ Implement scalable algorithms and services using technologies such as Scala, Akka, elasticsearch, Kafka, Cassandra and Hadoop technologies such as Hive, Spark or MapReduce
-			+ Hands-on experience in analyzing large datasets (e.g. with SQL, Python, R, Hive, etc.)
-			+ Some knowledge and experience in working with technologies such as Kafka, Cassandra, Elasticsearch, Akka, Kubernetes, etc.
-			+ Experience in Scala or Java is a plus
-			+ You are fluent in English; German skills are a plus
-		* AWS cloud services: EC2, EMR, RDS, Lambda, Redshift
-		* NoSQL databases, such as HBase, Cassandra, MongoDB, or DynamoDB
-		* messaging systems, such as AWS SQS, AWS Kinesis, Kafka, or RabbitMQ, ZeroMQ
-		* big data tools and stream-processing systems: Hadoop, Spark, Storm, Spark-Streaming
-		* **Expertise and experience in Revit, Dynamo and/or other Revit scripting languages**... Strong background in computational design and design analysis... Fluency in a technical programming language (python, javascript, C#) is highly desired.
-		* Understanding of standard networking protocols and components such as: TCP/IP, HTTP, DNS, ICMP, the OSI Model, Subnetting, and Load Balancing
-		* Knowledge of routing protocols such as BGP and OSPF
-		* data pipeline and workflow management tools: Azkaban, Luigi, Airflow
-		* Very well versed with ADT, ORU, ORM and document exchange messages specification
-		* Develop public APIs on either APIGEE
-		* DBT experience
-		* Object oriented programming experience (e.g. using Java, J2EE, EJB, .NET, WebSphere, etc.).
-		* data interchange formats like JSON and XML
-		* Knowledge in machine learning framework - Tensorflow, Caffe, Torch or Theano
-		* Django, Ruby on Rails, Flask
-		* Must have experience with working on few technologies such as spring framework, SpringBoot, SpringMVC, JPA, MyBatis, Tomcat, Nginx
-		* Experience with performance optimization of queries in Redshift & Postgres
-		* Knowledge of authentication protocols such as basic and digest authentication, SAML, LDAP, and OAuth.
-		* In-Memory caching technologies, such as memcached or Redis
-		* Cutting edge C++ knowledge (C++17, C++20)
-		* stream pipelines and all sorts of datastores (SQL, NoSQL, triplestores, wide column, graph)
-		* Knowledge of data standards, file formats, and biomedical ontologies and vocabularies such as SNOMED-CT, UMLS, etc. DICOM
-		* all types of datastores - NoSQL, wide column, Graph, triplestores
-		* Spark, Kafka
-		* Experience with stream pipelines and data store technologies (nosql, wide column and graph). We are Currently using Cassandra, Kafka, Amazon dynamoDB, Redis, Neo4j and Mysql.
-		* NLP library: spaCy, NLTK, GATE, CoreNLP, gensim
-		* Deep Learning applied to NLP, for example through distributed representations (e.g. Word2Vec, fastText, etc)
-		* large databases (e.g. THIN)
-		* Monitoring solutions experience (ELK, NewRelic)
-		* Infrastructure-as-code and automation tools (e.g. Terraform, Ansible/Chef, Cloud Formation)
-		* Configure and Monitor SIEMS and DLP systems
-		* RxJava, Kotlin, Dagger
-		* big data platform tools such as Hadoop, Hive, Druid, Kafka, Ambari, Spark
-		* Experience with common security tools such as nmap, Burp Proxy, Brakeman, etc.
-		* Experience with bug bounty programs and reporting issues to them (send examples, please!)
-		* Familiarity with search domain (Information retrieval, NLP, Solr/ Lucene or related tech)
-		* data management tools in on a big data plate form such as Atlas, Ranger , Knox
-		* implementing BI solutions in a heavily regulated environment e.g. PII, GDPR, HIPPA & SOX
-		* big data platform tools such as Hadoop, Hive Druid, Kafka, Ambari, Spark, Zeppelin
-		* PowerBI, Tableau, Qlikview
-		* Production experience with AWS tools including at least some of the following: EC2, S3, Kinesis, CloudFormation, Redshift
-		* Experience with at least one data warehousing platform (Redshift, Athena, Hive, Snowflake, etc.)
-		* Knowledge of a majority of the following: Elixir, Erlang, Ruby, JavaScript, PHP, Postgresql, MySQL, Apache Solr, Elasticsearch.
-		* Knowledge of web frameworks (like Sinatra/Rails), testing frameworks (like Rspec/Minitest) and Javascript. Experience with Ruby, MySQL and Apache Solr is a plus.
-		* Experience with Java, Boost, QML, Jira, JavaScript, React, or DDP
-		* Demonstrated proficiency with Docker and container orchestration technologies (Kubernetes, ECS, etc.)
-		* Expertise with AWS services such as EC2, IAM, S3, etc.
-		* Expertise with several continuous integration technologies (Jenkins, Ansible, CloudFormation, Terraform, etc.)
-		* Experience with load balancing technologies such as ELB, NGINX, etc.
-		* Experience with network technologies like DNS, AWS security groups, VPCs, etc.
-		* Extensive experience manipulating and analyzing complex data with SQL, Python and/or R. Knowledge of Google BigQuery and Java/Scala is a plus.
-		* Tools: Slurm, Docker, Grafana.
-		* skill set:
-			+ Bachelor’s degree in Computer Science, Math, Statistics, Economics, or other quantitative field; Masters or PhD strongly preferred
-			+ Significant experience in custom ETL design, implementation and maintenance, including serving machine learning models in production for multiple high-growth companies, preferably those with technical products
-			+ Track record of developing and evolving complex data environments and intelligence platforms for business users
-			+ Demonstrable ability to relate high-level business requirements to technical ETL and data infrastructure needs, including underlying data models and scripts
-			+ History of proactively identifying forward-looking data engineering strategies, utilizing cutting-edge technologies, and implementing at scale
-			+ Hands-on experience with schema design and dimensional data modeling
-			+ Understanding of statistical modeling, machine learning and data mining concepts
-			+ Demonstrable critical thinking and analytical skills, including the ability and confidence to make conclusions and recommendations from data
-			+ Experience interacting with key stakeholders in different fields, interpreting challenges and opportunities into actionable engineering strategies
-			+ Experience with Big Data/distributed frameworks such as Spark, Kubernetes, Hadoop, Hive, Presto,
-			+ Experience with job schedulers; Airflow, Luigi, Azkaban, etc.
-			+ Experience with continuous integration and automation tools and processes
-			+ Advanced SQL and relational database knowledge (MySQL, PostgreSQL) in addition to warehousing and dimension modeling
-			+ Scripting in Python required, experience with Scala/Go a plus
-			+ Programming against APIs required
-			+ Experience with Snowflake and/or Looker a plus
-			+ Effective communication and interpersonal skills
-		* skill set:
-			+ Bachelor’s degree in Computer Science, Math, Statistics, Economics, or other quantitative field; Masters or PhD strongly preferred
-			+ Previous experience in data science or quantitative analytics role, preferably in a high-growth company
-			+ Comprehensive understanding of statistical modeling, machine learning and data mining concepts, and experience applying these methods within a business environment
-			+ Strong knowledge of Python. Familiarity with at least one statistical modeling / machine learning tool such as R or Matlab is a plus, as well as experience with languages such as Scala or Go
-			+ Expert knowledge of, and hands-on experience with, SQL
-			+ Demonstrable critical thinking and analytical skills, including the ability and confidence to make conclusions and recommendations from data
-			+ Experience interacting with key stakeholders in different fields, interpreting challenges and opportunities into actionable data-driven analysis and implementing science-driven data products
-		* skill set:
-			+ Agile development approaches
-				- Lean-startup and design-thinking inspired methods incorporating short product development, business-hypothesis-driven experimentation, iterative product releases, and validated learning
-			+ Programming languages and operating systems
-				- Python
-				- Javascript
-				- Unix/Linux/MacOSX
-				- RDF, JSON-LD, SPARQL
-			+ Tools
-				- Git
-				- Slack
-				- JIRA
-			+ Web app development
-				- Django
-				- Django REST Framework (for API development)
-				- Node
-			+ Backend
-				- SOLR/Lucene or ElasticSearch
-				- Amazon Web Services (AWS) or other cloud service providers
-				- “Serverless” computing (e.g., AWS Lambda)
-				- Application containerization (such as Docker or Kubernetes)
-			+ Javascript frameworks
-				-  Vue and/or Nuxt
-				- Webpack
-			+ Mobile development
-				- Using responsive design and development techniques, possibly including the use of Progressive Web Application (PWA) techniques and technologies
-			+ Other
-				- Topic modeling (ideally using Mallet)
-				- Video formats and metadata (for both archiving and streaming)
-				- RDF, JSON-LD, Sparql and GraphQL for knowledge graph development and use
-				- Content markup including:  HTML, XML, ePUB, PDF
-				- Named Entity Recognition (NER)
-				- Experience applying statistics, modeling, and machine learning
-		* skill set:
-			+ SQL, javascript, and google appscript
-			+ Familiarity with HR systems and tools (e.g. Workday, Reflektive, Zugata, Culture Amp)
-			+ You are a skilled engineer. You've got a strong background working in our stack (Python, Django or React, ES6 or Node.js, etc.) -- even if you aren't a daily coder, you regularly exercise your coding muscles and try to be an asset on any technical context your team may need.
-			+ Help the team build tools for partners and developers that come to our platform to create Apps that live on Zapier. Imagine Postman meets OpenAPI on steroids.
-		* tech stack:
-			+ Research publications at relevant conferences such as SIGGRAPH, ACM Trans on Graphics, CVPR, ICCV, ICCP, SPIE, JOSA a major plus.
-			+ Expertise in Deep Learning, Machine learning and familiarity with tools like Scipy, Boost, Caffe, TensorFlow, OpenCV, DLIB etc. and related areas.
-		* tech stack:
-			+ Publication record in top conferences (ICML, ICLR, NIPS, KDD, IJCAI, AAAI etc )
-			+ Good knowledge and handson experience in distributed technologies such as Hadoop, Hive, Spark Experience in Scala programming language.
-			+ Publications in relevant top venues (e.g., KDD, NIPS, ICML, AAAI, IJCAI, ICDM, ACL etc.)
-			+ You have publications in communities such as WWW, SIGIR, FAT*, NeurIPS, WSDM, SIGDIAL, RecSys, CHI, KDD, AAAI, ACL, ICML, or related.
-			+ You have hands-on experience implementing production machine learning systems at scale in Java, Scala, Python, or similar languages. Experience with XGBoost, TensorFlow is also a plus.
-			+ You preferably have experience with data pipeline tools like Apache Beam or even our open source API for it, Scio and cloud platforms like GCP or AWS.
-			+ Extensive experience manipulating and analysing complex data with SQL, Python and/or R. Knowledge of Google BigQuery and Java/Scala is a plus.
-			+ Familiarity with marketing tracking platforms (e.g. DoubleClick, Google Tag Manager, Google Analytics) preferred
-			+ Become an expert on leveraging existing state-of-the-art tooling into the Spotify eco-system (TensorFlow, TFX, Kubeflow Pipelines, Cloud Bigtable)
-			+ Contribute to new and existing Spotify open source machine learning and data processing products (scio, zoltar)
-			+ You preferably have experience with data processing and storage frameworks like Google Cloud Dataflow, Hadoop, Scalding, Spark, Storm, Cassandra, Kafka, etc.
-			+ Extensive publication record at peer-reviewed ML conferences (e.g. NIPS, ICML, AISTATS, UAI, COLT, ICLR, AAAI, etc) as well conferences with applied ML (e.g. KDD, WSDM, WWW, CIKM, RecSys, etc).
-		* tech stack:
-			+ Security and privacy
-			+ Virtualization and container technologies (e.g., Xen and Docker)
-			+ Cloud services (e.g., AWS and Azure)
-			+ Distributed programming tools (e.g., Hadoop, Cassandra, and ZooKeeper)
-			+ In-home wireless network protocols (WiFi, Bluetooth, Zigbee, and Z-wave)
-			+ Systems for machine learning training and inference (Tensorflow, MXNet, Caffe etc)
-			+ Storage systems
-		* Experience with open source platforms like Hadoop, Spark, Hive, Pig; and/or ML life-cycle/collaboration/automation platforms like AirFlow, FB Learner, MLFlow; and/or assistants like Alexa, a plus.
-		* "Knowledge of Bayesian Global Optimization tools and technique"
-		* Working with Big Data, ML, AI. Keras, TensorFlow, Python, Redshift, S3, Spark, Random Forests and Vowpal Wabbit
-		* Experience implementing production-ready machine learning solutions is a plus
-		* You’ll lead, analyze, implement, and socialize a robust A/B/multivariate testing program, collaborating closely with product, engineering, marketing, and content.
-		* You’re familiar with all aspects of SEO: on-page, external, and technical, and you have used tools such as ahrefs, DeepCrawl, Screaming Frog, SEMRush, and Google Search Console to optimize for search.
-		* Set of skills:
-			+ Experience with modern programming languages (Java, Scala, Go, TypeScript)
-			+ Database / Data Storage experience (SQL / MySQL, MongoDB, DynamoDB)
-			+ Interest in Infrastructure Tooling (Docker, Nomad, Consul, Vault, Prometheus)
-		* RStudio packages: The tidyverse, R Markdown, and Shiny
-		* A sample of the technologies you’ll be exposed to: Python, Javascript/Angular, Impala (Big data data database), AWS, Docker, Kubernetes, Git.
-		* Experience with Python ORMs like SQLAlchemy and Python libraries like Pandas, Scikit-Learn, Numpy and Scipy
-		* Should have experience in dealing with XML and JSON data formats.
-		* Knowledge in Hadoop (HDFS, YARN), its programming models (MapReduce, Spark), and its services such as Hive, HBase etc.
-		* Technical Fluency.  Languages and tools such as Python/Java/Scala, AWS (S3/EMR/Athena/Glue) and SQL. Experience with big data processing tools including Spark, Hadoop, Hive, Yarn, and Airflow. Experience working with either a MapReduce system of any size/scale.
-		* Experience writing production datasets in SQL/Hive OR building internal/production data tools for ETL, experimentation, or exploration in a scripting language (Python, R, etc.)
-		* Very strong experience in scaling and optimizing schemas, performance tuning SQL and ETL pipelines in the OLTP, OLAP and Data Warehouse environments
-		* Passionate about various technologies including but not limited to SQL/No SQL/MPP databases etc.
-		* Hands-on experience with Big Data technologies (e.g Hadoop, Hive, Spark)
-		* Ansible: it’s not that bad, and helps us move quickly, but any configuration management tool is applicable.
-		* Elasticsearch / Kibana: You can readily access information & love metrics
-		* Familiarity with common web application testing tools for DAST, SAST, and IAST analysis such as Burp Suite, Checkmarx, Veracode
-		* Completed graduate-level coursework in survey statistics—bonus points if you've completed coursework in adjacent fields/methods (e.g., econometrics, NLP, experimental design, political science, or quantitative social psychology)
-		* Exposure to container technologies - container orchestrators (Kubernetes, Mesos, Docker Swarm Mode) is a plus
-		* Experience with Cloud based services, Microservices a Cloud Computing class or similar experience
-		* Technical Skills needed: vSphere, vSAN, NSX, vROps, Storage, Database, Middleware, and Scripting
-		* Experience of Unity, C# and 3D application development.
-		* Working knowledge of HMD (ie Oculus, HTC Vive, Hololens)
-		* Experience with Hololens, HTC Vive, Oculus, Google Cardboard and other leading AR/VR platforms
-		* Knowledge of NoSQL technologies (e.g. Cassandra, MongoDB, Redis, etc.) and/or search-based datastores and libraries (Lucene, Solr, etc.)
-		* Experience within the domain of Advanced Analytics and Data Science is highly desirable, e.g. hands-on experience with solutions such as Spark, MapReduce, Python, Redshift, Hive, Pig and visualization tools.
-		* Hadoop data platform is capable of supporting a growing list of downstream platforms like Tableau, Zeppelin etc.
-		* Expertise with Hive, YARN, Spark, Presto, Kafka, SOLR, Oozie, Sentry, Encryption, Hbase, etc.
-		* API development
-		* You highly experienced with JavaScript/Node.js, SQL/NoSQL databases
-		* We are fans of the Lean Startup methodology, we love Trello, Jira, Slack
-		* We are cloud agnostic and run our infrastructure and systems on Azure, AWS, as well as dedicated servers.
-		* Experience utilising Portfolio & Project Management (PPM) tools such as CA PPM (Clarity), ServiceNow, JIRA, Microsoft Project Server, etc.
-		* project management tools (JIRA, Confluence),
-		* big data platform tools such as Hadoop, Hive, Druid, Kafka, Ambari, Spark
-		* web analytics platforms such as Google Analytics, Appsflyer or Mixpanel
-		* NoSQL databases, such as MongoDB, Cassandra, HBase
-		* Proficiency in using query languages such as SQL on a big data platform e.g. Hadoop, Hive
-		* data visualisation tools, such as D3.js, GGplot, Tableau etc.
-		* Excellent understanding of machine learning techniques and algorithms, such as k-NN, Naive Bayes, SVM, Decision Forests, etc.
-		* Apache Kafka
-		* vw / xgboost
-		* Knowledges of Web test frameworks like Selenium, React.js, Headless Chromium is a plus
-		* a set of skills:
-			+ Statistical analysis and modeling
-			+ Database architectures
-			+ Hadoop-based technologies (e.g. MapReduce, Hive and Pig)
-			+ SQL-based technologies (e.g. PostgreSQL and MySQL)
-			+ NoSQL technologies (e.g. Cassandra and MongoDB)
-			+ Data modeling tools (e.g. ERWin, Enterprise Architect and Visio)
-			+ Python, C/C++ Java, Perl
-			+ MatLab, SAS, R
-			+ Data warehousing solutions
-			+ Predictive modeling, NLP and text analysis
-			+ Machine learning
-			+ Data mining
-			+ UNIX, Linux, Solaris and MS Windows
-			+ Python (3.5>=), packages: argparse, shapely, Munkres, numpy, cv2, logging, Pillow
-		* ES6
-		* Plotly.js
-		* OpenLayers
-	- UI/UX:
-		* Experience using design tools such as Photoshop, Illustrator, Sketch, InDesign, etc. for creating highly-detailed mockups
-		* Some awareness of the technology which will serve your designs and implementations, such as apache/nginx, Flask/django, PostgreSQL/MySQL, git, websockets, etc.
-		* Bootstrap, bulma, etc.
-+ Finish assignments 1 and 2 for the data science course.
-+ Run automated regression testing, and/or regression verification, to put
++ [x] Run automated regression testing, and/or regression verification, to put
 		the experimental results of each build in the correct directory.
 		And, commit and push that build to the cloud-based research repository.
 + Create scripts for performance measurement and analysis.
@@ -1392,6 +653,756 @@ Flags for work-in-progress:
 	- Implement my adversarial machine learning software solution as
 		hardware (VLSI system).
 + Implement my solution for adversarial machine learning using NBL.
+
+
+
+##	Sets of skills
+
++ skill set:
+	- Understand data landscape i.e tooling, tech stack, source systems etc. and work closely with the data Engineering team to improve the data collection and quality.
+	- Ability to define and spot macro and micro levels trends with statistical significance on a regular basis and understand key drivers driving those trends.
+	- 8+ years of data analyst experience with 4+ years of proven industry experience in a large scale environment(PBs scale, globally distributed teams).
+	- Strong experience in Python, R, SQL, Tableau, Google Analytics, Hive and BigQuery (or any other Big data/Cloud equivalent) etc.
++ skill set:
+	- Build and Support scalable and reliable data solutions that can enable self-service reporting and advanced analytics at Cloudflare using modern data lake and EDW technologies (Hadoop, Spark, Cloud, NoSQL etc.) in a agile manner.
+	- 3+ years of development experience in Big data space working with Petabytes of data and building large scale data solutions.
+	- Solid understanding of Google Cloud Platform, Hadoop, Python, Spark, Hive, and Kafka.
+	- Experience in all aspects of data systems(both Big data and traditional) including data schema design, ETL, aggregation strategy, and performance optimization.
+	- Capable of working closely with business and product teams to ensure data solutions are aligned with business initiatives and are of high quality.
++ skill set:
+	- Partner and align with business leaders, stakeholders, product managers and internal teams to understand the business and product challenges and goals and address them using predictive analytics in a globally distributed environment.
+	- Understand data landscape i.e tooling, tech stack, source systems etc. and work closely with the data Engineering team to improve the data collection and quality.
+	- Understand business/product strategy and high-level roadmap and align analysis efforts to enable them with data insights and help achieve their strategic goals.
+	- Strong audience focused presentation and storytelling skills focused on key takeaways in a crisp and concise manner.
+	- Define hypothesis driven models and best practices to derive and publish model scores/insights/learnings at scale within the company.
+	- Ability to define and spot macro and micro levels trends with statistical significance on a regular basis and understand key drivers driving those trends.
+	- 8+ years of data scientist experience with 4+ years of proven industry experience in a large scale environment(PBs scale, globally distributed teams).
+	- Proven lead in driving multi-million dollar revenue generator models for the company and setting up data science related best practices at a company.
+	- 2+ years experience with a fast-growing SaaS business based company is preferred.
+	- Strong experience in Python, R, Spark, SQL, Tableau, Google Analytics, Hive and BigQuery (or any other Big data/Cloud equivalent) etc.
++ skill set:
+	- Solid foundation in computer science, with strong competencies in algorithms, data structures, software design, web security, and building large, distributed systems
+	- Excel at planning, working multi-functionally, leading execution across teams to meet commitments and deliver with predictability
+	- Demonstrate a track record of leading teams, including hiring, onboarding, and professional development. You inspire your team to reach higher. You’re as good as explaining “why” as you are “how”
+	- Experience implementing tools, process, internal instrumentation, methodologies and resolving blockages
+	- Demonstrated ability to recruit and hire top talent
+	- Comfortable managing teams/projects with tight deadlines and short release cycles
+	- Experience working with and getting the best out of post-doctorate researchers
+	- Being passionate about cryptography and/or web technology such as TLS
+	- Familiarity working with DNS, database systems, Internet performance, and/or Internet security
++ skill set:
+	- You will help build customer facing apps and our core platform to create, improve, and scale agricultural models. Our culture is built on cross-disciplinary collaboration, learning, and rapid prototyping. CiBO is a science-based company, so prepare to learn and invent with us!
+	- Graduate degree in a technical field and 5+ years experience as a Data Scientist working on commercial software products
+	- Experience engineering production-level software systems evidenced by having built a parallel/distributed system, using software best practices, performance optimizations, or an automated pipeline to interpret other data science experiments
+	- Experience applying the scientific method to complex, multivariate unstructured problems to produce rigorously-defendable conclusion in prose and graphics
+	- Experience across and significant work in at least one of clustering and classification, multivariate regression, prediction, and forecasting; and dimensionality reduction and feature engineering
+	- Experience or interest in Bayesian methods of crafting generative probabilistic models; engineering informative priors and solution via MCMC
+	- Experience collecting, curating, structuring and retrieving large data sets in relational databases.
+	- Additional experience with NoSQL preferred
+	- Experience with either time-series or spatial statistics, especially Gaussian Processes
+	- Experience creating complex data visualizations for multivariate data
+	- Experience with AWS or other programmatic distributed computing environments
+	- Experience with Bayesian non-parametrics (CRP, IBP, etc.)
+	- Experience with advanced MCMC techniques such as DREAM, Hamiltonian-MC, variational approximations, etc.
+	- Experience or keen interest in FP (Scala, Haskell, Clojure, Erlang, OCaML/SML, Elm, F\#)
++ skill set: Use Python, React/Redux, Spark, Presto, Airflow, Git, CircleCI, and more.
++ Experience with data analytics platforms, such as Semantic Pro, Semantic Cortex, IBM i2
++ Experience in working with large data sets and distributed computing tools (Hive, Redshift) is a plus
++ Experience using vector editors like Figma or Sketch and prototyping tools like Principle or Framer
++ You are an expert in AfterEffects, Cinema 4D, Sketch, Principle
++ You will be expected to have a good understanding of a broad range of traditional supervised and unsupervised techniques (e.g. logistic regression, SVMs, GBDTs, Random Forests, k-means and other clustering techniques, matrix factorization, LDA . . .) as well as be up to date with latest ML advances (e.g. Deep Neural Networks, or non-parametric Bayesian methods).
++ Conduct testing such as functional testing, user acceptance testing (UAT), automated acceptance testing (AAT), and specification by example.
++ skill set:
+	- 3+ years of experience in machine learning, data mining, natural language processing, information retrieval, or statistical analysis
+	- Experience working with large data sets using open source technologies such as Spark, Hadoop, and NoSQL
+	- Experience developing and productizing real-world AI/ML applications such as prediction, personalization, recommendation, content understanding and NLP
+	- Experience working with at least 3 of the following popular machine learning frameworks/libraries: sklearn, tensorflow, pytorch, caffe, keras, theano, cntk, mxnet, spark mllib
+	- Experience developing and deploying deep learning NLP models is a plus
+	- Experience working with a knowledge graph is a plus
++ tech stack:
+	- Experience with Deep Learning frameworks, e.g., PyTorch, DeepLearning4J, TensorFlow
+	- Experience in SPARK (using Python or Scala). Knowledge of AWS services will be appreciated.
++ tech stack:
+	- 2+ years of analytical work experience (experience working with product organizations a plus)
+	- Strong critical thinking and problem solving skills
+	- Experience  communicating effectively with non-technical audiences
+	- Strong ability to devise data-driven solutions to business problems
+	- Strong competency with SQL
+	- Experience with or exposure to a scripting language (Python preferred)
++ tech stack:
+	- 5+ years of relevant analytical experience working with data or MS in a relevant technical field and 2+ years of analytical work experience (experience working with product organizations a plus)
+	- Strong critical thinking and problem solving skills
+	- Comfort and expertise communicating effectively with a wide-range of audiences (including product managers, engineers, business development managers, occasionally executives)
+	- Strong ability to devise data-driven solutions to business problems
+	- Ability to drive impact by thoughtfully tackling open-ended problems
+	- Strong data intuition and deep understanding of and experience with statistical and/or ML modeling techniques
+	- Strong competency with SQL
+	- Fluency in a scripting language (Python preferred)
+	- A plus: Experience with large scale data processing tools (Apache Spark) or implementing systems in production at scale
++ tech stack:
+	- Netflix culture resonates with you.
+	- You can communicate effectively with experts of all backgrounds.
+	- You are an expert analyst and can pick up any tool (e.g. Tableau, D3) to get the job done.
+	- You dream in SQL and Python (or other similar languages).
+	- You are comfortable with Big Data technologies like Hadoop, Spark, Hive, Presto etc.
++ Expertise in SQL, programming (e.g. Python, Scala), ETL and data warehousing concepts at scale (TBs of data)
++ Expertise in broad technical skills spanning data access, data storage, data processing, and data visualization.  Skills include: SQL, logical / semantic data modeling, ETL and data warehousing concepts, programming languages (Python)
++ Expertise in statistical inference including experimentation and observational methods to causal inference
++ Strong coding experience. Experience with open-source ML packages (specifically sklearn, TensorFlow/Keras/PyTorch).
++ tech stack:
+	- 5+ years of research experience with a track record of delivering quality results
+	- Expertise in machine learning spanning supervised and unsupervised learning methods
+	- Experience in successfully applying machine learning to real-world problems
+	- Strong mathematical skills with knowledge of statistical methods
+	- Strong software development experience in languages such as Scala, Java, Python, C++ or C#
+	- Great interpersonal skills
+	- PhD or MS in Computer Science, Statistics, or related field
+	- Experience in Recommendation Systems, Personalization, Search, or Computational Advertising
+	- Experience using Deep Learning, Bandits, Probabilistic Graphical Models, or Reinforcement Learning in real applications
+	- Experience in optimization algorithms and numerical computation
+	- Experience with Spark, TensorFlow, or Keras
+	- Experience with cloud computing platforms and large web-scale distributed systems
+	- Open source contributions
++ tech stack:
+	- 5+ years of research experience with a track record of delivering quality results
+	- Expertise in machine learning spanning supervised and unsupervised learning methods
+	- Experience in contextual multi-armed bandit algorithms and/or reinforcement learning
+	- Experience in successfully applying machine learning to real-world problems
+	- Strong mathematical skills with knowledge of statistical methods
+	- Strong software development experience in languages such as Scala, Java, Python, C++ or C#
+	- Great interpersonal skills
+	- PhD or MS in Computer Science, Statistics, or related field
+	- Recommendation Systems, Personalization, Search, or Computational Advertising
+	- Deep Learning or Causal Inference
+	- Optimization algorithms and numerical computation
+	- Spark, TensorFlow, or Keras
+	- Cloud computing platforms and large web-scale distributed systems
++ tech stack:
+	- Write C++ code to tackle scientific algorithmic problems such as: transforming 3D coordinates, Metropolis Monte Carlo simulation, Gradient Descent minimization, and others.
+	- Implement highly optimized multi-threaded C++ or CUDA code that scales well on cloud infrastructure.
+	- Work closely with other software engineers via code reviews and testing to foster high-quality software and systems.
+	- Solid computer science fundamentals, with strong competencies in data structures, algorithms, and compilers.   
+	- Experience profiling C/C++ code to find and fix performance bottlenecks.
+	- Comfort with the Linux command-line environment.
+	- Background in Biology, Chemistry or Physics.
+	- Familiarity working with Docker and Kubernetes.
+	- Knowledge of parallel computing paradigms and demonstrated proficiency in some of the following: openMP, CUDA, or openCL.
+	- https://www.atomwise.com/jobs/senior-software-engineer-scientific-computing/
++ tech stack:
+	- You should think about joining us if you care about making a difference in treating disease and saving human lives. But also, if you are up to tackling some of the hardest open challenges in deep learning today:
+		+ Non-stationary, unbalanced, and noisy data: Our training data is seldom i.i.d.; new medicines are unlocked by pushing out into newly-discovered biology. Classes are extremely unbalanced, ratios of 1 positive to 70,000 negatives are typical. Help us reason about how to learn appropriately without dismissing nor overfitting to the data; identify when we can trust a label or have confidence in a prediction; and develop techniques to find and correct for systemic biases.
+		+ Extreme scaling: Medicinal chemists can synthesize about a trillion trillion molecules today. Help us scale predictive algorithms to orders of magnitude beyond those contemplated in any other problem domain today.
+		+ Multi-parameter optimization: Medicine has to be both safe and effective, so we have to concurrently optimize a number of criteria such as potency, selectivity, solubility, toxicity, synthesizability, etc. Help us efficiently explore the Pareto frontier and avoid mode collapse.
+		+ Adversarial generation of synthetic data: Data augmentation has shown utility in improving the robustness of predictions. Help us find ways to best integrate molecular physics simulation and machine learning to impute new data.
+		+ Explainability and visualization: Subtle patterns govern molecular recognition. Help us to understand how they lead to the discovery of fundamental chemistry by AI.
+	- Ph.D. or M.Sc. in computer science, statistics, data science, or related field
+	- 5+ years of extensive practical experience and proven track record of developing, implementing, debugging, and extending machine learning algorithm
+	- Knowledge of modern neural network frameworks such as Tensorflow, Torch, or Theano
+	- Strong analytical and statistical skills
+	- Scientific rigor, healthy skepticism, and detail-orientation in running and analyzing experiments
+	- Familiarity with processing large data sets in a Linux environment
+	- Software engineering skills and coding experience in at least one high-level programming language (Python, R, Java, C/C++, etc.)
+	- Biomedical knowledge or experience in processing chemical or biological data is preferred but not required
+	- Experience with cloud computing environments (AWS/Azure/GCE)
+	- https://www.atomwise.com/jobs/senior-machine-learning-research-scientist/
++ tech stack:
+	- Interact with customers to understand their project requirements.
+	- Generate and analyze predictive results, and deliver these to our clients.
+	- Communicate our results and capabilities through scientific publications.
+	- Analyze, curate, and automate the processing of our biochemical databases.
+	- Help to develop our modeling software.
+	- Ph.D. in chemistry, biology or a related field.
+	- Extensive knowledge of medicinal chemistry.
+	- Minimum 3 years of experience in lead optimization at a pharmaceutical company.
+	- Experience in Computer-Aided Drug Design: structure/ligand-based drug design, molecular docking, virtual screening, QSAR, pharmacophore modeling, PK/PD data analysis and modeling.
+	- Comfortable on the Linux command-line.
+	- Undergraduate knowledge of statistics.
+	- Good knowledge of Python, Perl, Bash, or related scripting languages.
+	- Statistical modeling.
+	- Experience with cloud computing environments (AWS/Azure/GCE).
+	- https://www.atomwise.com/jobs/senior-computational-chemist/
++ tech stack:
+	- M.Sc/Ph.D. in Computer Science, Statistics, Cheminformatics, Bioinformatics, Computational Biology or B.S. in Computer Science with 7+ years experience.
+	- Strong computer science fundamentals
+	- 5+ years of experience in database engineering, data processing pipelines, and HPC
+	- Strong database design and software-engineering best practices
+	- Strong knowledge of statistics, data analytics, and data visualization
+	- Strong coding skills in at least one high-level programming language (Python, Java, C++, etc)
+	- Good familiarity with Linux command-line environment
+	- Experience in bioinformatics or cheminformatics, working with ingestion of third-party and internal data sources
+	- Experience working with scalable algorithms utilizing large amounts of data
+	- Experience with cloud computing environments (AWS/Azure/GCE)
+	- Experience with non-relational databases
+	- Familiarity with organic chemistry
+	- https://www.atomwise.com/jobs/senior-data-engineer-cheminformatics-bioinformatics/
++ tech stack:
+	- Hadoop ecosystem and its components.
+	- Hadoop, Hive, HBase, and Pig
+	- Working experience in HQL
+	- Pig Latin Scripts and MapReduce jobs
+	- Hands-on experience in backend programming, particularly Java, and Node.js
+	- Analytical and problem-solving skills
++ Expertise in additional statistical methods (e.g., Bayesian approaches, dyadic analysis, causal inference approaches, factor analysis, SEM)
++ Use of Jira and A-Ha planning tools.
++ Build data tooling to enable data lake, data warehouse, and analytics workflows within the AWS cloud (S3, Redshift, DynamoDB, Spark, Kinesis, Kubernetes, etc.)
++ Experience with SAML, OAuth
++ Working with Jira and Confluence a plus.
++ Experience working with modern deep learning software architecture and frameworks including: Tensorflow, MxNet, Caffe, Caffe2, Torch, and/or PyTorch.
++ Experience with configuration management systems (Ansible and/or Puppet, Saltstack)
++ tech stack:
+	- Remote hardware administration with IPMI
+	- Configuration and management of
+	- SGE/Univa, Slurm, LSF or other DRMS
+	- Jenkins CI
+	- Phabricator
+	- FlexLM licensing
+	- Puppet, Ansible, Nagios
+	- LLVM, GCC
+	- DVCS e.g. Git
+	- AWS, Azure, Google Cloud
+	- XML and XPath/XSLT
+	- Web programming – HTML/DOM, JavaScript, SQL
+	- A solid knowledge about how orchestration tools (Kubernetes, Swarm, OpenStack, etc) can be used to deploy, scale, and operate virtualized entities
+	- Understand CPU virtualization and container technology from the inside out (hypervisors, Xen, LXC, Docker)
+	- The role involves using a range of technologies, such as Python, CMake, BuildBot, Phabricator, AWS etc.
+	- Good knowledge of management and security frameworks (SNMP/MIB agents, CLI, RESTful API, OpenBMC) is very useful
+	- Knowledge of storage systems (File, Block) is a plus (Local/Network/Cloud Attached)
+	- Knowledge of ILOM, BMC, and OCP (Open Compute) is a plus
+	- Test automation experience (Some exposure to CTest is desirable)
++ Bonus: Prior experience with Zendesk, Jira or Asana, SQL, in Customer Service or Hospitality
++ Producing effective and interactive data visualizations (Tableau, Shiny, D3)
++ Experience with Databricks or Spark, EMR
++ Bonus points for experience building interactive data visualizations using libraries like D3, Highcharts, and Leaflet, and for experience working with big data systems like Hive, Hadoop, Scalding and Spark.
++ Experience with Scala, Scalding, Luigi,Hive, machine learning pipelines and model training is a plus
++ Automate DB (Oracle, Postgres, MongoDB, ...) configuration, deployment, backups, ...
++ Experience with at least one of: Oracle, Postgres, MongoDB, Solr
++ Chef/Puppet/Ansible/Terraform experience is nice to have
++ Experience with full-text search engines (Solr, Elasticsearch).
++ Familiarity with Docker (and Kubernetes/Mesos Marathon)
++ Familiarity with Angular framework
++ You will work with technologies like: AWS, Docker (Mesos/Kubernetes), HashiCorp tools (Terraform, Consul, Vault,...), Chef, Ansible, SQL and NoSQL databases, Nginx, ...
++ Elasticsearch, Hadoop, Big Data experience is a plus
++ workflow management tools like Airflow
++ search backends like ElasticSearch
++ Spark and/or other big data architectures (Hadoop, MapReduce) in high-volume environments
++ VM embeddings in other systems (e.g., DBMSs, Big Data frameworks, Microservices, etc.)
++ Virtual machines: Managed runtime systems (e.g., JVM, Dalvik VM, Android Runtime (ART), LLVM, .NET CLR, RPython, etc.)
++ We preferred students experienced in the use of ROS (Robot Operating System) and simulation engines such as Unity3D and Unreal Engine 4.
++ ***Knowledge of parallelism in shared (Intel TBB, OpenMP) and distributed (Intel MPI, Apache Spark, Dask) memory***
++ Speech (NLP: ASR, MT, NLP, NLU, TTS, DM, and ASP)
++ Knowledge of OpenCL/SYCL languages
++ ***Experience with large-scale, distributed data processing frameworks (e.g., Spark, Kafka, YARN, Tachyon, Mesos, etc.) is a plus***
++ Domain knowledge and project experience in below area will be a plus: x86 architecture; Linux kernel; Virtualization; Cloud SW stacks; Big data; Machine Learning, compiler and run time optimization, etc.
++ Knowledge of Linux and/or Windows programming and computer graphics including OpenCL\*, OpenGL\*, DirectX\*
++ ***Open-source projects that demonstrate relevant skills  and/or publications in relevant conferences and journals (e.g. NIPS, ICML, ICLR, CVPR, ICCV, ECCV, ICASSP)***
++ ***Experience working with analytics tools such as Google Analytics, Heap Analytics, Chartmogul, Baremetrics, Periscope, Tableau, Mode Analytics, Looker, or similar***
++ tech stack: Golang, AWS (DynamoDB, Lambda, EC2, Kinesis, SQS, S3), ReactJS, Snowflake, Terraform, Redis, SolrCloud, Kafka, Riak, Docker/Kubernetes, and Linux
++ tech stack:
+	-  Solid knowledge in control theory, especially model predictive control
+	- Experience in one or more of the following areas:
+		* Robust control
+		* Adaptive control
+		* Nonlinear control
+		* State estimation
+		* Parameter estimation
+		* Model identification
+		* Optimization
+	- Experience in one or more of the following areas:
+		* Control theory
+		* Motion planning
+		* Optimization
+		* Formal logic
+		* Game AI development
+	- Experience with sensors: cameras, lidars, ultrasonic, etc.
+	- Computer vision experience, image processing experience
++ You know what the CAP theorem is and you feel confident that you can speak to what it does and does not cover in systems design.
++ Expert in prototyping traditional ML (GBMs, scikit, etc.) and AI frameworks (keras, tensorflow, mxnet, pytorch, etc.) for a variety of applications
++ tech stack:
+	- Knowledge of dsx, IGC, and IA
+	- Web service development with NodeJS (Backend server Javascript), front-end Javascript and Flask (Open source python library)
+	- Both relational database and NoSQL database technologies
+	- The main responsibility will be to enable different personas like Data Scientist, Data Curator, and Data Engineer to collaborate with each other on their Data Journey and work with various products like dsx, IGC, IA, and DFD.
++ tech stack:
+	- PHP5, PHP7, HTML5, CSS3, JavaScript, Jquery, MySQL, NoSql
+	- Should have in depth understanding in LAMP stack
+	- Must have Good OOP (Object Oriented Programming) concepts
+	- Knowledge in MVC Framework e.g (Zend Framework, Laravel)
+	- Clear understanding of JSON, AJAX, XML, CURL, Web Service
+	- Knowledge of the Linux command line tools optional
+	- Good to have experience in Angular JS and Node JS, concept of UI/UX
+	- Experience in handling large database, including designing & advanced querying in MySql
+	- Good knowledge of version control tools like GIT, SVN
++ Versatile with languages and technologies. You pick the right technology for the job. You might have dabbled with iOS, Android, React Native or Flutter; you tinkered with TensorFlow, Caffe or Torch; you know when to use Mongo vs Redshift; and you have an opinion on web frameworks.
++ OpenStack:
+	- Dashboard (Horizon)
+	- Compute Service (Nova)
+	- Networking (Neutron)
+	- Object store (Swift)
+	- Identity service (Keystone)
+	- Metering & Data Collection Service (Ceilometer)
+	- Orchestration (Heat)
+	- Bare Metal Provisioning Service (Ironic)
+	- Container Orchestration Engine Provisioning (Magnum)
+	- Computable object storage (Storlets)
+	- Deploys OpenStack using OpenStack itself (Tripleo)
+	- Billing and chargebacks (Cloudkitty)
+	- Optimization Service (Watcher)
+	- Distributed SDN controller (Dragonflow)
+	- OpenStack Networking integration for containers (Kuryr)
+	- NFV Orchestration (Tacker)
+	- Networking Automation for Multi-Region Deployments (Tricircle)
+	- Command-line interface for all OpenStack services (Openstackclient)
+	- Instances High Availability Service (Masakari)
+	- Lightweight OCI containers (LOCI)
+	- EC2 API proxy (EC2API)
+	- Official Python SDK for OpenStack APIs (Openstacksdk)
+	- Block Storage (Cinder)
+	- Image service (Glance)
+	- Big Data Processing Framework Provisioning (Sahara)
+	- Application Catalog (Murano)
+	- Containers Service (Zun)
+	- Puppet modules to deploy OpenStack (Puppet-openstack)
+	- Clustering service (Senlin)
+	- Event, Metadata Indexing Service (Panko)
+	- Root Cause Analysis service (Vitrage)
+	- Load balancer (Octavia)
+	- Accelerators resource management (Cyborg)
+	- Deploys OpenStack in containers using Helm (Openstack-helm)
+	- OpenStack Storage integration for containers (Fuxi)
+	- Client library for interacting with OpenStack clouds (Shade)
+	- Database as a Service (Trove)
+	- Shared filesystems (Manila)
+	- DNS service (Designate)
+	- Key management (Barbican)
+	- Governance (Congress)
+	- Software Development Lifecycle Automation (Solum)
+	- Deploys OpenStack in containers using Ansible (Kolla-ansible)
+	- Monitoring (Monasca)
+	- Workflow service (Mistral)
+	- Functions Service (Qinling)
+	- RPM package specs to deploy OpenStack (RPM-packaging)
+	- Messaging Service (Zaqar)
+	- Ansible playbooks to deploy OpenStack (Openstack-ansible)
+	- Benchmark service (Rally)
+	- Application Data Protection as a Service (Karbor)
+	- Backup, Restore, and Disaster Recovery (Freezer)
+	- Packaging-rpm (Packaging-rpm)
+	- Indexing and Search (Searchlight)
+	- Deploys OpenStack in containers using Charms and Juju (Openstack-charms)
+	- Resource reservation service (Blazar)
+	- Alarming Service (Aodh)
+	- Ansible playbooks using ironic (Bifrost)
+	- Chef cookbooks to deploy OpenStack (Chef-openstack)
+	- EC2 API compatibility layer for OpenStack (Ec2-api)
+	- Python Software Development Kit (Python SDK)
+	- Ansible playbooks and roles for deployment (OpenStackAnsible)
++ Silicon bring-up
++ Silicon characterisation
++ Massively parallel computing systems
++ Laravel
++ SQL working experience (Redshift/PostgreSQL/MySQL)
++ Experience working with a CI system is preferred (ex. TeamCity, Concourse, Jenkins, etc.)
++ Functional test automation tool experience is preferred (ex. Junit, TestNG, Serenity, etc.)
++ Experience with profiling tools like PerfView (CPU, Memory, Garbage collection)
++ Expert knowledge of debugging and crash dump analysis in Windbg
++ Experience wrangling very large datasets by writing and maintaining data processing pipelines with Hadoop, Spark, BigQuery, Redshift, or similar
++ Google Data Studio
++ The successful candidate would be strong in SQL, AWS, Snowflake, Databricks, and Python.
++ Experience with streaming data frameworks like spark streaming, kafka streaming, Flink and similar tools a plus.
++ Experience with large scale messaging systems like Kafka or RabbitMQ or commercial systems.
++ Experience with working with and operating workflow or orchestration frameworks, including open source tools like Airflow and Luigi or commercial enterprise tools.
++ [Plus] Familiarity with interactive data visualization using tools like D3.js
++ Experience with MPP databases, such as Snowflake, Redshift, BigQuery, Vertica, etc.
++ A fluidity with tools commonly used for data analysis such as Python (numpy, pandas, and scikit learn), R, and Spark (MLlib).
++ Experience with at least one prototyping tool (eg. Axure, Framer, Principle)
++ Proficiency in developing pixel perfect mockups using Sketch and/or Adobe Design tools.
++ Analyze all aspects of the Snowflake Query Engine and drive initiatives to understand what bottlenecks may exist and to improve them.  
++ Build integration code with many cutting-edge technologies and processes, including Python 3, Go, Presto, AWS, ML, NLP.
++ Experience with cloud APIs (e.g., a public cloud such as AWS, Azure, GCP or an advanced private cloud such as Google, Facebook)
++ Prior experience with infrastructure automation frameworks (Ansible, Terraform, Chef or Puppet, etc.)
++ ***Experience with one of the ML platforms: Python / scikit-learn, Spark, vowpal wabbit, etc***
++ Virtualization and containerization (Xen, LXC, cgroups, Docker, Kubernetes)
++ tech stack:
+	- Well-versed in one or more of the following languages and functional programming in general: Scala, Java, Python, JavaScript
+	- Expert in SQL and comfortable designing, writing and maintaining complex SQL based ETL.
+	- Experience with building large-scale batch and real-time data pipelines; ETL design, implementation, and maintenance.
+	- Experience with schema design and data modeling, and the analytical skills to QA data and identify gaps and inconsistencies.
++ tech stack:
+	- Write complex data flows using SQL, frameworks (e.g., Scalding, Spark), and scripting languages (e.g., Python, R)
+	- Use data visualization tools (e.g., Tableau, Zeppelin) to share ongoing insights.
+	- Skilled with Figma (or Sketch) and prototyping tools such as Framer, Principle
+	- You have a deep and nuanced understanding of statistics, especially involving class imbalance problems.
+	- Scalding
+	- Full Stack Development
+	- Presto or Hive
+	- Spark
++ Knowledge of source control tools (Git, CodeCommit, SVN, and TFS), build/release tools (Jenkins, CodeBuild, CodeDeploy, CodePipeline), and infrastructure as code tools (Terraform, CloudFormation)
++ Experience in working with large data sets and distributed computing tools (Hive, Redshift)
++ skill set:
+	- B.S. or M.S. in Economics, Statistics, or a similar field and 1+ year work experience in data science or analytics, or Ph.D. in a quantitative social/behavioral science (e.g. Economics, Sociology, Psychology, Statistics, or a similar field)
+	- Coursework in experimental design, causal inference, and/or econometrics
+	- Experience running and analyzing behavioral experiments
+	- Statistical intuition and knowledge of various hypothesis testing and regression approaches, e.g. hierarchical modeling, difference-in-differences
+	- Familiarity with Python or similar scripting language
+	- Experience communicating technical statistical concepts clearly, for example, teaching or consulting
+	- Demonstrated ability working effectively with cross-functional teams
+	- Experience using git and pushing to a codebase
+	- Experience with software engineering projects or coursework
++ skill set:
+	- B.S., M.S., or Ph.D. in a quantitative field
+	- 4+ years work experience in an analytical or quantitative role as a Data Scientist
+	- 2+ years experience working on product analytics in a two-sided marketplace
+	- Extensive experience generating insights using statistical techniques (e.g. regression, hypothesis testing)
+	- Demonstrated ability to clearly explain data results to cross-functional teams
+	- Experience using a procedural programming language (e.g. Python, R) to manipulate, clean, and analyze data
+	- Ability to exercise judgment and combine quantitative skills with intuition and common sense
+	- Experience evangelizing best practices and process improvements on your team
+	- Experience working with large data sets and distributed computing tools (e.g. Redshift, Presto)
+	- Experience pushing code and navigating a complex codebase
+	- Active Quora user with curiosity about the product
+	- Deep experience with MySQL, NoSQL datastores like HBase or similar
+	- Strong grasp of Configuration Management (Chef, Puppet, Ansible, Salt Stack)
+- skills to develop:
+	- Deep understanding of at least one popular server side MVC Framework (e.g Django, Rails, AngularJS etc).
+	- Knowledge of backend storage systems like MySQL, HBase, Memcached, Redis, Kafka etc.
+	- Experience working with open source technologies like Kafka, Hadoop, Hive, Presto, and Spark
+	- Take end to end ownership of Machine Learning systems - from data pipelines and training, to realtime prediction engines.
+	- General understanding of Machine Learning at the level of a semester-long ML class (college or multiple MOOCs)
++ skill set:
+	- Deep knowledge of web technologies, e.g. HTML, CSS. Experience with LESS or SASS is a plus.
+	- Deep knowledge of JavaScript frameworks, e.g. jQuery. Experience with pure Javascript is a plus.
+	- Some knowledge of server-side languages and web frameworks. Experience with Python is a plus.
+	- Experience debugging across multiple browsers. Experience with UI testing tools like Selenium or phantomJS is a plus.
+	- Experience optimizing the speed and performance of websites.
+	- Experience maintaining large and growing code bases in a fast-moving environment.
+	- Interest in staying current with new and evolving web technologies.
++ skill set:
+	- 7+ years of industry/academic experience in Machine Learning or related field
+	- You will be expected to have a good understanding of a broad range of traditional supervised and unsupervised techniques (e.g. logistic regression, SVMs, GBDTs, Random Forests, k-means and other clustering techniques, matrix factorization, LDA . . .) as well as be up to date with latest ML advances (e.g. Deep Neural Networks, or non-parametric Bayesian methods).
+	- Previous experience building end to end scalable Machine Learning systems
+	- Software engineering skills. Knowledge of Python and C++ is a plus.
+	- Knowledge of existing open source frameworks such as scikit-learn, Torch, Caffe, or Theano is a plus
+	- BS, MS, or PhD in Computer Science, Engineering, Statistics or a related technical field
+	- Love of the Quora product
++ skill set:
+	- BS, MS or PhD in Computer Science, Machine Learning, NLP or a related technical field
+	- 5+ years of industry experience preferred
+	- Good mathematical understanding of popular NLP and Machine Learning algorithms
+	- Experience building production-ready NLP or information retrieval systems
+	- Hands-on experience with NLP tools, libraries and corpora (e.g. NLTK, Stanford CoreNLP, Wikipedia corpus, etc)
+	- Knowledge of Python or C++, or the ability to learn them quickly
+	- Love of the Quora product
++ ***Experience building shallow or deep learning models (GBDT, CNN, RNN, LSTM), toolkits e.g. OpenCV, Matlab, RStudio, Weka, MLLib and frameworks PyTorch, TensorFlow, CNTK***
++ ***Expertise in multivariate analysis, graphical models, Bayesian hierarchical modelling, Markov chain Monte Carlo (MCMC), mixture models, stochastic processes, generalized linear models (GLMs), dimensionality reduction (PCA/CCA/MDS/tSNE) and other machine learning techniques***
++ Experience working with Atlassian products (JIRA, Confluence)
++ Knowledge of Internet protocols (e.g., TCP/IP, BGP, OSPF, TACACS, IPSEC, SNMP, SYSLOG)
++ Speech (NLP: ASR, MT, NLP, NLU, TTS, DM, and ASP)
++ Experience with SQL and Statistical/mathematical programming software packages (R, SPSS, CPLEX, LONDO or Xpress etc)
++ ***Programming skills sufficient to extract, transform, and clean large (multi-TB) data sets in a Unix/Linux environment.***
++ Experience with NLP libraries such as SpaCy, Stanford CoreNLP, OpenNLP, or NLTK
++ ***Experience with big data techniques (such as Hadoop, MapReduce, Hive, Pig, Spark)***
++ ***Familiar with one or more machine learning, statistical modeling tools such as R, Matlab, scikit learn and deep learning frameworks, such as tensorflow, keras, caffe, torch.***
++ skill set for data science:
+	- ***Technical mastery in one or more of the following languages/tools to wrangle and understand data: Python (NumPy, SciPy, scikit-learn), Spotfire, Tableau.***
+	- ***Experience with Spark (MapReduce, PIG, HIVE)***
+	- 5+ years of experience with R or Python and some knowledge of SQL and experience with other software environments e.g. SAS, Matlab, Spotfire, Tableau, Qlikview, SPSS, KNIME and/or other data mining tools. Experience with other software components for data preparation and integration e.g. Data Virtualization and Big Data tools such as Hadoop and Spark and/or further programming or scripting environments e.g. .Net, Java, IronPython, Javascript, C++ is a plus.
+	- 5+ years of experience with R or Python and some knowledge of SQL and experience with other software environments e.g. SAS, Matlab, Spotfire, Tableau, Qlikview, SPSS, KNIME and/or other data mining tools. Experience with other software components for data preparation and integration e.g. Data Virtualization and Big Data tools such as Hadoop and Spark and/or further programming or scripting environments e.g. .Net, Java, IronPython, Javascript, C++ is a plus.
++ stress testing (locust.io)
++ designing high availability systems
++ application security hardening
++ distributed tracing (OpenTracing/Zipkin)
++ collecting and analyzing performance metrics (InfluxDB, Prometheus, statsd, Grafana)
++ Docker orchestration systems and cluster managers (Kubernetes, Mesos/Marathon, ECS)
++ Experience in the technologies we use is helpful but not required. They are: Go for core infrastructure; ObjC, Java and C# for native UI development on iOS, OSX, Android and Windows; Node.js and IcedCoffeeScript for Web development; FUSE for client file systems; MySQL/InnoDB, DynamoDB, S3 and EC2 for hosting.
++ Load testing frameworks/tools like JMeter, Gatling, Locust
++ Java, Selenium, JUnit, Cucumber-JVM
++ API Testing experience
++ BDD (Cucumber, Gherkin)
++ Experience implementing search solutions with technologies such as SOLR, Elasticsearch, Lucene is preferred.
++ Python, Gherkin, Cucumber, Espresso, XUI Test
++ Experience with testing technologies (JUnit, Espresso, Mockito, Robolectric)
++ Unit Testing Tools  –  Google Test or CPPUnit ; Code quality tools
++ Familiarity with Linux, Maven, Git/Stash, Jira, Bamboo/Jenkins
++ Experience with distributed messages systems ( Apache Kafka)
++ Experience in CFD combustion or other reacting-flow simulations.
++ tech stack
+	- Jira, Confluence, DevOps, Continuous Integration and Continuous Delivery, Microsoft Development Tools
+	- Git, MS Build, Team Foundation Server, Jenkins, Unit Testing, Powershell, Perl, C#, .NET, Visual Studio, Python
++ tech stack:
+	- Excellent skills in creating high-fidelity prototypes using Invision, Principle, Code or similar
+	- Relevant experience in agile methodologies (Scrum, Agile, etc) and PM tools (e.g. Jira, Pivotal Tracker, Confluence etc.)
+	- Experience with relational (e.g. MySQL, PostgreSQL) and NoSQL (e.g. MongoDB, ElasticSearch) databases
++ tech stack:
+	- Expertise in Go preferred, but not required. If you’re new to Go, then proficiency in a mainstream language such as Java, Python, C++, Scala, etc.., and a willingness to learn Go required.
+	- You've got experience writing, deploying and monitoring microservices.
+	- Working knowledge of SQL and relational databases(we use Postgres)
+	- You've used an RPC framework like gRPC or Thrift.
+	- You have high level experience working in a containerized infrastructure deployed in the cloud(AWS, GCP, Azure)
++ tech stack:
+	- Experience with NoSQL databases. MongoDB is a plus
+	- Experience with real-time and streaming data processing
+	- Experience with queuing platforms like Kafka
+	- Knowledge of BigQuery
+	- Familiarity with GCP/AWS cloud services
+	- Familiarity with TensorFlow
+	- Comfortable with CI/CD Pipelines
+	- Experience with Git version control
++ tech stack:
+	* Ability to configure and maintain webservers (e.g. apache & nginx), DNS servers, Firewalls, LDAP servers, Tomcat servers
+	* Ability to back up the Data infrastructure
+	* Ability to manage/configure  Git, Maven and Jenkins
+	* Managing QA/production release and deployment
+	* Ability to Install/Configure/Manage VM servers using OpenStack
+	* Ability to install configure or manage Monitoring servers using Opensource softwares
+	* Experience with Amazon Web Services:
+	* autoscaling, & use of Netflix Asgard
+	* ELB management,
+	* EBS storage management
+	* S3
+	* RDS
+	* Manage configuration using Puppet
+	* Familiar with Cloud Computing in genera
+- tech stack:
+	* ReactJS
+	* GraphQL
+	* Apollo Client & Server
+	* Some Redux
+	* Using ES6/7 features throughout the app so knowledge on those is a plus.
+	* We use Cypress for testing
+	* CircleCI for continuous integration.
+	* Functional programming principles in React with Recompose
+- Celery
+- Elasticsearch and ELK pipeline
+- LibreOffice, Apache OpenOffice, and NeoOffice.
+- Tech stack is described as:
+	* Front­end: JavaScript (ES5/ES6), AJAX, jQuery, React/Angular/Vue, Bootstrap, templating, markdown/markup, built tools, task runners, PWAs, etc...
+	* Middle­tier: REST and RESTful interfaces, AJAX, RPC, WebSockets/Socket.io, Web Workers, Node.js/Express, etc…
+	* Back­end: SQL/No­SQL databases, Message Queue Systems, Big Data systems, Node.js, MongoDB, Redis, etc…
+========================================
+- Sets of skills
+	* data Science:
+		+ Knowledge of ElasticSearch/Solr/Lucene is a big plus.
+		+ Understanding in Java server platform and system tuning is a plus.
+		+ Knowledge with vector space models, text classification and categorization.
+		+ Implement high-quality code in an agile software development environment.
+	* data science skill set:
+		+ Implement scalable algorithms and services using technologies such as Scala, Akka, elasticsearch, Kafka, Cassandra and Hadoop technologies such as Hive, Spark or MapReduce
+		+ Hands-on experience in analyzing large datasets (e.g. with SQL, Python, R, Hive, etc.)
+		+ Some knowledge and experience in working with technologies such as Kafka, Cassandra, Elasticsearch, Akka, Kubernetes, etc.
+		+ Experience in Scala or Java is a plus
+		+ You are fluent in English; German skills are a plus
+	* AWS cloud services: EC2, EMR, RDS, Lambda, Redshift
+	* NoSQL databases, such as HBase, Cassandra, MongoDB, or DynamoDB
+	* messaging systems, such as AWS SQS, AWS Kinesis, Kafka, or RabbitMQ, ZeroMQ
+	* big data tools and stream-processing systems: Hadoop, Spark, Storm, Spark-Streaming
+	* **Expertise and experience in Revit, Dynamo and/or other Revit scripting languages**... Strong background in computational design and design analysis... Fluency in a technical programming language (python, javascript, C#) is highly desired.
+	* Understanding of standard networking protocols and components such as: TCP/IP, HTTP, DNS, ICMP, the OSI Model, Subnetting, and Load Balancing
+	* Knowledge of routing protocols such as BGP and OSPF
+	* data pipeline and workflow management tools: Azkaban, Luigi, Airflow
+	* Very well versed with ADT, ORU, ORM and document exchange messages specification
+	* Develop public APIs on either APIGEE
+	* DBT experience
+	* Object oriented programming experience (e.g. using Java, J2EE, EJB, .NET, WebSphere, etc.).
+	* data interchange formats like JSON and XML
+	* Knowledge in machine learning framework - Tensorflow, Caffe, Torch or Theano
+	* Django, Ruby on Rails, Flask
+	* Must have experience with working on few technologies such as spring framework, SpringBoot, SpringMVC, JPA, MyBatis, Tomcat, Nginx
+	* Experience with performance optimization of queries in Redshift & Postgres
+	* Knowledge of authentication protocols such as basic and digest authentication, SAML, LDAP, and OAuth.
+	* In-Memory caching technologies, such as memcached or Redis
+	* Cutting edge C++ knowledge (C++17, C++20)
+	* stream pipelines and all sorts of datastores (SQL, NoSQL, triplestores, wide column, graph)
+	* Knowledge of data standards, file formats, and biomedical ontologies and vocabularies such as SNOMED-CT, UMLS, etc. DICOM
+	* all types of datastores - NoSQL, wide column, Graph, triplestores
+	* Spark, Kafka
+	* Experience with stream pipelines and data store technologies (nosql, wide column and graph). We are Currently using Cassandra, Kafka, Amazon dynamoDB, Redis, Neo4j and Mysql.
+	* NLP library: spaCy, NLTK, GATE, CoreNLP, gensim
+	* Deep Learning applied to NLP, for example through distributed representations (e.g. Word2Vec, fastText, etc)
+	* large databases (e.g. THIN)
+	* Monitoring solutions experience (ELK, NewRelic)
+	* Infrastructure-as-code and automation tools (e.g. Terraform, Ansible/Chef, Cloud Formation)
+	* Configure and Monitor SIEMS and DLP systems
+	* RxJava, Kotlin, Dagger
+	* big data platform tools such as Hadoop, Hive, Druid, Kafka, Ambari, Spark
+	* Experience with common security tools such as nmap, Burp Proxy, Brakeman, etc.
+	* Experience with bug bounty programs and reporting issues to them (send examples, please!)
+	* Familiarity with search domain (Information retrieval, NLP, Solr/ Lucene or related tech)
+	* data management tools in on a big data plate form such as Atlas, Ranger , Knox
+	* implementing BI solutions in a heavily regulated environment e.g. PII, GDPR, HIPPA & SOX
+	* big data platform tools such as Hadoop, Hive Druid, Kafka, Ambari, Spark, Zeppelin
+	* PowerBI, Tableau, Qlikview
+	* Production experience with AWS tools including at least some of the following: EC2, S3, Kinesis, CloudFormation, Redshift
+	* Experience with at least one data warehousing platform (Redshift, Athena, Hive, Snowflake, etc.)
+	* Knowledge of a majority of the following: Elixir, Erlang, Ruby, JavaScript, PHP, Postgresql, MySQL, Apache Solr, Elasticsearch.
+	* Knowledge of web frameworks (like Sinatra/Rails), testing frameworks (like Rspec/Minitest) and Javascript. Experience with Ruby, MySQL and Apache Solr is a plus.
+	* Experience with Java, Boost, QML, Jira, JavaScript, React, or DDP
+	* Demonstrated proficiency with Docker and container orchestration technologies (Kubernetes, ECS, etc.)
+	* Expertise with AWS services such as EC2, IAM, S3, etc.
+	* Expertise with several continuous integration technologies (Jenkins, Ansible, CloudFormation, Terraform, etc.)
+	* Experience with load balancing technologies such as ELB, NGINX, etc.
+	* Experience with network technologies like DNS, AWS security groups, VPCs, etc.
+	* Extensive experience manipulating and analyzing complex data with SQL, Python and/or R. Knowledge of Google BigQuery and Java/Scala is a plus.
+	* Tools: Slurm, Docker, Grafana.
+	* skill set:
+		+ Bachelor’s degree in Computer Science, Math, Statistics, Economics, or other quantitative field; Masters or PhD strongly preferred
+		+ Significant experience in custom ETL design, implementation and maintenance, including serving machine learning models in production for multiple high-growth companies, preferably those with technical products
+		+ Track record of developing and evolving complex data environments and intelligence platforms for business users
+		+ Demonstrable ability to relate high-level business requirements to technical ETL and data infrastructure needs, including underlying data models and scripts
+		+ History of proactively identifying forward-looking data engineering strategies, utilizing cutting-edge technologies, and implementing at scale
+		+ Hands-on experience with schema design and dimensional data modeling
+		+ Understanding of statistical modeling, machine learning and data mining concepts
+		+ Demonstrable critical thinking and analytical skills, including the ability and confidence to make conclusions and recommendations from data
+		+ Experience interacting with key stakeholders in different fields, interpreting challenges and opportunities into actionable engineering strategies
+		+ Experience with Big Data/distributed frameworks such as Spark, Kubernetes, Hadoop, Hive, Presto,
+		+ Experience with job schedulers; Airflow, Luigi, Azkaban, etc.
+		+ Experience with continuous integration and automation tools and processes
+		+ Advanced SQL and relational database knowledge (MySQL, PostgreSQL) in addition to warehousing and dimension modeling
+		+ Scripting in Python required, experience with Scala/Go a plus
+		+ Programming against APIs required
+		+ Experience with Snowflake and/or Looker a plus
+		+ Effective communication and interpersonal skills
+	* skill set:
+		+ Bachelor’s degree in Computer Science, Math, Statistics, Economics, or other quantitative field; Masters or PhD strongly preferred
+		+ Previous experience in data science or quantitative analytics role, preferably in a high-growth company
+		+ Comprehensive understanding of statistical modeling, machine learning and data mining concepts, and experience applying these methods within a business environment
+		+ Strong knowledge of Python. Familiarity with at least one statistical modeling / machine learning tool such as R or Matlab is a plus, as well as experience with languages such as Scala or Go
+		+ Expert knowledge of, and hands-on experience with, SQL
+		+ Demonstrable critical thinking and analytical skills, including the ability and confidence to make conclusions and recommendations from data
+		+ Experience interacting with key stakeholders in different fields, interpreting challenges and opportunities into actionable data-driven analysis and implementing science-driven data products
+	* skill set:
+		+ Agile development approaches
+			- Lean-startup and design-thinking inspired methods incorporating short product development, business-hypothesis-driven experimentation, iterative product releases, and validated learning
+		+ Programming languages and operating systems
+			- Python
+			- Javascript
+			- Unix/Linux/MacOSX
+			- RDF, JSON-LD, SPARQL
+		+ Tools
+			- Git
+			- Slack
+			- JIRA
+		+ Web app development
+			- Django
+			- Django REST Framework (for API development)
+			- Node
+		+ Backend
+			- SOLR/Lucene or ElasticSearch
+			- Amazon Web Services (AWS) or other cloud service providers
+			- “Serverless” computing (e.g., AWS Lambda)
+			- Application containerization (such as Docker or Kubernetes)
+		+ Javascript frameworks
+			-  Vue and/or Nuxt
+			- Webpack
+		+ Mobile development
+			- Using responsive design and development techniques, possibly including the use of Progressive Web Application (PWA) techniques and technologies
+		+ Other
+			- Topic modeling (ideally using Mallet)
+			- Video formats and metadata (for both archiving and streaming)
+			- RDF, JSON-LD, Sparql and GraphQL for knowledge graph development and use
+			- Content markup including:  HTML, XML, ePUB, PDF
+			- Named Entity Recognition (NER)
+			- Experience applying statistics, modeling, and machine learning
+	* skill set:
+		+ SQL, javascript, and google appscript
+		+ Familiarity with HR systems and tools (e.g. Workday, Reflektive, Zugata, Culture Amp)
+		+ You are a skilled engineer. You've got a strong background working in our stack (Python, Django or React, ES6 or Node.js, etc.) -- even if you aren't a daily coder, you regularly exercise your coding muscles and try to be an asset on any technical context your team may need.
+		+ Help the team build tools for partners and developers that come to our platform to create Apps that live on Zapier. Imagine Postman meets OpenAPI on steroids.
+	* tech stack:
+		+ Research publications at relevant conferences such as SIGGRAPH, ACM Trans on Graphics, CVPR, ICCV, ICCP, SPIE, JOSA a major plus.
+		+ Expertise in Deep Learning, Machine learning and familiarity with tools like Scipy, Boost, Caffe, TensorFlow, OpenCV, DLIB etc. and related areas.
+	* Because compilers, interpreters, JIT, pre-processors, grammars, register allocation, term rewriting, LLVM and more are what brought us to computer science in the first place, Raincode Labs forms the largest independent compilation technology company in the world.
+	* tech stack:
+		+ Publication record in top conferences (ICML, ICLR, NIPS, KDD, IJCAI, AAAI etc )
+		+ Good knowledge and handson experience in distributed technologies such as Hadoop, Hive, Spark Experience in Scala programming language.
+		+ Publications in relevant top venues (e.g., KDD, NIPS, ICML, AAAI, IJCAI, ICDM, ACL etc.)
+		+ You have publications in communities such as WWW, SIGIR, FAT*, NeurIPS, WSDM, SIGDIAL, RecSys, CHI, KDD, AAAI, ACL, ICML, or related.
+		+ You have hands-on experience implementing production machine learning systems at scale in Java, Scala, Python, or similar languages. Experience with XGBoost, TensorFlow is also a plus.
+		+ You preferably have experience with data pipeline tools like Apache Beam or even our open source API for it, Scio and cloud platforms like GCP or AWS.
+		+ Extensive experience manipulating and analysing complex data with SQL, Python and/or R. Knowledge of Google BigQuery and Java/Scala is a plus.
+		+ Familiarity with marketing tracking platforms (e.g. DoubleClick, Google Tag Manager, Google Analytics) preferred
+		+ Become an expert on leveraging existing state-of-the-art tooling into the Spotify eco-system (TensorFlow, TFX, Kubeflow Pipelines, Cloud Bigtable)
+		+ Contribute to new and existing Spotify open source machine learning and data processing products (scio, zoltar)
+		+ You preferably have experience with data processing and storage frameworks like Google Cloud Dataflow, Hadoop, Scalding, Spark, Storm, Cassandra, Kafka, etc.
+		+ Extensive publication record at peer-reviewed ML conferences (e.g. NIPS, ICML, AISTATS, UAI, COLT, ICLR, AAAI, etc) as well conferences with applied ML (e.g. KDD, WSDM, WWW, CIKM, RecSys, etc).
+	* tech stack:
+		+ Security and privacy
+		+ Virtualization and container technologies (e.g., Xen and Docker)
+		+ Cloud services (e.g., AWS and Azure)
+		+ Distributed programming tools (e.g., Hadoop, Cassandra, and ZooKeeper)
+		+ In-home wireless network protocols (WiFi, Bluetooth, Zigbee, and Z-wave)
+		+ Systems for machine learning training and inference (Tensorflow, MXNet, Caffe etc)
+		+ Storage systems
+	* Experience with open source platforms like Hadoop, Spark, Hive, Pig; and/or ML life-cycle/collaboration/automation platforms like AirFlow, FB Learner, MLFlow; and/or assistants like Alexa, a plus.
+	* "Knowledge of Bayesian Global Optimization tools and technique"
+	* Working with Big Data, ML, AI. Keras, TensorFlow, Python, Redshift, S3, Spark, Random Forests and Vowpal Wabbit
+	* Experience implementing production-ready machine learning solutions is a plus
+	* You’ll lead, analyze, implement, and socialize a robust A/B/multivariate testing program, collaborating closely with product, engineering, marketing, and content.
+	* You’re familiar with all aspects of SEO: on-page, external, and technical, and you have used tools such as ahrefs, DeepCrawl, Screaming Frog, SEMRush, and Google Search Console to optimize for search.
+	* Set of skills:
+		+ Experience with modern programming languages (Java, Scala, Go, TypeScript)
+		+ Database / Data Storage experience (SQL / MySQL, MongoDB, DynamoDB)
+		+ Interest in Infrastructure Tooling (Docker, Nomad, Consul, Vault, Prometheus)
+	* RStudio packages: The tidyverse, R Markdown, and Shiny
+	* A sample of the technologies you’ll be exposed to: Python, Javascript/Angular, Impala (Big data data database), AWS, Docker, Kubernetes, Git.
+	* Experience with Python ORMs like SQLAlchemy and Python libraries like Pandas, Scikit-Learn, Numpy and Scipy
+	* Should have experience in dealing with XML and JSON data formats.
+	* Knowledge in Hadoop (HDFS, YARN), its programming models (MapReduce, Spark), and its services such as Hive, HBase etc.
+	* Technical Fluency.  Languages and tools such as Python/Java/Scala, AWS (S3/EMR/Athena/Glue) and SQL. Experience with big data processing tools including Spark, Hadoop, Hive, Yarn, and Airflow. Experience working with either a MapReduce system of any size/scale.
+	* Experience writing production datasets in SQL/Hive OR building internal/production data tools for ETL, experimentation, or exploration in a scripting language (Python, R, etc.)
+	* Very strong experience in scaling and optimizing schemas, performance tuning SQL and ETL pipelines in the OLTP, OLAP and Data Warehouse environments
+	* Passionate about various technologies including but not limited to SQL/No SQL/MPP databases etc.
+	* Hands-on experience with Big Data technologies (e.g Hadoop, Hive, Spark)
+	* Ansible: it’s not that bad, and helps us move quickly, but any configuration management tool is applicable.
+	* Elasticsearch / Kibana: You can readily access information & love metrics
+	* Familiarity with common web application testing tools for DAST, SAST, and IAST analysis such as Burp Suite, Checkmarx, Veracode
+	* Completed graduate-level coursework in survey statistics—bonus points if you've completed coursework in adjacent fields/methods (e.g., econometrics, NLP, experimental design, political science, or quantitative social psychology)
+	* Exposure to container technologies - container orchestrators (Kubernetes, Mesos, Docker Swarm Mode) is a plus
+	* Experience with Cloud based services, Microservices a Cloud Computing class or similar experience
+	* Technical Skills needed: vSphere, vSAN, NSX, vROps, Storage, Database, Middleware, and Scripting
+	* Experience of Unity, C# and 3D application development.
+	* Working knowledge of HMD (ie Oculus, HTC Vive, Hololens)
+	* Experience with Hololens, HTC Vive, Oculus, Google Cardboard and other leading AR/VR platforms
+	* Knowledge of NoSQL technologies (e.g. Cassandra, MongoDB, Redis, etc.) and/or search-based datastores and libraries (Lucene, Solr, etc.)
+	* Experience within the domain of Advanced Analytics and Data Science is highly desirable, e.g. hands-on experience with solutions such as Spark, MapReduce, Python, Redshift, Hive, Pig and visualization tools.
+	* Hadoop data platform is capable of supporting a growing list of downstream platforms like Tableau, Zeppelin etc.
+	* Expertise with Hive, YARN, Spark, Presto, Kafka, SOLR, Oozie, Sentry, Encryption, Hbase, etc.
+	* API development
+	* You highly experienced with JavaScript/Node.js, SQL/NoSQL databases
+	* We are fans of the Lean Startup methodology, we love Trello, Jira, Slack
+	* We are cloud agnostic and run our infrastructure and systems on Azure, AWS, as well as dedicated servers.
+	* Experience utilising Portfolio & Project Management (PPM) tools such as CA PPM (Clarity), ServiceNow, JIRA, Microsoft Project Server, etc.
+	* project management tools (JIRA, Confluence),
+	* big data platform tools such as Hadoop, Hive, Druid, Kafka, Ambari, Spark
+	* web analytics platforms such as Google Analytics, Appsflyer or Mixpanel
+	* NoSQL databases, such as MongoDB, Cassandra, HBase
+	* Proficiency in using query languages such as SQL on a big data platform e.g. Hadoop, Hive
+	* data visualisation tools, such as D3.js, GGplot, Tableau etc.
+	* Excellent understanding of machine learning techniques and algorithms, such as k-NN, Naive Bayes, SVM, Decision Forests, etc.
+	* Apache Kafka
+	* vw / xgboost
+	* Knowledges of Web test frameworks like Selenium, React.js, Headless Chromium is a plus
+	* a set of skills:
+		+ Statistical analysis and modeling
+		+ Database architectures
+		+ Hadoop-based technologies (e.g. MapReduce, Hive and Pig)
+		+ SQL-based technologies (e.g. PostgreSQL and MySQL)
+		+ NoSQL technologies (e.g. Cassandra and MongoDB)
+		+ Data modeling tools (e.g. ERWin, Enterprise Architect and Visio)
+		+ Python, C/C++ Java, Perl
+		+ MatLab, SAS, R
+		+ Data warehousing solutions
+		+ Predictive modeling, NLP and text analysis
+		+ Machine learning
+		+ Data mining
+		+ UNIX, Linux, Solaris and MS Windows
+		+ Python (3.5>=), packages: argparse, shapely, Munkres, numpy, cv2, logging, Pillow
+	* ES6
+	* Plotly.js
+	* OpenLayers
+- UI/UX:
+	* Experience using design tools such as Photoshop, Illustrator, Sketch, InDesign, etc. for creating highly-detailed mockups
+	* Some awareness of the technology which will serve your designs and implementations, such as apache/nginx, Flask/django, PostgreSQL/MySQL, git, websockets, etc.
+	* Bootstrap, bulma, etc.
 
 
 
@@ -1498,7 +1509,7 @@ Design for Security
 
 
 
-#	Operazione Andare a ICCAD
+#	Operazione Andare a HPCA
 
 + Find the cross-correlation of RTW waves.
 + Find the covariance of RTW waves.
