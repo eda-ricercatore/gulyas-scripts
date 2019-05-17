@@ -344,6 +344,7 @@ Flags for work-in-progress:
 	- Experience with a source code management/code review system (github, gerrit, etc).
 	- Familiarity working with monitoring tools like Icinga, Sensu, Ganglia, Statsd, Graphite, or the TICK stack is a plus.
 	- Ant, Maven, Git, SVN, Jenkins, Travis, Puppet, Ansible, Docker
+	- DevOps: Docker, SonarQube, Ansible, Gradle, Maven.
 	- administrating CI servers (preferable: Jenkins, GitLab CI)
 	- creating Continuous Integration environments
 	- configuration management tools (Ansible, Puppet, Chef... More than Git, Mercurial, SVN, and CVS)
@@ -469,6 +470,37 @@ Flags for work-in-progress:
 			+ Eclipse plug-ins plus Maven and Gradle tooling and XML editor.
 		* Eclipse for Scout Developers
 			+ For Java/HTML5 framework, develop business applications to run on desktop, on tablets, and mobile devices.
+	- data science skill sets:
+		* skill set:
+			+ Primary focus for the role is to transform development processes for existing applications software development into a Continuous Delivery-driven SDLC, influencing and educating development and QA teams to adjust working practices in alignment with modern day software development and delivery approaches (CI, CD, AWS). As a part of a DevOps team, the role is responsible for designing, implementing and maintaining automation processes needed to build and deploy software components in AWS cloud.
+			+ Software delivery automation (CD, CI)
+			+ Promotion and evangelization of DevOps best practices (CI, CD, automated testing, branching strategy, decoupling, etc…)
+			+ Simplification and improvement of software delivery/release processes
+			+ Support existing development processes
+			+ Support cloud-based solutions by building and managing infrastructures in AWS
+			+ Participate in services and software systems design
+			+ Monitor and fix issues identified or reported
+			+ Minor development for internal services and automation needs
+			+ Plan, coordinate and implement changes to maintained software configurations and installations
+			+ Interactions with development teams for task scheduling, clarification and implementation
+			+ Participation in deployment processes (development and testing)
+			+ Editing and maintenance of documentation for software architectures and automation processes
+			+ Be part of the L2 production support team supporting applications and third party tools which will include legacy application environments
+			+ BSc/MSc degree in the field of computer science is preferred, otherwise equivalent experience is expected
+			+ A minimum of 5 years of work experience as a Systems Administrator/DevOps supporting development teams
+			+ Excellent understanding of SDLC, patching, releases and software development at scale
+			+ Good understanding of enterprise standards and enterprise building principles
+			+ In-depth knowledge in Linux OS
+			+ Theoretical and practical skills in Web-environments based on Java technologies, e.g. Tomcat, Jetty, Jboss
+			+ Strong scripting skills in one or any combination of bash, python, perl, ruby
+			+ Good understanding of the mechanisms of Web-environment architectures approaches
+			+ Strong knowledge of cloud providers offering, AWS in particular
+			+ Good knowledge of a configuration management tool like Ansible, Packer.
+			+ Good knowledge of cloud infrastructure orchestration tools like CloudFormation or Terraform.
+			+ Basic knowledge on software delivery orchestration tools like Spinnaker, GoCD, Jenkins Pipelines, Nolio, IBM UberCode.
+			+ Strong practical knowledge of CI Tools, e.g. Jenkins
+			+ Excellent knowledge of Continuous Integration and Delivery approaches
+			+ Good understanding of enterprise search technologies, such as Elastic Search, Lucene, Solr is a plus
 + machine learning and data Visual_analytics
 	- graphx
 	- [mllib](https://spark.apache.org/mllib/)
@@ -1433,6 +1465,38 @@ Flags for work-in-progress:
 	- Working knowledge in Kubernetes, Rancher or Docker swarm.
 	- Ability to write clean and effective Godoc comments
 + Preferred Skills: Tensorflow, Slurm, Kubernetes
++ data science skills:
+	- Excellent understanding of ML, NLP, and statistical methodologies
+	- Excellent programming skills (Java/Python/R/Sas)
+	- Ability to test ideas and adapt methods quickly end to end from data extraction to implementation and validation
+	- Experience with search engines, classification algorithms, recommendation systems, and relevance evaluation methodologies a plus
+	- Specific Big Data experience on cloud computing platforms with technologies such as Hadoop, Mahout, Pig, Hive and Spark a plus
+	- 7+ years of experience with Data Science and Statistics, preferably in Life Sciences, and more specifically, in pharmaceuticals.
+	- The ability to tell a story about data, in particular with visualization.
+	- Solid understanding of statistics and the design and analysis of experiments. Solid skills in statistical language, SAS.
+	- Provides automated and ad-hoc analysis of experiments.
+	- Assesses and validates reliability of source data and business systems used to develop performance metrics.
+	- Prepares recommendations and conclusions based on data summaries and communicates this information in a credible, convincing and timely manner.
+	- Explores existing data for insights and recommends additional sources of data for improvements.
+	- Guide the architecture of “big-data” business processes with an eye towards robustness, parsimony and reproducibility (at senior levels)
+	- Define and develop software for the analysis and manipulation of large and very large data-sets
+	- Narrate stories (sometimes to a non-technical audience) about our content and processes by data analysis and visualization
+	- Collaborate with scientists, product groups and content groups to perform “big data” aggregations, fusion and manipulations of important data-sets
+	- This is a thought leader.
+	- Define, manipulate, aggregate and use both structured and unstructured "big data" in order to support descriptive and predictive analytics across the businesses.
+	- Adept at all aspects of technical communications, including using presentations technologies (e.g. WebEx, PowerPoint) and software demonstrations.
+	- Data Collections: Expertise in large data collection and processing including ETL, workflow and delivery of data
+	- Business Intelligence (BI) tool like Qlik or Tableau
++ data science skill set:
+	- Advanced knowledge of ElasticSearch/Solr/Lucene.
+	- Advanced knowledge of backend paradigms
+	- Knowledge with vector space models, text classification and categorization
+	- Implement high quality code in an agile software development environment.
+	- Able to respond and present work to peers, answer in-depth questions, accept constructive feedback, and modify product accordingly.
+
+
+###	Skill Sets Fo Research Internships with Alibaba Group
+
 + Quantum Algorithm for Near-term Quantum Devices
 	- A general-purpose fault-tolerant quantum computer will require millions of physical qubits and millions of quantum gate operations. With quantum computers of significant size now on the horizon, we should understand how to best exploit the initially limited abilities and how to develop and run useful quantum algorithms within the limited circuit depth of intermediate size quantum devices with limited error correction.
 + Research in Practical Applications of Quantum-Safe Communication
@@ -1464,10 +1528,24 @@ Flags for work-in-progress:
 + Research on Domain Specific Architecture
 	- As the end of Dennard's scaling and Moore's Law running out of steam, the traditional architecture for general-purpose processors can no longer meet the requirements of high performance and low energy consumption for various emerging applications. To allow the computing to have higher performance/energy efficiency, Domain Specific Architecture (DSA) has become a popular solution. However, there are many challenges in the DSA design. For example, the definition of the scope of Domain, trade-off between specialization and general-purpose, instruction set design, compiler design and optimization, memory wall, ultra-low-power design, micro-structure design and optimization, etc. This internship Project is a thorough and detailed study of the DSA to address these challenges.
 	- The Computing Technology Lab focuses on advanced research topics in computing, memory/storage, and interconnect technologies that can revolutionize today's computing systems with holistic innovations ranging from system architectures to VLSI designs, to enable new computing capabilities for improving energy efficiency and performance across multiple application domains, including both high-performance and embedded computing.
-
-
-
-
++ Research on Cloud Server Architecture
+	- Perform profiling/modeling and evaluation of workloads for our cloud server, design and optimize server architecture including but not limited to: CPU, cache/memory, storage and accelerators.
++ Research on algorithms/architectures of the next-generation AliNPU for training
+	- AliNPU targeting for neural network training is a key component of Alibaba’s AI Chip strategy. To design an architecture surpassing the best of the AI training chips, such as GPU and TPU, we must look into all aspects from algorithms to HW architecture, for the potential computational efficiency improvements.
+	- The works may focus on one or a few of the following directions：
+		* 1. Algorithm innovations that may improve the system efficiency, and the experiments.
+		* 2. The analysis of the theoretic bounds and/or the proof with regards to the algorithm innovations.
+		* 3. Experimental HW architecture designs, simulations and their PPA analysis.
++ Hyper-scale cloud datacenter's compute resource pool and management platform prototype
+	- Compute pools will be widely deployed in hyper-scale cloud datacenter. Alibaba Infrastructure AI Ops Platform (TIANJI) team is now actively seeking talents to work on research in this area.
++ Research on optimization of AI accelerator
+	- Nowadays high performance computing has become one of the hot topics of AI research. The research aims on optimizing power dissipation and energy efficiency of AI accelerators targeting various of AI applications, providing high quality computation support for AI applications.
+	- The research topics include:
+		* 1. Research on computation pattern of various AI applications to look for bottleneck
+		* 2. Research on AI accelerator architectures, implementations to improve performance and energy efficiency
+		* 3. Codesign AI accelerator (SW/HW) and application to maximize the performance of accelerator)
++ Accelerating Machine Learning Applications on Heterogeneous Computing Architectures
+	- This research aims to optimize ML applications on heterogeneous accelerators such as GPUs, FPGAs, and/or ASICs. S/he will conduct analysis and exploration on various performance bottlenecks in the full software/hardware stack, including ML algorithm improvement, model level transformation (e.g. compression, sparsity, data parallelization), and domain-specific architecture innovations, in order to dramatically boost the ML application's performance.
 
 
 

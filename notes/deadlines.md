@@ -508,10 +508,10 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 
 
 + CC, International Conference on Compiler Construction
-	- https://cc-conference.github.io/19/
-	- February 16-17, 2019.
-	- Washington, D.C..
-	- Submission deadline: November 3 and 7, 2018.
+	- https://cc-conference.github.io/20/
+	- February 22-26, 2020.
+	- San Diego, CA.
+	- Submission deadline: October 23 and 30, 2019.
 
 + CICC 2018, IEEE Custom Integrated Circuits Conference
 	- http://ieee-cicc.org
