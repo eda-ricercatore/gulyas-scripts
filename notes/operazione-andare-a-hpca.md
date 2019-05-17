@@ -1177,8 +1177,7 @@ Flags for work-in-progress:
 + Tech stack is described as:
 	- Front­end: JavaScript (ES5/ES6), AJAX, jQuery, React/Angular/Vue, Bootstrap, templating, markdown/markup, built tools, task runners, PWAs, etc...
 	- Middle­tier: REST and RESTful interfaces, AJAX, RPC, WebSockets/Socket.io, Web Workers, Node.js/Express, etc…
-	- Back­end: SQL/No­SQL databases, Message Queue Systems, Big Data systems, Node.js, MongoDB, Redis, etc…
-========================================
+	- Back­end: SQL/No­SQL databases, Message Queue Systems, Big Data systems, Node.js, MongoDB, Redis, etc...
 + data Science:
 	- Knowledge of ElasticSearch/Solr/Lucene is a big plus.
 	- Understanding in Java server platform and system tuning is a plus.
@@ -1405,6 +1404,10 @@ Flags for work-in-progress:
 
 
 
+
+
+
+###	Other Information From Job Descriptions
 
 Funny lines in job descriptions:
 + ["Frequently caught reading and engaging too much in AI/ML banter"](https://jobs.lever.co/sigopt/b172f247-6185-43e3-bc18-4a79f243122a), last viewed May 7, 2019. Jobs with SigOpt
