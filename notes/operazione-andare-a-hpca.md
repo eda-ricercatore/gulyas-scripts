@@ -1143,6 +1143,12 @@ Flags for work-in-progress:
 		* Middle­tier: REST and RESTful interfaces, AJAX, RPC, WebSockets/Socket.io, Web Workers, Node.js/Express, etc…
 		* Back­end: SQL/No­SQL databases, Message Queue Systems, Big Data systems, Node.js, MongoDB, Redis, etc…
 	- Sets of skills
+		* data science skill set:
+			+ Implement scalable algorithms and services using technologies such as Scala, Akka, elasticsearch, Kafka, Cassandra and Hadoop technologies such as Hive, Spark or MapReduce
+			+ Hands-on experience in analyzing large datasets (e.g. with SQL, Python, R, Hive, etc.)
+			+ Some knowledge and experience in working with technologies such as Kafka, Cassandra, Elasticsearch, Akka, Kubernetes, etc.
+			+ Experience in Scala or Java is a plus
+			+ You are fluent in English; German skills are a plus
 		* AWS cloud services: EC2, EMR, RDS, Lambda, Redshift
 		* NoSQL databases, such as HBase, Cassandra, MongoDB, or DynamoDB
 		* messaging systems, such as AWS SQS, AWS Kinesis, Kafka, or RabbitMQ, ZeroMQ
