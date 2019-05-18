@@ -176,20 +176,48 @@ Information about wall clock time, wall-clock-time, user cpu time, user-cpu-time
 	- https://docs.python.org/3/library/timeit.html
 + [The Python Profilers](https://docs.python.org/3/library/profile.html)
 + [use perf_counter() or process_time()](https://stackoverflow.com/questions/7370801/measure-time-elapsed-in-python/7370824)
++ ["timeit.default_timer() is used instead of time.time() or time.clock() because it will choose the timing function that has the higher resolution for any platform."](https://stackoverflow.com/questions/15707056/get-time-of-execution-of-a-block-of-code-in-python-2-7)
+
+
+
+
+From https://stackoverflow.com/questions/25958562/python-time-measure-for-every-function
+
+	python -m profile -s time file.py
+	python -m cProfile -s time file.py
 
 
 
 
 
+From https://stackoverflow.com/questions/766335/python-speed-testing-time-difference-milliseconds:
+
+	from datetime import datetime
+	tstart = datetime.now()
+	# code to speed test
+	tend = datetime.now()
+	print tend - tstart
+
+
+
+From https://stackoverflow.com/questions/1938048/high-precision-clock-in-python
+
+	import time
+	time.time_ns()				#1530228533161016309
+	time.time_ns() / (10 ** 9)	# convert to floating-point seconds
+								#1530228544.0792289
 
 
 
 
+From https://blog.sicara.com/profile-surgical-time-tracking-python-db1e0a5c06b6
 
+	python -m cProfile load_and_normalize.py
 
+	import cProfile
+	cProfile.run('run()')
 
-
-
+	pyflame -t python your_code.py | flamegraph > profile.svg	# install pyflame and flamegraph on your computer
 
 
 
