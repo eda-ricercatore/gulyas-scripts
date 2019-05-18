@@ -299,6 +299,32 @@ From https://docs.opencv.org/trunk/dc/d71/tutorial_py_optimization.html
 	- mprof plot
 	- kernprof -l -v line.py (requires: pip install line_profiler)
 + https://pythonfiles.wordpress.com/2017/05/18/hunting-python-performance-part-2/
++ [mprof](https://www.pluralsight.com/blog/tutorials/how-to-profile-memory-usage-in-python)
+	- https://pypi.org/project/memory-profiler/
++ [http://pypi.python.org/pypi/Pympler/](https://stackoverflow.com/questions/5022725/how-do-i-measure-the-memory-usage-of-an-object-in-python)
+	- import pympler
+	- print pympler.asizeof.asizeof(your_object)
++ https://stackoverflow.com/questions/644419/measuring-execution-time-and-memory-used
++ https://stackoverflow.com/questions/552744/how-do-i-profile-memory-usage-in-python
++ https://stackoverflow.com/questions/42845088/python-measure-amount-of-memory-used-in-script
++ https://stackoverflow.com/questions/1331471/in-memory-size-of-a-python-structure
++ https://stackoverflow.com/questions/9850995/tracking-maximum-memory-usage-by-a-python-function
++ https://stackoverflow.com/questions/110259/which-python-memory-profiler-is-recommended
++ https://stackoverflow.com/questions/552744/how-do-i-profile-memory-usage-in-python
++ https://stackoverflow.com/questions/938733/total-memory-used-by-python-process
++ https://stackoverflow.com/questions/53872699/python-and-compression-algorithm-performance
++ http://www.marinamele.com/7-tips-to-time-python-scripts-and-control-memory-and-cpu-usage
++ https://graph-tool.skewed.de/
++ [Massif: a heap profiler](http://valgrind.org/docs/manual/ms-manual.html)
+
+
+
+
+
+
+
+
+
 
 
 
