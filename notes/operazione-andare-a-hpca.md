@@ -1505,7 +1505,7 @@ Flags for work-in-progress:
 	- Analyze, test and improve neural network compression algorithms
 	- Experience with at least one deep learning algorithm, such as CNN/LSTM/GRU
 	- Experience with at least one deep learning framework, such as Tensorflow, Pytorch, Caffe, Kaldi
-
++ Demonstrated expertise with C++ with at least one of std::thread / OpenCL / CUDA 
 
 
 

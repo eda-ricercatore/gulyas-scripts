@@ -168,6 +168,15 @@ Information about wall clock time, wall-clock-time, user cpu time, user-cpu-time
 	- ***"If garbage collection should be enabled to measure the program's performance more accurately, i.e., when the program allocates and de-allocates lots of objects, then you should enable it during the setup."***
 	- timeit.timeit("[v for v in range(10000)]", setup="gc.enable()", number=10000)
 	- "Except for very special cases, you should always use the module timeit to benchmark a program. In addition, it is valuable to remember that measuring the performance of a program is always context-dependent since no program is executing in a system with boundless computing resources and an average time measured from a number of loops is always better than one time measured in one execution."
+
+
+
+
+
+
+
+###	Python: Performance Measurement for Timing
+
 + \cite{Ardit2017}:
 	- "The way to measure the script execution time is by using the time built-in Python module."
 + \cite{DrakeJr2016b}:
@@ -188,12 +197,21 @@ Information about wall clock time, wall-clock-time, user cpu time, user-cpu-time
 		* t = time()
 		* ctime(t)
 + https://realpython.com/python-time-module/
-
-
-
-
-
-
++ https://linuxhint.com/python-timeit-module/
++ http://caffe.berkeleyvision.org/tutorial/interfaces.html
+	- https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_core/py_optimization/py_optimization.html
++ ***https://www.ploggingdev.com/2016/12/performance-measurement-in-python-3/***
+	- mprof run mem.py
+	- mprof plot
+	- kernprof -l -v line.py (requires: pip install line_profiler)
++ https://en.wikipedia.org/wiki/List_of_performance_analysis_tools
++ https://github.com/Neurochrom/iprof
++ ***https://opensource.com/article/18/4/metrics-monitoring-and-python***
++ https://codereview.stackexchange.com/questions/48416/measuring-execution-times
++ start = time.time()
++ timer()
++ datetime.now()
++ advanced profiling with cProfile
 
 
 
@@ -263,6 +281,24 @@ From https://docs.opencv.org/trunk/dc/d71/tutorial_py_optimization.html
 
 
 
+
+
+
+
+
+
+
+
+
+
+###	Python: Performance Measurement for Memory Usage
+
+
++ ***https://www.ploggingdev.com/2016/12/performance-measurement-in-python-3/***
+	- mprof run mem.py
+	- mprof plot
+	- kernprof -l -v line.py (requires: pip install line_profiler)
++ https://pythonfiles.wordpress.com/2017/05/18/hunting-python-performance-part-2/
 
 
 
