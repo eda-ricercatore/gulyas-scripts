@@ -143,7 +143,8 @@ Information about wall clock time, wall-clock-time, user cpu time, user-cpu-time
 + \cite{XilinxStaff2013}:
 	- CPU time is the time for which the CPU was busy executing the task. It does not take into account the time spent in waiting for I/O (disk IO or network I/O). Since I/O operations, such as reading files from disk, are performed by the OS, these operations may involve a noticeable amount of time in waiting for I/O subsystems to complete their operations. This waiting time will be included in the elapsed time, but not CPU time. Hence CPU time is usually less than the elapsed time.
 	- ***But in certain cases, the CPU time may be more than the elapsed time! When multiple threads are used on a multi-processor system or a multi-core system, more than one CPU may be used to complete a task. In this case, the CPU time may be more than the elapsed time.***
-
++ \cite{jiml82008}:
+	- "In a multiprocessor environment, CPU time can exceed wallclock time because you have multiple processors and if your process spends enough time running on more than one processor simultaneously, you'll have that effect. After all, why else would you go multiprocessor, but to have more CPU cycles available per unit of wallclock time?"
 
 
 
