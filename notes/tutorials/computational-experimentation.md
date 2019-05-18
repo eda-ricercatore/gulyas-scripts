@@ -161,9 +161,19 @@ Information about wall clock time, wall-clock-time, user cpu time, user-cpu-time
 	- "system time, which is measured by the system clock. System time represents a computer system's notion of the passing of time. One should remember that the system clock could be modified by the operating system, thus modifying the system time."
 	- "Python's time module provides various time-related functions. Since most of the time functions call platform-specific C library functions with the same name, the semantics of these functions are platform-dependent."
 	- "time.time vs time.clock. Two useful functions for time measurement are time.time and time.clock. time.time returns the time in seconds since the epoch, i.e., the point where the time starts." "While time.time behaves the same on Unix and on Windows, time.clock has different meanings. On Unix, time.clock returns the current processor time expressed in seconds, i.e., the CPU time it takes to execute the current thread so far. While on Windows, it returns the wall-clock time expressed in seconds elapsed since the first call to this function, based on the Win32 function QueryPerformanceCounter. Another difference between time.time and time.clock is that time.time could return a lower-value than a previous call if the system clock has been set back between the two calls while time.clock always return non-decreasing values."
+	- "Which timer is timeit using? According to timeit's source code, it uses the best timer available"
+	- "On Windows, the best timer is time.clock"
+	- "On most other platforms the best timer is time.time"
+	- "Another important mechanism of timeit is that it disables the garbage collector during execution"
+	- "If garbage collection should be enabled to measure the program's performance more accurately, i.e., when the program allocates and de-allocates lots of objects, then you should enable it during the setup."
+	- timeit.timeit("[v for v in range(10000)]", setup="gc.enable()", number=10000)
+	- "Except for very special cases, you should always use the module timeit to benchmark a program. In addition, it is valuable to remember that measuring the performance of a program is always context-dependent since no program is executing in a system with boundless computing resources and an average time measured from a number of loops is always better than one time measured in one execution."
 + \cite{Ardit2017}:
-	-
-
+	- "The way to measure the script execution time is by using the time built-in Python module."
++ \cite{DrakeJr2016b}:
+	- "timeit — Measure execution time of small code snippets"
+	- Use timeit as an option ("-m timeit") from the command line, or import the module from the Python Interface for timeit and use it as a function call.
+	- https://docs.python.org/3/library/timeit.html
 
 
 
