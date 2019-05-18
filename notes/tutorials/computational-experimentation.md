@@ -145,6 +145,40 @@ Information about wall clock time, wall-clock-time, user cpu time, user-cpu-time
 	- ***But in certain cases, the CPU time may be more than the elapsed time! When multiple threads are used on a multi-processor system or a multi-core system, more than one CPU may be used to complete a task. In this case, the CPU time may be more than the elapsed time.***
 + \cite{jiml82008}:
 	- "In a multiprocessor environment, CPU time can exceed wallclock time because you have multiple processors and if your process spends enough time running on more than one processor simultaneously, you'll have that effect. After all, why else would you go multiprocessor, but to have more CPU cycles available per unit of wallclock time?"
++ \cite{Ersenie2010}:
+	- "System time - This is the time that the CPU was used for executing system calls. It is literally the time the kernel is using the CPU for its operations. You can think of I/O operations, context switches, inter process communication, memory management, interrupt requests, etc."
+	- "User Time - This is the time the CPU spent running your code. It is called user time because the CPU is used by an operation in a program that a user has started."
+	- "It is the ratio between user time and system time that gives you the hints on possible performance bottlenecks."
+	- "Case 1 - High user time and low system time. This is the sign that the problem lies within your application. In JAVA, this means the problem is inside your JVM. It could be the efficiency of your code, it could be memory leaks leading to garbage collection. This is already a good starting point on your path downwards to finding the source of the problem, since you know you are not delayed/restricted by some system limitations"
+	- "Case 2 - Low user time and high system time. High system time usually means that somewhere, somehow a queue is [being] built. Take for example logging. Suppose your application wants to access a log method that is synchronized. Let's go further, and say you have a bunch of users doing something in your application, and the log level is high enough for this method to become a bottleneck. Synchronized basically means that when one thread is executing a synchronized method for an object, all other threads invoking synchronized methods for the same object will suspend execution until the first thread is done with the object. This will eat a lot of the CPU time, that you would actually want spending time in your application, in user time."
+	- "Like Kirk was saying in his Java Performance Tuning Workshop, the system time should not grow bigger than 10 %. Any value bigger than that is an alarm that somebody is eating your valuable resources."
+	- "Now, you are well prepared and ready to drill down on that problem. You just made sure that the consumer is in your application, and hear all those words like 'sampling', 'tracing', 'profiling', 'backtracing' etc. etc. Where to go, how to start? Once you make sure that your problem is in the code, and the consumer is indeed your application and not some other stuff in JVM (like poor configuration of Garbage Collection leading to excessive Garbage Collections), you need to see where is the CPU being spent. There are two indicators, often misleading if not prepared: Wall Time and CPU Own Time."
+	- Wall Time " `In the context of a task being performed on a computer, wall clock time or wall time is a measure of how much real time that elapses from start to end, including time that passes due to programmed (artificial) delays or waiting for resources to become available. In other words, it is the difference between the time at which a task finishes and the time at which the task started.' (Wikipedia)"
+	- "CPU Own Time - This is the time actually spent by CPU executing method code, and this is the one you are most interested in. This is where you have to dig: for invocation count vs cpu own time. A low invocations count with a large cpu own time usually means your code is [inefficient]."
++ \cite{Gantan2013}:
+	- "CPU or execution time, which measures how much time a CPU spent on executing a program"
+	- "wall-clock time, which measures the total time to execute a program in a computer. The wall-clock time is also called elapsed or running time. Compared to the CPU time, the wall-clock time is often longer because the CPU executing the measured program may also be executing other program's instructions at the same time."
+	- "system time, which is measured by the system clock. System time represents a computer system's notion of the passing of time. One should remember that the system clock could be modified by the operating system, thus modifying the system time."
+	- "Python's time module provides various time-related functions. Since most of the time functions call platform-specific C library functions with the same name, the semantics of these functions are platform-dependent."
+	- "time.time vs time.clock. Two useful functions for time measurement are time.time and time.clock. time.time returns the time in seconds since the epoch, i.e., the point where the time starts." "While time.time behaves the same on Unix and on Windows, time.clock has different meanings. On Unix, time.clock returns the current processor time expressed in seconds, i.e., the CPU time it takes to execute the current thread so far. While on Windows, it returns the wall-clock time expressed in seconds elapsed since the first call to this function, based on the Win32 function QueryPerformanceCounter. Another difference between time.time and time.clock is that time.time could return a lower-value than a previous call if the system clock has been set back between the two calls while time.clock always return non-decreasing values."
++ \cite{Ardit2017}:
+	-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
