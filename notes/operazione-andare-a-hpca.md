@@ -1493,9 +1493,27 @@ Flags for work-in-progress:
 	- Knowledge with vector space models, text classification and categorization
 	- Implement high quality code in an agile software development environment.
 	- Able to respond and present work to peers, answer in-depth questions, accept constructive feedback, and modify product accordingly.
++ Testing and directly mitigating against common application security issues such as the [OWASP Top 10](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project).
++ Experience in a UGC (user generated content) environment
++ Design services for performant application of machine-learned models
++ Polyglot developer (e.g. Java, NodeJS, Python)
++ Experience with any one of segmentation, object detection, image classification, GANs, monocular depth estimation or a related field
++ Successful record of publication in top-tier international research venues (e.g. ICLR, AAAI, NeurIPS, CVPR, ECCV, ICCV, SIGGRAPH)
++ Very strong programming skill in C++14. You will be expected to know and use C++ templates, lambdas, and high-performance data structures.
++ Research and develop CNN/RNN neural network compression algorithms, focusing on quantization and pruning
++ embedded deep learning:
+	- Analyze, test and improve neural network compression algorithms
+	- Experience with at least one deep learning algorithm, such as CNN/LSTM/GRU
+	- Experience with at least one deep learning framework, such as Tensorflow, Pytorch, Caffe, Kaldi
 
 
-###	Skill Sets Fo Research Internships with Alibaba Group
+
+
+
+
+
+
+###	Skill Sets for Research Internships with Alibaba Group
 
 + Quantum Algorithm for Near-term Quantum Devices
 	- A general-purpose fault-tolerant quantum computer will require millions of physical qubits and millions of quantum gate operations. With quantum computers of significant size now on the horizon, we should understand how to best exploit the initially limited abilities and how to develop and run useful quantum algorithms within the limited circuit depth of intermediate size quantum devices with limited error correction.
