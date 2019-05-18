@@ -177,6 +177,30 @@ Information about wall clock time, wall-clock-time, user cpu time, user-cpu-time
 + [The Python Profilers](https://docs.python.org/3/library/profile.html)
 + [use perf_counter() or process_time()](https://stackoverflow.com/questions/7370801/measure-time-elapsed-in-python/7370824)
 + ["timeit.default_timer() is used instead of time.time() or time.clock() because it will choose the timing function that has the higher resolution for any platform."](https://stackoverflow.com/questions/15707056/get-time-of-execution-of-a-block-of-code-in-python-2-7)
++ [Python time module](https://realpython.com/python-time-module/)
+	- Understand core concepts at the heart of working with dates and times, such as epochs, time zones, and daylight savings time
+	- Represent time in code using floats, tuples, and struct_time
+	- Convert between different time representations
+	- Suspend thread execution
+	- Measure code performance using perf_counter()
+	- Avoid the following:
+		* from time import time, ctime
+		* t = time()
+		* ctime(t)
++ https://realpython.com/python-time-module/
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -218,6 +242,34 @@ From https://blog.sicara.com/profile-surgical-time-tracking-python-db1e0a5c06b6
 	cProfile.run('run()')
 
 	pyflame -t python your_code.py | flamegraph > profile.svg	# install pyflame and flamegraph on your computer
+
+
+
+
+
+
+From https://docs.opencv.org/trunk/dc/d71/tutorial_py_optimization.html
+
+	e1 = cv.getTickCount()
+	# your code execution
+	e2 = cv.getTickCount()
+	time = (e2 - e1)/ cv.getTickFrequency()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
