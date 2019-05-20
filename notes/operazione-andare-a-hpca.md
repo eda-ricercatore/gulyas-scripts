@@ -1507,8 +1507,8 @@ Flags for work-in-progress:
 	- Experience with at least one deep learning framework, such as Tensorflow, Pytorch, Caffe, Kaldi
 + Demonstrated expertise with C++ with at least one of std::thread / OpenCL / CUDA
 + You know your way around SQL-like databases (e.g. PostGres, Impala, Hive) and even better if have experience with Spark and other big data platforms.
-
-
++ ***Strong publication record in top-tier research publications and conferences such as IJCV, CVPR, ICCV, ECCV, ICRA.***
++ https://www.openrobotics.org/interns
 
 
 
