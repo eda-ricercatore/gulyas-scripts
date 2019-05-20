@@ -1509,10 +1509,35 @@ Flags for work-in-progress:
 + You know your way around SQL-like databases (e.g. PostGres, Impala, Hive) and even better if have experience with Spark and other big data platforms.
 + ***Strong publication record in top-tier research publications and conferences such as IJCV, CVPR, ICCV, ECCV, ICRA.***
 + https://www.openrobotics.org/interns
-
-
-
-
++ machine learning:
+	- Develop backend services and infrastructure to expand our answer engine to support 10M+ documents and 100K+ QPS
+	- Ship web applications and APIs using Python, Flask, MongoDB, MySQL, Lucene, Spark, React, Go, and/or TensorFlow
+	- Optimize the performance of our indexing, processing, and query pipelines
+	- Take product ideas from ideation to implementation
+	- Implement state-of-the-art algorithms in Question Answering, Machine Reading Comprehension, Text Summarization, in a scalable, production-ready fashion using Tensorflow and Spark
+	- Build systems to evaluate and tune performance of a real world deep learning system, from data collection to processing to model implementation to post-processing and visualization
+	- modern Big Data stack (Spark or Hadoop, Kafka or RabbitMQ, ZooKeeper, Redis, Memcache, Lucene, MongoDB, MySQL)
+	- Familiarity with containerization and dev-ops (Docker, Kubernetes, Docker Swarms, Jenkins, Phabricator, Continuous Integration, Continuous Delivery) is a plus
+	- Familiarity with modern Deep Learning and Natural Language Processing / Natural Language Understanding (NLP, NLU), including Neural Networks, RNNs, seq2seq models, and real world machine learning in TensorFlow (incl. regularization, cross-validation, dropout) are a huge plus
+	- Adaptable, humble, and interested in pushing the boundaries of what's possible
+	- Work with world class talent (our team consists of former Facebook, Palantir, Dropbox, and LinkedIn Engineers; we have 2 ACM ICPC World Finalists)
++ data science:
+	- Experience in modern Deep Learning and Natural Language Processing / Natural Language Understanding (NLP, NLU), including Neural Networks, RNNs, seq2seq+attention models, and real world machine learning in TensorFlow (incl. regularization, cross-validation, dropout)
+	- Experience building production-ready NLP systems
+	- Familiarity with non-standard machine intelligence models (Reinforcement Learning, Hierarchical Temporal Memory, Capsule Networks) is a plus
+	- Familiarity with Distributed systems (Docker, Kubernetes, Kafka, Spark, Redis, AWS S3/EC2/RDS/KMS, MongoDB, or Lucene) is a plus
+	- Adaptable, humble, and interested in pushing the boundaries of what's possible
+	- Proficiency in Python, R, or Java
++ Installation, setup and calibration of MOCAP system, binocular cameras
++ Unigraphics or Pro-engineer fluency.
++ robotics engineering:
+	- Background in multiple of the following: SLAM, mapping, localization, calibration, sensor fusion, tracking, scene understanding, robotic systems.
+	- Experience in multiple of the following: non-linear optimization, 3D geometry, state estimation.
+	- Experience with advanced algorithms, data structures and working with real sensor data.
+	- Experience with Python and developing in the Linux and/or Mac OS environment.
+	- Familiarity with real-time, multi-process and multi-threaded coding.
+	- Strong C++ development skills.
+	- Be an essential part of a team of engineers and scientists developing state-of-the-art estimation algorithms used for a variety of tasks, including calibration, localization and tracking.
 
 
 
