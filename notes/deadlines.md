@@ -317,7 +317,7 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 	- https://conf.researchr.org/home/icse-2020
 	- May 23-29, 2020.
 	- Seoul, South Korea.
-	- Submission deadline: August 23, 2020.
+	- Submission deadline: August 23, 2019.
 
 
 
