@@ -270,7 +270,7 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 	- https://ppopp20.sigplan.org/track/PPoPP-2020-papers
 	- San Diego, CA.
 	- February 22-26, 2020
-	- Submission deadline: July 31 and Aug 6, 2018.
+	- Submission deadline: July 31 and Aug 6, 2019.
 
 
 
