@@ -359,7 +359,7 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 + DATE 2019, Design, Automation & Test in Europe Conference & Exhibition
 	- https://www.date-conference.com/call-for-papers
 	- Florence, Italy
-	- Submission deadline: Sep 9, 2018.???
+	- Submission deadline: ~~Sep 9, 2018~~.???
 
 
 
