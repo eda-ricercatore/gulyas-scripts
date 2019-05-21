@@ -315,7 +315,6 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 
 + ICSE, ACM/IEEE International Conference on Software Engineering
 	- https://conf.researchr.org/home/icse-2020
-	-
 	- May 23-29, 2020.
 	- Seoul, South Korea.
 	- Submission deadline: August 23, 2020.
