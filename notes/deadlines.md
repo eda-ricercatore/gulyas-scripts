@@ -199,10 +199,7 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 	- Submission deadline: June 11 and 18, 2019.
 
 
-+ Scala 2018 series/track
-	- https://conf.researchr.org/track/scala-2018/scala-2018-papers
-	- St. Louis, MO.
-	- Submission deadline: June 13, 2018.
+
 
 
 
@@ -1173,6 +1170,22 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 	- September 23-26, 2019.
 	- Seattle, Washington.
 	- Submission deadline: April 11 and 15, 2019.
+
+
+
+
++ Scala 2019 series/track
+	- https://2019.ecoop.org/home/scala-2019
+	- https://conf.researchr.org/series/scala
+	- London, U.K..
+	- Submission deadline: April 16, 2019.
+
+
+
+
+
+
+
 
 
 + Static Analysis Symposia
