@@ -7,12 +7,12 @@ Fix mathematical proof for paper and implement processor subsystems.
 
 ##	Machine Learning-centric
 
-+ AAAI, AAAI Conference on Artificial Intelligence
++ AAAI-20 (or AAAI 2020), AAAI Conference on Artificial Intelligence
 	- http://www.aaai.org/Conferences/conferences.php
 	- https://aaai.org/Conferences/AAAI-20/
 	- New York, NY.
 	- Submission deadline: ????**August 30 and September 5, 2018**???? To be updated.
-+ IAAI 2019, Innovative Applications of Artificial Intelligence Conference
++ IAAI 2020, Innovative Applications of Artificial Intelligence Conference
 	- https://aaai.org/Conferences/AAAI-19/iaai-19/iaai-19-call/
 	- Same venue as AAAI 2019.
 	- Honolulu, Hawaii, U.S.A.
