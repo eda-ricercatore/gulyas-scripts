@@ -360,17 +360,21 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 	- https://www.date-conference.com/call-for-papers
 	- Florence, Italy
 	- Submission deadline: Sep 9, 2018.???
+
+
+
+
 + SAC2019, ACM/SIGAPP Symposium On Applied Computing
 	- https://www.sigapp.org/sac/sac2020/
 	- Brno, Czech Republic.
-	- Submission deadline: March 30 and April 3, 2018.
+	- Submission deadline: September 15, 2019.
 
 
 
- + ISSCC 2019, International Solid-State Circuits Conference
++ ISSCC 2019, International Solid-State Circuits Conference
  	- http://isscc.org/isscc-call-for-papers/
  	- San Francisco, CA.
- 	- Submission deadline: Sep 10, 2018.
+ 	- Submission deadline: ~~Sep 10, 2018.~~???
 
 
 
