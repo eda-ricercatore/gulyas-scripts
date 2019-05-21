@@ -333,6 +333,19 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 
 
 
++ CODASPY, ACM Conference on Data and Application Security and Privacy
+	- http://www.codaspy.org/cfp.html
+	- VENUE
+	- DATE
+	- Submission deadline: Early September, 2019.
+
+
+
+
+
+
+
+
 
 
 
