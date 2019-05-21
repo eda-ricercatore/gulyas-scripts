@@ -390,8 +390,9 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 
 + MTV17, International Workshop on Microprocessor/SoC Test, Security & Verification
 	- http://mtvcon.org/paper-submission/
+	- http://mtvcon.org/call-for-papers/MTV2019_CFP.pdf
 	- Austin, TX
-	- Submission deadline: September 30 (delayed), 2018.
+	- Submission deadline: September 15, 2019.
 
 
 
