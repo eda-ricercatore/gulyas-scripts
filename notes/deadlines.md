@@ -1190,6 +1190,14 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 	- Submission deadline: ~~May 10 and 17, 2019.~~ May 17 and 24, 2019. (Extended)
 
 
++ ICRC, IEEE International Conference on Rebooting Computing
+	- http://icrc.ieee.org/cfp/
+	- San Francisco Bay Area, California.
+	- November 6-8, 2019.
+	- Submission deadline: May 12 and 20, 2019.
+
+
+
 
 + HPEC, IEEE High Performance Extreme Computing Conference
 	- http://ieee-hpec.org

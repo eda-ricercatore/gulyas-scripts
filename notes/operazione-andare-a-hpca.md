@@ -1538,6 +1538,8 @@ Flags for work-in-progress:
 	- Familiarity with real-time, multi-process and multi-threaded coding.
 	- Strong C++ development skills.
 	- Be an essential part of a team of engineers and scientists developing state-of-the-art estimation algorithms used for a variety of tasks, including calibration, localization and tracking.
++ Perform analysis of security incidents & threat actors for further enhancement of Detection Catalog and Hunt missions by leveraging the MITRE ATT&CK framework.
++ Experience with information security tools such as an enterprise SIEM solution (Splunk preferred), IDS/IPS, endpoint security, EDR and security monitoring solutions (NSM,DLP,Insider, etc).
 
 
 

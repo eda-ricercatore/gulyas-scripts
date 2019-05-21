@@ -261,3 +261,87 @@ FastPath 2012 was held in conjunction with ISPASS 2012. Half-day with 1 keynote 
 + Quality metrics for secure hardware
 + Conformance and evaluation of secure hardware
 + Formal treatments, proofs, standardization, or categorization of hardware-related techniques
+
+
+
+
+
+#	4th IEEE International Conference on Rebooting Computing
+
+Part of IEEE Rebooting Computing Week
+6-8 November 2019
+San Francisco Bay Area, California
+http://icrc.ieee.org/cfp/
+
+The broad scope of ICRC extends to many areas of interest, including novel device physics and materials for post-Moore, beyond CMOS, and non-von Neumann computing paradigms.
+
+Topics of interest
++ Future computing approaches, including neuromorphic, brain-inspired computing, approximate and probabilistic, analog computing; computing based on novel device physics and materials (e.g., spin-based electronics, nonlinear dynamics and chaos); energy-efficient computing including reversible, adiabatic, and ballistic computing, superconductor and cryogenic computing; quantum computing; optical computing; biological and biochemical computing; Non-von Neumann computer architectures (e.g., in-memory processing, memory-based computing, cellular automata, or cellular neural networks).
++ Future computing design aspects, including extending Moore’s law and augmenting CMOS; error-tolerant logic and circuits; future of design automation. post-CMOS, 3D, heterogeneous integration and packaging; future impact on performance, power, scalability, reliability, supportability
++ Future Software and Applications, including beyond von Neumann system software issues (operating systems, compilers, security, and resource management); future computing programming paradigms and languages; applications suitable for and driving next generation computing (e.g., machine learning, deep learning.)
++ Future computing use cases and prototypes, including ethics in design, implementation, and use; new technologies impacting the International Roadmap for Devices and Systems (IRDS); cybersecurity in future computing systems.
+
+
+
+
+
+#	Low-Power Computer Vision Workshop 2019
+
+https://rebootingcomputing.ieee.org/lpirc/low-power-computer-vision-workshop-2019
+
+##	Solutions for Low-Power Computer Vision:
+
+Computer vision technologies have made impressive progress in recent years, but often at the expense of increasingly complex models needing more and more computational and storage resources. This workshop aims to improve the energy efficiency of computer vision solutions for running on systems with stringent resources, for example, mobile phones, drones, or renewable energy systems. Efficient computer vision can enable many new applications (e.g., wildlife observation) powered by ambient renewable energy (e.g., solar, vibration, and wind). This workshop will discuss the state of the art of low-power computer vision, challenges in creating efficient vision solutions, promising technologies that can achieve the goals, methods to acquire and label data, benchmarks and metrics to evaluate progress and success. Authors are encouraged to present innovation in any part of the entire systems, such as new hardware components, new algorithms, new methods for system integration, new semiconductor devices, and new computing paradigms. This workshop emphasizes “system-level” solutions with implementations for demonstrations and experiments. Conceptual designs or solutions for individual components without integration into functional systems are discouraged.
+
+Authors are encouraged to discuss the following issues in their papers:
++ Description of the solution
++ Description of the data for evaluation
++ Description of the system
++ Metrics for evaluation
++ Comparison with the state-of-the-art
+
+
+##	Grand Challenges in Low-Power Computer Vision:
+
+Competitions are widely adopted in academia, industry, and government to propel technologies forward. Well-known competitions include the DARPA Autonomous Vehicle Challenge and the Space X prize. The competitions have been attributed as the accelerators of making significant progress in the technologies. This workshop solicits papers that describe future competition of low-power computer vision. Authors are encouraged to think boldly, imagining “Grand Challenge” or “X Prize” type of competitions. The winners’ solutions (maybe hardware, software, or combination) should be far beyond today’s available technologies.
+
+Authors are encouraged to discuss the following issues in their papers:
++ Description of the challenge and why it is worth the community’s efforts for several years
++ Description of the state-of-the-art (the challenge should be far beyond today’s technology but achievable)
++ Description the people that can benefit from the technologies
++ Description of the market size in billions per year (if applicable)
++ Description of the data (e.g., image, video, with or without caption, and others)
++ Methods to acquire the data and methods for scoring
++ Paths toward solving the problems. Do they need innovation in vision algorithms? Hardware? Software? Will non-traditional systems be needed? Why?
++ Description about copyright and privacy (if applicable)
++ Methods to annotate the data (if applicable, for getting the ground truth)
++ Constraints of hardware (if applicable, e.g., weight and size)
++ Minimum or maximum requirements (if applicable, e.g., accuracy and execution time)
+
+
+
++ Alexander C Berg, Associate Professor, University of North Carolina at Chapel Hill, aberg@cs.unc.edu
++ Bo Chen, Software Engineer, Google Inc. bochen@google.com
++ Yiran Chen, Associate Professor, Duke University, yiran.chen@duke.edu
++ Yen-Kuang Chen, Research Scientist, Alibaba, y.k.chen@ieee.org
++ Eui-Young Chung, Professor, Yonsei University, eychung@yonsei.ac.kr
++ Svetlana Lazebnik, Associate Professor, University of Illinois, slazebni@illinois.edu
++ (contact) Yung-Hsiang Lu, Professor, Purdue University, yunglu@purdue.edu
++ Sungroh Yoon, Associate Professor, Seoul National University, sryoon@snu.ac.kr
+
+
+
+
+
+
+
++ Y. Lu, A. M. Kadin, A. C. Berg, T. M. Conte, E. P. DeBenedictis, R. Garg, G. Gingade, B. Hoang, Y. Huang, B. Li, J. Liu, W. Liu, H. Mao, J. Peng, T. Tang, E. K. Track, J. Wang, T. Wang, Y. Wang, and J. Yao. Rebooting computing and low-power image recognition challenge. In 2015 IEEE/ACM International Conference on Computer-Aided Design (ICCAD), pages 927–932, Nov 2015.
++ K. Gauen, R. Rangan, A. Mohan, Y. Lu, W. Liu, and A. C. Berg. Low-power image recognition challenge. In 2017 22nd Asia and South Pacific Design Automation Conference (ASP-DAC), pages 99–104, Jan 2017.
++ K. Gauen, R. Dailey, Y. Lu, E. Park, W. Liu, A. C. Berg, and Y. Chen. Three years of low-power image recognition challenge: Introduction to special session. In 2018 Design, Automation Test in Europe Conference Exhibition (DATE), pages 700–703, March 2018.
++ Sergei Alyamkin, Matthew Ardi, Achille Brighton, Alexander C. Berg, Yiran Chen, Hsin-Pai Cheng, Bo Chen, Zichen Fan, Chen Feng, Bo Fu, Kent Gauen, Jongkook Go, Alexander Goncharenko, Xuyang Guo, Hong Hanh Nguyen, Andrew Howard, Yuanjun Huang, Donghyun Kang, Jaeyoun Kim, Alexander Kondratyev, Seungjae Lee, Suwoong Lee, Junhyeok Lee, Zhiyu Liang, Xin Liu, Juzheng Liu, Zichao Li, Yang Lu, Yung-Hsiang Lu, Deeptanshu Malik, Eun-byung Park, Denis Repin, Tao Sheng, Liang Shen, Fei Sun, David Svitov, George K. Thiruvathukal, Baiwu Zhang, Jingchi Zhang, Xiaopeng Zhang, and Shaojie Zhuo. 2018 low-power image recognition challenge. CoRR, abs/1810.01732, 2018.
++ Yung-Hsiang Lu, Alexander C. Berg, and Yiran Chen. Low-power image recognition challenge. AI Magazine, 39(2), Summer 2018.
+
+
++ Understanding the Challenges of Algorithm and Hardware Co-design for Deep Neural Networks, Vivienne Sze (sze@mit.edu), MIT
++ Turbocharge Deep Learning Inference using Reconfigurable Platforms, Ashish Sirasao (asirasa@xilinx.com), Xilinx
++ Invited Speakers: Rethinking the Computations in Computer Vision (and the Hardware that Computes Them), Kurt Keutzer, Berkeley
