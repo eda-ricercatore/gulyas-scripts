@@ -182,6 +182,15 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 ## Hardware-centric, Verification, Automated Reasoning, & Compiler Design
 
 
++ ICFP, International Conference on Functional Programming
+	- https://conf.researchr.org/home/icfp-2019
+	- http://www.icfpconference.org/contest.html
+	- Berlin, Germany.
+	- Submission deadline: May 10, 2019.
+
+
+
+
 
 + RSP, International Workshop on Rapid System Prototyping
 	- http://conferences.telecom-bretagne.eu/rsp-symposium/cfp/
@@ -197,19 +206,7 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 
 
 
-+ IEEE Sensors, IEEE Conference on Sensors
-	- https://ieee-sensors2019.org/
-	- Montreal, Canada.
-	- Submission deadline: June 18, 2019.
 
-
-
-
-+ ICFP, International Conference on Functional Programming
-	- https://conf.researchr.org/home/icfp-2019
-	- http://www.icfpconference.org/contest.html
-	- Berlin, Germany.
-	- Submission deadline: May 10, 2019.
 
 
 
@@ -219,6 +216,24 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 	- http://www.sleconf.org/2019/CFP.html
 	- Athens, Greece.
 	- Submission deadline: June 14 and June 21, 2019.
+
+
+
+
+
++ IEEE Sensors, IEEE Conference on Sensors
+	- https://ieee-sensors2019.org/
+	- Montreal, Canada.
+	- Submission deadline: June 18, 2019.
+
+
+
+
+
+
+
+
+
 
 
 + ASP-DAC, Asia and South Pacific Design Automation Conference
