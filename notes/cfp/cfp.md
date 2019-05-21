@@ -601,6 +601,26 @@ Abstract (maximum 5000 characters): We discuss a secure hardware implementation 
 
 
 
+#	CFP for ASPLOS
+
+Like its predecessors, ASPLOS 2020 invites papers on ground-breaking research at the intersection of the ASPLOS disciplines: architecture, programming languages, operating systems, and related areas. Non-traditional topics are especially encouraged. The importance of cross-cutting research continues to increase as we grapple with the end of Dennard scaling, the explosion of big data, the scale of computing from ultra-low power wearables to exascale systems, the need for sustainability, and the growth of human-centered applications.  ASPLOS embraces systems research that addresses new problems in innovative ways.  Research may target diverse goals such as performance, energy and thermal efficiency, resiliency, security, privacy, sustainability, applicability to future technologies, applications, and environments. The review process will be sensitive to the challenges of multidisciplinary work and emerging areas.
+
+Areas of interest include, but are not limited to:
++ Existing and emerging platforms at all scales, from embedded to cloud
++ Traditional and extreme environments, from implantable to space
++ Internet services, cloud computing, and datacenters
++ Multicore architectures and systems
++ Heterogeneous architectures and accelerators
++ Systems for enabling parallelism at an extreme scale
++ Programming models, languages, and compilation for all platforms
++  Managing, storing, and computing big data
++  Virtualization and virtualized systems
++  Memory/storage technologies and architectures
++  Power, energy, and thermal management
++  Security, reliability, availability, and sustainability
++  Verification and testing, and their impact on design and security
++  Systems and hardware support for machine learning
++  Non-traditional computing systems, including emerging devices
 
 
 

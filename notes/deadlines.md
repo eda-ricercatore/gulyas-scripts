@@ -263,10 +263,11 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 	- Submission deadline: July 27 and August 3, 2018.
 
 
-+ ASPLOS, ACM International Conference on Architectural Support for Programming Languages and Operating Systems
++ ASPLOS, International Conference on Architectural Support for Programming Languages and Operating Systems
 	- https://asplos-conference.org
-	- Providence, RI
-	- Submission deadline: July 31 and Aug 7, 2018.
+	- March 16-20, 2020.
+	- Lausanne, Switzerland.
+	- Submission deadline: August 9 and 16, 2019.
 
 
 
