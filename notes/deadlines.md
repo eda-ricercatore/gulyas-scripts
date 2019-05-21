@@ -237,20 +237,20 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 
 
 + ASP-DAC, Asia and South Pacific Design Automation Conference
-	- http://www.aspdac.com/aspdac2019/
-	- http://www.aspdac.com/aspdac2019/cfp/
-	- Tokyo, Japan
-	- Submission deadline: July 6, 2018.
+	- https://aspdac2020.github.io/aspdac20/
+	- Beijing, China.
+	- Jan 13-16,2020.
+	- Submission deadline: July 5, 2019.
 
 
 
 
 + POPL, ACM SIGPLAN Symposium on Principles of Programming Languages
-	- https://popl19.sigplan.org
-	- https://popl19.sigplan.org/track/POPL-2019-Research-Papers#POPL-2019-Call-for-Papers
+	- https://popl20.sigplan.org/
+	- https://popl20.sigplan.org/track/POPL-2020-Research-Papers#POPL-2020-Call-for-Papers
 	- http://www.sigplan.org/Conferences/POPL/
 	- Cascais/Lisbon, Portugal
-	- Submission deadline: July 11, 2018.
+	- Submission deadline: July 1, 2018.
 
 
 

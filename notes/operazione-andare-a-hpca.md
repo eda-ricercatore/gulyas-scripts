@@ -1540,8 +1540,15 @@ Flags for work-in-progress:
 	- Be an essential part of a team of engineers and scientists developing state-of-the-art estimation algorithms used for a variety of tasks, including calibration, localization and tracking.
 + Perform analysis of security incidents & threat actors for further enhancement of Detection Catalog and Hunt missions by leveraging the MITRE ATT&CK framework.
 + Experience with information security tools such as an enterprise SIEM solution (Splunk preferred), IDS/IPS, endpoint security, EDR and security monitoring solutions (NSM,DLP,Insider, etc).
-
-
++ Scikit-learn, Keras/Tensorflow, Spark MLlib, Spacy or other ML libraries
++ tech stack:
+	- Docker (Kubernetes)
+	- Spark (on Hadoop)
+	- Kafka
+	- Cassandra (or other NoSQL DBs)
+	- AWS and some of its services
+	- Azure and some of its services
++ Interesting projects with technologies like Scala, Java, Groovy, Akka, SpringBoot, Cassandra, MongoDB, Apache Kafka, JavaScript, TypeScript, React, Angular.
 
 
 
