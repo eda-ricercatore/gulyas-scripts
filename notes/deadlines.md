@@ -253,8 +253,8 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 	- https://popl20.sigplan.org/
 	- https://popl20.sigplan.org/track/POPL-2020-Research-Papers#POPL-2020-Call-for-Papers
 	- http://www.sigplan.org/Conferences/POPL/
-	- Cascais/Lisbon, Portugal
-	- Submission deadline: July 10, 2018.
+	- New Orleans, Louisiana.
+	- Submission deadline: July 10, 2019.
 
 
 
