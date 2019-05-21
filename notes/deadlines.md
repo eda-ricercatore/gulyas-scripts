@@ -206,7 +206,11 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 
 
 
-
++ NDSS, Network and Distributed System Security Symposium (2 deadlines)
+	- http://www.ndss-symposium.org
+	- San Diego, CA.
+	- February 23-26, 2020
+	- Submission deadline: June 14 and September 13, 2019.
 
 
 
@@ -263,6 +267,17 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 	- Submission deadline: July 27 and August 3, 2018.
 
 
+
++ PPoPP, Symposium on Principles and Practice of Parallel Programming
+	- https://ppopp20.sigplan.org/track/PPoPP-2020-papers
+	- San Diego, CA.
+	- February 22-26, 2020
+	- Submission deadline: July 31 and Aug 6, 2018.
+
+
+
+
+
 + ASPLOS, International Conference on Architectural Support for Programming Languages and Operating Systems
 	- https://asplos-conference.org
 	- March 16-20, 2020.
@@ -271,17 +286,16 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 
 
 
-+ NDSS, Network and Distributed System Security Symposium
-	- http://www.ndss-symposium.org
-	- San Diego, CA.
-	- February 23-26, 2020
-	- Submission deadline: June 14 and September 13, 2019.
 
-+ PPoPP, Symposium on Principles and Practice of Parallel Programming
-	- https://ppopp20.sigplan.org/track/PPoPP-2020-papers
-	- San Diego, CA.
-	- February 22-26, 2020
-	- Submission deadline: July 31 and Aug 20, 2018.
+
+
++ FPT 1X, International Conference on Field-Programmable Technology
+	- http://fpt19.tju.edu.cn/index.htm
+	- http://www.icfpt.org/
+	- December 9-13, 2019
+	- Tianjin, China.
+	- *FPT is the premier conference in the Asia-Pacific region on field-programmable technologies, reconfigurable computing devices and systems.*
+	- Submission deadline: July 15 and 22, 2019.
 
 
 
@@ -418,6 +432,20 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 
 
 
++ IPDPS, IEEE International Parallel and Distributed Processing Symposium
+	- http://www.ipdps.org/ipdps2019/2019-call-for-papers.html
+	- May 20-24, 2019.
+	- Rio de Janeiro, Brazil.
+	- Submission deadline: October 8 and 15, 2018.
+
+
+
+
+
+
+
+
+
 
 
 + CPS-IoT Week, CPS & IoT Week
@@ -513,6 +541,12 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 
 
 
++ CC, International Conference on Compiler Construction
+	- https://cc-conference.github.io/20/
+	- February 22-26, 2020.
+	- San Diego, CA.
+	- Submission deadline: October 23 and 30, 2019.
+
 
 
 + STOC, Annual ACM Symposium on the Theory of Computing
@@ -525,11 +559,10 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 
 
 
-+ CC, International Conference on Compiler Construction
-	- https://cc-conference.github.io/20/
-	- February 22-26, 2020.
-	- San Diego, CA.
-	- Submission deadline: October 23 and 30, 2019.
+
+
+
+
 
 + CICC 2018, IEEE Custom Integrated Circuits Conference
 	- http://ieee-cicc.org
@@ -676,6 +709,20 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 	- Vancouver, Canada.
 	- Conference dates: June 24-27, 2019.
 	- Submission deadline: January 4-11, 2019.
+
+
+
+
+
+
++ FCCM, IEEE Symposium on Field-Programmable Custom Computing Machines
+	- https://www.fccm.org/
+	- San Diego, CA.
+	- April 28 – May 1, 2019.
+	- Submission deadline: January 7 and 14, 2019.
+
+
+
 
 
 
@@ -836,6 +883,13 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 	- Submission deadline: February 7, 2019.
 
 
++ RAW, Reconfigurable Architectures Workshop
+	- http://raw.necst.it/
+	- May 20 2019.
+	- Rio de Janeiro, Brazil.
+	- Submission deadline: February 8, 2019.
+
+
 + NEWCAS, IEEE Northeast Workshop on Circuits and Systems
 	- NEW Circuits and Systems Conference
 	- https://www.newcas2019.org
@@ -977,6 +1031,16 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 	- http://www.patmos-conf.org
 	- Rhodes Island, Greece
 	- Submission deadline: Mid and Late March, 2019.
+
+
++ FPL, International Conference on Field-Programmable Logic and Applications
+	- https://fpl2019.bsc.es/
+	- http://www.fpl.org/h/
+	- Barcelona, Spain.
+	- September 9-13, 2019.
+	- Submission deadline: March 22 and 29, 2019.
+
+
 
 
 + FM, International Symposium on Formal Methods
