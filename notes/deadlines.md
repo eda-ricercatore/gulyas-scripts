@@ -262,7 +262,7 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 	- https://www.hpca-conf.org/2020/
 	- San Diego, CA.
 	- February 2020.
-	- Submission deadline: July 30 and August 6, 2018.
+	- Submission deadline: ~~July 30 and August 6, 2018.~~???
 
 
 
