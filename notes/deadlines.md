@@ -250,7 +250,7 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 	- https://popl20.sigplan.org/track/POPL-2020-Research-Papers#POPL-2020-Call-for-Papers
 	- http://www.sigplan.org/Conferences/POPL/
 	- Cascais/Lisbon, Portugal
-	- Submission deadline: July 1, 2018.
+	- Submission deadline: July 10, 2018.
 
 
 
@@ -274,12 +274,14 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 + NDSS, Network and Distributed System Security Symposium
 	- http://www.ndss-symposium.org
 	- San Diego, CA.
-	- Submission deadline: Aug 7, 2018.
+	- February 23-26, 2020
+	- Submission deadline: June 14 and September 13, 2019.
 
 + PPoPP, Symposium on Principles and Practice of Parallel Programming
-	- https://ppopp19.sigplan.org/track/PPoPP-2019-papers
-	- Washington, D.C..
-	- Submission deadline: Aug 13 and Aug 20, 2018.
+	- https://ppopp20.sigplan.org/track/PPoPP-2020-papers
+	- San Diego, CA.
+	- February 22-26, 2020
+	- Submission deadline: July 31 and Aug 20, 2018.
 
 
 
@@ -287,11 +289,10 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 
 
 + IEEE Big Data, IEEE International Conference on Big Data
-	- http://cci.drexel.edu/bigdata/bigdata2018/CallPapers.html
-	- http://cci.drexel.edu/bigdata/bigdata2018/index.html
-	- Seattle, WA.
-	- Conference dates:December 10-13, 2018
-	- Submission deadline: August 19, 2018.
+	- http://cci.drexel.edu/bigdata/bigdata2019/CallPapers.html
+	- Los Angeles, CA.
+	- Conference dates: December 9-12, 2019.
+	- Submission deadline: August 19, 2019.
 
 
 
@@ -301,10 +302,11 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 
 
 + ICSE, ACM/IEEE International Conference on Software Engineering
-	- https://conf.researchr.org/home/icse-2019
-	- https://2019.icse-conferences.org/track/icse-2019-Technical-Papers#Call-for-Papers
-	- Montreal, QC, Canada
-	- Submission deadline: August 24, 2018.
+	- https://conf.researchr.org/home/icse-2020
+	-
+	- May 23-29, 2020.
+	- Seoul, South Korea.
+	- Submission deadline: August 23, 2020.
 
 
 
@@ -330,7 +332,7 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 	- http://itcs-conf.org/itcs19/itcs19-cfp.html
 	- San Diego, CA.
 	- Conference dates: January 10-12, 2019
-	- Submission deadline: September 7, 2018
+	- Submission deadline: September 7, 2018???
 
 
 
@@ -346,11 +348,11 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 + DATE 2019, Design, Automation & Test in Europe Conference & Exhibition
 	- https://www.date-conference.com/call-for-papers
 	- Florence, Italy
-	- Submission deadline: Sep 9, 2018.
+	- Submission deadline: Sep 9, 2018.???
 + SAC2019, ACM/SIGAPP Symposium On Applied Computing
-	- https://www.sigapp.org/sac/sac2019/
-	- Limassol, Cyprus
-	- Submission deadline: Sep 10, 2018.
+	- https://www.sigapp.org/sac/sac2020/
+	- Brno, Czech Republic.
+	- Submission deadline: March 30 and April 3, 2018.
 
 
 
