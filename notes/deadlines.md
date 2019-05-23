@@ -376,6 +376,12 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 
 
 
++ ISQED 2019, International Symposium on Quality Electronic Design
+	- https://www.isqed.org/English/Conference/Call_for_Papers.html
+	- Santa Clara, CA.
+	- DATE
+	- Submission deadline: September 14, 2018.
+
 
 + SAC2019, ACM/SIGAPP Symposium On Applied Computing
 	- https://www.sigapp.org/sac/sac2020/
@@ -486,11 +492,6 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 	- http://conferences.computer.org/iotDI/2019/
 	- Submission deadline: October 10 and 17, 2018.
 
-
-+ ISQED 2019, International Symposium on Quality Electronic Design
-	- http://www.isqed.org/English/Conference/Call_for_Papers.html
-	- Santa Clara, CA.
-	- Submission deadline: October 14 (delayed), 2018.
 
 
 

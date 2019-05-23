@@ -1549,9 +1549,59 @@ Flags for work-in-progress:
 	- AWS and some of its services
 	- Azure and some of its services
 + Interesting projects with technologies like Scala, Java, Groovy, Akka, SpringBoot, Cassandra, MongoDB, Apache Kafka, JavaScript, TypeScript, React, Angular.
-
-
-
++ tech stack:
+	- Python (numpy, pandas, sklearn, xgboost, TensorFlow)
+	- MySQL, Hive
+	- Java
+	- Google Cloud Platform
+	- Tableau, Looker
++ tech stack:
+	- Python (numpy, pandas, scikit-learn, tensorflow, keras)
+	- Google Cloud Platform
+	- Machine Learning (e.g. regression, ensemble methods, deep learning, etc.)
+	- Statistics (Bayesian methods, experimental design, causal inference)
+	- Tableau, Looker
+	- Snowflake (SQL)
++ skill set:
+	- Familiarity with containerization technologies (docker, lxc, rkt, etc.).
+	- Familiarity with container orchestration technologies (Kubernetes, Marathon, etc.).
+	- Experience working with cloud computing services providers (AWS, Google cloud platform, Azure, etc.).
+	- Experience with Elasticsearch /Apache Solr and Logstash
+	- Experience working with Real-time messaging and NoSQL infrastructures: Redis, RabbitMQ, Celery, Kafka, etc.
+	- Scalable data processing techniques: Kafka, Spark, ElasticSearch, Celery
+	- Real-time messaging and NoSQL infrastructures: Redis, RabbitMQ
+	- Have proven experience with ORMs (e.g. Django) and RDBMS (e.g. MySQL) including development of complex SQL queries.
++ skill set:
+	- A fluidity with tools commonly used for data analysis such as Python (numpy, pandas, and scikit learn), R, and Spark (MLlib).
+	- Experience with MPP databases, such as Snowflake, Redshift, BigQuery, Vertica, etc.
+	- Familiarity with data visualization tools/frameworks as well as notebooks.
+	- Experience with time-series forecasting.
+	- Experience building and deploying production-grade models in a real-time setting.
+	- Expert-level abilities building and deploying unsupervised, semi-supervised, and supervised models on large-scale data (in that order of importance).
+	- A degree of comfort at the command line. That means a thorough understanding of basic file-system commands, as well as the ability to ssh into remote machines and troubleshoot without a GUI, grep through logs, and deploy scripts and applications.
++ skill set:
+	- Exceptional SQL skills and experience working with granular web clickstream data and behavior tracking tools like SiteCatalyst
+	- Fluency in data analysis, including defining KPIs, statistical and predictive modeling concepts, descriptive statistics, experimental design and multivariate A/B testing
++ skill set:
+	- Hadoop, HDFS, Hive, HBase, MapReduce, and Mahout.
+	- Large-scale graph algorithms, clustering, page-rank, and community detection.
+	- Apache Spark, SparkSQL, MLlib, and Scala Actors.
+	- Ensemble Methods, Deep Learning, and other trendy topics in the Machine Learning community.
++ skill set:
+	- Extensive hands on experience with administering some of the following: HBase, Impala, Spark, EMR, Hive on Tez or Presto
+	- Experience operating large scale Hadoop clusters running Cloudera distribution
+	- Operational mindset with ability to do Problem, SLA and Incident Management
+	- Experience installing and managing Kafka is good to have
+	- Experience managing infrastructure in AWS using EMR
+	- Experience with SQL and Python(Boto3 Library)
+	- Experience with AWS products including EC2, S3, RDS, ElastiCache, ElasticSearch, Kinesis, Lambda, etc
+	- Exposure to Big Data on AWS (DataPipeline, Batch, AWS Glue, S3, EMR/EC2)
+	- Hands on expertise in AWS (S3, EMR, EC2, Hadoop, Hive, Spark, Kafka, Storm, Druid, Cassandra, Columnar Databases and Graph Databases like DSE Graph is huge plus.
++ skill set:
+	- Efficient in SQL, Hive, SparkSQL, etc.
+	- Serve as technical “go to” person for our core technologies – Hadoop, Spark, AWS, Vertica, Tableau, Cassandra, Graph Databases and others
+	- Advanced SQL skills to perform data segmentation and aggregation from scratch; experience working with granular web clickstream data a plus!
+	- Knowledge of programming languages and stats packages (e.g. python, R); comfortable running multiple regression analyses
 
 
 
