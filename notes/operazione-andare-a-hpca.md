@@ -1603,11 +1603,24 @@ Flags for work-in-progress:
 	- Advanced SQL skills to perform data segmentation and aggregation from scratch; experience working with granular web clickstream data a plus!
 	- Knowledge of programming languages and stats packages (e.g. python, R); comfortable running multiple regression analyses
 + Strong hands-on experience with at least one of the main stream deep learning frameworks such TensorFlow, PyTorch, BLVC Caffe, Theano
++ skill set:
+	- Expert knowledge of either Python or R, strong experience with database management systems like SQL, preferably also Spark ML, Scala, Hive and Impala
+	- Confidence and comfort working on projects and goals that are happening in a hypothesis driven environment (build – measure – learn mindset)
+	- An excellent understanding of SQL.
+	- Experience with big data technologies (Hive, Impala, Spark, etc.) would be a plus.
++ Automated testing: Karma, Protractor
++ skill set:
+	- Proxmox, KVM virtualization, LXC and Docker containers
+	- large scale object storage (Ceph, cloud-based object storages)
+	- Puppet
+	- PostgreSQL
+	- Distributed architecture (RabbitMQ, Kafka)
+	- Icinga/Prometheus/ELK monitoring
++ Knowledge of container (docker or others) and orchestration (K8S or others)
+technology is a plus
++ Knowledge of distributed machine learning framework (distributed TensorFlow/MXNET) or cloud/edge federation is a plus
 
-
-
-
-
+ 
 
 
 

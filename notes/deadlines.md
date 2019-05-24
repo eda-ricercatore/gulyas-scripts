@@ -1615,19 +1615,6 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 	- Verification, validation, and accreditation of models: detailed studies, workflow-based support, addressing questions of provenance, statistical model checking, reproducibility of simulation results.
 	- Interplay between other areas of computer science and simulation: simulation for decision support, workflows, artificial intelligence, virtual reality, big data, service-oriented approaches, grid-computing, visual analytics, probabilistic programming.
 	- Advanced Applications: Novel techniques and tools for simulating specific complex systems such as those arising in communication networks, computer science, cyber physical systems, health care, manufacturing, social science, systems biology, systems medicine, transportation systems.
-+ skill set:
-	- Expert knowledge of either Python or R, strong experience with database management systems like SQL, preferably also Spark ML, Scala, Hive and Impala
-	- Confidence and comfort working on projects and goals that are happening in a hypothesis driven environment (build – measure – learn mindset)
-	- An excellent understanding of SQL.
-	- Experience with big data technologies (Hive, Impala, Spark, etc.) would be a plus.
-+ Automated testing: Karma, Protractor
-+ skill set:
-	- Proxmox, KVM virtualization, LXC and Docker containers
-	- large scale object storage (Ceph, cloud-based object storages)
-	- Puppet
-	- PostgreSQL
-	- Distributed architecture (RabbitMQ, Kafka)
-	- Icinga/Prometheus/ELK monitoring
 
 
 
