@@ -1602,7 +1602,7 @@ Flags for work-in-progress:
 	- Serve as technical “go to” person for our core technologies – Hadoop, Spark, AWS, Vertica, Tableau, Cassandra, Graph Databases and others
 	- Advanced SQL skills to perform data segmentation and aggregation from scratch; experience working with granular web clickstream data a plus!
 	- Knowledge of programming languages and stats packages (e.g. python, R); comfortable running multiple regression analyses
-
++ Strong hands-on experience with at least one of the main stream deep learning frameworks such TensorFlow, PyTorch, BLVC Caffe, Theano
 
 
 

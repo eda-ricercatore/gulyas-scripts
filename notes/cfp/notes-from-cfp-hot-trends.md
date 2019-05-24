@@ -345,3 +345,22 @@ Authors are encouraged to discuss the following issues in their papers:
 + Understanding the Challenges of Algorithm and Hardware Co-design for Deep Neural Networks, Vivienne Sze (sze@mit.edu), MIT
 + Turbocharge Deep Learning Inference using Reconfigurable Platforms, Ashish Sirasao (asirasa@xilinx.com), Xilinx
 + Invited Speakers: Rethinking the Computations in Computer Vision (and the Hardware that Computes Them), Kurt Keutzer, Berkeley
+
+
+
+#	MoRe 2019, 2nd International Workshop on Multi-objective Reasoning in Verification and Synthesis
+
++ MoRe aims at bringing together researchers interested in multi-objective reasoning for verification and synthesis.
+
+Traditionally, verification and synthesis techniques focus on a single qualitative or quantitative objective for the reactive system. In practice, it is often desired that systems satisfy a functional requirement expressed as a qualitative property, while optimising some quantitative dimension (e.g., reach a target state while minimising the energy consumption). Furthermore, there are numerous application contexts in which reasoning simultaneously about multiple, heterogeneous quantitative and qualitative characteristics is important. In many cases, the analysis of such systems may be complicated by the fact that there are trade-offs between objectives. Such trade-offs may also arise between several interpretations of the same quantitative dimension: for example, between the average-case and the worst-case performance of a system.
+
+MoRe is a meeting place for researchers in the area of multi-objective reasoning for verification and synthesis, with topics of interest ranging from novel theoretical models to industrial challenges and practical applications. Typical topics of the workshop include, but are not limited to, formal approaches toward verification and synthesis in the following settings:
+
++ games (and related models) with multiple qualitative and quantitative objectives;
++ multi-criteria reasoning in probabilistic models (e.g., percentile queries, quantiles, trade-off between worst-case and average-case performance);
++ extensions of timed automata including probabilistic or weighted aspects;
++ stochastic hybrid systems;
++ temporal logics enabling quantitative reasoning;
++ probabilistic programs;
++ practical applications involving multi-objective challenges;
++ any related attempt to tackle trade-offs between multiple criteria in formal models for verification and synthesis.

@@ -43,6 +43,13 @@ Fix mathematical proof for paper and implement processor subsystems.
 	- URL
 	- VENUE
 	- Submission deadline: Late May, 2019.
++ ICALP, International Colloquium on Automata, Languages and Programming
+	- http://eatcs.org/index.php/conferences
+	- https://icalp2019.upatras.gr/
+	- http://eatcs.org/index.php/future-icalps
+	- ICALP 2020 in Beijing, China.
+	- Main conference: July 8-12, 2020.
+	- Submission deadline: Mid-February, 2020.
 + ICCV, International Conference on Computer Vision
 	- http://iccv2019.thecvf.com/submission/timeline
 	- http://iccv2019.thecvf.com/submission/main_conference/author_guidelines
@@ -387,6 +394,15 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 	- https://www.sigapp.org/sac/sac2020/
 	- Brno, Czech Republic.
 	- Submission deadline: September 15, 2019.
+
+
+
+
+
+
+
+
+
 
 + MTV17, International Workshop on Microprocessor/SoC Test, Security & Verification
 	- http://mtvcon.org/paper-submission/
@@ -1069,6 +1085,36 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 
 
 
+
++ QEST 2020, International Conference on Quantitative Evaluation of SysTems
+	- http://www.qest.org/qest2019/call-for-papers.html
+	- VENUE
+	- DATE
+	- Submission deadline: Late March and/or Early April, 2020.
+	- Topics:
+		* quantitative specification methods
+		* stochastic and non-deterministic models and metrics for:
+			+ performance
+			+ reliability
+			+ safety
+			+ correctness
+			+ security
+		* QEST welcomes a diversity of modelling formalisms, programming languages and methodologies that incorporate quantitative aspects such as probabilities, temporal properties and other forms of non-determinism. This includes work on the combination of quantitative evaluation and verification with machine learning techniques. Papers may advance empirical, simulation and analytic methods.
+		* Systems of interest include computer hardware and software architectures, communication systems, cyber-physical systems, infrastructural systems, security systems and biological systems.
+	- QEST considers five types of papers:
+		+ Theoretical: advance our understanding, apply to non-trivial problems and be mathematically rigorous.
+		+ Methodological and technical: describe situations that require the development and proposal of new analysis processes and techniques.
+		+ Application: describes a novel application, and compares with previous results.
+		+ Tools: should motivate the development of the new tools and the formalisms they support, with a focus on the software architecture and practical capabilities.
+		+ Tool demonstration: describe a relevant tool, as well as its features, evaluation, or any other information that may demonstrate the merits of the tool.
+
+
+
+
+
+
+
+
 + MICRO, IEEE/ACM International Symposium on Microarchitecture
 	- https://www.microarch.org/micro52/
 	- https://www.microarch.org/micro52/submit/papers.html
@@ -1560,6 +1606,23 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 		* Applications on which success can be demonstrated.
 		* The underlying technology from which reconfigurable systems are developed, including FPGA architectures and their associated computer-aided design algorithms.
 	- https://trets.acm.org/about.cfm
++ ACM Transactions on Modeling and Computer Simulation (TOMACS)
+	- The ACM Transactions on Modeling and Computer Simulation (TOMACS) provides a single archival source for the publication of high-quality research and developmental results referring to all phases of the modeling and simulation life cycle. The subjects of emphasis are discrete event simulation, combined discrete and continuous simulation, as well as Monte Carlo methods.
+	- Modeling Methodology: modeling languages, model reuse, component-based approaches, agent-based approaches, multi-formalism modeling, hierarchical, multi-level modeling, meta modeling and visual modeling, composition and refinement of models, hybrid modeling.
+	- Model Execution: development and analysis of algorithms and data structures, approximative algorithms, hybrid algorithms, parallel algorithms, including GPU based approaches, distributed simulation, grid-based and cloud-based execution, inter-operation of simulation systems, distributed simulations for training, test and evaluation purposes, data driven simulation.
+	- Random numbers and objects: random number generators and testing, low-discrepancy sequences, random variate transformations, stochastic process and random object generators, statistical distribution fitting and data modeling.
+	- Experiment design and simulation analysis: analysis of the stochastic nature of simulation output and algorithms, including rare event simulation, simulation-based optimization and search, sensitivity analysis, variance reduction techniques and Markov chain Monte Carlo approaches.
+	- Verification, validation, and accreditation of models: detailed studies, workflow-based support, addressing questions of provenance, statistical model checking, reproducibility of simulation results.
+	- Interplay between other areas of computer science and simulation: simulation for decision support, workflows, artificial intelligence, virtual reality, big data, service-oriented approaches, grid-computing, visual analytics, probabilistic programming.
+	- Advanced Applications: Novel techniques and tools for simulating specific complex systems such as those arising in communication networks, computer science, cyber physical systems, health care, manufacturing, social science, systems biology, systems medicine, transportation systems.
+
+
+
+
+
+
+
+
 
 
 ##	Comments on Submitting Articles to Journals for Publication

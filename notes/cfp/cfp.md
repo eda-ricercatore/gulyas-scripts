@@ -400,7 +400,7 @@ Primary / Secondary
 + Trustworthy Machine Learning
 	- Adversarial Examples
 	- Causality
-	- Fairness
+	- Fairness [AI bias]
 	- Interpretability
 	- Privacy-preserving Statistics and Machine Learning
 	- Robust Statistics and Machine Learning
@@ -621,6 +621,331 @@ Areas of interest include, but are not limited to:
 +  Verification and testing, and their impact on design and security
 +  Systems and hardware support for machine learning
 +  Non-traditional computing systems, including emerging devices
+
+
+
+#	IJCAI
+
++ machine learning
++ search
++ planning
++ knowledge representation
++ reasoning
++ constraint satisfaction
++ natural language processing
++ robotics and perception
++ multiagent systems
++ AI techniques in the context of novel application domains:
+	- security
+	- sustainability
+	- health care
+	- transportation
+	- commerce
++ special tracks:
+	- Understanding Intelligence and Human-level AI in the New Machine Learning era
+	- AI for Improving Human-Well Being
+
+
+
+#	CVPR
+
++ 3D from Multiview and Sensors
++ 3D from Single Images
++ Action Recognition
++ Biometrics
++ Big Data, Large Scale Methods
++ Computational Photography
++ Computer Vision Theory
++ Datasets and Evaluation
++ Deep Learning Techniques
++ Document Analysis
++ RGBD sensors and analytics
++ Face, Gesture, and Body Pose
++ Image and Video Synthesis
++ Low-level Vision
++ Machine Learning, General
++ Medical, Biological and Cell Microscopy
++ Motion and Tracking
++ Optimization Methods
++ Physics-based Vision and Shape-from-X
++ Recognition:
+	- Detection, Categorization, Retrieval
++ Representation Learning
++ Robotics and Driving
++ Scene Analysis and Understanding
++ Segmentation, Grouping and Shape
++ Statistical Learning
++ Video Analytics
++ Vision + Graphics
++ Vision + Language
++ Visual Reasoning
++ Vision Applications and Systems
+
+
+
+#	AAAI-20
+
++ All subareas of AI and machine learning
++ search
++ planning
++ knowledge representation
++ reasoning
++ natural language processing
++ robotics and perception
++ multiagent systems
++ statistical learning
++ deep learning
++ application domains:
+	+ healthcare
+	+ sustainability
+	+ transportation
+	+ commerce
++ special topics:
+	- Data collection may be difficult and may require innovative methods and validations, for instance to address large scale data gathering in the field, eliminate bias and ensure fairness;
+	- Problem modeling is a time-intensive activity that require significant collaborations with domain experts and need to balance a variety of tradeoffs in decision making;
+	- Social impact is only realized through time-consuming field studies that typically compare a baseline with the application of novel algorithms in the real world.
+
+
+
+
+
+
+# IJCNN
+
++ NEURAL NETWORK MODELS
+	- Feedforward neural networks
+	- Recurrent neural networks
+	- Self-organizing maps
+	- Radial basis function networks
+	- Attractor neural networks and associative memory
+	- Modular networks
+	- Fuzzy neural networks
+	- Spiking neural networks
+	- Reservoir networks (echo-state networks, liquid-state machines, etc.)
+	- Large-scale neural networks
+	- Learning vector quantization
+	- Deep neural networks
+	- Randomized neural networks
+	- Other topics in artificial neural networks
++ MACHINE LEARNING
+	- Supervised learning
+	- Unsupervised learning and clustering, (including PCA, and ICA)
+	- Reinforcement learning and adaptive dynamic programming
+	- Semi-supervised learning
+	- Online learning
+	- Probabilistic and information-theoretic methods
+	- Support vector machines and kernel methods
+	- EM algorithms
+	- Mixture models, ensemble learning, and other meta-learning or committee algorithms
+	- Bayesian, belief, causal, and semantic networks
+	- Statistical and pattern recognition algorithms
+	- Sparse coding and models
+	- Visualization of data
+	- Feature selection, extraction, and aggregation
+	- Evolutionary learning
+	- Hybrid learning methods
+	- Computational power of neural networks
+	- Deep learning
+	- Other topics in machine learning
++ NEURODYNAMICS
+	- Dynamical models of spiking neurons
+	- Synchronization and temporal correlation in neural networks
+	- Dynamics of neural systems
+	- Chaotic neural networks
+	- Dynamics of analog networks
+	- Itinerant dynamics in neural systems
+	- Neural oscillators and oscillator networks
+	- Dynamics of attractor networks
+	- Other topics in neurodynamics
++ COMPUTATIONAL NEUROSCIENCE
+	- Connectomics
+	- Models of large-scale networks in the nervous system
+	- Models of neurons and local circuits
+	- Models of synaptic learning and synaptic dynamics
+	- Models of neuromodulation
+	- Brain imaging
+	- Analysis of neurophysiological and neuroanatomical data
+	- Cognitive neuroscience
+	- Models of neural development
+	- Models of neurochemical processes
+	- Neuroinformatics
+	- Other topics in computational neuroscience
++ NEURAL MODELS OF PERCEPTION, COGNITION AND ACTION
+	- Neurocognitive networks
+	- Cognitive architectures
+	- Models of conditioning, reward and behavior
+	- Cognitive models of decision-making
+	- Embodied cognition
+	- Cognitive agents
+	- Multi-agent models of group cognition
+	- Developmental and evolutionary models of cognition
+	- Visual system
+	- Auditory system
+	- Olfactory system
+	- Other sensory systems
+	- Attention
+	- Learning and memory
+	- Spatial cognition, representation and navigation
+	- Semantic cognition and language
+	- Grounding, symbol grounding
+	- Neural models of symbolic processing
+	- Reasoning and problem-solving
+	- Working memory and cognitive control
+	- Emotion and motivation
+	- Motor control and action
+	- Dynamical models of coordination and behavior
+	- Consciousness and awareness
+	- Models of sleep and diurnal rhythms
+	- Mental disorders
+	- Other topics in neural models of perception, cognition and action
++ NEUROENGINEERING
+	- Brain-machine interfaces
+	- Neural prostheses
+	- Neuromorphic hardware
+	- Embedded neural systems
+	- Other topics in neuroengineering
++ BIO-INSPIRED AND BIOMORPHIC SYSTEMS
+	- Brain-inspired cognitive architectures
+	- Embodied robotics
+	- Evolutionary robotics
+	- Developmental robotics
+	- Computational models of development
+	- Collective intelligence
+	- Swarms
+	- Autonomous complex systems
+	- Self-configuring systems
+	- Self-healing systems
+	- Self-aware systems
+	- Emotional computation
+	- Artificial life
+	- Other topics in bio-inspired and biomorphic systems
++ APPLICATIONS
+	- Applications of deep neural networks
+	- Bioinformatics
+	- Biomedical engineering
+	- Data analysis and pattern recognition
+	- Speech recognition and speech production
+	- Robotics
+	- Neurocontrol
+	- Approximate dynamic programming, adaptive critics, and Markov decision processes
+	- Neural network approaches to optimization
+	- Signal processing, image processing, and multi-media
+	- Temporal data analysis, prediction, and forecasting; time series analysis
+	- Communications and computer networks
+	- Data mining and knowledge discovery
+	- Power system applications
+	- Financial engineering applications
+	- Security applications
+	- Applications in multi-agent systems and social computing
+	- Manufacturing and industrial applications
+	- Expert systems
+	- Clinical applications
+	- Big data applications
+	- Other applications
+	- Smart grid applications
++ CROSS-DISCIPLINARY TOPICS
+	- Hybrid intelligent systems
+	- Swarm intelligence
+	- Sensor networks
+	- Quantum computation
+	- Computational biology
+	- Molecular and DNA computation
+	- Computation in tissues and cells
+	- Artificial immune systems
+	- Philosophical issues
+	- Other cross-disciplinary topics
+
+
+
+#	LICS
+
++ automata theory
++ automated deduction
++ categorical models and logics
++ concurrency and distributed computation
++ constraint programming
++ constructive mathematics
++ database theory
++ decision procedures
++ description logics
++ domain theory
++ finite model theory
++ formal aspects of program analysis
++ formal methods
++ foundations of computability
++ games and logic
++ higher-order logic
++ lambda and combinatory calculi
++ linear logic
++ logic in artificial intelligence
++ logic programming
++ logical aspects of bioinformatics
++ logical aspects of computational complexity
++ logical aspects of quantum computation
++ logical frameworks
++ logics of programs
++ modal and temporal logics
++ model checking
++ probabilistic systems
++ process calculi
++ programming language semantics
++ proof theory
++ real-time systems
++ reasoning about security and privacy
++ rewriting
++ type systems and type theory
++ verification
+
+
+
+
+
+#	International Colloquium on Automata, Languages and Programming, ICALP
+
++ Track A: Algorithms, complexity and games
+	- Approximation Algorithms
+	- Combinatorial Optimization
+	- Combinatorics in Computer Science
+	- Computational Biology
+	- Computational Complexity
+	- Computational Geometry
+	- Cryptography
+	- Data Structures
+	- Design and Analysis of Algorithms
+	- Foundations of Algorithmic Game Theory
+	- Machine Learning
+	- Parallel, Distributed and External Memory Computing
+	- Quantum Computing
+	- Randomness in Computation
++ Track B: Automata, logic, semantics, and theory of programming
+	- Algebraic and Categorical Models
+	- Automata, Games, and Formal Languages
+	- Emerging and Non-standard Models of Computation
+	- Databases, Semi-Structured Data and Finite Model Theory
+	- Logic in Computer Science, Theorem Proving and Model Checking
+	- Models of Concurrent, Distributed, and Mobile Systems
+	- Models of Reactive, Hybrid and Stochastic Systems
+	- Principles and Semantics of Programming Languages
+	- Program Analysis and Transformation
+	- Specification, Verification and Synthesis
+	- Type Systems and Theory, Typed Calculi
++ Track C: Foundations of networks and multi-agent systems: models, algorithms and information management
+	- Algorithmic Aspects of Networks and Networking
+	- Algorithmic Game Theory
+	- Formal Methods for Network Information Management
+	- Foundations of Privacy, Trust and Reputation in Networks
+	- Foundations of Complex Networks
+	- Message-Passing Models of Distributed Computing
+	- Mobile and Wireless Networks and Communication
+	- Network Economics and Incentive-Based Computing Related to Networks
+	- Networks of Low Capability Devices
+	- Network Mining and Analysis
+	- Overlay Networks and P2P Systems
+	- Specification, Semantics, Synchronization of Networked Systems
+	- Theory of Security in Networks
+
+
+
 
 
 
