@@ -1657,10 +1657,12 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Experience with advanced ML models and concepts: HMMs, CRFs, MRFs, deep learning, regularization etc.
 	- Experience with distributed databases such as HBase, Redis, CouchBase etc.
 	- Experience in search platform such as Solr, Elastic Search
-
-
-
-
++ Cross platform C++17, OpenCL, Qt/QML, git, Python 3, clang-tidy, clang-format, Jenkins, CMake, Catch2, Docker, Vagrant, KVM, C++/CLI.
++ Work with cutting edge technologies such as C++17 (anything that passes VS2017, latest Clang, GCC, clang-tidy, ...). C++/CLI, GPGPU, Python, Jenkins, docker, KVM, libclang, boost, Qt and CMake
++ skill set:
+	- Java, mahout, Hadoop
+	- Scala, Spark, SparkML
+	- Spark with Python, numpy and pandas
 
 
 
