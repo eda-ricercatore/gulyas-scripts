@@ -1617,10 +1617,52 @@ Flags for work-in-progress:
 	- Distributed architecture (RabbitMQ, Kafka)
 	- Icinga/Prometheus/ELK monitoring
 + Knowledge of container (docker or others) and orchestration (K8S or others)
-technology is a plus
-+ Knowledge of distributed machine learning framework (distributed TensorFlow/MXNET) or cloud/edge federation is a plus
+technology is a plus+ At least 2 years of experience using deep learning techniques (CNN, RNN, LSTM) on computer vision tasks (object detection and tracking, classification, action recognition)
++ skill set:
+	- 2+ years of cloud experience using AWS (e.g., EC2, ECS, Batch, Lambda)
+	- Familiarity with Continuous Integration tools (e.g., Jenkins, Travis)
++ Knowledge of distributed machine learning framework (distributedTensorFlow/MXNET) or cloud/edge federation is a plus
++ At least 2 years of experience using deep learning techniques (CNN, RNN, LSTM) on computer vision tasks (object detection and tracking, classification, action recognition)
++ skill set:
+	- 2+ years of cloud experience using AWS (e.g., EC2, ECS, Batch, Lambda)
+	- Familiarity with Continuous Integration tools (e.g., Jenkins, Travis)
++ skill set:
+	- Technologies : AWS Batch,  Spark, Hive, EMR, Presto, Docker, Jenkins, Bitbucket
+	- Databases: RDS MySQL, Redshift
+	- Machine Learning: Distributed TensorFlow, Keras, PyTorch, Caffe2, scikit-learn, Apache MxNet, SageMaker
+	- Developing DAOs (data access objects) and APIs
+	- Extensive practical experience using a wide range of AWS technologies, including: S3, EC2s, Lambda, Step Functions, Glue, EMR, API Gateway
++ Experience with CoreAudio, Audio Unit, ASIO and VST APIs.
++ Familiarity with automated build systems such as Jenkins or buildbot.
++ Experience with distributed analytic processing technologies (Hive, Pig, Presto, Spark)
++ skill set:
+	- Linux
+	- Puppet
+	- nginx
+	- AWS
+	- Datadog
+	- Cloudformation
++ skill set:
+	- API rest
+	- Ruby on Rails
+	- CDNs
+	- Microservices
+	- Python
+	- MySQL
+	- Bento4
+	- FFmpeg
+	- Docker
+	- We are looking for students or graduates with strong knowledge of objected-oriented programming, SQL and NoSQL.
++ skill set:
+	- Experience with advanced ML models and concepts: HMMs, CRFs, MRFs, deep learning, regularization etc.
+	- Experience with distributed databases such as HBase, Redis, CouchBase etc.
+	- Experience in search platform such as Solr, Elastic Search
 
- 
+
+
+
+
+
 
 
 
