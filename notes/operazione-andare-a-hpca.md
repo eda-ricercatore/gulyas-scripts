@@ -1663,10 +1663,75 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Java, mahout, Hadoop
 	- Scala, Spark, SparkML
 	- Spark with Python, numpy and pandas
++ skill set:
+	- As part of the Advanced Product Development team, immediate responsibilities include:
+		* Exploration and development of machine learning algorithms for spatiotemporal analysis, including multiclass classification, clustering, temporal segmentation, sequence labeling, and spatial segmentation.
+		* Development of new technologies and digital products to improve surgeon and team performance on robotic surgery platforms.
+		* Support clinical and academic collaborations in related fields.
+	- Additional responsibilities include:
+		* Contributing to multiple areas of research, including but not limited to the following:
+		* Designing and applying machine learning algorithms to novel, surgical applications
+		* Characterizing surgeon and team behavior and workflow to optimize new technologies
+		* Fully integrating machine learning into core digital products and intelligent systems
+		* Conducting user studies to evaluate digital product concepts
+	- Establishing strong academic collaborations across research disciplines
+	- Presenting research at international conferences and publishing research in top academic journals
+	- Qualifications... Skill/Job Requirements:
+		* Competency Requirements: (Competency is based on: education, training, skills and experience).
+		* In order to adequately perform the responsibilities of this position the individual must have:
+			+ Doctoral degree in Computer Science, Statistics, Applied Mathematics, or Neuroscience, or Master's degree with minimum (5) years industry experience developing machine learning applications
+			+ Demonstrate excellent communication skills both written and verbal
+			+ Interested in early research and development through to product roll-out
+			+ Solid understanding of statistics, machine learning, and deep learning algorithms and techniques is required
+			+ Experience with sequence modeling, image analysis, activity recognition, and/or temporal segmentation on real-world data is required
+			+ Experience with Python is required
+			+ Hands-on experience with deep learning frameworks such as Tensorflow, Theano, Caffe, and/or Torch is required
+			+ Hands-on experience with CNNs, RNNs, and LSTMs is ideal
+			+ Experience with R, SQL is ideal
+			+ Experience with C/C++ is ideal
+			+ Experience with clinical studies is a plus
+			+ Ability to travel domestically and internationally (10%)
++ skill set:
+	- Intuitive Surgical designs and manufactures state-of-the-art robot-assisted systems for use in minimally-invasive surgery. These systems are revolutionizing the way in which surgery is being done and offer a unique platform that is being used routinely at hospitals worldwide for exploring the potential of digital surgery. Joining Intuitive Surgical means joining a team dedicated to using technology to benefit patients by improving surgical efficacy and decreasing surgical invasiveness, with patient safety as our highest priority.
+	- The Applied Research group within Intuitive Surgical has an immediate opening in Sunnyvale, CA for a research scientist with focus on Computer Vision, Deep Learning and Image Analytics, contributing to new technology development in the area of 3D scene understanding/reconstruction and spatial AI systems for next-generation robot-assisted surgery platforms. This role is an exciting opportunity to join a newly formed team and contribute to its growth and it will give you an opportunity to test your knowledge in a challenging problem solving environment.
+	- Research, design and implement algorithms in deep learning for computer vision and image analytics
+	- Contribute to research projects that develop a variety of algorithms and systems in computer vision, image and video analysis.
+	- Advance the state-of-the-art in the field, including generating patents and publications
+	- Develop prototypes of 3D recognition models that scale to large clinical datasets
+	- Develop prototypes of dense 3D reconstruction systems based on multi-view image sensors
+	- Contribute to building new clinical datasets and data pipelines
+	- Participate in integration of new ML/CV algorithms into existing and future robotic platforms
+	- Experiment with several users and clinical advisors to iterate prototype designs based on feedback and performance.
+	- Develop new technologies and digital products to improve surgeon and team performance on robotic surgery platforms.
+	- Support academic collaborations in related fields.
+	- Contribute to multiple areas of research, including but not limited to the following:
+		* Design and apply CV/ML algorithms to novel, surgical applications
 
+		* Design/bring-up of novel sensing technologies
 
-
-
+		* Characterize surgeon and team behavior and workflow to optimize new technologies
+	- Establish strong academic collaborations across research disciplines
+	- Doctoral degree in computer science, electrical and computer engineering, or Master's degree with minimum (5) years industry experience developing computer vision and machine learning applications
+	- Strong understanding of machine learning: you should be familiar with the process (data collection, training, evaluation, and making iterative improvements) of building effective learning systems.
+	- Strong hands-on experience with at least one of the main stream deep learning frameworks such TensorFlow, PyTorch, BLVC Caffe, Theano
+	- Strong hands-on experience with Python (proficiency), C/C++ (proficiency), Shell Script, Matlab
+	- Strong engineering practices, debugging/profiling skills, familiarity with multi- threaded programming.
+	- Train machine learning and deep learning models on a computing cluster to perform visual recognition tasks, such as segmentation and detection
+	- Hands-on experience with GPU accelerated algorithms and implementations
+	- Hands-on experience with state-of-the-art models based on CNNs, RNNs, and LSTMs
+	- Excellent communication skills both written and verbal
+	- Interested in early phases of product exploration and iteration based on incomplete requirements.
+	- Solid understanding of computer vision, machine learning, and deep learning algorithms and techniques is required
+	- Experience with visualization tools is a plus
+	- Self-starter and able to work in a collaborative and results-oriented environment
+	- Ability to travel domestically and internationally (5-15%)
+	- Able to view live and recorded surgical procedures
++ Experience with CUDA, VTK/ITK, and/or physics based simulation
++ skill set:
+	- Experience developing virtual world environment for games, such as Lumberyard, Unity3d, Unreal, CryEngine and/or other world simulation environments
+	- Experience with graphics APIs and frameworks such as OpenGL, DirectX, or Vulkan
+	- Experience with physics engines (e.g. Bullet, Havok, PhysX)
+	- Experience developing agent behaviors, physics, gameplay, tools, or GUIs
 
 
 
