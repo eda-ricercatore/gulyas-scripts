@@ -1732,7 +1732,23 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Experience with graphics APIs and frameworks such as OpenGL, DirectX, or Vulkan
 	- Experience with physics engines (e.g. Bullet, Havok, PhysX)
 	- Experience developing agent behaviors, physics, gameplay, tools, or GUIs
-
++ skill set:
+	- Google Dialogflow
+	- The Visual Fusion Engine, VFE
+	- algolia - Search Made Powerful
+	- Cruzr - Humanoid service robot
+	- Descartes Labs
+	- Blue River Technology - Smart Agricultural Machines
+	- NLPBOTS - Intelligent Chat-bots
+	- BrainShop - AI for developers
+	- Flyr
+	- Sisense
+	- Mookkie
+	- NanoNets
+	- Workfusion - Rpa Express
+	- MSG.AI
+	- Keepers - Advanced Child Monitoring
+	- Neura - User Awareness with AI
 
 
 
