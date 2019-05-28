@@ -1749,6 +1749,16 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- MSG.AI
 	- Keepers - Advanced Child Monitoring
 	- Neura - User Awareness with AI
++ Distributed Deep Learning
++ Automate and integrate security into CI/CD pipelines, such as static code analysis and dynamic code analysis.
++ Enjoys working and deploying technologies such as Chef, AWS, Ruby, Rails, MySql, and Redis
++ Docker, Heroku, Kubernetes
++ Experience with monitoring (NewRelic, Prometheus, PagerDuty)
++ Authentication: CAS (Java)
+
+
+
+
 
 
 
