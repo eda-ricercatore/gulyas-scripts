@@ -1755,6 +1755,186 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 + Docker, Heroku, Kubernetes
 + Experience with monitoring (NewRelic, Prometheus, PagerDuty)
 + Authentication: CAS (Java)
++ skill set:
+	- Experience in at least one of the following sequencing methodologies: cell-free DNA sequencing, methylation sequencing, single cell sequencing
+	- Deep understanding of next generation sequencing methods, platform-specific bias and errors, and data interpretation
+	- Hands-on experience with large-scale genomic data (e.g. whole genome sequencing, exome-seq, target enrichment, amplicon sequencing, RNA-seq, etc.)Hands-on experience with genome alignment, mapping, variant calling, and annotation tools
+	- Familiarity with human and mammalian genomics, standard genomic databases (UCSC, Ensembl, NCBI), formats, and tools.
+	- Proficiency in python, ruby, Perl, or another high-level scripting language (Python highly preferred)
+	- Familiarity with UNIX-based operating systems and shell scripting
+	- Excellent data analysis and visualization skills (Tableau, R, matplotlib, or similar)
+	- Excellent understanding of molecular biology and cell biology
+	- Experience with Seven Bridges, DNA Nexus or similar platform
++ Experience with applied ontology development (RDF(S)/OWL, SPARQL, the Semantic Web or Frame based KR systems).
++ Good understanding of high-throughput single cell assays such as single cell transcriptomics, single-cell epigenomics, FACS, and CyTOF.
++ Experience with relational (e.g. postgres, SQL) and/or distributed (e.g. MongoDB) databases
++ Experience with RNA-seq, ATAC-seq and/or ChIP-seq experiments and data at the single cell level.
++ skill set:
+	- Developing scalable bioinformatics algorithms, pipelines and tools to solve complex, distributed computing challenges
+	- Providing statistics, scientific computing and data analysis support to research, product development and manufacturing operations
+	- BS in bioinformatics or related field with 6-8 years industry experience or MS/PhD in bioinformatics or related field with 4-6 years industry experience
+	- Advanced proficiency in Python, R or Rust in a Linux environment
+	- Broad experience with NGS data analysis, manipulation and presentation (in Python or R)
+	- Excellent data analysis and visualization skills (in Python, R and using tools like Tableau)
+	- Excellent understanding of molecular biology, with an emphasis on DNA chemistry preferred
+	- Proven ability to synthesize and present conclusions from complex analyses in a clear and visually compelling way
+	- Familiarity with common tools and file formats for genome-scale interval data manipulation and analysis (e.g. bedtools, bedops, etc.)
+	- Formal software development experience, the software development lifecycle, unit and functional testing (via py.test) and version control via Git
+	- Familiarity with database (PostgreSQL, NoSQL and Redshift) design, implementation and efficient query construction
+	- Experience building and using Docker containers
+	- Familiarity with cloud-based computing environments, especially Amazon Web Services
+	- Experience using workflow management tools (e.g. Airflow, Galaxy, Luigi)
+	- Familiarity with web application development including building REST-ful interfaces
+	- Familiarity with DNA analysis software (MacVector, VectorNTI, SnapGene)
++ skill set:
+	- M.S. or Ph.D. degree in Genetics, Biology, Bioinformatics, Biostatistics, Computational Biology, Computer Science, or related field
+	- Knowledge and experience in the field of cancer or rare disease genomics.
+	- Experience in at least one of the following sequencing methodologies: cell-free DNA sequencing, methylation sequencing, single cell sequencing
+	- Deep understanding of next generation sequencing methods, platform-specific bias and errors, and data interpretation
+	- Hands-on experience with large-scale genomic data (e.g. whole genome sequencing, exome-seq, target enrichment, amplicon sequencing, RNA-seq, etc.)
+	- Hands-on experience with genome alignment, mapping, variant calling, and annotation tools
+	- Familiarity with human and mammalian genomics, standard genomic databases (UCSC, Ensembl, NCBI), formats, and tools.
+	- Proficiency in python, ruby, Perl, or another high-level scripting language (Python highly preferred)
+	- Familiarity with UNIX-based operating systems and shell scripting
+	- Excellent data analysis and visualization skills (Tableau, R, matplotlib, or similar)
+	- Excellent understanding of molecular biology and cell biology
+	- Strong interpersonal communication skills
+	- Excellent publication track record
+	- Additional desired qualities include:
+		* Familiarity with version control (git, subversion)
+		* Experience with target enrichment
+		* Experience in clinical laboratory testing
+		* Experience with Seven Bridges, DNA Nexus or similar platform
++ skill set:
+	- Design and architect the backend for our computer aided genetic circuit pipeline, including the genetic compiler and simulation engine
+	- Develop our cloud infrastructure, data warehouse, build and deploy system, and machine learning platform. You will drive discussion and decisions on microservices vs monoliths, managed services vs deployed, etc.
+	- Work on tooling to help improve the efficiencies of our synthetic biologists including data analysis platforms and robotic automation
+	- solid at communicating architectures internally through clear design documents
+	- embracing ambiguity and driving for impact
+	- excited to partner closely with and learn from our synthetic biology team
+	- interested in helping define the company product, direction and culture
+	- You are a highly skilled technical lead in software engineer with years of experience in industry. You are passionate about joining an early stage startup where autonomy, passion to learn and excitement to engineer biology take precedence over process and ego. If you have a background in genetics or cellular biology, great! If not, you have strong experience with ETL systems, data storage and access, cloud infrastructures, build and deploy systems with a passion to learn the science.
++ skill set:
+	- Architect the overall automation software, hardware, wetware ecosystem including hardware configurations, experimental protocols, and software control and scheduling systems.
+	- Mentor other automation engineers.
+	- Design, create, and deploy software to schedule, control, and manage the automation system.
+	- Design, configure, and assemble a state-of-the-art automation system for biological engineering.
+	- Work with synthetic biologists to translate manual protocols into automated processes and validate them at high throughput.
+	- Work with hardware engineers to develop custom automation hardware to physically perform synthetic biology's experimental procedures.
+	- Work with software engineers to develop custom software tools to schedule, control, and manage the automation system.
+	- Develop metrics to measure and track the success of the automation platform.
+	- Partner with automation vendors to vet software platforms and work to integrate them into our larger pipeline though the development of new APIs and methods.
+	- Partner with automation vendors to obtain new hardware, develop new prototype hardware elements, build interfaces, and integrate hardware into the automation platform.
+	- Embrace ambiguity and drive for impact.
+	- Contribute to the company’s product, direction, and culture.
+	- B.S. or higher degree in Bioengineering, Computer Science or a related field. PhD preferred.
+	- 5+ years direct experience in biotechnology industry. 2+ years directly with automation.
+	- Strong coding skills in modern software development environments. GitHub (or similar) portfolio of work ideal.
+	- Publication or patent record related to biotechnology.
+	- Strong written and oral communication skills.
+	- Ability to physically relocate to Cambridge, Massachusetts.
+	- You are a highly skilled programmer with years of experience in industry or research. You want to work on software development projects with strong algorithmic and research foundations. You are highly skilled technical lead in laboratory automation with years of experience in industry or research. You are passionate about joining an early stage startup where autonomy, passion to learn, and excitement to engineer biology take precedence over process and ego. You ideally have some laboratory automation and biology wetlab experience. You are interested in learning more about how to integrate hardware, software, and wetware.
++ skill set:
+	- Design, configure, and assemble a state-of-the-art automation system for biological engineering.
+	- Work with synthetic biologists to translate manual protocols into automated processes and validate them at high throughput.
+	- Work with software engineers to develop custom software tools to schedule, control, and manage the automation system.
+	- Develop metrics to measure and track the success of the automation platform.
+	- Partner with automation vendors to obtain new hardware, develop new prototype hardware elements, build interfaces, and integrate hardware into the automation platform.
+	- Embrace ambiguity and drive for impact.
+	- Contribute to the company’s product, direction, and culture.
+	- You are a highly skilled technical lead in laboratory automation with years of experience in industry or research. You are passionate about joining an early stage startup where autonomy, passion to learn, and excitement to engineer biology take precedence over process and ego. You ideally have some software programming and biology wetlab experience. You are interested in learning more about how to integrate hardware, software, and wetware.
++ Working knowledge of industry leading configuration management tools and methods (Salt, Ansible, Chef, Puppet, etc)
++ Ideal candidate would have experience with metabolomic datasets and familiarity with analytical chemistry/assay methods, automation systems, and LIMs
+
+
+
+
+
+
+
+#	Bio Design Automation & Bio Manufacturing Automation Companies
+
+bio manufacturing automation
+
++ [addgene](https://www.addgene.org/careers/)
++ [Amyris](https://amyris.com/careers/)
++ [Analytikjena](https://www.analytik-jena.com/company/careers/)
++ [Asimov, Inc.](https://www.asimov.io/)
++ BioFab:
+	- http://www.uwbiofab.org/
+	- http://erc-assoc.org/achievements/biofab-world%E2%80%99s-first-biological-design-build-facility-synthetic-biology
+	- Not http://biofabproducts.com/about/
++ [Biolegio B.V.](https://www.biolegio.com/)
++ [BioSero](https://www.biosero.com/about-us/)
++ Boston University:
+	- CIDAR Lab
+	- Biological Design Center, BDC
++ BP
++ [De Novo DNA](http://www.denovodna.com/)
++ [DSM](https://www.dsm.com/corporate/home.html)
++ GE Healthcare
++ [genomatica](https://www.genomatica.com/careers/)
++ Genome Foundry
+	- https://www.genomefoundry.org/aboutus
+	- https://www.concordia.ca/research/genome-foundry.html
++ [Ginkgo Bioworks](https://www.ginkgobioworks.com/about/)
++ [Hamilton Robotics](https://www.hamiltoncompany.com/)
++ [HighRes biosolutions](https://highresbio.com/careers/)
++ [Integrated DNA Technologies](https://www.idtdna.com/pages)
++ [Labcyte](https://www.labcyte.com/)
++ Leselagen
++ [lifefoundry](http://www.life-foundry.com/careers.html)
++ Lincoln DNA Foundry
++ [Molecular Devices](https://www.moleculardevices.com/about-us#gref)
++ [New England BioLabs](https://www.neb.com/about-neb/careers)
++ [Novozymes](https://www.novozymes.com/en)
++ [opentrons](https://opentrons.com/jobs)
++ [OriCiro Genomics Inc.](https://www.oriciro.com/)
++ Ozen
++[Ranomics Incorporated](https://www.ranomics.com/careers)
++ [SGIDNA, a Synthetic Genomics, Inc. company](https://www.sgidna.com/careers/)
++ [Synbicite](http://www.synbicite.com/about-us/)
++ [Synbiobeta](https://synbiobeta.com/job-board/)
++ [Synlogic](https://www.synlogictx.com/our-people/join-us/)
++ [TeselaGen Biotechnology Inc.](https://teselagen.com/)
++ [ThermoFisher Scientific](http://jobs.thermofisher.com/)
++ [Zymergen](https://www.zymergen.com/careers/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##	Events to look for job opportunities in BDA
+
++ Annual Biomedical Research Conference for Minority Students, ABRCMS
++ Fungal Genetics Conference
++ Programming Biology Night (Seattle)
++ SACNAS -  The National Diversity in STEM Conference
++ Scientista Symposium
++ WomenHack Boston
++ WomenHack Seattle
+
+
+##	Other Resources
+
++ [BioLEGO](http://www.cs.technion.ac.il/~edwardv/BioLego/html/BioLego.html)
+
+
+
+
+
+
 
 
 
