@@ -142,6 +142,9 @@ Fix mathematical proof for paper and implement processor subsystems.
 	- Submission deadline: Early/Mid- July, 2018 (submission cycle #1) and Late Oct or Early Nov, 2018 (submission cycle #2).
 	- Abstract submission deadlines: July 12 (Round 1), October 18 (Round 2)
 + IEEE Transactions on Pattern Analysis and Machine Intelligence, TPAMI
++ UIST, ACM Symposium on User Interface Software and Technology
+	- http://uist.acm.org/uist2019/
+	- Submission deadline: April 5, 2019.
 + WSDM, ACM International Conference on Web Search and Data Mining
 	- http://www.wsdm-conference.org/2019/call-for-papers.php
 	- Melbourne, Australia

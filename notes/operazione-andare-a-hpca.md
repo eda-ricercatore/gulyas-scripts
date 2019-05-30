@@ -1845,6 +1845,149 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- You are a highly skilled technical lead in laboratory automation with years of experience in industry or research. You are passionate about joining an early stage startup where autonomy, passion to learn, and excitement to engineer biology take precedence over process and ego. You ideally have some software programming and biology wetlab experience. You are interested in learning more about how to integrate hardware, software, and wetware.
 + Working knowledge of industry leading configuration management tools and methods (Salt, Ansible, Chef, Puppet, etc)
 + Ideal candidate would have experience with metabolomic datasets and familiarity with analytical chemistry/assay methods, automation systems, and LIMs
++ Good understanding of protocols like AXI, ACE, ACP, CHI etc.
++ Experience with SQL and Statistical/mathematical programming software packages (R, SPSS, CPLEX, LONDO or Xpress etc)
++ skill set:
+	- Knowledge or hands-on experience in Container technologies such as Docker is a plus.
+	- Knowledge of Virtual machines, Hypervisors is a plus
++ At least one graphics API (OpenGL, Direct 3D, Vulkan)
++ Either in AI tools; or autonomous embedded area; or FPGA
++ Seeking motivated graduate interns in the intersection of computer vision, 3D graphics and machine learning with applications to interactive visual effects processing. In this position, you will collaborate with VFX artists and fellow researchers in NEXT team to invent algorithmic solutions to VFX challenges. This is a full-time position located in Hillsboro, Oregon.
++ Programming experience in Python and MATLAB. Experience with LabView, VPItransmissionMaker, Tensorflow is a plus.
++ You find the 10% work that gets us 90% of the value
++ skill set:
+	- Experience with large scale messaging systems like Kafka or RabbitMQ or commercial systems.
+	- Experience with working with and operating workflow or orchestration frameworks, including open source tools like Airflow and Luigi or commercial enterprise tools.
+	- Experience with pipelines that are used by many downstream teams, including non-engineering functions.
+	- Experience with streaming data frameworks like spark streaming, kafka streaming, Flink and similar tools a plus.
+	- Experience working with Apache Spark and data warehousing products.
+	- Direct experience with a log collection and aggregation system at scale.
+	- Demonstrated execution at a growth stage technology company.
++ skill set:
+	- Experience with distributed data processing systems like Spark and Hadoop
+	- Familiarity with interactive data visualization using tools like D3.js
++ skill set:
+	- Design new and extend existing components of MLflow, such as experiment tracking, project management, and model deployment
+	- Implement proprietary integrations of MLflow into the core Databricks product
+	- Has designed and developed APIs used in production systems.
+	- Deployed production web services using container and orchestration technologies, such as Docker and Kubernetes to public or private clouds.
+	- Developed services leveraging SQL backend stores.
+	- Demonstrates customer obsession: has altered designs for frontend or APIs with the user experience in mind
+	- Developed and debugged software running on Linux OS
+	- Experience with Continuous Integration/Continuous Deployment frameworks.
+	- [Preferred] Experience working on a SaaS platform or with Service Oriented Architectures
+	- [Preferred] Experience with software security and systems that handle sensitive data
++ Experience with: Large scale distributed computing, Database internals, Big Data engines e.g. Spark, Hadoop
++ skill set:
+	- Passion for process automation
+	- Build system experience like Maven, Bazel, or Gradle
+	- Continuous integration and testing experience like Jenkins
+	- [Preferred] Kubernetes and Docker
+	- [Preferred] Experience on working with services provided by AWS, Azure, or GCP
++ Strong familiarity with server-side web technologies (eg: Nodejs, Java, Python, Scala)
++ Experience with our web stack (React, Redux, TypeScript, protobuf, Apollo, GraphQL) and Spark
++ skill set:
+	- Passionate about developer experience: you want tools to be fast, CLIs intuitive, giving your colleagues (and yourself) the best experience possible doing development at Databricks.
+	- Passionate about automation: automated workflows, automated testing, automated deployments, automated monitoring, our job is to automate away any tedious work out of our own lives and that of our fellow engineers
+	- Comfortable in a heterogeneous environment and able to quickly learn new technologies. The team deals with a variety of environments from Kubernetes services to Jenkins automation, Scala libraries to Python scripting, writing graph algorithms to debugging 3rd-party Javascript, Dev-Tools does it all.
+	- Able to quickly learn their way around unfamiliar codebases: Dev-Tools routinely dives into unfamiliar third-party projects (in unfamiliar languages!), pushing them far beyond what they say they can do “on the box”
+	- Experience with Continuous Integration/Continuous Deployment frameworks
+	- Experience with monitoring frameworks for large systems
+	- Experience with cloud APIs (e.g., a public cloud such as AWS, Azure, GCP or an advanced private cloud such as Google, Facebook)
++ skill set:
+	- Develop and extend the Databricks platform. This implies, among others, writing clean, efficient code in Scala or Python and/or interacting with: cloud APIs (e.g., compute APIs, cloud formation, Terraform), with open source and third party APIs and software (e.g., Kubernetes) and with different Databricks services
+	- Experience architecting, developing, deploying and operating large scale distributed systems at scale
+	- Experience with cloud APIs (e.g., a public cloud such as AWS, Azure, GCP or an advanced private cloud such as Google, Facebook)
+	- Experience working on a SaaS platform or with Service Oriented Architectures
+	- Experience with Continuous Integration/Continuous Deployment frameworks
+	- Experience with Docker and Kubernetes
++ skill set:
+	- 2+ years experience with R or Python
+	- 2+ years experience with predictive modeling
+	- Familiarity with data visualization in R or Javascript
+	- Understanding of relational data or SQL
+	- French is not required and all European languages are appreciated
+	- Experience with PySpark, SparkR or Scala
+	- Experience developing WebApps
+	- Experience building APIs
+	- Experience with HDFS and NoSQL databases (MongoDB, Cassandra, etc)
+	- Construct end-to-end data flows from raw data to predictions
+	- Crunch, analyze and investigate any kind of data
+	- Explore new machine learning algorithms
+	- Build attractive visualizations
+	- Communicate results to non-technical colleagues and clients
+	- Provide data science expertise to sales, marketing, and R&D teams
++ skill set:
+	- DSS is an on-premises application that connects together all big data technologies. We work with SQL databases, MongoDB, Cassandra, ElasticSearch, Hadoop, Spark, MLLib, scikit-learn, Shiny, … and many more. Basically, our technological stack is made of all technologies of the big data and machine learning landscape.
+	- Our backend is mainly written in Java but also includes large chunks in Scala, Python and R. Our frontend is based on AngularJS and also makes vast usage of d3.js
+	- One of the most unique characteristics of DSS is the breadth of its scope and the fact that it caters both to data analysts (with visual analytics) and data scientists (with deep integration in code and libraries, and a web-based IDE).
+	- You are the ideal recruit if:
+		* You are a full stack engineer. You know that low-level Java code and slick web applications in Javascript are two sides of the same coin and are eager to use both.
+		* You know that ACID is not a chemistry term.
+		* A first experience (either professional or personal) building a real product would be a big plus. Experience with some technologies of the Big Data and analytics stack (distributed databases, large-scale data processing, statistics, machine learning, JS visualizations, ...) is also desirable.
++ You are curious and pragmatic: you want to explore extensions to our product but are motivated by delivering production code for business use cases
++ skill set:
+	- 2-4 years of experience in C/C++ development
+	- Object oriented programming experience
+	- Experience with applications design and implementation
+	- Experience in multi-threaded programming
+	- Proven track record of finding bottlenecks and delivering optimized, high-quality code
+	- Knowledge in algorithms development and implementation
+	- Fast learner, team player, reliable, motivated, hard worker
+	- Experience in Android NDK development
+	- Experience in image processing algorithms
+	- Experience in runtime optimizations on embedded accelerators (e.g. Neon, DSP, GPU).
+	- Experience in writing OpenCL kernels
+	- Experience in Matlab
++ Open64 is a free, open-source, optimizing compiler for the Itanium and x86-64 microprocessor architectures.
++ Skill set:
+	- Psyco, Nukita, Shed skin.
++ skill set:
+	- Elastic Search, Lucene, SQL Server, Kibana, or similar experience
+	- Prior experience aligning platform architecture with security, data
+	- Demonstrated ability to document architectural standards and decisions
+	- SaaS or high scale cloud experience
++ skill set:
+	- Databases / Data warehousing
+	- Writing complex SQL
+	- Strong Microsoft Excel skills
+	- Experience with Big Data platforms such as Hadoop
+	- Experience with other reporting/visualization tools such as Tableau
+	- Experience with monitoring and tracking tools such as  Splunk, NewRelic, Adobe/Google Analytics
++ skill set:
+	- Experience with relational databases (MySQL, DB2 or Oracle) and NoSQL databases (Redis, Cassandra or DynamoDB)
+	- Experience writing crisp, clean REST APIs
+	- Experience with RSpec or equivalent integration test framework
+	- Self-motivated individual who proactively identifies team bottlenecks and works with the team to resolve them
++ skill set:
+	- Experience with data streaming technologies (Kinesis, Storm, Kafka, Spark Streaming) and real time analytics
+	- Working experience and detailed knowledge in Java, JavaScript, or Python
+	- Knowledge of ETL, Map Reduce and pipeline tools (Glue, EMR, Spark)
+	- Experience with large or partitioned relational databases (Aurora, MySQL, DB2)
+	- Experience with NoSQL databases (DynamoDB, Cassandra)
+	- Agile development (Scrum) experience
+	- Other preferred experience includes working with DevOps practices, SaaS, IaaS, code management (CodeCommit, git), deployment tools (CodeBuild, CodeDeploy, Jenkins, Shell scripting), and Continuous Delivery
+	- Primary AWS development skills include S3, IAM, Lambda, RDS, Kinesis, APIGateway, Redshift, EMR, Glue, and CloudFormation
++ skill set:
+	- Experience with Backbone, Marionette or equivalent framework
+	- Experience with Protractor, RSpec or equivalent integration test framework
++ skill set:
+	- Experience with system level monitoring tools such as Nagios or Zabbix and application performance monitoring tools such as NewRelic, AppDynamics or Dynatrace.
+	- Understand configuration management tools such as Puppet, Chef or Ansible.
+	- Strong understanding of the DevOps landscape from orchestration to instrumentation , from VCS to CI tools, and from APM to monitoring tools
++ skill set:
+	- Working experience with AWS services (Aurora DB, Dynamo DB, Athena, EMR, Redshift, Data Catalog etc)
+	- Experience with log analysis tools like Splunk
+	- Experience with Issue trackers tools like Jira etc
++ You approach problems with a scrappy, creative, and entrepreneurial mindset.
++ You are comfortable with Big Data technologies like Hadoop, Spark, Hive, Presto etc.
+
+
+
+
+
+
+
 
 
 
