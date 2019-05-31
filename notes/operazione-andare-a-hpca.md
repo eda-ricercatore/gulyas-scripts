@@ -2067,6 +2067,70 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 + Buzzwords: Gitlab, Docker, MongoDB, AWS, Node.js.
 + You have experience in material characterisation: AFM SEM, TEM, XPS and others.
 + Experience with Analytics tools is appreciated  (Segment, Amplitude)
++ skill set:
+	- are as passionate about teaching AI/ML as you are about AI/ML itself
+	- are experienced in software engineering, machine learning engineering in Python using scikit-learn: regression, trees, ensembles (nice-to-have: catboost, XGBoost)
+	- are comfortable in collecting and manipulating data in Python: APIs, web scraping, Pandas, numpy/scipy
+	- have tackled Deep Learning (DL), including LSTMs, RNNs, CNNs (nice-to-have: YOLO) with real-world application experience such as computer vision or NLP
+	- have implemented ML and DL at scale using SparkML, Keras, TensorFlow and/or Pytorch
+	- have a strong understanding of software engineering best practices, including version control, testing, monitoring and debugging
+	- are highly proficient in the curriculum topics in our program
+	- are available for weekly, 30-minute video check-ins with students to help them set and achieve learning goals, answer subject matter questions, provide feedback on projects, and career advice
+	- have at least 3 years of experience solving real-life machine learning problems and building models
+	- are empathetic and have excellent communication skills
++ skill set:
+	- Experience in one or more of the following areas:
+	- Control theory
+	- Motion planning
+	- Optimization
+	- Formal logic
+	- Game AI development
+	- Experience in developing safety-critical, embedded or real-time systems
+	- Published research in any of the above mentioned areas
+	- Experience in machine learning and data analysis
+	- Programming in Python, working with Linux
++ Familiarity with neural network framework such as Caffe, Torch, Theano, TensorFlow, CNTK
++ skill set:
+	- 4+ years of embedded software applications development, debug, deployment (including drivers development)
+	- Superior knowledge of RTOS-based software systems and/or Embedded Linux
+	- Comfortable with parallel paradigms (notions of pthread and/or OpenCL/Cuda)
+	- Agile methodology ; Git, continuous integration, test driven development
+	- Experience of AUTOSAR architecture is valuable
+	- Knowledge of Computer Vision libs (OpenCV, OpenVX) and Machine learning technology (TensorFlow, Caffe) would be a plus
+	- Knowledge of application middleware (e.g. ROS)and communication layers (TCP/UDP, DDS) would be a plus
++ The Computational Neuroscientist’s primary job function is to work with the CTO to identify innovative technologies, and to research and develop practical Spiking Neural Network based products by using BrainChip’s spiking neural model and previous research.  This involves the development of an architecture that is flexible in its application. The resulting SNN architecture will have a wide application range in areas such as Computer Vision, Olfactory, Auditory and Tactile feature learning and extraction.  Will also work on a development kit and API which will form the foundation for products for the in-house product development team and will also be made available to external research and development facilities. The computational Neuroscientist will work with associated educational facilities such as the Cerco, UCI and UCSD and evaluate technologies that are relevant to BrainChip’s SNN technology.
++ Experience in one application field (Image processing, ADAS, FinTech, CyberSecurity)
++ Familiar with big data processing tools such as Hadoop, Spark, HBase
++ skill set:
+	- Ability to performance tune and scale models
+	- Experience with Docker/Containerization
+	- Experience with Django
+	- Experience in a micro-service architecture
++ skill set:
+	- 8+ years of meaningful industry experience and a background in high-speed processor design (i.e. Graphics, Microprocessors, Network Processors, or Mobile / Multimedia SOCs)
+	- Knowledge of GDDR5, LPDDR4 or DDR3 or related protocols, or knowledge of PCIE and high-speed Serdes
+	- Experience with all stages in the ASIC design flow including emulation, prototyping, DFT, timing analysis, floorplanning, ECO, bringup & lab debug, and ATE test development
+	- Experience with high speed clocking, cache interfaces and protocols
++ skill set:
+	- Monitor and Metrics gathering (Prometheus, StackDriver ...)
+	- Experience with HashiCorp tools - Vault, Consul, Nomad
+	- Experience with NixOS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
