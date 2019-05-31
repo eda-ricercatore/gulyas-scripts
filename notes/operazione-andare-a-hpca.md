@@ -2066,6 +2066,7 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 + Design and implement a set of compiler tools to translate from ML-oriented domain-specific languages (TensorFlow, Caffe, Theano) to proprietary binary format
 + Buzzwords: Gitlab, Docker, MongoDB, AWS, Node.js.
 + You have experience in material characterisation: AFM SEM, TEM, XPS and others.
++ Experience with Analytics tools is appreciated  (Segment, Amplitude)
 
 
 

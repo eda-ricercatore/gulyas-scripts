@@ -364,3 +364,18 @@ MoRe is a meeting place for researchers in the area of multi-objective reasoning
 + probabilistic programs;
 + practical applications involving multi-objective challenges;
 + any related attempt to tackle trade-offs between multiple criteria in formal models for verification and synthesis.
+
+
+
+
+# DSAA, IEEE/ACM/ASA DSAA, IEEE International Conference on Data Science and Advanced Analytics
+
++ Foundations: Models and algorithms; asymptotic analysis; model evaluation, selection and model averaging; dimensionality reduction; strategies for handling missing data; relational/structured learning; matrix and tensor methods; deep learning; time series, spatial, or grouped data; feature/covariate selection and regularization; nonparametric Bayesian methods; computational methods for Bayesian inference; manifold learning, classification, clustering, regression; semi-supervised and unsupervised learning; personalization, security, privacy; visualization; optimization, inference and regularization; social network analysis.
++ Infrastructure: Large-scale databases; cloud computing; big-data engineering and processing; large-scale processing and distributed/parallel computing; human-machine interaction; storage, search, and retrieval.
++ Social Issues: Reproducibility and replicability; model explainability and provenance; data quality and model quality; bias and unintended consequences of algorithms and results; p-hacking and data dredging; publication bias and pre-analysis plans; trust, risk, and informed consent; data integrity and data ethics; matching, record linkage, and sharing; de-identification and re-identification; generalizability of results; causal inference.
+
+
++ This track solicits high-quality, original papers describing applications of Data Science and Advanced Analytics across various disciplines and domains, including business, government, health and medical science, physical sciences, and social sciences. The focus is on papers that would be of interest to practitioners of Data Science and Advanced Analytics, or would highlight new challenges for researchers driven by the specific needs and characteristics of application areas. Topics of interest include but are not limited to:
++ Case Studies describing work on a real-world problem using Data Science and Advanced Analytics that highlight important application domain-specific discoveries, lessons learned and/or challenges encountered from deploying real-world systems containing Data Science and Advanced Analytics approaches, data science and analysis-related ethical issues and solution approaches related to real-world applications.
++ Infrastructure, Platforms, and Tools that were built to operationalize Data Science and Advanced Analytics, including the development and deployment of new hardware and software infrastructure and its associated challenges; the development, deployment, and use of reusable libraries and software implementations; and tools that are in production and are used by end-users either in a stand-alone capacity or as part of a business process.
++ Submissions for both the research and applications tracks  should very clearly specify the problem being solved, what methodologies were used to solve the problem, what data was used, how the results were evaluated, and how the solution is being used (ideally in production). Applying new data science methods to public data or data downloaded from competition sites (such as kaggle), without a real problem (and problem owner) will not be accepted in this track.
