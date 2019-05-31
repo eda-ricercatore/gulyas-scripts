@@ -1981,6 +1981,89 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Experience with Issue trackers tools like Jira etc
 + You approach problems with a scrappy, creative, and entrepreneurial mindset.
 + You are comfortable with Big Data technologies like Hadoop, Spark, Hive, Presto etc.
++ Familiar with the operation of instrument -- VSG, VSA, Signal analyzer, channel emulator.
++ skill set:
+	- LLVM compiler internals.
+	- Polyhedral models.
+	- Familiarity with HPC kernels and their optimization.
++ skill set:
+	- Experience working with modern deep learning software architecture and frameworks including: Tensorflow, Pytorch, ONNX, MxNet, Caffe/Caffe2, and/or Torch;
+	- Experience working with modern deep learning models including: Resnet, Mask-RCNN, RNN/LSMT, Bert, Transformer etc
++ Help the current effort of the AI research community, and contribute to cutting edge research in machine intelligence, starting from areas including Deep Learning, Generative Models, Reinforcement Learning, Evolutionary Computing, Sequence Modelling, Large-Scale Distributed Optimization and Low-Precision Numerical Formats.
++ Working on the IPU architecture compiler. Understanding code generation & optimization of C / C++ code to the instruction set of the machine. The architecture compiler and its ability to target the IPU for maximum performance and flexibility, is a fundamental component of the Poplar framework.
++ skill set:
+	- Candidates should have a solid background with standard networking protocols (TCP, RPC, UDP, IPSec), low-latency protocols (RDMA, RMA) and Clustering.
+	- Preferably, you should also have a background or interest in host device and network virtualisation (SR-IOV, Xen, Containers)
++ The role involves using a range of technologies, such as Python, CMake, BuildBot, Phabricator, AWS etc.
++ skill set:
+	- Knowledge of storage systems (File, Block) is a plus (Local/Network/Cloud Attached)
+	- Knowledge of ILOM, BMC, and OCP (Open Compute) is a plus
+	- Good knowledge of common development tools such as yocto/git/gtest
++ Experience working with PCIe form-factor accelerators such as GPUs, DSPs or FPGAs
++ skill set:
+	- SGE or other DRMS
+	- XML and XPath/XSLT
++ skill set for DevOps:
+	- Remote hardware administration with IPMI
+	- Configuration and management of
+		* SGE/Univa, Slurm, LSF or other DRMS
+		* Jenkins CI
+		* Phabricator
+		* FlexLM licensing
+	- Puppet, Ansible, Nagios
+	- LLVM, GCC
+	- DVCS e.g. Git
+	- AWS, Azure, Google Cloud
+	- XML and XPath/XSLT
+	- Web programming – HTML/DOM, JavaScript, SQL
++ skill set:
+	- Hardware-In-the-Loop (HIL) Systems
+	- Development of test automation projects
+	- Modeling of physical systems for HIL simulation
+	- Specialized support of HIL systems and models
+	- Development, testing, or familiarity of embedded control systems (mechatronics, automotive control systems)
+	- HIL simulation systems
+	- In-vehicle communication networks such as CAN, LIN, FlexRay
+	- MIL/model-in-the-loop, SIL/software-in-the-loop, PIL/plant-in-the-loop, and HIL/hardware-in-the-loop
+	- The implementation of software is done in project-specific technologies and thus extends over a wide area, including C/C++, C # (including WPF, WCF), Python, MATLAB ®, VHDL.
++ skill set for HPC Infrastructure Engineer:
+	- Management of an on-premise computing cluster in a High Performance Computing (HPC) setting
+	- Develop usage policies for deep learning training
+	- Develop tools and infrastructure to scale deep learning
+	- Maintain network infrastructure for local and cloud compute
+	- Data management and backups
+	- Familiarity with environments including LDAP, NFS, bare metal GPU servers, deployments and automation / conﬁguration management, modular user shell environments, networking
+	- Hands on server hardware configuration experience
+	- Experience with cluster management software
+	- Comfortable with GPU servers
+	- Strong knowledge of Linux systems and internals (Debian preferred) with a good understanding of networking and related protocols, OS customization, and package management (APT)
+	- Hands on Infiniband experience
+	- Have used or developed metrics/analytics tools for usage
+	- Experience with Slurm or similar job systems
++ skill set for Deep Learning Research Scientist at DeepScale:
+	- DeepScale was founded by the deep learning researchers from UC Berkeley who created SqueezeNet. DeepScale is developing perception systems that enable automated vehicles to interpret their environment in real-time using low-cost hardware.
+	- A PhD in electrical engineering, computer engineering, or computer science.
+	- A track record of advancing the state-of-the-art in an application of deep learning (ideally a computer vision or imaging application … but if you did speech-recognition or text-analysis, that's pretty good too)
+	- Published papers that either (a) are in top peer-reviewed conferences such as CVPR, NIPS, ECCV, ICCV, or ICML … or … (b) a significant (>100) number of citations on one of your deep learning research publications
+	- The ability to design, implement, train and test models in one or more of the leading deep learning frameworks like PyTorch or TensorFlow.
++ skill set:
+	- Machine learning areas of special interests include: CNNs, RNNs, distributed GPU computing, detection, prediction, motion planning, mapping and localization
+	- Work with lidar sensor firmware and low level signal processing
+	- Perform Multi-Object Tracking & Multi-Sensor Fusion
+	- Sensor calibration & Perception algorithms (all types and flavors)
++ skill set:
+	- Familiar with the basics of lidars, radars, cameras, and ultrasonic systems.
+Are familiar with Physics-based modeling and simulation of sensor systems (eg, link budget analysis, wave propagation, sensor noise sources, etc.).
+At least 1 year of experience in radar, lidar, or camera modeling and/or evaluation.
+Familiarity with test and calibration processes for autonomous vehicle sensors.
+Familiarity with EVT, DVT, and PVT processes for sensor bring-up and validation as well as FMEA principles.
+
+
+
+
+
+
+
 
 
 
