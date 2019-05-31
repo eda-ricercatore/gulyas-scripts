@@ -29,6 +29,11 @@ Fix mathematical proof for paper and implement processor subsystems.
 	- http://cvpr2019.thecvf.com
 	- Long Beach, CA.
 	- Submission deadline: **November 16, 2018**
++ DSAA, IEEE/ACM/ASA DSAA, IEEE International Conference on Data Science and Advanced Analytics
+	- http://call-for-papers.dsaa2019.dsaa.co/
+	- October 5–8, 2019
+	- Washington, D.C.
+	- Submission deadline: May 20, 2019.
 + ECCV, European Conference on Computer Vision
 	- URL
 	- VENUE
@@ -153,6 +158,14 @@ Fix mathematical proof for paper and implement processor subsystems.
 	- https://www2019.thewebconf.org
 	- San Francisco, CA.
 	- Submission deadline: Oct 29/Nov 5, 2018
+
+
+
+
+
+
+
+
 
 ###	Attack Plan
 

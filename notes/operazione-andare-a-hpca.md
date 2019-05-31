@@ -2063,8 +2063,9 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 + Solid work experiences with state-of-the-art mapping and localization algorithms
 + Experience with scheduling engines such as Airflow
 + Published papers (e.g. in Supercomputing, IPDPS, or PPOPP) and/or open-source code that demonstrate your skills in writing fast code.
-
-
++ Design and implement a set of compiler tools to translate from ML-oriented domain-specific languages (TensorFlow, Caffe, Theano) to proprietary binary format
++ Buzzwords: Gitlab, Docker, MongoDB, AWS, Node.js.
++ You have experience in material characterisation: AFM SEM, TEM, XPS and others.
 
 
 
