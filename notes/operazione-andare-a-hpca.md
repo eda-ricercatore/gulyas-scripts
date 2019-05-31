@@ -2053,15 +2053,16 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Sensor calibration & Perception algorithms (all types and flavors)
 + skill set:
 	- Familiar with the basics of lidars, radars, cameras, and ultrasonic systems.
-Are familiar with Physics-based modeling and simulation of sensor systems (eg, link budget analysis, wave propagation, sensor noise sources, etc.).
-At least 1 year of experience in radar, lidar, or camera modeling and/or evaluation.
-Familiarity with test and calibration processes for autonomous vehicle sensors.
-Familiarity with EVT, DVT, and PVT processes for sensor bring-up and validation as well as FMEA principles.
-
-
-
-
-
+	- Are familiar with Physics-based modeling and simulation of sensor systems (eg, link budget analysis, wave propagation, sensor noise sources, etc.).
+	- At least 1 year of experience in radar, lidar, or camera modeling and/or evaluation.
+	- Familiarity with test and calibration processes for autonomous vehicle sensors.
+	- Familiarity with EVT, DVT, and PVT processes for sensor bring-up and validation as well as FMEA principles.
++ Working experience with large-scale data platform and pipelines such as Hadoop, Hive, Pig, MapReduce, Spark, Kafka, Flumes, etc.
++ Familiarity with GPU computing (CUDA, OpenCL) is preferred
++ Familiarity with modern planning approaches including randomized search methods and trajectory optimization
++ Solid work experiences with state-of-the-art mapping and localization algorithms
++ Experience with scheduling engines such as Airflow
++ Published papers (e.g. in Supercomputing, IPDPS, or PPOPP) and/or open-source code that demonstrate your skills in writing fast code.
 
 
 
