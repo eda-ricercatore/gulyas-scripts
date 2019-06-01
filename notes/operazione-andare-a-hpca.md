@@ -2115,7 +2115,20 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Monitor and Metrics gathering (Prometheus, StackDriver ...)
 	- Experience with HashiCorp tools - Vault, Consul, Nomad
 	- Experience with NixOS
-
++ skill set:
+	- Strong proficiency in Python a necessity, especially the Python data science stack
+	- Experience developing data science models, workflows, and software for real world applications and working with imperfect data
+	- Exploratory analysis, modeling, and visualization in Jupyter notebooks
+	- Integrating data sources, creating subsets (ex. train/test) for modeling, and assessing potential datasets, tools, and approaches
+	- Translating the results of analysis into implications for people and problems
+	- Developing well-organized code that can be collaboratively reviewed, reproduced, and integrated into applications
+	- Quickly assessing and becoming productive in relevant new technologies and methods
+	- Experience with core data science tools (ex. pandas, scikit-learn, numpy, jupyter)
+	- Experience working with messy data and real-world applications
+	- Experience using IaaS like Amazon AWS
+	- Working on a small team means doing a little bit of a lot of things. We're looking for somebody who can ask the right questions to figure out what is important, iterate between brainstorming together, working independently, and managing other data scientists, scope new data science projects, and exercise sound judgment to make reasonable decisions under conditions of ambiguity.
+	- Communication is a core data science skill at DrivenData. Doing client-facing work involves articulating concepts, interpreting results, and selecting the method that satisfies the constraints of the project.
+	- Working familiarity with the tools and practices used in software engineering and deployment (including test-driven deployment, containerization (ex. Docker), platform as a service (ex. Heroku), and infrastructure as a service (ex. AWS, Azure)
 
 
 
