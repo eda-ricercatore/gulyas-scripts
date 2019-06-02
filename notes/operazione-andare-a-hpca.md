@@ -2129,6 +2129,117 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Working on a small team means doing a little bit of a lot of things. We're looking for somebody who can ask the right questions to figure out what is important, iterate between brainstorming together, working independently, and managing other data scientists, scope new data science projects, and exercise sound judgment to make reasonable decisions under conditions of ambiguity.
 	- Communication is a core data science skill at DrivenData. Doing client-facing work involves articulating concepts, interpreting results, and selecting the method that satisfies the constraints of the project.
 	- Working familiarity with the tools and practices used in software engineering and deployment (including test-driven deployment, containerization (ex. Docker), platform as a service (ex. Heroku), and infrastructure as a service (ex. AWS, Azure)
++ Interact with MySQL data stores and NSQ messaging queues.
++ skill set:
+	- Our data infrastructure team is responsible for all things data — our data warehouse, Hadoop, Redshift, Spark, Kafka, Airflow and so on.
+	- Deep experience with MySQL, NoSQL datastores like HBase or similar.
+	- Strong understanding of Unix/Linux variants, web network protocols, persistence solutions
++ skill set:
+	- Knowledge of backend storage systems like MySQL, HBase, Memcached, Redis, Kafka etc.
+	- Deep understanding of at least one popular server side MVC Framework (e.g Django, Rails, AngularJS etc).
++ skill set:
+	- Working knowledge of relational databases and query authoring (SQL)
+	- Experience working with open source technologies like Kafka, Hadoop, Hive, Presto, and Spark
+	- Experience running A/B tests to optimize the growth loop of a product
+	- Strong experience with MySQL and in-memory caching systems such as Redis, Memcached
+	- Experience with Linux operating system internals, filesystems, disk/storage technologies and storage protocols
++ skill set:
+	- Interest in using data and user research to inform product decisions. Experience with effective A/B testing is a plus.
+	- Ability to think holistically about a complex, social product, and map big picture metrics to a realistic actionable plan.
+	- Passion for experimentation and new ideas.
++ skill set:
+	- Deep knowledge of web technologies, e.g. HTML, CSS. Experience with LESS or SASS is a plus.
+	- Deep knowledge of JavaScript frameworks, e.g. jQuery. Experience with pure Javascript is a plus.
+	- Some knowledge of server-side languages and web frameworks. Experience with Python is a plus.
+	- Experience debugging across multiple browsers. Experience with UI testing tools like Selenium or phantomJS is a plus.
+	- Experience optimizing the speed and performance of websites.
+	- Experience maintaining large and growing code bases in a fast-moving environment.
+	- Interest in staying current with new and evolving web technologies.
++ skill set:
+	- 7+ years of industry/academic experience in Machine Learning or related field
+	- You will be expected to have a good understanding of a broad range of traditional supervised and unsupervised techniques (e.g. logistic regression, SVMs, GBDTs, Random Forests, k-means and other clustering techniques, matrix factorization, LDA . . .) as well as be up to date with latest ML advances (e.g. Deep Neural Networks, or non-parametric Bayesian methods).
+	- Previous experience building end to end scalable Machine Learning systems
+	- Software engineering skills. Knowledge of Python and C++ is a plus.
+	- Knowledge of existing open source frameworks such as scikit-learn, Torch, Caffe, or Theano is a plus
++ skill set:
+	- Individuals in this role should be experts in machine learning and NLP and have experience working on problems such as language models, discourse analysis, question-answering, word-sense disambiguation, automatic summarization etc.
+	- Improve our existing NLP and Machine Learning systems using your expertise
+	- Identify new opportunities to apply NLP and Machine Learning to different parts of the Quora product
+	- Work with other engineers to implement algorithms, abstractions and systems in an efficient way, with strong positive impact on our user-facing products
+	- Take end to end ownership of Machine Learning systems - from data pipelines and training to realtime prediction engines
+	- Good mathematical understanding of popular NLP and Machine Learning algorithms
+	- Experience building production-ready NLP or information retrieval systems
+	- Hands-on experience with NLP tools, libraries and corpora (e.g. NLTK, Stanford CoreNLP, Wikipedia corpus, etc)
+	- Knowledge of Python or C++, or the ability to learn them quickly
++ skill set:
+	- At Quora, we use Machine Learning in almost every part of the product - feed ranking, answer ranking, search, topic and user recommendations, spam detection etc.
+	- Take end to end ownership of Machine Learning systems - from data pipelines and training, to realtime prediction engines.
+	- Previous experience building internet applications and large systems
+	- General understanding of Machine Learning at the level of a semester-long ML class (college or multiple MOOCs)
+	- Passion for learning
++ skill set:
+	- We use a variety of algorithms — everything from linear models to decision trees and deep neural networks.
+	- To that end, we are looking for engineers to help us build our company-wide ML development platform. In this role, you will be the part of a small team solving very interesting technical problems at the intersection of various exciting domains like Machine Learning, Distributed Systems and High Performance Computing.
+	- Build and maintain large scale distributed systems to support the whole pipeline from data collection and training to deployment
+	- Write efficient implementations of ML algorithms over CPUs & GPUs
+	- Integrate our in-house systems with open source libraries like Spark and Tensorflow
+	- Build abstractions to automate various steps in different ML workflows
+	- Build tools to debug, visualize and inspect various features and models
+	- Work with the engineers who use the platform, and help them be more impactful by improving the platform
+	- Experience with designing large-scale distributed systems
+	- Experience with building end-to-end machine learning systems
+	- Take end to end ownership of Machine Learning systems - from data pipelines and training, to realtime prediction engines.
+	- Previous experience building end to end Machine Learning systems
++ skill set:
+	- Use Python and SQL to draw insights from data at scale
+	- Extract actionable insights from broad, open-ended questions
+	- Create dashboards and develop metrics to track the success and growth of the product
+	- Design and evaluate experiments to measure the impact of product changes
+	- Analyze data from across the product to uncover the root causes of metric movements
+	- Communicate results to cross-functional stakeholders to inform product decisions
+	- Develop tools to scale and automate analyses, improving productivity across the company
+	- Improve the work of other data scientists through mentorship and by bringing industry best practices to the team
+	- Experience generating insights using statistical techniques (e.g. regression, hypothesis testing)
+	- Demonstrated ability to clearly explain data results to cross-functional teams
+	- Experience using a procedural programming language (e.g. Python, R) to manipulate, clean, and analyze data
+	- Ability to exercise judgment and combine quantitative skills with intuition and common sense
+	- Experience evangelizing best practices and process improvements on your team
+	- Experience working with large data sets and distributed computing tools (e.g. Redshift, Presto)
+	- Experience pushing code and navigating a complex codebase
++ Experience in working with large data sets and distributed computing tools (Hive, Redshift)
++ skill set:
+	- Identify new methods to test product changes where traditional A/B testing is not possible
+	- Drive adoption of good experimental and statistical practices across the company
+	- Apply statistical techniques to increase the efficiency and rigor of our experimental analyses
+	- Proactively identify ways to optimize and scale up the way we run experiments, and to increase data scientists' impact in general, and create processes and tools to meet these needs
+	- Mentor other data scientists in experimental design and causal inference techniques
+	- Coursework in experimental design, causal inference, and/or econometrics
+	- Experience running and analyzing behavioral experiments
+	- Statistical intuition and knowledge of various hypothesis testing and regression approaches, e.g. hierarchical modeling, difference-in-differences
+	- Demonstrated ability working effectively with cross-functional teams
+	- Experience using git and pushing to a codebase
+	- Experience with software engineering projects or coursework
+	- Develop tools to scale and automate analyses, improving productivity across the company
+	- Experience working with large data sets and distributed computing tools (e.g. Redshift, Presto)
+	- Experience pushing code and navigating a complex codebase
++ Speaking of code our current stack is Backend: Python, Django, Celery, WebRTC; Frontend: React, HTML (JSX), CSS (in JS), GraphQL; Storage: PostgreSQL, S3, Elasticsearch. Most of our infrastructure is on AWS so it is a huge plus if you know and love AWS.
++ Experience with Natural Language Processing (Topic Modeling, Document Classification, Document Summarization, Sentiment Analysis, etc.)
++ Our current stack is Backend: Python, Django, Celery, WebRTC; Frontend: React, HTML, CSS; Storage: Postgres, S3, Elastic Search. Know it or want to learn, then this is the stack for you!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
