@@ -2225,8 +2225,21 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 + Speaking of code our current stack is Backend: Python, Django, Celery, WebRTC; Frontend: React, HTML (JSX), CSS (in JS), GraphQL; Storage: PostgreSQL, S3, Elasticsearch. Most of our infrastructure is on AWS so it is a huge plus if you know and love AWS.
 + Experience with Natural Language Processing (Topic Modeling, Document Classification, Document Summarization, Sentiment Analysis, etc.)
 + Our current stack is Backend: Python, Django, Celery, WebRTC; Frontend: React, HTML, CSS; Storage: Postgres, S3, Elastic Search. Know it or want to learn, then this is the stack for you!
-
-
++ skill set:
+	- Experience with Kubernetes and Docker.
+	- Experience with Elasticsearch, Redis and/or Memcached.
++ skill set:
+	- An understanding of several of these methodologies and tools:
+		* Software development methods such as Agile, Scrum, Lean, Waterfall
+		* Software project tools like JIRA, Pivotal Tracker, Trello, Asana, and MS Project
+		* Continuous integration and build automation with Jenkins, TeamCity, TFS, TravisCI, CircleCI
+	- Experience configuring the following technologies:
+		* LDAP, ActiveDirectory, and other SAML/Single-Sign-on services
+		* VMware vSphere, ESXi, AWS, Azure, GCP, and other virtual infrastructure tools
++ Familiarity with configuration/orchestration management software such as Puppet, Chef, Ansible, or Salt.
++ skill set:
+	- Experience with the Hashicorp stack, specifically Vault.
+	- Experience with infrastructure services such as LDAP, SSH, VPN, HTTP proxies, etc.
 
 
 
