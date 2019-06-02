@@ -2240,6 +2240,35 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 + skill set:
 	- Experience with the Hashicorp stack, specifically Vault.
 	- Experience with infrastructure services such as LDAP, SSH, VPN, HTTP proxies, etc.
++ Experience with search and information retrieval systems, either custom or commercial (Elasticsearch, Solr).
++ You have used GraphQL in production environments
++ skill set:
+	- You have worked with technologies like OAuth, SAML, SCIM, and LDAP
+	- You have worked with external identity provisioning services like Azure Active Directory, Okta, OneLogin, and Ping
++ skill set:
+	- You have experience with CDNs and SSL certificates
+	- You have experience with static site generators
+	- You have experience with Object storage system
+	- You have experience with nginx and Lua scripting
++ Experience with queueing and streaming systems like Kafka, RabbitMQ, etc
++ skill set:
+	- Familiarity with configuration management, particularly using Ansible + Napalm.
+	- Comfortable working with Arista EOS and Juniper JunOS.
+	- Expert-level exposure to IP routing, particularly with BGP, OSPF, and IS-IS.
+	- Knowledge of MPLS, DWDM, and other backbone-related technologies
+	- Experience in network segmentation strategies, BGP VPNs, VXLAN, and segment routing
++ skill set:
+	- Experience building infrastructure automation.
+	- Experience with logs-based analysis and RPC tracing technologies.
+	- Practical experience with Prometheus.
++ skill set:
+	- Knowledge of data center architecture: power, cooling, and networking.
+	- Significant experience working with data center hardware and writing software to make that easier, faster, and less manual effort
+	- Familiarity with best practices for hardware acceptance testing
++ Familiarity with configuration management software such as Puppet, Chef, Ansible, or Salt.
++ Experience with CNCF technologies and cloud computing at scale.
+
+
 
 
 
