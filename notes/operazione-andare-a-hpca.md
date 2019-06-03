@@ -2267,12 +2267,57 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Familiarity with best practices for hardware acceptance testing
 + Familiarity with configuration management software such as Puppet, Chef, Ansible, or Salt.
 + Experience with CNCF technologies and cloud computing at scale.
-
-
-
-
-
-
++ skill set:
+	- Experience in the following areas: TLS, SSO, SAML, OAuth2, Kerberos, LDAP
+	- Familiar with concepts of big data- Hadoop, Spark, Kafka, NoSql
+	- Familiarity with GDPR, HIPAA, PCI or other compliances
+	- Experience working with Docker or Kubernetes
+	- Experience working with AWS, Azure, GCP
++ skill set:
+	- Familiarity with Kafka or Kafka Connect
+	- Large public clouds: AWS, GCP, AzureDocker, Kubernetes
+	- Bridge data connectivity between various data systems and Kafka by building highly available and scalable Confluent connectors that run on top of Apache Kafka Connect framework
++ skill set:
+	- Experience with concepts of distributed systems and big data such as - Hadoop, Spark, Kafka, Big Table, HBase etc
+	- Experience in Network Security and Cloud Security
+	- 2+ Experience working with AWS, Azure, GCP security related services and other cloud agnostic security tools
+	- Strong fundamentals in distributed systems design and development
++ skill set:
+	- Working knowledge of development systems such as Git, Maven and Jenkins
+	- Experience in automating release, continuous integration/delivery system, and relevant tools (e.g. Jenkins, Packer, Terraform, Puppet, Ansible, Travis CI, etc)
+	- Experience with configuration management, distributed testing and benchmarking / load generation systems
+	- Experience with cloud computing platforms (e.g. Amazon AWS, Microsoft Azure, Google App Engine, etc.)
+	- Working knowledge of database and messaging systems (MySql, PostgreSQL, Redis, Hbase, Voldemort, Vault, Espresso, Cassandra, Kafka)
++ ***Capsule Networks***
++ ***[Apache Airflow, Luigi](https://towardsdatascience.com/data-pipelines-luigi-airflow-everything-you-need-to-know-18dc741449b7), workflow management system (WMS), Azkaban, [Open Source Data Pipeline – Luigi vs Azkaban vs Oozie vs Airflow](https://www.bizety.com/2017/06/05/open-source-data-pipeline-luigi-vs-azkaban-vs-oozie-vs-airflow/), [Pinball](https://robinhood.engineering/why-robinhood-uses-airflow-aed13a9a90c8), Airbnb Airflow vs Apache Nifi***
+	- ***Jenkins vs Airflow. Jenkins is an open source continuous integration tool written in Java.***
++ Apache Kafka Connect framework
++ Building out best in class stream processing solutions like Kafka Streams and KSQL to perform rich, real time, transformation and querying of data in Kafka
++ skill set:
+	- Modernizing Kafka to make it infinitely scalable, elastic, and globally replicated
+	- Building out best in class stream processing solutions like Kafka Streams and KSQL to perform rich, real time, transformation and querying of data in Kafka
+	- Building a scalable & highly available observability stack for cloud and on premise
++ skill set:
+	- Experience with React/Flux, modern js tooling (Gulp/Grunt)/Webpack/Babel
+	- Excellent understanding of JavaScript, HTML5, and CSS3
+	- Experience with writing/monitoring/managing large scale system deployments
++ skill set:
+	- Modernizing Kafka to make it infinitely scalable, elastic, and globally replicated
+	- Building out best in class stream processing solutions like Kafka Streams and KSQL to perform rich, real time, transformation and querying of data in Kafka
+	- Revolutionizing how data pipelines are built through Kafka Connect
+	- Running all of the above in our very own elastic, scalable cloud offering
++ Exposure to big data systems like Hadoop, Spark, Kafka, etc.
++ skill set:
+	- Design, implement, and maintain platform metadata features
+	- Designing APIs and Platform Information Architecture
+	- Serve as primary point of contact in one or more platform metadata areas
+	- Collaborate with various Confluent Engineering groups to provide strong technical guidance and leadership related to managing metadata
+	- In depth experience with concepts of distributed systems and big data such as - Kafka, Hadoop, Spark, Big Table, HBase etc
+	- Full stack experience
+	- Experience with Lineage, Governance and Auditing
+	- Experience in ML/Data Engineering
+	- Experience working with Docker or Kubernetes is a plus
+	- Experience working with AWS, Azure, and/or GCP
 
 
 
