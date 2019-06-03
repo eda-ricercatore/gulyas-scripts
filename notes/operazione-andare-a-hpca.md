@@ -2420,8 +2420,51 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Experience with Apache Kafka
 	- Experience with B2B enterprise apps data: Salesforce, Marketo, Zendesk, etc
 	- Experience in developing data apps with Python, Javascript, high charts, etc
-
-
++ Experience working with Real-time Collaboration, SAML, SCIM, or OpenID preferred
++ Exposure to MariaDB or other RDMS
++ skill set:
+	- Experienced in JAXRS; JAXB; AMQP JMS; LDAP and SNMP.
+	- Experienced in data streaming;  Apache Kafka a plus
+	- Experienced in design and development of Security policies, Authentication/Authorization such as OAuth, JWT.
++ skill set:
+	- Highly experienced in Mongo DB.
+	- Experienced in Data Structures (know what to use when, and time complexities involved).
+	- Experienced in Spring and designing Restful APIs.
+	- Experienced in developing Microservices.
+	- Experienced in HTTP cycle and middleware architecture.
+	- Experienced in design and development of distributed systems and product scaling.
+	- Consistently demonstrate ability to design and deliver a project/task/enhancement/epic, considering every use case.
+	- Experienced in JAXRS; JAXB; AMQP JMS; LDAP and SNMP.
+	- Experienced in data streaming;  Apache Kafka a plus
+	- Experienced in design and development of Security policies, Authentication/Authorization such as OAuth, JWT.
++ skill set:
+	- Experience with the following, especially when applied to improve software security, resiliency and maintainability:
+	- Runtime monitoring
+	- Runtime verification
+	- Dynamic program transformation and instrumentation
+	- Host-based intrusion detection
+	- Virtual machine introspection
+	- Security policy languages and specifications
+	- Software isolation or sandboxing
+	- Profiling
+	- Fault analysis and isolation
+	- Embedded systems
+	- Low-level programming at the kernel, hypervisor, firmware, or BIOS level
+	- Penetration testing
++ skill set:
+	- Experience with fuzzers, at least using and configuring them; experience with AFL especially useful
+	- Experience with symbolic execution
+	- Experience with binary analysis, an ability to read assembly would be a plus
+	- Experience with Windows binaries
+	- Experience with penetration testing (e.g., using MetaSploit) or vulnerability demonstration
++ skill set:
+	- Experience with hypervisor / container development
+		* Especially, Xen or OpenXT
+	- Experience with Trusted Platform Module (TPM)
+	- Experience with firmware-level code
+	- FPGA physical design
+	- Experience with device characterization or PUF techniques
+	- Experience with ASIC analog and/or digital design
 
 
 
