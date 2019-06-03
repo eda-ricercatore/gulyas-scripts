@@ -2465,7 +2465,17 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- FPGA physical design
 	- Experience with device characterization or PUF techniques
 	- Experience with ASIC analog and/or digital design
-
++ skill set:
+	- Familiarity with analytics notebooks (Jupyter, RStudio, DataBricks)
+	- Strong programming skills and ability to utilize a variety of data/analytic software/languages/tools; e.g., Spark (ML, Mllib, Spark SQL), R (caret, ggplot2), Python (pandas, numpy, scipy, scikit-learn), Scala, Hive, SQL, SAS, Tableau, etc.
+	- Familiarity with cloud computing (in AWS or Azure)
+	- Deep knowledge of a variety of statistical and data mining concepts and procedures including: generalized regression, machine learning algorithms, deep learning, media mix algorithms, and statistical graphics
+	- Predictive Analytics experience desired
+	- Experience with big data- Spark, Hive, Hadoop desired
+	- Designing and overseeing implementation of solutions for non-routine problems utilizing a large array of know-how areas within analytics e.g. generalized regression, decision tree, non-parametric; and machine learning, e.g., gradient boosting, random forest, neural networks, clustering, pattern recognition
+	- Developing best practices and repeatable processes for routine problems arising in business problems business cases including driving targeted marketing campaigns for tune-in and product adoption, creating an enhanced consumer experiences, and developing digital/social advertising audience segments
+	- Assisting with strategic decisions about processes, frameworks and standards
++ Strong programming skills and ability to utilize a variety of data/analytic software/languages/tools; e.g., Spark (ML, Mllib, Spark SQL), R (caret, ggplot2), Python (pandas, numpy, scipy, scikit-learn), Scala, Hive, SQL, SAS, Tableau, etc.
 
 
 
