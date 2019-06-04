@@ -2476,9 +2476,59 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Developing best practices and repeatable processes for routine problems arising in business problems business cases including driving targeted marketing campaigns for tune-in and product adoption, creating an enhanced consumer experiences, and developing digital/social advertising audience segments
 	- Assisting with strategic decisions about processes, frameworks and standards
 + Strong programming skills and ability to utilize a variety of data/analytic software/languages/tools; e.g., Spark (ML, Mllib, Spark SQL), R (caret, ggplot2), Python (pandas, numpy, scipy, scikit-learn), Scala, Hive, SQL, SAS, Tableau, etc.
-
-
-
++ skill set:
+	- Proficient in SQL/Hive
+	- Proven ability to apply scientific methods to solve real-world problems
+	- Knowledgeable about the machine learning trade-offs and model evaluation
+	- Over 4 years of industry experience with proven ability to apply scientific methods to solve real-world problems on web scale data
+	- Ability to lead initiatives across multiple product areas and communicate findings with leadership and product teams
++ skill set:
+	- Experience in building and owning critical user-facing API systems, and solving scaling, latency, and performance problems in high-volume low-latency distributed systems
+	- 8+ years of industry experience with distributed systems, transactional datastores, and systems programming
++ Experience with MapReduce/Hadoop and/or distributed systems.
++ Expertise in design of scalable backend systems with experience in AWS, Kafka, Hive, MySQL
++ Extensive experience with one or more of the follow frameworks. (Spark, Druid, Hadoop, HBase, Kafka)
++ Hands-on experience with open source big data platforms (Hadoop, Hive, Presto) and familiarity with data visualization (Tableau, D3) technologies
++ Familiarity with implementing metric logging and interpreting metrics to make decisions
++ skill set:
+	- Deep knowledge of a configuration management tool (i.e. Puppet, Chef, Ansible, Salt, CFEngine). Experience with containers is a plus
+	- Familiarity with distributed systems including service discovery, pub/sub, search indexing, storage, and caching. We use Zookeeper, Kafka, Elasticsearch, MySQL, Hbase, and Memcache respectively.
++ The successful candidate must be an expert in field solver-based parasitic extraction and be able to quickly become an expert in new simulation approaches and to develop robust, maintainable, and efficient code.
++ skill set:
+	- Able to solve a wide-range of difficult problems in imaginative and creative ways, exercising judgment within broadly defined practices and policies.
+	- MSc in Computer Science, Applied Mathematics or related field with 3+ years of experience, or BSc with 5+ years of experience
+	- Proficiency in developing and maintaining modern C++ based applications in a Unix/Linux and Windows environment. Proficiency in Qt, Python, and Tcl a plus. Experience with OpenAccess also a plus.
+	- Experience in developing enterprise level software, proficiency with debug and configuration management tools as well as quality and performance metric tools.
+	- Strong communication skills and ability to write specifications and reference documentation.
+	- Proficiency in English is a must.
+	- Interest in high performance data structures and algorithms.
+	- Prior experience with or developing CAD/EDA tools and/or hardware design also a plus as is experience with geometric algorithms.
+	- Excellent organizational, prioritization, time management skills and an unwavering commitment to integrity and professionalism.
+	- Self-starter and strong closer with multitasking ability
+	- Any other duties as assigned by the Department head
+	- Computational Geometry/Topology
+	- Graph theory
+	- Pattern recognition/machine learning
+	- Compilers/parsers (experience with Flex/Bison a plus)
+	- Computer architecture (caching, memory, networking, etc.)
+	- Boost
+	- Test Driven Development
+	- Displays strong analytical abilities both quantitative and qualitative.
+	- Excellent communication skills and the ability to interface with all levels of management.
+	- Relies on experience and judgment to plan and accomplish goals.
+	- Performs a variety of complicated tasks - a certain degree of creativity and latitude is required.
+	- A key requirement of this role is being the master of all details.
+	- Ability to multi-task and handle matters with little supervision and with excellent follow up.
+	- A strong entrepreneurial and can-do mindset, undaunted by shifting priorities, uncertainty, and a “figuring it out as we go” environment.
+	- Enough courage to say “I don’t know”.
++ skill set:
+	- Experience with parallel programming, especially pthreads, OpenMP, and MPI
+	- Strong mathematical fundamentals, including linear algebra and numerical methods
+	- Experience in implementing direct and iterative solvers for the solution of large sparse linear systems
+	- Experience with CUDA or OpenACC
++ Background in 3D computer graphics, including APIs such as OpenGL
++ Proficient in Java, Maven, Python, Jenkins/Groovy, Vagrant/Docker
++ Good knowledge in DFT : OCC insertion, ATPG generation
 
 
 
