@@ -2614,6 +2614,78 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Experience with other back-end software engineering frameworks
 	- [Talkspace](https://www.talkspace.com/)
 + knowledge of CUDA / OpenCL / OpenCV
++ skill set:
+	- Ansible
+	- Kafka/Cassandra
+	- Linux
+	- Git (github)
+	- Vi / Vim
+	- Elastic Search Stack
+	- Graphite/Grafana
+	- Data visualization
+	- Python, Bash, Golang
+	- Familiarity with JSON
++ skill set:
+	- Experience with the full site of Go frameworks and tools, including dependency management tools (such as Godep, Sltr, etc.), Go's templating language, Go's code generation tools (such as Stringer), Popular Go web frameworks (such as Revel), Router packages (such as Gorilla Mux)
+	- Ability to write clean and effective Godoc comments
+	- Strong knowledge of Go programming language, paradigms, constructs, and idioms
+	- Knowledge of common Goroutine and channel patterns
++ skill set:
+	- Understanding and experience with NoSQL such as MongoDB or Neo4j
+	- Experience with the Hadoop ecosystem (HBase, MapReduce, Hive/Pig) or Spark
++ skill set:
+	- NoSQL databases experience - Dynamo
+	- Experience with Python or other scripting language
+	- Amazon RedShift experience - Nice to have
+	- Experience with Grafana & Graphite
+	- Experience with DynamoDB, Git, RedShift, Athena, Spark, CloudFormation, Terraform, Perl, Python or Go
+	- Amazon AWS experience, particularly RDS, Aurora
+	- 5+ years experience with managing high transaction volume MySQL systems
++ skill set:
+	- Expertise with 12 Factor application principles
+	- Containers (Docker, Kubernetes...)
+	- Streaming/logging technologies (ElasticSearch, fluentd, LogStash, Kafka)
+	- Message Queueing (Kafka, SQS...)
+	- Coding and scripting languages (Perl, Bash, Python, Go...)
+	- AWS Ecosystem (EC2, VPC, S3, DynamoDB, RDS...)
+	- You have deployed and configured a wide range of AWS services including databases, networking, and security. In this role you will work with such paradigms and technologies as: 12 factor app design principles, Docker, Kubernetes, and ElasticSearch ecosystem
+	- Support build/deployment processes with eye towards improving our CI/CD pipeline
+	- Help troubleshoot production issues and perform root cause analyses that create effective mitigation strategies
+	- Design, implement, monitor, and scale self-service oriented infrastructure
++ skill set for Autodesk AI Lab, Pier.9 at San Francisco:
+	- Exploring and developing new Machine Learning models and techniques
+	- Constantly reviewing relevant Machine Learning literature to identify emerging methods or technologies and current best practices
+	- Introduces creative approaches to research topics and generates new approaches, perspectives and solutions to research topics
+	- Planning and designing research projects: specifying the problem and defining the project scope
+	- Connecting with academics and institutions to build relationships and collaborate
+	- Realizing solutions through prototypes
+	- Exploring new data sources and discovering techniques for best leveraging data
+	- Collecting and performing data analysis to validate and further new theories and discoveries
+	- Publishing and talking at conferences
+	- Working closely with product engineers to design, develop and incorporate AI solutions into new products
+	- Meeting with customers to understand how ML could be applied to their problems
+	- Thinking strategically about research directions
+	- Mentoring more junior researchers and engineers
+	- An MS or PhD in a field related to Machine Learning such as: Computer Science, Mathematics, Statistics or Physics
+	- Significant doctoral or post-doctoral research experience or 5 or greater years of work experience
+	- Truly excited by the pace of advancement in AI research and technology
+	- Understanding of fundamental CS algorithms and their scaling behaviors
+	- Solid background in statistical methods for Machine Learning: Bayesian methods, dimensional reduction, SVD, clustering, classification, forms of regression, etc
+	- Strong familiarity with Deep Learning techniques: various network architectures (CNNs, GANs, RNNs, Auto-Encoders, etc.); regularization; embeddings; loss-functions; optimization strategies; etc
+	- Familiarity with one or more typical deep learning frameworks: TensorFlow, Caffe, MxNet, TORCH, PaddlePaddle, etc
+	- Experience training and debugging networks
+	- Strong coding abilities in:  Python and C/C++
+	- Good communication skills and an awareness of how to communicate data and results effectively
+	- Comfortable working in newly forming ambiguous areas where learning and adaptability are key skills
+	- At times, the ability to lead and rally stakeholders and team members
+	- Reinforcement Learning and other areas of Control Theory
+	- Distributed Systems and High Performance Computing methods
+	- Geometric Shape Analysis
+	- Advanced simulation methods such as: FEA, CFD, Shape and Design Optimization, Photo-Realistic Rendering, etc
+	- Knowledge Representation (semantic models, graph databases, etc.)
+
+
+
 
 
 
