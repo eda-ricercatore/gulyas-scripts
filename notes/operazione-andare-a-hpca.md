@@ -2839,8 +2839,35 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Reduce RPO/RTO for our S3, RDS, Redis, MongoDB, etcd and PostgreSQL instances
 	- Maintain/upgrade our Spinnaker + Kubernetes CI/CD pipeline, and the tooling that makes it all work, in a sane and reproducible way
 	- Automate infrastructure deployments with CloudFormation and SaltStack to help us go multi-AWS region
-
-
++ Demonstrated track record working with data warehouse concepts.
++ skill set:
+	- Experience with data quality processes, data quality checks, validations, data quality metrics, definition, and measurement.
+	- Ability to operate with cross-functional teams (for example, customer support, data science, engineering, and sales), including a willingness to balance the changing needs of a client-facing team with a demand for data engineering best practices and the ability to communicate the tradeoffs.
++ skill set:
+	- Experience with presentation or data visualization software, such as Microsoft PPT, Tableau, Shiny, etc.
+	- Practical understanding of and experience with predictive analytics, machine learning, and/or causal inference
++ skill set:
+	- Proficiency with statistical programming languages (R, Python, etc.) and proven ability to work pragmatically with statistical concepts
+	- Practical understanding of and experience with predictive analytics, machine learning, and/or causal inference
++ Proficiency with machine learning and statistical modeling (e.g., scikit-learn, TensorFlow, Stan)
++ Experience identifying data quality and developing automated QC checks and/or reports
++ skill set:
+	- Experience with automation tools and configuration-as-code (CloudFormation, Ansible, Puppet, Chef, Vagrant, etc.)
+	- Experience working with either AWS or GCP services such as compute, databases, VPCs, networking, permissioning and storage
++ skill set:
+	- Significant experience with several of the following:
+		* Leading technical teams
+		* Experience with project management and/or UI/UX design
+		* Python, Ruby, and/or Go (golang)
+		* Designing and building APIs
+		* Query optimization, database administration, analytics databases, and/or NoSQL
+		* Scaling and ensuring reliability of large SaaS applications
+		* Automated software testing and continuous integration
+		* Cloud application deployment and monitoring
+		* Proficiency working with Amazon Web Services (AWS)
+		* Data visualization for the web (using D3 or similar)
+		* React or AngularJS
+		* Statistics and predictive modeling (using tools like pandas, scikit-learn, NumPy, SciPy, R, STATA)
 
 
 
