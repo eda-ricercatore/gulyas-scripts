@@ -2902,6 +2902,39 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Experience with SVN / GIT - as a user and as an infrastructure owner;
 	- Experience with high loaded distributed multi-tenanted cloud systems. Including: Disaster recovering mechanisms; Monitoring and logging; Redundancy (data, network, apps);
 	- Comfortable working with distributed teams
++ skill set:
+	- Digital Design Technologies is a software development group inside the Tesla design studio. The team creates state-of-the-art tools which improve the way Tesla conceives its products.
+	- Although the main focus point will be surface-centered math, successful applicants will also be involved in key software development.
+	- Implement techniques and formulas into usable algorithms
+	- Create new mathematical formulas to solve complex surface-related problems
+	- Thorough understanding of computational surface mathematics
+	- Knowledge of the mathematics inherent to NURBS and Subdivision surfaces
+	- Experience with real time technologies preferred but not required
++ skill set:
+	- Familiarity with board /chip bringup  
+·Experience with real-time operating systems (RTOS) like FreeRTOS, Threadx etc
+·Experience with writing device drivers for low speed interfaces like I2C, SPI, UART, CAN etc
+·Familiarity with containerization (e.g. Docker).
+·Experience with one of the following programming languages: Python, Go, Java/Scala/Kotlin.
+	-  ·Experience in creating complex, highly distributed real-time embedded systems.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
