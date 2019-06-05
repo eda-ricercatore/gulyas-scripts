@@ -2653,6 +2653,9 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Help troubleshoot production issues and perform root cause analyses that create effective mitigation strategies
 	- Design, implement, monitor, and scale self-service oriented infrastructure
 + skill set for Autodesk AI Lab, Pier.9 at San Francisco:
+	- [BrickBot](https://www.fastcompany.com/90204615/autodesks-lego-model-building-robot-is-the-future-of-manufacturing)
+	- [Auto Sketching and Vectorization](https://canvasdrawer.autodeskresearch.com/)
+	- [Topology Optimization for Specific Manufacturing Processes](https://www.autodesk.com/customer-stories/general-motors-generative-design)
 	- Exploring and developing new Machine Learning models and techniques
 	- Constantly reviewing relevant Machine Learning literature to identify emerging methods or technologies and current best practices
 	- Introduces creative approaches to research topics and generates new approaches, perspectives and solutions to research topics
@@ -2683,15 +2686,159 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Geometric Shape Analysis
 	- Advanced simulation methods such as: FEA, CFD, Shape and Design Optimization, Photo-Realistic Rendering, etc
 	- Knowledge Representation (semantic models, graph databases, etc.)
-
-
-
-
-
-
-
-
-
++ skill set:
+	- Experience with Amazon Web Services (i.e. EC2, S3, RDS, CloudFront, CloudWatch, Lambda, CloudFormation, etc.)
+	- Production React experience
+	- Familiarity with responsive web design
++ skill set:
+	- Our AI Labs focus on research in: deep learning, control systems, simulation and knowledge representation applied to diverse areas such as: geometry, robotics, advanced sensing, design exploration and sustainable engineering or construction practices. The labs also host product engineers resulting in early productization of our research, so you can see your work in action.
+	- You will be a senior researcher focusing on problems related to geometry understanding, manipulation and synthesis.
+	- The Lab brings together AI Researchers, Software Engineers and specialists in various problem areas to create novel AI solutions in all the areas mentioned above and more. They work closely with experts in: geometric modeling, simulation systems, robotics, knowledge representation, sensing and computer vision, industrial manufacturing and construction techniques.
+	- Explore and develop new Machine Learning models and techniques
+	- Constantly review relevant Machine Learning literature to identify emerging methods or technologies and current best practices
+	- Introduce creative approaches to research topics and generates new approaches, perspectives and solutions to research topics
+	- Plan and design research projects: specifying the problem and defining the project scope
+	- Connect with academics and institutions to build relationships and collaborate
+	- Realize solutions through prototypes
+	- Explore new data sources and discover techniques for best leveraging data
+	- Collect and perform data analysis to validate and further new theories and discoveries
+	- Publish and talk at conferences
+	- Work closely with product engineers to design, develop and incorporate AI solutions into new products
+	- Meet with customers to understand how ML could be applied to their problems
+	- Think strategically about research directions
+	- Mentor more junior researchers and engineers
+	- An MS or PhD in a field related to Machine Learning such as: Computer Science, Mathematics, Statistics or Physics
+	- Significant doctoral or post-doctoral research experience or 5 or greater years of work experience
+	- Solid theoretical background in geometry and geometric methods (e.g. shape analysis, topology, differential geometry, discrete geometry, functional mapping, etc.)
+	- Good background in statistical methods for Machine Learning (e.g. Bayesian methods, HMMs, Graphical Models, dimensional reduction, clustering, classification, regression techniques, etc)
+	- Familiarity with Deep Learning techniques (e.g. Network architectures; regularization techniques; learning techniques; loss-functions; optimization strategies etc)
+	- Familiarity with one or more typical deep learning frameworks: TensorFlow, Caffe, MxNet, TORCH, Chainer, etc.
+	- Strong coding abilities in: Python and C/C++
+	- Good communication skills and an awareness of how to communicate data and results effectively
+	- Comfortable working in newly forming ambiguous areas where learning and adaptability are key skills
+	- At times, the ability to lead and rally stakeholders and team members
+	- Reinforcement Learning and other areas of Control Theory
+	- Distributed Systems and High Performance Computing methods
+	- Advanced simulation methods such as: FEA, CFD, Shape and Design Optimization, Photo-Realistic Rendering, etc.
+	- Knowledge Representation (semantic models, graph databases, etc.)
++ skill set:
+	- We are implementing a new master data management system within a new backend service API, using modern best practices such as REST, microservices, CI/CD, and polyglot persistence.
+	- Our team is versatile, polyglot, and cross-functional. We work in Python, AWS, NodeJS, Scala, Elasticsearch, Informatica, Terraform, and much more. The team is geographically dispersed, and values transparent, collaborative communication and cooperation.
+	- Ownership of platform and domain architecture for Enterprise Data Management systems and related components in the Customer Domain
+	- Consulting and collaborating with all stakeholders to adequately understand requirements for software architecture and implementation.
+	- Defining and drafting architecture artifacts, roadmaps, and program vision for consumption across technical and non-technical teams.
+	- Evangelizing, defending, and adapting architecture decisions and direction according to business drivers
+	- Define and consider the full lifecycle of software systems and components
+	- Advise, mentor, educate, and influence teams across Autodesk
+	- Continuous professional development, to ensure awareness and expertise in leading-edge best practices and evolving technology drivers and landscapes
+	- Consciously monitoring implementation to ensure non-functional requirements such as availability, scalability, reliability, security, compliance, governance are all in place
+	- 10+ years’ experience delivering software with a strong focus on data, working throughout a cross-section of the software engineering spectrum (APIs, front-end, backend, security, authentication/authorization, data, service, persistence layers, automated testing, etc.)
+	- Demonstrable experience as an architect for a large organization in major software domains (CRM, ERP, HR, etc.)
+	- Extensive experience integrating software domains within an enterprise
+	- Ready to apply and adhere to best practices and standard methodologies in software and architecture
+	- Strong experience in API (REST/SOAP) and Pub/Sub architecture with hands on implementation experience at scale
+	- Experience architecting for applications on cloud infrastructure (AWS, Azure)
+	- Strong experience using and designing for relational/non-relational databases
+	- Familiarity with a large cross-section of current software landscape
+	- Not dogmatic about a particular approach and are ready to take the best idea in the room
+	- A strong sense of ownership with a bias for action
+	- Superior communication and cooperation skills
+	- Ability to work independently and collaboratively across an organization
+	- Confidence to lead and stand by recommendations in the face of challenges
+	- Ready to try and take-on new technologies, ideas, and/or engineering challenges
+	- Eagerness to learn and share knowledge with a good attitude
+	- Experience with Master Data Management (MDM) theory and platforms
+	- Experience with SAP and/or ERP systems
+	- Experience with Salesforce and/or CRM systems
+	- Experience with Compliance and Data governance (GDPR, SOX, etc.)
+	- Experience implementing Domain Driven Design
+	- Continued hands-on code-level expertise
++ skill set:
+	- Experience using tools such as Apache Maven/ANT/Jenkins/Hudson
+	- Knowledge of Load and performance testing using open source tools such as JMeter or LoadUI
++ skill set:
+	- Implements, troubleshoots, and optimizes distributed solutions based on modern big data technologies like Hive, Hadoop, Spark, Python, Elastic Search, Storm, Kafka, Oozie WFs etc. in both an on premise and cloud deployment model to solve large scale processing problems
+	- Design, build and maintain Big Data workflows/pipelines to process billions of records into and out of our data lake
+	- Provide technical leadership in the area of big data systems development including data ingestion, data curation, data storage, high-throughput data processing, analytics, user access, and security
+	- Proficiency in Amazon AWS big data technologies including S3, RDS, RedShift, Elasticsearch, Lambda, AWS Glue
+	- Keen understanding of big data and parallelization accompanied with a stellar record of delivery
+	- Experience working within the AWS Big Data/Hadoop Ecosystem (EMR is preferred), AWS Glue
+	- Experience with on-premises to cloud migrations including re-hosting, re-platforming and re-factoring
+	- Experience with orchestration template technologies such as AWS CloudFormation
++ skill set:
+	- Content delivery network (CDN) experience
+	- Experience with Amazon Web Services (i.e. EC2, S3, RDS, CloudFront, CloudWatch, Lambda, CloudFormation, etc.)
++ skill set:
+	- Strong knowledge and experience with server-side Java applications
+	- Familiarity and experience with Adobe AEM (CQ) and related technologies
++ Experience with Node.js, npm, Gulp, and Webpack
++ Load and performance testing using open source tools such as JMeter or LoadUI
++ Experience with using other product web end-points/APIs
++ skill set:
+	- 10+ Years of professional software engineering experience in building large-scale distributed systems
+	- Strong hands-on experience in developing applications in one or more language stacks: Java, Python, Go
+	- Strong experience in building platform-level shared libraries, frameworks, components, tools and services
+	- Strong understanding of object-oriented programming, service-oriented architectures, microservices and design patterns
+	- Strong hands-on experience in one or more of Containers and Container Orchestration frameworks: Docker, Kubernetes, Docker Swarm, Amazon ECS, Amazon EKS, AWS Fargate, etc.
+	- Strong hands-on knowledge of one or more of Infrastructure-as-Code tools and technologies: Terraform, AWS CloudFormation, Packer, etc.
+	- 3+ Years of experience in public cloud infrastructures: AWS preferred
+	- Experience with Service Mesh, Service Discovery, Routing tools and technologies: Istio, Consul, ZooKeeper, zuul, linkerd, envoy, etc.
+	- Experience with Metrics, Monitoring & Alerting tools: Catchpoint, Sensu, Prometheus, Nagios, Zabbix, InfluxDB, Graphite, Grafana, AWS CloudWatch, Datadog, etc.
+	- Experience with APM tools: New Relic, Dynatrace, etc.
+	- Experience with Log Management tools: ELK stack, Splunk, etc.
+	- Experience with secrets management, certificates, encryption and keys: Vault, AWS KMS, etc.
+	- Experience with CI/CD, DevOps and Pipeline-As-Code: Jenkins
+	- Exposure to Configuration Management Tools: Chef, Puppet, etc.
+	- Exposure to Function-as-a-Service, AWS Lambda, Serverless, etc.
+	- Experience with Agile software development and Scrum methodology
+	- Practice strong software development principles and best practices: Test-driven development (TDD), CI/CD, code refactoring, coding standards, etc.
++ BIM (Building Information Model)
++ skill set:
+	- Deep understanding of machine learning, statistical modeling and data mining techniques such as gradient boosting, neural networks, natural language processing and clustering
+	- Understanding of experimental design and adaptive sampling
+	- Experience working with big data platforms (Hadoop, Spark, Hive)
+	- Experience working with relational SQL and NoSQL databases
+	- Familiar with ML and statistical modeling tools such as R, SparkML, TensorFlow, SciKit
+	- Proven track record overseeing multiple data science projects at all stages, from initial conception to implementation and optimization
+	- Good programming skills using analytics-oriented languages such as Python, R and Scala
++ skill set:
+	- Experience working with relational SQL and NoSQL databases
+	- Experience working with big data platforms (Hadoop, Spark, Hive)
+	- Fluency with one or more programing language: Python, Java, Scala, etc
+	- Good understanding of CS fundamentals, e.g. algorithms and data structures
+	- Experience with data science tools and libraries, e.g. R, pandas, Jupyter, scikit-learn, TensorFlow, etc
+	- Familiarity with statistical concepts and analyses, e.g. hypothesis testing, regression, etc
+	- Familiarity with machine learning techniques, e.g. classification, clustering, regularization, optimization, dimension reduction, etc
+	- Guide the utilization or development of a robust CI/CD capability.
+	- Identify key performance & effectiveness metrics, monitor & adjust to goals
+	- Work with test automation team to lay the groundwork for automated API testing framework and test cases
+	- Prioritize backlog & drive product releases
+	- Distill strategic intent into structured product release roadmaps that are compelling and achievable
+	- Ability to execute and manage performance and expectations within a cross-functional, matrix management environment
++ skill set:
+	- Analyze existing programs or formulate logic for new systems, devise logic procedures, prepare flowcharts, may perform Marketo and Salesforce configuration
+	- Test solutions and ensure they meet business requirements and are "fit-for-purpose." Present and validate solution with user
+	- Experience setting up big data platform service providers like Qubole
+	- Experience with AWS Services, which includes setting up S3 policies, IAM Roles, Enabling Cloudwatch Alarms, understanding AWS cost etc
+	- Experience with Service Performance Monitoring tools for big data like DataDog, Unravel etc
+	- Experience setting up Big Data Technologies like, HDFS, MapReduce, Hbase, Pig, Hive, Sqoop, Oozie, Spark, Cloudera manager, Kafka & Splunk
+	- Experience setting up schedulers like Oozie and Airflow
+	- Experience with building CI/CT/CD pipelines for AWS Services like Lambda, Glue, ECS and Firehoses
+	- Experience with AWS including S3, EC2, Lambda, Kinesis, Firehose, Step functions, Cloudwatch, Cloud formation templates
+	- Experience with Programming Languages - Java, Python, Linux Shell Scripts, PL/SQL
+	- Experience with Databases: Databases: Oracle, MySQL, SQL Server, PostgreSQL & DynamoDb
+	- Experience with Web Services like REST & SOAP
++ skill set:
+	- Strong foundation in Python & MongoDB/DynamoDB
+	- Experienced with software support tools for version control, issue tracking, collaboration, automation, containerization, document generation (JIRA, GIT, Artifactory, Confluence, Jenkins, Docker)
+	- Experience with testing frameworks and/or AB testing tools
++ skill set:
+	- Hands-on experience with AWS (Lambda, SAM, S3, DynamoDB, CloudFormation, EC2, IAM)
+	- Experience building and interpreting data models and analytics dashboards
++ skill set:
+	- Reduce RPO/RTO for our S3, RDS, Redis, MongoDB, etcd and PostgreSQL instances
+	- Maintain/upgrade our Spinnaker + Kubernetes CI/CD pipeline, and the tooling that makes it all work, in a sane and reproducible way
+	- Automate infrastructure deployments with CloudFormation and SaltStack to help us go multi-AWS region
 
 
 
