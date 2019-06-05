@@ -2868,13 +2868,40 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 		* Data visualization for the web (using D3 or similar)
 		* React or AngularJS
 		* Statistics and predictive modeling (using tools like pandas, scikit-learn, NumPy, SciPy, R, STATA)
-
-
-
-
-
-
-
++ skill set:
+	- Experience working with either AWS or GCP services such as compute, databases, VPCs, networking, permissioning and storage
+	- Experience with automation tools and configuration-as-code (CloudFormation, Ansible, Puppet, Chef, Vagrant, etc.)
+	- Experience with continuous integration/delivery services
+	- Experience with containerized code deployment
+	- Experience with networking concepts and protocols
+	- Experience managing large cloud infrastructures
+	- Experience scaling and ensuring reliability of large SaaS or PaaS applications
+	- Experience with orchestration frameworks such as Kubernetes or Mesos
+	- Experience with security, systems, or application monitoring and metrics
+	- Cloud application deployment and monitoring
+	- Data visualization for the web (using D3 or similar)
+	- Statistics and predictive modeling (using tools like pandas, scikit-learn, NumPy, SciPy, R, STATA)
+	- Query optimization, database administration, analytics databases, and/or NoSQL
++ Familiarity with GraphQL and Relay
++ skill set:
+	- Expert knowledge of debugging and crash dump analysis in Windbg;
+	- Experience with system level tools like Process Monitor;
+	- Experience with profiling tools like PerfView (CPU, Memory, Garbage collection);
+	- Experience with in process and out of process COM and how it works in .NET
++ skill set:
+	- Retargeting of a C/C++ compiler towards specific microcontroller architecturesman
+	- Activities comprise participation in the development, maintenance, build, test, and release of compiler and run-time libraries for existing and forthcoming processor architectures, including competitive performance analysis, root cause analysis, and bug resolution
+	- 6+ years of experience with SQL databases (we use Postgres) and data manipulation
++ skill set:
+	- Experience with CI systems (Jenkins, TeamCity);
+	- AWS - EC2, RDS, ECS etc;
+	- Docker and orchestration: Swarm, Kubernetes;
+	- Elastic Search, RabbitMQ;
+	- Bash / Powershell scripting experience;
+	- Windows / Linux - admin level;
+	- Experience with SVN / GIT - as a user and as an infrastructure owner;
+	- Experience with high loaded distributed multi-tenanted cloud systems. Including: Disaster recovering mechanisms; Monitoring and logging; Redundancy (data, network, apps);
+	- Comfortable working with distributed teams
 
 
 
