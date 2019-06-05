@@ -2593,8 +2593,27 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- You have a strong record of project execution and completion and have experience with Scrum and agile development practices
 	- You love working with smart people and want to be part of a team
 	- You are excited by the challenge of pushing the limits of the infrastructure to deliver disruptive, innovative solutions to the world that will delight your customers
-
-
++ skill set:
+	- Maintain/upgrade our Spinnaker + Kubernetes CI/CD pipeline, and the tooling that makes it all work, in a sane and reproducible way
+	- Improve observability with distributed tracing for all requests from client to CDN to load balancer to cluster and back again
+	- Maintain/upgrade our Spinnaker + Kubernetes CI/CD pipeline, and the tooling that makes it all work, in a sane and reproducible way
+	- Automate infrastructure deployments with CloudFormation and SaltStack to help us go multi-AWS region
+	- Build observability into every aspect of our production infrastructure
+	- Reduce RPO/RTO for our S3, RDS, Redis, MongoDB, etcd and PostgreSQL instances
+	- Help developers smoke-test better by bringing canary analysis and automated scale testing into their world
+	- DevOps and systems experience is highly valued; If you’ve gotten your hands dirty with package and configuration management, infrastructure-as-code principles, Kubernetes, AWS, Linux and security, PostgreSQL replication, and know your way around Docker, bash and Python, we’d love to talk with you
+	- You should be passionate about getting in front of problems instead of waiting until things are on fire. If you dream of stability, love metrics, communicate well, document your code, and love building reliable systems that hum along and take care of themselves, we want you on our team
++ skill set:
+	- 2+ years of work experience developing and deploying production-quality code
+	- Foundational knowledge of commonly used machine learning techniques, such as cluster analysis, classification methods, and linear and nonlinear regression modeling
+	- Experience developing applications using Natural Language Processing techniques.
+	- Experience working with cross-functional teams in a dynamic environment
+	- Hands-on experience building deep learning models on text corpora, preferably using PyTorch and Tensor Flow
+	- Experience building machine learning models in the healthcare domain
+	- Experience using AWS infrastructure and tools for machine learning
+	- Experience with other back-end software engineering frameworks
+	- [Talkspace](https://www.talkspace.com/)
++ knowledge of CUDA / OpenCL / OpenCV
 
 
 
