@@ -2912,11 +2912,222 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Experience with real time technologies preferred but not required
 + skill set:
 	- Familiarity with board /chip bringup  
-·Experience with real-time operating systems (RTOS) like FreeRTOS, Threadx etc
-·Experience with writing device drivers for low speed interfaces like I2C, SPI, UART, CAN etc
-·Familiarity with containerization (e.g. Docker).
-·Experience with one of the following programming languages: Python, Go, Java/Scala/Kotlin.
-	-  ·Experience in creating complex, highly distributed real-time embedded systems.  
+	- Experience with real-time operating systems (RTOS) like FreeRTOS, Threadx etc
+	- Experience with writing device drivers for low speed interfaces like I2C, SPI, UART, CAN etc
+	- Familiarity with containerization (e.g. Docker).
+	- Experience with one of the following programming languages: Python, Go, Java/Scala/Kotlin.
+	- Experience in creating complex, highly distributed real-time embedded systems.
++ skill set:
+	- You will also work closely with our data scientists to make sure our customers have the necessary tools to perform high quality data integrations by building out the Machine Learning and AI infrastructure for entity resolution, automated data mapping, predictive analytics, and risk analysis.
+	- As a Software Engineer Intern you will work with a mentor to improve storage, compute, privacy, security, and compliance features necessary to support the operational workflows that help people get the assistance they need.
++ skill set:
+	- You will help to ensure great quality of Tesla’s Autopilot software for current and next generation vehicle programs and working towards Tesla’s vision of fully autonomous vehicles. You will be contributing to the implementation of the software system that processes inputs from a variety of vehicle sensors, evaluates possible vehicle strategies/trajectories, and automate safe control of the vehicle.
+	- Demonstrate good understanding of software fundamentals including software design, algorithm development, data structures, code modularity, and maintainability.
+	- Experience developing embedded firmware in C for safety-critical applications in production environments.  
+	- Assess the system for failure modes and design resilient and redundant mechanisms to protect against those failures.
+	- Experience in creating complex, highly distributed real-time embedded systems.  
+	- Understanding of advanced driver assistance sensors such as radar, camera, ultrasonic, and lidar, including the measurement and data-reduction, target identification and environmental synthesis, and sensor fusion.
+	- Collaborate with the control systems, simulation and modeling teams to design control strategies that can be implemented in software efficiently
++ skill set:
+	- Strong C/C++ programming skills, preferably in an embedded environment
+	- Experience with 32-bit and 64-bit ARM architectures ARMv8-A, ARMv8-M, ARMv8-R)
+	- Familiarity with board /chip bringup  
+	- Experience with real-time operating systems (RTOS) like FreeRTOS, Threadx etc
+	- Experience with writing device drivers for low speed interfaces like I2C, SPI, UART, CAN etc
+	- Familiarity with containerization (e.g. Docker).
+	- Experience with one of the following programming languages: Python, Go, Java/Scala/Kotlin.
+	- Problem solving, critical thinking, and communication skills
+	- Strong build, debug and test skills
+	- Git experience a plus
++ skill set:
+	- As an intern within the Vehicle Software Team, you will have the opportunity to work on a variety of high voltage/high power systems which our customers rely on every day.  You will be responsible for designing and setting up test infrastructure, validating firmware functionality, investigating problems, implementing solutions, and automating test systems as needed to support a rapid pace of development and code delivery.   
+	- Your effort to create and equip automated validation infrastructure will have a direct impact on the reliability and robustness of the Tesla products as well as the customer experience.  You will contribute to cross-functional system architecture, software system design, and rapid prototyping.
+	- Your application to the Software Engineering Internship will be considered for all opportunities across Autopilot Embedded Systems, Body Controls, Gateway, Charging Systems, Battery Management Systems, Drive Inverter, Tools Development, Applications and/or Platforms Infrastructure.
+	- Architect methods of integrating the automated test suites into the development processes
+	- Explore and innovate methods of testing the robustness and quality of the charging firmware
+	- Understand and deconstruct complicated software systems and devise strategies to test these systems
+	- Create and execute test plans designed to expose weakness or faults in components
+	- Work with developers to optimize the component validation process with the use of metric driven data
+	- Capable of hands-on bring up, debug and code optimization.
+	BS/MS Degree EE, CS, CE, Mechatronics/Robotics or equivalent required
+	- Experience working with modern software architectures (STM32 microcontrollers, etc)
+	- Expertise testing devices and debugging hardware (scopes, logic analyzers, DMMs, CAN loggers)
+	- Proficiency in C and python a must
+	- Ability to think creatively and produce “outside of the box” solutions
+	- Familiar with the embedded microprocessor design process: compilers, debuggers, IDE and source code control
+	- Familiarity with automotive ECUs, especially those in hybrid and electric powertrains.
+	- Familiarity in schematic design & capture (Altium Designer)
+	- Experience with bringing up embedded firmware projects on custom PCBs
+	- Familiarity with Linux framework and designing code that runs on Linux platforms
+	- Experience designing or interfacing with HIL / SIL test setups
+	- Experience with source control (Git) and continuous integration (Jenkins)
+	- Experience with DSPs, microcontrollers and real-time operating systems.
+	- Experience in battery management systems
+	- Experience with automotive or green energy background a plus
+	- Interest in solving complex and time critical problems
++ skill set:
+	- At the heart of Netflix Product Innovations is an experimentation driven culture led by Science & Analytics (S&A).  In this role, you will lead teams of data scientists and analysts responsible for shaping UI and Content Innovations decisions through experimentation (A/B, quasi) and empirical studies to guide product strategy.
+	- Set an impact-focused, strategic science roadmap to guide product innovations.
+	- Recruit and inspire exceptional data scientists focused on the span of causal inference, behavioral research, and analytical activities.
+	- Uphold the culture of rigor in product decision-making through active participation in product debates.
+	- Lead and contribute to cross functional initiatives between product development (product management, design, engineering), content, and marketing.
+	- Define a team culture that balances supporting high impact business needs with forward looking research.
+	- Serve as thought partner to product development executives across product management, engineering, and design.
+	- 5+ years experience in building and inspiring a high-performing data science and analytics team.
+	- Capacity and passion to translate business objectives into actionable analyses, and analytic results into business and product recommendations
++ A senior analytics professional with a proven track record of data analysis, reporting and visualization (e.g. Tableau, D3)
++ A background in machine learning and related sub-areas including ranking, personalization, search, recommendation, explore/exploit, causal learning, reinforcement learning, deep learning and probabilistic modeling.
++ skill set:
+	- Experience in Recommendation Systems, Personalization, Search, or Computational Advertising
+	- Experience using Deep Learning, Bandits, Probabilistic Graphical Models, or Reinforcement Learning in real applications
++ skill set:
+	- Excellent understanding of video compression. Extensive experience with compression standards such as H.264/AVC, HEVC and VP9.
+	- Strong background in image and signal processing, both algorithm design and implementation.
+	- Implemented a video codec from scratch
+	- Background in video quality metrics, video understanding, computer vision or machine learning
+	- Experience with large-scale distributed systems and cloud-computing
+	- Involvement in open-source multimedia projects (such as ffmpeg, x264, webm, VLC)
+	- Design and prototype algorithms for improving the quality and performance in our cloud-based video ingest and encoding pipeline
+	- Study current codec implementations and find areas for improvement in quality and speed
+	- Conduct research on next-generation image and video coding and propose technology for industry standards
+	- Participate in research conferences and standardization meetings
++ skill set:
+	- Experience in contextual multi-armed bandit algorithms and/or reinforcement learning
+	- Recommendation Systems, Personalization, Search, or Computational Advertising
+	- Deep Learning or Causal Inference
+	- Cloud computing platforms and large web-scale distributed systems
++ skill set:
+	- Recommender Systems and Personalization. Almost every aspect of the Netflix experience is personalized, and much of that personalization is driven by our various flavors of recommendation algorithms. You’ll apply a number of techniques, from the latest in deep learning, reinforcement learning, to causal inference.
+	- Search Ranking and Query Understanding. You’ll work on the algorithms that allow our members to interactively query and explore our catalog. Using the latest in NLP techniques, you’ll solve problems including: query understanding, knowledge graph discovery, and learning to rank across our global catalog of titles.
+	- Large Scale Machine Learning. Netflix is available in over 190 countries, with over 148+ million members. This gives us a unique dataset to work with, but also unique challenges in how we scale our models. You’ll work on cutting edge techniques to scale your models for use in our production systems.
+	- Strong background in machine learning with a broad understanding of unsupervised and supervised learning methods
+	- Strong software development experience
+	- Successful track record of delivering results in complex cross-functional projects
+	- Strong mathematical skills with knowledge of statistical methods
++ skill set:
+	- Experience building or maintaining databases (MySQL, Hive, etc.)
+	- Experience building or maintaining Big data & streaming systems (Hadoop, HDFS, Kafka, etc.)
+	- Cross-platform coding
+	- Large-scale, large-user base website development experience
+	- Data mining, machine learning, AI, statistics, information retrieval, linguistic analysis
++ skill set:
+	- Application code development in C++
+	- Embedded peripherals and drivers (UART/CAN/SPI/I2C)
+	- Wireless communication systems (Cellular, Wifi, BLE)
+	- Networking protocols (TCP/UDP)
+	- Embedded Linux
+	- FreeRTOS or similar low level RTOS
+	- Masters degree or similar job experience
+	- Experience with algorithm packages (Eigen, OpenCV, etc.)
+	- Worked with TI M4 class processors
+	- Worked with Linux on ARM processors
+	- Worked with Embedded GCC
+	- Experience with automotive systems or UAV systems
++ skill set:
+	- Design and implementation of state of the art monocular computer vision algorithms
+	- Solve problems involving odometry, landmark detection, structure from motion and segmentation in large scale outdoor environments
+	- Integrate vision based algorithms into our probabilistic fusion framework
+	- Help in identifying core requirements for camera sensors
+	- Code development in C++/Python
+	- Work with real data on our self driving car
+	- Masters or PhD Computer Science, Electrical Engineering or both.
+	- Deep Experience in SfM, VO, and classical computer vision algorithms
+	- Expert knowledge in computational geometry
+	- Experience in machine learning, feature detection and classification
+	- Experience with open source computer vision and linear algebra frameworks
+	- A solid background in statistics, probability and linear algebra
+	- Experience with real world datasets
+	- Experience with real time algorithm implementation
+	- Ability to work independently without direct supervision
+	- Experience with CV algorithm packages (Eigen, OpenCV, etc.)
+	- Knowledge of Deep learning techniques applied to CV
+	- Experience in Linux based environments
+	- Experience in SLAM and/or motion planning
+	- Experience with CUDA, OpenCL or other GPU frameworks
+	- Experience with automotive systems or UAV systems
+	- Ability to lead a small technical team that balances research and application
++ skill set:
+	- This role is focused on delivering the best in localization performance from our sensors.
+	- Candidates should have extensive experience working with raw navigation data. You should be very comfortable with estimation theory and have implemented complex filters in practice. Real world experience with RTK, Integer Ambiguity Estimation and other high precision techniques are a huge plus.
+	- Inertial Measurement Unit Algorithms, Extended Kalman Filter, Visual Odometry, Gnss, RTK-GPS
++ [Sphinx](https://en.wikipedia.org/wiki/Sphinx_(search_engine))
++ skill set:
+	- Expertise in image and video processing, computational photography, single and multiview geometry, keypoint extraction, description, association, etc.
+	- Experience in efficient large-scale numerical optimization
+	- Experience in the area of camera calibration, SLAM, point cloud processing are highly desired
+	- Publication records in leading conferences such as CVPR, ICCV, ECCV, NIPS, ICML or PAMI is a plus
++ skill set:
+	- Strong knowledge of the state-of-the-art in computer vision and machine learning algorithms with a solid understanding of OpenCV
+	- Experience working with point cloud processing and Point Cloud Library (PCL)
++ skill set:
+	- As a Deep Learning Engineer at Simbe Robotics, you will be part of a talented team designing and training state of the art deep learning algorithms to identify placement, presentation, pricing, and availability of products in retail stores across the globe.  
+	- In this role you will lead various initiatives designing, developing, and training in-house character recognition and image caption algorithms powered by deep learning.
+	- Participate in planning and prioritizing, write functional specifications and lead design reviews for our character recognition and image caption algorithms.
+	- Generate, clean, and curate real world training datasets
+	- Create photorealistic synthetic training data for augmentation
+	- Develop, test, tune, and deploy character recognition and image caption systems across a wide variety of customers
+	- Evaluate existing character recognition and image caption methods for speed and accuracy performance improvements
+	- Collaborate with other developers, quality engineers, product managers, and documentation writers
+	- Ph.D. or M.S. preferred
+	- Strong machine learning background, with 2+ years of hands-on experience in building real systems
+	- Deep understanding of state of the art machine learning and deep learning algorithms, techniques and best practices
+	- Solid understanding of linear, non-linear, and dynamic programming
+	- Experience using or building synthetic image generation systems, data augmentation pipelines, and OCR/image caption systems
+	- Proficient in at least one of the following: Tensorflow, Keras, PyTorch. Tensorboard knowledge is a plus
+	- Must be fluent in Python, other languages are a plus
+	- Should be familiar with training and running deep learning models on GPUs (both commodity and otherwise)
+	- A good understanding of recurrent neural networks (including LSTMs and GRUs)
+	- Experience in debugging and diagnosing performance problems with ML algorithms
+	- Must have excellent written and verbal communication skills
+	- Experience with attention models, text localization, Google Cloud Platform, AWS, and serverless is a plus
+	- Strong Linux & Command Line background
+	- Ability to work hands-on in cross-functional teams with a strong sense of self-direction
++ [Tensorboard](https://www.tensorflow.org/guide/summaries_and_tensorboard)
+	- [TensorBoard, TensorFlow's visualization toolkit](https://www.tensorflow.org/tensorboard)
+	- https://databricks.com/tensorflow/visualisation
++ skill set:
+	- We are seeking a strategic technical leader who will be responsible for delivering the core infrastructure for machine learning on Databricks. This includes the ML runtime (a packaged environment containing Spark, Tensorflow, and other frameworks), our own machine learning algorithms, storage and IO optimizations, as well as higher level abstractions such as hyper parameter tuning and feature registries.
+	- Grow a team of application developers responsible for the Databricks ML Runtime.
+	- Grow Databricks’ machine learning capabilities - increase YoY product revenue and adoption at > 100%
+	- Manage technical debt, including long term technical architecture decisions and balance product roadmap
++ skill set:
+	- Use Databricks to build internal data warehouse and integrate it with BI and CRM services used internally
+	- Use Databricks to analyze usage data, and create dashboards and reports
+	- Build self-serving internal data products to make data simple within the company
+	- Work closely with Product Management and other stakeholders to understand product usage patterns and trends and to make data-driven decisions and forecasts
+	- Provide product feedback to PM and Engineering teams
+	- Strong desire to work at a rapidly growing startup
+	- Knowledge of data processing and applied statistics
+	- Proficient in data analysis and visualization using R or PyData
+	- Familiar with SQL and databases like MySQL or PostgreSQL
+	- Experience with distributed data processing systems like Spark and Hadoop
+	- General-purpose languages such as Python and Scala
+	- Desire to explore lots of data to find unexpected insights
+	- Strong communication and presentation skills
+	- [Plus] Advanced degrees in statistics, computer science, math, or similar fields
+	- [Plus] Familiarity with interactive data visualization using tools like D3.js
++ skill set:
+	- Architect and operate high quality, large scale, multi-geo data pipelines that drive business decisions.
+	- Redesigned data pipelines using the applicable DBR features, and incorporating external tools where necessary to have better reliability and tighter SLAs.
+	- Established conventions or new APIs for logging feature usage for PM use-cases.
+	- Understandable SLAs for each of the production data pipelines.
+	- Improved test coverage (90+%) for data pipelines. Best practices and frameworks for unit, functional and integration tests.
+	- CI and deployment processes and best practices for the production data pipelines.
+	- Reduction in overall alert noise and increase responsiveness by rethinking the current alert categories and priorities.
+	- Design schemas for financial, sales and support data in the data warehouse.
+	- Experience building, shipping and operating multi-geo data pipelines at scale.
+	- Experience with working with and operating workflow or orchestration frameworks, including open source tools like Airflow and Luigi or commercial enterprise tools.
+	- Experience with large scale messaging systems like Kafka or RabbitMQ or commercial systems.
+	- Excellent communication (writing, conversation, presentation) skills, consensus builder
+	- Strong analytical and problem solving skills
+	- Passion for data engineering and for enabling others by making their data easier to access.
+	- Experience with pipelines that are used by many downstream teams, including non-engineering functions.
+	- Experience with streaming data frameworks like spark streaming, kafka streaming, Flink and similar tools a plus.
+	- Experience working with Apache Spark and data warehousing products.
+	- Direct experience with a log collection and aggregation system at scale.
+	- Demonstrated execution at a growth stage technology company.
++ skill set:
+	- If you are looking for an unparalleled opportunity to build the next generation big data processing platform, and learn how to launch hundreds of thousands of VMs a day at scale while running thousands of Kubernetes clusters, you have come to the right place. The platform team builds and manages the core systems powering Databricks, allowing it to seamlessly scale and run across various geographic regions/clouds, and making Databricks the go-to product for big data processing in the cloud.
 
 
 
@@ -2940,7 +3151,9 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 
 
 
-#	Interesting Copanies
+
+
+#	Interesting Companies
 
 + [Great Place to Work® Institute](https://www.greatplacetowork.com/about)
 	- Management Consulting
