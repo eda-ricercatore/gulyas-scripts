@@ -3534,7 +3534,87 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Minimum 1 year of experience building data management (metadata, lineage, tracking etc.)  and governance solutions for big data platforms on premise or on AWS, Google and Azure cloud.
 	- Minimum 1 year of Re-architecting and rationalizing traditional data warehouses with Hadoop, Spark or NoSQL technologies on premise or transition to AWS, Google clouds.
 	- Experience implementing data preparation technologies such as Paxata, Trifacta, Tamr for enabling self-service solutions.  
-	- Minimum 1 year of building Business Data Catalogs or Data Marketplaces on top of a Hybrid data platform containing Big Data technologies (e.g  Alation, Informatica or custom portals).
+	- Minimum 3+ years of Spark/MR/ETL processing, including Java, Python, Scala, Talend; for data analysis of production Big Data applications
++ skill set:
+	- Minimum 3+ years of architecting, implementing and successfully operationalizing large scale data solutions in production environments using Hadoop and NoSQL ecosystem on premise or on Cloud (AWS, Google or Azure) using  many of the relevant technologies such as  Nifi, Spark, Kafka, HBase, Hive, Cassandra, EMR, Kinesis, BigQuery, DataProc, Azure Data Lake etc.  
+	- Minimum 2+ years of experience implementing SQL on Hadoop solutions using tools like Presto, AtScale and others
+	- Minimum 3+ years of architecting data and building performant data models at scale for Hadoop/NoSQL ecosystem of data stores to support different business consumption patterns off a centralized data platform  
+	- Minimum 3+ years of Spark/MR/ETL processing, including Java, Python, Scala, Talend; for data analysis of production Big Data applications
+	- Minimum 3++ years of architecting and industrializing data lakes or real-time platforms for an enterprise enabling business applications and usage at scale
+	- Minimum 2+ years of experience implementing large scale BI/Visualization solutions on Big Data platforms
+	- Minimum 3+ years of experience implementing large scale secure cloud data solutions using AWS data and analytics services e.g. S3, EMR, Redshift
+	- Minimum 2+ years of experience implementing large scale secure cloud data solutions using Google data and analytics services e.g. BigQuery, DataProc
+	- Minimum 2+ years of experience building data management (metadata, lineage, tracking etc.)  and governance solutions for modern data platforms that use Hadoop and NoSQL on premise or on AWS, Google and Azure cloud
+	- Minimum 2+ years of experience securing Hadoop/NoSQL based modern data platforms on-premise or on AWS, Google, Azure cloud
+	- Minimum 2+ years of Re-architecting and rationalizing traditional data warehouses with Hadoop or NoSQL technologies on premise or transition to AWS, Google clouds
+	- Experience implementing data wrangling and data blending solutions for enabling self-service solutions using tools such as Trifacta, Paxata
+	- 4 years industry systems development and implementation experience OR Minimum of 3 years of data loading, acquisition, storage, transformation, and analysis
+	- Minimum 2+ years of using Talend, Informatica like ETL tools within a Big Data environment to perform large scale metadata integrated data transformation
+	- Minimum 1+ years of building Business Catalogs or Data Marketplaces on top of a Hybrid data platform containing Big Data technologies
+	- Architect modern data solutions in a hybrid environment of traditional and modern data technologies such as Hadoop, NoSQL
+	- Create technical and operational architectures for these solutions incorporating Hadoop, NoSQL and other modern data technologies
+	- Implement and deploy custom solutions/applications using Hadoop/NoSQL
+	- Lead and guide implementation teams and provide technical subject matter expertise in support of the following:
+	- Designing, implementing and deploying ETL to load data into Hadoop/NoSQL
+	- Security implementation of a Hadoop/NoSQL solutions
+	- Managing data in Hadoop/NoSQL co-existing with traditional data technologies in a hybrid environment
+	- Troubleshooting production issues with Hadoop/NoSQL  
+	- Performance tuning of a Hadoop/NoSQL environment
+	- Architecting and implementing metadata management solutions around Hadoop and NoSQL in a hybrid environment
++ skill set:
+	- Work in an agile, CI/CD based, test-driven development environment
+	- Semantic Web (RDF/SPARQL)
++ skill set:
+	- At least 2 years designing and building healthcare data analysis solutions for the business payer or provider industry
+	- At least 2 years using new developments in AI, machine learning, cognitive systems, and robotics to build amazing analytical tools
+	- At least of 2 years working with tools like SAS, Python, SPSS, R, or SQL
+	- At least 2 years working with data integration tools to streamline processes in platforms like Cerner EMR, Apache Spark, MapReduce, MongoDB and Couchbase
+	- You can use data mining techniques to solve real world business problems
++ skill set:
+	- Project-based analytics including but not limited to: Machine Learning, Predictive Analytics, Comparative Effectiveness Analysis, Failure Analysis, Big Data Analytics, Optimization, Demand Forecasting, Customer Segmentation, Customer Analytic Record.
+	- Minimum 3 years’ experience with predictive analytics tools, including at least two of the following: R, SAS, Alteryx, Python, Spark, and Tableau.
+	- Experience in the following areas: Applied Statistics/Econometrics, Statistical Programming, Database Management & Operations, Digital, Comparative Effectiveness Research.
++ skill set:
+	- You've got a Master’s degree in statistics, econometrics, mathematics, or deep learning architectures including convolutional, recurrent, autoencoders, GAN’s, and ResNets
+	- You're a coding wizard with Python, C# (.NET), Scala, MxNet, CNTK, R, H2O, TensorFlow, PyTorch, cuDNN, NumPy, and SciPy
++ skill set:
+	- At least 4 years’ experience in deep learning, machine learning or artificial intelligence applications like virtual agent, robotic process automation and video/image/text analytics
+	- Minimum of 2 years’ experience in AI/ML/RPA functional expertise with developing use cases and building/leading Proofs of Concept
+	- At least 2 years architecting AI Pipelines orchestrating multiple analytics engines
++ skill set:
+	- Minimum 5 years of developing machine learning methods, including familiarity with techniques in clustering, regression, optimization, recommendation, neural networks, and other.
+	- Strong quantitative and analytical skills with minimum 3 years of experience with data science tools, including Python, R, Scala, Julia, or SAS
+	- Ability to technically lead data science projects
+	- Deadline-driven, organized and able to multi-task
+	- Familiarity with using cloud services (AWS, Google, Azure) or Big Data tools (Hadoop, Hive, Spark) in data science solutions
++ skill set:
+	- Proven experience with caching, queuing, RPC frameworks and other building blocks of a large scale distributed systems.
+	- Experience with NoSQL AWS data stores like DynamoDB, CloudSearch or their open source equivalents like Cassandra, HBase, Solr or ElasticSearch
+	- Experience with React or other modern javascript frameworks.
+	- Experience with MySQL, Redis, Memcache and related web-backend technologies.
+	- Experience with data pipelines (Kafka, AWS Kinesis, AWS Data Pipeline)
+	- Experience building web applications, widgets, or interactive experiences.
++ skill set:
+	- Project management skills - JIRA, roadmapping, etc.
+	- Experience with any of Ruby, Java, or modern web frameworks like React
++ skill set:
+	- Investigate the feasibility of applying scientific principles and concepts to business problems.
+	- Understand the Goodreads/Amazon data structures (MySQL/Data Lake/Redshift).
+	- Acquire data by building the necessary SQL ETL queries.
+	- Import processes through various company specific interfaces for RedShift and Data Lake storage systems.
+	- Analyze data for trends and input validity by inspecting univariate distributions, exploring bivariate relationships, constructing appropriate transformations, and tracking down the source and meaning of anomalies.
+	- Build models using statistical modeling, mathematical modeling, econometric modeling, network modeling, social network modeling, natural language processing, machine learning algorithms, genetic algorithms, and neural networks.
+	- Validate models against alternative approaches, expected and observed outcome, and other business defined key performance indicators.
+	- Develop metrics to quantify the benefits of a solution and influence project resources. Partner with Engineering/Data Engineering to improve the quality of existing data and bring additional data sources in line. Audit metric data and measure project progress and success. Build/automate reports/dashboards (in Tableau) that allow the business leaders to get a clear snapshot of their operations. Design and analyze A/B tests to quantify impact of customer-facing changes. Develop innovative experimental design and measurement methodologies to understand customer growth and business efficacy. Participate in discussions, team planning, office hours, and metric reviews. Design and implement scalable and reliable approaches to support or automate decision-making throughout the business. Communicate insights to the business partners, Goodreads leadership, and Amazon stakeholders, with an emphasis on clarity, completeness, and actionability.
++ skill set:
+	- Experience designing and operating very large Data Warehouses
+	- Deep understanding and knowledge of AWS stack - Redshift, EMR, S3
+	- Ability to work with search technologies such as Elasticsearch
+	- Knowledge of graph databases such as AWS Neptune
+
+
+
+
 
 
 
