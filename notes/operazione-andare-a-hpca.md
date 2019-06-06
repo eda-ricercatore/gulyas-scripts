@@ -3333,11 +3333,39 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Visual Basic .Net
 	- Windows
 	- Zend
-
-
-
-
-
++ skill set:
+	- You revel in building features quickly and iterating in a data-driven fashion
+	- You lay awake thinking about improving the design, implementation and maintenance of large software systems with millions of users
+	- Passion to hack social commerce
+	- Data & Relevancy engineers work on our massive semi-structured datasets. They have domain experience in data mining, information retrieval, or machine learning, and a strong system orientation. Key product initiatives include product feed relevance, ad targeting, information extraction, and recommendations.
+	- Infrastructure engineers scale a massive, highly-available platform end-to-end. They design distributed systems, validate performance, factor in security, and proactively monitor every corner of our stack. When things do go wrong, they are on-hand to fight the fires.
++ Hibernate ORM is an object-relational mapping tool for the Java programming language
++ skill set:
+	- Data/Model Validation Engineer
+	- We are looking for someone passionate about learning how machine learning systems are developed to assist with validating and processing training data to evolve our state of the art systems.
+	- Engage with software engineers on the Perception team to identify and collect training data to evolve our machine learning systems.
+	- Working with engineers on the Perception team, train new machine learning models and perform analysis to quantify how they perform based on changes to the training data sets.
+	- Provide feedback on tools and processes for efficient workflow of training data creation and validation.
++ skill set:
+	- Knowledge of robotics concepts and tools (ROS)
+	- Understanding of and ability to implement machine learning methods, particularly for applications in autonomous vehicle decision making and prediction
+	- Experience in production C++ development
++ skill set:
+	- Experience with Robotics perception
+	- At Starsky, the Perception team is responsible for processing sensor information and making it available to the other teams in a clean and consistent format. The models and algorithms developed aim to achieve robust real time detection and tracking of our truck and other objects in the local environment, including lane lines, vehicles, and pedestrians.
+	- As a Robotics Perception Engineer, you will be responsible for filtering, fusing and post-processing the outputs of different deep learning models and sensors. You will apply state of the art tracking and fusion algorithms which are robust to sensor noise and environmental variability. This requires working with teams across the driving stack to scope requirements and understand the strengths and limitations of different modules.
+	- Background in linear algebra, probability, 3D geometry
+	- Experience with multi-camera sensor fusion and camera-radar sensor fusion
+	- Experience with real time tracking of objects and lanes
+	- Experience with real time mapping and localization
+	- Experience with camera and radar sensor calibration
+	- Ability to write efficient real time algorithms in C++
+	- Experience in developing on linux environment
+	- 2+ years experience in C++/Python development in a fast paced production environment
+	- 2+ years experience in perception system of mobile robots
+	- Experience with ROS
+	- Experience in sensor noise analysis
+	- Experience in machine learning/deep learning
 
 
 
