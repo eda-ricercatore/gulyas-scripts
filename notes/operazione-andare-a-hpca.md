@@ -3128,12 +3128,211 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Demonstrated execution at a growth stage technology company.
 + skill set:
 	- If you are looking for an unparalleled opportunity to build the next generation big data processing platform, and learn how to launch hundreds of thousands of VMs a day at scale while running thousands of Kubernetes clusters, you have come to the right place. The platform team builds and manages the core systems powering Databricks, allowing it to seamlessly scale and run across various geographic regions/clouds, and making Databricks the go-to product for big data processing in the cloud.
-
-
-
-
-
-
+	- You will be a senior software engineer responsible for architecting scalable systems to power Databricks, making it the de-facto platform for running Big Data and AI workloads. You will build and extend the Databricks cloud platform, which is based on a micro service architecture and includes systems for managing thousands of Kubernetes clusters at scale, systems for streaming and consuming gigabytes of log data per minute, onboarding and managing thousands of data scientists on Databricks, scalable API gateway, rate limiting framework, network security and encryption, build infrastructure (we use Bazel), and scalable CI/CD framework among many others.
+	- Develop and extend the Databricks platform. This implies, among others, writing clean, efficient code in Scala or Python and/or interacting with: cloud APIs (e.g., compute APIs, cloud formation, Terraform), with open source and third party APIs and software (e.g., Kubernetes) and with different Databricks services
+	- Experience with cloud APIs (e.g., a public cloud such as AWS, Azure, GCP or an advanced private cloud such as Google, Facebook)
++ skill set:
+	- Develop and extend the Databricks product. This implies, among others, writing software in Scala, Python or Javascript and/or interacting with: cloud APIs (e.g., compute APIs, cloud formation, Terraform), with open source and third party APIs and software (e.g., Kubernetes) and with internal APIs.
++ skill set:
+	- Develop and extend the Databricks product. This implies, among others, writing software in Scala, Python, and Javascript, building data pipelines (Apache Spark, Apache Kafka), integrating with third-party applications, and interacting with cloud APIs (AWS, Azure, CloudFormation, Terraform).
+	- To achieve this, we build data reporting pipelines that support the underlying pricing infrastructure supporting tens to hundreds of millions of DBUs (Databricks Units) across multiple clouds and regions, UIs that allow Databricks administrators to view and manage their bill, and APIs and integrations to downstream processors to handle payments for all customers.
+	- Experience in architecting, developing, deploying, and operating large scale distributed systems.
+	- Experience with distributed data processing systems (Apache Spark, Apache Kafka).
+	- Experience with cloud APIs (e.g. a public cloud such as AWS, Azure, GCP, or an advanced private cloud such as Google, Facebook).
+	- Experience working on a SaaS platform or with Service-Oriented Architectures.
+	- Experience with API development.
+	- Good knowledge of SQL.
+	- Experience with software security and systems that handle sensitive data.
+	- Exposure to container technologies, such as Kubernetes, Docker.
+	- Unified Analytics Platform
++ skill set:
+	- Our team drives state-of-the-art, open source Delta Lake project bringing reliable, scalable, ACID transactions to Apache Spark and other Big Data engines. Our mission is to deliver a robust and performant engine that enables users to build reliable data pipelines that ingest massive data volumes, optimize data layout, generate metadata and evolve data schemas all while guaranteeing transactional correctness and high query performance.
+	- Build the core features that make Delta Lake the world’s best Big Data storage abstraction in terms of performance, stability, security and scalability.
++ [Delta Lake Community; Delta Lake is an open-source storage layer that brings ACID transactions to Apache Spark™ and big data workloads.](https://delta.io/)
++ Experience with our web stack (React, Redux, TypeScript, protobuf, Apollo, GraphQL) and Spark
++ skill set:
+	- You will build tools and features to make Databricks the best place for large-scale enterprise R workloads.
+	- Improve state of distributed R computing through Apache Spark and R integration on Databricks
+	- Implement new features on Databricks platform for R users (e.g., ACL)
+	- Improve and extend Databricks R notebooks to satisfy R users’ use cases and requirements
+	- Implement new R-based APIs on Databricks platform (e.g., secret management API)
+	- Expand Databricks workspace through integration with third-party tools such as RStudio and Shiny.
+	- Integrate critical packages from the R ecosystem into Databricks Runtime
+	- Provide engineering support and thought leadership to Databricks field engineering teams on R
+	- Give talks and write blog posts about R on Databricks
++ [MLflow, An open source platform for the machine learning lifecycle](https://mlflow.org/)
++ Production quality coding standards and patterns.
++ skill set:
+	- The Machine Learning Platform team is hiring strong engineers to help us design MLflow, an open source tool for managing the Machine Learning lifecycle. In this role you will help define the APIs creating the standard that organizations use to manage their Machine Learning, from tracking offline experimentation through deployment to production systems. You will also build the services supporting the APIs in the open source and their integration into the Databricks product, a unified analytics platform that helps manage data processing and machine learning workloads in a collaborative, enterprise grade product.
+	- Design new and extend existing components of MLflow, such as experiment tracking, project management, and model deployment
+	- Implement proprietary integrations of MLflow into the core Databricks product
+	- Be responsible for full software development lifecycle - design, development, testing, operating in production
+	- Architect solutions to achieve a high level of reliability, scalability and security
+	- Communicate effectively with other engineers in the same team, with other teams and with various other stakeholders such as product managers
+	- Mentor junior engineers or other engineers on the team to help level up their skillset
+	- 7+ years of production experience developing services in: Java, Scala, C++, Go, or Python
+	- Has designed and developed APIs used in production systems.
+	- Deployed production web services using container and orchestration technologies, such as Docker and Kubernetes to public or private clouds.
+	- Developed services leveraging SQL backend stores.
+	- Demonstrates customer obsession: has altered designs for frontend or APIs with the user experience in mind
+	- Developed and debugged software running on Linux OS
+	- Experience with Continuous Integration/Continuous Deployment frameworks.
+	- Preferred Experience working on a SaaS platform or with Service Oriented Architectures
+	- Preferred Experience with software security and systems that handle sensitive data
++ skill set:
+	- Develop and extend the Databricks product. This implies, among others, writing software in Scala, Python, and Javascript, building data pipelines (Apache Spark, Apache Kafka), integrating with third-party applications, and interacting with cloud APIs (AWS, Azure, CloudFormation, Terraform).
+	- Experience in architecting, developing, deploying, and operating large scale distributed systems.
+	- Experience with distributed data processing systems (Apache Spark, Apache Kafka).
+	- Experience with cloud APIs (e.g. a public cloud such as AWS, Azure, GCP, or an advanced private cloud such as Google, Facebook).
+	- Experience working on a SaaS platform or with Service-Oriented Architectures.
+	- Experience with API development.
+	- Good knowledge of SQL.
+	- Experience with software security and systems that handle sensitive data.
+	- Exposure to container technologies, such as Kubernetes, Docker.
++ Build system experience like Maven, Bazel, or Gradle
++ skill set:
+	- We've built features such as autoscaling compute and storage, credential passthrough and notebook-scoped libraries, that simplify resource administration in the cloud, secure data in the enterprise and empower data scientists an data engineers in their organizations. You have the opportunity to join us and solve the infrastructure and data management problems of enterprises as they transition from on-prem data centers to the future of the cloud.
+	- JVM or lower-level programming languages for systems programming.
+	- Experience with services infrastructure.
+	- Experience with distributed systems, databases, and big data systems.
+	- Experience with cloud APIs preferred (e.g., a public cloud such as AWS, Azure, GCP or an advanced private cloud such as Google, Facebook)
+	- Exposure to container technologies, such as Docker preferred
++ skill set:
+	- As a Software Engineer on the Spark Benchmarking team at Databricks, you are responsible for ensuring that the Databricks Runtime is the world’s best Spark execution environment in terms of performance and scalability.
+	- You will be part of the team that is continuously improving the methodology and benchmarking infrastructure, helping to increase the frequency of the releases while maintaining high quality and performance standards. Continuously improving performance is an increasingly challenging job given the high volume of commits that go into a release. In order to meet this challenge, your team will continuously increase the level of automation and provide powerful benchmarking tools to evaluate the performance impact of each change. Engineers on the Spark Benchmarking team also drive the Databricks runtime performance sign-off process, they are the gatekeepers making sure that all performance regressions are addressed before a new version is released.
+	- Experience with: Large scale distributed computing, Big Data engines e.g. Spark, Hadoop.
+	- Passion for software automation and Continuous Integration experience.
+	- Excellent communication and teamwork.
+	- Strong foundation in algorithms and data structures and their real-world use cases.
+	- Solid understanding of computer systems and networks.
+	- Production quality coding standards and patterns.
+	- 4+ years of general software programming experience.
+	- 4+ years of modern, production level experience in one of: Java, Scala, JavaScript, or C++.
+	- BS in Computer Science, Math, related technical field or equivalent practical experience.
+	- Experience with benchmarking big data systems
+	- Experience with developing infrastructure for testing distributed systems
++ skill set:
+	- Experience with: Large scale distributed computing, Big Data engines e.g. Spark, Hadoop.
+	- Passion for software automation and Continuous Integration experience.
+	- Excellent communication and teamwork.
+	- Strong foundation in algorithms and data structures and their real-world use cases.
+	- Solid understanding of computer systems and networks.
+	- Production quality coding standards and patterns.
+	- 4+ years of modern, production level experience in one of: Java, Scala, JavaScript, or C++.
+	- Experience with benchmarking big data systems
+	- Experience with developing infrastructure for testing distributed systems
++ skill set:
+	- Full ownership including: Designing, Implementing, Testing and Metric Analysis.
+	- Production quality coding standards and patterns.
++ skill set:
+	- The workflow team operates at the core of the Databricks infrastructure: it orchestrates all the workloads scheduled by the customers of Databricks, from the one-off experiment to the massive multi-day query running on hundreds of machines. As part of this team, you will be responsible for maintaining mission-critical operations, and at the same time pushing the boundary in terms of integrating with innovative AI solutions built on top of the Databricks platform. The responsibility covers mainly the backend service itself and all its adjacent functions, from low-level systems in Scala to dashboards and health monitoring, and public APIs for remote management.
+	- We are looking for talented engineers who are passionate about large-scale, high availability systems, and who want to make a strong impact on the growth of the company.
+	- Maintain the existing backend of Databricks' core scheduling service
+	- Own (as a team) the alerting and deployment systems around the backend
+	- Scale the scheduling service by 10x
+	- Own the testing infrastructure of the backend.
+	- Architect the workflow management component of Databricks
+	- 3+ years of experience with backend systems written in java, scala, go, or c++
+	- Deep understanding of high-concurrency, reliable services
+	- Production quality coding standards and patterns
+	- Strong foundation in algorithms and data structures and their real world use cases
+	- Experience with SAAS/PAAS services (experience with developing cloud-based services strongly desirable)
+	- Experience working on complex, data-heavy applications
+	- Experience instrumenting services
++ skill set:
+	- As a DevOps Engineer at Simbe Robotics you will be part of a talented team ensuring quality in our software as well deploying & managing our cloud services and world-wide fleet of autonomous robots.
+	- Has experience with automated build and continuous integration systems (e.g. Jenkins, TravisCI)
+	- Has knowledge of application/system level monitoring (Nagios, CloudWatch, Munin, Splunk)
+	- Experience with configuration management (Chef, Puppet, Ansible) tools
+	- Has experience with various application packaging and deployment technologies (Debian packages, Docker/Linux containers)
+	- Experience configuring web servers (e.g. Apache/Tomcat, nginix)
++ Working on the robot’s navigational systems for mapping, localization, path planning, obstacle detection and avoidance. Our robots are designed to work safely and reliably alongside shoppers and employees during normal store hours.
++ programming languages, frameworks and tools
+	- .Net
+	- .Net Framework
+	- ABAP
+	- Ada
+	- Akka
+	- Alice
+	- AngularJS
+	- Ansible
+	- Apex
+	- ASP.net
+	- assembly language
+	- Awk
+	- Backbone.js
+	- Bash
+	- C
+	- C\#
+	- C++
+	- CakePHP
+	- CFEngine
+	- Chef
+	- Clojure
+	- COBOL
+	- Codeigniter
+	- CSS
+	- D
+	- Dart
+	- Delphi/Object Pascal
+	- Django
+	- Docker
+	- Ember.js
+	- Erlang
+	- Express.js
+	- F\#
+	- Flask
+	- Fortran
+	- Go
+	- Groovy
+	- Haskell
+	- HTML
+	- Java
+	- JavaScript
+	- jQuery
+	- Kubernetes
+	- Ladder Logic
+	- Linux
+	- Lisp
+	- Logo
+	- Lua
+	- Matlab
+	- Meteor
+	- MQL4
+	- Nagios
+	- NodeJS
+	- Objective-C
+	- Perl
+	- Phalcon
+	- PHP
+	- Play!
+	- Prolog
+	- Puppet
+	- Python
+	- Q
+	- R
+	- React
+	- Redux
+	- Revel
+	- Rkt
+	- RPG (OS/400)
+	- Ruby
+	- Ruby on Rails
+	- Rust
+	- RxJS
+	- SAS
+	- Scala
+	- Scheme
+	- Scratch
+	- Spring Framework
+	- SQL
+	- Swift
+	- Symxfony
+	- VHDL
+	- Visual Basic
+	- Visual Basic .Net
+	- Windows
+	- Zend
 
 
 
