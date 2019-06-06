@@ -3366,6 +3366,68 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Experience with ROS
 	- Experience in sensor noise analysis
 	- Experience in machine learning/deep learning
++ skill set:
+	- Starsky Robotics is looking for a full-time Senior Data Scientist. Your job will tackle a wide variety of problems in autonomous vehicles. From finding every time a car cut in front of our truck, to figuring out how to report on the quality of autonomous driving, to creating new tools and statistical methods for robotics engineers to characterize the behavior of their systems, we’re looking for someone motivated to attack self-driving problems with mounds of data. Tackling these problems will require learning about the whole suite of robotics fields applied to make autonomous vehicles: motion planning, controls, perception, and behavior planning.
+	- You’ll own high-level decisions such as “How do we determine if a route fits our current driving capabilities”. Day-to-day projects may have mission statements as technical as “Help us solve this spike in cross-track error on curves”, or as business-focused as “Can we get a heatmap of all the places our trucks have driven over the last year”.
+	- Additionally, you can bring best-practices for data-science to the company, including helping build up the base platform and infrastructure necessary to speed up data-centric work. Starsky has a solid base of tooling around our data, but it is ripe for improvement.
+	- Demonstrated expertise in the data scientists modern toolkit: Pandas, R, SQL, etc, and don’t mind sharing your experience with the team
+	- Deep quantitative thinker: Masters or PhD in a quantitative field, or multiple years of experience in a quantitative-focused position
+	- Relish delivering answers and metrics and seeing change affected by your work
+	- Can take high level directives and take them through from research project, proof of concept, to applied & implemented feature.
+	- Are constantly looking for problems that could be solved with liberal application of data
++ skill set:
+	- Develop pipeline for data tagging, labelling and munging to be consumed for training of ML models for vision based tasks.
+	- Architect and train machine learning models for object detection and tracking
+	- Build testing environment to test the model and simulate edge-case performance scenarios
+	- Experience with at-least one of Tensorflow/Caffe/Theano/Torch
++ skill set:
+	- Qt (or PyQt)
+	- Microcontroller firmware
++ Infrastructure as code experience (we use terraform)
++ Knowledge of TypeScript, React, Jest, Cypress is a plus
++ Background in linear algebra, probability, 3D geometry and abstract problem solving skills
++ Experience in Computer Vision / Computational Geometry / Structure from Motion / SLAM
++ advanced optimization algorithms:
+	- Evolutionary Algorithms
+	- surrogate model optimization
+	- particle swarm optimization
+	- Bayesian optimization
++ [Numerical Library](https://en.wikipedia.org/wiki/List_of_numerical_libraries)
++ skill set:
+	- Experience in developing and debugging multi-threaded/parallel applications.
+	- Experience in image processing, computational geometry, large data application, high performance computing and scientific simulation is a good plus.
++ Research, evaluate, and present statistical or Machine Learning methods to provide actionable insights.
++ Direct or indirect experience in OPC (Optical Proximity Correction), including rogorious lithography simulation (Hyperlith, Prolith), RET, and advanced mask technology.
++ AWS DynamoD
++ Enforce SOX & GDPR compliance across the analytics database and reporting tools
++ Solid understanding of imaging theories (Abbe, Hopkins).
+	- Abbe-PCA (Abbe-Hopkins): microlithography aerial image analytical compact kernel generation based on principle component analysis
+	- Hybrid Hopkins-Abbe method for modeling oblique angle mask effects in OPC
+	- Application of the hybrid Hopkins–Abbe method in full-chip OPC
+	- transmission cross coefficients (TCCs)
++ Good grasp of statistical concepts (e.g. hypothesis testing, regression)
++ Love Github, Slack, Asana, AWS, Meteor, Node
++ skill set:
+	- Experience with data processing frameworks and data warehouses such as Hadoop, Spark, Redshift
+	- Experience with designing, implementing, and optimizing ETL in Pentaho
++ skill set:
+	- Technical fluency in one language and tool such as Python, Java or Scala, AWS (S3/EMR/Athena/Glue) and SQL.
+	- Experience with big data processing tools including Spark, Hadoop, Hive, Yarn, and Airflow.
+	- Experience working with either a MapReduce system of any size/scale.
++ skill set:
+	- GatsbyJS
+	- ElasticSearch
+
+
+
+
+
+
+
+
+
+
+
 
 
 
