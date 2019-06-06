@@ -3481,14 +3481,60 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Geometry from Vision is at the heart of Scape Technologies. As a research engineer on the Scape Technologies team, you will take a key role in designing and building the pipeline for cloud-based 3D-reconstruction and real-time global localization. This will require implementing and building upon existing research in Structure-from-Motion, Dense 3D-reconstruction, Camera Calibration and SLAM.
 	- This can range from non-linear optimization to efficient graph traversal, considering optimized computational parallelization.
 	- Making sure that Scape’s large scale reconstruction and localization pipeline is the most efficient in the world.
-	- We are looking for curious and enthusiastic computer vision scientists who are keen on working on moonshot projects. 
-
-
-
-
-
-
-
+	- We are looking for curious and enthusiastic computer vision scientists who are keen on working on moonshot projects.
++ skill set:
+	- 7+ years Experience with large-scale distributed systems and client-server architectures.  Examples include Java/Spring Boot, CQRS, event streaming, Kafka, Spark
+	- Deep experience with Cloud Computing platforms (e.g. Amazon AWS, Microsoft Azure, Google App Engine)
+	- Knowledge and understanding of relevant legal and regulatory requirements, such as SOX, PCI, HIPAA, Data Protection, etc.
+	- Demonstrated experience implementing and managing high capacity, redundant, and mission critical environments
+	- Knowledge in databases and comfortable with various databases technologies.  Examples include relational database (Oracle) and/or NoSQL data technologies (Mongo, Cansandra, Couchbase) and related toolsets.
+	- Proficiency in TCP/IP networking, architecture and core technologies ( DNS, routing, iptables, tc, etc.)
+	- Experience running and maintaining a 24x7 production environment
++ skill set:
+	- Demonstrates knowledge of the data engineering domain with experience in building and supporting non-interactive (batch, distributed) or real-time, highly available data, data pipelines.
+	- Able to build fault tolerant, self-healing, adaptive computational pipelines
+	- Contribute to the decision-making process related to the selection of software solutions that make up the architecture
++ skill set:
+	- At least 5 years demonstrated results in areas of Operations Research and/or Supply Chain Projects (inventory optimization, network design, and S&OP) in sophisticated and complex environments including the use of simulation and modeling tools (Llamasoft, CPLEX, Gurobi, or other similar)
+	- At least 5 years performing data analytics and modeling with advanced languages (e.g. Python or R)
++ skill set:
+	- Minimum of 3 years’ delivery experience in advanced modeling environment: strong understanding of statistical concepts and predictive modeling. (e.g., AI neural networks, multi-scalar dimensional models, logistic regression techniques, machine-based learning, big data platforms, SQL, etc.).
+	- Minimum 3 years’ experience with predictive analytics tools, including at least two of the following: R, SAS, Alteryx, Python, Spark, and Tableau.
+	- Experience in the following areas: Applied Statistics/Econometrics, Statistical Programming, Database Management & Operations, Digital, Comparative Effectiveness Research.
+	- Possess a blend of marketing acumen, consulting expertise and analytical capabilities that can create value and insights for our clients.
++ skill set:
+	- Minimum 2+ years of expertise in designing, implementing large scale data pipelines for data curation and analysis, operating in production environments, using Spark, pySpark, SparkSQL, with  Java, Scala or Python on premise or on Cloud (AWS, Google or Azure)
+	- Minimum 1 year of designing and building performant data models at scale for using Hadoop, NoSQL, Graph or Cloud native data stores and services.
+	- Minimum 1 year of designing and building secured Big Data ETL pipelines, using Talend or Informatica Big Data Editions; for data curation and analysis of large scale production deployed solutions.
+	- Minimum 6 months of expertise in implementation with Databricks.
+	- Experience in Machine learning using Python ( sklearn) ,SparkML , H2O and/or SageMaker.
+	- Knowledge of Deep Learning (CNN, RNN, ANN) using TensorFlow.
+	- Knowledge of Auto Machine Learning tools ( H2O, Datarobot, Google AutoML).
+	- Minimum 2 years designing and implementing large scale data warehousing and analytics solutions working with RDBMS (e.g. Oracle, Teradata, DB2, Netezza,SAS) and understanding of the challenges and limitations of these traditional solutions.
+	- Minimum 1 year of experience implementing SQL on Hadoop solutions using tools like Presto, AtScale, Jethro and others.
+	- Minimum 1 year of experience building data management (metadata, lineage, tracking etc.)  and governance solutions for big data platforms on premise or on AWS, Google and Azure cloud.
+	- Minimum 1 year of Re-architecting and rationalizing traditional data warehouses with Hadoop, Spark or NoSQL technologies on premise or transition to AWS, Google clouds.
+	- Experience implementing data preparation technologies such as Paxata, Trifacta, Tamr for enabling self-service solutions.  
+	- Minimum 1 year of building Business Data Catalogs or Data Marketplaces on top of a Hybrid data platform containing Big Data technologies (e.g  Alation, Informatica or custom portals).
++ You’re familiar with business intelligence reporting platforms like OBIEE, Tableau, MicroStrategy, and Business Objects
++ skill set:
+	- You know how to work with data engineering technologies like Spark, no SQL DB or Lambda
+	- You know everything there is to know about Robotic Process Automation
+	- A minimum of 7 years experience in deep learning, machine learning or artificial intelligence applications like virtual agent, RPA, or video/image/text analytics
++ skill set:
+	- Minimum 2+ years of expertise in designing, implementing large scale data pipelines for data curation and analysis, operating in production environments, using Spark, pySpark, SparkSQL, with  Java, Scala or Python on premise or on Cloud (AWS, Google or Azure)
+	- Minimum 1 year of designing and building performant data models at scale for using Hadoop, NoSQL, Graph or Cloud native data stores and services.
+	- Minimum 1 year of designing and building secured Big Data ETL pipelines, using Talend or Informatica Big Data Editions; for data curation and analysis of large scale production deployed solutions.
+	- Minimum 6 months of experience designing and building data models to support large scale BI, Analytics and AI solutions for Big Data.
+	- Knowledge of Auto Machine Learning tools ( H2O, Datarobot, Google AutoML).
+	- Minimum 6 months of expertise in implementation with Databricks.
+	- Experience in Machine learning using Python ( sklearn) ,SparkML , H2O and/or SageMaker.
+	- Minimum 2 years designing and implementing large scale data warehousing and analytics solutions working with RDBMS (e.g. Oracle, Teradata, DB2, Netezza,SAS) and understanding of the challenges and limitations of these traditional solutions.
+	- Minimum 1 year of experience implementing SQL on Hadoop solutions using tools like Presto, AtScale, Jethro and others.
+	- Minimum 1 year of experience building data management (metadata, lineage, tracking etc.)  and governance solutions for big data platforms on premise or on AWS, Google and Azure cloud.
+	- Minimum 1 year of Re-architecting and rationalizing traditional data warehouses with Hadoop, Spark or NoSQL technologies on premise or transition to AWS, Google clouds.
+	- Experience implementing data preparation technologies such as Paxata, Trifacta, Tamr for enabling self-service solutions.  
+	- Minimum 1 year of building Business Data Catalogs or Data Marketplaces on top of a Hybrid data platform containing Big Data technologies (e.g  Alation, Informatica or custom portals).
 
 
 
