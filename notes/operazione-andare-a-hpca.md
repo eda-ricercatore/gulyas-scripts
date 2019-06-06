@@ -3417,16 +3417,71 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 + skill set:
 	- GatsbyJS
 	- ElasticSearch
-
-
-
-
-
-
-
-
-
-
++ skill set:
+	- Experience in development using MEAN stack (Node.js, Angular.js, Express.js, MongoDB)
+	- Data exchange technologies like JSON
+	- Familiarity with No SQL databases (i.e. MongoDB, Hadoop, Hive Spark, etc.), data streaming and integrating unstructured data will be plus.
+	- Exposure to rules engines e.g. drools, ESBs e.g. MuleSoft & integration with enterprise systems
+	- Highly preferred Web UI or dashboarding experience (ie CSS, HTML, Tableau, Qlik, etc.
+	- Knowledge and hands on experience on implementation of Chatbot using Microsoft Bot Framework, API.AI or Watson
+	- Experience working in a DevOps environment, and using industry standard tools (GIT/OneStash, JIRA)
++ skill set:
+	- Minimum 3 years of designing, building and operationalizing large scale enterprise data solutions and applications using one or more of Azure / AWS / GCP data and analytics services in combination with custom solutions -  Spark, Azure Data Lake, HDInsights, SQL DW, DocumentDB, Search, Elastic Pool etc.  
+	- Minimum 3 years experience introducing and operationalizing self-service data preparation tools (e.g. Trifacta, Paxata) on AZURE.
++ skill set:
+	- Big Data platforms e.g. Cloudera, Hortonworks MapR
+	- Big Data Analytic frameworks and query tools such as: HDINsight, Spark, Storm, Hive, Impala
+	- IoT protocols, gateways, queues, messaging hubs such as IoT Hub, MQTT, XMPP, CoAP, etc.
+	- IoT development experience on at least one of the industry leading platforms (Azure IoT, AWS IoT, GE Predix, Siemens Mindsphere, PTC Thingworx, SAP Leonardo, GCP)
+	- Streaming data tools and techniques such as Apache Kafka, Azure Streaming Analytics, AWS Kinesis
++ skill set:
+	- Experienced and interested in Ruby, Elixir, Java, Python, Node.JS, Phoenix Elixir, or other backend programming language or framework
++ skill set:
+	- Minimum 1 year of building and coding applications using at least two Hadoop components – MapReduce, HDFS, Hbase, Pig, Hive, Spark, Scoop, Flume, etc
+	- Minimum 1 year coding one of the following: Python, Pig programming, Hadoop Streaming, HiveQL
+	- Minimum 1 year understanding of data modelling & data pipeline design: iterative data pipeline development from raw, curated, integrated to published data, with fit for use data modelling on Hadoop and NoSQL platforms
+	- Minimum 1 year of experience implementing large scale cloud data solutions using Cloud Service Providers:  AWS data services (e.g. EMR, Redshift, GLUE) or Azure (Data Lake Store/Analytics, SQL Data Warehouse) or Google Cloud Platform Google Cloud (Big Data:  Big Query, Big Insights)
+	- Minimum 1 year of experience delivering an operational Big Data solution using one or more of the following technologies: Hadoop, HortonWorks, Cloudera, Cassandra
+	- Minimum 1 year of experience throughout the SDLC of a Hadoop implementation technologies including HortonWorks, Cloudera, Hive, Pig, MapReduce 
+	- Minimum 1 year of experience throughout the SDLC of a HortonWorks, Cloudera, Cassandra / Hbase implementation 
+	- Minimum of a Bachelor’s Degree or 3 years IT/Programming experience
+	- Minimum 1 year of experience developing REST web services
+	- Industry experience (financial services, resources, healthcare, government, products, communications, high tech)  
+	- Experience leading teams
+	- Machine Learning tools, interfaces & Libraries: R, R-Studio, Spark R, sparklyr, MLlib, H2O etc.  
+	- Experience with other tools, databases and Apache projects: Google BigQuery, Presto, Drill, Kylin, OpenTSDB, Spark Streaming
+	- Enterprise data integration, BI and analytics platforms: Informatica, Talend, InfoSphere, SAS, RevoR, QlikView, Qlik Sense, Tableau, Spotfire, D3.js
+	- Processing frameworks & programming tools: Spark (Scala/Python/Java), Kafka, Flink
+	- Client facing skills: ability to build trusted relationships with client stakeholders and act as a trusted adviser
++ skill set:
+	- Familiarity with No SQL databases (i.e. MongoDB, Hadoop, Hive Spark, etc.), data streaming and integrating unstructured data will be plus.
+	- Experience working in a DevOps environment, and using industry standard tools (GIT/OneStash, JIRA)
+	- Exposure to rules engines e.g. drools, ESBs e.g. MuleSoft & integration with enterprise systems
++ Experience with higher education SIS and LMS systems (Banner, Colleague, Jenzabar, Canvas, Blackboard, etc.) strongly preferred
++ Experience with monitoring and tracking tools such as  Splunk, NewRelic, Adobe/Google Analytics
++ Experience with relational databases (MySQL, DB2 or Oracle) and NoSQL databases (Redis, Cassandra or DynamoDB)
++ skill set:
+	- Experience with Java, Spring Boot
+	- Experience with React, Backbone, Marionette or equivalent framework
+	- Experience with Protractor, RSpec or equivalent integration test framework
+	- Experience with relational databases (MySQL, DB2 or Oracle) and NoSQL databases (DynamoDB) is a plus
++ skill set:
+	- Knowledge of ETL, Map Reduce and pipeline tools (Glue, EMR, Spark)
+	- Experience with large or partitioned relational databases (Aurora, MySQL, DB2)
+	- Experience with NoSQL databases (DynamoDB, Cassandra)
+	- Experience with data streaming technologies (Kinesis, Storm, Kafka, Spark Streaming) and real time analytics
+	- Other preferred experience includes working with DevOps practices, SaaS, IaaS, code management (CodeCommit, git), deployment tools (CodeBuild, CodeDeploy, Jenkins, Shell scripting), and Continuous Delivery
+	- Experience with large or partitioned relational databases (Aurora, MySQL, DB2)
+	- Experience with data streaming technologies (Kinesis, Storm, Kafka, Spark Streaming) and real time analytics
+	- Primary AWS development skills include S3, IAM, Lambda, RDS, Kinesis, APIGateway, Redshift, EMR, Glue, and CloudFormation
++ skill set:
+	- A fascination with the PoseNet research since its release in 2015.
+	- Fundamental understanding of Bundle Adjustment or Non-Linear Optimization.
+	- PhD or exceptional MSc involving 3D-Reconstruction, SLAM, Camera Calibration or Computational Geometry from a top ranking university or lab.
+	- Geometry from Vision is at the heart of Scape Technologies. As a research engineer on the Scape Technologies team, you will take a key role in designing and building the pipeline for cloud-based 3D-reconstruction and real-time global localization. This will require implementing and building upon existing research in Structure-from-Motion, Dense 3D-reconstruction, Camera Calibration and SLAM.
+	- This can range from non-linear optimization to efficient graph traversal, considering optimized computational parallelization.
+	- Making sure that Scape’s large scale reconstruction and localization pipeline is the most efficient in the world.
+	- We are looking for curious and enthusiastic computer vision scientists who are keen on working on moonshot projects. 
 
 
 
