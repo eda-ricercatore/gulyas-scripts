@@ -3611,6 +3611,116 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Deep understanding and knowledge of AWS stack - Redshift, EMR, S3
 	- Ability to work with search technologies such as Elasticsearch
 	- Knowledge of graph databases such as AWS Neptune
++ Lead evaluate of next generation technologies by conducting RFI, RFP, and POCs.
++ skill set:
+	- Ideal candidates have a strong background in one or more of the following fields: deep learning, machine learning, natural language processing, computer vision, or reinforcement learning. Additionally, applicants should have in-depth experience with one or more of text categorization, text summarization, information extraction, question answering, dialogue learning, machine translation, language and vision, image classification, image segmentation, or object detection.
+	- Candidates should have a strong publication record in top-tier conferences or journals (e.g. NIPS, ICML, ICLR, ACL, CVPR, KDD, PAMI, JMLR, TACL, IJCV).
+	- In addition to their own research agenda, senior research scientists will have the opportunity to take on additional responsibilities leading project teams, mentoring interns, and advising junior research scientists.
+	- Participate in cutting edge research in machine intelligence and machine learning applications.
+	- Develop solutions for real world, large scale problems.
+	- Find and build ambitious, long-term research goals.
+	- As needed or desired, lead teams to deliver on more complex pure and applied research projects.
+	- Strong publication record in machine learning, NLP, computer vision, reinforcement learning, or optimization, especially at venues like NIPS, ICML, ICLR, ACL, and CVPR.
+	- Experience with one or more deep learning libraries and platforms (e.g., TensorFlow, Caffe, Chainer or PyTorch).
++ skill set:
+	- Solid Machine Learning background and familiarity with standard speech processing and machine learning techniques
+	- Experience with one or more deep learning libraries and platforms (e.g., TensorFlow, Caffe, Chainer or PyTorch).
+	- Industry or academic experience in deep learning research.
+	- Strong publication record in top-tier conferences or journals (e.g. NIPS, ICML, ICLR, ACL, EMNLP, CVPR, ICCV, KDD, PAMI, JMLR, TACL, IJCV).
++ skill set:
+	- You have industry experience with writing code (e.g., Python, Scala, PySpark, Java) and taking ML models/ algorithms to production. Preference for 5+ years of industry experience (without PhD); at least 2-3+ years of industry experience with PhD. This is not an entry level / new college graduate role.
+	- Experience with Apache Spark platform (including Datasets, SparkML) and/or experience with one or more deep learning libraries and platforms (e.g., TensorFlow, Caffe or PyTorch).
++ skill set:
+	- **Salesforce Research and Einstein.AI (formerly MetaMind) are looking for extraordinary deep learning or research engineers.**
+	- As a deep learning or research engineer, you will work with research scientists and engineers to develop and productize new cutting edge models and associated artifacts such as data preparation pipeline and model characterization logic. You will ensure these models are developed to support accuracy, performance or other specific customer requirements.
+	- You will work with platform team to support deployment of these models. In other words, you are problem solver, a deep learning model designer, and an engineer who makes sure the model is deployed at scale to serve our customers with state-of-the-art speech, vision, and language technologies.
+	- You have a strong background in one or more of the following fields: deep learning, machine learning, natural language processing, computer vision, voice, or reinforcement learning. Additionally, applicants should have in-depth experience with problems such as text categorization, information extraction, question answering, text summarization, dialogue learning, machine translation, language and vision, image classification, image segmentation, or object detection.
+	- Partner with product managers to understand customer requirements
+	- Conduct research (including reviewing relevant literature) and collaborate with our research team to identify appropriate solution candidates
+	- Develop prototypes, then design and carry out experiments to validate and improve the prototypes
+	- Bring the ideas to production
+	- Monitor model behaviors in production and iteratively improve quality of services over time
+	- Work on cutting-edge research in machine learning
+	- MA/MS or PhD degree in computer science, artificial intelligence, machine learning, speech recognition, natural language processing, or related technical field such as operations research, computational mathematics, etc.
+	- Research experience or contributions in deep learning, machine learning, NLP, computer vision, reinforcement learning, or optimization.
+	- Solid Machine Learning background and familiarity with machine learning techniques
+	- Problem solving and ability to reuse, customize, and implement latest research
+	- Experience with one or more general purpose programming languages including but not limited to: Python, Java, C/C++
+	- Experience with one or more deep learning libraries and platforms (e.g., TensorFlow, Caffe, or PyTorch)
+	- Industry experience in deep learning research
+	- Can thrive in team environments; using agile methodology and interacting with Product Leaders, Scientists and Engineers to solve technology's greatest challenges
+	- In particular, we are looking for experienced engineers with Deep Learning experience and domain expertise around Automatic Speech Recognition (ASR), Natural Language Understanding (NLU), and Vision to provide the best possible experience for our customers.
+	- Experience designing and implementing machine learning pipelines in production environments.
+	- Experience in building speech recognition and natural language processing systems (e.g. commercial or government-funded speech products) is a huge plus.
+	- We value professional industry experience; advanced degrees alone do not replace real world experience.
+	- Excellent communication, leadership, and collaboration skills.
++ skill set:
+	- Ideal candidates have a strong background in one or more of the following fields: deep learning, machine learning, natural language processing, computer vision, or reinforcement learning. Additionally, applicants should have in-depth experience with one or more of text categorization, text summarization, information extraction, question answering, dialogue learning, machine translation, language and vision, image classification, image segmentation, or object detection.
+	- Candidates should have a strong publication record in top-tier conferences or journals (e.g. NIPS, ICML, ICLR, ACL, CVPR, KDD, PAMI, JMLR, TACL, IJCV).
+	- In addition to their own research agenda, senior research scientists will have the opportunity to take on additional responsibilities leading project teams, mentoring interns, and advising junior research scientists.
+	- Strong publication record in machine learning, NLP, computer vision, reinforcement learning, or optimization, especially at venues like NIPS, ICML, ICLR, ACL, and CVPR.
+	- Experience with one or more general purpose programming languages including but not limited to C/C++ or Python.
+	- Experience with one or more deep learning libraries and platforms (e.g., TensorFlow, Caffe, Chainer or PyTorch).
++ skill set:
+	- As a research engineer at Salesforce Research, your role will be at the intersection of software engineering and research, and may range from implementing novel research models to rapid-prototyping demos that show off applications of deep learning on production data. You will work closely with research scientists to develop models, prototypes, and experiments that push the state of the art in AI research, paving the way for innovative products for the Einstein AI Platform. You will have the opportunity to take on real-world problems from Salesforce’s enterprise customers with the latest deep learning models.
+	- You have strong programming skills and a background in one or more of the following domains: deep learning, machine learning, natural language processing, or computer vision, with applications such as: text categorization, text summarization, sentiment analysis, information extraction, question answering, dialogue learning, language and vision, image classification, image segmentation, and object detection.
+	- Knowledge of linear algebra, calculus, statistics, and machine learning.
+	- Practical experience in natural language processing, computer vision, crowdsourcing, or information retrieval.
+	- Exposure to industry or academic research, particularly in deep learning, neural networks, or related fields.
+	- Experience with one or more deep learning libraries and platforms (e.g., TensorFlow, Caffe, Chainer or PyTorch).
+	- Experience with Amazon Web Services and Mechanical Turk.
+	- Strong computer systems experience in topics such as filesystems, server architectures, and distributed systems.
+	- Experience in GPU programming, data visualization, or web development.
++ skill set:
+	- Ideal candidates have a strong background in one or more of the following fields: deep learning, machine learning, natural language processing, computer vision, or reinforcement learning. Additionally, applicants should have in-depth experience with one or more of text categorization, text summarization, information extraction, question answering, dialogue learning, machine translation, language and vision, image classification, image segmentation, object detection or reinforcement . Our postdoctoral researchers have the ability to give talks, attend conferences and build relationships with academic institutions if desired.
+	- Collaborate on research to advance the science and technology of artificial intelligence.
+	- Contribute to cutting edge research projects in machine intelligence and machine learning applications that can be infused into our world-class CRM.
+	- Develop solutions for real world, large scale problems.
+	- Influence progress of relevant research communities by producing publications.
+	- Find and build ambitious, long-term research goals.
+	- As needed or desired, lead teams to deliver on more complex pure and applied research projects.
+	- Create a year long project proposal with research managers.
+	- First-author publications at AI conferences and journals (e.g. NIPS, ICML, ICLR, ACL, CVPR, KDD, PAMI, JMLR, TACL, IJCV).
++ skill set:
+	- Salesforce Research Asia is looking for outstanding research interns. Ideal candidates have a strong background in one or more of the following fields:
+		* deep learning,
+		* machine learning,
+		* natural language processing,
+		* computer vision,
+		* speech recognition, or
+		* reinforcement learning
+	- Applied to, for example: text categorization, text summarization, information extraction, question answering, dialogue systems, language and speech, machine translation, language and vision, image classification, object detection, or image semantic segmentation, etc.
+	- Candidates that have published in top-tier conferences or journals (e.g. NIPS, ICML, ICLR, ACL, EMNLP, CVPR, ICCV, ECCV, SIGKDD, PAMI, JMLR, TACL, IJCV) are preferred.
+	- Excellent understanding of deep learning techniques, i.e., CNN, RNN, LSTM, GRU, attention models, and optimization methods
+	- Experience with one or more deep learning libraries and platforms, e.g. PyTorch, TensorFlow, Caffe, or Chainer
+	- Strong background in machine learning, natural language processing, speech, computer vision, or reinforcement learning
+	- Strong algorithmic problem solving skills
+	- Programming experience in Python, Java, C/C++, Lua, or a similar language
++ skill set:
+	- Salesforce Research (previously MetaMind) is looking for outstanding research interns. Ideal candidates have a strong background in one or more of the following fields:
+		* deep learning,
+		* machine learning,
+		* natural language processing,
+		* computer vision, or
+		* reinforcement learning
+	- Applied to, for example: text categorization, text summarization, information extraction, question answering, dialogue learning, machine translation, language and vision, image classification, image segmentation, or object detection.
+	- Candidates that have published in top-tier conferences or journals (e.g. NIPS, ICML, ACL, EMNLP, CVPR, ICCV, SIGKDD, ICDM, ICLR, PAMI, JMLR, TACL, IJCV) are preferred.
+	- As a research intern, you will work with a team of research scientists and engineers on a project that ideally leads to a submission to a top-tier conference.
+	- PhD/MS candidate in a relevant research area
+	-  Excellent understanding of deep learning techniques, i.e., CNN, RNN, LSTM, GRU, attention models, and optimization methods
+	-  Experience with one or more deep learning libraries and platforms, e.g. Torch, TensorFlow, Caffe, or Chainer
+	-  Strong background in machine learning, natural language processing, computer vision, or reinforcement learning
+	-  Strong algorithmic problem solving skills
+	-  Programming experience in Python, Lua, Java, or a similar language
++ skill set:
+	
+
+
+
+
+
+
+
 
 
 

@@ -21,6 +21,12 @@ Fix mathematical proof for paper and implement processor subsystems.
 	- URL
 	- VENUE
 	- DATE
++ AIES, AAAI/ACM Conference on AI, Ethics, and Society
+	- http://www.aies-conference.com/
+	- http://www.aies-conference.com/call-for-papers/
+	- January 27-28, 2019
+	- Honolulu, Hawaii, USA
+	- Submission deadline: Nov 5 Anywhere on Earth (full paper), 2018.
 + CHI, ACM CHI Conference on Human Factors in Computing Systems
 	- http://chi2019.acm.org
 	- Glasgow, U.K.
@@ -48,6 +54,18 @@ Fix mathematical proof for paper and implement processor subsystems.
 	- URL
 	- VENUE
 	- Submission deadline: Late May, 2019.
++ ACM FAT\*, ACM Conference on Fairness, Accountability, and
+Transparency
+	- https://fatconference.org/2020/callforpapers.html
+	- https://fatconference.org/2019/cfp.html
+	- https://fatconference.org/links.html
+	- Barcelona, Spain.
+	- January 27-30, 2020.
+	- Submission deadlines: August 15 and 22, 2019.
+	- "ACM FAT* is an international and interdisciplinary peer-reviewed conference that seeks to publish and present work examining the fairness, accountability, and transparency of algorithmic systems."
+	- Fairness, Accountability, and Transparency in Machine Learning:
+		* https://www.fatml.org/
+		* https://www.fatml.org/resources/relevant-scholarship
 + ICALP, International Colloquium on Automata, Languages and Programming
 	- http://eatcs.org/index.php/conferences
 	- https://icalp2019.upatras.gr/
@@ -87,6 +105,8 @@ Fix mathematical proof for paper and implement processor subsystems.
 	- Budapest, Hungary
 	- July 14-19, 2019.
 	- Submission deadline: **December 15, 2018.**
++ IJCV, International Journal of Computer Vision
+	- https://link.springer.com/journal/11263
 + ISWC, International Semantic Web Conference
 	- URL
 	- VENUE
@@ -146,7 +166,9 @@ Fix mathematical proof for paper and implement processor subsystems.
 	- Conference dates: June 30 - July 5, 2019.
 	- Submission deadline: Early/Mid- July, 2018 (submission cycle #1) and Late Oct or Early Nov, 2018 (submission cycle #2).
 	- Abstract submission deadlines: July 12 (Round 1), October 18 (Round 2)
-+ IEEE Transactions on Pattern Analysis and Machine Intelligence, TPAMI
++ TACL, Transactions of the Association for Computational Linguistics
+	- https://www.transacl.org/ojs/index.php/tacl
++ TPAMI, IEEE Transactions on Pattern Analysis and Machine Intelligence
 + UIST, ACM Symposium on User Interface Software and Technology
 	- http://uist.acm.org/uist2019/
 	- Submission deadline: April 5, 2019.
@@ -531,8 +553,10 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 
 + HOST 2019, IEEE International Symposium on Hardware-Oriented Security and Trust
 	- http://www.hostsymposium.org/call-for-paper.php
-	- Washington, D.C.
-	- Submission deadline: Oct 15 and 22, 2018.
+	- https://host2020.hotcrp.com/
+	- San Jose, CA.
+	- May 4-8, 2020.
+	- Submission deadline: August 15, 2019 (round \#1) and November 15, 2019 (round \#2).
 
 
 + ISCAS 2019, International Symposium on Circuits and Systems
