@@ -3713,10 +3713,50 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	-  Strong algorithmic problem solving skills
 	-  Programming experience in Python, Lua, Java, or a similar language
 + skill set:
-	
-
-
-
+	- Salesforce Research (previously MetaMind) is looking for an outstanding entry level research scientists focused on ethics in AI. It is our belief in the words of our CEO Marc Benioff, “The business of business is improving the state of the world." The way we behave — with integrity, transparency, alignment, and accountability — builds trusted relationships. We believe that companies can do well and do good in the world. We know technology is not inherently good or bad. It’s what we do with it that matters. With AI, we believe that we can go even further to advance and support its effectiveness by ensuring equality, transparency, and accountability in the models we create and how we implement them in our products.
+	- As a research scientist, you discover new research problems, develop novel models, design careful experiments and generally advance the state of the art in AI. At Salesforce, the research team is committed to collaboration with the wider research community. In this unique role, you will have the opportunity to work directly on advancing technologies that nonprofits use to solve problems in the real world that create positive impact for the world while accomplishing publications at major conferences. We believe that making substantive progress on hard problems can drive and sharpen the research questions we study, and, in turn, scientific breakthroughs can spawn entirely new applications. With this in mind, the team maintains a portfolio of projects, some with an immediate path to production, others that may not find an application for several years. Research scientists have the freedom to set their own research agenda and move between pure and applied research.
+	- As a research intern, you will work with a team of research scientists and engineers on a project that ideally leads to a submission to a top-tier conference.
+	- PhD/MS candidate in a relevant research area (e.g., Machine Learning, AI, AI ethics, law and policy)
+	- Excellent understanding of deep learning models and techniques (i.e., CNN, RNN, LSTM, GRU, attention models, and optimization methods)
+	- Experience with one or more deep learning libraries and platforms (e.g. PyTorch, TensorFlow)
+	- Strong background in machine learning, natural language processing, computer vision, or reinforcement learning
+	- Programming experience in Python or a similar language
+	- Strong algorithmic problem-solving skills
+	- Demonstrable experience implementing machine learning models and algorithms, e.g., through open-source implementations, or shareable code
+	- Strong presentation and communication skills
+	- Experience applying deep learning models to ethical issues in AI or social causes (e.g., racial disparity in facial recognition, explainability of AI for redress and remediation)
+	- Experience researching artificial intelligence ethics, including areas such as fairness, safety, privacy and transparency in artificial intelligence
+	- Published in top-tier conferences or journals (e.g., FAT*, NIPS, AIES, ICML, ACL, EMNLP, CVPR, ICCV, SIGKDD, ICDM, ICLR, PAMI, JMLR, TACL, IJCV)
+	- Open-source implementations of machine learning research projects.
+	- The ideal candidate will have a keen interest in producing new science to understand intelligence and technology and how to apply it safely and fairly in real-world settings.
++ skill set:
+	- Experience testing web services with tools such as SoapUI.
+	- Excellent knowledge of web technologies such as React, NodeJS, AngularJS, D3JS, JavaScript, GWT, EXTGWT, CSS3, HTML5
+	- Excellent knowledge of at least one server-side programming language
+	- Excellent knowledge of web services development (SOAP, REST, Web Socket, RPC)
+	- Proficiency with major development tools and processes such as revision control, requirement specs, unit & system tests, etc.
+	- Proven ability to deliver on time working in a fast-paced agile environment
+	- Ability to work with team to clarify and prune requirements, strong verbal and written communication skills
+	- OO design and Java/Scala development experience.
+	- Experience with Java Spring Framework
+	- Good understanding of virtualization, Linux Container, Docker
+	- Working knowledge of Big Data frameworks such as Hadoop, Storm, Spark, Flume, Kafka
++ skill set:
+	- Proficient programmer that can code efficient algorithms (like map-reduce, preferably in Java) that traverse data partitioned in a distributed architecture
+	- Design, build, and deploy distributed querying strategy to achieve highly scalable and resilient transactional processing and reporting for different size and shape workloads
+	- Perform analysis on data access patterns to uncover opportunities to improve query throughput and drive decision making on new architectures. Recommend best practices.
+	- Design efficiently distributed query service for low latency access and traversal for transactional and reporting use cases
+	- Influence and collaborate cross functional teams in coming together towards a common, data architecture
+	- Learn and fundamentally understand the Workday technology stack including a home-grown meta-data driven application development environment
+	- Be responsible for system stability by proactively identifying and diagnosing issues and rapidly deploying code to address production issues
+	- Strong coding experience in any language
+	- Good working experience of distributed systems gossip protocols and consensus algorithms
+	- Experience implementing distributed computing frameworks and architectures
+	- Good knowledge of network protocols, routing and handshaking
+	- Good experience performance tuning/ garbage collection / JVM internals
+	- Proficient knowledge of maintaining and debugging live, business critical software systems
+	- Good understanding and hands on experience with SQL, especially in the area of data aggregation and query performance tuning
+	- Communicates clearly to engineering peers including ability to identify and communicate data-driven insights
 
 
 
