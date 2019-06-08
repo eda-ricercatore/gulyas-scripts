@@ -4020,8 +4020,23 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Demonstrated ability to communicate complex ideas clearly and concisely as well as proven ability to effectively interface and influence at all levels of an organization
 	- Moderate proficiency with MS Project as well as MS Visio, Excel and PowerPoint
 	- Minimum of 2 years of experience with transactional-based continuous improvement projects
-
-
++ skill set:
+	- Software Engineer (Media Streaming) - Periscope
+	- We are a small team that develops media streaming services and client libraries for Periscope and Twitter's professional live streams. The service ingests thousands of concurrent live video feeds and serves them to viewers in a way that scales to large audiences while maintaining low latency. The service also provides low-latency transcoding and stores live streams for on-demand viewing. On the client side, our cross-platform libraries power low-latency broadcasting and playback in Periscope and Twitter mobile apps. You can learn more about our techniques for low-latency streaming at scale here (https://medium.com/@periscopecode/introducing-lhls-media-streaming-eb6212948bef) and here (https://youtu.be/RbH_2l77Pm8).
+	- The role of our service and client libraries is expanding beyond the Periscope use case to handle content from an ever-increasing set of professional broadcast sources and for increasingly high-profile events. We are growing the capabilities, reliability, and quality of our service libraries to power more and more of Twitter's live video.
+	- We are looking for a generalist software developer. The ideal candidate has distributed systems experience but would also be comfortable contributing on the Android and iOS client side. While experience in developing media streaming systems is a plus, the position doesn't require domain knowledge in media codecs and streaming.
+	- The majority of our server-side codebase is in Go. If you have never worked in Go but you are comfortable in C, C++, or Java, you’ll pick it up quickly. Experience with AWS is a plus. Our service uses EC2, DynamoDb, S3, SQS, and Redis, for example. On the client side, our codebase is primarily in C++. Experience in Objective-C and Java would also be a plus. In your day-to-day work, you will encounter media technologies including RTMP, RTP, HLS, H.264, AAC, Opus, the WebRTC native stack, and CDN infrastructure.
++ skill set:
+	- Backend development experience with a strong interest in work involving data pipelines, distributed systems, performance analysis, and/or large-scale data processing Experience with software engineering practices (e.g. unit testing, code reviews, design documentation)
+	- Able to take on complex problems, learn quickly, and persist towards a good solution
+	- Experience designing fault-tolerant distributed systems
+	- Experience with data pipelines
+	- Experience with Hadoop or other MapReduce-based architectures
+	- Experience with Kafka, Druid or other Streaming Compute based technologies is a plus
+	- Experience with ad tech is a plus
++ skill set:
+	- Experience with asynchronous I/O and coroutines
+	- Experience with event driven service architecture
 
 
 
