@@ -4019,7 +4019,7 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Solid analytical and problem-solving skills; ability to think strategically
 	- Demonstrated ability to communicate complex ideas clearly and concisely as well as proven ability to effectively interface and influence at all levels of an organization
 	- Moderate proficiency with MS Project as well as MS Visio, Excel and PowerPoint
-	Minimum of 2 years of experience with transactional-based continuous improvement projectsxx=]
+	- Minimum of 2 years of experience with transactional-based continuous improvement projects
 
 
 
