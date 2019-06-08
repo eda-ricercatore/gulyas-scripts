@@ -3975,7 +3975,51 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Demonstrated AI, data science and/or data analysis experience from previous work experience or publications.
 	- Demonstrated strong coding from previous work experience or publications. This means you’re able to write a non-trivial program in Python, Java, or C++.
 	- Solid CS foundation (including but not limited to Operating Systems, Computer Networks, Database, etc.)
-+ 
++ skill set:
+	- This person will assist in developing data migrations, writing SQL and reports and mentoring other engineers in optimizing and writing efficient queries.
+	- Develop and proactively review the monitoring of production PostgreSQL databases
+	- Participate in system capacity planning
+	- Participate in database design, data modeling and provide recommendations for improvement or optimizations
+	- Provide query / index optimizations
+	- Participate in an agile software development life cycle including providing testing guidelines for database related changes
+	- Provide SQL development support and query tuning
+	- Mentor other engineers in developing efficient SQL queries
+	- Follow the Quality Management System for developing and deploying software
+	- Write reports
+	- 3+ years experience managing a production RDBMS including experience with PostgreSQL
+	- Experience in SQL development and database design
+	- Expertise in SQL DML and DDL
+	- Have a solid understanding of query planning
+	- Understand PostgreSQL tuning and optimization parameters
+	- Excellent interpersonal and communication skills in both oral and written English
+	- Able to collaborate with cross functional team members
+	- Familiarity with PostgreSQL replication techniques, data warehouse design, and Amazon RDS support beneficial
++ skill set:
+	- The Project Portfolio Analyst oversees the activities that support the company’s most complex strategic projects by ensuring reporting and governance alignment, providing portfolio performance measurements and recommendations, and trending analytics. This position is responsible for the Portfolio’s intake, supply and demand (resource management) methods, analytics and recommendations. Reporting responsibilities includes detailed analysis, dashboards and decision support updates (KPI’s) and recommendations on a regular cadence. The Portfolio Analyst will at times provide project support to Project and Change managers.  This position reports to the Associate Director, Organization Engineering.
+	- Owns and administrates the project collaboration toolset including project portfolio management software and various collaboration tools
+	- Develops and maintains a project risk tracking mechanism to centralize risk tracking across the company’s project portfolio
+	- Drives agile governance process that maintains control and compliance but improves project team effectiveness and improves decision making
+	- Assists in developing project management processes, tools and training as well as project status presentations and reports
+	- Supports the strategic planning process and cross-functional business reviews to include development of in-depth analysis, executive presentations, and resource modeling
+	- Owns the project idea intake process to ensure project goal and scope are clearly defined, reasonable budget and timelines are established and the project is resourced effectively to deliver the desired solution
+	- Owns the resource planning process to include maintaining resource management information and resource utilization modeling
+	- Generates, validates, distributes, archives and supports project management documentation and reporting collateral
+	- Monitors quality assurance of project implementation across a large portfolio of business and process improvement projects by establishing, monitoring and reporting on metrics to determine whether projects meet quality, cost and schedule targets
++ skill set:
+	- Identify, recommend and implement improvements on the project management process and tools – examples:
+		* Project idea intake process
+		* Resource planning process
+		* Project prioritization process
+		* Project close-out process
+		* Project portfolio management software and collaboration tools
+		- Project management process, templates and tools documentation and training
+	- Demonstrated experience working with project and portfolio practice, including project ideation
+- 	Demonstrates basic understanding of project management methodology
+	- Strong influencing skills; demonstrated ability to challenge and persuade, directing a group of stakeholders to the best decision
+	- Solid analytical and problem-solving skills; ability to think strategically
+	- Demonstrated ability to communicate complex ideas clearly and concisely as well as proven ability to effectively interface and influence at all levels of an organization
+	- Moderate proficiency with MS Project as well as MS Visio, Excel and PowerPoint
+	Minimum of 2 years of experience with transactional-based continuous improvement projectsxx=]
 
 
 
