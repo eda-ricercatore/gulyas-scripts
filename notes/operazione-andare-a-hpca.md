@@ -1092,7 +1092,7 @@ Flags for work-in-progress:
 	- Experience working with large data sets and distributed computing tools (e.g. Redshift, Presto)
 	- Experience pushing code and navigating a complex codebase
 	- Active Quora user with curiosity about the product
-	- Deep experience with MySQL, NoSQL datastores like HBase or similar
+	- Deep experience with MySQL, NoSQL data stores like HBase or similar
 	- Strong grasp of Configuration Management (Chef, Puppet, Ansible, Salt Stack)
 - skills to develop:
 	- Deep understanding of at least one popular server side MVC Framework (e.g Django, Rails, AngularJS etc).
@@ -1241,9 +1241,9 @@ Flags for work-in-progress:
 + Knowledge of authentication protocols such as basic and digest authentication, SAML, LDAP, and OAuth.
 + In-Memory caching technologies, such as memcached or Redis
 + Cutting edge C++ knowledge (C++17, C++20)
-+ stream pipelines and all sorts of datastores (SQL, NoSQL, triplestores, wide column, graph)
++ stream pipelines and all sorts of data stores (SQL, NoSQL, triplestores, wide column, graph)
 + Knowledge of data standards, file formats, and biomedical ontologies and vocabularies such as SNOMED-CT, UMLS, etc. DICOM
-+ all types of datastores - NoSQL, wide column, Graph, triplestores
++ all types of data stores - NoSQL, wide column, Graph, triplestores
 + Spark, Kafka
 + Experience with stream pipelines and data store technologies (nosql, wide column and graph). We are Currently using Cassandra, Kafka, Amazon dynamoDB, Redis, Neo4j and Mysql.
 + NLP library: spaCy, NLTK, GATE, CoreNLP, gensim
@@ -1392,7 +1392,7 @@ Flags for work-in-progress:
 + Experience of Unity, C# and 3D application development.
 + Working knowledge of HMD (ie Oculus, HTC Vive, Hololens)
 + Experience with Hololens, HTC Vive, Oculus, Google Cardboard and other leading AR/VR platforms
-+ Knowledge of NoSQL technologies (e.g. Cassandra, MongoDB, Redis, etc.) and/or search-based datastores and libraries (Lucene, Solr, etc.)
++ Knowledge of NoSQL technologies (e.g. Cassandra, MongoDB, Redis, etc.) and/or search-based data stores and libraries (Lucene, Solr, etc.)
 + Experience within the domain of Advanced Analytics and Data Science is highly desirable, e.g. hands-on experience with solutions such as Spark, MapReduce, Python, Redshift, Hive, Pig and visualization tools.
 + Hadoop data platform is capable of supporting a growing list of downstream platforms like Tableau, Zeppelin etc.
 + Expertise with Hive, YARN, Spark, Presto, Kafka, SOLR, Oozie, Sentry, Encryption, Hbase, etc.
@@ -1453,7 +1453,7 @@ Flags for work-in-progress:
 	- Amazon Web Services
 	- MS Azure
 	- Google Cloud Platform
-+ Knowledge of NoSQL technologies (e.g. Cassandra, MongoDB, Redis, etc.) and/or search-based datastores and libraries (Lucene, Solr, etc.
++ Knowledge of NoSQL technologies (e.g. Cassandra, MongoDB, Redis, etc.) and/or search-based data stores and libraries (Lucene, Solr, etc.
 + Experience with Cloud based services, Microservices a Cloud Computing class or similar experience
 + Produce high quality and well-documented code in an automated CI/CD environment
 + Collaborate with engineering and product teams to design, develop, and publish software supporting a highly available, fault-tolerant SaaS platform
@@ -2132,7 +2132,7 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 + Interact with MySQL data stores and NSQ messaging queues.
 + skill set:
 	- Our data infrastructure team is responsible for all things data — our data warehouse, Hadoop, Redshift, Spark, Kafka, Airflow and so on.
-	- Deep experience with MySQL, NoSQL datastores like HBase or similar.
+	- Deep experience with MySQL, NoSQL data stores like HBase or similar.
 	- Strong understanding of Unix/Linux variants, web network protocols, persistence solutions
 + skill set:
 	- Knowledge of backend storage systems like MySQL, HBase, Memcached, Redis, Kafka etc.
@@ -2484,7 +2484,7 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Ability to lead initiatives across multiple product areas and communicate findings with leadership and product teams
 + skill set:
 	- Experience in building and owning critical user-facing API systems, and solving scaling, latency, and performance problems in high-volume low-latency distributed systems
-	- 8+ years of industry experience with distributed systems, transactional datastores, and systems programming
+	- 8+ years of industry experience with distributed systems, transactional data stores, and systems programming
 + Experience with MapReduce/Hadoop and/or distributed systems.
 + Expertise in design of scalable backend systems with experience in AWS, Kafka, Hive, MySQL
 + Extensive experience with one or more of the follow frameworks. (Spark, Druid, Hadoop, HBase, Kafka)
@@ -3757,6 +3757,176 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Proficient knowledge of maintaining and debugging live, business critical software systems
 	- Good understanding and hands on experience with SQL, especially in the area of data aggregation and query performance tuning
 	- Communicates clearly to engineering peers including ability to identify and communicate data-driven insights
++ skill set:
+	- Strive for high code standards (continuously improving testability and code quality).
+	- Disciplined, methodical, minimalist approach to design and construct layered software components that can be embedded within larger frameworks or applications.
++ skill set:
+	- Projects around data ingestion, detection and the MITRE ATT&CK framework
+	- Handle alarms and alerts, across multiple clouds and all infra (prod/corp/dev)
+	- Tune alarms; we’re allergic to false positives
+	- Create the glue between systems to make your life easier
+	- Automate responses
+	- Build runbooks
+	- Perform triage and incident response
+	- Build reporting and present to leadership
+	- Technical depth, a desire to get things done, and be recognized for your achievements
+	- Experience at a SOC and you want to do more
+	- Knowledge of Linux and/or Mac
+	- Exposure to at least one cloud environment (AWS, GCP, Azure)
+	- Some prior Security experience
+	- Ability to script in a language like Python, Ruby or Perl is a plus
++ Proven capability to create maintainable, adaptable software that is non-brittle and capable of change
++ Take pride in the quality of the code you write. Your code is readable, testable, and understandable six months later. You adhere to the Zen of Python.
++ **Experience and knowledge of programming languages, data analysis packages (e.g., Python, R, SAS, MatLab, Stata, GAMS, SPSS, Hadoop, BigML, Pandas). Experience and knowledge of visualization tools (e.g., Tableau, Sigma JS) is preferred.**
++ Experience working with distributed computing tools like Spark or Hadoop
++ Working knowledge of data analysis packages (e.g., SAS, MatLab, Stata, GAMS) is strongly preferred.
++ Proficiency with prototyping and design tools (e.g., Sketch, InVision, Adobe Creative Suite, Axure).
++ Create product backlog/requirement documents (epics, stories, scope docs, etc) to guide engineering in developing the platform features, and work closely with the engineering and QA teams to execute the product feature per specification
++ Experience with DFIR techniques and tools (FTK, EnCase, SIFT, including Volatility) and eDiscovery
++ Familiar with orchestration components (Chef-Puppet-Ansible-Kubernetes-VSTS)
++ Supports the full lifecycle of a capability from Early Adopter Programs (EAP) to General Availability (GA) and across a full range of commerce events including new sales, upgrades, renewals, downgrades, and cancellations with robust monitoring and instrumentation.
++ skill set:
+	- Achieve security architecture compliance on requirements, including: Sarbanes-Oxley, payment card industry standards, HIPAA/HITECH, global data privacy requirements, as well as state and federal regulations.
+	- Exceptional experience in designing cloud security architecture for Azure and/or AWS.
+	- Establish a strategic security architecture vision, including standards and frameworks that are aligned with overall business strategy.
+	- Provides architectural oversight and direction for enterprise-wide security technology.
+	- Review existing architecture, identify design gaps, and recommends security enhancements.
++ skill set:
+	- Application systems, network architecture, multiple platforms and new technologies from a security perspective to include, but not limited to, Firewalls; Intrusion Detection/Protection Systems; Operating Systems (UNIX, Windows); Networking (switches, routers, protocols, etc.); Network Services and Security Vulnerabilities; Network Architecture; Remote Access; Multiâ€factor Authentication; Platform Security (Application, Database, OS); Antivirus; Federated Identity Management; Cryptography; Active Directory; and high-level programming languages.
+	- System and network exploitation, attack pathologies and intrusion techniques (such as denial of service, sync attacks, malicious code, password cracking, etc).
++ skill set:
+	- Experience managing enterprise monitoring solution; System Center Operations Manager (SCOM), Solarwinds, and/or CA UIM preferred
+	- Experience managing server automation tool and server patching tool; System Center Configuration Manager (SCCM) preferred
+	- Experience creating or modifying scripts or automation, such as Perl, PowerShell, Python, TCL/TK, Ruby or similar for cloud orchestration required
++ Experience working with SOAP, REST APIs and micro services
++ The ideal candidate will have at least 5 years of experience as a UX designer including user research, prototyping and using visual communication tools (e.g. Sketch, InVision, Axure).
++ Ideal candidate will have at least 5 years of experience as a UX designer, including; user research, prototyping and using visual communication tools (eg. Axure, Balsamiq, Sketch).
++ skill set:
+	- 2+ years SQL working experience (Redshift/PostgreSQL/MySQL)
+	- Experience with BI & reporting dashboards (Periscope, Tableau, etc)
++ skill set:
+	- Experience developing, troubleshooting, tuning and managing hardware systems including:
+		* LIDARs
+		* Standard or Depth Cameras
+		* Light systems
+		* IMUs, encoders or other odometry methods
+	- Experience designing/developing one or more of the following software systems/algorithms:
+		* Mapping, Localization, and/or SLAM
+		* Robot perception, Sensor calibration and/or fusion
+		* Motion planning and/or Autonomous navigation
+		* Production level configuration, log and system management
+		* Remote monitoring and control
+		* Performance verification and monitoring
+		* Test automation of combined software and hardware components
+		* Automated release pipelines
++ Modern networking: HTTP, TCP, MQTT and can write software that tolerates network outages
++ skill set:
+	- Develop and maintain scalable codebase used to calibrate sensors and actuators used on a robot system including:
+		* Camera: Intrinsic, Extrinsic, White-balance calibration of both standard and fisheye cameras
+		* Time-of-Flight cameras
+		* Lidar
+		* IMU
+		* Odometry
+	- Improvement of existing calibration processes and procedures
+	- Develop calibration methods for new sensors added to robot
+	- Hands-on deployment of calibration fixtures at contract manufacturing line
+	- Hands-on calibration of robot system to validate new calibration processes
+	- Assist mechanical, electrical and other teams to design fixtures needed for calibration
+	- Work with manufacturing and field engineers to debug field issues related to calibration
+	- Work with hardware and software teams to provide well calibrated robot system
+	- Good C++, C and python coding skills
+	- 2 years of industrial experience
+	- Previous experience with extrinsic calibration of at least two of the following sensors: RGB Camera, ToF Camera, Lidar, Odometry, IMU
+	- Understanding of standard camera calibration methods
+	- System level understanding of how calibration affects robot performance
++ skill set:
+	- Work with product management to write visualizations and searches in ELK.
+	- Design queries and system to monitor data quality from our robot fleet
+	- Extend the ELK platform to support ongoing use cases through adding infrastructure
+	- Support ongoing management of the ELK cluster
+	- Build tooling and infrastructure to increase observability of services.
+	- Support cloud operations by performing triage and responding to incidents.
+	- Production experience with the ELK platform
+	- Experience managing infrastructure and services on a public cloud provider; AWS, GCP, or Azure
+	- Experience with configuration as code; Puppet, SaltStack, Ansible, or Chef
+	- Proficiency with Java, Python, or Go
++ skill set:
+	- Exposure to containers or orchestration services:  Kubernetes, Mesos, or Docker Swarm
+	- Experience with configuration as code; Puppet, SaltStack, Ansible, or Chef
++ skill set:
+	- Experience using native APIs from higher ed core systems (SIS, ERP, LMS) a plus
+	- 3+ years’ experience with enterprise level data integration working with multiple systems simultaneously; Including extracting data utilizing API integration from a variety of platforms, performing data mapping, data transformation, and loading data to the target system
++ skill set:
+	- Talend ETL, SQL, Postgres, AWS
+	- Design, develop, and implement advanced ETL pipelines that bring together data from disparate sources, making it available to users using a variety of ETL tools.
+	- Facilitate cross-functional data-integration efforts upstream and downstream
+	- Detect data quality issues, identify their root causes, implement fixes, and design data audits to capture issues
+	- Extract data from multiple sources, and integrate them into a target database, application, or file using efficient programming processes.
+	- Implement and deploy solutions in a CI/CD pipeline
+	- Write and refine code to ensure performance and reliability of data extraction and processing.
+	- Communicate with all levels of stakeholders as appropriate, including product managers, application developers, business users.
+	- Participate in requirements gathering sessions with product managers and technical staff to distill technical requirements from business requests.
+	- Recommend process improvements to increase efficiency and reliability in ETL development.
+	- Collaborate with Quality Assurance resources to debug code and ensure the timely delivery of products.
+	- Some of our technologies might include: Talend as well as various data stores such as Postgres SQL, S3, Aurora and AWS services.
+	- 2+ years of experience on Data Warehousing and building data pipelines.
++ Join a passionate team and work with the latest technologies (Hadoop, K8s, Terraform, AWS, GCP to name a few)
++ skill set:
+	- Knowledge of Big Data, SAP ERP, Docker, Kubernetes, CXF or another ETL product is a plus;
+	- AWS, Azure, Google cloud, Apache Beam, NoSQL
+	- Experience of working with JDBC, XML, Junits, Maven, Avro and JSON;
+	- Good understanding of Web Services (SOAP/REST), knowledge of CXF is a plus.
++ skill set:
+	- Experienced in data sanitization, data import and export (ETL).
+	- Familiar with SQL Server products, i.e. SQL Integration Services and Reporting Services.
+	- Work with the application team to create and maintain effective database-coupled application logic stored procedures, triggers and user-defined functions (UDFs); these are programs that are under the control of the DBMS (SQL, MySQL, Postgres, MongoDB)
++ skill set:
+	- Using different protocols as needed for different data services (NoSQL/JSON/REST/JMS/JMX) and providing related tests (Test-driven development/Unit Testing and automation)
+	- Designing, implementing, testing, and deploying a data processing infrastructure that is fault tolerant and scalable to support multiple Talend Products
+	- Building High-Availability (HA) architectures and deployments
+	- Between 3 and 5 years in professional Java programming with RESTful, Message-/Event-Driven technologies, Multi-threaded applications
+	- An understanding of distributed and cloud computing, incl. deployment related experience (ideally including Docker, AWS or Azure)
+	- Experience with OAuth and other IAM related technologies would be a plus
+	- Join a passionate team and work with the latest technologies (Hadoop, K8s, Terraform, AWS, GCP to name a few)
+	- Document structure, process and design of all implemented solutions
+	- Between 3 and 5 years in professional Java programming with RESTful, Message-/Event-Driven technologies, Multi-threaded applications
+	- Experience with development using Scala/Akka
+	- An understanding of distributed and cloud computing, incl. deployment related experience (ideally including Docker, AWS)
+	- Join a passionate team and work with the latest technologies (Hadoop, K8s, Terraform, AWS, GCP to name a few)
++ skill set:
+	- Experience with Apache Big Data technologies such as Hadoop, Spark, Hive, Flink, Kafka, Beam etc
+	- Experience with messaging systems such as ActiveMQ
+	- Join a passionate team and work with the latest technologies (Hadoop, K8s, Terraform, AWS, GCP to name a few)
++ skill set:
+	- TMC runs as load-balanced application server instances on Amazon Web Services (AWS). After building a data pipeline in Talend Studio, the job is executed on one or several so-called “Cloud Engines” or “Remote Engines”.
+	- Cloud Engines are Java-based runtimes deployed via an Amazon Machine Image (AMI) based on CentOS.
+	- Remote Engines are optional Java-based runtimes deployed by the customer to process data behind the firewall or on a Virtual Private Cloud (VPC), e.g. this can be on-premises or in third party clouds like Google, Azure or AWS.
+	- Within this position the development will mainly be focused on server-side Java development, leveraging technologies from the Hadoop Ecosystem (like HDFS, Spark, Kafka, Zookeeper), Log Data Mgmt (like ElasticSearch), Identity & Access-Management, Metric Collection Solutions, and others. This provides the applicant with the ability to work with up to date technologies, in a modern cloud-based development and deployment environment.
+	- Built High-Availability (HA) architectures and deployments
+	- Worked and communicated in a cross-functional geographically dispersed team environment comprised of software engineers, product managers, software test engineers, and product support engineers.
+	- Good knowledge in Java ecosystem (Java 8, Spring, junit, logging)
+	- Skills in Restful Service and the microservice architecture (SpringBoot)
+	- Some basic knowledge in databases like NoSQL DB (MongoDB)
+	- Knowledge in CI tools (Maven, Jenkins)
+	- Some knowledge in AWS and Docker would be a plus
+	- Join a passionate team and work with the latest technologies (Hadoop, K8s, Terraform, AWS, GCP to name a few)
++ skill set:
+	- Experience building or maintaining databases (MySQL, Hive, etc.)
+	- Experience building or maintaining Big data & streaming systems (Hadoop, HDFS, Kafka, etc.)
+	- Cross-platform coding
+	- Security
+	- Large-scale, large-user base website development experience
+	- Data mining, machine learning, AI, statistics, information retrieval, linguistic analysis
+	- Strong mathematical background
++ skill set:
+	- Help us iterate quickly and deliver high-quality software releases, on-time
+	- Understanding of service based cloud architectures
+	- Work closely with the software engineering, product management and customer support teams to design, deliver, and manage our services with high uptime
+	- Implement monitoring, develop automated provisioning, and develop self-healing automation
+	- Perform incident resolution and root cause analysis of critical outages
+	- Experience with design and maintenance of a cloud based highly-available (HA) architecture
+	- Experience with configuration management and monitoring tools
+
 
 
 
