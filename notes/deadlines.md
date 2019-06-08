@@ -211,8 +211,25 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 **NOTE: Keep my attack plan updated.**
 
 
++ "Call for Paper" deadlines for journals
+	- https://www.computer.org/digital-library/magazines/co/call-for-papers-smart-autonomous-systems-cfp
+	- https://www.computer.org/digital-library/magazines/co/call-for-papers-artificial-intelligence-in-government-cfp
+	- https://www.computer.org/digital-library/magazines/co/call-for-papers-cfp-hybrid-human-artificial-intelligence
+	- https://www.computer.org/digital-library/magazines/mi/call-for-papers-ieee-micro-special-issue-on-monolithic-3d-architectures
+	- https://www.computer.org/digital-library/magazines/co/call-for-papers-cybersecurity-for-the-smart-grid-cfp
+	- https://www.computer.org/digital-library/magazines/co/call-for-papers-blockchain-from-technology-to-marketplaces-cfp
+	- https://www.computer.org/digital-library/journals/tp/call-for-papers-special-issue-on-non-euclidean-deep-learning
+	- https://www.computer.org/digital-library/journals/ec/call-for-papers-special-section-on-emerging-trends-and-computing-paradigms-for-testing-reliability-and-security-in-future-vlsi-systems
+	- https://www.computer.org/digital-library/journals/tq/call-for-papers-special-issue-on-ai-ml-for-secure-computing
+	- https://www.computer.org/digital-library/magazines/ic/special-track-on-drone-delivered-computing-and-services
+	- https://www.computer.org/digital-library/magazines/cg/call-for-papers-special-issue-on-art-and-cultural-heritage
+	- https://www.computer.org/digital-library/magazines/so/design-thinking-cfp-call-for-papers
+	- https://www.computer.org/digital-library/journals/ec/technical-tracks
+	- https://www.computer.org/digital-library/magazines/cs/track-calls-for-papers
 
-**Operation Go-to-NeurIPS in progress.**
+
+
+**Operation Go-to-ASPLOS in progress.**
 
 
 
