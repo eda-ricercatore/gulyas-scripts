@@ -935,6 +935,28 @@ Design for Security
 	(or I/O operazioni)
 
 
+
+
+
+
+#	Names for Technologies
+
++ lit
++ suh
++ okurrr
++ OOF
++ YEET!
++ Woot
++ Skrt, sskrt
++ wig
++ finsta
+
+
+
+
+
+
+
 #	Relevant *GNU Octave* Content
 
 From the *GNU Octave* manual \cite{Eaton2016a}:

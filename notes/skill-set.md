@@ -3369,6 +3369,32 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Monitor and Metrics gathering (Prometheus, StackDriver ...)
 	- Experience with HashiCorp tools - Vault, Consul, Nomad
 	- Experience with NixOS
++ skill set:
+	- Assisting developers to apply best practices to ensure fully working test, training and production environments using Gitlab-CI, Docker, Ansible.
+	- Designing, building and maintaining CI/CD, testing, and operations infrastructure for our systems.
+	- 5 years of DevOps experience, both building end-to-end automated CI/CD pipelines, as well as application and operations support. This experience should include hard-core hands-on Linux admin, networking, security, and AWS experience in a dev-through-production environment.
+	- A proven track record of excellent customer service delivery, including working with developers, ops, and users to troubleshoot and resolve challenging problems in a timely manner, and being an embedded DevOps member of an application scrum team, as well as requirements gathering, design, project planning, and implementation of DevOps process and tooling.
+	- Strong architectural level of understanding of software, networks, security, and operations, with the knowledge and know-how to influence software and operations design and process.
+	- Strong hands-on familiarity with infrastructure automation tools such as Jenkins, GoCD, Terraform, Artifactory/Nexus, Ansible, Puppet, Chef, InSpec, etc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
