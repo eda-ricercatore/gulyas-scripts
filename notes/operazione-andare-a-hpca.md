@@ -939,21 +939,58 @@ Design for Security
 
 
 
-#	Names for Technologies
+#	Names for Technologies and Research Papers
 
-+ lit
-+ suh
-+ okurrr
-+ OOF
-+ YEET!
-+ Woot
-+ Skrt, sskrt
-+ wig
+
+#	From Gen Z Lingo/Slang
+
++ bae
++ Boujee
++ come thru, pull up
++ Dank
++ fam
++ finesse
++ finna
 + finsta
++ flex
++ Gucci
++ hardo
++ highkey, high key
++ hip
++ hype
++ jams
++ jawn
++ lit
++ lowkey, low key
++ nunya
++ okurrr
++ oomf
++ OOF
++ opp
++ salty
++ self-drag
++ sick
++ sis
++ skrt skrt
++ skrr skrr
++ smol
++ snack/snacc
++ snaps
++ stan
++ steez
++ suh
++ swole
++ tea
++ wig
++ woke
++ Woot
++ YEET!, yeet
++ yikes
 
 
+##	References
 
-
++ https://drive.google.com/file/d/1yrJmMHPkZzrxfWbUb4jALN0neE1tbkgH/view
 
 
 
