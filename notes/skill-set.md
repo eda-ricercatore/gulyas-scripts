@@ -3374,6 +3374,194 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 
 
 
+
+
+#	Interesting Companies
+
++ [Great Place to Work® Institute](https://www.greatplacetowork.com/about)
+	- Management Consulting
+	- Oakland, California
+
+
+##	Unlimited Holiday
+
++ Confluent
+
+
+
+##	European Companies
+
++ Imagimob has taken great steps since the start in 2013. We have for example been rewarded as the Startup of the Year of 2017 at Mobilgalan, and has three years in a row been on the Ny Teknik's 33 list of Sweden's most promising technology companies.
+
+
+
+
+
+
+
+
+
+
+
+
+#	Bio Design Automation & Bio Manufacturing Automation Companies
+
+bio manufacturing automation
+
++ [addgene](https://www.addgene.org/careers/)
++ [Amyris](https://amyris.com/careers/)
++ [Analytikjena](https://www.analytik-jena.com/company/careers/)
++ [Asimov, Inc.](https://www.asimov.io/)
++ BioFab:
+	- http://www.uwbiofab.org/
+	- http://erc-assoc.org/achievements/biofab-world%E2%80%99s-first-biological-design-build-facility-synthetic-biology
+	- Not http://biofabproducts.com/about/
++ [Biolegio B.V.](https://www.biolegio.com/)
++ [BioSero](https://www.biosero.com/about-us/)
++ Boston University:
+	- CIDAR Lab
+	- Biological Design Center, BDC
++ BP
++ [De Novo DNA](http://www.denovodna.com/)
++ [DSM](https://www.dsm.com/corporate/home.html)
++ GE Healthcare
++ [genomatica](https://www.genomatica.com/careers/)
++ Genome Foundry
+	- https://www.genomefoundry.org/aboutus
+	- https://www.concordia.ca/research/genome-foundry.html
++ [Ginkgo Bioworks](https://www.ginkgobioworks.com/about/)
++ [Hamilton Robotics](https://www.hamiltoncompany.com/)
++ [HighRes biosolutions](https://highresbio.com/careers/)
++ [Integrated DNA Technologies](https://www.idtdna.com/pages)
++ [Labcyte](https://www.labcyte.com/)
++ Leselagen
++ [lifefoundry](http://www.life-foundry.com/careers.html)
++ Lincoln DNA Foundry
++ [Molecular Devices](https://www.moleculardevices.com/about-us#gref)
++ [New England BioLabs](https://www.neb.com/about-neb/careers)
++ [Novozymes](https://www.novozymes.com/en)
++ [opentrons](https://opentrons.com/jobs)
++ [OriCiro Genomics Inc.](https://www.oriciro.com/)
++ Ozen
++[Ranomics Incorporated](https://www.ranomics.com/careers)
++ [SGIDNA, a Synthetic Genomics, Inc. company](https://www.sgidna.com/careers/)
++ [Synbicite](http://www.synbicite.com/about-us/)
++ [Synbiobeta](https://synbiobeta.com/job-board/)
++ [Synlogic](https://www.synlogictx.com/our-people/join-us/)
++ [TeselaGen Biotechnology Inc.](https://teselagen.com/)
++ [ThermoFisher Scientific](http://jobs.thermofisher.com/)
++ [Zymergen](https://www.zymergen.com/careers/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##	Events to look for job opportunities in BDA
+
++ Annual Biomedical Research Conference for Minority Students, ABRCMS
++ Fungal Genetics Conference
++ Programming Biology Night (Seattle)
++ SACNAS -  The National Diversity in STEM Conference
++ Scientista Symposium
++ WomenHack Boston
++ WomenHack Seattle
+
+
+##	Other Resources
+
++ [BioLEGO](http://www.cs.technion.ac.il/~edwardv/BioLego/html/BioLego.html)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+###	Skill Sets for Research Internships with Alibaba Group
+
++ Quantum Algorithm for Near-term Quantum Devices
+	- A general-purpose fault-tolerant quantum computer will require millions of physical qubits and millions of quantum gate operations. With quantum computers of significant size now on the horizon, we should understand how to best exploit the initially limited abilities and how to develop and run useful quantum algorithms within the limited circuit depth of intermediate size quantum devices with limited error correction.
++ Research in Practical Applications of Quantum-Safe Communication
+	- Quantum communication may refer to quantum cryptography, quantum teleportation, and quantum entanglement. Among those, quantum key distribution (QKD) is one of the most practical applications in recent years. Quantum cryptography takes the advantage of the laws of quantum physics to protect data,
+	- Currently, the most significant problems in practical quantum cryptography systems include: high-speed quantum random number generation, long-distance fiber quantum key distribution with high key generation speed, co-fiber transmission of classical and quantum optical signals, as well as practical commercialization and stabilization.
+	- Our project aims to study these critical issues in quantum cryptography system for practical applications. Due to the transmission loss and dark count, the bottleneck for its practical application lies in the trade-off between high speed key generation rate and long transmission distance. In order to solve these problems, one potential solution is to design more efficient telecommunication protocol to exceed the theoretical up bound of the generation rate. Meanwhile, the project will also focus on the study and practical solutions for quantum random number generation, post-quantum cryptography algorithm, the migration of classical and quantum networks, etc
++ Building an innovative and systematic AI benchmarks platform
+	- Currently in Alibaba Group, deep learning and related applications have been employed in various business departments. Tmall, Alitrip, Taobao, Ant Financial and other departments are making extensive use of emerging deep learning technologies to continuously improve application and algorithms and enhance the consumer experience. On the one hand, Alibaba's engineering teams design, experiment and deploy different deep learning algorithms and applications every day. On the other hand, deep learning requires a lot of computational power, which also puts higher requirements on the computational power of the hardware and their adaptability to the application. How to balance the demand and supply relationship between these two and integrate the solution into a systematic platform product? How to automatically and systematically evaluate the computional power of an AI hardware? How to evaluate the advantages and disadvantages of a hardware for usage in an application and give customer recommendations through a systematic platform? These are the challenges we are currently dealing with and we need to solve. Recently we have launched the AI ​​Matrix product (through aimatrix.ai website), but it is still in the early stage of the product. In the future, we need more people who have the same understanding as us and are willing to involve in solving these problems. Let's contribute our own strength and make the AI ​​Matrix as an effective systematic platform and an impactful technical brand.
+	- [AI Matrix](https://aimatrix.ai/en-us/)
+	- https://github.com/alibaba/ai-matrix
++ Using HW/SW Mechanisms to Improve Performance of remote Heterogeneous Systems
+	- Alibaba is an e-commerce and AI company. We generate enormous data and consume huge amount of computation and storage resources every day. It is critical for Alibaba to keep on improving data center design given the emerging of powerful accelerator computation clusters.
+	- We would focus on:
+		* 1. Analyze different AI workloads in distributed GPU clusters, study their computation and network requirement
+		* 2. Based on current remote accelerator technique, improve its efficiency via hardware/software solutions
+		* 3. Apply the technique to real workload
+	- Requirement:
+		* 1. PHD candidate, experienced with distributed heterogeneous systems
+		* 2. It's a plus if candidate worked with deep learning algorithms
+		* 3. it's a plus if candidate has top conference publications
++ Last mile of datacenter as a computer -- local protocol and semantics based ASIC/FPGA cloud
+	- Developers and customers prefer to use heterogeneous compute resources with a set of local server access protocol and semantics. We need to find talents to do research and prototyping with a specific local API on an ASIC or FPGA chip.
++ Emerging Accelerator Architecture, Programming Model, and Optimizations
+	- The emerging hardware accelerator architectures, such as process-in-memory (PIM) and neuromorphic computing,  have shown great potential to speed up AI/ML and data-heavy applications. This research aims to investigate these non-traditional architecture designs and their performance implications for domain-specific applications in Alibaba datacenters and ecosystem. It will study the emerging architecture’s programming model for usability and explore the software-hardware co-design strategies (e.g. reinforcement learning based architecture space exploration, architecture-aware compression and sparsity exploitation) and optimization trade-offs to maximize the performance.
++ Execution engine optimization based on GPUs and other modern hardware
+	- Targeting Maxcompute SQL engine, we'd like to import modern hardware technology (such as GPU, FPGA etc) to model and improve the core operators of the distributed execution engine, optimize the system performance on specific scenes at last.
++ Performance/Power/Area (PPA) Modeling & Analysis
+	- The ***Computing Technology Lab of Alibaba Damo Academy*** focuses on advanced research topics in computing, memory/storage, and interconnect technologies that can revolutionize today's computing systems with holistic innovations ranging from system architectures to VLSI designs, to enable new computing capabilities for improving energy efficiency and performance across multiple application domains, including both high-performance and embedded computing.
++ Research on Domain Specific Architecture
+	- As the end of Dennard's scaling and Moore's Law running out of steam, the traditional architecture for general-purpose processors can no longer meet the requirements of high performance and low energy consumption for various emerging applications. To allow the computing to have higher performance/energy efficiency, Domain Specific Architecture (DSA) has become a popular solution. However, there are many challenges in the DSA design. For example, the definition of the scope of Domain, trade-off between specialization and general-purpose, instruction set design, compiler design and optimization, memory wall, ultra-low-power design, micro-structure design and optimization, etc. This internship Project is a thorough and detailed study of the DSA to address these challenges.
+	- The Computing Technology Lab focuses on advanced research topics in computing, memory/storage, and interconnect technologies that can revolutionize today's computing systems with holistic innovations ranging from system architectures to VLSI designs, to enable new computing capabilities for improving energy efficiency and performance across multiple application domains, including both high-performance and embedded computing.
++ Research on Cloud Server Architecture
+	- Perform profiling/modeling and evaluation of workloads for our cloud server, design and optimize server architecture including but not limited to: CPU, cache/memory, storage and accelerators.
++ Research on algorithms/architectures of the next-generation AliNPU for training
+	- AliNPU targeting for neural network training is a key component of Alibaba’s AI Chip strategy. To design an architecture surpassing the best of the AI training chips, such as GPU and TPU, we must look into all aspects from algorithms to HW architecture, for the potential computational efficiency improvements.
+	- The works may focus on one or a few of the following directions：
+		* 1. Algorithm innovations that may improve the system efficiency, and the experiments.
+		* 2. The analysis of the theoretic bounds and/or the proof with regards to the algorithm innovations.
+		* 3. Experimental HW architecture designs, simulations and their PPA analysis.
++ Hyper-scale cloud datacenter's compute resource pool and management platform prototype
+	- Compute pools will be widely deployed in hyper-scale cloud datacenter. Alibaba Infrastructure AI Ops Platform (TIANJI) team is now actively seeking talents to work on research in this area.
++ Research on optimization of AI accelerator
+	- Nowadays high performance computing has become one of the hot topics of AI research. The research aims on optimizing power dissipation and energy efficiency of AI accelerators targeting various of AI applications, providing high quality computation support for AI applications.
+	- The research topics include:
+		* 1. Research on computation pattern of various AI applications to look for bottleneck
+		* 2. Research on AI accelerator architectures, implementations to improve performance and energy efficiency
+		* 3. Codesign AI accelerator (SW/HW) and application to maximize the performance of accelerator)
++ Accelerating Machine Learning Applications on Heterogeneous Computing Architectures
+	- This research aims to optimize ML applications on heterogeneous accelerators such as GPUs, FPGAs, and/or ASICs. S/he will conduct analysis and exploration on various performance bottlenecks in the full software/hardware stack, including ML algorithm improvement, model level transformation (e.g. compression, sparsity, data parallelization), and domain-specific architecture innovations, in order to dramatically boost the ML application's performance.
+
+
+
+###	Other Information From Job Descriptions
+
+Funny lines in job descriptions:
++ ["Frequently caught reading and engaging too much in AI/ML banter"](https://jobs.lever.co/sigopt/b172f247-6185-43e3-bc18-4a79f243122a), last viewed May 7, 2019. Jobs with SigOpt
+
+
+
+
+
+
 #	References
 
 Citations/References that use the *LaTeX/BibTeX* notation are taken
