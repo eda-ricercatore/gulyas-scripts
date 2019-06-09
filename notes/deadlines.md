@@ -226,6 +226,10 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 	- https://www.computer.org/digital-library/magazines/so/design-thinking-cfp-call-for-papers
 	- https://www.computer.org/digital-library/journals/ec/technical-tracks
 	- https://www.computer.org/digital-library/magazines/cs/track-calls-for-papers
+	- https://ieee-ceda.org/publication/tcad-publication/tcad-call-papers
+	- https://ieee-ceda.org/pages/special-issue-call-papers-design-and-management-mobile-platforms
+	- https://ieee-ceda.org/pages/special-issue-call-papers-special-issue-autonomous-systems-design
+	- https://ieee-ceda.org/pages/special-issue-call-papers-robust-resource-constrained-ml
 
 
 
