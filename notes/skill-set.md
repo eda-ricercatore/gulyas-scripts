@@ -3505,7 +3505,15 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- WDL (Cromwell)
 	- Microservices, Docker, and Kubernetes
 	- Continuous deployment
-
++ skill set:
+	- Advanced level programming skills in Python, ideally developed from experience working on long-term commercial projects, including significant experience using SciPy and machine-learning packages (Numpy, Pandas, scikit-learn, etc) for the development of maintained components. Additional experience using PySpark a big plus.
+	- Ability to integrate and scale solutions that involve large data sources in SQL databases and/or distributed systems such as Hadoop, as well as considerable experience deploying at scale on cloud technologies such as AWS, GCP, Azure.
+	- A set of software-development values that ensures high-quality, readable and maintainable code is produced within an open and collaborative environment.
+	- A pragmatic approach in scope and design, seeking simple iterative solutions wherever possible to shorten the time-to-value of work.
+	- Knowledge of supervised machine learning methods, such as regularised regressions, ensemble tree classifiers (e.g. xgboost), Support Vector Machines, deep learning, etc.
+	- Additional experience developing in C++, R, Java, Scala, Java, JavaScript, or advanced ability user of shell scripting commands (grep, sed, awk, etc).
+	- A demonstrable interest (e.g. public GitHub repo, or online course completion) in one of the following machine learning libraries (or equivalents): TensorFlow, Spark MLLib or CRAN packages for machine learning.
+	- Knowledge of healthcare / life science issues involving Real-World Evidence.
 
 
 
