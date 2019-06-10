@@ -3514,8 +3514,20 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Additional experience developing in C++, R, Java, Scala, Java, JavaScript, or advanced ability user of shell scripting commands (grep, sed, awk, etc).
 	- A demonstrable interest (e.g. public GitHub repo, or online course completion) in one of the following machine learning libraries (or equivalents): TensorFlow, Spark MLLib or CRAN packages for machine learning.
 	- Knowledge of healthcare / life science issues involving Real-World Evidence.
-
-
++ skill set:
+	- Good understanding of SQLAlchemy, data modelling, Alembic, Postgres.
+	- Understanding of RESTful APIs and web services.
+	- Experience of working with Flask (or similar web framework)
+	- Previous experience with scrum and Jira.
++ skill set:
+	- Experience working in an Agile environment using Test Driven Development (TDD) and Continuous Integration (CI)
+	- Experience refactoring code with scale and production in mind.
+	- Proficient in Scala, Java and SQL
+	- Strong experience with Apache Spark, Hive/Impala and HDFS
+	- Familiar with Python, Unix/Linux, Git, Jenkins, JUnit and ScalaTest
+	- Experience with integration of data from multiple data sources
+	- Experience with NoSQL databases, such as HBase, Cassandra, MongoDB
+	- Experience with any of the following distributions of Hadoop - Cloudera/MapR/Hortonworks.
 
 
 
