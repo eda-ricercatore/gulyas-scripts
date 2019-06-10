@@ -3376,10 +3376,74 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- A proven track record of excellent customer service delivery, including working with developers, ops, and users to troubleshoot and resolve challenging problems in a timely manner, and being an embedded DevOps member of an application scrum team, as well as requirements gathering, design, project planning, and implementation of DevOps process and tooling.
 	- Strong architectural level of understanding of software, networks, security, and operations, with the knowledge and know-how to influence software and operations design and process.
 	- Strong hands-on familiarity with infrastructure automation tools such as Jenkins, GoCD, Terraform, Artifactory/Nexus, Ansible, Puppet, Chef, InSpec, etc.
-
-
-
-
++ skill set:
+	- Building, maintaining and improving the modeling infrastructure using cutting edge tools including: Hadoop, PIG, Kafka, Flume, Ssamza, Zookeeper, PySpark, Elasticsearch, Python, Django
+	- Learning how to build and maintain an ETL pipeline for scalability and stability.
+	- Supporting data analysis, mathematical modeling, machine learning and data mining for price testing and its optimization
+	- Explore and employ external data sets, finding them, adding them to the system, adjusting and reformatting/cleaning up so that they can be consumed by our infrastructure. Developing models and machine-based understanding of interactions between external datasets and client data.
++ skill set:
+	- Experience turning ideas into actionable designs. Able to persuade stakeholders and champion effective techniques through product development
+	- 5+ years of industrial data-mining / analytics experience including applied techniques in data mining, machine learning, or graph mining using Python, R, and/or Spark
+	- Comfortable working in a dynamic, research-oriented group with several ongoing concurrent projects
++ skill set:
+	- Develop ETL operations using Python, Spark, SqlServer, Redshift and Kafka.
+	- Develop the core tooling library to support Airflow data pipelines.
+	- Design and implement the testing framework for Airflow dags and write test cases.
+	- Document our systems for internal and external stakeholders
+	- Support business stakeholders, analysts and data scientists on diverse projects.
+	- Monitor and debug data pipelines running on Airflow.
+	- Participate in code reviews.
+	- Deliver quality work on tight deadlines.
+	- Experience building systems with a framework, ideally Airflow (web frameworks are helpful, too)
+	- Experience with data manipulation tools like Pandas, or ideally Spark
+	- Experience with test automation
+	- Experience accessing data via an API
+	- Total control of Git
+	- Working knowledge of Linux
+	- Deployment tools (i.e. Ansible, Puppet, Chef)
+	- Working knowledge of set-based querying (joins, etc...) ideally indexing, too.
+	- Hadoop/Spark experience
+	- Flume/Gobblin/Kinesis
+	- AWS experience
+	- Web analytics experience
+	- Docker experience
+	- Jupyter (notebook) experience
+	- Log processing experience
++ skill set:
+	- Knowledge of JIRA, Test Rail, Jenkins, Splunk, New Relic, Allure Reports
+	- Knowledge of Selenium or TestCafe or Cypress is a bonus
++ skill set:
+	- Experience with modern web frameworks, like Django, Flask, or Rails (Ruby)
+	- Experience with modern Javascript technologies like Node.js, React, Webpack and ESLint plugins
+	- Culture of code reviews and collaborating closely with other people (not a solo hacker)
+	- You are familiar with translation management/memory tools.
+	- Continuous integration & continuous deployment of localized product experience.
++ skill set:
+	- Design fault tolerant systems that can scale, and allow us to move quickly without impacting customer access
+	- Build observable systems that track important metrics and automatically notifies when something is off
+	- Experience with multi-region data center architecture
+	- Experience working with a distributed service-oriented architecture
+	- Experience building admin features in SaaS applications
+	- Experience with modern security and access control practices
+	- Experience with continuous integration (frequent deployments)
+	- Experience with GraphQL
+	- Material contributions to open source projects
+	- Linux (Ubuntu) configuration and administration
++ skill set:
+	- Back End: We write lots of micro-services, primarily with Java 8. Our APIs are RESTful and use the minimal Dropwizard framework. We take advantage of Kafka, Spark, Hadoop for processing volumes of data.
+	- Front End: Our web applications are complex, single-page apps written in JavaScript (React, ECMAScript 6, Sass).
+	- Core Data, Infrastructure, & Reliability: Building the systems that power thousands of services with Singularity on Apache Mesos, and empowering access to massive datasets with HBase, Elastic Search, ZooKeeper, Redis, MySQL, and Memcached.
++ Are language agnostic. We aren’t overly concerned with tech stack - if you are interested in learning new things, we’re interested in teaching you.
++ Key Performance Indicator (KPI) definition and propagation. Uses statistical inference to determine what KPIs are truly impactful to our customer engagement and adoption efforts. Work cross-functionally to make sure these KPIs are available for all relevant data sources and business units.
++ Refactoring existing C++ libraries for modularity and extensibility.
++ To bring visualization and easy-to-use data analysis tools to our users, our research and development teams work on full data processing cycle: from database’s query processing, to data science (AI, machine learning, etc.), UI design, and cloud computing.
++ Integrate our data pipeline with available Augmented Analytics models, tools, and applications.
++ Leverage and advance our query processing engine to build a data pipeline that enables the development of features and integration with available Augmented Analytics models, tools, and applications.
++ TeamCity: the Hassle-Free CI and CD Server by JetBrains
++ skill set:
+	- Strong understanding of core Hadoop concepts including Yarn, MapReduce, Hive, Pig, Sqoop, HDFS
+	- Experience implementing large scale data loading, manipulation, processing and exploration using a range of AWS based technologies such as Spark, Kinesis, Athena, RedShift, Postgres etc
+	- Extensive experience in data profiling, source-target mappings, ETL development, SQL optimisation, testing and implementation
 
 
 
