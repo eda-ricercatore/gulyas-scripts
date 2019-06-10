@@ -256,6 +256,68 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 
 
 
++ NOCS 2019, IEEE/ACM International Symposium on Networks-on-Chip
+	- https://www.engr.colostate.edu/nocs2019/
+	- New York, NY.
+	- October 17–18, 2019.
+	- Submission deadline: May 10 and 17, 2019.
+
+
++ FMCAD, International Conference on Formal Methods in Computer-Aided Design
+	- https://fmcad.forsyte.at/FMCAD19/
+	- San Jose, California.
+	- October 22-25, 2019.
+	- Submission deadline: ~~May 10 and 17, 2019.~~ May 17 and 24, 2019. (Extended)
+
+
++ ICRC, IEEE International Conference on Rebooting Computing
+	- http://icrc.ieee.org/cfp/
+	- San Francisco Bay Area, California.
+	- November 6-8, 2019.
+	- Submission deadline: May 12 and 20, 2019.
+
+
+
+
++ HPEC, IEEE High Performance Extreme Computing Conference
+	- http://ieee-hpec.org
+	- Waltham, MA
+	- September 24-26, 2019.
+	- Submission deadline: May 24, 2019. (extended deadline)
+
+
++ IISWC, IEEE International Symposium on Workload Characterization
+	- http://www.iiswc.org/
+	- http://www.iiswc.org/iiswc2019/index.html
+	- Orlando, FL.
+	- November 3-5, 2019
+	- Submission deadline: May 24 and 31, 2019
+
++ HiPEAC 2020, International Conference on High-Performance and Embedded Architectures and Compilers
+	- https://www.hipeac.net/2020/bologna/#/
+	- Bologna, Italy.
+	- January 20-22, 2020.
+	- Submission deadline: June 1, 2019.
+
+
++ MEMOCODE'19, ACM-IEEE International Conference on Formal Methods and Models for System Design
+	- https://memocode.github.io/2019/
+	- San Diego, CA.
+	- October 9-11, 2019.
+	- Submission deadline: May 31 and June 7, 2019
+
+
+
+
+
+
++ ICCD, IEEE International Conference on Computer Design
+	- https://www.iccd-conf.com/Home.html
+	- Abu Dhabi, United Arab Emirates.
+	- November 17-20, 2019.
+	- Submission deadline: June 21 and 28, 2019.
+
+
 
 
 + RSP, International Workshop on Rapid System Prototyping
@@ -1413,66 +1475,6 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 	- Submission deadline: May 6 and 13, 2019.
 
 
-+ NOCS 2019, IEEE/ACM International Symposium on Networks-on-Chip
-	- https://www.engr.colostate.edu/nocs2019/
-	- New York, NY.
-	- October 17–18, 2019.
-	- Submission deadline: May 10 and 17, 2019.
-
-
-+ FMCAD, International Conference on Formal Methods in Computer-Aided Design
-	- https://fmcad.forsyte.at/FMCAD19/
-	- San Jose, California.
-	- October 22-25, 2019.
-	- Submission deadline: ~~May 10 and 17, 2019.~~ May 17 and 24, 2019. (Extended)
-
-
-+ ICRC, IEEE International Conference on Rebooting Computing
-	- http://icrc.ieee.org/cfp/
-	- San Francisco Bay Area, California.
-	- November 6-8, 2019.
-	- Submission deadline: May 12 and 20, 2019.
-
-
-
-
-+ HPEC, IEEE High Performance Extreme Computing Conference
-	- http://ieee-hpec.org
-	- Waltham, MA
-	- September 24-26, 2019.
-	- Submission deadline: May 24, 2019. (extended deadline)
-
-
-+ IISWC, IEEE International Symposium on Workload Characterization
-	- http://www.iiswc.org/
-	- http://www.iiswc.org/iiswc2019/index.html
-	- Orlando, FL.
-	- November 3-5, 2019
-	- Submission deadline: May 24 and 31, 2019
-
-+ HiPEAC 2020, International Conference on High-Performance and Embedded Architectures and Compilers
-	- https://www.hipeac.net/2020/bologna/#/
-	- Bologna, Italy.
-	- January 20-22, 2020.
-	- Submission deadline: June 1, 2019.
-
-
-+ MEMOCODE'19, ACM-IEEE International Conference on Formal Methods and Models for System Design
-	- https://memocode.github.io/2019/
-	- San Diego, CA.
-	- October 9-11, 2019.
-	- Submission deadline: May 31 and June 7, 2019
-
-
-
-
-
-
-+ ICCD, IEEE International Conference on Computer Design
-	- https://www.iccd-conf.com/Home.html
-	- Abu Dhabi, United Arab Emirates.
-	- November 17-20, 2019.
-	- Submission deadline: June 21 and 28, 2019.
 
 
 
