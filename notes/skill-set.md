@@ -3485,8 +3485,26 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Excellent understanding of SQLAlchemy, data modelling, Alembic, Postgres, Celery, Redis.
 	- 3 to 5 years prior related experience in developing web applications, graduate experience, or demonstrated success in development with DrugDev Spark or equivalent system
 + skill set:
-	- Experience with the [Common Workflow Language (CWL)](https://www.commonwl.org/), Arvados, PERL, C++, AWS, Docker
-
+	- Experience with the [Common Workflow Language (CWL)](https://www.commonwl.org/), [Arvados](https://arvados.org/), PERL, C++, AWS, Docker
+	- [Dockstore, developed by the Cancer Genome Collaboratory, is an open platform used by the GA4GH for sharing Docker-based tools described with the Common Workflow Language (CWL), the Workflow Description Language (WDL), or Nextflow (NFL)](https://dockstore.org/)
+	- [Nextflow](https://www.nextflow.io/)
+	- [Workflow Description Language (WDL)](https://software.broadinstitute.org/wdl/)
+	- https://fairsharing.org/bsg-s000606/
+	- https://dnastack.com/#/
+	- https://curoverse.com/about
++ skill set:
+	- Java (Spring Boot, Java EE)
+	- Google Cloud Platform
+	- Relational Databases (MySQL, PostgreSQL, BigQuery)
+	- REST and OpenAPI
+	- JavaScript (AngularJS)
+	- TypeScript (Angular)
+	- 12-factor application model
+	- Bash
+	- Git
+	- WDL (Cromwell)
+	- Microservices, Docker, and Kubernetes
+	- Continuous deployment
 
 
 
