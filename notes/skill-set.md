@@ -3444,14 +3444,48 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Strong understanding of core Hadoop concepts including Yarn, MapReduce, Hive, Pig, Sqoop, HDFS
 	- Experience implementing large scale data loading, manipulation, processing and exploration using a range of AWS based technologies such as Spark, Kinesis, Athena, RedShift, Postgres etc
 	- Extensive experience in data profiling, source-target mappings, ETL development, SQL optimisation, testing and implementation
-
-
-
-
-
-
-
-
++ Identify scaling bottlenecks and propose solutions.
++ Preferred (but not essential) experience any Big Data technologies such as languages like R, Hadoop, Machine Learning and Data Lakes
++ semi-supervised learning
++ Experience with or exposure to Big Data (Hadoop/YARN, Spark, Nifi, Storm, Cassandra, Solr) is a definite plus.
++ skill set:
+	- Experience with NoSQL databases, such as HBase, Cassandra, MongoDB
+	- Experience with any of the following distributions of Hadoop - Cloudera/MapR/Hortonworks.
+	- Strong experience with Apache Spark, Hive/Impala and HDFS
+	- Familiar with Python, Unix/Linux, Git, Jenkins, JUnit and ScalaTest
+	- Proficient in Scala, Java and SQL
+	- Other functional Languages such as Haskell and Clojure
+	- Big Data ML toolkits such as Mahout, SparkML and H2O
+	- Apache Kafka, Apache Ignite and Druid
+	- Container technologies such as Docker
+	- Cloud Platforms technologies such as DCOS/Marathon/Apache Mesos, Kubernetes and Apache Brooklyn.
++ Familiarity with Agile methodologies, such as Scrum or Kanban, as well as software development practices such as Continuous Integration, Test-Driven Development and DevOps.
++ Advanced level programming skills in Python, ideally developed from experience working on long-term commercial projects, including significant experience using SciPy and machine-learning packages (Numpy, Pandas, scikit-learn, etc) for the development of maintained components. Additional experience using PySpark a big plus.
++ skill set:
+	- Working experience of Databricks or similar
+	- Knowledge of concepts such as data warehouse, star schemas, KPIs
+	- Hands on experience with Linux, HDFS, HIVE, HADOOP
+	- Experience with ETL / Informatica, JSON structures and REST Based web services a plus
++ Second, help build a Data Science team to support the delivery of the Predictive Analytics core AI offerings for US-based pharmaceutical companies. These offerings include developing algorithms to find undiagnosed patients (often patients with rare diseases) or algorithms to predict patients likely to experience rapid disease progression and / or switch therapies. These core offerings involve very large datasets (typically many millions of patients) extracted from claims and prescription data and use Python and PySpark tools and libraries as part of IQVIA’s Hadoop cloud environment.
++ In depth experience with Spark/Hadoop and either Theano/Tensorflow/Caffe/Torch.
++ Here are some of the key technologies used to build our document management platform and its applications.
+	- Server: REST, Scala, SQL, Java
+	- Client: JavaScript, React, HTML5, Less/CSS, Kendo UI, webpack
+	- Database & Search: PostgreSQL, Solr
+	- Build Automation: sbt, webpack, Bamboo
+	- Tools & Infrastructure: JIRA, Crucible+Fisheye, git, nexus
+	- Technical/functional expertise .
++ skill set:
+	- ***Competence with industry-standard tools like: Git, npm, JIRA, Docker, etc.***
+	- Comfortable with Cloud services, specifically AWS services (in particular: ECS, EC2, S3, ECR) and their respective APIs, is a major plus.
+	- Experience building for SaaS/PaaS and distributed applications.
+	- Intimate knowledge of web services and building and interacting with REST APIs is essential.
++ skill set:
+	- Experience of working with Flask (or similar web framework) to build APIs.
+	- Excellent understanding of SQLAlchemy, data modelling, Alembic, Postgres, Celery, Redis.
+	- 3 to 5 years prior related experience in developing web applications, graduate experience, or demonstrated success in development with DrugDev Spark or equivalent system
++ skill set:
+	- Experience with the [Common Workflow Language (CWL)](https://www.commonwl.org/), Arvados, PERL, C++, AWS, Docker
 
 
 
