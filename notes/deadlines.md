@@ -260,6 +260,7 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 
 + RSP, International Workshop on Rapid System Prototyping
 	- http://conferences.telecom-bretagne.eu/rsp-symposium/cfp/
+	- https://www.esweek.org/rsp-about
 	- New York, NY.
 	- Formerly, International Symposium on Rapid System Prototyping
 	- Submission deadline: June 11 and 18, 2019.
@@ -1249,7 +1250,7 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 	- EMSOFT, ACM SIGBED International Conference on Embedded Software
 	- Internet of Medical Things (IoMT) track
 	- International Symposium on Networks-on-Chip (NOCS); mentioned later in greater details.
-	- **Find out CFP deadline for "RSP, International Symposium on Rapid System Prototyping".**
+	- **"RSP, International Symposium on Rapid System Prototyping".**
 
 
 
@@ -1463,11 +1464,8 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 	- Submission deadline: May 31 and June 7, 2019
 
 
-+ RSP, International Symposium on Rapid System Prototyping
-	- https://www.esweek.org/rsp-about
-	- VENUE
-	- Submission deadline: June, 2019.
-	- ***Find out when is the CFP deadline.***
+
+
 
 
 + ICCD, IEEE International Conference on Computer Design
@@ -1714,6 +1712,18 @@ For cell-library implementation, circuit simulation (or, logic simulation) for n
 - IEEE TMSCS
 - IEEE TC
 - ACM JACM
+
+
+
+##	Journals for Side Projects
+
+
+
+
+
+
+
+
 
 
 #	Conferences and Journals in Signal Processing and Communication/Information Theory
