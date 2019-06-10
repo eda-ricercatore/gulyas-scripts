@@ -268,6 +268,19 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 
 
 
++ Research in Adaptive and Convergent Systems, RACS 2019
+	- https://oslab.ssu.ac.kr/CFP/RACS2019/
+	- Chongqing, China.
+	- September 24-27, 2019.
+	- Submission deadline: June 14, 2019.
+
+
+
+
+
+
+
+
 
 + NDSS, Network and Distributed System Security Symposium (2 deadlines)
 	- http://www.ndss-symposium.org
@@ -452,6 +465,7 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 + SAC2019, ACM/SIGAPP Symposium On Applied Computing
 	- https://www.sigapp.org/sac/sac2020/
 	- Brno, Czech Republic.
+	- March 30-April 3, 2020.
 	- Submission deadline: September 15, 2019.
 
 
@@ -596,6 +610,7 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 	- https://www.sigmetrics.org/sigmetrics2019/call_for_papers.html
 	- Phoenix, AZ.
 	- June 24-28, 2019.
+	- Submission deadline (For Summer submissions): August 13 and 20, 2018.
 	- Submission deadline (For Fall submissions): October 22 and 29, 2018.
 	- Submission deadline (For Winter submissions): February 11 and 18, 2018.
 
