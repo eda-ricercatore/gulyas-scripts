@@ -3528,7 +3528,127 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Experience with integration of data from multiple data sources
 	- Experience with NoSQL databases, such as HBase, Cassandra, MongoDB
 	- Experience with any of the following distributions of Hadoop - Cloudera/MapR/Hortonworks.
-
+	- Other functional Languages such as Haskell and Clojure
+	- Big Data ML toolkits such as Mahout, SparkML and H2O
+	- Apache Kafka, Apache Ignite and Druid
+	- Container technologies such as Docker
+	- Cloud Platforms technologies such as DCOS/Marathon/Apache Mesos, Kubernetes and Apache Brooklyn.
++ skill set:
+	- You will join a team of highly talented Engineers and Data Scientists, with your main focus being to write highly performant and scalable code that will run on top of our Big Data platform (Spark/Hive/Impala/Hadoop). As such, you will work closely with the Data Science team to support them in the ETL process (including the cohorts building efforts).
+	- Working in a cross-functional team
+	- Building scalable and high-performant code
+	- Mentoring less experienced colleagues within the team
+	- Implementing ETL and Feature Extractions pipelines
+	- Monitoring cluster (Spark/Hadoop) performance
+	- Working in an Agile Environment
+	- Refactoring and moving our current libraries and scripts to Scala/Java
+	- Enforcing coding standards and best practices
+	- Working in a geographically dispersed team
+	- Working in an environment with a significant number of unknowns – both technically and functionally.
+	- BSc or MSc in Computer Science or related field
+	- Strong analytical and problem-solving skills with personal interest in subjects such as math/statistics, machine learning and AI
+	- Solid knowledge of data structures and algorithms
+	- Experience working in an Agile environment using Test Driven Development (TDD) and Continuous Integration (CI)
+	- Experience refactoring code with scale and production in mind.
+	Proficient in Scala, Java and SQL
+	- Strong experience with Apache Spark, Hive/Impala and HDFS
+	- Familiar with Python, Unix/Linux, Git, Jenkins, JUnit and ScalaTest
+	- Experience with integration of data from multiple data sources
+	- Experience with NoSQL databases, such as HBase, Cassandra, MongoDB
+	- Experience with any of the following distributions of Hadoop - Cloudera/MapR/Hortonworks.
+	- Other functional Languages such as Haskell and Clojure
+	- Big Data ML toolkits such as Mahout, SparkML and H2O
+	- Apache Kafka, Apache Ignite and Druid
+	- Container technologies such as Docker
+	- Cloud Platforms technologies such as DCOS/Marathon/Apache Mesos, Kubernetes and Apache Brooklyn.
++ skill set:
+	- Java, Scala & Python
+	- Kubernetes & Docker
+	- Data analysis tools such as R
+	- We rely on Big Data / Hadoop technologies such as Apache Spark, Impala and Amazon Redshift
+	- Participate in Agile practices such as daily stands-ups, sprint planning and retrospectives
++ skill set:
+	- Serving in the role of Senior Security Researcher, you will have a direct impact on the direction of the company by researching threats, understanding how they appear on the network, reversing malware and helping technically shape the product direction.
+	- Perform leading edge security research – malware analysis, fuzzing, web-based threats, network/protocol analysis, etc. – and generate intelligence which will be incorporated into the product
+	- Create and enhance the company’s security content framework, including malware intelligence and the process workflow
+	- Research new threat detection technologies and investigate approaches
+	- Apply your expert insights and experience in classifying new threats and mitigation techniques
+	- Collaborate across Vectra to identify new detection models – working hand-in-hand with members of the data science team
+	- Pursue security research topics that contribute to the knowledge and enumeration of new threats
+	- Provide an attackers-eye-view to the evidence presented by Vectra products and educate customers to the technical nature of the threat
+	- 5+ years direct experience in areas of security research, malware analysis, networking/system administration or software development
+	- 5+ years of attack and penetration testing experience
+	- Advanced technical degree
+	- Knowledgeable in exploitation technology such as shellcode, heap spray, ROP, etc.
+	- Knowledgeable in network and application protocols, and traffic analysis (network forensics)
+	- Proficiency with reverse engineering tools like standard debuggers, IDA pro, etc.
+	- Proficiency with network traffic analysis and network forensics tools such as Wireshark and tcpdump
+	- Proficiency with host forensics and memory analysis tools related to studying active exploitation
+	- Knowledge of corporate security investigation and incident response processes, along with malware detection and mitigation technologies
+	- Solid programming skills with scripting languages such as Python
+	- Deep working knowledge of networking and network application concepts: TCP/IP, HTTP, TLS, FTP, IRC, RPC, DNS, SMB, Kerberos, etc.
+	- Strong problem solving, troubleshooting and analysis skills
+	- Excellent written and verbal communication skills
+	- Excellent inter-personal and teamwork skills
+	- Proactive, hard-working team player with a good sense of humor
+	- Self-driven, able to efficiently work remotely without close supervision
+	- Professional or academic research in advanced security threats
+	- Operational experience in infosec as an incident handler, administrator, or internal consultant
+	- Experience with big data technologies such as Hadoop and Spark
+	- Participation in the broader infosec community with requisite contacts and access to external intelligence sources
+	- Understanding the lifecycle and economics of modern malware and advanced threats
++ skill set:
+	- Knowledge of web language abstractions (Babel, Sass, etc.)
+	- Experience developing bespoke data visualizations with D3.js
+	- Understanding of resource-driven API structure
+	- Experience developing complex single-page applications with a UI framework (e.g. Ember, Angular, React, Vue)
++ skill set:
+	- Work with product management to help define requirements for new high value features for customers
+	- Help break down and plan work for your team
+	- Help continue to grow the team through interviewing and hiring
+	- Mentor and grow team members both technically and non-technically
+	- Participate in architecture discussions and guide the technical direction of the team
+	- Ensure smooth delivery of software with automated tests in a modern CI toolchain
++ skill set:
+	- Design and implement high-performance libraries/APIs for machine learning and statistical techniques.
+	- Experience with streaming and event-based programming
+	- Experience with continuous integration and deployment workflows
++ skill set:
+	- Node.js or Python, JavaScript, HTML, CSS. Experience with at least one major web framework (django / symfony / express or others)
+	- Decent knowledge of modern frontend framework or libraries, preferably React
+	- Voracious appetite for learning
+	- Experience with Elastic Search or alternative search data technology, managing significant amount of data
+	- Advanced experience with AWS (Lambda, DynamoDB, EC2, etc.) with particular focus on scalability.
+	- Previous experience with CI/CD, preferably with Jenkins, deploying multiple times a day to production.
+	- Experience with CapnProto or BRO logging format is a plus.
++ skill set:
+	- Database hands-on experience (MySQL, couchdb, ElasticSearch, etc.)
+	- Understand modern web app architecture and be able to develop features in JavaScript as well as implement the Python-based web server APIs that field requests and responses.
+	- Excellent collaboration skills are required due to the cross functional communication necessary to help build the product.
+	- Experience with Python, JavaScript, and a modern web framework (e.g. Ember, React, etc.)
+	- Database hands-on experience (MySQL, couchdb, ElasticSearch, etc.)
+	- Experience with Python web framework (e.g. Django)
+	- Familiarity with web-based data visualization libraries (e.g. D3.js)
+	- Understanding of semantic markup (HTML) and web styling
+	- Knowledge of web language abstractions, such as ES6/ES2018, CSS preprocessors, etc.
++ Comfortable with AWS/Azure/On Premiss  deployments, networking, and security best practices.
++ skill set:
+	- Database hands-on experience (Elasticsearch and Mongo preferred)
+	- Administration of systems including Jenkins, Elasticsearch, Kibana, Mongo, Grafana, etc.
++ skill set:
+	- Tensorflow
+	- Object oriented programming, C++ or Java
+	- Spark or Map Reduce
+	- SQL and noSQL database experience
+	- Linux
+	- Source control experience, preferably GIT
++ skill set:
+	- Familiarity with Hadoop, Map/Reduce, Spark, and distributed computing
+	- Understanding of data pipeline architectures (e.g. Lambda, Kappa)
+	- Database hands-on experience (MySQL, MongoDB, couchdb, ElasticSearch, etc.)
+	- Knowledge of real-time data pipelines (e.g. Kafka and Spark Streaming)
+	- Experience with continuous integration and deployment workflows
+	- Experience with Docker, AWS/Azure/On-Prem deployments, and networking
 
 
 
