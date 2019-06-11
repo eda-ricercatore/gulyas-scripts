@@ -3649,7 +3649,48 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Knowledge of real-time data pipelines (e.g. Kafka and Spark Streaming)
 	- Experience with continuous integration and deployment workflows
 	- Experience with Docker, AWS/Azure/On-Prem deployments, and networking
-
++ skill set:
+	- The candidate must have a sufficient understanding of and practical experience with classic statistical modeling techniques (e.g. logistic regression, CART, K-means clustering) and machine learning algorithms (e.g. gradient boosting, neural networks, random forests)
+	- Comfort with ambiguous and large streams of data across different formats and entry points; Hands-on experience working with large data processing (processing large datasets); hands on experience with cloud environments (e.g. AWS, Azure) and Big Data technologies (e.g. Hadoop, Spark)
+	- Expert-level Python, R and SQL coding; Experience with TensorFlow or Microsoft Cognitive Tool Kit required
+	- Experience developing high value features; Hands-on experience deploying models in real-time environments
++ skill set:
+	- NBA's Team Marketing and Business Operations ("TMBO") group is a unique in-house consulting arm within the NBA league office that drives best practice sharing and innovation across all NBA, WNBA, NBA G-League and NBA2K teams.
+	- The Data Scientist role will be a technical expert within TMBO in all matters surrounding statistical analysis, data manipulation and interpretation, and process automation. You will be a thought leader, tasked with the responsibility to leverage the NBA’s various internal data sources to create new and innovative analytical products and outputs to inform league executives about the state of team businesses. You will uncover insights through predictive analyses and data visualization, drive better decision making by using various statistical modeling techniques, and promote efficiencies in reporting to various stakeholder groups within the league office. The demand for advanced analytical solutions to business operations issues in sports continues to grow exponentially, and this is your opportunity to grow with us in a fast-paced, collaborative environment.
+	- Help lead TMBO’s efforts to develop and maintain analytical products for communicating the state of team businesses to key stakeholders at the league office
+	- Work with TMBO executives to further proprietary analytical research for presentation to teams at various league workshops
+	- Enhance the current report generation processes within TMBO through the lens of potential automation and conversion to different, more useful development environments (e.g., R, Python, Tableau, etc.)
+	- Develop an understanding of current needs in data collection at the league office and create solutions to gather the required information
+	- Perform statistical analysis and create and maintain descriptive and predictive models as needed on a project basis
+	- Demonstrated skills, knowledge and experience in converting data into insights
+	- Passion for developing methods to streamline processes and data flow through automation
+	- Experience in understanding existing data structures, including collection and standardization processes, and ability to help shape future processes going forward with an eye toward business needs
+	- Ability to consult with business analysts and operators to understand their data needs, develop systems to access the data and convert the outputs into various formats for analysis
+	- Comfort with ambiguity in data and experience in working with partners to optimize third-party data streams
+	- Detail-oriented, extremely organized with ability to manage projects from inception through execution
+	- Strong communication skills, both verbal and written, particularly for presentations
+	- Expertise in leveraging R and Python to perform statistical analysis, build models and automate processes
+	- Expertise in using SQL to tap expansive databases
+	- Expertise in creating informative data visualizations through Tableau
+	- Familiarity with other coding languages, statistical analysis tools and business intelligence platforms preferred
+	- Familiarity with Microsoft Office software required, strong skills in Excel and VBA preferred
+	- Expertise in developing, executing and implementing: various classification and regression models and familiarity with more advanced machine learning techniques
+	- Expertise in parsing existing code and developing ways to increase its efficiency
+	- Familiarity with accessing and manipulating data via APIs
+	- Experience in an advanced analytical role, preferably in an industry focused on leveraging data to develop loyal fans or customers
++ skill set:
+	- Throughout the year, instructors will work on lecturing the course, curriculum development for new and existing courses, hosting office hours, managing a Teaching Assistant, assist with marketing, and others on an hourly basis.
+	- Leading course discussions
+	- Providing personalized support to students
+	- Managing a Teaching Assistant
+	- Hosting office hours
+	- Improving the quality of our curriculum
+	- Participating in course marketing activities
+	- Is a data scientist with outstanding knowledge of and experience in Python, Calculus, Linear Algebra, Probability, Statistics and various Data Science concepts and algorithms which include supervised and unsupervised learning, dimensionality reduction, exploratory data analysis, and programming best practices
+	- Is equally passionate about data science and teaching
+	- Strong communication skills
+	- Preferably has teaching experience alongside data science
+	- Approaches problems with a design perspective
 
 
 
