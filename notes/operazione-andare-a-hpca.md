@@ -933,7 +933,77 @@ Design for Security
 + \S15 Plotting
 + \S14 Input/Output (I/O) operations
 	(or I/O operazioni)
-
++ **Things to mull about**
+	- python llvm
+	- compiling for object-functional programming
+		* https://www.reddit.com/r/ProgrammingLanguages/comments/8ggx2n/is_llvm_a_good_backend_for_functional_languages/
+			+ I want to start on a small toy language which borrows a lot from Elm ( purely function, strong typing) but is compiled. I was wondering if I should use LLVM as the backend for it? I read that functional language compilers are based on CPS instead of SSA. AFAIk, LLVM doesnt have CPS support. Should I go with LLVM? Or are there other options which fit my use case? For me the ease of use and getting started are the most important bits. See https://www.reddit.com/r/ProgrammingLanguages/comments/8ggx2n/is_llvm_a_good_backend_for_functional_languages/.
+			+ The Implementation of Functional Programming Languages by Simon Peyton-Jones (1987). This is about Miranda-like languages (Haskell is the modern language, though Haskell didn’t exist yet), and covers all of the interesting things that make compiling for these languages different. Several abstract machines are covered: lambda calculus, SK combinators, and the G machine. This book is available for free online. Once you’ve read this book, you can read about how things are done today.
+				- http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.53.3729
+				- https://www.microsoft.com/en-us/research/publication/the-implementation-of-functional-programming-languages/
+				- Warren’s Abstract Machine: A Tutorial Reconstruction, by Hassan Aït-Kaci. This is about Prolog specifically, but logic languages have many of the same issues as functional languages.
+				- http://wambook.sourceforge.net/
+				- http://hassan-ait-kaci.net/
+			+ Let’s go through some of the keynote differences between the 2 paradigms and how they are compiled:
+				- recursion - it is compiled the same, HOWEVER the run-time code might act differently, as most FP languages implement tail recursion, which means state between calls won’t be held onto the stack, except for the last one. In most imperative programming languages, the calls keep adding up until they can eventually blow up - this too can happen in FP languages, as a function has to be “in tail position”
+				- expressions (if, while, for, etc) - no difference (except maybe for the part when it will throw an error if an expression is not complete - ie if without the else part, else all is good)
+				- immutability - no difference
+				- higher order functions (map, filter, reduce) - this is where things are completely different. The compiler has to, first, create the lambda function, and then use that instead. However, as most programming languages nowadays also support hof, I wouldn’t say it’s a big deal. A heap is still necessary as, after all, FP languages still work upon objects, the difference being HOW they do so. Big differences exist only HOW you program, not how it is interpreted/compiled.
+			+ Functional Programming: Application and Implementation by Peter Henderson (1980). This covers a Lisp-like language (Lispkit) based on the SECD machine.http://skelet.ludost.net/sec/
+			+ There's really not a lot of difference in how most parts of functional and object-oriented languages are compiled, and a heap with garbage collection is central to both.
+			+ The main difference is that compilers for functional languages focus on optimizing function calls while compilers for object-oriented languages focus on optimizing method calls. In particular, functional language compilers typically:
+				- Do tail-call optimization.
+				- Try to avoid building closures or thunks if this can be avoided (for example by specializing calls to map and fold, or in lazy languages by strictness analysis)
+			+ Additionally, many functional language compilers also
+				- Optimize pattern matching to avoid repeated tests.
+				- Symbolically compose functions.
+				- Exploit that functions are pure to enable other optimizations.
+			+ In contrast, object-oriented language compilers typically:
+				- Try to avoid virtual calls, for example by exploiting that a class or method is final (even when not declared as such).
+				- Omit self pointers when they are not needed.
+				- Analyze when null-pointer checks are not needed.
+		* The latter is strictly speaking not specific to object-oriented languages, but most functional languages do not have null pointers, while most object-oriented languages implicitly allow any object variable to be a null pointer.
+		* https://www.semanticscholar.org/paper/TIL%3A-A-Type-Directed-Optimizing-Compiler-for-ML-Tarditi-Morrisett/03e7b7bdb9377f521b84e97c6d9e051d1a6f42eb
+	- Opportunities associated with programming languages.
+		* The Eighth International Workshop on Static Analysis for Systems Biology
+			+ equivalences and equivalence checking techniques,
+			+ constraint-based and stoichiometric analysis,
+			+ static analysis in verification of molecular devices design,
+		* https://en.wikipedia.org/wiki/Java_memory_model
+		* https://www.cs.cmu.edu/~jyang2/people.html
+			+ http://www.cs.cmu.edu/Groups/pop/
+			+ Our group mission is to take over the entire world with sound reasoning and provable guarantees. 🌈
+			+ https://www.cs.cmu.edu/~jyang2/research.html
+			+ Exploiting Structure to Analyze Rule-Based Biological Models
+				- Understanding the mechanisms behind cellular signalling would help us understand and cure many diseases, but the complexity of cellular signalling precludes understanding. We are interested in developing language constructs and programming tools for modeling cellular signalling as programs. Our work on executable knowledge exploits a deep connection between programming language semantics and semantics to support a new way of modeling. We use Kappa, a rule-based graph-rewrite programming language that allows us to encode possible transformations over graphs representing the state of the cell. Kappa's precise operational semantics allow us to not only simulate the programs, but also perform static program analysis. We are currently working as part of the Big Mechanism project to mine models from the literature. Below are some project directions.
+				- Formal methods techniques and tools for exploring a space of possible models.
+				- Tools for analyzing causal relationships between rules.
+				- Statistical analyses for answering questions about rules and rates.
+				- Applications of rule-based modeling and causal analysis in traditional Computer Science domains.
+			+ Policy-agnostic programming for security and privacy. As an alternative to approaches for detecting information leaks, my collaborators and I propose a new programming model that factors out the specification of security and privacy concerns from the rest of the program and enforces the properties by construction. In our work on Jeeves we designed a language semantics for policy-agnostic programming with informaton flow policies and developed dynamic and static enforcement techniques. We are currently interested in (1) extending the approach for statistical privacy and (2) techniques for retrofitting legacy code with the policy-agnostic model, for purposes of fixing bugs and interacting with new policies and code.
+			+ Rule-based programming for biological modeling. Traditionally, researchers model intracellular signalling using systems of ordinary differential equations (ODEs), but there are two problems with ODE models. First, a precise model requires a different ODE for each interaction between agents, causing ODE models to scale poorly with respect to number of agent types. Second, ODE models have little structure that we can exploit for scale-mitigating analyses. As an alternative, rule-based languages allow the representation of models as programs describing rewrites over graphs, where nodes correspond to proteins and edges describe protein complexes. Not only are these programs more concise than the corresponding ODE systems, but their structure also supports various analyses that are otherwise not possible. Our current work focuses on analyzing causal relationships between rules, and combining causal information with language design and model-checking techniques to create biologically relevant model analyses.
+			+ Factoring Privacy and Security Out of Programs
+				-Information leaks often occur because conditional access checks are intertwined with other functionality. We want to make software more secure by reducing opportunities for programmers to inadvertently leak information. Our prior work on the Jeeves programming language introduced the idea of policy-agnostic programming: separating privacy and security policies from the rest of the code while relying on the compiler/compile to implement policy checks. Jeeves enforces policies at runtime. Follow-up work on Lifty uses a static program repair-based approach for inserting the necessary conditional checks at compile-time, where the programmer specifies policies as refinement types. We are interested in, among other things, the following extensions of this work:
+				- Supporting policy-agnostic programming for legacy code.
+				- Policy-agnostic programming for statistical privacy.
+				- Extending these ideas to other domains, for instance resource usage.
+				- Conducting realistic case studies, for instance on health record systems.
+		* [How are algorithms, data structures, and architectures of compilers different between functional programming languages and object-oriented programming languages?](https://www.quora.com/anonymous/e4bb73303fdc413caa161b7a1e7d5460)
+		* https://en.cppreference.com/w/cpp/language/history
+			+ New language features: variable templates, polymorphic lambdas, lambda captures expressions, new/delete elision, relaxed restrictions on constexpr functions, binary literals, digit separators, return type deduction for functions, aggregate initialization for classes with brace-or-equal initializers.
+			+ New library features: std::make_unique, std::shared_timed_mutex and std::shared_lock, std::integer_sequence, std::exchange, std::quoted, and many small improvements to existing library facilities, such as two-range overloads for some algorithms, type alias versions of type traits, user-defined string, duration, and complex number literals, etc.
+				- Generic Lambdas - lambda expression can infer auto type parameters.
+				- Relaxed constexpr functions - now can contain conditionals, loops etc.
+				- Type inference for all functions, not only for lambdas.
+				- Template variables similar to template functions and classes.
+		* Not just lambdas!  Scala also has pattern matching, algebraic data types via case classes, type classes via implicits, tail-call optimisation, and immutability by default.  It also has far richer and more useable type inference.
+	- quantum computing
+		* [The only QC implementation that is not ultra-sensitive to EM (and often also thermal) noise are linear-optical quantum computers, simply because photons at low energies don’t interact with other photons (which electrical and magnetic fields are made of). They are sensitive to other things (such as mechanical vibrations).](https://www.quora.com/Are-quantum-computers-extra-susceptible-to-noise/answer/Vladislav-Zorov)
+	- software engineering practices
+		* [The Law of Demeter (LoD) or principle of least knowledge is a design guideline for developing software, particularly object-oriented programs. In its general form, the LoD is a specific case of loose coupling.](https://en.wikipedia.org/wiki/Law_of_Demeter)
+		* https://en.wikipedia.org/wiki/Principle_of_least_astonishment
+		* https://cacm.acm.org/magazines/2017/10/221326-a-large-scale-study-of-programming-languages-and-code-quality-in-github/fulltext
+		* In a certain perspective all good things in programming come from laziness. The problem with Python is that it makes hard things easy to code and it’s a lie. Some programming languages are more honest: we have all this effects, lets express this in the type system. How do we compose them, maybe we find a good abstraction? Monads, perfect! Recursion, inductive types - initial algebras, Lambek lemma. Continuations - Yoneda lemma. But wait, coeffects, corecursion and so on.
 
 
 

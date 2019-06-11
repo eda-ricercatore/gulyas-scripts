@@ -1667,9 +1667,34 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 	- **"Some examples of emerging topics in computing include: IT for Green, Synthetic and organic computing structures and systems, Advanced analytics, Social/occupational computing, Location-based/client computer systems, Morphic computer design, Electronic game systems, & Health-care IT."**
 	- https://www.computer.org/web/tetc
 + Journal of the ACM (JACM)
+	- The Journal of the ACM (JACM) provides coverage of the most significant work on principles of computer science, broadly construed. The scope of research we cover encompasses contributions of lasting value to any area of computer science. To be accepted, a paper must be judged to be truly outstanding in its field. JACM is interested in work in core computer science and at the boundaries, both the boundaries of subdisciplines of computer science and the boundaries between computer science and other fields.
+	- Algorithms and Combinatorial Optimization
+	- Algorithms and Data Structures
+	- Algorithms, Combinatorial Optimization, and Games
+	- Artificial Intelligence
+	- Complexity Theory
+	- Computational Biology
+	- Computational Geometry
+	- Computer Graphics and Computer Vision
+	- Computer-Aided Verification
+	- Cryptography and Security
+	- Cyber-Physical, Embedded, and Real-Time Systems
+	- Database Systems and Theory
+	- Distributed Computing
+	- Economics and Computation
+	- Information Theory
+	- Logic and Computation
+	- Logic, Algorithms, and Complexity
+	- Machine Learning and Computational Learning Theory
+	- Networking
+	- Parallel Computing and Architecture
+	- Programming Languages
+	- Quantum Computing
+	- Randomized Algorithms and Probabilistic Analysis of Algorithms
+	- Scientific Computing and High Performance Computing
+	- Software Engineering
+	- Web Algorithms and Data Mining
 	- https://jacm.acm.org/about.cfm
-	- "Logic and Computation"
-	- "Quantum Computing"
 + **ACM Journal on Emerging Technologies in Computing Systems (JETC)**
 	- https://jetc.acm.org/
 	- [Author Guidelines: Manuscript Preparation](https://jetc.acm.org/authors.cfm)
