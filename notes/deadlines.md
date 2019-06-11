@@ -1173,6 +1173,21 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 	- Minneapolis, MN.
 	- June 2-5, 2019.
 	- Submission deadline: ~~February 8, 2019~~ February 28, 2019
+	- Topics:
+		* Computational models and representation for data science
+			+ Tensor factorizations. Compressive sampling. Randomized linear algebra. Graph simplifications and multiresolution representations. Transformations and spectral representations. Distributed algorithms.
+		* Learning, modeling, and inference with data
+			+ High-dimensional spatio-temporal modeling. Graph signal processing. Theoretical limits. Anomaly detection. Graph learning. Statistical modeling of heterogeneous data types. Post-selection inference. Analysis of deep learning algorithms. Crowdsourcing. Stream mining. Statistical uncertainty quantification.
+		* Acquisition, storage, and retrieval for large-scale data science
+			+ Hardware and architectures. Software and Cyberinfrastructure. Protocols for networked storage. Compression for data storage. Sketching and streaming. Scaling up algorithms.
+		* Visualization, summarization, and analytics
+			+ Data presentation architectures and dashboards. Data visualization and human perception / cognition. Business intelligence. Data wrangling.
+		* Data science education
+			+ Innovative approaches to teaching data science. Data-informed learning theory. Learning analytics.
+		* Data science process and principles
+			+ Reproducible research. Open source data science. Workflow. Meta-analysis. Data science ethics. Algorithmic fairness. Bias in science.
+		* Applications
+			+ Social media, recommendation systems and collaborative filtering. Defense, intelligence and security. Biology and medicine. Astronomy and other physical sciences. Audio, image, video analytics and computer vision. Urban informatics. Social sciences. Business analytics, forensics and finance. Applications leveraging domain knowledge for data science.
 
 
 
