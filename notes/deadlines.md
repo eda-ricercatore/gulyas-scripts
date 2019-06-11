@@ -754,31 +754,42 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 
 
 + ETAPS, European Joint Conferences on Theory and Practice of Software
-	+ https://conf.researchr.org/home/etaps-2019
-	- Prague, Czech Republic
+	- https://www.etaps.org/
+	- https://conf.researchr.org/home/etaps-2019
+	- April 25 - May 1, 2020.
+	- Dublin, Ireland.
 	- Submission deadline: Nov 7 and Nov 15, 2018
-+ TACAS 2019, International Conference on Tools and Algorithms for the Construction and Analysis of Systems
++ TACAS 2020, International Conference on Tools and Algorithms for the Construction and Analysis of Systems
 	- https://conf.researchr.org/track/etaps-2019/tacas-2019-papers
-	- Prague, Czech Republic
+	- https://www.etaps.org/2020/tacas
+	- April 25 - May 1, 2020.
+	- Dublin, Ireland.
 	- Submission deadline: Nov 7 and Nov 15, 2018
-
 + ESOP, European Symposium on Programming
+	- https://www.etaps.org/2020/esop
 	- https://conf.researchr.org/track/etaps-2019/esop-2019-papers#Call-for-Papers
-	- Prague, Czech Republic
+	- April 25 - May 1, 2020.
+	- Dublin, Ireland.
 	- Submission deadline: Nov 7 and Nov 15, 2018
 + FASE, International Conference on Fundamental Approaches to Software Engineering
+	- https://www.etaps.org/2020/fase
 	- https://conf.researchr.org/track/etaps-2019/fase-2019-papers
-	- Prague, Czech Republic
+	- April 25 - May 1, 2020.
+	- Dublin, Ireland.
 	- Submission deadline: Nov 7 and Nov 15, 2018
 + FoSSaCS, International Conference on Foundations of Software Science and Computation Structures
+	- https://www.etaps.org/2020/fossacs
 	- https://conf.researchr.org/track/etaps-2019/fossacs-2019-papers#Call-for-Papers
-	- Prague, Czech Republic
+	- April 25 - May 1, 2020.
+	- Dublin, Ireland.
 	- Submission deadline: Nov 7 and Nov 15, 2018
 + POST, International Conference on Principles of Security and Trust
 	- https://conf.researchr.org/track/etaps-2019/post-2019-papers
-	- Prague, Czech Republic
+	- April 25 - May 1, 2020.
+	- Dublin, Ireland.
 	- Submission deadline: Nov 7 and Nov 15, 2018
-
++ ALGOSENSORS 2020, International Symposium on Algorithms and Experiments for Wireless Sensor Networks
+	- http://www.algosensors-symposium.org/
 
 
 
@@ -1123,9 +1134,12 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 	- CONFERENCE-SPECIFIC URL.
 	- http://www.computationalcomplexity.org/conferences.php
 	- http://computationalcomplexity.org
-	- New Jersey, NJ.
+	- https://www.computationalcomplexity.org/Archive/2019/cfp.php
+	- New Jersey, NJ in 2019. Saarbruecken, Germany in 2020.
 	- Conference dates: July 18-20, 2019.
+	- Conference dates: July 28-31, 2020.
 	- Submission deadline: February 19 2019.
+
 
 
 + LCTES, ACM SIGPLAN/SIGBED Conference on Languages, Compilers, Tools and Theory for Embedded Systems
@@ -1151,6 +1165,20 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 	- July 29-31, 2019.
 	- Submission deadline: February 25 and March 4, 2019.
 	- Extended submission deadline: March 4 and March 11, 2019.
+
+
+
+
++ SEA^2, Special Event on Analysis of Experimental Algorithms
+	- http://www.caopt.com/SEA2019/
+	- June 24-29, 2019.
+	- Kalamata, Greece.
+	- Submission deadlines: February 28, 2019 (extended)
+
+
+
+
+
 
 
 
@@ -1429,7 +1457,30 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 
 
 
-
++ ALGO 2019,
+	- https://algo2019.ak.in.tum.de/
+	- September 9-13, 2019.
+	- Munich, Germany.
+	- Organized by the European Association for Theoretical Computer Science (EATCS).
+		* http://eatcs.org/
+	- ESA 2019, European Symposium on Algorithms
+		* http://esa-symposium.org/
+		* https://algo2019.ak.in.tum.de/index.php/menue-esa/esa-call
+		* Submission deadline: April 26, 2019, 23:59 AoE (Anywhere on Earth).
+	- ALGOSENSORS, International Symposium on Algorithms and Experiments for Wireless Sensor Networks
+	- ATMOS, Workshop on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems
+	- IPEC, International Symposium on Parameterized and Exact Computation
+		* new techniques for the design and analysis of parameterized and exact algorithms;
+		* fixed-parameter tractability and kernelization results;
+		* parameterized complexity theory;
+		* parameterized (in)approximability results;
+		* relationships between parameterized complexity and traditional complexity classifications;
+		* applications of parameterized and exact computation; and
+		* implementation issues of exact, parameterized, and kernelization algorithms.
+		* Theoretically grounded studies on parameterized and exact computations and kernelization for real-world applications and algorithmic engineering are especially encouraged.
+		* Submission deadlines: May 29 and June 1, 2019.
+	- WAOA, Workshop on Approximation and Online Algorithms
+	- ALGOCLOUD, International Workshop on Algorithmic Aspects of Cloud Computing
 
 
 
@@ -1523,6 +1574,10 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 		* New and emerging application areas and computing trend
 	- https://www.computer.org/web/tmscs/about
 + IEEE Transactions on Sustainable Computing (T-SUSC)
+	- https://www.computer.org/csdl/journal/su
+	- https://mc.manuscriptcentral.com/tsusc-cs
+	- The IEEE Transactions on Sustainable Computing (TSUSC) is a peer-reviewed journal devoted to publishing high-quality papers that explore the different aspects of sustainable computing, over a wide range of problem domains and technologies from software and hardware designs to applications. Sustainability includes energy efficiency, natural resources preservation, and use of multiple energy sources as needed in computing devices and infrastructure.
+	- Solutions for these problems call upon a wide range of algorithmic and computational frameworks, such as optimization, machine learning, decision support systems, meta-heuristics, and game-theory. Contributions to TSUSC must address sustainability problems in computing and information processing environments and technologies, and at different levels of the computational process.
 + IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I)
 + IEEE Computer Architecture Letters (CAL)
 	- "IEEE Computer Architecture Letters is a rigorously peer-reviewed forum for publishing early, high-impact results in the areas of uni- and multiprocessor computer systems, computer architecture, microarchitecture, workload characterization, performance evaluation and simulation techniques, and power-aware computing. Submissions are welcomed on any topic in computer architecture, especially but not limited to: microprocessor and multiprocessor systems, microarchitecture and ILP processors, workload characterization, performance evaluation and simulation techniques, compiler-hardware and operating system-hardware interactions, interconnect architectures, memory and cache systems, power and thermal issues at the architecture level, I/O architectures and techniques, independent validation of previously published results, analysis of unsuccessful techniques, domain-specific processor architectures (e.g., embedded, graphics, network, etc.), real-time and high-availability architectures, reconfigurable systems."
@@ -1718,6 +1773,91 @@ For cell-library implementation, circuit simulation (or, logic simulation) for n
 
 
 ##	Journals for Side Projects
+
+###	Journals for Computational Engines
+
++ ACM Journal of Experimental Algorithmics (JEA):
+	- The first publication devoted entirely to experimental work in algorithms and data structures
+	- The Journal of Experimental Algorithmics (ISSN 1084-6654) is a high-quality journal devoted to the study of discrete algorithms and data structures from an empirical perspective. The journal welcomes original submissions that focus on design, implementation, and performance evaluation through a combination of experimentation and classical techniques.
+		* JEA joins [RCR: Replicated Computational Results Initiative](https://jea.acm.org/rcr_initiative.cfm)
+		* Authors of articles nearly-accepted in JEA will now be invited to apply for an RCR certificate attached to their article. For those that accept, a further reviewer will be appointed to ensure that their experimental results can be replicated. The RCR initiative aims to improve the reproducibility of experimental results in the community and adds to the trustability of the experimental results in the articles published in JEA. For more details see RCR Initiative page.
+		* RCR review process: We expect that this extra reviewing will be light and will not noticeably extend the reviewing period, as it will run in parallel with the last stages of standard reviewing (the referee will communicate with the authors directly via email). The Reproducibility Referee may advise the authors on what additional information to add in the article in order to let readers reproduce the results faithfully. Reacting to this advice works in the same way as with standard referees: the parties iterate until the referee is satisfied. Ultimately, this referee will declare whether or not the computational results in the manuscript are reproducible.
+		* Methods for replicating results: We rely on the expertise of the Reproducibility Reviewer to make the final determination of the designation. Presently we have two basic approaches for assessing replicability. The first is more desirable, but not always possible.
+		* Independent replication: The authors provide the RCR reviewer access to, or sufficient description of, the computational platform used to produce the manuscript results. Access could be:
+			+ A direct transfer of software to the reviewer or a pointer to an archive of the software, and a description of a commonly available computer system the reviewer can access.
+			+ A guest account and access to the software on the system used to produce the results.
+			+ Detailed observation of the authors replicating the results.
+		* To prepare the data for the review process, the authors must send to the designated Reproducibility Reviewer:
+			+ A repository which includes the relevant source code.
+			+ A readme file which describes how to run the experiments.
+			+ A script which triggers all experiments (e.g., generates or downloads necessary input files, compiles the programs, runs the experiments, and generates data and tables/figures).
+			+ An assignment of generated tables/figures (possibly also in the readme file) to tables/figures in the accepted paper.
+		* Review of computational results artifacts: In some situations, authors may not be able to readily replicate computational results. Results may be from a system that is no longer available, or may be on a leadership class computing system to which access is very limited. In these situations, careful documentation of the process used to produce results could be sufficient for an RCR designation. In this case, the software should have its own substantial verification process to give the reviewer confidence that computations were performed correctly. If timing results are reported, the authors' artifacts should include validation testing of the timers used to report results.
+	- To stimulate research in algorithms based upon implementation and experimentation; in particular, to encourage testing, evaluation and reuse of complex theoretical algorithms and data structures.
+	- To distribute programs and testbeds throughout the research community and to provide a repository of useful programs and packages to both researchers and practitioners.
+	- The ACM JEA was established to address the following issues:
+		* The empirical study of combinatorial algorithms is a rapidly growing research area, with no proper outlet for publication.
+		* Communication among researchers in this area must include more than a summary of results or a discussion of methods; the actual programs and data used are of critical importance.
+		* Many published algorithms and data structures have never been implemented by anyone and are at risk of remaining theoretical "curiosities.'' To bring such algorithms and data structures into the practical realm often requires considerable sophistication; researchers need to be encouraged to turn their talents in that direction.
+		* Most researchers find that they must program their own version of this or that well-known algorithm or data structure, because repositories for these are not available.
+		* The two preceding reasons also explain why practitioners only rarely use state-of-the-art algorithms and data structures; a repository of routines, most with well documented behavior on realistic test cases, will encourage practitioners to use more recent results.
+	- In addition, JEA aims to become a forum to distribute programs and testbeds throughout the research community and to provide a repository of useful programs and packages to both researchers and practitioners.
+	- JEA welcomes research on algorithms and data structures for all sorts of practical computation models, including deterministic, randomized, approximate, online, parallel, distributed, streaming, and external-memory. The following are some typical, but by no means exclusive, application areas:
+		* combinatorial optimization
+		* computational biology
+		* computational geometry
+		* graph manipulation
+		* integer arithmetic and cryptography
+		* machine learning and AI
+		* management of massive datasets
+		* routing and scheduling
+		* searching and sorting
+		* string processing
+		* VLSI design
+		* web search and information retrieval
++ [Electronic Colloquium on Computational Complexity (ECCC)](https://eccc.weizmann.ac.il//eccc/)
++ [Theory of Computing (ToC)](http://theoryofcomputing.org/introduction.html)
++ [ACM Transactions on Algorithms (TALG)](https://talg.acm.org/) publishes original research of the highest quality dealing with algorithms that are inherently discrete and finite, and having mathematical content in a natural way, either in the objective or in the analysis.
+	- ACM Transactions on Algorithms welcomes submissions of original research of the highest quality dealing with algorithms that are inherently discrete and finite, and having mathematical content in a natural way, either in the objective or in the analysis. Most welcome are new algorithms and data structures, new and improved analyses, and complexity results. Specific areas of computation covered by the journal include
+
+    combinatorial searches and objects;
+    counting;
+    discrete optimization and approximation;
+    randomization and quantum computation;
+    parallel and distributed computation;
+    algorithms for
+        graphs,
+        geometry,
+        arithmetic,
+        number theory,
+        strings;
+    on-line analysis;
+    cryptography;
+    coding;
+    data compression;
+    learning algorithms;
+    methods of algorithmic analysis;
+    discrete algorithms for application areas such as
+        biology,
+        economics,
+        game theory,
+        communication,
+        computer systems and architecture,
+        hardware design,
+        scientific computing
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
