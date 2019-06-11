@@ -1613,7 +1613,18 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 	- Design and realization of microelectronic systems using VLSI/ULSI technologies requires close collaboration among scientists and engineers in the fields of systems architecture, logic and circuit design, chips and wafer fabrication, packaging, testing, and systems applications. Generation of specifications, design, and verification must be performed at all abstraction levels, including the system, register-transfer, logic, circuit, transistor, and process levels. To address this critical area through a common forum, the IEEE Transactions on VLSI Systems was founded.
 	- Design and realization of microelectronic systems using VLSI/ULSI technologies requires close collaboration among scientists and engineers in the fields of systems architecture, logic and circuit design, chips and wafer fabrication, packaging, testing, and systems applications. Generation of specifications, design, and verification must be performed at all abstraction levels, including the system, register-transfer, logic, circuit, transistor, and process levels.
 	- To address this critical area through a common forum, the IEEE Transactions on VLSI Systems was founded. The editorial board, consisting of international experts, invites original papers which emphasize the novel system integration aspects of microelectronic systems, including interactions among system design and partitioning, logic and memory design, digital and analog circuit design, layout synthesis, CAD tools, chips and wafer fabrication, testing and packaging, and system level qualification. Thus, the coverage of this Transactions focuses on VLSI/ULSI microelectronic system integration.
-	- Topics of special interest include, but are not strictly limited to, the following: • System Specification, Design and Partitioning, • System-level Test, • Reliable VLSI/ULSI Systems, • High Performance Computing and Communication Systems, • Wafer Scale Integration and Multichip Modules (MCMs), • High-Speed Interconnects in Microelectronic Systems, • VLSI/ULSI Neural Networks and Their Applications, • Adaptive Computing Systems with FPGA components, • Mixed Analog/Digital Systems, • Cost, Performance Tradeoffs of VLSI/ULSI Systems, • Adaptive Computing Using Reconfigurable Components (FPGAs)
+	- Topics of special interest include, but are not strictly limited to, the following:
+		* System Specification, Design and Partitioning,
+		* System-level Test
+		* Reliable VLSI/ULSI Systems
+		* High Performance Computing and Communication Systems
+		* Wafer Scale Integration and Multichip Modules (MCMs)
+		* High-Speed Interconnects in Microelectronic Systems
+		* VLSI/ULSI Neural Networks and Their Applications
+		* Adaptive Computing Systems with FPGA components
+		* Mixed Analog/Digital Systems
+		* Cost, Performance Tradeoffs of VLSI/ULSI Systems
+		* Adaptive Computing Using Reconfigurable Components (FPGAs)
 	- "Call for Paper" for special issues.
 		* Previous "Call for Paper" for special issue.
 			+ System  security  and  privacy:IoT  security,  embedded  systems  security,  hardware  security  and trust, physically unclonable functions, random number generators, machine learning assisted side channel analysis, machine learning for detection of side channel attacks, malware, etc.
