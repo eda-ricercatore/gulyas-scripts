@@ -1168,6 +1168,14 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 
 
 
++ DSW 2020, IEEE Data Science Workshop
+	- https://2019.ieeedatascience.org/call-for-papers.php
+	- Minneapolis, MN.
+	- June 2-5, 2019.
+	- Submission deadline: ~~February 8, 2019~~ February 28, 2019
+
+
+
 
 + SEA^2, Special Event on Analysis of Experimental Algorithms
 	- http://www.caopt.com/SEA2019/
