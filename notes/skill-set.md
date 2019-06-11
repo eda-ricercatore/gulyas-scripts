@@ -3691,6 +3691,27 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Strong communication skills
 	- Preferably has teaching experience alongside data science
 	- Approaches problems with a design perspective
++ skill set:
+	- Implement and maintain the League’s data analytics platform(s) to manage the ongoing monitoring of internal and external information related to Sports Betting/gaming;
+	- Coordinate with other departments and third-parties to identify internal and external sources of meaningful information and assist in the process of data collection;
+	- Work with and coordinate the integration of multiple data sets into the selected data analytics platform(s) and/or visualization tool(s);
+	- Work with technical partners to automate data flows and reduce reliance on manual data development;
+	- Develop queries and manage the technical aspects of data interrogation;
+	- Maintain a reporting mechanism and protocols to ensure appropriate communication of alerts and/or findings, including through visualization and dashboards;
+	- Oversee information requests and project activities to ensure accurate, timely, and efficient reporting deliverables; and
+	- Support the investigation and review of any alerts
+	- Five+ years of experience in data analytics or a comparable area of expertise
+	- Integrity monitoring experience and/or understanding of the Sports Betting/Gaming industry preferred
+	- Ability to exercise discretion and use independent judgment in making decisions and work with minimal functional guidance; demonstrated project management skills
+	- Excellent oral and written communication skills, ability to share findings with non-technical audience, and deal effectively with the senior management, staff members, and vendors
+	- Exceptional problem solving and issue-spotting skills
+	- Excellent interpersonal and time management capabilities
+	- Experience with data analytics platforms, such as Symantic Pro, Symantic Cortex, IBM i2
+	- Understanding of statistical modeling techniques
+	- Proficiency in at least one of the following languages: R, Python, SQL query writing, working with JSON/XML data
+	- Data transfer and encryption knowledge, such as sftp, pgp, and others; and
+	- Knowledge of Cloud platforms, such as AWS, Azure, and others
+
 
 
 
