@@ -3711,20 +3711,79 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Proficiency in at least one of the following languages: R, Python, SQL query writing, working with JSON/XML data
 	- Data transfer and encryption knowledge, such as sftp, pgp, and others; and
 	- Knowledge of Cloud platforms, such as AWS, Azure, and others
-
-
-
-
-
-
-
-
-
-
-
-
-
-
++ skill set:
+	- Openstack
+	- Linux kernel namespaces internals
+	- Linux kernel KVM internals
+	- K8s networking internals
+	- OpenVSwitch
+	- Workload optimization in HPC / HTC (High Throughput Computing)
+	- In depth knowledge of Linux operating systems
+	- Networking protocol development experience
+	- Storage experience and/ or virtual machine experience
+	- Understanding of the operational, maintenance, monitoring and support aspects of a business - critical system.
+	- Understanding of underlying hardware in large - scale systems and how to best use it.
+	- Kernel virtualization mechanisms
+	- Leading software defined storage projects (Gluster, Ceph, Hadoop, etc...)
+	- Experienced in working in large bare-metal data centers
++ skill set:
+	- Design, deploy and operate cyber technologies in order to solve the security challenges in a technically diverse and complex environment
+	- Implement and develop in-house security tools and integrate open-source solutions
+	- Perform POCs and remain up-to-date and knowledgeable in regard to the latest security trends and emerging technologies
+	- In-depth knowledge of security concepts, architecture and methodologies from end to end perspective
+	- Strong background in most of the following topics: SIEM, Firewalls, IPS, NAC, EDR, DLP, OS Hardening, Vulnerability Management
+	- Knowledge with security aspects of networking, operating systems (Windows, Linux) and virtualization
+	- Coding/scripting capabilities – shell scripts (Python preferred)
+	- Self-motivated and an autodidact
+	- Team player
+	- Familiarity with working in DevOps oriented environment (Jenkins, OpenStack, Salt and Dockers) - Advantage
+	- Hold a professional certification in good standing (CISSP, GSEC) - Advantage
++ skill set:
+	- Final Israel Ltd. is one of the world’s leading high-frequency trading (HFT) companies.
+	- We use proprietary prediction and trading algorithms as well as highly innovative schemes for handling large amounts of data. As a major participant in the HFT industry, the challenge Final faces is two-fold: to analyze large and complex data sets off-line, as well as to process massive flows of real-time data.
+	- Final’s most important asset, its employees, comprises a hand-picked group of extremely talented, highly motivated, and diverse individuals.
+	- The position entails research, development and implementation of algorithms in the fields of machine learning, signal processing, data mining and statistics.
++ Strong understanding of the Hadoop ecosystems (especially Kafka, Flume, Avro, Parquet, HBase, Hive, and Hue) and related technologies with +2 years of experience
++ skill set:
+	- Mongodb
+	- Elasticsearch
++ skill set:
+	- Good working knowledge in a wide range of machine learning methods and algorithms for classification, regression, clustering, and others – a must.
+	- Good Statistical analysis, e.g. hypothesis testing, estimation theory and mathematical skills.
+	- Experience dealing with end to end machine learning projects: data exploration, feature engineering/definition, model building, performance evaluation and help in implementation.
+	- The ideal candidate should be able to use his/her experience in implementing advanced analytical methods (machine learning, statistical/mathematical modeling) on large amounts of raw data – dealing with all parts of modeling workflow (from data extraction, feature engineering to model building and implementation) and should be able to clearly present and communicate the findings.
+	- As a Data Scientist at Playtika you will take part in projects in which analytical solutions are used for solving and/or optimizing business/product problems like user experience modeling, churn prediction, advanced segmentation and others.
+	- Experience working with big data tools e.g. pySpark.
+	- DL toolbox (e.g. pyTorch, Tensorflow etc. it a plus).
+	- Knowledge in Deep learning models (CNN, RNN, etc …)
+	- Reinforcement Learning
++ skill set:
+	- Reviewing the ETL Design and Data Roadmap, and continuously improving the processes.
+	- Ensuring the ETL Codes are running and constantly improving/following the game features and Business Requirements.
+	- Analyzing, developing and defining data integration solutions related to big data storage;
+	- Applying data modeling, data design and implementation to support business requirements;
+	- Participating in all agile development lifecycle activities: estimating, planning, designing, developing, documenting and testing;
+	- A minimum of 3 years of professional experience in Data Transformation (ETL) and systems integration processes.
+	- A deep understanding of Data flow, Database and data transformation principles (Big data and object storage concepts knowledge considered a major asset).
+	- Knowledge of big data environment is an asset (Kafka, Databricks, Vertica, Others)
++ skill set:
+	- Undertake analysis to monitor and report key performance indicators (KPI’s)
+	- Building out our KPI Dashboards for monitoring game performance
+	- Design, run, analyse and report on A/B tests
+	- Experience with business intelligence software like Tableau, Looker etc
++ Experience with Hadoop, Vertica, HBase, Spark.
++ Skilled in Spark , JavaScript, Hadoop, Vertica, HBase, Angular, React, Docker, Kubernetes – advantage
++ Experience with relational (MySQL), NoSQL databases (Couchbase/Aerospike), search engines (ElasticSearch), caching solutions;
++ skill set:
+	- Experience with ETL process, real time or batch pipelines
+	- Experience with Kafka
+	- Experience with Vertica
+	- Knowledge in containerized environments (Docker, Kubernetes)
++ 3+ years of experience working with agile at scale vs scaling agile solutions such as SAFe, LeSS, Nexus (or others).
++ Experience with Docker, AWS, and CircleCI is a bonus.
++ skill set:
+	- Research and design scalable Machine Learning infrastructures with real time applications utilizing TB of data.
+	- You will be working with talented and passionate teams and drive the evolution of Big Data and Data Science. You’ll work with many exciting technologies such as Spark, Airflow, Hadoop, HP-Vertica, Aerospike, Redis, TensorFlow and Kafka.
 
 
 

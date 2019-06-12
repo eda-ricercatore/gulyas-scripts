@@ -86,8 +86,9 @@ Transparency
 	- Submission deadline: June 5, 2019.
 + ICLR, International Conference on Learning Representations
 	- https://iclr.cc
-	- https://iclr.cc/Conferences/2019/CallForPapers
-	- VENUE
+	- https://iclr.cc/Conferences/2020
+	- May 6-9, 2020.
+	- New Orleans, NA.
 	- Submission deadline: September 27, 2018.
 + ICML, International Conference on Machine Learning
 	- https://icml.cc/Conferences/2019/CallForPapers
@@ -111,8 +112,6 @@ Transparency
 	- URL
 	- VENUE
 	- DATE
-+ JMLR, Journal of Machine Learning Research
-	- http://www.jmlr.org
 + KDD, SIGKDD Conference on Knowledge Discovery and Data Mining
 	- http://www.kdd.org/conferences
 	- Anchorage, Alaska
@@ -166,9 +165,19 @@ Transparency
 	- Conference dates: June 30 - July 5, 2019.
 	- Submission deadline: Early/Mid- July, 2018 (submission cycle #1) and Late Oct or Early Nov, 2018 (submission cycle #2).
 	- Abstract submission deadlines: July 12 (Round 1), October 18 (Round 2)
++ SysML Conference
+	- http://www.sysml.cc/
+	- March 31 - April 2, 2019
+	- Stanford, CA.
+	- Submission deadline: September 28, 2019.
 + TACL, Transactions of the Association for Computational Linguistics
 	- https://www.transacl.org/ojs/index.php/tacl
 + TPAMI, IEEE Transactions on Pattern Analysis and Machine Intelligence
++ UAI 2020, Conference on Uncertainty in Artificial Intelligence
+	- http://auai.org/uai2019/cfp.php
+	- Tel Aviv, Israel.
+	- July 22-25, 2019.
+	- Submission deadlines: March 4 and 8, 2019.
 + UIST, ACM Symposium on User Interface Software and Technology
 	- http://uist.acm.org/uist2019/
 	- Submission deadline: April 5, 2019.
@@ -231,6 +240,13 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 	- https://ieee-ceda.org/pages/special-issue-call-papers-special-issue-autonomous-systems-design
 	- https://ieee-ceda.org/pages/special-issue-call-papers-robust-resource-constrained-ml
 
+
+
+List of conference "Call for Papers" deadlines:
++ [Takahiro Komamizu's Conference List](http://www.conferencelist.info/upcoming.html)
++ [ML+CompBio Conference Deadlines](http://www.cs.cmu.edu/~blengeri/deadlines.html)
++ [AI Conference Deadlines Tweet](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM)
++ [](https://jackietseng.github.io/conference_call_for_paper/conferences.html)
 
 
 **Operation Go-to-ASPLOS in progress.**
@@ -1922,35 +1938,33 @@ For cell-library implementation, circuit simulation (or, logic simulation) for n
 + [Electronic Colloquium on Computational Complexity (ECCC)](https://eccc.weizmann.ac.il//eccc/)
 + [Theory of Computing (ToC)](http://theoryofcomputing.org/introduction.html)
 + [ACM Transactions on Algorithms (TALG)](https://talg.acm.org/) publishes original research of the highest quality dealing with algorithms that are inherently discrete and finite, and having mathematical content in a natural way, either in the objective or in the analysis.
-	- ACM Transactions on Algorithms welcomes submissions of original research of the highest quality dealing with algorithms that are inherently discrete and finite, and having mathematical content in a natural way, either in the objective or in the analysis. Most welcome are new algorithms and data structures, new and improved analyses, and complexity results. Specific areas of computation covered by the journal include
-
-    combinatorial searches and objects;
-    counting;
-    discrete optimization and approximation;
-    randomization and quantum computation;
-    parallel and distributed computation;
-    algorithms for
-        graphs,
-        geometry,
-        arithmetic,
-        number theory,
-        strings;
-    on-line analysis;
-    cryptography;
-    coding;
-    data compression;
-    learning algorithms;
-    methods of algorithmic analysis;
-    discrete algorithms for application areas such as
-        biology,
-        economics,
-        game theory,
-        communication,
-        computer systems and architecture,
-        hardware design,
-        scientific computing
-
-
+	- ACM Transactions on Algorithms welcomes submissions of original research of the highest quality dealing with algorithms that are inherently discrete and finite, and having mathematical content in a natural way, either in the objective or in the analysis. Most welcome are new algorithms and data structures, new and improved analyses, and complexity results.
+	- Specific areas of computation covered by the journal include:
+		* combinatorial searches and objects;
+		* counting;
+		* discrete optimization and approximation;
+		* randomization and quantum computation;
+		* parallel and distributed computation;
+		* algorithms for
+		* graphs,
+		* geometry,
+		* arithmetic,
+		* number theory,
+		* strings;
+		* on-line analysis;
+		* cryptography;
+		* coding;
+		* data compression;
+		* learning algorithms;
+		* methods of algorithmic analysis;
+		* discrete algorithms for application areas such as
+		* biology,
+		* economics,
+		* game theory,
+		* communication,
+		* computer systems and architecture,
+		* hardware design,
+		* scientific computing
 
 
 
@@ -1959,8 +1973,13 @@ For cell-library implementation, circuit simulation (or, logic simulation) for n
 
 
 
+###	Journals for Machine Learning
 
-
++ JMLR, Journal of Machine Learning Research
+	- http://www.jmlr.org
+	- [Proceedings of Machine Learning Research, PMLR](http://proceedings.mlr.press/)
+	- [Machine Learning Open Source Software, JMLR MLOSS](http://www.jmlr.org/mloss/)
+	- [Series: Challenges in Machine Learning](http://www.mtome.com/Publications/CiML/ciml.html)
 
 
 
