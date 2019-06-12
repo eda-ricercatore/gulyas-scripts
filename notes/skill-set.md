@@ -3834,8 +3834,12 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- We are looking for an experienced engineer to take a lead role in the build and testing systems of the Apache Arrow project, including automated building (continuous integration), testing, and benchmarking on a range of architectures and operating systems. The ideal candidate should have experience playing a significant role in shipping software with high technical complexity.
 	- Help maintain the Apache Arrow open source project: code review, documentation, and mentor junior contributors.
 + skill set:
-	- System-level functional and performance debugging (perf, gdb, valgrind)
-
+	- Experience in developing and maintaining SQL databases and writing SQL queries; NoSQL (MongoDB) experience preferred but not required
+	- Experience establishing and maintaining AWS, Google Cloud, Heroku, Tableau or similar cloud-based environments
+	- Background in extracting and storing data from APIs preferred but not required
+	- Knowledge of HTML, CSS and JS and lightweight web frameworks such as Django, Flask
++ System-level functional and performance debugging (perf, gdb, valgrind)
++
 
 
 
