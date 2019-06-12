@@ -3831,7 +3831,8 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 		* Natural Language Processing.
 + skill set:
 	- Ursa Labs's work is focused on the Apache Arrow open source project, a cross-language development platform for in-memory analytics. Within the Arrow project, most of our time is spent on the C++, Python, and R libraries. It is our goal to make everyday tools for data access, cleaning, wrangling, analytics, and visualization a great deal more powerful and interoperable than they are now.
-
+	- We are looking for an experienced engineer to take a lead role in the build and testing systems of the Apache Arrow project, including automated building (continuous integration), testing, and benchmarking on a range of architectures and operating systems. The ideal candidate should have experience playing a significant role in shipping software with high technical complexity. 
++ skill set:
 
 
 
