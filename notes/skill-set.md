@@ -3784,6 +3784,61 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 + skill set:
 	- Research and design scalable Machine Learning infrastructures with real time applications utilizing TB of data.
 	- You will be working with talented and passionate teams and drive the evolution of Big Data and Data Science. You’ll work with many exciting technologies such as Spark, Airflow, Hadoop, HP-Vertica, Aerospike, Redis, TensorFlow and Kafka.
+	- Direct management of architects team. Cross-functional interaction with a wide range of people and teams, work closely with data engineers and data scientists to ensure high level of professionalism and standards, as well as satisfying project requirements and timelines.
+	- Design scalable and reliable data pipelines to move huge amounts of data.
+	- Design complex marketing platforms enabling effective player acquisition and retention at scale of millions of daily users.
+	- Experienced with current SW development practices – SCRUM, test automation, TDD, CI, CD.
++ skill set:
+	- Deep understanding of micro-services architecture, Kubernetes & Docker
+	- Deep understanding of designing No-SQL databases (such as: MongoDb, Redis, etc.)
++ skill set:
+	- Experience with Docker, Kubernetes, ceph, AWS a plus
+	- Comfortable around data stores, MySQL, PostgreSQL and Redis a plus
+	- You appreciate a well-designed REST API
+	- You calmly triage production issues across microservices and approach the creation of software with a DevOps mindset
++ skill set:
+	- You are humble, and play well with other people. You thrive in team settings, and exhibit excellent communication and collaboration skills. For example, offering constructive feedback in code reviews, writing user-centered documentation, and chatting with masterful use of text and emojis in Slack.
+	- You thrive on solving problems for your customers through product-mindedness. You are comfortable with a little bit of ambiguity, and enjoy the opportunity to shape the future of the product.
+	- You are an experienced "T-shaped" software engineer exhibiting broad knowledge of the entire discipline with deeper specializations in a few areas such as architecture, design, test automation, front-end technologies, etc.
+	- You are internally driven by curiosity and continuous learning. You have proven that you can be entrusted with big decisions, and strive to bring understanding and empathy to the entire team.
+	- You can function effectively in a distributed team. This means you are reliable, you know when to ask for help, you invest in strong relationships with your colleagues, and you know yourself well enough to be accountable for your own self management.
++ skill set:
+	- Many of us feel that we’ve found our home for the next decade. This motivates us to take a long-term approach to our work: ***writing clean, maintainable code, investing in automated testing, and building in budgets for technical debt***. This also motivates us to value mentorship; we want our most junior engineers to be in a position to mentor others and to independently take on more responsibilities in the coming years. We love it when our engineers take full ownership of a feature and drive it from design through validation.
+	- Familiarity with some enterprise user authentication technology (such as LDAP, SAML, Kerberos)
+	- Experience building, shipping, and maintaining the back-end of a web-accessible product
+	- Experience working with compiled programing languages (e.g. Go, Rust, C++, C# or Java) and SQL databases (any)
+	- Experience building and shipping on-premise enterprise software
+	- Experience with information security -- either via certifications (CISSP, CEH, etc.) or professional experience (security audit, pentesting, etc.)
++ skill set:
+	- Have previous experience applying machine learning, and (big) data analytics frameworks such as TensorFlow, Scikit-learn, and the Apache Hadoop ecosystem, to real world problems.
+	- Are well versed in the Linux operating system. Experience with cloud technology, and containers like Docker or Kubernetes, are highly desirable.
++ skill set:
+	- software engineering
+	- big data analytics framework
+	- product innovation
+	- services and applications
+	- communicating with industrial and academic experts
+	- machine learning
+	- statistics
+	- interested in personalized medicine
+	- strong interest in industry projects
+	- data mining
++ Knowledge of Apache Spark
++ skill set:
+	- We are looking for multidisciplinary machine learners with sharp skills in one or more of the following fields:
+		* Deep Learning,
+		* Bayesian Modeling,
+		* Natural Language Processing.
++ skill set:
+	- Ursa Labs's work is focused on the Apache Arrow open source project, a cross-language development platform for in-memory analytics. Within the Arrow project, most of our time is spent on the C++, Python, and R libraries. It is our goal to make everyday tools for data access, cleaning, wrangling, analytics, and visualization a great deal more powerful and interoperable than they are now.
+
+
+
+
+
+
+
+
 
 
 
@@ -3810,7 +3865,9 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 
 + Imagimob has taken great steps since the start in 2013. We have for example been rewarded as the Startup of the Year of 2017 at Mobilgalan, and has three years in a row been on the Ny Teknik's 33 list of Sweden's most promising technology companies.
 
+##	List of companies/jobs
 
++ [Women in Machine Learning and Data Science (WiMLDS): New York, NY](http://wimlds.org/jobs/#)
 
 
 
