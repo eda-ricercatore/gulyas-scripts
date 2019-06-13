@@ -3839,9 +3839,34 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Background in extracting and storing data from APIs preferred but not required
 	- Knowledge of HTML, CSS and JS and lightweight web frameworks such as Django, Flask
 + System-level functional and performance debugging (perf, gdb, valgrind)
-+
-
-
++ skill set:
+	- Modern databases like Cassandra, ElasticSearch, Redis, and Postgres.
+	- Frameworks like Django, Tornado and the PyData stack (e.g. Pandas).
+	- Running Kafka, Storm, Spark in production atop massive data sets.
+	- Easy system management with Fabric and Chef.
+	- Parse.ly’s data engineering team already makes use of modern technologies like Python, Storm, Spark, Kafka, and Elasticsearch to analyze large datasets.
++ Experience in the technologies we use is helpful but not required. They are: Go for core infrastructure; ObjC, Java and C# for native UI development on iOS, OSX, Android and Windows; Node.js and IcedCoffeeScript for Web development; FUSE for client file systems; MySQL/InnoDB, DynamoDB, S3 and EC2 for hosting.
++ skill set:
+	- Experience with build infrastructure (e.g. Jenkins), and build tools (e.g. Maven, Ant, Make, CMake, etc)
+	- In-depth knowledge of version control systems
+	- Infrastructure as code mindset
+	- Experience with infrastructure design and operations (monitoring, alerting, BDR)
+	- Experience with provisioning clusters on Amazon EC2, and/or Google Compute
+	- Experience with private/public clouds, virtualization technologies (VMWare, KVM, or similar) and container technologies (Docker, Kubernetes)
+	- Familiarity with concepts of InfoSec/AppSec
++ skill set:
+	- Advanced modeling and data visualization skills in Tableau Desktop
+	- Advanced Python coding talent including familiarity with common and emerging data science and scientific computing toolsets/libraries (matplotlib, pandas, scipy, numpy, et al)
+	- Savvy with collaborative data workbench tools and environments like Cloudera Data Science Workbench, Jupyter, Shiny, RStudio
+	- Data manipulation and ETL skill in Talend or a similar tool
+	- Strong interpersonal skills, including the knack for translating customer business needs and user stories into requirements and real-world outcomes
+	- Relevant education or experience in Computational Statistics
+	- An autodidact who keeps on learning
+	- Expert-level Excel | Google Sheets skills with scripting
+	- Understanding of ITIL concepts
+	- Experience with an RDBMS (Oracle, MySQL, Teradata, etc)
+	- Experience with containerization tools (Kubernetes, Docker)
++ 3+ years of writing experience or experience in the technical field of security. Knowledge of Hadoop security concepts, especially that of Apache Ranger. 
 
 
 
