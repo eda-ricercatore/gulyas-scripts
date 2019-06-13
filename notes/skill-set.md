@@ -3866,10 +3866,32 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Understanding of ITIL concepts
 	- Experience with an RDBMS (Oracle, MySQL, Teradata, etc)
 	- Experience with containerization tools (Kubernetes, Docker)
-+ 3+ years of writing experience or experience in the technical field of security. Knowledge of Hadoop security concepts, especially that of Apache Ranger. 
-
-
-
++ 3+ years of writing experience or experience in the technical field of security. Knowledge of Hadoop security concepts, especially that of Apache Ranger.
++ skill set:
+	- Impala is a scalable and fast SQL query engine that runs directly on Hadoop and supports a wide range of analytic workloads, from subsecond interactive dashboards with hundreds of concurrent users to petabyte-scale rich data exploration.  Impala is currently supported by a large paying customer base, and is a key component of the Cloudera data platform. It is open sourced under the Apache 2.0 license and is developed publicly, including code reviews and bug tracking (see http://impala.apache.org/). It is distributed by Cloudera, MapR, AWS and Oracle among others.
+	- Feel free to read our CIDR Paper on Impala: http://bit.ly/cidr15impala or http://pandis.net/resources/cidr15impala.pdf.
+	- Knowledge of database concepts, RDBMS internals, and SQL is a strong plus
+	- Knowledge of the Hadoop space, containers, or Kubernetes is a strong plus.
++ skill set:
+	- Cloudera is looking for a highly experienced software engineer with strong expertise in Java development and specialty in platform architecture to join the Data In Motion - Flow Management team focusing on [NiFi](https://nifi.apache.org/)
+		* ***Apache NiFi supports powerful and scalable directed graphs of data routing, transformation, and system mediation logic.***
+	- Lead architecture, design, and implementation of a platform for managing usage of components
+	- Collaborate with other Data In Motion component teams to develop highly integrated solutions
+	- Work closely with UX and front end teams
+	- Interact with product teams to help define roadmap and shape technology
+	- Work closely with open source projects in Apache NiFi and other ecosystem projects
++ skill set:
+	- Use your understanding of the Hadoop eco-system to build reliable and scalable automated systems for validating Cloudera products.
+	- Work with our world-class development team to define new tools and tooling features that assist in triaging and debugging test failures.
+	- Work with cross component teams and be an effective team player.
+	- Experience developing in a containerized, Kubernetes environment
+	- Experience with Kibana, Elastic Search, Ansible, and Helm a plus
+	- Prefer familiarity with large-scale distributed systems and/or data management systems
+	- Experience working with open source automation tools and familiarity with Git, Maven, Gerrit a plus
+	- Experience with Apache Hadoop and its related technologies a big plus
++ [CUDA LLVM Compiler](https://developer.nvidia.com/cuda-llvm-compiler)
++ After CUDA, learn OpenACC before OpenCL.
++ Good experiences with technologies used by GitBook: Go, Google Cloud Platform, Algolia, Firebase
 
 
 
