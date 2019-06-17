@@ -3892,7 +3892,10 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 + [CUDA LLVM Compiler](https://developer.nvidia.com/cuda-llvm-compiler)
 + After CUDA, learn OpenACC before OpenCL.
 + Good experiences with technologies used by GitBook: Go, Google Cloud Platform, Algolia, Firebase
-
++ If you work on any of these topics, publish in relevant conferences (CVPR, ICCV, ECCV, ACCV, NIPS, ICML, BMVC, WACV, ICIP, ICASSP, ICPR, EUSIPCO, MLSP, ICME, ACM Multimedia) and/or journals (IEEE PAMI, TIP, SMC, CSVT, TNNLS, TMM, Pattern Recognition, Information Sciences, Neurocomputing, Neural Networks, Image and Vision Computing, IJCV, ACM Transactions on Intelligent Systems and Technology, ACM Computing Surveys) and you want to get relevant regular news or post your own news, you can subscribe as shown above.
+	- Ioannis Pitas
+		* Professor, PhD, Director of the Artificial Intelligence and Information Analysis Lab, AUTH, Greece
+		* IEEE fellow and Distinguished Lecturer
 
 
 
