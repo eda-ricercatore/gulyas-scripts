@@ -3925,7 +3925,92 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- IBM Research Lab in Mulhuddart, Dublin, Ireland.
 	- AI for Health and Social Care team
 	- state-of-the-art in AI and Healthcare Informatics.
-	
++ skill set:
+	- Experience with NoSQL databases (eg MongoDB, Redis) is an advantage
+	- An advantage: experience with Docker / Rancher or Kubernetes and with Native Mobile Development or NativeScript / ReactNative knowledge
++ skill set:
+	- Scale is a rapidly growing post-Series B startup. Our mission is to accelerate the development of AI applications. Our first product is a suite of APIs that allow AI teams to generate high-quality ground truth data. Our customers include Alphabet (Google), Zoox, Lyft, Pinterest, Airbnb, nuTonomy, and many more, and we've become an industry standard for the self-driving car market.
+	- https://scale.ai/careers/444bb0b1-932f-4065-a3bc-5a45004f5440
+	- In this role, you will apply statistical models, design and interpret experiments, build mission-critical dashboards, and help structure and order our data in the pursuit of transparency over how we operate and how we can improve.
+	- Build machine-learning models that power core operations, such as quality assessment and fraud detection
+	- Expert knowledge of a scientific computing language (*e.g. *R, Python) and SQL
+	- Strong knowledge of statistics (clustering, regression, etc.) and experimental design
+	- Comfort setting up and using BI tools
+	- Experience with ETL tools and building / maintaining a data warehouse
++ skill set:
+	- https://scale.ai/careers/5d709886-b586-44c7-b112-4e04501a4ca0
+	- Create optimized and efficient tooling, like [Guided Automatic Segmentation](https://scale.ai/blog/automatic-segmentation), for taskers to complete complex tasks with speed and accuracy.
+	- Reliably evaluate data quality at scale.
+	- Intelligently route tasks from customers to specialized taskers for low turnaround and high accuracy.
+	- Automatically hire, train and onboard taskers.
+	- Deep Learning: building CNNs.
+	- Classical Machine Learning: non-deep learning methods (random forests, collaborative filtering, HMMs, etc.)
+	- Applied ML Engineering: building large-scale data and machine-learning pipelines.
+	- Experience with TensorFlow and/or Pytorch.
++ skill set:
+	- Expert-level familiarity with reporting and visualization platforms (e.g. Tableau, Mode)
+	- SQL expertise beyond querying: query optimization, schema design, and ETL maintenance
++ Proficiency in UI design tools (e.g., Figma, Sketch) and prototyping tools (e.g., Principle, Origami Studio)
++ Interface with global power semiconductor suppliers to develop solutions (IGBTs, FETs, Diodes, SiC devices, GaN devices)
++ Development software by ensure Alige/ASPICE development process
++ skill set:
+	- Spring framework (Spring Boot, Spring Cloud)
+	- NoSQL and relational databases (MongoDB, Postgres)
+	- Be a team player and open for new technologies and challenges
+	- Gradle
+	- Unix/Linux
+	- Docker
+	- Terraform
+	- AWS
+	- Microservices
+	- Frontend development (JS, React, CSS)
++ skill set:
+	- Backend technologies such as Java (min 8)
+	- Frontend technologies such as React JS
+	- Building a CI/CD pipeline
+	- Technologies we also use: Git, Jenkins, AWS, Terraform
++ [OpenLabNotes – An Electronic Laboratory Notebook Extension for OpenLabFramework](https://doi.org/10.1515/jib-2015-274)
+	- Electronic laboratory notebooks (ELNs)
++ Kubernetes, the open source system for managing containerized applications across multiple hosts
++ skill set:
+	- Stitch is a cloud data ingestion platform... We power data infrastructure for thousands of businesses.
+	- Stitch is made up of these main components:
+		* Source integrations - lots of them! - that stream data out of SaaS applications, databases, and filesystems
+		* A high-volume data pipeline, moving hundreds of billions of records per month
+		* Destination loaders that efficiently import data into cloud systems like Redshift, Snowflake, and BigQuery
+		* A mid-tier and UI that tie it all together
+	- Our backend services are written in Clojure and Python, and our front-end is written in React. We use MySQL and PostgreSQL to manage the state of our system. The entire system runs on Amazon Web Services (EC2, RDS, ELB, VPC, and more).
+	- [Simple, Composable, Open Source ETL; Singer powers data extraction and consolidation for all of your organization’s tools.](https://www.singer.io/)
+	- https://github.com/singer-io
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
