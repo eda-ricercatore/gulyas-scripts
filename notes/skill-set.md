@@ -4012,9 +4012,12 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 + skill set:
 	- You are an expert user of tools like Sketch, Figma, etc.
 	- You have demonstrable experience building new products (please show us examples!). You can iterate quickly by putting an MVP in people’s hands, and test ideas and hypotheses before any code is written.
-+ Comfortable with most of the following: linux, python, docker, kubernetes 
-
-
++ Comfortable with most of the following: linux, python, docker, kubernetes
++ skill set:
+	- Software Development at Rasa is not only about writing Code. You'll have to come up with good architectural designs, quality code, and break an ambitious long-term vision down into milestones and issues.
+	- We don’t draw a hard line between our engineering and research teams, we all work on the same stack and share work, knowledge, and tools. A lot of the code we create is open source and used by a large community of developers. The driver for our development efforts is this: what would help developers build great conversational software? What can we enable them to build that they couldn't do currently?
+	- We do fundamental machine learning research, and we ship commercial quality software that puts it to use. We mostly work in Python, but dip into other languages when it makes sense to. Because engineering is so close to research, you’ll quickly learn a lot about Machine Learning, Model Management, Data Analysis workflows, and what it takes to ship machine learning applications into production.
++ 
 
 
 
@@ -4147,6 +4150,7 @@ bio manufacturing automation:
 
 ##	Other Resources
 
+Companies and jobs in biotech, biopharma, med tech (or medical tech), health tech
 + [BioLEGO](http://www.cs.technion.ac.il/~edwardv/BioLego/html/BioLego.html)
 + [BioSpace, Urbandale, Iowa](https://www.biospace.com/)
 + [QB3 is affiliated with several UC research centers that offer specialized services to scientists and bring expertise and technology to bear on biological challenges.](https://qb3.org/affiliated-centers)
