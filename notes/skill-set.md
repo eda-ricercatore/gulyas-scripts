@@ -4017,7 +4017,7 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Software Development at Rasa is not only about writing Code. You'll have to come up with good architectural designs, quality code, and break an ambitious long-term vision down into milestones and issues.
 	- We don’t draw a hard line between our engineering and research teams, we all work on the same stack and share work, knowledge, and tools. A lot of the code we create is open source and used by a large community of developers. The driver for our development efforts is this: what would help developers build great conversational software? What can we enable them to build that they couldn't do currently?
 	- We do fundamental machine learning research, and we ship commercial quality software that puts it to use. We mostly work in Python, but dip into other languages when it makes sense to. Because engineering is so close to research, you’ll quickly learn a lot about Machine Learning, Model Management, Data Analysis workflows, and what it takes to ship machine learning applications into production.
-+ 
++ GitBook
 
 
 
