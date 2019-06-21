@@ -1,3 +1,7 @@
+>	## ⚠️ CFP warning:
+>	Don't miss the Call-for-Papers deadlines again.
+>	Ditto for milestone deadlines for research contests.
+
 #	"Call for Paper" (CFP) Deadlines
 
 "Finish your Ph.D.! Finish your [term deleted] Ph.D.!!!"  
@@ -211,51 +215,52 @@ Transparency
 
 
 
-> ###	⚠️ Attack Plan
+###	Attack Plan
 
-> MTFD: Meet The Final Deadline; and, apply for [research internships](https://github.com/christine-hu/summer-2019-internships).
-
-
-> + [SPLASH 2019 PL Mentoring Workshop (PLMW)](https://2019.splashcon.org/track/splash-2019-PLMW): July 2019.
-> + [International Workshop on Highly Efficient Neural Processing (HENP)](http://cmalab.snu.ac.kr/HENP2019): August 31, 2019.
-> + *[AAAI Conference on Artificial Intelligence](https://aaai.org/Conferences/AAAI-20/): August/September 2019.*
-> + **CVPR: November 2019.**
-> + **IJCNN: December 2019.**
-
-> **NOTE: Keep my attack plan updated.**
+MTFD: Meet The Final Deadline; and, apply for [research internships](https://github.com/christine-hu/summer-2019-internships).
 
 
-> + "Call for Paper" deadlines for journals
-> 	- https://www.computer.org/digital-library/magazines/co/call-for-papers-smart-autonomous-systems-cfp
-> 	- https://www.computer.org/digital-library/magazines/co/call-for-papers-artificial-intelligence-in-government-cfp
-> 	- https://www.computer.org/digital-library/magazines/co/call-for-papers-cfp-hybrid-human-artificial-intelligence
-> 	- https://www.computer.org/digital-library/magazines/mi/call-for-papers-ieee-micro-special-issue-on-monolithic-3d-architectures
-> 	- https://www.computer.org/digital-library/magazines/co/call-for-papers-cybersecurity-for-the-smart-grid-cfp
-> 	- https://www.computer.org/digital-library/magazines/co/call-for-papers-blockchain-from-technology-to-marketplaces-cfp
-> 	- https://www.computer.org/digital-library/journals/tp/call-for-papers-special-issue-on-non-euclidean-deep-learning
-> 	- https://www.computer.org/digital-library/journals/ec/call-for-papers-special-section-on-emerging-trends-and-computing-paradigms-for-testing-reliability-and-security-in-future-vlsi-systems
-> 	- https://www.computer.org/digital-library/journals/tq/call-for-papers-special-issue-on-ai-ml-for-secure-computing
-> 	- https://www.computer.org/digital-library/magazines/ic/special-track-on-drone-delivered-computing-and-services
-> 	- https://www.computer.org/digital-library/magazines/cg/call-for-papers-special-issue-on-art-and-cultural-heritage
-> 	- https://www.computer.org/digital-library/magazines/so/design-thinking-cfp-call-for-papers
-> 	- https://www.computer.org/digital-library/journals/ec/technical-tracks
-> 	- https://www.computer.org/digital-library/magazines/cs/track-calls-for-papers
-> 	- https://ieee-ceda.org/publication/tcad-publication/tcad-call-papers
-> 	- https://ieee-ceda.org/pages/special-issue-call-papers-design-and-management-mobile-platforms
-> 	- https://ieee-ceda.org/pages/special-issue-call-papers-special-issue-autonomous-systems-design
-> 	- https://ieee-ceda.org/pages/special-issue-call-papers-robust-resource-constrained-ml
++ [ICCD, IEEE International Conference on Computer Design](https://www.iccd-conf.com/Home.html): June 21 and 28, 2019.
++ [SPLASH 2019 PL Mentoring Workshop (PLMW)](https://2019.splashcon.org/track/splash-2019-PLMW): July 2019.
++ [International Workshop on Highly Efficient Neural Processing (HENP)](http://cmalab.snu.ac.kr/HENP2019): August 31, 2019.
++ *[AAAI Conference on Artificial Intelligence](https://aaai.org/Conferences/AAAI-20/): August/September 2019.*
++ **CVPR: November 2019.**
++ **IJCNN: December 2019.**
+
+**NOTE: Keep my attack plan updated.**
+
+
++ "Call for Paper" deadlines for journals
+	- https://www.computer.org/digital-library/magazines/co/call-for-papers-smart-autonomous-systems-cfp
+	- https://www.computer.org/digital-library/magazines/co/call-for-papers-artificial-intelligence-in-government-cfp
+	- https://www.computer.org/digital-library/magazines/co/call-for-papers-cfp-hybrid-human-artificial-intelligence
+	- https://www.computer.org/digital-library/magazines/mi/call-for-papers-ieee-micro-special-issue-on-monolithic-3d-architectures
+	- https://www.computer.org/digital-library/magazines/co/call-for-papers-cybersecurity-for-the-smart-grid-cfp
+	- https://www.computer.org/digital-library/magazines/co/call-for-papers-blockchain-from-technology-to-marketplaces-cfp
+	- https://www.computer.org/digital-library/journals/tp/call-for-papers-special-issue-on-non-euclidean-deep-learning
+	- https://www.computer.org/digital-library/journals/ec/call-for-papers-special-section-on-emerging-trends-and-computing-paradigms-for-testing-reliability-and-security-in-future-vlsi-systems
+	- https://www.computer.org/digital-library/journals/tq/call-for-papers-special-issue-on-ai-ml-for-secure-computing
+	- https://www.computer.org/digital-library/magazines/ic/special-track-on-drone-delivered-computing-and-services
+	- https://www.computer.org/digital-library/magazines/cg/call-for-papers-special-issue-on-art-and-cultural-heritage
+	- https://www.computer.org/digital-library/magazines/so/design-thinking-cfp-call-for-papers
+	- https://www.computer.org/digital-library/journals/ec/technical-tracks
+	- https://www.computer.org/digital-library/magazines/cs/track-calls-for-papers
+	- https://ieee-ceda.org/publication/tcad-publication/tcad-call-papers
+	- https://ieee-ceda.org/pages/special-issue-call-papers-design-and-management-mobile-platforms
+	- https://ieee-ceda.org/pages/special-issue-call-papers-special-issue-autonomous-systems-design
+	- https://ieee-ceda.org/pages/special-issue-call-papers-robust-resource-constrained-ml
 
 
 
-> List of conference "Call for Papers" deadlines:
-> + [Takahiro Komamizu's Conference List](http://www.conferencelist.info/upcoming.html)
-> + [ML+CompBio Conference Deadlines](http://www.cs.cmu.edu/~blengeri/deadlines.html)
-> + [AI Conference Deadlines Tweet](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM)
-> + [2019-2020 International Conferences in Artificial Intelligence, Machine Learning, Computer Vision, Data Mining, Natural Language Processing and Robotics; Jackie Tseng, TCVIL Lab](https://jackietseng.github.io/conference_call_for_paper/conferences.html)
-> + [Calendar of Computer Image Analysis, Computer Vision Conferences](http://conferences.visionbib.com/Iris-Conferences.html)
+List of conference "Call for Papers" deadlines:
++ [Takahiro Komamizu's Conference List](http://www.conferencelist.info/upcoming.html)
++ [ML+CompBio Conference Deadlines](http://www.cs.cmu.edu/~blengeri/deadlines.html)
++ [AI Conference Deadlines Tweet](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM)
++ [2019-2020 International Conferences in Artificial Intelligence, Machine Learning, Computer Vision, Data Mining, Natural Language Processing and Robotics; Jackie Tseng, TCVIL Lab](https://jackietseng.github.io/conference_call_for_paper/conferences.html)
++ [Calendar of Computer Image Analysis, Computer Vision Conferences](http://conferences.visionbib.com/Iris-Conferences.html)
 
 
-> **Operation Go-to-ASPLOS in progress.**
+**Operation Go-to-ASPLOS in progress.**
 
 
 
