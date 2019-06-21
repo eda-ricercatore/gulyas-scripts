@@ -31,9 +31,13 @@ Fix mathematical proof for paper and implement processor subsystems.
 	- http://chi2019.acm.org
 	- Glasgow, U.K.
 	- Submission deadline: **September 14/19, 2018.**
-+ CVPR, Conference on Computer Vision and Pattern Recognition
++ **CVPR, Conference on Computer Vision and Pattern Recognition**
 	- http://cvpr2019.thecvf.com
 	- Long Beach, CA.
+	- CVPR 2020: Seattle, WA.
+	- CVPR 2021: Nashville, TN.
+	- CVPR 2022: New Orleans, LA.
+	- https://www.thecvf.com/?page_id=100
 	- Submission deadline: **November 16, 2018**
 + DSAA, IEEE/ACM/ASA DSAA, IEEE International Conference on Data Science and Advanced Analytics
 	- http://call-for-papers.dsaa2019.dsaa.co/
@@ -43,7 +47,8 @@ Fix mathematical proof for paper and implement processor subsystems.
 + ECCV, European Conference on Computer Vision
 	- URL
 	- VENUE
-	- Submission deadline: **Mid-March, 2019.**
+	- "biennial research conference"
+	- Submission deadline: **Mid-March, 2020.**
 + ECML PKDD, European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases
 	- http://ecmlpkdd2019.org/
 	- http://ecmlpkdd2019.org/submissions/deadlines/
@@ -78,6 +83,8 @@ Transparency
 	- http://iccv2019.thecvf.com/submission/main_conference/author_guidelines
 	- Seoul, South Korea
 	- October 27 - November 3, 2018.
+	- ICCV 2021 in Montreal, Canada.
+	- "biennial research conference": 2021, 2023
 	- Submission deadline: **March 15 and 22, 2019**.
 + ICDM, IEEE International Conference on Data Mining
 	- http://icdm2019.bigke.org/
@@ -94,6 +101,10 @@ Transparency
 	- https://icml.cc/Conferences/2019/CallForPapers
 	- Long Beach, CA.
 	- Submission deadline: **January 18 and 23, 2019.**
++ ICPR, International Conference on Pattern Recognition
+	- https://www.micc.unifi.it/icpr2020/
+	- Venue: Milan, Italy.
+	- Dates: September 13-18, 2020.
 + IEEE Transactions on Information Theory
 + IJCAI, International Joint Conference on Artificial Intelligence
 	- https://ijcai.org
@@ -248,7 +259,8 @@ List of conference "Call for Papers" deadlines:
 + [Takahiro Komamizu's Conference List](http://www.conferencelist.info/upcoming.html)
 + [ML+CompBio Conference Deadlines](http://www.cs.cmu.edu/~blengeri/deadlines.html)
 + [AI Conference Deadlines Tweet](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM)
-+ [](https://jackietseng.github.io/conference_call_for_paper/conferences.html)
++ [2019-2020 International Conferences in Artificial Intelligence, Machine Learning, Computer Vision, Data Mining, Natural Language Processing and Robotics; Jackie Tseng, TCVIL Lab](https://jackietseng.github.io/conference_call_for_paper/conferences.html)
++ [Calendar of Computer Image Analysis, Computer Vision Conferences](http://conferences.visionbib.com/Iris-Conferences.html)
 
 
 **Operation Go-to-ASPLOS in progress.**

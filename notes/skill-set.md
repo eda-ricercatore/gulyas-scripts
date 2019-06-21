@@ -3996,9 +3996,23 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Experience with Looker, Tableau or other business intelligence platform
 	- Experience with platform data like SFDC, NetSuite, Workday
 + Own and optimize P&L and adoption KPIs for the business.
-
-
-
++ skill set:
+	- Familiarity with ETL/ELT and related techniques
+	- Exposure to CI / CD (with either Docker, Kubernetes, SaltStack or Jenkins)
+	- Prior experience in adtech or martech
++ skill set:
+	- You’ve worked with: Kafka, Cassandra, Hadoop, Hive, Spark, or similar technologies
+	- Knowledge of Machine Learning, Distributed Systems or Big Data.
+	- Exposure to CI / CD (with either Docker, Kubernetes, SaltStack or Jenkins)
++ skill set:
+	- Take research from an initial idea all the way to a merged PR in our open source libraries.
+	- Speak to the Rasa community (developers who use our libraries) to help prioritize our research roadmap, and assess the impact of the research we’ve shipped.
+	- Design and conduct experiments that bring us closer to our vision.
+	- Collaborate on research papers.
++ skill set:
+	- You are an expert user of tools like Sketch, Figma, etc.
+	- You have demonstrable experience building new products (please show us examples!). You can iterate quickly by putting an MVP in people’s hands, and test ideas and hypotheses before any code is written.
++ Comfortable with most of the following: linux, python, docker, kubernetes 
 
 
 
