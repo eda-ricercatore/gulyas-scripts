@@ -112,6 +112,8 @@ Transparency
 	- URL
 	- VENUE
 	- DATE
++ Journal of Automated Reasoning
+	- https://www.springer.com/computer/theoretical+computer+science/journal/10817
 + KDD, SIGKDD Conference on Knowledge Discovery and Data Mining
 	- http://www.kdd.org/conferences
 	- Anchorage, Alaska
@@ -321,6 +323,19 @@ List of conference "Call for Papers" deadlines:
 	- San Diego, CA.
 	- October 9-11, 2019.
 	- Submission deadline: May 31 and June 7, 2019
+
+
+
++ SYNTCOMP, Reactive Synthesis Competition
+	- http://www.syntcomp.org/schedule/
+	- http://www.syntcomp.org/
+	- Deadlines: Late May or June till mid-July.
+
+
+
+
+
+
 
 
 
@@ -534,6 +549,17 @@ List of conference "Call for Papers" deadlines:
 
 
 
+
+
++ ISSCC 2019, International Solid-State Circuits Conference
+ 	- http://isscc.org/isscc-call-for-papers/
+ 	- San Francisco, CA.
+ 	- Submission deadline: ~~Sep 10, 2018.~~???
+
+
+
+
+
 + ISQED 2019, International Symposium on Quality Electronic Design
 	- https://www.isqed.org/English/Conference/Call_for_Papers.html
 	- Santa Clara, CA.
@@ -555,7 +581,6 @@ List of conference "Call for Papers" deadlines:
 
 
 
-
 + MTV17, International Workshop on Microprocessor/SoC Test, Security & Verification
 	- http://mtvcon.org/paper-submission/
 	- http://mtvcon.org/call-for-papers/MTV2019_CFP.pdf
@@ -563,10 +588,12 @@ List of conference "Call for Papers" deadlines:
 	- Submission deadline: September 15, 2019.
 
 
-+ ISSCC 2019, International Solid-State Circuits Conference
- 	- http://isscc.org/isscc-call-for-papers/
- 	- San Francisco, CA.
- 	- Submission deadline: ~~Sep 10, 2018.~~???
+
+
+ + SV-COMP, Competition on Software Verification
+	- https://sv-comp.sosy-lab.org/2019/dates.php
+	- https://sv-comp.sosy-lab.org/2019/
+	- Contest deadlines: Beginning in late September.
 
 
 
@@ -1573,7 +1600,10 @@ List of conference "Call for Papers" deadlines:
 
 + IJCAR 2020, International Joint Conference on Automated Reasoning
 	- http://www.ijcar.org/conferences
-	- VENUE
+	- http://ijcar.org/
+	- https://ijcar2020.org/
+	- Paris, France.
+	- June 28 - July 2, 2020.
 	- Submission deadline: Late Jan and Early Feb, 2020.
 
 

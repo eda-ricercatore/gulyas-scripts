@@ -3982,9 +3982,20 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Our backend services are written in Clojure and Python, and our front-end is written in React. We use MySQL and PostgreSQL to manage the state of our system. The entire system runs on Amazon Web Services (EC2, RDS, ELB, VPC, and more).
 	- [Simple, Composable, Open Source ETL; Singer powers data extraction and consolidation for all of your organization’s tools.](https://www.singer.io/)
 	- https://github.com/singer-io
-
-
-
+	- Destination loaders that efficiently import data into cloud systems like Redshift, Snowflake, and BigQuery
+	- Our backend services are written in Clojure and Python, and our front-end is written in React. We use MySQL and PostgreSQL to manage the state of our system. The entire system runs on Amazon Web Services (EC2, RDS, ELB, VPC, and more).
++ Experience working with Golang, Ruby, Docker, Sinatra, Rails, Postgres, MongoDB or Redshift.
++ skill set:
+	- Experience with a Data Warehouse (Redshift, Snowflake, etc) and data analysis using SQL
+	- Experience with ETL and Data Integration Platforms like Mulesoft, SnapLogic and Airflow
+	- Experience in at least one programming language (e.g. R, Python, Java, Ruby, Scala/Spark, or Go)
+	- Understanding of data modeling, performance analysis and production DB migrations
+	- Familiar with SFDC, Netsuite and Workday data models
+	- Develop pub/sub, streaming and batch data loads into our Data warehouse (Snowflake)
+	- Design scalable integrations with our product management teams that move key business data between our big rocks (SFDC, Workday, Netsuite, Internal Systems)
+	- Experience with Looker, Tableau or other business intelligence platform
+	- Experience with platform data like SFDC, NetSuite, Workday
++ Own and optimize P&L and adoption KPIs for the business.
 
 
 
@@ -4049,8 +4060,7 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 
 #	Bio Design Automation & Bio Manufacturing Automation Companies
 
-bio manufacturing automation
-
+bio manufacturing automation:
 + [addgene](https://www.addgene.org/careers/)
 + [Amyris](https://amyris.com/careers/)
 + [Analytikjena](https://www.analytik-jena.com/company/careers/)
@@ -4124,8 +4134,8 @@ bio manufacturing automation
 ##	Other Resources
 
 + [BioLEGO](http://www.cs.technion.ac.il/~edwardv/BioLego/html/BioLego.html)
-
-
++ [BioSpace, Urbandale, Iowa](https://www.biospace.com/)
++ [QB3 is affiliated with several UC research centers that offer specialized services to scientists and bring expertise and technology to bear on biological challenges.](https://qb3.org/affiliated-centers)
 
 
 
