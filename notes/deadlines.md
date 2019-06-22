@@ -320,11 +320,6 @@ List of conference "Call for Papers" deadlines:
 	- November 3-5, 2019
 	- Submission deadline: May 24 and 31, 2019
 
-+ HiPEAC 2020, International Conference on High-Performance and Embedded Architectures and Compilers
-	- https://www.hipeac.net/2020/bologna/#/
-	- Bologna, Italy.
-	- January 20-22, 2020.
-	- Submission deadline: June 1, 2019.
 
 
 + MEMOCODE'19, ACM-IEEE International Conference on Formal Methods and Models for System Design
@@ -332,6 +327,20 @@ List of conference "Call for Papers" deadlines:
 	- San Diego, CA.
 	- October 9-11, 2019.
 	- Submission deadline: May 31 and June 7, 2019
+
+
+
+
+
+
++ HiPEAC 2020, International Conference on High-Performance and Embedded Architectures and Compilers
+	- https://www.hipeac.net/2020/bologna/#/
+	- Bologna, Italy.
+	- January 20-22, 2020.
+	- Submission deadline: June 1, 2019.
+
+
+
 
 
 
@@ -349,13 +358,6 @@ List of conference "Call for Papers" deadlines:
 
 
 
-
-
-+ ICCD, IEEE International Conference on Computer Design
-	- https://www.iccd-conf.com/Home.html
-	- Abu Dhabi, United Arab Emirates.
-	- November 17-20, 2019.
-	- Submission deadline: June 21 and 28, 2019.
 
 
 
@@ -411,6 +413,24 @@ List of conference "Call for Papers" deadlines:
 
 
 
+
+
+
++ ICCD, IEEE International Conference on Computer Design
+	- https://www.iccd-conf.com/Home.html
+	- Abu Dhabi, United Arab Emirates.
+	- November 17-20, 2019.
+	- Submission deadline: June 21 and 28, 2019.
+
+
+
+
+
++ BioCAS, IEEE Biomedical Circuits and Systems Conference
+	- https://biocas2019.org/
+	- Nara, Japan.
+	- October 17-19, 2019.
+	- Submission deadline: June 24, 2019 (extended)
 
 
 
