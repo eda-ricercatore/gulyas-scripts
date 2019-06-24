@@ -4021,6 +4021,7 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 + Mixed-Signal Circuit Techniques for Near-Sensor Machine Learning and Data Analysis
 	- Mixed-signal interfaces are the essential bridges between the physical world and the digital information processing backbone. In recent years, innovation in such interfaces has been increasingly fueled by application-level insight and the data-driven nature of modern systems. As a result, the traditional building block boundaries are blurring, and the extraction of information occurs through symbiotic interplay between analog and digital signal processing. In this talk, I will illustrate this trend using examples of small-scale machine learning and data analysis functions that operate at the physical interface. Specific examples include mixed-signal feature extraction circuits and compute fabric for machine learning inference, as well as data-compressive interfaces for high-dimensional sensor inputs.
 	- Boris Murmann is a Professor of Electrical Engineering at Stanford University. He joined Stanford in 2004 after completing his Ph.D. degree in electrical engineering at the University of California, Berkeley in 2003. From 1994 to 1997, he was with Neutron Microelectronics, Germany, where he developed low-power and smart-power ASICs in automotive CMOS technology. Since 2004, he has worked as a consultant with numerous Silicon Valley companies. Dr. Murmann’s research interests are in mixed-signal integrated circuit design, with special emphasis on sensor interfaces, data converters and custom circuits for embedded machine learning. In 2008, he was a co-recipient of the Best Student Paper Award at the VLSI Circuits Symposium and a recipient of the Best Invited Paper Award at the IEEE Custom Integrated Circuits Conference (CICC). He received the Agilent Early Career Professor Award in 2009 and the Friedrich Wilhelm Bessel Research Award in 2012. He has served as an Associate Editor of the IEEE Journal of Solid-State Circuits, an AdCom member and Distinguished Lecturer of the IEEE Solid-State Circuits Society, as well as the Data Converter Subcommittee Chair and the Technical Program Chair of the IEEE International Solid-State Circuits Conference (ISSCC). He is the founding faculty co-director of the Stanford SystemX Alliance and the faculty director of Stanford's System Prototyping Facility (SPF). He is a Fellow of the IEEE.
++ Expert level knowledge of hyperscaler SDN environments. Operational experience strongly preferred.
 
 
 
@@ -4042,7 +4043,29 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 
 
 
+#	EDA: Electronic Design Automation Job Opportunities
 
++ skill set:
+	- Required Machine Learning Experts for EDA Products, we need people who are passionate about technology, constantly seeking to learn and improve the skill set with good communication and interpersonal skills.
+	- Should be proficient in Python and applying ML Algorithms.
+	- Good knowledge of machine learning algorithms like Neural network, CNN, Logistic regression, KNN, Random forest, decision tree, clustering etc.
+	- knowledge of C with good programming skills & logical interpretation.
+	- Decent depth in understanding ML algorithm concepts like supervised/unsupervised, regression/classification, time series algorithms
+
+
+
+
+
+
+Skill sets for application engineers of different EDA products:
++ Bus protocols such as AMBA-AXI, AHB, APB, I2C, SPI
++ Expert in coding SV Testbench, drivers, monitors, scoreboards, checkers
++ Experience in C/C++,Shell/Perl scripting.
++ Understanding of AHB, AXI and other bus protocols and system architecture is a plus.
++ Expert in System Verilog and OVM/UVM based verification.
++ Preferred Expertise in MIPI UniPro/UFS Protocol and UVM.
++ To help the team to verify the existing design (UFS/UniPro)
++ Preferable: Experience in one/more of the following areas PCI_Express, USB, SATA, SDIO, MIPI and /or AMBA standards (OCP, AXI, AHB etc.)
 
 
 
