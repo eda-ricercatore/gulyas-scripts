@@ -4022,10 +4022,50 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Mixed-signal interfaces are the essential bridges between the physical world and the digital information processing backbone. In recent years, innovation in such interfaces has been increasingly fueled by application-level insight and the data-driven nature of modern systems. As a result, the traditional building block boundaries are blurring, and the extraction of information occurs through symbiotic interplay between analog and digital signal processing. In this talk, I will illustrate this trend using examples of small-scale machine learning and data analysis functions that operate at the physical interface. Specific examples include mixed-signal feature extraction circuits and compute fabric for machine learning inference, as well as data-compressive interfaces for high-dimensional sensor inputs.
 	- Boris Murmann is a Professor of Electrical Engineering at Stanford University. He joined Stanford in 2004 after completing his Ph.D. degree in electrical engineering at the University of California, Berkeley in 2003. From 1994 to 1997, he was with Neutron Microelectronics, Germany, where he developed low-power and smart-power ASICs in automotive CMOS technology. Since 2004, he has worked as a consultant with numerous Silicon Valley companies. Dr. Murmann’s research interests are in mixed-signal integrated circuit design, with special emphasis on sensor interfaces, data converters and custom circuits for embedded machine learning. In 2008, he was a co-recipient of the Best Student Paper Award at the VLSI Circuits Symposium and a recipient of the Best Invited Paper Award at the IEEE Custom Integrated Circuits Conference (CICC). He received the Agilent Early Career Professor Award in 2009 and the Friedrich Wilhelm Bessel Research Award in 2012. He has served as an Associate Editor of the IEEE Journal of Solid-State Circuits, an AdCom member and Distinguished Lecturer of the IEEE Solid-State Circuits Society, as well as the Data Converter Subcommittee Chair and the Technical Program Chair of the IEEE International Solid-State Circuits Conference (ISSCC). He is the founding faculty co-director of the Stanford SystemX Alliance and the faculty director of Stanford's System Prototyping Facility (SPF). He is a Fellow of the IEEE.
 + Expert level knowledge of hyperscaler SDN environments. Operational experience strongly preferred.
-
-
-
-
++ skill set:
+	- Interface with design team to ensure DFT design rules and guidelines are met.
+	- Understanding of different fault models such as stuck-at, transition and path-delay fault models.
+	- Understanding of JTAG, Boundary Scan, IJTAG, MBIST architecture and Mentor MBIST&Repair methodology
+	- Understanding of Scan Compresssion & ATPG process
+	- Understanding of timing and related tools.
+	- Ability to analyze MBIST, ATPG DRC/Simulation failures.
+	- Ability to analyze DFT timing violation
+	- Scripting skills in perl/tcl
+	- Experience in Silicon MBIST/ATPG pattern Bring up and Silicon Failure Analysis
+	- Prefer to have experience in system failure analysis
+	- Design Implementation CAD tools:
+	- Synopsys DC & DFT compiler, DFT MAX, Tetramax, Mentor (LogicVision) JTAG/MBIST/Memory Repair.
+	- Simulation tool: synopsys VCS & Cadence NC-Verilog.
+	- Waveform debug: both novas and simvision.
+	- Timing:  primeTime & cadence tempus
+	- Silicon bring up:
+	- Understand ATE ATPG test pattern format: STIL (WGL)
+	- Understand JTAG SVF format.
+	- Experience in Mentor LogicVison CPUBIST bring up.
++ Knowledge of multi-domain clock synchronization and high-speed serial interfaces
++ Strong understanding of noise, EM/IR, process variation, and low voltage design techniques
++ skill set:
+	- Juniper’s Technical leader at the site for end to end manufacturing for sustaining, NPI and repair responsible for all ODM (Own Design Manufacturers) factories at Taiwan.
+	- ODM’s escalation/contact point for all technical issues. Provide direction and advice next course of action.
+	- Juniper team’s escalation point for any technical related issues with the factory.  Drive closure for team.
+	- Approve all deviation request from factory to Juniper and approve all deviation implementation from Juniper into factory.
+	- Lead and co-ordinate Line Stop and Ship Stop at the factory by pulling in the right Juniper team to support while directing the ODMs actions at the factory.
+	- Drive root cause analysis for DOA(Dead on arrival)/Field failure related to factory/manufacturing.
+	- Quarterly KPI planning and goal setting with ODM to drive continuous improvement.
+	- Monthly rolling audit and reporting.
+	- Quarter budget planning for Capital expense and Operating expense.
+	- ODM NPI(New product introduction) readiness assessment to support new awards and drive action plan.
+	- CEM/ODM technology roadmap planning and capability gap assessment based on Juniper product/technology roadmap.
+	- Drive DFM(Design for manufacturing)/DFA(Design for Assembly) closure with the Juniper NPI/product team.
+	- Scorecard coordination with respective cross functional team and finalizing the score for the site.
+	- Define and check/buyoff all critical reports from CEM/ODM to Juniper.
+	- Drive process improvements required by Juniper related to manufacturing process and test, packaging, labelling, data collection
+	- Initiate ECO(Engineering Change Notice) and deviations for product changes impacting the site products involving shippable images, pack-out and labelling.
+	- Monitor capacity and proactively drive changes as required.
++ skill set:
+	- Perform channel margin analysis to provide design tradeoffs amongst package, board, connector. Develop SerDes channel simulation models and correlate to test structures. Correlate TX and RX SerDes simulation models with measurements and work with SerDes vendors to improve model accuracy.
+	- Proficient with lab equipment such as oscilloscopes, Vector Network Analyzers, Time Domain Reflectometer, Spectrum Analyzers, phase noise analyzers.  Good lab debug skills a plus.
+	- Perform SI DVT measurements on boards and correlate simulations with DVT measurements.  Document SI DVT measurements and correlation to simulations.
 
 
 
@@ -4055,7 +4095,7 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 
 
 
-
+##	Application engineers of different EDA products
 
 Skill sets for application engineers of different EDA products:
 + Bus protocols such as AMBA-AXI, AHB, APB, I2C, SPI
@@ -4066,6 +4106,42 @@ Skill sets for application engineers of different EDA products:
 + Preferred Expertise in MIPI UniPro/UFS Protocol and UVM.
 + To help the team to verify the existing design (UFS/UniPro)
 + Preferable: Experience in one/more of the following areas PCI_Express, USB, SATA, SDIO, MIPI and /or AMBA standards (OCP, AXI, AHB etc.)
++ Experience with verification methodology like OVM/VMM/UVM
++ Experience in constrained-random verification is a strong plus
+
+
+
+
+
+
+
+
+
+
+
+##	Additional Information about EDA
+
++ [IP-XACT is an XML format that defines and describes individual, re-usable electronic circuit designs (individual pieces of intellectual property, or IPs) to facilitate their use in creating integrated circuits (i.e. microchips). IP-XACT was created by the SPIRIT Consortium as a standard to enable automated configuration and integration through tools.](https://en.wikipedia.org/wiki/IP-XACT)
++ [The SystemRDL language, supported by the SPIRIT Consortium, was specifically designed to describe and implement a wide variety of control status registers. Using SystemRDL, developers can automatically generate and synchronize register views for specification, hardware design, software development, verification, and documentation.](https://en.wikipedia.org/wiki/SystemRDL)
+	- [SystemRDL Compiler](https://github.com/SystemRDL/systemrdl-compilerSystemRDL Compiler)
+	- [open-register-design-tool, Ordt](https://github.com/Juniper/open-register-design-tool)
+	- https://www.eda.org/images/downloads/standards/systemrdl/SystemRDL_2.0_Jan2018.pdf
++ Automatic Register Verification (ARV)
++ synthesizable RTL, UVM, c-header, RALF eRM, SystemRDL, IP-XACT
++ UVM, Universal Verification Methodology, SystemVerilog based
++ VMM, Verification Methodology Manual
++ OVM, Open Verification Methodology
++ URM, Universal Reuse Methodology
++ eRM, e Reuse Methodology, e Verification Language
+
+
+
+
+
+
+
+
+
 
 
 
