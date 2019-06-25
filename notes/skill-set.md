@@ -4066,7 +4066,13 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Perform channel margin analysis to provide design tradeoffs amongst package, board, connector. Develop SerDes channel simulation models and correlate to test structures. Correlate TX and RX SerDes simulation models with measurements and work with SerDes vendors to improve model accuracy.
 	- Proficient with lab equipment such as oscilloscopes, Vector Network Analyzers, Time Domain Reflectometer, Spectrum Analyzers, phase noise analyzers.  Good lab debug skills a plus.
 	- Perform SI DVT measurements on boards and correlate simulations with DVT measurements.  Document SI DVT measurements and correlation to simulations.
-
++ skill set:
+	- knowledge of software for creating interactive prototypes (Framer, Invision);
+	- experience in using visual mapping tools like Plectica;
+	- experience in type design and editorial design;
+	- talent or predisposition for vector and / or raster illustration.
+	- experience in the design and implementation of user interfaces and experience;
+	- excellent knowledge of vector graphics software such as Adobe Illustrator and Sketch.
 
 
 
