@@ -4073,7 +4073,8 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- talent or predisposition for vector and / or raster illustration.
 	- experience in the design and implementation of user interfaces and experience;
 	- excellent knowledge of vector graphics software such as Adobe Illustrator and Sketch.
-
++ skills set:
+	- 
 
 
 
