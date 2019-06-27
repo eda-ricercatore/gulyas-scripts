@@ -4074,6 +4074,12 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- experience in the design and implementation of user interfaces and experience;
 	- excellent knowledge of vector graphics software such as Adobe Illustrator and Sketch.
 + Nice to Know: React, React native, Ruby/Rails, GraphQL, apollo
++ skill set:
+	- Write APIs that handle millions of calls every day. Work with modern backend technologies like Node.js, GraphQL, Redis, and Elasticsearch.
+	- Build completely serverless systems on top of AWS services like Lambda, Kinesis, and Api Gateway. At Bustle, we are always trying out the latest and greatest that AWS and competitors have to offer.
+	- Write clean, functional, reusable, and testable "ES Next" code through tooling with Babel and TypeScript.
+	- Eager to improve the areas in which you live and work. (Code, Processes, Communication)
+	- Comfortable with cloud infrastructure (Google Cloud or AWS)
 + skills set:
 	-
 
