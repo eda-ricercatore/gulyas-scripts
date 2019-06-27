@@ -793,11 +793,11 @@ List of conference "Call for Papers" deadlines:
 
 
 + STOC, Annual ACM Symposium on the Theory of Computing
-	- http://acm-stoc.org/stoc2019/.
-	- http://acm-stoc.org.
+	- http://acm-stoc.org/stoc2020/
+	- http://acm-stoc.org
 	- Phoenix, AZ
-	- Conference dates: June 23-26, 2019.
-	- Submission deadline: November 2, 2018.
+	- Conference dates: June 22–26, 2020.
+	- Submission deadline: November 2, 2018 (for STOC 2019).
 
 
 
