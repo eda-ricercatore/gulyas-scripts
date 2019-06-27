@@ -685,7 +685,10 @@ Flags for work-in-progress:
 	- Implement my adversarial machine learning software solution as
 		hardware (VLSI system).
 + Implement my solution for adversarial machine learning using NBL.
-
++ References for:
+	- data structures and algorithms:
+		* \cite{Goodrich2013}
+		* \cite{Lafore2003}
 
 
 
