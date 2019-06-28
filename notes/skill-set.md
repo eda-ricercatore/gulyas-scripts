@@ -4081,7 +4081,8 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Eager to improve the areas in which you live and work. (Code, Processes, Communication)
 	- Comfortable with cloud infrastructure (Google Cloud or AWS)
 + skills set:
-	-
+	- ***security of machine learning***
+	- ***robustness and reliability of machine learning technologies***
 
 
 
