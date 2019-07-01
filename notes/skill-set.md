@@ -4083,10 +4083,25 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 + skills set:
 	- ***security of machine learning***
 	- ***robustness and reliability of machine learning technologies***
-
-
-
-
++ skill set:
+	- Redesigning our data systems from a warehouse-centric to a lake-centric architecture to be more cost-effective as our data volume grows.
+	- Rolling out a structured events pipeline for analytics and productization of high-volume event streams.
+	- Building a centralized, discoverable data catalog to enable users across the company to efficiently find and use data.
+	- We currently support a 100TB data warehouse used by hundreds of people to make mission-critical decisions for our products and business.
+	- An experienced data engineer. You have several years of experience operating large-scale distributed data processing systems—advanced ETL pipelines and data lakes or warehouses. Experience with Spark and AWS data services (EMR, Glue, Redshift) is preferred.
++ Use of online tools such as Userzoom, usertesting.com and Optimal Workshop a plus
++ Experience working with financial planning systems (Board, Hyperion, SAP, etc.)
++ Experience automating reporting with data in JIRA and other similar tools
++ Familiar with working in a SOC/SOX-compliant environment and how to design/ follow procedures as well as write documentation to maintain compliance
++ https://www.glassdoor.co.uk/Jobs/Google-vlsi-design-engineer-San-Jose-Jobs-EI_IE9079.0,6_KO7,27_IL.28,36_IC1147436.htm?countryRedirect=true
++ You enjoy building UIs with modern tools like ES6, React, Mobx, Webpack, etc..
++ skill set:
+	- Porting libc and libc++
+	- Porting an open-source BIOS
+	- Writing a micro-kernel similar to L4
+	- Modifying and/or writing logic generators in C++ for hardware functional units
+	- Writing compiler toolchain code, including working on our own code generator back end and modifying LLVM to support some unusual capabilities of the Mill such as quad precision, overflow detection and decimal floating point
+	- Writing test sequence generators in C++ for individual operations
 
 
 
