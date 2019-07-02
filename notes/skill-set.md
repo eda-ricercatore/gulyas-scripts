@@ -4116,10 +4116,28 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Exposure to data visualization tools and techniques (matplotlib, ggplot or Tableau);
 	- Experience with business case analysis (problem identification, quantitative modeling and problem solving)
 + Complex routing and switching solutions ( using Juniper, Cisco, Arista) utilizing BGP, OSPF, ISIS VxLan , EVPN
-
-
-
-
++ skill set:
+	- cPanel, Apache, Nginx, CEPH, Virtualization (KVM)
+	- PHP Configuration, MySQL Configuration (Postgres a plus), WordPress Configuration,
+	- Exim, Zabbix, OpenStack, Content Delivery Networks, DNS Management (PowerDNS),
+	- Hardware Configuration, Network Configuration, Linux Kernel Configuration, Malware
+	- Detection/Mitigation, FTP, Hardware & Software RAID (LSI, 3Ware, MDADM), & backup technologies at scale
++ skill set:
+	- Ability to leverage structured formats like JSON, YAML, XML to build scalable, testable RESTful applications
+	- Experience with NoSQL technologies like CouchDB, Redis
++ Experience with testing frameworks: Selenium Webdriver, Rspec, Cucumber, Jasmine, etc.
++ Experience with Rspec, Jenkins, Maven
++ skill set:
+	- Other preferred experience includes working with DevOps practices, SaaS, IaaS, code management (CodeCommit, git), deployment tools (CodeBuild, CodeDeploy, Jenkins, Shell scripting), and Continuous Delivery
+	- Primary AWS development skills include S3, IAM, Lambda, RDS, Kinesis, APIGateway, Redshift, EMR, Glue, and CloudFormation
+	- Extensive experience developing big data, business intelligence, marketing automation and/or other analytics infrastructure or pipelines - data lake experience preferred
+	- 10 years experience in developing and architecting solutions using big data, data warehousing
+	- 3 ++ years hands-on experience developing data lake solutions using Amazon’s AWS (certification preferred)
+	- Experience with data streaming technologies (Kinesis, Storm, Kafka, Spark Streaming) and real time analytics
+	- Working experience and detailed knowledge in Java, JavaScript, or Python
+	- Knowledge of ETL, Map Reduce and pipeline tools (Glue, EMR, Spark)
+	- Experience with large or partitioned relational databases (Aurora, MySQL, DB2)
+	- Experience with NoSQL databases (DynamoDB, Cassandra)
 
 
 
