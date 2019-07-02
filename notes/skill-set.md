@@ -4102,7 +4102,20 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Modifying and/or writing logic generators in C++ for hardware functional units
 	- Writing compiler toolchain code, including working on our own code generator back end and modifying LLVM to support some unusual capabilities of the Mill such as quad precision, overflow detection and decimal floating point
 	- Writing test sequence generators in C++ for individual operations
-
++ skill set:
+	- Use machine learning methods (e.g., cluster analysis, decision trees, random forest, neural networks, logistics regression) to model and predict research outcomes
+	- Use advanced mathematical techniques (correlation, regression, time series analysis, analysis of variance, etc.) to forecast outcomes
+	- Identify appropriate methods to conduct analyses including simulation methods (e.g., bootstrap, monte carlo, bagging methods), machine learning, and statistical analyses
+	- Develop data visualizations to capture trends and summarize data
+	- Create reports of data metrics, trends, outliers, etc.
+	- Hands on experience with R and/or Python to manipulate and transform data
+	- Ability to communicate through graphical representation/visualizations, reports, algorithms, models, and dashboards
+	- Process and prepare both structured and unstructured data sets to ensure successful modeling further downstream of the insight generation and modeling process
+	- Hands on experience with R, SAS and/or Python to manipulate and transform data
+	- Experience working with databases (Teradata, Oracle, SQL and NoSQL dbs) and interpreting data; experience with feature engineering and data wrangling of both unstructured and structured data sets;
+	- Exposure to data visualization tools and techniques (matplotlib, ggplot or Tableau);
+	- Experience with business case analysis (problem identification, quantitative modeling and problem solving)
++ Complex routing and switching solutions ( using Juniper, Cisco, Arista) utilizing BGP, OSPF, ISIS VxLan , EVPN
 
 
 
