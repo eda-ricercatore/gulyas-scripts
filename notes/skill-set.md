@@ -4244,6 +4244,28 @@ Skill sets for application engineers of different EDA products:
 
 
 
+###	Hot Trends
+
++ [ISSCC](http://isscc.org/)
+	- https://www.youtube.com/watch?v=YzD7Z2yRL7Y
+
+
+
+
+
+###	Information for IC Design
+
++ [ECE 423/523 -- CMOS Integrated Circuits II](https://web.engr.oregonstate.edu/~moon/ece423/cadence/)
++ https://cdadic.oregonstate.edu/people/moon-un-ku
++ [Center for Design of Analog-Digital Integrated Circuits](https://cdadic.oregonstate.edu/overview)
++ https://web.engr.oregonstate.edu/~moon/ece323/
+	- Grade courses by the effort that student's put into the class/course, and measure the effort in decibels.
+
+
+
+
+###	Hardware Security
+
 hardware security topics from Trust-Hub website Trust-Hub.org:
 + System-on-chip (SoC) Attacks and Security
 + Intellectual Property (IP) Trust and Assurance

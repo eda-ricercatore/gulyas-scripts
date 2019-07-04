@@ -580,10 +580,13 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ ISSCC 2019, International Solid-State Circuits Conference
++ ISSCC 2020, International Solid-State Circuits Conference
  	- http://isscc.org/isscc-call-for-papers/
- 	- San Francisco, CA.
- 	- Submission deadline: ~~Sep 10, 2018.~~???
+	- http://isscc.org/isscc-call-for-papers/abstract-submission-2/
+	- http://isscc.org/wp-content/uploads/sites/15/2018/07/ISSCC2019_WritingGoodISSCCPaper.pdf
+	- San Francisco, CA.
+ 	- Submission deadline: ~~Sep 9, 2019 (3 p.m., EDT).~~???
+	- [Student Research Preview](http://isscc.org/isscc-call-for-papers/information-for-students/)
 
 
 
