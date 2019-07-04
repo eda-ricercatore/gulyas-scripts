@@ -4138,6 +4138,42 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Knowledge of ETL, Map Reduce and pipeline tools (Glue, EMR, Spark)
 	- Experience with large or partitioned relational databases (Aurora, MySQL, DB2)
 	- Experience with NoSQL databases (DynamoDB, Cassandra)
++ Stata for statistical analysis
++ skill set for Deep Learning Research Engineer at Crossing Minds:
+	- San Francisco, CA.
+	- At Crossing Minds we are building a future where AI-powered software helps maximize human happiness. Currently, we are creating the continuous recommendation experience that provides personalized recommendations for all the things you love but haven’t discovered yet.
+	- Crossing Minds incubates artificial intelligence products and services, enriching the human experience using deep learning. Our first product, Hai, is a universal recommendation engine that maps taste across categories (music, movies, games, etc.) to help find more of what you love. Through our website, app, and messenger interaction, Hai syncs with other platforms to serve as a cultural home and launchpad for personal exploration.
+	- Sponsored by Nvidia, GCP and Stanford’s StartX program, we’re looking for a deep learning expert to help our product understand tastes and help our growing team develop the heart of AI.
+	- Collaborate with our agile team of researchers and engineers.
+	- Design and implement efficient systems to understand users textual queries in real time.
+	- Elaborate algorithms to extract relevant informations from text reviews or descriptions.
+	- Elaborate algorithms to extract relevant informations from images data.
+	- You want to join a small team of hard-workers, to build an awesome product that’ll help everyone you know.
+	- You have a PhD in Deep Learning, with focus on Computer Vision and/or Natural Language Processing.
+	- You have strong knowledge on Computer Science, Computational Learning and HPC fundamentals: algorithms, systems, linear algebra, numerical methods, statistics.
+	- You have at least two years of experience in Theano, TensorFlow or PyTorch.
+	- You used CUDA on clusters of GPUs professionally.
+	- Python, Machine Learning, Natural Language Processing, Deep Learning, theano, Convolutional Neural Networks, Machine Learning Data Science Python
+	- Compensation: $140k – $170k, 0.0% – 1.0% of stock options.
+suddenlinkmail.com
+medallia.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
