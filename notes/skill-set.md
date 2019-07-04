@@ -4165,7 +4165,8 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Engineer level 7, equivalent to GS-14, or distinguished professor or academic department head
 	- Engineer level 8, equivalent to GS-15, or academic department head or dean
 	- Engineer level 9, equivalent to GS-15, or academic dean or higher
-
++ skill set:
+	-
 
 
 
@@ -4243,8 +4244,22 @@ Skill sets for application engineers of different EDA products:
 
 
 
+hardware security topics from Trust-Hub website Trust-Hub.org:
++ System-on-chip (SoC) Attacks and Security
++ Intellectual Property (IP) Trust and Assurance
++ Reverse Engineering
++ Invasive and Semi-invasive Physical Attacks
++ Computer-aided design (CAD) for Security
++ Side Channel Attacks and Mitigation
++ Hardware Security Primitives (PUFs, TRNGs, etc.)
++ Hardware Obfuscation
++ Hardware Trojans and Backdoors
++ Counterfeit Electronics
++ FPGA/eFPGA Security
++ IoT and Cyber-physical System Security
++ Emerging and Nanoscale Device Security
 
-
+Denis Gray, Ph.D.: dogray@ncsu.edu
 
 
 
