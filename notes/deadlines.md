@@ -584,8 +584,11 @@ List of conference "Call for Papers" deadlines:
  	- http://isscc.org/isscc-call-for-papers/
 	- http://isscc.org/isscc-call-for-papers/abstract-submission-2/
 	- http://isscc.org/wp-content/uploads/sites/15/2018/07/ISSCC2019_WritingGoodISSCCPaper.pdf
+	- http://isscc.org/isscc-call-for-papers/topics-of-interest-2/
+	- http://isscc.org/about-isscc/technical-committees/
+	- http://isscc.org/contact/
 	- San Francisco, CA.
- 	- Submission deadline: ~~Sep 9, 2019 (3 p.m., EDT).~~???
+ 	- Submission deadline: ~~Sep 9, 2019 (3 p.m., EDT).~~
 	- [Student Research Preview](http://isscc.org/isscc-call-for-papers/information-for-students/)
 
 
@@ -792,6 +795,16 @@ List of conference "Call for Papers" deadlines:
 	- February 22-26, 2020.
 	- San Diego, CA.
 	- Submission deadline: October 23 and 30, 2019.
+
+
+
+
+
++ IRPS, IEEE International Reliability Physics Symposium
+	- https://irps.org/irps-call-for-papers/download-call-for-papers/
+	- Submission deadlines:
+		* Abstract (Paper/Poster): October 25, 2019.
+		* Late paper submission: January 24, 2010.
 
 
 

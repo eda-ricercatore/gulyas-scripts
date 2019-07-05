@@ -4260,6 +4260,15 @@ Skill sets for application engineers of different EDA products:
 + [Center for Design of Analog-Digital Integrated Circuits](https://cdadic.oregonstate.edu/overview)
 + https://web.engr.oregonstate.edu/~moon/ece323/
 	- Grade courses by the effort that student's put into the class/course, and measure the effort in decibels.
++ http://www.stin.kobe-u.ac.jp/en/outline/member/Nagata_en.html
+
+
+
+
+
+
+
+
 
 
 
