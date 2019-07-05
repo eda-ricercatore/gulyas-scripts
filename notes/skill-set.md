@@ -4155,24 +4155,24 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- You used CUDA on clusters of GPUs professionally.
 	- Python, Machine Learning, Natural Language Processing, Deep Learning, theano, Convolutional Neural Networks, Machine Learning Data Science Python
 	- Compensation: $140k – $170k, 0.0% – 1.0% of stock options.
-+ skill levels:
-	- Engineer level 1, equivalent to GS-5
-	- Engineer level 2, equivalent to GS-7
-	- Engineer level 3, equivalent to GS-9, or academic instructor
-	- Engineer level 4, equivalent to GS-11, or assistant professor
-	- Engineer level 5, equivalent to GS-12, or associate professor
-	- Engineer level 6, equivalent to GS-13, or full professor
-	- Engineer level 7, equivalent to GS-14, or distinguished professor or academic department head
-	- Engineer level 8, equivalent to GS-15, or academic department head or dean
-	- Engineer level 9, equivalent to GS-15, or academic dean or higher
++ Familiarity with NOSQL storage (MongoDB, Redis, Elastic, etc.)
 + skill set:
 	-
 
 
 
+#	Skill Levels
 
-
-
+skill levels:
++ Engineer level 1, equivalent to GS-5
++ Engineer level 2, equivalent to GS-7
++ Engineer level 3, equivalent to GS-9, or academic instructor
++ Engineer level 4, equivalent to GS-11, or assistant professor
++ Engineer level 5, equivalent to GS-12, or associate professor
++ Engineer level 6, equivalent to GS-13, or full professor
++ Engineer level 7, equivalent to GS-14, or distinguished professor or academic department head
++ Engineer level 8, equivalent to GS-15, or academic department head or dean
++ Engineer level 9, equivalent to GS-15, or academic dean or higher
 
 
 
