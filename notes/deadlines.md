@@ -802,9 +802,15 @@ List of conference "Call for Papers" deadlines:
 
 + IRPS, IEEE International Reliability Physics Symposium
 	- https://irps.org/irps-call-for-papers/download-call-for-papers/
+	- Grapevine, TX, in the DFW area.
+	- March 29 – April 2, 2020
 	- Submission deadlines:
 		* Abstract (Paper/Poster): October 25, 2019.
 		* Late paper submission: January 24, 2010.
+
+
+
+
 
 
 
