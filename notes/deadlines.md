@@ -1122,10 +1122,13 @@ List of conference "Call for Papers" deadlines:
 
 
 + S&P, IEEE Symposium on Security and Privacy
-	- http://www.ieee-security.org/TC/SP2019/cfpapers.html
+	- https://www.ieee-security.org/TC/SP2020/cfpapers.html
+	- https://www.ieee-security.org/TC/SP2020/
+	- May 18-20, 2020.
 	- San Francisco, CA.
 	- "A rolling deadline occurs on the 1st of each month, at 3:00 PM (UTC-7, i.e., PDT). This deadline is strict and no extensions will be granted."
 	- "All papers accepted by February 1st, 2019, or that are submitted as a revision by February 1st, 2019 and the revision is then accepted, will be included in the proceedings of the symposium in May, 2019 and invited to present their work. Other papers will be included in the 2020 proceedings."
+	- Submission deadline: Rolling (Next deadline: August 1, 2019)
 
 
 

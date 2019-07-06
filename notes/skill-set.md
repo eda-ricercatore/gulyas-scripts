@@ -4155,9 +4155,149 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- You used CUDA on clusters of GPUs professionally.
 	- Python, Machine Learning, Natural Language Processing, Deep Learning, theano, Convolutional Neural Networks, Machine Learning Data Science Python
 	- Compensation: $140k – $170k, 0.0% – 1.0% of stock options.
-+ Familiarity with NOSQL storage (MongoDB, Redis, Elastic, etc.)
 + skill set:
-	-
+	- Familiarity with NOSQL storage (MongoDB, Redis, Elastic, etc.)
+	- A strong background in relational database theory and excellent knowledge of Relational Databases (Postgres, MySQL, SQL server, Oracle)
++ Working knowledge of ROS + Gazebo. Experience with OMPL / PCL / OpenCV is a plus.
++ skill set:
+	- We will prefer candidates who have experience working hands-on with physical systems like robots. Example: manipulation of a robotic arm, ground robots, self-driving cars, quad rotor or any other mobile robot.
+	- High proficiency in C. Experience with C++/Python is a bonus.
+	- Experience working hands-on with micro-controllers like STM32 / NXP is a big bonus.
+	- Experience with RTOS.
+	- Rock solid software engineering foundation and a commitment to writing clean, documented and well architected code.
+	- B.S in Computer Science, Electrical, Robotics or a related field. > 2 years prior professional experience developing firmware for embedded systems.
++ skill set for: Perception and Localization - Autonomy Software Engineer
+	- M.S & 4+ years of experience or Ph.D. in Computer Science, Electrical, Mechanical, Aerospace, Robotics or a related field. Ph.D.candidates will be given preference.
+	- Experience working hands-on with physical robots like quadcopters, AGVs, UGVs etc.
+	- High proficiency in C++.
+	- Rock solid software engineering foundation and a commitment to writing clean, documented and well-architected code
+	- Strong fundamental understanding of Kalman Filtering, SLAM, particle filtering, and other estimation and sensor fusion techniques.
+	- Strong math fundamentals in large scale optimization, dynamic programming, non-linear optimization, linear algebra etc.
+	- Competency in ROS/ OMPL / PCL / OpenCV is a plus.
++ skill set:
+	- Experience with Jira or any ticketing management systems
+	- Understanding of AWS-VPC and basics of TCP and Routing.
+	- Experience with large-scale distributed systems
++ skill set:
+	- Experience in defining and implementing MDM data models, matching rules, Duplicate Match Review processing, Match-Merge Rules, Workflow Configuration, complex hierarchy relationship management and data governance.
+	- System endurance improvement through root cause analysis (RCA), fixes and deployment support
++ skill set:
+	- Experience in Monitoring tools like Nagios, New Relic, and Splunk
+	- Strong understanding of DNS, DHCP, NTP, SMTP, TCP/IP, SSH, HTTPS, TLS, IPSec, concepts of VPN and other internet protocols
+	- Experience in Application and Database level Monitoring and Troubleshooting (like Apache, Tomcat, and MySQL)
+	- Experience in Application & Infrastructure Monitoring (Nagios, New Relic, Datadog, Splunk, Sumologic, etc...)
++ skill set:
+	- Advanced understanding of OOPS
+	- Knowledge of SDL (Software development Lifecycle)
+	- Experience of working in Agile environment
+	- Good at Code review and design review
+	- Ability to design for scale and Performance
+	- Solid problem solving skills
+	- Experience with hands-on programming
+	- Expertise in data structures and algorithms
+	- A background in Engineering with sound oral and written communication skills
+	- Degree in Computer Science or equivalent practical experience
+	- Experience with large-scale systems
+	- Intermediate knowledge of Ruby on Rails
+	- Prior experience with AWS
+	- Experience with open-source projects
+	- Experience troubleshooting in a SaaS environment with an assertive deployment schedule
+	- Experience in leading engineering team
++ skill set:
+	-  5+ years of experience engineering and managing MySQL or PostgreSQL database server for high traffic applications
+	- Deep expertise in designing and maintaining MySQL or PostgreSQL
+	- Experience in Distributed Systems engineering, Linux performance, memory management, I/O tuning, cluster management, sharding, Data durability, security, networking, and system crash analysis
+	- Experience in setting up and operating Highly Available MySQ
+	- Experience in debugging time critical DB problems like deadlock analysis and transaction locking
+	- Experience in engineering solutions for data backup and encryption
+	- Expertise in Database internals and ability to optimize and tune DB engines
+	- Experience in working with Percona and innoDB engine
+	- Experience in debugging time critical DB problems like deadlock analysis, transaction locking etc
+	- Familiar with Agile SDLC
+	- Good communication skills and ability to work with remote teams.
+	- Ability to program in Bash shell scripts, Python, C/C++ and SQL.
+	- Self motivated engineer who can solve problems independently
+	- Ruby programming is an added advantage
+	- Experience with AWS is an added advantage.
+	- Exposure to different MySQL HA technologies like XtraDB cluster is an added advantage
+	- Exposure to MySQL native plugin development is an added advantage
+	- Build innovative monitoring systems that monitors the Computing infrastructure and the DB engine
++ skill set:
+	- Experience troubleshooting in a SaaS environment with an assertive deployment schedule
+	- Experience building large-scale performant services
++ skill set:
+	- Experience with complex data flow/analytics infrastructure, e.g. Kakfa, Kinesis, Redshift
+	- Experience stopping bad actors in a system, e.g. ad fraud, e-commerce fraud
+	- A working understanding of fraud vectors, both small scale (client side hacks) and large scale (botnets)
+	- Experience with software development via distributed development teams
+	- Have built/trained statistical / machine learning models at scale to solve real world problems
+	- Experience with ad-tech / marketing tech ecosystem
+	- Familiarity with the world of cryptocurrency, especially Ethereum
++ skill set:
+	- Experience with Go, JavaScript/TypeScript
+	- Experience with SQL, Postgres, MongoDB, Redis and other related data storage technology
+	- Experience building robust API endpoints
+	- Experience with AWS and deploying production systems at scale
+	- Experiencing deploying monitoring solutions like Prometheus, Zabbix, Pingdom, etc
+	- A 24x7 uptime mindset and the willingness to manage and be part of pager duty rotation
+	- Experience with software development via distributed development teams
+	- Comfortable working in an open source setting
+	- A passion for helping protect users’ privacy and security
+	- Written and verbal communication skills in English
+	- Proven record of getting things done
+	- Experience with Rust
+	- Experience with Ruby on Rails
+	- Experience with payment systems
+	- Familiarity with the world of cryptocurrency, especially Ethereum
++ skill set:
+	- Excellent skills in AWS, MapReduce
+	- Experience in machine learning, quantitative analysis
+	- Experience in knowledge graphs, statistical relational learning, trends-driven analysis
+	- Experience in modelling both structured and unstructured data
+	- Excellent skills in C++, Python
+	- Excellent skills in Postgres
+	- Ability to work/report remotely
++ skill set:
+	- close familiarity with ad tech
+	- familiarity with Thompson sampling, contextual bandits, and related techniques
+	- familiarity with privacy-preserving ML techniques
+	- familiarity with security and fraud prevention (optional)
+	- ability to read and understand scientific papers and to reduce research findings into practice
+	- experience with software development via distributed development teams
+	- comfortable working in an open source setting
+	- excellent written and verbal communication skills in English
+	- proven record of getting things done
+	- good knowledge of python, or other language for model training, working knowledge of  C++/Rust for browser components
+	- MS or PhD in Computer Science; we may consider a related quantitative discipline in exceptional cases
++ skill set for 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
