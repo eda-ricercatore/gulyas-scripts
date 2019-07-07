@@ -4269,8 +4269,58 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- proven record of getting things done
 	- good knowledge of python, or other language for model training, working knowledge of  C++/Rust for browser components
 	- MS or PhD in Computer Science; we may consider a related quantitative discipline in exceptional cases
-+ skill set for 
-
++ skill set for Machine Learning Researcher:
+	- Specific Skills That Will Set You Apart from the Competition:
+		* Privacy-preserving machine learning
+		* Decentralized machine learning
+		* Deep knowledge of adtech
+		* Ph.D. in computer science from a top-tier school
+	- Demonstrates a high level of initiative and consistently delivers high-quality answers
+	- Has an enquiring mind and a disciplined scientific approach to extracting facts and understanding observed behavior
+	- Is excited by the potential of realising high-value commercial outcomes and change the way that the advertising business operates
+	- Want to be part of a high-growth startup company with global ambitions
+	- Comfortable with JavaScript and C++ so that they can effectively interact with the rest of the team. Knowledge of Python, Java or C# is also strongly encouraged.
+	- Has a proven track record implementing data driven products and a broad understanding of the state of the art in machine learning
+	- Comfortable working in an open source setting
+	- Able to create and deploy machine learning pipelines
+	- Has a passion for helping protect users’ privacy and security
+	- A Ph.D. in computer science is highly preferred, but we may consider some exceptions
+	- Logistic Regression, Decision Trees, Random Forest, Naive Bayes, Clustering, etc. and a good grasp of the strengths and weaknesses of specific approaches
+	- Basic data cleansing and preparation, variable preprocessing/transformation
+	- Univariate analysis, performing statistical tests, covariance analysis, multivariate analysis and linear/non-linear regression
+	- Preparation of data sets for predictive modelling, robust predictive model building, validation and application
+	- Automation of statistical processes and integration into a bigger product
+	- Experience in Hadoop technologies such as Hive / Impala and distributed data pipelines such as Airflow / Luigi
++ skill set for Ph.D.-Level Internships at Brave:
+	- https://brave.com/careers/?gh_jid=896018
+	- San Francisco, CA, or London, U.K..
+	- Brave is proud to offer summer internships for Ph.D.-level students that involve working on ground-breaking technologies that make the web faster, safer, and more private for millions of people worldwide. Brave’s mission is also to change the way advertising is done on the web. If you are interested in technologies ranging from JavaScript to cutting-edge blockchain, web security, privacy, anonymity, and smart contracts, come and work with us to improve the web for millions of users!
+	- You should be ready to tackle hard problems that involve building software that will be shipped to millions of people worldwide. Brave is delving into challenges that are deeply connected to cutting-edge academic research. To address many of these complex issues, we are in touch with several academic groups worldwide and we are excited to offer research internships for students who are currently enrolled in a Ph.D. program.
+	- You will be part of Brave, will be paired with a mentor, and will be working alongside a larger Brave team. We offer internships in both the US and Europe. Most internships start in June 2019 and last three months, although there is some amount of flexibility for exceptional candidates.
+	- Please email us at internships@brave.com if you have any questions.
++ skill set for Visiting Professor at Brave:
+	- San Francisco, London, Remote
+	- Brave is looking for visiting professors to join Brave for both short and long-term projects, especially in the summer. We are interested in having productive and well-published researchers working with us in the following areas:
+		* software and hardware security
+		* software reliability
+		* privacy
+		* blockchain
+		* cryptography
+		* performance
+		* privacy-preserving machine learning
+	- We are open to both local (San Francisco and London) arrangements. Candidates should expect to engage closely with researchers and engineers, but also to publish.
++ skill set:
+	- Experience with Devops tools such as Jenkins, Nagios/icinga, Ansible, hashicorp vault.
+	- Experience with Docker, Kubernetes is required.
++ skill set:
+	- You have worked with Relational databases like MySql, Postgres and understand partitioning, sharding, as well as NoSQL databases such as mongoDB/Couchbase etc.
+	- You should be at ease with maintaining cloud instances on AWS, Rackspace, Digital Ocean and the like, and you should be at home with provisioning tools like Puppet or Ansible. Experience with Docker in production would be prized.
++ skill set:
+	- You have setup end to end data pipeline
+	- You have worked on real world data sets that range into millions of data points that contain missing values, and unclean data
+	- You have owned and delivered data science projects that are live on production
+	- You have practical knowledge of a wide variety of data science methodologies and an intuitive understanding of which methodology is applicable to which problem
++ 
 
 
 
