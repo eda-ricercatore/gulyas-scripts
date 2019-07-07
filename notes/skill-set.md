@@ -4320,7 +4320,7 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- You have worked on real world data sets that range into millions of data points that contain missing values, and unclean data
 	- You have owned and delivered data science projects that are live on production
 	- You have practical knowledge of a wide variety of data science methodologies and an intuitive understanding of which methodology is applicable to which problem
-+ 
++
 
 
 
@@ -4481,6 +4481,37 @@ hardware security topics from Trust-Hub website Trust-Hub.org:
 + Emerging and Nanoscale Device Security
 
 Denis Gray, Ph.D.: dogray@ncsu.edu
+
+
+
+
+
+
+
+
+
+
+
+#	VLSI Design, VLSI Verification, VLSI validation, and VLSI testing
+
++ skill set:
+	- hyperscale cloud and edge computing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
