@@ -1,5 +1,5 @@
-This is BibTeX, Version 0.99d (TeX Live 2015)
-Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+This is BibTeX, Version 0.99d (TeX Live 2019)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: guidelines.aux
 The style file: plain.bst
 Reallocated field_info (elt_size=4) to 11187 items from 5000.
@@ -18,32 +18,32 @@ Reallocated name_tok (elt_size=4) to 60000 items from 40000.
 Reallocated name_sep_char (elt_size=1) to 60000 items from 40000.
 You've used 269 entries,
             2118 wiz_defined-function locations,
-            2018 strings with 62470 characters,
-and the built_in function-call counts, 69660 in all, are:
-= -- 6627
-> -- 3305
+            2018 strings with 62433 characters,
+and the built_in function-call counts, 69593 in all, are:
+= -- 6622
+> -- 3294
 < -- 13
-+ -- 1363
-- -- 1068
-* -- 3765
-:= -- 12135
++ -- 1359
+- -- 1064
+* -- 3756
+:= -- 12123
 add.period$ -- 868
 call.type$ -- 269
-change.case$ -- 1243
+change.case$ -- 1241
 chr.to.int$ -- 0
 cite$ -- 269
 duplicate$ -- 2767
 empty$ -- 5996
-format.name$ -- 1068
-if$ -- 14770
+format.name$ -- 1064
+if$ -- 14758
 int.to.chr$ -- 0
 int.to.str$ -- 269
 missing$ -- 292
 newline$ -- 1348
 num.names$ -- 538
-pop$ -- 1967
+pop$ -- 1965
 preamble$ -- 1
-purify$ -- 1072
+purify$ -- 1070
 quote$ -- 0
 skip$ -- 1859
 stack$ -- 0

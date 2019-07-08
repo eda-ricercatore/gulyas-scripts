@@ -1,14 +1,14 @@
-\contentsline {section}{Revision History}{1}{section*.2}
-\contentsline {section}{\numberline {1}Guidelines for Conduct}{3}{section.1}
-\contentsline {section}{\numberline {2}Guidelines for Creating a Shared {\sc Bib}T\kern -.1667em\lower .5ex\hbox {E}\kern -.125emX\spacefactor \@m {}\ Database}{3}{section.2}
-\contentsline {subsection}{\numberline {2.1}Recommended Fields for {\sc Bib}T\kern -.1667em\lower .5ex\hbox {E}\kern -.125emX\spacefactor \@m {}\ Entries}{5}{subsection.2.1}
-\contentsline {subsection}{\numberline {2.2}Template Information for the ``Annote'' {\sc Bib}T\kern -.1667em\lower .5ex\hbox {E}\kern -.125emX\spacefactor \@m {}\ Field}{8}{subsection.2.2}
-\contentsline {subsection}{\numberline {2.3}Template Information for the ``Howpublished'' {\sc Bib}T\kern -.1667em\lower .5ex\hbox {E}\kern -.125emX\spacefactor \@m {}\ Field}{8}{subsection.2.3}
-\contentsline {section}{\numberline {3}Coding Standard}{9}{section.3}
-\contentsline {section}{\numberline {4}Exception Safety}{10}{section.4}
-\contentsline {section}{\numberline {5}Suggested Software Architecture}{11}{section.5}
-\contentsline {section}{\numberline {6}Adoption of Best Practices}{12}{section.6}
-\contentsline {subsection}{\numberline {6.1}Practice of Automated Regression Testing}{12}{subsection.6.1}
-\contentsline {subsection}{\numberline {6.2}Cloud-based Data Science and Machine Learning}{13}{subsection.6.2}
-\contentsline {section}{\numberline {7}Additional Guidelines}{13}{section.7}
-\contentsline {section}{Acknowledgments}{14}{section*.3}
+\contentsline {section}{Revision History}{1}{section*.2}% 
+\contentsline {section}{\numberline {1}Guidelines for Conduct}{3}{section.1}% 
+\contentsline {section}{\numberline {2}Guidelines for Creating a Shared {\sc Bib}T\kern -.1667em\lower .5ex\hbox {E}\kern -.125emX\spacefactor \@m {}\ Database}{3}{section.2}% 
+\contentsline {subsection}{\numberline {2.1}Recommended Fields for {\sc Bib}T\kern -.1667em\lower .5ex\hbox {E}\kern -.125emX\spacefactor \@m {}\ Entries}{5}{subsection.2.1}% 
+\contentsline {subsection}{\numberline {2.2}Template Information for the ``Annote'' {\sc Bib}T\kern -.1667em\lower .5ex\hbox {E}\kern -.125emX\spacefactor \@m {}\ Field}{8}{subsection.2.2}% 
+\contentsline {subsection}{\numberline {2.3}Template Information for the ``Howpublished'' {\sc Bib}T\kern -.1667em\lower .5ex\hbox {E}\kern -.125emX\spacefactor \@m {}\ Field}{8}{subsection.2.3}% 
+\contentsline {section}{\numberline {3}Coding Standard}{9}{section.3}% 
+\contentsline {section}{\numberline {4}Exception Safety}{10}{section.4}% 
+\contentsline {section}{\numberline {5}Suggested Software Architecture}{11}{section.5}% 
+\contentsline {section}{\numberline {6}Adoption of Best Practices}{12}{section.6}% 
+\contentsline {subsection}{\numberline {6.1}Practice of Automated Regression Testing}{12}{subsection.6.1}% 
+\contentsline {subsection}{\numberline {6.2}Cloud-based Data Science and Machine Learning}{13}{subsection.6.2}% 
+\contentsline {section}{\numberline {7}Additional Guidelines}{13}{section.7}% 
+\contentsline {section}{Acknowledgments}{14}{section*.3}% 
