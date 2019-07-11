@@ -306,6 +306,18 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ IFIP Performance 2020, or IFIP WG Performance 2020, International Symposium on Computer Performance, Modeling, Measurements and Evaluation
+	- https://performance2018.sciencesconf.org/
+	- URL
+	- VENUE
+	- DATES; Possibly late 2020.
+	- Submission deadline: Possibly mid-May, 2020.
+
+
+
+
+
+
 + HPEC, IEEE High Performance Extreme Computing Conference
 	- http://ieee-hpec.org
 	- Waltham, MA
@@ -595,11 +607,11 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ ISQED 2019, International Symposium on Quality Electronic Design
++ ISQED 2020, International Symposium on Quality Electronic Design
 	- https://www.isqed.org/English/Conference/Call_for_Papers.html
 	- Santa Clara, CA.
-	- DATE
-	- Submission deadline: September 14, 2018.
+	- March, 2020
+	- Submission deadline: September 14, 2019.
 
 
 + SAC2019, ACM/SIGAPP Symposium On Applied Computing
@@ -747,13 +759,13 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ SIGMETRICS 2019, ACM SIGMETRICS / IFIP Performance conference
-	- https://www.sigmetrics.org/sigmetrics2019/call_for_papers.html
-	- Phoenix, AZ.
-	- June 24-28, 2019.
-	- Submission deadline (For Summer submissions): August 13 and 20, 2018.
-	- Submission deadline (For Fall submissions): October 22 and 29, 2018.
-	- Submission deadline (For Winter submissions): February 11 and 18, 2018.
++ SIGMETRICS 2020, ACM SIGMETRICS
+	- https://www.sigmetrics.org/sigmetrics2020/call_for_papers.html
+	- Boston, MA.
+	- June 8-12, 2020.
+	- Submission deadline (For Summer submissions): August 1 and 8, 2019.
+	- Submission deadline (For Fall submissions): October 14 and 21, 2019.
+	- Submission deadline (For Winter submissions): January 27 and February 3, 2020.
 
 
 
@@ -1177,11 +1189,11 @@ List of conference "Call for Papers" deadlines:
 	- Submission deadline: February 10, 2019.
 
 
-+ SIGMETRICS 2019, ACM SIGMETRICS / IFIP Performance conference
-	- https://www.sigmetrics.org/sigmetrics2019/call_for_papers.html
-	- Phoenix, AZ.
-	- June 24-28, 2019.
-	- Submission deadline (For Winter submissions): February 11 and 18, 2018.
++ SIGMETRICS 2020, ACM SIGMETRICS / IFIP Performance conference
+	- https://www.sigmetrics.org/sigmetrics2020/call_for_papers.html
+	- Boston, MA.
+	- June 8-12, 2020.
+	- Submission deadline (For Winter submissions): January 27 and February 3, 2020.
 
 
 
