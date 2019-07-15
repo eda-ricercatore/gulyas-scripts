@@ -4320,7 +4320,7 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- You have worked on real world data sets that range into millions of data points that contain missing values, and unclean data
 	- You have owned and delivered data science projects that are live on production
 	- You have practical knowledge of a wide variety of data science methodologies and an intuitive understanding of which methodology is applicable to which problem
-+
++ Detailed theoretical and practical knowledge of operating system and network basics (i.e. a successful candidate should know how technical elements such as DNS, TCP/IP, or BGP work, and will probably have managed their own Linux machines)
 
 
 
