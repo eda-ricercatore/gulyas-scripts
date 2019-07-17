@@ -474,6 +474,7 @@ List of conference "Call for Papers" deadlines:
 
 + HPCA, IEEE International Symposium on High-Performance Computer Architecture
 	- https://www.hpca-conf.org/2020/
+	- https://www.hpca-conf.org/2020/calls/
 	- San Diego, CA.
 	- February 2020.
 	- Submission deadline: July 30 and August 6, 2019.
@@ -492,9 +493,12 @@ List of conference "Call for Papers" deadlines:
 
 + ASPLOS, International Conference on Architectural Support for Programming Languages and Operating Systems
 	- https://asplos-conference.org
+	- https://asplos-conference.org/calls/
 	- March 16-20, 2020.
 	- Lausanne, Switzerland.
 	- Submission deadline: August 9 and 16, 2019.
+	- ***Go to ASPLOS***
+
 
 
 
