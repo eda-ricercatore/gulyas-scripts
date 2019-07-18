@@ -354,6 +354,7 @@ List of conference "Call for Papers" deadlines:
 
 ***Fix conference deadlines.***
 Clear information from Browser tabs.
+Chrome + Firefox
 
 
 
