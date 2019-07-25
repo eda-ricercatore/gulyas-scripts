@@ -4321,7 +4321,20 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- You have owned and delivered data science projects that are live on production
 	- You have practical knowledge of a wide variety of data science methodologies and an intuitive understanding of which methodology is applicable to which problem
 + Detailed theoretical and practical knowledge of operating system and network basics (i.e. a successful candidate should know how technical elements such as DNS, TCP/IP, or BGP work, and will probably have managed their own Linux machines)
-
++ skill sets:
+	- Conception and development of product prototypes and commercial products according to customer-specific requirements (real-time system development (μC))
+	- Connection of sensors, definition of interfaces, integration of BUS systems etc.
+	- Point of contact for technical questions about your project (internal and external)
+	- Research on relevant hardware topics, e.g. new μC, hardware components etc.
+	- Bachelor‘s or Master‘s degree in electrical engineering, information technology, computer science or similar
+	- Knowledge in C, C++
+	- Experience in the programming of embedded systems (µC)
+	- Practical experience in building and testing prototypes, e.g. through private projects
+	- Communication skills, ability to work independently and in a team
+	- German and english language skills
++ Intermediate to advanced proficiency with R (tidyverse, ggplot2)
++ skill set:
+	- ...
 
 
 
@@ -4499,9 +4512,9 @@ Denis Gray, Ph.D.: dogray@ncsu.edu
 
 
 
+##	Start-ups related to VLSI Design & Embedded Deep Learning
 
-
-
++ [Thirdwayv](https://www.thirdwayv.com/careers/)
 
 
 
@@ -4541,6 +4554,22 @@ Denis Gray, Ph.D.: dogray@ncsu.edu
 
 + [Women in Machine Learning and Data Science (WiMLDS): New York, NY](http://wimlds.org/jobs/#)
 + [VentureLoop](https://www.ventureloop.com/ventureloop/aboutus.php)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -4670,6 +4699,133 @@ Companies and jobs in biotech, biopharma, med tech (or medical tech), health tec
 
 
 
+
+
+
+
+
+
+
+
+#	Agricultural Tech Companies
+
++ [CiBO Technologies](https://www.cibotechnologies.com/careers/)
+	- skill set:
+		* Strong knowledge of Amazon Web Services or similar cloud platforms
+		* Experience with Linux as well as Docker, Kubernetes, or other related container technologies
+		* Solid foundation in computer science, including algorithms and data structures
+		* Demonstrated experience architecting, building, debugging, and monitoring applications and APIs. Preferably in a microservices architecture
+		* Proficiency with one or more of following languages: Scala, Java, C++, Go, Ruby, Python, or Haskell
+		* Significant experience with professional software engineering, including automated testing/deployment, pair programming, Agile, DevOps and infrastructure-as-code
+		* Strong problem solving abilities and excellent collaboration skills
+		* Interest in reducing repetitive work via automation
+		* Experience deploying and/or working with monitoring, log aggregation, service mesh, and tracing systems, especially those under the Cloud Native Computing Foundation (Prometheus, Fluentd, Istio, Envoy, Jaeger)
+		* Significant experience with multithreading or distributed systems
+		* Knowledge of CAP theorem and applying it to better understand the trade-offs of various database systems.
+		* Experience with or interest in Bayesian statistics, math, matrix algebra, classical statistics, image processing, computer vision, remote sensing, agriculture, or biology
+		* Experience with functional programming
++ [Ceres Imaging](http://www.ceresimaging.net/careers)
+	- skill set:
+		* Improving software for mosaicking, geo-registering, and classifying 1+ TB imagery/day.
+		* Prototyping and implementing solutions for extracting information from imagery.
+		* Clearly communicating and documenting your work.
+		* Expertise with OpenCV or similar open source computer vision software
+		* Expertise in a programming language with robust computer vision support (e.g., C/C++, MATLAB, python)
+		* Experience with deep learning (CNNs)
+		* Dedication to high quality documentation
+		* Dedication to maintainable, readable software
+		* Ability to leverage/apply academic research results to solving computer vision challenges
+		* Experience with processing and analysis of imagery (remote sensing experience is a plus).
+		* Degree in computer science or engineering or equivalent experience.
+	- Work with a modern technology stack which includes Python 3, Apache Airflow, Docker, AWS ECS, Django, and NodeJS based applications
++ [Prospera](https://home.prospera.ag/careers)
++ [Farmers Edge](https://www.farmersedge.ca/careers/)
+	- skill set:
+		* Experience with message brokers such as RabbitMQ and Kafka;
+		* Experience with Elasticsearch, Geomesa, and other No-SQL data stores;
+	- skill set:
+		* Experience with PostgreSQL or similar SQL based DB;
+		* Cloud environment management experience (AWS, Azure, or GCE);
+		* Containers and container orchestration tools such as Docker, Kubernetes, Rancher, Mesosphere;
+		* Experience with monitoring tools like Prometheus & Grafana;
+		* Experience working with a central logging stack such as EFK;
+		* Deployment and configuration management tools such as Chef, Terraform, and Jenkins;
+		* Experience deploying software using CI/CD;
+		* Experience running systems in highly available environments.
+		* Familiar with Python, Ruby, NodeJS and Java;
+		* Experience with message brokers such as RabbitMQ and Kafka;
+		* Experience with Non-SQL data stores such as Elasticsearch, Cassandra, and Accumulo;
+		* Experience with web tools/frameworks such as Django & React
++ [The Climate Corporation](https://climate.com/careers)
+	- skill set:
+		* Lead cross functional teams and be a catalyst for data driven decision making
+		* Build reports, dashboards, and metrics to monitor the performance of our company
+		* Perform detailed data exploration and validation from a variety of sources
+		* Develop new insights and analyses that inform decisions and help us continue to delight the people using our platform
+		* Actively maintain the integrity and performance of analytics systems
+		* Provide advice and education in the usage and interpretation of data to the business users.
+		* Data mining, statistical analysis, and data visualization to help understand how growers are interacting with our FieldView product
+		* Effectively present your findings to product partners and senior management
+		* Bachelor’s degree with a focus on business, economics, statistics, math, physics, or a related quantitative discipline.
+		* 2+ years of relevant experience or Master’s degree in data science, statistics, or a related discipline.
+		* Familiarity with data science tools like R, Python, SQL
+		* Experience solving analytical problems and presenting findings.
+		* Experience working as an analyst in a product, marketing or sales organization.
+		* Development experience with BI platforms like Looker, Tableau, Periscopedata
+		* 2+ years using SQL
+		* A deep understanding of statistical analysis and experiment design
+		* Familiarity with a high-level programming language.
+		* Ability to execute research projects, and generate practical results and recommendations.
+		* Enjoy working in both individual and team settings.
+		* Passion for data analysis.
+		* Excellent communication and collaborative skills.
+	- skill set:
+		* 2+ years of SQL experience as applied to ETL tools (Informatica, Kettle, Talend, Vertica, Pentahoe, etc)
+		* 2+ years of experience with dimensional data modeling & schema design in Data Warehouses.
+		* Experience with massive scale relational databases (MPP) is a plus (Vertica/Redshift/Teradata).
+		* Excellent communication skills including the ability to identify and communicate data driven insights
+	- skill set:
+		* The Climate Corporation is revolutionizing the agriculture industry with a platform and products that are helping the world’s farmers sustainably increase productivity with digital tools. We are leveraging Machine Learning and Big Data to build meaningful products that allow farmers to produce enough food to help feed a growing population. The Data and Analytics team is focused on creating a competitive advantage for Climate and our customers through novel data infrastructure, metrics, insights and data services.  We are a small but rapidly growing analysis and engineering team that builds and leverages state-of-the-art analytics systems. Our work informs decisions and direction for our business, while also impacting our products.  We are looking for a seasoned software engineer to not only build data pipelines to efficiently and reliably move data across systems, but also to build the next generation of data tools to enable us to take full advantage of this data. In this role, your work will broadly influence the company's products, data consumers and analysts.
+		* Expand our business by providing strategic data to partner groups and product groups via platform level real-time REST based API services for targeting, personalization, and recommendations
+		* Develop and maintain the infrastructure and architecture that enable the data pipeline for analytics.
+		* Develop infrastructure to enable scientists to rapidly train ML models
+		* Develop infrastructure that enables product management to garner key insights into customer behavior and refine product roadmap to meet customer needs
+		* Develop architecture and infrastructure to enable dealers and growers to manage their operations more effectively
+		* Evaluate new technologies and products.
+		* Experience working with web applications and REST based API services at large to massive scale.
+		* A solid foundation in computer science, with strong competencies in data structures, algorithms and software design.
+		* Experience designing and building a Hadoop/Spark high performance Cluster
+		* Experience working with relational databases and especially MPP systems like Redshift/Vertica/Teradata and map/reduce systems like Hadoop or Spark is an added plus.
+		* Familiarity with NOSQL tools like Hadoop (hive, pig, spark, hbase, membase)  and Spark is an added plus.
+		* Experience working with AWS
+	- skill set:
+		* Experience with open source schedulers (Airflow)
+		* At least 2 years experience with deployment in large cloud-based distributed environments
+		* At least 2 years experience working with distributed platforms such as YARN, Flink, Spark, etc.
++ [aWhere](https://www.awhere.com/careers/)
++ [PEAT GmbH, or Plantix](https://plantix.net/en/)
+	- http://peat.technology/jobs/
+	- Your mother tongue is Python, some familiarity with Flask, MongoDB and Postgres would be nice
++ [Blue River Technology](http://careers.bluerivertechnology.com/)
+
+
+
+
+
+
+
+
+
+##	Reformatted list of companies
+
++ CiBO Technologies: https://www.cibotechnologies.com/careers/
++ Ceres Imaging: http://www.ceresimaging.net/careers
++ Prospera: https://home.prospera.ag/careers
++ Farmers Edge: https://www.farmersedge.ca/careers/
++ The Climate Corporation: https://climate.com/careers
++ aWhere: https://www.awhere.com/careers/
++ Plantix, or PEAT GmbH: https://plantix.net/en/
++ Blue River Technology: http://careers.bluerivertechnology.com/
 
 
 
