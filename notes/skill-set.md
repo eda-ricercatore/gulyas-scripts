@@ -4507,8 +4507,21 @@ Denis Gray, Ph.D.: dogray@ncsu.edu
 
 #	VLSI Design, VLSI Verification, VLSI validation, and VLSI testing
 
+
+open-source instruction set architecture (ISA):
++ [MIPS Open](https://www.mips.com/mipsopen/) initiative
+ 	- https://www.mipsopen.com/
+
+
+
+
 + skill set:
 	- hyperscale cloud and edge computing
+
+
+
+
+
 
 
 
@@ -4993,6 +5006,8 @@ Companies and jobs in biotech, biopharma, med tech (or medical tech), health tec
 		* Experience with cameras, camera sensors, and camera interfaces (eg. MIPI-2)
 		* Comfortable balancing R&D efforts
 	- Experience integrating external devices like cameras or GNSS receivers.
++ in-chip monitoring, and in-chip monitoring IP, for advanced chip node designs
++ embedded analytics, and AI platform debug
 
 
 
