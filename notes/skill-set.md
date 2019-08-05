@@ -4334,7 +4334,33 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- German and english language skills
 + Intermediate to advanced proficiency with R (tidyverse, ggplot2)
 + skill set:
-	- ...
+	- Responsible to handle multiple clients at the same time
+	- Work alongside Project Management team to gather requirements, design and implement custom solutions for customers
+	- Perform discovery work sessions to determine the solution requirements
+	- Perform design work sessions and produce deliverables, including mock-ups, flow diagrams, etc.
+	- Provide customer specific configuration for Splash products
+	- Provide consulting services to Splash customers on how to configure Splash products to achieve a customer’s desired use cases
+	- Review and validate solution designs produced by other Services team members
+	- Serve as the Splash subject matter expert (SME) on Splash product capabilities
+	- Develop tools, processes and best practices to ensure customers are realizing the greatest possible value from Splash
+	- Expand upon the Splash solution portfolio, demonstrating best practices in design for use cases across variety of industries and business functions
+	- Bachelor’s degree plus 1-2+ years of work experience in a client-facing professional services/consulting role; prior experience in event marketing and SaaS service delivery preferred
+	- Demonstrated ability to present solutions to clients, manage client expectations, and implement and deliver solutions
+	- Strong communication skills (written, verbal, presentation), with the ability to explain technical subjects to non-technical end user personnel in large enterprises
+	- Hands-on working experience in the configuration, customization, and implementation of SaaS applications
+	- Experience with BI tools (e.g., Tableau) is a plus, but more important to be able to interpret and explain data in a meaningful way
+	- A working knowledge and proficiency in the Google Suite, MS Word, Excel, PowerPoint, and Mail, JIRA and Confluence, and Microsoft Project (or equivalent Project Management software)
+	- A working knowledge of the following is preferred:
+		* Working HTML, CSS, JavaScript (JQuery / Node.js)
+		* JSON, HTTP Requests, REST
+		* Types of Authentication including Oauth and Basic Auth
+		* PHP, SQL, XML
+		* Understanding of UTM / URL parameters
+	- Excellent problem solving ability
+	- Deadline-driven
+	- Willing to travel periodically (up to 25%) based on customer and business need
+
+
 
 
 
