@@ -4359,7 +4359,7 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Excellent problem solving ability
 	- Deadline-driven
 	- Willing to travel periodically (up to 25%) based on customer and business need
-
++ ***topological data analysis and graph network***
 
 
 

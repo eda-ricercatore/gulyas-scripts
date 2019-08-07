@@ -173,7 +173,7 @@ SEC2.6 Security vulnerabilities in artificial intelligence
 
 
 
-##	ISCA CFP
+#	ISCA CFP
 
 + Processor, memory, and storage systems architecture
 + Multiprocessor systems
@@ -189,6 +189,142 @@ SEC2.6 Security vulnerabilities in artificial intelligence
 + Effects of circuits or technology on architecture
 + Architecture modeling and simulation methodologies
 + Evaluation and measurement of real computing systems
+
+
+
+
+
+#	MICRO CFP
+
+
+
++ Architectures for emerging application domains such as deep learning, machine learning, relational computation, neuromorphic, quantum, etc.
++ Accelerator designs and heterogeneous architectures including system-on-chip architectures, application specific fixed function, programmable, reconfigurable, near-data and in-memory accelerators, etc.
++ Architectural support for security, side-channel attacks and mitigation, privacy preserving computation, IoT/Cloud/Cyber-Physical-System security, security primitives, trusted execution environments, etc.
++ Architecture, microarchitecture and/or compiler optimizations for graphics processor units (GPUs) or other programmable accelerators
++ Microarchitecture and compiler techniques for optimizing the memory hierarchy, analysis of new memory hierarchies, emerging architectures based on new memory technologies
++ Hardware, software, and hybrid techniques for improving system performance, energy-efficiency, security, cost, complexity, programmer productivity, predictability, quality of service, reliability, dependability, scalability, etc.
++ Architectures for instruction-level, thread-level, and memory-level parallelism: superscalar, VLIW, data-parallel, multithreaded, multicore, many-core, etc.
++ Processor, memory, interconnect, and storage architectures
++ Compiler and microarchitectural techniques for parallelism (ILP, TLP, MLP)
++ Microarchitecture techniques to better support system software, programming languages, programmability, and compilation
++ Advanced software/hardware speculation and prediction schemes
++ Microarchitecture modeling and simulation methodology
++ Low-power, high-performance, and cost/complexity-efficient architectures
++ Architectures for emerging embedded platforms, including smartphones, automotive, server/cloud, etc.
++ Architecture and/or compiler optimizations for embedded processors, DSPs, ASIPs (network processors, multimedia, wireless, etc.)
++ Insightful experimental and comparative evaluation and analysis of existing microarchitectures, hardware/software mechanisms and workloads
+
+
+
+
+
+
+
+#	HPCA CFP
+
+
++ Accelerators, domain-specific architectures
++ Architecture applications of Machine Learning
++ Caches
++ Cloud, datacenter, cluster/distributed systems
++ Embedded, IoT
++ Emerging technologies
++ FPGAs and Reconfigurable
++ GPUs
++ Hardware/software interactions/interface
++ ILP techniques (speculation, prediction, prefetching, etc.)
++ IO, storage
++ Memory - high level (VM/TLB, persistency, etc.)
++ Memory - low level (devices, organization, etc.)
++ Networking, interconnects
++ Parallel/multi-core architectures
++ Performance characterization/modeling
++ Power efficiency and management
++ Quantum architectures
++ Reliability and fault tolerance
++ Security
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#	ASPLOS CFP
+
+
++ 3D integration
++ Applications
++ Approximate computing
++ ASICs
++ Benchmarking, simulation, and emulation technologies
++ Case studies of real-world or experimental systems
++ Cloud programming models and applications
++ Code generation and synthesis
++ Compiler techniques and optimizations
++ Data center systems architecture
++ Data management
++ Debugging correctness and performance
++ Deep learning systems
++ Distributed systems
++ Embedded systems, IoT, edge computing
++ GPU architecture
++ Heterogeneous architectures and accelerators
++ HW/SW co-design
++ Internet services and cloud computing systems
++ Machine learning for systems
++ Managed languages and runtimes
++ Memory consistency models
++ Memory/storage technologies and architectures
++ Microarchitecture
++ Mobile systems
++ Multicore architectures and systems
++ Networking and switch architecture/programming (off-chip networks)
++ Non-ML emerging applications (PL, architecture and system support)
++ Non-traditional computing systems, including emerging devices, bio, molecular, etc.
++ On-chip networks
++ Operating systems
++ Parallelism and concurrency
++ Performance and quality of service
++ Persistent memory
++ PL and system support for GPUs
++ PL, architecture and system support for machine learning
++ Power, energy, and thermal management
++ Programming models, languages, and compilation
++ Quantum computing
++ Reconfigurable computing
++ Reliability and availability
++ Scheduling and resource management
++ Security
++ Shared memory systems (including cache coherence)
++ Storage systems
++ Synchronization
++ Verification and testing
++ Virtualization
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #	ASYNC CFP
@@ -943,6 +1079,18 @@ Areas of interest include, but are not limited to:
 	- Overlay Networks and P2P Systems
 	- Specification, Semantics, Synchronization of Networked Systems
 	- Theory of Security in Networks
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
