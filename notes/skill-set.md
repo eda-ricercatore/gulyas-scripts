@@ -4360,6 +4360,25 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Deadline-driven
 	- Willing to travel periodically (up to 25%) based on customer and business need
 + ***topological data analysis and graph network***
++ skill set:
+	- This is an excellent opportunity for an experienced Senior Embedded Software Engineer to develop key elements of an open-source platform for GPS/INS navigation systems. The role spans development of platform code, drivers, and tools on both 32-bit ARM Coretex platforms as well as in the future small Linux platforms.  Core elements of the firmware are contributed and maintained as open-source projects on GitHub for use by the Aceinna community of customers.  Projects include enhancement of existing code for the immediate release to open source, as well as development of new platform level code for future versions of hardware including at some point a Linux version.
+	- Write significant amount of well-tested and documented firmware for small embedded hardware platforms
+	- Apply logic and software engineering practice to organize code in a sustainable and comprehendible manner for an open-source community
+	- Maintain related GitHub repositories for branches, pull requests, and merge requests.  Help manage GitHub community and identify good contributors on our projects as well as other related open-source projects
+	- Help hardware team evaluate new CPU architectures with benchmarks and requirements
+	- Develop driver code for both communication protocols, sensors, and other peripherals
+	- Perform other job related duties as assigned
+	- Expert C/C++ embedded firmware archictecture, development, and debugging skills
+	- Experience with small RTOS systems with hard real-time constraints, and intensive numerical processing.
+	- Experience with writing real-time code on Linux or Linux-like platforms such as Raspberry Pi or similar
+	- Experience with hardware serial/bus protocols such as I2C, SPI, UART, CAN, Bluetooth and Ethernet buses
+	- Experience with Python and/or Node.JS is desired but not required
+	- Must be a self-starter and self-motivating individual
+	- Must be capable of working in a team
+	- Must be capable of training and generating documentation that will be posted on our GitHub account and other online documentation/blog posts
+	- Postion is located in Santa Clara, CA
+	- Education: BS or MS in Computer Science or related Technical Field
+	- Years of Experience:  7+
 
 
 
