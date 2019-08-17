@@ -719,20 +719,21 @@ Junio~C. Hamano, Linus Torvalds, Shawn Pearce, Johannes Schindelin, Nicolas
   \url{http://git-blame.blogspot.com/}; August 1, 2014 was the last accessed
   date, August 12 2014.
 
-\bibitem{Haynal20XY}
-Steve Haynal.
-\newblock Refactoring to prepare {RTL} for reuse.
-\newblock Available online from {\it Design {\rm \&}\ Reuse: D{\rm\&}R Industry
-  Articles} at:
-  \url{https://www.design-reuse.com/articles/20119/refactoring-rtl-reuse.html};
-  September 26, 2018 was the last accessed date.
-
 \bibitem{Haynal2008}
 Steve Haynal.
 \newblock Refactoring to prepare {RTL} for reuse.
 \newblock Available online from {\it SofterHardware: Publications} at:
   \url{http://www.softerhardware.com/pdf/ip08a.pdf}; self-published; September
   26, 2018 was the last accessed date, 2008.
+
+\bibitem{Haynal2009}
+Steve Haynal.
+\newblock Refactoring to prepare {RTL} for reuse.
+\newblock Available online from {\it Design {\rm \&}\ Reuse: D{\rm\&}R Industry
+  Articles} at:
+  \url{https://www.design-reuse.com/articles/20119/refactoring-rtl-reuse.html};
+  linked from \url{https://www.design-reuse.com/articles/archive200902.html};
+  September 26, 2018 was the last accessed date, February 16 2009.
 
 \bibitem{Haynal2008a}
 Steve Haynal, Timothy Kam, Michael Kishinevsky, Emily Shriver, and Xinning
@@ -1204,7 +1205,7 @@ W.~Myers.
 \newblock {\em {IEEE} Computer}, 31(4):110--112, April 1998.
 
 \bibitem{Nguyen2013}
-Huy Nguyen.
+Huy Nguyen, Hai-My Nguyen, and Minh-Luan Tran.
 \newblock {TexPaste}: Pastebin for mathematicians.
 \newblock Available online at: \url{http://www.texpaste.com}; self-published;
   June 4, 2018 was the last accessed date, October 12 2013.
@@ -1354,7 +1355,8 @@ Ben Rady and Rod Coffin.
 \bibitem{Rasmusson2010}
 Jonathan Rasmusson.
 \newblock {\em The Agile Samurai: How Agile Masters Deliver Great Software}.
-\newblock The Pragmatic Programmers, Raleigh, {NC}, September 15 2010.
+\newblock Pragmatic Bookshelf. The Pragmatic Programmers, Raleigh, {NC},
+  September 15 2010.
 
 \bibitem{Raymond2004}
 Eric~S. Raymond.
@@ -1581,7 +1583,8 @@ Joshua Suereth and Matthew Farwell.
 \bibitem{Swicegood2010}
 Travis Swicegood.
 \newblock {\em Pragmatic Guide to {Git}}.
-\newblock The Pragmatic Programmers, Raleigh, {NC}, November 1 2010.
+\newblock Pragmatic Bookshelf. The Pragmatic Programmers, Raleigh, {NC},
+  November 1 2010.
 
 \bibitem{Olson2016}
 Risk~Danger technoweenie Olson, Brandon Keepers, Anatoly Borodin, Lucas

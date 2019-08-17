@@ -4379,8 +4379,29 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Postion is located in Santa Clara, CA
 	- Education: BS or MS in Computer Science or related Technical Field
 	- Years of Experience:  7+
-
-
++ Good knowledge of Apache Big Data stack (any of Kafka, Hadoop, Hive, Storm etc) and open source machine learning and NLP tools (Stanford CoreNLP, NLTK, TensorFlow, scikit-learn etc)
++ skill set:
+	- Desire to work in a fast-paced, fluid environment
+	- Analytical mind with problem-solving aptitude
+	- Ability to work independently
+	- Knowledge of at least one of Ruby/Rails, Golang, JavaScript, Elixir, or Java, with an appetite for learning
+	- Experience using system monitoring tools (e.g. New Relic) and automated testing frameworks
+	- In-depth knowledge of relational databases (e.g. PostgreSQL, MySQL) and NoSQL databases
+	- Experience with large-scale systems
+	- Working knowledge of Docker and Kubernetes, as well as Google Cloud
+	- Grasp of Terraform
++ skill set:
+	- Experience with Continuous Integration systems (e.g., Jenkins, Travis, GitLab)
+	- Experience working with Docker containers
+	- Experience with AWS or Kubernetes
+	- Expand our existing test automation framework and test coverage.
+	- Develop new tests and tools for our GitLab.com frontend, backend APIs and services, and low-level systems like geo replication, CI/CD, and load balancing.
+	- Identify and drive the adoption of best practices in code health, testing, testability, and maintainability. You should know about clean code and the test pyramid, and champion these concepts.
+	- Analyze complex software systems and collaborate with others to improve the overall design, testability and quality.
+	- Strive for the fastest feedback possible. Test parallelization should be a top priority. You see distributed systems as a core challenge of good test automation infrastructure.
+	- Configure automated tests to execute reliably and efficiently in CI/CD environments.
+	- Track and communicate test results in a timely, effective, and automated manner.
+	- Experience using test automation tools like Capybara, Watir, Selenium
 
 
 
@@ -4427,7 +4448,10 @@ skill levels:
 
 
 
+#	Salary Calculators
 
++ https://about.gitlab.com/job-families/engineering/test-automation-engineer/
+	- https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/source/job-families
 
 
 
