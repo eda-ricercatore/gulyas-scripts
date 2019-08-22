@@ -4403,7 +4403,7 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Track and communicate test results in a timely, effective, and automated manner.
 	- Experience using test automation tools like Capybara, Watir, Selenium
 + Experience with a variety of data sources. Our data includes Salesforce, Zuora, Zendesk, Marketo, NetSuite, Snowplow and many others (see the [data team page](https://about.gitlab.com/handbook/business-ops/data-team/#-extract-and-load))
-
++ Experience with caching mechanisms
 
 
 
