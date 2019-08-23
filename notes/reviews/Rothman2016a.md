@@ -17,6 +17,27 @@
 
 
 
+##	Foreward by Ron Jeffries
+
+We can choose to take any of the three actions per project in our project portfolio (pp. xi):
++ commit to the project
++ kill the project
++ transform the project
+	- For a project that should not be terminated, but is lacking resources and personnel from the organization to commit to the project so that it has a chance to be successful.
+	- Re-consider what to do with this project, so that it can be transformed
+
+
+
+
+
+
+##	Chapter 1, 
+
+
+
+
+
+
 
 
 
