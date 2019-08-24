@@ -64,7 +64,27 @@ Finishing the implementation of features gives product teams flexibility to fini
 
 Multitasking between different projects hinders the the productivity of software developers (pp. 3).
 
-Project portfolio is a means for the company, organization, or team to get things done, and is not one of the end goals of these entitites. It is "a pipeline of potential work" that flows through teams. 
+Project portfolio is a means for the company, organization, or team to get things done, and is not one of the end goals of these entitites. It is "a pipeline of potential work" that flows through teams. It helps me make appropriate decisions to fulfill the needs of my stakeholders, such as customers and research advisors. One of the best practices for project portfolio management involves using adaptive, lean, and/or agile approaches (pp. 3). 
+
+Lean and/or agile approaches for project portfolio management enable the review of small/sizeable portions of valuable work after such work has been completed to provide regular/frequent feedback. This enables the teams to adapt their immediate and near-term goals to adjust to needs reflected by the reviews and feedback (pp. 4).
+
+Proposed procedure or workflow for project portfolio management, which involves project creation, project evaluation, project ranking (or ranking of projects), collaboration on projects, iterate on projects, evolve the goals of the projects, and measure (select metrics for evaluating project success, collect data for these metrics, and automatically analyze this data statistically and computationally) (pp. 4):
++ use an appointment calendar to schedule time allocations (e.g., hours, days, weeks, and months) for tasks that need to be completed for projects
++ create and maintain a "list of collected \[tasks\] in rank order" for the list of projects in your project portfolio
++ for each task that belongs to at least one project, decide to carry out only one of the following decisions - the commit/kill/transform decision:
+	- commit to a team
+	- transform, followed by commiting to a team 
+	- kill, or parking lot
++ use data analytics/science to optimize the scheduling and commit/kill/transform decision making process to optimize the maximum value to the organization/community.  
+
+A "Big Visible Chart" visually displays the project portfolio to an organization's members/employees, and highlights the responsibilities of each project team. This also indicates, by implication or otherwise, the tasks that each project team is not responsible for (pp. 5).
+
+
+The proposed procedure enables the technical management to decide (pp. 5):
++ when a team can start working on a task/project
++ when a project should be completed, be terminated, and release the owning team(s) to work on other projects
++ when a project should be transformed, and assign a team to the modified/changed project
++ when it is difficult to make a commit/kill/transform decision, the project portfolio provides a visual for stakeholders during "[negotiation about] which project to do when"
 
 
 
