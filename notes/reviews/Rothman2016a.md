@@ -78,14 +78,22 @@ Lean and/or agile approaches for project portfolio management enable the review 
 Proposed procedure or workflow for project portfolio management, which involves project creation, project evaluation, project ranking (or ranking of projects), collaboration on projects, iterate on projects, evolve the goals of the projects, and measure (select metrics for evaluating project success, collect data for these metrics, and automatically analyze this data statistically and computationally) (pp. 4):
 + use an appointment calendar to schedule time allocations (e.g., hours, days, weeks, and months) for tasks that need to be completed for projects
 + create and maintain a "list of collected \[tasks\] in rank order" for the list of projects in your project portfolio
-+ for each task that belongs to at least one project, decide to carry out only one of the following decisions - the commit/kill/transform decision:
++ for each task that belongs to at least one existing/understaffed project, decide to carry out only one of the following decisions - the commit/kill/transform decision:
 	- commit to a team
 	- transform, followed by commiting to a team 
 	- kill, or parking lot
 + use data analytics/science to optimize the scheduling (i.e., address the organization's backlog for product development) and commit/kill/transform decision making process to optimize the maximum value to the organization/community and complete "strategically important work" on time (pp. 5)
 	- View the resource and time commitments to manage project interactions, assignment of personnel to tasks/projects, "and the general risk and value of each project" (pp. 5)
 + update the list of collected tasks, and the corresponding result of the commit/kill/transform decision for each task  
-+ enable high-level (i.e., yearly and monthly) and detailed views (i.e., weekly and daily) of the project portfolios; the high-level view enables people to determine which team is committed to which project, and the detailed view enables managers to determine which team should be assigned to a particular project and determine "when a \[product development\] team \[needs\] urgent support work" (pp. 6) 
++ enable high-level (i.e., yearly and monthly) and detailed views (i.e., weekly and daily) of the project portfolios; the high-level view enables people to determine which team is committed to which project, and the detailed view enables managers to determine which team should be assigned to a particular project and determine "when a \[product development\] team \[needs\] urgent support work" (pp. 6)
+	- the high-level view enables people to see when a team starts a project and when it is expected to finish the project, and also includes a list of understaffed projects/work (pp. 6)
+		* for understaffed work/projects (pp. 6):
+			+ use data analytics to help teams measure their productivity, and improve their estimation of when they can finish their project; this is used to improve task scheduling for project portfolio management
+			+ re-evaluate project portfolio to determine why important/urgent projects have yet to start
+			+ based on current and emerging market and business needs, determine team assignment (or update preferred team assignment) to a given understaffed project, whether we should start a project, and whether we should transform a project 
+
+
+ 
 
 
 
