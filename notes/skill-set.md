@@ -4435,6 +4435,20 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 		* Adoption of agile software development methodologies
 		* Familiarity with hardware design and verification languages, such as Verilog and SystemVerilog
 		* Hands-on use of software construction tools, such as GNU Make and SVN
++ skill set:
+	- You will drive the effort to develop a complete software stack for an FPGA-based machine learning inference accelerator card reference platform. You will adapt existing open-source and university software when possible, and develop new software from scratch as needed, to assemble a complete full-stack, end-to-end software solution. You will work closely with sales, marketing, systems engineering, EDA tool developers, and FPGA architects to support diverse use models from FPGA micro-architecture exploration, memory subsystem design optimization, place-and-route software verification, system prototyping, pre-sales demonstration development, and customer deployment and scaling.
+	- Prior experience is required working with a machine learning accelerator micro-architecture and ISA, as well as current knowledge of state-of-the-art research. You must have a background in open-source compiler hacking. Experience desired with compiler intermediate representations (IRs) and back-ends, JIT compilers, as well as kernel-mode and user-mode runtime environments and device drivers. Familiarity is desired with industry-standard machine learning frameworks, acceleration libraries, domain-specific languages, and with common DNN models.
+	- Two years of work or educational experience in machine leaning accelerator micro-architectures and compilers
+	- Skilled practitioner in C++ or Java.
+	- Experience in Python, Verilog, and System-C.
+	- Experience required in one of more of the following:
+		- Machine learning accelerators such as OpenTPU, NVDLA, VTA, EIC
+		- Compilers such as Glow, TVM, CLANG, LLVM, or GCC
+		- Machine learning frameworks such as TensorFlow, PyTorch, Caffe2, and Keras
+		- Acceleration libraries such as MXNet
+		- Domain-specific languages such as Halide and Spatial
+		- Common DNN models such as AlexNet, ResNet50, Inception, YOLO, RNN, and LSTM
+		- Embedded system runtime environments and device drivers
 
 
 
