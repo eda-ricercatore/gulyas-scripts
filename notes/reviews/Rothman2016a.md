@@ -67,6 +67,13 @@ Multitasking between different projects hinders the the productivity of software
 Project portfolio is a means for the company, organization, or team to get things done, and is not one of the end goals of these entitites. It is "a pipeline of potential work" that flows through teams. It helps me make appropriate decisions to fulfill the needs of my stakeholders, such as customers and research advisors. One of the best practices for project portfolio management involves using adaptive, lean, and/or agile approaches (pp. 3). 
 
 Lean and/or agile approaches for project portfolio management enable the review of small/sizeable portions of valuable work after such work has been completed to provide regular/frequent feedback. This enables the teams to adapt their immediate and near-term goals to adjust to needs reflected by the reviews and feedback (pp. 4).
+	- the lean and agile approaches enable management to (pp. 5-6):
+		- eliminate waste
+		- discover and eliminate roadblocks to throughput
+		- balancing the workload across teams and individuals
+		- optimizing for different/multiple goals and objectives of the organization, rather than just a subset of it
+		- "\[finishing\] valuable features in short time periods"
+		- reduce the set of partially completed work in my project portfolio  
 
 Proposed procedure or workflow for project portfolio management, which involves project creation, project evaluation, project ranking (or ranking of projects), collaboration on projects, iterate on projects, evolve the goals of the projects, and measure (select metrics for evaluating project success, collect data for these metrics, and automatically analyze this data statistically and computationally) (pp. 4):
 + use an appointment calendar to schedule time allocations (e.g., hours, days, weeks, and months) for tasks that need to be completed for projects
@@ -78,6 +85,9 @@ Proposed procedure or workflow for project portfolio management, which involves 
 + use data analytics/science to optimize the scheduling (i.e., address the organization's backlog for product development) and commit/kill/transform decision making process to optimize the maximum value to the organization/community and complete "strategically important work" on time (pp. 5)
 	- View the resource and time commitments to manage project interactions, assignment of personnel to tasks/projects, "and the general risk and value of each project" (pp. 5)
 + update the list of collected tasks, and the corresponding result of the commit/kill/transform decision for each task  
++ enable high-level (i.e., yearly and monthly) and detailed views (i.e., weekly and daily) of the project portfolios; the high-level view enables people to determine which team is committed to which project, and the detailed view enables managers to determine which team should be assigned to a particular project and determine "when a \[product development\] team \[needs\] urgent support work" (pp. 6) 
+
+
 
 A "Big Visible Chart" visually displays the project portfolio to an organization's members/employees, and highlights the responsibilities of each project team. This also indicates, by implication or otherwise, the tasks that each project team is not responsible for (pp. 5).
 
@@ -88,8 +98,7 @@ The proposed procedure enables the technical management to decide (pp. 5):
 + when a project should be transformed, and assign a team to the modified/changed project
 + when it is difficult to make a commit/kill/transform decision, the project portfolio provides a visual for stakeholders during "[negotiation about] which project to do when"
 
-
-
+Project portfolio management "is context dependent", since the project portfolio is affected by project life cycles, budgeting process, and roadmap creation and usage (pp. 5).
 
 
 
