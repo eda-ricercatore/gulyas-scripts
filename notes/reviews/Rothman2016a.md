@@ -91,6 +91,7 @@ Proposed procedure or workflow for project portfolio management, which involves 
 			+ use data analytics to help teams measure their productivity, and improve their estimation of when they can finish their project; this is used to improve task scheduling for project portfolio management
 			+ re-evaluate project portfolio to determine why important/urgent projects have yet to start
 			+ based on current and emerging market and business needs, determine team assignment (or update preferred team assignment) to a given understaffed project, whether we should start a project, and whether we should transform a project 
+		* avoid assigning people to projects, since (pp. 5 and 6)
 
 
  
