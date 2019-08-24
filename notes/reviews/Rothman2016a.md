@@ -75,7 +75,8 @@ Proposed procedure or workflow for project portfolio management, which involves 
 	- commit to a team
 	- transform, followed by commiting to a team 
 	- kill, or parking lot
-+ use data analytics/science to optimize the scheduling and commit/kill/transform decision making process to optimize the maximum value to the organization/community
++ use data analytics/science to optimize the scheduling (i.e., address the organization's backlog for product development) and commit/kill/transform decision making process to optimize the maximum value to the organization/community and complete "strategically important work" on time (pp. 5)
+	- View the resource and time commitments to manage project interactions, assignment of personnel to tasks/projects, "and the general risk and value of each project" (pp. 5)
 + update the list of collected tasks, and the corresponding result of the commit/kill/transform decision for each task  
 
 A "Big Visible Chart" visually displays the project portfolio to an organization's members/employees, and highlights the responsibilities of each project team. This also indicates, by implication or otherwise, the tasks that each project team is not responsible for (pp. 5).
@@ -86,6 +87,17 @@ The proposed procedure enables the technical management to decide (pp. 5):
 + when a project should be completed, be terminated, and release the owning team(s) to work on other projects
 + when a project should be transformed, and assign a team to the modified/changed project
 + when it is difficult to make a commit/kill/transform decision, the project portfolio provides a visual for stakeholders during "[negotiation about] which project to do when"
+
+
+
+
+
+
+
+
+
+
+
 
 
 
