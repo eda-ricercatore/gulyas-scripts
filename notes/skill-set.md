@@ -4404,9 +4404,37 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Experience using test automation tools like Capybara, Watir, Selenium
 + Experience with a variety of data sources. Our data includes Salesforce, Zuora, Zendesk, Marketo, NetSuite, Snowplow and many others (see the [data team page](https://about.gitlab.com/handbook/business-ops/data-team/#-extract-and-load))
 + Experience with caching mechanisms
-
-
-
++ skill set:
+	- Good knowledge of machine learning algorithms like Neural network, CNN, Logistic regression, KNN, Random forest, decision tree, clustering etc.
+	- Decent depth in understanding ML algorithm concepts like supervised/unsupervised, regression/classification, time series algorithms
++ skill set:
+	- System Verilog, Verilog, UVM/VMM
+	- Experience in at system level and block level verification.
+	- Expert in System Verilog and OVM/UVM based verification.
+	- Strong experience in ASIC design/validation experience in front end processes including RTL development, functional and performance verification.
+	- Expert in coding SV Testbench, drivers, monitors, scoreboards, checkers
+	- Experience in C/C++,Shell/Perl scripting.
+	- Understanding of AHB, AXI and other bus protocols and system architecture is a plus.
+	- Preferred Expertise in MIPI UniPro/UFS Protocol and UVM.
+	- To help the team to verify the existing design (UFS/UniPro)
+	- Help on improving the Functional & code coverage, by identifying critical issues & helping the team with new ideas.
+	- Expertise in verification of design blocks (IP) for system-on-chip (SoC) components.
+	- Preferable: Experience in one/more of the following areas PCI_Express, USB, SATA, SDIO, MIPI and /or AMBA standards (OCP, AXI, AHB etc.)
++ skill set:
+	- As a senior software engineer at Breker, you will work closely with our core product team to develop cutting-edge technologies to address the SoC verification crisis. You will communicate with our product definition team and translate the product specification into executable R&D tasks. You will independently design and implement the software components and take the ownership of one or more software modules. Your day-to-day work will also include participating in technical meetings and design reviews. As a product developer, you will also have the opportunity to interact directly with our customers and receive feedback about the work you have done. We are a small software team and believe in agile development philosophies. We insist on clean design and readable code. When Breker customers produce successful, reliable SoC products, you will know that you helped make them possible.
+	- requirements:
+		* MSEE/MSCS with 3 years of software industry experience
+		* Excellent understanding of software design concepts, including object-oriented design and patterns
+		* Extremely strong C/C++ coding skills and practices, including ability to debug complex software systems
+		* Excellent written and oral communication skills
+		* Self-starter, high energy, and able to develop effective plans for software component implementation
+		* Eagerness to be part of a startup and a desire to experience the excitement of offering powerful new technology
+	- preferred experience:
+		* PhD with relevant experience in circuit design and verification
+		* Knowledge about constraint solving techniques, such as Boolean Satisfiability (SAT), Binary Decision Diagrams (BDD), and Satisfiability Modular Theory (SMT)
+		* Adoption of agile software development methodologies
+		* Familiarity with hardware design and verification languages, such as Verilog and SystemVerilog
+		* Hands-on use of software construction tools, such as GNU Make and SVN
 
 
 

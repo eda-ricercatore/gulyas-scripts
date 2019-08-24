@@ -27,6 +27,31 @@ We can choose to take any of the three actions per project in our project portfo
 	- Re-consider what to do with this project, so that it can be transformed
 
 
+For projects remaining in the project portfolio, including orphan internal projects, use the suggested ranking dimensions to rank them (pp. xi).
+
+
+
+##	Foreward by Tim Lister
+
+
+More important than efficient project management and improving the process with workflow automation, finish the valuable projects prior to finishing other projects (pp. xiii).
+
+Focus on effectiveness over efficiency (pp. xiii).
+
+Transform struggling projects with meaningful value to have more acceptable risks (pp. xiii). 
+
+Project portfolio management involves setting priorities and adapting them to changing needs, opportunities, and requirements, while avoiding being reactionary/reactive to pressures from clients, customers, and other stakeholders (pp. xiii). 
+
+
+
+##	Preface
+
+"Project portfolio management is the way of organizing, seeing, and ranking the work your team, groups, business unit, or organization has to do." It needs execution of the current prototype of the software/hardware (i.e., simulation models for hardware or computer systems), "tested features", and collectible metrics (pp. xvii).
+
+"The hard part of \[project\] portfolio management" "is sticking with \[difficult\] decisions until it's time to reevaluate the \[project\] portfolio," rather than the data analytics involved in project portfolio management (pp. xviii).
+
+
+
 
 
 
