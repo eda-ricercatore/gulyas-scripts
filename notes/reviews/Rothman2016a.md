@@ -56,13 +56,15 @@ Project portfolio management involves setting priorities and adapting them to ch
 
 
 
-##	Chapter 1, 
+##	Chapter 1, Meet Your Project Porfolio
 
+Consider the project "portfolio as a pipeline of potential work" (pp. 3).
 
+Finishing the implementation of features gives product teams flexibility to finish work.
 
+Multitasking between different projects hinders the the productivity of software developers (pp. 3).
 
-
-
+Project portfolio is a means for the company, organization, or team to get things done, and is not one of the end goals of these entitites. It is "a pipeline of potential work" that flows through teams. 
 
 
 
