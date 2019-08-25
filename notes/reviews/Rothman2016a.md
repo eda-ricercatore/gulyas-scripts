@@ -87,14 +87,15 @@ Proposed procedure or workflow for project portfolio management, which involves 
 + update the list of collected tasks, and the corresponding result of the commit/kill/transform decision for each task  
 + enable high-level (i.e., yearly and monthly) and detailed views (i.e., weekly and daily) of the project portfolios; the high-level view enables people to determine which team is committed to which project, and the detailed view enables managers to determine which team should be assigned to a particular project and determine "when a \[product development\] team \[needs\] urgent support work" (pp. 6)
 	- the high-level view enables people to see when a team starts a project and when it is expected to finish the project, and also includes a list of understaffed projects/work (pp. 6)
-		* for understaffed work/projects (pp. 6):
+		* for understaffed work/projects (pp. 7):
 			+ use data analytics to help teams measure their productivity, and improve their estimation of when they can finish their project; this is used to improve task scheduling for project portfolio management
 			+ re-evaluate project portfolio to determine why important/urgent projects have yet to start
 			+ based on current and emerging market and business needs, determine team assignment (or update preferred team assignment) to a given understaffed project, whether we should start a project, and whether we should transform a project 
 		* avoid assigning people to projects, since (pp. 5 and 6)
+	- the detailed view, or low-level view, shows the project (and feature) that each person is assigned to, and the set of features for each project (pp. 8)
+		* "\[This\] helps everyone see what everyone else is doing" (pp. 8)  
 
-resume
- 
+
 
 
 
@@ -111,7 +112,8 @@ Project portfolio management "is context dependent", since the project portfolio
 
 
 
-
+Suggestions:
++ Use  a two-week timebox for feature development, a week timebox for support, and move on to another feature (pp. 8).
 
 
 
