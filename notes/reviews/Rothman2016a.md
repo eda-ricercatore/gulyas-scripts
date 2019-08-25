@@ -152,7 +152,7 @@ Motivating scenarios for using project portfolios with the suggested/proposed pr
 + poor throughput to completing projects
 	- huge "cost of delay"
 
-
+Not having the courage and wisdom to make decisions in project portfolio management affects the organization's throughput and adds problems to scheduling, personnel assignment, and budgeting (pp. 14).
 
 
 
@@ -168,6 +168,25 @@ Motivating scenarios for using project portfolios with the suggested/proposed pr
 
 
 
+
+
+##	Relevant References
+
+
+	@book{Rothman2017,
+		Address = {Raleigh, {NC}},
+		Author = {Johanna Rothman},
+		Publisher = {The Pragmatic Programmers},
+		Title = {Create Your Successful Agile Project: Collaborate, Measure, Estimate, Deliver},
+		Year = {2017}}
+
+	@book{Rothman2007,
+		Address = {Raleigh, {NC}},
+		Author = {Rothman, Johanna},
+		Publisher = {The Pragmatic Programmers},
+		Series = {Pragmatic Bookshelf},
+		Title = {Manage It!: Your Guide to Modern, Pragmatic Project Management},
+		Year = {2007}}
 
 
 
