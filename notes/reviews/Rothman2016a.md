@@ -92,6 +92,7 @@ Proposed procedure or workflow for project portfolio management, which involves 
 			+ re-evaluate project portfolio to determine why important/urgent projects have yet to start
 			+ based on current and emerging market and business needs, determine team assignment (or update preferred team assignment) to a given understaffed project, whether we should start a project, and whether we should transform a project 
 		* avoid assigning people to projects, since (pp. 5 and 6)
+	- team managers can use the high-level view/perspective to help senior and mid-level management view the responsibilities of each product team and use the low-level view/perspective to match businessexpectations with reality (pp. 9) 
 	- the detailed view, or low-level view, shows the project (and feature) that each person is assigned to, and the set of features for each project (pp. 8)
 		* "\[This\] helps everyone see what everyone else is doing" (pp. 8)  
 
@@ -114,6 +115,9 @@ Project portfolio management "is context dependent", since the project portfolio
 
 Suggestions:
 + Use  a two-week timebox for feature development, a week timebox for support, and move on to another feature (pp. 8).
++ When you assign people to projects, rather than teams to projects, people do not work in stable teams. Project portfolios using this management style make it hard to visualize projects (and features) of greater priority (pp. 8).
+	- When features take longer to complete than the allocated timebox (or time period), the entire project portfolio have to be rearranged/rejiggered (pp. 8).
+	- Hence, schedule and assign projects to teams, rather than individuals (pp. 8). 
 
 
 
