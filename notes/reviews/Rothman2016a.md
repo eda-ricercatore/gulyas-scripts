@@ -226,7 +226,7 @@ Week 1:
 		* avoid requiring/demanding individuals or teams to produce reports and other documentation that needs/requires scads of time, which is wasted if and when the requester(s) move on, move up, or move out and the report (and other documentation) is no longer needed (pp. 28)
 	- iterate
 		* adapt and adjust the project portfolio, and task/work schedule, and resource allocation to changing goals and priorities of the organization (pp. 28)
-		* update the ***big visible chart*** of the list of tasks/work (pp. 28)
+		* update the ***big visible chart*** of the list of tasks/work, so that it "creates shared ownership of the projects" "and \[allow\] people \[to recognize\] patterns and problems as well as solutions to these problems" (pp. 28)
 	- understand resistance
 
 
