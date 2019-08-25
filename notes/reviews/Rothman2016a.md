@@ -262,6 +262,30 @@ Week 2:
 	- projects and work that senior management and team managers do not know which team should be assigned to each of these projects
 		* investigate further before canceling or transitioning these projects
 	- ***make conscious decisions regarding reach project, and communicate such decisions to senior management of the organization and other stakeholders***
++ pp. 31, for career paths in technical and management, provide equivalent or comparable positions (in terms of seniority, remuneration packages, and benefits) in these paths so that engineers, software developers, and other technical professionals can alternate between these paths and explore different career opportunities
+	- tackle the stigma and perceptions that professionals who re-choose a technical role are moving backwards professionally, since this can help such professionals and teams that they managed alleviate their stress levels
+	- ***career progression for many successful technical managers are nonlinear***
+	- ***technical management is about working with people, not technology***
+	- Questions to think about when considering applying for or accepting technical management roles, or leaving such roles:
+		* Affirmative responses to the following questions reflect greater comfort in technical leadership roles than people leadership roles.
+			+ "Do I want to control more of the technical decisions?"
+			+ "Am I more interested in fixing technical problems than people problems?" 
+		* Affirmative responses to the following questions reflect greater comfort in people leadership roles than technical leadership roles.
+			+ "Do I like working with people?"
+			+ "Do I like coaching and mentoring people?"
+			+ "Am I willing to learn how to provide feedback and have difficult conversations with people when I need to?"
+	- Becoming a great manager requires lots of practice.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
