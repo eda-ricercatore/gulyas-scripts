@@ -246,8 +246,14 @@ Week 1:
 Week 2:
 + pp. 23, "chaos hides problems" that need to be addressed
 + pp. 27, ***"focus on the funded work"***
-
-
++ pp. 29, differences between product teams and IT (support) groups that support products and/or services of the company/organization:
+	- software produced by product teams lead to revenue generation, and hopefully profit generation
+		* How does the work of this product team "contribute to generating revenue"?
+		* How does the work of this product team "attract new customers and \[retain/\]keep existing customers"?
+	- define the mission of IT support groups and their strategically important work
+		* How does the work of this IT support group facilitate the company carry out business operations, or perform these operations more efficiently and/or effectively?
+		* How does the work of this IT support group affect the company's profit margin (or bottom line)?
+		* "How does the work of this group support the business unit's ability to generate revenue and continue business operations?"
  
 
 
