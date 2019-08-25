@@ -166,6 +166,51 @@ Not having the courage and wisdom to make decisions in project portfolio managem
 ##	Words and phrases that I learned
 
 
++ accrete
++ inextricable
+
+
+
+
+
+
+
+
+
+##	Notes from \cite{Rothman2007}
+
+
+
+
+
+
+
+
+
+
+
+##	Notes from \cite{Rothman2005}
+
++ pp. 5, good managers allow team members to take up different leadership roles, and demonstrate leadership in their tasks and roles; they distribute leaderships across the team, rather than consolidate/centralize the leadership 
++ pp. 6, "managers amplify the work of others"... hence, managers should seek to improve team morale and productivity
++ pp. 12 "people are not fungible producters or full-time equivalents (FTEs)"... We should not assume that people are ***mutually interchangeable***.
++ pp. 12 micromanagement is "productivity-reducing interference at worst"; managers should avoid "prying into people's private lives and discuss their private decisions"
++ pp. 14 "don't offer help if you can't deliver"
++ pp. 15 management technqiues:
+	- management behind closed doors
+	- management by walking around and listening (MBWAL), which requires "cultivating a curious mind", lots of observation and reflection, "and questioning the meaning of what \[I\] see"
+
+
+
+
+
+
+
+
+
+
+
+ 
 
 
 
@@ -187,6 +232,35 @@ Not having the courage and wisdom to make decisions in project portfolio managem
 		Series = {Pragmatic Bookshelf},
 		Title = {Manage It!: Your Guide to Modern, Pragmatic Project Management},
 		Year = {2007}}
+
+	@book{Rothman2005,
+		Address = {Raleigh, {NC}},
+		Author = {Rothman, Johanna and Derby, Esther},
+		Keywords = {project management, software project management},
+		Month = {September 1},
+		Publisher = {The Pragmatic Programmers},
+		Title = {Behind Closed Doors: Secrets of Great Management},
+		Year = {2005}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
