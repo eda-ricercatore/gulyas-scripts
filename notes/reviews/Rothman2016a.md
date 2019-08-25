@@ -193,14 +193,29 @@ Not having the courage and wisdom to make decisions in project portfolio managem
 
 + pp. 5, good managers allow team members to take up different leadership roles, and demonstrate leadership in their tasks and roles; they distribute leaderships across the team, rather than consolidate/centralize the leadership 
 + pp. 6, "managers amplify the work of others"... hence, managers should seek to improve team morale and productivity
-+ pp. 12 "people are not fungible producters or full-time equivalents (FTEs)"... We should not assume that people are ***mutually interchangeable***.
-+ pp. 12 micromanagement is "productivity-reducing interference at worst"; managers should avoid "prying into people's private lives and discuss their private decisions"
-+ pp. 14 "don't offer help if you can't deliver"
-+ pp. 15 management technqiues:
++ pp. 12, "people are not fungible producters or full-time equivalents (FTEs)"... We should not assume that people are ***mutually interchangeable***.
++ pp. 12, micromanagement is "productivity-reducing interference at worst"; managers should avoid "prying into people's private lives and discuss their private decisions"
++ pp. 14, "don't offer help if you can't deliver"
++ pp. 15, management technqiues:
 	- management behind closed doors
 	- management by walking around and listening (MBWAL), which requires "cultivating a curious mind", lots of observation and reflection, "and questioning the meaning of what \[I\] see"
-
-
++ pp. 19, assigning an individual to two tasks, rather than two projects or teams, can improve productivity when any of the tasks faces delays due to bottlenecks or requires waiting for resources and features from other people; people can switch to the other assigned task while waiting for the resources and features to be deliverd, and/or subconsciously think about problems encountered in working on the delayed/halted task
+	- do not assign people to more than two tasks, since task switching (or context switching) would slow down their productivity when they work on a particular task for a significant time slot/window.
++ pp. 21, use project portfolio management to determine list of tasks to be completed by each product team and how these tasks add value to the organization, so that we can "make good decisions about priority, what work to do, and what work not to do"
+	- this can help reduce the amount of unsanctioned, unfunded, and unneeded work to be co-opt into current/active projects
+	- track the following types of tasks
+		- project work, with start and end dates, and specifically meets the goals of the organizations
+		- ad hoc work, which appears as crises, unanticipated requests, or unplanned work
+		- periodic work that occurs at predictable intervals
+		- ongoing work to "\[keep\] the business and operation running"
+		- management work regarding the planning and organization for remaining/other work, such as:
+			* budgeting
+			* reporting
+			* influencing
+			* creating value through the work of the group
+	- create a big visible chart of the list of tasks/work
+	- iterate
+	- understand resistance
 
 
 
