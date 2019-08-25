@@ -276,8 +276,8 @@ Week 2:
 			+ "Am I willing to learn how to provide feedback and have difficult conversations with people when I need to?"
 	- Becoming a great manager requires lots of practice.
 + pp. 34, match the roles with the people
-	- match strengths and talents with roles
-	- provide feedback
+	- "match strengths and talents with roles"
+	- "provide feedback"
 	- project team leaders should create an environment that team members can succeed in (pp. 35):
 		* communicate priorities to help team members with their decision making about what to do when
 		* help team members understand the expectations of team leaders and management, and get them to paraphrase these expectations
@@ -288,7 +288,29 @@ Week 2:
 			+ measures
 			+ rewards
 			+ system problems
-+ 
+				- avoid labeling environmental and system problems (e.g., leadership and management choices to incur technical debt at the expense of faster throughput in project/feature completion) as individual problems (pp. 36)
+	- pp. 34 and 36, prior to labeling an individual as a poor performer, do the following:
+		* "set clear expectations"
+		* "set reasonable interim deliverables"
+		* "communicate satisfaction/dissatisfaction with the quality of results"
+	- pp. 36, hire the best
+		* "When hiring, the greater the span of influence for the position, the more critical the decision."
+	- pp. 37, "analyze the job"
+	- pp. 37, "source candidates"
+	- pp. 37, "winnow the candidates"
+	- pp. 37, "develop behavior description questions" using "Tell me about a time when..." as opposed to "What would you do if..."
+	- pp. 37, "phone screen before in-person interviewing" 
+	- pp. 37, "develop an audition"
+	- pp. 38, "interview candidates with an interview team"
+	- pp. 38, "involve as many people as possible when selecting new team members and team leaders"
+	- pp. 38, "listen to the interview team's assessment"
+	- pp. 38, "check references"
+	- pp. 38, "extend an offer"	 
++ pp. 39, "plan to integrate new team members", or plan for the transition to integrate the same people into new roles:
+	- "create and use a checklist for new hires"
+	- "spend time setting the context on the first day"
+	- "assign a buddy"
+	- "expect to re-form teams"
 
 
 
