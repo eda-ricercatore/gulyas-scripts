@@ -97,6 +97,8 @@ Proposed procedure or workflow for project portfolio management, which involves 
 		* "\[This\] helps everyone see what everyone else is doing" (pp. 8)  
 
 
+The proposed procedure or workflow for project portfolio management requires transparency in the organization (pp. 10, 11).
+
 
 
 
@@ -118,6 +120,18 @@ Suggestions:
 + When you assign people to projects, rather than teams to projects, people do not work in stable teams. Project portfolios using this management style make it hard to visualize projects (and features) of greater priority (pp. 8).
 	- When features take longer to complete than the allocated timebox (or time period), the entire project portfolio have to be rearranged/rejiggered (pp. 8).
 	- Hence, schedule and assign projects to teams, rather than individuals (pp. 8). 
+
+
+
+##	Chapter 2, See Your Future
+
+
+From notes for Chapter 1, "The proposed procedure or workflow for project portfolio management requires transparency in the organization (pp. 10, 11)."
++ this transparency help individuals and teams focus on the most important work, and avoid multitasking and being "distracted with 'bright shiny object' syndrome" (pp. 11)
++ "people and teams can deliver what the organization needs, when the organization needs it" (pp. 11)
+
+
+
 
 
 
