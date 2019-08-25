@@ -222,7 +222,10 @@ Week 1:
 			* creating value through the work of the group
 	- create a big visible chart of the list of tasks/work
 	- clearly prioritize more valuable work, or work that brings more value to the organization and aligns with the goals of the organization (pp. 23)
+		* "match the \[task/\]work to the goals" of the organization (pp. 28)
+		* avoid requiring/demanding individuals or teams to produce reports and other documentation that needs/requires scads of time, which is wasted if and when the requester(s) move on, move up, or move out and the report (and other documentation) is no longer needed (pp. 28)
 	- iterate
+		* adapt and adjust the project portfolio, and task/work schedule, and resource allocation to changing goals and priorities of the organization (pp. 28)
 	- understand resistance
 
 
