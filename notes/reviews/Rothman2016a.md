@@ -149,6 +149,14 @@ Motivating scenarios for using project portfolios with the suggested/proposed pr
 + can't tell the status of the active projects (i.e. projects in progress)
 	- by the time management recognizes that a project team needs help or in danger, it is in a terrible (or even hopeless) state  
 + assignments of experts (highly-skilled professionals) to multiple projects and fixes, especially for finishing projects 
++ poor throughput to completing projects
+	- huge "cost of delay"
+
+
+
+
+
+
 
 
 
