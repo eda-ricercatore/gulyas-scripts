@@ -254,7 +254,14 @@ Week 2:
 		* How does the work of this IT support group facilitate the company carry out business operations, or perform these operations more efficiently and/or effectively?
 		* How does the work of this IT support group affect the company's profit margin (or bottom line)?
 		* "How does the work of this group support the business unit's ability to generate revenue and continue business operations?"
- 
+ + pp. 30, categorize all projects as follows:
+ 	- projects and work that will be continued
+ 	- projects and work that need to be stopped, and be placed in the "not-to-do" list since they provide no value to anybody in the organization
+ 	- projects and work that may be important, but are not a good fit to your product team/group
+ 		* since these projects and work cannot be discarded, "transition \[them\] to a more appropriate group"
+	- projects and work that senior management and team managers do not know which team should be assigned to each of these projects
+		* investigate further before canceling or transitioning these projects
+	- ***make conscious decisions regarding reach project, and communicate such decisions to senior management of the organization and other stakeholders***
 
 
 
