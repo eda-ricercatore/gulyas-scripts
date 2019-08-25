@@ -309,9 +309,16 @@ Week 2:
 + pp. 39, "plan to integrate new team members", or plan for the transition to integrate the same people into new roles:
 	- "create and use a checklist for new hires"
 	- "spend time setting the context on the first day"
+		* "For each feature and current high-priority fixes, they discussed the business value and business impact, the risk, and the costs to implement."
 	- "assign a buddy"
 	- "expect to re-form teams"
-
++ pp. 40, "see the work with Big Visible Charts (BVCs)" that provide information about:
+	- project tasks
+	- project data
+	- workgroup trends
+	- defect trends
+	- defect density
+	- Note that visibility of the BVC is the goal, not fancy presentations with "computer-drawn charts".
 
 
 
