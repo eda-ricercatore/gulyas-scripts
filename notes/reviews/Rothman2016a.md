@@ -275,8 +275,20 @@ Week 2:
 			+ "Do I like coaching and mentoring people?"
 			+ "Am I willing to learn how to provide feedback and have difficult conversations with people when I need to?"
 	- Becoming a great manager requires lots of practice.
-
-
++ pp. 34, match the roles with the people
+	- match strengths and talents with roles
+	- provide feedback
+	- project team leaders should create an environment that team members can succeed in (pp. 35):
+		* communicate priorities to help team members with their decision making about what to do when
+		* help team members understand the expectations of team leaders and management, and get them to paraphrase these expectations
+		* clearly communicate task assignments, including constraints and specific boundaries about the work
+		* discuss options for gaining any necessary skills
+		* examine the following environmental factors:
+			+ procedures
+			+ measures
+			+ rewards
+			+ system problems
++ 
 
 
 
