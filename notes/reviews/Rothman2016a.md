@@ -95,7 +95,7 @@ Proposed procedure or workflow for project portfolio management, which involves 
 	- team managers can use the high-level view/perspective to help senior and mid-level management view the responsibilities of each product team and use the low-level view/perspective to match businessexpectations with reality (pp. 9) 
 	- the detailed view, or low-level view, shows the project (and feature) that each person is assigned to, and the set of features for each project (pp. 8)
 		* "\[This\] helps everyone see what everyone else is doing" (pp. 8)  
-
++ "this improves the throughput of the organization" (pp. 11), from Chapter 2
 
 The proposed procedure or workflow for project portfolio management requires transparency in the organization (pp. 10, 11).
 
@@ -129,13 +129,26 @@ Suggestions:
 From notes for Chapter 1, "The proposed procedure or workflow for project portfolio management requires transparency in the organization (pp. 10, 11)."
 + this transparency help individuals and teams focus on the most important work, and avoid multitasking and being "distracted with 'bright shiny object' syndrome" (pp. 11)
 + "people and teams can deliver what the organization needs, when the organization needs it" (pp. 11)
++ transparency also clarifies decision making about the work, projects and features, that each team starts and completes (pp. 11)
+	- this provides "maximum flexibility" to managers (pp. 11)
+	- this help managers be more responsive to business needs (pp. 11)
+	- This limits the number of active projects, and reduces competition between teams for the same higher-performing individuals. This leads to better completion rate of projects, which reduces the number of active projects in the porject portfolio and allows new projects to start (pp. 11).
+	- this improves the throughput of the organization (pp. 11)
 
 
-
-
-
-
-
+Motivating scenarios for using project portfolios with the suggested/proposed procedure or workflow (pp. 12):
++ emergency projects
++ required immediate response "to projects in progress and fixes"
++ lots of "emergency fixes"
++ too many projects in progress, such that we cannot determine when each project would complete/finish
++ difficulties in finding the "right" personnel for each project
+	- moving personnel between project teams do not significantly improve the situation
++ when projects are released from the project portfolio, teams do not feel that they have actually completed the projects
++ finishing some projects is a surprise to management
+	- some projects are not "congruent with \[the\] corporate strategy"
++ can't tell the status of the active projects (i.e. projects in progress)
+	- by the time management recognizes that a project team needs help or in danger, it is in a terrible (or even hopeless) state  
++ assignments of experts (highly-skilled professionals) to multiple projects and fixes, especially for finishing projects 
 
 
 
