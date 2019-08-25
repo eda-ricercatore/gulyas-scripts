@@ -93,7 +93,7 @@ Proposed procedure or workflow for project portfolio management, which involves 
 			+ based on current and emerging market and business needs, determine team assignment (or update preferred team assignment) to a given understaffed project, whether we should start a project, and whether we should transform a project 
 		* avoid assigning people to projects, since (pp. 5 and 6)
 
-
+resume
  
 
 
