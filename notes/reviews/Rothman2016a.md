@@ -211,15 +211,16 @@ Week 1:
 + pp. 21, use project portfolio management to determine list of tasks to be completed by each product team and how these tasks add value to the organization, so that we can "make good decisions about priority, what work to do, and what work not to do"
 	- ***this can help reduce the amount of unsanctioned, unfunded, and unneeded work to be co-opt into current/active projects***
 	- track the following types of tasks
-		- project work, with start and end dates, and specifically meets the goals of the organizations
-		- ad hoc work, which appears as crises, unanticipated requests, or unplanned work
-		- periodic work that occurs at predictable intervals
-		- ongoing work to "\[keep\] the business and operation running"
-		- management work regarding the planning and organization for remaining/other work, such as:
-			* budgeting
-			* reporting
-			* influencing
-			* creating value through the work of the group
+		* project work, with start and end dates, and specifically meets the goals of the organizations
+			+ the goals of the organizations should be publicly displayed, so that people can view these accessible goals and help team/product managers access if their tasks are aligned with the goals of the company (pp. 28)
+		* ad hoc work, which appears as crises, unanticipated requests, or unplanned work
+		* periodic work that occurs at predictable intervals
+		* ongoing work to "\[keep\] the business and operation running"
+		* management work regarding the planning and organization for remaining/other work, such as:
+			+ budgeting
+			+ reporting
+			+ influencing
+			+ creating value through the work of the group
 	- create a ***big visible chart*** of the list of tasks/work
 	- clearly prioritize more valuable work, or work that brings more value to the organization and aligns with the goals of the organization (pp. 23)
 		* "match the \[task/\]work to the goals" of the organization (pp. 28)
@@ -228,6 +229,16 @@ Week 1:
 		* adapt and adjust the project portfolio, and task/work schedule, and resource allocation to changing goals and priorities of the organization (pp. 28)
 		* update the ***big visible chart*** of the list of tasks/work, so that it "creates shared ownership of the projects" "and \[allow\] people \[to recognize\] patterns and problems as well as solutions to these problems" (pp. 28)
 	- understand resistance
+
+
+
+
+
+
+
+
+
+
 
 
 
