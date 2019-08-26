@@ -364,8 +364,13 @@ Week 3, Building the Team:
 		* Sidney J. Chapman. “Hours of Labour.” Economic Journal, pages 363–65, September 1909.
 + Week 6:
 	- pp. 91, a "technical leader \[is\] a product-focused leader", and technical "\[managers are\] people-focused \[leaders\]"
-
-
+	- pp. 98-99, self-management:
+		* pp. 98, Awareness is the first step.
+		* pp. 98, Notice triggers.
+		* pp. 98, Choose your response.
+		* pp. 98, Manage your emotions.
+		* pp. 99, Obtain feedback about how you appear to others.
++ Week 7: Done
 
 
 
