@@ -169,8 +169,10 @@ lean approaches to project portfolio management:
 + Chapter 3, pp. 26, collect small projects that hardly add value individually into a program (or large project), and include this program (or large project) in my project portfolio
 + Chapter 3, pp. 27, use program management to address interdependencies between projects
 + Chapter 3, pp. 34, Gantt charts cannot capture interdependencies between projects nor sequence/value multiple objectives
-
-
++ Chapter 5, pp. 63, HIPPO -- Highest Paid Person's Opinion
+	- \S5, pp. 66, "The earlier you are in Moore’s marketing model Crossing the Chasm [Moo91], the more you have a wide variety of customers who want a lot right now." Alternate reference: \cite\[\S5.7, pp. 78\]{Rothman2009}
+	- Figure about cost of delay is available for \cite{Rothman2016a}, but not \cite{Rothman2009}.
++ Chapter 5, pp. 71, use the cost of delay to rank projects and features, instead of return-on-investment or project cost, to determine how much revenue would this project/feature generate, so that I can improve business strategy (if requried) to reduce cost of delay
 
 
 
