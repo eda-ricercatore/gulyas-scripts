@@ -169,6 +169,8 @@ Not having the courage and wisdom to make decisions in project portfolio managem
 + accrete
 + inextricable
 + peckish
++ self-serving
++ selfish
 
 
 
@@ -327,6 +329,52 @@ Week 2:
 	- defect trends
 	- defect density
 	- Note that visibility of the BVC is the goal, not fancy presentations with "computer-drawn charts".
+
+
+
+
+
+
+Week 3:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
