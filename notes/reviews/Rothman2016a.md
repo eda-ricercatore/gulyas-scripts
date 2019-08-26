@@ -340,6 +340,7 @@ Week 3, Building the Team:
 + pp. 46, cohesive teams have common goals among its team members that are:
 	- real
 	- easily recognized as valuable
+	- see pp. 54 for steps to create shared goals 
 + pp. 47, characteristics of teams:
 	- are usually small -- they have five to ten members.
 	- are committed to a common purpose or goal.
