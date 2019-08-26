@@ -187,8 +187,8 @@ Not having the courage and wisdom to make decisions in project portfolio managem
 	- pp. 160, pairwise comparison
 	- pp. 160-161, criteria ranking
 	- pp. 161, develop and maintain a running requirements log, or product backlog
-
-
++ Chapter 12 addresses geographically-distributed software development
++ Chapter 14 addresses program management, defined on page 288 (\S14.1), which is essentially project portfolio management
 
 
 
