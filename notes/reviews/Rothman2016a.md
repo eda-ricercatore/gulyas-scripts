@@ -232,6 +232,7 @@ Week 1, Learning about the People and the Work:
 		* pp. 43, "staff the most important work"
 		* pp. 43, "assign people to one project at a time"
 		* pp. 43, "plan to replan"
+		* pp. 80, prioritize the projects and features based on business priorities, not technical priorities, since these decisions are business decisions that have business impact
 	- iterate
 		* adapt and adjust the project portfolio, and task/work schedule, and resource allocation to changing goals and priorities of the organization (pp. 28)
 		* update the ***big visible chart*** of the list of tasks/work, so that it "creates shared ownership of the projects" "and \[allow\] people \[to recognize\] patterns and problems as well as solutions to these problems" (pp. 28)
@@ -348,12 +349,17 @@ Week 3, Building the Team:
 	- have complementary skills.
 	- have interrelated or interdependent interim goals.
 	- make commitments about tasks to each other.
++ pp. 56, failure to give feedback costs more than money:
+	- loss of trust
+	- loss of productivity
+	- simmering resentment 
+- pp. 57-58, how to provide timely feedback
 
 
 
-
-
-
++ Week 4: Done
++ Week 5:
+	- pp. 78, sustainable pace. See referenece (2) of the chapter. 
 
 
 
