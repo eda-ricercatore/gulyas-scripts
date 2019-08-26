@@ -156,13 +156,17 @@ Not having the courage and wisdom to make decisions in project portfolio managem
 
 + pp. 15, multitasking reduces the throughput of completing projects or feature development
 + pp. 16, \cite{HighsmithIII2000} discusses the impact that economic and technological changes due to disruptive technologies have on the creation of emergency projects and project cancellation
+
+lean approaches to project portfolio management:
 + pp. 17, "emergency projects are the result of technical debt and managerial debt" 
 	- "Think in terms of value. Producers create value, but customers define it."
 	- "Know how you create value. The value stream is how you identify the problem you want to solve, how you manage creating the solu- tion to that problem, and how the customer acquires the solution."
 
 
 
+##	Other Chapters
 
++ Chapter 3, pp. 26, collect small projects that hardly add value individually into a program (or large project), and include this program (or large project) in my project portfolio
 
 
 
