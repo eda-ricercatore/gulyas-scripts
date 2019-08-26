@@ -154,6 +154,33 @@ Motivating scenarios for using project portfolios with the suggested/proposed pr
 
 Not having the courage and wisdom to make decisions in project portfolio management affects the organization's throughput and adds problems to scheduling, personnel assignment, and budgeting (pp. 14).
 
++ pp. 15, multitasking reduces the throughput of completing projects or feature development
++ pp. 16, \cite{HighsmithIII2000} discusses the impact that economic and technological changes due to disruptive technologies have on the creation of emergency projects and project cancellation
++ pp. 17, "emergency projects are the result of technical debt and managerial debt" 
+	- "Think in terms of value. Producers create value, but customers define it."
+	- "Know how you create value. The value stream is how you identify the problem you want to solve, how you manage creating the solu- tion to that problem, and how the customer acquires the solution."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
