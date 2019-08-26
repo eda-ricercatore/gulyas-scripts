@@ -201,7 +201,7 @@ Introduction:
 + pp. 6, "managers amplify the work of others"... hence, managers should seek to improve team morale and productivity
 
 
-Week 1:
+Week 1, Learning about the People and the Work:
 + pp. 12, "people are not fungible producters or full-time equivalents (FTEs)"... We should not assume that people are ***mutually interchangeable***.
 + pp. 12, micromanagement is "productivity-reducing interference at worst"; managers should avoid "prying into people's private lives and discuss their private decisions"
 + pp. 14, "don't offer help if you can't deliver"
@@ -253,7 +253,7 @@ Week 1:
 
 
 
-Week 2:
+Week 2, Bringing Order to the Chaos:
 + pp. 23, "chaos hides problems" that need to be addressed
 + pp. 27, ***"focus on the funded work"***
 + pp. 29, differences between product teams and IT (support) groups that support products and/or services of the company/organization:
@@ -335,8 +335,8 @@ Week 2:
 
 
 
-Week 3:
-
+Week 3, Building the Team:
++ 
 
 
 
