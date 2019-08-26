@@ -212,12 +212,13 @@ Week 1, Learning about the People and the Work:
 	- do not assign people to more than two tasks, since task switching (or context switching) would slow down their productivity when they work on a particular task for a significant time slot/window \cite{DeMarco2001,Weinberg1992,Meyer2004,Rothman2004a}
 + pp. 21, use project portfolio management to determine list of tasks to be completed by each product team and how these tasks add value to the organization, so that we can "make good decisions about priority, what work to do, and what work not to do"
 	- ***this can help reduce the amount of unsanctioned, unfunded, and unneeded work to be co-opt into current/active projects***
-	- track the following types of tasks
+	- track the following types of tasks (pp. 150)
 		* project work, with start and end dates, and specifically meets the goals of the organizations
 			+ the goals of the organizations should be publicly displayed, so that people can view these accessible goals and help team/product managers access if their tasks are aligned with the goals of the company (pp. 28)
 			+ pp. 41, "Senior management supplies strategic goals to the organization. Each layer of management below refines those strategic goals into successively more tactical goals and actions. In hierarchies, each level supports the goals of the level above."
 			+ pp. 41, "Your job as a manager is to match the work your group does to the mission of your group and ensure it supports your manager’s goals."
 		* ad hoc work, which appears as crises, unanticipated requests, or unplanned work
+			+ pp. 150, or, in-process ad-hoc work
 		* periodic work that occurs at predictable intervals
 		* ongoing work to "\[keep\] the business and operation running"
 		* management work regarding the planning and organization for remaining/other work, such as:
@@ -371,7 +372,8 @@ Week 3, Building the Team:
 		* pp. 98, Manage your emotions.
 		* pp. 99, Obtain feedback about how you appear to others.
 + Week 7: Done
-
++ check out guidelines for effective coaching (pp. 118-119), successful delegation (pp. 120-121), facilitation (pp. 122-127), giving effective feedback (pp. 128-129), welcoming new hires (pp. 130-131), setting smart goals (pp. 132-133), and project portfolio planning (pp. 150-152)
+	- pp. 133, "Make goals SMART: Specific, Measurable, Attainable, Relevant, and Time-bound. Here's an example of a goal that isn’t SMART: 'Improve product quality.' Here's a SMART version of that goal: 'Decrease the total number of released defects in the next release by 10%.' "
 
 
 
