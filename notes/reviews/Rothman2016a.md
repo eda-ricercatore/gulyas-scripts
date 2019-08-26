@@ -181,9 +181,12 @@ Not having the courage and wisdom to make decisions in project portfolio managem
 
 ##	Notes from \cite{Rothman2007}
 
-
-
-
++ pp. 14, risk-based guide to project portfolio management
++ pp. 75, delivery-based planning for software projects
++ pp. 158-, \S8.3, rank the software requirements based on:
+	- pp. 160, pairwise comparison
+	- pp. 160-161, criteria ranking
+	- pp. 161, develop and maintain a running requirements log, or product backlog
 
 
 
