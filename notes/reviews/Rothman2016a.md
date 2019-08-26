@@ -336,9 +336,17 @@ Week 2, Bringing Order to the Chaos:
 
 
 Week 3, Building the Team:
-+ 
-
-
++ pp. 46, cohesive teams build trust between team members, and their members exchange and honor committments to each other
++ pp. 46, cohesive teams have common goals among its team members that are:
+	- real
+	- easily recognized as valuable
++ pp. 47, characteristics of teams:
+	- are usually small -- they have five to ten members.
+	- are committed to a common purpose or goal.
+	- have an agreed-upon approach to the work.
+	- have complementary skills.
+	- have interrelated or interdependent interim goals.
+	- make commitments about tasks to each other.
 
 
 
