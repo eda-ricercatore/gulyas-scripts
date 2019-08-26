@@ -359,11 +359,11 @@ Week 3, Building the Team:
 
 
 + Week 4: Done
-+ Week 5: Done
++ Week 5:
 	- pp. 78, sustainable pace. See reference (2) of the chapter.
 		* Sidney J. Chapman. “Hours of Labour.” Economic Journal, pages 363–65, September 1909.
-+ Week 6: Done
-
++ Week 6:
+	- pp. 91, a "technical leader \[is\] a product-focused leader", and technical "\[managers are\] people-focused \[leaders\]"
 
 
 
