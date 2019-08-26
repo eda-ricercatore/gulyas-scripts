@@ -173,10 +173,12 @@ lean approaches to project portfolio management:
 	- \S5, pp. 66, "The earlier you are in Moore’s marketing model Crossing the Chasm [Moo91], the more you have a wide variety of customers who want a lot right now." Alternate reference: \cite\[\S5.7, pp. 78\]{Rothman2009}
 	- Figure about cost of delay is available for \cite{Rothman2016a}, but not \cite{Rothman2009}.
 + Chapter 5, pp. 71, use the cost of delay to rank projects and features, instead of return-on-investment or project cost, to determine how much revenue would this project/feature generate, so that I can improve business strategy (if requried) to reduce cost of delay
-
-
-
-
++ Chapter 5, pp. 74, "If you have many projects you never finish, many projects in your park- ing lot you never remove, or no high-demand projects, then your orga- nization is not healthy. Your mission may not be specific enough, or you may not know how to finish projects. You may not know what business you are in." 
+	- Also, found in \cite\[5.10, pp. 83\]{Rothman2009}.
++ Chapter 8, pp. 112, "decide \[on\] how often to review the parking lot"
++ Chapter 8, pp. 113-114, an advanced R&D group can carry out exploratory projects and deliver prototypes, which would undergo technology transfer into products
+	- Chapter 8, pp. 114, use hackathons in lieu of an advanced R&D group to churn out prototypes
+Chapter 11, pp. 151, minimum marketable feature (MMF)
 
 
 
