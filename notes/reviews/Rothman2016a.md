@@ -213,6 +213,8 @@ Week 1:
 	- track the following types of tasks
 		* project work, with start and end dates, and specifically meets the goals of the organizations
 			+ the goals of the organizations should be publicly displayed, so that people can view these accessible goals and help team/product managers access if their tasks are aligned with the goals of the company (pp. 28)
+			+ pp. 41, "Senior management supplies strategic goals to the organization. Each layer of management below refines those strategic goals into successively more tactical goals and actions. In hierarchies, each level supports the goals of the level above."
+			+ pp. 41, "Your job as a manager is to match the work your group does to the mission of your group and ensure it supports your manager’s goals."
 		* ad hoc work, which appears as crises, unanticipated requests, or unplanned work
 		* periodic work that occurs at predictable intervals
 		* ongoing work to "\[keep\] the business and operation running"
@@ -225,9 +227,15 @@ Week 1:
 	- clearly prioritize more valuable work, or work that brings more value to the organization and aligns with the goals of the organization (pp. 23)
 		* "match the \[task/\]work to the goals" of the organization (pp. 28)
 		* avoid requiring/demanding individuals or teams to produce reports and other documentation that needs/requires scads of time, which is wasted if and when the requester(s) move on, move up, or move out and the report (and other documentation) is no longer needed (pp. 28)
+		* pp. 43, "staff the most important work"
+		* pp. 43, "assign people to one project at a time"
+		* pp. 43, "plan to replan"
 	- iterate
 		* adapt and adjust the project portfolio, and task/work schedule, and resource allocation to changing goals and priorities of the organization (pp. 28)
 		* update the ***big visible chart*** of the list of tasks/work, so that it "creates shared ownership of the projects" "and \[allow\] people \[to recognize\] patterns and problems as well as solutions to these problems" (pp. 28)
+			+ pp. 43, review the ***big visible chart*** every four to six weeks, so that it can be updated in a timely manner when prorities of the organization or project change
+		* pp. 43, when priorities of the organization or project change, change/update the assignments
+		* pp. 43, increasing the amount of assignment changes per individual or team, the less work that the individual or team can complete
 	- understand resistance
 
 
