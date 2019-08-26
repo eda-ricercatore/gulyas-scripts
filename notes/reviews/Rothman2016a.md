@@ -167,8 +167,8 @@ lean approaches to project portfolio management:
 ##	Other Chapters
 
 + Chapter 3, pp. 26, collect small projects that hardly add value individually into a program (or large project), and include this program (or large project) in my project portfolio
-
-
++ Chapter 3, pp. 27, use program management to address interdependencies between projects
++ Chapter 3, pp. 34, Gantt charts cannot capture interdependencies between projects nor sequence/value multiple objectives
 
 
 
