@@ -4449,10 +4449,23 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 		- Domain-specific languages such as Halide and Spatial
 		- Common DNN models such as AlexNet, ResNet50, Inception, YOLO, RNN, and LSTM
 		- Embedded system runtime environments and device drivers
-
-
-
-
++ skill set:
+	- 5+ years experience developing data frameworks using Python
+	- 5+ years of using SQL for data manipulation in a fast-paced work environment
+	- Experience working with open source technologies like Kafka, Hadoop, Hive, Presto, and Spark, or similar
+	- Experience building and optimizing ‘big data’ data pipelines, architectures and data sets
+	- Mastery of data warehousing development and fundamentals
+	- Passion for business-oriented data development
++ skill set:
+	- Strong foundation in Infrastructure as Code and configuration management using tools like Terraform, SaltStack, Ansible, Chef, Puppet
+	- Knowledge of Internet engineering fundamentals (load balancing, DNS, CDNs)
+	- Experience with monitoring, metrics, and logging tools (Graphite, Grafana, Nagios/Icinga, SumoLogic, etc.)
+	- Experience with continuous integration and deployment (Jenkins, GitLab, CircleCI, etc.)
+	- Experience performing root cause analysis and troubleshooting and resolving production issues
+	- Obsession with code quality, task tracking, and writing documentation and runbooks that allow globally-distributed engineers to understand and support the infrastructure.
++ Hestia - Differential Privacy - Data Anonymization Challenge, https://www.topcoder.com/challenges/30082341
+	- https://github.com/uber/sql-differential-privacy
+	- https://github.com/arx-deidentifier/arx
 
 
 

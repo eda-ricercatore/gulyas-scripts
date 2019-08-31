@@ -12,7 +12,52 @@
 		Year = {2018}}
 
 
-##	Forward section
+##	Introduction section
+
++ pp. ix, "Pursuing a Ph.D. is a major undertaking."
++ pp. ix, make your Ph.D. pursuit/journey a value-adding endeavor, and try strategies to imrpove the efficiency, quality, and impact of your research 
+
+
+
+##	Chapter 1, The PhD as a Start-up
+
+commonalities between Ph.D. students and start-up entrepreneurs (pp. 1):
++ pp. 2, done individually, independent and self-directed study 
++ pp. 2, "create something novel from scratch to succeed" 
++ pp. 2, use limited resources for their endeavors, bootstrapping 
++ pp. 2, difficult/"thorny journey ahead of them"
+
+ideas from the lean start-up approach (pp. 4):
++ pp. 4, minimum viable product, MVP 
++ pp. 4, rapid prototyping
++ pp. 5, end-user orientation 
+
+
+
+
+##	Chapter 2, Launching the PhD
+
++ pp. 15, focus on crafting a "unique value proposition (UVP)" that is based on "the founder's single-minded, uncompromising obsession with a specific topic or access to (not illegal) inside information"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##	Chapter 5, Towards Lean Science
+
++ pp. 75, don't be stuck on execessive whiteboarding
+
+
 
 
 ##	Chapter ???, Chapter title
