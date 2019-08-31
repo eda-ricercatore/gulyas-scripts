@@ -42,21 +42,37 @@ ideas from the lean start-up approach (pp. 4):
 
 
 
+##	Chapter 3, Executing the PhD
+
++ pp. 34, least publishable unit (LPU)
++ pp. 34, "scientific salami slicing" strategy"
++ pp. 38, use written hypotheses with visualizations when hypotheses to craft the hypotheses 
 
 
 
+##	Chapter 4, Executing the PhD
++ pp. 54-57, minimum viable dissertation (MVD)
++ pp. 69, "A living lab approach is a user-centered research concept"
++ pp. 69, intertwined roles of researcher and study participant... "Solutions are co-created, immediately tested and refined based on end-user feedback, with the researchers recording the responses of the environment to the solutions tried out to enhance learning"... "Applied research approach", "future of scholarship"
 
+Table 4.1 "Quitting the PhD" checklist, pp. 71
 
-
-
-
-
+| \# | Question | Answer |
+| -- | ---------- | ----------|
+| 1 | If I look back at the past six months: was I (mostly) miserable on a daily basis? | Y/N |
+| 2 | Am I not passionate about my Ph.D. topic (any more)? | Y/N |
+| 3 | Is there something I feeel passionate about pursuing professionally that is not my Ph.D.? | Y/N |
+| 4 | Is an academic career not appealing to me (any longer)? | Y/N |
+| 5 | Have I not made substantial progress in my research in the past six months (according to my own standards of what constitutes `progress')? | Y/N |
+| 6 | If I have been in my Ph.D. program for at least two years: have I only received rejections from journals I have submitted to so far? | Y/N |
+| 7 | Have I tried out at least two topics for my Ph.D. which did not work out? | Y/N |
+| 8 | Am I not getting along with my supervisor(s), no matter what? | Y/N |
 
 
 ##	Chapter 5, Towards Lean Science
 
 + pp. 75, don't be stuck on execessive whiteboarding
-
++ pp. 83, "many \[research proposals are\] rejected from a perfunctory first sight" 
 
 
 
