@@ -20,6 +20,21 @@ The list of notes that I have made while reading publications are provided as fo
 
 
 
+##	Additional information about reviews
+
+Search for the *Markdown* document named, "Barabasi2018.md", for the review for the book \cite{Barabasi2018} in my workspace.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
