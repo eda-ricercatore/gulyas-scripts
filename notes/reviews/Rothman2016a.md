@@ -1,4 +1,4 @@
-#	Notes about \cite{} 
+#	Notes about \cite{Rothman2016a} 
 
 
 
