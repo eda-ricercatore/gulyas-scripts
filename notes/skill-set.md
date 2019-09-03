@@ -4463,9 +4463,33 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Experience with continuous integration and deployment (Jenkins, GitLab, CircleCI, etc.)
 	- Experience performing root cause analysis and troubleshooting and resolving production issues
 	- Obsession with code quality, task tracking, and writing documentation and runbooks that allow globally-distributed engineers to understand and support the infrastructure.
-+ Hestia - Differential Privacy - Data Anonymization Challenge, https://www.topcoder.com/challenges/30082341
-	- https://github.com/uber/sql-differential-privacy
-	- https://github.com/arx-deidentifier/arx
++ skill set:
+	- Demonstrated experience in algorithm development and application of image processing, registration, segmentation, etc.
+	- Working knowledge of geometry and application experience
+	- OpenGL or DirectX, Cg knowledge and development experience.
+	- Proficiency in C++ development, parallelization, unit testing, and performance measurement
+	- C++ GUI development experience
+	- Experience in developing SQLite database application
+	- Microsoft Visual Studio development experience
+	- Solid software engineering foundation and a commitment to writing high quality code, including clear and understandable design and implementation, well-defined interfaces, ease of build and use & ease of extensibility.
+	- Computer Vision and Image Processing algorithm development experience
+	- OpenCV, IPP, CUDA experience
+	- Familiarity with data formats, such as STL, OBJ, FBX, etc.
+	- Familiarity with serial communication protocol, TCP/IP server/client communication protocol
+	- Familiarity with software development tools and methodology
++ skill set:
+	- 2+ years of experience with C/C++/C#/Objective C or Java
+	- Intermediate-level expertise and experience working in Maya, Blender, or 3ds Max
+	- Intermediate-level expertise and experience working in Adobe Creative Cloud applications.
+	- Programming and/or scripting experience
+	- Experience with the latest mixed reality hardware (HoloLens, Leap Motion, Vive/Rift/PSVR/Daydream) a plus
+	- Amazing attention to detail, self-motivated and collaborative
+	- Passion for creating new, innovative, and ground-breaking user experiences
+	- Excellent communication skills (written and verbal)
+	- User interface and rapid prototyping experience
+	- Understanding of computer vision algorithms, spatial mapping, shaders
+	- Possess new technology curiosity and a history of self-technical education
+
 
 
 
@@ -4510,8 +4534,11 @@ skill levels:
 
 
 
+#	Differential Privacy
 
-
++ Hestia - Differential Privacy - Data Anonymization Challenge, https://www.topcoder.com/challenges/30082341
+	- https://github.com/uber/sql-differential-privacy
+	- https://github.com/arx-deidentifier/arx
 
 
 
