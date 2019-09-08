@@ -3242,6 +3242,7 @@ From \cite[\S8.6 Defining Clean-up Actions]{Brandl2017a}:
 
 From \cite[\S8.7 Predefined Clean-up Actions]{Brandl2017a}:
 + "The with statement allows objects like files to be used in a way that ensures they are always cleaned up promptly and correctly."
+	- See https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#system-resource-management.
 + From \cite{Brandl2017a}: [\S8 Errors and Exceptions](https://docs.python.org/3/tutorial/errors.html)
 
 
@@ -3401,6 +3402,15 @@ Use mutual exclusion (mutex) to manage system resources, such as locks, files,
 	**with** statement, such as a raised exception, the **variable** is
 	automatically released
 	\cite[Chapter 1, section on "Exceptions," pp. 23]{Beazley2009}.
+
+See https://docs.python.org/3/reference/compound_stmts.html#the-with-statement for more information about the "with" statement.
++ https://stackoverflow.com/questions/3012488/what-is-the-python-with-statement-designed-for
++ https://effbot.org/zone/python-with-statement.htm
++ https://python3statement.org
++ https://docs.python.org/2.5/whatsnew/pep-343.html
+
+
+
 
 
 
