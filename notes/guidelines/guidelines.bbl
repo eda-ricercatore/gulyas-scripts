@@ -37,6 +37,11 @@ David Abrahams.
 \newblock Available online at: \url{http://www.acm.org/about/code-of-ethics};
   September 27, 2014 was the last accessed date, October 16 1992.
 
+\bibitem{Adya2004}
+Saurabh~N. Adya.
+\newblock {\em Unification of {VLSI} placement and floorplanning}.
+\newblock PhD thesis, University of Michigan, Ann Arbor, {MI}, 2004.
+
 \bibitem{Agans2006}
 David~J. Agans.
 \newblock {\em Debugging: The 9 Indispensable Rules for Finding Even the Most
@@ -122,6 +127,25 @@ Muhammad~Ali Babar, Alan~W. Brown, and Ivan Mistrik.
 \newblock {\em Agile Software Architecture: Aligning Agile Processes and
   Software Architectures}.
 \newblock Morgan Kaufmann, Waltham, {MA}, 2014.
+
+\bibitem{Bailey2010a}
+Brian Bailey and Grant Martin.
+\newblock {\em {ESL} Models and their Application: Electronic System Level
+  Design and Verification in Practice}.
+\newblock Embedded Systems. Springer Science+Business Media, {LCC}, New York,
+  {NY}, 2010.
+
+\bibitem{Bailey2005}
+Brian Bailey, Grant Martin, and Thomas Anderson.
+\newblock {\em Taxonomies for the Development and Verification of Digital
+  Systems}.
+\newblock Springer Science+Business Media, {Inc.}, New York, {NY}, 2005.
+
+\bibitem{Baldwin2004}
+Douglas Baldwin and Greg~W. Scragg.
+\newblock {\em Algorithms and Data Structures: The Science of Computing}.
+\newblock Computer Engineering Series. Charles River Media, Hingham, {MA},
+  2004.
 
 \bibitem{Barba2016}
 Lorena~A. Barba.
@@ -253,12 +277,36 @@ Bo~Brinkman, Don Gotterbarn, Keith~W. Miller, and Marty~J. Wolf.
 \newblock {\em {ACM} Computers and Society: Newsletter of the {ACM} Special
   Interest Group on Computers and Society}, 46(3):5--8, November 2016.
 
+\bibitem{BrooksJr1995}
+Frederick~P. {Brooks, Jr.}
+\newblock {\em The Mythical Man-Month: Essays on Software Engineering}.
+\newblock Addison-Wesley, Reading, {MA}, $20^{th}$\ anniversary edition, 1995.
+
 \bibitem{Brown1998}
 William~J. Brown, Raphael~C. Malveau, Hays W.~``Skip'' {McCormick, III}, and
   Thomas~J. Mowbray.
 \newblock {\em AntiPatterns: Refactoring Software, Architectures, and Projects
   in Crisis}.
 \newblock John Wiley {\rm \&}\ Sons, Hoboken, {NJ}, 1998.
+
+\bibitem{Burgess2004}
+Ian Burgess.
+\newblock {\em Regression Testing: Gate-Level Functional Verification Is
+  Imperative and Equivalence Checking Provides the Solution}.
+\newblock Mentor Graphics Corporation, Wilsonville, {OR}, 2004.
+
+\bibitem{Burton2006}
+Mark Burton and Adam Morawiec.
+\newblock {\em Platform Based Design at the Electronic System Level: Industry
+  Perspectives and Experiences}.
+\newblock Springer, Dordrecht, {The Netherlands}, 2006.
+
+\bibitem{Buttazzo2011}
+Giorgio~C. Buttazzo.
+\newblock {\em Hard Real-Time Computing Systems: Predictable Scheduling
+  Algorithms and Applications}, volume~24 of {\em Real-Time Systems Series}.
+\newblock Springer Science+Business Media, {LCC}, New York, {NY}, third
+  edition, 2011.
 
 \bibitem{Cady2017}
 Field Cady.
@@ -292,6 +340,25 @@ Scott Chacon and Ben Straub.
 \newblock The Expert's Voice$^{\textregistered}$. Apress Media, {LLC},
   Berkeley, {CA}, second edition, 2014.
 
+\bibitem{Chang2002}
+Henry Chang, Larry Cooke, Merrill Hunt, Grant Martin, Andrew {McNelly}, and Lee
+  Todd.
+\newblock {\em Surviving the {SoC} Revolution: A Guide to Platform-Based
+  Design}.
+\newblock Kluwer Academic Publishers, New York, {NY}, 2002.
+
+\bibitem{Chauhan2007}
+Pankaj~P. Chauhan.
+\newblock {\em Verification of Large Industrial Circuits Using {SAT} Based
+  Reparameterization and Automated Abstraction-Refinement}.
+\newblock PhD thesis, Carnegie Mellon University, Pittsburgh, {PA}, May 2007.
+
+\bibitem{Chen2012}
+Jess Chen, Michael Henrie, Monte~F. Mar, and Mladen Nizic.
+\newblock {\em Mixed-Signal Methodology Guide: Advanced Methodology for {AMS
+  IP} and {SoC} Design, Verification, and Implementation}.
+\newblock Lulu Enterprises, Raleigh, {NC}, August 2012.
+
 \bibitem{Cockburn2007}
 Alistair Cockburn.
 \newblock {\em Agile Software Development: The Cooperative Game}.
@@ -318,6 +385,12 @@ Hewlett-Packard Company.
   History: Founders {\rm \&}\ early contributors--Dave Packard} at:
   \url{http://www.hp.com/retiree/history/founders/packard/11rules.html}; March
   15, 2014 was the last accessed date, 2012.
+
+\bibitem{Cong2003a}
+Jason Cong and Joseph~R. Shinnerl.
+\newblock {\em Multilevel Optimization in {VLSICAD}}, volume~14 of {\em
+  Combinatorial Optimization}.
+\newblock Kluwer Academic Publishers, New York, {NY}, 2003.
 
 \bibitem{Conway2003}
 Jon Conway and Steve Watts.
@@ -393,6 +466,12 @@ Mathias {De Mar{\'{e}}} and {other contributors}.
   \url{https://book.mercurial-scm.org/}; self-published; February 15, 2019 was
   the last accessed date, 2015.
 
+\bibitem{Densmore2008}
+Douglas Densmore and Abhijit Davare.
+\newblock {\em A Platform-Based Design Methodology for the Electronic System
+  Level: Frameworks, Design Flows, and Case Studies}.
+\newblock {VDM Verlag Dr. M{\"{u}}ller}, Saarbr{\"{u}}cken, Germany, 2008.
+
 \bibitem{DeOrio2016}
 Andrew {DeOrio} and Andrew Giugliano.
 \newblock Long-term effects of partner programming in an introductory computer
@@ -411,6 +490,11 @@ Esther Derby and Diana Larsen.
 Davide {Di Gennaro}.
 \newblock Advanced {C++} metaprogramming.
 \newblock Self-published, 2011.
+
+\bibitem{Doboli2011}
+Alex Doboli and Edward~H. Currie.
+\newblock {\em Introduction to Mixed-Signal, Embedded Design}.
+\newblock Springer Science+Business Media, {LCC}, New York, {NY}, 2011.
 
 \bibitem{Dooley2017}
 John~F. Dooley.
@@ -484,6 +568,13 @@ Michael~C. Feathers.
 \newblock {\em Working Effectively with Legacy Code}.
 \newblock Robert C. Martin. Pearson Education, Upper Saddle River, {NJ}, 2005.
 
+\bibitem{Felleisen2001}
+Matthias Felleisen, Robert~Bruce Findler, Matthew Flatt, and Shriram
+  Krishnamurthi.
+\newblock {\em How to Design Programs: An Introduction to Programming and
+  Computing}.
+\newblock The {MIT} Press, Cambridge, {MA}, 2001.
+
 \bibitem{Fewster1999}
 Mark Fewster and Dorothy Graham.
 \newblock {\em Software Test Automation: Effective Use of Test Execution
@@ -535,12 +626,29 @@ Daniel Fran{\c{c}}a.
   \url{https://isocpp.org/blog/2014/12/c-has-become-more-pythonic};
   self-published; February 1, 2018 was the last accessed date, December 2 2014.
 
+\bibitem{Frevert2005}
+Ronny Frevert, Joachim Haase, Roland Jancke, Uwe Kn{\"{o}}chel, Peter Schwarz,
+  Ralf Kakerow, and Mohsen Darianian.
+\newblock {\em Modeling and Simulation for {RF} System Design}.
+\newblock Springer, Dordrecht, {The Netherlands}, 2005.
+
+\bibitem{Furber2000}
+Steve Furber.
+\newblock {\em {ARM} System-on-Chip Architecture}.
+\newblock Pearson Education, Harlow, Essex, England, {U.K.}, second edition,
+  2000.
+
 \bibitem{Gadoury2010}
 Brian Gadoury.
 \newblock Keep your tools sharp to avoid personal technical debt.
 \newblock Available online from {\it End Point: Our Blog} at:
   \url{https://www.endpoint.com/blog/2010/10/12/keep-your-tools-sharp-to-avoid-personal};
   September 26, 2018 was the last accessed date, October 12 2010.
+
+\bibitem{Gajski2009}
+Daniel~D. Gajski, Samar Abdi, Andreas Gerstlauer, and Gunar Schirner.
+\newblock {\em Embedded System Design: Modeling, Synthesis and Verification}.
+\newblock Springer Science+Business Media, {LCC}, New York, {NY}, 2009.
 
 \bibitem{Gandrud2014}
 Christopher Gandrud.
@@ -578,6 +686,11 @@ Imran Ghani, Dayang Norhayati~Abang Jawawi, Siva Dorairaj, and Ahmed Sidky.
 \newblock {\em Emerging Innovations in Agile Software Development}.
 \newblock Advances in Systems Analysis, Software Engineering, and High
   Performance Computing. Information Science Reference, Hershey, {PA}, 2016.
+
+\bibitem{Gil1998}
+Joseph~(Yossi) Gil and David~H. Lorenz.
+\newblock Design patterns and language design.
+\newblock {\em {IEEE} Computer}, 31(3):118--120, March 1998.
 
 \bibitem{GitContributors2014b}
 {Git contributors}.
@@ -701,6 +814,14 @@ Yuepu Guo.
 \newblock PhD thesis, {University of Maryland, Baltimore County}, Baltimore,
   {MD}, 2016.
 
+\bibitem{Gupta2004}
+Rajesh Gupta, Paul {Le Guernic}, Sandeep~Kumar Shukla, and {Jean-Pierre}
+  Talpin.
+\newblock {\em Formal Methods and Models for System Design: A System Level
+  Perspective}.
+\newblock Springer Science+Business Media Dordrecht, Dordrecht, {The
+  Netherlands}, 2004.
+
 \bibitem{Hagelberg2017}
 Philip~N. Hagelberg.
 \newblock Leiningen.
@@ -718,6 +839,11 @@ Junio~C. Hamano, Linus Torvalds, Shawn Pearce, Johannes Schindelin, Nicolas
 \newblock Available online at: \url{http://www.git-scm.com/} and
   \url{http://git-blame.blogspot.com/}; August 1, 2014 was the last accessed
   date, August 12 2014.
+
+\bibitem{Harris2007}
+David~Money Harris and Sarah~L. Harris.
+\newblock {\em Digital Design and Computer Architecture}.
+\newblock Morgan Kaufmann, Waltham, {MA}, 2007.
 
 \bibitem{Haynal2008}
 Steve Haynal.
@@ -759,6 +885,12 @@ John Hennessy and David Patterson.
   \url{https://californiaconsultants.org/wp-content/uploads/2018/04/CNSV-1806-Patterson.pdf};
   July 20, 2018 was the last accessed date, June 13 2018.
 
+\bibitem{Ho2007}
+Tsung-Yi Ho, Yao-Wen Chang, and Sao-Jie Chen.
+\newblock {\em Full-Chip Nanometer Routing Techniques}.
+\newblock Analog Circuits and Signal Processing. Springer, Dordrecht, {The
+  Netherlands}, 2007.
+
 \bibitem{Hoff2008a}
 Todd Hoff.
 \newblock {C++} coding standard.
@@ -783,6 +915,13 @@ Andy Hunt.
 John Hunt.
 \newblock {\em Agile Software Construction}.
 \newblock Springer-Verlag London, London, {U.K.}, 2006.
+
+\bibitem{Hussein2008}
+Mohamed Hamed~Zaki Hussein.
+\newblock {\em Techniques for the Formal Verification of Analog and
+  Mixed-Signal Designs}.
+\newblock PhD thesis, Concordia University, Montr{\'{e}}al, Qu{\'{e}}bec,
+  Canada, 2008.
 
 \bibitem{IEEE2014b}
 {IEEE Board of Directors}.
@@ -901,6 +1040,14 @@ Brian~W. Kernighan and P.~J. Plauger.
 \newblock {\em The Elements of Programming Style}.
 \newblock McGraw-Hill, New York, {NY}, second edition, 1982.
 
+\bibitem{Keutzer2000}
+Kurt Keutzer, Sharad Malik, A.~Richard Newton, Jan~M. Rabaey, and Alberto
+  {Sangiovanni-Vincentelli}.
+\newblock System-level design: Orthogonalization of concerns and platform-based
+  design.
+\newblock {\em {IEEE} Transactions on Computer-Aided Design of Integrated
+  Circuits and Systems}, 19(12):1523--1543, December 2000.
+
 \bibitem{Kim2017}
 Joshua Kim.
 \newblock `whiplash', the {MIT} media lab, and the rest of us.
@@ -931,6 +1078,18 @@ Helmut Kopka and Patrick~W. Daly.
 \newblock Addison-Wesley Series on Tools and Techniques for Computer
   Typesetting. Addison-Wesley, Boston, {MA}, fourth edition, 2004.
 
+\bibitem{Krishnamachari1997}
+R.~S. Krishnamachari and P.~Y. Papalambros.
+\newblock Hierarchical decomposition synthesis in optimal systems design.
+\newblock {\em {ASME} Journal of Mechanical Design}, 119(4):448--457, December
+  1 1997.
+
+\bibitem{Krishnamachari1995}
+Ramprasad~S. Krishnamachari and Panos~Y. Papalambros.
+\newblock Hierarchical decomposition synthesis in optimal systems design.
+\newblock Technical Report {UMR2480}, University of Michigan, Ann Arbor, {MI},
+  August 1995.
+
 \bibitem{Krishnamurthi20XY}
 Shriram Krishnamurthi.
 \newblock Artifact evaluation for software conferences.
@@ -938,6 +1097,19 @@ Shriram Krishnamurthi.
   Department: Prof. Shriram Krishnamurthi's web page} at:
   \url{http://www.artifact-eval.org}; self-published; June 25, 2017 was the
   last accessed date.
+
+\bibitem{Krogh2008a}
+Bruce~H. Krogh, Edward Lee, Insup Lee, Al~Mok, George Pappas, Raj Rajkumar,
+  Harvey Rubin, Alberto Sangiovanni-Vincentelli, Lui Sha, Kang Shin, Jack
+  Stankovic, Janos Sztipanovits, Wayne Wolf, and Wei Zhao.
+\newblock Report: Cyber-physical systems summit.
+\newblock Technical report, National Science Foundation, St. Louis, {MO}, April
+  24--25 2008.
+
+\bibitem{Kropf1999}
+Thomas Kropf.
+\newblock {\em Introduction to Formal Hardware Verification}.
+\newblock Springer-Verlag Berlin Heidelberg, Heidelberg, Germany, 1999.
 
 \bibitem{Kruchten2012}
 Philippe Kruchten, Robert~L. Nord, and Ipek Ozkaya.
@@ -1015,6 +1187,17 @@ Diana Larsen and Ainsley Nies.
 \newblock Liftoff: Launching agile teams {\rm \&}\ projects.
 \newblock Self-published, Hillsboro, {OR}, 2011.
 
+\bibitem{Lee2017a}
+Edward~Ashford Lee and Sanjit~Arunkumar Seshia.
+\newblock {\em Introduction to Embedded Systems: A Cyber-Physical Systems
+  Approach}.
+\newblock The {MIT} Press, Cambridge, {MA}, second edition, 2017.
+
+\bibitem{Lee2008c}
+Kent~D. Lee.
+\newblock {\em Programming Languages: An Active Learning Approach}.
+\newblock Springer Science+Business Media, {LCC}, New York, {NY}, 2008.
+
 \bibitem{Leffingwell2011}
 Dean Leffingwell.
 \newblock {\em Agile Software Requirements: Lean Requirements Practices for
@@ -1054,6 +1237,13 @@ Fred Long, Dhruv Mohindra, Robert~C. Seacord, Dean~F. Sutherland, and David
 \newblock The {SEI} Series in Software Engineering. Addison-Wesley, Upper
   Saddle River, {NJ}, 1995.
 
+\bibitem{Lu2007}
+Zhonghai Lu.
+\newblock {\em Design and Analysis of On-Chip Communication for Network-on-Chip
+  Platforms}.
+\newblock PhD thesis, {KTH} Royal Institute of Technology, Stockholm, Sweden,
+  March 2007.
+
 \bibitem{Macdonald20XY}
 Ian Macdonald.
 \newblock The unofficial {Ruby} usage guide.
@@ -1062,11 +1252,27 @@ Ian Macdonald.
   \url{http://www.caliban.org/ruby/rubyguide.shtml}; self-published; October
   20, 2015 was the last accessed date.
 
+\bibitem{Madisetti2005}
+Vijay~K. Madisetti and Chonlameth Arpikanondt.
+\newblock {\em A Platform-Centric Approach to {System-on-Chip (SOC)} Design}.
+\newblock Springer Science+Business Media, {Inc.}, Boston, {MA}, 2005.
+
 \bibitem{Mailund2017}
 Thomas Mailund.
 \newblock {\em Beginning Data Science in {R}: Data Analysis, Visualization, and
   Modelling for the Data Scientist}.
 \newblock Apress Media, {LLC}, Berkeley, {CA}, 2017.
+
+\bibitem{Marrer2009}
+Gary Marrer.
+\newblock {\em Fundamentals of Programming: With Object Orientated
+  Programming}.
+\newblock Laptop Press LLC, python edition, November 30 2009.
+
+\bibitem{Martin2003}
+Grant Martin and Henry Chang.
+\newblock {\em Winning the {SoC} Revolution: Experiences in Real Design}.
+\newblock Kluwer Academic Publishers, Norwell, {MA}, 2003.
 
 \bibitem{Martin2002}
 Robert~C. Martin.
@@ -1099,6 +1305,18 @@ Steve {McConnell}.
 Steve {McConnell}.
 \newblock {\em Code Complete: A Practical Handbook of Software Construction}.
 \newblock Microsoft Press, Redmond, {WA}, second edition, 2004.
+
+\bibitem{McIver2003}
+Annabelle {McIver} and Carroll Morgan.
+\newblock {\em Programming Methodology}.
+\newblock Monographs in Computer Science. Springer-Verlag New York, New York,
+  {NY}, 2003.
+
+\bibitem{McIver2005}
+Annabelle {McIver} and Carroll Morgan.
+\newblock {\em Abstraction, Refinement and Proof for Probabilistic Systems}.
+\newblock Monographs in Computer Science. Springer Science+Business Media,
+  {Inc.}, New York, {NY}, 2005.
 
 \bibitem{McLellan2014a}
 Paul {McLellan}.
@@ -1204,11 +1422,26 @@ W.~Myers.
 \newblock Why software developers refuse to improve.
 \newblock {\em {IEEE} Computer}, 31(4):110--112, April 1998.
 
+\bibitem{MythicIncStaff2018}
+{Mythic Inc. staff}.
+\newblock Hardware devops engineer.
+\newblock Available online at:
+  \url{https://www.linkedin.com/jobs/view/hardware-devops-engineer-at-mythic-1078283501};
+  September 10, 2019 was the last accessed date, December 2018.
+
 \bibitem{Nguyen2013}
 Huy Nguyen, Hai-My Nguyen, and Minh-Luan Tran.
 \newblock {TexPaste}: Pastebin for mathematicians.
 \newblock Available online at: \url{http://www.texpaste.com}; self-published;
   June 4, 2018 was the last accessed date, October 12 2013.
+
+\bibitem{Nuzzo2011}
+Pierluigi Nuzzo and Alberto Sangiovanni-Vincentelli.
+\newblock Robustness in analog systems: Design techniques, methodologies and
+  tools.
+\newblock In {\em Proceedings of the $6^{th}$\ {IEEE} International Symposium
+  on Industrial Embedded Systems ({SIES 2011})}, pages 194--203,
+  V{\"{a}}ster{\r{a}}s, Sweden, June 15--17 2011. {IEEE} Press.
 
 \bibitem{Olsen2015}
 Dan Olsen.
@@ -1308,6 +1541,11 @@ Hasso Plattner, Christoph Meinel, and Larry Leifer.
 \newblock Understanding Innovation. Springer-Verlag Berlin Heidelberg,
   Heidelberg, Germany, 2011.
 
+\bibitem{Pratt2001}
+Terrence~W. Pratt and Marvin~V. Zelkowitz.
+\newblock {\em Programming Languages: Design and Implementation}.
+\newblock Prentice Hall, Upper Saddle River, {NJ}, fourth edition, 2001.
+
 \bibitem{Prause2011}
 Christian~R. Prause.
 \newblock Reputation-based self-management of software process artifact quality
@@ -1352,6 +1590,11 @@ Ben Rady and Rod Coffin.
 \newblock {\em Continuous Testing: With Ruby, Rails, and JavaScript}.
 \newblock Pragmatic Bookshelf. The Pragmatic Programmers, Raleigh, {NC}, 2011.
 
+\bibitem{Rashinkar2002}
+Prakash Rashinkar, Peter Paterson, and Leena Singh.
+\newblock {\em System-on-a-Chip Verification: Methodology and Techniques}.
+\newblock Kluwer Academic Publishers, Dordrecht, {The Netherlands}, 2002.
+
 \bibitem{Rasmusson2010}
 Jonathan Rasmusson.
 \newblock {\em The Agile Samurai: How Agile Masters Deliver Great Software}.
@@ -1371,6 +1614,11 @@ Robert~L. Read.
   \url{http://samizdat.mines.edu/howto/HowToBeAProgrammer.html} and
   \url{http://samizdat.mines.edu/howto/HowToBeAProgrammer.pdf}; April 2, 2014
   was the last accessed date, 2003.
+
+\bibitem{Reddy2011}
+Martin Reddy.
+\newblock {\em {API} Design for {C++}}.
+\newblock Morgan Kaufmann, Burlington, {MA}, 2011.
 
 \bibitem{Reitz2016a}
 Kenneth Reitz.
@@ -1409,7 +1657,7 @@ Kristian Rother.
 
 \bibitem{Rothman2007}
 Johanna Rothman.
-\newblock {\em Manage It!: Your Guide to Modern Pragmatic Project Management}.
+\newblock {\em Manage It!: Your Guide to Modern, Pragmatic Project Management}.
 \newblock Pragmatic Bookshelf. The Pragmatic Programmers, Raleigh, {NC}, 2007.
 
 \bibitem{Rothman2009}
@@ -1436,12 +1684,48 @@ Johanna Rothman.
 \newblock Available online at: \url{http://www.runmycode.org/}; November 13,
   2016 was the last accessed date, 2013.
 
+\bibitem{Safarpour2009}
+Sean~A. Safarpour.
+\newblock {\em Formal Methods in Automated Design Debugging}.
+\newblock PhD thesis, University of Toronto, Toronto, Canada, 2009.
+
 \bibitem{Sale2014}
 David Sale.
 \newblock {\em Testing {Python}: Applying Unit Testing, {TDD}, {BDD} and
   Acceptance Testing}.
 \newblock John Wiley {\rm \&}\ Sons, Chichester, West Sussex, England, {U.K.},
   2014.
+
+\bibitem{Saleh2006}
+Resve Saleh, Steve Wilton, Shahriar Mirabbasi, Alan Hu, Mark Greenstreet, Guy
+  Lemieux, Partha~Pratim Pande, Cristian Grecu, and Andre Ivanov.
+\newblock System-on-chip: Reuse and integration.
+\newblock {\em Proceedings of the {IEEE}}, 94(6):1050--1069, June 2006.
+
+\bibitem{SangiovanniVincentelli2007}
+Alberto Sangiovanni-Vincentelli.
+\newblock Quo vadis, {SLD}? reasoning about the trends and challenges of system
+  level design.
+\newblock {\em Proceedings of the {IEEE}}, 95(3):467--506, March 2007.
+
+\bibitem{SangiovanniVincentelli2008}
+Alberto Sangiovanni-Vincentelli.
+\newblock Is a unified methodology for system-level design possible?
+\newblock {\em {IEEE} Design {\rm \&}\ Test of Computers}, 25(4):346--357,
+  July--August 2008.
+
+\bibitem{SangiovanniVincentelli2001}
+Alberto {Sangiovanni-Vincentelli} and Grant Martin.
+\newblock Platform-based design and software design methodology for embedded
+  systems.
+\newblock {\em {IEEE} Design {\rm \&}\ Test of Computers}, 18(6):23--33,
+  November--December 2001.
+
+\bibitem{Saponara2010}
+Sergio Saponara, Pierluigi Nuzzo, Paolo D'Abramo, and Luca Fanucci.
+\newblock {\em {EURASIP} Journal on Embedded Systems: Design Methodologies and
+  Innovative Architectures for Mixed-Signal Embedded Systems}.
+\newblock Hindawi Publishing Corporation, Cairo, Egypt, 2010.
 
 \bibitem{Savage2011}
 Peter Savage.
@@ -1487,10 +1771,21 @@ Anna Schneider.
   \url{http://www.nws.noaa.gov/oh/hrl/developers_docs/C++_Software_Standards.pdf};
   October 27, 2015 was the last accessed date, November 17 2006.
 
+\bibitem{Scott2009}
+Michael~L. Scott.
+\newblock {\em Programming Language Pragmatics}.
+\newblock Morgan Kaufmann, Burlington, {MA}, third edition, 2009.
+
 \bibitem{Shore2008}
 James Shore and Shane Warden.
 \newblock {\em The Art of Agile Development}.
 \newblock Theory in Practice. O'Reilly Media, Sebastopol, {CA}, 2008.
+
+\bibitem{Singh2004}
+Leena Singh, Leonard Drucker, and Neyaz Khan.
+\newblock {\em Advanced Verification Techniques: A {SystemC} Based Approach for
+  Successful Tapeout}.
+\newblock Kluwer Academic Publishers, Boston, {MA}, 2004.
 
 \bibitem{Smith2003}
 Kevin~A. Smith and Doug Kramer.
@@ -1506,6 +1801,14 @@ Ian Sommerville.
 \newblock {\em Software Engineering}.
 \newblock Pearson Education, Harlow, Essex, England, {U.K.}, eighth edition,
   2007.
+
+\bibitem{Spolsky2004}
+Joel Spolsky.
+\newblock {\em Joel on Software: And on Diverse and Occasionally Related
+  Matters That Will Prove of Interest to Software Developers, Designers, and
+  Managers, and to Those Who, Whether by Good Fortune or Ill Luck, Work with
+  Them in Some Capacity}.
+\newblock Apress, Berkeley, {CA}, 2004.
 
 \bibitem{Spolsky2008}
 Joel Spolsky.
@@ -1540,6 +1843,13 @@ Richard Stallman and Bob Chassell.
   Software Movement: {GNU} Software} at:
   \url{https://www.gnu.org/software/texinfo/}; November 4, 2016 was the last
   accessed date, September 11 2016.
+
+\bibitem{Stan2003}
+Mircea~R. Stan, Paul~D. Franzon, Seth~Copen Goldstein, John~C. Lach, and
+  Matthew~M. Ziegler.
+\newblock Molecular electronics: From devices and interconnect to circuits and
+  architecture.
+\newblock {\em Proceedings of the {IEEE}}, 91(11):1940--1957, November 2003.
 
 \bibitem{Stellman2015}
 Andrew Stellman and Jennifer Greene.
@@ -1580,6 +1890,12 @@ Joshua Suereth and Matthew Farwell.
 \newblock {\em {sbt} in Action: The simple {Scala} build tool}.
 \newblock Manning Publications Co., Shelter Island, {NY}, 2016.
 
+\bibitem{Sun2011}
+Xuening Sun.
+\newblock {\em Compositional Design of Analog Systems Using Contracts}.
+\newblock PhD thesis, University of California, Berkeley, Berkeley, {CA}, May
+  12 2011.
+
 \bibitem{Swicegood2010}
 Travis Swicegood.
 \newblock {\em Pragmatic Guide to {Git}}.
@@ -1617,6 +1933,12 @@ Greg~L. Turnquist.
 \newblock Quick answers to common problems. Packt Publishing, Birmingham, West
   Midlands, England, {U.K.}, 2011.
 
+\bibitem{Vaishnavi2008}
+Vijay~K. Vaishnavi and William {Kuechler Jr.}
+\newblock {\em Design Science Research Methods and Patterns: Innovating
+  Information and Communication Technology}.
+\newblock Auerbach Publications, Boca Raton, {FL}, 2008.
+
 \bibitem{Valacich2012}
 Joseph~S. Valacich, Joey~F. George, and Jeffrey~A. Hoffer.
 \newblock {\em Essentials of Systems Analysis and Design}.
@@ -1648,6 +1970,17 @@ Doug Vucevic and Wayne Yaddow.
   Data Structures and Quality}.
 \newblock Trafford Publishing, Bloomington, {IN}, 2012.
 
+\bibitem{Wang2004}
+Chao Wang.
+\newblock {\em Abstraction Refinement for Large Scale Model Checking}.
+\newblock PhD thesis, University of Colorado at Boulder, Boulder, {CO}, 2004.
+
+\bibitem{Wang2006}
+Chao Wang, Gary~D. Hachtel, and Fabio Somenzi.
+\newblock {\em Abstraction Refinement for Large Scale Model Checking}.
+\newblock Integrated Circuits and Systems. Springer Science+Business Media,
+  {LCC}, New York, {NY}, 2006.
+
 \bibitem{Weatherwax2008}
 John~L. Weatherwax.
 \newblock Solution manuals and various book notes.
@@ -1660,6 +1993,13 @@ James~A. Whittaker.
 \newblock {\em Exploratory Software Testing: Tips, Tricks, Tours, and
   Techniques to Guide Test Design}.
 \newblock Addison-Wesley, Boston, {MA}, 2009.
+
+\bibitem{Wieferink2008}
+Andreas Wieferink, Heinrich Meyr, and Rainer Leupers.
+\newblock {\em Retargetable Processor System Integration into Multi-Processor
+  System-on-Chip Platforms}.
+\newblock Springer Science+Business Media {B.V.}, Dordrecht, {The Netherlands},
+  2008.
 
 \bibitem{Wiegers2002}
 Karl Wiegers.
