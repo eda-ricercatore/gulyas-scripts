@@ -37,6 +37,13 @@ David Abrahams.
 \newblock Available online at: \url{http://www.acm.org/about/code-of-ethics};
   September 27, 2014 was the last accessed date, October 16 1992.
 
+\bibitem{Adler2017}
+John Adler.
+\newblock Novel approaches to automated digital design debugging in a modern
+  development cycle.
+\newblock Master's thesis, University of Toronto, Toronto, Canada, November
+  2017.
+
 \bibitem{Adya2004}
 Saurabh~N. Adya.
 \newblock {\em Unification of {VLSI} placement and floorplanning}.
@@ -1541,6 +1548,23 @@ Hasso Plattner, Christoph Meinel, and Larry Leifer.
 \newblock Understanding Innovation. Springer-Verlag Berlin Heidelberg,
   Heidelberg, Germany, 2011.
 
+\bibitem{Poulos2018}
+Zissis Poulos and Andreas Veneris.
+\newblock Failure triage in {RTL} regression verification.
+\newblock {\em {IEEE} Transactions on Computer-Aided Design of Integrated
+  Circuits and Systems}, 37(9):1893--1906, September 2018.
+
+\bibitem{Poulos2014}
+Zissis~Paraskevas Poulos.
+\newblock High level debugging techniques for modern verification flows.
+\newblock Master's thesis, University of Toronto, Toronto, Canada, July 4 2014.
+
+\bibitem{Poulos2018a}
+Zissis~Paraskevas Poulos.
+\newblock {\em Scalable Inference in Hardware Verification and Social Graph
+  Reasoning}.
+\newblock PhD thesis, University of Toronto, Toronto, Canada, November 2018.
+
 \bibitem{Pratt2001}
 Terrence~W. Pratt and Marvin~V. Zelkowitz.
 \newblock {\em Programming Languages: Design and Implementation}.
@@ -1918,6 +1942,13 @@ Eno Thereska.
   University} at:
   \url{https://users.ece.cmu.edu/~eno/coding/CppCodingStandard.html}; February
   16, 2016 was the last accessed date.
+
+\bibitem{Thoziyoor2005}
+Shyamkumar Thoziyoor, Jay Brockman, and Daniel Rinzler.
+\newblock Pim lite: a multithreaded processor-in-memory prototype.
+\newblock In {\em Proceedings of the $15^{th}$ {ACM} Great Lakes Symposium on
+  {VLSI} ({GLSVLSI '05})}, pages 64--69, Chicago, {IL}, April 17--19 2005.
+  Association for Computing Machinery, {ACM} Press.
 
 \bibitem{Tornhill2018}
 Adam Tornhill.
