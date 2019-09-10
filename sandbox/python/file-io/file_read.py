@@ -86,7 +86,27 @@ with open(filename, "r") as f_obj:
 		print(prompt .format("OK"))
 	else:
 		print(prompt .format("FAIL!!!"))
+	print("= Iterate lines in the text file.")
 	for line in list_of_lines:
 		print("	current line is:",line,"=")
-		if line
-	
+		if line == i_certify_statement:
+			print("		found i_certify_statement")
+		temp_line = line.strip()
+		if temp_line == i_certify_statement:
+			print("		found i_certify_statement, with stripped whitespace")
+		temp_line = line.lstrip()
+		if temp_line == i_certify_statement:
+			print("		found i_certify_statement, with stripped whitespace from the front")
+		temp_line = line.rstrip()
+		if temp_line == i_certify_statement:
+			print("		found i_certify_statement, with stripped whitespace from the back")
+		if line.rstrip() == aggie_honor_promise:
+			print("		found aggie_honor_promise")
+	print("= Check if I can iterate through lines of a textfile and strip its trailing whitespace")
+	# I can do likewise for leading whitespace. 
+	for line in list_of_lines:
+		print("	current line is:",line,"=")
+		if line.rstrip() == i_certify_statement:
+			print("		found i_certify_statement with stripped whitespace during iteration")
+		if line.rstrip() == aggie_honor_promise:
+			print("		found aggie_honor_promise with stripped whitespace during iteration")
