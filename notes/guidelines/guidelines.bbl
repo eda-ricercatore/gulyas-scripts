@@ -44,6 +44,13 @@ John Adler.
 \newblock Master's thesis, University of Toronto, Toronto, Canada, November
   2017.
 
+\bibitem{Adler2017a}
+John Adler and Andreas Veneris.
+\newblock Leveraging software configuration management in automated {RTL}
+  design debug.
+\newblock {\em {IEEE} Design {\rm \&}\ Test}, 34(5):47--53, September/October
+  2017.
+
 \bibitem{Adya2004}
 Saurabh~N. Adya.
 \newblock {\em Unification of {VLSI} placement and floorplanning}.
@@ -139,7 +146,7 @@ Muhammad~Ali Babar, Alan~W. Brown, and Ivan Mistrik.
 Brian Bailey and Grant Martin.
 \newblock {\em {ESL} Models and their Application: Electronic System Level
   Design and Verification in Practice}.
-\newblock Embedded Systems. Springer Science+Business Media, {LCC}, New York,
+\newblock Embedded Systems. Springer Science+Business Media, {LLC}, New York,
   {NY}, 2010.
 
 \bibitem{Bailey2005}
@@ -256,6 +263,12 @@ Barry Boehm and Richard Turner.
 \newblock {\em Balancing Agility and Discipline: A Guide for the Perplexed}.
 \newblock Pearson Education, Boston, {MA}, 2004.
 
+\bibitem{Bombieri2012}
+Nicola Bombieri, Franco Fummi, and Valerio Guarnieri.
+\newblock Fast: An rtl fault simulation framework based on rtl-to-tlm
+  abstraction.
+\newblock {\em Journal of Electronic Testing}, 28(4):495--510, August 2012.
+
 \bibitem{Brahma2017}
 Seshu Brahma.
 \newblock The benefits of personal projects.
@@ -312,7 +325,7 @@ Mark Burton and Adam Morawiec.
 Giorgio~C. Buttazzo.
 \newblock {\em Hard Real-Time Computing Systems: Predictable Scheduling
   Algorithms and Applications}, volume~24 of {\em Real-Time Systems Series}.
-\newblock Springer Science+Business Media, {LCC}, New York, {NY}, third
+\newblock Springer Science+Business Media, {LLC}, New York, {NY}, third
   edition, 2011.
 
 \bibitem{Cady2017}
@@ -501,7 +514,7 @@ Davide {Di Gennaro}.
 \bibitem{Doboli2011}
 Alex Doboli and Edward~H. Currie.
 \newblock {\em Introduction to Mixed-Signal, Embedded Design}.
-\newblock Springer Science+Business Media, {LCC}, New York, {NY}, 2011.
+\newblock Springer Science+Business Media, {LLC}, New York, {NY}, 2011.
 
 \bibitem{Dooley2017}
 John~F. Dooley.
@@ -655,7 +668,7 @@ Brian Gadoury.
 \bibitem{Gajski2009}
 Daniel~D. Gajski, Samar Abdi, Andreas Gerstlauer, and Gunar Schirner.
 \newblock {\em Embedded System Design: Modeling, Synthesis and Verification}.
-\newblock Springer Science+Business Media, {LCC}, New York, {NY}, 2009.
+\newblock Springer Science+Business Media, {LLC}, New York, {NY}, 2009.
 
 \bibitem{Gandrud2014}
 Christopher Gandrud.
@@ -748,6 +761,22 @@ Joseph~(Yossi) Gil and David~H. Lorenz.
   training content. present your way to better version control.
 \newblock Available online at: \url{https://training.github.com/kit/}; August
   14, 2014 was the last accessed date, 2014.
+
+\bibitem{Glusman2003}
+Marcelo Glusman, Gila Kamhi, Sela {Mador-Haim}, Ranan Fraer, and Moshe~Y.
+  Vardi.
+\newblock Multiple-counterexample guided iterative abstraction refinement: An
+  industrial evaluation.
+\newblock In {\em Proceedings of the International Conference on Tools and
+  Algorithms for the Construction and Analysis of Systems ({TACAS} 2003)},
+  volume 2619 of {\em Lecture Notes in Computer Science}, pages 176--191,
+  Warsaw, Poland, April 7--11 2003. European Association for Theoretical
+  Computer Science ({EATCS}), European Association for Programming Languages
+  and Systems ({EAPLS}), European Association of Software Science and
+  Technology ({EASST}), {ACM} Special Interest Group on Software Engineering
+  ({SIGSOFT}), {ACM} Special Interest Group on Programming Languages
+  ({SIGPLAN}), and {ACM} Special Interest Group on Algorithms and Computation
+  Theory ({SIGACT}), Springer-Verlag Berlin Heidelberg.
 
 \bibitem{Goering2010}
 Richard Goering.
@@ -1203,7 +1232,7 @@ Edward~Ashford Lee and Sanjit~Arunkumar Seshia.
 \bibitem{Lee2008c}
 Kent~D. Lee.
 \newblock {\em Programming Languages: An Active Learning Approach}.
-\newblock Springer Science+Business Media, {LCC}, New York, {NY}, 2008.
+\newblock Springer Science+Business Media, {LLC}, New York, {NY}, 2008.
 
 \bibitem{Leffingwell2011}
 Dean Leffingwell.
@@ -1218,6 +1247,15 @@ Mike Levin.
 \newblock Available online from {\it Medium: Mike Levin, {SEO} in {NYC}} at:
   \url{https://medium.com/@mikelevinseo/incurring-more-personal-technical-debt-but-so-what-aad4bca1fa5c};
   September 27, 2018 was the last accessed date, October 27 2017.
+
+\bibitem{Li2008a}
+Yanjing Li, Samy Makar, and Subhasish Mitra.
+\newblock {CASP}: Concurrent autonomous chip self-test using stored test
+  patterns.
+\newblock In {\em Proceedings of the Conference on Design, Automation and Test
+  in Europe ({DATE '08})}, pages 885--890, Munich, Germany, March 10--14 2008.
+  European Design and Automation Association, European Design and Automation
+  Association.
 
 \bibitem{Liberman2015}
 Mark Liberman.
@@ -1386,7 +1424,7 @@ Ali Mili and Fairouz Tchier.
 Mike Mintz and Robert Ekendahl.
 \newblock {\em Hardware Verification with {\it SystemVerilog}: An
   Object-Oriented Framework}.
-\newblock Springer Science+Business Media, {LCC}, New York, {NY}, 2007.
+\newblock Springer Science+Business Media, {LLC}, New York, {NY}, 2007.
 
 \bibitem{Misfeldt2004}
 Trevor Misfeldt, Gregory Bumgardner, and Andrew Gray.
@@ -1553,6 +1591,25 @@ Zissis Poulos and Andreas Veneris.
 \newblock Failure triage in {RTL} regression verification.
 \newblock {\em {IEEE} Transactions on Computer-Aided Design of Integrated
   Circuits and Systems}, 37(9):1893--1906, September 2018.
+
+\bibitem{Poulos2013}
+Zissis Poulos, Yu-Shen Yang, and Andreas Veneris.
+\newblock A failure triage engine based on error trace signature extraction.
+\newblock In {\em Proceedings of the $15^{th}$\ {IEEE} Symposium On-Line
+  Testing ({IOLTS} 2013)}, pages 73--78, Chania, Crete, Greece, July 8--10
+  2013. {IEEE} Council on {EDA} ({CEDA}), and {IEEE} Computer Society Test
+  Technology Technical Council ({TTTC}), {IEEE} Press.
+
+\bibitem{Poulos2014a}
+Zissis Poulos, Yu-Shen Yang, Andreas Veneris, and Bao Le.
+\newblock Simulation and satisfiability guided counter-example triage for {RTL}
+  design debugging.
+\newblock In {\em Proceedings of the $15^{th}$\ {IEEE} International Symposium
+  on Quality Electronic Design ({ISQED} 2014)}, pages 618--624, Santa Clara,
+  {CA}, March 3--5 2014. {IEEE} Electron Devices Society ({EDS}), {IEEE}
+  Reliability Society, {{IEEE} Components, Packaging and Manufacturing
+  Technology Society}, and {IEEE} Circuits and Systems Society ({CAS}), {IEEE}
+  Press.
 
 \bibitem{Poulos2014}
 Zissis~Paraskevas Poulos.
@@ -2010,7 +2067,7 @@ Chao Wang.
 Chao Wang, Gary~D. Hachtel, and Fabio Somenzi.
 \newblock {\em Abstraction Refinement for Large Scale Model Checking}.
 \newblock Integrated Circuits and Systems. Springer Science+Business Media,
-  {LCC}, New York, {NY}, 2006.
+  {LLC}, New York, {NY}, 2006.
 
 \bibitem{Weatherwax2008}
 John~L. Weatherwax.

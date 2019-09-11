@@ -2,8 +2,12 @@ This is BibTeX, Version 0.99d (TeX Live 2019)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: guidelines.aux
 The style file: plain.bst
-Reallocated field_info (elt_size=4) to 12613 items from 5000.
+Reallocated field_info (elt_size=4) to 12751 items from 5000.
 Database file #1: /Users/zhiyang/Documents/ricerca/saag-bibtex/references.bib
+Repeated entry---line 111315 of file /Users/zhiyang/Documents/ricerca/saag-bibtex/references.bib
+ : @book{Li2008a
+ :              ,
+I'm skipping whatever remains of this entry
 Reallocated buffer (elt_size=1) to 40000 items from 20000.
 Reallocated sv_buffer (elt_size=1) to 40000 items from 20000.
 Reallocated ex_buf (elt_size=1) to 40000 items from 20000.
@@ -17,44 +21,45 @@ Reallocated out_buf (elt_size=1) to 60000 items from 40000.
 Reallocated name_tok (elt_size=4) to 60000 items from 40000.
 Reallocated name_sep_char (elt_size=1) to 60000 items from 40000.
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
-You've used 331 entries,
+You've used 337 entries,
             2118 wiz_defined-function locations,
-            2349 strings with 74198 characters,
-and the built_in function-call counts, 87330 in all, are:
-= -- 8328
-> -- 4222
-< -- 18
-+ -- 1730
-- -- 1370
-* -- 4932
-:= -- 15273
-add.period$ -- 1064
-call.type$ -- 331
-change.case$ -- 1543
+            2399 strings with 76446 characters,
+and the built_in function-call counts, 90092 in all, are:
+= -- 8624
+> -- 4340
+< -- 23
++ -- 1777
+- -- 1410
+* -- 5144
+:= -- 15691
+add.period$ -- 1086
+call.type$ -- 337
+change.case$ -- 1581
 chr.to.int$ -- 0
-cite$ -- 331
-duplicate$ -- 3477
-empty$ -- 7346
-format.name$ -- 1370
-if$ -- 18401
+cite$ -- 337
+duplicate$ -- 3590
+empty$ -- 7552
+format.name$ -- 1410
+if$ -- 19010
 int.to.chr$ -- 0
-int.to.str$ -- 331
-missing$ -- 377
-newline$ -- 1658
-num.names$ -- 662
-pop$ -- 2355
+int.to.str$ -- 337
+missing$ -- 383
+newline$ -- 1688
+num.names$ -- 674
+pop$ -- 2392
 preamble$ -- 1
-purify$ -- 1347
+purify$ -- 1379
 quote$ -- 0
-skip$ -- 2278
+skip$ -- 2362
 stack$ -- 0
-substring$ -- 2432
-swap$ -- 413
-text.length$ -- 18
+substring$ -- 2627
+swap$ -- 455
+text.length$ -- 23
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 984
+type$ -- 1008
 warning$ -- 0
-while$ -- 727
-width$ -- 334
-write$ -- 3677
+while$ -- 755
+width$ -- 340
+write$ -- 3756
+(There was 1 error message)
