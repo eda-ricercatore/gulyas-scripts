@@ -1028,6 +1028,12 @@ Jon.
   \url{https://stackoverflow.com/questions/25011078/what-does-pythonic-mean};
   February 1, 2018 was the last accessed date, July 29 2014.
 
+\bibitem{Kaeslin2015}
+Hubert Kaeslin.
+\newblock {\em Top-Down Digital {VLSI} Design: From Architectures to Gate-Level
+  Circuits and {FPGA}s}.
+\newblock Morgan Kaufmann, Waltham, {MA}, 2015.
+
 \bibitem{Keating1999}
 Michael Keating and Pierre Bricaud.
 \newblock {\em Reuse Methodology Manual: For {System-on-a-Chip} Designs}.
@@ -1249,13 +1255,11 @@ Mike Levin.
   September 27, 2018 was the last accessed date, October 27 2017.
 
 \bibitem{Li2008a}
-Yanjing Li, Samy Makar, and Subhasish Mitra.
-\newblock {CASP}: Concurrent autonomous chip self-test using stored test
-  patterns.
-\newblock In {\em Proceedings of the Conference on Design, Automation and Test
-  in Europe ({DATE '08})}, pages 885--890, Munich, Germany, March 10--14 2008.
-  European Design and Automation Association, European Design and Automation
-  Association.
+Ming Li and Paul Vit{\'{a}}nyi.
+\newblock {\em An Introduction to {Kolmogorov} Complexity and Its
+  Applications}.
+\newblock Texts in Computer Science. Springer Science+Business Media, {LLC},
+  New York, {NY}, third edition, 2008.
 
 \bibitem{Liberman2015}
 Mark Liberman.
