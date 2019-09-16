@@ -9,7 +9,7 @@
 	Calculate the factorial of a number.
 
 	This script can be executed as follows:
-	./pa_1_prob_1.py [a number]
+	./get_factorial.py [a number]
 
 	Parameters:
 	[a number]:		A number that the user wants to determine the
@@ -83,7 +83,7 @@ class calculate_factorial:
 		Number to indicate that the factorial for the given input
 			does not exist.
 	"""
-	does_not_exist = -123
+	does_not_exist = -1234567890
 	# ============================================================
 	##	Method to process the optional input argument.
 	#	If the number is not provided, use the value of "default_number".
@@ -104,7 +104,29 @@ class calculate_factorial:
 		else:
 			calculate_factorial.number_to_compute = sys.argv[1]
 	# ============================================================
-	##	Method to determine the factorial of "number_to_compute".
+	##	Method to determine the factorial of "number_to_compute"
+	#		by recursion.
+	#	@param given_number - Number to determine the factorial of.
+	#	@return the factorial of given_number (if it is a non-negative
+	#		integer);
+	#		else, return 'None'.
+	#	O(n) method, where n is the number of test cases used.
+	@staticmethod
+	def get_factorial_recursion(given_number):
+		if isinstance(given_number, int):
+			if (0 == (given_number) or (1 == given_number)):
+				return 1
+			elif (0 > given_number):
+				warnings.warn("The factorial of a negative number cannot be determined.")
+				return None
+			else:
+				return given_number * calculate_factorial.get_factorial_recursion(given_number - 1)
+		else:
+			warnings.warn("The factorial of a non-integer cannot be determined.")
+			return None
+	# ============================================================
+	##	Method to determine the factorial of "number_to_compute"
+	#		by iteration.
 	#	@param given_number - Number to determine the factorial of.
 	#	@return the factorial of given_number (if it is a non-negative
 	#		integer);
@@ -119,7 +141,11 @@ class calculate_factorial:
 				warnings.warn("The factorial of a negative number cannot be determined.")
 				return None
 			else:
-				return given_number * calculate_factorial.get_factorial_iteration(given_number - 1)
+				result = 1
+				while (1 < given_number):
+					result = result * given_number
+					given_number = given_number - 1
+				return result
 		else:
 			warnings.warn("The factorial of a non-integer cannot be determined.")
 			return None
