@@ -110,3 +110,12 @@ with open(filename, "r") as f_obj:
 			print("		found i_certify_statement with stripped whitespace during iteration")
 		if line.rstrip() == aggie_honor_promise:
 			print("		found aggie_honor_promise with stripped whitespace during iteration")
+	print("> Check if find substring approach works.")
+	"""
+		Use find substrings approach to check if the document has
+			the i_certify_statement and aggie_honor_promise.
+	"""
+	if any(i_certify_statement in s for s in list_of_lines):
+		print("= Found: i_certify_statement.")
+	if any(aggie_honor_promise in s for s in list_of_lines):
+		print("= Found: aggie_honor_promise.")
