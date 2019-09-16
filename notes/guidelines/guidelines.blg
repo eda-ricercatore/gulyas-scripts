@@ -2,7 +2,7 @@ This is BibTeX, Version 0.99d (TeX Live 2019)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: guidelines.aux
 The style file: plain.bst
-Reallocated field_info (elt_size=4) to 12774 items from 5000.
+Reallocated field_info (elt_size=4) to 12912 items from 5000.
 Database file #1: /Users/zhiyang/Documents/ricerca/saag-bibtex/references.bib
 Reallocated buffer (elt_size=1) to 40000 items from 20000.
 Reallocated sv_buffer (elt_size=1) to 40000 items from 20000.
@@ -17,44 +17,44 @@ Reallocated out_buf (elt_size=1) to 60000 items from 40000.
 Reallocated name_tok (elt_size=4) to 60000 items from 40000.
 Reallocated name_sep_char (elt_size=1) to 60000 items from 40000.
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
-You've used 338 entries,
+You've used 344 entries,
             2118 wiz_defined-function locations,
-            2400 strings with 76424 characters,
-and the built_in function-call counts, 90087 in all, are:
-= -- 8617
-> -- 4342
+            2433 strings with 78434 characters,
+and the built_in function-call counts, 91868 in all, are:
+= -- 8774
+> -- 4469
 < -- 22
-+ -- 1779
-- -- 1410
-* -- 5135
-:= -- 15707
-add.period$ -- 1089
-call.type$ -- 338
-change.case$ -- 1583
++ -- 1829
+- -- 1454
+* -- 5250
+:= -- 16013
+add.period$ -- 1107
+call.type$ -- 344
+change.case$ -- 1623
 chr.to.int$ -- 0
-cite$ -- 338
-duplicate$ -- 3591
-empty$ -- 7557
-format.name$ -- 1410
-if$ -- 19001
+cite$ -- 344
+duplicate$ -- 3633
+empty$ -- 7689
+format.name$ -- 1454
+if$ -- 19367
 int.to.chr$ -- 0
-int.to.str$ -- 338
+int.to.str$ -- 344
 missing$ -- 386
-newline$ -- 1693
-num.names$ -- 676
-pop$ -- 2397
+newline$ -- 1723
+num.names$ -- 688
+pop$ -- 2461
 preamble$ -- 1
-purify$ -- 1381
+purify$ -- 1415
 quote$ -- 0
-skip$ -- 2357
+skip$ -- 2401
 stack$ -- 0
-substring$ -- 2601
-swap$ -- 447
+substring$ -- 2631
+swap$ -- 453
 text.length$ -- 22
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1008
+type$ -- 1032
 warning$ -- 0
-while$ -- 754
-width$ -- 341
-write$ -- 3766
+while$ -- 766
+width$ -- 347
+write$ -- 3826

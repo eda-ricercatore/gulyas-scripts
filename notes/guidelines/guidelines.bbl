@@ -430,6 +430,15 @@ Lawrence Corr and Jim Stagnitto.
 \newblock {DecisionOne Press}, Leeds, West Yorkshire, Yorkshire and the Humber,
   England, {U.K.}, 2011.
 
+\bibitem{Costan2019}
+Victor Costan, Titus Winters, Ted Osborne, Wei Zhang, Tom Manshreck, Stephen
+  Hicks, Mark Mentovai, Geoff Romer, frp, Alan Yee, and Ackermann Yuriy.
+\newblock {Google C++} style guide.
+\newblock Available online from {\it GitHub: Google: styleguide} at:
+  \url{https://google.github.io/styleguide/cppguide.html} and
+  \url{https://github.com/google/styleguide/blob/gh-pages/cppguide.html};
+  September 17, 2019 was the last accessed date, September 5 2018.
+
 \bibitem{Coverity2012}
 Coverity.
 \newblock Coverity scan: 2012 open source report.
@@ -798,6 +807,14 @@ Luis Gon{\c{c}}alves and Ben Linders.
 \newblock Available online from {\it Google: Google AI} at:
   \url{https://colab.research.google.com/}; February 13, 2019 was the last
   accessed date, 2019.
+
+\bibitem{GoogleStyleguideContributors2019}
+{Google styleguide contributors}.
+\newblock styleguide: {Google} style guides.
+\newblock Available online from {\it GitHub: Google} at:
+  \url{http://google.github.io/styleguide/} and
+  \url{https://github.com/google/styleguide}; September 17, 2019 was the last
+  accessed date, September 10 2019.
 
 \bibitem{Gotterbarn2018a}
 Don Gotterbarn, Bo~Brinkman, Catherine Flick, Michael~S. Kirkpatrick, Keith
@@ -1559,6 +1576,30 @@ Andy Oram and Greg Wilson.
 \newblock {\em Making Software: What Really Works, and Why We Believe It}.
 \newblock Theory in Practice. O'Reilly Media, Sebastopol, {CA}, 2011.
 
+\bibitem{Osborne2018b}
+Ted Osborne and Salas {leVirve}.
+\newblock {Google Python} style guide.
+\newblock Available online from {\it GitHub: Google: styleguide} at:
+  \url{http://google.github.io/styleguide/pyguide.html} and
+  \url{https://github.com/google/styleguide/blob/gh-pages/pyguide.md};
+  September 17, 2019 was the last accessed date, December 5 2018.
+
+\bibitem{Osborne2018}
+Ted Osborne and Nodir Turakulov.
+\newblock Philosophy.
+\newblock Available online from {\it GitHub: Google: styleguide: Google
+  documentation guide} at:
+  \url{https://github.com/google/styleguide/blob/gh-pages/docguide/philosophy.md};
+  September 17, 2019 was the last accessed date, January 30 2018.
+
+\bibitem{Osborne2018a}
+Ted Osborne, Nodir Turakulov, and Ackermann Yuriy.
+\newblock Documentation best practices.
+\newblock Available online from {\it GitHub: Google: styleguide: Google
+  documentation guide} at:
+  \url{https://github.com/google/styleguide/blob/gh-pages/docguide/best_practices.md};
+  September 17, 2019 was the last accessed date, January 30 2018.
+
 \bibitem{OSullivan2009}
 Bryan O'Sullivan.
 \newblock {\em Mercurial: The Definitive Guide}.
@@ -2016,6 +2057,14 @@ Adam Tornhill.
 \newblock {\em Software Design {X-Rays}: Fix Technical Debt with Behavioral
   Code Analysis}.
 \newblock The Pragmatic Programmers, Raleigh, {NC}, 2018.
+
+\bibitem{Turakulov2018}
+Nodir Turakulov, Ted Osborne, and Ackermann Yuriy.
+\newblock {Markdown} style guide.
+\newblock Available online from {\it GitHub: Google: styleguide: Google
+  documentation guide} at:
+  \url{https://github.com/google/styleguide/blob/gh-pages/docguide/style.md};
+  September 17, 2019 was the last accessed date, January 30 2018.
 
 \bibitem{Turnquist2011}
 Greg~L. Turnquist.

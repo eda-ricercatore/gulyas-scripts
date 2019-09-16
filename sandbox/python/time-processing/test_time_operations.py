@@ -8,11 +8,11 @@ from datetime import date, datetime
 
 #utctimestamp = datetime.utcfromtimestamp()
 utctimestamp = date.fromtimestamp(time.time())
-print("1) current time is:",utctimestamp,"=")
+print("1) current time, date.fromtimestamp(time.time(), is:",utctimestamp,"=")
 #utctimestamp = datetime.utcfromtimestamp(time.time())
 #print("current time is:",utctimestamp,"=")
 utctimestamp = time.time()
-print("2) current time is:",utctimestamp,"=")
+print("2) current time, time.time(), is:",utctimestamp,"=")
 #utctimestamp = datetime.utcnow()
 #utctimestamp = datetime.now()
 """
@@ -24,7 +24,7 @@ print("4) current time is:",utctimestamp,"=")
 
 current_milli_time = lambda: int(round(time.time() * 1000))
 current_timestamp = current_milli_time()
-print("5) current time is:",current_timestamp,"=")
+print("5) current time, int(round(time.time() * 1000)), is:",current_timestamp,"=")
 
 
 """
@@ -32,8 +32,8 @@ print("5) current time is:",current_timestamp,"=")
 		Use time.time() to measure time in seconds.
 """
 utctimestamp = time.time()
-print("current time is:",utctimestamp,"=")
+print("current time, time.time(), is:",utctimestamp,"=")
 current_date = date.fromtimestamp(utctimestamp)
-print("current date is:",current_date,"=")
+print("current date, date.fromtimestamp(time.time()), is:",current_date,"=")
 current_date_time = datetime.fromtimestamp(utctimestamp)
-print("current date is:",current_date_time,"=")
+print("current date, datetime.fromtimestamp(time.time()), is:",current_date_time,"=")
