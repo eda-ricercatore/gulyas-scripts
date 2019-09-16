@@ -45,15 +45,22 @@ print("current date, datetime.utcfromtimestamp(time.time()), is:",current_date_t
 current_date_time = datetime.now()
 current_date_time = current_date_time.replace(tzinfo=timezone.utc)
 print("current date, datetime.now().replace(tzinfo=timezone.utc), is:",current_date_time,"=")
-
-
+#utctimestamp = time.gmtime()
+#print("current time, time.gmtime(), is:",utctimestamp,"=")
 
 """
 	Remarks/Comments:
 	
-	"Unix time (also known as Epoch time,[1][2][3] POSIX time,[4] seconds since the Epoch,[5] or UNIX Epoch time[6]) is a system for describing a point in time."
+	Unix time (also known as Epoch time,[1][2][3] POSIX time,[4] seconds since the Epoch,[5] or UNIX Epoch time[6]) is a system for describing a point in time.
 		References:
-			Wikipedia contributors, ``Unix time,'' in {\it Wikipedia, The Free Encyclopedia: Calendaring standards}, Wikimedia Foundation, San Francisco, CA, September 15, 2019. Available online from {\it Wikipedia, The Free Encyclopedia: Calendaring standards} at: \url{https://en.wikipedia.org/wiki/Unix_time}; last accessed on September 16, 2019.
-			\cite{DrakeJr2016b}
+			Wikipedia contributors, ``Unix time,'' in *Wikipedia, The Free Encyclopedia: Calendaring standards*, Wikimedia Foundation, San Francisco, CA, September 15, 2019. Available online from *Wikipedia, The Free Encyclopedia: Calendaring standards* at: *https://en.wikipedia.org/wiki/Unix_time; last accessed on September 16, 2019.
+			\cite[time — Time access and conversions]{DrakeJr2016b}
 				https://docs.python.org/3/library/time.html#time.time
+
+	Hence, using the time.time() method to obtain the timestamp will
+		provide the timestamp in UTC time zone.
+	
+	Hence, use time.time() to record the timestamp in UTC time zone,
+		and avoid confusion between time zones on projects with
+		geographically distributed contributors/collaborators.
 """
