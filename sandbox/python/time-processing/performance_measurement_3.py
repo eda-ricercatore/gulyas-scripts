@@ -13,31 +13,6 @@
 
 
 
-
-
-	Notes:
-		"Using time.time to measure execution gives you the overall execution time of your commands including running time spent by other processes on your computer. It is the time the user notices, but is not good if you want to compare different code snippets / algorithms / functions / ..."
-		https://stackoverflow.com/a/7370883/1531728
-
-
-
-	Alternatives:
-		https://stackoverflow.com/a/45178581/1531728
-			import profile
-			profile.run('main()')
-		https://stackoverflow.com/a/56591404/1531728
-			use snakeviz for performance profiling.
-
-
-
-
-	Reference:
-		https://stackoverflow.com/questions/7370801/measure-time-elapsed-in-python
-		gilbert8 and Acumenus, "Measure time elapsed in Python," Stack Exchange Inc., New York, NY, September 14, 2019. Available online from {\it Stack Exchange Inc.: Stack Overflow: Questions} at: \url{https://stackoverflow.com/questions/7370801/measure-time-elapsed-in-python} and \url{https://stackoverflow.com/q/7370801/1531728}; September 17, 2019 was the last accessed date.
-
-
-
-
 	Revision History:
 	September 6, 2019			Version 0.1	Script.
 """
@@ -78,8 +53,10 @@ __date__ = 'September 6, 2019'
 	time	To obtain information about the current time.
 	warnings	Provide warnings to users without terminating the
 					program abruptly.
-	timeit		To measure current time, get timestamp, and
-					determine the elapsed time.
+	pt_timestamp
+				To determine the time stamp using the process
+					time method, which is platform independent in
+					Python 3.x.
 """
 
 import sys
@@ -93,8 +70,11 @@ import re
 import datetime
 import time
 import warnings
-import timeit
-
+# ImportError: cannot import name 'perf_counter_ns'
+#from time import perf_counter as pc_timestamp
+#from time import perf_counter_ns as pc_timestamp
+#from time import process_time_ns as pt_timestamp
+from time import process_time as pt_timestamp
 
 ###############################################################
 #	Import Custom Python Packages and Modules
@@ -119,7 +99,7 @@ class execution_time_measurement:
 	#	O(1) method.
 	@staticmethod
 	def set_initial_timestamp():
-		execution_time_measurement.initial_timestamp = timeit.timeit()
+		execution_time_measurement.initial_timestamp = pt_timestamp()
 	# ============================================================
 	##	Method to get the initial timestamp.
 	#	@return the initial timestamp.
@@ -134,7 +114,7 @@ class execution_time_measurement:
 	#	O(1) method. 
 	@staticmethod
 	def get_elapsed_time():
-		current_timestamp = timeit.timeit()
+		current_timestamp = pt_timestamp()
 		return (current_timestamp - execution_time_measurement.initial_timestamp)
 
 
@@ -160,3 +140,4 @@ if __name__ == "__main__":
 	"""
 		The timeit.timeit() method can result in negative elapsed time.
 	"""	
+	print("time.perf_counter_ns():",time.perf_counter_ns(),"=")

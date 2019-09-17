@@ -16,6 +16,12 @@ Execute the following commands in *Terminal* application of a UNIX-like operatin
 As of May 14, 2019, arvo (U.S. PDT), I cannot successfully run the command *conda update anaconda*.
 
 
+##	Python Interpreters
+
+From https://docs.python.org/3/using/mac.html:
++ *Apple*-provided build of *Python*, or default *Apple* version: 
++ *MacPython*: /usr/local/bin/python3
+
 
 
 #	VLSI CAD Tool Flow
