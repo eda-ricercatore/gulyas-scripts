@@ -1,4 +1,5 @@
-#!/Users/zhiyang/anaconda3/bin/python3
+#!/usr/local/bin/python3
+###!/Users/zhiyang/anaconda3/bin/python3
 
 """
 	This Python script is written by Zhiyang Ong to measure the
@@ -73,8 +74,8 @@ import warnings
 # ImportError: cannot import name 'perf_counter_ns'
 #from time import perf_counter as pc_timestamp
 #from time import perf_counter_ns as pc_timestamp
-#from time import process_time_ns as pt_timestamp
-from time import process_time as pt_timestamp
+from time import process_time_ns as pt_timestamp
+#from time import process_time as pt_timestamp
 
 ###############################################################
 #	Import Custom Python Packages and Modules
@@ -141,3 +142,4 @@ if __name__ == "__main__":
 		The timeit.timeit() method can result in negative elapsed time.
 	"""	
 	print("time.perf_counter_ns():",time.perf_counter_ns(),"=")
+	print("time.process_time_ns():",time.process_time_ns(),"=")
