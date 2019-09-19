@@ -4,6 +4,10 @@
 	This Python script is written by Zhiyang Ong to calculate
 		the factorial of a number.
 
+	The results for this script are compared to the table of
+		factorials in \cite{Pierce2019}, and validated/verified
+		for factorials from 0.
+	This script 
 
 	Synopsis:
 	Calculate the factorial of a number.
@@ -18,6 +22,12 @@
 
 	Revision History:
 	September 6, 2019			Version 0.1	Script.
+
+	References:
+		[Pierce2019]
+			Rod Pierce, "Factorial Function," from Maths Is Fun, 2019. Available online from "Maths Is Fun: Numbers" at: https://www.mathsisfun.com/numbers/factorial.html; September 19, 2019 is the last access date.
+				[No address]
+				https://www.mathsisfun.com/citation.php
 """
 
 __author__ = 'Zhiyang Ong'
@@ -121,6 +131,9 @@ class calculate_factorial:
 				return None
 			else:
 				return given_number * calculate_factorial.get_factorial_recursion(given_number - 1)
+		elif isinstance(given_number, float):
+			warnings.warn("The factorial of a floating-point number cannot be determined.")
+			return None
 		else:
 			warnings.warn("The factorial of a non-integer cannot be determined.")
 			return None
@@ -146,6 +159,9 @@ class calculate_factorial:
 					result = result * given_number
 					given_number = given_number - 1
 				return result
+		elif isinstance(given_number, float):
+			warnings.warn("The factorial of a floating-point number cannot be determined.")
+			return None
 		else:
 			warnings.warn("The factorial of a non-integer cannot be determined.")
 			return None
@@ -163,9 +179,24 @@ if __name__ == "__main__":
 	# Change process_optional_input_argument() to accept no input.
 	calculate_factorial.process_optional_input_argument()
 	#print("get_factorial_iteration() for default value of 10:",calculate_factorial.get_factorial_iteration(4),"=")
+	print("=	Test the factorial computation method using iteration.")
 	print("get_factorial_iteration(4):",calculate_factorial.get_factorial_iteration(4),"=")
 	# ValueError: invalid literal for int() with base 10: 'my string'
 	print("get_factorial_iteration('my string'):",calculate_factorial.get_factorial_iteration("my string"),"=")
 	print("get_factorial_iteration(125.23429):",calculate_factorial.get_factorial_iteration(125.23429),"=")
 	print("get_factorial_iteration(None):",calculate_factorial.get_factorial_iteration(None),"=")
+	print("get_factorial_iteration(-345):",calculate_factorial.get_factorial_iteration(-345),"=")
+	"""
+		Add whitespace before testing the factorial computation
+			method using recursion.
+	"""
+	print("\n\n")
+	#print("")
+	print("=	Test the factorial computation method using recursion.")
+	print("get_factorial_recursion(4):",calculate_factorial.get_factorial_recursion(4),"=")
+	# ValueError: invalid literal for int() with base 10: 'my string'
+	print("get_factorial_recursion('my string'):",calculate_factorial.get_factorial_recursion("my string"),"=")
+	print("get_factorial_recursion(125.23429):",calculate_factorial.get_factorial_recursion(125.23429),"=")
+	print("get_factorial_recursion(None):",calculate_factorial.get_factorial_recursion(None),"=")
+	print("get_factorial_recursion(-345):",calculate_factorial.get_factorial_recursion(-345),"=")
 	
