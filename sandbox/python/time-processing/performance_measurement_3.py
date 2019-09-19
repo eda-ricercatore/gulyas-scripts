@@ -143,3 +143,6 @@ if __name__ == "__main__":
 	"""	
 	print("time.perf_counter_ns():",time.perf_counter_ns(),"=")
 	print("time.process_time_ns():",time.process_time_ns(),"=")
+
+
+
