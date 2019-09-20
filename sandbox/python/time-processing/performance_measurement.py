@@ -60,12 +60,12 @@ __date__ = 'September 6, 2019'
 				To determine the time stamp using the process
 					time method, which is platform independent in
 					Python 3.x, and its alternative providing
-					nanosecond precision.
+					nanosecond accuracy.
 	perf_counter (& perf_counter_ns)
 				To determine the time stamp using the process
 					time method, which is platform independent in
 					Python 3.x, and its alternative providing
-					nanosecond precision.
+					nanosecond accuracy.
 """
 
 import sys
@@ -80,10 +80,10 @@ import datetime
 import time
 import warnings
 # ImportError: cannot import name 'perf_counter_ns'
-#from time import perf_counter as pc_timestamp
-#from time import perf_counter_ns as pc_timestamp
-from time import process_time_ns as pt_timestamp
-#from time import process_time as pt_timestamp
+from time import perf_counter as pc_timestamp
+from time import perf_counter_ns as pc_timestamp_ns
+from time import process_time as pt_timestamp
+from time import process_time_ns as pt_timestamp_ns
 
 ###############################################################
 #	Import Custom Python Packages and Modules
