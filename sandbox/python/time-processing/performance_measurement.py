@@ -99,7 +99,7 @@ from get_factorial import calculate_factorial
 """
 class execution_time_measurement:
 	# Invalid timestamp.
-	invalid_timestamp = -1234567890
+	invalid_timestamp = -123456789012345678901234567890
 	# Initial timestamp.
 	initial_timestamp = invalid_timestamp
 	# ============================================================
