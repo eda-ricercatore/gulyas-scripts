@@ -1,4 +1,5 @@
-#!/Users/zhiyang/anaconda3/bin/python3
+#!/usr/local/bin/python3
+###	#!/Users/zhiyang/anaconda3/bin/python3
 
 import time
 #from datetime import date
@@ -14,6 +15,8 @@ print("1) current time, date.fromtimestamp(time.time(), is:",utctimestamp,"=")
 #print("current time is:",utctimestamp,"=")
 utctimestamp = time.time()
 print("2) current time, time.time(), is:",utctimestamp,"=")
+utctimestamp = time.time_ns()
+print("2a) current time, time.time_ns(), is:",utctimestamp,"=")
 #utctimestamp = datetime.utcnow()
 #utctimestamp = datetime.now()
 """
