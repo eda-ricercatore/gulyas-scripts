@@ -53,7 +53,9 @@ __date__ = 'September 6, 2019'
 	pathlib->Path
 				For mapping a string to a path.
 	datetime	To obtain information about the current date and time.
-	time	To obtain information about the current time.
+	time		To obtain information about the current time.
+				time_ns version provides information about the
+					current time with nanosecond accuracy.
 	warnings	Provide warnings to users without terminating the
 					program abruptly.
 	process_time (& process_time_ns)
