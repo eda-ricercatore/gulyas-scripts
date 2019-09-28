@@ -68,6 +68,10 @@ __date__ = 'September 6, 2019'
 					time method, which is platform independent in
 					Python 3.x, and its alternative providing
 					nanosecond accuracy.
+	monotonic (& pm_monotonic_ns)
+				To monotonically obtain time stamps, for performance
+					measurement, and its alternative providing
+					nanosecond accuracy. 
 """
 
 import sys
@@ -108,6 +112,12 @@ class execution_time_measurement:
 	type_of_timestamp_wanted = ("perf_counter","perf_counter_ns","process_time","process_time_ns","time","monotonic","monotonic_ns")
 	# ============================================================
 	##	Method to set the initial timestamp.
+	#	
+	#	Use techniques for measuring performance (i.e., user
+	#		execution time) and timestamps.
+	#	
+	#
+	#
 	#	@param type_timestamp - Indicates if either of the following
 	#				methods of performance measurement is preferred.
 	#				* perf_counter, perf_counter(): pc_timestamp()
