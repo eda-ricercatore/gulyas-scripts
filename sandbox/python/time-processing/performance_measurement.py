@@ -110,7 +110,7 @@ class execution_time_measurement:
 	# Initial timestamp.
 	initial_timestamp = invalid_timestamp
 	# Types of performance measurement technique available.
-	types_of_performance_measurement_technique = ("perf_counter","perf_counter_ns","process_time","process_time_ns","time","monotonic","monotonic_ns")
+	types_of_performance_measurement_technique = ("perf_counter","perf_counter_ns","process_time","process_time_ns","time","time_ns","monotonic","monotonic_ns")
 	# ============================================================
 	##	Method to set the initial timestamp.
 	#	
@@ -144,25 +144,28 @@ class execution_time_measurement:
 				* monotonic_ns, monotonic_ns(): pm_monotonic_ns()
 		"""
 		if ("perf_counter" == type_timestamp):
-			# Yes. Use perf_counter_ns to measure performance/time. 
+			# Yes. Use perf_counter() to measure performance/time. 
 			execution_time_measurement.initial_timestamp = pc_timestamp()
 		elif ("perf_counter_ns" == type_timestamp):
-			# Yes. Use perf_counter_ns to measure performance/time. 
+			# Yes. Use perf_counter_ns() to measure performance/time. 
 			execution_time_measurement.initial_timestamp = pc_timestamp_ns()
 		elif ("process_time" == type_timestamp):
-			# Yes. Use perf_counter_ns to measure performance/time. 
+			# Yes. Use process_time() to measure performance/time. 
 			execution_time_measurement.initial_timestamp = pt_timestamp()
 		elif ("process_time_ns" == type_timestamp):
-			# Yes. Use perf_counter_ns to measure performance/time. 
+			# Yes. Use process_time_ns() to measure performance/time. 
 			execution_time_measurement.initial_timestamp = pt_timestamp_ns()
+		elif ("time" == type_timestamp):
+			# Yes. Use time() to measure performance/time. 
+			execution_time_measurement.initial_timestamp = time.time()
 		elif ("time_ns" == type_timestamp):
-			# Yes. Use perf_counter_ns to measure performance/time. 
+			# Yes. Use time_ns() to measure performance/time. 
 			execution_time_measurement.initial_timestamp = t_ns()
 		elif ("monotonic" == type_timestamp):
-			# Yes. Use perf_counter_ns to measure performance/time. 
+			# Yes. Use monotonic() to measure performance/time. 
 			execution_time_measurement.initial_timestamp = pm_monotonic()
 		else:
-			# The default option is: "monotonic_ns"
+			# The default option is: "monotonic_ns()"
 			execution_time_measurement.initial_timestamp = pm_monotonic_ns()
 	# ============================================================
 	##	Method to get the initial timestamp.
@@ -211,6 +214,9 @@ class execution_time_measurement:
 			# Yes. Use process_time_ns() to measure performance/time. 
 			current_timestamp = pt_timestamp_ns()
 		elif ("time" == type_timestamp):
+			# Yes. Use time.time() to measure performance/time. 
+			current_timestamp = time.time()
+		elif ("time_ns" == type_timestamp):
 			# Yes. Use time.time_ns() to measure performance/time. 
 			current_timestamp = t_ns()
 		elif ("monotonic" == type_timestamp):
@@ -245,7 +251,7 @@ class execution_time_measurement:
 			Create a file to store experimental data of measuring
 				the performance of recursive and iterative methods.
 		"""
-		with open("compare_different_methods_to_measure_elapsed_periods.csv","w+") as op_f_obj:
+		with open("compare_different_methods_to_measure_elapsed_periods.csv","a+") as op_f_obj:
 			for perf_measurement_technique in execution_time_measurement.types_of_performance_measurement_technique:
 				print("The technique used is:",perf_measurement_technique,"=")
 				"""
@@ -262,7 +268,7 @@ class execution_time_measurement:
 						numbers via recursion.
 				"""
 				elapsed_time_recursion = execution_time_measurement.get_elapsed_time(perf_measurement_technique)
-				print("= elapsed time:",elapsed_time,"=")
+				print("= elapsed_time_recursion:",elapsed_time_recursion,"=")
 				"""
 					Set the initial timestamp for calculating the
 						factorial of numbers via iteration.
@@ -277,13 +283,13 @@ class execution_time_measurement:
 						numbers via iteration.
 				"""
 				elapsed_time_iteration = execution_time_measurement.get_elapsed_time(perf_measurement_technique)
-				print("= elapsed time:",elapsed_time,"=")
+				print("= elapsed_time_iteration:",elapsed_time_iteration,"=")
 				"""
 					The timeit.timeit() method can result in negative elapsed time.
 				"""	
-			text = perf_measurement_technique + "," + elapsed_time_recursion + "," + elapsed_time_iteration
-			op_f_obj.write(text)
-	
+				text = perf_measurement_technique + "," + str(elapsed_time_recursion) + "," + str(elapsed_time_iteration) + "\n"
+				op_f_obj.write(text)
+				#op_f_obj.write("\n")
 
 
 ###############################################################
