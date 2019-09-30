@@ -4489,10 +4489,46 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- User interface and rapid prototyping experience
 	- Understanding of computer vision algorithms, spatial mapping, shaders
 	- Possess new technology curiosity and a history of self-technical education
-
-
-
-
++ skill set:
+	- Flume/Gobblin/Kinesis
+	- Develop ETL operations using Python, Spark, SqlServer, Redshift and Kafka.
+	- Develop the core tooling library to support Airflow data pipelines.
+	- Design and implement the testing framework for Airflow dags and write test cases.
+	- Monitor and debug data pipelines running on Airflow.
++ skill set:
+	- Experience with JVM tuning is a plus
+	- Experience with Apache Solr is a plus
++ skill set:
+	- Familiarity with Ansible, TeamCity
+	- Experience with BrowserStack; GraphQL, React, NodeJS
+	- Experience writing Splunk queries and tools like New Relic
++ GraphQL experience is a plus
++ skill set:
+	- Python 2.7, 3.7
+	- SQL Server, MySQL, Memcached, Solr, Ansible, Linux
+	- Kafka, RabbitMQ
+	- React, GraphQL
++ skill set:
+	- Architect, build, and operate AWS environments using infra-as-code best practices
+	- Define and implement standards around the utilization of AWS services
+	- Migrate on-premise services to AWS
+	- Help define AWS account structure, IAM, and AWS account security standards
+	- Collaborate with engineers to deploy, support, and monitor the application stacks
+	- Lead in the improvement of  the availability and scalability of our infrastructure
+	- Requirements:
+		* 3+ years of experience with AWS, including but not limited to heavy experience with IAM, VPC, EC2, ALB, S3, CloudWatch, Cloudfront, and Cloudformation
+		* Experience building well architected environments in AWS
+		* Demonstrable experience leveraging Configuration Management tooling such as Anisble, Cloudformation, Terraform, and proven strategies for maintaining large infrastructure-as-code deployments
+		* Systems Administration experience with Linux and/or Windows and the automation/scripting of operations within those OS environments
+		* Experience with container runtime environments, and container orchestration frameworks such as Docker or Kubernetes
+	- Experience with Python in either a software engineering or devops environment
+	- A solid understanding of network protocols and common services
+	- Experience and knowledge of Git and JIRA
+	- Experience with monitoring tools such as New Relic, Cloudwatch, or Datadog
++ skill set:
+	- In-depth, hands-on knowledge of JavaScript and experience working with the relevant tools/libraries (React, jQuery, Webpack, etc)
+	- Able to write efficient SQL queries and design schemas for relational databases
+	- Experience with Python and web frameworks (Pyramid, Django, Rails, etc)
 
 
 
