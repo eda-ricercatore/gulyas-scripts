@@ -292,13 +292,7 @@ List of conference "Call for Papers" deadlines:
 ## Hardware-centric, Verification, Automated Reasoning, & Compiler Design
 
 
-+ ICFP, International Conference on Functional Programming
-	- https://conf.researchr.org/home/icfp-2020
-	- https://icfp20.sigplan.org/track/icfp-2020-papers#Call-for-Papers
-	- http://www.icfpconference.org/contest.html
-	- Jersey City, NJ.
-	- August 23-28, 2020.
-	- Submission deadline: March 3, 2020.
+
 
 
 
@@ -611,7 +605,7 @@ List of conference "Call for Papers" deadlines:
 + DATE 2019, Design, Automation & Test in Europe Conference & Exhibition
 	- https://www.date-conference.com/call-for-papers
 	- Florence, Italy
-	- Submission deadline: ~~Sep 9, 2018~~.???
+	- Submission deadline: Sep 8, 2019.
 
 
 
@@ -625,25 +619,24 @@ List of conference "Call for Papers" deadlines:
 	- http://isscc.org/about-isscc/technical-committees/
 	- http://isscc.org/contact/
 	- San Francisco, CA.
- 	- Submission deadline: ~~Sep 9, 2019 (3 p.m., EDT).~~
+ 	- Submission deadline: Sep 9, 2019 (3 p.m., EDT).
 	- [Student Research Preview](http://isscc.org/isscc-call-for-papers/information-for-students/)
 
 
 
 
 
-+ ISQED 2020, International Symposium on Quality Electronic Design
-	- https://www.isqed.org/English/Conference/Call_for_Papers.html
-	- Santa Clara, CA.
-	- March 25-26, 2020
-	- Submission deadline: October 11, 2019.
 
 
-+ SAC2019, ACM/SIGAPP Symposium On Applied Computing
-	- https://www.sigapp.org/sac/sac2020/
-	- Brno, Czech Republic.
-	- March 30 - April 3, 2020.
-	- Submission deadline: September 29, 2019.
+
++ FPGA 2020, ACM/SIGDA International Symposium on Field-Programmable Gate Arrays
+	- http://isfpga.org
+	- February 23-25, 2020
+	- Seaside, California.
+	- Submission deadline: September 9, 2019.
+
+
+
 
 
 
@@ -662,10 +655,30 @@ List of conference "Call for Papers" deadlines:
 
 
 
- + SV-COMP, Competition on Software Verification
+
++ SV-COMP, Competition on Software Verification
 	- https://sv-comp.sosy-lab.org/2019/dates.php
 	- https://sv-comp.sosy-lab.org/2019/
 	- Contest deadlines: Beginning in late September.
+
+
+
+
+
+
++ SAC2019, ACM/SIGAPP Symposium On Applied Computing
+	- https://www.sigapp.org/sac/sac2020/
+	- Brno, Czech Republic.
+	- March 30 - April 3, 2020.
+	- Submission deadline: September 29, 2019.
+
+
+
+
+
+
+
+
 
 
 
@@ -674,7 +687,7 @@ List of conference "Call for Papers" deadlines:
 	- https://www.ispass.org/ispass2020/
 	- Boston, MA.
 	- April 5-7, 2020.
-	- Submission deadline: October 3 and 10, 2020.
+	- Submission deadline: October 3 and 10, 2019.
 
 
 
@@ -687,11 +700,7 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ FPGA 2020, ACM/SIGDA International Symposium on Field-Programmable Gate Arrays
-	- http://isfpga.org
-	- February 23-25, 2019
-	- Seaside, California.
-	- CFP deadline: September 9, 2018
+
 
 
 
@@ -709,28 +718,35 @@ List of conference "Call for Papers" deadlines:
 
 + ISPD 2019, International Symposium on Physical Design
 	- http://www.ispd.cc
-	- San Francisco Bay Area, CA.
-	- Submission deadline: October 1 and 8, 2018.
+	- March 29 - April 1, 2020.
+	- Taipei, Taiwan.
+	- Submission deadline: October 3 and 7, 2019.
 
 + VTS 2019, IEEE VLSI Test Symposium
-	- http://tttc-vts.org/public_html/new/2019/
-	- Monterey, CA.
-	- Submission deadline: Oct 5, 2018.
+	- http://tttc-vts.org/public_html/new/2020/
+	- San Diego, CA.
+	- April 5-8, 2020.
+	- Submission deadline: Oct 4 and 11, 2019.
 
 
 
 
 + IPDPS, IEEE International Parallel and Distributed Processing Symposium
 	- http://www.ipdps.org/ipdps2019/2019-call-for-papers.html
-	- May 20-24, 2019.
-	- Rio de Janeiro, Brazil.
-	- Submission deadline: October 8 and 15, 2018.
+	- May 18-22, 2020.
+	- New Orleans, Louisiana.
+	- Submission deadline: October 7 and 14, 2019.
 
 
 
 
 
 
++ ISQED 2020, International Symposium on Quality Electronic Design
+	- https://www.isqed.org/English/Conference/Call_for_Papers.html
+	- Santa Clara, CA.
+	- March 25-26, 2020
+	- Submission deadline: October 11, 2019.
 
 
 
@@ -1367,7 +1383,13 @@ List of conference "Call for Papers" deadlines:
 
 
 
-
++ ICFP, International Conference on Functional Programming
+	- https://conf.researchr.org/home/icfp-2020
+	- https://icfp20.sigplan.org/track/icfp-2020-papers#Call-for-Papers
+	- http://www.icfpconference.org/contest.html
+	- Jersey City, NJ.
+	- August 23-28, 2020.
+	- Submission deadline: March 3, 2020.
 
 
 
