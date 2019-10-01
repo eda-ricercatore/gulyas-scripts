@@ -236,6 +236,7 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 
 
 
++ [ISPASS](https://www.ispass.org/ispass2020/): October 3 and 10, 2020.
 + [ISQED](https://www.isqed.org/English/Conference/Call_for_Papers.html): Submission deadline: October 11, 2019.
 + ***[CVPR](http://cvpr2020.thecvf.com/submission/main-conference/author-guidelines#call-for-papers): November 15, 2019, 23:59 PST.***
 + ***[ICML](https://icml.cc/Conferences/2020/CallForPapers): Submission deadline: January 31 and February 7, 2020.***
@@ -652,11 +653,11 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ MTV17, International Workshop on Microprocessor/SoC Test, Security & Verification
++ MTV19, International Workshop on Microprocessor/SoC Test, Security & Verification
 	- http://mtvcon.org/paper-submission/
 	- http://mtvcon.org/call-for-papers/MTV2019_CFP.pdf
-	- Austin, TX
-	- Submission deadline: September 15, 2019.
+	- Austin, TX.
+	- Submission deadline: ~~September 15, 2019.~~ September 29, 2019.
 
 
 
@@ -670,10 +671,10 @@ List of conference "Call for Papers" deadlines:
 
 
 + ISPASS, IEEE International Symposium on Performance Analysis of Systems and Software
-	- https://www.ispass.org/ispass2019/
-	- Madison, WI.
-	- March 24-26, 2019.
-	- Submission deadline: September 28 and October 6, 2018.
+	- https://www.ispass.org/ispass2020/
+	- Boston, MA.
+	- April 5-7, 2020.
+	- Submission deadline: October 3 and 10, 2020.
 
 
 
@@ -686,11 +687,11 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ FPGA 2019, ACM/SIGDA International Symposium on Field-Programmable Gate Arrays
++ FPGA 2020, ACM/SIGDA International Symposium on Field-Programmable Gate Arrays
 	- http://isfpga.org
-	- February 24-26, 2019
+	- February 23-25, 2019
 	- Seaside, California.
-	- CFP deadline: October 1 (delayed), 2018
+	- CFP deadline: September 9, 2018
 
 
 
