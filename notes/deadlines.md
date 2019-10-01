@@ -149,10 +149,10 @@ Transparency
 	- URL
 	- VENUE
 	- DATE
-+ NeurIPS (formerly NIPS), Annual Conference on Neural Information Processing Systems (NeurIPS 2019)
++ NeurIPS (formerly NIPS), Annual Conference on Neural Information Processing Systems (NeurIPS 2020)
 	- https://nips.cc/
 	- Vancouver, Canada.
-	- Submission deadline: **May 16 and 23, 2019.**
+	- Submission deadline: ???**May 16 and 23, 2019.**???
 + PAMI ???
 	- Basically, this refers to PAMITC Sponsored Conferences, such as CVPR and ICCV.
 	- URL
@@ -164,14 +164,14 @@ Transparency
 	- September 16-20, 2019.
 	- Submission deadline: April 15 and 23, 2019.
 + SIGGRAPH, ACM special interest group on Computer GRAPHics and Interactive Techniques
-	- https://s2019.siggraph.org/
-	- Los Angeles, CA.
+	- https://s2020.siggraph.org/
+	- Washington, D.C..
 	- Submission deadlines:
-		* [Technical papers: January 13 and 14, 2019](https://s2019.siggraph.org/conference/programs-events/technical-papers/technical-papers-submissions/)
-		* [Emerging Technologies: February 12, 2019.](https://s2019.siggraph.org/conference/programs-events/emerging-technologies/emerging-technologies-submissions/)
+		* [Technical papers: January 22 and 24, 2020](https://s2020.siggraph.org/submissions/)
+		* [Emerging Technologies: February 12, 2019.](https://s2019.siggraph.org/conference/programs-events/emerging-technologies/emerging-technologies-submissions/) ***???Update this???***
 		* Art Papers:
-			+ Long Papers: 15 Jan 2019, 22:00 UTC
-			+ Short Papers 29 Jan 2019, 22:00 UTC
+			+ Long Papers: 14 Jan 2020, 22:00 UTC
+			+ Short Papers 23 Jan 2020, 22:00 UTC
 			+ ["The SIGGRAPH Art Papers program brings together communities of researchers and practitioners working at the intersections of art, design, humanities, science, and technology."](https://s2019.siggraph.org/conference/programs-events/art-papers/art-papers-submissions/)
 + SIGIR, ACM SIGIR Conference on Research and Development in Information Retrieval
 	- URL
@@ -179,36 +179,38 @@ Transparency
 	- Submission deadline: Late Jan, 2019.
 + SIGMOD, ACM Symposium on Principles of Database Systems (PODS)
 	- SIGMOD/PODS International Conference on Management of Data
-	- http://sigmod2019.org
-	- http://sigmod2019.org/sigmodcfp
-	- Amsterdam, The Netherlands
-	- Conference dates: June 30 - July 5, 2019.
-	- Submission deadline: Early/Mid- July, 2018 (submission cycle #1) and Late Oct or Early Nov, 2018 (submission cycle #2).
-	- Abstract submission deadlines: July 12 (Round 1), October 18 (Round 2)
-+ SysML Conference
-	- http://www.sysml.cc/
-	- March 31 - April 2, 2019
-	- Stanford, CA.
-	- Submission deadline: September 28, 2019.
+	- https://sigmod2020.org/
+	- https://sigmod2020.org/calls_papers_sigmod_research.shtml
+	- Portland, OR
+	- Conference dates: June 14 - 19, 2020.
+	- Submission deadline: July 9 and 16, 2019 (submission cycle \#1) and October 15 and 22, 2019 (submission cycle \#2).
++ SysML Conference, Systems and Machine Learning Conference
+	- https://systemsandml.org/
+	- March 2 - 4, 2020.
+	- Austin, TX.
+	- Submission deadline: September 9, 2019.
 + TACL, Transactions of the Association for Computational Linguistics
 	- https://www.transacl.org/ojs/index.php/tacl
 + TPAMI, IEEE Transactions on Pattern Analysis and Machine Intelligence
 + UAI 2020, Conference on Uncertainty in Artificial Intelligence
-	- http://auai.org/uai2019/cfp.php
-	- Tel Aviv, Israel.
+	- http://auai.org/uai2019/cfp.php ***\[Update URL\]***
+	- VENUE
 	- July 22-25, 2019.
-	- Submission deadlines: March 4 and 8, 2019.
+	- Submission deadlines: ***???March 4 and 8, 2019.???***
 + UIST, ACM Symposium on User Interface Software and Technology
 	- http://uist.acm.org/uist2019/
-	- Submission deadline: April 5, 2019.
+	- \[Update URL\]
+	- Submission deadline: April 5, 2019. ??? Update CFP deadline.???
 + WSDM, ACM International Conference on Web Search and Data Mining
+	- http://www.wsdm-conference.org
 	- http://www.wsdm-conference.org/2019/call-for-papers.php
-	- Melbourne, Australia
-	- Submission deadline: **August 8 and 15, 2018**.
+	- Houston, TX.
+	- Submission deadline: **??? August 8 and 15, 2018 ???**.
 + WWW, The Web Conference
-	- https://www2019.thewebconf.org
-	- San Francisco, CA.
-	- Submission deadline: Oct 29/Nov 5, 2018
+	- https://www2020.thewebconf.org
+	- https://www2020.thewebconf.org/call-for-contributions#papers
+	- Taipei, Taiwan.
+	- Submission deadline: Oct 7 and 14, 2019.
 
 
 
