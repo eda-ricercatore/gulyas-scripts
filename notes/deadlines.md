@@ -142,9 +142,11 @@ Transparency
 	- VENUE
 	- Submission deadline: Early/Mid- May, 2019.
 + LICS, ACM/IEEE Symposium on Logic in Computer Science (LICS)
-	- https://lics.siglog.org/lics19/
-	- Vancouver, Canada.
-	- Submission deadline: **January 4 and 11, 2019.**
+	- http://lics.siglog.org/lics20/
+	- http://lics.siglog.org/lics20/cfp.php
+	- Beijing, China.
+	- July 8-12, 2020.
+	- Submission deadline: **January 6 and 10, 2020.**
 + NAACL, North American Chapter of the Association for Computational Linguistics
 	- URL
 	- VENUE
@@ -201,6 +203,14 @@ Transparency
 	- http://uist.acm.org/uist2019/
 	- \[Update URL\]
 	- Submission deadline: April 5, 2019. ??? Update CFP deadline.???
++ WCCI, IEEE World Congress on Computational Intelligence (IEEE WCCI)
+	- https://wcci2020.org
+	- Conference dates: July 19-24, 2020.
+	- Submission deadline: January 15, 2020.
+	- Includes:
+		* International Joint Conference on Neural Networks (IJCNN)
+		* IEEE Congress on Evolutionary Computation (IEEE CEC)
+		* IEEE International Conference on Fuzzy Systems (FUZZ-IEEE)
 + WSDM, ACM International Conference on Web Search and Data Mining
 	- http://www.wsdm-conference.org
 	- http://www.wsdm-conference.org/2019/call-for-papers.php
@@ -225,12 +235,11 @@ Transparency
 MTFD: Meet The Final Deadline; and, apply for [research internships](https://github.com/christine-hu/summer-2019-internships).
 
 
-+ [ICCD, IEEE International Conference on Computer Design](https://www.iccd-conf.com/Home.html): June 21 and 28, 2019.
-+ [SPLASH 2019 PL Mentoring Workshop (PLMW)](https://2019.splashcon.org/track/splash-2019-PLMW): July 2019.
-+ [International Workshop on Highly Efficient Neural Processing (HENP)](http://cmalab.snu.ac.kr/HENP2019): August 31, 2019.
-+ *[AAAI Conference on Artificial Intelligence](https://aaai.org/Conferences/AAAI-20/): August/September 2019.*
-+ **CVPR: November 2019.**
-+ **IJCNN: December 2019.**
++ ***[CVPR](http://cvpr2020.thecvf.com/submission/main-conference/author-guidelines#call-for-papers): November 15, 2019, 23:59 PST.***
++ ***[ICML](https://icml.cc/Conferences/2020/CallForPapers): Submission deadline: January 31 and February 7, 2019.***
++ **[IJCNN/WCCI](https://wcci2020.org): December 2019.**
++ [ECCV](https://eccv2020.eu/important-dates/): Mid-March, 2020.
+
 
 **NOTE: Keep my attack plan updated.**
 
@@ -281,10 +290,12 @@ List of conference "Call for Papers" deadlines:
 
 
 + ICFP, International Conference on Functional Programming
-	- https://conf.researchr.org/home/icfp-2019
+	- https://conf.researchr.org/home/icfp-2020
+	- https://icfp20.sigplan.org/track/icfp-2020-papers#Call-for-Papers
 	- http://www.icfpconference.org/contest.html
-	- Berlin, Germany.
-	- Submission deadline: May 10, 2019.
+	- Jersey City, NJ.
+	- August 23-28, 2020.
+	- Submission deadline: March 3, 2020.
 
 
 
@@ -357,7 +368,7 @@ List of conference "Call for Papers" deadlines:
 	- Submission deadline: June 1, 2019.
 
 
-***Fix conference deadlines.***
+
 
 
 
