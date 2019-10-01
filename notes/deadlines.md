@@ -104,7 +104,7 @@ Transparency
 	- https://icml.cc/Conferences/2020/CallForPapers
 	- https://icml.cc/Conferences/2020/Dates
 	- Long Beach, CA.
-	- Submission deadline: **January 31 and February 7, 2019.**
+	- Submission deadline: **January 31 and February 7, 2020.**
 + ICPR, International Conference on Pattern Recognition
 	- https://www.micc.unifi.it/icpr2020/
 	- Venue: Milan, Italy.
@@ -235,9 +235,11 @@ Transparency
 MTFD: Meet The Final Deadline; and, apply for [research internships](https://github.com/christine-hu/summer-2019-internships).
 
 
+
++ [ISQED](https://www.isqed.org/English/Conference/Call_for_Papers.html): Submission deadline: October 11, 2019.
 + ***[CVPR](http://cvpr2020.thecvf.com/submission/main-conference/author-guidelines#call-for-papers): November 15, 2019, 23:59 PST.***
-+ ***[ICML](https://icml.cc/Conferences/2020/CallForPapers): Submission deadline: January 31 and February 7, 2019.***
-+ **[IJCNN/WCCI](https://wcci2020.org): December 2019.**
++ ***[ICML](https://icml.cc/Conferences/2020/CallForPapers): Submission deadline: January 31 and February 7, 2020.***
++ **[IJCNN/WCCI](https://wcci2020.org): January 15, 2020.**
 + [ECCV](https://eccv2020.eu/important-dates/): Mid-March, 2020.
 
 
@@ -515,6 +517,7 @@ List of conference "Call for Papers" deadlines:
 	- Lausanne, Switzerland.
 	- Submission deadline: August 9 and 16, 2019.
 	- ***Go to ASPLOS***
+	- ASPLOS is co-sponsored by SIGPLAN, SIGARCH, and SIGOPS
 
 
 
@@ -631,15 +634,15 @@ List of conference "Call for Papers" deadlines:
 + ISQED 2020, International Symposium on Quality Electronic Design
 	- https://www.isqed.org/English/Conference/Call_for_Papers.html
 	- Santa Clara, CA.
-	- March, 2020
-	- Submission deadline: September 14, 2019.
+	- March 25-26, 2020
+	- Submission deadline: October 11, 2019.
 
 
 + SAC2019, ACM/SIGAPP Symposium On Applied Computing
 	- https://www.sigapp.org/sac/sac2020/
 	- Brno, Czech Republic.
-	- March 30-April 3, 2020.
-	- Submission deadline: September 15, 2019.
+	- March 30 - April 3, 2020.
+	- Submission deadline: September 29, 2019.
 
 
 
@@ -1910,7 +1913,7 @@ List of conference "Call for Papers" deadlines:
 		* Proof Theory
 		* Term Rewriting Systems
 		* Type Theory and Logical Frameworks
-+ ACM Transactions on Computer Systems (TOCS)
++ ***ACM Transactions on Computer Systems (TOCS)***
 	- https://tocs.acm.org/scope.cfm
 	- ACM Transactions on Computer Systems (TOCS) presents research and development results on the design, implementation, analysis, evaluation, and use of computer systems and systems software. The term "computer systems" is interpreted broadly and includes operating systems, systems architecture and hardware, distributed systems, optimizing compilers, and the interaction between systems and computer networks. Articles appearing in TOCS will tend either to present new techniques and concepts, or to report on experiences and experiments with actual systems. Insights useful to system designers, builders, and users will be emphasized.
 		* Cloud systems
