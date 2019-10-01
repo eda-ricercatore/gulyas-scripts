@@ -236,7 +236,7 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 
 
 
-+ [ISPASS](https://www.ispass.org/ispass2020/): October 3 and 10, 2020.
++ [ISPASS](https://www.ispass.org/ispass2020/): October 3 and 10, 2019.
 + [ISQED](https://www.isqed.org/English/Conference/Call_for_Papers.html): Submission deadline: October 11, 2019.
 + ***[CVPR](http://cvpr2020.thecvf.com/submission/main-conference/author-guidelines#call-for-papers): November 15, 2019, 23:59 PST.***
 + ***[ICML](https://icml.cc/Conferences/2020/CallForPapers): Submission deadline: January 31 and February 7, 2020.***
@@ -752,28 +752,37 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ CPS-IoT Week, CPS & IoT Week
++ CPS-IoT Week, Cyber-Physical Systems and Internet-of-Things Week
 	+ http://cpsweek.org
-	+ Montréal, Canada.
-	+ April 16-18, 2019.
-+ HSCC 2019, ACM International Conference on Hybrid Systems: Computation and Control
-	- http://hscc2019.eecs.umich.edu
-	- Montreal, Canada
-	- Conference dates: April 16-18, 2019.
-	- Submission deadline: October 10 and 17, 2018.
+	+ Sydney, Australia.
+	+ April 21-24, 2020.
++ HSCC, ACM International Conference on Hybrid Systems: Computation and Control
+	- https://berkeleylearnverify.github.io/HSCC_2020/
+	- Submission deadline: October 23 (and 28), 2019.
 + ICCPS, ACM/IEEE International Conference on Cyber-Physical Systems
-	- http://iccps.acm.org and http://iccps.acm.org/2019/
-	- Submission deadline: October 17, 2018.
+	- http://iccps.acm.org and http://iccps.acm.org/2020/
+	- Submission deadline: October 23, 2019.
 + ISPN, International Conference on Information Processing in Sensor Networks
-	- http://ipsn.acm.org/2019/index.html
+	- http://ipsn.acm.org/2020/index.html
 	- http://ipsn.acm.org
-	- Submission deadline: October 10 and 17, 2018.
+	- Submission deadline: October 16 and 23, 2019.
 + RTAS, IEEE Real-Time and Embedded Technology and Applications Symposium
-	- http://2019.rtas.org
-	- Submission deadline: October 17, 2018.
-+ IOTDI 2019, ACM/IEEE Conference on Internet of Things Design and Implementation
-	- http://conferences.computer.org/iotDI/2019/
-	- Submission deadline: October 10 and 17, 2018.
+	- http://2020.rtas.org/
+	- Submission deadline: October 23, 2019.
++ IoTDI, ACM/IEEE Conference on Internet of Things Design and Implementation
+	- https://conferences.computer.org/iotDI/2020/
+	- Submission deadline: October 16 and 23, 2019.
++ ICFC, IEEE International Conference on Fog Computing
+	- https://sites.google.com/view/icfc2020/
+	- Submission deadline: October 16 and 23, 2019.
++ IC2E, IEEE International Conference on Cloud Engineering
+	- https://conferences.computer.org/IC2E/2020/
+	- Submission deadline: November 15 and 22, 2019.
+
+
+
+
+
 
 
 
