@@ -749,6 +749,30 @@ List of conference "Call for Papers" deadlines:
 	- Submission deadline: October 11, 2019.
 
 
++ SIGMETRICS 2020, ACM SIGMETRICS
+	- https://www.sigmetrics.org/sigmetrics2020/call_for_papers.html
+	- Boston, MA.
+	- June 8-12, 2020.
+	- Submission deadline (For Summer submissions): August 1 and 8, 2019.
+	- Submission deadline (For Fall submissions): October 14 and 21, 2019.
+	- Submission deadline (For Winter submissions): January 27 and February 3, 2020.
+
+
+
+
+
+
+
++ ISCAS, International Symposium on Circuits and Systems
+	- https://iscas2020.org/
+	- Seville, Spain.
+	- Submission deadline: October 20, 2019.
+
+
+
+
+
+
 
 
 
@@ -765,7 +789,7 @@ List of conference "Call for Papers" deadlines:
 + ISPN, International Conference on Information Processing in Sensor Networks
 	- http://ipsn.acm.org/2020/index.html
 	- http://ipsn.acm.org
-	- Submission deadline: October 16 and 23, 2019.
+	- ***Submission deadline: October 16 and 23, 2019.***
 + RTAS, IEEE Real-Time and Embedded Technology and Applications Symposium
 	- http://2020.rtas.org/
 	- Submission deadline: October 23, 2019.
@@ -789,33 +813,11 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ HOST 2019, IEEE International Symposium on Hardware-Oriented Security and Trust
-	- http://www.hostsymposium.org/call-for-paper.php
-	- https://host2020.hotcrp.com/
-	- San Jose, CA.
-	- May 4-8, 2020.
-	- Submission deadline: August 15, 2019 (round \#1) and November 15, 2019 (round \#2).
-
-
-+ ISCAS 2019, International Symposium on Circuits and Systems
-	- https://www.iscas2019.org
-	- Sapporo, Hokkaido, Japan.
-	- Submission deadline: Oct 15, 2018.
 
 
 
 
 
-
-
-
-+ SIGMETRICS 2020, ACM SIGMETRICS
-	- https://www.sigmetrics.org/sigmetrics2020/call_for_papers.html
-	- Boston, MA.
-	- June 8-12, 2020.
-	- Submission deadline (For Summer submissions): August 1 and 8, 2019.
-	- Submission deadline (For Fall submissions): October 14 and 21, 2019.
-	- Submission deadline (For Winter submissions): January 27 and February 3, 2020.
 
 
 
@@ -840,9 +842,13 @@ List of conference "Call for Papers" deadlines:
 		* E-energy: 2019 ACM e-Energy Conference
 			+ Submission deadline: January 21 and 28, 2019.
 		* EC 2019: The 20th ACM Conference on Economics and Computation
-			- Submission deadline: February 15, 2018.
-		* HPDC 2019: The 28th Int’l Symposium on High-Performance Parallel and Distributed Computing
+			- Submission deadline: February 15, 2019.
+		* HPDC 2019: The 28th International Symposium on High-Performance Parallel and Distributed Computing
+			+ HPDC, ACM International Symposium on High-Performance Parallel and Distributed Computing
+				- http://www.hpdc.org/
 		* ICS 2019: The 33rd ACM International Conference on Supercomputing
+			+ ICS, International Conference on Supercomputing
+				- https://www.ics-conference.org/
 		* ISCA 2019: The 46th International Symposium on Computer Architecture
 		* IWQoS 2019: IEEE/ACM International Symposium on Quality of Service
 		* PLDI 2019: 40th ACM SIGPLAN Conference on Programming Language Design and Implementation
@@ -879,9 +885,9 @@ List of conference "Call for Papers" deadlines:
 + STOC, Annual ACM Symposium on the Theory of Computing
 	- http://acm-stoc.org/stoc2020/
 	- http://acm-stoc.org
-	- Phoenix, AZ
+	- Chicago, IL.
 	- Conference dates: June 22–26, 2020.
-	- Submission deadline: November 2, 2018 (for STOC 2019).
+	- Submission deadline: November 4, 2019.
 
 
 
@@ -893,9 +899,9 @@ List of conference "Call for Papers" deadlines:
 
 + CICC 2018, IEEE Custom Integrated Circuits Conference
 	- http://ieee-cicc.org
-	- Austin, TX
-	- Conference dates: April 14–17, 2019
-	- Submission deadline: November 5, 2018
+	- Boston, MA.
+	- Conference dates: March 22-25, 2020.
+	- Submission deadline: November 3, 2019 (11:59 pm PT).
 
 
 
@@ -951,13 +957,23 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ HOST, IEEE International Symposium on Hardware-Oriented Security and Trust
+	- http://www.hostsymposium.org/call-for-paper.php
+	- https://host2020.hotcrp.com/
+	- San Jose, CA.
+	- May 4-8, 2020.
+	- Submission deadline: August 15, 2019 (round \#1) and November 15, 2019 (round \#2).
+
+
+
+
 
 + PLDI, Programming Language Design and Implementation
-	- https://pldi19.sigplan.org
+	- https://pldi20.sigplan.org/track/pldi-2020-papers
 	- http://www.sigplan.org/Conferences/PLDI/
-	- June 24-26 (June 22-28), 2018.
-	- Phoenix, AZ
-	- Submission deadline: Nov 16, 2018.
+	- June 15-20, 2020.
+	- London, U.K..
+	- Submission deadline: November 22, 2019.
 
 
 
@@ -975,10 +991,10 @@ List of conference "Call for Papers" deadlines:
 
 
 + ISCA, International Symposium on Computer Architecture
-	- http://iscaconf.org/isca2019
-	- June 22-26, 2019.
-	- Phoenix, AZ.
-	- Submission deadline: December 3 and 7, 2018.
+	- https://iscaconf.org/isca2020/
+	- May 30 – June 3, 2020.
+	- Valencia, Spain.
+	- Submission deadline: November 19 and 26, 2018.
 
 
 
@@ -1069,8 +1085,8 @@ List of conference "Call for Papers" deadlines:
 + SPAA, ACM Symposium on Parallelism in Algorithms and Architectures
 	- http://spaa.acm.org
 	- June 22-24, 2019
-	- Phoenix, AZ
-	- Submission deadline: January 8 and 11, 2019.
+	- VENUE
+	- Submission deadline: ***???~~January 8 and 11, 2019.~~???***
 
 
 
@@ -1137,6 +1153,13 @@ List of conference "Call for Papers" deadlines:
 
 
 
+
+
++ SIGMETRICS 2020, ACM SIGMETRICS / IFIP Performance conference
+	- https://www.sigmetrics.org/sigmetrics2020/call_for_papers.html
+	- Boston, MA.
+	- June 8-12, 2020.
+	- Submission deadline (For Winter submissions): January 27 and February 3, 2020.
 
 
 
@@ -1237,13 +1260,6 @@ List of conference "Call for Papers" deadlines:
 	- Munich, Germany.
 	- June 23-26, 2019.
 	- Submission deadline: February 10, 2019.
-
-
-+ SIGMETRICS 2020, ACM SIGMETRICS / IFIP Performance conference
-	- https://www.sigmetrics.org/sigmetrics2020/call_for_papers.html
-	- Boston, MA.
-	- June 8-12, 2020.
-	- Submission deadline (For Winter submissions): January 27 and February 3, 2020.
 
 
 
