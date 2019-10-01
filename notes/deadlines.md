@@ -15,12 +15,12 @@ Fix mathematical proof for paper and implement processor subsystems.
 	- http://www.aaai.org/Conferences/conferences.php
 	- https://aaai.org/Conferences/AAAI-20/
 	- New York, NY.
-	- Submission deadline: ????**August 30 and September 5, 2018**???? To be updated.
+	- Submission deadline: **August 30 and September 5, 2019** To be updated.
 + IAAI 2020, Innovative Applications of Artificial Intelligence Conference
 	- https://aaai.org/Conferences/AAAI-19/iaai-19/iaai-19-call/
 	- Same venue as AAAI 2019.
-	- Honolulu, Hawaii, U.S.A.
-	- Submission deadline: **September 5, 2018**
+	- New York, NY.
+	- Submission deadline: **September 5, 2019**
 + ACL, Annual Meeting of the Association for Computational Linguistics
 	- URL
 	- VENUE
@@ -28,21 +28,20 @@ Fix mathematical proof for paper and implement processor subsystems.
 + AIES, AAAI/ACM Conference on AI, Ethics, and Society
 	- http://www.aies-conference.com/
 	- http://www.aies-conference.com/call-for-papers/
-	- January 27-28, 2019
+	- February 7-8
 	- Honolulu, Hawaii, USA
-	- Submission deadline: Nov 5 Anywhere on Earth (full paper), 2018.
+	- Submission deadline: Nov 4 Anywhere on Earth (full paper), 2019.
 + CHI, ACM CHI Conference on Human Factors in Computing Systems
-	- http://chi2019.acm.org
-	- Glasgow, U.K.
-	- Submission deadline: **September 14/19, 2018.**
+	- https://chi2020.acm.org/authors/papers/
+	- Honolulu, on the island of Oahu, Hawaiʻi, USA.
+	- Submission deadline: **September 12/20, 2019.**
 + **CVPR, Conference on Computer Vision and Pattern Recognition**
-	- http://cvpr2019.thecvf.com
-	- Long Beach, CA.
+	- http://cvpr2020.thecvf.com/submission/main-conference/author-guidelines#call-for-papers
 	- CVPR 2020: Seattle, WA.
 	- CVPR 2021: Nashville, TN.
 	- CVPR 2022: New Orleans, LA.
 	- https://www.thecvf.com/?page_id=100
-	- Submission deadline: **November 16, 2018**
+	- Submission deadline: **November 15, 2019**, 23:59 PST.
 + DSAA, IEEE/ACM/ASA DSAA, IEEE International Conference on Data Science and Advanced Analytics
 	- http://call-for-papers.dsaa2019.dsaa.co/
 	- October 5–8, 2019
