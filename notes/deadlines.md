@@ -48,16 +48,15 @@ Fix mathematical proof for paper and implement processor subsystems.
 	- Washington, D.C.
 	- Submission deadline: May 20, 2019.
 + ECCV, European Conference on Computer Vision
-	- URL
+	- https://eccv2020.eu/important-dates/
 	- VENUE
 	- "biennial research conference"
 	- Submission deadline: **Mid-March, 2020.**
 + ECML PKDD, European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases
-	- http://ecmlpkdd2019.org/
-	- http://ecmlpkdd2019.org/submissions/deadlines/
-	- September 16-20, 2019.
-	- Würzburg, Germany.
-	- Submission deadline: March 29 and April 5, 2019.
+	- https://ecmlpkdd2020.net/submissions/deadlines/
+	- September 14-16, 2019.
+	- Ghent, Belgium.
+	- Submission deadline: ???***March 29 and April 5, 2019.***???
 + EMNLP, Conference on Empirical Methods in Natural Language Processing
 	- URL
 	- VENUE
@@ -90,36 +89,41 @@ Transparency
 	- "biennial research conference": 2021, 2023
 	- Submission deadline: **March 15 and 22, 2019**.
 + ICDM, IEEE International Conference on Data Mining
+	- http://icdm.bigke.org/
 	- http://icdm2019.bigke.org/
 	- http://www.cs.uvm.edu/~icdm/
-	- Beijing, China.
-	- Submission deadline: June 5, 2019.
+	- ???.
+	- Submission deadline: ???***June 5, 2019.***???
 + ICLR, International Conference on Learning Representations
 	- https://iclr.cc
 	- https://iclr.cc/Conferences/2020
 	- May 6-9, 2020.
 	- New Orleans, NA.
-	- Submission deadline: September 27, 2018.
+	- Submission deadline: September 25, 2019.
 + ICML, International Conference on Machine Learning
-	- https://icml.cc/Conferences/2019/CallForPapers
+	- https://icml.cc/Conferences/2020/CallForPapers
+	- https://icml.cc/Conferences/2020/Dates
 	- Long Beach, CA.
-	- Submission deadline: **January 18 and 23, 2019.**
+	- Submission deadline: **January 31 and February 7, 2019.**
 + ICPR, International Conference on Pattern Recognition
 	- https://www.micc.unifi.it/icpr2020/
 	- Venue: Milan, Italy.
 	- Dates: September 13-18, 2020.
+	- Submission deadline: March 2, 2020.
 + IEEE Transactions on Information Theory
 + IJCAI, International Joint Conference on Artificial Intelligence
 	- https://ijcai.org
-	- http://ijcai19.org/
-	- Macao, P.R. China
+	- \[Find updated URL for IJCAI-PRICAI-20\]
+	- IJCAI-PRICAI-20 venue: Yokohama, Japan
+	- IJCAI-21: Montreal, Canada
+	- IJCAI-ECAI-22: Bologna, Italy.
 	- August 10-16, 2019
 	- Submission deadline: **February 19 and 25, 2019.**
 + IJCNN, International Joint Conference on Neural Networks
 	- https://www.ijcnn.org/callforpapers
-	- Budapest, Hungary
-	- July 14-19, 2019.
-	- Submission deadline: **December 15, 2018.**
+	- ***??? Venue for 2020 ???***
+	- July 14-19, 2019. \[Update this!!!\]
+	- Submission deadline: ???**December 15, 2018.**???
 + IJCV, International Journal of Computer Vision
 	- https://link.springer.com/journal/11263
 + ISWC, International Semantic Web Conference
