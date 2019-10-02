@@ -917,40 +917,21 @@ List of conference "Call for Papers" deadlines:
 
 + ETAPS, European Joint Conferences on Theory and Practice of Software
 	- https://www.etaps.org/
-	- https://conf.researchr.org/home/etaps-2019
-	- April 25 - May 1, 2020.
+	- https://www.etaps.org/2020/call-for-papers
+	- April 25-30, 2020.
 	- Dublin, Ireland.
-	- Submission deadline: Nov 7 and Nov 15, 2018
-+ TACAS 2020, International Conference on Tools and Algorithms for the Construction and Analysis of Systems
-	- https://conf.researchr.org/track/etaps-2019/tacas-2019-papers
+	- Submission deadline: October 24, 2019 23:59 AoE (=GMT-12).
++ TACAS, International Conference on Tools and Algorithms for the Construction and Analysis of Systems
 	- https://www.etaps.org/2020/tacas
-	- April 25 - May 1, 2020.
-	- Dublin, Ireland.
-	- Submission deadline: Nov 7 and Nov 15, 2018
 + ESOP, European Symposium on Programming
 	- https://www.etaps.org/2020/esop
-	- https://conf.researchr.org/track/etaps-2019/esop-2019-papers#Call-for-Papers
-	- April 25 - May 1, 2020.
-	- Dublin, Ireland.
-	- Submission deadline: Nov 7 and Nov 15, 2018
 + FASE, International Conference on Fundamental Approaches to Software Engineering
 	- https://www.etaps.org/2020/fase
-	- https://conf.researchr.org/track/etaps-2019/fase-2019-papers
-	- April 25 - May 1, 2020.
-	- Dublin, Ireland.
-	- Submission deadline: Nov 7 and Nov 15, 2018
 + FoSSaCS, International Conference on Foundations of Software Science and Computation Structures
 	- https://www.etaps.org/2020/fossacs
-	- https://conf.researchr.org/track/etaps-2019/fossacs-2019-papers#Call-for-Papers
-	- April 25 - May 1, 2020.
-	- Dublin, Ireland.
-	- Submission deadline: Nov 7 and Nov 15, 2018
 + POST, International Conference on Principles of Security and Trust
-	- https://conf.researchr.org/track/etaps-2019/post-2019-papers
-	- April 25 - May 1, 2020.
-	- Dublin, Ireland.
-	- Submission deadline: Nov 7 and Nov 15, 2018
-+ ALGOSENSORS 2020, International Symposium on Algorithms and Experiments for Wireless Sensor Networks
+	- URL???
++ ALGOSENSORS, International Symposium on Algorithms and Experiments for Wireless Sensor Networks
 	- http://www.algosensors-symposium.org/
 
 
