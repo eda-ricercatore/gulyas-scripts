@@ -51,6 +51,7 @@ Fix mathematical proof for paper and implement processor subsystems.
 	- https://eccv2020.eu/important-dates/
 	- VENUE
 	- "biennial research conference"
+	- ***Organized/Held in even-numbered years only***
 	- Submission deadline: **Mid-March, 2020.**
 + ECML PKDD, European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases
 	- https://ecmlpkdd2020.net/submissions/deadlines/
@@ -87,6 +88,7 @@ Transparency
 	- October 27 - November 3, 2018.
 	- ICCV 2021 in Montreal, Canada.
 	- "biennial research conference": 2021, 2023
+	- - ***Organized/Held in odd-numbered years only***
 	- Submission deadline: **March 15 and 22, 2019**.
 + ICDM, IEEE International Conference on Data Mining
 	- http://icdm.bigke.org/
@@ -141,7 +143,7 @@ Transparency
 	- http://www.kr.org
 	- VENUE
 	- Submission deadline: Early/Mid- May, 2019.
-+ LICS, ACM/IEEE Symposium on Logic in Computer Science (LICS)
++ LICS, ACM/IEEE Symposium on Logic in Computer Science
 	- http://lics.siglog.org/lics20/
 	- http://lics.siglog.org/lics20/cfp.php
 	- Beijing, China.
@@ -1042,7 +1044,7 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ ARCS 2019, International Conference on Architecture of Computing Systems
++ ARCS, International Conference on Architecture of Computing Systems
 	- http://arcs2019.itec.kit.edu
 	- May 20-23, 2019.
 	- Copenhagen, Denmark.
@@ -1065,20 +1067,19 @@ List of conference "Call for Papers" deadlines:
 
 + GLSVLSI, Great Lakes Symposium on VLSI
 	- http://www.glsvlsi.org
-	- Washington, D.C.
-	- May 2019
-	- Submission deadline: December 17, 2018.
+	- Beijing, China
+	- May 27-29, 2020
+	- Submission deadline: December 17, 2019.
 
 
 
 
-+ LICS, Annual ACM/IEEE Symposium on Logic in Computer Science
-	- http://lics.siglog.org/lics19/
-	- http://lics.siglog.org
-	- Vancouver, Canada.
-	- Conference dates: June 24-27, 2019.
-	- Submission deadline: January 4-11, 2019.
-
++ LICS, ACM/IEEE Symposium on Logic in Computer Science
+	- http://lics.siglog.org/lics20/
+	- http://lics.siglog.org/lics20/cfp.php
+	- Beijing, China.
+	- July 8-12, 2020.
+	- Submission deadline: **January 6 and 10, 2020.**
 
 
 
@@ -1086,9 +1087,9 @@ List of conference "Call for Papers" deadlines:
 
 + FCCM, IEEE Symposium on Field-Programmable Custom Computing Machines
 	- https://www.fccm.org/
-	- San Diego, CA.
-	- April 28 – May 1, 2019.
-	- Submission deadline: January 7 and 14, 2019.
+	- Fayetteville, Arkansas.
+	- May 3 – 6, 2020.
+	- Submission deadline: January 6 and 13, 2019.
 
 
 
@@ -1099,8 +1100,8 @@ List of conference "Call for Papers" deadlines:
 
 + SPAA, ACM Symposium on Parallelism in Algorithms and Architectures
 	- http://spaa.acm.org
-	- June 22-24, 2019
-	- VENUE
+	- Philadelphia, PA, USA
+	- July 15-17, 2020
 	- Submission deadline: ***???~~January 8 and 11, 2019.~~???***
 
 
@@ -1136,6 +1137,26 @@ List of conference "Call for Papers" deadlines:
 	- Phoenix, AZ.
 	- June 22-29, 2019.
 	- Submission deadline: January 16 and 23, 2018.
+
+
+
+
+
+
++ IJCAR, International Joint Conference on Automated Reasoning
+	- https://ijcar2020.org/
+	- http://www.ijcar.org/conferences
+	- http://ijcar.org/
+	- June 29 - July 2, 2020.
+	- Paris, France.
+	- ***Organized/Held in even-numbered years only***
+	- Submission deadline: Late Jan and Early Feb, 2020.
+
+
+
+
+
+
 
 
 + FCRC, Federated Computing Research Conference
@@ -1227,8 +1248,8 @@ List of conference "Call for Papers" deadlines:
 	- May 18-20, 2020.
 	- San Francisco, CA.
 	- "A rolling deadline occurs on the 1st of each month, at 3:00 PM (UTC-7, i.e., PDT). This deadline is strict and no extensions will be granted."
-	- "All papers accepted by February 1st, 2019, or that are submitted as a revision by February 1st, 2019 and the revision is then accepted, will be included in the proceedings of the symposium in May, 2019 and invited to present their work. Other papers will be included in the 2020 proceedings."
-	- Submission deadline: Rolling (Next deadline: August 1, 2019)
+	- "All papers accepted by February 1st, 2020, or that are submitted as a revision by February 1st, 2020 and the revision is then accepted, will be included in the proceedings of the symposium in May, 2020 and invited to present their work. Other papers will be included in the 2021 proceedings."
+	- Submission deadline: Rolling (Final deadline: Submit by December 1, 2019)
 
 
 
@@ -1256,10 +1277,11 @@ List of conference "Call for Papers" deadlines:
 
 
 + CAV 2018, International Conference on Computer-Aided Verification
-	- http://cavconference.org
-	- New York, NY.
-	- July 15-18, 2019.
-	- Submission deadline: February 7, 2019.
+	- http://i-cav.org/2020/
+	- http://i-cav.org/2020/call-for-papers/
+	- Los Angeles, CA.
+	- July 19-24, 2019.
+	- Submission deadline: January 23, 2020.
 
 
 + RAW, Reconfigurable Architectures Workshop
@@ -1300,12 +1322,13 @@ List of conference "Call for Papers" deadlines:
 
 
 
- + CADE 2019, International Conference on Automated Deduction
- 	- http://www.cadeinc.org/conferences
- 	- http://www.cade-27.info/
- 	- Natal, Brasil
- 	- August 25-30, 2019.
- 	- Submission deadline: February 15 and 22, 2019.
++ CADE 2019, International Conference on Automated Deduction
+	- http://www.cadeinc.org/conferences
+	- http://www.cade-27.info/
+	- Natal, Brasil
+	- August 25-30, 2019.
+	- ***Organized/Held in odd-numbered years only***
+	- Submission deadline: February 15 and 22, 2019.
 
 
 
@@ -1751,13 +1774,7 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ IJCAR 2020, International Joint Conference on Automated Reasoning
-	- http://www.ijcar.org/conferences
-	- http://ijcar.org/
-	- https://ijcar2020.org/
-	- Paris, France.
-	- June 28 - July 2, 2020.
-	- Submission deadline: Late Jan and Early Feb, 2020.
+
 
 
 
