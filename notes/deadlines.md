@@ -868,52 +868,6 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ IRPS, IEEE International Reliability Physics Symposium
-	- https://irps.org/irps-call-for-papers/download-call-for-papers/
-	- Grapevine, TX, in the DFW area.
-	- March 29 – April 2, 2020
-	- Submission deadlines:
-		* Abstract (Paper/Poster): October 25, 2019.
-		* Late paper submission: January 24, 2010.
-
-
-
-
-
-
-
-+ STOC, Annual ACM Symposium on the Theory of Computing
-	- http://acm-stoc.org/stoc2020/
-	- http://acm-stoc.org
-	- Chicago, IL.
-	- Conference dates: June 22–26, 2020.
-	- Submission deadline: November 4, 2019.
-
-
-
-
-
-
-
-
-
-+ CICC 2018, IEEE Custom Integrated Circuits Conference
-	- http://ieee-cicc.org
-	- Boston, MA.
-	- Conference dates: March 22-25, 2020.
-	- Submission deadline: November 3, 2019 (11:59 pm PT).
-
-
-
-
-
-
-
-
-
-
-
-
 
 + ETAPS, European Joint Conferences on Theory and Practice of Software
 	- https://www.etaps.org/
@@ -938,6 +892,78 @@ List of conference "Call for Papers" deadlines:
 
 
 
+
+
+
+
+
++ IRPS, IEEE International Reliability Physics Symposium
+	- https://irps.org/irps-call-for-papers/download-call-for-papers/
+	- Grapevine, TX, in the DFW area.
+	- March 29 – April 2, 2020
+	- Submission deadlines:
+		* Abstract (Paper/Poster): October 25, 2019.
+		* Late paper submission: January 24, 2010.
+
+
+
+
+
+
++ TAU Contest 2020
+	- https://sites.google.com/view/taucontest2020/home
+	- Contest Registration Deadline October 31st, 2019
+
++ ISPD Contest 2020
+	- http://ispd.cc/?page=contests
+
+
+
+
+
+
+
+
++ CICC 2018, IEEE Custom Integrated Circuits Conference
+	- http://ieee-cicc.org
+	- Boston, MA.
+	- Conference dates: March 22-25, 2020.
+	- Submission deadline: November 3, 2019 (11:59 pm PT).
+
+
+
+
+
++ STOC, Annual ACM Symposium on the Theory of Computing
+	- http://acm-stoc.org/stoc2020/
+	- http://acm-stoc.org
+	- Chicago, IL.
+	- Conference dates: June 22–26, 2020.
+	- Submission deadline: November 4, 2019.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 + HOST, IEEE International Symposium on Hardware-Oriented Security and Trust
 	- http://www.hostsymposium.org/call-for-paper.php
 	- https://host2020.hotcrp.com/
@@ -945,6 +971,24 @@ List of conference "Call for Papers" deadlines:
 	- May 4-8, 2020.
 	- Submission deadline: August 15, 2019 (round \#1) and November 15, 2019 (round \#2).
 
+
+
+
++ ISCA, International Symposium on Computer Architecture
+	- https://iscaconf.org/isca2020/
+	- May 30 – June 3, 2020.
+	- Valencia, Spain.
+	- Submission deadline: November 19 and 26, 2018.
+
+
+
+
+
++ DAC 2019, Design Automation Conference
+	- https://dac.com
+	- San Francisco, CA
+	- July 19-23, 2020.
+	- Submission deadline: November 21 and 27, 2019 (5:00 PM MST, -7:00 GMT).
 
 
 
@@ -959,23 +1003,10 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ DAC 2019, Design Automation Conference
-	- https://dac.com
-	- Las Vegas, NV.
-	- Submission deadline: November 20 and 27, 2018.
 
 
 
 
-
-
-
-
-+ ISCA, International Symposium on Computer Architecture
-	- https://iscaconf.org/isca2020/
-	- May 30 – June 3, 2020.
-	- Valencia, Spain.
-	- Submission deadline: November 19 and 26, 2018.
 
 
 
@@ -987,11 +1018,14 @@ List of conference "Call for Papers" deadlines:
 	- Conference dates: May 12-15, 2019.
 	- Submission deadline: December 7 and 14, 2018.
 
+
+
+
 + VEE, ACM SIGPLAN/SIGOPS International Conference on Virtual Execution Environments
-	- https://conf.researchr.org/home/vee-2019
-	- April 13-14, 2019.
-	- Providence, Rhode Island.
-	- Submission deadline: December 7 and 14, 2018.
+	- https://conf.researchr.org/home/vee-2020
+	- March 18-20, 2020.
+	- Lausanne, Switzerland.
+	- Submission deadline: November 30 and December 6, 2019.
 
 
 
