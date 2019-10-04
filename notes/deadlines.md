@@ -261,11 +261,24 @@ Upcoming Submission deadlines:
 + ***[DAC](https://dac.com/): November 21 and 27, 2019 (5:00 PM MST, -7:00 GMT).***
 + [PLDI](https://pldi20.sigplan.org/track/pldi-2020-papers): November 22, 2019.
 + [VEE](https://conf.researchr.org/home/vee-2020): November 30 and December 6, 2019.
++ [S&P](https://www.ieee-security.org/TC/SP2020/cfpapers.html): Rolling (Final deadline: Submit by December 1, 2019)
 + [GLSVLSI](http://www.glsvlsi.org): December 17, 2019.
 + [LICS](http://lics.siglog.org/lics20/cfp.php): Submission deadline: January 6 and 10, 2020.
++ [FCCM](https://www.fccm.org/): January 6 and 13, 2020.
 + **[IJCNN/WCCI](https://wcci2020.org): January 15, 2020.**
++ [IJCAR](https://ijcar2020.org/): Late Jan and Early Feb, 2020.
++ [CAV](http://i-cav.org/2020/call-for-papers/): January 23, 2020.
++ [SIGMETRICS](https://www.sigmetrics.org/sigmetrics2020/call_for_papers.html): January 27 and February 3, 2020.
 + ***[ICML](https://icml.cc/Conferences/2020/CallForPapers): Submission deadline: January 31 and February 7, 2020.***
 + [ECCV](https://eccv2020.eu/important-dates/): Mid-March, 2020.
+
+
+
+
+
+
+
+
 
 
 **NOTE: Keep my attack plan updated.**
@@ -1066,6 +1079,25 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ S&P, IEEE Symposium on Security and Privacy
+	- https://www.ieee-security.org/TC/SP2020/cfpapers.html
+	- https://www.ieee-security.org/TC/SP2020/
+	- May 18-20, 2020.
+	- San Francisco, CA.
+	- "A rolling deadline occurs on the 1st of each month, at 3:00 PM (UTC-7, i.e., PDT). This deadline is strict and no extensions will be granted."
+	- "All papers accepted by February 1st, 2020, or that are submitted as a revision by February 1st, 2020 and the revision is then accepted, will be included in the proceedings of the symposium in May, 2020 and invited to present their work. Other papers will be included in the 2021 proceedings."
+	- Submission deadline: Rolling (Final deadline: Submit by December 1, 2019)
+
+
+
+
+
+
+
+
+
+
+
 
 + ACM Student Research Competition (SRC), for the 24rd ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)
 	- https://www.sigarch.org/call-contributions/asplos-2019-student-research-competition/
@@ -1205,6 +1237,26 @@ List of conference "Call for Papers" deadlines:
 
 
 
+
+
+
++ CAV, International Conference on Computer-Aided Verification
+	- http://i-cav.org/2020/
+	- http://i-cav.org/2020/call-for-papers/
+	- Los Angeles, CA.
+	- July 19-24, 2019.
+	- Submission deadline: January 23, 2020.
+
+
+
+
+
+
+
+
+
+
+
 + ICS 2019, International Conference on Supercomputing
 	- https://www.ics-conference.org
 	- https://ics19.eecis.udel.edu/index.html
@@ -1277,15 +1329,6 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ S&P, IEEE Symposium on Security and Privacy
-	- https://www.ieee-security.org/TC/SP2020/cfpapers.html
-	- https://www.ieee-security.org/TC/SP2020/
-	- May 18-20, 2020.
-	- San Francisco, CA.
-	- "A rolling deadline occurs on the 1st of each month, at 3:00 PM (UTC-7, i.e., PDT). This deadline is strict and no extensions will be granted."
-	- "All papers accepted by February 1st, 2020, or that are submitted as a revision by February 1st, 2020 and the revision is then accepted, will be included in the proceedings of the symposium in May, 2020 and invited to present their work. Other papers will be included in the 2021 proceedings."
-	- Submission deadline: Rolling (Final deadline: Submit by December 1, 2019)
-
 
 
 
@@ -1310,13 +1353,6 @@ List of conference "Call for Papers" deadlines:
 
 
 
-
-+ CAV 2018, International Conference on Computer-Aided Verification
-	- http://i-cav.org/2020/
-	- http://i-cav.org/2020/call-for-papers/
-	- Los Angeles, CA.
-	- July 19-24, 2019.
-	- Submission deadline: January 23, 2020.
 
 
 + RAW, Reconfigurable Architectures Workshop
