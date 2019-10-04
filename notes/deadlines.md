@@ -242,13 +242,13 @@ Upcoming Submission deadlines:
 + [IPDPS](http://www.ipdps.org/ipdps2019/2019-call-for-papers.html): ***October 7 and 14, 2019.***
 + [ISQED](https://www.isqed.org/English/Conference/Call_for_Papers.html): ***October 11, 2019.***
 + [SIGMETRICS](https://www.sigmetrics.org/sigmetrics2020/call_for_papers.html): ***October 14, 2019.***
++ [ISPN](http://ipsn.acm.org/2020/cfp.html): October 16 and 23, 2019.
++ [ICFC](https://sites.google.com/view/icfc2020/): October 16 and 23, 2019.
 + [ISCAS](https://iscas2020.org/): October 20, 2019.
 + [HSCC](https://berkeleylearnverify.github.io/HSCC_2020/): Submission deadline: October 23 (and 28), 2019.
 + [ICCPS](http://iccps.acm.org/2020/): October 23, 2019.
-+ [ISPN](http://ipsn.acm.org/2020/cfp.html): October 16 and 23, 2019.
 + [RTAS](http://2020.rtas.org/): October 23, 2019.
 + [ETAPS/TACAS/ESOP/FASE](https://www.etaps.org/2020/call-for-papers): October 24, 2019 23:59 AoE (=GMT-12).
-+ [ICFC](https://sites.google.com/view/icfc2020/): October 16 and 23, 2019.
 + [CC](https://conf.researchr.org/home/CC-2020): October 23 and 30, 2019.
 + [IRPS](https://irps.org/irps-call-for-papers/download-call-for-papers/): October 25, 2019.
 + ***[TAU Contest 2020](https://sites.google.com/view/taucontest2020/home) registration: October 31st, 2019***
