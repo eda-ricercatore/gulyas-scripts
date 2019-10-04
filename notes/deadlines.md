@@ -250,10 +250,10 @@ Upcoming Submission deadlines:
 + [ETAPS/TACAS/ESOP/FASE](https://www.etaps.org/2020/call-for-papers): October 24, 2019 23:59 AoE (=GMT-12).
 + [ICFC](https://sites.google.com/view/icfc2020/): October 16 and 23, 2019.
 + [IRPS](https://irps.org/irps-call-for-papers/download-call-for-papers/): October 25, 2019.
-+ [TAU Contest 2020](https://sites.google.com/view/taucontest2020/home) registration: October 31st, 2019
-+ [ISPD Contest 2020](http://ispd.cc/?page=contests): October/November 2019.
++ ***[TAU Contest 2020](https://sites.google.com/view/taucontest2020/home) registration: October 31st, 2019***
++ ***[ISPD Contest 2020](http://ispd.cc/?page=contests): October/November 2019.***
 + [CICC](http://ieee-cicc.org/): November 3, 2019 (11:59 pm PT).
-+ [STOC](http://acm-stoc.org/stoc2020/): November 4, 2019.
++ ***[STOC](http://acm-stoc.org/stoc2020/): November 4, 2019.***
 + ***[CVPR](http://cvpr2020.thecvf.com/submission/main-conference/author-guidelines#call-for-papers): November 15, 2019, 23:59 PST.***
 + [HOST](http://www.hostsymposium.org/call-for-paper.php): November 15, 2019 (round \#2).
 + [IC2E](https://conferences.computer.org/IC2E/2020/): November 15 and 22, 2019.
