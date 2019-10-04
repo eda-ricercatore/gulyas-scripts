@@ -261,16 +261,16 @@ Upcoming Submission deadlines:
 + ***[DAC](https://dac.com/): November 21 and 27, 2019 (5:00 PM MST, -7:00 GMT).***
 + [PLDI](https://pldi20.sigplan.org/track/pldi-2020-papers): November 22, 2019.
 + [VEE](https://conf.researchr.org/home/vee-2020): November 30 and December 6, 2019.
-+ [S&P](https://www.ieee-security.org/TC/SP2020/cfpapers.html): Rolling (Final deadline: Submit by December 1, 2019)
++ ***[S&P](https://www.ieee-security.org/TC/SP2020/cfpapers.html): Rolling (Final deadline: Submit by December 1, 2019)***
 + [GLSVLSI](http://www.glsvlsi.org): December 17, 2019.
-+ [LICS](http://lics.siglog.org/lics20/cfp.php): Submission deadline: January 6 and 10, 2020.
++ ***[LICS](http://lics.siglog.org/lics20/cfp.php): Submission deadline: January 6 and 10, 2020.***
 + [FCCM](https://www.fccm.org/): January 6 and 13, 2020.
 + **[IJCNN/WCCI](https://wcci2020.org): January 15, 2020.**
-+ [IJCAR](https://ijcar2020.org/): Late Jan and Early Feb, 2020.
-+ [CAV](http://i-cav.org/2020/call-for-papers/): January 23, 2020.
-+ [SIGMETRICS](https://www.sigmetrics.org/sigmetrics2020/call_for_papers.html): January 27 and February 3, 2020.
++ ***[IJCAR](https://ijcar2020.org/): Late Jan and Early Feb, 2020.
++ ***[CAV](http://i-cav.org/2020/call-for-papers/): January 23, 2020.***
++ ***[SIGMETRICS](https://www.sigmetrics.org/sigmetrics2020/call_for_papers.html): January 27 and February 3, 2020.***
 + ***[ICML](https://icml.cc/Conferences/2020/CallForPapers): Submission deadline: January 31 and February 7, 2020.***
-+ [ECCV](https://eccv2020.eu/important-dates/): Mid-March, 2020.
++ ***[ECCV](https://eccv2020.eu/important-dates/): Mid-March, 2020.***
 
 
 
