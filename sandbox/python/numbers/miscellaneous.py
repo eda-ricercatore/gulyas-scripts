@@ -32,7 +32,7 @@ print('Absolute value or Magnitude of complex is:', abs(complex))
 """
 
 
-my_list = [2, -3, 5, -9, -6, 7]
+my_list = [2, -3, 5, -9, -6, 8]
 abs_my_list = []
 for elem in my_list:
 	abs_my_list.append(abs(elem))
@@ -58,10 +58,18 @@ print("average_of_absolute_numbers:",average_of_absolute_numbers,"=")
 average_of_absolute_numbers = np.mean(abs_my_list)
 print("average_of_absolute_numbers, via NumPy:",average_of_absolute_numbers,"=")
 average_of_absolute_numbers = s.mean(abs_my_list)
-print("average_of_absolute_numbers, via NumPy:",average_of_absolute_numbers,"=")
+print("average_of_absolute_numbers, via statistics module/package:",average_of_absolute_numbers,"=")
 average_of_absolute_numbers = sum(abs_my_list_3)/len(abs_my_list_3)
 print("average_of_absolute_numbers, for abs_my_list_3:",average_of_absolute_numbers,"=")
 print("	This solution produces a rounded-off/down solution.")
 average_of_absolute_numbers = s.mean(abs_my_list_3)
 print("average_of_absolute_numbers, via NumPy and absolute():",average_of_absolute_numbers,"=")
 
+
+x = None
+if x:
+	print("if x")
+if x is not None:
+	print("if x is not None")
+if x is None:
+	print("if x is None")
