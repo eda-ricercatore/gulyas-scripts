@@ -238,8 +238,7 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 
 
 
-+ [ISPASS](https://www.ispass.org/ispass2020/): October 3 and 10, 2019.
-+ [ISQED](https://www.isqed.org/English/Conference/Call_for_Papers.html): Submission deadline: October 11, 2019.
++ [ISQED](https://www.isqed.org/English/Conference/Call_for_Papers.html): Submission deadline: ***October 11, 2019.***
 + ***[CVPR](http://cvpr2020.thecvf.com/submission/main-conference/author-guidelines#call-for-papers): November 15, 2019, 23:59 PST.***
 + ***[ICML](https://icml.cc/Conferences/2020/CallForPapers): Submission deadline: January 31 and February 7, 2020.***
 + **[IJCNN/WCCI](https://wcci2020.org): January 15, 2020.**

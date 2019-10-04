@@ -103,6 +103,13 @@ from get_factorial import calculate_factorial
 """
 	Module with methods that measure the execution time of functions
 		and programs in Python.
+	
+	Support is not provided for storing multiple initial timestamps,
+		so that we can measure elapsed times from different initial
+		timestamps.
+		User have to call the functions (such as monotonic_ns())
+			specifically, so that this Python module can be kept
+			simple and short.  
 """
 class execution_time_measurement:
 	# Invalid timestamp.
