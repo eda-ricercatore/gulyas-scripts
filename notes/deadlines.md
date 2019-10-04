@@ -237,11 +237,22 @@ Transparency
 MTFD: Meet The Final Deadline; and, apply for [research internships](https://github.com/christine-hu/summer-2019-internships).
 
 
-
-+ [ISQED](https://www.isqed.org/English/Conference/Call_for_Papers.html): Submission deadline: ***October 11, 2019.***
+Upcoming Submission deadlines:
++ [ISPD](http://www.ispd.cc/): ***October 7, 2019.***
++ [IPDPS](http://www.ipdps.org/ipdps2019/2019-call-for-papers.html): ***October 7 and 14, 2019.***
++ [ISQED](https://www.isqed.org/English/Conference/Call_for_Papers.html): ***October 11, 2019.***
++ [SIGMETRICS](https://www.sigmetrics.org/sigmetrics2020/call_for_papers.html): ***October 14, 2019.***
++ [ISCAS](https://iscas2020.org/): October 20, 2019.
++ [HSCC](https://berkeleylearnverify.github.io/HSCC_2020/): Submission deadline: October 23 (and 28), 2019.
++ [ICCPS](http://iccps.acm.org/2020/): October 23, 2019.
++ [ISPN](http://ipsn.acm.org/2020/cfp.html): October 16 and 23, 2019.
++ [RTAS](http://2020.rtas.org/): October 23, 2019.
++ [ICFC](https://sites.google.com/view/icfc2020/): October 16 and 23, 2019.
++ [IC2E](https://conferences.computer.org/IC2E/2020/): November 15 and 22, 2019.
 + ***[CVPR](http://cvpr2020.thecvf.com/submission/main-conference/author-guidelines#call-for-papers): November 15, 2019, 23:59 PST.***
 + ***[ICML](https://icml.cc/Conferences/2020/CallForPapers): Submission deadline: January 31 and February 7, 2020.***
 + **[IJCNN/WCCI](https://wcci2020.org): January 15, 2020.**
++ [LICS](http://lics.siglog.org/lics20/cfp.php): Submission deadline: January 6 and 10, 2020.
 + [ECCV](https://eccv2020.eu/important-dates/): Mid-March, 2020.
 
 
@@ -279,8 +290,21 @@ List of conference "Call for Papers" deadlines:
 
 
 **Operation Go-to-ASPLOS in progress.**
-
-
++ https://www.baylor.edu/lib/librarystaff/index.php?id=62713
+	- genn./gennaio
+	- febbr./febbraio
+	- mar./marzo
+	- apr./aprile
+	- magg./maggio
+	- giugno
+	- luglio
+	- ag./agosto
+	- sett./settembre
+	- ott./ottobre
+	- nov./novembre
+	- dic./dicembre
+	- lunedì, martedì, mercoledì, giovedì, venerdì, sabato, domenica, fine settimana, ... in passato, il prossima
++ https://en.wikibooks.org/wiki/Italian/Vocabulary/Day_and_Month
 
 
 
