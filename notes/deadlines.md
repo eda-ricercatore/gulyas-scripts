@@ -247,6 +247,7 @@ Upcoming Submission deadlines:
 + [ICCPS](http://iccps.acm.org/2020/): October 23, 2019.
 + [ISPN](http://ipsn.acm.org/2020/cfp.html): October 16 and 23, 2019.
 + [RTAS](http://2020.rtas.org/): October 23, 2019.
++ [ETAPS/TACAS/ESOP/FASE](https://www.etaps.org/2020/call-for-papers): October 24, 2019 23:59 AoE (=GMT-12).
 + [ICFC](https://sites.google.com/view/icfc2020/): October 16 and 23, 2019.
 + [IC2E](https://conferences.computer.org/IC2E/2020/): November 15 and 22, 2019.
 + ***[CVPR](http://cvpr2020.thecvf.com/submission/main-conference/author-guidelines#call-for-papers): November 15, 2019, 23:59 PST.***
@@ -277,7 +278,7 @@ Upcoming Submission deadlines:
 	- https://ieee-ceda.org/publication/tcad-publication/tcad-call-papers
 	- https://ieee-ceda.org/pages/special-issue-call-papers-design-and-management-mobile-platforms
 	- https://ieee-ceda.org/pages/special-issue-call-papers-special-issue-autonomous-systems-design
-	- https://ieee-ceda.org/pages/special-issue-call-papers-robust-resource-constrained-ml
+	- https://ieee-ceda.org/pages/special-issue-cawll-papers-robust-resource-constrained-ml
 
 
 
