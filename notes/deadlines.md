@@ -255,7 +255,7 @@ Upcoming Submission deadlines:
 + [CICC](http://ieee-cicc.org/): November 3, 2019 (11:59 pm PT).
 + ***[STOC](http://acm-stoc.org/stoc2020/): November 4, 2019.***
 + ***[CVPR](http://cvpr2020.thecvf.com/submission/main-conference/author-guidelines#call-for-papers): November 15, 2019, 23:59 PST.***
-+ [HOST](http://www.hostsymposium.org/call-for-paper.php): November 15, 2019 (round \#2).
++ ***[HOST](http://www.hostsymposium.org/call-for-paper.php): November 15, 2019 (round \#2).***
 + [IC2E](https://conferences.computer.org/IC2E/2020/): November 15 and 22, 2019.
 + ***[ISCA](https://iscaconf.org/isca2020/): November 19 and 26, 2018.***
 + ***[DAC](https://dac.com/): November 21 and 27, 2019 (5:00 PM MST, -7:00 GMT).***
