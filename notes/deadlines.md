@@ -249,6 +249,7 @@ Upcoming Submission deadlines:
 + [RTAS](http://2020.rtas.org/): October 23, 2019.
 + [ETAPS/TACAS/ESOP/FASE](https://www.etaps.org/2020/call-for-papers): October 24, 2019 23:59 AoE (=GMT-12).
 + [ICFC](https://sites.google.com/view/icfc2020/): October 16 and 23, 2019.
++ [CC](https://conf.researchr.org/home/CC-2020): October 23 and 30, 2019.
 + [IRPS](https://irps.org/irps-call-for-papers/download-call-for-papers/): October 25, 2019.
 + ***[TAU Contest 2020](https://sites.google.com/view/taucontest2020/home) registration: October 31st, 2019***
 + ***[ISPD Contest 2020](http://ispd.cc/?page=contests): October/November 2019.***
@@ -911,6 +912,7 @@ List of conference "Call for Papers" deadlines:
 
 + CC, International Conference on Compiler Construction
 	- https://cc-conference.github.io/20/
+	- https://conf.researchr.org/home/CC-2020
 	- February 22-26, 2020.
 	- San Diego, CA.
 	- Submission deadline: October 23 and 30, 2019.
