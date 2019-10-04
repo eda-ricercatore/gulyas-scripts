@@ -249,11 +249,22 @@ Upcoming Submission deadlines:
 + [RTAS](http://2020.rtas.org/): October 23, 2019.
 + [ETAPS/TACAS/ESOP/FASE](https://www.etaps.org/2020/call-for-papers): October 24, 2019 23:59 AoE (=GMT-12).
 + [ICFC](https://sites.google.com/view/icfc2020/): October 16 and 23, 2019.
-+ [IC2E](https://conferences.computer.org/IC2E/2020/): November 15 and 22, 2019.
++ [IRPS](https://irps.org/irps-call-for-papers/download-call-for-papers/): October 25, 2019.
++ [TAU Contest 2020](https://sites.google.com/view/taucontest2020/home) registration: October 31st, 2019
++ [ISPD Contest 2020](http://ispd.cc/?page=contests): October/November 2019.
++ [CICC](http://ieee-cicc.org/): November 3, 2019 (11:59 pm PT).
++ [STOC](http://acm-stoc.org/stoc2020/): November 4, 2019.
 + ***[CVPR](http://cvpr2020.thecvf.com/submission/main-conference/author-guidelines#call-for-papers): November 15, 2019, 23:59 PST.***
-+ ***[ICML](https://icml.cc/Conferences/2020/CallForPapers): Submission deadline: January 31 and February 7, 2020.***
-+ **[IJCNN/WCCI](https://wcci2020.org): January 15, 2020.**
++ [HOST](http://www.hostsymposium.org/call-for-paper.php): November 15, 2019 (round \#2).
++ [IC2E](https://conferences.computer.org/IC2E/2020/): November 15 and 22, 2019.
++ ***[ISCA](https://iscaconf.org/isca2020/): November 19 and 26, 2018.***
++ ***[DAC](https://dac.com/): November 21 and 27, 2019 (5:00 PM MST, -7:00 GMT).***
++ [PLDI](https://pldi20.sigplan.org/track/pldi-2020-papers): November 22, 2019.
++ [VEE](https://conf.researchr.org/home/vee-2020): November 30 and December 6, 2019.
++ [GLSVLSI](http://www.glsvlsi.org): December 17, 2019.
 + [LICS](http://lics.siglog.org/lics20/cfp.php): Submission deadline: January 6 and 10, 2020.
++ **[IJCNN/WCCI](https://wcci2020.org): January 15, 2020.**
++ ***[ICML](https://icml.cc/Conferences/2020/CallForPapers): Submission deadline: January 31 and February 7, 2020.***
 + [ECCV](https://eccv2020.eu/important-dates/): Mid-March, 2020.
 
 
@@ -1113,7 +1124,7 @@ List of conference "Call for Papers" deadlines:
 	- https://www.fccm.org/
 	- Fayetteville, Arkansas.
 	- May 3 – 6, 2020.
-	- Submission deadline: January 6 and 13, 2019.
+	- Submission deadline: January 6 and 13, 2020.
 
 
 
