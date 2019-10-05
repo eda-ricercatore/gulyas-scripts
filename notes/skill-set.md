@@ -4529,10 +4529,37 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- In-depth, hands-on knowledge of JavaScript and experience working with the relevant tools/libraries (React, jQuery, Webpack, etc)
 	- Able to write efficient SQL queries and design schemas for relational databases
 	- Experience with Python and web frameworks (Pyramid, Django, Rails, etc)
-
-
-
-
++ skill set:
+	- Docker container orchestration platforms like Kubernetes or Mesos
+	- Databases and key value stores like MySQL, MongoDB, or Redis
+	- Distributed streaming platforms like Kafka or AWS Kinesis
+	- Monitoring and alerting tools like Grafana and Sensu
+	- React, Angular 1.5, Webpack
+	- Relational databases (like PostgreSQL, MySQL)
+	- Key Value stores (like Redis)
+	- AWS services: AWS Lambda, Aurora, Elasticache, RDS, and other AWS services
++ skill set:
+	- Data technology: Relational databases (like PostgreSQL, MySQL), Key Value stores (like Redis)
+	- Container technology like Docker, and familiarity with Swarm/Kubernetes/Mesos
+	- Distributed systems, including fault tolerant design, event sourcing and other distributed system architectural pattern
++ skill set:
+	- Strong computer science fundamentals: data structures, algorithms, programming languages, distributed systems
+	- Developing, deploying, and monitoring services on cloud infrastructure like Amazon
+	- Understanding of modern application development and architecture
+	- Understanding of DevOps principles such as fail early and often, The Three Ways, small batches, CI/CD
+	- Software development methodology, like TDD and BDD
+	- Distributed systems, including fault tolerant design, event sourcing and other distributed system architectural pattern
+	- Container technology like Docker, and familiarity with Swarm/Kubernetes/Mesos
+	- DevOps skills: Kubernetes, Docker, Terraform, Helm
+	- Software design: Domain Driven Design, Design patterns
+	- Data technology: Relational databases (like PostgreSQL, MySQL), Key Value stores (like Redis)
+	- AWS services: AWS Lambda, Aurora, Elasticache, CloudFront, SNS, SQS, and other AWS services.
++ Orchestration platforms for containers (i.e. Docker, Kubernetes, Swarm or ECS)
++ skill set:
+	- Experience working with Single Sign On (SAML 2.0).
+	- Strong service oriented background including ability to multitask.
+	- Experience with Microsoft Windows domain environment including Active Directory.
+	- Familiarity with server virtualization and hosted infrastructure: AWS, Hyper-V, VMWare, clustering, high availability.
 
 
 

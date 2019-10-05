@@ -73,3 +73,28 @@ if x is not None:
 	print("if x is not None")
 if x is None:
 	print("if x is None")
+
+
+
+"""
+	In this case, they are the same. None is a singleton object (there only ever exists one None).
+	is checks to see if the object is the same object, while == just checks if they are equivalent.
+	
+	Reference:
+		https://stackoverflow.com/a/3257951/1531728
+"""
+p = [1]
+q = [1]
+if p is q:
+	print("p is q; [1] is [1]; something is wrong!!!")
+else:
+	print("False because they are not the same actual object.")
+if p == q:
+	print("p == q; [1] == [1]")
+	print("True because they are equivalent.")
+else:
+	print("p != q; [1] != [1]; something is wrong!!!")
+# But since there is only one None, they will always be the same, and is will return True.
+p = None
+q = None
+p is q # True because they are both pointing to the same "None"
