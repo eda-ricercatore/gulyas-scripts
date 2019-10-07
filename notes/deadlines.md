@@ -238,7 +238,7 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 
 
 Upcoming Submission deadlines:
-+ [ISPD](http://www.ispd.cc/): ***October 7, 2019.***
++ [ISPD](http://www.ispd.cc/): ***October ~~~7~~ 11 (extended deadline), 2019.***
 + [IPDPS](http://www.ipdps.org/ipdps2019/2019-call-for-papers.html): ***October 7 and 14, 2019.***
 + [ISQED](https://www.isqed.org/English/Conference/Call_for_Papers.html): ***October 11, 2019.***
 + [SIGMETRICS](https://www.sigmetrics.org/sigmetrics2020/call_for_papers.html): ***October 14, 2019.***
@@ -771,7 +771,7 @@ List of conference "Call for Papers" deadlines:
 	- http://www.ispd.cc
 	- March 29 - April 1, 2020.
 	- Taipei, Taiwan.
-	- Submission deadline: October 3 and 7, 2019.
+	- Submission deadline: October 3 and ~~~7~~ 11 (extended deadline), 2019.
 
 + VTS 2019, IEEE VLSI Test Symposium
 	- http://tttc-vts.org/public_html/new/2020/
