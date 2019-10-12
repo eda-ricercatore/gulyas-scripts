@@ -238,9 +238,6 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 
 
 Upcoming Submission deadlines:
-+ [ISPD](http://www.ispd.cc/): ***October ~~~7~~ 11 (extended deadline), 2019.***
-+ [IPDPS](http://www.ipdps.org/ipdps2019/2019-call-for-papers.html): ***October 7 and 14, 2019.***
-+ [ISQED](https://www.isqed.org/English/Conference/Call_for_Papers.html): ***October 11, 2019.***
 + [SIGMETRICS](https://www.sigmetrics.org/sigmetrics2020/call_for_papers.html): ***October 14, 2019.***
 + [ISPN](http://ipsn.acm.org/2020/cfp.html): October 16 and 23, 2019.
 + [ICFC](https://sites.google.com/view/icfc2020/): October 16 and 23, 2019.
