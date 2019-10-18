@@ -238,9 +238,6 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 
 
 Upcoming Submission deadlines:
-+ [SIGMETRICS](https://www.sigmetrics.org/sigmetrics2020/call_for_papers.html): ***October 14, 2019.***
-+ [ISPN](http://ipsn.acm.org/2020/cfp.html): October 16 and 23, 2019.
-+ [ICFC](https://sites.google.com/view/icfc2020/): October 16 and 23, 2019.
 + [ISCAS](https://iscas2020.org/): October 20, 2019.
 + [HSCC](https://berkeleylearnverify.github.io/HSCC_2020/): Submission deadline: October 23 (and 28), 2019.
 + [ICCPS](http://iccps.acm.org/2020/): October 23, 2019.
