@@ -4560,7 +4560,23 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Strong service oriented background including ability to multitask.
 	- Experience with Microsoft Windows domain environment including Active Directory.
 	- Familiarity with server virtualization and hosted infrastructure: AWS, Hyper-V, VMWare, clustering, high availability.
-
++ practical knowledge of machine learning tools (e.g. scikit-learn / LightGBM / PyTorch)
++ skill set:
+	- intermediate proficiency in Java and Python,
+	- proficiency in Spark framework,
+	- basic understanding of REST,
+	- practical knowledge of Docker Kubernetes,
+	- good english communication skills,
+	- ability to share your knowledge,
+	- willingness to learn continuously,
+	- basic machine learning knowledge (regression, classification, clustering, validation methods, time series forecasting).
+	- knowledge of Kafka platform,
+	- knowledge of Hadoop framework,
+	- basic programming skills in Scala/R,
+	- familiarity with ELK stack (Elasticsearch, Logstash, Kibana),
+	- knowledge of NoSQL databases (e.g. Cassandra, ELK),
+	- Storm, Nginx technologies.
++ knowledge of object-oriented and functional programming paradigms,
 
 
 
