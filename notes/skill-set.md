@@ -4577,6 +4577,200 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- knowledge of NoSQL databases (e.g. Cassandra, ELK),
 	- Storm, Nginx technologies.
 + knowledge of object-oriented and functional programming paradigms,
++ skill set:
+	- As an intern on our Compiler team, you will work with leaders from industry and academia to develop entirely new solutions for the toughest problems in AI compute.
+	- As deep neural network architectures evolve, they are becoming enormously parallel, and distributed.  Compilers are needed to optimize the mappings of computation graphs to compute nodes. In this position, you will build the tools that generate distributed memory code from evolving intermediate representations.
+	- Design and devise graph semantics, intermediate representations, and abstraction layers between high-level definitions (like TensorFlow’s XLA) and low-level distributed code.
+	- Use state-of-the-art parallelization and partitioning techniques to automate generation, exploiting hand-written distributed kernels.
+	- Identify and implement novel program analysis and optimization techniques.
+	- Employ and extend state of the art program analysis methods such as the Integer Set Library.
+	- Graduate and undergraduate students in Computer Science with a background in compilers and parallel programming.
+	- Two or more years of related work experience on compilers and distributed systems.
+	- Compiler experience; experience generating and optimizing code.
+	- Familiarity with high-level parallel program analysis and optimization
+	- LLVM compiler internals.
+	- Polyhedral models.
+	- Familiarity with HPC kernels and their optimization.
++ skill set:
+	- Design and verification of the Image/Video processing algorithm
+	- AI based pattern recognition, video scaling, video frame interpolation, video enhancement algorithm design.
+	- Knowledge in deep learning theory
+	- Experience building system based on deep-learning framework
+	- Familiar with at least one of AI platforms, such as TensorFlow, PyTorch, Caffee, Keras, etc.
+	- Solid mathematics fundamentals
+	- Knowledge in image/video processing algorithm (preferred)
+	- Knowledge in c/c++ and python; Master degree or Ph.D.
++ skill set:
+	- Responsible for SoC architecture development to achieve good area/power/performance
+	- Collaborate with Marketing and System team to define chip specifications and product roadmaps
+	- Co-work with algorithm team, design team, verification team to ensure the chip implementation follows architectural intend
+	- Help with chip level RTL design, integration and verification, including FPGA emulation
+	- Maintain chip level c-model to support full chip simulation
+	- Support product validation, ATE test and other chip level issues during high volume ramp-up
+	- Master/Ph.D Degree in Electrical/Communication Engineering or related fields\nMinimum 3 years industry SoC development experience. Video processing SoC design experience is preferred
+	- Fluent in Verilog, C/C++
+	- Familiar with clock, reset, low power design
+	- Experience in bus fabric development, integration & performance optimization
+	- Familiar with OCP protocol is a plus
+	- Experience in Perl/python is a plus
+	- Fluent speaking/writing in English and Good communication skill
+	- Self-motivated, Organized, Team Player, Result Oriented, and Fast learning on challenging task
++ skill set:
+	- Independently handle key IC design tasks: Comprehend algorithm or transaction protocol specifications
+	- Develop block-level micro-architecture and implementation with RTL
+	- Preparation of technical documentation
+	- Co-development of verification plan and test case definitions
+	- Chip- and block-level verification debug
+	- Subsystem- and SoC-level integration, including timing constraint definition, logic synthesis, power analysis and timing closure
+	- Support FPGA validation and silicon bring-up
+	- Interface with 3rd party vendors for successful IP integration into SOC
+	- BSEE Degree or above
+	- 3 to 5 years of hands-on experience in digital IC design
+	- Familiar with ASIC design methodology and SoC implementation flow
+	- Experience with common digital IC design CAD tools for simulation, logic synthesis, formal verification and static timing analysis
+	- Attention to detail, self-motivated and the ability to be a team player while working independently
+	- Strong analytical and problem-solving skills
+	- Good communication skills and proficient in written and verbal English
+	- Working experience in one of the following areas is a plus:
+	- Image or video processing IP design
+	- Computer architecture
+	- Interface controllers such as DDR, MIPI, PCI-Express, SATA, USB and HDMI
+	- Mobile or low-power SoC design
+	- Scripting languages such as bash/csh, Perl or Python
++ skill set:
+	- Independently handle key IC design tasks: Understanding the algorithm/protocol requirement and implementation with RTL
+	- Block level Micro-architecture, RTL coding
+	- Chip/block level verification debug
+	- Module and top level integration, including constraints definition, synthesis, power analysis and timing closure
+	- Support FPGA validation and Silicon bring-up
+	- Interface with 3rd party vendor for successful integration into SOC
+	- BSEE Degree or above
+	- About 3~5 years of experience in hands-on digital IC design
+	- Familiarity with ASIC design methodology and SoC implementation flow
+	- Familiarity with standard CAD tools including simulation, synthesis, formal verification tools
+	- Self-motivated in solving problems
+	- Good communication skills and fluent in English
+	- Good team player. A plus to have: Experience of image or video IP design
+	- Good scripting skills
+	- Knowledge of power and low power design
++ skill set:
+	- Develop software to control Pixelworks chip on Android system
+	- Light up MIPI DSI panel with Pixelworks’ chip
+	- Do video and image post processing
+	- Validate new Pixelworks’ chip
+	- Tune PQ performance and system stability
+	- Light up MIPI CSI camera
+	- Integrate Pixelworks algorithm to camera
+	- Validate functionality of ISP pipeline
+	- Support customer
+	- Good education background or knowledge base of image processing and color management is required
+	- In-depth knowledge of Android SurfaceFlinger and HWC is required
+	- Good knowledge background of MIPI DSI is preferred
+	- Good knowledge background of MIPI CSI is preferred
+	- Familiar with camera data processing from hardware and software perspectives
+	- Experience with ISP driver or image quality tuning is preferred
+	- Experience with camera HAL implementation is preferred
+	- Familiar with Android multimedia architecture
+	- Familiar with MDP/SDE of Qualcomm Application Processor from hardware and software perspectives
+	- Excellent C/C++ programming skills required. Java is a plus
+	- English communication capability to work with colleagues around the world
+	- Basic GPU programming is a plus
++ skill set:
+	- Co-work with Architect team and Algorithm team to launch Image/Video processing product
+	- Design and verification of the Image/Video processing engine
+	- Image/Video Algorithm integrating, optimization, analysis
+	- Familiar with ffmpeg, x264,x265,vp8/vp9
+	- Experience of developing product with ffmpeg
+	- linux c/c++ environment programming
+	- parallel programming
+	- Basic understanding about video codec and post-processing
++ skill set:
+	- Definition of block level and product level SoC architecture
+	- Work closely with IC design, verification, software, physical design, and marketing teams to ensure SoC meets feature and performance requirements
+	- Modeling, Architecture, Micro architecture, Digital design, & RTL coding
+	- Interconnect exploration including AHB, AXI, ACE, AXI-stream, and NoC  interconnect architectures
+	- Bachelors Science or better in Electrical Engineering or related field.
+	- Masters or better in Electrical Engineering or related field.
+	- Willingness to travel domestically and internationally
+	- Strong communication skills
+	- Experience working with 3rd party teams
+	- Expertise in scripting languages such as Python, TCL, or Perl
+	- Experience developing design models in high level languages like System Verilog and System C
+	- Solid experience in design convergence cycle, including synthesis, timing closure, and verification
+	- Strong background in memory interfaces including DDR3 / DDR4 / LPDDR4 systems
+	- Familiarity with SoC security capabilities and protocols
+	- Experience in profiling SoC system performance
+	- 12 + years of experience in definition of SoCs
++ skill set:
+	- Responsible for development of EDA database and FPGA design tools.
+	- Responsible for optimizing EDA database and enhancing current software architecture.
+	- Responsible for the design of state-of-art infrastructure for next generation FPGA products.
+	- Working with other software development teams to strongly support EDA tools capacities efficiently.
+	- Improve development methodologies and processes
+	- BS/MS/PHD in Electric Engineering or Computer Science or Mathmatics.
+	- 1+ years of experience in EDA, CAD, ASIC or FPGA.
+	- Experience with C/C++, Python, TCL on LINUX and/or WINDOWS platforms.
+	- Strong background in EDA algorithms and data structures is preferred.
+	- Strong and effective inter-personal and communication skills.
+	- Self-motivated, self-disciplined with the ability to set the team goals and work consistently towards achieving them.
+	- Experience of development of large existing software systems is highly desirable.
+	- Individuals with strong desire and ability to explore new technologies and who are able to demonstrate excellent analysis and problem-solving skills are preferred.
++ Drive the generation, audit and validation of secondary views (IBIS models, Timing files, Power files) in support of faster integration and promote IP re-use
++ skill set:
+	- We are looking for a senior staff engineer with good understanding of neural network implementation on resource constrained embedded devices. In this position you will have an opportunity to influence how customers can efficiently utilize Lattice solution for neural network inference. In-depth understanding of neural network topologies, training with TensorFlow and/or Caffe framework is essential. Candidate need to possess good programming skills with Python, C/C++ with basic understanding of data structures. Candidates need to have the expertise to use embedded architectures such as FPGAs, GPUs, or other embedded processors to realize complex applications using deep learning.
+	- The ideal candidate would possess the following skills:
+		* Ability to create and use deep learning training frameworks for creating new applications.
+		* Expertise in one of Tensorflow, Caffe, Keras, or any other deep learning framework.
+		* Python programming expertise.
+		* Understand different kinds of numerical precisions in implementing deep learning solutions. Ability to translate networks trained with floating point to different fixed point formats. Understand the accuracy loss, and come up with ways to address them.
+		* Be up to date with the current research in neural networks, implementations, competitive solutions, etc.
+	- Able to present solutions to customers, understand their requirements and come up with solutions to address them.
+	- Create neural network models, add new features to neural network compiler for efficient inference, mentor junior engineers, deliver functionally correct software, debug customer issues, document features, develop new testcases, publish papers, file patents
+	- Behaviors
+		* Enthusiastic: Shows intense and eager enjoyment and interest
+		* Detail Oriented: Capable of carrying out a given task with all details necessary to get the task done well
+		* Innovative: Consistently introduces new ideas and demonstrates original thinking
+	- Motivations
+		* Self-Starter: Inspired to perform without outside help
+		* Ability to Make an Impact: Inspired to perform well by the ability to contribute to the success of a project or the organization
+	- Education
+		* Required: Masters or better in Electrical Engineering or related field.
+		* Preferred: Doctorate or better in Computer Engineering or related field.
+	- Experience
+		* PHD on relevant topic, MS with 8+ years experience, BS with 10+ years experience
++ skill set:
+	- Machine learning engineer who develops neural network for a given application and map to FPGA solution. Need to develop technology to map the neural network into FPGA including neural network compiler and HW acceleration engine development.
+	- Need to know the details of machine learning including network design, network training, and training dataset build up. Also need to understand the general accelerator structure of machine learning inferencing engine.
+	- Behaviors
+		* Team Player: Works well as a member of a group
+		* Functional Expert: Considered a thought leader on a subject
+		* Enthusiastic: Shows intense and eager enjoyment and interest
+	- Motivations
+		* Self-Starter: Inspired to perform without outside help
+		* Ability to Make an Impact: Inspired to perform well by the ability to contribute to the success of a project or the organization
+	- Education
+		* Doctorate or better in Electrical Engineering or related field.
+	- Experience
+		* Hands on experience on network design and training. RTL design experience, FPGA design experience
++ skill set:
+	- A successful candidate will join a team designing and developing Lattice FPGA software tools at San Jose. The candidate will contribute to delivering software solution for Lattice FPGA development with emphasis on placement and routing tools. The candidate is expected to research and develop novel algorithms to improve Lattice FPGA placement and routing engines to achieve better Fmax, runtime as well as memory footprint. The candidate is also expected to support new FPGA architecture evaluation and assess its potential impact on existing software tools. The candidate will be responsible for maintaining existing software product too and interacting with other teams to facilitate a value added solution.
+	- Responsible for new architecture evaluation, placement and routing tool’s QoR improvement and support for Radiant/Diamond software release.
+	- Behaviors
+		* Team Player: Works well as a member of a group
+		* Dedicated: Devoted to a task or purpose with loyalty or integrity
+		* Functional Expert: Considered a thought leader on a subject
+	- Motivations
+		* Self-Starter: Inspired to perform without outside help
+		* Growth Opportunities: Inspired to perform well by the chance to take on more responsibility
+		* Ability to Make an Impact: Inspired to perform well by the ability to contribute to the success of a project or the organization
+	- Education
+		* Required: Masters or better in Electrical Engineering or related field.
+		* Preferred: Doctorate or better in Computer Science or related field.
+	- Experience
+		* 8 years: 8+ years experience in EDA place and route development. Expertise in C++, knowledge of data structure and graph algorithms, and strong communication skills are required. Knowledge or experience in FPGA development is a plus.
++ skill set:
++ skill set:
+
 
 
 
