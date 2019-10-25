@@ -4769,7 +4769,57 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Experience
 		* 8 years: 8+ years experience in EDA place and route development. Expertise in C++, knowledge of data structure and graph algorithms, and strong communication skills are required. Knowledge or experience in FPGA development is a plus.
 + skill set:
+	- Principal Security Architect will develop a strategic direction for the security-related architecture of Lattice products, working closely with FPGA system and architecture experts to advance the company’s presence within security-sensitive systems
+		* Reduce risks, threats, and vulnerabilities in systems built with Lattice products
+		* Drive Lattice’s roadmap for data and design security within our programmable logic product line
+		* Meet with customers and ecosystem partners to ensure requirements are understood, implementations are sound, and the broader ecosystem is moving to meet the future challenges
+		* Coordinate across functional business units to ensure robust, secure posture from design to implementation
+		* Represent Lattice at industry forums related to data and design security
+		* Coordinate development of tools, methods, and training to support staff in achieving security objectives and ensure effectiveness of security standards
+		* Will partner closely with engineering, sales, marketing, applications, and end to end customers
+		* Strong customer facing skills
+	- Behaviors
+		* Dedicated: Devoted to a task or purpose with loyalty or integrity
+		* Team Player: Works well as a member of a group
+		* Leader: Inspires teammates to follow them
+	- Motivations
+		* Goal Completion: Inspired to perform well by the completion of tasks
+		* Ability to Make an Impact: Inspired to perform well by the ability to contribute to the success of a project or the organization
+		* Entrepreneurial Spirit: Inspired to perform well by an ability to drive new ventures within the business
+	- Education
+		* Required: Bachelors or better in Computer Science or related field.
+		* Preferred: Masters or better in Computer Science or related field.
+	- Experience
+		* Expert knowledge/background in secure code authentication/attestation and chains of trust
+		* Experience in industry attack, vulnerabilities and solutions around design and data security
+		* Working knowledge of online service architectures for connected/IOT systems
+		* Well versed in Secure Architecture and Design fundamentals
+		* 10 years: 10+ years of experience in the hardware data security industry
 + skill set:
+	- A successful candidate will join a team designing and developing Lattice FPGA software tools at San Jose. The candidate will contribute to delivering software solution for Lattice FPGA development with emphasis on device support including device modeling, simulation model and bitstream generation. The candidate is expected to work closely with FPGA silicon design teams and FPGA SW implementation team (MAP, Place & Route and Timing Analysis) and programming teams to provide an entire FPGA solution from Synthesis to bitstream download. The candidate is also expected to support new FPGA architecture evaluation and assess its potential impact on existing software tools. The candidate will be responsible for maintaining existing software product too and interacting with other teams to facilitate a value added solution.
+	- Behaviors
+		* Team Player: Works well as a member of a group
+		* Innovative: Consistently introduces new ideas and demonstrates original thinking
+		* Detail Oriented: Capable of carrying out a given task with all details necessary to get the task done well
+	- Motivations
+		* Growth Opportunities: Inspired to perform well by the chance to take on more responsibility
+		* Goal Completion: Inspired to perform well by the completion of tasks
+		* Self-Starter: Inspired to perform without outside help
+	- Education
+		* Required: Bachelors or better in Electrical and Electronics Engineering or related field.
+		* Preferred: Masters or better in Electrical Engineering or related field.
+	- Experience
+		* Required
+			+ C++ programming and data structure
+			+ 5 years: Expertise in C++, Verilog, and scripts, knowledge of logic design, simulation and data structure
+		* Preferred
+			+ knowledge of FPGA, logic design & simulation
+			+ EDA tool development
+			+ Logic design & familiar with Verilog & VHDL
+			+ Strong communication skills are required
+			+ Knowledge or experience in FPGA development and System Verilog is a plus
+			+ 3 years: Experience in EDA development
+
 
 
 
