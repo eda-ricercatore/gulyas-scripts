@@ -4819,6 +4819,85 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 			+ Strong communication skills are required
 			+ Knowledge or experience in FPGA development and System Verilog is a plus
 			+ 3 years: Experience in EDA development
++ skill set:
+	- Solid background in multiple programming languages, e.g. Python or C/C++ and willingness to pick up any new programming languages or frameworks.
+	- Fearless about jumping around the stack (from improving driver to writing CUDA kernel to putting together React webapp) and working on aspects that have significant impact on product
+	- Having built enough systems to recognize what are the pragmatic designs (not the most fancy ones)
+	- Shape the vision and architecture of the system infrastructure that powers the next-generation of intelligent machines.
+	- Implement mission-critical software in a reliable and sustainable manner.
+	- Craft tools, processes and frameworks to redefine the software development in the rise of autonomous systems powered by artificial intelligence.
+	- Collaborate with, learn from, and mentor a team of diverse roles, which include software engineers, roboticists and AI researchers.
+	- Have worked at a startup before. Enjoy the fast-paced environment.
+	- Know how to scale yourself as the company grows, via mentorship, delegation, increased role and responsibilities.
+	- Are self-directed and enjoy figuring out what is the most important problem to work on.
+	- Own problems end-to-end, and are willing to pick up whatever knowledge you're missing to get the job done.
+	- Are detail oriented, and like to get the system working but know when to cut corners versus get it exactly right.
+	- Have a strong interest in AI & robotics.
+	- At covariant.ai we don’t just accept difference—we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Covariant.ai is proud to be an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.
++ skill set:
+	- Drawing on recent advances in Deep Imitation Learning and Deep Reinforcement Learning, covariant.ai is developing AI software that makes it easy for robots to learn new, complex skills.
+	- As a part of a rapidly growing startup, you will have the rare opportunity to build and develop software that mimics human behavior without the help of engineers, while also growing and developing your own skills and passions as the company expands. Join us on an exciting journey as we bring the latest breakthroughs in artificial intelligence to the future of robotics.
+	- Work side-by-side with the top talent in industry and academia in the field of AI + robotics.
+	- Implement mission-critical software in a reliable and sustainable manner.
+	- Evolve best practices for traditional software development to address the needs of cyber-physical systems and deep-learning-based software -- including scalability, maintainability, and security.
+	- Collaborate with and support a diverse team, which includes software engineers, mechanical and electrical engineers, roboticists, and ML researchers.
++ skill set:
+	- You have strong coding skills in several of the following languages/libraries: Python, NumPy, TensorFlow, PyTorch.
++ skill set:
+	- We are looking for Research Scientist interns who have applied experience in the fields of in the fields of NLP, human-computer interaction, user behavioral analysis and/or the intersection of HCI, NLP and Machine Learning including algorithmic bias. We are open to a variety of approaches and methods to answer research questions related to how people interact and engage with Spotify. You will be part of an interdisciplinary team focused on making every user interaction with Spotify amazing through personalization and discovery, and in the process pushing state of the art and contributing to the wider research community by publishing papers. We work on a broad range of Spotify features – personalized playlists such as Discover Weekly and Daily Mix, the Homepage, Search and other ML systems powering recommendations of music and podcasts to 180 million users with billions of interactions.
+	- You are currently in a PhD program in human-computer interaction, psychology, NLP, statistics, IR/search/agents, data science or related area.
+	- You have publications in top tier venues such as CHI, ACL, UbiComp, SIGIR, Interspeech, HRI, CSCW, RecSys, or related.
+	- You are intrigued by how interaction design, data collection strategies, and people’s perceptions affect Machine Learning outcomes.
+	- You have a demonstrated interest in speech/natural language, personalized recommendations, crowdsourcing, diversity in AI – and music or podcasts.
+	- You are a creative problem-solver who is passionate about digging into complex problems and devising new approaches to reach results.
+	- You have experience with the complexities of real-world data, and understand the value of both in-depth, qualitative and web-scale, quantitative data working together to create a deep understanding of people’s interaction with technology.
++ skill set:
+	- We are looking for Research Scientist interns who have applied experience in the field of machine learning, machine Intelligence, user behavioural analysis, IR, NLP, and more broadly, AI. You will be part of an interdisciplinary team focused on making every user interaction with Spotify amazing through personalisation and discovery, and in the process pushing state of the art and contributing to the wider research community by publishing papers. We work on a broad range of Spotify features – personalised playlists such as Discover Weekly and Daily Mix, the Homepage, Search and other ML systems powering recommendations.
+	- Courses: PhD programme in Computer Science, Data Science, or related areas with a strong computational focus.
+	- Experience: Publications in top tier venues such as WWW, SIGIR, WSDM, RecSys, CHI, KDD, AAAI, ACL, NeurIPS, ICML, or related, in the following topics: search, marketplace research, recommendations, user understanding, large scale experimentation, linguistics or (more broadly) machine learning.
++ skill set:
+	- Build large-scale batch and real-time data pipelines with data processing frameworks like Scalding, Scio, Storm, Spark and the Google Cloud Platform.
+	- Leverage best practices in continuous integration and delivery.
+	- Help drive optimization, testing and tooling to improve data quality.
+	- Collaborate with other engineers, ML experts and stakeholders, taking learning opportunities that will arise every single day.
+	- Work in cross functional agile teams to continuously experiment, iterate and deliver on new product objectives.
+	- You are pursuing a Bachelor’s or Master’s degree or a bootcamp certification in Computer Science or Computer Engineering or a related field of study.
+	- You’ve dabbled in high volume data, preferably with distributed systems such as Hadoop, BigTable, and Cassandra.
+	- You’ve had exposure to data modeling, data access, and data storage techniques.
+	- You have an interest in agile software processes, data-driven development, reliability, and responsible experimentation.
+	- You understand the value of collaboration within teams.
++ skill set:
+	- We are looking for Data Scientist Interns to #JoinTheBand and help drive a data-first culture across our Finance teams at Spotify. Data scientists within our Finance team has the mission of utilizing data insights to drive decision-making for the organization. You will study user behavior, strategic initiatives, markets, content, and new features and bring data and insights into every decision we make. Above all, your work will impact the way the world experiences music.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
