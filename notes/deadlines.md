@@ -239,6 +239,7 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 
 Upcoming Submission deadlines:
 + [CC](https://conf.researchr.org/home/CC-2020): October 23 and 30, 2019.
++ ***Facebook proposal: November 1, 5 p.m., AOE***
 + [CICC](http://ieee-cicc.org/): November 3, 2019 (11:59 pm PT).
 + ***[STOC](http://acm-stoc.org/stoc2020/): November 4, 2019.***
 + ***[ISPD Contest 2020](http://ispd.cc/?page=contests): October/November 2019.***
