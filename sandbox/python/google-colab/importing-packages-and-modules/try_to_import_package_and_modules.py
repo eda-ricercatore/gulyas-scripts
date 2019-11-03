@@ -93,6 +93,18 @@ open('./utilities/simple_module.py','wb').write(src)
 import mylib
 """
 
+"""
+	using PyDrive
+https://stackoverflow.com/questions/37913458/manage-files-from-public-google-drive-url-using-pydrive
+"""
+
+
+"""
+	Other resources:
+		https://www.marktechpost.com/2019/06/07/how-to-connect-google-colab-with-google-drive/
+"""
+
+
 from google.colab import drive
 drive.mount('/content/gdrive')
 import sys
@@ -101,6 +113,7 @@ sys.path.append('/content/drive/My\ Drive/Colab\ Notebooks/utilities')
 ###############################################################
 #	Import Custom Python Modules
 
+import utilities
 # Module to test if I can import a Python package and module.
 from utilities.simple_module import simple
 
