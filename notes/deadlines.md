@@ -572,15 +572,6 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ ASPLOS, International Conference on Architectural Support for Programming Languages and Operating Systems
-	- https://asplos-conference.org
-	- https://asplos-conference.org/calls/
-	- March 16-20, 2020.
-	- Lausanne, Switzerland.
-	- Submission deadline: August 9 and 16, 2019.
-	- ***Go to ASPLOS***
-	- ASPLOS is co-sponsored by SIGPLAN, SIGARCH, and SIGOPS
-
 
 
 
@@ -592,6 +583,15 @@ List of conference "Call for Papers" deadlines:
 
 
 
+
++ ASPLOS, International Conference on Architectural Support for Programming Languages and Operating Systems
+	- https://asplos-conference.org
+	- https://asplos-conference.org/calls/
+	- March 16-20, 2020.
+	- Lausanne, Switzerland.
+	- Submission deadline: August 9 and 16, 2019.
+	- ***Go to ASPLOS***
+	- ASPLOS is co-sponsored by SIGPLAN, SIGARCH, and SIGOPS
 
 
 
