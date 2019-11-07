@@ -1809,14 +1809,21 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ PP20, SIAM Conference on Parallel Processing for Scientific Computing
+	- https://www.siam.org/conferences/cm/conference/pp20
+	- February 12-15, 2020
+	- Seattle, WA.
+	- Submission deadlines:
+		* August 13, 2019
+		* September 1, 2019
+		* September 10, 2019
 
 
 
 
-
-+ PACT, International Conference on Parallel Architectures and Compilation Techniques
++ PACT19, International Conference on Parallel Architectures and Compilation Techniques
 	- http://pactconf.org/
-	- September 23-26, 2019.
+	- September 21-25, 2019.
 	- Seattle, Washington.
 	- Submission deadline: April 11 and 15, 2019.
 
@@ -1852,6 +1859,10 @@ List of conference "Call for Papers" deadlines:
 	- Submission deadline: April 18 and 25, 2019.
 
 
+
+
+
+
 + TABLEAUX, International Conference on Automated Reasoning with Analytic Tableaux and Related Methods
 	- https://tableaux2019.org/
 	- http://www.tableaux-ar.org/next.html
@@ -1864,6 +1875,17 @@ List of conference "Call for Papers" deadlines:
 	- Amsterdam, The Netherlands.
 	- August 26-31, 2019.
 	- Submission deadline: April 21 and 24, 2019.
+
+
++ PPAM, International Conference on Parallel Processing and Applied Mathematics
+	- https://ppam.pl/
+	- Bialystok, Poland
+	- September 8-11, 2019
+	- Submission deadline: ~~April 21 and May 31, 2019.~~ May 6 and June 17, 2019
+
+
+
+
 
 
 
