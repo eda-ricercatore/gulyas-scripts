@@ -379,3 +379,31 @@ MoRe is a meeting place for researchers in the area of multi-objective reasoning
 + Case Studies describing work on a real-world problem using Data Science and Advanced Analytics that highlight important application domain-specific discoveries, lessons learned and/or challenges encountered from deploying real-world systems containing Data Science and Advanced Analytics approaches, data science and analysis-related ethical issues and solution approaches related to real-world applications.
 + Infrastructure, Platforms, and Tools that were built to operationalize Data Science and Advanced Analytics, including the development and deployment of new hardware and software infrastructure and its associated challenges; the development, deployment, and use of reusable libraries and software implementations; and tools that are in production and are used by end-users either in a stand-alone capacity or as part of a business process.
 + Submissions for both the research and applications tracks  should very clearly specify the problem being solved, what methodologies were used to solve the problem, what data was used, how the results were evaluated, and how the solution is being used (ideally in production). Applying new data science methods to public data or data downloaded from competition sites (such as kaggle), without a real problem (and problem owner) will not be accepted in this track.
+
+
+
+
+#	Third International Workshop on Autonomic Solutions for Parallel and Distributed Data Stream Processing (Auto-DaSP 2019)
+
+See http://calvados.di.unipi.it/auto-dasp-19/.
+
+High-volume data streams can be efficiently handled through the adoption of novel high-performance solutions targeting today’s highly parallel hardware. This comprises multicore-based platforms and heterogeneous systems equipped with GPU and FPGA co-processors, aggregated at rack level by low-latency/high-bandwidth networks. The capacity of these highly-dense/highly-parallel rack-scale solutions has grown remarkably over the years, offering tens of thousands of heterogeneous cores and multiple terabytes of aggregated RAM reaching computing, memory and storage capacity of a large warehouse-scale cluster of just few years ago.
+
+However, despite this large computing power, high-performance data streaming solutions need to be equipped with flexible and autonomic logics in order to adapt the framework/application configuration to rapidly changing execution conditions and workloads. This turns out in mechanisms and strategies to adapt the queries and operator placement policies, intra-operator parallelism degree, scheduling strategies, load shedding rate and so forth, and fosters novel interdisciplinary approaches that exploit Control Theory and Artificial Intelligence methods.
+
+
+
+
+Parallel models for streaming applications
+Parallel sliding-window query processing
+Streaming parallel patterns
+Autonomic intra-operator parallel solutions
+Strategies for dynamic operator and query placement
+Elastic techniques to cope with burstiness and workload variations
+Integration of elasticity support in stream processing frameworks
+Stream processing on heterogeneous and reconfigurable hardware
+Stream scheduling strategies and load balancing
+Adaptive load shedding techniques
+Techniques to deal with out-of-order data streams
+Power- and energy-aware management of parallel stream processing systems
+Applications and use cases in various domains including Smart Cities, Internet of Things, Finance, Social Media, and Healthcare

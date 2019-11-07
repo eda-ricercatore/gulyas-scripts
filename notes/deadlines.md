@@ -238,7 +238,6 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 
 
 Upcoming Submission deadlines:
-+ ***[Facebook proposal](https://research.fb.com/programs/research-awards/proposals/distributed-systems-research-request-for-proposals/): December 6, 2019 at 11:59 p.m., AOE***
 + ***[ISPD Contest 2020](http://ispd.cc/?page=contests): October/November 2019.***
 + ***[CVPR](http://cvpr2020.thecvf.com/submission/main-conference/author-guidelines#call-for-papers): November 15, 2019, 23:59 PST.***
 + ***[HOST](http://www.hostsymposium.org/call-for-paper.php): November 15, 2019 (round \#2).***
@@ -248,6 +247,7 @@ Upcoming Submission deadlines:
 + [PLDI](https://pldi20.sigplan.org/track/pldi-2020-papers): November 22, 2019.
 + [VEE](https://conf.researchr.org/home/vee-2020): November 30 and December 6, 2019.
 + ***[S&P](https://www.ieee-security.org/TC/SP2020/cfpapers.html): Rolling (Final deadline: Submit by December 1, 2019)***
++ ***[Facebook proposal](https://research.fb.com/programs/research-awards/proposals/distributed-systems-research-request-for-proposals/): December 6, 2019 at 11:59 p.m., AOE***
 + [GLSVLSI](http://www.glsvlsi.org): December 17, 2019.
 + ***[LICS](http://lics.siglog.org/lics20/cfp.php): Submission deadline: January 6 and 10, 2020.***
 + [FCCM](https://www.fccm.org/): January 6 and 13, 2020.
@@ -522,6 +522,37 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ ICPADS, International Conference on Parallel and Distributed Systems
+	- http://www.icpads2019.cn/call_for_papers.html
+	- VENUE
+	- DATES
+	- Submission deadline: Mid-/Late July, 2020.
+
+
+
+
+
+
++ FPT 1X, International Conference on Field-Programmable Technology
+	- http://fpt19.tju.edu.cn/index.htm
+	- http://www.icfpt.org/
+	- December 9-13, 2019
+	- Tianjin, China.
+	- *FPT is the premier conference in the Asia-Pacific region on field-programmable technologies, reconfigurable computing devices and systems.*
+	- Submission deadline: July 15 and 22, 2019.
+
+
+
+
+
+
+
+
+
+
+
+
+
 + HPCA, IEEE International Symposium on High-Performance Computer Architecture
 	- https://www.hpca-conf.org/2020/
 	- https://www.hpca-conf.org/2020/calls/
@@ -553,16 +584,13 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ SC19, International Conference for High Performance Computing, Networking, Storage, and Analysis
+	- https://sc19.supercomputing.org/important-deadlines/
+	- Denver, CO
+	- Submission deadline: August 7, 2019.
 
 
 
-+ FPT 1X, International Conference on Field-Programmable Technology
-	- http://fpt19.tju.edu.cn/index.htm
-	- http://www.icfpt.org/
-	- December 9-13, 2019
-	- Tianjin, China.
-	- *FPT is the premier conference in the Asia-Pacific region on field-programmable technologies, reconfigurable computing devices and systems.*
-	- Submission deadline: July 15 and 22, 2019.
 
 
 
@@ -1369,13 +1397,13 @@ List of conference "Call for Papers" deadlines:
 
 
 
- + FCRC, Federated Computing Research Conference
- 	- https://fcrc.acm.org
- 	- Phoenix, AZ
- 	- Conference dates: June 22-28, 2019.
- 	- Associated conferences:
- 		* EC 2019: The 20th ACM Conference on Economics and Computation
- 			- Submission deadline: February 15, 2018.
++ FCRC, Federated Computing Research Conference
+	- https://fcrc.acm.org
+	- Phoenix, AZ
+	- Conference dates: June 22-28, 2019.
+	- Associated conferences:
+		* EC 2019: The 20th ACM Conference on Economics and Computation
+			- Submission deadline: February 15, 2018.
 
 
 
@@ -1391,6 +1419,14 @@ List of conference "Call for Papers" deadlines:
 	- August 25-30, 2019.
 	- ***Organized/Held in odd-numbered years only***
 	- Submission deadline: February 15 and 22, 2019.
+
+
+
++ ParCo202?, International Conference on Parallel Computing
+	- https://www.parco.org/
+	- VENUE
+	- DATES
+	- Submission deadline: Mid-/Late February, 2020.
 
 
 
@@ -1603,6 +1639,14 @@ List of conference "Call for Papers" deadlines:
 
 
 
+
+
+
+
+
+
+
+
 + ICCAD, International Conference On Computer Aided Design
 	- https://iccad.com/
 	- [CFP](https://iccad.com/2019_call_for_papers): https://iccad.com/sites/iccad.com/files/ICCAD%202019%20Call%20for%20Papers.pdf
@@ -1801,6 +1845,20 @@ List of conference "Call for Papers" deadlines:
 	- Porto, Portugal.
 	- October 8-11, 2019.
 	- Submission deadline: April 30, 2019.
+
+
+
++ DISC 202?, International Symposium on Distributed Computing
+	- http://www.disc-conference.org/wp/
+	- VENUE
+	- DATES
+	- Submission deadline: Early May, 2020.
+
+
+
+
+
+
 
 
 
