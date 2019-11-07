@@ -570,7 +570,12 @@ List of conference "Call for Papers" deadlines:
 
 
 
-
++ SIROCCO 2020, International Colloquium on Structural Information and Communication Complexity
+	- https://sirocco2020.cs.uni-paderborn.de/
+	- http://sirocco.hiit.fi/
+	- Paderborn, Germany
+	- June 29 - July 1, 2020.
+	- Submission deadline: March 6, 11:59 pm (AoE)
 
 
 
@@ -626,6 +631,22 @@ List of conference "Call for Papers" deadlines:
 	- San Diego, CA.
 	- Feb 22-26, 2020.
 	- Submission deadline: August 30 and September 6, 2019.
+
+
+
+
+
+
+
++ OPODIS, International Conference on Principles of Distributed Systems
+	- https://opodis2019.unine.ch/
+	- Neuchâtel, Switzerland
+	- December 17-19, 2019.
+	- Submission deadline: ~~August 31 and September 5, 2019.~~ September 3 and 9, 2019.
+
+
+
+
 
 
 
@@ -1180,6 +1201,19 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ ICDCS 2020, 40th IEEE International Conference on Distributed Computing Systems
+	- https://icdcs2020.sg/
+	- July 8-10, 2020
+	- Singapore
+	- Submission deadline: January 6 and 13, 2020.
+
+
+
+
+
+
+
+
 
 
 
@@ -1187,7 +1221,7 @@ List of conference "Call for Papers" deadlines:
 	- http://spaa.acm.org
 	- Philadelphia, PA, USA
 	- July 15-17, 2020
-	- Submission deadline: ***???~~January 8 and 11, 2019.~~???***
+	- Submission deadline: ***January 8 and 15, 2020.***
 
 
 
@@ -1441,6 +1475,21 @@ List of conference "Call for Papers" deadlines:
 
 
 
+
++ DEBS, ACM International Conference on Distributed and Event‐based Systems
+	- https://2020.debs.org/
+	- July 13-17, 2020.
+	- Montreal, Quebec, Canada.
+	- Submission deadline: February 18 and 25, 2020.
+
+
+
+
+
+
+
+
+
 + CCC, Computational Complexity Conference
 	- CONFERENCE-SPECIFIC URL.
 	- http://www.computationalcomplexity.org/conferences.php
@@ -1658,6 +1707,23 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ ISPDC-2019, International Symposium on Parallel and Distributed Computing
+	- http://www.ispdc.atlarge-research.com/call-for-papers/
+	- Amsterdam, The Netherlands.
+	- June 5-7, 2019.
+	- Submission deadline: April 1, 2019.
+
+
+
+
+
+
+
+
+
+
+
+
 + ASAP, IEEE International Conference on Application-specific Systems, Architectures and Processors
 	- https://asap2019.csl.cornell.edu/
 	- New York, NY. @Cornell Tech.
@@ -1733,7 +1799,11 @@ List of conference "Call for Papers" deadlines:
 
 
 
-
++ HPCS 2020, International Conference on High Performance Computing & Simulation
+	- http://hpcs2019.cisedu.info/
+	- July 15 – 19, 2019
+	- Dublin, Ireland
+	- Submission deadline: April 8, 2019.
 
 
 
@@ -1801,6 +1871,11 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ HLPP-202?, International Symposium on High-Level Parallel Programming and Applications
+	- https://www.ida.liu.se/conferences/hlpp2019/
+	- July 3-5, 2019
+	- Linköping, Sweden
+	- Submission deadline: April 25, 2019.
 
 
 
