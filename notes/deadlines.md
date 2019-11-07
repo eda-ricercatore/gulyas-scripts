@@ -1583,6 +1583,23 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ ICPP, 49th International Conference on Parallel Processing
+	- https://jnamaral.github.io/icpp20/
+	- Edmonton, AB, Canada
+	- August 17-20, 2020
+	- Submission deadline: March 2-9, 2020.
+
+
+
+
+
+
+
+
+
+
+
+
 + ISVLSI 2019, IEEE Computer Society Annual Symp. on VLSI
 	- http://www.isvlsi.org
 	- http://www.eng.ucy.ac.cy/theocharides/isvlsi19/
@@ -2522,6 +2539,25 @@ Journals in signal processing and communication/information theory:
 + IEEE Transactions on Smart Grid
 + IEEE Transactions on Mobile Computing (TMC)
 + IEEE/OSA Journal of Lightwave Technology
+
+
+
+
+#	Benchmarks and Data Sets
+
++ [SPEC CUP2017 benchmarks](https://webdocs.cs.ualberta.ca/~amaral/AlbertaWorkloadsForSPECCPU2017/benchmarks/index.html)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
