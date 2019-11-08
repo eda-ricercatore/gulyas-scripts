@@ -916,7 +916,15 @@ List of conference "Call for Papers" deadlines:
 
 
 
-
++ EDBT/ICDT 2020 Joint Conference
+	- ICDT, 23rd International Conference on Database Theory
+		* https://databasetheory.org/icdt-pages
+	- March 30 - April 2, 2020
+	- Copenhagen, Denmark
+	- https://diku-dk.github.io/edbticdt2020/?contents=important_dates.html
+	- ICDT Submission deadlines:
+		* 1st submission cycle: March 27 and April 3, 2019
+		* ***2nd submission cycle: September 15 and 23, 2019***
 
 
 
@@ -2217,7 +2225,15 @@ List of conference "Call for Papers" deadlines:
 
 
 
-
++ EDBT/ICDT 2020 Joint Conference
+	- ICDT, 23rd International Conference on Database Theory
+		* https://databasetheory.org/icdt-pages
+	- March 30 - April 2, 2020
+	- Copenhagen, Denmark
+	- https://diku-dk.github.io/edbticdt2020/?contents=important_dates.html
+	- ICDT Submission deadlines:
+		* ***1st submission cycle: March 27 and April 3, 2019***
+		* 2nd submission cycle: September 15 and 23, 2019
 
 
 
