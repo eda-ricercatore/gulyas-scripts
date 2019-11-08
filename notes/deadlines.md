@@ -453,6 +453,10 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ SYNTCOMP, Reactive Synthesis Competition
+	- http://www.syntcomp.org/schedule/
+	- http://www.syntcomp.org/
+	- Deadlines: Late May or June till mid-July.
 
 
 
@@ -510,15 +514,23 @@ List of conference "Call for Papers" deadlines:
 	- Submission deadline: June 1, 2019.
 
 
++ FSE, Conference on Fast Software Encryption
+	- 27th Fast Software Encryption Conference
+	- Athens, Greece
+	- March 22-26, 2020
+	- https://fse.iacr.org/2020/papersubmission.html
+	- https://fse.iacr.org/2020/callforpapers.html
+	- https://fse.iacr.org/2020/index.html
+	- https://www.iacr.org/meetings/fse/
+	- Timeline for FSE 2020 / IACR Transactions on Symmetric Cryptology 2019/2020: Submission deadlines
+		* 1st round: March 1, 2019
+		* ***2nd round: June 1, 2019***
+		* 3rd round: September 1, 2019
+		* 4th round: November 23, 2019
 
 
 
 
-
-+ SYNTCOMP, Reactive Synthesis Competition
-	- http://www.syntcomp.org/schedule/
-	- http://www.syntcomp.org/
-	- Deadlines: Late May or June till mid-July.
 
 
 
@@ -852,6 +864,24 @@ List of conference "Call for Papers" deadlines:
 	- December 17-19, 2019.
 	- Submission deadline: ~~August 31 and September 5, 2019.~~ September 3 and 9, 2019.
 
+
+
+
+
+
++ FSE, Conference on Fast Software Encryption
+	- 27th Fast Software Encryption Conference
+	- Athens, Greece
+	- March 22-26, 2020
+	- https://fse.iacr.org/2020/papersubmission.html
+	- https://fse.iacr.org/2020/callforpapers.html
+	- https://fse.iacr.org/2020/index.html
+	- https://www.iacr.org/meetings/fse/
+	- Timeline for FSE 2020 / IACR Transactions on Symmetric Cryptology 2019/2020: Submission deadlines
+		* 1st round: March 1, 2019
+		* 2nd round: June 1, 2019
+		* ***3rd round: September 1, 2019***
+		* 4th round: November 23, 2019
 
 
 
@@ -2132,6 +2162,29 @@ List of conference "Call for Papers" deadlines:
 	- Lisbon, Portugal.
 	- July 7-12, 2019.
 	- Submission deadline: March 1 and 8, 2019
+
+
+
+
+
++ FSE, Conference on Fast Software Encryption
+	- 27th Fast Software Encryption Conference
+	- Athens, Greece
+	- March 22-26, 2020
+	- https://fse.iacr.org/2020/papersubmission.html
+	- https://fse.iacr.org/2020/callforpapers.html
+	- https://fse.iacr.org/2020/index.html
+	- https://www.iacr.org/meetings/fse/
+	- Timeline for FSE 2020 / IACR Transactions on Symmetric Cryptology 2019/2020: Submission deadlines
+		* ***1st round: March 1, 2019***
+		* 2nd round: June 1, 2019
+		* 3rd round: September 1, 2019
+		* 4th round: November 23, 2019
+
+
+
+
+
 
 
 
