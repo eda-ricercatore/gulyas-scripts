@@ -695,12 +695,7 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ SIROCCO 2020, International Colloquium on Structural Information and Communication Complexity
-	- https://sirocco2020.cs.uni-paderborn.de/
-	- http://sirocco.hiit.fi/
-	- Paderborn, Germany
-	- June 29 - July 1, 2020.
-	- Submission deadline: March 6, 11:59 pm (AoE)
+
 
 
 
@@ -2123,7 +2118,12 @@ List of conference "Call for Papers" deadlines:
 
 
 
-
++ SIROCCO 2020, International Colloquium on Structural Information and Communication Complexity
+	- https://sirocco2020.cs.uni-paderborn.de/
+	- http://sirocco.hiit.fi/
+	- Paderborn, Germany
+	- June 29 - July 1, 2020.
+	- Submission deadline: March 6, 11:59 pm (AoE)
 
 
 + MWSCAS, IEEE International Midwest Symposium on Circuits and Systems
@@ -2333,6 +2333,14 @@ List of conference "Call for Papers" deadlines:
 	- **"RSP, International Symposium on Rapid System Prototyping".**
 
 
++ SenSys 2019, ACM Conference on Embedded Networked Sensor Systems
+	- Conference on Embedded Networked Sensor Systems
+	- http://sensys.acm.org/2019/cfp/
+	- http://sensys.acm.org/2019/index.html
+	- http://sensys.acm.org/
+	- November 10-13, 2019
+	- New York, NY
+	- Submission deadlines: April 5 and 12, 2019
 
 
 
