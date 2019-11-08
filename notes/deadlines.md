@@ -1291,18 +1291,18 @@ List of conference "Call for Papers" deadlines:
 	- April 25-30, 2020.
 	- Dublin, Ireland.
 	- Submission deadline: October 24, 2019 23:59 AoE (=GMT-12).
-+ TACAS, International Conference on Tools and Algorithms for the Construction and Analysis of Systems
-	- https://www.etaps.org/2020/tacas
-+ ESOP, European Symposium on Programming
-	- https://www.etaps.org/2020/esop
-+ FASE, International Conference on Fundamental Approaches to Software Engineering
-	- https://www.etaps.org/2020/fase
-+ FoSSaCS, International Conference on Foundations of Software Science and Computation Structures
-	- https://www.etaps.org/2020/fossacs
-+ POST, International Conference on Principles of Security and Trust
-	- URL???
-+ ALGOSENSORS, International Symposium on Algorithms and Experiments for Wireless Sensor Networks
-	- http://www.algosensors-symposium.org/
+	- TACAS, International Conference on Tools and Algorithms for the Construction and Analysis of Systems
+		* https://www.etaps.org/2020/tacas
+	- ESOP, European Symposium on Programming
+		* https://www.etaps.org/2020/esop
+	- FASE, International Conference on Fundamental Approaches to Software Engineering
+		* https://www.etaps.org/2020/fase
+	- FoSSaCS, International Conference on Foundations of Software Science and Computation Structures
+		* https://www.etaps.org/2020/fossacs
+	- POST, International Conference on Principles of Security and Trust
+		* URL???
+	- ALGOSENSORS, International Symposium on Algorithms and Experiments for Wireless Sensor Networks
+		* http://www.algosensors-symposium.org/
 
 
 
