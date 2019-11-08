@@ -1400,7 +1400,7 @@ List of conference "Call for Papers" deadlines:
 	- https://host2020.hotcrp.com/
 	- San Jose, CA.
 	- May 4-8, 2020.
-	- Submission deadline: August 15, 2019 (round \#1) and November 15, 2019 (round \#2).
+	- Submission deadline: August 15, 2019 (round \#1) and ***November 15, 2019 (round \#2)***.
 
 
 
