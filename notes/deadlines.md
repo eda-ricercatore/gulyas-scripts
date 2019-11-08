@@ -21,6 +21,16 @@ Fix mathematical proof for paper and implement processor subsystems.
 	- Same venue as AAAI 2019.
 	- New York, NY.
 	- Submission deadline: **September 5, 2019**
++ AAMAS, International Conference on Autonomous Agents and Multiagent Systems
+	- https://aamas2020.conference.auckland.ac.nz/call-for-papers/#:~:targetText=The%20aim%20of%20the%20joint,be%20held%20in%20New%20Zealand.
+	- https://aamas2020.conference.auckland.ac.nz/
+	- "IFAAMAS sponsors the annual International Conference on Autonomous Agents and Multiagent Systems (AAMAS)."
+		* International Foundation for Autonomous Agents and Multiagent Systems (IFAAMAS).
+	- "The AAMAS conference series was initiated in 2002 as a merger of three highly respected individual conferences: AGENTS (International Conference on Autonomous Agents), ICMAS (International Conference on Multi-Agent Systems), and ATAL (International Workshop on Agent Theories, Architectures, and Languages). The aim of the joint conference is to provide a single, high-profile, internationally renowned forum for research in the theory and practice of autonomous agents and multiagent systems."
+	- "International Joint Conference on Autonomous Agents and Multiagent Systems (previously the International Conference on Multiagent Systems, ICMAS, changed in 2000)"
+	- May 9-13, 2020
+	- Auckland, New Zealand
+	- Submission deadline: November 12-15, 2019.
 + ACL, Annual Meeting of the Association for Computational Linguistics
 	- URL
 	- VENUE
@@ -167,6 +177,10 @@ Transparency
 	- Copenhagen, Denmark.
 	- September 16-20, 2019.
 	- Submission deadline: April 15 and 23, 2019.
++ RSA Conference 2020
+	- https://www.rsaconference.com/usa
+	- San Francisco
+	- February 24-28, 2020
 + SIGGRAPH, ACM special interest group on Computer GRAPHics and Interactive Techniques
 	- https://s2020.siggraph.org/
 	- Washington, D.C..
@@ -225,16 +239,37 @@ Transparency
 	- Submission deadline: Oct 7 and 14, 2019.
 
 
+###	Pivots
+
+####	Domain-specific Distributed & Parallel Computing
+
++ NDSS
++ PODC
++ HPDC
++ ICDCS
++ IPDPS
++ OPODIS
++ ICPP
++ PPSN
++ SPAA
+
+####	AI, Machine Learning
+
++ AAAI
 
 
 
 
+####	(Hardware) Security
+
++ http://jianying.space/conference-ranking.html
 
 
 
 ###	Attack Plan
 
 MTFD: Meet The Final Deadline; and, apply for [research internships](https://github.com/christine-hu/summer-2019-internships).
++ ***Meet the [Facebook](https://research.fb.com/programs/research-awards/proposals/distributed-systems-research-request-for-proposals/) Deadline!!!
 
 
 Upcoming Submission deadlines:
@@ -355,6 +390,36 @@ List of conference "Call for Papers" deadlines:
 
 
 
+
++ USENIX Security '20, USENIX Security Symposium
+	- https://www.usenix.org/conference/usenixsecurity20/call-for-papers
+	- https://www.usenix.org/conference/usenixsecurity20/publication-model-change
+	- https://www.usenix.org/conference/usenixsecurity20/
+	- Boston, MA
+	- August 12–14, 2020
+	- Submission deadlines:
+		* Spring Quarter Deadline: May 15, 2019, 8:00 pm EDT
+		* Summer Quarter Deadline: August 23, 2019, 8:00 pm EDT
+		* Fall Quarter Deadline: November 15, 2019, 8:00 pm EDT
+		* Winter Quarter Deadline: February 15, 2020, 8:00 pm EDT
+
+
+
+
++ CIKM 2019, 28th ACM International Conference on Information and Knowledge Management
+	- http://www.cikm2019.net/callforpapers.html
+	- http://www.cikmconference.org/
+	- Beijing, China
+	- November 3-7, 2019
+	- Submission deadlines: May 15 and 22, 2019.
+
+
+
+
+
+
+
+
 + IFIP Performance 2020, or IFIP WG Performance 2020, International Symposium on Computer Performance, Modeling, Measurements and Evaluation
 	- https://performance2018.sciencesconf.org/
 	- URL
@@ -380,6 +445,26 @@ List of conference "Call for Papers" deadlines:
 	- Orlando, FL.
 	- November 3-5, 2019
 	- Submission deadline: May 24 and 31, 2019
+
+
+
+
+
+
+
++ TCC, 17th Theory of Cryptography Conference
+	- https://tcc.iacr.org/2019/
+	- https://www.iacr.org/workshops/tcc/
+	- Nuremberg, Germany
+	- December 1-5, 2019
+	- Submission deadline: May 29, 2019
+
+
+
+
+
+
+
 
 
 
@@ -416,6 +501,13 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ ACSAC 2019, Annual Computer Security Applications Conference
+	- https://www.acsac.org/
+	- San Juan, Puerto Rico
+	- December 9-13, 2019
+	- Submission deadline:
+		* ~~June 8, 2019~~ June 15, 2019
+		* Paper artifacts: ~~August 26 and 30, 2019~~ August 29 and September 3, 2019
 
 
 
@@ -451,6 +543,7 @@ List of conference "Call for Papers" deadlines:
 
 + NDSS, Network and Distributed System Security Symposium (2 deadlines)
 	- http://www.ndss-symposium.org
+	- https://www.ndss-symposium.org/ndss2020/call-for-papers/
 	- San Diego, CA.
 	- February 23-26, 2020
 	- Submission deadline: June 14 and September 13, 2019.
@@ -501,6 +594,16 @@ List of conference "Call for Papers" deadlines:
 
 
 
+
++ PDCAT 2019, 20th International Conference on Parallel and Distributed Computing, Applications and Technologies
+	- https://www.pdcat.org/
+	- Surfers Paradise, QLD, Australia (i.e., Gold Coast, Australia)
+	- Submission deadline: ~~July 1, 2019~~ July 29, 2019 (extended)
+
+
+
+
+
 + ASP-DAC, Asia and South Pacific Design Automation Conference
 	- https://aspdac2020.github.io/aspdac20/
 	- Beijing, China.
@@ -516,6 +619,19 @@ List of conference "Call for Papers" deadlines:
 	- http://www.sigplan.org/Conferences/POPL/
 	- New Orleans, Louisiana.
 	- Submission deadline: July 10, 2019.
+
+
+
+
+
++ ICDCN 2020, 21st International Conference on Distributed Computing and Networking
+	- https://www.icdcn2020.com/
+	- January 4-7, 2020
+	- Kolkata, India.
+	- Submission deadline: July 12 and 26, 2019.
+
+
+
 
 
 
@@ -620,6 +736,28 @@ List of conference "Call for Papers" deadlines:
 	- May 23-29, 2020.
 	- Seoul, South Korea.
 	- Submission deadline: August 23, 2019.
+
+
+
+
+
++ CIDR, Conference on Innovative Data Systems Research
+	- http://cidrdb.org/cidr2020/cfp.html
+	- http://cidrdb.org/cidr2020/index.html
+	- http://cidrdb.org/
+	- January 12-15, 2020
+	- Amsterdam, Netherlands
+	- Submission deadline: August 25, 2019
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -740,6 +878,50 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ 24th International Conference on Financial Cryptography and Data Security 2020
+	- http://ifca.ai/fc20/cfp.html
+	- International Financial Cryptography Association
+	- February 10–14, 2020
+	- Kota Kinabalu, Sabah, Malaysia
+	- Submission deadline: September 17, 2019.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
++ ISPA 2019, 17th IEEE International Symposium on Parallel and Distributed Processing with Applications
+	- https://ispa2019.com/call4paper.php
+	- Xiamen, China
+	- December 16-18, 2019
+	- Submission deadline: September 23, 2019.
+
+
+
+
+
+
+
++ FAST '20, 18th USENIX Conference on File and Storage Technologies
+	- https://www.usenix.org/conference/fast20/call-for-papers
+	- February 24–27, 2020
+	- Santa Clara, CA
+	- Submission deadline: September 26, 2019, 11:59 pm AoE (Anywhere on Earth) time
+
+
+
+
+
+
+
 
 + SV-COMP, Competition on Software Verification
 	- https://sv-comp.sosy-lab.org/2019/dates.php
@@ -816,6 +998,31 @@ List of conference "Call for Papers" deadlines:
 
 
 
+
+
+
+
+
++ CSF, 33rd IEEE Computer Security Foundations Symposium
+	- https://www.ieee-security.org/TC/CSF2020/
+	- http://www.ieee-security.org/CSFWweb/
+	- June 22-26, 2020
+	- Boston, MA
+	- Submission deadlines:
+		* 1st round: October 4, 2019
+		* 2nd round: February 7, 2019
+
+
+
+
+
+
+
+
+
+
+
+
 + IPDPS, IEEE International Parallel and Distributed Processing Symposium
 	- http://www.ipdps.org/ipdps2019/2019-call-for-papers.html
 	- May 18-22, 2020.
@@ -823,6 +1030,20 @@ List of conference "Call for Papers" deadlines:
 	- Submission deadline: October 7 and 14, 2019.
 
 
+
+
++ EDBT/ICDT 2020 Joint Conference
+	- EDBT, 23rd International Conference on Extending Database Technology
+	- ICDT, 23rd International Conference on Database Theory
+		* https://databasetheory.org/icdt-pages
+	- March 30 - April 2, 2020
+	- Copenhagen, Denmark
+	- https://diku-dk.github.io/edbticdt2020/?contents=important_dates.html
+	- EDBT Submission deadlines: October 7 and 11, 2019.
+		* Submission deadlines for short papers: November 29, 2019.
+	- ICDT Submission deadlines:
+		* 1st submission cycle: March 27 and April 3, 2019
+		* 2nd submission cycle: September 15 and 23, 2019
 
 
 
@@ -1003,12 +1224,20 @@ List of conference "Call for Papers" deadlines:
 	- Team Name: FastTime
 	- Name of executable: fast-time
 
-+ ISPD Contest 2020
-	- http://ispd.cc/?page=contests
 
 
 
 
+
+
+
+
++ PKC, IACR International Conference on Practice and Theory of Public-Key Cryptography
+	- https://pkc.iacr.org/2020/
+	- https://www.iacr.org/meetings/pkc/
+	- Edinburgh, Scotland
+	- May 4-7, 2020
+	- November 2, 2019
 
 
 
@@ -1063,11 +1292,62 @@ List of conference "Call for Papers" deadlines:
 
 
 
+
++ USENIX Security '20, USENIX Security Symposium
+	- https://www.usenix.org/conference/usenixsecurity20/call-for-papers
+	- https://www.usenix.org/conference/usenixsecurity20/publication-model-change
+	- https://www.usenix.org/conference/usenixsecurity20/
+	- Boston, MA
+	- August 12–14, 2020
+	- Submission deadlines:
+		* Spring Quarter Deadline: May 15, 2019, 8:00 pm EDT
+		* Summer Quarter Deadline: August 23, 2019, 8:00 pm EDT
+		* ***Fall Quarter Deadline: November 15, 2019, 8:00 pm EDT***
+		* Winter Quarter Deadline: February 15, 2020, 8:00 pm EDT
+
+
+
+
+
+
++ IC2E, IEEE International Conference on Cloud Engineering
+	- https://conferences.computer.org/IC2E/2020/
+	- Submission deadline: November 15 and 22, 2019.
+
+
+
+
+
+
+
+
+
 + ISCA, International Symposium on Computer Architecture
 	- https://iscaconf.org/isca2020/
 	- May 30 – June 3, 2020.
 	- Valencia, Spain.
 	- Submission deadline: November 19 and 26, 2018.
+
+
+
+
+
+
+
+
+
+
++ EuroS&P, 5th IEEE European Symposium on Security and Privacy
+	- http://www.ieee-security.org/TC/EuroSP2020/
+	- June 16-18, 2020
+	- Genova, Italy
+	- Submission deadline: November 20, 2019
+
+
++ ISPD Contest 2020
+	- http://ispd.cc/?page=contests
+
+
 
 
 
@@ -1094,18 +1374,22 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ FSE, Conference on Fast Software Encryption
+	- 27th Fast Software Encryption Conference
+	- Athens, Greece
+	- March 22-26, 2020
+	- https://fse.iacr.org/2020/papersubmission.html
+	- https://fse.iacr.org/2020/callforpapers.html
+	- https://fse.iacr.org/2020/index.html
+	- https://www.iacr.org/meetings/fse/
+	- Timeline for FSE 2020 / IACR Transactions on Symmetric Cryptology 2019/2020: Submission deadlines
+		* 1st round: March 1, 2019
+		* 2nd round: June 1, 2019
+		* 3rd round: September 1, 2019
+		* ***4th round: November 23, 2019***
 
 
 
-
-
-
-+ ASYNC 2019, IEEE International Symposium on Asynchronous Circuits and Systems
-	- http://asyncsymposium.org/async/Welcome.html
-	- http://www.async2019.jp
-	- Hirosaki, Japan
-	- Conference dates: May 12-15, 2019.
-	- Submission deadline: December 7 and 14, 2018.
 
 
 
@@ -1115,6 +1399,25 @@ List of conference "Call for Papers" deadlines:
 	- March 18-20, 2020.
 	- Lausanne, Switzerland.
 	- Submission deadline: November 30 and December 6, 2019.
+
+
+
++ PETS 2020, or PoPETS, annual/20th Privacy Enhancing Technologies Symposium (PETS)
+	- https://petsymposium.org/
+	- July 14–18, 2020
+	- Montréal, Canada
+	- Submission deadline:
+		* 1st round: May 31, 2020.
+		* 2nd round: August 31, 2020.
+		* ***3rd round: November 31, 2020.***
+		* 4th round: February 29, 2019.
+
+
+
+
+
+
+
 
 
 
@@ -1129,10 +1432,23 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ DSN, 50th IEEE/IFIP International Conference on Dependable Systems and Networks
+	- Annual IEEE/IFIP International Conference on Dependable Systems and Networks
+	- https://dsn2020.webs.upv.es/callforcontributions/cfp-research/
+	- https://dsn2020.webs.upv.es/
+	- València, Spain
+	- June 29 - July 2, 2020
+	- Submission deadline: December 3 and 13, 2019.
 
 
 
 
++ ASYNC 2019, IEEE International Symposium on Asynchronous Circuits and Systems
+	- http://asyncsymposium.org/async/Welcome.html
+	- http://www.async2019.jp
+	- Hirosaki, Japan
+	- Conference dates: May 12-15, 2019.
+	- Submission deadline: December 7 and 14, 2018.
 
 
 
@@ -1233,6 +1549,19 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ DCOSS 2020, IEEE International Conference on Distributed Computing in Sensor Systems
+	- https://www.dcoss.org/cfp.html
+	- Marina Del Rey, Los Angeles, CA
+	- May 25-27, 2020
+	- Submission deadlines: January 11 and 18, 2020.
+
+
+
+
+
+
+
+
 
 
 + CF 2019, ACM International Conference on Computing Frontiers
@@ -1251,11 +1580,27 @@ List of conference "Call for Papers" deadlines:
 	- Submission deadline: January 14 and 21 2019.
 
 
-+ HPDC, International ACM Symposium on High-Performance Parallel and Distributed Computing
+
+
+
+
++ USENIX ATC '20, 2020 USENIX Annual Technical Conference
+	- https://www.usenix.org/conference/atc20/call-for-papers
+	- July 15–17, 2020
+	- Boston, MA
+	- Submission deadline: January 15, 2020, 11:59 pm EST.
+		* The scope of USENIX ATC covers all practical aspects related to systems software, including but not limited to: operating systems; runtime sys-tems; parallel and distributed systems; storage; networking; security and privacy; virtualization; software-hardware interac-tions; performance evaluation and workload characterization; reliability, availability, and scalability; energy/power manage-ment; bug-finding, tracing, analyzing, and troubleshooting.
+
+
+
+
+
+
++ HPDC 2020 (or HPDC'20), 29th International Symposium on High-Performance Parallel and Distributed Computing
 	- http://www.hpdc.org/2019/papers/call-for-papers/
-	- Phoenix, AZ.
-	- June 22-29, 2019.
-	- Submission deadline: January 16 and 23, 2018.
+	- Stockholm, Sweden.
+	- June 23-26, 2020.
+	- Submission deadline: January 16 and 23, 2020.
 
 
 
@@ -1270,6 +1615,18 @@ List of conference "Call for Papers" deadlines:
 	- Paris, France.
 	- ***Organized/Held in even-numbered years only***
 	- Submission deadline: Late Jan and Early Feb, 2020.
+
+
+
+
++ ACNS 2020, 18th International Conference on Applied Cryptography and Network Security
+	- Rome, Italy
+	- June 22-25, 2020
+	- https://sites.google.com/di.uniroma1.it/ACNS2020
+	- http://jianying.space/acns/
+	- Submission deadlines:
+		* 1st round: September 9 and 18, 2019
+		* ***2nd round: January 20, 2020.***
 
 
 
@@ -1355,8 +1712,13 @@ List of conference "Call for Papers" deadlines:
 
 
 
-
-
++ ACM WiSec 2019, 12th ACM Conference on Security and Privacy in Wireless and Mobile Networks
+	- https://wisec19.fiu.edu/call-for-papers
+	- https://wisec19.fiu.edu/
+	- http://www.sigsac.org/wisec/
+	- May 15-17, 2019
+	- Miami, FL
+	- Submission deadline: ~~January 25, 2019~~ January 29, 2019
 
 
 
@@ -1400,6 +1762,44 @@ List of conference "Call for Papers" deadlines:
 			+ Submission deadline: February 1, 2019.
 
 
+
+
+
++ DisCoTec 2020, 15th International Federated Conference on Distributed Computing Techniques
+	- http://www.discotec.org/2020/
+	- Valletta, Malta
+	- June 15-19, 2020.
+	- ***Submission deadlines: February 3 and 14, 2019.***
+	- FORTE 2020 - 40th International Conference on Formal Techniques for Distributed Objects, Components, and Systems
+		* https://www.discotec.org/2020/forte
+	- DAIS 2020, 19th International Conference on Distributed Applications and Interoperable Systems
+		* https://www.discotec.org/2020/dais
+	- COORDINATION 2020, 22nd International Conference on Coordination Models and Languages
+		* https://www.discotec.org/2020/coordination
+
+
+
+
++ ACM CCS 2019, 26th ACM Conference on Computer and Communications Security
+	- http://www.sigsac.org/ccs/CCS2019/
+	- London, U.K.
+	- November 11-15, 2019
+	- Submission deadlines:
+		* 1st deadline: ~~January 31, 2019~~ ***February 5, 2019***
+		* 2nd deadline: May 15, 2019
+
+
+
+
+
++ CSF, 33rd IEEE Computer Security Foundations Symposium
+	- https://www.ieee-security.org/TC/CSF2020/
+	- http://www.ieee-security.org/CSFWweb/
+	- June 22-26, 2020
+	- Boston, MA
+	- Submission deadlines:
+		* 1st round: October 4, 2019
+		* ***2nd round: February 7, 2019***
 
 
 
@@ -1453,6 +1853,22 @@ List of conference "Call for Papers" deadlines:
 	- August 25-30, 2019.
 	- ***Organized/Held in odd-numbered years only***
 	- Submission deadline: February 15 and 22, 2019.
+
+
+
+
+
++ USENIX Security '20, USENIX Security Symposium
+	- https://www.usenix.org/conference/usenixsecurity20/call-for-papers
+	- https://www.usenix.org/conference/usenixsecurity20/publication-model-change
+	- https://www.usenix.org/conference/usenixsecurity20/
+	- Boston, MA
+	- August 12–14, 2020
+	- Submission deadlines:
+		* Spring Quarter Deadline: May 15, 2019, 8:00 pm EDT
+		* Summer Quarter Deadline: August 23, 2019, 8:00 pm EDT
+		* Fall Quarter Deadline: November 15, 2019, 8:00 pm EDT
+		* ***Winter Quarter Deadline: February 15, 2020, 8:00 pm EDT***
 
 
 
@@ -1519,6 +1935,21 @@ List of conference "Call for Papers" deadlines:
 
 
 
+
+
++ ANTS, ANTS-XIV, 14th Algorithmic Number Theory Symposium
+	- https://www.math.auckland.ac.nz/~sgal018/ANTS/callforpapers.html
+	- https://www.math.auckland.ac.nz/~sgal018/ANTS/
+	- Auckland, New Zealand
+	- June 30 - July 4, 2020
+	- Submission deadline: February 25, 2020.
+
+
+
+
+
+
+
 + ISLPED 2018, International Symp. on Low Power Electronics and Design
 	- http://www.islped.org/
 	- EPFL, Lausanne, Switzerland
@@ -1559,7 +1990,15 @@ List of conference "Call for Papers" deadlines:
 	- Submission deadlines: February 28, 2019 (extended)
 
 
-
++ PETS 2020, or PoPETS, annual/20th Privacy Enhancing Technologies Symposium (PETS)
+	- https://petsymposium.org/
+	- July 14–18, 2020
+	- Montréal, Canada
+	- Submission deadline:
+		* 1st round: May 31, 2020.
+		* 2nd round: August 31, 2020.
+		* 3rd round: November 31, 2020.
+		* ***4th round: February 29, 2019.***
 
 
 
@@ -1632,6 +2071,13 @@ List of conference "Call for Papers" deadlines:
 
 
 
+
+
+
+
+
+
+
 + PATMOS 2019, International Symposium on Power and Timing Modeling, Optimization and Simulation
 	- http://www.patmos-conf.org
 	- Rhodes Island, Greece
@@ -1644,6 +2090,40 @@ List of conference "Call for Papers" deadlines:
 	- Barcelona, Spain.
 	- September 9-13, 2019.
 	- Submission deadline: March 22 and 29, 2019.
+
+
+
+
+
++ PDPTA'19, 25th International Conference on Parallel and Distributed Processing Techniques and Applications
+	- https://americancse.org/events/csce2019/conferences/pdpta19/submission_of_papers
+	- https://americancse.org/events/csce2019/conferences/pdpta19/dealines
+	- https://american-cse.org/
+	- Las Vegas, Nevada
+	- July 29 - August 1, 2019.
+	- Submission deadline: March 26, 2019.
+
++ CSCE'19, 2019 World Congress in Computer Science, Computer Engineering, and Applied Computing
+	- https://americancse.org/events/csce2019/conferences/
+	- Las Vegas, Nevada
+	- July 29 - August 1, 2019.
+	- Submission deadline: March 26, 2019.
+
+
+
+
+
++ RAID, International Symposium on Research in Attacks, Intrusions and Defenses
+	- http://www.raid-2019.org/callForPapers.html
+	- http://www.raid-2019.org/
+	- http://www.raid-symposium.org/
+	- Beijing, China
+	- September 23-25, 2019
+	- Submission deadline: ~~March 26, 2019~~ April 2, 2019.
+
+
+
+
 
 
 
@@ -1732,6 +2212,21 @@ List of conference "Call for Papers" deadlines:
 
 
 
+
+
++ PPSN XVI, Sixteenth International Conference on Parallel Problem Solving from Nature
+	- https://ppsn2020.liacs.leidenuniv.nl/calls/
+	- Leiden, The Netherlands
+	- September 5-9, 2020
+	- Submission deadline: April 1 and 8, 2020.
+
+
+
++ ACM Multimedia, 27th ACM International Conference on Multimedia
+	- https://acmmm.org/
+	- October 21-25, 2019
+	- Nice, France
+	- Submission deadline: April 1, 2019.
 
 
 
@@ -1847,6 +2342,34 @@ List of conference "Call for Papers" deadlines:
 
 
 
+
+
+
+
+
++ NSPW 2019, New Security Paradigms Workshop
+	- https://www.nspw.org/2019/dates
+	- https://www.nspw.org/2019/cfp
+	- San Carlos, Costa Rica
+	- September 23-26, 2019
+	- Submission deadline: April 12, 2019
+
+
+
+
+
++ IEEE Secure Development Conference
+	- https://secdev.ieee.org/2019/papers/
+	- September 25-27, 2019
+	- McLean, VA
+	- Submission deadlines: April 15-22, 2019.
+
+
+
+
+
+
+
 + Scala 2019 series/track
 	- https://2019.ecoop.org/home/scala-2019
 	- https://conf.researchr.org/series/scala
@@ -1899,6 +2422,27 @@ List of conference "Call for Papers" deadlines:
 	- Bialystok, Poland
 	- September 8-11, 2019
 	- Submission deadline: ~~April 21 and May 31, 2019.~~ May 6 and June 17, 2019
+
+
+
+
+
++ ER 2019, 38th International Conference on Conceptual Modeling
+	- Salvador, Bahia, Brazil
+	- Nov 4–7, 2019
+	- https://www.inf.ufrgs.br/er2019/?page_id=34
+	- https://conceptualmodeling.org/
+	- Submission deadline: April 21, 2019
+
+
++ ESORICS 2019, European Symposium on Research in Computer Security
+	- http://conf.laas.fr/esorics/
+	- https://esorics2019.uni.lu/
+	- Luxembourg
+	- September 23-27, 2019
+	- Submission deadlines: April 22 and 29, 2019.
+
+
 
 
 
@@ -1962,6 +2506,21 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ ICIS, International Conference on Information Systems
+	- https://icis2020.aisconferences.org/
+	- https://icis2019.aisconferences.org/submissions/call-for-papers/
+	- https://aisnet.org/page/ICISPage
+	- https://aisnet.org/page/Prevandfutureconf
+	- Hyderabad, India
+	- December 13-16, 2020
+	- Submission deadline: ~~May 1, 2019.~~
+
+
+
+
+
+
+
 + DISC 202?, International Symposium on Distributed Computing
 	- http://www.disc-conference.org/wp/
 	- VENUE
@@ -1984,11 +2543,27 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ CP 2019,International Conference on Principles and Practice of Constraint Programming
-	- http://cp2019.a4cp.org/
-	- Stamford, CT.
-	- September 30 - October 4, 2019.
-	- Submission deadline: May 9 and 15, 2019.
+
++ ICDSC 2019, 13th International Conference on Distributed Smart Cameras
+	- https://event.unitn.it/icdsc2019/
+	- Trento, Italy
+	- September 9-11, 2019
+	- Submission deadline: May 3, 2019.
+
+
+
+
+
+
++ OSDI '20, 14th USENIX Symposium on Operating Systems Design and Implementation
+	- https://www.usenix.org/conference/osdi20/call-for-papers
+	- Banff, AB/Alberta, Canada
+	- November 4-6, 2020.
+	- Submission deadlines: May 5 and 12, 2019, 3:00 p.m. U.S. PDT.
+		* OSDI takes a broad view of the systems area and solicits contribu-tions from many fields of systems practice, including, but not limited to, operating systems, file and storage systems, distributed systems, cloud computing, mobile systems, secure and reliable systems, systems aspects of big data, embedded systems, virtualization, networking as it relates to operating systems, and management and troubleshooting of complex systems.
+
+
+
 
 
 
@@ -2000,6 +2575,24 @@ List of conference "Call for Papers" deadlines:
 	- San Diego, California.
 	- November 11-15, 2019.
 	- Submission deadline: May 6 and 13, 2019.
+
+
+
+
+
+
+
+
++ CP 2019,International Conference on Principles and Practice of Constraint Programming
+	- http://cp2019.a4cp.org/
+	- Stamford, CT.
+	- September 30 - October 4, 2019.
+	- Submission deadline: May 9 and 15, 2019.
+
+
+
+
+
 
 
 
