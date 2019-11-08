@@ -785,7 +785,12 @@ List of conference "Call for Papers" deadlines:
 
 
 
-
++ HOST, IEEE International Symposium on Hardware-Oriented Security and Trust
+	- http://www.hostsymposium.org/call-for-paper.php
+	- https://host2020.hotcrp.com/
+	- San Jose, CA.
+	- May 4-8, 2020.
+	- Submission deadline: ***August 15, 2019 (round \#1)*** and November 15, 2019 (round \#2).
 
 
 
