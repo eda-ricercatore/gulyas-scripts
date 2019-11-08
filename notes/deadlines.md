@@ -263,7 +263,7 @@ Transparency
 ####	(Hardware) Security
 
 + http://jianying.space/conference-ranking.html
-
+	- http://jianying.space/acns/
 
 
 ###	Attack Plan
@@ -415,7 +415,16 @@ List of conference "Call for Papers" deadlines:
 
 
 
-
++ UbiComp 2020, 2020 ACM International Joint Conference on Pervasive and Ubiquitous Computing
+	- http://ubicomp.org/ubicomp2020/
+	- http://ubicomp.org/ubicomp2020/cfp/papers.html
+	- Cancún, México
+	- September 12-16, 2020
+	- Submission deadlines:
+		* 1st round: November 15, 2019
+		* 2nd round: February 15, 2019
+		* ***3rd round: May 15, 2019***
+		* 4th round: August 15, 2019
 
 
 
@@ -713,6 +722,25 @@ List of conference "Call for Papers" deadlines:
 	- Submission deadline: August 9 and 16, 2019.
 	- ***Go to ASPLOS***
 	- ASPLOS is co-sponsored by SIGPLAN, SIGARCH, and SIGOPS
+
+
+
+
+
+
++ UbiComp 2020, 2020 ACM International Joint Conference on Pervasive and Ubiquitous Computing
+	- http://ubicomp.org/ubicomp2020/
+	- http://ubicomp.org/ubicomp2020/cfp/papers.html
+	- Cancún, México
+	- September 12-16, 2020
+	- Submission deadlines:
+		* 1st round: November 15, 2019
+		* 2nd round: February 15, 2019
+		* 3rd round: May 15, 2019
+		* ***4th round: August 15, 2019***
+
+
+
 
 
 
@@ -1322,6 +1350,22 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ UbiComp 2020, 2020 ACM International Joint Conference on Pervasive and Ubiquitous Computing
+	- http://ubicomp.org/ubicomp2020/
+	- http://ubicomp.org/ubicomp2020/cfp/papers.html
+	- Cancún, México
+	- September 12-16, 2020
+	- Submission deadlines:
+		* ***1st round: November 15, 2019***
+		* 2nd round: February 15, 2019
+		* 3rd round: May 15, 2019
+		* 4th round: August 15, 2019
+
+
+
+
+
+
 + ISCA, International Symposium on Computer Architecture
 	- https://iscaconf.org/isca2020/
 	- May 30 – June 3, 2020.
@@ -1869,6 +1913,26 @@ List of conference "Call for Papers" deadlines:
 		* Summer Quarter Deadline: August 23, 2019, 8:00 pm EDT
 		* Fall Quarter Deadline: November 15, 2019, 8:00 pm EDT
 		* ***Winter Quarter Deadline: February 15, 2020, 8:00 pm EDT***
+
+
+
+
++ UbiComp 2020, 2020 ACM International Joint Conference on Pervasive and Ubiquitous Computing
+	- http://ubicomp.org/ubicomp2020/
+	- http://ubicomp.org/ubicomp2020/cfp/papers.html
+	- Cancún, México
+	- September 12-16, 2020
+	- Submission deadlines:
+		* 1st round: November 15, 2019
+		* ***2nd round: February 15, 2019***
+		* 3rd round: May 15, 2019
+		* 4th round: August 15, 2019
+
+
+
+
+
+
 
 
 
@@ -2549,6 +2613,24 @@ List of conference "Call for Papers" deadlines:
 	- Trento, Italy
 	- September 9-11, 2019
 	- Submission deadline: May 3, 2019.
+
+
++ ISWC, International Symposium on Wearable Computers
+	- http://iswc.net/iswc20/
+	- http://www.iswc.net/iswc19/cfp_papers.html
+	- Cancún, México
+	- September 12-16, 2020
+	- Submission deadline: ~~April 26, 2019~~ May 3, 2019 (extended)
+
+
+
+
+
+
+
+
+
+
 
 
 
