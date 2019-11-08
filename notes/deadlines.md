@@ -658,6 +658,11 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ ISAAC 2019, 30th International Symposium on Algorithms and Computation
+	- http://itcs.shufe.edu.cn/isaac2019/
+	- Shanghai, China
+	- December 9-11, 2019
+	- Submission deadline: June 30, 2019
 
 
 
@@ -748,6 +753,25 @@ List of conference "Call for Papers" deadlines:
 	- San Diego, CA.
 	- February 2020.
 	- Submission deadline: July 30 and August 6, 2019.
+
+
+
+
+
+
+
++ PEMWN2019, 8th IFIP/IEEE International Conference on Performance Evaluation and Modeling in Wired and Wireless Networks
+	- https://sites.google.com/view/pemwn2019/
+	- https://sites.google.com/view/pemwn2019/call-for-papers?authuser=0
+	- https://sites.google.com/view/pemwn2019/important-dates?authuser=0
+	- November 26-28, 2019
+	- Paris, France
+	- Submission deadline: July 30, 2019.
+
+
+
+
+
 
 
 
@@ -1206,7 +1230,7 @@ List of conference "Call for Papers" deadlines:
 	- March 30 - April 2, 2020
 	- Copenhagen, Denmark
 	- https://diku-dk.github.io/edbticdt2020/?contents=important_dates.html
-	- EDBT Submission deadlines: October 7 and 11, 2019.
+	- ***EDBT Submission deadlines: October 7 and 11, 2019.***
 		* Submission deadlines for short papers: November 29, 2019.
 	- ICDT Submission deadlines:
 		* 1st submission cycle: March 27 and April 3, 2019
@@ -1228,12 +1252,16 @@ List of conference "Call for Papers" deadlines:
 	- June 8-12, 2020.
 	- http://portal.core.edu.au/conf-ranks/39/
 	- Submission deadline (For Summer submissions): August 1 and 8, 2019.
-	- Submission deadline (For Fall submissions): October 14 and 21, 2019.
+	- ***Submission deadline (For Fall submissions): October 14 and 21, 2019.***
 	- Submission deadline (For Winter submissions): January 27 and February 3, 2020.
 
 
-
-
++ ICC, 54th IEEE International Conference on Communications
+	- https://icc2020.ieee-icc.org/
+	- https://icc2020.ieee-icc.org/call-symposium-papers
+	- June 7-11, 2020
+	- Dublin, Ireland
+	- Submission deadline: ~~October 14, 2019~~ October 28, 2019
 
 
 
@@ -1679,6 +1707,23 @@ List of conference "Call for Papers" deadlines:
 
 
 
+
++ MobiHoc 2020, International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing
+	- 21st International Symposium on Mobile Ad Hoc Networking and Computing
+	- https://www.sigmobile.org/mobihoc/2020/
+	- https://www.sigmobile.org/mobihoc/2020/cfp.html
+	- https://sigmobile.org/mobihoc/
+	- Shanghai, China
+	- June 30 - July 3, 2020
+	- Submission deadlines: November 30 and December 6, 2019.
+
+
+
+
+
+
+
+
 + LICS, ACM/IEEE Symposium on Logic in Computer Science
 	- http://lics.siglog.org/lics20/
 	- http://lics.siglog.org/lics20/cfp.php
@@ -1843,7 +1888,14 @@ List of conference "Call for Papers" deadlines:
 
 
 
-
++ ACM SIGCOMM 2019
+	- http://conferences.sigcomm.org/sigcomm/2019/fireglass_rsn%3Dtrue
+	- https://sigcomm.org/events/sigcomm-conference
+	- https://conferences.sigcomm.org/sigcomm/2019/
+	- https://conferences.sigcomm.org/sigcomm/2019/cfp.html
+	- Beijing, China
+	- August 19-24, 2019.
+	- Submission deadlines: January 24 and 31, 2019.
 
 
 
@@ -2602,6 +2654,12 @@ List of conference "Call for Papers" deadlines:
 	- Submission deadline: April 12, 2019
 
 
++ FCT, 22nd International Symposium on Fundamentals of Computation Theory
+	- https://di.ku.dk/fct2019/call-for-papers/
+	- https://di.ku.dk/fct2019/
+	- August 11–14, 2019
+	- Copenhagen, Denmark
+	- Submission deadline: April 14, 2019
 
 
 
