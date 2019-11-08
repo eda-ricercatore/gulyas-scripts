@@ -720,6 +720,23 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ SIGMETRICS 2020, ACM SIGMETRICS
+	- https://www.sigmetrics.org/sigmetrics2020/call_for_papers.html
+	- Boston, MA.
+	- June 8-12, 2020.
+	- http://portal.core.edu.au/conf-ranks/39/
+	- ***Submission deadline (For Summer submissions): August 1 and 8, 2019.***
+	- Submission deadline (For Fall submissions): October 14 and 21, 2019.
+	- Submission deadline (For Winter submissions): January 27 and February 3, 2020.
+
+
+
+
+
+
+
+
+
 + SC19, International Conference for High Performance Computing, Networking, Storage, and Analysis
 	- https://sc19.supercomputing.org/important-deadlines/
 	- Denver, CO
