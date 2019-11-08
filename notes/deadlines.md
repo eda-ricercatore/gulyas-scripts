@@ -507,6 +507,22 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ PETS 2020, or PoPETS, annual/20th Privacy Enhancing Technologies Symposium (PETS)
+	- https://petsymposium.org/
+	- July 14–18, 2020
+	- Montréal, Canada
+	- Submission deadline:
+		* ***1st round: May 31, 2020.***
+		* 2nd round: August 31, 2020.
+		* 3rd round: November 31, 2020.
+		* 4th round: February 29, 2019.
+
+
+
+
+
+
+
 + HiPEAC 2020, International Conference on High-Performance and Embedded Architectures and Compilers
 	- https://www.hipeac.net/2020/bologna/#/
 	- Bologna, Italy.
@@ -868,6 +884,28 @@ List of conference "Call for Papers" deadlines:
 	- Neuchâtel, Switzerland
 	- December 17-19, 2019.
 	- Submission deadline: ~~August 31 and September 5, 2019.~~ September 3 and 9, 2019.
+
+
+
+
+
+
+
++ PETS 2020, or PoPETS, annual/20th Privacy Enhancing Technologies Symposium (PETS)
+	- https://petsymposium.org/
+	- July 14–18, 2020
+	- Montréal, Canada
+	- Submission deadline:
+		* 1st round: May 31, 2020.
+		* ***2nd round: August 31, 2020.***
+		* 3rd round: November 31, 2020.
+		* 4th round: February 29, 2019.
+
+
+
+
+
+
 
 
 
