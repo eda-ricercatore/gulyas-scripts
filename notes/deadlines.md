@@ -241,6 +241,21 @@ Transparency
 
 ###	Pivots
 
+####	Conference Rankings
+
++ http://www.conferenceranks.com/index.html#data
++ https://academic.microsoft.com/home
+
+
++ WADS 2019, Algorithms and Data Structures Symposium
+	- http://www.wads.org/
+	- August 5-7, 2019
+	- Edmonton, Canada
+	- Submission deadline: February 20, 2019.
+
+
+
+
 ####	Domain-specific Distributed & Parallel Computing
 
 + NDSS
@@ -273,12 +288,12 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 
 
 Upcoming Submission deadlines:
-+ ***[ISPD Contest 2020](http://ispd.cc/?page=contests): October/November 2019.***
 + ***[CVPR](http://cvpr2020.thecvf.com/submission/main-conference/author-guidelines#call-for-papers): November 15, 2019, 23:59 PST.***
 + ***[HOST](http://www.hostsymposium.org/call-for-paper.php): November 15, 2019 (round \#2).***
 + [IC2E](https://conferences.computer.org/IC2E/2020/): November 15 and 22, 2019.
 + ***[ISCA](https://iscaconf.org/isca2020/): November 19 and 26, 2018.***
 + ***[DAC](https://dac.com/): November 21 and 27, 2019 (5:00 PM MST, -7:00 GMT).***
++ ***[ISPD Contest 2020](http://ispd.cc/?page=contests): October/November 2019.***
 + [PLDI](https://pldi20.sigplan.org/track/pldi-2020-papers): November 22, 2019.
 + [VEE](https://conf.researchr.org/home/vee-2020): November 30 and December 6, 2019.
 + ***[S&P](https://www.ieee-security.org/TC/SP2020/cfpapers.html): Rolling (Final deadline: Submit by December 1, 2019)***
@@ -398,7 +413,7 @@ List of conference "Call for Papers" deadlines:
 	- Boston, MA
 	- August 12–14, 2020
 	- Submission deadlines:
-		* Spring Quarter Deadline: May 15, 2019, 8:00 pm EDT
+		* ***Spring Quarter Deadline: May 15, 2019, 8:00 pm EDT***
 		* Summer Quarter Deadline: August 23, 2019, 8:00 pm EDT
 		* Fall Quarter Deadline: November 15, 2019, 8:00 pm EDT
 		* Winter Quarter Deadline: February 15, 2020, 8:00 pm EDT
@@ -669,7 +684,12 @@ List of conference "Call for Papers" deadlines:
 
 
 
-
++ IEEE INFOCOM, IEEE International Conference on Computer Communications
+	- https://infocom2020.ieee-infocom.org/
+	- https://infocom2020.ieee-infocom.org/call-papers-main-conference
+	- April 27-30, 2020
+	- Beijing, China
+	- Submission deadlines: July 24-31, 2019
 
 
 
@@ -761,7 +781,17 @@ List of conference "Call for Papers" deadlines:
 	- Submission deadline: August 23, 2019.
 
 
-
++ USENIX Security '20, USENIX Security Symposium
+	- https://www.usenix.org/conference/usenixsecurity20/call-for-papers
+	- https://www.usenix.org/conference/usenixsecurity20/publication-model-change
+	- https://www.usenix.org/conference/usenixsecurity20/
+	- Boston, MA
+	- August 12–14, 2020
+	- Submission deadlines:
+		* Spring Quarter Deadline: May 15, 2019, 8:00 pm EDT
+		* ***Summer Quarter Deadline: August 23, 2019, 8:00 pm EDT***
+		* Fall Quarter Deadline: November 15, 2019, 8:00 pm EDT
+		* Winter Quarter Deadline: February 15, 2020, 8:00 pm EDT
 
 
 + CIDR, Conference on Innovative Data Systems Research
@@ -1010,7 +1040,7 @@ List of conference "Call for Papers" deadlines:
 	- http://www.ispd.cc
 	- March 29 - April 1, 2020.
 	- Taipei, Taiwan.
-	- Submission deadline: October 3 and ~~~7~~ 11 (extended deadline), 2019.
+	- Submission deadline: October 3 and ~~7~~ 11 (extended deadline), 2019.
 
 + VTS 2019, IEEE VLSI Test Symposium
 	- http://tttc-vts.org/public_html/new/2020/
