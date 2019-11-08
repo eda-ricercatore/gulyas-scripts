@@ -967,7 +967,14 @@ List of conference "Call for Papers" deadlines:
 		* 4th round: November 23, 2019
 
 
-
++ PP20, SIAM Conference on Parallel Processing for Scientific Computing
+	- https://www.siam.org/conferences/cm/conference/pp20
+	- February 12-15, 2020
+	- Seattle, WA.
+	- Submission deadlines:
+		* August 13, 2019
+		* ***September 1, 2019***
+		* September 10, 2019
 
 
 
@@ -1132,8 +1139,12 @@ List of conference "Call for Papers" deadlines:
 
 
 
-
-
++ STACS 2020, 37th International Symposium on Theoretical Aspects of Computer Science
+	- https://stacs2020.sciencesconf.org/
+	- http://www.stacs-conf.org/
+	- Montpellier, France
+	- March 10—13, 2020
+	- Submission deadline: September 30, 2019.
 
 
 
@@ -2620,14 +2631,7 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ PP20, SIAM Conference on Parallel Processing for Scientific Computing
-	- https://www.siam.org/conferences/cm/conference/pp20
-	- February 12-15, 2020
-	- Seattle, WA.
-	- Submission deadlines:
-		* August 13, 2019
-		* September 1, 2019
-		* September 10, 2019
+
 
 
 
@@ -2752,7 +2756,11 @@ List of conference "Call for Papers" deadlines:
 
 
 
-
++ MFCS 2019, 44th International Symposium on Mathematical Foundations of Computer Science
+	- https://tcs.rwth-aachen.de/mfcs2019/
+	- August 26-30, 2019
+	- Aachen, Germany
+	- Submission deadline: April 22, 2019.
 
 
 
