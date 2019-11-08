@@ -444,6 +444,22 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ ACM CCS 2019, 26th ACM Conference on Computer and Communications Security
+	- http://www.sigsac.org/ccs/CCS2019/
+	- London, U.K.
+	- November 11-15, 2019
+	- Submission deadlines:
+		* 1st deadline: ~~January 31, 2019~~ February 5, 2019
+		* ***2nd deadline: May 15, 2019***
+
+
+
+
+
+
+
+
+
 + IFIP Performance 2020, or IFIP WG Performance 2020, International Symposium on Computer Performance, Modeling, Measurements and Evaluation
 	- https://performance2018.sciencesconf.org/
 	- URL
