@@ -32,19 +32,51 @@ Fix mathematical proof for paper and implement processor subsystems.
 	- Auckland, New Zealand
 	- Submission deadline: November 12-15, 2019.
 + ACL, Annual Meeting of the Association for Computational Linguistics
-	- URL
-	- VENUE
-	- DATE
+	- 58th Annual Meeting of the Association for Computational Linguistics
+	- https://www.aclweb.org/portal/content/58th-annual-meeting-association-computational-linguistics-call-papers-main-conference
+	- https://acl2020.org/
+	- https://www.aclweb.org/portal/acl_sponsored_events
+	- Seattle, WA
+	- July 5-10, 2020
+	- Submission deadline: December 9, 2019
+	- ACL 2020 -- Call for System Demonstrations
+		* https://www.aclweb.org/portal/content/acl-2020-call-system-demonstrations
+		* https://acl2020.org/calls/demos/
+		* Submission deadline: January 31, 2020.
 + AIES, AAAI/ACM Conference on AI, Ethics, and Society
 	- http://www.aies-conference.com/
 	- http://www.aies-conference.com/call-for-papers/
 	- February 7-8
 	- Honolulu, Hawaii, USA
 	- Submission deadline: Nov 4 Anywhere on Earth (full paper), 2019.
++ CIBCB 2019, 16th IEEE International Conference on Computational Intelligence in Bioinformatics and Computational Biology
+	- https://cibcb2019.icas.xyz/
+	- /https://cibcb2019.icas.xyz/wp-content/uploads/sites/7/2018/12/IEEE-CIBCB-2019-call-for-papers.pdf
+	- July 9-11, 2019
+	– Certosa di Pontignano, Siena - Tuscany, Italy
+	- Submission deadline: ~~February 15, 2019~~ March 1, 2019.
++ CICLing, International Conference on Computational Linguistics and Intelligent Text Processing
+	- formerly, International Conference on Intelligent Text Processing and Computational Linguistics
+	- https://www.cicling.org/2019/
+	- https://www.cicling.org/
+	- April 7-13, 2019
+	- La Rochelle, France
+	- Submission deadline: April 7-13, 2019
 + CHI, ACM CHI Conference on Human Factors in Computing Systems
 	- https://chi2020.acm.org/authors/papers/
 	- Honolulu, on the island of Oahu, Hawaiʻi, USA.
 	- Submission deadline: **September 12/20, 2019.**
++ COLING’2020, 28th International Conference on Computational Linguistics
+	- https://www.aclweb.org/portal/content/28th-international-conference-computational-linguistics
+	- https://coling2020.org/
+	- Barcelona, Spain
+	- September 13-18, 2020
+	- Submission deadline: April 8, 2020
++ CPAIOR 2019, Sixteenth International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research
+	- https://cpaior2019.uowm.gr/
+	- Thessaloniki, Greece
+	- June 4-7, 2019
+	- Submission deadlines: ~~November 18 and 27, 2019~~ November 18 and 29, 2019
 + **CVPR, Conference on Computer Vision and Pattern Recognition**
 	- http://cvpr2020.thecvf.com/submission/main-conference/author-guidelines#call-for-papers
 	- CVPR 2020: Seattle, WA.
@@ -57,6 +89,19 @@ Fix mathematical proof for paper and implement processor subsystems.
 	- October 5–8, 2019
 	- Washington, D.C.
 	- Submission deadline: May 20, 2019.
++ EACL, meeting of the European Chapter of the Association for Computational Linguistics
+	- http://www.eacl2017.org/
+	- http://eacl.org/conferences/
+	- April 5-7, 2017.
+	- Valencia, Spain
+	- Submission deadline: September 30, 2016.
++ ECAI, European Conference on Artificial Intelligence
+	- biennial conference
+	- ECAI-2020, Santiago de Compostela, Spain.
+	- https://www.eurai.org/activities/ECAI_conferences
+	- http://ecai2020.eu/call-for-papers/mainconference/
+	- http://ecai2020.eu/
+	- Submission deadlines: November 15 and 19, 2019.
 + ECCV, European Conference on Computer Vision
 	- https://eccv2020.eu/important-dates/
 	- VENUE
@@ -65,13 +110,21 @@ Fix mathematical proof for paper and implement processor subsystems.
 	- Submission deadline: **Mid-March, 2020.**
 + ECML PKDD, European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases
 	- https://ecmlpkdd2020.net/submissions/deadlines/
-	- September 14-16, 2019.
+	- https://ecmlpkdd2020.net/submissions/researchAndADSTrack/
+	- September 14-18, 2020.
 	- Ghent, Belgium.
-	- Submission deadline: ???***March 29 and April 5, 2019.***???
-+ EMNLP, Conference on Empirical Methods in Natural Language Processing
-	- URL
-	- VENUE
-	- Submission deadline: Late May, 2019.
+	- Submission deadlines for journal track:
+		* 1st round: ~~September 6, 2019~~ September 13, 2019
+		* 2nd round: November 8, 2019
+		* 3rd round: January 10, 2020
+		* 4th round (can't present at ECML PKDD 2020): May 15, 2020
+	- Submission deadlines for conference track: March 19 and 26, 2020.
++ EMNLP, EMNLP-IJCNLP 2019, Conference on Empirical Methods in Natural Language Processing
+	- 2019 Conference on Empirical Methods in Natural Language Processing and 9th International Joint Conference on Natural Language Processing
+	- https://www.emnlp-ijcnlp2019.org/
+	- Hong Kong, China
+	- November 3-7, 2019
+	- Submission deadlines: May 15 and 21, 2019.
 + ACM FAT\*, ACM Conference on Fairness, Accountability, and
 Transparency
 	- https://fatconference.org/2020/callforpapers.html
@@ -139,9 +192,10 @@ Transparency
 + IJCV, International Journal of Computer Vision
 	- https://link.springer.com/journal/11263
 + ISWC, International Semantic Web Conference
-	- URL
-	- VENUE
-	- DATE
+	- https://iswc2019.semanticweb.org/call-for-research-track-papers/
+	- Athens, Greece
+	- November 2-6, 2020
+	- Submission deadline: ~~April 3 and 10, 2019~~
 + Journal of Automated Reasoning
 	- https://www.springer.com/computer/theoretical+computer+science/journal/10817
 + KDD, SIGKDD Conference on Knowledge Discovery and Data Mining
@@ -153,16 +207,26 @@ Transparency
 	- http://www.kr.org
 	- VENUE
 	- Submission deadline: Early/Mid- May, 2019.
++ LDAV 2019, 9th IEEE Symposium on Large Data Analysis and Visualization
+	- https://ldav.org/
+in conjunction with IEEE VIS 2019, Vancouver, BC, Canada, October 21, 2019
+
 + LICS, ACM/IEEE Symposium on Logic in Computer Science
 	- http://lics.siglog.org/lics20/
 	- http://lics.siglog.org/lics20/cfp.php
 	- Beijing, China.
 	- July 8-12, 2020.
 	- Submission deadline: **January 6 and 10, 2020.**
++ LPAR-24, International Conference on Logic for Programming Artificial Intelligence and Reasoning
+	- http://lpar.net/
+	- https://dblp.uni-trier.de/db/conf/lpar/index.html
+	- Poor conference.
 + NAACL, North American Chapter of the Association for Computational Linguistics
-	- URL
-	- VENUE
-	- DATE
+	- 2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics
+	- https://naacl2019.org/
+	- Minneapolis, MN
+	- June 2-7, 2019
+	- Submission deadlines: December 3-10, 2018.
 + NeurIPS (formerly NIPS), Annual Conference on Neural Information Processing Systems (NeurIPS 2020)
 	- https://nips.cc/
 	- Vancouver, Canada.
@@ -182,6 +246,7 @@ Transparency
 	- San Francisco
 	- February 24-28, 2020
 + SIGGRAPH, ACM special interest group on Computer GRAPHics and Interactive Techniques
+	- International Conference on Computer Graphics and Interactive Techniques
 	- https://s2020.siggraph.org/
 	- Washington, D.C..
 	- Submission deadlines:
@@ -202,14 +267,29 @@ Transparency
 	- Portland, OR
 	- Conference dates: June 14 - 19, 2020.
 	- Submission deadline: July 9 and 16, 2019 (submission cycle \#1) and October 15 and 22, 2019 (submission cycle \#2).
++ SSIAI 2020, IEEE Southwest Symposium on Image Analysis and Interpretation
+	- http://ivpcl.unm.edu/SSIAI2020/index.html
+	- http://ivpcl.unm.edu/SSIAI2020/SSIAI_2020_CFP_onePage.pdf
+	- http://www.ssiai.org/
+	- IEEE biennial conference on image analysis, computer vision and pattern recognition
+	- March 28 - April 1, 2020
+	- Santa Fe, New Mexico
+	- ***Submission deadline: December 1, 2019.***
 + SysML Conference, Systems and Machine Learning Conference
 	- https://systemsandml.org/
-	- March 2 - 4, 2020.
+	- https://www.sysml.cc/
+	- https://systemsandml.org/Conferences/2020/CallForPapers
+	- March 2-4, 2020.
 	- Austin, TX.
 	- Submission deadline: September 9, 2019.
 + TACL, Transactions of the Association for Computational Linguistics
 	- https://www.transacl.org/ojs/index.php/tacl
 + TPAMI, IEEE Transactions on Pattern Analysis and Machine Intelligence
++ TSD 2020, 23rd International Conference on Text, Speech and Dialogue
+	- https://www.tsdconference.org/tsd2020/conf_dates.html
+	- Brno, Czech Republic
+	- September 8–11, 2020
+	- Submission deadline: March 15 and 29, 2020
 + UAI 2020, Conference on Uncertainty in Artificial Intelligence
 	- http://auai.org/uai2019/cfp.php ***\[Update URL\]***
 	- VENUE
@@ -219,6 +299,19 @@ Transparency
 	- http://uist.acm.org/uist2019/
 	- \[Update URL\]
 	- Submission deadline: April 5, 2019. ??? Update CFP deadline.???
++ VIS, IEEE Visualization Conference
+	- IEEE Conference on Visual Analytics Science & Technology (VAST)
+		* http://ieeevis.org/year/2019/info/call-participation/vast-paper-types
+	- IEEE Conference on Information Visualization (InfoVis)
+		* http://ieeevis.org/year/2019/info/call-participation/infovis-paper-types
+	- IEEE Conference on Scientific Visualization (SciVis)
+		* http://ieeevis.org/year/2019/info/call-participation/scivis-paper-types
+	- http://ieeevis.org/year/2019/info/call-participation/call-for-participation
+	- http://ieeevis.org/year/2019/welcome
+	- http://ieeevis.org/year/2019/info/open-practices/open-practices
+	- October 20-25, 2019
+	- Vancouver, Canada
+	- Submission deadlines: March 21 and 31, 2019.
 + WCCI, IEEE World Congress on Computational Intelligence (IEEE WCCI)
 	- https://wcci2020.org
 	- Conference dates: July 19-24, 2020.
@@ -235,6 +328,7 @@ Transparency
 + WWW, The Web Conference
 	- https://www2020.thewebconf.org
 	- https://www2020.thewebconf.org/call-for-contributions#papers
+	- Formerly known as the International World Wide Web Conference.
 	- Taipei, Taiwan.
 	- Submission deadline: Oct 7 and 14, 2019.
 
@@ -271,7 +365,7 @@ Transparency
 ####	AI, Machine Learning
 
 + AAAI
-
++ https://jackietseng.github.io/conference_call_for_paper/conferences.html
 
 
 
@@ -279,6 +373,23 @@ Transparency
 
 + http://jianying.space/conference-ranking.html
 	- http://jianying.space/acns/
+
+
+
+####	Natural Language Processing
+
++ NLP courses in universities around the world: https://aclweb.org/aclwiki/List_of_NLP/CL_courses
+
+
+
+
+
+
+
+
+
+
+
 
 
 ###	Attack Plan
@@ -376,6 +487,16 @@ List of conference "Call for Papers" deadlines:
 
 
 ## Hardware-centric, Verification, Automated Reasoning, & Compiler Design
+
+
+
+
+
+
++ ICSR 2020, 19th International Conference on Software and Systems Reuse
+	- https://www.uc.edu/eventservices/ICSR2019.html
+	- ~~June 26-28, 2019~~ November, 2020
+	- ~~Cincinnati, OH~~ Hammamet, Tunisia
 
 
 
@@ -489,6 +610,30 @@ List of conference "Call for Papers" deadlines:
 	- Orlando, FL.
 	- November 3-5, 2019
 	- Submission deadline: May 24 and 31, 2019
+
+
+
+
++ RuleML+RR, International Joint Conference on Rules and Reasoning
+	- https://rulemlrr19.inf.unibz.it/?p=call
+	- https://rulemlrr19.inf.unibz.it/
+	- http://2019.ruleml-rr.org
+	- Bolzano Rules and Artificial INtelligence Summit (BRAIN 2019): https://brain2019.inf.unibz.it/
+		- GCAI 2019, 5th Global Conference on Artificial Intelligence
+		- https://gcai2019.inf.unibz.it/?p=call_for_papers
+		- Submission deadlines: ~~June 14 and 21, 2019~~ June 28 and July 5, 2019
+	- September 16-19, 2019
+	- Bolzano, Italy
+	- The annual International Web Rule Symposium (RuleML) is an international academic conferences on research, applications, languages and standards for rule technologies. Since 2017 it is organised as International Joint Conference on Rules and Reasoning (RuleML+RR).
+	- Submission deadline: May 24 and 31, 2019
+
+
+
+
+
+
+
+
 
 
 
@@ -728,6 +873,23 @@ List of conference "Call for Papers" deadlines:
 	- VENUE
 	- DATES
 	- Submission deadline: Mid-/Late July, 2020.
+
+
+
+
++ CHES 2020, Conference on Cryptographic Hardware and Embedded Systems
+	- https://ches.iacr.org/
+	- https://ches.iacr.org/2020/
+	- Beijing, China
+	- September 14-17, 2020
+	- IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES)
+	- Submission deadlines:
+		* ***1st round: July 15, 2019***
+		* 2nd round: October 15, 2019
+		* 3rd round: January 15, 2019
+		* 4th round: April 15, 2019
+
+
 
 
 
@@ -1049,6 +1211,32 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ SysML Conference, Systems and Machine Learning Conference
+	- https://systemsandml.org/
+	- https://www.sysml.cc/
+	- https://systemsandml.org/Conferences/2020/CallForPapers
+	- March 2-4, 2020.
+	- Austin, TX.
+	- Submission deadline: September 9, 2019.
+
+
+
+
+
+
+
+
+
+
+
++ ACNS 2020, 18th International Conference on Applied Cryptography and Network Security
+	- Rome, Italy
+	- June 22-25, 2020
+	- https://sites.google.com/di.uniroma1.it/ACNS2020
+	- http://jianying.space/acns/
+	- Submission deadlines:
+		* ***1st round: September 9 and 18, 2019***
+		* 2nd round: January 20, 2020.
 
 
 
@@ -1288,6 +1476,27 @@ List of conference "Call for Papers" deadlines:
 
 
 
+
+
+
++ CHES 2020, Conference on Cryptographic Hardware and Embedded Systems
+	- https://ches.iacr.org/
+	- https://ches.iacr.org/2020/
+	- Beijing, China
+	- September 14-17, 2020
+	- IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES)
+	- Submission deadlines:
+		* 1st round: July 15, 2019
+		* ***2nd round: October 15, 2019***
+		* 3rd round: January 15, 2019
+		* 4th round: April 15, 2019
+
+
+
+
+
+
+
 + ISCAS, International Symposium on Circuits and Systems
 	- https://iscas2020.org/
 	- Seville, Spain.
@@ -1524,7 +1733,12 @@ List of conference "Call for Papers" deadlines:
 		* Winter Quarter Deadline: February 15, 2020, 8:00 pm EDT
 
 
-
++ ICAPS 2020, 30th International Conference on Automated Planning and Scheduling
+	- https://icaps20.icaps-conference.org/calls/call-for-papers/
+	- https://icaps20.icaps-conference.org/calls/call-for-papers/#:~:targetText=Call%20for%20Papers,June%2014%2D19%2C%202020.
+	- Nancy, France
+	- June 14-19, 2020
+	- Submission deadlines: November 15 and 20, 2019.
 
 
 
@@ -1858,7 +2072,17 @@ List of conference "Call for Papers" deadlines:
 
 
 
-
++ CHES 2020, Conference on Cryptographic Hardware and Embedded Systems
+	- https://ches.iacr.org/
+	- https://ches.iacr.org/2020/
+	- Beijing, China
+	- September 14-17, 2020
+	- IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES)
+	- Submission deadlines:
+		* 1st round: July 15, 2019
+		* 2nd round: October 15, 2019
+		* ***3rd round: January 15, 2019***
+		* 4th round: April 15, 2019
 
 
 
@@ -2020,7 +2244,7 @@ List of conference "Call for Papers" deadlines:
 	- http://issac-conference.org/
 	- July 20-23, 2020
 	- Kalamata, Messinia, Greece
-	- Submission deadline: January 31 and February 7, 2019.
+	- Submission deadline: January 31 and February 7, 2020.
 
 
 
@@ -2104,9 +2328,14 @@ List of conference "Call for Papers" deadlines:
 
 
 
-
-
-
++ Crypto 2019, International Cryptology Conference
+	- https://crypto.iacr.org/2019/
+	- Santa Barbara, CA
+	- August 18-22, 2019
+	- Submission deadline" February 13, 2019.
+	- PQC Standardization Conference
+		* NIST Post-Quantum Cryptography Standardization Process
+		* https://csrc.nist.gov/Events/2019/Second-PQC-Standardization-Conference
 
 
 
@@ -2162,6 +2391,20 @@ List of conference "Call for Papers" deadlines:
 		* ***2nd round: February 15, 2019***
 		* 3rd round: May 15, 2019
 		* 4th round: August 15, 2019
+
+
+
+
+
++ XLDB 2019, 12th Extremely Large Databases Conference
+	- https://conf.slac.stanford.edu/xldb2019/
+	- http://www.xldb.org/events/
+	- https://conf.slac.stanford.edu/xldb2018/
+	- April 3-4, 2019
+	- Stanford, CA
+	- Submission deadline: February 15, 2019
+		* Science Benchmark: http://www.xldb.org/science-benchmark/
+		* http://www.xldb.org/archives/2011/11/how-to-get-involved/
 
 
 
@@ -2302,6 +2545,17 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ VLDB2020, 46th International Conference on Very Large Data Bases
+	- https://vldb2020.org/important-dates.html
+	- https://vldb2020.org/
+	- https://vldb2020.org/research-track.html
+	- http://www.vldb.org/conference.html
+	- Tokyo, Japan
+	- August 31 - September 4, 2020
+	- Submission deadlines:
+		* ***1st of every month 5 p.m. PST, until March 2020***
+
+
 
 
 + SAMOS, International Conference on Embedded Computer Systems: Architectures, Modeling, and Simulation
@@ -2381,6 +2635,18 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ SYSTOR 2020, 13th ACM International Systems and Storage Conference
+	- http://www.systor.org/2020/
+	- Haifa, Israel
+	- June 2-4, 2020
+	- Submission deadline: March 3, 2020.
+
+
+
+
+
+
+
 + SIROCCO 2020, International Colloquium on Structural Information and Communication Complexity
 	- https://sirocco2020.cs.uni-paderborn.de/
 	- http://sirocco.hiit.fi/
@@ -2417,6 +2683,21 @@ List of conference "Call for Papers" deadlines:
 	- Barcelona, Spain.
 	- September 9-13, 2019.
 	- Submission deadline: March 22 and 29, 2019.
+
+
+
+
+
+
++ SoCS-19, 12th International Symposium on Combinatorial Search
+	- http://users.fit.cvut.cz/surynpav/socs2019/main.php?page=cfp
+	- July 16-17, 2019 (co-located with ICAPS-2019)
+	- Napa, CA
+	- Submission deadlines: ~~March 25 and April, 2019~~ April 5, 2019
+
+
+
+
 
 
 
@@ -2709,7 +2990,17 @@ List of conference "Call for Papers" deadlines:
 
 
 
-
++ CHES 2020, Conference on Cryptographic Hardware and Embedded Systems
+	- https://ches.iacr.org/
+	- https://ches.iacr.org/2020/
+	- Beijing, China
+	- September 14-17, 2020
+	- IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES)
+	- Submission deadlines:
+		* 1st round: July 15, 2019
+		* 2nd round: October 15, 2019
+		* 3rd round: January 15, 2019
+		* ***4th round: April 15, 2019***
 
 
 + Scala 2019 series/track
@@ -2717,6 +3008,29 @@ List of conference "Call for Papers" deadlines:
 	- https://conf.researchr.org/series/scala
 	- London, U.K..
 	- Submission deadline: April 16, 2019.
+
+
+
+
+
+
+
+
+
++ SOSP 2019, 27th ACM Symposium on Operating Systems Principles
+	- https://sosp19.rcs.uwaterloo.ca/
+	- http://sosp.org/
+	- Huntsville, Ontario, Canada
+	- October 27-30, 2019
+	- Submission deadline: April 17 and 24, 2019.
+
+
+
+
+
+
+
+
 
 
 
@@ -3512,8 +3826,16 @@ Journals in signal processing and communication/information theory:
 
 
 
+#	Tips on Doing Good Research and Writing Good Papers
 
-
++ https://sosp19.rcs.uwaterloo.ca/cfp.html
+	- Papers will be judged on novelty, significance, clarity, relevance, and correctness. A good paper will:
+		* Consider a significant problem.
+		* Propose and implement an interesting, compelling solution.
+		* Demonstrate the practicality and benefits of the solution.
+		* Draw appropriate conclusions.
+		* Clearly describe what the authors have done.
+		* Clearly articulate the advances beyond previous work
 
 
 
