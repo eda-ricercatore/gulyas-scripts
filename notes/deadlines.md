@@ -686,6 +686,18 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ SODA20, ACM-SIAM Symposium on Discrete Algorithms
+	- https://www.siam.org/conferences/cm/conference/soda20
+	- January 5-8, 2020
+	- Salt Lake City, Utah
+	- Submission deadlines: July 5 and 9, 2020.
+
+
+
+
+
+
+
 + POPL, ACM SIGPLAN Symposium on Principles of Programming Languages
 	- https://popl20.sigplan.org/
 	- https://popl20.sigplan.org/track/POPL-2020-Research-Papers#POPL-2020-Call-for-Papers
@@ -1835,6 +1847,23 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ PETRI NETS 2020, 41th International Conference on Application and Theory of Petri Nets and Concurrency
+	- http://conf-2020.petrinet.net/
+	- Petri Nets World: http://www.informatik.uni-hamburg.de/TGI/PetriNets/index.php
+	- Paris, France
+	- June 22-26, 2020
+	- Submission deadlines: Jan 15 and 21, 2019.
+
+
+
+
+
+
+
+
+
+
+
 + HPDC 2020 (or HPDC'20), 29th International Symposium on High-Performance Parallel and Distributed Computing
 	- http://www.hpdc.org/2019/papers/call-for-papers/
 	- Stockholm, Sweden.
@@ -1986,8 +2015,12 @@ List of conference "Call for Papers" deadlines:
 
 
 
-
-
++ ISSAC, International Symposium on Symbolic and Algebraic Computation
+	- http://issac-conference.org/2020/
+	- http://issac-conference.org/
+	- July 20-23, 2020
+	- Kalamata, Messinia, Greece
+	- Submission deadline: January 31 and February 7, 2019.
 
 
 
