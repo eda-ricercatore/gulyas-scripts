@@ -258,7 +258,8 @@ Transparency
 			+ Long Papers: 14 Jan 2020, 22:00 UTC
 			+ Short Papers 23 Jan 2020, 22:00 UTC
 			+ ["The SIGGRAPH Art Papers program brings together communities of researchers and practitioners working at the intersections of art, design, humanities, science, and technology."](https://s2019.siggraph.org/conference/programs-events/art-papers/art-papers-submissions/)
-+ SIGIR, ACM SIGIR Conference on Research and Development in Information Retrieval
++ SIGIR, ACM International Conference on Research and Development in Information Retrieval
+	- ACM SIGIR Conference on Research and Development in Information Retrieval
 	- URL
 	- VENUE
 	- Submission deadline: Late Jan, 2019.
