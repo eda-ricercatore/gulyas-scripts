@@ -2699,6 +2699,11 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ ICDAR 2019, 15th International Conference on Document Analysis and Recognition
+	- https://icdar2019.org/
+	- Submission deadlines: ~~February 13, 2019~~ March 1 and 8, 2019.
+
+
 
 
 + FSE, Conference on Fast Software Encryption
@@ -3857,7 +3862,11 @@ IEEE Global Communications Conference (GLOBECOM)
 
 
 Other conferences in signal processing and communication/information theory:
-+IEEE International Conference on Image Processing (ICIP)
++ IEEE International Conference on Image Processing (ICIP)
+	- ICIP, 26th IEEE International Conference on Image Processing
+	- Taipei, Taiwan
+	- September 22-25, 2019
+	- Submission deadline: ~~January 31, 2019~~ February 8, 2019
 + IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
 + IEEE Global Conference on Signal and Information Processing (GlobalSIP)
 + IEEE International Symposium on Biomedical Imaging (ISBI)
