@@ -3283,6 +3283,15 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ ESEM, International Symposium on Empirical Software Engineering and Measurement
+	- Empirical Software Engineering International Week
+	- https://eseiw2020.di.uniba.it/esem_conf/important-dates/
+	- https://eseiw2020.di.uniba.it/
+	- http://esem-conferences.org/
+	- Bari, Italy
+	- October 5-9, 2020
+	- Submission deadline: April 20 and 27, 2019.
+
 
 
 + TABLEAUX, International Conference on Automated Reasoning with Analytic Tableaux and Related Methods
