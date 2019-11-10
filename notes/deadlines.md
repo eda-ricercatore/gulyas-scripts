@@ -346,6 +346,7 @@ Transparency
 
 + WADS 2019, Algorithms and Data Structures Symposium
 	- http://www.wads.org/
+	- was Workshop on Algorithms and Data Structures
 	- August 5-7, 2019
 	- Edmonton, Canada
 	- Submission deadline: February 20, 2019.
@@ -595,6 +596,33 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ MIDDLEWARE 2019, ACM/IFIP/USENIX International Middleware Conference
+	- ACM/IFIP International Middleware Conference
+	- http://2019.middleware-conference.org/research.html
+	- http://middleware-conference.org/
+	- December 9-13, 2019
+	- Davis, CA
+	- Submission deadline: May 17, 2019
+
+
+
+
+
+
+
++ ACM MSWiM 2019, 22nd ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems
+	- http://mswimconf.com/2019/dates.htm
+	- http://mswimconf.com/2019/
+	- November 25-29, 2019
+	- Miami Beach, FL
+	- Submission deadline: ~~May 20, 2019~~ June 5, 2019.
+
+
+
+
+
+
+
 + SYNTCOMP, Reactive Synthesis Competition
 	- http://www.syntcomp.org/schedule/
 	- http://www.syntcomp.org/
@@ -840,7 +868,7 @@ List of conference "Call for Papers" deadlines:
 	- https://www.siam.org/conferences/cm/conference/soda20
 	- January 5-8, 2020
 	- Salt Lake City, Utah
-	- Submission deadlines: July 5 and 9, 2020.
+	- Submission deadlines: July 5 and 9, 2019.
 
 
 
@@ -1001,6 +1029,32 @@ List of conference "Call for Papers" deadlines:
 	- Submission deadline: August 9 and 16, 2019.
 	- ***Go to ASPLOS***
 	- ASPLOS is co-sponsored by SIGPLAN, SIGARCH, and SIGOPS
+
+
+
+
+
++ ALENEX20, SIAM Symposium on Algorithm Engineering and Experiments
+	- https://www.siam.org/conferences/cm/submissions-and-deadlines/alenex20-submissions-deadlines
+	- January 5-6, 2020
+	- Salt Lake City, Utah
+	- Submission deadline: August 9 and 16, 2019.
+
++ SOSA20, SIAM Symposium on Simplicity in Algorithms
+	- https://www.siam.org/conferences/cm/conference/sosa20
+	- January 6-7, 2020
+	- Salt Lake City, Utah
+	- Submission deadline: August 9 and 16, 2019.
+
++ APOCS20, SIAM Symposium on Algorithmic Principles of Computer Systems
+	- https://www.siam.org/conferences/cm/submissions-and-deadlines/apocs20-submissions-deadlines
+	- January 8, 2020
+	- Salt Lake City, Utah
+	- Submission deadline: August 9 and 16, 2019.
+
+
+
+
 
 
 
@@ -2315,8 +2369,11 @@ List of conference "Call for Papers" deadlines:
 
 
 
-
-
++ COLT 2020, 33rd Annual Conference on Learning Theory
+	- http://learningtheory.org/colt2020/cfp.html
+	- Graz, Austria
+	- July 9-12, 2020
+	- Submission deadline: January 31, 2020.
 
 
 
@@ -2396,6 +2453,7 @@ List of conference "Call for Papers" deadlines:
 
 
 + Crypto 2019, International Cryptology Conference
+	- Advances in Cryptology
 	- https://crypto.iacr.org/2019/
 	- Santa Barbara, CA
 	- August 18-22, 2019
