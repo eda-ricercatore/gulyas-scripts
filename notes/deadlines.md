@@ -815,6 +815,19 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ ICTAI 2019, IEEE International Conference on Tools with Artificial Intelligence
+	- https://ictai2019.org/
+	- https://ictai2019.org/dates.html
+	- November 4-6, 2019
+	- Portland, Oregon
+	- Submission deadline: ~~June 20, 2019~~ July 15, 2019
+
+
+
+
+
+
+
 
 
 + ICCD, IEEE International Conference on Computer Design
@@ -896,6 +909,18 @@ List of conference "Call for Papers" deadlines:
 
 
 
+
++ HI'19, 30th Anniversary "Heron Island" Conference Workshop on Computational and Cognitive Models of Creative Design
+	- http://dccconferences.org/hi19/
+	- December 15-18, 2019
+	- Heron Island, Queensland, Australia
+	- Submission deadline: July 14 and August 21, 2019
+	- DCC 2018, 8th International Conference on Design Computing and Cognition
+		- http://dccconferences.org/dcc18/
+		- biennial conference
+		- July 2-4, 2018
+		- Lake Como (near Milan), Italy
+		- Submission deadline: December 1 and 15, 2017.
 
 
 
@@ -1003,6 +1028,24 @@ List of conference "Call for Papers" deadlines:
 	- ***Submission deadline (For Summer submissions): August 1 and 8, 2019.***
 	- Submission deadline (For Fall submissions): October 14 and 21, 2019.
 	- Submission deadline (For Winter submissions): January 27 and February 3, 2020.
+
+
+
+
+
+
++ EMBS, 41st International Engineering in Medicine and Biology Conference
+	- https://embc.embs.org/2019/
+	- Submission deadline: February 5 and 19, 2020
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1765,6 +1808,16 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ DCC, Data Compression Conference
+	- https://www.cs.brandeis.edu/~dcc/Call.html
+	- https://www.cs.brandeis.edu/~dcc/index.html
+	- March 24-27, 2020
+	- Snowbird, Utah
+	- Submission deadline: ~~November 1, 2019~~ November 8, 2019
+
+
+
+
 
 
 
@@ -2273,6 +2326,20 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ 42nd Annual International Conferences of the IEEE Engineering in Medicine and Biology Society
+	- in conjunction with the 43rd Annual Conference of the Canadian Medical and Biological Engineering Society
+	- https://embc.embs.org/2020/
+	- July 20-24, 2020
+	- Montréal, Québec, Canada
+	- Submission deadline: January 23, 2020.
+
+
+
+
+
+
+
+
 + ACM SIGCOMM 2019
 	- http://conferences.sigcomm.org/sigcomm/2019/fireglass_rsn%3Dtrue
 	- https://sigcomm.org/events/sigcomm-conference
@@ -2414,6 +2481,19 @@ List of conference "Call for Papers" deadlines:
 	- Submission deadlines:
 		* 1st deadline: ~~January 31, 2019~~ ***February 5, 2019***
 		* 2nd deadline: May 15, 2019
+
+
+
+
+
++ Creativity & Cognition 2019, 12th Conference on Creativity & Cognition
+	- http://cc.acm.org/2019/submit/papers.php
+	- http://cc.acm.org/2019/submit/
+	- San Diego, CA
+	- June 23-26, 2019
+	- Submission deadlines: February 5 and 12, 2019.
+
+
 
 
 
@@ -2701,7 +2781,9 @@ List of conference "Call for Papers" deadlines:
 
 + ICDAR 2019, 15th International Conference on Document Analysis and Recognition
 	- https://icdar2019.org/
-	- Submission deadlines: ~~February 13, 2019~~ March 1 and 8, 2019.
+	- September 20-15, 2019
+	- Sydney, Australia
+	- Submission deadlines: ~~February 13 and 15, 2019~~ March 1 and 8, 2019.
 
 
 
