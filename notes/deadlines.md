@@ -2779,6 +2779,7 @@ List of conference "Call for Papers" deadlines:
 
 
 
+
 + ICDAR 2019, 15th International Conference on Document Analysis and Recognition
 	- https://icdar2019.org/
 	- September 20-15, 2019
@@ -2805,6 +2806,17 @@ List of conference "Call for Papers" deadlines:
 
 
 
+
+
+
+
+
+
++ 58th IEEE Conference on Decision and Control
+	- https://cdc2019.ieeecss.org/
+	- Nice, France
+	- December 11-13, 2019
+	- Submission deadline: March 1, 2019
 
 
 
@@ -3065,10 +3077,12 @@ List of conference "Call for Papers" deadlines:
 
 
 + ASAP, IEEE International Conference on Application-specific Systems, Architectures and Processors
+	- 30th IEEE International Conference on Application-specific Systems, Architectures and Processors
+	- https://asap2019.csl.cornell.edu/cfp.html
 	- https://asap2019.csl.cornell.edu/
 	- New York, NY. @Cornell Tech.
 	- July 15-17, 2019.
-	- Submission deadline: April 2 and 8, 2019.
+	- Submission deadline: ~~April 2 and 8, 2019.~~ April 9 and 15, 2019.
 
 
 
@@ -3468,7 +3482,13 @@ List of conference "Call for Papers" deadlines:
 
 
 
-
++ ICLP, 35th International Conference on Logic Programming
+	- https://www.cs.nmsu.edu/ALP/iclp2019/
+	- September 20-25, 2019
+	- Las Cruces, New Mexico, USA
+	- Submission deadline: May 8 and 15, 2019
+		* The program committee of the 35th International Conference on Logic Programming (ICLP) invites submissions of published journal papers and papers presented at related conferences for the Sister Conferences and Journal Presentation Track.
+			+ June 27, 2019.
 
 
 
