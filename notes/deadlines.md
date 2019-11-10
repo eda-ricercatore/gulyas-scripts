@@ -1004,6 +1004,20 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ MobiCom 2020, 26th Annual International Conference on Mobile Computing and Networking
+	- https://sigmobile.org/mobicom/2020/
+	- September 21-25, 2019
+	- London, United Kingdom
+	- Submission deadlines: August 14 and 18, 2019.
+
+
+
+
+
+
+
+
+
 
 + UbiComp 2020, 2020 ACM International Joint Conference on Pervasive and Ubiquitous Computing
 	- http://ubicomp.org/ubicomp2020/
@@ -1059,6 +1073,40 @@ List of conference "Call for Papers" deadlines:
 		* ***Summer Quarter Deadline: August 23, 2019, 8:00 pm EDT***
 		* Fall Quarter Deadline: November 15, 2019, 8:00 pm EDT
 		* Winter Quarter Deadline: February 15, 2020, 8:00 pm EDT
+
+
+
+
++ SIGCSE 2020, 51st ACM Technical Symposium on Computer Science Education
+	- https://sigcse2020.sigcse.org/authors/cfp.html
+	- March 11-14, 2020
+	- Portland, OR
+	- Submission deadline: August 23 and 30, 2019.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 + CIDR, Conference on Innovative Data Systems Research
