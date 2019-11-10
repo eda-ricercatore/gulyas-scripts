@@ -209,8 +209,10 @@ Transparency
 	- Submission deadline: Early/Mid- May, 2019.
 + LDAV 2019, 9th IEEE Symposium on Large Data Analysis and Visualization
 	- https://ldav.org/
-in conjunction with IEEE VIS 2019, Vancouver, BC, Canada, October 21, 2019
-
+	- Held in conjunction with IEEE VIS 2019
+	- Vancouver, BC, Canada
+	- October 21, 2019
+	- June 24, 2019.
 + LICS, ACM/IEEE Symposium on Logic in Computer Science
 	- http://lics.siglog.org/lics20/
 	- http://lics.siglog.org/lics20/cfp.php
