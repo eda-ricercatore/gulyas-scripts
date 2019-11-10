@@ -387,9 +387,11 @@ Transparency
 
 
 
+####	Other resources
 
 
-
++ computational geometry:
+	- https://comptag.github.io/teaching-compGT/syllabus_list.html
 
 
 
@@ -1341,7 +1343,11 @@ List of conference "Call for Papers" deadlines:
 
 
 
-
++ ALT 2020, 31st International Conference on Algorithmic Learning Theory
+	- http://alt2020.algorithmiclearningtheory.org/call-for-papers/
+	- February 8-11, 2020
+	- San Diego, CA
+	- Submission deadline: September 20, 2019, 4:59 p.m., U.S. EST.
 
 
 
@@ -1942,6 +1948,16 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ SoCG 2019, Symposium on Computational Geometry
+	- http://eecs.oregonstate.edu/socg19/index.html
+	- http://www.computational-geometry.org/
+	- Portland, OR
+	- June 18-21, 2019
+	- Submission deadline: December 5, 2018.
+
+
+
+
 + ASYNC 2019, IEEE International Symposium on Asynchronous Circuits and Systems
 	- http://asyncsymposium.org/async/Welcome.html
 	- http://www.async2019.jp
@@ -1958,7 +1974,7 @@ List of conference "Call for Papers" deadlines:
 	- Providence, RI, USA
 	- April 13-17, 2019
 	- Abstract submission: Friday, December 8, 2018 (11:59pm PST)
-	- Acceptance notification: Friday, Feb 2, 2019
+		* Acceptance notification: Friday, Feb 2, 2019
 
 
 
