@@ -795,8 +795,14 @@ List of conference "Call for Papers" deadlines:
 		* Paper artifacts: ~~August 26 and 30, 2019~~ August 29 and September 3, 2019
 
 
-
-
++ ICDE 2020, 36th IEEE International Conference on Data Engineering
+	- https://www.utdallas.edu/icde/call.html
+	- https://www.utdallas.edu/icde/
+	- April 20-24, 2019
+	- Dallas, TX
+	- Submission deadlines:
+		* June 8 and 15, 2019
+		* October 8 and 15, 2019
 
 
 
@@ -818,8 +824,12 @@ List of conference "Call for Papers" deadlines:
 	- September 24-27, 2019.
 	- Submission deadline: June 14, 2019.
 
-
-
++ BuildSys 2019, ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation
+	- http://buildsys.acm.org/2019/
+	- http://buildsys.acm.org/
+	- November 13-14, 2019
+	- New York, NY
+	- Submission deadline: ~~June 15 and 22, 2019~~ June 15 and 29, 2019
 
 
 
