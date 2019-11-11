@@ -610,12 +610,43 @@ List of conference "Call for Papers" deadlines:
 
 
 
+
+
++ VECoS 2019, 13th International Conference on Verification and Evaluation of Computer and Communication Systems
+	- Part of the 3rd World Congress on Formal Methods
+	- http://vecos.ensta-paristech.fr/2019/index.html
+	- October 9, 2019
+	- Porto, Portugal
+	- Submission deadline: May 19, 2019
+
+
+
+
+
+
+
+
+
+
+
 + ACM MSWiM 2019, 22nd ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems
 	- http://mswimconf.com/2019/dates.htm
 	- http://mswimconf.com/2019/
 	- November 25-29, 2019
 	- Miami Beach, FL
 	- Submission deadline: ~~May 20, 2019~~ June 5, 2019.
+
+
+
+
+
++ RV 2019, 19th International Conference on Runtime Verification
+	- https://www.react.uni-saarland.de/rv2019/cfp.html
+	- Part of the 3rd World Congress on Formal Methods
+	- October 9-11, 2019
+	- Porto, Portugal
+	- Submission deadline: May 21, 2019
+
 
 
 
@@ -664,7 +695,12 @@ List of conference "Call for Papers" deadlines:
 
 
 
-
++ MASCOTS 2019, 27th IEEE International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems
+	- https://sites.google.com/view/mascots-2019/calls/cfp?authuser=0
+	- https://sites.google.com/view/mascots-2019/dates?authuser=0
+	- Rennes, France
+	- October 22-24, 2019
+	- Submission deadline: May 27, 2019
 
 
 
@@ -684,8 +720,11 @@ List of conference "Call for Papers" deadlines:
 
 
 
-
-
++ RTSS 2019, 40th IEEE Real-Time Systems Symposium
+	- http://2019.rtss.org/
+	- Hong Kong, China
+	- December 3-6, 2019
+	- Submission deadline: May 30, 2019
 
 
 
@@ -845,6 +884,61 @@ List of conference "Call for Papers" deadlines:
 	- Nara, Japan.
 	- October 17-19, 2019.
 	- Submission deadline: June 24, 2019 (extended)
+
+
+
+
+
+
+
++ DataMod 2019, 8th International Symposium on "From Data to Models and Back"
+	- Part of the 3rd World Congress on Formal Methods
+	- http://pages.di.unipi.it/datamod/edition-2019/
+	- October 7-8, 2019
+	- Porto, Portugal
+	- Submission deadline: June 24 and 30, 2019 (extended)
+
+
+
+
+
+
+
+
+
+
++ LOPSTR 2019, 29th International Symposium on Logic-Based Program Synthesis and Transformation
+	- http://www.cs.unibo.it/projects/lopstr19/
+	- Porto, Portugal
+	- October 8-10, 2019
+	- Submission deadline: June 25 and 30, 2019.
+
+
+
+
++ 2nd DaLí Workshop on Dynamic Logic: New Trends and Applications
+	- Part of the 3rd World Congress on Formal Methods
+	- https://workshop.dali.di.uminho.pt/
+	- October 9, 2019
+	- Porto, Portugal
+	- Submission deadline: June 28, 2019 (extended)
+		* Dynamic logic, foundations and applications
+		* Logics with regular modalities
+		* Modal/temporal/epistemic logics
+		* Kleene and action algebras and their variants
+		* Quantum dynamic logic
+		* Coalgebraic modal/dynamic logics
+		* Graded and fuzzy dynamic logics
+		* Dynamic logics for cyber-physical systems
+		* Dynamic epistemic logic
+		* Complexity and decidability of variants of dynamic logics and temporal logics
+		* Model checking, model generation and theorem proving for dynamic logics
+		* Building on the pioneer intuitions of Floyd-Hoare logic, dynamic logic was introduced in the 70's as a suitable logic to reason about, and verify, classic imperative programs. Since then, the original intuitions grew to an entire family of logics, which became increasingly popular for assertional reasoning about a wide range of computational systems. Simultaneously, their object (i.e. the very notion of a program) evolved in unexpected ways. This lead to dynamic logics tailored to specific programming paradigms and extended to new computing domains, including probabilistic, continuous and quantum computation. Both its theoretical relevance and practical potential make dynamic logic a topic of interest in a number of scientific venues, from wide-scope software engineering conferences to modal logic specific events. However, no specific event is exclusively dedicated to it. This workshop aims at filling fill such a gap, joining an heterogeneous community of colleagues, from Academia to Industry, from Mathematics to Computer Science.
+		* On Free ω-Continuous and Regular Ordered Algebras
+			+ Ordered algebras abound in program logics and programming language semantics: ω-continuous semirings, star-continuous Kleene algebras and Kleene algebras with tests, context-free languages, OI-macro languages, iteration theories, recursion schemes, and Scott domains, among many others. These structures are all examples of varieties of ordered Σ-algebras with restricted completeness and continuity properties. In this talk I will give a general characterization of the free algebras of such varieties in terms of submonads of the monad of Σ-coterms. Varieties of this form are called quasi-regular. For example, the free star-continuous Kleene algebra is the subalgebra of the corresponding free ω-continuous semiring determined by those elements denoted by the regular Σ-coterms, where Σ is the signature of Kleene algebra. This is a special case of a more general construction that applies to any quasi-regular family, including all the examples mentioned above. The talk report on joint work with Zoltán Ésik.
+
+
+
 
 
 
@@ -2979,6 +3073,20 @@ List of conference "Call for Papers" deadlines:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 + QEST 2020, International Conference on Quantitative Evaluation of SysTems
 	- http://www.qest.org/qest2019/call-for-papers.html
 	- VENUE
@@ -3183,6 +3291,21 @@ List of conference "Call for Papers" deadlines:
 	- Submission deadline: April 11 and 15, 2019.
 
 
++ TAP 2019, 13th International Conference on Tests and Proofs
+	- https://tap.sosy-lab.org/2019/dates.php
+	- Part of the 3rd World Congress on Formal Methods
+	- October 9-11, 2019
+	- Porto, Portugal
+	- Submission deadline: April 11 and 25, 2019
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3337,6 +3460,17 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ 26th Static Analysis Symposium
+	- Part of the 3rd World Congress on Formal Methods
+	- https://staticanalysis.org/sas2019/
+	- http://www.staticanalysis.org/
+	- Porto, Portugal
+	- October 8-11, 2019
+	- Submission deadlines: April 22-25, 2019
+
+
+
+
 
 + MFCS 2019, 44th International Symposium on Mathematical Foundations of Computer Science
 	- https://tcs.rwth-aachen.de/mfcs2019/
@@ -3459,7 +3593,11 @@ List of conference "Call for Papers" deadlines:
 
 
 
-
++ PPDP '19, 21st International Symposium on Principles and Practice of Programming Languages
+	- http://ppdp2019.macs.hw.ac.uk/ (no longer valid)
+	- Porto, Portugal
+	- October 7-9, 2019.
+	- Submission deadline: ~~May 4 and 10, 2019~~ May 10, 2019
 
 
 
@@ -3488,6 +3626,13 @@ List of conference "Call for Papers" deadlines:
 	- San Diego, California.
 	- November 11-15, 2019.
 	- Submission deadline: May 6 and 13, 2019.
+
+
++ MPC 2019, 13th International Conference on Mathematics of Program Construction
+	- http://www.cs.nott.ac.uk/~pszgmh/mpc19.html#submission
+	- Porto, Portugal
+	- October 7-9, 2019
+	- Submission deadline: May 7 and 10, 2019.
 
 
 
