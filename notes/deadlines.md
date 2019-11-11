@@ -340,8 +340,22 @@ Transparency
 
 ####	Conference Rankings
 
++ http://portal.core.edu.au/conf-ranks/?search=&by=all
++ http://www.guide2research.com/topconf/
 + http://www.conferenceranks.com/index.html#data
 + https://academic.microsoft.com/home
++ https://aminer.org/ranks/conf
++ http://csrankings.org/#/index?all
+	- https://emeryberger.com/
++ http://faculty.cs.tamu.edu/guofei/sec_conf_stat.htm
++ http://cic.tju.edu.cn/faculty/zhileiliu/doc/COREComputerScienceConferenceRankings.html
++ http://www.quatic.org/rankings
++ http://www.cs.jhu.edu/~taochen/SoC_Conference_Ranking.html
+
+
+
+
+
 
 
 + WADS 2019, Algorithms and Data Structures Symposium
@@ -1507,6 +1521,20 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ ICRA 2020, International Conference on Robotics and Automation
+	- https://www.icra2020.org/call-for-papers
+	- https://www.icra2020.org/
+	- Paris, France
+	- May 31 and June 4, 2020
+	- Submission deadline: September 10 and 15, 2019
+
+
+
+
+
+
+
+
 + EDBT/ICDT 2020 Joint Conference
 	- ICDT, 23rd International Conference on Database Theory
 		* https://databasetheory.org/icdt-pages
@@ -2106,7 +2134,14 @@ List of conference "Call for Papers" deadlines:
 
 
 
-
++ MobiHoc 2020, International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing
+	- 21st International Symposium on Mobile Ad Hoc Networking and Computing
+	- https://www.sigmobile.org/mobihoc/2020/
+	- https://www.sigmobile.org/mobihoc/2020/cfp.html
+	- https://sigmobile.org/mobihoc/
+	- Shanghai, China
+	- June 30 - July 3, 2020
+	- Submission deadlines: November 30 and December 6, 2019.
 
 
 
@@ -2223,14 +2258,7 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ MobiHoc 2020, International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing
-	- 21st International Symposium on Mobile Ad Hoc Networking and Computing
-	- https://www.sigmobile.org/mobihoc/2020/
-	- https://www.sigmobile.org/mobihoc/2020/cfp.html
-	- https://sigmobile.org/mobihoc/
-	- Shanghai, China
-	- June 30 - July 3, 2020
-	- Submission deadlines: November 30 and December 6, 2019.
+
 
 
 
@@ -2269,6 +2297,31 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ BigData 2019, 2019 International Congress on Big Data
+	- http://www.bigdatacongress.org/2019/
+	- http://www.bigdatacongress.org/2019/cfp.html
+	- June 25-30, 2019
+	- San Diego, CA
+	- Submission deadlines:
+		* January 6, 2020.
+		* March 22, 2020.
+
++ CLOUD 2019, 2019 International Conference on Cloud Computing
+	- http://www.thecloudcomputing.org/2019/cfp.html
+	- http://www.thecloudcomputing.org/2019/index.html
+	- June 25-30, 2019
+	- San Diego, CA
+	- Submission deadlines:
+		* January 6, 2020.
+		* March 22, 2020.
+
++ ICCC 2019, 2019 International Conference on Cognitive Computing
+	- http://www.thecognitivecomputing.org/2019/cfp.html
+	- June 25-30, 2019
+	- San Diego, CA
+	- Submission deadlines:
+		* January 6, 2020.
+		* March 22, 2020.
 
 
 
@@ -2728,6 +2781,22 @@ List of conference "Call for Papers" deadlines:
 	- VENUE
 	- DATES
 	- Submission deadline: Mid-/Late February, 2020.
+
+
+
+
++ ICBC 2019, 2019 International Conference on Blockchain
+	- http://blockchain1000.org/2019/cfp.html
+	- June 25-30, 2019
+	- San Diego, CA
+	- Submission deadlines:
+		* February 17, 2020.
+		* March 22, 2020.
+
+
+
+
+
 
 
 
