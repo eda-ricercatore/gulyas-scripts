@@ -2064,6 +2064,15 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ ESANN, 28th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning
+	- https://www.esann.org/
+	- Bruges, Belgium
+	- April 22-24, 2020
+	- Submission deadline: ~~November 18, 2019~~ November 25, 2019
+
+
+
+
 
 
 + ISCA, International Symposium on Computer Architecture
