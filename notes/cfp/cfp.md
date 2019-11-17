@@ -785,6 +785,71 @@ Areas of interest include, but are not limited to:
 
 #	CVPR
 
+##	CVPR 2020
+
++ 3D computer vision   
++ Action and behavior recognition   
++ Adversarial learning, adversarial attack and defense methods
++ Biometrics, face, gesture, body pose
++ Computational photography, image and video synthesis   
++ Datasets and evaluation   
++ Efficient training and inference methods for networks   
++ Explainable AI, fairness, accountability, privacy, transparency and ethics in vision   
++ Image retrieval   
++ Low-level and physics-based vision   
++ Machine learning architectures and formulations   
++ Medical, biological and cell microscopy   
++ Motion and tracking   
++ Neural generative models, auto encoders, GANs  
++ Optimization and learning methods   
++ Recognition (object detection, categorization)   
++ Representation learning, deep learning   
++ Scene analysis and understanding   
++ Segmentation, grouping and shape   
++ Transfer, low-shot, semi- and un- supervised learning
++ Video analysis and understanding
++ Vision + language, vision + other modalities 
++ Vision applications and systems, vision for robotics and autonomous vehicles
++ Visual reasoning and logical representation
+
+
+###	Fine-grained details
+
++ 3D from a single image and shape-from-x
++ 3D from multiview and sensors
++ Action and behavior recognition
++ Adversarial learning
++ Biometrics
++ Computational photography
++ Datasets and evaluation
++ Efficient training and inference methods for networks
++ Emergency reviewing
++ Explainable AI
++ Face, gesture, and body pose
++ Fairness, accountability, transparency and ethics in Vision
++ Image and video synthesis
++ Image retrieval
++ Low-level and physics-based vision
++ Machine learning architectures and formulations
++ Medical, biological and cell microscopy
++ Motion and tracking
++ Neural generative models
++ Optimization and learning methods
++ Recognition (detection, categorization)
++ Representation learning
++ Scene analysis and understanding
++ Segmentation, grouping and shape
++ Transfer/Low-shot/Semi/Unsupervised Learning
++ Video analysis and understanding
++ Vision + language
++ Vision + other modalities
++ Vision applications and systems
++ Vision for robotics and autonomous vehicles
++ Visual reasoning and logical representation
+
+
+
+##	CVPR 2019
 + 3D from Multiview and Sensors
 + 3D from Single Images
 + Action Recognition
