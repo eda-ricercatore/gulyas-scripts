@@ -2068,7 +2068,7 @@ List of conference "Call for Papers" deadlines:
 	- https://www.esann.org/
 	- Bruges, Belgium
 	- April 22-24, 2020
-	- Submission deadline: ~~November 18, 2019~~ November 25, 2019
+	- Submission deadline: ~~November 18, 2019~~ ***November 25, 2019***
 
 
 

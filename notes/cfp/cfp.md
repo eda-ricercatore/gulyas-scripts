@@ -1,6 +1,6 @@
 #	Call For Papers (CFP) Information
 
-##	DAC CFP
+##	DAC CFP 2019
 
 ###	AUTONOMOUS SYSTEMS
 
@@ -173,7 +173,9 @@ SEC2.6 Security vulnerabilities in artificial intelligence
 
 
 
-#	ISCA CFP
+#	ISCA
+
+##	ISCA CFP 2019
 
 + Processor, memory, and storage systems architecture
 + Multiprocessor systems
@@ -189,6 +191,27 @@ SEC2.6 Security vulnerabilities in artificial intelligence
 + Effects of circuits or technology on architecture
 + Architecture modeling and simulation methodologies
 + Evaluation and measurement of real computing systems
+
+##	ISCA 2020
+
++ Processor, memory, and storage systems architecture
++ Multiprocessor systems
++ Datacenter-scale computing
++ IoT, mobile and embedded architecture
++ Interconnection network, router and network interface architecture
++ Accelerator-based, application-specific and reconfigurable architecture
++ Architectural support for programming languages or software development
++ Architectural support for security or virtualization
++ Instruction, thread and data-level parallelism
++ Dependable processor and system architecture
++ Architecture for emerging technologies and applications, including machine learning, novel memory technologies, quantum computing, etc.
++ Effects of circuits or technology on architecture
++ Architecture modeling and simulation methodologies
++ Evaluation and measurement of real computing systems
+
+
+
+
 
 
 
@@ -808,7 +831,7 @@ Areas of interest include, but are not limited to:
 + Segmentation, grouping and shape   
 + Transfer, low-shot, semi- and un- supervised learning
 + Video analysis and understanding
-+ Vision + language, vision + other modalities 
++ Vision + language, vision + other modalities
 + Vision applications and systems, vision for robotics and autonomous vehicles
 + Visual reasoning and logical representation
 
