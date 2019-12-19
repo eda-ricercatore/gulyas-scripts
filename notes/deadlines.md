@@ -2963,6 +2963,22 @@ List of conference "Call for Papers" deadlines:
 
 
 
+
+
++ IROS, IEEE/RSJ International Conference on Intelligent Robots and Systems
+	- http://www.iros2020.org/
+	- Las Vegas, NV.
+	- October 25-29, 2020.
+	- Submission deadline: March 1, 2020.
+
+
+
+
+
+
+
+
+
 + SAMOS, International Conference on Embedded Computer Systems: Architectures, Modeling, and Simulation
 	- https://samos-conference.com
 	- Samos Island, Greece.
