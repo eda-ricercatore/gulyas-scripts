@@ -2362,6 +2362,24 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ ISR 2020, International Symposium on Robotics
+	- https://www.isr-robotics.org/en/for-authors
+	- Munich, Germany
+	- June 17–18, 2020.
+	- Submission deadline: January 13, 2020.
+		* 1. Modeling, Planning and Control (mechanisms and kinematics, calibration and identification, theoretical foundations)
+		* 2. Components & Technologies (mision / tactile / auditory sensors, visual serving and tracking, actuators and controllers, virtual commissioning, robot end-effectors / robot infrastructure)
+		* 3. Robotics in Production / Industrial Robots (assembly, handling, painting, machining, processing, logistics etc., robot programming and languages, intelligent manufacturing systems, new applications, matrix production, digital twin, open source software, OPC UA)
+		* 4. Robotics in Service / Mobile Robotics (home and office robotics, service robotics for professional services, rescue / surveillance / security / defence robotics, assistance / rehabilitation / medical robotics, educational and entertainment robotics, exploration / space / aerial / underwater robotics)
+		* 5. Robotics in New Markets & Applications (food / pharmaceutical / biology robotics, micro / nano robotics, cognitive robotics / learning and adaptive systems / network and ubiquitous robotics, Biologically inspired robotics: humanoids / biomimetics / legged robots)
+		* 6. Human-robot-collaboration / Future of work (standards / safety / profitability / ergonomics / socio-economics / industrial engineering, industrial papers related to applications and case studies are welcome, safe human-robot-collaboration)
+		* 7. AI in Robotics – Robotic Applications that use AI (autonomous robots, machine vision, mobile robotics, probabilistic reasoning, estimation, decision)
+
+
+
+
+
+
 
 
 
