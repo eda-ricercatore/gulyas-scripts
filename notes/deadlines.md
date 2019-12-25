@@ -1480,16 +1480,14 @@ List of conference "Call for Papers" deadlines:
 
 
 + SysML Conference, Systems and Machine Learning Conference
+	- Also known as: MLSys, Conference on Machine Learning and Systems
 	- https://systemsandml.org/
 	- https://www.sysml.cc/
 	- https://systemsandml.org/Conferences/2020/CallForPapers
+	- https://mlsys.org/Conferences/2020/CallForPapers
 	- March 2-4, 2020.
 	- Austin, TX.
 	- Submission deadline: September 9, 2019.
-
-
-
-
 
 
 
@@ -3317,6 +3315,31 @@ List of conference "Call for Papers" deadlines:
 
 
 
+
+
++ ESWEEK, Embedded Systems Week
+	- https://www.esweek.org
+	- October 11-16, 2020.
+	- Shanghai, China.
+	- Submission deadline: **April 3 and 10, 2019**.
+	- **CASES, International Conference on Compilers, Architectures, and Synthesis for Embedded Systems**
+	- **CODES+ISSS, International Conference on Hardware/Software Codesign and System Synthesis**
+	- EMSOFT, ACM SIGBED International Conference on Embedded Software
+	- Internet of Medical Things (IoMT) track
+	- International Symposium on Networks-on-Chip (NOCS); mentioned later in greater details.
+	- **"RSP, International Symposium on Rapid System Prototyping".**
+
+
+
+
+
+
+
+
+
+
+
+
 + ITC 2018, International Test Conference
 	- http://www.itctestweek.org/
 	- http://www.itctestweek.org/wp-content/uploads/2018/11/P211340-1_ITC_2019_Call-for-Papers_DD2-mt.pdf
@@ -3328,17 +3351,6 @@ List of conference "Call for Papers" deadlines:
 
 
 
-
-+ ESWEEK, Embedded Systems Week
-	- https://www.esweek.org
-	- New York, NY.
-	- Submission deadline: **April 5 and 12, 2019**.
-	- **CASES, International Conference on Compilers, Architectures, and Synthesis for Embedded Systems**
-	- **CODES+ISSS, International Conference on Hardware/Software Codesign and System Synthesis**
-	- EMSOFT, ACM SIGBED International Conference on Embedded Software
-	- Internet of Medical Things (IoMT) track
-	- International Symposium on Networks-on-Chip (NOCS); mentioned later in greater details.
-	- **"RSP, International Symposium on Rapid System Prototyping".**
 
 
 + SenSys 2019, ACM Conference on Embedded Networked Sensor Systems
