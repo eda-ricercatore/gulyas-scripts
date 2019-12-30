@@ -4868,10 +4868,29 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- You understand the value of collaboration within teams.
 + skill set:
 	- We are looking for Data Scientist Interns to #JoinTheBand and help drive a data-first culture across our Finance teams at Spotify. Data scientists within our Finance team has the mission of utilizing data insights to drive decision-making for the organization. You will study user behavior, strategic initiatives, markets, content, and new features and bring data and insights into every decision we make. Above all, your work will impact the way the world experiences music.
-
-
-
-
++ skill set:
+	- experience in the use of data visualization libraries (d3.js, Processing);
+	- knowledge of tools and languages ​​for data analysis and visualization (eg Tableau, R, Python, Gephi, NodeBox);
+	- interest and propensity to learn work dynamics in an international company, dealing with highly innovative and experimental projects;
+	- academic background in information design and data visualization;
+	- experience in the design and implementation of static and / or interactive data visualizations and infographics;
+	- imagine, design and collaborate with UX / UI and development teams to create static and interactive data visualizations, infographics, reports and dashboards;
+	- interact and design solutions with customers that can satisfy both explicit and unidentified needs.
++ skill set:
+	- Accurat is looking for UX / UI design intern to be included in the design team of the Milan office.
+	- Our ideal candidate knows:
+		* imagine, design and collaborate with data viz and development teams to create effective and innovative user experiences;
+		* interact and design solutions with customers that can satisfy both explicit and unidentified needs.
+	- Our ideal candidate has:
+		* interest and propensity to learn work dynamics in an international company, dealing with highly innovative and experimental projects;
+		* an academic background in visual design, UX / UI design;
+		* experience in the design and implementation of interfaces and user experience;
+		* excellent knowledge of vector graphics software such as Adobe Illustrator and Sketch.
+	- Also welcome:
+		* knowledge of software for creating interactive prototypes (Framer, Invision ...);
+		* experience in the use of visual mapping tools such as Plectica;
+		* experience in type design and editorial design;
+		* talent or predisposition for vector and / or raster illustration.
 
 
 
