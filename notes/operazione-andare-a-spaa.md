@@ -370,7 +370,7 @@ To-do list:
 	- Splunk
 + Cloud platforms
 	- AWS/EC2
-	- AWS (EC2, EMR, RDS, Redshift), Google Cloud, Microsoft Azure
+	- AWS (EC2, EMR, RDS, Redshift), Google Cloud, Microsoft Azure, Oracle Cloud (https://cloud.oracle.com/trial)
 	- Experience with an Automation framework (Chef, Puppet Ansible, CloudFormation)
 	- Celery, Redis, Docker, Kubernetes, Jenkins
 	- Rackspace Open Cloud
@@ -410,7 +410,7 @@ To-do list:
 		* https://en.wikipedia.org/wiki/EmEditor
 	- Cloud-based text editors and IDEs
 		* https://www.editpad.org/
-		* https://www.mytextarea.com/ 
+		* https://www.mytextarea.com/
 + Other technology stacks:
 	- Go, Docker, Kafka, Elasticsearch
 	- Go, Ruby, Javascript, HTML, CSS, Ember.js, C/C++, MySQL, Libvirt, KVM, QEMU, OpenVSwitch, Chef, Ansible, Zookeeper, Kafka, Redis
