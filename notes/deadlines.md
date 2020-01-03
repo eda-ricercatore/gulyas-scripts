@@ -433,7 +433,7 @@ Upcoming Submission deadlines:
 + ***[LICS](http://lics.siglog.org/lics20/cfp.php): Submission deadline: January 6 and 10, 2020.***
 + [FCCM](https://www.fccm.org/): January 6 and 13, 2020.
 + **[IJCNN/WCCI](https://wcci2020.org): January 15, 2020.**
-+ ***[IJCAR](https://ijcar2020.org/): Late Jan and Early Feb, 2020.
++ ***[IJCAR](https://ijcar2020.org/): January 16 and 23, 2020.
 + ***[CAV](http://i-cav.org/2020/call-for-papers/): January 23, 2020.***
 + ***[SIGMETRICS](https://www.sigmetrics.org/sigmetrics2020/call_for_papers.html): January 27 and February 3, 2020.***
 + ***[ICML](https://icml.cc/Conferences/2020/CallForPapers): Submission deadline: January 31 and February 7, 2020.***
@@ -1696,7 +1696,7 @@ List of conference "Call for Papers" deadlines:
 	- Boston, MA
 	- Submission deadlines:
 		* 1st round: October 4, 2019
-		* 2nd round: February 7, 2019
+		* 2nd round: February 7, 2020
 
 
 
@@ -2459,10 +2459,11 @@ List of conference "Call for Papers" deadlines:
 	- https://ijcar2020.org/
 	- http://www.ijcar.org/conferences
 	- http://ijcar.org/
+	- https://ijcar2020.org/wp-content/uploads/2019/11/IJCAR2020-CFP.txt
 	- June 29 - July 2, 2020.
 	- Paris, France.
 	- ***Organized/Held in even-numbered years only***
-	- Submission deadline: Late Jan and Early Feb, 2020.
+	- Submission deadline: January 16 and 23, 2020.
 
 
 
@@ -2681,6 +2682,21 @@ List of conference "Call for Papers" deadlines:
 
 
 
+
++ FSCD, International Conference on Formal Structures for Computation and Deduction
+	- https://fscd2020.org/#about
+	- https://fscd2020.org/call-for-papers
+	- Submission deadlines: February 6 and 9, 2020.
+	- Paris, France.
+	- June 29 - July 5, 2020.
+
+
+
+
+
+
+
+
 + CSF, 33rd IEEE Computer Security Foundations Symposium
 	- https://www.ieee-security.org/TC/CSF2020/
 	- http://www.ieee-security.org/CSFWweb/
@@ -2688,7 +2704,7 @@ List of conference "Call for Papers" deadlines:
 	- Boston, MA
 	- Submission deadlines:
 		* 1st round: October 4, 2019
-		* ***2nd round: February 7, 2019***
+		* ***2nd round: February 7, 2020***
 
 
 
@@ -2985,11 +3001,11 @@ List of conference "Call for Papers" deadlines:
 
 
 + SAT, International Conferences on Theory and Applications of Satisfiability Testing
-	- http://sat2019.tecnico.ulisboa.pt/
+	- https://sat2020.idea-researchlab.org/cfp/
 	- http://www.satisfiability.org
-	- Lisbon, Portugal.
+	- Alghero, Italy.
 	- July 7-12, 2019.
-	- Submission deadline: March 1 and 8, 2019
+	- Submission deadlines: February 15 and 22, 2020.
 
 
 
