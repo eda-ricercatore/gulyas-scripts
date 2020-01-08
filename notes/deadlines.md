@@ -677,9 +677,10 @@ List of conference "Call for Papers" deadlines:
 
 + HPEC, IEEE High Performance Extreme Computing Conference
 	- http://ieee-hpec.org
+	- http://www.ieee-hpec.org/cfp.htm
 	- Waltham, MA
-	- September 24-26, 2019.
-	- Submission deadline: May 24, 2019. (extended deadline)
+	- September 22-24, 2020.
+	- Submission deadline: May 22, 2019.
 
 
 + IISWC, IEEE International Symposium on Workload Characterization
