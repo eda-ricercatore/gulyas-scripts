@@ -419,19 +419,7 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 
 
 Upcoming Submission deadlines:
-+ ***[CVPR](http://cvpr2020.thecvf.com/submission/main-conference/author-guidelines#call-for-papers): November 15, 2019, 23:59 PST.***
-+ ***[HOST](http://www.hostsymposium.org/call-for-paper.php): November 15, 2019 (round \#2).***
-+ [IC2E](https://conferences.computer.org/IC2E/2020/): November 15 and 22, 2019.
-+ ***[ISCA](https://iscaconf.org/isca2020/): November 19 and 26, 2018.***
-+ ***[DAC](https://dac.com/): November 21 and 27, 2019 (5:00 PM MST, -7:00 GMT).***
-+ ***[ISPD Contest 2020](http://ispd.cc/?page=contests): October/November 2019.***
-+ [PLDI](https://pldi20.sigplan.org/track/pldi-2020-papers): November 22, 2019.
-+ [VEE](https://conf.researchr.org/home/vee-2020): November 30 and December 6, 2019.
-+ ***[S&P](https://www.ieee-security.org/TC/SP2020/cfpapers.html): Rolling (Final deadline: Submit by December 1, 2019)***
-+ ***[Facebook proposal](https://research.fb.com/programs/research-awards/proposals/distributed-systems-research-request-for-proposals/): December 6, 2019 at 11:59 p.m., AOE***
-+ [GLSVLSI](http://www.glsvlsi.org): December 17, 2019.
-+ ***[LICS](http://lics.siglog.org/lics20/cfp.php): Submission deadline: January 6 and 10, 2020.***
-+ [FCCM](https://www.fccm.org/): January 6 and 13, 2020.
++ ***[Facebook proposal](https://research.fb.com/programs/research-awards/proposals/towards-on-device-ai-request-for-proposals/): February 3, 2020 at 11:59 p.m., U.S. PST***
 + **[IJCNN/WCCI](https://wcci2020.org): January 15, 2020.**
 + ***[IJCAR](https://ijcar2020.org/): January 16 and 23, 2020.
 + ***[CAV](http://i-cav.org/2020/call-for-papers/): January 23, 2020.***
@@ -2569,13 +2557,6 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ Symposia on VLSI Technology and Circuits
-	- http://vlsisymposium.org
-	- Kyoto, Japan.
-	- June 9-14, 2019.
-	- Submission deadline: January 28, 2019.
-
-
 
 
 
@@ -2695,6 +2676,16 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ COOL Chips 2?, IEEE Symposium on Low-Power and High-Speed Chips and Systems
+	- https://www.coolchips.org/2020/
+	- https://www.coolchips.org/2020/call-for-contributions/
+	- Hitachi Central Research Laboratory, Kokubunji, Tokyo, Japan.
+	- April 15-17, 2020.
+	- Submission deadline: February 7, 2020.
+
+
+
+
 
 
 
@@ -2719,6 +2710,26 @@ List of conference "Call for Papers" deadlines:
 	- May 20 2019.
 	- Rio de Janeiro, Brazil.
 	- Submission deadline: February 8, 2019.
+
+
+
+
+
++ Symposia on VLSI Technology and Circuits
+	- http://vlsisymposium.org
+	- https://vlsisymposium.org/wp-content/uploads/2019/12/2020-VLSI-Call-for-Papers.pdf
+	- June 14-19, 2020.
+	- Hilton Hawaiian Village, Honolulu, HI.
+	- Submission deadline: February 10, 2019.
+
+
+
+
+
+
+
+
+
 
 
 + NEWCAS, IEEE Northeast Workshop on Circuits and Systems
