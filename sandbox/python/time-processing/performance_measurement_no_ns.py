@@ -85,12 +85,12 @@ import re
 import datetime
 # ImportError: cannot import name 'perf_counter_ns'
 from time import perf_counter as pc_timestamp
-from time import perf_counter_ns as pc_timestamp_ns
+#from time import perf_counter_ns as pc_timestamp_ns
 from time import process_time as pt_timestamp
-from time import process_time_ns as pt_timestamp_ns
-from time import time_ns as t_ns
+#from time import process_time_ns as pt_timestamp_ns
+#from time import time_ns as t_ns
 from time import monotonic as pm_monotonic
-from time import monotonic_ns as pm_monotonic_ns
+#from time import monotonic_ns as pm_monotonic_ns
 
 ###############################################################
 #	Import Custom Python Packages and Modules
@@ -117,7 +117,8 @@ class execution_time_measurement:
 	# Initial timestamp.
 	initial_timestamp = invalid_timestamp
 	# Types of performance measurement technique available.
-	types_of_performance_measurement_technique = ("perf_counter","perf_counter_ns","process_time","process_time_ns","time","time_ns","monotonic","monotonic_ns")
+	#types_of_performance_measurement_technique = ("perf_counter","perf_counter_ns","process_time","process_time_ns","time","time_ns","monotonic","monotonic_ns")
+	types_of_performance_measurement_technique = ("perf_counter","process_time","time","monotonic")
 	# ============================================================
 	##	Method to set the initial timestamp.
 	#
@@ -129,53 +130,33 @@ class execution_time_measurement:
 	#	@param type_timestamp - Indicates if either of the following
 	#				methods of performance measurement is preferred.
 	#				* perf_counter, perf_counter(): pc_timestamp()
-	#				* perf_counter_ns, perf_counter_ns(): pc_timestamp_ns()
 	#				* process_time, process_time(): pt_timestamp()
-	#				* process_time_ns, process_time_ns(): pt_timestamp_ns()
 	#				* time, time.time(): time()
-	#				* time_ns, time.time_ns(): time_ns()
 	#				* monotonic, monotonic(): pm_monotonic()
-	#				* monotonic_ns, monotonic_ns(): pm_monotonic_ns()
 	#	@return - Nothing.
 	#	O(1) method.
 	@staticmethod
-	def set_initial_timestamp(type_timestamp="monotonic_ns"):
+	def set_initial_timestamp(type_timestamp="monotonic"):
 		"""
 			Is the option for one of the following methods to measure
 				time?
 				* perf_counter, perf_counter(): pc_timestamp()
-				* perf_counter_ns, perf_counter_ns(): pc_timestamp_ns()
 				* process_time, process_time(): pt_timestamp()
-				* process_time_ns, process_time_ns(): pt_timestamp_ns()
 				* time, time.time(): time.time()
-				* time_ns, time.time_ns(): time.time_ns()
 				* monotonic, monotonic(): pm_monotonic()
-				* monotonic_ns, monotonic_ns(): pm_monotonic_ns()
 		"""
 		if ("perf_counter" == type_timestamp):
 			# Yes. Use perf_counter() to measure performance/time.
 			execution_time_measurement.initial_timestamp = pc_timestamp()
-		elif ("perf_counter_ns" == type_timestamp):
-			# Yes. Use perf_counter_ns() to measure performance/time.
-			execution_time_measurement.initial_timestamp = pc_timestamp_ns()
 		elif ("process_time" == type_timestamp):
 			# Yes. Use process_time() to measure performance/time.
 			execution_time_measurement.initial_timestamp = pt_timestamp()
-		elif ("process_time_ns" == type_timestamp):
-			# Yes. Use process_time_ns() to measure performance/time.
-			execution_time_measurement.initial_timestamp = pt_timestamp_ns()
 		elif ("time" == type_timestamp):
 			# Yes. Use time() to measure performance/time.
 			execution_time_measurement.initial_timestamp = time.time()
-		elif ("time_ns" == type_timestamp):
-			# Yes. Use time_ns() to measure performance/time.
-			execution_time_measurement.initial_timestamp = t_ns()
-		elif ("monotonic" == type_timestamp):
-			# Yes. Use monotonic() to measure performance/time.
-			execution_time_measurement.initial_timestamp = pm_monotonic()
 		else:
-			# The default option is: "monotonic_ns()"
-			execution_time_measurement.initial_timestamp = pm_monotonic_ns()
+			# The default option is: "monotonic()"
+			execution_time_measurement.initial_timestamp = pm_monotonic()
 	# ============================================================
 	##	Method to get the initial timestamp.
 	#	@return the initial timestamp.
@@ -189,17 +170,13 @@ class execution_time_measurement:
 	#	@param type_timestamp - Indicates if either of the following
 	#				methods of performance measurement is preferred.
 	#				* perf_counter, perf_counter(): pc_timestamp()
-	#				* perf_counter_ns, perf_counter_ns(): pc_timestamp_ns()
 	#				* process_time, process_time(): pt_timestamp()
-	#				* process_time_ns, process_time_ns(): pt_timestamp_ns()
-	#				* time, time.time(): time()
-	#				* time_ns, time.time_ns(): time_ns()
+	#				* time, time.time_ns(): time_ns()
 	#				* monotonic, monotonic(): pm_monotonic()
-	#				* monotonic_ns, monotonic_ns(): pm_monotonic_ns()
 	#	@return the elapsed time from the initial timestamp.
 	#	O(1) method.
 	@staticmethod
-	def get_elapsed_time(type_timestamp="monotonic_ns"):
+	def get_elapsed_time(type_timestamp="monotonic"):
 		"""
 			Is the option for one of the following methods to measure
 				time?
@@ -207,8 +184,7 @@ class execution_time_measurement:
 				* perf_counter_ns, perf_counter_ns(): pc_timestamp_ns()
 				* process_time, process_time(): pt_timestamp()
 				* process_time_ns, process_time_ns(): pt_timestamp_ns()
-				* time, time.time(): time()
-				* time_ns, time.time_ns(): time_ns()
+				* time, time.time_ns(): time_ns()
 				* monotonic, monotonic(): pm_monotonic()
 				* monotonic_ns, monotonic_ns(): pm_monotonic_ns()
 		"""
@@ -249,8 +225,7 @@ class execution_time_measurement:
 	#		* perf_counter_ns, perf_counter_ns(): pc_timestamp_ns()
 	#		* process_time, process_time(): pt_timestamp()
 	#		* process_time_ns, process_time_ns(): pt_timestamp_ns()
-	#		* time, time.time(): time()
-	#		* time_ns, time.time_ns(): time_ns()
+	#		* time, time.time_ns(): time_ns()
 	#		* monotonic, monotonic(): pm_monotonic()
 	#		* monotonic_ns, monotonic_ns(): pm_monotonic_ns()
 	#	@return - Nothing.
