@@ -2,6 +2,10 @@
 >	Don't miss the Call-for-Papers deadlines again.
 >	Ditto for milestone deadlines for research contests.
 
+>	Fix the following CFP deadlines!!!
+>		http://www.bigdatacongress.org/2020/cfp.html.   
+>		http://spaa.acm.org/ (CFP deadline extension)   
+
 #	"Call for Paper" (CFP) Deadlines
 
 "Finish your Ph.D.! Finish your [term deleted] Ph.D.!!!"  
@@ -139,11 +143,11 @@ Transparency
 		* https://www.fatml.org/resources/relevant-scholarship
 + ICALP, International Colloquium on Automata, Languages and Programming
 	- http://eatcs.org/index.php/conferences
-	- https://icalp2019.upatras.gr/
+	- https://econcs.pku.edu.cn/icalp2020/
 	- http://eatcs.org/index.php/future-icalps
 	- ICALP 2020 in Beijing, China.
 	- Main conference: July 8-12, 2020.
-	- Submission deadline: Mid-February, 2020.
+	- Submission deadline: February 12, 2020, AoE.
 + ICCV, International Conference on Computer Vision
 	- http://iccv2019.thecvf.com/submission/timeline
 	- http://iccv2019.thecvf.com/submission/main_conference/author_guidelines
