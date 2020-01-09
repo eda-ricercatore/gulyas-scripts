@@ -423,13 +423,23 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 
 
 Upcoming Submission deadlines:
-+ ***[Facebook proposal](https://research.fb.com/programs/research-awards/proposals/towards-on-device-ai-request-for-proposals/): February 3, 2020 at 11:59 p.m., U.S. PST***
++ Big data conference
 + **[IJCNN/WCCI](https://wcci2020.org): January 15, 2020.**
 + ***[IJCAR](https://ijcar2020.org/): January 16 and 23, 2020.
++ HPDC
++ ICS: https://ics2020.bsc.es/   
 + ***[CAV](http://i-cav.org/2020/call-for-papers/): January 23, 2020.***
++ RAW: https://raw.necst.it/
 + ***[SIGMETRICS](https://www.sigmetrics.org/sigmetrics2020/call_for_papers.html): January 27 and February 3, 2020.***
 + ***[ICML](https://icml.cc/Conferences/2020/CallForPapers): Submission deadline: January 31 and February 7, 2020.***
++ SPAA
++ ***[Facebook proposal](https://research.fb.com/programs/research-awards/proposals/towards-on-device-ai-request-for-proposals/): February 3, 2020 at 11:59 p.m., U.S. PST***
++ Crypto 2020: https://crypto.iacr.org/2020/
++ CSF2020
 + [Symposia on VLSI Technology and Circuits](http://vlsisymposium.org): February 10, 2019.
++ USENIX Security
++ ISMM: https://conf.researchr.org/home/ismm-2020
++ ISLPED: http://www.islped.org/2020/
 + ***[ECCV](https://eccv2020.eu/important-dates/): March 5, 2020.***
 
 
