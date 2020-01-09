@@ -104,10 +104,10 @@ Fix mathematical proof for paper and implement processor subsystems.
 	- Submission deadlines: November 15 and 19, 2019.
 + ECCV, European Conference on Computer Vision
 	- https://eccv2020.eu/important-dates/
-	- VENUE
+	- SEC, Glasgow, U.K..
 	- "biennial research conference"
 	- ***Organized/Held in even-numbered years only***
-	- Submission deadline: **Mid-March, 2020.**
+	- Submission deadline: **March 5, 2020.**
 + ECML PKDD, European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases
 	- https://ecmlpkdd2020.net/submissions/deadlines/
 	- https://ecmlpkdd2020.net/submissions/researchAndADSTrack/
@@ -425,10 +425,8 @@ Upcoming Submission deadlines:
 + ***[CAV](http://i-cav.org/2020/call-for-papers/): January 23, 2020.***
 + ***[SIGMETRICS](https://www.sigmetrics.org/sigmetrics2020/call_for_papers.html): January 27 and February 3, 2020.***
 + ***[ICML](https://icml.cc/Conferences/2020/CallForPapers): Submission deadline: January 31 and February 7, 2020.***
-+ ***[ECCV](https://eccv2020.eu/important-dates/): Mid-March, 2020.***
-
-
-
++ [Symposia on VLSI Technology and Circuits](http://vlsisymposium.org): February 10, 2019.
++ ***[ECCV](https://eccv2020.eu/important-dates/): March 5, 2020.***
 
 
 
