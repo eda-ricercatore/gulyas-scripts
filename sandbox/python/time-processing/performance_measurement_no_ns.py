@@ -181,40 +181,25 @@ class execution_time_measurement:
 			Is the option for one of the following methods to measure
 				time?
 				* perf_counter, perf_counter(): pc_timestamp()
-				* perf_counter_ns, perf_counter_ns(): pc_timestamp_ns()
 				* process_time, process_time(): pt_timestamp()
-				* process_time_ns, process_time_ns(): pt_timestamp_ns()
 				* time, time.time_ns(): time_ns()
 				* monotonic, monotonic(): pm_monotonic()
-				* monotonic_ns, monotonic_ns(): pm_monotonic_ns()
 		"""
 		if ("perf_counter" == type_timestamp):
 			# Yes. Use perf_counter() to measure performance/time.
 			current_timestamp = pc_timestamp()
-		elif ("perf_counter_ns" == type_timestamp):
-			# Yes. Use perf_counter_ns() to measure performance/time.
-			current_timestamp = pc_timestamp_ns()
 		elif ("process_time" == type_timestamp):
 			# Yes. Use process_time() to measure performance/time.
 			current_timestamp = pt_timestamp()
-		elif ("process_time_ns" == type_timestamp):
-			# Yes. Use process_time_ns() to measure performance/time.
-			current_timestamp = pt_timestamp_ns()
 		elif ("time" == type_timestamp):
 			# Yes. Use time.time() to measure performance/time.
 			current_timestamp = time.time()
-		elif ("time_ns" == type_timestamp):
-			# Yes. Use time.time_ns() to measure performance/time.
-			current_timestamp = t_ns()
-		elif ("monotonic" == type_timestamp):
-			# Yes. Use monotonic() to measure performance/time.
-			current_timestamp = pm_monotonic()
 		else:
 			"""
-				The default option is: "monotonic_ns".
-				Use monotonic_ns() to measure performance/time.
+				The default option is: "monotonic".
+				Use monotonic() to measure performance/time.
 			"""
-			current_timestamp = pm_monotonic_ns()
+			current_timestamp = pm_monotonic()
 		return (current_timestamp - execution_time_measurement.get_initial_timestamp())
 	# ============================================================
 	##	Method to compare techniques for measuring elapsed periods.
@@ -222,12 +207,9 @@ class execution_time_measurement:
 	#		uses each of the following methods of performance
 	#		measurement to measure the elapsed periods.
 	#		* perf_counter, perf_counter(): pc_timestamp()
-	#		* perf_counter_ns, perf_counter_ns(): pc_timestamp_ns()
 	#		* process_time, process_time(): pt_timestamp()
-	#		* process_time_ns, process_time_ns(): pt_timestamp_ns()
-	#		* time, time.time_ns(): time_ns()
+	#		* time, time.time(): time()
 	#		* monotonic, monotonic(): pm_monotonic()
-	#		* monotonic_ns, monotonic_ns(): pm_monotonic_ns()
 	#	@return - Nothing.
 	#	O(n!) method, where n is the largest number in the
 	#		aforementioned list, since we are measuring the
