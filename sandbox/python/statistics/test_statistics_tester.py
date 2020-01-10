@@ -1,6 +1,5 @@
-#!/Library/Frameworks/Python.framework/Versions/3.6/bin/python3
-###	/usr/bin/python
-###	/Library/Frameworks/Python.framework/Versions/3.6/bin/python3
+#!/usr/local/bin/python3
+###!/Users/zhiyang/anaconda3/bin/python3
 
 
 """
@@ -10,8 +9,8 @@
 
 
 	Synopsis:
-	Perform test the support software for statistical analysis
-		during software test automation.
+	Test the support software for statistical analysis during
+		software test automation.
 
 
 	Revision History:
@@ -93,11 +92,15 @@ class statistical_analysis_tester:
 	#	O(1) method.
 	@staticmethod
 	def test_statistical_analysis():
-		print("1) Number of test cases passed:	{}" .format(statistical_analysis.number_test_cases_passed))
-		print("2) Number of test cases used:	{}" .format(statistical_analysis.number_test_cases_used))
+		print("")
+		print("==	Testing class: data_analysis")
+		print("1) Number of test cases passed:		{}" .format(statistical_analysis.number_test_cases_passed))
+		print("2) Number of test cases used:		{}" .format(statistical_analysis.number_test_cases_used))
+		print("Proportion of test cases passed:	{}" .format(statistical_analysis.get_test_cases_passed_average()))
 		for x in range(1,7):
 			statistical_analysis.increment_number_test_cases_used()
 			statistical_analysis.increment_number_test_cases_passed()
 			print("Value of x is: {}." .format(x))
 			print("Number of test cases passed:	{}" .format(statistical_analysis.number_test_cases_passed))
 			print("Number of test cases used:	{}" .format(statistical_analysis.number_test_cases_used))
+			print("Proportion of test cases passed:	{}" .format(statistical_analysis.get_test_cases_passed_average()))

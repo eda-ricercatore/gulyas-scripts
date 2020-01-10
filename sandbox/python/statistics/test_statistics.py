@@ -1,6 +1,5 @@
-#!/Library/Frameworks/Python.framework/Versions/3.6/bin/python3
-###	/usr/bin/python
-###	/Library/Frameworks/Python.framework/Versions/3.6/bin/python3
+#!/usr/local/bin/python3
+###!/Users/zhiyang/anaconda3/bin/python3
 
 
 """
@@ -79,7 +78,7 @@ import warnings
 		during software test automation.
 """
 class statistical_analysis:
-	#	Variable declaration.
+	#	Static variable declaration.
 	#
 	#	Number of test cases used.
 	number_test_cases_used = 0
@@ -112,11 +111,11 @@ class statistical_analysis:
 	#	O(1) method.
 	@staticmethod
 	def increment_number_test_cases_used():
-		if 0 == statistical_analysis.number_test_cases_used:
+		if 0 == statistical_analysis.get_number_test_cases_used():
 			statistical_analysis.number_test_cases_used = 1
 		else:
 			statistical_analysis.number_test_cases_used = statistical_analysis.number_test_cases_used + 1
-		if (statistical_analysis.number_test_cases_used < statistical_analysis.number_test_cases_passed):
+		if (statistical_analysis.get_number_test_cases_used() < statistical_analysis.number_test_cases_passed):
 			print("	Problem: number_test_cases_used < number_test_cases_passed")
 			raise Exception("	Error in incrementing number_test_cases_used")
 	# =========================================================
@@ -130,9 +129,9 @@ class statistical_analysis:
 			statistical_analysis.number_test_cases_passed = 1
 		else:
 			statistical_analysis.number_test_cases_passed = statistical_analysis.number_test_cases_passed + 1
-		if (statistical_analysis.number_test_cases_used < statistical_analysis.number_test_cases_passed):
-			print("Number of test cases passed:	{}" .format(statistical_analysis.number_test_cases_passed))
-			print("Number of test cases used:	{}" .format(statistical_analysis.number_test_cases_used))
+		if (statistical_analysis.get_number_test_cases_used() < statistical_analysis.get_number_test_cases_passed()):
+			print("Number of test cases passed:	{}" .format(statistical_analysis.get_number_test_cases_passed()))
+			print("Number of test cases used:	{}" .format(statistical_analysis.get_number_test_cases_used()))
 			print("	Problem: number_test_cases_used < number_test_cases_passed")
 			raise Exception("	Error with number_test_cases_used.")
 	# =========================================================
@@ -144,10 +143,13 @@ class statistical_analysis:
 	#	O(1) method.
 	@staticmethod
 	def get_test_cases_passed_average():
-		if (statistical_analysis.number_test_cases_used > statistical_analysis.number_test_cases_passed):
-			print("	Problem: number_test_cases_used > number_test_cases_passed")
-			raise Exception("	Precondition failed (1): see number_test_cases_used or number_test_cases_passed.")
-		return (statistical_analysis.number_test_cases_passed*100 / statistical_analysis.number_test_cases_used)
+		if 0 == statistical_analysis.number_test_cases_used:
+			return 0
+		else:
+			if (statistical_analysis.get_number_test_cases_used() < statistical_analysis.get_number_test_cases_passed()):
+				print("	Problem: number_test_cases_used < number_test_cases_passed")
+				raise Exception("	Precondition failed (1): see number_test_cases_used or number_test_cases_passed.")
+			return (statistical_analysis.get_number_test_cases_passed()*100 / statistical_analysis.get_number_test_cases_used())
 	# =========================================================
 	#	Method to print statistics of software testing results.
 	#	@return - Nothing
@@ -155,12 +157,12 @@ class statistical_analysis:
 	#	O(1) method.
 	@staticmethod
 	def print_statistics_of_software_testing():
-		if (statistical_analysis.number_test_cases_used < statistical_analysis.number_test_cases_passed):
+		if (statistical_analysis.get_number_test_cases_used() < statistical_analysis.get_number_test_cases_passed()):
 			print("	Problem: number_test_cases_used < number_test_cases_passed")
 			raise Exception("	Precondition failed (2): see number_test_cases_used or number_test_cases_passed.")
-		print("*	Number of test cases passed:		{}" .format(statistical_analysis.number_test_cases_passed))
-		print("*	Number of test cases used:		{}" .format(statistical_analysis.number_test_cases_used))
-		print("*	Percentage of test cases passed:	{}%." .format((statistical_analysis.number_test_cases_passed*100/statistical_analysis.number_test_cases_used)))
+		print("*	Number of test cases passed:		{}" .format(statistical_analysis.get_number_test_cases_passed()))
+		print("*	Number of test cases used:		{}" .format(statistical_analysis.get_number_test_cases_used()))
+		print("*	Percentage of test cases passed:	{}%." .format(statistical_analysis.get_test_cases_passed_average()))
 		#print "*	Percentage of test cases passed:	",statistical_analysis.get_test_cases_passed_average(),"%."
 		#	Format printing of the statistics as follows.
 		#print "*	Percentage of test cases passed:	",(13*100/19),"%."

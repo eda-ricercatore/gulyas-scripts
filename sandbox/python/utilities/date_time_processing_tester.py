@@ -1,8 +1,8 @@
-#!/Library/Frameworks/Python.framework/Versions/3.6/bin/python3
-###	/usr/bin/python
+#!/usr/local/bin/python3
+###!/Users/zhiyang/anaconda3/bin/python3
 
 """
-	This Python script is written by Zhiyang Ong to perform
+	This Python script is written by Zhiyang Ong to test
 		date and time operations.
 
 	Synopsis:
@@ -92,6 +92,8 @@ class date_time_operations_tester:
 	#	O(1) method.
 	@staticmethod
 	def test_time_operations():
+		print("")
+		print("")
 		print("==	Testing class: date_time_operations.")
 		print("	Testing date_time_operations.is_valid_time() method.")
 		prompt = "	... Test: single error, hh				{}"

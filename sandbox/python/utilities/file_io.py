@@ -1,6 +1,5 @@
-#!/Library/Frameworks/Python.framework/Versions/3.6/bin/python3
-###	/usr/bin/python
-###	/Library/Frameworks/Python.framework/Versions/3.6/bin/python3
+#!/usr/local/bin/python3
+###!/Users/zhiyang/anaconda3/bin/python3
 
 """
 	This Python script is written by Zhiyang Ong to perform
@@ -10,9 +9,24 @@
 	Synopsis:
 	Perform input/output (I/O) operations on files.
 
+
+
+	#### IMPORTANT NOTES:
+	In lieu of using the specified file input/output (I/O) methods
+		to perform file input operations, use the "with" statement
+		for file I/O operations because it has a predefined clean-up
+		action, such as the following.
+
+	with open("myfile.txt") as f:
+		for line in f:
+			print(line, end="")
+
+
+
+
 	References:
 	Citations/References that use the LaTeX/BibTeX notation are taken
-    	from my BibTeX database (set of BibTeX entries).
+		from my BibTeX database (set of BibTeX entries).
 
 	[DrakeJr2016b]
 		Section 11 File and Directory Access, Subsection 11.2 os.path - Common pathname manipulations
@@ -47,6 +61,13 @@
 	warnings	Raise warnings.
 	re			Use regular expressions.
 	filecmp		For file comparison.
+	calendar	For performing operations on dates.
+	logging		For debug, info, warning, error, and critical messages.
+				+ logging.debug("")
+				+ logging.info("")
+				+ logging.warning("")
+				+ logging.error("")
+				+ logging.critical("")
 """
 
 import sys
@@ -58,7 +79,7 @@ import warnings
 import re
 import filecmp
 import calendar
-
+import logging
 
 ###############################################################
 #	Import Custom Python Modules
@@ -74,9 +95,17 @@ from utilities.generate_results_filename import generate_filename
 ###############################################################
 #	Module with methods that perform file I/O operations.
 class file_io_operations:
-	#	Location to store simulation and/or experimental results.
+	"""
+		Location to store simulation and/or experimental results.
+		Requires an absolute path, since no processing will be done
+			to check if this is an absolute path or relative path.
+	"""
 	#result_repository = "~/Documents/ricerca/risultati_sperimentali/std-cell-library-characterization"
 	result_repository = "/Users/zhiyang/Documents/ricerca/risultati_sperimentali/std-cell-library-characterization"
+	# Backup of the standard output.
+	std_op_backup = None
+	# Backup of the standard error.
+	std_err_backup = None
 	#
 	# ============================================================
 	##	Method to check if a path to file is valid.
@@ -106,7 +135,8 @@ class file_io_operations:
 	# ============================================================
 	##	Method to open a file object for write/output operations.
 	#	@param filename - Path to a file.
-	#	@return file object op_file_obj
+	#	@return file object op_file_obj that enables writing to the
+	#		file named "filename".
 	#	@throws Exception for invalid path to the file.
 	#	O(1) method.
 	@staticmethod
@@ -119,7 +149,8 @@ class file_io_operations:
 	# ============================================================
 	##	Method to open a new file object for write/output operations.
 	#	@param filename - Path to a file.
-	#	@return file object op_file_obj
+	#	@return file object op_file_obj that enables writing to the
+	#		file named "filename".
 	#	O(1) method.
 	@staticmethod
 	def open_file_object_write_new(filename):
@@ -140,14 +171,44 @@ class file_io_operations:
 		results_filename = generate_filename.create_filename()
 		# Tokenize this filename (DD-MM-YY-HR-MN-SS-US format).
 		tokens = date_time_operations.get_date_time_tokens_of_filename(results_filename)
-		current_path = file_io_operations.result_repository + "/" + tokens[2]
+		# Determine which year should the results file be placed in.
+		current_path = os.path.join(file_io_operations.result_repository,tokens[2])
 		#if (os.path.exists(current_path) and os.path.isdir(current_path)):
 		if os.path.isdir(current_path):
-			print(current_path,"=works=")
+			# Determine which month should the results file be placed in.
+			#print("tokens[1]=",tokens[1],"=")
+			#print("date_time_operations.mth_number_name[tokens[1]]=",date_time_operations.mth_number_name[tokens[1]],"=")
+			current_path = os.path.join(current_path,date_time_operations.mth_number_name[tokens[1]])
+			if not os.path.isdir(current_path):
+				print("	... Creating directory for month at:",current_path)
+				try:
+					#os.mkdirs(current_path, exist_ok = True)
+					os.makedirs(current_path, exist_ok = True)
+				except OSError:
+					print("Encountered error in making directory.", file=sys.stderr)
+					logging.error("Determine why directory for month cannot be created.")
+			else:
+				print(current_path,"=works= ... From: file_io.py, line 146.")
 		else:
-			print("	... Creating directory at:",current_path)
+			print("	... Creating directory for year at:",current_path)
+			try:
+				#os.mkdirs(current_path, exist_ok = True)
+				os.makedirs(current_path, exist_ok = True)
+			except OSError:
+				print("Encountered error in making directory.", file=sys.stderr)
+				logging.error("Determine why directory for year cannot be created.")
+			# Determine which month should the results file be placed in.
+			current_path = os.path.join(current_path, date_time_operations.mth_number_name[tokens[1]])
 			print("	...os.path.exists(current_path:",os.path.exists(current_path))
 			print("	...os.path.isdir(current_path):",os.path.isdir(current_path))
+			print("	... Creating directory for month at:",current_path)
+			try:
+				#os.mkdirs(current_path, exist_ok = True)
+				os.makedirs(current_path, exist_ok = True)
+			except OSError:
+				print("Encountered error in making directory.", file=sys.stderr)
+				logging.error("Determine why directory for month cannot be created.")
+		results_filename = os.path.join(current_path, results_filename)
 		return file_io_operations.open_file_object_write(results_filename)
 	# ============================================================
 	##	Method to close a file object.
@@ -208,3 +269,41 @@ class file_io_operations:
 			return True
 		else:
 			return False
+	# ============================================================
+	##	Method to end redirection of standard output.
+	#	@param - None.
+	#	@return - Nothing.
+	#	O(1) method.
+	@staticmethod
+	def stop_redirecting_std_op():
+		sys.stdout = file_io_operations.std_op_backup
+	# ============================================================
+	##	Method to redirect standard output to a file object with
+	#		write access.
+	#	@param file_obj - File object with write access.
+	#	@return boolean True if standard output is redirected to
+	#		a file object with write access; else, return False.
+	#	O(1) method.
+	@staticmethod
+	def redirect_std_op_to_file_obj(file_obj):
+		file_io_operations.std_op_backup = sys.stdout
+		sys.stdout = file_obj
+	# ============================================================
+	##	Method to end redirection of standard error.
+	#	@param - None.
+	#	@return - Nothing.
+	#	O(1) method.
+	@staticmethod
+	def stop_redirecting_std_err():
+		sys.stderr = file_io_operations.std_err_backup
+	# ============================================================
+	##	Method to redirect standard error to a file object with
+	#		write access.
+	#	@param file_obj - File object with write access.
+	#	@return boolean True if standard error is redirected to
+	#		a file object with write access; else, return False.
+	#	O(1) method.
+	@staticmethod
+	def redirect_std_err_to_file_obj(file_obj):
+		file_io_operations.std_err_backup = sys.stderr
+		sys.stderr = file_obj

@@ -1,6 +1,5 @@
-#!/Library/Frameworks/Python.framework/Versions/3.6/bin/python3
-###	/usr/bin/python
-###	/Library/Frameworks/Python.framework/Versions/3.6/bin/python3
+#!/usr/local/bin/python3
+###!/Users/zhiyang/anaconda3/bin/python3
 
 """
 	This Python script is written by Zhiyang Ong to test
@@ -147,7 +146,7 @@ class file_io_operations_tester:
 	@staticmethod
 	def test_file_io_operations_with_valid_file():
 		print("	... Testing file operations with valid file.")
-		filename = "notes/mit-license.text"
+		filename = "notes/mit-license-original-copy.text"
 		prompt = "	Test: file_io_operations.is_path_valid(...)	{}"
 		statistical_analysis.increment_number_test_cases_used()
 		if file_io_operations.is_path_valid(filename):
@@ -174,7 +173,7 @@ class file_io_operations_tester:
 		prompt = "	Test: file_io_ops[BLAH].open_file_object_write_new(...)	{}"
 		statistical_analysis.increment_number_test_cases_used()
 		try:
-			f_obj = file_io_operations.open_file_object_write_new(filename)
+			f_obj = file_io_operations.open_file_object_write_new("mit-license-write-new-copy.text")
 			print(prompt .format("OK"))
 			statistical_analysis.increment_number_test_cases_passed()
 		except:
@@ -185,7 +184,7 @@ class file_io_operations_tester:
 		"""
 		file_io_operations.close_file_object(f_obj)
 		# Copy a file from [source] to [destination]
-		copyfile("notes/trash/mit-license-spare-copy.text","notes/mit-license.text")
+		#copyfile("notes/trash/mit-license-spare-copy.text","notes/mit-license.text")
 	## =========================================================
 	#	Method to test file operations on files with the same content.
 	#	@param - Nothing
@@ -196,7 +195,7 @@ class file_io_operations_tester:
 		print("	Testing file operations on files with the same content.")
 		prompt = "	... Test: file_io_operations.file_comparison(...)	{}"
 		statistical_analysis.increment_number_test_cases_used()
-		if file_io_operations.file_comparison("notes/mit-license.text","notes/trash/mit-license-spare-copy.text"):
+		if file_io_operations.file_comparison("notes/mit-license-exact-copy.text","notes/mit-license-same-copy.text"):
 			print(prompt .format("OK"))
 			statistical_analysis.increment_number_test_cases_passed()
 		else:
@@ -204,7 +203,7 @@ class file_io_operations_tester:
 		print("	Testing file operations on files with the different content.")
 		prompt = "	... Test: file_io_operations.file_comparison(...)	{}"
 		statistical_analysis.increment_number_test_cases_used()
-		if file_io_operations.file_comparison("notes/mit-license.text","notes/guidelines/guidelines.tex"):
+		if file_io_operations.file_comparison("notes/mit-license-exact-copy.text","notes/mit-license-different-copy.text"):
 			print(prompt .format("FAIL!!!"))
 		else:
 			print(prompt .format("OK"))

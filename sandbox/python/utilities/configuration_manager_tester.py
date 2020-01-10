@@ -1,5 +1,5 @@
-#!/Library/Frameworks/Python.framework/Versions/3.6/bin/python3
-###	/usr/bin/python
+#!/usr/local/bin/python3
+###!/Users/zhiyang/anaconda3/bin/python3
 
 """
 	This Python script is written by Zhiyang Ong to test the
@@ -16,7 +16,7 @@
 
 	References:
 	Citations/References that use the LaTeX/BibTeX notation are taken
-    	from my BibTeX database (set of BibTeX entries).
+		from my BibTeX database (set of BibTeX entries).
 
 	Revision History:
 	August 1, 2018			Version 0.1, initial build.
@@ -98,7 +98,10 @@ class config_manager_tester:
 	#	O(1) method.
 	@staticmethod
 	def test_configure_sw_application_parameters():
-		print("	Testing the config_manager class/module.")
+	#def test_configure_sw_application_parameter_result_repository():
+		print("")
+		print("")
+		print("==	Testing the config_manager class/module.")
 		prompt = "	... Test: check default result_repository		{}"
 		statistical_analysis.increment_number_test_cases_used()
 		if (config_manager.get_result_repository() == "Unknown location."):
@@ -106,6 +109,7 @@ class config_manager_tester:
 			statistical_analysis.increment_number_test_cases_passed()
 		else:
 			print(prompt .format("FAIL!!!"))
+			#print("location=",config_manager.get_result_repository(),"=")
 		absolute_path = "/Users/zhiyang/Documents/ricerca/risultati_sperimentali/std-cell-library-characterization"
 		prompt = "	... Test: result_repository, check change to abs. path.	{}"
 		statistical_analysis.increment_number_test_cases_used()

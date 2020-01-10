@@ -1,4 +1,5 @@
-#!/Library/Frameworks/Python.framework/Versions/3.6/bin/python3
+#!/usr/local/bin/python3
+###!/Users/zhiyang/anaconda3/bin/python3
 
 """
 	This Python script is written by Zhiyang Ong to test support functions
@@ -402,6 +403,8 @@ class queue_ip_args_tester:
 	#	O(1) method.
 	@staticmethod
 	def test_queue_ip_args():
+		print("")
+		print("")
 		print("==	Testing class: queue_ip_args.")
 		queue_ip_args_tester.test_o1_methods()
 		queue_ip_args_tester.test_if_help_needed()

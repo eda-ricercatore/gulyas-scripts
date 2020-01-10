@@ -1,5 +1,5 @@
-#!/Library/Frameworks/Python.framework/Versions/3.6/bin/python3
-###	/usr/bin/python
+#!/usr/local/bin/python3
+###!/Users/zhiyang/anaconda3/bin/python3
 
 """
 	This Python script is written by Zhiyang Ong to perform date and time
@@ -60,7 +60,11 @@ import calendar
 ###############################################################
 #	Module with methods that perform date & time processing/operations.
 class date_time_operations:
-	#
+	"""
+		Create a dictionary (associative memories, or associative arrays)
+			of (number, name) months.
+	"""
+	mth_number_name = {"1":"january", "2":"february", "3":"march", "4":"april", "5":"may", "6":"june", "7":"july", "8":"august", "9":"september", "10":"october", "11":"november", "12":"december"}
 	# ============================================================
 	##	Method to determine if the time is valid.
 	#	@param hh - Hour of a time in numbers.
