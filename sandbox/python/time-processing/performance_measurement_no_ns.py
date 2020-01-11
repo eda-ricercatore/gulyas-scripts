@@ -202,6 +202,18 @@ class execution_time_measurement:
 			current_timestamp = pm_monotonic()
 		return (current_timestamp - execution_time_measurement.get_initial_timestamp())
 	# ============================================================
+	##	Method to convert seconds to days, hours, minutes, and
+	#		seconds.
+	#	@param time_in_seconds - amount of time in seconds to be
+	#								converted to days, hours,
+	#								minutes, and seconds.
+	#							It has a default value of 0
+	#								seconds. 
+	#	@return - time in days, hours, minutes, and seconds.
+	@staticmethod
+	def convert_time_in_seconds_to_DD_HH_MM_SS(time_in_seconds=0):
+		return datetime.timedelta(seconds=time_in_seconds)
+	# ============================================================
 	##	Method to compare techniques for measuring elapsed periods.
 	#	It calculates the factorial of each number in a list, and
 	#		uses each of the following methods of performance
