@@ -27,7 +27,7 @@ function logic_value = generate_HL_values
 	global low_value;
 
 	% Generate random value at -1 or 1, with 50% probability.
-	random_value = rand(1,1);
+	random_value = rand(-1,1);
 	% Alternate way to get uniformly distributed random number.
 %	random_value = unifrnd(0,1)
 	%	Check if random_value > 50%.

@@ -1,3 +1,4 @@
+#!/opt/local/bin/octave
 %	This is written by Zhiyang Ong
 
 
@@ -16,7 +17,8 @@ pkg load signal
 
 
 %   Length of array
-array_length = 64
+%array_length = 64
+array_length = 8
 %   Boolean arrays of random values: 
 x1 = randi([0 1],1,array_length)
 x2 = randi([0 1],1,array_length)
