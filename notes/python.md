@@ -1,3 +1,20 @@
+>	## ⚠️ Warning about naming packages and modules:
+
+>	Do not name them with the same name in packages and modules of The
+>		Python Standard Library and other Python libraries.
+>	Else, the naming conflict will cause packages and modules not to be
+>		detected/recognized. 
+
+
+
+
+
+
+
+
+
+
+
 #	Notes About *Python*
 
 ##	Table of Contents
