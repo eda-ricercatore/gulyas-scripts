@@ -3531,7 +3531,14 @@ Machine learning and deep learning resources:
 	- **machine learning visualization**
 + [Matplotlib](https://matplotlib.org/)
 	- \cite{Caswell2018,Caswell2018a,Hunter2007}
+		- Main Web page: \cite{Caswell2018}
 	- \cite{Hunter2018,Hunter2018a,Hunter2016}
+		* [Official documentation and report \cite{Hunter2018}](https://matplotlib.org/contents.html)
+			+ Current version is: 3.1.2 (January 05, 2020)
+			+ Report for 3.1.1: https://matplotlib.org/Matplotlib.pdf
+			+ last accessed on January 15, 2020. 
+	- Tutorial:
+		* Official tutorial: \cite{MatplotlibDevelopmentTeam2020}
 + [GGobi](http://www.ggobi.org/)
 	- \cite{GGobiContributors20XY}
 + [Orange](https://orange.biolab.si/)
