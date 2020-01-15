@@ -3443,6 +3443,21 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ SISPAD, International Conference on Simulation of Semiconductor Processes and Devices
+	- https://sites.google.com/view/sispad2020
+	- http://www.sispad.info/sispadinfo/
+	- September 23-25, 2020
+	- Kobe, Japan
+	- Submission deadline: April 6, 2020.
+
+
+
+
+
+
+
+
+
 + HPCS 2020, International Conference on High Performance Computing & Simulation
 	- http://hpcs2019.cisedu.info/
 	- July 15 – 19, 2019
