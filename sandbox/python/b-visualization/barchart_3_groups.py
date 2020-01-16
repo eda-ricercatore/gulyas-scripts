@@ -27,9 +27,8 @@ women_means = [25, 32, 34, 20, 25]
 other_means = [18, 31, 40, 27, 20]
 
 x = np.arange(len(labels))  # the label locations
-width = 0.35  # the width of the bars
+width = 0.3  # the width of the bars
 
-plt.gca()
 """
 	@modified by Zhiyang Ong, January 15, 2020.
 	Center point of each bar per group, G_i, for number of populations:
@@ -45,10 +44,34 @@ fig, ax = plt.subplots()
 	From https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.bar.html,
 		default width is 0.8.
 """
+
+"""
 rects1 = ax.bar(x - width, men_means, align='edge', width=0.3, label='Men')
 rects2 = ax.bar(x, women_means, align='edge', width=0.3, label='Women')
 # @modified by Zhiyang Ong, January 15, 2020.
 rects3 = ax.bar(x + width, other_means, align='edge', width=0.3, label='Others')
+"""
+
+"""
+# @modified by Zhiyang Ong, January 15, 2020.
+rects1 = ax.bar(x - 0.3, men_means, align='edge', width=0.3, label='Men')
+rects2 = ax.bar(x, women_means, align='edge', width=0.3, label='Women')
+rects3 = ax.bar(x + 0.3, other_means, align='edge', width=0.3, label='Others')
+"""
+
+rects1 = ax.bar(x - width, men_means, width, label='Men')
+rects2 = ax.bar(x, women_means, width, label='Women')
+rects3 = ax.bar(x + width, other_means, width, label='Others')
+
+
+
+
+
+
+
+
+
+
 
 # Add some text for labels, title and custom x-axis tick labels, etc.
 ax.set_ylabel('Scores')
@@ -73,6 +96,10 @@ def autolabel(rects):
 			xytext=(0, 3),  # 3 points vertical offset
 			textcoords="offset points",
 			ha='center', va='bottom')
+
+
+
+
 
 
 autolabel(rects1)
