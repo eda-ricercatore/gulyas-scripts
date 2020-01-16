@@ -46,6 +46,12 @@ for index, (value1, value2, value3) in enumerate(zip(data1, data2, data3)):
 
 
 
-print("	Enumerating lists of different lengths.")
+print("	Enumerating lists of different lengths, for the longest list.")
+for i in itertools.zip_longest(data1, data2, data3, data4):
+	print(i)
+
+
+
+print("	Enumerating lists of different lengths, for the shorter/shortest list.")
 for i in itertools.zip_longest(data1, data2, data3, data4):
 	print(i)
