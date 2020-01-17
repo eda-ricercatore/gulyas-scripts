@@ -13,6 +13,8 @@ from matplotlib.collections import EventCollection
 import numpy as np
 
 
+# ============================================================
+# @modified by Zhiyang Ong, January 17, 2020.
 # Generate random numbers for the synthetic dataset.
 # Fixing random state for reproducibility
 np.random.seed(19680801)
@@ -32,6 +34,7 @@ xdata2.sort()
 # create some y data points
 ydata1 = xdata1 ** 2
 ydata2 = 1 - xdata2 ** 3
+# ============================================================
 
 # plot the data
 fig = plt.figure()
@@ -80,3 +83,6 @@ ax.set_title('line plot with data points')
 plt.savefig(__file__+".pdf")
 # display the plot
 plt.show()
+
+
+#	Matplotlib.pyplot
