@@ -4,7 +4,8 @@
 >		Python Standard Library and other Python libraries.
 >	Else, the naming conflict will cause packages and modules not to be
 >		detected/recognized. 
-
+>	Remember to place the UNIX/Linux shebang, so that I can run it as an
+>		executable script from the command line (via the "Terminal" application).
 
 
 
