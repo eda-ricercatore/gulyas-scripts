@@ -2318,7 +2318,9 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 		will not create an ordered dictionary in which the keys are ordered;
 		 however, when instantiated with a list of tuples, it does order its
 		 	elements when the *sort()* operation is performed on the input
-		 	argument. 
+		 	argument;
+		a dictionary passed to the ordered dictionary, OrderedDict, can be
+			sorted using lambda expressions.
 + dictionaries with defaults \cite[Chapter 2, pp. 44-45]{Alchin2010}
 	- A dictionary with defaults is assumed to have (optimal) default values for
 		keys that cannot be found in the mapping.
