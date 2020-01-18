@@ -760,6 +760,67 @@ Title: A Hardware Approach to Mitigating Adversarial Machine Learning
 Abstract (maximum 5000 characters): We discuss a secure hardware implementation of deep neural network to mitigate adversarial machine learning. We propose a solution using noise-based logic to implement a deep neural network that is robust to attacks via adversarial machine learning. We discuss preliminary experimental results using robust statistics.
 
 
+
+
+
+
+
+
+##	ICML 2020
+
+
+From https://icml.cc/Conferences/2020/CallForPapers
+
++ General Machine Learning:
+	- active learning
+	- clustering
+	- online learning
+	- ranking
+	- reinforcement learning
+	- semi-supervised learning
+	- time series analysis
+	- unsupervised learning
++ Deep Learning
+	- architectures
+	- generative models
+	- deep reinforcement learning
++ Learning Theory:
+	- bandits
+	- game theory
+	- statistical learning theory
++ Optimization:
+	- convex and non-convex optimization
+	- matrix/tensor methods
+	- sparsity
++ Probabilistic Inference:
+	- Bayesian methods
+	- graphical models
+	- Monte Carlo methods
++ Trustworthy Machine Learning:
+	- accountability
+	- causality
+	- fairness
+	- privacy
+	- robustness
++ Applications:
+	- computational biology
+	- crowdsourcing
+	- healthcare
+	- neuroscience
+	- social good
+	- climate science
++ We encourage the submission of papers that develop machine learning techniques to address socially relevant problems, ethical AI and AI safety.
+
+
+
+
+
+
+
+
+
+
+
 #	ICCV
 
 
