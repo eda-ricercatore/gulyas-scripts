@@ -2320,7 +2320,8 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 		 	elements when the *sort()* operation is performed on the input
 		 	argument;
 		a dictionary passed to the ordered dictionary, OrderedDict, can be
-			sorted using lambda expressions.
+			sorted using lambda expressions based on keys, values, and
+			length of keys.
 + dictionaries with defaults \cite[Chapter 2, pp. 44-45]{Alchin2010}
 	- A dictionary with defaults is assumed to have (optimal) default values for
 		keys that cannot be found in the mapping.
