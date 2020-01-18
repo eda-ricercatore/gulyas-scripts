@@ -2313,6 +2313,12 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 	- ordered data structure
 	- Has all the features of a dictionary, while having a reliable ordering of keys
 		for its *(key,value)* pairs.
+	- From [my sample code](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/i-data-structures/ordered_dict_color_enumeration.py),
+		instantiating an ordered dictionary, OrderedDict, with a dictionary
+		will not create an ordered dictionary in which the keys are ordered;
+		 however, when instantiated with a list of tuples, it does order its
+		 	elements when the *sort()* operation is performed on the input
+		 	argument. 
 + dictionaries with defaults \cite[Chapter 2, pp. 44-45]{Alchin2010}
 	- A dictionary with defaults is assumed to have (optimal) default values for
 		keys that cannot be found in the mapping.
