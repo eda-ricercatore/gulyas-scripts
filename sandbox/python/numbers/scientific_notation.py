@@ -3,6 +3,19 @@
 
 """
 	This is written by Zhiyang Ong to experiment with scientific
+		notations.
+	
+	References:
+	+ http://extraconversion.com/time/nanoseconds/nanoseconds-to-seconds.html
+		- ExtraConversion staff, "Nanoseconds to Seconds Conversion Calculator",
+			from {\it Extra Conversion: Time Conversion: Nanosecond}, ExtraConversion.com, no address, 2020.
+			Available from {\it Extra Conversion: Time Conversion: Nanosecond} at: http://extraconversion.com/time/nanoseconds/nanoseconds-to-seconds.html;
+				last accessed on January 19, 2020.
+	+ Joe Sexton, "Nanoseconds to Seconds Conversion", from {\it Inch Calculator, Find Your Calculator: Unit Conversion Calculators: Time Conversion Calculators: Nanoseconds Conversion},
+		Calc Hub, LLC, 2020.
+		Available from {\it Inch Calculator, Find Your Calculator: Unit Conversion Calculators: Time Conversion Calculators: Nanoseconds Conversion} at:
+			\url{https://www.inchcalculator.com/convert/nanosecond-to-second/};
+			last accessed on January 19, 2020.
 """
 
 
@@ -30,7 +43,9 @@ if ms_threshold == millisecond_threshold:
 
 """
 	Use "%e" to get the scientific notation format.
-	https://stackoverflow.com/a/6913223/1531728
+	
+	Reference:
+	+ \cite{Mattiuzzo2019}
 """
 # Get scientific notation of number in 2 decimal places.
 x = 12345678901234567890.534
@@ -39,3 +54,9 @@ print("{0:.2E}".format(x))
 # Get scientific notation of number in 3 decimal places.
 print("{0:.3E}".format(x))
 # 1.235E+19
+
+
+
+"""
+	\cite[\S Routines: Input and output, String formatting]{TheSciPyCommunity2019c}
+"""
