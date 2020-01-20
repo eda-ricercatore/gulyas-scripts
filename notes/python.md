@@ -3191,7 +3191,7 @@ Here are some examples of catching multiple specific exceptions
 		print e
 
 In *Example 3*, the specific exception caught, which could be either
-	***[Specific Exception #1]*** or ***[Specific Exception #2]*** (or both????),  
+	***[Specific Exception #1]*** or ***[Specific Exception #2]*** (or both????), 
 	can be printed, and execution of the *Python* program resumes
 	\cite[Chapter 8, pp. 165]{Hetland2005}.
 **This does not work with *Python 3.6* (or *Python 3.7* and beyond).**
