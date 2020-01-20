@@ -8,15 +8,16 @@
 	References:
 	+ http://extraconversion.com/time/nanoseconds/nanoseconds-to-seconds.html
 		- ExtraConversion staff, "Nanoseconds to Seconds Conversion Calculator",
-			from {\it Extra Conversion: Time Conversion: Nanosecond}, ExtraConversion.com, no address, 2020.
-			Available from {\it Extra Conversion: Time Conversion: Nanosecond} at: http://extraconversion.com/time/nanoseconds/nanoseconds-to-seconds.html;
+			from {Extra Conversion: Time Conversion: Nanosecond}, ExtraConversion.com, no address, 2020.
+			Available from {Extra Conversion: Time Conversion: Nanosecond} at: http://extraconversion.com/time/nanoseconds/nanoseconds-to-seconds.html;
 				last accessed on January 19, 2020.
-	+ Joe Sexton, "Nanoseconds to Seconds Conversion", from {\it Inch Calculator, Find Your Calculator: Unit Conversion Calculators: Time Conversion Calculators: Nanoseconds Conversion},
+	+ Joe Sexton, "Nanoseconds to Seconds Conversion", from {Inch Calculator, Find Your Calculator: Unit Conversion Calculators: Time Conversion Calculators: Nanoseconds Conversion},
 		Calc Hub, LLC, 2020.
-		Available from {\it Inch Calculator, Find Your Calculator: Unit Conversion Calculators: Time Conversion Calculators: Nanoseconds Conversion} at:
-			\url{https://www.inchcalculator.com/convert/nanosecond-to-second/};
+		Available from {Inch Calculator, Find Your Calculator: Unit Conversion Calculators: Time Conversion Calculators: Nanoseconds Conversion} at:
+			https://www.inchcalculator.com/convert/nanosecond-to-second/;
 			last accessed on January 19, 2020.
 """
+
 
 
 import numpy as np
@@ -58,5 +59,14 @@ print("{0:.3E}".format(x))
 
 
 """
-	\cite[\S Routines: Input and output, String formatting]{TheSciPyCommunity2019c}
+	\cite[Section: Routines: Input and output, String formatting]{TheSciPyCommunity2019c}
+	Available at: https://docs.scipy.org/doc/numpy-1.17.0/reference/generated/numpy.format_float_scientific.html;
+		last accessed on January 19, 2020.
 """
+print("np.format_float_scientific(np.float32(np.pi)):",np.format_float_scientific(np.float32(np.pi)),".")
+s = np.float32(1.23e24)
+print("s is:",s,".")
+#np.format_float_scientific(s, unique=False, precision=15)
+print("np.format_float_scientific(s, unique=False, precision=15):",np.format_float_scientific(s, unique=False, precision=15),".")
+#np.format_float_scientific(s, exp_digits=4)
+print("np.format_float_scientific(s, exp_digits=4):",np.format_float_scientific(s, exp_digits=4),".")
