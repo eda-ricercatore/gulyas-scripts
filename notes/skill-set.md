@@ -4891,16 +4891,69 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 		* experience in the use of visual mapping tools such as Plectica;
 		* experience in type design and editorial design;
 		* talent or predisposition for vector and / or raster illustration.
-
-
-
-
-
-
-
-
-
-
++ skill set:
+	- Advanced understanding of SQL, Python, PySpark, Scala, Hive, h2o, as well as machine learning techniques and algorithms, such as linear / logistic regression, tree-based learners, Gradient boosting, SVM, NLP, time series modeling, clustering, etc.
++ skill set:
+	- Personality Traits
+		* Ability to work independently under tight deadlines with accountability.
+		* Strong results driven personality with a high level of enthusiasm, energy and confidence.
+		* Strong problem-solving skills.
+	- Required Skills
+		* In-depth knowledge of various Natural Language Processing/Understanding (NLP/NLU) domains such as entity extraction, speech recognition, topic modeling, parsing, question answering, etc.
+		* Expertise in text mining (probabilistic topic model, word association mining, ontology learning, semantic similarity, etc.)
+		* Expertise in NLP/NLU (word representation, relation extraction, natural language inference, semantic parsing, etc.)
+		* Excellent background in Machine Learning (generative model, discriminative model, neural network, regression, classification, clustering, etc.)
+		* Experience in deep learning on NLP/NLU is a big plus
+		* Extensive experiences in using NLP related techniques/algorithms such as HMM, CRF, deep learning & recurrent ANN, word2vec/doc2vec, Bayesian modeling, etc.
+		* Experience in applied statistics including sampling approaches, modeling, and data mining techniques
+		* Experience in building analytical models and working with structured and unstructured data
+		* Experience with data structures and algorithms; ability to work in a Unix environment and building robust data processing and analytics pipelines
+		* Contributions to research communities, e.g. ACL, NIPS, ICML, EMNLP, etc. is a Plus
+	- Responsibilities:
+		* You will be part of a high impact team that’s building the next generation of intelligence and language understanding for Cuddle
+		* Build text/voice-based search engine and question answering system for Cuddle
+		* You'll utilize the latest techniques in AI, ML (including Deep Learning approaches) and NLU
+		* Build topic analysis, text classification, named entity recognition methods for unstructured and semi-structured data
+		* Develop and perform text classification using methods such as logistic regression, decision trees, SVM and maximum entropy classifiers
+		* Perform text mining, generate and test working hypotheses, prepare and analyze historical data and identify patterns
+		* Generate creative solutions (patents) and publish research results in top conferences (papers)
+	- Qualifications
+		* Master's degree in Mathematics, Statistics, Computer Science, or related fields
+		* 2+ years of ML + NLP experience
+		* Software programming in Java or Python
+		* Knowledge of SQL and NoSQL databases
+		* Knowledge of open source machine learning libraries like scikit-learn, tensorflow, NLP tool as NLTK
++ skill set:
+	- We use regression, Bayesian methods, tree-based learners, SVM, RF, XGBOOST, time series modelling, dimensionality reduction, SEM, GLM, GLMM, clustering etc on a regular basis.
+	- Ability to deliver AIML based solutions around a host of domains and problems, with some of them being: Customer Segmentation & Targeting, Propensity Modelling, Churn Modelling, Lifetime Value Estimation, Forecasting, Recommender Systems, Modelling Response to Incentives, Marketing Mix Optimization, Price Optimization
+	- Experience of working on a project end-to-end: problem scoping, data gathering, EDA, modelling, insights, and visualizations
+	- Detailed knowledge of XGboost, classification models, RF, understanding of Error metrics (RMSE, MSE, MAE), model fine tuning, feature selection, model selection  
++ skill set:
+	- Building descriptive or predictive models using Python, PySpark, Spark ML, Scala
+	- Building and deploying models in a Big Data environment; comfort with using Hive, MapReduce, Kafka, Spark Streaming, Spark SQL, JavaScript, Sqoop to run data processing tasks
+	- Building AI/ML models using techniques such as Regressions, Random Forest, Gradient boosting, neural networks, such as ANN/CNN, Hidden Markov, NLP, SVM, Bayesian techniques, etc.
+	- Experience in a Linux computing environment and use of command-line tools including knowledge of shells. Python scripting for automating common tasks is a plus
+	- Working knowledge of AIML packages such as Keras, Theano, TensorFlow. Software such as H2O is a plus
+	- Working knowledge of cloud infrastructures such as AWS, Azure or GCP is a plus
++ skill set:
+	- Hands-on experience with Apache Spark and its components (Streaming, SQL, MLLib) is a strong advantage
+	- Operating knowledge of cloud computing platforms (AWS/Azure ML)
+	- Strong understanding and experience in distributed computing frameworks, particularly Apache Hadoop 2.0 (YARN; MR & HDFS) and Hadoop ecosystem components -- Hive, Spark, HBase, Storm, Kafka etc.
++ skill set:
+	- Advanced understanding of SQL, Python, PySpark, Scala, Hive, h2o, as well as machine learning techniques and algorithms, such as linear / logistic regression, tree-based learners, Gradient boosting, SVM, NLP, time series modeling, clustering, etc.
++ skill set:
+	- 6-7 years of overall experience working with data science methodologies & techniques like dimensionality reduction (PCA, Factor Analysis, etc.), clustering (supervised, unsupervised), time series forecasting, optimization, parametric modelling (SEM, GLM, GLMM, etc.), ML (tree based learners like RF, GBM, XGBOOST, CATBOOST, etc.), BBN, Neural Networks (ANN, CNN, RNN, etc.), DL, RL, Transfer learning, text mining & NLP, etc.
+	- Graduate or Under-graduate degree holder in Statistics/Mathematics/Economics/Science/Engineering/Business Management
+	- Any industry certification(s) related to Data Science techniques (DL, RL, NLP, etc.) \& platforms (SAS, R, Python, Spark, etc.), and Big Data technologies (AWS/MS Azure/GCP)
+	- P\&C Insurance domain knowledge preferredAt least 2-3 years working experience in P\&C Insurance domain
++ skill set:
+	- Strong understanding and experience in distributed computing frameworks, particularly Apache Hadoop (YARN, MR, HDFS) and associated technologies -- one or more of Hive, Sqoop, Avro, Flume, Oozie, Zookeeper, etc..
+	- Hands-on experience with Apache Spark and its components (Streaming, SQL, MLLib) is a strong advantage.
+	- Operating knowledge of cloud computing platforms (AWS/Azure ML)
+	- Grasp at databases including RDBMS, NoSQL, MongoDB etc.
++ skill set:
+	- Knowledge of variety and advanced architecture, tools and concepts across all layers of the modern distributed technology stack (Hadoop, Spark, Kafka, Cassandra, MongoDB and similar)
+	- Knowledge and experience in cloud architectures and cloud tools (Azure/GCP/AWS)
 
 
 
