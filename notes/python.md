@@ -2,7 +2,6 @@
 
 >	Do not name them with the same name in packages and modules of The
 >		Python Standard Library and other Python libraries.
->
 >	Else, the naming conflict will cause packages and modules not to be
 >		detected/recognized. 
 >
@@ -3476,6 +3475,59 @@ See https://docs.python.org/3/reference/compound_stmts.html#the-with-statement f
 	- \cite{ThePyMCDevelopmentTeam2018,PyMC3Contributors2018}
 	- \cite{Salvatier2016}
 	- [PyMC](PyMCContributors2018) ... The old version.
+
+
+To generate pseudo-random numbers, try using the following libraries.
++ From the Python Standard Library \cite[Version 3.81, from Numeric and Mathematical Modules: random]{DrakeJr2016b},
+	I can use the following probability distributions:
+	- exponential distribution, lambda = 1.5
+	- beta distribution, alpha = 1, beta = 3
+	- gamma distribution, k = 1.0, theta = 2.0:
+	- Pareto distribution
+	- Weibull distribution
+	- normal/Gauss/Gaussian distribution
+		* random.gauss(mu, sigma)
+			+ faster implementation
+				- \cite[Version 3.81, from Numeric and Mathematical Modules: random, last accessed Jan 21, 2020]{DrakeJr2016b}
+				- See https://docs.python.org/3/library/random.html.
+		* random.normalvariate(mu, sigma) 
+			+ slower implementation
+			- \cite[Version 3.81, from Numeric and Mathematical Modules: random, last accessed Jan 21, 2020]{DrakeJr2016b}
+			- See https://docs.python.org/3/library/random.html.
+	- log-normal (or lognormal) distribution, or Galton distribution or Galton's distribution
+	- von Mises distribution, or circular normal distribution or Tikhonov distribution
+
+
+
+
+
+
+References for aforementioned probability distributions:
++ Wikipedia contributors, "Beta distribution," in Wikipedia,
+	The Free Encyclopedia: Continuous distributions,
+	Wikimedia Foundation, San Francisco, CA, January 18, 2020.
+	Available online at: https://en.wikipedia.org/wiki/Beta_distribution;
+		last accessed on January 21, 2020.
++ Wikipedia contributors, "Exponential distribution," in Wikipedia,
+	The Free Encyclopedia: Continuous distributions,
+	Wikimedia Foundation, San Francisco, CA, January 20, 2020.
+	Available online at: https://en.wikipedia.org/wiki/Exponential_distribution;
+		last accessed on January 21, 2020.
++ Wikipedia contributors, "Gamma distribution," in Wikipedia,
+	The Free Encyclopedia: Continuous distributions,
+	Wikimedia Foundation, San Francisco, CA, January 14, 2020.
+	Available online at: https://en.wikipedia.org/wiki/Gamma_distribution;
+		last accessed on January 21, 2020.
++ Wikipedia contributors, "Pareto distribution," in Wikipedia,
+	The Free Encyclopedia: Continuous distributions,
+	Wikimedia Foundation, San Francisco, CA, January 18, 2020.
+	Available online at: https://en.wikipedia.org/wiki/Pareto_distribution;
+		last accessed on January 21, 2020.
+
+
+
+
+
 
 
 
