@@ -3523,7 +3523,11 @@ References for aforementioned probability distributions:
 	Wikimedia Foundation, San Francisco, CA, January 18, 2020.
 	Available online at: https://en.wikipedia.org/wiki/Pareto_distribution;
 		last accessed on January 21, 2020.
-
++ Wikipedia contributors, "Weibull distribution," in Wikipedia,
+	The Free Encyclopedia: Continuous distributions,
+	Wikimedia Foundation, San Francisco, CA, November 13, 2019.
+	Available online at: https://en.wikipedia.org/wiki/Weibull_distribution;
+		last accessed on January 21, 2020.
 
 
 
