@@ -428,7 +428,7 @@ Upcoming Submission deadlines:
 + ***[IJCAR](https://ijcar2020.org/): January 16 and 23, 2020.
 + HPDC
 + ICS: https://ics2020.bsc.es/   
-+ ***[CAV](http://i-cav.org/2020/call-for-papers/): January 23, 2020.***
++ ***[CAV](http://i-cav.org/2020/call-for-papers/): ~~January 23, 2020~~ January 28, 2020.***
 + RAW: https://raw.necst.it/
 + ***[SIGMETRICS](https://www.sigmetrics.org/sigmetrics2020/call_for_papers.html): January 27 and February 3, 2020.***
 + ***[ICML](https://icml.cc/Conferences/2020/CallForPapers): Submission deadline: January 31 and February 7, 2020.***
@@ -2504,7 +2504,7 @@ List of conference "Call for Papers" deadlines:
 	- http://i-cav.org/2020/call-for-papers/
 	- Los Angeles, CA.
 	- July 19-24, 2019.
-	- Submission deadline: January 23, 2020.
+	- Submission deadline: ~~January 23, 2020~~ January 28, 2020.
 
 
 

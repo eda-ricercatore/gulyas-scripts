@@ -3530,6 +3530,19 @@ References for aforementioned probability distributions:
 		last accessed on January 21, 2020.
 
 
+Parameters of probability distributions:
++ shape parameter: https://en.wikipedia.org/wiki/Shape_parameter
+	- skewness, asymmetry about the mean
+		* positive skew: mode < median < mean
+		* symmetric: mode = median = mean
+		* negative skew: mean < median < mode
+		* https://en.wikipedia.org/wiki/Skewness
+	- kurtosis
+		* platykurtic (<3 for univariate normal distribution), more uniform in probability distribution
+		* leptokurtic (>3 for univariate normal distribution), less uniform in probability distribution
+		* https://en.wikipedia.org/wiki/Kurtosis
++ scale parameter: https://en.wikipedia.org/wiki/Scale_parameter
+	- How spread out is a probability distribution?
 
 
 
