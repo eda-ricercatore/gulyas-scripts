@@ -432,7 +432,7 @@ Upcoming Submission deadlines:
 + RAW: https://raw.necst.it/
 + ***[SIGMETRICS](https://www.sigmetrics.org/sigmetrics2020/call_for_papers.html): January 27 and February 3, 2020.***
 + ***[ICML](https://icml.cc/Conferences/2020/CallForPapers): Submission deadline: January 31 and February 7, 2020.***
-+ SPAA
++ SPAA: Submission deadline: February 7 and 15, 2020.
 + ***[Facebook proposal](https://research.fb.com/programs/research-awards/proposals/towards-on-device-ai-request-for-proposals/): February 3, 2020 at 11:59 p.m., U.S. PST***
 + Crypto 2020: https://crypto.iacr.org/2020/
 + CSF2020
@@ -2341,7 +2341,7 @@ List of conference "Call for Papers" deadlines:
 	- http://spaa.acm.org
 	- Philadelphia, PA, USA
 	- July 15-17, 2020
-	- Submission deadline: ***January 8 and 15, 2020.***
+	- Submission deadline: ***February 8 and 15, 2020.***
 
 
 
