@@ -423,11 +423,8 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 
 
 Upcoming Submission deadlines:
-+ Big data conference
-+ **[IJCNN/WCCI](https://wcci2020.org): January 15, 2020.**
-+ ***[IJCAR](https://ijcar2020.org/): January 16 and 23, 2020.
-+ HPDC
-+ ICS: https://ics2020.bsc.es/   
++ [BigData 2020](http://www.bigdatacongress.org/2020/cfp.html): February 5, 2020.
++ [ICS](https://ics2020.bsc.es/): January 24 and 31, 2020.
 + ***[CAV](http://i-cav.org/2020/call-for-papers/): ~~January 23, 2020~~ January 28, 2020.***
 + RAW: https://raw.necst.it/
 + ***[SIGMETRICS](https://www.sigmetrics.org/sigmetrics2020/call_for_papers.html): January 27 and February 3, 2020.***
@@ -2446,7 +2443,8 @@ List of conference "Call for Papers" deadlines:
 
 
 + HPDC 2020 (or HPDC'20), 29th International Symposium on High-Performance Parallel and Distributed Computing
-	- http://www.hpdc.org/2019/papers/call-for-papers/
+	- http://www.hpdc.org/2020/
+	- http://www.hpdc.org/2020/papers/call-for-papers/
 	- Stockholm, Sweden.
 	- June 23-26, 2020.
 	- Submission deadline: January 16 and 23, 2020.
@@ -2519,6 +2517,15 @@ List of conference "Call for Papers" deadlines:
 
 
 
+
+
+
+
++ ICS, ACM International Conference on Supercomputing
+	- Barcelona, Spain
+	- June 29 - July 2, 2020.
+	- https://ics2020.bsc.es/
+	- Submission deadlines: January 24 and 31, 2020.
 
 
 
@@ -2669,6 +2676,16 @@ List of conference "Call for Papers" deadlines:
 	- San Diego, CA
 	- June 23-26, 2019
 	- Submission deadlines: February 5 and 12, 2019.
+
+
+
+
++ BigData 2020, International Conference on Big Data
+	- http://www.bigdatacongress.org/2020/cfp.html
+	- June 22-26, 2020.
+	- Honolulu, Hawaii, USA.
+	- Submission deadline: February 5, 2020.
+
 
 
 
