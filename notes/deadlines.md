@@ -3121,7 +3121,7 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ 58th IEEE Conference on Decision and Control
++ IEEE CDC, IEEE Conference on Decision and Control
 	- https://cdc2020.ieeecss.org/
 	- Jeju Island, Republic of Korea
 	- December 8-11, 2020.
@@ -3272,6 +3272,54 @@ List of conference "Call for Papers" deadlines:
 
 
 
+
++ ASAP, IEEE International Conference on Application-specific Systems, Architectures and Processors
+	- 30th IEEE International Conference on Application-specific Systems, Architectures and Processors
+	- https://asap2020.cs.manchester.ac.uk/cfp.html
+	- https://asap2020.cs.manchester.ac.uk/
+	- New York, NY. @Cornell Tech.
+	- July 6-8, 2020.
+	- Submission deadline: March 27 and April 3, 2020.
+
+
+
+
+
++ ITC 2020, International Test Conference
+	- http://www.itctestweek.org/
+	- http://www.itctestweek.org/wp-content/uploads/2019/11/ITC_2020_Call_for_Papers_final-4.pdf
+	- Washington, D.C.
+	- Submission deadline: March 27 and April 3, 2020.
+
+
+
+
+
+
+
+
+
+
++ SenSys, ACM Conference on Embedded Networked Sensor Systems
+	- Conference on Embedded Networked Sensor Systems
+	- http://sensys.acm.org/2020/cfp/
+	- http://sensys.acm.org/2020/index.html
+	- http://sensys.acm.org/
+	- November 16-19, 2020
+	- Yokohama, Japan.
+	- Submission deadlines: March 27 and April 6, 2020.
+
+
+
+
+
+
+
+
+
+
+
+
 + FM, International Symposium on Formal Methods
 	- http://formalmethods2019.inesctec.pt/?page_id=565
 	- FM Week
@@ -3295,13 +3343,12 @@ List of conference "Call for Papers" deadlines:
 
 
 
-
-
 + QEST 2020, International Conference on Quantitative Evaluation of SysTems
-	- http://www.qest.org/qest2019/call-for-papers.html
-	- VENUE
-	- DATE
-	- Submission deadline: Late March and/or Early April, 2020.
+	- http://www.qest.org/qest2020/call-for-papers.html
+	- http://www.qest.org/qest2020/
+	- Vienna, Austria
+	- August 31 - September 3, 2020.
+	- Submission deadline: March 27 and April 3, 2020.
 	- Topics:
 		* quantitative specification methods
 		* stochastic and non-deterministic models and metrics for:
@@ -3327,11 +3374,18 @@ List of conference "Call for Papers" deadlines:
 
 
 + MICRO, IEEE/ACM International Symposium on Microarchitecture
-	- https://www.microarch.org/micro52/
-	- https://www.microarch.org/micro52/submit/papers.html
+	- https://www.microarch.org/micro53/
 	- https://www.microarch.org
-	- Columbus, Ohio, USA.
-	- Submission deadline: March 29 and April 5, 2019.
+	- Athens, Greece.
+	- October 17-21, 2020.
+	- Submission deadline: March 29 and April 5, 2019.????
+
+
+
+
+
+
+
 
 
 + SOCC 2019, IEEE International System-on-Chip Conference
@@ -3354,9 +3408,9 @@ List of conference "Call for Papers" deadlines:
 + ICCAD, International Conference On Computer Aided Design
 	- https://iccad.com/
 	- [CFP](https://iccad.com/2019_call_for_papers): https://iccad.com/sites/iccad.com/files/ICCAD%202019%20Call%20for%20Papers.pdf
-	- Westminster, CO (i.e., Denver area of Colorado)
-	- November 4-7, 2019.
-	- Submission deadline: April 1 and 8, 2019.
+	- San Diego, CA.
+	- November 2-5, 2020.
+	- Submission deadline: April 1 and 8, 2019.????
 
 
 
@@ -3394,13 +3448,7 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ ASAP, IEEE International Conference on Application-specific Systems, Architectures and Processors
-	- 30th IEEE International Conference on Application-specific Systems, Architectures and Processors
-	- https://asap2019.csl.cornell.edu/cfp.html
-	- https://asap2019.csl.cornell.edu/
-	- New York, NY. @Cornell Tech.
-	- July 15-17, 2019.
-	- Submission deadline: ~~April 2 and 8, 2019.~~ April 9 and 15, 2019.
+
 
 
 
@@ -3418,40 +3466,6 @@ List of conference "Call for Papers" deadlines:
 	- Internet of Medical Things (IoMT) track
 	- International Symposium on Networks-on-Chip (NOCS); mentioned later in greater details.
 	- **"RSP, International Symposium on Rapid System Prototyping".**
-
-
-
-
-
-
-
-
-
-
-
-
-+ ITC 2018, International Test Conference
-	- http://www.itctestweek.org/
-	- http://www.itctestweek.org/wp-content/uploads/2018/11/P211340-1_ITC_2019_Call-for-Papers_DD2-mt.pdf
-	- Washington, D.C.
-	- Submission deadline: April 4 and 11, 2019.
-
-
-
-
-
-
-
-
-+ SenSys 2019, ACM Conference on Embedded Networked Sensor Systems
-	- Conference on Embedded Networked Sensor Systems
-	- http://sensys.acm.org/2019/cfp/
-	- http://sensys.acm.org/2019/index.html
-	- http://sensys.acm.org/
-	- November 10-13, 2019
-	- New York, NY
-	- Submission deadlines: April 5 and 12, 2019
-
 
 
 
@@ -3525,9 +3539,16 @@ List of conference "Call for Papers" deadlines:
 
 + PACT19, International Conference on Parallel Architectures and Compilation Techniques
 	- http://pactconf.org/
-	- September 21-25, 2019.
-	- Seattle, Washington.
-	- Submission deadline: April 11 and 15, 2019.
+	- https://pact20.cc.gatech.edu/
+	- October 3-7, 2020.
+	- Atlanta, Georgia.
+	- Submission deadline: April 10 and 17, 2019.
+
+
+
+
+
+
 
 
 + TAP 2019, 13th International Conference on Tests and Proofs
@@ -3628,12 +3649,14 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ Static Analysis Symposia
-	- http://staticanalysis.org/sas2019/
++ SAS, Static Analysis Symposium
+	- https://conf.researchr.org/home/sas-2020/
 	- http://staticanalysis.org
-	- October 8-11, 2019.
-	- Porto, Portugal.
-	- Submission deadline: April 18 and 25 2019.
+	- November 18-20, 2020.
+	- Chicago, IL.
+	- Submission deadline: April 22 and 24, 2019.
+
+
 
 
 + VLSI-SoC 2019, IFIP/IEEE International Conference on Very Large Scale Integration
@@ -3699,13 +3722,7 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ 26th Static Analysis Symposium
-	- Part of the 3rd World Congress on Formal Methods
-	- https://staticanalysis.org/sas2019/
-	- http://www.staticanalysis.org/
-	- Porto, Portugal
-	- October 8-11, 2019
-	- Submission deadlines: April 22-25, 2019
+
 
 
 
