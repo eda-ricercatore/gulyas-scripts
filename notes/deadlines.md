@@ -2,9 +2,8 @@
 >	Don't miss the Call-for-Papers deadlines again.
 >	Ditto for milestone deadlines for research contests.
 
->	Fix the following CFP deadlines!!!
->		http://www.bigdatacongress.org/2020/cfp.html.   
->		http://spaa.acm.org/ (CFP deadline extension)   
+
+
 
 #	"Call for Paper" (CFP) Deadlines
 
@@ -89,10 +88,11 @@ Fix mathematical proof for paper and implement processor subsystems.
 	- https://www.thecvf.com/?page_id=100
 	- Submission deadline: **November 15, 2019**, 23:59 PST.
 + DSAA, IEEE/ACM/ASA DSAA, IEEE International Conference on Data Science and Advanced Analytics
-	- http://call-for-papers.dsaa2019.dsaa.co/
-	- October 5–8, 2019
-	- Washington, D.C.
-	- Submission deadline: May 20, 2019.
+	- http://dsaa2020.dsaa.co/
+	- http://www.dsaa.co/
+	- October 6–9, 2020.
+	- Sydney, Australia
+	- Submission deadline: May 24, 2020.
 + EACL, meeting of the European Chapter of the Association for Computational Linguistics
 	- http://www.eacl2017.org/
 	- http://eacl.org/conferences/
@@ -423,18 +423,18 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 
 
 Upcoming Submission deadlines:
-+ [BigData 2020](http://www.bigdatacongress.org/2020/cfp.html): February 5, 2020.
 + [ICS](https://ics2020.bsc.es/): January 24 and 31, 2020.
 + ***[CAV](http://i-cav.org/2020/call-for-papers/): ~~January 23, 2020~~ January 28, 2020.***
 + RAW: https://raw.necst.it/
 + ***[SIGMETRICS](https://www.sigmetrics.org/sigmetrics2020/call_for_papers.html): January 27 and February 3, 2020.***
 + ***[ICML](https://icml.cc/Conferences/2020/CallForPapers): Submission deadline: January 31 and February 7, 2020.***
-+ SPAA: Submission deadline: February 7 and 15, 2020.
 + ***[Facebook proposal](https://research.fb.com/programs/research-awards/proposals/towards-on-device-ai-request-for-proposals/): February 3, 2020 at 11:59 p.m., U.S. PST***
-+ Crypto 2020: https://crypto.iacr.org/2020/
-+ CSF2020
++ [BigData 2020](http://www.bigdatacongress.org/2020/cfp.html): February 5, 2020.
++ SPAA: Submission deadline: February 7 and 15, 2020.
++ [Crypto 2020](https://crypto.iacr.org/2020/): February 11, 2020. 
++ [CSF2020](https://www.ieee-security.org/TC/CSF2020/): February 7, 2020.
 + [Symposia on VLSI Technology and Circuits](http://vlsisymposium.org): February 10, 2019.
-+ USENIX Security
++ USENIX Security: February 15, 2020.
 + ISMM: https://conf.researchr.org/home/ismm-2020
 + ISLPED: http://www.islped.org/2020/
 + ***[ECCV](https://eccv2020.eu/important-dates/): March 5, 2020.***
@@ -520,18 +520,18 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ NOCS 2019, IEEE/ACM International Symposium on Networks-on-Chip
-	- https://www.engr.colostate.edu/nocs2019/
-	- New York, NY.
-	- October 17–18, 2019.
++ NOCS, IEEE/ACM International Symposium on Networks-on-Chip
+	- https://www.esweek.org/nocs-about
+	- Shanghai, China.
+	- October 11–16, 2020.
 	- Submission deadline: May 10 and 17, 2019.
 
 
 + FMCAD, International Conference on Formal Methods in Computer-Aided Design
-	- https://fmcad.forsyte.at/FMCAD19/
-	- San Jose, California.
-	- October 22-25, 2019.
-	- Submission deadline: ~~May 10 and 17, 2019.~~ May 17 and 24, 2019. (Extended)
+	- https://fmcad.forsyte.at/FMCAD20/
+	- Haifa, Israel.
+	- September 21-24, 2019.
+	- Submission deadline: April 9 and 16, 2019.
 
 
 + ICRC, IEEE International Conference on Rebooting Computing
@@ -574,10 +574,10 @@ List of conference "Call for Papers" deadlines:
 	- Cancún, México
 	- September 12-16, 2020
 	- Submission deadlines:
-		* 1st round: November 15, 2019
-		* 2nd round: February 15, 2019
-		* ***3rd round: May 15, 2019***
-		* 4th round: August 15, 2019
+		* 1st round: August 15, 2019
+		* 2nd round: November 15, 2019
+		* 3rd round: February 15, 2020
+		* ***4th round: May 15, 2020***
 
 
 
@@ -1240,10 +1240,10 @@ List of conference "Call for Papers" deadlines:
 	- Cancún, México
 	- September 12-16, 2020
 	- Submission deadlines:
-		* 1st round: November 15, 2019
-		* 2nd round: February 15, 2019
-		* 3rd round: May 15, 2019
-		* ***4th round: August 15, 2019***
+		* ***1st round: August 15, 2019***
+		* 2nd round: November 15, 2019
+		* 3rd round: February 15, 2020
+		* 4th round: May 15, 2020
 
 
 
@@ -2052,10 +2052,10 @@ List of conference "Call for Papers" deadlines:
 	- Cancún, México
 	- September 12-16, 2020
 	- Submission deadlines:
-		* ***1st round: November 15, 2019***
-		* 2nd round: February 15, 2019
-		* 3rd round: May 15, 2019
-		* 4th round: August 15, 2019
+		* 1st round: August 15, 2019
+		* ***2nd round: November 15, 2019***
+		* 3rd round: February 15, 2020
+		* 4th round: May 15, 2020
 
 
 
@@ -2525,6 +2525,7 @@ List of conference "Call for Papers" deadlines:
 	- Barcelona, Spain
 	- June 29 - July 2, 2020.
 	- https://ics2020.bsc.es/
+	- https://www.ics-conference.org/
 	- Submission deadlines: January 24 and 31, 2020.
 
 
@@ -2683,11 +2684,39 @@ List of conference "Call for Papers" deadlines:
 + BigData 2020, International Conference on Big Data
 	- http://www.bigdatacongress.org/2020/cfp.html
 	- June 22-26, 2020.
-	- Honolulu, Hawaii, USA.
+	- Honolulu, Hawaii, U.S.A..
+	- Submission deadline: February 5, 2020.
+
++ AIMS 2020, 2020 International Conference on AI and Mobile Services
+	- http://www.ai1000.org/2020/cfp.html
+	- June 22-26, 2020.
+	- Honolulu, Hawaii, U.S.A..
+	- Submission deadline: February 5, 2020.
+
++ ICIOT 2020, 2020 International Conference on Internet of Things
+	- http://www.iciot.org/2020/index.html
+	- June 22-26, 2020.
+	- Honolulu, Hawaii, U.S.A..
 	- Submission deadline: February 5, 2020.
 
 
++ EDGE 2020, 2020 International Conference on Edge Computing
+	- http://theedgecomputing.org/2020/index.html
+	- June 22-26, 2020.
+	- Honolulu, Hawaii, U.S.A..
+	- Submission deadline: February 5, 2020.
 
++ ICCC 2020, 2020 International Conference on Cognitive Computing
+	- http://www.thecognitivecomputing.org/2020/cfp.html
+	- June 22-26, 2020.
+	- Honolulu, Hawaii, U.S.A..
+	- Submission deadline: February 5, 2020.
+
++ ICBC 2020, 2020 International Conference on Blockchain
+	- http://blockchain1000.org/2020/index.html
+	- June 22-26, 2020.
+	- Honolulu, Hawaii, U.S.A..
+	- Submission deadline: February 5, 2020.
 
 
 
@@ -2771,12 +2800,12 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ Crypto 2019, International Cryptology Conference
++ Crypto 2020, International Cryptology Conference
 	- Advances in Cryptology
-	- https://crypto.iacr.org/2019/
+	- https://crypto.iacr.org/2020/
 	- Santa Barbara, CA
-	- August 18-22, 2019
-	- Submission deadline" February 13, 2019.
+	- August 16-20, 2020.
+	- Submission deadline: February 11, 2019.
 	- PQC Standardization Conference
 		* NIST Post-Quantum Cryptography Standardization Process
 		* https://csrc.nist.gov/Events/2019/Second-PQC-Standardization-Conference
@@ -2831,10 +2860,10 @@ List of conference "Call for Papers" deadlines:
 	- Cancún, México
 	- September 12-16, 2020
 	- Submission deadlines:
-		* 1st round: November 15, 2019
-		* ***2nd round: February 15, 2019***
-		* 3rd round: May 15, 2019
-		* 4th round: August 15, 2019
+		* 1st round: August 15, 2019
+		* 2nd round: November 15, 2019
+		* ***3rd round: February 15, 2020***
+		* 4th round: May 15, 2020
 
 
 
@@ -2854,6 +2883,13 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ SAT, International Conferences on Theory and Applications of Satisfiability Testing
+	- https://sat2020.idea-researchlab.org/cfp/
+	- http://www.satisfiability.org
+	- Alghero, Italy.
+	- July 7-12, 2019.
+	- Submission deadlines: February 15 and 22, 2020.
+
 
 
 
@@ -2867,13 +2903,7 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ ICBC 2019, 2019 International Conference on Blockchain
-	- http://blockchain1000.org/2019/cfp.html
-	- June 25-30, 2019
-	- San Diego, CA
-	- Submission deadlines:
-		* February 17, 2020.
-		* March 22, 2020.
+
 
 
 
@@ -2885,9 +2915,10 @@ List of conference "Call for Papers" deadlines:
 
 + PODC, ACM Symposium on Principles of Distributed Computing
 	- http://www.podc.org
-	- Toronto, Ontario, Canada
-	- July 29 - August 2, 2019
-	- Submission deadline: February 18, 2019.
+	- http://www.podc.org/podc2020/call-for-papers/
+	- Salerno, Italy.
+	- August 3-7, 2019
+	- Submission deadline: February 17, 2019.
 
 
 
@@ -2899,7 +2930,7 @@ List of conference "Call for Papers" deadlines:
 	- July 13-17, 2020.
 	- Montreal, Quebec, Canada.
 	- Submission deadline: February 18 and 25, 2020.
-
+		* See https://debs.org/awards/ for DEBS Grand Challenge.
 
 
 
@@ -2920,18 +2951,25 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ LCTES, ACM SIGPLAN/SIGBED Conference on Languages, Compilers, Tools and Theory for Embedded Systems
-	- https://conf.researchr.org/home/LCTES-2019
-	- Phoenix, AZ.
-	- June 22-28, 2019.
-	- Submission deadline: February 22 - March 1, 2019.
-	- Extended submission deadline: March 8, 2019.
++ ISVLSI 2019, IEEE Computer Society Annual Symp. on VLSI
+	- http://www.isvlsi.org
+	- http://www.eng.ucy.ac.cy/theocharides/isvlsi19/
+	- Limassol, Cyprus.
+	- Submission deadline: February 20, 2020.
 
 
-+ ISMM, International Symposium on Memory Management
-	- https://conf.researchr.org/home/ismm-2019
+
+
+
+
+
+
+
+
++ ISMM, ACM SIGPLAN International Symposium on Memory Management
 	- https://www.sigplan.org/Conferences/ISMM/
-	- Phoenix, AZ
+	- London, U.K..
+	- June 16, 2020.
 	- Submission deadline: February 22, 2019.
 
 
@@ -2948,16 +2986,22 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ LCTES, ACM SIGPLAN/SIGBED Conference on Languages, Compilers, Tools and Theory for Embedded Systems
+	- https://conf.researchr.org/home/LCTES-2020
+	- https://conf.researchr.org/series/LCTES
+	- https://www.sigarch.org/call-contributions/lctes-2020/
+	- London, United Kingdom.
+	- June 15-20, 2019.
+	- Submission deadline: February 28, 2020.
 
 
 
-
-+ ISLPED 2018, International Symp. on Low Power Electronics and Design
++ ISLPED, ACM/IEEE International Symposium on Low Power Electronics and Design
 	- http://www.islped.org/
-	- EPFL, Lausanne, Switzerland
-	- July 29-31, 2019.
-	- Submission deadline: February 25 and March 4, 2019.
-	- Extended submission deadline: March 4 and March 11, 2019.
+	- http://www.islped.org/2020/
+	- Boston, MA.
+	- August 10-12, 2020.
+	- Submission deadline: March 2 and 9, 2019 (U.S. PST).
 
 
 
@@ -3041,18 +3085,12 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ SAT, International Conferences on Theory and Applications of Satisfiability Testing
-	- https://sat2020.idea-researchlab.org/cfp/
-	- http://www.satisfiability.org
-	- Alghero, Italy.
-	- July 7-12, 2019.
-	- Submission deadlines: February 15 and 22, 2020.
-
 
 
 
 + ICDAR 2019, 15th International Conference on Document Analysis and Recognition
 	- https://icdar2019.org/
+	- Held during even
 	- September 20-15, 2019
 	- Sydney, Australia
 	- Submission deadlines: ~~February 13 and 15, 2019~~ March 1 and 8, 2019.
@@ -3084,10 +3122,10 @@ List of conference "Call for Papers" deadlines:
 
 
 + 58th IEEE Conference on Decision and Control
-	- https://cdc2019.ieeecss.org/
-	- Nice, France
-	- December 11-13, 2019
-	- Submission deadline: March 1, 2019
+	- https://cdc2020.ieeecss.org/
+	- Jeju Island, Republic of Korea
+	- December 8-11, 2020.
+	- Submission deadline: March 17, 2020
 
 
 
@@ -3110,12 +3148,7 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ ISVLSI 2019, IEEE Computer Society Annual Symp. on VLSI
-	- http://www.isvlsi.org
-	- http://www.eng.ucy.ac.cy/theocharides/isvlsi19/
-	- Miami, FL
-	- Submission deadline: February 17, 2019.
-	- New submission deadline: March 3, 2019.
+
 
 
 
@@ -4450,3 +4483,4 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 Email address: echo "cukj -wb- 23wU4X5M589 TROJANS cqkH wiuz2y 0f Mw Stanford" | awk '{ sub("23wU4X5M589","F.d_c_b. ") sub("Stanford","d0mA1n"); print $5, $2, $8; for (i=1; i<=1; i++) print "6\b"; print $9, $7, $6 }' | sed y/kqcbuHwM62z/gnotrzadqmC/ | tr 'q' ' ' | tr -d [:cntrl:] | tr -d 'ir' | tr y "\n"		Don't compromise my computing accounts. You have been warned.
+
