@@ -15,6 +15,8 @@ This is a sandbox, for trying out different concepts with "throwaway" scripts, f
 		* https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/b-visualization/barchart_3_groups.py
 		* https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/b-visualization/barchart.py
 + [database management](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/python/database-management)
++ [dump](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/python/x-dump)
+	- [*Python* script to remove duplicate entries in a *BibTeX* database](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/x-dump/duplicate_BibTeX_entries.py).
 + [error management and exception handling](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/python/h-error-management)
 	- [printing error messages to standard error, and providing warning messages](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/h-error-management/e-print-error-output.py)
 	- [exception handling](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/h-error-management/my_exception_handling.py)
@@ -32,7 +34,16 @@ This is a sandbox, for trying out different concepts with "throwaway" scripts, f
 	- [operations involving file extensions](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/a-navigating-file-systems/a_os_path_methods.py)
 + [*Python* functions](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/python/e-functions)
 	- [*Python* functions that return multiple values](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/e-functions/function_multiple_return_values.py)
-
++ [*Python* strings](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/python/y-strings)
+	- [common string operations](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/y-strings/strings_tutorial.py)
+	- [strings from each line parsed from a comma-separated values (CSV) file](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/y-strings/csv_strings.py) 
+		* Information about [comma-separated values (CSV) files](https://en.wikipedia.org/wiki/Comma-separated_values)
++ [utilities package for my *Python* code base](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/python/utilities)
++ [VLSI design](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/python/vlsi)
+	- [*n*-bit adders](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/vlsi/adder.ipynb)
+	
+	
++ [measurements of current time, or get current date and time stamp](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/test.py)
 
 
 
