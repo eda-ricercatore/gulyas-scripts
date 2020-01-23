@@ -33,6 +33,11 @@ This is a sandbox, for trying out different concepts with "throwaway" scripts, f
 + [navigating file systems](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/python/a-navigating-file-systems)
 	- enumerating subdirectories
 	- [operations involving file extensions](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/a-navigating-file-systems/a_os_path_methods.py)
++ [numbers](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/python/numbers)
+	- [comparing numbers to determine if they are approximately equal](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/numbers/approximately_equal.py)
+		* explores different techniques for doing so, and my success and failures in implementing them
+	- [comparisons using "p == q" and "p is q"](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/numbers/miscellaneous.py)
++ [porting *Python 2.x* source code to *Python 3.y* source code](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/python/porting-Py2-to-Py3)
 + [*Python* functions](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/python/e-functions)
 	- [*Python* functions that return multiple values](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/e-functions/function_multiple_return_values.py)
 + [*Python* strings](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/python/y-strings)
