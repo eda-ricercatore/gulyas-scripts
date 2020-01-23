@@ -21,6 +21,7 @@ This is a sandbox, for trying out different concepts with "throwaway" scripts, f
 	- [printing error messages to standard error, and providing warning messages](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/h-error-management/e-print-error-output.py)
 	- [exception handling](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/h-error-management/my_exception_handling.py)
 + [file input/output (I/O) operations](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/python/file-io)
+	- [file formats](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/python/q-file-formats)
 + [*Google Colab*, or *Google Colaboratory*](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/python/google-colab)
 	- Uploading code
 	- Importing pacakges and modules
@@ -38,13 +39,12 @@ This is a sandbox, for trying out different concepts with "throwaway" scripts, f
 	- [common string operations](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/y-strings/strings_tutorial.py)
 	- [strings from each line parsed from a comma-separated values (CSV) file](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/y-strings/csv_strings.py) 
 		* Information about [comma-separated values (CSV) files](https://en.wikipedia.org/wiki/Comma-separated_values)
++ [statistics, statistical analysis, stochastic modeling/optimization](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/python/statistics)
 + [utilities package for my *Python* code base](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/python/utilities)
++ [version control, revision control, and software configuration management](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/python/revision-ctrl)
 + [VLSI design](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/python/vlsi)
 	- [*n*-bit adders](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/vlsi/adder.ipynb)
 	
-	
-+ [measurements of current time, or get current date and time stamp](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/test.py)
-
 
 
 
