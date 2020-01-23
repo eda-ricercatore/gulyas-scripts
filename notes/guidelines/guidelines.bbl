@@ -205,6 +205,12 @@ Mike Beedle, Arie {van Bennekum}, Alistair Cockburn, Ward Cunningham, Martin
   at: \url{http://agilemanifesto.org/principles.html}; June 9, 2018 was the
   last accessed date, 2001.
 
+\bibitem{BenAri1996}
+Mordechai {Ben-Ari}.
+\newblock {\em Understanding Programming Languages}.
+\newblock John Wiley {\rm \&}\ Sons, Chichester, West Sussex, South East
+  England, England, {U.K.}, 1996.
+
 \bibitem{Bender2011}
 James Bender and Jeff {McWherter}.
 \newblock {\em Professional Test Driven Development with {{C}\#}: Developing
@@ -301,6 +307,11 @@ Bo~Brinkman, Don Gotterbarn, Keith~W. Miller, and Marty~J. Wolf.
 Frederick~P. {Brooks, Jr.}
 \newblock {\em The Mythical Man-Month: Essays on Software Engineering}.
 \newblock Addison-Wesley, Reading, {MA}, $20^{th}$\ anniversary edition, 1995.
+
+\bibitem{BrooksJr2010}
+Frederick~P. {Brooks, Jr.}
+\newblock {\em The Design of Design: Essays from a Computer Scientist}.
+\newblock Pearson Education, Boston, {MA}, 2010.
 
 \bibitem{Brown1998}
 William~J. Brown, Raphael~C. Malveau, Hays W.~``Skip'' {McCormick, III}, and
@@ -664,8 +675,8 @@ Ronny Frevert, Joachim Haase, Roland Jancke, Uwe Kn{\"{o}}chel, Peter Schwarz,
 \bibitem{Furber2000}
 Steve Furber.
 \newblock {\em {ARM} System-on-Chip Architecture}.
-\newblock Pearson Education, Harlow, Essex, England, {U.K.}, second edition,
-  2000.
+\newblock Pearson Education, Harlow, Essex, East of England, England, {U.K.},
+  second edition, 2000.
 
 \bibitem{Gadoury2010}
 Brian Gadoury.
@@ -801,11 +812,11 @@ Luis Gon{\c{c}}alves and Ben Linders.
   exercises.
 \newblock Self-published, Raleigh, {NC}, September 12 2014.
 
-\bibitem{GoogleAIStaff2019}
-{Google AI staff}.
+\bibitem{GoogleColabStaff2019}
+{Google Colab staff}.
 \newblock Colaboratory.
-\newblock Available online from {\it Google: Google AI} at:
-  \url{https://colab.research.google.com/}; February 13, 2019 was the last
+\newblock Available online from {\it Google: Google AI: Research: Google Colab}
+  at: \url{https://colab.research.google.com/}; February 13, 2019 was the last
   accessed date, 2019.
 
 \bibitem{GoogleStyleguideContributors2019}
@@ -882,6 +893,12 @@ Philip~N. Hagelberg.
   \url{https://github.com/technomancy/leiningen}; self-published; October 23,
   2017 was the last accessed date, October 21 2017.
 
+\bibitem{Hailperin1999}
+Max Hailperin, Barbara Kaiser, and Karl Knight.
+\newblock {\em Concrete Abstractions: An Introduction to Computer Science Using
+  {Scheme}}.
+\newblock Brooks/Cole, Pacific Groove, {CA}, 1999.
+
 \bibitem{Hamano2014}
 Junio~C. Hamano, Linus Torvalds, Shawn Pearce, Johannes Schindelin, Nicolas
   Pitre, Ren{\'{e}} Scharfe, Jeff King, Jonathan Nieder, Johan Herland,
@@ -892,6 +909,11 @@ Junio~C. Hamano, Linus Torvalds, Shawn Pearce, Johannes Schindelin, Nicolas
 \newblock Available online at: \url{http://www.git-scm.com/} and
   \url{http://git-blame.blogspot.com/}; August 1, 2014 was the last accessed
   date, August 12 2014.
+
+\bibitem{Harel2000}
+David Harel, Dexter Kozen, and Jerz Tiuryn.
+\newblock {\em Dynamic Logic}.
+\newblock Foundations of Computing. The {MIT} Press, Cambridge, {MA}, 2000.
 
 \bibitem{Harris2007}
 David~Money Harris and Sarah~L. Harris.
@@ -975,6 +997,12 @@ Mohamed Hamed~Zaki Hussein.
   Mixed-Signal Designs}.
 \newblock PhD thesis, Concordia University, Montr{\'{e}}al, Qu{\'{e}}bec,
   Canada, 2008.
+
+\bibitem{Huth2004}
+Michael Huth and Mark Ryan.
+\newblock {\em Logic in Computer Science: Modelling and Reasoning about
+  Systems}.
+\newblock Cambridge University Press, New York, {NY}, second edition, 2004.
 
 \bibitem{IEEE2014b}
 {IEEE Board of Directors}.
@@ -1074,8 +1102,8 @@ Eric~R. Keiter, Thomas~V. Russo, Richard~L. Schiek, Peter~E. Sholander,
 \bibitem{Kelly2008}
 Allan Kelly.
 \newblock {\em Changing Software Development: Learning to Become Agile}.
-\newblock John Wiley {\rm \&}\ Sons, Chichester, West Sussex, England, {U.K.},
-  2008.
+\newblock John Wiley {\rm \&}\ Sons, Chichester, West Sussex, South East
+  England, England, {U.K.}, 2008.
 
 \bibitem{Kelly2015}
 Allan Kelly.
@@ -1137,6 +1165,11 @@ Helmut Kopka and Patrick~W. Daly.
 \newblock Addison-Wesley Series on Tools and Techniques for Computer
   Typesetting. Addison-Wesley, Boston, {MA}, fourth edition, 2004.
 
+\bibitem{Kourie2012}
+Derrick~G. Kourie and Bruce~W. Watson.
+\newblock {\em The Correctness-by-Construction Approach to Programming}.
+\newblock Springer-Verlag Berlin Heidelberg, Heidelberg, Germany, 2012.
+
 \bibitem{Krishnamachari1997}
 R.~S. Krishnamachari and P.~Y. Papalambros.
 \newblock Hierarchical decomposition synthesis in optimal systems design.
@@ -1175,6 +1208,12 @@ Philippe Kruchten, Robert~L. Nord, and Ipek Ozkaya.
 \newblock Technical debt: From metaphor to theory and practice.
 \newblock {\em {IEEE} Software}, 29(6):18--21, November--December 2012.
 
+\bibitem{Kundu2011}
+Sudipta Kundu, Sorin Lerner, and Rajesh~K. Gupta.
+\newblock {\em High-Level Verification: Methods and Tools for Verification of
+  System-Level Designs}.
+\newblock Springer Science+Business Media, {LLC}, New York, {NY}, 2011.
+
 \bibitem{Kushner2011}
 David Kushner.
 \newblock {Facebook} philosophy: Move fast and break things -- hacker culture
@@ -1210,8 +1249,8 @@ Phillip~A. Laplante.
 Phillip~A. Laplante and Seppo~J. Ovaska.
 \newblock {\em Real-Time Systems Design and Analysis: Tools for the
   Practitioner}.
-\newblock John Wiley {\rm \&}\ Sons and Institute of Electrical and Electronics
-  Engineers, Hoboken, {NJ} and New York, {NY}, fourth edition, 2012.
+\newblock John Wiley {\rm \&}\ Sons and {IEEE} Press, Hoboken, {NJ} and
+  Piscataway, {NJ}, fourth edition, 2012.
 
 \bibitem{Larman2004}
 Craig Larman.
@@ -1302,6 +1341,11 @@ Fred Long, Dhruv Mohindra, Robert~C. Seacord, Dean~F. Sutherland, and David
   for Reliable and Secure Programs}.
 \newblock The {SEI} Series in Software Engineering. Addison-Wesley, Upper
   Saddle River, {NJ}, 1995.
+
+\bibitem{Louden2012}
+Kenneth~C. Louden and Kenneth~Alfred Lambert.
+\newblock {\em Programming Languages: Principles and Practices}.
+\newblock Course Technology, Boston, {MA}, 2012.
 
 \bibitem{Lu2007}
 Zhonghai Lu.
@@ -1436,6 +1480,11 @@ Gerard Meszaros.
 \newblock Addison-Wesley Signature Series. Pearson Education, Boston, {MA},
   2007.
 
+\bibitem{Meyer1997a}
+Bertrand Meyer.
+\newblock {\em Object-Oriented Software Construction}.
+\newblock Prentice-Hall, Upper Saddle River, {NJ}, 1997.
+
 \bibitem{Mili2015}
 Ali Mili and Fairouz Tchier.
 \newblock {\em Software Testing: Concepts and Operations}.
@@ -1451,6 +1500,18 @@ Mike Mintz and Robert Ekendahl.
 Trevor Misfeldt, Gregory Bumgardner, and Andrew Gray.
 \newblock {\em The Elements of {C++} Style}.
 \newblock Cambridge University Press, New York, {NY}, 2004.
+
+\bibitem{Misra2001a}
+Jayadev Misra.
+\newblock {\em A Discipline of Multiprogramming: Programming Theory for
+  Distributed Applications}.
+\newblock Monographs in Computer Science. Springer-Verlag New York, New York,
+  {NY}, 2001.
+
+\bibitem{Mitchell2002}
+John~C. Mitchell.
+\newblock {\em Concepts in Programming Languages}.
+\newblock Cambridge University Press, Cambridge, {U.K.}, 2002.
 
 \bibitem{MondragonTorres2013}
 Antonio~F. {Mondragon-Torres}.
@@ -1470,6 +1531,11 @@ Antonio~F. {Mondragon-Torres}, Alexander Kozitsky, Clifford Bundick, Edward {Mc
   {SD}, October 12--15 2011. American Society for Engineering Education,
   Institute of Electrical and Electronics Engineers, and {IEEE} Computer
   Society, {IEEE} Press.
+
+\bibitem{Monin2003}
+{Jean-Fran{\c{c}}ois} Monin and Michael~G. Hinchey.
+\newblock {\em Understanding Formal Methods}.
+\newblock Springer-Verlag London, London, {U.K.}, 2003.
 
 \bibitem{Mosley2002}
 Daniel~J. Mosley and Bruce~A. Posey.
@@ -1625,6 +1691,22 @@ Oren Patashnik.
   \url{http://mirrors.ctan.org/biblio/bibtex/base/btxdoc.pdf}; September 24,
   2014 was the last accessed date, February 8 1988.
 
+\bibitem{Pierce2002}
+Benjamin~C. Pierce.
+\newblock {\em Types and Programming Languages}.
+\newblock The {MIT} Press, Cambridge, {MA}, 2002.
+
+\bibitem{Pierce2017}
+Benjamin~C. Pierce, Arthur~Azevedo {de Amorim}, Chris Casinghino, Marco
+  Gaboardi, Michael Greenberg, C{\u{a}}t{\u{a}}lin Hri{\c{t}}cu, Vilhelm
+  Sj{\"{o}}berg, Brent Yorgey, Loris {D'Antoni}, Andrew~W. Appel, Arthur
+  Chargueraud, Anthony Cowley, Jeffrey Foster, Dmitri Garbuzov, Michael Hicks,
+  Ranjit Jhala, Greg Morrisett, Jennifer Paykin, Mukund Raghothaman,
+  {Chung-chieh} Shan, Leonid Spesivtsev, Andrew Tolmach, Stephanie Weirich, and
+  Steve Zdancewic.
+\newblock {\em Software Foundations}.
+\newblock University of Pennsylvania, Philadelphia, {PA}, Spring 2017.
+
 \bibitem{Plattner2011a}
 Hasso Plattner, Christoph Meinel, and Larry Leifer.
 \newblock {\em Design Thinking: Understand -- Improve -- Apply}.
@@ -1759,6 +1841,11 @@ Kenneth Reitz and Tanya Schlusser.
   Development}.
 \newblock O'Reilly Media, Sebastopol, {CA}, 2016.
 
+\bibitem{Reynolds1998}
+John~C. Reynolds.
+\newblock {\em Theories of Programming Languages}.
+\newblock Cambridge University Press, New York, {NY}, 1998.
+
 \bibitem{Rierson2013}
 Leanna Rierson.
 \newblock {\em Developing Safety-Critical Software: A Practical Guide for
@@ -1819,14 +1906,20 @@ Sean~A. Safarpour.
 David Sale.
 \newblock {\em Testing {Python}: Applying Unit Testing, {TDD}, {BDD} and
   Acceptance Testing}.
-\newblock John Wiley {\rm \&}\ Sons, Chichester, West Sussex, England, {U.K.},
-  2014.
+\newblock John Wiley {\rm \&}\ Sons, Chichester, West Sussex, South East
+  England, England, {U.K.}, 2014.
 
 \bibitem{Saleh2006}
 Resve Saleh, Steve Wilton, Shahriar Mirabbasi, Alan Hu, Mark Greenstreet, Guy
   Lemieux, Partha~Pratim Pande, Cristian Grecu, and Andre Ivanov.
 \newblock System-on-chip: Reuse and integration.
 \newblock {\em Proceedings of the {IEEE}}, 94(6):1050--1069, June 2006.
+
+\bibitem{Samek2009}
+Miro Samek.
+\newblock {\em Practical {UML} Statecharts in {C/C++}: Event-Driven Programming
+  for Embedded Systems}.
+\newblock Newnes, Burlington, {MA}, second edition, 2009.
 
 \bibitem{SangiovanniVincentelli2007}
 Alberto Sangiovanni-Vincentelli.
@@ -1886,6 +1979,14 @@ Anna Schneider.
 \newblock How to become a data scientist before you graduate.
 \newblock {\em Berkeley Science Review}, July 30 2013.
 
+\bibitem{Schwichtenberg2002}
+Helmut Schwichtenberg and Ralf Steinbr{\"{u}}ggen.
+\newblock {\em Proceedings of the {NATO} Advanced Science Institute on Proof
+  and System-Reliability}, volume~62 of {\em {NATO} Science Series {II}:
+  Mathematics, Physics and Chemistry}.
+\newblock Kluwer Academic Publishers, Marktoberdorf, Germany, July 24 -- August
+  5 2002.
+
 \bibitem{ScienceInfusionSoftwareEngineeringProcessGroupStaff2006}
 {Science Infusion Software Engineering Process Group staff}.
 \newblock Science infusion software engineering process group ({SISEPG}) {C++}
@@ -1901,6 +2002,12 @@ Anna Schneider.
 Michael~L. Scott.
 \newblock {\em Programming Language Pragmatics}.
 \newblock Morgan Kaufmann, Burlington, {MA}, third edition, 2009.
+
+\bibitem{Sestoft2012}
+Peter Sestoft.
+\newblock {\em Programming Language Concepts}, volume~50 of {\em Undergraduate
+  Topics in Computer Science}.
+\newblock Springer-Verlag London, London, {U.K.}, 2012.
 
 \bibitem{Shore2008}
 James Shore and Shane Warden.
@@ -1925,8 +2032,8 @@ Kevin~A. Smith and Doug Kramer.
 \bibitem{Sommerville2007}
 Ian Sommerville.
 \newblock {\em Software Engineering}.
-\newblock Pearson Education, Harlow, Essex, England, {U.K.}, eighth edition,
-  2007.
+\newblock Pearson Education, Harlow, Essex, East of England, England, {U.K.},
+  eighth edition, 2007.
 
 \bibitem{Spolsky2004}
 Joel Spolsky.
@@ -1985,8 +2092,7 @@ Andrew Stellman and Jennifer Greene.
 \bibitem{Sterling2011}
 Chris Sterling.
 \newblock {\em Managing Software Debt: Building for Inevitable Change}.
-\newblock Agile Software Development Series. Addison-Wesley, Boston, {MA},
-  2011.
+\newblock The Agile Software Development. Addison-Wesley, Boston, {MA}, 2011.
 
 \bibitem{Stevens2000}
 Perdita Stevens and Rob Pooley.
@@ -2028,6 +2134,11 @@ Travis Swicegood.
 \newblock Pragmatic Bookshelf. The Pragmatic Programmers, Raleigh, {NC},
   November 1 2010.
 
+\bibitem{Tarlinder2017}
+Alexander Tarlinder.
+\newblock {\em Developer Testing: Building Quality into Software}.
+\newblock Addison-Wesley Signature Series. Addison-Wesley, Boston, {MA}, 2017.
+
 \bibitem{Olson2016}
 Risk~Danger technoweenie Olson, Brandon Keepers, Anatoly Borodin, Lucas
   Werkmeister, Steve Streeting, and Scott Barron.
@@ -2058,6 +2169,11 @@ Adam Tornhill.
   Code Analysis}.
 \newblock The Pragmatic Programmers, Raleigh, {NC}, 2018.
 
+\bibitem{Tucker2007}
+Allen~B. Tucker and Robert~E. Noonan.
+\newblock {\em Programming Languages: Principles and Paradigms}.
+\newblock McGraw-Hill, New York, {NY}, second edition, 2007.
+
 \bibitem{Turakulov2018}
 Nodir Turakulov, Ted Osborne, and Ackermann Yuriy.
 \newblock {Markdown} style guide.
@@ -2072,7 +2188,7 @@ Greg~L. Turnquist.
   effective recipes for taking control of automate testing using powerful
   {Python} testing tools}.
 \newblock Quick answers to common problems. Packt Publishing, Birmingham, West
-  Midlands, England, {U.K.}, 2011.
+  Midlands, West Midlands, England, {U.K.}, 2011.
 
 \bibitem{Vaishnavi2008}
 Vijay~K. Vaishnavi and William {Kuechler Jr.}
@@ -2100,7 +2216,7 @@ Dimitri {van Heesch}.
 \bibitem{vanRossum2013}
 Guido {van Rossum}, Barry Warsaw, and Nick Coghlan.
 \newblock Style guide for {Python} code.
-\newblock Available online as {\it {Python}: {Python} Developer's Guide:
+\newblock Available online from {\it {Python}: {Python} Developer's Guide:
   {Python} Enhancement Proposals: {Python} Enhancement Proposal 0} at:
   \url{https://www.python.org/dev/peps/pep-0008/}; October 20, 2015 was the
   last accessed date, August 1 2013.
@@ -2121,6 +2237,12 @@ Chao Wang, Gary~D. Hachtel, and Fabio Somenzi.
 \newblock {\em Abstraction Refinement for Large Scale Model Checking}.
 \newblock Integrated Circuits and Systems. Springer Science+Business Media,
   {LLC}, New York, {NY}, 2006.
+
+\bibitem{Watt2004}
+David~A. Watt.
+\newblock {\em Programming Language Design Concepts}.
+\newblock John Wiley {\rm \&}\ Sons, Chichester, West Sussex, South East
+  England, England, {U.K.}, 2004.
 
 \bibitem{Weatherwax2008}
 John~L. Weatherwax.
@@ -2204,6 +2326,14 @@ Karl Wiegers and Joy Beatty.
   \url{https://en.wikipedia.org/wiki/Naming_convention_(programming)}; March
   10, 2017 was the last accessed date, February 26 2017.
 
+\bibitem{WikipediaContributors2017e}
+{Wikipedia contributors}.
+\newblock Programming paradigm.
+\newblock Available online from {\it Wikipedia, The Free Encyclopedia:
+  Programming paradigms} at:
+  \url{https://en.wikipedia.org/wiki/Programming_paradigm}; July 12, 2017 was
+  the last accessed date, July 5 2017.
+
 \bibitem{WikipediaContributors2018m}
 {Wikipedia contributors}.
 \newblock Code refactoring.
@@ -2219,6 +2349,11 @@ Ron Wilson.
   Collection} at:
   \url{https://www.embedded.com/electronics-blogs/agile-collection/4218869/Agile-development-in-the-SoC-design-world-};
   September 25, 2018 was the last accessed date, August 17 2011.
+
+\bibitem{Winskel1993}
+Glynn Winskel.
+\newblock {\em The Formal Semantics of Programming Languages: An Introduction}.
+\newblock The {MIT} Press, Cambridge, {MA}, 1993.
 
 \bibitem{Wolf20XY}
 Clifford Wolf.
@@ -2257,6 +2392,12 @@ Kaiping Zeng and Sorin~A. Huss.
 \newblock In {\em Proceedings of the {IEEE} International Symposium on Circuits
   and Systems ({ISCAS 2006})}, pages 1475--1478, Island of Kos, Greece, May
   21--24 2006. {IEEE} Press.
+
+\bibitem{Zhan2017}
+Naijun Zhan, Shuling Wang, and Hengjun Zhao.
+\newblock {\em Formal Verification of {Simulink/Stateflow} Diagrams: A
+  Deductive Approach}.
+\newblock Springer International Publishing {AG}, Cham, Switzerland, 2017.
 
 \bibitem{Zuckerberg2012}
 Mark Zuckerberg.
