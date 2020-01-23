@@ -8,6 +8,7 @@ This is a sandbox, for trying out different concepts with "throwaway" scripts, f
 	- [enumerating multiple arrays concurrently](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/i-data-structures/enumerate_multiple_arrays-concurrently.py)
 	- [enumerating ordered dictionaries, and lists of tuples (i.e., each list is a list tuples)](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/i-data-structures/ordered_dict_color_enumeration.py)
 	- [performing operations on lists, using functional programming and otherwise](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/i-data-structures/performing_operations_on_lists.py)
+		* includes an example on [list comprehension](https://en.wikipedia.org/wiki/List_comprehension), which is exploited in functional programming (for monad comprehension, set comprehension, dictionary comprehension, parallel list comprehension)
 + [data visualization](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/python/b-visualization)
 	- bar charts to compare experimental/simulation from different solutions for each category/benchmark
 		* https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/b-visualization/barchart_3_groups.py

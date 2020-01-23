@@ -1918,6 +1918,33 @@ Use a **list comprehension** to perform a conditional operation iteratively on
 + **Create a list with the resulting data**; or create a list with the resultant
 	sequence of data
 	\cite[Chapter 6, section on "Generator Expressions," pp. 110]{Beazley2009}.
++ Examples \cite{ParewaLabsStaff20XYa}, with comparisons to:
+	- lambda functions (or [anonymous function, function literal, lambda abstraction, or lambda expression](https://en.wikipedia.org/wiki/Anonymous_function))urces for lambda functions:
+			+ https://www.w3schools.com/python/python_lambda.asp 
+			+ https://realpython.com/python-lambda/
+			+ https://ww
+		* Additional resow.geeksforgeeks.org/python-lambda-anonymous-functions-filter-map-reduce/
+	- "for" loops
+		* Has an example of converting nested "for" loops into a list
+			comprehension.
++ Generic form:
+	- "\[expression for item in list\]" \cite{ParewaLabsStaff20XYa}
+	- "\[expression for item in list Optional_Conditional_Statement\]" \cite{ParewaLabsStaff20XYa}
+		* The "Optional_Conditional_Statement" optional conditional statement
+			can include: 
+			+ an "if" statement \cite{PythonForBeginnersContributors2020}
+			+ a nested "if" statement
+			+ an "if-else" statement
++ Suggestions:
+	- "List comprehension is an elegant way to define and create lists based on existing lists" \cite{ParewaLabsStaff20XYa}.
+	- "List comprehension is generally more compact and faster than normal functions and loops for creating list" \cite{ParewaLabsStaff20XYa}.
+	- "avoid writing very long list comprehensions in one line to ensure that code is user-friendly" \cite{ParewaLabsStaff20XYa}.
+	- "every list comprehension can be rewritten in for loop, but every for loop can’t be rewritten in the form of list comprehension" \cite{ParewaLabsStaff20XYa}.
+
+
+
+
+
 
 
 Similarly, a **generator expression** implicitly creates an iterable object to
