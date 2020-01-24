@@ -5,7 +5,8 @@
 import numpy as np
 # From https://docs.python.org/3/library/statistics.html
 import statistics as s
-
+# Use the math.ceil() and math.floor() functions
+import math
 
 
 # Python code to illustrate  
@@ -98,3 +99,24 @@ else:
 p = None
 q = None
 p is q # True because they are both pointing to the same "None"
+
+
+a = 32.1923
+b = math.floor(a)
+print("b is:",b,".")
+c = math.floor(a)
+print("c is:",c,".")
+"""
+	Use the round() function to round off numbers, instead of the
+		following functions.
+	+ math.ceil()
+	+ math.floor()
+"""
+d = round(a)
+print("d is:",d,".")
+d = round(54.9744)
+print("d is:",d,".")
+d = round(546789.57928)
+print("d is:",d,".")
+d = round(152.5)
+print("d is:",d,".")
