@@ -37,6 +37,7 @@ This is a sandbox, for trying out different concepts with "throwaway" scripts, f
 	- [comparing numbers to determine if they are approximately equal](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/numbers/approximately_equal.py)
 		* explores different techniques for doing so, and my success and failures in implementing them
 	- [comparisons using "p == q" and "p is q"](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/numbers/miscellaneous.py)
+	- [min(), max(), and list operations](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/numbers/b-min_max_string_numbers.py)
 	- Terminated/Aborted attempts:
 		* Good representations of recurring/repeating decimals that enables arithmetic operations, just like the default (i.e., typical) floating-point representation in *Python*.
 			+ See https://docs.python.org/3/tutorial/floatingpoint.html \cite[Section 15, Floating Point Arithmetic: Issues and Limitations]{Brandl2017a}
@@ -48,6 +49,7 @@ This is a sandbox, for trying out different concepts with "throwaway" scripts, f
 				- leapfrog filter, active-ladder, or multiple feedback filter; an example of an active circuit electronic filter.
 				- passive electronic ladder filter.
 				- See https://en.wikipedia.org/wiki/Electronic_filter_topology#Ladder_topologies for ladder filters.
+		* Creating a range of numbers using *n..m*. This works with [*Ruby*](https://en.wikipedia.org/wiki/For_loop#1995:_Ruby) though.
 + [porting *Python 2.x* source code to *Python 3.y* source code](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/python/porting-Py2-to-Py3)
 + [*Python* functions](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/python/e-functions)
 	- [*Python* functions that return multiple values](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/e-functions/function_multiple_return_values.py)
