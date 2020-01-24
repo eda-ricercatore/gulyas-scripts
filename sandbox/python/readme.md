@@ -40,7 +40,7 @@ This is a sandbox, for trying out different concepts with "throwaway" scripts, f
 	- Terminated/Aborted attempts:
 		* Good representations of recurring/repeating decimals that enables arithmetic operations, just like the default (i.e., typical) floating-point representation in *Python*.
 			+ See https://docs.python.org/3/tutorial/floatingpoint.html \cite[Section 15, Floating Point Arithmetic: Issues and Limitations]{Brandl2017a}
-			+ See https://docs.python.org/3/library/fractions.html \cite{Brandl2017a}
+			+ See https://docs.python.org/3/library/fractions.html \cite[From Numeric and Mathematical Modules: fractions -- Rational numbers]{Brandl2017a}
 		* Representations and operations with continued fractions, especially finite continued fraction (or terminated continued fraction) that are used in filter design.
 			+ Note that infinite continued fractions cannot lead to practical circuit implementations of filters.
 			+ Generalized continued fractions can represent the structure of circults for filtering out noise.
