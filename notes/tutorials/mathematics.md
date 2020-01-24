@@ -4,8 +4,13 @@
 
 ### Elementary Number Theory
 
+The figure below indicates the "set of real numbers (R), which include the rational (Q), which include the integers (Z), which include the natural numbers (N). The real numbers also include the irrational (R\Q)."
 
+![The set of real numbers](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/mathematics-pics/set-of-real-numbers.jpg)
 
+References:
++ Available from BLAH at: https://en.wikibooks.org/wiki/Fractals/Mathematics/Numbers#/media/File:Set_of_real_numbers_(diagram).svg.
+Fractals/Mathematics/Numbers
 
 
 
