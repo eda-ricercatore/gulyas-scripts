@@ -9,7 +9,7 @@ The figure below indicates the "set of real numbers (R), which include the ratio
 ![The set of real numbers](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/mathematics-pics/set-of-real-numbers.jpg)
 
 References:
-+ Wikibooks contributors, ``Numbers,'' in *Mathematics* of *Fractals*, Wikibooks: Open books for an open world, Wikimedia Foundation, San Francisco, CA, September 15, 2019.
++ Wikibooks contributors, ``Numbers,'' in *Mathematics* section of the book *Fractals*, Wikibooks: Open books for an open world, Wikimedia Foundation, San Francisco, CA, September 15, 2019.
 	Available at: https://en.wikibooks.org/wiki/Fractals/Mathematics/Numbers and https://en.wikibooks.org/wiki/Fractals/Mathematics/Numbers#/media/File:Set_of_real_numbers_(diagram).svg;
 		last accessed on January 23, 2020.
 
