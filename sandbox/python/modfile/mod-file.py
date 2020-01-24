@@ -22,7 +22,7 @@
 			Modify currently enumerated line.
 			Write the modified line to the input file.
 	
-	I have attempted implementing methods 1 and 2 in vain.
+	I have attempted implementing methods 1 and 3 in vain.
 	I will implement method two.
 	
 	

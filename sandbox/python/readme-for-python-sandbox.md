@@ -39,6 +39,7 @@ This is a sandbox, for trying out different concepts with "throwaway" scripts, f
 	- [comparisons using "p == q" and "p is q"](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/numbers/miscellaneous.py)
 	- [min(), max(), and list operations](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/numbers/b-min_max_string_numbers.py)
 	- [Multiplying a list of numbers (or numbers in a list) with a scalar constant (or, scaling factor, or scale factor)](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/numbers/scaling_factor.py)
+	- [Usage of the scientific notations](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/numbers/scientific_notation.py)
 	- Terminated/Aborted attempts:
 		* Good representations of recurring/repeating decimals that enables arithmetic operations, just like the default (i.e., typical) floating-point representation in *Python*.
 			+ See https://docs.python.org/3/tutorial/floatingpoint.html \cite[Section 15, Floating Point Arithmetic: Issues and Limitations]{Brandl2017a}
