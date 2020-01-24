@@ -59,6 +59,7 @@ This is a sandbox, for trying out different concepts with "throwaway" scripts, f
 	- [common string operations](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/y-strings/strings_tutorial.py)
 	- [strings from each line parsed from a comma-separated values (CSV) file](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/y-strings/csv_strings.py) 
 		* Information about [comma-separated values (CSV) files](https://en.wikipedia.org/wiki/Comma-separated_values)
+	- [substring replacement](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/y-strings/string_processing.py)
 + [statistics, statistical analysis, stochastic modeling/optimization](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/python/statistics)
 + [utilities package for my *Python* code base](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/python/utilities)
 + [version control, revision control, and software configuration management](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/python/revision-ctrl)
