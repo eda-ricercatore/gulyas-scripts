@@ -4957,6 +4957,10 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 + skill set:
 	- General knowledge in machine learning, natural language processing, knowledge graph, image processing and computer vision, with deep insight in recent progress and practical experience in one of the fields
 	- Understanding principles of deep learning, probabilistic inference, graphical models, reinforcement learning, transfer learning and adversarial learning, with extensive knowledge in one of the fields mentioned
++ Good knowledge of popular deep learning platforms (Tensorflow, Pytorch, Paddlepaddle)
+	- https://github.com/PaddlePaddle/Paddle
+	- https://www.paddlepaddle.org.cn/
++ simultaneous machine translation (SMT) system
 
 
 
