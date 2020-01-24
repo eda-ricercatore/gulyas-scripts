@@ -4954,7 +4954,9 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 + skill set:
 	- Knowledge of variety and advanced architecture, tools and concepts across all layers of the modern distributed technology stack (Hadoop, Spark, Kafka, Cassandra, MongoDB and similar)
 	- Knowledge and experience in cloud architectures and cloud tools (Azure/GCP/AWS)
-
++ skill set:
+	- General knowledge in machine learning, natural language processing, knowledge graph, image processing and computer vision, with deep insight in recent progress and practical experience in one of the fields
+	- Understanding principles of deep learning, probabilistic inference, graphical models, reinforcement learning, transfer learning and adversarial learning, with extensive knowledge in one of the fields mentioned
 
 
 

@@ -431,7 +431,7 @@ Upcoming Submission deadlines:
 + ***[Facebook proposal](https://research.fb.com/programs/research-awards/proposals/towards-on-device-ai-request-for-proposals/): February 3, 2020 at 11:59 p.m., U.S. PST***
 + [BigData 2020](http://www.bigdatacongress.org/2020/cfp.html): February 5, 2020.
 + SPAA: Submission deadline: February 7 and 15, 2020.
-+ [Crypto 2020](https://crypto.iacr.org/2020/): February 11, 2020. 
++ [Crypto 2020](https://crypto.iacr.org/2020/): February 11, 2020.
 + [CSF2020](https://www.ieee-security.org/TC/CSF2020/): February 7, 2020.
 + [Symposia on VLSI Technology and Circuits](http://vlsisymposium.org): February 10, 2019.
 + USENIX Security: February 15, 2020.
@@ -2209,12 +2209,7 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ ASYNC 2019, IEEE International Symposium on Asynchronous Circuits and Systems
-	- http://asyncsymposium.org/async/Welcome.html
-	- http://www.async2019.jp
-	- Hirosaki, Japan
-	- Conference dates: May 12-15, 2019.
-	- Submission deadline: December 7 and 14, 2018.
+
 
 
 
@@ -2265,7 +2260,12 @@ List of conference "Call for Papers" deadlines:
 
 
 
-
++ ASYNC, IEEE International Symposium on Asynchronous Circuits and Systems
+	- http://asyncsymposium.org/async/Welcome.html
+	- https://asyncsymposium.org/async2020/
+	- Snowbird, Utah, USA.
+	- Conference dates: May 17-20, 2020.
+	- Submission deadline: January 6 and 15, 2018.
 
 
 
@@ -4500,4 +4500,3 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 Email address: echo "cukj -wb- 23wU4X5M589 TROJANS cqkH wiuz2y 0f Mw Stanford" | awk '{ sub("23wU4X5M589","F.d_c_b. ") sub("Stanford","d0mA1n"); print $5, $2, $8; for (i=1; i<=1; i++) print "6\b"; print $9, $7, $6 }' | sed y/kqcbuHwM62z/gnotrzadqmC/ | tr 'q' ' ' | tr -d [:cntrl:] | tr -d 'ir' | tr y "\n"		Don't compromise my computing accounts. You have been warned.
-
