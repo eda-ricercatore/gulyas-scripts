@@ -880,10 +880,11 @@ List of conference "Call for Papers" deadlines:
 
 
 + SLE, International Conference on Software Language Engineering
-	- http://www.sleconf.org/2019/Dates.html
-	- http://www.sleconf.org/2019/CFP.html
-	- Athens, Greece.
-	- Submission deadline: June 14 and June 21, 2019.
+	- https://conf.researchr.org/home/sle-2020#Call-for-Papers
+	- http://www.sleconf.org/
+	- November 15-20, 2020.
+	- Chicago, IL.
+	- Submission deadline: June 14 and June 21, 2019.???
 
 
 
@@ -3467,11 +3468,12 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ ACM Multimedia, 27th ACM International Conference on Multimedia
++ ACM Multimedia, ACM International Conference on Multimedia
+	- https://2020.acmmm.org/call-for-paper.html
 	- https://acmmm.org/
-	- October 21-25, 2019
-	- Nice, France
-	- Submission deadline: April 1, 2019.
+	- October 12-16, 2020
+	- Seattle, WA.
+	- Submission deadlines: March 21 and 28, 2020, AoE.
 
 
 
@@ -3525,17 +3527,13 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ SPLASH, ACM SIGPLAN conference on Systems, Programming, Languages and Applications: Software for Humanity
-	- https://2019.splashcon.org
-	- Athens, Greece.
-	- Submission deadline: April 5, 2019 for OOPSLA.
 
-+ OOPSLA, SPLASH 2019 OOPSLA, Object-oriented Programming, Systems, Languages, and Applications
-	- URL
-	- http://oopsla.org/oopsla-history/
-	- http://www.sigplan.org/Conferences/OOPSLA/
-	- Athens, Greece.
-	- Submission deadline: April 5, 2019.
+
+
+
+
+
+
 
 
 
@@ -3623,11 +3621,54 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ IEEE Secure Development Conference
-	- https://secdev.ieee.org/2019/papers/
-	- September 25-27, 2019
-	- McLean, VA
-	- Submission deadlines: April 15-22, 2019.
+
+
+
+
++ SPLASH, ACM SIGPLAN conference on Systems, Programming, Languages and Applications: Software for Humanity
+	- https://2020.splashcon.org/
+	- Chicago, IL.
+	- November 15-20, 2020.
+	- Submission deadline: April 15, 2019 for OOPSLA.
+		* Onward! Papers submission deadlines:
+			+ Round 1: April 17 and 23, 2020.
+			+ Round 2: July 15, 2020.
+		* Onward! Essays submission deadlines:
+			+ Round 1: April 23, 2020.
+			+ Round 2: July 15, 2020.
+
+
+
++ OOPSLA, SPLASH 2019 OOPSLA, Object-oriented Programming, Systems, Languages, and Applications
+	- https://2020.splashcon.org/track/splash-2020-oopsla
+	- http://oopsla.org/oopsla-history/
+	- http://www.sigplan.org/Conferences/OOPSLA/
+	- Chicago, IL.
+	- November 15-20, 2020.
+	- Submission deadline: April 15, 2019.
+		* OOPSLA artifacts submission deadline: July 8, 2020.
+
+
++ GPCE, International Conference on Generative Programming: Concepts & Experiences
+	- https://conf.researchr.org/home/gpce-2020
+	- November 15-20, 2020.
+	- Chicago, IL.
+	- Submission deadline: April 15, 2020???
+
+
+
+
+
+
+
+
+
+
++ SecDev, IEEE Secure Development Conference
+	- https://secdev.ieee.org/2020/Home
+	- September 28-30, 2020.
+	- Atlanta, GA.
+	- Submission deadlines: ~~April 15-22, 2019.~~???
 
 
 
@@ -3682,21 +3723,15 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ SAS, Static Analysis Symposium
-	- https://conf.researchr.org/home/sas-2020/
-	- http://staticanalysis.org
-	- November 18-20, 2020.
-	- Chicago, IL.
-	- Submission deadline: April 22 and 24, 2019.
+
++ VLSI-SoC, IFIP/IEEE International Conference on Very Large Scale Integration
+	- https://www.aconf.org/conf_173100.html
+	- https://sites.google.com/view/vlsi-soc-2020//
+	- Salt Lake City, UT.
+	- October 5-7, 2019.
+	- Submission deadlines: April 20 and 27, 2020.
 
 
-
-
-+ VLSI-SoC 2019, IFIP/IEEE International Conference on Very Large Scale Integration
-	- https://vlsi-soc.pe/
-	- Cuzco, Peru.
-	- October 6 and 9, 2019.
-	- Submission deadline: April 18 and 25, 2019.
 
 
 
@@ -3754,6 +3789,16 @@ List of conference "Call for Papers" deadlines:
 
 
 
+
+
+
+
++ SAS, Static Analysis Symposium
+	- https://conf.researchr.org/home/sas-2020/
+	- http://staticanalysis.org
+	- November 18-20, 2020.
+	- Chicago, IL.
+	- Submission deadline: April 22 and 24, 2020.
 
 
 
@@ -3821,6 +3866,19 @@ List of conference "Call for Papers" deadlines:
 	- Porto, Portugal.
 	- October 8-11, 2019.
 	- Submission deadline: April 30, 2019.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
