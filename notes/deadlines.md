@@ -439,20 +439,25 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 
 
 Upcoming Submission deadlines:
-+ [ICS](https://ics2020.bsc.es/): January 24 and 31, 2020.
 + ***[CAV](http://i-cav.org/2020/call-for-papers/): ~~January 23, 2020~~ January 28, 2020.***
 + [IEEE WCCI - IJCNN](https://wcci2020.org/calls/#call-for-papers): January 30, 2020.
-+ RAW: https://raw.necst.it/
++ [The FATE of AI in Education: Fairness, Accountability, Transparency, and Ethics, A Special Issue of the International Journal of Artificial Intelligence in Education (IJAIED)](https://sites.google.com/view/thefateofaied): abstract submission deadline: January 31, 2020 (not required); and deadline for paper submission: March 30, 2020.
 + ***[SIGMETRICS](https://www.sigmetrics.org/sigmetrics2020/call_for_papers.html): January 27 and February 3, 2020.***
-+ ***[ICML](https://icml.cc/Conferences/2020/CallForPapers): Submission deadline: January 30 and February 6, 2020, AoE.***
 + ***[Facebook proposal](https://research.fb.com/programs/research-awards/proposals/towards-on-device-ai-request-for-proposals/): February 3, 2020 at 11:59 p.m., U.S. PST***
++ [International Workshop on Algorithmic Bias in Search and Recommendation (Bias 2020)](http://bias.disim.univaq.it/): February 3, 2020, 23:59 hrs, AoE.
 + [BigData 2020](http://www.bigdatacongress.org/2020/cfp.html): February 5, 2020.
++ ***[ICML](https://icml.cc/Conferences/2020/CallForPapers): Submission deadline: January 30 and February 6, 2020, AoE.***
 + SPAA: Submission deadline: February 7 and 15, 2020.
 + [CSF2020](https://www.ieee-security.org/TC/CSF2020/): February 7, 2020.
++ [RAW](https://raw.necst.it/): February 8, 2020.
 + [Symposia on VLSI Technology and Circuits](http://vlsisymposium.org): February 10, 2019.
 + [Crypto 2020](https://crypto.iacr.org/2020/): February 11, 2020.
 + [SIGGRAPH emerging technologies paper submission](https://s2020.siggraph.org/submissions/emerging-technologies-submissions/): February 11, 2020.
++ [Engaging in Race in HCI](https://sites.google.com/view/raceinhci): February 11, 2020.
++ [Nothing About Us Without Us: Investigating the Role of Critical Disability Studies in HCI](https://katta.mere.st/nothing-about-us-without-us/): February 11, 2020.
++ [Workshop on Artificial Intelligence for HCI: A Modern Approach](https://sites.google.com/view/ai4hci/): February 11, 2020.
 + USENIX Security: February 15, 2020.
++ [Crime and/or Punishment: Joining the Dots between Crime, Legality and HCI](https://crimehci.wordpress.com/): February 16, 2020.
 + [ISMM](https://conf.researchr.org/track/ismm-2020/ismm-2020): February 28, 2020.
 + [ISLPED](http://www.islped.org/2020/): March 2 and 9, 2020.
 + ***[ECCV](https://eccv2020.eu/important-dates/): March 5, 2020.***
@@ -1196,9 +1201,7 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ EMBS, 41st International Engineering in Medicine and Biology Conference
-	- https://embc.embs.org/2019/
-	- Submission deadline: February 5 and 19, 2020
+
 
 
 
@@ -2655,7 +2658,11 @@ List of conference "Call for Papers" deadlines:
 
 
 
-
++ EMBS, International Engineering in Medicine and Biology Conference
+	- https://embc.embs.org/2020/
+	- July 20-24, 2020.
+	- Montréal, Québec, Canada.
+	- Submission deadline: ~~January 23, 2020~~ January 31, 2020
 
 
 + ISSAC, International Symposium on Symbolic and Algebraic Computation
@@ -2811,9 +2818,12 @@ List of conference "Call for Papers" deadlines:
 
 + RAW, Reconfigurable Architectures Workshop
 	- http://raw.necst.it/
-	- May 20 2019.
-	- Rio de Janeiro, Brazil.
-	- Submission deadline: February 8, 2019.
+	- May 18-19, 2020.
+	- New Orleans, Louisiana.
+	- Submission deadline: February 8, 2020.
+
+
+
 
 
 
