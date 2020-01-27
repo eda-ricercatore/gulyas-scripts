@@ -3204,19 +3204,6 @@ List of conference "Call for Papers" deadlines:
 	- Submission deadline: March 6, 11:59 pm (AoE)
 
 
-+ MWSCAS, IEEE International Midwest Symposium on Circuits and Systems
-	- https://www.mwscas2019.org/
-	- Dallas, TX
-	- August 4-7, 2019.
-	- Submission deadline: March 8, 2019.
-
-
-
-
-
-
-
-
 
 
 
@@ -3227,11 +3214,36 @@ List of conference "Call for Papers" deadlines:
 
 
 + FPL, International Conference on Field-Programmable Logic and Applications
-	- https://fpl2019.bsc.es/
+	- https://www.fpl2020.org/
 	- http://www.fpl.org/h/
-	- Barcelona, Spain.
-	- September 9-13, 2019.
-	- Submission deadline: March 22 and 29, 2019.
+	- August 31 - September 4, 2020.
+	- Gothenburg, Sweden.
+	- Submission deadline: March 16 and 23, 2019.
+
+
+
+
+
+
+
+
++ MWSCAS, IEEE International Midwest Symposium on Circuits and Systems
+	- http://mwscas2020.org/
+	- Springfield, MA, U.S.A..
+	- August 9-12, 2020.
+	- Submission deadline: March 23, 2019.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
