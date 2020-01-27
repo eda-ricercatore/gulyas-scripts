@@ -137,10 +137,14 @@ Transparency
 	- Barcelona, Spain.
 	- January 27-30, 2020.
 	- Submission deadlines: August 15 and 22, 2019.
-	- "ACM FAT* is an international and interdisciplinary peer-reviewed conference that seeks to publish and present work examining the fairness, accountability, and transparency of algorithmic systems."
+	- "ACM FAT\* is an international and interdisciplinary peer-reviewed conference that seeks to publish and present work examining the fairness, accountability, and transparency of algorithmic systems."
 	- Fairness, Accountability, and Transparency in Machine Learning:
 		* https://www.fatml.org/
 		* https://www.fatml.org/resources/relevant-scholarship
+	- [ACM FAT\* Network](https://fatconference.org/network/)
+		* Has information about:
+			+ Upcoming Opportunities
+			+ Upcoming Events and Publications
 + ICALP, International Colloquium on Automata, Languages and Programming
 	- http://eatcs.org/index.php/conferences
 	- https://econcs.pku.edu.cn/icalp2020/
@@ -159,10 +163,14 @@ Transparency
 	- Submission deadline: **March 15 and 22, 2019**.
 + ICDM, IEEE International Conference on Data Mining
 	- http://icdm.bigke.org/
-	- http://icdm2019.bigke.org/
-	- http://www.cs.uvm.edu/~icdm/
-	- ???.
-	- Submission deadline: ???***June 5, 2019.***???
+	- http://icdm2020.bigke.org/
+	- http://www.icdm2020.unical.it/
+	- Sorrento, Italy.
+	- November 17-20, 2020.
+	- Submission deadline: ???***June 2, 2020.***???
+		- ICDM 2020 contest requirement specification and sample data availability: June 12, 2020.
+		- ICDM 2020 contest deadline for team registration: June 26, 2020.
+		- ICDM 2020 contest deadline for final submission: July 31, 2020, 23:59 hrs, U.S. PDT.
 + ICLR, International Conference on Learning Representations
 	- https://iclr.cc
 	- https://iclr.cc/Conferences/2020
@@ -234,8 +242,10 @@ Transparency
 	- June 2-7, 2019
 	- Submission deadlines: December 3-10, 2018.
 + NeurIPS (formerly NIPS), Annual Conference on Neural Information Processing Systems (NeurIPS 2020)
+	- https://nips.cc/Conferences/2020
 	- https://nips.cc/
 	- Vancouver, Canada.
+	- December 6 and 12, 2020.
 	- Submission deadline: ???**May 16 and 23, 2019.**???
 + PAMI ???
 	- Basically, this refers to PAMITC Sponsored Conferences, such as CVPR and ICCV.
@@ -254,19 +264,21 @@ Transparency
 + SIGGRAPH, ACM special interest group on Computer GRAPHics and Interactive Techniques
 	- International Conference on Computer Graphics and Interactive Techniques
 	- https://s2020.siggraph.org/
+	- July 19-23, 2020.
 	- Washington, D.C..
 	- Submission deadlines:
-		* [Technical papers: January 22 and 24, 2020](https://s2020.siggraph.org/submissions/)
-		* [Emerging Technologies: February 12, 2019.](https://s2019.siggraph.org/conference/programs-events/emerging-technologies/emerging-technologies-submissions/) ***???Update this???***
+		* [Technical papers: January 22, 23, and 24, 2020](https://s2020.siggraph.org/submissions/)
+		* ***[Emerging Technologies: February 11, 2020.](https://s2020.siggraph.org/submissions/emerging-technologies-submissions/)***
 		* Art Papers:
 			+ Long Papers: 14 Jan 2020, 22:00 UTC
 			+ Short Papers 23 Jan 2020, 22:00 UTC
-			+ ["The SIGGRAPH Art Papers program brings together communities of researchers and practitioners working at the intersections of art, design, humanities, science, and technology."](https://s2019.siggraph.org/conference/programs-events/art-papers/art-papers-submissions/)
+			+ ["The SIGGRAPH Art Papers program brings together communities of researchers and practitioners working at the intersections of art, design, humanities, science, and technology."](https://s2020.siggraph.org/submissions/)
 + SIGIR, ACM International Conference on Research and Development in Information Retrieval
 	- ACM SIGIR Conference on Research and Development in Information Retrieval
-	- URL
-	- VENUE
-	- Submission deadline: Late Jan, 2019.
+	- https://sigir.org/sigir2020/
+	- July 25-30, 2020.
+	- Xi'an, China.
+	- Submission deadline: January 15 and 22, 2019.
 + SIGMOD, ACM Symposium on Principles of Database Systems (PODS)
 	- SIGMOD/PODS International Conference on Management of Data
 	- https://sigmod2020.org/
@@ -308,21 +320,23 @@ Transparency
 	- Submission deadline: April 5, 2019. ??? Update CFP deadline.???
 + VIS, IEEE Visualization Conference
 	- IEEE Conference on Visual Analytics Science & Technology (VAST)
-		* http://ieeevis.org/year/2019/info/call-participation/vast-paper-types
+		* http://ieeevis.org/year/2020/info/call-participation/vast-paper-types
 	- IEEE Conference on Information Visualization (InfoVis)
-		* http://ieeevis.org/year/2019/info/call-participation/infovis-paper-types
+		* http://ieeevis.org/year/2020/info/call-participation/infovis-paper-types
 	- IEEE Conference on Scientific Visualization (SciVis)
-		* http://ieeevis.org/year/2019/info/call-participation/scivis-paper-types
-	- http://ieeevis.org/year/2019/info/call-participation/call-for-participation
-	- http://ieeevis.org/year/2019/welcome
+		* http://ieeevis.org/year/2020/info/call-participation/scivis-paper-types
+			+ ***Includes computer hardware for scientific visualization.***
+	- http://ieeevis.org/year/2020/info/call-participation/call-for-participation
+	- http://ieeevis.org/year/2020/welcome
 	- http://ieeevis.org/year/2019/info/open-practices/open-practices
-	- October 20-25, 2019
-	- Vancouver, Canada
+	- October 25-30, 2020.
+	- Salt Lake City, UT.
 	- Submission deadlines: March 21 and 31, 2019.
 + WCCI, IEEE World Congress on Computational Intelligence (IEEE WCCI)
 	- https://wcci2020.org
 	- Conference dates: July 19-24, 2020.
-	- Submission deadline: January 15, 2020.
+	- Glasgow, U.K..
+	- Submission deadline: ~~January 15, 2020.~~ January 30, 2020 (extended).
 	- Includes:
 		* International Joint Conference on Neural Networks (IJCNN)
 		* IEEE Congress on Evolutionary Computation (IEEE CEC)
@@ -427,19 +441,23 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 Upcoming Submission deadlines:
 + [ICS](https://ics2020.bsc.es/): January 24 and 31, 2020.
 + ***[CAV](http://i-cav.org/2020/call-for-papers/): ~~January 23, 2020~~ January 28, 2020.***
++ [IEEE WCCI - IJCNN](https://wcci2020.org/calls/#call-for-papers): January 30, 2020.
 + RAW: https://raw.necst.it/
 + ***[SIGMETRICS](https://www.sigmetrics.org/sigmetrics2020/call_for_papers.html): January 27 and February 3, 2020.***
 + ***[ICML](https://icml.cc/Conferences/2020/CallForPapers): Submission deadline: January 30 and February 6, 2020, AoE.***
 + ***[Facebook proposal](https://research.fb.com/programs/research-awards/proposals/towards-on-device-ai-request-for-proposals/): February 3, 2020 at 11:59 p.m., U.S. PST***
 + [BigData 2020](http://www.bigdatacongress.org/2020/cfp.html): February 5, 2020.
 + SPAA: Submission deadline: February 7 and 15, 2020.
-+ [Crypto 2020](https://crypto.iacr.org/2020/): February 11, 2020.
 + [CSF2020](https://www.ieee-security.org/TC/CSF2020/): February 7, 2020.
 + [Symposia on VLSI Technology and Circuits](http://vlsisymposium.org): February 10, 2019.
++ [Crypto 2020](https://crypto.iacr.org/2020/): February 11, 2020.
++ [SIGGRAPH emerging technologies paper submission](https://s2020.siggraph.org/submissions/emerging-technologies-submissions/): February 11, 2020.
 + USENIX Security: February 15, 2020.
-+ ISMM: https://conf.researchr.org/home/ismm-2020
-+ ISLPED: http://www.islped.org/2020/
++ [ISMM](https://conf.researchr.org/track/ismm-2020/ismm-2020): February 28, 2020.
++ [ISLPED](http://www.islped.org/2020/): March 2 and 9, 2020.
 + ***[ECCV](https://eccv2020.eu/important-dates/): March 5, 2020.***
++ [OOPSLA](https://2020.splashcon.org/track/splash-2020-oopsla): April 15, 2019.
++ [SPLASH Onward! papers](https://2020.splashcon.org/): April 17 and 23, 2020.
 
 
 
@@ -447,10 +465,16 @@ Important information about time zones:
 + [AoE – Anywhere on Earth (Standard Time)](https://www.timeanddate.com/time/zones/aoe)
 	- "Anywhere on Earth (AoE) is 12 hours behind Coordinated Universal Time (UTC)."
 	- UTC -12
-+ U.S. central time zones, from the Midwest (West North Central states, and some East North Central states) to the West South Central States.
++ U.S. Eastern time zones
+	- EST: UTC -5
+	- EDT: UTC -4
++ U.S. Central time zones, from the Midwest (West North Central states, and some East North Central states) to the West South Central States.
  	- CST: UTC -6.
 	- CDT: UTC -5.
 	- See [List of regions of the United States](https://en.wikipedia.org/wiki/List_of_regions_of_the_United_States).
++ U.S. Mountain Time Zone, MT
+	- MST – Mountain Standard Time / Mountain Time (Standard Time): UTC -7
+	- MDT – Mountain Daylight Time (Daylight Saving Time): UTC -6
 + [Pacific Time Zone (PT)](https://en.wikipedia.org/wiki/Pacific_Time_Zone), for the [(West) Pacific States](https://en.wikipedia.org/wiki/Pacific_states)
 	- PST: UTC -8.
 	- PDT: UTC -7.
@@ -2989,10 +3013,11 @@ List of conference "Call for Papers" deadlines:
 
 
 + ISMM, ACM SIGPLAN International Symposium on Memory Management
+	- https://conf.researchr.org/series/ismm
 	- https://www.sigplan.org/Conferences/ISMM/
 	- London, U.K..
 	- June 16, 2020.
-	- Submission deadline: February 22, 2019.
+	- Submission deadline: February 28, 2020.
 
 
 
@@ -3023,7 +3048,7 @@ List of conference "Call for Papers" deadlines:
 	- http://www.islped.org/2020/
 	- Boston, MA.
 	- August 10-12, 2020.
-	- Submission deadline: March 2 and 9, 2019 (U.S. PST).
+	- Submission deadline: March 2 and 9, 2020, 23:59 hrs, U.S. PST.
 
 
 
