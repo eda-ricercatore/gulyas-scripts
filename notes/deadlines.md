@@ -173,7 +173,7 @@ Transparency
 	- https://icml.cc/Conferences/2020/CallForPapers
 	- https://icml.cc/Conferences/2020/Dates
 	- Long Beach, CA.
-	- Submission deadline: **January 31 and February 7, 2020.**
+	- Submission deadline: **January 30 and February 6, 2020, AoE.**
 + ICPR, International Conference on Pattern Recognition
 	- https://www.micc.unifi.it/icpr2020/
 	- Venue: Milan, Italy.
@@ -422,12 +422,14 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 + ***Meet the [Facebook](https://research.fb.com/programs/research-awards/proposals/distributed-systems-research-request-for-proposals/) Deadline!!!
 
 
+
+
 Upcoming Submission deadlines:
 + [ICS](https://ics2020.bsc.es/): January 24 and 31, 2020.
 + ***[CAV](http://i-cav.org/2020/call-for-papers/): ~~January 23, 2020~~ January 28, 2020.***
 + RAW: https://raw.necst.it/
 + ***[SIGMETRICS](https://www.sigmetrics.org/sigmetrics2020/call_for_papers.html): January 27 and February 3, 2020.***
-+ ***[ICML](https://icml.cc/Conferences/2020/CallForPapers): Submission deadline: January 31 and February 7, 2020.***
++ ***[ICML](https://icml.cc/Conferences/2020/CallForPapers): Submission deadline: January 30 and February 6, 2020, AoE.***
 + ***[Facebook proposal](https://research.fb.com/programs/research-awards/proposals/towards-on-device-ai-request-for-proposals/): February 3, 2020 at 11:59 p.m., U.S. PST***
 + [BigData 2020](http://www.bigdatacongress.org/2020/cfp.html): February 5, 2020.
 + SPAA: Submission deadline: February 7 and 15, 2020.
@@ -438,6 +440,25 @@ Upcoming Submission deadlines:
 + ISMM: https://conf.researchr.org/home/ismm-2020
 + ISLPED: http://www.islped.org/2020/
 + ***[ECCV](https://eccv2020.eu/important-dates/): March 5, 2020.***
+
+
+
+Important information about time zones:
++ [AoE – Anywhere on Earth (Standard Time)](https://www.timeanddate.com/time/zones/aoe)
+	- "Anywhere on Earth (AoE) is 12 hours behind Coordinated Universal Time (UTC)."
+	- UTC -12
++ U.S. central time zones, from the Midwest (West North Central states, and some East North Central states) to the West South Central States.
+ 	- CST: UTC -6.
+	- CDT: UTC -5.
+	- See [List of regions of the United States](https://en.wikipedia.org/wiki/List_of_regions_of_the_United_States).
++ [Pacific Time Zone (PT)](https://en.wikipedia.org/wiki/Pacific_Time_Zone), for the [(West) Pacific States](https://en.wikipedia.org/wiki/Pacific_states)
+	- PST: UTC -8.
+	- PDT: UTC -7.
+	- See [List of regions of the United States](https://en.wikipedia.org/wiki/List_of_regions_of_the_United_States).
++ Central Europe
+	- CET – Central European Time / European Central Time (Standard Time): UTC +1
+	- CEST – Central European Summer Time (Daylight Saving Time): UTC +2
+
 
 
 
