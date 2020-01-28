@@ -466,6 +466,11 @@ Upcoming Submission deadlines:
 
 
 
+
+
+
+
+
 Important information about time zones:
 + [AoE – Anywhere on Earth (Standard Time)](https://www.timeanddate.com/time/zones/aoe)
 	- "Anywhere on Earth (AoE) is 12 hours behind Coordinated Universal Time (UTC)."
@@ -2307,6 +2312,21 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ MSR, International Conference on Mining Software Repositories
+	- https://2020.msrconf.org/
+	- https://2020.msrconf.org/track/msr-2020-papers
+	- May 25-26, 2020.
+	- Yongsan-gu, Seoul, South Korea.
+	- Submission deadlines: January 9 and 16, 2020.
+	- Mining Challenge
+		* https://2020.msrconf.org/track/msr-2020-mining-challenge
+		* Submission deadlines: January 20 and February, 2020.
+
+
+
+
+
+
 
 
 + ASYNC, IEEE International Symposium on Asynchronous Circuits and Systems
@@ -3476,10 +3496,14 @@ List of conference "Call for Papers" deadlines:
 
 + ICCAD, International Conference On Computer Aided Design
 	- https://iccad.com/
-	- [CFP](https://iccad.com/2019_call_for_papers): https://iccad.com/sites/iccad.com/files/ICCAD%202019%20Call%20for%20Papers.pdf
+	- [CFP](https://iccad.com/2020_call_for_papers)
 	- San Diego, CA.
 	- November 2-5, 2020.
-	- Submission deadline: April 1 and 8, 2019.????
+	- Submission deadline: May 21 and 28, 2020.
+
+
+
+
 
 
 
