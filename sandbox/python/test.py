@@ -115,7 +115,8 @@ import utilities.timing_measurements
 from utilities.timing_measurements.get_factorial import calculate_factorial
 #	Module to measure the current time.
 # Package and module to perform date and time operations.
-from utilities.timing_measurements.performance_measurement_no_ns import execution_time_measurement
+from utilities.timing_measurements.performance_measurement_no_ns import execution_time_measurement_no_ns
+from utilities.timing_measurements.performance_measurement import execution_time_measurement
 
 
 # Main method for the program.
@@ -126,3 +127,6 @@ if __name__ == "__main__":
 	print("Compare techniques for measuring elapsed periods.")
 	print("")
 	execution_time_measurement.compare_different_methods_to_measure_elapsed_periods()
+	print("==================================================")
+	print("==================================================")
+	execution_time_measurement_no_ns.compare_different_methods_to_measure_elapsed_periods()

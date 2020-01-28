@@ -44,6 +44,8 @@
 	warnings	Raise warnings.
 	re			Use regular expressions.
 	filecmp		For file comparison.
+	calendar	To perform perform operations regarding calendars.
+	datetime	To perform perform operations regarding date and time.
 """
 
 import sys
@@ -55,6 +57,10 @@ import warnings
 import re
 import filecmp
 import calendar
+import datetime
+
+
+
 
 
 ###############################################################
@@ -264,3 +270,22 @@ class date_time_operations:
 		filename, filename_extension = os.path.splitext(filename)
 		tokens = filename.split("-")
 		return (date_time_operations.is_valid_date(int(tokens[0]),int(tokens[1]),int(tokens[2])) and date_time_operations.is_valid_time(int(tokens[3]),int(tokens[4]),int(tokens[5]),int(tokens[6])))
+	# ============================================================
+	##	Method to generate a string containing information about
+	#		the current date and time in the following format:
+	#		Month-Day-Year-Hour-Minute-Seconds
+	#	@param - None.
+	#	@return string containing information about the current
+	#		date and time in the aforementioned format.
+	#
+	#	#### TO BE COMPLETED
+	#	Provide test cases for the output of this function.
+	@staticmethod
+	def get_current_date_time():
+		# Get the current date & time in the aforementioned format.
+		current_date_time = datetime.datetime.now().strftime("%m-%d-%y-%H-%M-%S")
+		# Check if this output is an instance of the string class. 
+		if not isinstance(current_date_time, str):
+			# No. Raise an exception to inform user of the error.
+			raise Exception("= current_date_time is not a string instance!")
+		return current_date_time

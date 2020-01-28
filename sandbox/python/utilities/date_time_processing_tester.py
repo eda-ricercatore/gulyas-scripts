@@ -66,7 +66,7 @@ import filecmp
 	Package and module to print statistics of software testing
 		results.
 """
-from statistics.test_statistics import statistical_analysis
+from statistic_pkg.test_statistics import statistical_analysis
 # Package and module to process input arguments to the script/program.
 from utilities.queue_ip_arguments import queue_ip_args
 # Package and module to perform date and time operations.
@@ -88,6 +88,7 @@ from utilities.generate_results_filename import generate_filename
 class date_time_operations_tester:
 	## =========================================================
 	#	Method to test the methods that perform time operations.
+	#	@param - None.
 	#	@return - Nothing.
 	#	O(1) method.
 	@staticmethod
@@ -161,6 +162,7 @@ class date_time_operations_tester:
 			print(prompt .format("FAIL!!!"))
 	## =========================================================
 	#	Method to test method that determines if year is valid.
+	#	@param - None.
 	#	@return - Nothing.
 	#	O(1) method.
 	@staticmethod
@@ -196,6 +198,7 @@ class date_time_operations_tester:
 			print(prompt .format("FAIL!!!"))
 	## =========================================================
 	#	Method to test method that determines if month is valid.
+	#	@param - None.
 	#	@return - Nothing.
 	#	O(1) method.
 	@staticmethod
@@ -232,6 +235,7 @@ class date_time_operations_tester:
 	## =========================================================
 	#	Method to test method that determines if the date/day of
 	#		a 31-day month is valid.
+	#	@param - None.
 	#	@return - Nothing.
 	#	O(1) method.
 	@staticmethod
@@ -275,6 +279,7 @@ class date_time_operations_tester:
 	## =========================================================
 	#	Method to test method that determines if the date/day of
 	#		a 30-day month is valid.
+	#	@param - None.
 	#	@return - Nothing.
 	#	O(1) method.
 	@staticmethod
@@ -318,6 +323,7 @@ class date_time_operations_tester:
 	## =========================================================
 	#	Method to test method that determines if the date/day of
 	#		February is valid.
+	#	@param - None.
 	#	@return - Nothing.
 	#	O(1) method.
 	@staticmethod
@@ -346,6 +352,7 @@ class date_time_operations_tester:
 			print(prompt .format("FAIL!!!"))
 	## =========================================================
 	#	Method to test the methods that perform date operations.
+	#	@param - None.
 	#	@return - Nothing.
 	#	O(1) method.
 	@staticmethod
@@ -503,6 +510,7 @@ class date_time_operations_tester:
 	## =========================================================
 	#	Method to test the method that tokenizes a filename in
 	#		the DD-MM-YY-HR-MN-SS-US format.
+	#	@param - None.
 	#	@return - Nothing.
 	#	O(1) method.
 	@staticmethod
@@ -536,7 +544,8 @@ class date_time_operations_tester:
 			print(prompt .format("FAIL!!!"))
 	## =========================================================
 	#	Method to test the methods that perform date and time
-	#       operations.
+	#		operations.
+	#	@param - None.
 	#	@return - Nothing.
 	#	O(1) method.
 	@staticmethod

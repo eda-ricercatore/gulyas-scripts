@@ -148,6 +148,8 @@ class file_io_operations:
 			raise Exception("File Write Operation: Path to file is valid.")
 	# ============================================================
 	##	Method to open a new file object for write/output operations.
+	#	If a file exists with the name "filename", delete the file
+	#		and overwrite the file.
 	#	@param filename - Path to a file.
 	#	@return file object op_file_obj that enables writing to the
 	#		file named "filename".

@@ -98,7 +98,7 @@ import calendar
 	Package and module to print statistics of software testing
 		results.
 """
-from statistics.test_statistics import statistical_analysis
+from statistic_pkg.test_statistics import statistical_analysis
 
 # Package and module to generate filename with time stamp.
 from utilities.generate_results_filename import generate_filename

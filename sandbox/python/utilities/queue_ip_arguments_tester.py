@@ -75,7 +75,7 @@ import warnings
 	Package and module to print statistics of software testing
 		results.
 """
-from statistics.test_statistics import statistical_analysis
+from statistic_pkg.test_statistics import statistical_analysis
 # Package and module to process input arguments to the script/program.
 from utilities.queue_ip_arguments import queue_ip_args
 
@@ -94,6 +94,7 @@ class queue_ip_args_tester:
 	## =========================================================
 	#	Method to test the O(1) methods that print information
 	#		to the standard output, or are accessor methods.
+	#	@param - None.
 	#	@return - Nothing.
 	#	O(1) method.
 	#	O(n) in terms of the number of input arguments.
@@ -258,6 +259,7 @@ class queue_ip_args_tester:
     ## =========================================================
 	#	Method to test if the user wants to read the brief user
 	#		manual.
+	#	@param - None.
 	#	@return - Nothing.
 	#	O(1) method.
 	@staticmethod
@@ -317,6 +319,7 @@ class queue_ip_args_tester:
 			statistical_analysis.increment_number_test_cases_passed()
 	## =========================================================
 	#	Method to test the processing of the 1st & 2nd input arguments.
+	#	@param - None.
 	#	@return - Nothing.
 	#	O(1) method.
 	@staticmethod
@@ -399,6 +402,7 @@ class queue_ip_args_tester:
 	## =========================================================
 	#	Method to test methods that process input arguments to
 	#		the software.
+	#	@param - None.
 	#	@return - Nothing.
 	#	O(1) method.
 	@staticmethod

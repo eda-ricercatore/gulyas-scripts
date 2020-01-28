@@ -5,9 +5,9 @@
 		the factorial of a number.
 
 	The results for this script are compared to the table of
-		factorials in \cite{Pierce2019}, and validated/verified
+		factorials in \cite{Pierce2019a}, and validated/verified
 		for factorials from 0.
-	This script 
+	
 
 	Synopsis:
 	Calculate the factorial of a number.
@@ -20,11 +20,30 @@
 						factorial of.
 
 
+
+	Notes/Assumptions:
+	+ Only the factorials of non-negative integers can be computed.
+	+ If the input to the iterative or recursive factorial function
+		is a negative number, not an integer (e.g., floating-point
+		number), not a number (e.g., a string), return the "None"
+		object for the method caller to process.
+		- This avoids having to raise exceptions when users try
+			to determine the factorial of anything that is not a
+			non-negative integer.
+		- See references on exception safety \cite{Abrahams1998,Abrahams2001,WikipediaContributors2016f} \cite[Subsection 4.4 on ``Writing exception safe code'']{WikibooksContributors2016}.
+
+
+
+
+
 	Revision History:
 	September 6, 2019			Version 0.1	Script.
 
+
+
+
 	References:
-		[Pierce2019]
+		[Pierce2019a]
 			Rod Pierce, "Factorial Function," from Maths Is Fun, 2019. Available online from "Maths Is Fun: Numbers" at: https://www.mathsisfun.com/numbers/factorial.html; September 19, 2019 is the last access date.
 				[No address]
 				https://www.mathsisfun.com/citation.php
@@ -98,7 +117,28 @@ class calculate_factorial:
 	##	Method to process the optional input argument.
 	#	If the number is not provided, use the value of "default_number".
 	#	@return - Nothing.
-	#	O(1) method.
+	#	O(n) method, where "n" is the number of inputs.
+	#		Since "n" is small, this method is effectively O(1).
+	#	@deprecated
+	#
+	#	IMPORTANT NOTES:
+	#	+ Not automatically tested, since the varied usage of this
+	#		Python module means that the "import" statement for
+	#		this Python module would vary depending on the context
+	#		and software architecture that it is used in.
+	#	+ E.g., using this module in the current
+	#		"utilities/timing_measurements" subpackage would cause
+	#		problems using this Python module in the "utilities"
+	#		package or using it without being embedded in any
+	#		package, since the paths for importing this module
+	#		would differ and have to be updated.
+	#	+ As a result, it is tedious to automatically update this
+	#		script to reflect the current path of using this
+	#		Python module to automatically test this from the
+	#		command line via the "Terminal".
+	#	+ If people would not be regularly using this script from
+	#		the command line, I do not need to test this method
+	#		to process command-line input arguments.
 	@staticmethod
 	def process_optional_input_argument():
 		# If the path to the README file is not specified

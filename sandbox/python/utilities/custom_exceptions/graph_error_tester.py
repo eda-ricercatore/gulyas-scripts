@@ -72,7 +72,7 @@ from shutil import copyfile
 	Package and module to print statistics of software testing
 		results.
 """
-from statistics.test_statistics import statistical_analysis
+from statistic_pkg.test_statistics import statistical_analysis
 """
 	Package and module to throw/raise the custom exception
 		graph_exception.

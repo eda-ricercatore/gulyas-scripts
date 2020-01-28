@@ -112,7 +112,7 @@ from utilities.timing_measurements.get_factorial import calculate_factorial
 			specifically, so that this Python module can be kept
 			simple and short.
 """
-class execution_time_measurement:
+class execution_time_measurement_tester:
 	# Invalid timestamp.
 	invalid_timestamp = -123456789012345678901234567890
 	# Initial timestamp.
