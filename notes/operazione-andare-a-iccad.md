@@ -39,6 +39,9 @@ Flags for work-in-progress:
 
 
 
+
+
+
 ##	To-Do List
 
 
@@ -48,9 +51,17 @@ Flags for work-in-progress:
 + [x] **Reference machine learning libraries!!!**
 + [x] Libraries associated with NumFOCUS.
 + [x] Clear *Safari* tabs.
-+ [ ] Clear *Chrome* tabs.
++ [x] Clear *Chrome* tabs.
 + [x] Fix git "push" operation.
 + [x] Fix hg "push" operation.
++ [ ] utilities package
+	- [ ] 
++ workflow for data science application in teaching intervention
+	- [x] username generation
+	- [ ] dataset generation
+	- [ ] application of machine learning techniques
+		* regression analysis
+		* clustering
 + [ ] Graph
 	- [x] Synthesize functions/methods/behavior and attributes/fields/properties that have to exist for all graphs, all directed graphs, and all undirected graphs. COMPLETE THIS!!!!
 	- [x] Fix functions for directed and undirected graphs.
@@ -697,12 +708,16 @@ Flags for work-in-progress:
 
 
 
-
-
-
-
-
-
+References for:
++ circuit simulation:
+	- \cite{Keiter2019}
+	- \cite{Keiter2019a}
++ quantum computing with D-Wave:
+	- \cite{DWaveSystemsStaff2019a}
++ correlative learning:
+	- \cite{Chen2007c}
++ data science for teaching intervention:
+	- Assignment1-19C.pdf
 
 
 
