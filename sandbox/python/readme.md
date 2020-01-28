@@ -20,6 +20,7 @@ This is a sandbox, for trying out different concepts with "throwaway" scripts, f
 + [error management and exception handling](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/python/h-error-management)
 	- [printing error messages to standard error, and providing warning messages](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/h-error-management/e-print-error-output.py)
 	- [exception handling](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/h-error-management/my_exception_handling.py)
+	- [catching warnings just like catching exceptions]()
 + [file input/output (I/O) operations](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/python/file-io)
 	- [file formats](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/python/file-io/q-file-formats)
 		* [JSON file operations](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/python/file-io/q-file-formats/json-files)
