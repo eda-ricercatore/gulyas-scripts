@@ -55,7 +55,12 @@ Flags for work-in-progress:
 + [x] Fix git "push" operation.
 + [x] Fix hg "push" operation.
 + [ ] utilities package
-	- [ ] 
+	- [ ] timing_measurements subpackage
+		* [ ] get_factorial.py
+		* [ ] performance_measurement_no_ns.py
+		* [ ] performance_measurement.py
++ [ ] statistic_pkg
+	- [ ] data_analysis_tool.py
 + workflow for data science application in teaching intervention
 	- [x] username generation
 	- [ ] dataset generation
