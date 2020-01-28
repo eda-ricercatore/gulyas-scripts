@@ -35,17 +35,10 @@ if __name__ == "__main__":
 	print("==================================================")
 	print("Calculate the factorial of a given number.")
 	with warnings.catch_warnings(record=True) as w:
-		# Cause all warnings to always be triggered.
-		#warnings.simplefilter("always")
 		# Trigger a warning.
 		prompt = "= Test: get_factorial_iteration('This is a string!')	{}."
 		if None == get_factorial_recursion('This is a string!'):
 			print(prompt .format("OK"))
 		else:
 			print(prompt .format("FAIL!!!"))
-		"""
-		# Verify some things
-		assert len(w) == 1
-		assert issubclass(w[-1].category, DeprecationWarning)
-		assert "deprecated" in str(w[-1].message)
-		"""
+		
