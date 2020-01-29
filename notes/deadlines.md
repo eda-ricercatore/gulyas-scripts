@@ -439,7 +439,6 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 
 
 Upcoming Submission deadlines:
-+ ***[CAV](http://i-cav.org/2020/call-for-papers/): ~~January 23, 2020~~ January 28, 2020.***
 + [IEEE WCCI - IJCNN](https://wcci2020.org/calls/#call-for-papers): January 30, 2020.
 + [The FATE of AI in Education: Fairness, Accountability, Transparency, and Ethics, A Special Issue of the International Journal of Artificial Intelligence in Education (IJAIED)](https://sites.google.com/view/thefateofaied): abstract submission deadline: January 31, 2020 (not required); and deadline for paper submission: March 30, 2020.
 + ***[SIGMETRICS](https://www.sigmetrics.org/sigmetrics2020/call_for_papers.html): January 27 and February 3, 2020.***
