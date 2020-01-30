@@ -69,6 +69,12 @@ This is a sandbox, for trying out different concepts with "throwaway" scripts, f
 	- [current time measurement methods -- ***code that is used by my Python programs/software/scripts***](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/python/utilities/timing_measurements)
 		* [script in the *Python* sandbox directory to test the current time measurement methods](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/test.py)
 		* [additional scripts to try concepts related to date and time processing](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/python/time-processing)
+			+ [Script demonstrating that methods of timing measurements should not be combined to find elapsed time](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/time-processing/a_combined_measurement_techniques.py)
+				- "Acceptable" combinations are:
+					* perf_counter and monotonic
+					* perf_counter_ns and monotonic_ns
+				- All other combinations are not acceptable.
+				- In general, avoid combining methods of timing measurements.
 + [version control, revision control, and software configuration management](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/python/revision-ctrl)
 + [VLSI design](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/python/vlsi)
 	- [*n*-bit adders](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/vlsi/adder.ipynb)
