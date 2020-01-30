@@ -182,6 +182,15 @@ class execution_time_measurement:
 			# The default option is: "monotonic_ns()"
 			execution_time_measurement.initial_timestamp = pm_monotonic_ns()
 	# ============================================================
+	##	Method to reset the initial timestamp to "invalid_timestamp".
+	#
+	#	@param - None.
+	#	@return - Nothing.
+	#	O(1) method.
+	@staticmethod
+	def reset_initial_timestamp():
+		execution_time_measurement.initial_timestamp = execution_time_measurement.invalid_timestamp
+	# ============================================================
 	##	Method to get the initial timestamp.
 	#	@return the initial timestamp.
 	#	O(1) method.

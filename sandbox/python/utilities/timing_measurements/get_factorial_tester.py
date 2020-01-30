@@ -384,6 +384,6 @@ class calculate_factorial_tester:
 			Add whitespace before testing the factorial computation
 				method using recursion.
 		"""
-		print("\n")
+		print("")
 		calculate_factorial_tester.test_get_factorial_recursion()
-		print("\n")
+		print("")
