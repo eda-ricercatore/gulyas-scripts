@@ -530,6 +530,7 @@ List of conference "Call for Papers" deadlines:
 + [AI Conference Deadlines Tweet](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM)
 + [2019-2020 International Conferences in Artificial Intelligence, Machine Learning, Computer Vision, Data Mining, Natural Language Processing and Robotics; Jackie Tseng, TCVIL Lab](https://jackietseng.github.io/conference_call_for_paper/conferences.html)
 + [Calendar of Computer Image Analysis, Computer Vision Conferences](http://conferences.visionbib.com/Iris-Conferences.html)
++ [Formal Methods and Software Technology](http://user.it.uu.se/~bengt/Info/conferences.shtml)
 
 
 **Operation Go-to-ASPLOS in progress.**
@@ -584,8 +585,8 @@ List of conference "Call for Papers" deadlines:
 + FMCAD, International Conference on Formal Methods in Computer-Aided Design
 	- https://fmcad.forsyte.at/FMCAD20/
 	- Haifa, Israel.
-	- September 21-24, 2019.
-	- Submission deadline: April 9 and 16, 2019.
+	- September 21-24, 2020.
+	- Submission deadline: April 9 and 16, 2020.
 
 
 + ICRC, IEEE International Conference on Rebooting Computing
@@ -1680,6 +1681,19 @@ List of conference "Call for Papers" deadlines:
 	- Montpellier, France
 	- March 10—13, 2020
 	- Submission deadline: September 30, 2019.
+
+
+
+
+
++ VMCAI, International Conference on Verification, Model Checking, and Abstract Interpretation
+	- https://popl20.sigplan.org/home/VMCAI-2020#Call-for-Papers
+	- January 19-25, 2020.
+	- New Orleans, Louisiana, United States
+	- Submission deadlines: October 1 and 6, 2019.
+
+
+
 
 
 

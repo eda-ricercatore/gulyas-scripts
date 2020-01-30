@@ -201,7 +201,9 @@ class execution_time_measurement_no_ns:
 				Use monotonic() to measure performance/time.
 			"""
 			current_timestamp = pm_monotonic()
-		return (current_timestamp - execution_time_measurement_no_ns.get_initial_timestamp())
+		elapsed_time_no_ns = current_timestamp - execution_time_measurement_no_ns.get_initial_timestamp()
+		execution_time_measurement_no_ns.check_elapsed_time(elapsed_time_no_ns)
+		return elapsed_time_no_ns
 	# ============================================================
 	##	Method to convert seconds to days, hours, minutes, and
 	#		seconds.
@@ -223,6 +225,7 @@ class execution_time_measurement_no_ns:
 	#		* process_time, process_time(): pt_timestamp()
 	#		* time, time.time(): time()
 	#		* monotonic, monotonic(): pm_monotonic()
+	#	Subsequently, it writes the elapsed time to an output file.
 	#	@return - Nothing.
 	#	O(n!) method, where n is the largest number in the
 	#		aforementioned list, since we are measuring the
@@ -272,6 +275,20 @@ class execution_time_measurement_no_ns:
 				text = perf_measurement_technique + "," + str(elapsed_time_recursion) + "," + str(elapsed_time_iteration) + "\n"
 				op_f_obj.write(text)
 				#op_f_obj.write("\n")
+	# ============================================================
+	##	Method to check if the elapsed time is a positive period.
+	#	If the elapsed time is not positive, raise a warning to
+	#		user.
+	#	@param elapsed_time - The elapsed time/period in seconds.
+	#		Let the default value of the elapsed time/period be
+	#			0 second (s).
+	#	@return - Nothing.
+	@staticmethod
+	def check_elapsed_time(elapsed_time=0.0):
+		if 0 >= elapsed_time:
+			warnings.warn("The factorial of a floating-point number cannot be determined.")
+
+
 
 
 ###############################################################

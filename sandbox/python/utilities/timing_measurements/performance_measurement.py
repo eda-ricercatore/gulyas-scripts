@@ -198,6 +198,9 @@ class execution_time_measurement:
 	#				* monotonic, monotonic(): pm_monotonic()
 	#				* monotonic_ns, monotonic_ns(): pm_monotonic_ns()
 	#	@return the elapsed time from the initial timestamp.
+	#	@postcondition - (elapsed time > 0) shall always be true.
+	#		Since methods can have microsecond, or even
+	#			nanosecond precision,
 	#	O(1) method.
 	@staticmethod
 	def get_elapsed_time(type_timestamp="monotonic_ns"):
@@ -240,7 +243,9 @@ class execution_time_measurement:
 				Use monotonic_ns() to measure performance/time.
 			"""
 			current_timestamp = pm_monotonic_ns()
-		return (current_timestamp - execution_time_measurement.get_initial_timestamp())
+		elapsed_time_in_ns = current_timestamp - execution_time_measurement.get_initial_timestamp()
+		execution_time_measurement.check_elapsed_time(elapsed_time_in_ns)
+		return elapsed_time_in_ns
 	# ============================================================
 	##	Method to convert seconds to days, hours, minutes, and
 	#		seconds.
@@ -266,6 +271,7 @@ class execution_time_measurement:
 	#		* time_ns, time.time_ns(): time_ns()
 	#		* monotonic, monotonic(): pm_monotonic()
 	#		* monotonic_ns, monotonic_ns(): pm_monotonic_ns()
+	#	Subsequently, it writes the elapsed time to an output file.
 	#	@return - Nothing.
 	#	O(n!) method, where n is the largest number in the
 	#		aforementioned list, since we are measuring the
@@ -315,6 +321,20 @@ class execution_time_measurement:
 				text = perf_measurement_technique + "," + str(elapsed_time_recursion) + "," + str(elapsed_time_iteration) + "\n"
 				op_f_obj.write(text)
 				#op_f_obj.write("\n")
+	# ============================================================
+	##	Method to check if the elapsed time is a positive period.
+	#	If the elapsed time is not positive, raise a warning to
+	#		user.
+	#	@param elapsed_time - The elapsed time/period in seconds.
+	#		Let the default value of the elapsed time/period be
+	#			0.0 second (s), or 0 nanosecond (ns), depending
+	#			on the selected method for measuring the current
+	#			time.
+	#	@return - Nothing.
+	@staticmethod
+	def check_elapsed_time(elapsed_time=0):
+		if 0 >= elapsed_time:
+			warnings.warn("The factorial of a floating-point number cannot be determined.")
 
 
 ###############################################################
