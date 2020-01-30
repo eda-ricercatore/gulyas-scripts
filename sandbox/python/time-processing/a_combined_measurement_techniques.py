@@ -97,6 +97,15 @@ from time import monotonic as pm_monotonic
 from time import monotonic_ns as pm_monotonic_ns
 
 
+# =======================================================
+
+"""
+	Perform timing measurements with different methods and
+		determine their elapsed time (or differences).
+"""
+
+print("==================================================")
+
 # Time units in seconds (s).
 initial_timestamp = pc_timestamp()
 # Time units in nanoseconds (ns).
@@ -112,8 +121,8 @@ initial_timestamp = pt_timestamp()
 # Time units in nanoseconds (ns).
 current_timestamp = pt_timestamp_ns()
 elapsed_time = current_timestamp - initial_timestamp
-print("initial_timestamp via time is:",initial_timestamp,".")
-print("current_timestamp via time_ns is:",current_timestamp,".")
+print("initial_timestamp via process_time is:",initial_timestamp,".")
+print("current_timestamp via process_time_ns is:",current_timestamp,".")
 print("elapsed_time is:",elapsed_time,".")
 print("	Error! Combining time measurements in seconds and nanosecond precision would store their values in different time units.")
 
@@ -126,3 +135,99 @@ print("initial_timestamp via time.time() is:",initial_timestamp,".")
 print("current_timestamp via time.time_ns() is:",current_timestamp,".")
 print("elapsed_time is:",elapsed_time,".")
 print("	Error! Combining time measurements in seconds and nanosecond precision would store their values in different time units.")
+
+# Time units in seconds (s).
+initial_timestamp = pm_monotonic()
+# Time units in nanoseconds (ns).
+current_timestamp = pm_monotonic_ns()
+elapsed_time = current_timestamp - initial_timestamp
+print("initial_timestamp via monotonic is:",initial_timestamp,".")
+print("current_timestamp via monotonic_ns is:",current_timestamp,".")
+print("elapsed_time is:",elapsed_time,".")
+print("	Error! Combining time measurements in seconds and nanosecond precision would store their values in different time units.")
+
+print("")
+print("Conclusion: Cannot combine time measurements in seconds and in nanoseconds.")
+print("")
+
+initial_timestamp = pc_timestamp()
+current_timestamp = pt_timestamp()
+elapsed_time = current_timestamp - initial_timestamp
+print("initial_timestamp via perf_counter is:",initial_timestamp,".")
+print("current_timestamp via process_time is:",current_timestamp,".")
+print("elapsed_time is:",elapsed_time,".")
+print("	Error! Combining time measurements using different methods would cause inaccuracies.")
+print("	Each method of time measurement has its own baseline.")
+print("	Initial non-zero/significant numbers (after adjusting to the same scale, in s or ns) don't match.")
+
+
+initial_timestamp = pc_timestamp()
+current_timestamp = pm_monotonic()
+elapsed_time = current_timestamp - initial_timestamp
+print("initial_timestamp via perf_counter is:",initial_timestamp,".")
+print("current_timestamp via monotonic is:",current_timestamp,".")
+print("elapsed_time is:",elapsed_time,".")
+print("	Combining time measurements using perf_counter and monotonic may work.")
+
+
+initial_timestamp = pc_timestamp_ns()
+current_timestamp = pm_monotonic_ns()
+elapsed_time = current_timestamp - initial_timestamp
+print("initial_timestamp via perf_counter_ns is:",initial_timestamp,".")
+print("current_timestamp via monotonic_ns is:",current_timestamp,".")
+print("elapsed_time is:",elapsed_time,".")
+print("	Combining time measurements using perf_counter_ns and monotonic_ns may work.")
+
+initial_timestamp = pt_timestamp()
+current_timestamp = pm_monotonic()
+elapsed_time = current_timestamp - initial_timestamp
+print("initial_timestamp via process_time is:",initial_timestamp,".")
+print("current_timestamp via monotonic is:",current_timestamp,".")
+print("elapsed_time is:",elapsed_time,".")
+print("	Error! Combining time measurements using different methods would cause inaccuracies.")
+print("	Each method of time measurement has its own baseline.")
+print("	Initial non-zero/significant numbers (after adjusting to the same scale, in s or ns) don't match.")
+print("	Major error!!! Elapsed time is negative!")
+
+
+initial_timestamp = time.time()
+current_timestamp = pm_monotonic()
+elapsed_time = current_timestamp - initial_timestamp
+print("initial_timestamp via time.time() is:",initial_timestamp,".")
+print("current_timestamp via monotonic is:",current_timestamp,".")
+print("elapsed_time is:",elapsed_time,".")
+print("	Error! Combining time measurements using different methods would cause inaccuracies.")
+print("	Each method of time measurement has its own baseline.")
+print("	Initial non-zero/significant numbers (after adjusting to the same scale, in s or ns) don't match.")
+print("	Major error!!! Elapsed time is negative!")
+
+
+initial_timestamp = time.time()
+current_timestamp = pc_timestamp()
+elapsed_time = current_timestamp - initial_timestamp
+print("initial_timestamp via time.time() is:",initial_timestamp,".")
+print("current_timestamp via perf_counter is:",current_timestamp,".")
+print("elapsed_time is:",elapsed_time,".")
+print("	Error! Combining time measurements using different methods would cause inaccuracies.")
+print("	Each method of time measurement has its own baseline.")
+print("	Initial non-zero/significant numbers (after adjusting to the same scale, in s or ns) don't match.")
+print("	Major error!!! Elapsed time is negative!")
+
+
+initial_timestamp = time.time()
+current_timestamp = pt_timestamp()
+elapsed_time = current_timestamp - initial_timestamp
+print("initial_timestamp via time.time() is:",initial_timestamp,".")
+print("current_timestamp via process_time is:",current_timestamp,".")
+print("elapsed_time is:",elapsed_time,".")
+print("	Error! Combining time measurements using different methods would cause inaccuracies.")
+print("	Each method of time measurement has its own baseline.")
+print("	Initial non-zero/significant numbers (after adjusting to the same scale, in s or ns) don't match.")
+print("	Major error!!! Elapsed time is negative!")
+
+print("")
+print("--------------------------------------------------")
+print("Final conclusion:")
+print("'Acceptable' combination: perf_counter and monotonic.")
+print("'Acceptable' combination: perf_counter_ns and monotonic_ns.")
+print("Other combinations do not work.")
