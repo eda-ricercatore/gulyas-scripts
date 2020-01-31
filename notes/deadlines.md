@@ -446,7 +446,7 @@ Upcoming Submission deadlines:
 + [International Workshop on Algorithmic Bias in Search and Recommendation (Bias 2020)](http://bias.disim.univaq.it/): February 3, 2020, 23:59 hrs, AoE.
 + [BigData 2020](http://www.bigdatacongress.org/2020/cfp.html): February 5, 2020.
 + ***[ICML](https://icml.cc/Conferences/2020/CallForPapers): Submission deadline: January 30 and February 6, 2020, AoE.***
-+ SPAA: Submission deadline: February 7 and 15, 2020.
++ [SPAA](http://spaa.acm.org/): Submission deadline: February 7 and 15, 2020.
 + [CSF2020](https://www.ieee-security.org/TC/CSF2020/): February 7, 2020.
 + [RAW](https://raw.necst.it/): February 8, 2020.
 + [Symposia on VLSI Technology and Circuits](http://vlsisymposium.org): February 10, 2019.
