@@ -42,6 +42,11 @@ print("scaled_incre_list is:",scaled_incre_list,".")
 	List comprehension results in faster operations
 		than explicit "for" loops;
 		last accessed January 17, 2020 at 15:34 U.S. CST.
+	
+	Reference:
+	+ [2Ring2014]
+		PM 2Ring, Comment about an answer to `How to multiply all integers inside list [duplicate]', Stack Exchange Inc., New York, NY, October 19, 2014.
+			Available online from Stack Exchange Inc.: Stack Overflow: Questions at: https://stackoverflow.com/questions/26446338/how-to-multiply-all-integers-inside-list/26446349#comment41535602_26446349 (or comment to the answer, https://stackoverflow.com/a/26446349/1531728); January 31, 2020 was the last accessed date.
 """
 scaled_incre_list = [x * scale_factor for x in incre_list]
 print("scaled_incre_list is:",scaled_incre_list,".")
@@ -82,3 +87,94 @@ scale_factor = 3
 s = pd.Series(incre_list)
 scaled_incre_list = (s*scale_factor).tolist()
 print("scaled_incre_list is:",scaled_incre_list,".")
+
+print("#	==============================================")
+
+"""
+	References:
+	+ [Satyaprasad 2019]
+		Sham Satyaprasad and Martijn Pieters, Answer to
+			'Checking if type == list in python',
+			Stack Exchange Inc., New York, NY, July 15, 2019.
+			Available online from Stack Exchange Inc.:
+				Stack Overflow: Questions at:
+				https://stackoverflow.com/a/26544117/1531728;
+				January 31, 2020 was the last accessed date.
+	+ [Garg 20XY]
+		Akshat Garg, "Python | Check if a given object is
+			list or not", GeekstoGeeks, Noida, Uttar Pradesh,
+			India, no date.
+			Available online from Stack Exchange Inc.:
+				Stack Overflow: Questions at:
+				https://www.geeksforgeeks.org/python-check-if-a-given-object-is-list-or-not/
+				January 31, 2020 was the last accessed date.
+"""
+
+# From [Satyaprasad 2019] and [Garg 20XY].
+print("= Check if an object is a list, via isinstance() method.")
+a = [-221, 247, 0, 576372.32604]
+if isinstance(a, list):
+	print("=	a is a list.")
+else:
+	print("=	a is not a list.")
+a = []
+if isinstance(a, list):
+	print("=	a is an empty list.")
+else:
+	print("=	a is not a list; a should be an empty list.")
+a = None
+if not isinstance(a, list):
+	print("=	a is a None object!")
+else:
+	print("=	a is a list??? When it should be a None object.")
+a = "dwefw"
+if not isinstance(a, list):
+	print("=	a is a string object!")
+else:
+	print("=	a is a list??? When it should be a string object.")
+a = ""
+if not isinstance(a, list):
+	print("=	a is an empty string object!")
+else:
+	print("=	a is a list??? When it should be an empty string object.")
+
+
+# From [Garg 20XY]
+print("= Check if an object is a list, via type() method \cite{Garg20XY}.")
+a = [-221, 247, 0, 576372.32604]
+if type(a) is list:
+	print("=	a is a list.")
+else:
+	print("=	a is not a list.")
+a = []
+if type(a) is list:
+	print("=	a is an empty list.")
+else:
+	print("=	a is not a list; a should be an empty list.")
+a = None
+if not type(a) is list:
+	print("=	a is a None object!")
+else:
+	print("=	a is a list??? When it should be a None object.")
+a = "dwefw"
+if not type(a) is list:
+	print("=	a is a string object!")
+else:
+	print("=	a is a list??? When it should be a string object.")
+a = ""
+if not type(a) is list:
+	print("=	a is an empty string object!")
+else:
+	print("=	a is a list??? When it should be an empty string object.")
+
+
+print("= Test if an object is a number object.")
+print("isinstance(10, (int, float, complex):",isinstance(10, (int, float, complex)),".")
+print("isinstance(float('NaN'), (int, float, complex)):",isinstance(float('NaN'), (int, float, complex)),".")
+print("isinstance(float('nan'), (int, float, complex)):",isinstance(float('nan'), (int, float, complex)),".")
+print("isinstance(float('inf'), (int, float, complex)):",isinstance(float('inf'), (int, float, complex)),".")
+print("isinstance(float('-inf'), (int, float, complex)):",isinstance(float('-inf'), (int, float, complex)),".")
+print("isinstance(True, (int, float, complex)) and not isinstance(True, bool):",isinstance(True, (int, float, complex)) and not isinstance(True, bool),".")
+print("NaN, nan, inf, and -inf cannot be cast into integer objects.")
+print("isinstance(complex('5-9j'), (int, float, complex)):",isinstance(complex('5-9j'), (int, float, complex)),".")
+print("isinstance(complex('5-9j'), (int, float)):",isinstance(complex('5-9j'), (int, float)),".")
