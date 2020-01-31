@@ -455,7 +455,7 @@ Upcoming Submission deadlines:
 + [Engaging in Race in HCI](https://sites.google.com/view/raceinhci): February 11, 2020.
 + [Nothing About Us Without Us: Investigating the Role of Critical Disability Studies in HCI](https://katta.mere.st/nothing-about-us-without-us/): February 11, 2020.
 + [Workshop on Artificial Intelligence for HCI: A Modern Approach](https://sites.google.com/view/ai4hci/): February 11, 2020.
-+ USENIX Security: February 15, 2020.
++ [USENIX Security](https://www.usenix.org/conference/usenixsecurity20/call-for-papers): February 15, 2020.
 + [Crime and/or Punishment: Joining the Dots between Crime, Legality and HCI](https://crimehci.wordpress.com/): February 16, 2020.
 + [ISMM](https://conf.researchr.org/track/ismm-2020/ismm-2020): February 28, 2020.
 + [ISLPED](http://www.islped.org/2020/): March 2 and 9, 2020.
