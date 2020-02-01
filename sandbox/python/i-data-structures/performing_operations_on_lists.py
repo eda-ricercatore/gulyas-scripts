@@ -139,7 +139,7 @@ else:
 	print("=	a is a list??? When it should be an empty string object.")
 
 
-# From [Garg 20XY]
+# From [Garg 20XY]. This is a lousy method, and is not reliable. Avoid it.
 print("= Check if an object is a list, via type() method \cite{Garg20XY}.")
 a = [-221, 247, 0, 576372.32604]
 if type(a) is list:
