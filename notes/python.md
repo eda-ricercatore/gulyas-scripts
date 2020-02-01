@@ -530,6 +530,17 @@ Notes on *Python* Classes:
 		* An object of a child class is also an instance of the parent class;
 			hence, using the **isinstance()** method for type/class checking
 			is an inadequate solution \cite[Chapter 7, pp. 140]{Hetland2005}.
+			+ **isinstance()** method for checks if an object is of the
+				specified class or a subclass of the specified class
+				\cite{Saha20XY}
+				- It supports class inheritance
+					\cite{abbot2018,Dewes2018,Dewes2018a,Nyffenegger2018,ParewaLabsStaff20XYb,Saha20XY}
+					\cite[From Built-In Functions: Object Oriented Functions: isinstance]{Przywoski2015}.
+			+ **type()** does not support class inheritance
+				\cite{abbot2018,Dewes2018,Dewes2018a,Nyffenegger2018,ParewaLabsStaff20XYb,Saha20XY}
+				\cite[From Built-In Functions: Object Oriented Functions: isinstance]{Przywoski2015}.
+			+ Developers should use duck typing over checking if an object
+				belongs to a particular type/class \cite{Saha20XY}.
 		* Polymorphism applies to \cite[Chapter 7, pp. 142]{Hetland2005}:
 			+ methods
 			+ built-in operators

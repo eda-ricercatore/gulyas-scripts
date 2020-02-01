@@ -139,7 +139,13 @@ else:
 	print("=	a is a list??? When it should be an empty string object.")
 
 
-# From [Garg 20XY]. This is a lousy method, and is not reliable. Avoid it.
+"""
+	From [Garg 20XY]. This is a lousy method, and is not reliable.
+	Avoid it.
+	
+	For more information and references, see:
+	https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#python-classes
+"""
 print("= Check if an object is a list, via type() method \cite{Garg20XY}.")
 a = [-221, 247, 0, 576372.32604]
 if type(a) is list:
