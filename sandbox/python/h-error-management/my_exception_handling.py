@@ -130,7 +130,7 @@ try:
 except AssertionError:
 	print("	Dealing with AssertionError.")
 except ZeroDivisionError:
-	print("	Dealing with AssertionError.")
+	print("	Dealing with ZeroDivisionError.")
 except:
 	print("	Dealing with generic exception.")
 
@@ -143,7 +143,7 @@ try:
 	print("Test catching a sequence of exceptions; another order.")
 	raise AssertionError("AssertionError e occurred.")
 except ZeroDivisionError:
-	print("	Dealing with AssertionError.")
+	print("	Dealing with ZeroDivisionError.")
 except AssertionError:
 	print("	Dealing with AssertionError.")
 except:
