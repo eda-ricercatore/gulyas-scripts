@@ -443,23 +443,23 @@ Upcoming Submission deadlines:
 + ***[Facebook proposal](https://research.fb.com/programs/research-awards/proposals/towards-on-device-ai-request-for-proposals/): February 3, 2020 at 11:59 p.m., U.S. PST***
 + [BigData 2020](http://www.bigdatacongress.org/2020/cfp.html): February 5, 2020.
 + ***[ICML](https://icml.cc/Conferences/2020/CallForPapers): Submission deadline: January 30 and February 6, 2020, AoE.***
-+ [SPAA](http://spaa.acm.org/): Submission deadline: February 7 and 15, 2020.
-+ [CSF2020](https://www.ieee-security.org/TC/CSF2020/): February 7, 2020.
++ ***[SPAA](http://spaa.acm.org/): Submission deadline: February 7 and 15, 2020.***
++ ***[CSF2020](https://www.ieee-security.org/TC/CSF2020/): February 7, 2020.***
 + [RAW](https://raw.necst.it/): February 8, 2020.
-+ [Symposia on VLSI Technology and Circuits](http://vlsisymposium.org): February 10, 2019.
++ ***[Symposia on VLSI Technology and Circuits](http://vlsisymposium.org): February 10, 2019.***
 + [Crypto 2020](https://crypto.iacr.org/2020/): February 11, 2020.
 + [SIGGRAPH emerging technologies paper submission](https://s2020.siggraph.org/submissions/emerging-technologies-submissions/): February 11, 2020.
 + [Engaging in Race in HCI](https://sites.google.com/view/raceinhci): February 11, 2020.
 + [Nothing About Us Without Us: Investigating the Role of Critical Disability Studies in HCI](https://katta.mere.st/nothing-about-us-without-us/): February 11, 2020.
 + [Workshop on Artificial Intelligence for HCI: A Modern Approach](https://sites.google.com/view/ai4hci/): February 11, 2020.
-+ [USENIX Security](https://www.usenix.org/conference/usenixsecurity20/call-for-papers): February 15, 2020.
++ ***[USENIX Security](https://www.usenix.org/conference/usenixsecurity20/call-for-papers): February 15, 2020.***
 + [Crime and/or Punishment: Joining the Dots between Crime, Legality and HCI](https://crimehci.wordpress.com/): February 16, 2020.
-+ [ISMM](https://conf.researchr.org/track/ismm-2020/ismm-2020): February 28, 2020.
-+ [ISLPED](http://www.islped.org/2020/): March 2 and 9, 2020.
++ *[ISMM](https://conf.researchr.org/track/ismm-2020/ismm-2020): February 28, 2020.*
++ ***[ISLPED](http://www.islped.org/2020/): March 2 and 9, 2020.***
 + ***[ECCV](https://eccv2020.eu/important-dates/): March 5, 2020.***
-+ [ICPR, International Conference on Pattern Recognition](https://www.micc.unifi.it/icpr2020/): ~~March 2, 2020.~~ March 18, 2020, 23:59 European CEST.
++ ***[ICPR, International Conference on Pattern Recognition](https://www.micc.unifi.it/icpr2020/): ~~March 2, 2020.~~ March 18, 2020, 23:59 European CEST.***
 + [The FATE of AI in Education: Fairness, Accountability, Transparency, and Ethics, A Special Issue of the International Journal of Artificial Intelligence in Education (IJAIED)](https://sites.google.com/view/thefateofaied): abstract submission deadline: January 31, 2020 (not required); and deadline for paper submission: March 30, 2020.
-+ [OOPSLA](https://2020.splashcon.org/track/splash-2020-oopsla): April 15, 2019.
++ ***[OOPSLA](https://2020.splashcon.org/track/splash-2020-oopsla): April 15, 2019.***
 + [SPLASH Onward! papers](https://2020.splashcon.org/): April 17 and 23, 2020.
 
 
