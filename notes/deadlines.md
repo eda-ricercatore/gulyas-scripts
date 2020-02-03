@@ -457,6 +457,7 @@ Upcoming Submission deadlines:
 + [ISMM](https://conf.researchr.org/track/ismm-2020/ismm-2020): February 28, 2020.
 + [ISLPED](http://www.islped.org/2020/): March 2 and 9, 2020.
 + ***[ECCV](https://eccv2020.eu/important-dates/): March 5, 2020.***
++ [ICPR, International Conference on Pattern Recognition](https://www.micc.unifi.it/icpr2020/): ~~March 2, 2020.~~ March 18, 2020, 23:59 European CEST.
 + [The FATE of AI in Education: Fairness, Accountability, Transparency, and Ethics, A Special Issue of the International Journal of Artificial Intelligence in Education (IJAIED)](https://sites.google.com/view/thefateofaied): abstract submission deadline: January 31, 2020 (not required); and deadline for paper submission: March 30, 2020.
 + [OOPSLA](https://2020.splashcon.org/track/splash-2020-oopsla): April 15, 2019.
 + [SPLASH Onward! papers](https://2020.splashcon.org/): April 17 and 23, 2020.
