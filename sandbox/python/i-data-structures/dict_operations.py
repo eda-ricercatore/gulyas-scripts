@@ -274,7 +274,56 @@ descending_order_kv_mapping = {
 print("Descending order dictionary with numerical keys and values:",descending_order_kv_mapping,"=")
 print("	Dictionaries are printed with their (key,value) pairs in the order of addition.")
 
+
 empty_dict = {}
 print("Print an empty dictionary:",empty_dict,"=")
 
-print("Dictionary keys have to belong to an immutable type.")
+
+"""
+	From \cite{Sturtz2020}:
+	Basic data types can be used as dictionary keys.
+	They include:
+	+ tuples
+	+ integers
+	+ floats
+	+ strings
+	+ boolean
+	
+	Hence, lists, dictionaries, and sets cannot serve as
+		dictionary keys. 
+"""
+print("Dictionary keys have to belong to a basic data type.")
+print("	Hence, immutable tuples (tuple is a basic data type) can be dictionary keys.")
+my_dict_with_tuples = {(1, 1): 'a', (1, 2): 'b', (2, 1): 'c', (2, 2): 'd'}
+print("	dictionary my_dict_with_tuples:",my_dict_with_tuples,".")
+print("	Accessing dict[(1,1)]:",my_dict_with_tuples[(1,1)],".")
+print("	Accessing dict[(2,1)]:",my_dict_with_tuples[(2,1)],".")
+
+
+my_dict_with_floats = {2.3: 'a', 3.45: 'b', 6.78: 'c', 9.12: 'd'}
+print("dictionary my_dict_with_tuples:",my_dict_with_floats,".")
+print("	Accessing dict[3.45]:",my_dict_with_floats[3.45],".")
+
+my_dict_with_bool = {True: "Ciao tutti!", False: "Buona serata!"}
+print("dictionary my_dict_with_tuples:",my_dict_with_bool,".")
+print("	Accessing dict[False]:",my_dict_with_bool[False],".")
+print("	Accessing dict[3<5]:",my_dict_with_bool[3<5],".")
+
+try:
+	print("Creating a dictionary with lists.")
+	my_dict_with_lists = {[1, 1]: 'a', [1, 2]: 'b', [2, 1]: 'c', [2, 2]: 'd'}
+	print("	dictionary my_dict_with_lists:",my_dict_with_lists,".")
+	print("	Accessing dict[[1,1]]:",my_dict_with_lists[(1,1)],".")
+except TypeError:
+	# TypeError: unhashable type: 'list'
+	print("	Lists cannot be used as dictionary keys.")
+
+
+try:
+	print("Creating a dictionary with a dictionary as a dictionary key.")
+	my_dict_with_dicts = { "Kobe Bryant": 24 }
+	print("	dictionary my_dict_with_dicts:",my_dict_with_dicts,".")
+	print("	Accessing dict['Kobe Bryant']:",my_dict_with_dicts['Kobe Bryant'],".")
+except TypeError:
+	# TypeError: unhashable type: 'list'
+	print("	Lists cannot be used as dictionary keys.")

@@ -1310,6 +1310,37 @@ Pages in \cite{Hetland2005} that deal with importing
 
 
 
+###	Data Types
+
+Immutable data types are \cite{Sturtz2020}:
++ tuples
+
+Dictionary keys have to be ([hashable](https://docs.python.org/3/glossary.html#term-hashable))
+	data types \cite{Sturtz2020}, such as the following: 
++ tuples
++ integers
++ floats
++ strings
++ boolean
++ frozensets
+
+
+
+
+Since the following are not [hashable](https://docs.python.org/3/glossary.html#term-hashable),
+	they cannot be used as dictionary keys \cite{Sturtz2020}.
++ lists
++ dictionaries
++ sets
+
+
+
+Use the functions ***id()*** and ***type()*** to determine the "ID" and type
+	 of a data type or object.
+
+
+
+
 
 
 
