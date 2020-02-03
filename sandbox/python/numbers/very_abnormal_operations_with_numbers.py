@@ -82,7 +82,10 @@ if __name__ == "__main__":
 	a = [12, 3, 5, "Hola todos", 348, 134523332]
 	print("a is:",a,"=")
 	absolute_list_of_numbers = []
-	for elem in a:
-		absolute_list_of_numbers.append(abs(elem))
-	print("absolute_list_of_numbers is:",absolute_list_of_numbers,"=")
-
+	try:
+		for elem in a:
+			absolute_list_of_numbers.append(abs(elem))
+		print("absolute_list_of_numbers is:",absolute_list_of_numbers,"=")
+	except TypeError:
+		# TypeError: bad operand type for abs(): 'str'
+		print("= List contains a string, or an object, that cannot be processed as a number.")
