@@ -1324,7 +1324,7 @@ Dictionary keys have to be ([hashable](https://docs.python.org/3/glossary.html#t
 + boolean
 + frozensets
 
-
+"An object is hashable if it has a hash value which never changes during its lifetime (it needs a ***\_\_hash\_\_()*** method), and can be compared to other objects (it needs an ***\_\_eq_\_()*** method)."
 
 
 Since the following are not [hashable](https://docs.python.org/3/glossary.html#term-hashable),
