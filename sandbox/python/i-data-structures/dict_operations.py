@@ -310,7 +310,7 @@ print("	Accessing dict[False]:",my_dict_with_bool[False],".")
 print("	Accessing dict[3<5]:",my_dict_with_bool[3<5],".")
 
 try:
-	print("Creating a dictionary with lists.")
+	print("Creating a dictionary with lists as dictionary keys.")
 	my_dict_with_lists = {[1, 1]: 'a', [1, 2]: 'b', [2, 1]: 'c', [2, 2]: 'd'}
 	print("	dictionary my_dict_with_lists:",my_dict_with_lists,".")
 	print("	Accessing dict[[1,1]]:",my_dict_with_lists[(1,1)],".")
@@ -327,5 +327,8 @@ try:
 	print("	Accessing dict[kb]:",my_dict_with_dicts[kb],".")
 except TypeError:
 	# TypeError: unhashable type: 'dict'
-	print("	Lists cannot be used as dictionary keys.")
+	print("	Dictionaries cannot be used as dictionary keys.")
+
+
+
 

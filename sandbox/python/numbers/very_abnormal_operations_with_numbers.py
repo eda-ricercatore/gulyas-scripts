@@ -69,4 +69,20 @@ if __name__ == "__main__":
 	except TypeError:
 		# TypeError: unsupported operand type(s) for +: 'my_object' and 'str'
 		print("=	Error: An addition operation cannot be performed between a Python object and a string.")
-	
+	a = my_object()
+	if 3489 == a:
+		print("=Err	a = 3489!!!")
+	else:
+		print("=	Object a is not 3489.")
+	a = "LeBron James"
+	if 3489 == a:
+		print("=Err	a = 3489!!!")
+	else:
+		print("=	String a is not 3489.")
+	a = [12, 3, 5, "Hola todos", 348, 134523332]
+	print("a is:",a,"=")
+	absolute_list_of_numbers = []
+	for elem in a:
+		absolute_list_of_numbers.append(abs(elem))
+	print("absolute_list_of_numbers is:",absolute_list_of_numbers,"=")
+
