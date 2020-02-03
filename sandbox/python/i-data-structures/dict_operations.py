@@ -321,9 +321,11 @@ except TypeError:
 
 try:
 	print("Creating a dictionary with a dictionary as a dictionary key.")
-	my_dict_with_dicts = { "Kobe Bryant": 24 }
+	kb = { "Kobe Bryant": 24 }
+	my_dict_with_dicts = { kb: 8 }
 	print("	dictionary my_dict_with_dicts:",my_dict_with_dicts,".")
-	print("	Accessing dict['Kobe Bryant']:",my_dict_with_dicts['Kobe Bryant'],".")
+	print("	Accessing dict[kb]:",my_dict_with_dicts[kb],".")
 except TypeError:
-	# TypeError: unhashable type: 'list'
+	# TypeError: unhashable type: 'dict'
 	print("	Lists cannot be used as dictionary keys.")
+
