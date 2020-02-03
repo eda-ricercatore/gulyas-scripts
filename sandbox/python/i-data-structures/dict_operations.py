@@ -9,6 +9,15 @@
 		Available online from W3Schools Online Web Tutorials: Python Tutorial at:
 			https://www.w3schools.com/python/python_dictionaries.asp;
 			February 3, 2020 was the last accessed date.
+	+ Refsnes Data staff, "Python Dictionary values() Method", from W3Schools Online Web Tutorials: Python Tutorial, Refsnes Data, no address, 2020.
+		Available online from W3Schools Online Web Tutorials: Python Tutorial at:
+			https://www.w3schools.com/python/ref_dictionary_values.asp;
+			February 3, 2020 was the last accessed date.
+	+ Refsnes Data staff, "Python Dictionary keys() Method", from W3Schools Online Web Tutorials: Python Tutorial, Refsnes Data, no address, 2020.
+		Available online from W3Schools Online Web Tutorials: Python Tutorial at:
+			https://www.w3schools.com/python/ref_dictionary_keys.asp;
+			February 3, 2020 was the last accessed date.
+	+ \cite[Section/Chapter 5, Data Structures]{Brandl2017a}
 	+ See references cited in the source code.
 """
 
@@ -18,7 +27,7 @@
 import pandas as pd
 
 
-
+print("# ===================================================")
 # Create a dictionary of physical constants and their values.
 dict_of_reference_values = {"c":299792458, "standard acceleration due to gravity":9.80665, "standard atmosphere":101325}
 print("The dictionary is:",dict_of_reference_values,".")
@@ -63,17 +72,22 @@ print("Enumerating all key names in the dictionary.")
 for x in dict_of_reference_values:
 	print("	",x)
 print("	Enumerate all key names in the dictionary again.")
-x1 = dict_of_reference_values.values()
-print(x1)
+x1 = dict_of_reference_values.keys()
+print("=	",x1)
+
 
 
 print("Enumerating all values in the dictionary.")
 for x in dict_of_reference_values:
 	print("	",dict_of_reference_values[x])
+print("	Enumerate all key names in the dictionary again.")
+x2 = dict_of_reference_values.values()
+print("=	",x2)
+
 
 print("Enumerating all keys and values in the dictionary, using the items() function.")
 for x, y in dict_of_reference_values.items():
-	print("	", x, y)
+	print("	:", x,"=&=", y,".")
 
 
 if "standard acceleration due to gravity" in dict_of_reference_values:
@@ -189,3 +203,78 @@ print("	Car is:",car,".")
 print("	Update the sample dictionary using the update() method.")
 car.update({"color": "White"})
 print("	Updated car is:",car,".")
+
+
+print("Dictionary cannot be created with duplicate keys.")
+"""
+	Duplicate keys detected at run-time by the Python Virtual Machine,
+		when the dict() constructor is used.
+		This results in the following error:
+			SyntaxError: keyword argument repeated.
+	Keywords, or dictionary keys, cannot be expressions.
+		Else, it will result in a SyntaxError, since the keyword
+		wwcan't be an expression
+	
+"""
+nba_team = dict(
+		LA = "Lakers",
+		#LA = "Clippers",
+		Boston = "Celtics",
+		Chicago = "Bulls",
+		Utah = "Jazz"
+	)
+print("	The NBA teams are:",nba_team,"=")
+nba_team = {
+	"LA" : "Lakers",
+	"LA" : "Clippers",
+	"Boston" : "Celtics",
+	"Chicago" : "Bulls",
+	"Utah" : "Jazz"
+	}
+print("The NBA teams are:",nba_team,"=")
+print("	The 2nd entry for LA overwrote the 1st entry.")
+print("	For duplicate keys, the dict() constructor will throw a SyntaxError at run-time.")
+print("	For duplicate keys, the {}-based dictionary constructor will overwrite the previous key-value mapping at run-time.")
+
+"""
+	The keys of the dictionary are treated as strings.
+	Hence, I need to enclose these keys with double/single
+		quotes, when using the "string" keys.
+	Else, a NameError would result as follows:
+		"NameError: name 'Boston' is not defined"
+"""
+#print("	Value of NBA team[Boston]=:",nba_team[Boston],"=")
+print("	Value of NBA team['Boston']=:",nba_team["Boston"],"=")
+
+kv_mapping = {
+	6325532 : 0,
+	5225421 : -23425,
+	1252362 : 43,
+	3745305 : 336466
+	}
+print("Dictionary with numerical keys and values:",kv_mapping,"=")
+print("	Dictionaries declared and instantiated with numerical keys or string keys require the curly brackets, or (curly) braces, '{}' to avoid the following error: 'SyntaxError: keyword can't be an expression'")
+
+
+
+ascending_order_kv_mapping = {
+	1252362 : 43,
+	3745305 : 336466,
+	5225421 : -23425,
+	6325532 : 0
+	}
+print("Ascending order dictionary with numerical keys and values:",ascending_order_kv_mapping,"=")
+
+descending_order_kv_mapping = {
+	6325532 : 0,
+	5225421 : -23425,
+	3745305 : 336466,
+	1252362 : 43
+	}
+print("Descending order dictionary with numerical keys and values:",descending_order_kv_mapping,"=")
+print("	Dictionaries are printed with their (key,value) pairs in the order of addition.")
+
+empty_dict = {}
+print("Print an empty dictionary:",empty_dict,"=")
+
+print("Dictionary keys have to belong to an immutable type.")
