@@ -94,3 +94,47 @@ if __name__ == "__main__":
 	except TypeError:
 		# TypeError: can't convert type 'str' to numerator/denominator
 		print("= A list can contain elements belonging to multiple classes.")
+
+
+print("= Test if an object is a number object.")
+print("isinstance(10, (int, float, complex):",isinstance(10, (int, float, complex)),".")
+print("isinstance(float('NaN'), (int, float, complex)):",isinstance(float('NaN'), (int, float, complex)),".")
+print("isinstance(float('nan'), (int, float, complex)):",isinstance(float('nan'), (int, float, complex)),".")
+print("isinstance(float('inf'), (int, float, complex)):",isinstance(float('inf'), (int, float, complex)),".")
+print("isinstance(float('-inf'), (int, float, complex)):",isinstance(float('-inf'), (int, float, complex)),".")
+print("isinstance(True, (int, float, complex)) and not isinstance(True, bool):",isinstance(True, (int, float, complex)) and not isinstance(True, bool),".")
+print("NaN, nan, inf, and -inf cannot be cast into integer objects.")
+print("isinstance(complex('5-9j'), (int, float, complex)):",isinstance(complex('5-9j'), (int, float, complex)),".")
+print("isinstance(complex('5-9j'), (int, float)):",isinstance(complex('5-9j'), (int, float)),".")
+
+
+
+temp_str = "6273879432er435"
+if temp_str.isnumeric():
+	print("= Error!	temp_str should not be a number")
+else:
+	print("= temp_str is not a number")
+
+temp_str = "45768798"
+if temp_str.isnumeric():
+	print("= temp_str is a number")
+else:
+	print("= Error! temp_str should be a number")
+
+
+temp_str = "12.435346"
+if temp_str.isnumeric():
+	print("= temp_str is a floating-point number.")
+else:
+	print("= Error! temp_str should be a floating-point number")
+	print("The period in floating-point numbers causes it to be False.")
+	# From \cite[Built-in Types]{DrakeJr2016b}
+	print("isnumeric() returns 'True if all characters in the string are numeric characters, and there is at least one character, False otherwise'")
+	
+
+
+temp_str = "I love saag paneer."
+if temp_str.isnumeric():
+	print("= Error!	temp_str should not be a number. It is a string.")
+else:
+	print("= temp_str is a string.")

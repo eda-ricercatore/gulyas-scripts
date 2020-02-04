@@ -2342,7 +2342,11 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 		which are not of the basic numeric data types](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/numbers/very_abnormal_operations_with_numbers.py).
 		* Note that this can cause TypeErrors to occur when I perform
 			arithmetic (and logic) operations.
-			+ This requires methods (or functions) to implement
+			+ This requires methods (or functions) that use/implement
+				arithmetic (and logic) operations, which can only be
+				performed on numbers, to check for the class/type of
+				objects in the list before enumerating the list to perform
+				these arithmetic (and logic) operations.
 + tuples (and lists, sequences, and ranges) \cite[\S5.3]{Brandl2017a}
 	- Tuples are immutable \cite[Chapter 1, section on "Tuples", pp. 14]{Beazley2009}.
 + sets \cite[Chapter 2, pp. 39]{Alchin2010} \cite[\S5.4]{Brandl2017a}

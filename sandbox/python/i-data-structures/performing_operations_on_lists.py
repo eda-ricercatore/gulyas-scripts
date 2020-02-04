@@ -174,13 +174,3 @@ else:
 	print("=	a is a list??? When it should be an empty string object.")
 
 
-print("= Test if an object is a number object.")
-print("isinstance(10, (int, float, complex):",isinstance(10, (int, float, complex)),".")
-print("isinstance(float('NaN'), (int, float, complex)):",isinstance(float('NaN'), (int, float, complex)),".")
-print("isinstance(float('nan'), (int, float, complex)):",isinstance(float('nan'), (int, float, complex)),".")
-print("isinstance(float('inf'), (int, float, complex)):",isinstance(float('inf'), (int, float, complex)),".")
-print("isinstance(float('-inf'), (int, float, complex)):",isinstance(float('-inf'), (int, float, complex)),".")
-print("isinstance(True, (int, float, complex)) and not isinstance(True, bool):",isinstance(True, (int, float, complex)) and not isinstance(True, bool),".")
-print("NaN, nan, inf, and -inf cannot be cast into integer objects.")
-print("isinstance(complex('5-9j'), (int, float, complex)):",isinstance(complex('5-9j'), (int, float, complex)),".")
-print("isinstance(complex('5-9j'), (int, float)):",isinstance(complex('5-9j'), (int, float)),".")
