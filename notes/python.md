@@ -2349,6 +2349,13 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 				these arithmetic (and logic) operations.
 + tuples (and lists, sequences, and ranges) \cite[\S5.3]{Brandl2017a}
 	- Tuples are immutable \cite[Chapter 1, section on "Tuples", pp. 14]{Beazley2009}.
+	- From \cite{ParewaLabsStaff20XYc}:
+		* Since tuples are immutable,  it can be faster to enumerate a
+			tuple than a list.
+		* Elements of an tuple are immutable; this ensure that they
+			remain read-only (or write-protected).
+		* Try to use tuples for heterogeneous (multiple) data types, and
+			lists for homogeneous (only one) data type.
 + sets \cite[Chapter 2, pp. 39]{Alchin2010} \cite[\S5.4]{Brandl2017a}
 	- Disallow duplicates
 	- The standard constructor accepts the following as inputs:
