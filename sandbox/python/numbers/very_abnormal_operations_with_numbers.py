@@ -89,3 +89,8 @@ if __name__ == "__main__":
 	except TypeError:
 		# TypeError: bad operand type for abs(): 'str'
 		print("= List contains a string, or an object, that cannot be processed as a number.")
+	try:
+		arith_avg = s.mean(a)
+	except TypeError:
+		# TypeError: can't convert type 'str' to numerator/denominator
+		print("= A list can contain elements belonging to multiple classes.")
