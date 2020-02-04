@@ -2356,6 +2356,7 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 			remain read-only (or write-protected).
 		* Try to use tuples for heterogeneous (multiple) data types, and
 			lists for homogeneous (only one) data type.
+	- [Can store objects from different classes](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/i-data-structures/tuple_operations.py)
 + sets \cite[Chapter 2, pp. 39]{Alchin2010} \cite[\S5.4]{Brandl2017a}
 	- Disallow duplicates
 	- The standard constructor accepts the following as inputs:
