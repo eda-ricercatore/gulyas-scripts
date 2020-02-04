@@ -2338,6 +2338,11 @@ The following modules in *The Python Standard Library* \cite{DrakeJr2016e,DrakeJ
 
 From \cite[Chapter 2, pp. 39]{Alchin2010}
 + lists \cite[\S5.1]{Brandl2017a}
+	- [A list can contain elements that are objects of multiple classes,
+		which are not of the basic numeric data types](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/numbers/very_abnormal_operations_with_numbers.py).
+		* Note that this can cause TypeErrors to occur when I perform
+			arithmetic (and logic) operations.
+			+ This requires methods (or functions) to implement
 + tuples (and lists, sequences, and ranges) \cite[\S5.3]{Brandl2017a}
 	- Tuples are immutable \cite[Chapter 1, section on "Tuples", pp. 14]{Beazley2009}.
 + sets \cite[Chapter 2, pp. 39]{Alchin2010} \cite[\S5.4]{Brandl2017a}
