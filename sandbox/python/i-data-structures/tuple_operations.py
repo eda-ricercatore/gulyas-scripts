@@ -73,3 +73,18 @@ if __name__ == "__main__":
 	# nested index
 	print("tuple4[0][3] is:",tuple4[0][3])		# 's'
 	print("tuple4[1][1] is:",tuple4[1][1])		# 4
+	"""
+		From \cite[Learn Programming: Learn Python Programming, The Definitive Guide: Python Tuple]{ParewaLabsStaff20XY};
+			available at: https://www.programiz.com/python-programming/tuple;
+				last accessed on February 4, 2020.
+	"""
+	my_tuple = ('a','p','p','l','e',)
+	# In operation
+	# Output: True
+	print("'a' in my_tuple",'a' in my_tuple,"")
+	# Output: False
+	print('b' in my_tuple)
+	# Not in operation
+	# Output: True
+	print('g' not in my_tuple)
+	
