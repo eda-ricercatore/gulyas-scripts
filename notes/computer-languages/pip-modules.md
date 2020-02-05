@@ -26,8 +26,11 @@ environment (for stochastic computing):
 
 
 
+###	Verifying *PIP*-based Installations *Python* libraries
 
-
+To check if *PIP*-based installations of *Python* libraries work,
+	check if the versions of the *PIP*-based installations match
+	what we specified during installation.
 
 
 
