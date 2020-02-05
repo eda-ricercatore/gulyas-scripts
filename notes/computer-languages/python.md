@@ -181,7 +181,8 @@ Tasks that I can do:
 	- Determine the importance and usefulness packages, with respect to
 		modules.
 	- Resources and references:
-		* https://packaging.python.org/tutorials/packaging-projects/
+		* \cite{PythonPackagingAuthorityMembers2020b}
+
 
 See [example to import *Python* modules and classes](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/python/s-import).
 
