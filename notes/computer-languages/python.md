@@ -3725,7 +3725,27 @@ Machine learning and deep learning resources:
 	- Tutorial:
 		* Official tutorial: \cite{MatplotlibDevelopmentTeam2020}
 	- Notes:
-		+ Travis (Hooked) Hoppe and Fabian Ying
+		* Travis (Hooked) Hoppe and Fabian Ying, Answer to "What is the
+			difference between pylab and pyplot? [duplicate]", from
+			Stack Exchange Inc.: Stack Overflow: Questions,
+			Stack Exchange Inc., New York, NY, July 23, 2018.
+			Available online from Stack Exchange Inc.: Stack Overflow:
+				Questions at: https://stackoverflow.com/a/11471777/1531728 and https://stackoverflow.com/questions/11469336/what-is-the-difference-between-pylab-and-pyplot/11471777#11471777;
+				February 5, 2020 was the last accessed date.
+			+ Use *matplotlib.pyplot* to plot non-interactive diagrams, figures, and plots.
+			+ Use *Matplotlib*'s *pylab* to plot interactive diagrams, figures, and plots.
+		* Thomas A. Caswell and Brad Solomon, Answer to "Which is the
+			recommended way to plot: matplotlib or pylab? [closed]",
+			from Stack Exchange Inc.: Stack Overflow: Questions,
+			Stack Exchange Inc., New York, NY, February 22, 2018.
+			Available online from Stack Exchange Inc.: Stack Overflow:
+				Questions at: https://stackoverflow.com/a/16849816/1531728 and https://stackoverflow.com/questions/16849483/which-is-the-recommended-way-to-plot-matplotlib-or-pylab/16849816#16849816;
+				February 5, 2020 was the last accessed date.
+		+ 
+		Matplotlib, pyplot and pylab: how are they related?, in Usage, from , , 2020.
+
+
+https://matplotlib.org/faq/usage_faq.html#matplotlib-pyplot-and-pylab-how-are-they-related
 + [GGobi](http://www.ggobi.org/)
 	- \cite{GGobiContributors20XY}
 + [Orange](https://orange.biolab.si/)
