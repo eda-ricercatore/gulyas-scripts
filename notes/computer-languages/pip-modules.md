@@ -25,7 +25,7 @@ List of *PIP*-based *Python* modules to add to, or install in, my Google Colab
 ###	Via the *PIP* Platform
 
 Use *PIP* commands to install common *Python* libraries in my *Google Colab*
-	environment. 
+	environment.
 
 
 
@@ -103,4 +103,25 @@ Since *Google Colab* may not support the *Anaconda* platform for data science
 		* \cite{FacebookEngineers2020}
 
 
+##	Module in *Python* Library Not Found
 
+If the following error occur during execution of my *Python* scripts/programs,
+
+	ModuleNotFoundError: No module named 'numpy'
+
+it indicates that it cannot recognize the path for the *Python* library that the
+	specified *Python* module (in this case, "*numpy*") belongs to.
+
+Hence, I should uninstall the current version of that *Python* library, and reinstall
+	it.
++ [If the *Python* library cannot be installed via *PIP* or *conda*, use these
+	specified options with *PIP* to force installation of this *Python* library
+	to occur](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/pip-modules.md#force-installation-of-modules-via-pip).
+	- If the *conda*-installed version of the *Python* library is older than the
+		available version via *PIP*, doing this will uninstall the
+		*conda*-installed version and install the currently available version
+		via *PIP*.
++ Doing this via *PIP* may not work, since the associated version of *Python*
+	that is used belongs to *Python* 2.7.x (or later) rather than *Python* 3.8.x
+	(or later).
+	- Hence, [use *pip3* instead, as shown above](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/pip-modules.md#force-installation-of-modules-via-pip).
