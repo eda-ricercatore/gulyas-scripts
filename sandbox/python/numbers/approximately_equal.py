@@ -1,4 +1,5 @@
-#!/Users/zhiyang/anaconda3/bin/python3
+#!/usr/local/bin/python3
+#	#!/Users/zhiyang/anaconda3/bin/python3
 ###	#!/Users/zhiyang/anaconda3/bin/python3 -m unittest
 ###!/usr/local/bin/python3
 
@@ -229,3 +230,8 @@ else:
 """
 
 
+# Debugging application of npt.assert_approx_equal()
+if npt.assert_approx_equal(33.823423, 33.823423):
+	print("33.823423 is equal to 33.823423.")
+else:
+	print("33.823423 is NOT equal to 33.823423???")
