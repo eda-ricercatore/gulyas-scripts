@@ -1,18 +1,28 @@
-#	List of PIP-based Python modules
+#	List of *PIP*-based *Python* modules
 
 
-List of PIP-based Python modules to add to, or install in, my Google Colab
+List of *PIP*-based *Python* modules to add to, or install in, my Google Colab
 	environment:
 + pip install pycorrelate
 + pip install matplotlib
 + pip install numpy
 
 
+Since *Google Colab* may not support the *Anaconda* platform for data science
+	and scientific computing, use the *PIP* package manager to install *Python*
+	packages.
++ To use the *Anaconda* platform on *Google Colab*, try:
+	- https://anaconda.org/conda-forge/google-auth (may not be relevant)
+	- https://rjai.me/posts/google-colab-conda/ (works for Python 2.7, not
+		Python 3.X)
+	
 
 
 
 
 
+#	Problems with Common *Python* Libraries
+PIP 
 
 
 

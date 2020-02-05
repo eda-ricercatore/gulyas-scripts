@@ -178,8 +178,10 @@ Tasks that I can do:
 	script.
 + Create, define, and use my own *Python* packages, from any *Python*
 	script.
-	Determine the importance and usefulness packages, with respect to
-	modules.
+	- Determine the importance and usefulness packages, with respect to
+		modules.
+	- Resources and references:
+		* https://packaging.python.org/tutorials/packaging-projects/
 
 See [example to import *Python* modules and classes](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/python/s-import).
 

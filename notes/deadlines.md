@@ -439,9 +439,6 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 
 
 Upcoming Submission deadlines:
-+ ***[SIGMETRICS](https://www.sigmetrics.org/sigmetrics2020/call_for_papers.html): January 27 and February 3, 2020.***
-+ ***[Facebook proposal](https://research.fb.com/programs/research-awards/proposals/towards-on-device-ai-request-for-proposals/): February 3, 2020 at 11:59 p.m., U.S. PST***
-+ [BigData 2020](http://www.bigdatacongress.org/2020/cfp.html): February 5, 2020.
 + ***[ICML](https://icml.cc/Conferences/2020/CallForPapers): Submission deadline: January 30 and February 6, 2020, AoE.***
 + ***[SPAA](http://spaa.acm.org/): Submission deadline: February 7 and 15, 2020.***
 + ***[CSF2020](https://www.ieee-security.org/TC/CSF2020/): February 7, 2020.***
