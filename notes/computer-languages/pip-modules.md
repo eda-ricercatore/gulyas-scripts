@@ -1,11 +1,26 @@
 #	List of *PIP*-based *Python* modules
 
 
+##	For Boilerplate Code
+
 List of *PIP*-based *Python* modules to add to, or install in, my Google Colab
-	environment:
-+ pip install pycorrelate
-+ pip install matplotlib
+	environment (for boilerplate code):
 + pip install numpy
++ pip install matplotlib
+
+
+
+
+
+##	For Stochastic Computing
+
+
+
+List of *PIP*-based *Python* modules to add to, or install in, my Google Colab
+environment (for stochastic computing):
++ pip install pycorrelate
+
+
 
 
 
