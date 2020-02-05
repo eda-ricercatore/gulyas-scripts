@@ -42,12 +42,12 @@ For consistency, try to use these common *Python* libraries in my
 		-based *Python* software and my *Python*-based *Jupyter* notebook
 		on *Google Colab*.
 		* This can make tricky more complicated, since I have to mentally
-			juggle the differences between the two versions.
+			juggle the differences between the two libraries/versions.
 + With the *Anaconda* platform, it may contain *conda*-based installations of
 	common *Python* libraries.
 	- Hence, this may prevent users/people from using *PIP* to install such
 		common *Python* libraries.
-		* However, there are ways to force an installation to occur. 
+		* However, [there are ways to force an installation to occur](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/pip-modules.md#force-installation-of-modules-via-pip). 
 
 
 
