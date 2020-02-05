@@ -15,9 +15,11 @@ Since *Google Colab* may not support the *Anaconda* platform for data science
 	- https://anaconda.org/conda-forge/google-auth (may not be relevant)
 	- https://rjai.me/posts/google-colab-conda/ (works for Python 2.7, not
 		Python 3.X)
-	
-
-
+	- Resources that mentioned *Google Colab*:
+		* \cite{McKay2019}
+		* \cite{Au2019}
+		* \cite{Li2018}
+		* \cite{FacebookEngineers2020}
 
 
 
