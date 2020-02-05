@@ -4,9 +4,15 @@
 ###!/usr/local/bin/python3
 
 """
-	This is written by Zhiyang Ong to experiment with scientific
-		notations.
+	This is written by Zhiyang Ong to experiment with relative
+		comparisons of numbers.
 	
+	To compare if two numbers are approximately the same, use:
+	+ math.isclose()
+	
+	This is because the functions from numpy.testing require a
+		very high accuracy (relatively, and/or absolutely).
+
 	
 	
 	Notes:
@@ -29,6 +35,12 @@
 		Available from {Inch Calculator, Find Your Calculator: Unit Conversion Calculators: Time Conversion Calculators: Nanoseconds Conversion} at:
 			https://www.inchcalculator.com/convert/nanosecond-to-second/;
 			last accessed on January 19, 2020.
+	+ https://stackoverflow.com/questions/5595425/what-is-the-best-way-to-compare-floats-for-almost-equality-in-python
+	+ https://stackoverflow.com/questions/41808286/assert-two-variables-are-almost-equal-in-python
+	+ numpy.isclose (Not tested.)
+		- https://docs.scipy.org/doc/numpy/reference/generated/numpy.isclose.html
+
+
 """
 
 
@@ -230,8 +242,42 @@ else:
 """
 
 
-# Debugging application of npt.assert_approx_equal()
+print("Debugging application of npt.assert_approx_equal().")
 if npt.assert_approx_equal(33.823423, 33.823423):
-	print("33.823423 is equal to 33.823423.")
+	print("	33.823423 is equal to 33.823423.")
 else:
-	print("33.823423 is NOT equal to 33.823423???")
+	print("	33.823423 is NOT equal to 33.823423???")
+if npt.assert_approx_equal(33.82342300, 33.82342300, significant=1):
+	print("	33.82342300 is equal to 33.82342300.")
+else:
+	print("	33.82342300 is NOT equal to 33.82342300???")
+print("=	This is strange, since two equivalent numbers should be equal.")
+print("=	assert_approx_equal() [r]aise[s] an assertion if two items are not equal up to significant digits.")
+
+
+print("Does npt.assert_almost_equal() work for me?")
+if npt.assert_almost_equal(33.823423, 33.823423):
+	print("	33.823423 is equal to 33.823423.")
+else:
+	print("	33.823423 is NOT equal to 33.823423???")
+if npt.assert_almost_equal(33.82342300, 33.82342300, decimal=1):
+	print("	33.82342300 is equal to 33.82342300.")
+else:
+	print("	33.82342300 is NOT equal to 33.82342300???")
+try:
+	npt.assert_almost_equal(34525, 33.823423)
+	print("	33.823423 is equal to 33.823423.")
+except AssertionError as ae:
+	print("	34525 is NOT equal to 33.823423. Works.")
+npt.assert_almost_equal(33.823423, 33.823423)
+print("	33.823423 is actually equal to 33.823423. Works.")
+npt.assert_allclose(33.823423, 33.823423,rtol=0.001)
+print("npt.assert_allclose() works for me.")
+#npt.assert_allclose(33.23823423, 33.823423,rtol=0.001)
+#npt.assert_allclose(33.23823423, 33.823423,rtol=0.01)
+npt.assert_allclose(33.23823423, 33.823423,rtol=0.1)
+print("npt.assert_allclose(33.23823423, 33.23423423) works for me.")
+"""
+	References:
+	+ https://docs.scipy.org/doc/numpy/reference/generated/numpy.testing.assert_allclose.html#numpy.testing.assert_allclose
+"""
