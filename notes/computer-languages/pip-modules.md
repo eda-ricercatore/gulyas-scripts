@@ -8,27 +8,47 @@ List of *PIP*-based *Python* modules to add to, or install in, my Google Colab
 + pip install numpy
 
 
-Since *Google Colab* may not support the *Anaconda* platform for data science
-	and scientific computing, use the *PIP* package manager to install *Python*
-	packages.
-+ To use the *Anaconda* platform on *Google Colab*, try:
-	- https://anaconda.org/conda-forge/google-auth (may not be relevant)
-	- https://rjai.me/posts/google-colab-conda/ (works for Python 2.7, not
-		Python 3.X)
-	- Resources that mentioned *Google Colab*:
-		* \cite{McKay2019}
-		* \cite{Au2019}
-		* \cite{Li2018}
-		* \cite{FacebookEngineers2020}
+
+
+
+
+
 
 
 
 #	Problems with Common *Python* Libraries
-PIP 
 
 
 
-##	Force installation of modules via PIP
+##	Using Common *Python* Libraries on *Google Colab*
+
+###	Via the *PIP* Platform
+
+Use *PIP* commands to install common *Python* libraries in my *Google Colab*
+	environment. 
+
+
+
+
+
+####	For Consistency, Use These Common *Python* Libraries in My Projects
+
+
+For consistency, try to use these common *Python* libraries in my
+	*Python*-based projects.
++ Endeavor (i.e., try to) use the same *Python* libraries, with the same versions,
+	 in my *Python*-based projects.
+	- Else, this may cause discrepancies to occur between my command-line
+		-based *Python* software and my *Python*-based *Jupyter* notebook
+		on *Google Colab*.
+		* This can make tricky more complicated, since I have to mentally
+			juggle the differences between the two versions.
+
+Add information about PIP and conda-based installations
+
+
+
+#####	Force installation of modules via PIP
 
 Command to force installation of modules via PIP [KGo2017].
 
@@ -55,3 +75,26 @@ References:
 	Available online from Stack Exchange Inc.: Stack Overflow: Questions at:
 		https://stackoverflow.com/a/35476722/1531728 and https://stackoverflow.com/questions/7818811/import-error-no-module-named-numpy/35476722#35476722
 		February 5, 2020 was the last accessed date.
+
+
+
+
+
+
+###	Via *Anaconda* Platform
+
+Since *Google Colab* may not support the *Anaconda* platform for data science
+	and scientific computing, use the *PIP* package manager to install *Python*
+	packages.
++ To use the *Anaconda* platform on *Google Colab*, try:
+	- https://anaconda.org/conda-forge/google-auth (may not be relevant)
+	- https://rjai.me/posts/google-colab-conda/ (works for Python 2.7, not
+		Python 3.X)
+	- Resources that mentioned *Google Colab*:
+		* \cite{McKay2019}
+		* \cite{Au2019}
+		* \cite{Li2018}
+		* \cite{FacebookEngineers2020}
+
+
+
