@@ -43,8 +43,14 @@ For consistency, try to use these common *Python* libraries in my
 		on *Google Colab*.
 		* This can make tricky more complicated, since I have to mentally
 			juggle the differences between the two versions.
++ With the *Anaconda* platform, it may contain *conda*-based installations of
+	common *Python* libraries.
+	- Hence, this may prevent users/people from using *PIP* to install such
+		common *Python* libraries.
+		* However, there are ways to force an installation to occur. 
 
-Add information about PIP and conda-based installations
+
+
 
 
 
