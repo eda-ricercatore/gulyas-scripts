@@ -5,7 +5,7 @@
 
 List of *PIP*-based *Python* modules to add to, or install in, my Google Colab
 	environment (for boilerplate code):
-+ pip install numpy
++ pip install [numpy](https://pypi.org/project/numpy/)
 + pip install matplotlib
 
 

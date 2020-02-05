@@ -3741,8 +3741,8 @@ Machine learning and deep learning resources:
 			Available online from Stack Exchange Inc.: Stack Overflow:
 				Questions at: https://stackoverflow.com/a/16849816/1531728 and https://stackoverflow.com/questions/16849483/which-is-the-recommended-way-to-plot-matplotlib-or-pylab/16849816#16849816;
 				February 5, 2020 was the last accessed date.
-		+ 
-		Matplotlib, pyplot and pylab: how are they related?, in Usage, from , , 2020.
+		+ \cite[Section "Matplotlib, pyplot and pylab: how are they related?"]{Hunter2020}
+			- Pylab is deprecated. 
 
 
 https://matplotlib.org/faq/usage_faq.html#matplotlib-pyplot-and-pylab-how-are-they-related
