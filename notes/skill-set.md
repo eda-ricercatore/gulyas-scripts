@@ -5052,6 +5052,44 @@ From the [2020 Stack Overflow Developer Survey](https://stackoverflow.az1.qualtr
 	- [ ] Unity 3D
 	- [ ] Unreal Engine
 	- [ ] Xamarin
++ collaboration tools
+	- [ ] Confluence
+	- [ ] Jira
+	- [ ] GitHub
+	- [ ] GitLab
+	- [ ] Facebook Workplace
+	- [ ] Slack
+	- [ ] Microsoft Teams
+	- [ ] Microsoft Azure
+	- [ ] Trello
+	- [ ] Google Suite: Docs, Meet, etc
+	- [ ] Stack Overflow for Teams
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
