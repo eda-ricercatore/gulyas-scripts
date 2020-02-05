@@ -26,11 +26,34 @@ environment (for stochastic computing):
 
 
 
-###	Verifying *PIP*-based Installations *Python* libraries
+##	Verifying *PIP*-based Installations *Python* libraries
 
 To check if *PIP*-based installations of *Python* libraries work,
 	check if the versions of the *PIP*-based installations match
 	what we specified during installation.
+
+
+
+
+
+References
++ Vikram S, Answer to "Import Error: No module named numpy", from
+	Stack Exchange Inc.: Stack Overflow: Questions, Stack Exchange Inc.,
+	New York, NY, September 27, 2017.
+	Available online from Stack Exchange Inc.: Stack Overflow: Questions at:
+		https://stackoverflow.com/a/46440464/1531728 and https://stackoverflow.com/questions/7818811/import-error-no-module-named-numpy/46440464#46440464;
+		February 5, 2020 was the last accessed date.
++ lchojnacki, Answer to "no module named numpy even after installing it",
+	from Stack Exchange Inc.: Stack Overflow: Questions, Stack Exchange Inc.,
+	New York, NY, May 12, 2019.
+	Available online from Stack Exchange Inc.: Stack Overflow: Questions at:
+		https://stackoverflow.com/a/56103656/1531728 and https://stackoverflow.com/questions/56100791/no-module-named-numpy-even-after-installing-it/56103656#56103656
+		February 5, 2020 was the last accessed date.
+
+
+
+
+
 
 
 
