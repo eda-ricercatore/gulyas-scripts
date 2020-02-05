@@ -54,6 +54,12 @@ References
 
 
 
+https://stackoverflow.com/questions/13237522/no-module-named-numpy
+
+
+
+
+
 
 
 

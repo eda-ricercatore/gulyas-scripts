@@ -3724,6 +3724,8 @@ Machine learning and deep learning resources:
 			+ last accessed on January 15, 2020. 
 	- Tutorial:
 		* Official tutorial: \cite{MatplotlibDevelopmentTeam2020}
+	- Notes:
+		+ Travis (Hooked) Hoppe and Fabian Ying
 + [GGobi](http://www.ggobi.org/)
 	- \cite{GGobiContributors20XY}
 + [Orange](https://orange.biolab.si/)

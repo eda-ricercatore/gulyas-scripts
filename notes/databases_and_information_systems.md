@@ -1330,6 +1330,25 @@ Use ODBC, JDBC, and GDA wrappers for database management systems
 #	To-Do List: Tasks
 
 + Use design of experiments (DOE) to access quality of database systems
++ Enumerate list of [database environments](https://stackoverflow.az1.qualtrics.com/jfe/form/SV_eL0mFVwuo7KWeXP?utm_source=so-owned&utm_medium=announcement-banner&utm_campaign=dev-survey-2020&site=stackoverflow.com)
+	mentioned in the [2020 Stack Overflow Developer Survey](https://stackoverflow.az1.qualtrics.com/jfe/form/SV_eL0mFVwuo7KWeXP) 
+	- [ ] Cassandra
+	- [ ] Couchbase
+	- [ ] DynamoDB
+	- [ ] Elasticsearch
+	- [ ] Firebase
+	- [ ] IBM DB2
+	- [ ] MariaDB
+	- [ ] Microsoft SQL Server
+	- [ ] MongoDB
+	- [ ] MySQL
+	- [ ] Oracle database platform
+	- [ ] Redis
+	- [ ] SQLite
+
+
+
+
 
 
 
