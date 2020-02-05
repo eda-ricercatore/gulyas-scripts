@@ -433,8 +433,8 @@ Transparency
 ###	Attack Plan
 
 MTFD: Meet The Final Deadline; and, apply for [research internships](https://github.com/christine-hu/summer-2019-internships).
-+ ***Meet the [Facebook](https://research.fb.com/programs/research-awards/proposals/distributed-systems-research-request-for-proposals/) Deadline!!!
-
++ ***Meet the [Facebook](https://research.fb.com/programs/research-awards/proposals/cryptography-rfp-2019/#Timing_and_dates) Deadline!!!
+	- https://research.fb.com/programs/research-awards/proposals/probability-programming-rfp-2020/
 
 
 
