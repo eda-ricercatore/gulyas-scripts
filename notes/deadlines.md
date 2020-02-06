@@ -440,11 +440,11 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 
 Upcoming Submission deadlines:
 + ***[ICML](https://icml.cc/Conferences/2020/CallForPapers): Submission deadline: January 30 and February 6, 2020, AoE.***
-+ ***[SPAA](http://spaa.acm.org/): Submission deadline: February 7 and 15, 2020.***
 + ***[CSF2020](https://www.ieee-security.org/TC/CSF2020/): February 7, 2020.***
++ ***[SPAA](http://spaa.acm.org/): Submission deadline: February 8 and 15, 2020, 23:59 hrs, AoE.***
 + [RAW](https://raw.necst.it/): February 8, 2020.
 + ***[Symposia on VLSI Technology and Circuits](http://vlsisymposium.org): February 10, 2019.***
-+ [Crypto 2020](https://crypto.iacr.org/2020/): February 11, 2020.
++ [Crypto 2020](https://crypto.iacr.org/2020/): February 11, 2020, 15:00 ore in Tejas.
 + [SIGGRAPH emerging technologies paper submission](https://s2020.siggraph.org/submissions/emerging-technologies-submissions/): February 11, 2020.
 + [Engaging in Race in HCI](https://sites.google.com/view/raceinhci): February 11, 2020.
 + [Nothing About Us Without Us: Investigating the Role of Critical Disability Studies in HCI](https://katta.mere.st/nothing-about-us-without-us/): February 11, 2020.
@@ -2416,8 +2416,8 @@ List of conference "Call for Papers" deadlines:
 + SPAA, ACM Symposium on Parallelism in Algorithms and Architectures
 	- http://spaa.acm.org
 	- Philadelphia, PA, USA
-	- July 15-17, 2020
-	- Submission deadline: ***February 8 and 15, 2020.***
+	- July 14-17, 2020
+	- Submission deadline: ***February 8 and 15, 2020, 23:59 hrs, AoE.***
 
 
 

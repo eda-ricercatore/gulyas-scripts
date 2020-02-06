@@ -542,6 +542,7 @@ Flags for work-in-progress:
 		* https://github.com/josephmisiti/awesome-machine-learning/blob/master/blogs.md
 		* https://www.kdnuggets.com/2018/04/top-16-open-source-deep-learning-libraries.html
 		* mxnet, pytorch, tensorflow, Keras, sklearn, statsmodels
+		*  OpenVINO: https://docs.openvinotoolkit.org/
 + Log processing
 	- Elastic
 	- Logstash
