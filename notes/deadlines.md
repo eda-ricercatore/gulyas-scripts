@@ -2827,6 +2827,13 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ SECRISC-V, International Workshop on Secure RISC-V (SECRISC-V) Architecture Design Exploration
+	- https://ascslab.org/conferences/secriscv/index.html
+	- April 5-7, 2020.
+	- Boston, Massachusetts.
+	- Submission deadline: February 7, 2020.
+
+
 
 
 
@@ -3373,10 +3380,10 @@ List of conference "Call for Papers" deadlines:
 
 
 + ASAP, IEEE International Conference on Application-specific Systems, Architectures and Processors
-	- 30th IEEE International Conference on Application-specific Systems, Architectures and Processors
+	- IEEE International Conference on Application-specific Systems, Architectures and Processors
 	- https://asap2020.cs.manchester.ac.uk/cfp.html
 	- https://asap2020.cs.manchester.ac.uk/
-	- New York, NY. @Cornell Tech.
+	- Manchester, U.K..
 	- July 6-8, 2020.
 	- Submission deadline: March 27 and April 3, 2020.
 
