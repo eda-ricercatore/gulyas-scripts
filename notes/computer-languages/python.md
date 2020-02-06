@@ -261,7 +261,7 @@ To import a class *C* from module *B* that belongs to package *A*, try:
 
 Use the error *ImportError* to catch errors associated with importing modules
 	that have been moved or renamed.
-	Provide fallback imports, so that in the *try-catch* block, we can provide
+	Provide fallback imports, so that in the *try-except* block, or *try-catch* block, we can provide
 		another statement to import the module from its old/new location
 		(or with its old/new name);
 	if the *try* block uses the old location/name, the *catch* block shall use
@@ -3944,7 +3944,7 @@ Augmented assignment statements provide short cuts for various arithmetic
 
 The **pass** statement is used to represent "no-op" operations
 	\cite[Appendix B, pp. 567]{Hetland2005}.
-	It can be used in *try-catch* blocks.
+	It can be used in *try-except* blocks, or *try-catch* blocks.
 	Note that *Python* has no switch statements.
 
 "The **del** statement unbinds variables and attributes, and removes parts (positions, slices, or slots) from data structures (mappings or sequences). It cannot be used to delete values directly because values are only deleted through garbage collection \cite[Appendix B, pp. 567]{Hetland2005}."
