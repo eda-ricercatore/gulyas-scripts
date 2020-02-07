@@ -120,3 +120,11 @@ d = round(546789.57928)
 print("d is:",d,".")
 d = round(152.5)
 print("d is:",d,".")
+
+
+
+print("--------------------------------------------")
+try:
+	print("Dividing a number, 23, by 0", 23/0,"=")
+except ZeroDivisionError:
+	print("Cannot dividing 23 by 0.")

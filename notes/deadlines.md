@@ -439,7 +439,6 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 
 
 Upcoming Submission deadlines:
-+ ***[ICML](https://icml.cc/Conferences/2020/CallForPapers): Submission deadline: January 30 and February 6, 2020, AoE.***
 + ***[CSF2020](https://www.ieee-security.org/TC/CSF2020/): February 7, 2020.***
 + ***[SPAA](http://spaa.acm.org/): Submission deadline: February 8 and 15, 2020, 23:59 hrs, AoE.***
 + [RAW](https://raw.necst.it/): February 8, 2020.
