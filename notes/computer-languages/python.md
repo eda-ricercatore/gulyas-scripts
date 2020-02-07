@@ -2310,7 +2310,10 @@ The command **help(*[Python module]*)** enables a user to read documentation
 
 Resources for passing command-line arguments
 + \cite[Chapter 8, \S8.1.1, pp. 319-322]{Langtangen2009}
-
++ Louie Dinh, "Command Line Parser", from Python Practice Projects,
+	Vancouver, British Columbia, Canada, no date. 
+	Available from Python Practice Projects at: http://pythonpracticeprojects.com/command-line-parser.html;
+		February 7, 2020 was the last accessed date.
 
 
 
@@ -2603,12 +2606,19 @@ Types/categories of requirements specification
 
 
 
-
-
-
-
-
-
+Resources for software testing, verification, and validation:
++ \cite[From Development Tools section, TestSoftware subsection, PythonTestingToolsTaxonomy subsubsection]{PythonWikiContributors2018}
+	- [PythonTestingToolsTaxonomy subsubsection](https://wiki.python.org/moin/PythonTestingToolsTaxonomy)  
+	- \cite[From Writing Great Python Code section, Testing Your Code subsection]{Reitz2016a}
+		* [Testing Your Code subsection](https://docs.python-guide.org/writing/tests/)
++ Vijaykumar Shinde, "Top 6 BEST Python Testing Frameworks [Updated 2020 List]", SoftwareTestingHelp, Kharadi, Pune, Maharashtra, India, December 28, 2019.
+	Available from SoftwareTestingHelp at: https://www.softwaretestinghelp.com/python-testing-frameworks/;
+		February 7, 2020 was the last accessed date.
++ Anthony Shaw, "Getting Started With Testing in Python", from
+	Real Python Tutorials, dbader software co, Vancouver, British Columbia,
+	Canada, 2018.
+	Available from Real Python Tutorials at: https://realpython.com/python-testing/;
+		February 7, 2020 was the last accessed date.
 
 
 
