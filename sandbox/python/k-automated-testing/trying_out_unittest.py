@@ -1,8 +1,8 @@
-#!/Library/Frameworks/Python.framework/Versions/3.6/bin/python3
+#!/usr/local/bin/python3
 
 """
-	This is written by Zhiyang Ong to test how to write error messages
-		to standard error (or log messages).
+	This is written by Zhiyang Ong to test how to write unit
+		tests using the .
 
 	Synopsis: command name
 	./e-print-error-output.py
