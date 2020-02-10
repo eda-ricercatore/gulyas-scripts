@@ -136,6 +136,34 @@ class calculate_factorial(unittest.TestCase):
 		self.assertEqual(calculate_factorial.get_factorial_recursion(4),24,"4! should be 24.")
 		self.assertEqual(calculate_factorial.get_factorial_recursion(3),6,"3! should be 6.")
 		self.assertEqual(calculate_factorial.get_factorial_recursion(5),120,"5! should be 120.")
+	# ============================================================
+	##	Method to test the recursive factorial calculation method,
+	#		just to increase the number of test methods.
+	#	@param - None.
+	#	@return - Nothing.
+	#	O(n!) method, where n is the largest number tested (to
+	#		determine the factorial of).
+	#		While I may test this for multiple numbers, the
+	#			constant/scalar multiple of this is still O(n!).
+	#	IMPORTANT NOTES:
+	#	+ The "unittest" module uses the method call "unittest.main()"
+	#		to run the methods associated with the "self" instance
+	#		object \cite[Chapter 9, pp. 183]{Hall2009b}
+	#		\cite[Chapters 7, pp. 148]{Hetland2005} \cite{Ong2020}.
+	#	+ The actual number of test cases don't matter, since
+	#		they are not accounted for.
+	#		- The number of instance methods to test methods,
+	#			classes/modules, and packages, do.
+	#	+ Conclusion:
+	#		- Stick to my automated regression testing framework.
+	#		- My framework is more informative about what was done
+	#			and what test case failed.
+	#@staticmethod
+	def test_get_factorial_recursion_2(self):
+		self.assertEqual(calculate_factorial.get_factorial_recursion(1),1,"1! should be 1.")
+		self.assertEqual(calculate_factorial.get_factorial_recursion(0),1,"0! should be 1.")
+
+
 
 if __name__ == "__main__":
 	unittest.main()
