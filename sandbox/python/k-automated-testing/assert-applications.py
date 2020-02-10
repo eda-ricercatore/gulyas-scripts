@@ -1,12 +1,11 @@
 #!/usr/local/bin/python3
 
 """
-	This is written by Zhiyang Ong to test how to write unit
-		tests using the "unittest" module from The Python
-		Standard Library.
+	This is written by Zhiyang Ong to test how to use assertions,
+		from the standard Python 3 implementations.
 
 	Synopsis: command name
-	./trying_out_unittest.py
+	./assert-applications.py
 
 
 	References:
@@ -60,7 +59,6 @@ __date__ = 'September 11, 2018'
 				+ logging.warning("")
 				+ logging.error("")
 				+ logging.critical("")
-	unittest	For unit testing purposes.
 """
 
 import sys
@@ -77,64 +75,20 @@ import json
 import calendar
 import logging
 from sys import stdin, stdout, stderr
-import unittest
+
 
 
 ##############################################################
 
+# Check if the assertion is true.
+assert (4+7) == 11, "'(4+7) == 11' is true."
+#	From \cite{Shaw2020}.
+print("	Message statement associated with assert() is not printed.")
+print("	Message for assert() is printed when AssertionError occurs.")
 
-# Module with methods that determine the factorial of a number.
-class calculate_factorial(unittest.TestCase):
-	# Number to determine the factorial of.
-	default_number = 10
-	# Number to compute the factorial of.
-	number_to_compute = 10
-	"""
-		Number to indicate that the factorial for the given input
-			does not exist.
-	"""
-	does_not_exist = -1234567890
-	# ============================================================
-	##	Method to determine the factorial of "number_to_compute"
-	#		by recursion.
-	#	@param given_number - Number to determine the factorial of.
-	#	@return the factorial of given_number (if it is a non-negative
-	#		integer);
-	#		else, return 'None'.
-	#	O(n) method, where n is the number of test cases used.
-	@staticmethod
-	def get_factorial_recursion(given_number):
-		if isinstance(given_number, int):
-			if (0 == (given_number) or (1 == given_number)):
-				return 1
-			elif (0 > given_number):
-				warnings.warn("The factorial of a negative number cannot be determined.")
-				return None
-			else:
-				return given_number * calculate_factorial.get_factorial_recursion(given_number - 1)
-		elif isinstance(given_number, float):
-			warnings.warn("The factorial of a floating-point number cannot be determined.")
-			return None
-		else:
-			warnings.warn("The factorial of a non-integer cannot be determined.")
-			return None
-	# ============================================================
-	##	Method to test the recursive factorial calculation method.
-	#	@param - None.
-	#	@return - Nothing.
-	#	O(n!) method, where n is the largest number tested (to
-	#		determine the factorial of).
-	#		While I may test this for multiple numbers, the
-	#			constant/scalar multiple of this is still O(n!).
-	#	IMPORTANT NOTES:
-	#	+ The "unittest" module uses the method call "unittest.main()"
-	#		to run the methods associated with the "self" instance
-	#		object \cite[Chapter 9, pp. 183]{Hall2009b}
-	#		\cite[Chapters 7, pp. 148]{Hetland2005}.
-	#@staticmethod
-	def test_get_factorial_recursion(self):
-		self.assertEqual(calculate_factorial.get_factorial_recursion(4),24,"4! should be 24.")
-
-
-if __name__ == "__main__":
-	unittest.main()
+try:
+	print("Checking if (8+17) == 31...")
+	assert (8+17) == 31, ""
+except AssertionError:
+	print("	Dealing with AssertionError: (8+17) == 31; 8+17=24.")
+	print("	8+17 == 24 actually.")

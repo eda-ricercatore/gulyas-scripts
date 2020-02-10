@@ -154,8 +154,8 @@ class calculate_factorial:
 		else:
 			calculate_factorial.number_to_compute = sys.argv[1]
 	# ============================================================
-	##	Method to determine the factorial of "number_to_compute"
-	#		by recursion.
+	##	Method to determine the factorial of "given_number" by
+	#		recursion.
 	#	@param given_number - Number to determine the factorial of.
 	#	@return the factorial of given_number (if it is a non-negative
 	#		integer);
@@ -178,8 +178,8 @@ class calculate_factorial:
 			warnings.warn("The factorial of a non-integer cannot be determined.")
 			return None
 	# ============================================================
-	##	Method to determine the factorial of "number_to_compute"
-	#		by iteration.
+	##	Method to determine the factorial of "given_number" by
+	#		iteration.
 	#	@param given_number - Number to determine the factorial of.
 	#	@return the factorial of given_number (if it is a non-negative
 	#		integer);
