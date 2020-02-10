@@ -439,9 +439,7 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 
 
 Upcoming Submission deadlines:
-+ ***[CSF2020](https://www.ieee-security.org/TC/CSF2020/): February 7, 2020, (or February 8, 2020 6:59:59am U.S. EST).***
 + ***[SPAA](http://spaa.acm.org/): Submission deadline: February 8 and 15, 2020, 23:59 hrs, AoE.***
-+ [RAW](https://raw.necst.it/): February 8, 2020.
 + ***[Symposia on VLSI Technology and Circuits](http://vlsisymposium.org): February 10, 2019.***
 + [Crypto 2020](https://crypto.iacr.org/2020/): February 11, 2020, 15:00 ore in Tejas.
 + [SIGGRAPH emerging technologies paper submission](https://s2020.siggraph.org/submissions/emerging-technologies-submissions/): February 11, 2020.
