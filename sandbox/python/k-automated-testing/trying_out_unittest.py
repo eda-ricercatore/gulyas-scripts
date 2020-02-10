@@ -130,11 +130,12 @@ class calculate_factorial(unittest.TestCase):
 	#	+ The "unittest" module uses the method call "unittest.main()"
 	#		to run the methods associated with the "self" instance
 	#		object \cite[Chapter 9, pp. 183]{Hall2009b}
-	#		\cite[Chapters 7, pp. 148]{Hetland2005}.
+	#		\cite[Chapters 7, pp. 148]{Hetland2005} \cite{Ong2020}.
 	#@staticmethod
 	def test_get_factorial_recursion(self):
 		self.assertEqual(calculate_factorial.get_factorial_recursion(4),24,"4! should be 24.")
-
+		self.assertEqual(calculate_factorial.get_factorial_recursion(3),6,"3! should be 6.")
+		self.assertEqual(calculate_factorial.get_factorial_recursion(5),120,"5! should be 120.")
 
 if __name__ == "__main__":
 	unittest.main()
