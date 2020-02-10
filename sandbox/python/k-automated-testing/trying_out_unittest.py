@@ -11,6 +11,7 @@
 
 	References:
 	\cite{Shaw2020}
+	\cite[From Development Tools: unittest]{DrakeJr2016b}
 
 
 
@@ -158,6 +159,8 @@ class calculate_factorial(unittest.TestCase):
 	#		- Stick to my automated regression testing framework.
 	#		- My framework is more informative about what was done
 	#			and what test case failed.
+	#		- Similarly, ignore "doctest"
+	#			\cite[From Development Tools: doctest]{DrakeJr2016b}
 	#@staticmethod
 	def test_get_factorial_recursion_2(self):
 		self.assertEqual(calculate_factorial.get_factorial_recursion(1),1,"1! should be 1.")
