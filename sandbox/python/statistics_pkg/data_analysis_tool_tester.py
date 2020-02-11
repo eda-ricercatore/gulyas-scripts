@@ -88,12 +88,12 @@ import numpy.testing as npt
 	Package and module to print statistics of software testing
 		results.
 """
-from statistic_pkg.test_statistics import statistical_analysis
+from statistics_pkg.test_statistics import statistical_analysis
 """
 	Package and module to perform miscellaneous tasks in data
 		analysis.
 """
-from statistic_pkg.data_analysis_tool import data_analysis
+from statistics_pkg.data_analysis_tool import data_analysis
 
 
 
@@ -1124,7 +1124,7 @@ class data_analysis_tester:
 	@staticmethod
 	def test_get_relative_percentage_difference():
 		print("	Testing get_relative_percentage_difference() method.")
-		prompt = "	... Test: default get_rel_pct_diff(1,1) == 0	{}"
+		prompt = "	... Test: default get_rel_pct_diff(1,1) == 0		{}"
 		statistical_analysis.increment_number_test_cases_used()
 		if 0 == data_analysis.get_relative_percentage_difference():
 			print(prompt .format("OK"))
