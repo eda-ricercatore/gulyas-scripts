@@ -1,15 +1,16 @@
 #!/Users/zhiyang/anaconda3/bin/python3
 
 """
-	This Python script is written by Zhiyang Ong to automatically
-		file read and string operations.
+	This Python script is written by Zhiyang Ong to test how
+		to squelch standard output and standard error output.
 
 
 	Synopsis:
-	Automatically test file read and string operations.
+	Test techniques to squelch standard output and standard
+		error output.
 
 	This script can be executed as follows:
-	./file_read.py
+	./squelching_std_op_and_std_err_op.py
 
 
 
@@ -65,57 +66,26 @@ import re
 import datetime
 import time
 
+from sys import stdin, stdout, stderr
 
-filename = "README"
-with open(filename, "r") as f_obj:
-	list_of_lines = f_obj.readlines()
-	print("	Number of lines in README file:",len(list_of_lines),"=")
-	prompt = "	... Test if first name is provided:		{}."
-	if any("first name:" in s for s in list_of_lines):
-		print(prompt .format("OK"))
-	else:
-		print(prompt .format("FAIL!!!"))
-	i_certify_statement = "I certify that I have listed all the sources that I used to develop the solutions/code to the submitted work."
-	if i_certify_statement in list_of_lines:
-		print(prompt .format("OK"))
-	else:
-		print(prompt .format("FAIL!!!"))
-	prompt = "	... Test if 'Aggie honor promise' is provided:	{}."
-	aggie_honor_promise = "On my honor as an Aggie, I have neither given nor received any unauthorized help on this academic work."
-	if aggie_honor_promise in list_of_lines:
-		print(prompt .format("OK"))
-	else:
-		print(prompt .format("FAIL!!!"))
-	print("= Iterate lines in the text file.")
-	for line in list_of_lines:
-		print("	current line is:",line,"=")
-		if line == i_certify_statement:
-			print("		found i_certify_statement")
-		temp_line = line.strip()
-		if temp_line == i_certify_statement:
-			print("		found i_certify_statement, with stripped whitespace")
-		temp_line = line.lstrip()
-		if temp_line == i_certify_statement:
-			print("		found i_certify_statement, with stripped whitespace from the front")
-		temp_line = line.rstrip()
-		if temp_line == i_certify_statement:
-			print("		found i_certify_statement, with stripped whitespace from the back")
-		if line.rstrip() == aggie_honor_promise:
-			print("		found aggie_honor_promise")
-	print("= Check if I can iterate through lines of a textfile and strip its trailing whitespace")
-	# I can do likewise for leading whitespace. 
-	for line in list_of_lines:
-		print("	current line is:",line,"=")
-		if line.rstrip() == i_certify_statement:
-			print("		found i_certify_statement with stripped whitespace during iteration")
-		if line.rstrip() == aggie_honor_promise:
-			print("		found aggie_honor_promise with stripped whitespace during iteration")
-	print("> Check if find substring approach works.")
-	"""
-		Use find substrings approach to check if the document has
-			the i_certify_statement and aggie_honor_promise.
-	"""
-	if any(i_certify_statement in s for s in list_of_lines):
-		print("= Found: i_certify_statement.")
-	if any(aggie_honor_promise in s for s in list_of_lines):
-		print("= Found: aggie_honor_promise.")
+temp_std_op = sys.stdout
+temp_std_err = sys.stderr
+
+
+# The following method works, but fails to restore standard
+#	output and standard error output.
+print("Printing to standard output: OK.")
+stderr.write("Printing to standard error output: OK.\n")
+# Squelch the standard output and standard error output.
+sys.stdout = open(os.devnull, "w")
+sys.stderr = open(os.devnull, "w")
+print("Try printing to standard output.")
+stderr.write("Try printing to standard error output.\n")
+sys.stdout = sys.__stdout__
+sys.stderr = sys.__stderr__
+print("Printing to standard output: Fail!!!")
+stderr.write("Printing to standard error output: Fail!!!\n")
+sys.stdout = temp_std_op
+sys.stderr = temp_std_err
+print("Printing to standard output: OK again.")
+stderr.write("Printing to standard error output: OK again.\n")
