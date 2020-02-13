@@ -51,13 +51,14 @@ print(f_extension1)
 	+ \cite[From section "Generic Operating System Services", subsection "os — Miscellaneous operating system interfaces"]{DrakeJr2016b}
 		Available online from "The Python Standard Library: Generic Operating System Services: os — Miscellaneous operating system interfaces" at: https://docs.python.org/3/library/os.html#os.getcwd;
 		February 12, 2020 was the last accessed date.
-	+ Russell Dias and Mark Amery, Answer to "Find current
+	+ [Dias2016] Russell Dias and Mark Amery, Answer to "Find current
 		directory and file's directory [duplicate]", from
 		Stack Exchange Inc.: Stack Overflow: Questions,
 		Stack Exchange, Inc., New York, NY, July 31, 2016.
 		Available online from Stack Exchange Inc.: Stack
 			Overflow: Questions at: https://stackoverflow.com/a/5137509/1531728 and https://stackoverflow.com/questions/5137497/find-current-directory-and-files-directory/5137509#5137509;
 			February 12, 2020 was the last accessed date.
+	+ John Howard and Mark Amery
 """
 valid_path = os.path.expanduser("./")
 print("valid_path is:",valid_path,"=")
@@ -74,6 +75,6 @@ print("New valid_path is:",valid_path,"=")
 current_wking_dir = os.getcwd()
 print("New current_wking_dir is:",current_wking_dir,"=")
 
-
+# \cite{Dias2016}
 full_path = os.path.realpath("./")
 print("full_path is:",full_path,"=")
