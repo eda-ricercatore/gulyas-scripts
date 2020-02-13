@@ -136,7 +136,7 @@ print("	Approach 3: Printing to standard output: OK again.")
 stderr.write("	Approach 3: Printing to standard error output: OK again.\n")
 
 
-
+"""
 print("")
 print("")
 print("= Test squelching approach 4.")
@@ -146,8 +146,46 @@ sys.stdout.close()
 sys.stderr.close()
 print("	Approach 4: Try printing to standard output.")
 os.system("ls -la")
-stderr.write("	Approach 4: Try printing to standard error output: Fail!!!\n")
+stderr.write("	Approach 4: Try printing to standard error output.\n")
+sys.stdout = temp_std_op
+sys.stderr = temp_std_err
+print("	Approach 4: Printing to standard output: Still Failed!!!")
+stderr.write("	Approach 4: Printing to standard error output: Still Failed!!!\n")
+sys.stdout.open()
+sys.stderr.open()
 sys.stdout = temp_std_op
 sys.stderr = temp_std_err
 print("	Approach 4: Printing to standard output: OK again.")
 stderr.write("	Approach 4: Printing to standard error output: OK again.\n")
+# Standard output and standard error output streams cannot be restored.
+"""
+
+
+
+
+
+
+
+print("")
+print("")
+print("= Test squelching approach 5.")
+print("	Approach 5: Printing to standard output: OK.")
+stderr.write("	Approach 5: Printing to standard error output: OK.\n")
+os.close(0)		# close C's stdin stream
+os.close(1)		# close C's stdout stream
+os.close(2)		# close C's stderr stream
+print("	Approach 4: Try printing to standard output.")
+os.system("ls -la")
+stderr.write("	Approach 4: Try printing to standard error output.\n")
+os.open(0)		# close C's stdin stream
+os.open(1)		# close C's stdout stream
+os.open(2)		# close C's stderr stream
+print("	Approach 4: Printing to standard output: Still Failed!!!")
+stderr.write("	Approach 4: Printing to standard error output: Still Failed!!!\n")
+sys.stdout.open()
+sys.stderr.open()
+sys.stdout = temp_std_op
+sys.stderr = temp_std_err
+print("	Approach 4: Printing to standard output: OK again.")
+stderr.write("	Approach 4: Printing to standard error output: OK again.\n")
+# Standard output and standard error output streams cannot be restored.
