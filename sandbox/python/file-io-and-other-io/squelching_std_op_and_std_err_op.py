@@ -67,25 +67,68 @@ import datetime
 import time
 
 from sys import stdin, stdout, stderr
+from contextlib import contextmanager
+import contextlib
+
+
+
 
 temp_std_op = sys.stdout
 temp_std_err = sys.stderr
 
 
-# The following method works, but fails to restore standard
-#	output and standard error output.
-print("Printing to standard output: OK.")
-stderr.write("Printing to standard error output: OK.\n")
+print("= Test squelching approach 1.")
+print("	Approach 1: Printing to standard output: OK.")
+stderr.write("	Approach 1: Printing to standard error output: OK.\n")
 # Squelch the standard output and standard error output.
 sys.stdout = open(os.devnull, "w")
 sys.stderr = open(os.devnull, "w")
-print("Try printing to standard output.")
-stderr.write("Try printing to standard error output.\n")
+print("	Approach 1: Try printing to standard output.")
+stderr.write("	Approach 1: Try printing to standard error output: Fail!!!\n")
+# Running commands from the command line still produces output.
+os.system("ls -la")
 sys.stdout = sys.__stdout__
 sys.stderr = sys.__stderr__
+"""
 print("Printing to standard output: Fail!!!")
 stderr.write("Printing to standard error output: Fail!!!\n")
 sys.stdout = temp_std_op
 sys.stderr = temp_std_err
-print("Printing to standard output: OK again.")
-stderr.write("Printing to standard error output: OK again.\n")
+"""
+print("	Approach 1: Printing to standard output: OK again.")
+stderr.write("	Approach 1: Printing to standard error output: OK again.\n")
+
+
+
+
+print("")
+print("")
+print("= Test squelching approach 2.")
+@contextmanager
+def silence_stdout():
+	sys.stdout = open(os.devnull, "w")
+	try:
+		yield sys.stdout
+	finally:
+		sys.stdout = temp_std_op
+
+with silence_stdout():
+	print("	Approach 2: Try printing to standard output.")
+	os.system("ls -la")
+	stderr.write("	Approach 2: Try printing to standard error output: Fail!!!\n")
+
+print("	Approach 2: Printing to standard output: OK again.")
+stderr.write("	Approach 2: Try printing to standard error output: OK again.\n")
+
+
+
+
+
+
+print("")
+print("")
+print("= Test squelching approach 3.")
+with contextlib.redirect_stdout(None):
+	print("	Approach 2: This should not be printed.")
+	os.system("ls -la")
+	stderr.write("	Approach 2: Try printing to standard error output: Fail!!!\n")
