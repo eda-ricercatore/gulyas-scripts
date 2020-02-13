@@ -23,11 +23,12 @@ This is a sandbox, for trying out different concepts with "throwaway" scripts, f
 	- [catching warnings just like catching exceptions, by squelching/suppressing/silencing warnings in the standard output](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/h-error-management/catch_and_process_warnings.py)
 		* [catching warnings just like catching exceptions, by squelching/suppressing/silencing warnings in the standard output -- ***cleaner solution without Python statements/commands that do not suppress/silence warnings***](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/h-error-management/catch_and_process_warnings_3.py)
 		* [solution that fails to catch warnings just like catching exceptions, by squelching/suppressing/silencing warnings in the standard output](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/h-error-management/catch_and_process_warnings_2.py)
-+ [file input/output (I/O) operations](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/python/file-io)
++ [file input/output (I/O) operations and other I/O operations](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/python/file-io)
 	- [file formats](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/python/file-io/q-file-formats)
 		* [JSON file operations](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/python/file-io/q-file-formats/json-files)
 			+ For operations with files using the JavaScript Object Notation (JSON) format.
 	- [file modifications, or reading a file, modifying its contents, saving the file modifications in a temporary file, and renaming the file to the filename of the original input file](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/python/file-io/modfile)
+	- [Squelching standard output and standard error output]()
 + [*Google Colab*, or *Google Colaboratory*](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/python/google-colab)
 	- Uploading code
 	- Importing pacakges and modules
