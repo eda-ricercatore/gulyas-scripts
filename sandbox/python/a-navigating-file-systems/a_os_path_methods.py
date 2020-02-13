@@ -1,4 +1,11 @@
 #!/Library/Frameworks/Python.framework/Versions/3.6/bin/python3
+
+"""
+	References for handling the "__file__" attribute.
+	+ https://stackoverflow.com/questions/9271464/what-does-the-file-variable-mean-do
+"""
+
+
 import os
 
 print("= Perform split() operation.")
@@ -87,5 +94,20 @@ print("full_path is:",full_path,"=")
 full_path = os.path.realpath(".")
 print("Now full_path is:",full_path,"=")
 
-absolute_path = os.path.abspath(".")
+absolute_path = os.path.abspath("./")
 print("absolute_path is:",absolute_path,"=")
+absolute_path = os.path.abspath(".")
+print("Now absolute_path is:",absolute_path,"=")
+
+
+"""
+	Get the name of the current directory, and the path
+		to the current directory.
+	Reference:
+	+ StormShadow, Answer to "Find current directory and file's directory [duplicate]," Stack Exchange Inc., New York, NY, October 9, 2013.
+		Available online from Stack Exchange Inc.: Stack Overflow: Questions at: https://stackoverflow.com/a/19269546/1531728 and https://stackoverflow.com/questions/5137497/find-current-directory-and-files-directory/19269546#19269546
+			February 13, 2020 was the last accessed date.
+"""
+current_folder_path, current_folder_name = os.path.split(os.getcwd())
+print("current_folder_path is:",current_folder_path,"=")
+print("current_folder_name is:",current_folder_name,"=")
