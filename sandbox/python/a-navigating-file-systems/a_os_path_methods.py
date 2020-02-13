@@ -34,3 +34,13 @@ print(f_extension)
 f_name1, f_extension1 = os.path.splitext(filename)
 print(f_name1)
 print(f_extension1)
+
+
+
+
+valid_path = os.path.expanduser("./")
+print("valid_path is:",valid_path,"=")
+valid_path = os.path.expanduser(".")
+print("New valid_path is:",valid_path,"=")
+current_wking_dir = os.getcwd()
+print("New current_wking_dir is:",current_wking_dir,"=")
