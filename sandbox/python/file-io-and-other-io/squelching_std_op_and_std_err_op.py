@@ -118,7 +118,7 @@ with silence_stdout():
 	stderr.write("	Approach 2: Try printing to standard error output: Fail!!!\n")
 
 print("	Approach 2: Printing to standard output: OK again.")
-stderr.write("	Approach 2: Try printing to standard error output: OK again.\n")
+stderr.write("	Approach 2: Printing to standard error output: OK again.\n")
 
 
 
@@ -129,6 +129,25 @@ print("")
 print("")
 print("= Test squelching approach 3.")
 with contextlib.redirect_stdout(None):
-	print("	Approach 2: This should not be printed.")
+	print("	Approach 3: Try printing to standard output.")
 	os.system("ls -la")
-	stderr.write("	Approach 2: Try printing to standard error output: Fail!!!\n")
+	stderr.write("	Approach 3: Try printing to standard error output: Fail!!!\n")
+print("	Approach 3: Printing to standard output: OK again.")
+stderr.write("	Approach 3: Printing to standard error output: OK again.\n")
+
+
+
+print("")
+print("")
+print("= Test squelching approach 4.")
+print("	Approach 4: Printing to standard output: OK.")
+stderr.write("	Approach 4: Printing to standard error output: OK.\n")
+sys.stdout.close()
+sys.stderr.close()
+print("	Approach 4: Try printing to standard output.")
+os.system("ls -la")
+stderr.write("	Approach 4: Try printing to standard error output: Fail!!!\n")
+sys.stdout = temp_std_op
+sys.stderr = temp_std_err
+print("	Approach 4: Printing to standard output: OK again.")
+stderr.write("	Approach 4: Printing to standard error output: OK again.\n")
