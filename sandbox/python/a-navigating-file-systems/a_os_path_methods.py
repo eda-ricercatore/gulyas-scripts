@@ -58,7 +58,13 @@ print(f_extension1)
 		Available online from Stack Exchange Inc.: Stack
 			Overflow: Questions at: https://stackoverflow.com/a/5137509/1531728 and https://stackoverflow.com/questions/5137497/find-current-directory-and-files-directory/5137509#5137509;
 			February 12, 2020 was the last accessed date.
-	+ John Howard and Mark Amery
+	+ John Howard and Mark Amery, "Find current
+		directory and file's directory [duplicate]", from
+		Stack Exchange Inc.: Stack Overflow: Questions,
+		Stack Exchange, Inc., New York, NY, July 31, 2016.
+		Available online from Stack Exchange Inc.: Stack
+			Overflow: Questions at: https://stackoverflow.com/q/5137497/1531728 and https://stackoverflow.com/questions/5137497/find-current-directory-and-files-directory
+			February 12, 2020 was the last accessed date.
 """
 valid_path = os.path.expanduser("./")
 print("valid_path is:",valid_path,"=")
@@ -78,3 +84,8 @@ print("New current_wking_dir is:",current_wking_dir,"=")
 # \cite{Dias2016}
 full_path = os.path.realpath("./")
 print("full_path is:",full_path,"=")
+full_path = os.path.realpath(".")
+print("Now full_path is:",full_path,"=")
+
+absolute_path = os.path.abspath(".")
+print("absolute_path is:",absolute_path,"=")
