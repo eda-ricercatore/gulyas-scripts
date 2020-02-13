@@ -37,7 +37,20 @@ print(f_extension1)
 
 
 
-
+"""
+	References:
+	+ \cite[From section "File and Directory Access", subsection "os.path — Common pathname manipulations"]{DrakeJr2016b}
+		Available online from "The Python Standard Library: File and Directory Access: os.path — Common pathname manipulations" at: https://docs.python.org/3/library/os.path.html#os.path.expanduser;
+			February 12, 2020 was the last accessed date.
+		- Information about the "os.path.expanduser(path)" command
+			replaces relative paths starting from the current
+			user's home directory (starting with "~" or "~user").
+			* Hence, if the path does not start with "~" nor
+				"~user", or if the path cannot be expanded,
+				the 'path' remains unchanged.
+	+ 
+	Generic Operating System Services
+"""
 valid_path = os.path.expanduser("./")
 print("valid_path is:",valid_path,"=")
 valid_path = os.path.expanduser(".")
