@@ -48,6 +48,7 @@ Names for repositories for my Ph.D. research shall be named after dishes and dri
 		* [*Unified Modeling Language* (UML)](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/uml.md)
 		* [*Markdown* syntax](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/markdown-syntax.md)
 		* See [boilerplate code](https://github.com/eda-ricercatore/boilerplate-code) for revision notes about [*C++*, data structures, and algorithms](https://github.com/eda-ricercatore/boilerplate-code/blob/master/notes/report/data-structures_n_algor.pdf).
+		* [*UNIX*-like operating systems](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/cheat-sheets/unix-like-os/unix-information.md)
 		* Notes located in other repositories:
 			+ [*Scala*](https://github.com/eda-ricercatore/sardegna-scala/blob/master/notes/scala-notes.md)
 			+ [*R* programming language](https://github.com/eda-ricercatore/rosario-r/blob/master/notes/data_analytics_with_r.md). Also, see [resources for learning *R*](https://github.com/eda-ricercatore/rosario-r).
