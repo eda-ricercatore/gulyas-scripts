@@ -56,7 +56,8 @@ Names for repositories for my Ph.D. research shall be named after dishes and dri
 			+ [Shortcuts for *Doxygen*, and Research Needs from the Semiconductor Research Corporation](https://github.com/eda-ricercatore/boilerplate-code/blob/master/notes/to-do-list.md)
 			+ [Help document for SSH access](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/cheat-sheets/unix-like-os/ssh_unix_cmds.md)
 			+ Notes about [object-oriented programming, and object-oriented analysis and design](https://github.com/eda-ricercatore/boilerplate-code/blob/master/notes/miscellaneo/comments.md)
-	- [Note about computational thinking](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computational_thinking.md)
+	- [Note about computational thinking](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/cheat-sheets/thinking-paradigms/computational_thinking.md)
+	- [Note about computational thinking](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/cheat-sheets/thinking-paradigms/computational_thinking.md)
 	- To-do list (Operation Go-to-ICCAD, in Italian).
 + references
 	- Currently deprecated.
