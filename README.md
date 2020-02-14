@@ -30,28 +30,28 @@ Names for repositories for my Ph.D. research shall be named after dishes and dri
 	- Software licenses
 		* *MIT License*
 		* *GNU General Public License (GNU GPL)*
-	- Guidelines for collaborating on open source software and/or hardware
-		projects.
-		* Documentation about guidelines that I am following for my research,
-			and for my research collaborators to know about.
+	- [Guidelines for collaborating on open source software and/or hardware
+		projects.](https://github.com/eda-ricercatore/boilerplate-code/tree/master/notes/guidelines)
+		* Documentation about [guidelines that I am following for my research,
+			and for my research collaborators to know about](https://github.com/eda-ricercatore/boilerplate-code/blob/master/notes/guidelines/guidelines.pdf).
 	- Dependency list
-		* List of software and software libraries that this code
-			base is dependent on.
+		* [List of software and software libraries that this code base is dependent on.](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/dependency_list.md)
 	- Externalities list.
 		* [List of software and software libraries that this code base can affect](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/externalities.md).
-		* See [list of (software) dependencies](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/dependency_list.md)
 		* Also, see this [list of software dependencies for more information](https://github.com/eda-ricercatore/boilerplate-code/blob/master/notes/miscellaneo/software-dependencies.md).
 	- Notes about the various computer languages:
-		* [*GNU Octave*](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/gnu-octave.md)
-		* [*Python*](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md)
-		* [*Ruby*](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/ruby.md)
-		* [*Texinfo*](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/texinfo.md)
-		* [*Unified Modeling Language* (UML)](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/uml.md)
+		* [*GNU Octave*](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/gnu-octave.md)
+		* [*Python*](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md)
+			+ [Python libraries and modules that I install using *PIP*](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/pip-modules.md)
+		* [*Ruby*](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/ruby.md)
+		* [*Texinfo*](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/texinfo.md)
+		* [*Unified Modeling Language* (UML)](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/uml.md)
+		* [*Markdown* syntax](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/markdown-syntax.md)
 		* See [boilerplate code](https://github.com/eda-ricercatore/boilerplate-code) for revision notes about [*C++*, data structures, and algorithms](https://github.com/eda-ricercatore/boilerplate-code/blob/master/notes/report/data-structures_n_algor.pdf).
 		* Notes located in other repositories:
 			+ [*Scala*](https://github.com/eda-ricercatore/sardegna-scala/blob/master/notes/scala-notes.md)
 			+ [*R* programming language](https://github.com/eda-ricercatore/rosario-r/blob/master/notes/data_analytics_with_r.md). Also, see [resources for learning *R*](https://github.com/eda-ricercatore/rosario-r).
-			+ [Declaratively draw pictures and figures](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/drawing-graphics.md)
+			+ [Declaratively draw pictures and figures](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/cheat-sheets/drawing-graphics.md)
 				- See my [repository for declaratively drawing graphics more information](https://github.com/eda-ricercatore/baklava-graphics)
 			+ [Shortcuts for *Doxygen*, and Research Needs from the Semiconductor Research Corporation](https://github.com/eda-ricercatore/boilerplate-code/blob/master/notes/to-do-list.md)
 			+ [Help document for SSH access](https://github.com/eda-ricercatore/boilerplate-code/blob/master/notes/ssh_unix_cmds.md)
