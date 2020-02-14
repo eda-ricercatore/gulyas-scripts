@@ -79,6 +79,28 @@ Check if I can access the man pages for the following UNIX commands in the "Term
 
 
 
+
+
+##	macOS
+
+###	macOS Catalina
+
+https://mkyong.com/mac/wget-on-mac-os-x/
+mkyong
+2020
+wget on Mac OS X
+By mkyong | January 4, 2017 | Viewed : 84,628 | +630 pv/w
+mac
+No address
+On Mac OS X, the equivalent of Linux’s wget is curl -O
+P.S Uppercase alphabet O, not number zero.
+curl -O http://www-us.apache.org/dist/tomcat/tomcat-8/v8.5.9/bin/apache-tomcat-8.5.9.tar.gz
+
+
+
+
+
+
 #	References
 
 
