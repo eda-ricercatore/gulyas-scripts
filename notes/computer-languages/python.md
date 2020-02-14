@@ -3956,6 +3956,9 @@ The **pass** statement is used to represent "no-op" operations
 	\cite[Appendix B, pp. 567]{Hetland2005}.
 	It can be used in *try-except* blocks, or *try-catch* blocks.
 	Note that *Python* has no switch statements.
+	Similarly, it can be used in *if-elif-...-else* blocks to
+		represent no-operation statements (or do-nothing statements)
+		\cite[From Section 4 on "More Control Flow Tools", subsection 4.4 on "break and continue Statements, and else Clauses on Loops" and subsection 4.5 on "pass Statements"]{Brandl2017a}.
 
 "The **del** statement unbinds variables and attributes, and removes parts (positions, slices, or slots) from data structures (mappings or sequences). It cannot be used to delete values directly because values are only deleted through garbage collection \cite[Appendix B, pp. 567]{Hetland2005}."
 + That is, the **del** statement decrements the reference count of an object
