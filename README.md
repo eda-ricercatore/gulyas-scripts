@@ -39,7 +39,7 @@ Names for repositories for my Ph.D. research shall be named after dishes and dri
 			base is dependent on.
 	- Externalities list.
 		* [List of software and software libraries that this code base can affect](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/externalities.md).
-		* See [list of software dependencies](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/software_dependencies.md) and [list of other dependencies](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/dependency_list.md)
+		* See [list of (software) dependencies](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/dependency_list.md)
 		* Also, see this [list of software dependencies for more information](https://github.com/eda-ricercatore/boilerplate-code/blob/master/notes/miscellaneo/software-dependencies.md).
 	- Notes about the various computer languages:
 		* [*GNU Octave*](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/gnu-octave.md)
