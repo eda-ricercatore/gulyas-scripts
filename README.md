@@ -31,9 +31,9 @@ Names for repositories for my Ph.D. research shall be named after dishes and dri
 		* *MIT License*
 		* *GNU General Public License (GNU GPL)*
 	- [Guidelines for collaborating on open source software and/or hardware
-		projects.](https://github.com/eda-ricercatore/boilerplate-code/tree/master/notes/guidelines)
+		projects.](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/notes/guidelines)
 		* Documentation about [guidelines that I am following for my research,
-			and for my research collaborators to know about](https://github.com/eda-ricercatore/boilerplate-code/blob/master/notes/guidelines/guidelines.pdf).
+			and for my research collaborators to know about](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/guidelines/guidelines.pdf).
 	- Dependency list
 		* [List of software and software libraries that this code base is dependent on.](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/dependency_list.md)
 	- Externalities list.
