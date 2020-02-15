@@ -111,3 +111,32 @@ print("Now absolute_path is:",absolute_path,"=")
 current_folder_path, current_folder_name = os.path.split(os.getcwd())
 print("current_folder_path is:",current_folder_path,"=")
 print("current_folder_name is:",current_folder_name,"=")
+
+
+
+
+
+absolute_path_to_store_results = "/Users/zhiyang/Documents/ricerca/risultati_sperimentali/std-cell-library-characterization"
+
+print("=	Valid path, existent file.")
+path_to_file = "/Users/zhiyang/Documents/ricerca/risultati_sperimentali/std-cell-library-characterization/2020/february/7-2-2020-9-56-54-334414.txt"
+if path_to_file is not None:
+	print("	path_to_file is not None")
+if os.path.exists(path_to_file):
+	print("	os.path.exists(path_to_file)")
+if os.path.isfile(path_to_file):
+	print("	os.path.isfile(path_to_file)")
+if path_to_file.startswith(absolute_path_to_store_results):
+	print("	path_to_file.startswith(absolute_path_to_store_results)")
+
+
+print("=	Valid path, non-existent file.")
+path_to_file = "/Users/zhiyang/Documents/ricerca/risultati_sperimentali/std-cell-library-characterization/2020/random.rnd"
+if path_to_file is not None:
+	print("	path_to_file is not None")
+if os.path.exists(path_to_file):
+	print("	os.path.exists(path_to_file)")
+if os.path.isfile(path_to_file):
+	print("	os.path.isfile(path_to_file)")
+if path_to_file.startswith(absolute_path_to_store_results):
+	print("	path_to_file.startswith(absolute_path_to_store_results)")

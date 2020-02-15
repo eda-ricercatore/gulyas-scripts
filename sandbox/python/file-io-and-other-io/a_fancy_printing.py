@@ -9,7 +9,7 @@
 	Test techniques to print text with multiple placeholders.
 
 	This script can be executed as follows:
-	fancy_printing.py
+	./a_fancy_printing.py
 
 
 

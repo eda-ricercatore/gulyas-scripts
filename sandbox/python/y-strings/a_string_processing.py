@@ -50,3 +50,19 @@ if not file_extension:
 	print("file_extension is empty.")
 else:
 	print("file_extension is not empty???")
+
+
+base_directory = "/Users/zhiyang/Documents/ricerca/risultati_sperimentali/std-cell-library-characterization"
+a_path = "/Users/zhiyang/Documents/ricerca/risultati_sperimentali/std-cell-library-characterization/2020"
+if a_path.startswith(base_directory):
+	print("=	a_path starts with base_directory.")
+else:
+	print("=	a_path DOES NOT start with base_directory.")
+if "tyriuoipo".startswith(base_directory):
+	print("=	tyriuoipo STARTS WITH base_directory.")
+else:
+	print("=	a_path does not start with base_directory.")
+if "tyriuoipo".startswith("dwedew"):
+	print("=	tyriuoipo STARTS WITH base_directory.")
+else:
+	print("=	a_path does not start with base_directory.")
