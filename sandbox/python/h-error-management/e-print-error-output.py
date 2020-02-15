@@ -1,4 +1,5 @@
-#!/Library/Frameworks/Python.framework/Versions/3.6/bin/python3
+#!/usr/local/bin/python3
+###	#!/Library/Frameworks/Python.framework/Versions/3.6/bin/python3
 
 """
 	This is written by Zhiyang Ong to test how to write error messages

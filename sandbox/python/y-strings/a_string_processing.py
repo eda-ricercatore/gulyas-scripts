@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/local/bin/python3
 
 """
 	This is written by Zhiyang Ong to test concepts in string processing.
@@ -35,10 +35,10 @@ import os
 
 
 my_str = "UC Berkeley's logic synthesis tool, ABC, is the best logic synthesis and verification tool in the world."
-print my_str
+print(my_str)
 
 my_str = my_str.replace("UC Berkeley", "MIT")
-print my_str
+print(my_str)
 
 filename, file_extension = os.path.splitext('daniela-stefanescu')
 if None == file_extension:
@@ -66,3 +66,36 @@ if "tyriuoipo".startswith("dwedew"):
 	print("=	tyriuoipo STARTS WITH base_directory.")
 else:
 	print("=	a_path does not start with base_directory.")
+
+
+"""
+	The Python method "os.path.splitext()" to split the path
+		for a file into the root of the path (without the
+		file extension suffix) and the file extension.
+
+
+	Unfortunately, by default, it defines the file extension
+		as the string starting from the last period (if it
+		exists) till the end of the string.
+	Hence, file extensions such as ".tar.gz" would not be
+		recognized and detected correctly.
+	If I want to define file extension otherwise, I have
+		to provide an implementation of a Python method
+		complying with the new definition.
+
+	References:
+	+ BibTeX key: DrakeJr2016b
+		- From the section "File and Directory Access",
+			subsection "os.path - Common pathname manipulations".
+		- By definition of the "os.path.splitext ()" (Python)
+			method returns the root of the file's path and
+			the file extension.
+"""
+print ("25-3-2010-5-8-51-9407.txt is being partitioned into the filename without the file extension suffix and the file extension.")
+filename_wo_extn, file_extn = os.path.splitext ("25-3-2010-5-8-51-9407.txt")
+print ("filename_wo_extn is:", filename_wo_extn, "=")
+print("file_extn is:",file_extn,"=")
+print("/path/to/filename.pdf.tar.gz is being partioned into the filename without the file extension suffix and the file extension.")
+filename_wo_extn, file_extn = os.path.splitext("/path/to/filename.pdf.tar.gz")
+print("filename_wo_extn is:",filename_wo_extn,"=")
+print("file_extn is:",file_extn,"=")
