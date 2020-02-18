@@ -68,6 +68,8 @@ else:
 	print("=	a_path does not start with base_directory.")
 
 
+
+print("\n\n")
 """
 	The Python method "os.path.splitext()" to split the path
 		for a file into the root of the path (without the
@@ -99,3 +101,18 @@ print("/path/to/filename.pdf.tar.gz is being partioned into the filename without
 filename_wo_extn, file_extn = os.path.splitext("/path/to/filename.pdf.tar.gz")
 print("filename_wo_extn is:",filename_wo_extn,"=")
 print("file_extn is:",file_extn,"=")
+tokens = filename_wo_extn.split("-")
+print("isinstance(tokens, list) is:",isinstance(tokens, list),"=")
+print("isinstance(None, list) is:",isinstance(None, list),"=")
+print("isinstance('dewd323 vrevnoi.123', str) is:",isinstance("dewd323 vrevnoi.123", str),"=")
+print("isinstance(None, str) is:",isinstance(None, str),"=")
+print("isinstance(32.234, str) is:",isinstance(32.234, str),"=")
+print("\n\n")
+
+
+
+
+months_of_the_year = ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"]
+print("months_of_the_year[2] is:",months_of_the_year[2-1],"=")
+#print("months_of_the_year[02] is:",months_of_the_year[int(02)],"=")
+print("months_of_the_year[10] is:",months_of_the_year[10-1],"=")

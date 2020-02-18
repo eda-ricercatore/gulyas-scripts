@@ -104,10 +104,55 @@ print("isinstance(float('inf'), (int, float, complex)):",isinstance(float('inf')
 print("isinstance(float('-inf'), (int, float, complex)):",isinstance(float('-inf'), (int, float, complex)),".")
 print("isinstance(True, (int, float, complex)) and not isinstance(True, bool):",isinstance(True, (int, float, complex)) and not isinstance(True, bool),".")
 print("NaN, nan, inf, and -inf cannot be cast into integer objects.")
+
+
+print("")
+print("isinstance(457679, int) is:",isinstance(457679, int),"=")
+print("isinstance(12.342, int) is:",isinstance(12.342, int),"=")
+print("isinstance(12.342, float) is:",isinstance(12.342, float),"=")
+print("isinstance(00, int) is:",isinstance(00, int),"=")
+print("isinstance(0000000, int) is:",isinstance(0000000, int),"=")
+print("")
+
+
+try:
+	print("isinstance(float('NaN'), (int, float, complex)):",isinstance(int('NaN'), (int, float, complex)),".")
+except ValueError:
+	print("= ValueError caught. Cannot cast NaN into an integer.")
+
+try:
+	print("isinstance(float('nan'), (int, float, complex)):",isinstance(int('nan'), (int, float, complex)),".")
+except ValueError:
+	print("= ValueError caught. Cannot cast nan into an integer.")
+
+try:
+	print("isinstance(float('inf'), (int, float, complex)):",isinstance(int('inf'), (int, float, complex)),".")
+except ValueError:
+	print("= ValueError caught. Cannot cast inf into an integer.")
+
+try:
+	print("isinstance(float('-inf'), (int, float, complex)):",isinstance(int('-inf'), (int, float, complex)),".")
+except ValueError:
+	print("= ValueError caught. Cannot cast '-inf' into an integer.")
+
+
+
+
+
+
+
+
 print("isinstance(complex('5-9j'), (int, float, complex)):",isinstance(complex('5-9j'), (int, float, complex)),".")
 print("isinstance(complex('5-9j'), (int, float)):",isinstance(complex('5-9j'), (int, float)),".")
 
 
+try:
+	if None.isnumeric():
+		print("= Error!	The 'None' object should not be a number.")
+	else:
+		print("= The 'None' object is not a number.")
+except AttributeError:
+	print("= AttributeError caught. The 'None' object is not a number.")
 
 temp_str = "6273879432er435"
 if temp_str.isnumeric():

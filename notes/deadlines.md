@@ -433,13 +433,11 @@ Transparency
 ###	Attack Plan
 
 MTFD: Meet The Final Deadline; and, apply for [research internships](https://github.com/christine-hu/summer-2019-internships).
-+ ***Meet the [Facebook](https://research.fb.com/programs/research-awards/proposals/cryptography-rfp-2019/#Timing_and_dates) Deadline!!!
-	- https://research.fb.com/programs/research-awards/proposals/probability-programming-rfp-2020/
++ ***Meet the [Facebook](https://research.fb.com/programs/research-awards/) Deadline!!!
 
 
 
 Upcoming Submission deadlines:
-+ [Crime and/or Punishment: Joining the Dots between Crime, Legality and HCI](https://crimehci.wordpress.com/): February 16, 2020.
 + *[ISMM](https://conf.researchr.org/track/ismm-2020/ismm-2020): February 28, 2020.*
 + ***[ISLPED](http://www.islped.org/2020/): March 2 and 9, 2020.***
 + ***[ECCV](https://eccv2020.eu/important-dates/): March 5, 2020.***
