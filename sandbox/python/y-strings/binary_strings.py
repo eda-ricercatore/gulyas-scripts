@@ -29,3 +29,45 @@ if isinstance(bin_str, str):
 	print("bin_str is a string.")
 else:
 	print("bin_str is NOT a string!!!")
+f = "{0:b}".format(7)
+print("7 as a binary string:",f,"=")
+g = "{0:8b}".format(7)
+print("7 as an 8-bit binary string:",g,"=")
+print("=	0-value bits are represented by character spaces, rather than 0-value bits.")
+h = "{0:4b}".format(7)
+print("7 as a 4-bit binary string:",h,"=")
+try:
+	bin_str = bin(7)
+	j = [int(i) for i in np.binary_repr(bin_str, 5)]
+	print("7 as a 5-bit binary string:",j,"=")
+except TypeError:
+	print("'bin()' method turns a number into a (binary) string, which cannot work with method.")
+
+
+"""
+	Reference:
+	+ [noobar2017]
+		- noobar, Answer to "Convert binary to list of digits Python",
+			Stack Exchange Inc., New York, NY, March 14, 2017.
+			Available online from Stack Exchange Inc.: Stack Overflow: Questions at: https://stackoverflow.com/a/42779009/1531728 and https://stackoverflow.com/questions/13081090/convert-binary-to-list-of-digits-python/42779009#42779009;
+				February 18, 2020 was the last accessed date.
+"""
+a = [int(i) for i in np.binary_repr(0b011010101010, 12)]
+print("a is:",a,".")
+a = [int(i) for i in np.binary_repr(0b011010101010, 15)]
+print("a is:",a,".")
+try:
+	a = [int(i) for i in np.binary_repr("9", 15)]
+	print("a is:",a,".")
+except TypeError:
+	print("Cannot convert '9' to a list of 0-1 integers.")
+
+try:
+	a = [int(i) for i in np.binary_repr("1100", 15)]
+	print("a is:",a,".")
+except TypeError:
+	print("Cannot convert '1100' to a list of 0-1 integers.")
+# 1100 (in decimal) = 4+8+64+1024
+a = [int(i) for i in np.binary_repr(1100, 15)]
+print("a is:",a,".")
+print("Converted number 1100 to a list of 0-1 integers.")
