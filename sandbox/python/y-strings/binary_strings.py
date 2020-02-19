@@ -71,3 +71,55 @@ except TypeError:
 a = [int(i) for i in np.binary_repr(1100, 15)]
 print("a is:",a,".")
 print("Converted number 1100 to a list of 0-1 integers.")
+abb = 0b1100
+if isinstance(abb, int):
+	print("abb is an integer.")
+else:
+	print("abb is NOT an integer.")
+ab = [int(i) for i in np.binary_repr(abb, 15)]
+print("ab is:",ab,".")
+print("Converted number 0b1100 to a list of 0-1 integers.")
+
+
+
+
+
+
+
+try:
+	bc = int(101011,2)
+	print("= Can't event cast number into 'bc'")
+	if 2 == bc.__index__():
+		print("bc is a binary number.")
+	else:
+		print("bc is NOT a binary number!!!")
+except TypeError:
+	print("TypeError occurred. Primary/First input argument of int() has to be a string.")
+# 1+2+8+32 = 43
+bd = int("101011",2)
+if 2 == bd.__index__():
+	print("bd is a binary number.")
+else:
+	print("bd is NOT a binary number!!!")
+	print("bd.__index__() is:",bd.__index__(),"=")
+
+
+be = int("0b101011",2)
+if 2 == be.__index__():
+	print("be is a binary number.")
+else:
+	print("be is NOT a binary number!!!")
+	print("be.__index__() is:",be.__index__(),"=")
+bf = int(101011)
+
+
+try:
+	bg = int("7",2)
+	if 2 == bg.__index__():
+		print("bg is a binary number.")
+	else:
+		print("bg is NOT a binary number!!!")
+		print("bf.__index__() is:",bg.__index__(),"=")
+		print("bg is:",bg,"=")
+except ValueError:
+	print("ValueError! To express a number as a binary number, it has to be a string of '1's and '0's.")

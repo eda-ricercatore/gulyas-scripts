@@ -69,6 +69,11 @@ else:
 
 
 
+
+
+
+
+
 print("\n\n")
 """
 	The Python method "os.path.splitext()" to split the path
