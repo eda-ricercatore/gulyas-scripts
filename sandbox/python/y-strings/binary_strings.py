@@ -123,3 +123,14 @@ try:
 		print("bg is:",bg,"=")
 except ValueError:
 	print("ValueError! To express a number as a binary number, it has to be a string of '1's and '0's.")
+
+
+try:
+	ca = int("7",2)
+	cb = int(101011,2)
+	cc = int("101011",2)
+	print("cc is:",cc,"=")
+except ValueError:
+	print("ValueError! Because of int('7',2).")
+except TypeError:
+	print("TypeError occurred. int(101011,2).")
