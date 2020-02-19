@@ -121,3 +121,16 @@ months_of_the_year = ["january", "february", "march", "april", "may", "june", "j
 print("months_of_the_year[2] is:",months_of_the_year[2-1],"=")
 #print("months_of_the_year[02] is:",months_of_the_year[int(02)],"=")
 print("months_of_the_year[10] is:",months_of_the_year[10-1],"=")
+
+
+
+a_bin_str = "0b0010100110"
+b_bin_str = a_bin_str[2:]
+print("b_bin_str is:",b_bin_str,"=")
+
+
+c_string = "I love fried plantains."
+for char in c_string:
+	print("current character is:", char, "=")
+	if ('a' == char) or ('n' == char):
+		print("=	Found 'a' or 'n'.")
