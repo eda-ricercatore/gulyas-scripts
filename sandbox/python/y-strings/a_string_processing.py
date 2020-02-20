@@ -134,3 +134,16 @@ for char in c_string:
 	print("current character is:", char, "=")
 	if ('a' == char) or ('n' == char):
 		print("=	Found 'a' or 'n'.")
+print("======================================================")
+empty_string = ""
+# Is the string empty?
+if not empty_string:
+	print("+	The string is empty.")
+else:
+	print("+	The string is NOT empty!!!")
+not_empty_string = "String is not empty."
+# Is the string empty?
+if not_empty_string:
+	print("+	The string is NOT empty.")
+else:
+	print("+	The string is EMPTY!!!")
