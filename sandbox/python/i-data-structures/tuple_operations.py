@@ -19,6 +19,13 @@
 			February 3, 2020 was the last accessed date.
 	+ \cite[Section/Chapter 5, Data Structures]{Brandl2017a}
 	+ See references cited in the source code.
+	+ [Wikipedia contributors2019]
+		- Wikipedia contributors, "CAR and CDR," in Wikipedia, The Free
+			Encyclopedia: Lisp (programming language), Wikimedia Foundation,
+			San Francisco, CA, August 28, 2019.
+			Available online from Wikipedia, The Free Encyclopedia:
+				Lisp (programming language) at: https://en.wikipedia.org/wiki/CAR_and_CDR;
+				February 19, 2020 was the last accessed date.
 """
 
 
