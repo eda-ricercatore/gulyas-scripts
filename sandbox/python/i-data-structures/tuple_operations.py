@@ -46,9 +46,10 @@ if __name__ == "__main__":
 	a = my_object()
 	# Create a tuple of objects belonging to different classes.
 	tuple_of_obj_of_diff_classes = (63.4, 299792458, "standard acceleration due to gravity", 9.80665, a, 101325)
+	print("= Enumerate a tuple")
 	for item in tuple_of_obj_of_diff_classes:
-		print("item is:", item, ".")
-	print("= End of enumeration of a tuple")
+		print("	item is:", item, ".")
+	print("= End enumeration of a tuple")
 	print("tuple_of_obj_of_diff_classes is:",tuple_of_obj_of_diff_classes,".")
 	print("--------------------------------------------------")
 	thistuple = ("apple", "banana", "cherry")
@@ -57,34 +58,43 @@ if __name__ == "__main__":
 	except TypeError:
 		# TypeError: 'tuple' object does not support item assignment
 		print("= tuples are immutable; they cannot be modified.")
-		print("  items cannot be added to or remvoed from tuples.")
+		print("  items cannot be added to or removed from tuples.")
+	print("--------------------------------------------------")
 	print(thistuple)
 	del thistuple
 	try:
 		print(thistuple)
 	except NameError:
 		# NameError: name 'thistuple' is not defined
-		print("= thistuple has been deleted, not longer exists, & can't be accessed.")
+		print("= thistuple has been deleted, no longer exists, & can't be accessed.")
+	print("--------------------------------------------------")
 	tuple1 = ("a", "b" , "c")
 	tuple2 = (1, 2, 3)
 	tuple3 = tuple1 + tuple2
+	print("tuple1 is:",tuple1,".")
+	print("tuple2 is:",tuple2,".")
 	print("tuple3 is:",tuple3,".")
-	tuple4 = ("mouse", [8, 4, 6], (1, 2, 3)) 
+	print("--------------------------------------------------")
+	tuple4 = ("mouse", [8, 4, 6], (1, 2, 3, 9, 8, 7))
+	print("tuple4 is:",tuple4,".")
 	# nested index
 	print("tuple4[0][3] is:",tuple4[0][3])		# 's'
 	print("tuple4[1][1] is:",tuple4[1][1])		# 4
+	print("tuple4[2][4] is:",tuple4[2][4])		# 8
+	print("--------------------------------------------------")
 	"""
 		From \cite[Learn Programming: Learn Python Programming, The Definitive Guide: Python Tuple]{ParewaLabsStaff20XY};
 			available at: https://www.programiz.com/python-programming/tuple;
 				last accessed on February 4, 2020.
 	"""
 	my_tuple = ('a','p','p','l','e',)
-	# In operation
+	print("my_tuple is:",my_tuple,".")
+	# In operation: Is a character/element/object in the tuple?
 	# Output: True
-	print("'a' in my_tuple",'a' in my_tuple,"")
+	print("'a' in my_tuple",'a' in my_tuple,"=")
 	# Output: False
-	print('b' in my_tuple)
-	# Not in operation
+	print("'b' in my_tuple",'b' in my_tuple,"=")
+	# Not in operation: Is a character/element/object not in the tuple?
 	# Output: True
-	print('g' not in my_tuple)
+	print("'g' not in my_tuple",'g' not in my_tuple,"=")
 	
