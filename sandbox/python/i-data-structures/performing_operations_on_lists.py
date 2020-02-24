@@ -138,7 +138,7 @@ if not isinstance(a, list):
 else:
 	print("=	a is a list??? When it should be an empty string object.")
 
-
+print("--------------------------------------------------")
 """
 	From [Garg 20XY]. This is a lousy method, and is not reliable.
 	Avoid it.
@@ -172,5 +172,27 @@ if not type(a) is list:
 	print("=	a is an empty string object!")
 else:
 	print("=	a is a list??? When it should be an empty string object.")
-
-
+print("--------------------------------------------------")
+b = [23, 34, 45, 56, 67, 78, 89]
+c = [2.3, 3.4, 4.5, 5.6, 6.7, 7.8, 8.9]
+for index, elem in enumerate(b):
+	print("	index is:", index,"and elem is:", elem,"=")
+print("--------------------------------------------------")
+low_and_high_values = [(-1,0.5), (-1,1), (-0.5,0.5), (-0.5,1), (0,1)]
+for elem in low_and_high_values:
+	if isinstance(low_and_high_values, tuple):
+		print("	elem is:",elem,"=")
+	else:
+		print("	elem is:",elem,"=. It is NOT a tuple!!!")
+print("--------------------------------------------------")
+for index, (car, cdr) in enumerate(low_and_high_values):
+	if isinstance(low_and_high_values, tuple):
+		print("	tuple index", index," (car",car," and cdr ",cdr,") is a tuple.")
+	else:
+		print("	tuple index", index," (car",car," and cdr ",cdr,") is NOT a tuple.")
+print("--------------------------------------------------")
+for index, cur_tuple in enumerate(low_and_high_values):
+	if isinstance(low_and_high_values, tuple):
+		print("	tuple index is", index," cur_tuple is",cur_tuple,"=")
+	else:
+		print("	tuple index is", index," cur_tuple is",cur_tuple,"=")
