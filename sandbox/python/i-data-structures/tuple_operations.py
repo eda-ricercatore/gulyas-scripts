@@ -172,3 +172,9 @@ if __name__ == "__main__":
 			print("	tuple index is", index,"cur_tuple is",cur_tuple,"=")
 		else:
 			print("	tuple index is", index,"cur_tuple is",cur_tuple,"=")
+	print("--------------------------------------------------")
+	empty_tuple = ()
+	if not empty_tuple:
+		print("	empty_tuple is:",empty_tuple,"=")
+	else:
+		print("	empty_tuple is NOT empty!!!")

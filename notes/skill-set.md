@@ -4961,6 +4961,32 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- https://github.com/PaddlePaddle/Paddle
 	- https://www.paddlepaddle.org.cn/
 + simultaneous machine translation (SMT) system
++ skills:
+	- You have experience with C++/C, CUDA, DX, or OpenGL.
+	- RISCV vector processor
+	- Familiarity with GPU computing (CUDA, OpenCL) and HPC (MPI, OpenMP)
+	- Experience with Linux and/or QNX operating systems.
+	- You bring experience with CUDA and deep learning frameworks (i.e TensorFlow or Torch)
+	- Strong background in research with publications from top robotics and AI conferences (i.e. RSS, ICRA, CVPR, NIPS)
+	- Familiarity with parallel programming (OpenMP, OpenACC, MPI)
+	- Direct experience with LLVM IR
+	- Knowledge of Modern C++ semantics
+	- You are familiar with how to use open-source tools like Postman, cURL, Swagger UI/Editor/Codegen to design, build, test, document and consume RESTful APIs
+	- You have a passion for building and deploying microservice applications and experience using open source tools like Docker, Kubernetes and Open Shift
+	- Knowledge of industry-standard web technologies like HTTPS, REST, JSON, OData, OAuth, JWT, NoSQL
+	- Knowledge of industry-standard web technologies like HTTPS, REST, JSON, OData, OAuth, JWT, NoSQL
+	- Define, implement and validate backward- and forward-compatible, secure, robust RESTful APIs. Integrate these APIs with industry-standard tools and open source frameworks
+	- Experience with any of the deep learning frameworks: Tensorflow, Caffé, Theano, Torch.
+	- Experience in applying Deep Learning to 3D Computer Vision problems.
+	- Design, run, and analyze A/B tests to evaluate the effectiveness of your solution on real-world data.
+	- Research, implement and evaluate deep-learning-based image analysis and data-driven algorithms such as active learning or semi-supervised learning for mining and leveraging frames in massive amounts of unlabeled data.
+	- Strong background in computer architecture, preferably in the areas of CPUs, GPUs, and networks
+	- Investigate new hardware and software mechanisms to extend state-of-the art networking in multi-GPU systems
+	- Model, and analyze the performance of applications on proposed architectures
+
+
+
+
 
 
 
@@ -4983,7 +5009,7 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 ###	Skills Mentioned in the 2020 Stack Overflow Developer Survey
 
 
-From the [2020 Stack Overflow Developer Survey](https://stackoverflow.az1.qualtrics.com/jfe/form/SV_eL0mFVwuo7KWeXP) 
+From the [2020 Stack Overflow Developer Survey](https://stackoverflow.az1.qualtrics.com/jfe/form/SV_eL0mFVwuo7KWeXP)
 + database environments
 	- [ ] Cassandra
 	- [ ] Couchbase
