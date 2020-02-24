@@ -57,7 +57,9 @@ if __name__ == "__main__":
 	for item in tuple_of_obj_of_diff_classes:
 		print("	item is:", item, ".")
 	print("= End enumeration of a tuple")
-	print("tuple_of_obj_of_diff_classes is:",tuple_of_obj_of_diff_classes,".")
+	print("tuple_of_obj_of_diff_classes is:",tuple_of_obj_of_diff_classes,"=")
+	print("tuple_of_obj_of_diff_classes[1] is:",tuple_of_obj_of_diff_classes[1],"=")
+	print("tuple_of_obj_of_diff_classes[3] is:",tuple_of_obj_of_diff_classes[3],"=")
 	print("--------------------------------------------------")
 	thistuple = ("apple", "banana", "cherry")
 	try:
@@ -121,7 +123,7 @@ if __name__ == "__main__":
 	else:
 		print("	-4.5 is NOT in 'low_and_high_values'.")
 	print("--------------------------------------------------")
-	low_and_high_values = ((-1,0.5), (-1,1), (-0.5,0.5), (-0.5,1), (0,1))
+	low_and_high_values = ((-1,0.5), (-1,1), (-0.5,0.5), (23,8), (-0.5,1), (0,1))
 	print("Number of elements in low_and_high_values, tuple of tuples:",len(low_and_high_values),"=")
 	test_value = -0.5
 	#if (-0.5) in low_and_high_values:
@@ -129,6 +131,15 @@ if __name__ == "__main__":
 		print("	-0.5 is in 'low_and_high_values'.")
 	else:
 		print("	-0.5 is NOT in 'low_and_high_values'.")
+	print("Only the cdr of cons of tuples in a tuple can be tested with the 'in' operator.")
+	if 23 in low_and_high_values:
+		print("	23 is in 'low_and_high_values'.")
+	else:
+		print("	23 is NOT in 'low_and_high_values'.")
+	if 8 in low_and_high_values:
+		print("	8 is in 'low_and_high_values'.")
+	else:
+		print("	8 is NOT in 'low_and_high_values'.")
 	if 3.5 not in low_and_high_values:
 		print("	3.5 is not in 'low_and_high_values'.")
 	else:
@@ -178,3 +189,41 @@ if __name__ == "__main__":
 		print("	empty_tuple is:",empty_tuple,"=")
 	else:
 		print("	empty_tuple is NOT empty!!!")
+	print("--------------------------------------------------")
+	low_and_high_values = ((-1,0.5,1,"Gracias",-0.5,0,"Ciao mondo!"))
+	if isinstance(low_and_high_values, tuple):
+		print("	low_and_high_values is a tuple:",low_and_high_values,"=")
+	else:
+		print("	low_and_high_values is NOT a tuple:",low_and_high_values,"=")
+	if 1==len(low_and_high_values):
+		print("	low_and_high_values has a tuple:",low_and_high_values,"=")
+	else:
+		print("	low_and_high_values has multiple elements:",low_and_high_values,"=")
+	for index, elem in enumerate(low_and_high_values):
+		print("index:",index,"elem is:",elem,"=")
+	print("--------------------------------------------------")
+	embedded_tuple = (-1,0.5,1,"Gracias",-0.5,0,"Ciao mondo!")
+	outer_tuple = (embedded_tuple)
+	if 1==len(outer_tuple):
+		print("	outer_tuple has a tuple:",outer_tuple,"=")
+	else:
+		print("	outer_tuple has multiple elements:",outer_tuple,"=")
+	print("A tuple cannot be embedded within () to form a tuple of a single tuple.")
+	print("A tuple of tuples with one element/tuple is not allowed.")
+	print("--------------------------------------------------")
+	deeply_embedded_tuple = (((((('geek',),),),),),)
+	if 1==len(deeply_embedded_tuple):
+		print("	deeply_embedded_tuple has a tuple:",deeply_embedded_tuple,"=")
+	else:
+		print("	deeply_embedded_tuple has multiple elements:",deeply_embedded_tuple,"=")
+	print("--------------------------------------------------")
+	deeply_embedded_tuple = (('geek',),)
+	if 1==len(deeply_embedded_tuple):
+		print("	less loops: deeply_embedded_tuple has a tuple:",deeply_embedded_tuple,"=")
+	else:
+		print("	less loops: deeply_embedded_tuple has multiple elements:",deeply_embedded_tuple,"=")
+	print("--------------------------------------------------")
+	if 1==len(deeply_embedded_tuple[0]):
+		print("	less loops: deeply_embedded_tuple[0] has a tuple:",deeply_embedded_tuple[0],"=")
+	else:
+		print("	less loops: deeply_embedded_tuple[0] has multiple elements:",deeply_embedded_tuple[0],"=")
