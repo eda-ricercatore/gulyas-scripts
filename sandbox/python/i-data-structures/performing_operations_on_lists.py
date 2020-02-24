@@ -175,6 +175,7 @@ else:
 print("--------------------------------------------------")
 b = [23, 34, 45, 56, 67, 78, 89]
 c = [2.3, 3.4, 4.5, 5.6, 6.7, 7.8, 8.9]
+d = [1.3, 2.4, 3.5, 4.6, 5.7, 6.8, 7.9]
 for index, elem in enumerate(b):
 	print("	index is:", index,"and elem is:", elem,"=")
 print("--------------------------------------------------")
@@ -185,14 +186,41 @@ for elem in low_and_high_values:
 	else:
 		print("	elem is:",elem,"=. It is NOT a tuple!!!")
 print("--------------------------------------------------")
+"""
+	References:
+	+ \url[section Built-in Functions]{DrakeJr2016b}
+		- https://docs.python.org/3/library/functions.html#enumerate
+		- Available online at: https://docs.python.org/3/library/functions.html#enumerate;
+			February 24, 2020 was the last accessed date.
+"""
 for index, (car, cdr) in enumerate(low_and_high_values):
 	if isinstance(low_and_high_values, tuple):
 		print("	tuple index", index," (car",car," and cdr ",cdr,") is a tuple.")
 	else:
 		print("	tuple index", index," (car",car," and cdr ",cdr,") is NOT a tuple.")
 print("--------------------------------------------------")
+"""
+	References:
+	+ \url[section Built-in Functions]{DrakeJr2016b}
+		- https://docs.python.org/3/library/functions.html#enumerate
+		- Available online at: https://docs.python.org/3/library/functions.html#enumerate;
+			February 24, 2020 was the last accessed date.
+"""
 for index, cur_tuple in enumerate(low_and_high_values):
 	if isinstance(low_and_high_values, tuple):
 		print("	tuple index is", index," cur_tuple is",cur_tuple,"=")
 	else:
 		print("	tuple index is", index," cur_tuple is",cur_tuple,"=")
+print("--------------------------------------------------")
+"""
+	Reference:
+	+ [Shadowfax2016]
+		- \cite{Shadowfax2016}
+		- Sha{\d}o{\omega}fa{\chi}, Answer to "Iterate a list with indexes in Python",
+		from Stack Exchange Inc.: Stack Overflow: Questions, Stack Exchange
+		Inc., New York, NY, February 16, 2016.
+		Available online from Stack Exchange Inc.: Stack Overflow: Questions at: https://stackoverflow.com/a/35429590 and https://stackoverflow.com/questions/126524/iterate-a-list-with-indexes-in-python/35429590#35429590;
+			February 24, 2020 was the last accessed date.
+"""
+for i, (bi,ci,di) in enumerate(zip(b,c,d)):
+    print("index", i, "elem 1:",bi, "elem 2:",ci, "elem 3:", di)
