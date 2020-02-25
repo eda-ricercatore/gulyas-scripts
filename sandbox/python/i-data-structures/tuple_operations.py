@@ -67,14 +67,13 @@ if __name__ == "__main__":
 	except TypeError:
 		# TypeError: 'tuple' object does not support item assignment
 		print("= tuples are immutable; they cannot be modified.")
-		print("  items cannot be added to or removed from tuples.")
-	thistuple = ("apple", "banana", "cherry")
+		print("  items cannot be added to tuples.")
 	try:
 		thistuple[2] = None # This will raise an error
 	except TypeError:
-		# TypeError: 'tuple' object does not support item assignment.
+		# TypeError: 'tuple' object does not support item assignment
 		print("= tuples are immutable; they cannot be modified.")
-		print("  items cannot be added to or removed from tuples.")
+		print("  items cannot be removed from tuples.")
 	print("--------------------------------------------------")
 	print(thistuple)
 	del thistuple
