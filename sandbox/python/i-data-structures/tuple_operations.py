@@ -227,3 +227,4 @@ if __name__ == "__main__":
 		print("	less loops: deeply_embedded_tuple[0] has a tuple:",deeply_embedded_tuple[0],"=")
 	else:
 		print("	less loops: deeply_embedded_tuple[0] has multiple elements:",deeply_embedded_tuple[0],"=")
+	print("deeply_embedded_tuple[0][0] is:",deeply_embedded_tuple[0][0],"=")
