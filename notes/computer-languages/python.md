@@ -2370,6 +2370,7 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 		* Such tuples of a single tuple have to defined/represented
 			within two sets of round brackets, with a comma appended
 			to the object `((an-object,),)` \cite{Krishna2020,Uppalapati20XY}.
+	- [Examples of enumerating a tuple with the index of each object in the tuple, and enumerating multiple tuples (of equal lengths) with the index of the currently enumerated object in the tuples](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/i-data-structures/tuple_operations.py)
 + sets \cite[Chapter 2, pp. 39]{Alchin2010} \cite[\S5.4]{Brandl2017a}
 	- Disallow duplicates
 	- The standard constructor accepts the following as inputs:

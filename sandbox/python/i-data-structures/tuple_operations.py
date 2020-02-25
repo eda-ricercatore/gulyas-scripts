@@ -266,3 +266,8 @@ if __name__ == "__main__":
 			print("	em_tuple index is:", index,"em_tuple is",em_tuple,"=")
 	print("Again, printed value of the sole string tuple, and the letters of that string.")
 	print("Printing a single tuple, with its own set of brackets, within a set of brackets will not define this as a tuple of a tuple.")
+	print("--------------------------------------------------")
+	a = (11,12,13,14,15,16,17)
+	b = (1.1,1.2,1.3,1.4,1.5,1.6,1.7)
+	c = (21,22,23,24,25,26,27)
+	
