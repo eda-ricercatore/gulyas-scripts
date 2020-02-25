@@ -1317,7 +1317,7 @@ Pages in \cite{Hetland2005} that deal with importing
 
 Immutable data types are \cite{Sturtz2020}:
 + tuples
-	- [Examples of trying to add an element to a tuple and of trying to remove an element from a tuple](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/i-data-structures/tuple_operations.py)
+	- [Examples of trying to add an element to a tuple and of trying to remove an element from a tuple. Errors for trying to do these were caught.](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/i-data-structures/tuple_operations.py)
 
 Dictionary keys have to be ([hashable](https://docs.python.org/3/glossary.html#term-hashable))
 	data types \cite{Sturtz2020}, such as the following: 
@@ -2356,6 +2356,7 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 				these arithmetic (and logic) operations.
 + tuples (and lists, sequences, and ranges) \cite[\S5.3]{Brandl2017a}
 	- Tuples are immutable \cite[Chapter 1, section on "Tuples", pp. 14]{Beazley2009}.
+		* [Examples of trying to add an element to a tuple and of trying to remove an element from a tuple. Errors for trying to do these were caught.](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/i-data-structures/tuple_operations.py)
 	- From \cite{ParewaLabsStaff20XYc}:
 		* Since tuples are immutable,  it can be faster to enumerate a
 			tuple than a list.
@@ -3831,6 +3832,7 @@ The primary built-in object types in *Python*
 + lists
 + tuples
 	- Tuples are immutable \cite[Chapter 1, section on "Tuples", pp. 14]{Beazley2009}.
+		* [Examples of trying to add an element to a tuple and of trying to remove an element from a tuple. Errors for trying to do these were caught.](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/i-data-structures/tuple_operations.py)
 + dictionaries
 
 
