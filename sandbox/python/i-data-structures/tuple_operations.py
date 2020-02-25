@@ -270,4 +270,5 @@ if __name__ == "__main__":
 	a = (11,12,13,14,15,16,17)
 	b = (1.1,1.2,1.3,1.4,1.5,1.6,1.7)
 	c = (21,22,23,24,25,26,27)
-	
+	for i, (bi,ci,di) in enumerate(zip(a,b,c)):
+		print("index", i, "elem 1:",bi, "elem 2:",ci, "elem 3:", di)
