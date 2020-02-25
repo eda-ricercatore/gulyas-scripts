@@ -1317,6 +1317,7 @@ Pages in \cite{Hetland2005} that deal with importing
 
 Immutable data types are \cite{Sturtz2020}:
 + tuples
+	- [Examples of trying to add an element to a tuple and of trying to remove an element from a tuple](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/i-data-structures/tuple_operations.py)
 
 Dictionary keys have to be ([hashable](https://docs.python.org/3/glossary.html#term-hashable))
 	data types \cite{Sturtz2020}, such as the following: 
