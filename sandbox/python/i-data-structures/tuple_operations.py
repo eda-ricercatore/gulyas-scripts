@@ -68,6 +68,13 @@ if __name__ == "__main__":
 		# TypeError: 'tuple' object does not support item assignment
 		print("= tuples are immutable; they cannot be modified.")
 		print("  items cannot be added to or removed from tuples.")
+	thistuple = ("apple", "banana", "cherry")
+	try:
+		thistuple[2] = None # This will raise an error
+	except TypeError:
+		# TypeError: 'tuple' object does not support item assignment.
+		print("= tuples are immutable; they cannot be modified.")
+		print("  items cannot be added to or removed from tuples.")
 	print("--------------------------------------------------")
 	print(thistuple)
 	del thistuple
@@ -228,3 +235,22 @@ if __name__ == "__main__":
 	else:
 		print("	less loops: deeply_embedded_tuple[0] has multiple elements:",deeply_embedded_tuple[0],"=")
 	print("deeply_embedded_tuple[0][0] is:",deeply_embedded_tuple[0][0],"=")
+	for index, cur_tuple in enumerate(deeply_embedded_tuple):
+		print("	tuple index is:", index,"cur_tuple is:",cur_tuple,"=")
+		for idx, em_tuple in enumerate(deeply_embedded_tuple[index]):
+			print("	em_tuple index is:", index,"em_tuple is",em_tuple,"=")
+	print("--------------------------------------------------")
+	deeply_embedded_tuple = (('geek'),)
+	for index, cur_tuple in enumerate(deeply_embedded_tuple):
+		print("	tuple index is:", index,"cur_tuple is:",cur_tuple,"=")
+		for idx, em_tuple in enumerate(deeply_embedded_tuple[index]):
+			print("	em_tuple index is:", index,"em_tuple is",em_tuple,"=")
+	print("Printed value of the sole string tuple, and the letters of that string.")
+	print("--------------------------------------------------")
+	deeply_embedded_tuple = (('geek',))
+	for index, cur_tuple in enumerate(deeply_embedded_tuple):
+		print("	tuple index is:", index,"cur_tuple is:",cur_tuple,"=")
+		for idx, em_tuple in enumerate(deeply_embedded_tuple[index]):
+			print("	em_tuple index is:", index,"em_tuple is",em_tuple,"=")
+	print("Again, printed value of the sole string tuple, and the letters of that string.")
+	print("Printing a single tuple, with its own set of brackets, within a set of brackets will not define this as a tuple of a tuple.")

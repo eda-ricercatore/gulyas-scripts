@@ -188,7 +188,7 @@ for elem in low_and_high_values:
 print("--------------------------------------------------")
 """
 	References:
-	+ \url[section Built-in Functions]{DrakeJr2016b}
+	+ url[section Built-in Functions]{DrakeJr2016b}
 		- https://docs.python.org/3/library/functions.html#enumerate
 		- Available online at: https://docs.python.org/3/library/functions.html#enumerate;
 			February 24, 2020 was the last accessed date.
@@ -201,7 +201,7 @@ for index, (car, cdr) in enumerate(low_and_high_values):
 print("--------------------------------------------------")
 """
 	References:
-	+ \url[section Built-in Functions]{DrakeJr2016b}
+	+ url[section Built-in Functions]{DrakeJr2016b}
 		- https://docs.python.org/3/library/functions.html#enumerate
 		- Available online at: https://docs.python.org/3/library/functions.html#enumerate;
 			February 24, 2020 was the last accessed date.
@@ -223,4 +223,19 @@ print("--------------------------------------------------")
 			February 24, 2020 was the last accessed date.
 """
 for i, (bi,ci,di) in enumerate(zip(b,c,d)):
-    print("index", i, "elem 1:",bi, "elem 2:",ci, "elem 3:", di)
+	print("index", i, "elem 1:",bi, "elem 2:",ci, "elem 3:", di)
+print("--------------------------------------------------")
+embedded_lists = [[[[["embedded list"]]]]]
+print("embedded_lists is:",embedded_lists,"=")
+for index, cur_list in enumerate(embedded_lists):
+	print("	index is:", index,"and currently enumerated list is:", cur_list,"=")
+	for idx2, em_list2 in enumerate(cur_list):
+		print("	idx2 is:", idx2,"and currently embedded2 list is:", em_list2,"=")
+		for idx3, em_list3 in enumerate(em_list2):
+			print("	idx3 is:", idx3,"and currently embedded3 list is:", em_list3,"=")
+			for idx4, em_list4 in enumerate(em_list3):
+				print("	idx4 is:", idx4,"and currently embedded4 list is:", em_list4,"=")
+				for idx5, em_list5 in enumerate(em_list4):
+					print("	idx5 is:", idx5,"and currently embedded5 list is:", em_list5,"=")
+print("With embedded lists, I can define a list of a list of a list of a list...")
+print("	Can't do that with embedded tuples.")
