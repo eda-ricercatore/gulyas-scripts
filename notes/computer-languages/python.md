@@ -2354,6 +2354,7 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 				performed on numbers, to check for the class/type of
 				objects in the list before enumerating the list to perform
 				these arithmetic (and logic) operations.
+	- [Examples of: embedded lists, or a list of a single list of a single list...; of enumerating a list and the index of each enumerated object; and of enumerating multiple lists with the index of the currently/concurrently enumerated objects](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/i-data-structures/performing_operations_on_lists.py)
 + tuples (and lists, sequences, and ranges) \cite[\S5.3]{Brandl2017a}
 	- Tuples are immutable \cite[Chapter 1, section on "Tuples", pp. 14]{Beazley2009}.
 		* [Examples of trying to add an element to a tuple and of trying to remove an element from a tuple. Errors for trying to do these were caught.](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/i-data-structures/tuple_operations.py)
@@ -2370,7 +2371,7 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 		* Such tuples of a single tuple have to defined/represented
 			within two sets of round brackets, with a comma appended
 			to the object `((an-object,),)` \cite{Krishna2020,Uppalapati20XY}.
-	- [Examples of enumerating a tuple with the index of each object in the tuple, and enumerating multiple tuples (of equal lengths) with the index of the currently enumerated object in the tuples](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/i-data-structures/tuple_operations.py)
+	- [Examples of enumerating a tuple with the index of each object in the tuple, and enumerating multiple tuples (of equal lengths) with the index of the currently/concurrently enumerated objects in the tuples](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/i-data-structures/tuple_operations.py)
 + sets \cite[Chapter 2, pp. 39]{Alchin2010} \cite[\S5.4]{Brandl2017a}
 	- Disallow duplicates
 	- The standard constructor accepts the following as inputs:
