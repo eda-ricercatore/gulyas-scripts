@@ -2365,6 +2365,11 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 		* Try to use tuples for heterogeneous (multiple) data types, and
 			lists for homogeneous (only one) data type.
 	- [Can store objects from different classes](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/i-data-structures/tuple_operations.py)
+	- [A tuple of a single tuple cannot be defined/represented within
+		two sets of round brackets `((an-object))`.](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/i-data-structures/tuple_operations.py)
+		* Such tuples of a single tuple have to defined/represented
+			within two sets of round brackets, with a comma appended
+			to the object `((an-object,),)` \cite{Krishna2020,Uppalapati20XY}.
 + sets \cite[Chapter 2, pp. 39]{Alchin2010} \cite[\S5.4]{Brandl2017a}
 	- Disallow duplicates
 	- The standard constructor accepts the following as inputs:

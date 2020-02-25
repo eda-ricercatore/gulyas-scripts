@@ -219,7 +219,7 @@ if __name__ == "__main__":
 	print("--------------------------------------------------")
 	"""
 		References:
-		+ url{Krishna2020}
+		+ cite{Krishna2020}
 			- Krishna, "Python TUPLE - Pack, Unpack, Compare, Slicing, Delete,
 				Key", from Guru99: Web: Python: Python Tutorial for Beginners
 				-- Learn Python Programming in 7 Days -- Python Data Structure,
@@ -228,6 +228,7 @@ if __name__ == "__main__":
 					Beginners -- Learn Python Programming in 7 Days -- Python
 					Data Structure at: https://www.guru99.com/python-tuples-tutorial-comparing-deleting-slicing-keys-unpacking.html;
 					February 25, 2020 was the last accessed date.
+		+ cite{Uppalapati20XY}
 	"""
 	deeply_embedded_tuple = (((((('geek',),),),),),)
 	if 1==len(deeply_embedded_tuple):
