@@ -217,6 +217,11 @@ if __name__ == "__main__":
 	print("A tuple cannot be embedded within () to form a tuple of a single tuple.")
 	print("A tuple of tuples with one element/tuple is not allowed.")
 	print("--------------------------------------------------")
+	"""
+		Krishna, "Python TUPLE - Pack, Unpack, Compare, Slicing, Delete, Key", from Guru99: Web: Python: Python Tutorial for Beginners -- Learn Python Programming in 7 Days -- Python Data Structure, Guru99 Tech Pvt Ltd, Ahmedabad, Gujarat, India, 2020.
+			Available online from Stack Exchange Inc.: Stack Overflow: Questions at: https://www.guru99.com/python-tuples-tutorial-comparing-deleting-slicing-keys-unpacking.html;
+				February 25, 2020 was the last accessed date.
+	"""
 	deeply_embedded_tuple = (((((('geek',),),),),),)
 	if 1==len(deeply_embedded_tuple):
 		print("	deeply_embedded_tuple has a tuple:",deeply_embedded_tuple,"=")
