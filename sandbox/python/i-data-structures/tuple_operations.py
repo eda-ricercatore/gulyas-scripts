@@ -282,3 +282,8 @@ if __name__ == "__main__":
 	c = (21,22,23,24,25,26,27)
 	for i, (bi,ci,di) in enumerate(zip(a,b,c)):
 		print("index", i, "elem 1:",bi, "elem 2:",ci, "elem 3:", di)
+	print("--------------------------------------------------")
+	d = (a,b,c)
+	print("d is:",d,"=")
+	e = (a,b,c,("Laszlo Tabori","Albert-Laszlo Barabasi",12.239,None))
+	print("e is:",e,"=")
