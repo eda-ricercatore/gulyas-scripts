@@ -128,6 +128,16 @@ if __name__ == "__main__":
 		print("	-4.5 is in 'low_and_high_values'.")
 	else:
 		print("	-4.5 is NOT in 'low_and_high_values'.")
+	if -1 in low_and_high_values:
+		print("	-1 is in 'low_and_high_values'.")
+	else:
+		print("	-1 is NOT in 'low_and_high_values'.")
+	print("--------------------------------------------------")
+	long_tuple = (121,23.5,9,432,0.23,23543,43,32)
+	if 0.23 in long_tuple:
+		print("	0.23 is in 'long_tuple'.")
+	else:
+		print("	0.23 is NOT in 'long_tuple'.")
 	print("--------------------------------------------------")
 	low_and_high_values = ((-1,0.5), (-1,1), (-0.5,0.5), (23,8), (-0.5,1), (0,1))
 	print("Number of elements in low_and_high_values, tuple of tuples:",len(low_and_high_values),"=")
