@@ -64,11 +64,16 @@ Names for repositories for my Ph.D. research shall be named after dishes and dri
 	- Information that I would need to enter information into my
 		*BibTeX* database of references (i.e., publications).
 + sandbox
+	- Subdirectory to test different concepts from different programming
+		languages that I am learning, or have learned and am revising.
 	- gnu-octave
 		* *Makefile* and *GNU Octave* scripts to test different
 			concepts that I have learned.
 	- python
 		* *Python* scripts to test different concepts that I have
+			learned.
+	- ruby
+		* *Ruby* scripts to test different concepts that I have
 			learned.
 + time-shifting
 	- *Makefile* and *GNU Octave* scripts to carry out my experiments
