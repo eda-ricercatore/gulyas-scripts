@@ -29,6 +29,7 @@
 #	Import packages and functions from the Python Standard Library.
 import string
 import os
+import sys
 
 
 #	============================================================
@@ -147,3 +148,23 @@ if not_empty_string:
 	print("+	The string is NOT empty.")
 else:
 	print("+	The string is EMPTY!!!")
+
+print("======================================================")
+
+my_string = ""
+
+if not my_string:
+	print("my_string is empty:",my_string,"=")
+else:
+	print("The string is:",my_string,"=")
+
+my_string = "Hello World"
+
+if not my_string:
+	print("my_string is empty:",my_string,"=")
+else:
+	print("The string is:",my_string,"=")
+
+print("= length of input arguments to the program:",len(sys.argv),"=")
+if 1 < len(sys.argv):
+	print("the first argument is:",sys.argv[1],"=")
