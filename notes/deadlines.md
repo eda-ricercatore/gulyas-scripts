@@ -473,7 +473,10 @@ Upcoming Submission deadlines:
 + [ESA, European Symposium on Algorithms](http://esa-symposium.org/): April 24, 2020.
 	- http://algo2020.di.unipi.it/ESA2020/index.html
 + [DFT 2020, IEEE International Symposium on Defect and Fault Tolerance in VLSI and Nanotechnology Systems](http://www.dfts.org): April 24 and May 8, 2020.
++ [USENIX Security '21, USENIX Security Symposium](https://www.usenix.org/conference/usenixsecurity20/call-for-papers): May 15, 2019, 8:00 pm EDT
 + [RV, International Conference on Runtime Verification](https://rv20.ait.ac.at/): May 18, 2019.
++ [ICCAD](https://iccad.com/): May 21 and 28, 2020.
++ [HPEC, IEEE High Performance Extreme Computing Conference](http://ieee-hpec.org): May 22, 2020.
 + [SecDev](https://secdev.ieee.org/2020/Papers/): May 25, 2020, 23:59:59 AoE.
 
 
@@ -748,7 +751,7 @@ List of conference "Call for Papers" deadlines:
 	- http://www.ieee-hpec.org/cfp.htm
 	- Waltham, MA
 	- September 22-24, 2020.
-	- Submission deadline: May 22, 2019.
+	- Submission deadline: May 22, 2020.
 
 
 
@@ -767,10 +770,10 @@ List of conference "Call for Papers" deadlines:
 
 + IISWC, IEEE International Symposium on Workload Characterization
 	- http://www.iiswc.org/
-	- http://www.iiswc.org/iiswc2019/index.html
-	- Orlando, FL.
+	- http://www.iiswc.org/iiswc2020/index.html
+	- Beijing, China.
 	- November 3-5, 2019
-	- Submission deadline: May 24 and 31, 2019
+	- Submission deadline: ***~~May 24 and 31, 2019~~???***
 
 
 
@@ -963,9 +966,11 @@ List of conference "Call for Papers" deadlines:
 
 
 + IEEE Sensors, IEEE Conference on Sensors
-	- https://ieee-sensors2019.org/
-	- Montreal, Canada.
-	- Submission deadline: June 18, 2019.
+	- https://2020.ieee-sensorsconference.org/
+	- https://2020.ieee-sensorsconference.org/pages/call-papers
+	- WTC, Rotterdam, The Netherlands.
+	- October 25-28, 2020.
+	- Submission deadline: June 18, 2020.
 
 
 
@@ -3883,7 +3888,11 @@ List of conference "Call for Papers" deadlines:
 
 
 
-
++ CP 2020, International Conference on Principles and Practice of Constraint Programming
+	- https://cp2020.a4cp.org/
+	- Louvain-la-Neuve, Belgium.
+	- September 7 - 11, 2020.
+	- Submission deadline: April 17 and 22, 2020.
 
 
 
@@ -4169,11 +4178,7 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ CP 2019,International Conference on Principles and Practice of Constraint Programming
-	- http://cp2019.a4cp.org/
-	- Stamford, CT.
-	- September 30 - October 4, 2019.
-	- Submission deadline: May 9 and 15, 2019.
+
 
 
 
