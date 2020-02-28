@@ -4160,7 +4160,11 @@ List of conference "Call for Papers" deadlines:
 
 
 
-
++ ICACS 2020, 4th International Conference on Algorithms, Computing and Systems
+	- http://icacs.org/topics.html
+	- Berlin, Germany
+	- September 26-28, 2020.
+	- Submission deadline: May 5, 2020.
 
 
 
