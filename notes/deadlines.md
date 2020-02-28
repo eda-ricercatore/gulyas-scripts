@@ -448,6 +448,7 @@ Upcoming Submission deadlines:
 + ***[ICPR, International Conference on Pattern Recognition](https://www.micc.unifi.it/icpr2020/): ~~March 2, 2020.~~ March 18, 2020, 23:59 European CEST.***
 + [The FATE of AI in Education: Fairness, Accountability, Transparency, and Ethics, A Special Issue of the International Journal of Artificial Intelligence in Education (IJAIED)](https://sites.google.com/view/thefateofaied): abstract submission deadline: January 31, 2020 (not required); and deadline for paper submission: March 30, 2020.
 + [IEEE International Conference on Quantum Computing & Engineering @ IEEE Quantum Week](https://qce.quantum.ieee.org/): April 5 and 27, 2020.
++ [PACT 2020](https://pact20.cc.gatech.edu/): April 10 and 17, 2020.
 + ***[OOPSLA](https://2020.splashcon.org/track/splash-2020-oopsla): April 15, 2019.***
 + [SPLASH Onward! papers](https://2020.splashcon.org/): April 17 and 23, 2020.
 
@@ -570,11 +571,14 @@ List of conference "Call for Papers" deadlines:
 	- Submission deadline: May 10 and 17, 2019.
 
 
+
+
+
 + FMCAD, International Conference on Formal Methods in Computer-Aided Design
-	- https://fmcad.forsyte.at/FMCAD20/
-	- Haifa, Israel.
-	- September 21-24, 2020.
-	- Submission deadline: April 9 and 16, 2020.
+	- Early deadline for 2020.
+
+
+
 
 
 + ICRC, IEEE International Conference on Rebooting Computing
@@ -721,6 +725,20 @@ List of conference "Call for Papers" deadlines:
 	- Waltham, MA
 	- September 22-24, 2020.
 	- Submission deadline: May 22, 2019.
+
+
+
+
++ ICCAD, International Conference On Computer Aided Design
+	- https://iccad.com/
+	- [CFP](https://iccad.com/2020_call_for_papers)
+	- San Diego, CA.
+	- November 2-5, 2020.
+	- Submission deadline: May 21 and 28, 2020.
+
+
+
+
 
 
 + IISWC, IEEE International Symposium on Workload Characterization
@@ -3004,8 +3022,8 @@ List of conference "Call for Papers" deadlines:
 	- http://www.podc.org
 	- http://www.podc.org/podc2020/call-for-papers/
 	- Salerno, Italy.
-	- August 3-7, 2019
-	- Submission deadline: February 17, 2019.
+	- August 3-7, 2020.
+	- Submission deadline: February 17, 2020.
 
 
 
@@ -3292,6 +3310,29 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ ACM Multimedia, ACM International Conference on Multimedia
+	- https://2020.acmmm.org/call-for-paper.html
+	- https://acmmm.org/
+	- October 12-16, 2020
+	- Seattle, WA.
+	- Submission deadlines: March 21 and 28, 2020, AoE.
+
+
+
+
++ Hot Chips 32, Hot Chips: A Symposium on High Performance Chips
+	- https://www.hotchips.org/
+	- Stanford University, Palo Alto, CA
+	- August 16-18, 2020.
+	- Submission deadlines: March 23, 2020.
+
+
+
+
+
+
+
+
 
 
 + MWSCAS, IEEE International Midwest Symposium on Circuits and Systems
@@ -3388,7 +3429,8 @@ List of conference "Call for Papers" deadlines:
 + ITC 2020, International Test Conference
 	- http://www.itctestweek.org/
 	- http://www.itctestweek.org/wp-content/uploads/2019/11/ITC_2020_Call_for_Papers_final-4.pdf
-	- Washington, D.C.
+	- November 3-5, 2020.
+	- Washington, D.C..
 	- Submission deadline: March 27 and April 3, 2020.
 
 
@@ -3501,16 +3543,11 @@ List of conference "Call for Papers" deadlines:
 
 
 
-
-
-
-
 + ICCAD, International Conference On Computer Aided Design
-	- https://iccad.com/
-	- [CFP](https://iccad.com/2020_call_for_papers)
-	- San Diego, CA.
-	- November 2-5, 2020.
-	- Submission deadline: May 21 and 28, 2020.
+	- Postponed to Late May for 2020.
+
+
+
 
 
 
@@ -3538,12 +3575,6 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ ACM Multimedia, ACM International Conference on Multimedia
-	- https://2020.acmmm.org/call-for-paper.html
-	- https://acmmm.org/
-	- October 12-16, 2020
-	- Seattle, WA.
-	- Submission deadlines: March 21 and 28, 2020, AoE.
 
 
 
@@ -3653,17 +3684,22 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ FMCAD, International Conference on Formal Methods in Computer-Aided Design
+	- https://fmcad.forsyte.at/FMCAD20/
+	- Haifa, Israel.
+	- September 21-24, 2020.
+	- Submission deadline: April 9 and 16, 2020.
 
 
 
 
 
-+ PACT19, International Conference on Parallel Architectures and Compilation Techniques
++ PACT, International Conference on Parallel Architectures and Compilation Techniques
 	- http://pactconf.org/
 	- https://pact20.cc.gatech.edu/
 	- October 3-7, 2020.
 	- Atlanta, Georgia.
-	- Submission deadline: April 10 and 17, 2019.
+	- Submission deadline: April 10 and 17, 2020.
 
 
 
@@ -4035,8 +4071,17 @@ List of conference "Call for Papers" deadlines:
 	- http://ppdp2019.macs.hw.ac.uk/ (no longer valid)
 	- Porto, Portugal
 	- October 7-9, 2019.
-	- Submission deadline: ~~May 4 and 10, 2019~~ May 10, 2019
+	- Submission deadline: ~~May 4 and 10, 2019~~ May 10, 2019.
 
+
+
+
+
++ IEEE Cluster 2020, IEEE Cluster Conference
+	- https://clustercomp.org/2020/
+	- Kobe, Japan.
+	- September 14-17, 2020.
+	- Submission deadline: ~~May 4 and 10, 2019~~ May 10, 2019
 
 
 
