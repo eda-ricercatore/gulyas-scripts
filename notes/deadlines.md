@@ -472,6 +472,7 @@ Upcoming Submission deadlines:
 + [SAS, Static Analysis Symposium](https://conf.researchr.org/home/sas-2020/): April 22 and 24, 2020.
 + [ESA, European Symposium on Algorithms](http://esa-symposium.org/): April 24, 2020.
 	- http://algo2020.di.unipi.it/ESA2020/index.html
++ [RV, International Conference on Runtime Verification](https://rv20.ait.ac.at/): May 18, 2019.
 + [SecDev](https://secdev.ieee.org/2020/Papers/): May 25, 2020, 23:59:59 AoE.
 
 
@@ -720,12 +721,12 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ RV 2019, 19th International Conference on Runtime Verification
-	- https://www.react.uni-saarland.de/rv2019/cfp.html
-	- Part of the 3rd World Congress on Formal Methods
-	- October 9-11, 2019
-	- Porto, Portugal
-	- Submission deadline: May 21, 2019
++ RV, International Conference on Runtime Verification
+	- https://rv20.ait.ac.at/
+	- https://www.runtime-verification.org/
+	- October 6-9, 2020.
+	- Los Angeles, California.
+	- Submission deadline: May 18, 2019
 
 
 
@@ -4023,10 +4024,7 @@ List of conference "Call for Papers" deadlines:
 
 
 + RV, International Conference on Runtime Verification
-	- https://www.react.uni-saarland.de/rv2019/
-	- Porto, Portugal.
-	- October 8-11, 2019.
-	- Submission deadline: April 30, 2019.
+	- Deadline for 2020 delayed till mid-May, 2020.
 
 
 
