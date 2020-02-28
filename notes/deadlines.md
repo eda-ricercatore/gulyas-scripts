@@ -3659,11 +3659,11 @@ List of conference "Call for Papers" deadlines:
 
 
 + FOCS, Annual IEEE Symposium on Foundations of Computer Science
-	- http://focs2019.cs.jhu.edu/
+	- https://focs2020.cs.duke.edu/index.php/cfp/
 	- http://ieee-focs.org
-	- Baltimore, MD
-	- Conference dates: November 9-12, 2019.
-	- Submission deadline: April 5, 2019.
+	- Durham, North Carolina.
+	- Conference dates: November 16-19, 2020.
+	- Submission deadline: April 9, 2019, 11:59 p.m. U.S. EDT.
 
 
 
