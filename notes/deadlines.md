@@ -937,9 +937,9 @@ List of conference "Call for Papers" deadlines:
 
 + ICCD, IEEE International Conference on Computer Design
 	- https://www.iccd-conf.com/Home.html
-	- Abu Dhabi, United Arab Emirates.
-	- November 17-20, 2019.
-	- Submission deadline: June 21 and 28, 2019.
+	- Hartford, Connecticut.
+	- October 18 - 21, 2020.
+	- Submission deadline: ***~~June 21 and 28, 2019~~???***.
 
 
 
