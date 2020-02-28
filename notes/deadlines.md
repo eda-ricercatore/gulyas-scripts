@@ -907,6 +907,19 @@ List of conference "Call for Papers" deadlines:
 
 
 
+
+
++ BioCAS, IEEE Biomedical Circuits and Systems Conference
+	- https://2020.ieee-biocas.org/
+	- Berlin, Germany.
+	- October 15-17, 2020.
+	- Submission deadline: June 8, 2020.
+
+
+
+
+
+
 + HiPC 2020, 27th IEEE International Conference on High Performance Computing, Data, and Analytics.
 	- https://hipc.org/
 	- December 16-19, 2020.
@@ -999,12 +1012,6 @@ List of conference "Call for Papers" deadlines:
 
 
 
-
-+ BioCAS, IEEE Biomedical Circuits and Systems Conference
-	- https://biocas2019.org/
-	- Nara, Japan.
-	- October 17-19, 2019.
-	- Submission deadline: June 24, 2019 (extended)
 
 
 
