@@ -768,12 +768,13 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ MASCOTS 2019, 27th IEEE International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems
-	- https://sites.google.com/view/mascots-2019/calls/cfp?authuser=0
-	- https://sites.google.com/view/mascots-2019/dates?authuser=0
-	- Rennes, France
-	- October 22-24, 2019
-	- Submission deadline: May 27, 2019
++ MASCOTS 2020, 27th IEEE International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems
+	- http://mascots.iitis.pl/
+	- https://easychair.org/cfp/MASCOTS2020
+	- http://mascots.iitis.pl/?page_id=251
+	- Rennes, France.
+	- November 17-19, 2020.
+	- Submission deadline: June 1, 2020.
 
 
 
@@ -877,6 +878,13 @@ List of conference "Call for Papers" deadlines:
 		* June 8 and 15, 2019
 		* October 8 and 15, 2019
 
+
+
++ HiPC 2020, 27th IEEE International Conference on High Performance Computing, Data, and Analytics.
+	- https://hipc.org/
+	- December 16-19, 2020.
+	- Pune, India.
+	- Submission deadline: June 9 and 16, 2020.
 
 
 
@@ -3271,8 +3279,8 @@ List of conference "Call for Papers" deadlines:
 
 + SYSTOR 2020, 13th ACM International Systems and Storage Conference
 	- http://www.systor.org/2020/
-	- Haifa, Israel
-	- June 2-4, 2020
+	- Haifa, Israel.
+	- June 2-4, 2020.
 	- Submission deadline: March 3, 2020.
 
 
@@ -3303,7 +3311,7 @@ List of conference "Call for Papers" deadlines:
 	- http://www.fpl.org/h/
 	- August 31 - September 4, 2020.
 	- Gothenburg, Sweden.
-	- Submission deadline: March 16 and 23, 2019.
+	- Submission deadline: March 16 and 23, 2020.
 
 
 
@@ -4441,7 +4449,10 @@ List of conference "Call for Papers" deadlines:
 	- Interplay between other areas of computer science and simulation: simulation for decision support, workflows, artificial intelligence, virtual reality, big data, service-oriented approaches, grid-computing, visual analytics, probabilistic programming.
 	- Advanced Applications: Novel techniques and tools for simulating specific complex systems such as those arising in communication networks, computer science, cyber physical systems, health care, manufacturing, social science, systems biology, systems medicine, transportation systems.
 
+##	Other Journals
 
++ Future Generation Computer Systems
+	- https://www.journals.elsevier.com/future-generation-computer-systems/
 
 
 
