@@ -4043,12 +4043,12 @@ List of conference "Call for Papers" deadlines:
 
 + ICIS, International Conference on Information Systems
 	- https://icis2020.aisconferences.org/
-	- https://icis2019.aisconferences.org/submissions/call-for-papers/
+	- https://icis2020.aisconferences.org/submissions/call-for-papers/
 	- https://aisnet.org/page/ICISPage
 	- https://aisnet.org/page/Prevandfutureconf
 	- Hyderabad, India
 	- December 13-16, 2020
-	- Submission deadline: ~~May 1, 2019.~~
+	- Submission deadline: May 3, 2020.
 
 
 
