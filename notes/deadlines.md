@@ -465,8 +465,14 @@ Upcoming Submission deadlines:
 + ***[OOPSLA](https://2020.splashcon.org/track/splash-2020-oopsla): April 15, 2019.***
 + [SPLASH Onward! papers](https://2020.splashcon.org/): April 17 and 23, 2020.
 + [OOPSLA](https://2020.splashcon.org/track/splash-2020-oopsla): April 15, 2019.
++ [CHES 2020](https://ches.iacr.org/2020/): April 15, 2019.
++ [VLSI-SoC](https://www.aconf.org/conf_173100.html): April 20 and 27, 2020.
+	- https://sites.google.com/view/vlsi-soc-2020/
++ [MFCS](http://mfcs.mff.cuni.cz/2020/): April 20, 2019.
++ [SAS, Static Analysis Symposium](https://conf.researchr.org/home/sas-2020/): April 22 and 24, 2020.
++ [ESA, European Symposium on Algorithms](http://esa-symposium.org/): April 24, 2020.
+	- http://algo2020.di.unipi.it/ESA2020/index.html
 + [SecDev](https://secdev.ieee.org/2020/Papers/): May 25, 2020, 23:59:59 AoE.
-
 
 
 
@@ -3880,7 +3886,7 @@ List of conference "Call for Papers" deadlines:
 
 + VLSI-SoC, IFIP/IEEE International Conference on Very Large Scale Integration
 	- https://www.aconf.org/conf_173100.html
-	- https://sites.google.com/view/vlsi-soc-2020//
+	- https://sites.google.com/view/vlsi-soc-2020/
 	- Salt Lake City, UT.
 	- October 5-7, 2019.
 	- Submission deadlines: April 20 and 27, 2020.
@@ -3917,6 +3923,7 @@ List of conference "Call for Papers" deadlines:
 
 + PPAM, International Conference on Parallel Processing and Applied Mathematics
 	- https://ppam.pl/
+	- Held every two years in odd-numbered years.
 	- Bialystok, Poland
 	- September 8-11, 2019
 	- Submission deadline: ~~April 21 and May 31, 2019.~~ May 6 and June 17, 2019
@@ -3961,10 +3968,10 @@ List of conference "Call for Papers" deadlines:
 
 
 + MFCS 2019, 44th International Symposium on Mathematical Foundations of Computer Science
-	- https://tcs.rwth-aachen.de/mfcs2019/
-	- August 26-30, 2019
-	- Aachen, Germany
-	- Submission deadline: April 22, 2019.
+	- http://mfcs.mff.cuni.cz/2020/
+	- August 24-28, 2020.
+	- Prague, Czech Republic.
+	- Submission deadline: April 20, 2019.
 
 
 
@@ -3980,19 +3987,19 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ ALGO 2019,
-	- https://algo2019.ak.in.tum.de/
-	- September 9-13, 2019.
-	- Munich, Germany.
++ ALGO 2020,
+	- http://algo2020.di.unipi.it/
+	- September 7-10, 2020.
+	- Pisa, Italy.
 	- Organized by the European Association for Theoretical Computer Science (EATCS).
 		* http://eatcs.org/
-	- ESA 2019, European Symposium on Algorithms
+	- ESA, European Symposium on Algorithms
 		* http://esa-symposium.org/
-		* https://algo2019.ak.in.tum.de/index.php/menue-esa/esa-call
-		* Submission deadline: April 26, 2019, 23:59 AoE (Anywhere on Earth).
+		* http://algo2020.di.unipi.it/ESA2020/index.html
+		* Submission deadline: April 24, 2020.
 	- ALGOSENSORS, International Symposium on Algorithms and Experiments for Wireless Sensor Networks
 	- ATMOS, Workshop on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems
-	- IPEC, International Symposium on Parameterized and Exact Computation
+	- ***~~IPEC, International Symposium on Parameterized and Exact Computation~~???***
 		* new techniques for the design and analysis of parameterized and exact algorithms;
 		* fixed-parameter tractability and kernelization results;
 		* parameterized complexity theory;
