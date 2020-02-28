@@ -472,6 +472,7 @@ Upcoming Submission deadlines:
 + [SAS, Static Analysis Symposium](https://conf.researchr.org/home/sas-2020/): April 22 and 24, 2020.
 + [ESA, European Symposium on Algorithms](http://esa-symposium.org/): April 24, 2020.
 	- http://algo2020.di.unipi.it/ESA2020/index.html
++ [DFT 2020, IEEE International Symposium on Defect and Fault Tolerance in VLSI and Nanotechnology Systems](http://www.dfts.org): April 24 and May 8, 2020.
 + [RV, International Conference on Runtime Verification](https://rv20.ait.ac.at/): May 18, 2019.
 + [SecDev](https://secdev.ieee.org/2020/Papers/): May 25, 2020, 23:59:59 AoE.
 
@@ -3873,7 +3874,12 @@ List of conference "Call for Papers" deadlines:
 
 
 
-
++ ASE, IEEE/ACM International Conference on Automated Software Engineering
+	- https://conf.researchr.org/home/ase-2020
+	- http://ase-conferences.org/
+	- Melbourne, Australia.
+	- September 21-25, 2020.
+	- Submission deadline: April 17 and 24, 2019.
 
 
 
@@ -4071,11 +4077,11 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ DFT 2018, IEEE International Symposium on Defect and Fault Tolerance in VLSI and Nanotechnology Systems
++ DFT 2020, IEEE International Symposium on Defect and Fault Tolerance in VLSI and Nanotechnology Systems
 	- http://www.dfts.org
-	- ESA-ESTEC & TU Delft, Netherlands.
-	- October 2–4, 2019.
-	- Submission deadline: May 3 and 17, 2019.
+	- ESA-ESRIN, Frascati (Rome) Italy.
+	- October 19–21, 2020.
+	- Submission deadline: April 24 and May 8, 2020.
 
 
 
@@ -4089,10 +4095,14 @@ List of conference "Call for Papers" deadlines:
 
 + ISWC, International Symposium on Wearable Computers
 	- http://iswc.net/iswc20/
-	- http://www.iswc.net/iswc19/cfp_papers.html
+	- http://iswc.net/iswc20/cfp/papers.html
 	- Cancún, México
 	- September 12-16, 2020
-	- Submission deadline: ~~April 26, 2019~~ May 3, 2019 (extended)
+	- Submission deadlines:
+		* Issue 4, 2019 (December 1, 2019): August 15, 2019
+		* Issue 1, 2020 (March 1, 2020): November 15, 2019
+		* Issue 2, 2020 (June 1, 2020): February 15, 2020
+		* ***Issue 3, 2020 (September 1, 2020): May 15, 2020***
 
 
 
@@ -4137,11 +4147,7 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ ASE, IEEE/ACM International Conference on Automated Software Engineering
-	- https://2019.ase-conferences.org/
-	- San Diego, California.
-	- November 11-15, 2019.
-	- Submission deadline: May 6 and 13, 2019.
+
 
 
 + MPC 2019, 13th International Conference on Mathematics of Program Construction
@@ -4152,13 +4158,13 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ ICLP, 35th International Conference on Logic Programming
-	- https://www.cs.nmsu.edu/ALP/iclp2019/
-	- September 20-25, 2019
-	- Las Cruces, New Mexico, USA
-	- Submission deadline: May 8 and 15, 2019
++ ICLP, 36th International Conference on Logic Programming
+	- https://iclp2020.unical.it/home
+	- September 18-24, 2020.
+	- Rende (CS), Italy.
+	- Submission deadline: May 8 and 15, 2020
 		* The program committee of the 35th International Conference on Logic Programming (ICLP) invites submissions of published journal papers and papers presented at related conferences for the Sister Conferences and Journal Presentation Track.
-			+ June 27, 2019.
+			+ ~~June 27, 2019.~~
 
 
 
