@@ -445,6 +445,7 @@ Upcoming Submission deadlines:
 + *[ISMM](https://conf.researchr.org/track/ismm-2020/ismm-2020): February 28, 2020.*
 + ***[ISLPED](http://www.islped.org/2020/): March 2 and 9, 2020.***
 + ***[ECCV](https://eccv2020.eu/important-dates/): March 5, 2020.***
++ [ISVLSI](http://www.isvlsi.org): March 13, 2020.
 + ***[ICPR, International Conference on Pattern Recognition](https://www.micc.unifi.it/icpr2020/): ~~March 2, 2020.~~ March 18, 2020, 23:59 European CEST.***
 + [The FATE of AI in Education: Fairness, Accountability, Transparency, and Ethics, A Special Issue of the International Journal of Artificial Intelligence in Education (IJAIED)](https://sites.google.com/view/thefateofaied): abstract submission deadline: January 31, 2020 (not required); and deadline for paper submission: March 30, 2020.
 + [IEEE International Conference on Quantum Computing & Engineering @ IEEE Quantum Week](https://qce.quantum.ieee.org/): April 5 and 27, 2020.
@@ -3064,11 +3065,11 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ ISVLSI 2019, IEEE Computer Society Annual Symp. on VLSI
++ ISVLSI, IEEE Computer Society Annual Symposium on VLSI
 	- http://www.isvlsi.org
 	- http://www.eng.ucy.ac.cy/theocharides/isvlsi19/
 	- Limassol, Cyprus.
-	- Submission deadline: February 20, 2020.
+	- Submission deadline: ~~February 20, 2020.~~ March 13, 2020.
 
 
 
@@ -3194,8 +3195,9 @@ List of conference "Call for Papers" deadlines:
 
 + SAMOS, International Conference on Embedded Computer Systems: Architectures, Modeling, and Simulation
 	- https://samos-conference.com
-	- Samos Island, Greece.
-	- Submission deadline: March 1, 2019.
+	- Pythagoreio, Samos Island, Greece.
+	- July 5–9, 2020.
+	- Submission deadline: ~~March 1, 2019.~~ March 13, 2020
 
 
 
