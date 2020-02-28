@@ -150,6 +150,8 @@ Transparency
 	- https://econcs.pku.edu.cn/icalp2020/
 	- http://eatcs.org/index.php/future-icalps
 	- ICALP 2020 in Beijing, China.
+		* Venue and dates changed to: Saarbrücken, Germany, July 8-11.
+			+ This is because of the spread of the coronavirus/COVID-19 virus infections.
 	- Main conference: July 8-12, 2020.
 	- Submission deadline: February 12, 2020, AoE.
 + ICCV, International Conference on Computer Vision
@@ -228,7 +230,9 @@ Transparency
 + LICS, ACM/IEEE Symposium on Logic in Computer Science
 	- http://lics.siglog.org/lics20/
 	- http://lics.siglog.org/lics20/cfp.php
-	- Saarbrücken, Germany.
+	- Beijing, China.
+		* Venue and dates changed to: Saarbrücken, Germany, July 8-11.
+			+ This is because of the spread of the coronavirus/COVID-19 virus infections.
 	- July 8-11, 2020.
 	- Submission deadline: **January 6 and 10, 2020.**
 + LPAR-24, International Conference on Logic for Programming Artificial Intelligence and Reasoning
@@ -1095,6 +1099,7 @@ List of conference "Call for Papers" deadlines:
 	- https://ches.iacr.org/
 	- https://ches.iacr.org/2020/
 	- Beijing, China
+		* Possible venue change due to the spread of the coronavirus/COVID-19 virus infections.
 	- September 14-17, 2020
 	- IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES)
 	- Submission deadlines:
@@ -1815,6 +1820,7 @@ List of conference "Call for Papers" deadlines:
 + CHES 2020, Conference on Cryptographic Hardware and Embedded Systems
 	- https://ches.iacr.org/
 	- https://ches.iacr.org/2020/
+		* Possible venue change due to the spread of the coronavirus/COVID-19 virus infections.
 	- Beijing, China
 	- September 14-17, 2020
 	- IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES)
@@ -2495,6 +2501,7 @@ List of conference "Call for Papers" deadlines:
 + CHES 2020, Conference on Cryptographic Hardware and Embedded Systems
 	- https://ches.iacr.org/
 	- https://ches.iacr.org/2020/
+		* Possible venue change due to the spread of the coronavirus/COVID-19 virus infections.
 	- Beijing, China
 	- September 14-17, 2020
 	- IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES)
@@ -3760,6 +3767,7 @@ List of conference "Call for Papers" deadlines:
 	- https://ches.iacr.org/
 	- https://ches.iacr.org/2020/
 	- Beijing, China
+		* Possible venue change due to the spread of the coronavirus/COVID-19 virus infections.
 	- September 14-17, 2020
 	- IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES)
 	- Submission deadlines:
