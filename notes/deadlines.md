@@ -459,10 +459,13 @@ Upcoming Submission deadlines:
 + [The FATE of AI in Education: Fairness, Accountability, Transparency, and Ethics, A Special Issue of the International Journal of Artificial Intelligence in Education (IJAIED)](https://sites.google.com/view/thefateofaied): abstract submission deadline: January 31, 2020 (not required); and deadline for paper submission: March 30, 2020.
 + [ESWEEK](https://www.esweek.org): April 3 and 10, 2020.
 + [IEEE International Conference on Quantum Computing & Engineering @ IEEE Quantum Week](https://qce.quantum.ieee.org/): April 5 and 27, 2020.
++ [FOCS](https://focs2020.cs.duke.edu/index.php/cfp/): April 9, 2019, 11:59 p.m. U.S. EDT.
++ [FMCAD](https://fmcad.forsyte.at/FMCAD20/): April 9 and 16, 2020.
 + [PACT 2020](https://pact20.cc.gatech.edu/): April 10 and 17, 2020.
 + ***[OOPSLA](https://2020.splashcon.org/track/splash-2020-oopsla): April 15, 2019.***
 + [SPLASH Onward! papers](https://2020.splashcon.org/): April 17 and 23, 2020.
-
++ [OOPSLA](https://2020.splashcon.org/track/splash-2020-oopsla): April 15, 2019.
++ [SecDev](https://secdev.ieee.org/2020/Papers/): May 25, 2020, 23:59:59 AoE.
 
 
 
@@ -3697,10 +3700,10 @@ List of conference "Call for Papers" deadlines:
 
 
 + HPCS 2020, International Conference on High Performance Computing & Simulation
-	- http://hpcs2019.cisedu.info/
-	- July 15 – 19, 2019
-	- Dublin, Ireland
-	- Submission deadline: April 8, 2019.
+	- http://hpcs2020.cisedu.info/
+	- July 20 – 24, 2020.
+	- Barcelona, Spain.
+	- Submission deadline: March 15, 2020.
 
 
 
@@ -3763,6 +3766,7 @@ List of conference "Call for Papers" deadlines:
 + FCT, 22nd International Symposium on Fundamentals of Computation Theory
 	- https://di.ku.dk/fct2019/call-for-papers/
 	- https://di.ku.dk/fct2019/
+	- Held every two years, in odd-numbered years.
 	- August 11–14, 2019
 	- Copenhagen, Denmark
 	- Submission deadline: April 14, 2019
@@ -3813,10 +3817,11 @@ List of conference "Call for Papers" deadlines:
 
 
 + SecDev, IEEE Secure Development Conference
+	- https://secdev.ieee.org/2020/Papers/
 	- https://secdev.ieee.org/2020/Home
 	- September 28-30, 2020.
 	- Atlanta, GA.
-	- Submission deadlines: ~~April 15-22, 2019.~~???
+	- Submission deadlines: ~~April 15-22, 2019.~~ May 25, 2020, 23:59:59 AoE.
 
 
 
