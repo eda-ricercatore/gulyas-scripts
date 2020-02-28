@@ -4056,11 +4056,12 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ DISC 202?, International Symposium on Distributed Computing
++ DISC 2020, International Symposium on Distributed Computing
 	- http://www.disc-conference.org/wp/
-	- VENUE
-	- DATES
-	- Submission deadline: Early May, 2020.
+	- http://www.disc-conference.org/wp/disc2020/
+	- Freiburg, Germany.
+	- October 12-16, 2020.
+	- Submission deadline: May 14, 2020.
 
 
 
