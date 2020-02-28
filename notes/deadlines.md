@@ -4273,7 +4273,7 @@ List of conference "Call for Papers" deadlines:
 				- Benchmarking of emerging computing technologies from their suitability as a platform for security system design
 	- http://tvlsi.egr.duke.edu/
 	- https://ieee-cas.org/publications/transactions-very-large-scale-integration-systems
-+ IEEE Transactions on Computers (TC)
++ *IEEE Transactions on Computers (TC)*
 	- "These areas include, but are not limited to, the following: a) computer organizations and architectures; b) operating systems, software systems, and communication protocols; c) real-time systems and embedded systems; d) digital devices, computer components, and interconnection networks; e) specification, design, prototyping, and testing methods and tools; f) performance, fault tolerance, reliability, security, and testability; g) case studies and experimental and theoretical evaluations; and h) new and important applications and trends."
 	- https://www.computer.org/web/tc/about
 + **IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)**
