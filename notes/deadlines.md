@@ -228,8 +228,8 @@ Transparency
 + LICS, ACM/IEEE Symposium on Logic in Computer Science
 	- http://lics.siglog.org/lics20/
 	- http://lics.siglog.org/lics20/cfp.php
-	- Beijing, China.
-	- July 8-12, 2020.
+	- Saarbrücken, Germany.
+	- July 8-11, 2020.
 	- Submission deadline: **January 6 and 10, 2020.**
 + LPAR-24, International Conference on Logic for Programming Artificial Intelligence and Reasoning
 	- http://lpar.net/
@@ -2341,8 +2341,8 @@ List of conference "Call for Papers" deadlines:
 + LICS, ACM/IEEE Symposium on Logic in Computer Science
 	- http://lics.siglog.org/lics20/
 	- http://lics.siglog.org/lics20/cfp.php
-	- Beijing, China.
-	- July 8-12, 2020.
+	- Saarbrücken, Germany.
+	- July 8-11, 2020.
 	- Submission deadline: **January 6 and 10, 2020.**
 
 
@@ -3555,8 +3555,10 @@ List of conference "Call for Papers" deadlines:
 
 + ESWEEK, Embedded Systems Week
 	- https://www.esweek.org
-	- October 11-16, 2020.
-	- Shanghai, China.
+	- September 20-25, 2020.
+		* Hamburg, Germany.
+	- October 10-15, 2021.
+		* Shanghai, China.
 	- Submission deadline: **April 3 and 10, 2019**.
 	- **CASES, International Conference on Compilers, Architectures, and Synthesis for Embedded Systems**
 	- **CODES+ISSS, International Conference on Hardware/Software Codesign and System Synthesis**
