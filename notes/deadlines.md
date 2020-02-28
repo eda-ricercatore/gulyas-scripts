@@ -446,8 +446,18 @@ Upcoming Submission deadlines:
 + ***[ISLPED](http://www.islped.org/2020/): March 2 and 9, 2020.***
 + ***[ECCV](https://eccv2020.eu/important-dates/): March 5, 2020.***
 + [ISVLSI](http://www.isvlsi.org): March 13, 2020.
++ [FPL](https://www.fpl2020.org/): March 16 and 23, 2020.
 + ***[ICPR, International Conference on Pattern Recognition](https://www.micc.unifi.it/icpr2020/): ~~March 2, 2020.~~ March 18, 2020, 23:59 European CEST.***
++ [ACM Multimedia](https://2020.acmmm.org/call-for-paper.html): March 21 and 28, 2020, AoE.
++ [Hot Chips 32](https://www.hotchips.org/): March 23, 2020.
++ [MWSCAS](http://mwscas2020.org/): March 23, 2019.
++ [ASAP](https://asap2020.cs.manchester.ac.uk/cfp.html): March 27 and April 3, 2020.
++ [ITC 2020](http://www.itctestweek.org/): March 27 and April 3, 2020.
++ [SenSys](http://sensys.acm.org/2020/cfp/): March 27 and April 6, 2020.
++ [QEST 2020](http://www.qest.org/qest2020/call-for-papers.html): March 27 and April 3, 2020.
++ [MICRO](https://www.microarch.org/micro53/): March 27 and April 3, 2020.
 + [The FATE of AI in Education: Fairness, Accountability, Transparency, and Ethics, A Special Issue of the International Journal of Artificial Intelligence in Education (IJAIED)](https://sites.google.com/view/thefateofaied): abstract submission deadline: January 31, 2020 (not required); and deadline for paper submission: March 30, 2020.
++ [ESWEEK](https://www.esweek.org): April 3 and 10, 2020.
 + [IEEE International Conference on Quantum Computing & Engineering @ IEEE Quantum Week](https://qce.quantum.ieee.org/): April 5 and 27, 2020.
 + [PACT 2020](https://pact20.cc.gatech.edu/): April 10 and 17, 2020.
 + ***[OOPSLA](https://2020.splashcon.org/track/splash-2020-oopsla): April 15, 2019.***
@@ -566,10 +576,12 @@ List of conference "Call for Papers" deadlines:
 
 
 + NOCS, IEEE/ACM International Symposium on Networks-on-Chip
-	- https://www.esweek.org/nocs-about
+	- http://nocs2020.engr.uky.edu/
+	- Hamburg, Germany.
+		* September 24-25, 2020.
 	- Shanghai, China.
-	- October 11–16, 2020.
-	- Submission deadline: May 10 and 17, 2019.
+		* October 14-15, 2021.
+	- Submission deadline: April 24 and May 1, 2020.
 
 
 
@@ -892,9 +904,9 @@ List of conference "Call for Papers" deadlines:
 + RSP, International Workshop on Rapid System Prototyping
 	- http://conferences.telecom-bretagne.eu/rsp-symposium/cfp/
 	- https://www.esweek.org/rsp-about
-	- New York, NY.
+	- Hamburg, Germany.
 	- Formerly, International Symposium on Rapid System Prototyping
-	- Submission deadline: June 11 and 18, 2019.
+	- Submission deadline: ***~~June 11 and 18, 2019.~~???***
 
 
 
@@ -3296,7 +3308,7 @@ List of conference "Call for Papers" deadlines:
 	- http://sirocco.hiit.fi/
 	- Paderborn, Germany
 	- June 29 - July 1, 2020.
-	- Submission deadline: March 6, 11:59 pm (AoE)
+	- Submission deadline: March 6, 2020, 11:59 p.m. (AoE)
 
 
 
@@ -3530,7 +3542,7 @@ List of conference "Call for Papers" deadlines:
 	- https://www.microarch.org
 	- Athens, Greece.
 	- October 17-21, 2020.
-	- Submission deadline: March 29 and April 5, 2019.????
+	- Submission deadline: March 27 and April 3, 2020.
 
 
 
@@ -3607,7 +3619,7 @@ List of conference "Call for Papers" deadlines:
 		* Hamburg, Germany.
 	- October 10-15, 2021.
 		* Shanghai, China.
-	- Submission deadline: **April 3 and 10, 2019**.
+	- Submission deadline: **April 3 and 10, 2020**.
 	- **CASES, International Conference on Compilers, Architectures, and Synthesis for Embedded Systems**
 	- **CODES+ISSS, International Conference on Hardware/Software Codesign and System Synthesis**
 	- EMSOFT, ACM SIGBED International Conference on Embedded Software
