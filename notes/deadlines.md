@@ -4451,9 +4451,31 @@ List of conference "Call for Papers" deadlines:
 
 ##	Other Journals
 
-+ Future Generation Computer Systems
-	- https://www.journals.elsevier.com/future-generation-computer-systems/
-
++ [Future Generation Computer Systems](https://www.journals.elsevier.com/future-generation-computer-systems/)
+	- Applications and application support:
+		* Novel applications for novel e-infrastructures
+		* Complex workflow applications
+		* Big Data registration, processing and analyses
+		* Problem solving environments and virtual laboratories
+		* Semantic and knowledge based systems
+		* Collaborative infrastructures and virtual organizations
+		* Methods for high performance and high throughput computing
+		* Urgent computing
+		* Scientific, industrial, social and educational implications
+		* Education
+	- Methods and tools:
+		* Tools for infrastructure development and monitoring
+		* Distributed dynamic resource management and scheduling
+		* Information management
+		* Protocols and emerging standards
+		* Methods and tools for internet computing
+		* Security aspects
+	- Theory:
+		* Process specification;
+		* Program and algorithm design
+		* Theoretical aspects of large scale communication and computation
+		* Scaling and performance theory
+		* Protocols and their verification
 
 
 
