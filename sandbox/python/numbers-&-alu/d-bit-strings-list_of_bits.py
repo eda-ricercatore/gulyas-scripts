@@ -48,6 +48,10 @@ print("a is:",a,".")
 aa = [int(i) for i in np.binary_repr(0b0111)]
 print("aa is:",aa,".")
 print("--------------------------------------------------")
+"""
+	Use the "find()" method for the 'string' class to determine
+		if a substring exists in a given/particular string.
+"""
 b = "This is "
 c = "a good way to benchmark circuits."
 d = b+c
