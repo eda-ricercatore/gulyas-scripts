@@ -443,7 +443,7 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 
 Upcoming Submission deadlines:
 + *[ISMM](https://conf.researchr.org/track/ismm-2020/ismm-2020): February 28, 2020.*
-+ ***[ISLPED](http://www.islped.org/2020/): March 2 and 9, 2020.***
++ ***[ISLPED](http://www.islped.org/2020/): ~~March 2 and 9, 2020~~ March 16 and 23, 2020.***
 + ***[ECCV](https://eccv2020.eu/important-dates/): March 5, 2020.***
 + [ISVLSI](http://www.isvlsi.org): March 13, 2020.
 + [FPL](https://www.fpl2020.org/): March 16 and 23, 2020.
