@@ -15,8 +15,8 @@
 	+ \cite[Section 6 Expressions, subsection 6.9. Binary bitwise operations]{DrakeJr2016a}
 		- The bitwise operators for the boolean operations AND, XOR,
 			and XOR must be operated on integers.
-	+ cite[From section "Functional Programming Modules", subsection "operator — Standard operators as functions"]{DrakeJr2016b}
-		- https://docs.python.org/3/library/index.html
+	+ \cite[From section "Functional Programming Modules", subsection "operator — Standard operators as functions"]{DrakeJr2016b}
+		- Available online from Python: The Python Standard Library: section "Functional Programming Modules": subsection "operator — Standard operators as functions" at: https://docs.python.org/3/library/operator.html#module-operator; March 2, 2020 was the last accessed date
 
 
 	Revision History:
