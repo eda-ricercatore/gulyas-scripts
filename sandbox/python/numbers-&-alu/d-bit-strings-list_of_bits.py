@@ -1,7 +1,7 @@
 #!/Users/zhiyang/anaconda3/bin/python3
 ###!/usr/local/bin/python3
 
-
+import random
 import numpy as np
 
 
@@ -70,3 +70,21 @@ i = format(10, '#o')
 print("i is:",i,"=")
 j = format(10, 'o')
 print("j is:",j,"=")
+print("--------------------------------------------------")
+k = bin(random.getrandbits(7))
+print("k = bin(random.getrandbits(n)) - 1",k,"=")
+k = bin(random.getrandbits(7))
+print("k = bin(random.getrandbits(n)) - 2",k,"=")
+k = bin(random.getrandbits(7))
+print("k = bin(random.getrandbits(n)) - 3",k,"=")
+k = bin(random.getrandbits(7))
+print("k = bin(random.getrandbits(n)) - 4",k,"=")
+k = bin(random.getrandbits(7))
+print("k = bin(random.getrandbits(n)) - 5",k,"=")
+k = bin(random.getrandbits(7))
+print("k = bin(random.getrandbits(n)) - 5",k,"=")
+k = bin(random.getrandbits(7))
+print("k = bin(random.getrandbits(n)) - 5",k,"=")
+k = bin(random.getrandbits(7))
+print("k = bin(random.getrandbits(n)) - 5",k,"=")
+print("The bin(random.getrandbits(n)) method does not have 'n' bits for a n-bit binary string, since the leading zeros of the binary string are truncated.")
