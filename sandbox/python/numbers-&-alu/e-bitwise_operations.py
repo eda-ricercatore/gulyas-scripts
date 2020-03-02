@@ -15,6 +15,8 @@
 	+ \cite[Section 6 Expressions, subsection 6.9. Binary bitwise operations]{DrakeJr2016a}
 		- The bitwise operators for the boolean operations AND, XOR,
 			and XOR must be operated on integers.
+	+ cite[From section "Functional Programming Modules", subsection "operator — Standard operators as functions"]{DrakeJr2016b}
+		- https://docs.python.org/3/library/index.html
 
 
 	Revision History:
@@ -63,6 +65,8 @@ __date__ = 'September 11, 2018'
 				+ logging.warning("")
 				+ logging.error("")
 				+ logging.critical("")
+	operators	For performing the boolean XOR, exclusive OR, operation
+					on two input arguments.
 """
 
 import sys
@@ -79,3 +83,72 @@ import json
 import calendar
 import logging
 from sys import stdin, stdout, stderr
+import operator
+
+
+# a = 0b1001 = 9
+a = 0b1001
+# b = 0b0101 = 5
+b = 0b0101
+# c = 0b1100 = 12
+c = a^b
+print("'a' xor 'b' is:",c,"=")
+print("=========================================================")
+a = False
+print("'a' is:",a,"=")
+b = False
+print("'b' is:",b,"=")
+c = a^b
+print("'a' xor 'b' is:",c,"=")
+print("---------------------------------------------------------")
+a = False
+print("'a' is:",a,"=")
+b = True
+print("'b' is:",b,"=")
+c = a^b
+print("'a' xor 'b' is:",c,"=")
+print("---------------------------------------------------------")
+a = True
+print("'a' is:",a,"=")
+b = False
+print("'b' is:",b,"=")
+c = a^b
+print("'a' xor 'b' is:",c,"=")
+print("---------------------------------------------------------")
+a = True
+print("'a' is:",a,"=")
+b = True
+print("'b' is:",b,"=")
+c = a^b
+print("'a' xor 'b' is:",c,"=")
+print("If the input parameters/arguments for the boolean bitwise operator '^' are 'True' and/or 'False' values, the boolean bitwise operator '^' is valid for implementing the XOR boolean operation.")
+print("=========================================================")
+a = False
+print("'a' is:",a,"=")
+b = False
+print("'b' is:",b,"=")
+c = operator.xor(a, b)
+print("xor(a, b) is:",c,"=")
+print("---------------------------------------------------------")
+a = False
+print("'a' is:",a,"=")
+b = True
+print("'b' is:",b,"=")
+c = operator.xor(a, b)
+print("xor(a, b) is:",c,"=")
+print("---------------------------------------------------------")
+a = True
+print("'a' is:",a,"=")
+b = False
+print("'b' is:",b,"=")
+c = operator.xor(a, b)
+print("xor(a, b) is:",c,"=")
+print("---------------------------------------------------------")
+a = True
+print("'a' is:",a,"=")
+b = True
+print("'b' is:",b,"=")
+c = operator.xor(a, b)
+print("xor(a, b) is:",c,"=")
+print("xor(a,b) = a^b. Hence, use the xor() boolean function, if the boolean bitwise operator is confusing to me/us.")
+
