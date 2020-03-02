@@ -41,6 +41,7 @@ Names for repositories for my Ph.D. research shall be named after dishes and dri
 		* [UNIX\*-like operating systems](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/notes/cheat-sheets/unix-like-os)
 			+ [SSH commands](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/cheat-sheets/unix-like-os/ssh_unix_cmds.md)
 			+ [UNIX commands](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/cheat-sheets/unix-like-os/unix-information.md)
+			+ [Information about *Git* and *GitHub*]()
 		* [algorithm analysis](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/cheat-sheets/algorithm-analysis.md)
 		* [database and information systems](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/cheat-sheets/databases_and_information_systems.md)
 		* [interoperability between programming languages](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/cheat-sheets/interoperability-between-programming-languages.md)
