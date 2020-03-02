@@ -35,7 +35,7 @@ Attempted solutions that resolves, or works around, the problem:
 
 ###	Customized *Git* Commit Messages with Build Automation
 
-Enter the following text into a Makefile for build automation for your project, using *Git* as the revision/version control tool, or software configuration management tool.
+Enter the following text into a *Makefile* for build automation for your project, using *Git* as the revision/version control tool, or software configuration management tool.
 
 
 	# From the "Terminal" application, try:
