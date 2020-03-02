@@ -34,6 +34,17 @@ Names for repositories for my Ph.D. research shall be named after dishes and dri
 		projects.](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/notes/guidelines)
 		* Documentation about [guidelines that I am following for my research,
 			and for my research collaborators to know about](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/guidelines/guidelines.pdf).
+	- ["Call for Papers" information](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/notes/cfp)
+	- [cheet sheets](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/notes/cheat-sheets)
+		* [thinking paradigms](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/notes/cheat-sheets/thinking-paradigms)
+			+ [Note about computational thinking](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/cheat-sheets/thinking-paradigms/computational_thinking.md)
+		* [UNIX\*-like operating systems](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/notes/cheat-sheets/unix-like-os)
+			+ [SSH commands](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/cheat-sheets/unix-like-os/ssh_unix_cmds.md)
+			+ [UNIX commands](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/cheat-sheets/unix-like-os/unix-information.md)
+		* [algorithm analysis](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/cheat-sheets/algorithm-analysis.md)
+		* [database and information systems](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/cheat-sheets/databases_and_information_systems.md)
+		* [interoperability between programming languages](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/cheat-sheets/interoperability-between-programming-languages.md)
+		* [workflow](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/cheat-sheets/workflow.md)
 	- Dependency list
 		* [List of software and software libraries that this code base is dependent on.](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/dependency_list.md)
 	- Externalities list.
@@ -57,8 +68,16 @@ Names for repositories for my Ph.D. research shall be named after dishes and dri
 			+ [Shortcuts for *Doxygen*, and Research Needs from the Semiconductor Research Corporation](https://github.com/eda-ricercatore/boilerplate-code/blob/master/notes/to-do-list.md)
 			+ [Help document for SSH access](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/cheat-sheets/unix-like-os/ssh_unix_cmds.md)
 			+ Notes about [object-oriented programming, and object-oriented analysis and design](https://github.com/eda-ricercatore/boilerplate-code/blob/master/notes/miscellaneo/comments.md)
-	- [Note about computational thinking](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/cheat-sheets/thinking-paradigms/computational_thinking.md)
+	- [tutorials](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/notes/tutorials)
+		- [Information Regarding Mathematics](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/mathematics.md)
+		- [Git and GitHub Tutorial](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial.md)
+		- [Notes for Computational Experimentation](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/computational-experimentation.md)
+		- [Suggestions for Taking An EECS Approach to Engineering](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/suggestions-taking-eecs-approach-to-engineering.md)
+	- [book reviews](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/notes/reviews)
+		* [Book reviews that I have written](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/reviews/list-of-reviews.md)
 	- To-do list (Operation Go-to-ICCAD, in Italian).
+	- pics
+		* Storage subdirectory to contain pictures for notes.
 + references
 	- Currently deprecated.
 	- Information that I would need to enter information into my
