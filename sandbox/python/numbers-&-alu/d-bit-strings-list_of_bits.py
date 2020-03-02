@@ -4,6 +4,8 @@
 
 import numpy as np
 
+
+#	This works!
 a = [int(i) for i in np.binary_repr(0b0111, 4)]
 print("0b0111 is:",a,".")
 a = [int(i) for i in np.binary_repr(0b000000111, 9)]
@@ -26,8 +28,21 @@ try:
 	f = 0b834
 except SyntaxError:
 	print("A binary number, or integer in base 2, cannot contain numerical digits other than '0' and '1'.")
+	print("Even if I try to catch the 'SyntaxError' exception, it will still throw/raise the 'SyntaxError' exception.")
 """
 print("--------------------------------------------------")
+"""
+	From \cite[SciPy.org: Numpy and Scipy Documentation: NumPy v1.17 Manual:
+		NumPy Reference: Routines: Binary operations -- Output
+		formatting]{Jones2018i}
+	+ Updated NumPy Reference as Release 1.17, July 26, 2019.
+	+ Available online from {SciPy.org}: {Numpy} and {Scipy} Documentation:
+		{NumPy} v1.17 Manual: NumPy Reference: Routines: Binary
+		operations -- Output formatting at: https://docs.scipy.org/doc/numpy/reference/generated/numpy.binary_repr.html;
+		March 2, 2020 was the last accessed date
+	+ If the optional "width" parameter that has been "[d]eprecated since
+		version 1.12.0." is not provided, it will truncate the leading zero(s).
+"""
 a = [int(i) for i in np.binary_repr(0b0111, 4)]
 print("a is:",a,".")
 aa = [int(i) for i in np.binary_repr(0b0111)]
