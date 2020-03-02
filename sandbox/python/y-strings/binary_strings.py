@@ -13,6 +13,7 @@ import numpy as np
 def binary_string_operations_1():
 	a = [int(i) for i in np.binary_repr(0b0111, 4)]
 	print("a is:",a,".")
+	print("isinstance(a, str) is:",isinstance(a, list),"=")
 	b = "This is "
 	c = "a good way to benchmark circuits."
 	d = b+c
@@ -31,11 +32,14 @@ def binary_string_operations_1():
 		print("bin_str is NOT a string!!!")
 	f = "{0:b}".format(7)
 	print("7 as a binary string:",f,"=")
+	print("isinstance(f, str) is:",isinstance(f, str),"=")
 	g = "{0:8b}".format(7)
 	print("7 as an 8-bit binary string:",g,"=")
+	print("isinstance(g, str) is:",isinstance(g, str),"=")
 	print("=	0-value bits are represented by character spaces, rather than 0-value bits.")
 	h = "{0:4b}".format(7)
 	print("7 as a 4-bit binary string:",h,"=")
+	print("isinstance(h, str) is:",isinstance(h, str),"=")
 	try:
 		bin_str = bin(7)
 		j = [int(i) for i in np.binary_repr(bin_str, 5)]
