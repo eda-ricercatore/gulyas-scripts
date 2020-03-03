@@ -63,11 +63,33 @@ def binary_string_operations_2():
 	print("a is:",a,".")
 	a = [int(i) for i in np.binary_repr(0b011010101010, 15)]
 	print("a is:",a,".")
+	"""
+		If the number of bits is less than the number of bits required
+			to represent the number, the method will still represent
+			the entire number (as a list of 0s and 1s) without any
+			leading zeros (which may be present, depending on the value
+			of the binary number if just enough bits are used to represent
+			the binary number).
+
+		From \cite[SciPy.org: Numpy and Scipy Documentation: NumPy v1.17 Manual:
+		NumPy Reference: Routines: Binary operations -- Output
+		formatting]{Jones2018i}
+		+ Updated NumPy Reference as Release 1.17, July 26, 2019.
+		+ Available online from {SciPy.org}: {Numpy} and {Scipy} Documentation:
+			{NumPy} v1.17 Manual: NumPy Reference: Routines: Binary
+			operations -- Output formatting at: https://docs.scipy.org/doc/numpy/reference/generated/numpy.binary_repr.html;
+			March 2, 2020 was the last accessed date
+		+ If the optional "width" parameter that has been "[d]eprecated since
+			version 1.12.0." is not provided, it will truncate the leading zero(s).
+	"""
+	a = [int(i) for i in np.binary_repr(0b011010101010, 5)]
+	print("a is:",a,".")
 	try:
 		a = [int(i) for i in np.binary_repr("9", 15)]
 		print("a is:",a,".")
 	except TypeError:
 		print("Cannot convert '9' to a list of 0-1 integers.")
+		print("Method cannot turn integer-as-a-string into a list of 0s and 1s.")
 
 
 
@@ -79,6 +101,7 @@ def binary_string_operations_3():
 		print("a is:",a,".")
 	except TypeError:
 		print("Cannot convert '1100' to a list of 0-1 integers.")
+		print("Method cannot turn binary string into a list of 0s and 1s.")
 	# 1100 (in decimal) = 4+8+64+1024
 	a = [int(i) for i in np.binary_repr(1100, 15)]
 	print("a is:",a,".")
