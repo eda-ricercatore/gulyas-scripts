@@ -2,6 +2,11 @@
 ###!/usr/local/bin/python3
 
 
+"""
+	This is written by Zhiyang Ong to test concepts with different
+		or unusual operations with numbers.
+"""
+
 import numpy as np
 # From https://docs.python.org/3/library/statistics.html
 import statistics as s

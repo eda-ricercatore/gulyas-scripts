@@ -1,6 +1,11 @@
 #!/Users/zhiyang/anaconda3/bin/python3
 ###!/usr/local/bin/python3
 
+"""
+	This is written by Zhiyang Ong to test concepts with obtaining
+		the minimum and maximum number of integers and floating-point
+		numbers.
+"""
 
 import sys
 
