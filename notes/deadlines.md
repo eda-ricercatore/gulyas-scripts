@@ -442,7 +442,7 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 
 
 Upcoming Submission deadlines:
-+ *[ISMM](https://conf.researchr.org/track/ismm-2020/ismm-2020): February 28, 2020.*
++ *[ISMM](https://conf.researchr.org/track/ismm-2020/ismm-2020): ~~February 28~~ March 6, 2020.*
 + ***[ISLPED](http://www.islped.org/2020/): ~~March 2 and 9, 2020~~ March 16 and 23, 2020.***
 + ***[ECCV](https://eccv2020.eu/important-dates/): March 5, 2020.***
 + [ISVLSI](http://www.isvlsi.org): March 13, 2020.
@@ -3120,7 +3120,7 @@ List of conference "Call for Papers" deadlines:
 	- https://www.sigplan.org/Conferences/ISMM/
 	- London, U.K..
 	- June 16, 2020.
-	- Submission deadline: February 28, 2020.
+	- Submission deadline: ~~February 28~~ March 6, 2020.
 
 
 
