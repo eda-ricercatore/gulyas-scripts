@@ -3151,7 +3151,7 @@ List of conference "Call for Papers" deadlines:
 	- http://www.islped.org/2020/
 	- Boston, MA.
 	- August 10-12, 2020.
-	- Submission deadline: March 2 and 9, 2020, 23:59 hrs, U.S. PST.
+	- Submission deadline: ~~March 2 and 9, 2020~~ March 16 and 23, 2020, 23:59 hrs, U.S. PST.
 
 
 

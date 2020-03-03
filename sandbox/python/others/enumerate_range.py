@@ -14,12 +14,16 @@ print("======================================")
 
 """
 	Reference:
-	+ karakfa, Answer to "TITLE," Stack Exchange Inc., New York, NY, MONTH DAY, YEAR.
+	+ karakfa, Answer to "List comprehension of powers of 2 in Python
+		fails with numpy array," Stack Exchange Inc., New York, NY,
+		February 17, 2020.
 		Available online from Stack Exchange Inc.: Stack Overflow: Questions at: https://stackoverflow.com/a/48843178/1531728 and https://stackoverflow.com/questions/48843102/list-comprehension-of-powers-of-2-in-python-fails-with-numpy-array/48843178#48843178;
 			March 3, 2020 was the last accessed date.
 	+ endolith, Answer to "For loop iterate over powers of 2," Stack Exchange Inc., New York, NY, June 23, 2016.
 		Available online from Stack Exchange Inc.: Stack Overflow: Questions at: https://stackoverflow.com/a/37980195/1531728 and https://stackoverflow.com/questions/31872713/for-loop-iterate-over-powers-of-2/37980195#37980195;
 			March 3, 2020 was the last accessed date.
+	+ Jorick Spitzen
+
 """
 
 powers_of_two = [ 2**power for power in range(3,10+1)]
@@ -63,6 +67,13 @@ for i in map(lambda v : pow(2,v), range(0,int(log(sys.maxint, 2)))):
     print("Power of two till log(sys.maxint, 2) is:",i,"=")
 
 
+
+
+
+import functools
+bases = numbers = [1,2,3]
+power = exponent = 3
+cubed = list(map(functools.partial(pow, exponent), numbers))
 
 
 print("======================================")
