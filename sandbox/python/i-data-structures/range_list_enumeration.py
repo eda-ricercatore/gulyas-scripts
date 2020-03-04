@@ -372,7 +372,10 @@ print(list(linspace(0, 10, 5)))
 # [0.0, 2.5, 5.0, 7.5, 10]
 """
 
+print("======================================")
 
+for i in [round(float(j)) / 100 for j in range(0, 100, 5)]:
+    print("i is:",i,"=")
 
 
 
