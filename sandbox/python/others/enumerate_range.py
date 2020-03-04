@@ -126,7 +126,6 @@ print("squares are:",squares,"=")
 
 print("- - - - - - - - - - - - - - - - - - -")
 
-#programiz.com
 """
 	Reference:
 	+ Parewa Labs staff, "Python Program To Display Powers of 2 Using
