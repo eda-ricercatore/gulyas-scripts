@@ -10,6 +10,8 @@ This is a sandbox, for trying out different concepts with "throwaway" scripts, f
 	- [performing operations on lists, using functional programming and otherwise](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/i-data-structures/performing_operations_on_lists.py)
 		* includes an example on [list comprehension](https://en.wikipedia.org/wiki/List_comprehension), which is exploited in functional programming (for monad comprehension, set comprehension, dictionary comprehension, parallel list comprehension)
 		* "List comprehension results in faster operations than explicit *for* loops"
+		* [Using the *range(start,end,incremental_step)* function to create a list ranging from *start* to *end*, with increments of *incremental_step*, and using it to create lists of powers of 2 (e.g., 2, 4, 8, 16, 32, 64, 128, 256, 512, 1024, ...)](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/i-data-structures/range_list_enumeration.py)
+			- Also, uses a range of floating-point numbers with increments that are floating-point numbers, and demonstrates different solutions for doing this.
 + [data visualization](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/python/b-visualization)
 	- bar charts to compare experimental/simulation from different solutions for each category/benchmark
 		* https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/b-visualization/barchart_3_groups.py
