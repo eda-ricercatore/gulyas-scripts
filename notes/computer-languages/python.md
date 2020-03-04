@@ -2355,6 +2355,13 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 				objects in the list before enumerating the list to perform
 				these arithmetic (and logic) operations.
 	- [Examples of: embedded lists, or a list of a single list of a single list...; of enumerating a list and the index of each enumerated object; and of enumerating multiple lists with the index of the currently/concurrently enumerated objects](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/i-data-structures/performing_operations_on_lists.py)
+		* includes an example on [list comprehension](https://en.wikipedia.org/wiki/List_comprehension), which is exploited in functional programming (for monad comprehension, set comprehension, dictionary comprehension, parallel list comprehension)
+		* "List comprehension results in faster operations than explicit *for* loops" \cite{ParewaLabsStaff20XYa}.
+		* [Using the *range(start,end,incremental_step)* function to create a list ranging from *start* to *end*, with increments of *incremental_step*, and using it to create lists of powers of 2 (e.g., 2, 4, 8, 16, 32, 64, 128, 256, 512, 1024, ...)](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/i-data-structures/range_list_enumeration.py)
+			- Also, uses a range of floating-point numbers with increments that are floating-point numbers, and demonstrates different solutions for doing this.
+	- From the [subsubsection on *Python* Functions (section *Python* Classes)](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#python-functions), check out the comparisons between the following:
+		* list comprehensions versus (loops and *Python* Functions) \cite{ParewaLabsStaff20XYa}.
+		* list comprehensions versus (maps and filters) \cite[Chapter 6, pp. 135]{Hetland2005}.
 + tuples (and lists, sequences, and ranges) \cite[\S5.3]{Brandl2017a}
 	- Tuples are immutable \cite[Chapter 1, section on "Tuples", pp. 14]{Beazley2009}.
 		* [Examples of trying to add an element to a tuple and of trying to remove an element from a tuple. Errors for trying to do these were caught.](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/i-data-structures/tuple_operations.py)
