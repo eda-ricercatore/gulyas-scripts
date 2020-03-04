@@ -97,9 +97,18 @@ print("======================================")
 
 """
 	Reference:
-	AndrewSmiley, Answer to "For loop iterate over powers of 2," Stack Exchange Inc., New York, NY, June 20, 2016.
+	+ AndrewSmiley, Answer to "For loop iterate over powers of 2," Stack Exchange Inc., New York, NY, June 20, 2016.
 		Available online from Stack Exchange Inc.: Stack Overflow: Questions at: https://stackoverflow.com/a/37930871/1531728 and https://stackoverflow.com/questions/31872713/for-loop-iterate-over-powers-of-2/37930871#37930871;
 			March 3, 2020 was the last accessed date.
+	+ \cite[from section "Numeric and Mathematical Modules", subsection
+		"math — Mathematical functions"]{DrakeJr2016b}
+		- Available online from Python: The Python Standard Library:
+			Numeric and Mathematical Modules: math — Mathematical functions at:
+			https://docs.python.org/3/library/math.html#math.pow; March 2, 2020 was the last accessed date.
+		- Also, see:
+			* https://www.tutorialspoint.com/python/number_pow.htm
+			* https://www.w3schools.com/python/ref_func_pow.asp
+			* https://www.geeksforgeeks.org/pow-in-python/
 """
 
 from math import log
@@ -174,6 +183,21 @@ bases = numbers = [1,2,3]
 power = exponent = 3
 cubed = list(map(functools.partial(pow, exponent), numbers))
 print("cubed is:",cubed,"=")
+
+print("======================================")
+
+"""
+	\cite["numpy.power", from section Routines, subsection (and subsubsection) Mathematical functions: Arithmetic operations]{TheSciPyCommunity2019c}
+"""
+
+import numpy as np
+x1 = range(1,10+1)
+x2 = np.power(2, x1)
+print("x2 is:",x2,"=")
+for index in x2:
+	print("array element is:",index,"=")
+
+
 
 print("======================================")
 print("=	End Here	=")
