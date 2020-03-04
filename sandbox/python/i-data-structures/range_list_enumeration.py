@@ -230,6 +230,10 @@ print("[np.arange(3.5, 6.0, 0.25)] is:",a,"=")
 """
 a = [np.arange(3.5, 6.0, 0.25)]
 print("[np.arange(3.5, 6.0, 0.25)] is:",a,"=")
+# Convert NumPy array into a (Python) list.
+a = np.arange(3.5, 6.0, 0.25).tolist()
+print("np.arange(3.5, 6.0, 0.25).tolist() is:",a,"=")
+
 
 print("======================================")
 
@@ -256,6 +260,29 @@ start_point = 0
 end_point = 10
 a = [bias+scaling_factor*x for x in range(0, 10)]
 print("[bias+scaling_factor*x for x in range(0, 10)] is:",a,"=")
+
+print("======================================")
+
+
+
+"""
+	cmsjr and Peter Mortensen, Answer to "How to use a decimal range()
+		step value?," Stack Exchange Inc., New York, NY, February 1, 2015.
+	Available online from Stack Exchange Inc.: Stack Overflow: Questions at:
+		https://stackoverflow.com/a/477506/1531728 and
+		https://stackoverflow.com/questions/477486/how-to-use-a-decimal-range-step-value/477506#477506;
+		March 4, 2020 was the last accessed date.
+"""
+for i in range(0, 100, 10):
+	print("for range(0, 100, 10), i/100.0 is:",i/100.0,"=")
+print("- - - - - - - - - - - - - - - - - - -")
+for i in range(0, 20, 2):
+	print("for range(0, 20, 2), i/10.0 is:",i/10.0,"=")
+
+
+
+
+
 
 
 
