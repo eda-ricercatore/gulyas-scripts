@@ -21,53 +21,53 @@
 
 ##	Table of Contents
 
-+ [Differences between *Python 3.x* and *Python 2.y*](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#differences-between-python-3x-and-python-2y)
-+ [Design Decisions](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#design-decisions)
-+ [Syntax Rules Regarding Identifiers](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#syntax-rules-regarding-identifiers)
-+ [Importing *Python* Classes, Modules, and Packages](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#importing-python-classes-modules-and-packages)
-+ [*Python* Classes](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#python-classes)
-	- [Object management](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#object-management)
-	- [*Python* Functions](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#python-functions)
-		* [Functional Programming with *Python*](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#functional-programming-with-python)
-+ [*Python*-based Software Development](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#python-based-software-development)
-	- [*Python*ic Coding Style](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#pythonic-coding-style)
-	- [*Python* Documentation](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#python-documentation)
-	- [Input/Output Operations](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#inputoutput-operations)
-	- [Modules in *The Python Standard Library*](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#modules-in-the-python-standard-library)
-		* [Built-in Collections](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#built-in-collections)
-	- [Software Testing, Verification, and Validation](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#software-testing-verification-and-validation)
-		* [Software Tuning and Performance Optimization](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#software-tuning-and-performance-optimization)
-		* [Software Debugging](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#software-debugging)
-	- [Industrial-Strength High-Performance Computing](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#industrial-strength-high-performance-computing)
-	- [Developing Mixed-Language Software](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#developing-mixed-language-software)
-	- [Packaging *Python* Programs](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#packaging-python-programs)
-		* [References for Packaging *Python* Programs](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#references-for-packaging-python-programs)
-	- [Database Administration](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#database-administration)
-	- [Software Development Process Methodologies](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#software-development-process-methodologies)
-		* [Integrated Development Environments (IDEs)](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#integrated-development-environments-ides)
-+ [*Python* Strings](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#python-strings)
-+ [Exception Handling](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#exception-handling)
-	- [Warnings](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#warnings)
-	- [Ancillary Note](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#ancillary-note)
-+ [*Python* Virtual Machine (PVM)](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#python-virtual-machine-pvm)
-+ [Concurrent and Parallel Programming with *Python*](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#concurrent-and-parallel-programming-with-python)
-	- [System Resource Management](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#system-resource-management)
-+ [*Python*-based Data Science](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#python-based-data-science)
-	- [Probability Theory, Statistical Analysis, Random Processes, Stochastic Modeling, and Noise](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#probability-theory-statistical-analysis-random-processes-stochastic-modeling-and-noise)
-	- [Machine Learning](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#machine-learning)
-	- [Data Visualization](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#data-visualization)
-	- [Additional Information and Resources](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#additional-information-and-resources)
-+ [Miscellaneous](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#miscellaneous)
-	- [Regular Expressions](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#regular-expressions)
-	- [Generic Programming](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#generic-programming)
-+ [References](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#references)
-	- [Object-Oriented *Python* Programming](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#object-oriented-python-programming)
-	- [Domain Applications of *Python* Programming](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#domain-applications-of-python-programming)
-	- [Mixed-Language Software Development](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#mixed-language-software-development)
-	- [Additional Python Resources](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#additional-python-resources)
-	- [Books Covered](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#books-covered)
-+ [Random](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#random)
-+ [Author Information](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#author-information)
++ [Differences between *Python 3.x* and *Python 2.y*](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#differences-between-python-3x-and-python-2y)
++ [Design Decisions](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#design-decisions)
++ [Syntax Rules Regarding Identifiers](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#syntax-rules-regarding-identifiers)
++ [Importing *Python* Classes, Modules, and Packages](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#importing-python-classes-modules-and-packages)
++ [*Python* Classes](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#python-classes)
+	- [Object management](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#object-management)
+	- [*Python* Functions](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#python-functions)
+		* [Functional Programming with *Python*](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#functional-programming-with-python)
++ [*Python*-based Software Development](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#python-based-software-development)
+	- [*Python*ic Coding Style](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#pythonic-coding-style)
+	- [*Python* Documentation](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#python-documentation)
+	- [Input/Output Operations](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#inputoutput-operations)
+	- [Modules in *The Python Standard Library*](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#modules-in-the-python-standard-library)
+		* [Built-in Collections](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#built-in-collections)
+	- [Software Testing, Verification, and Validation](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#software-testing-verification-and-validation)
+		* [Software Tuning and Performance Optimization](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#software-tuning-and-performance-optimization)
+		* [Software Debugging](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#software-debugging)
+	- [Industrial-Strength High-Performance Computing](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#industrial-strength-high-performance-computing)
+	- [Developing Mixed-Language Software](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#developing-mixed-language-software)
+	- [Packaging *Python* Programs](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#packaging-python-programs)
+		* [References for Packaging *Python* Programs](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#references-for-packaging-python-programs)
+	- [Database Administration](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#database-administration)
+	- [Software Development Process Methodologies](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#software-development-process-methodologies)
+		* [Integrated Development Environments (IDEs)](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#integrated-development-environments-ides)
++ [*Python* Strings](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#python-strings)
++ [Exception Handling](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#exception-handling)
+	- [Warnings](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#warnings)
+	- [Ancillary Note](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#ancillary-note)
++ [*Python* Virtual Machine (PVM)](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#python-virtual-machine-pvm)
++ [Concurrent and Parallel Programming with *Python*](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#concurrent-and-parallel-programming-with-python)
+	- [System Resource Management](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#system-resource-management)
++ [*Python*-based Data Science](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#python-based-data-science)
+	- [Probability Theory, Statistical Analysis, Random Processes, Stochastic Modeling, and Noise](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#probability-theory-statistical-analysis-random-processes-stochastic-modeling-and-noise)
+	- [Machine Learning](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#machine-learning)
+	- [Data Visualization](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#data-visualization)
+	- [Additional Information and Resources](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#additional-information-and-resources)
++ [Miscellaneous](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#miscellaneous)
+	- [Regular Expressions](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#regular-expressions)
+	- [Generic Programming](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#generic-programming)
++ [References](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#references)
+	- [Object-Oriented *Python* Programming](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#object-oriented-python-programming)
+	- [Domain Applications of *Python* Programming](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#domain-applications-of-python-programming)
+	- [Mixed-Language Software Development](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#mixed-language-software-development)
+	- [Additional Python Resources](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#additional-python-resources)
+	- [Books Covered](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#books-covered)
++ [Random](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#random)
++ [Author Information](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#author-information)
 
 
 
@@ -1514,7 +1514,7 @@ Notes on *Python* functions:
 			an iterator";
 			it uses the **yield** statement to enable a value to be read externally,
 				and it is analogous to the **return** statement \cite[Chapter 3, pp. 94]{Alchin2010}.
-		* See [Miscellaneous](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#miscellaneous).
+		* See [Miscellaneous](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#miscellaneous).
 	- lambdas
 		* Has a return value in the body of a lambda, and omits any explicit
 			return statement;
@@ -1908,7 +1908,7 @@ Functional programming features of *Python* include
 				attributes
 				\cite[Chapter 6, sections on "Documentation Strings" and "Function Attributes," pp. 114]{Beazley2009}
 + generators
-	- See [Miscellaneous](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#miscellaneous).
+	- See [Miscellaneous](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#miscellaneous).
 + coroutines
 
 
@@ -1935,7 +1935,7 @@ Miscellaneous notes on declarative programming:
 
 Use **lambda** statements to define anonymous functions
 	\cite[Chapter 6, section on "Declarative Programming," pp. 112]{Beazley2009};
-	see [*Python* Functions](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#python-functions).
+	see [*Python* Functions](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#python-functions).
 
 
 
@@ -2215,7 +2215,7 @@ Note that \cite{Franca2014} mentions that modern *C++1X*, such as *C++11*,
 
 
 Use documentation generators to produce documentation for the [software
-	(library) \cite{WikipediaContributors2018b}](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#python-documentation),
+	(library) \cite{WikipediaContributors2018b}](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#python-documentation),
 	from the comments in the code.
 
 
@@ -2769,7 +2769,7 @@ Developing mixed-language software
 + Extension philosophy \cite[Chapter 17, pp. 370]{Hetland2005}:
 	- To use existing (legacy) code (e.g., in *C*, *C++*, *FORTRAN*, ...), which are
 		not developed in *Python*
-	- To speed up bottlenecks; see [Industrial-Strength High-Performance Computing](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#industrial-strength-high-performance-computing).
+	- To speed up bottlenecks; see [Industrial-Strength High-Performance Computing](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#industrial-strength-high-performance-computing).
 + Developing wrappers around existing legacy code to add *Python* extension
 	library \cite[Chapter 17, pp. 358]{Hetland2005}:
 	- Craft a custom wrapper
@@ -3179,7 +3179,7 @@ Use extreme programming (XP) \cite[Chapter 19, pp. 381]{Hetland2005} \cite{Press
 		prototypes \cite[Chapter 19, pp. 383]{Hetland2005}, which can be
 		fixed in subsequent iterations of the project (during the IID process).  
 + Embrace automated software testing to facilitate software refactoring
-	\cite[Chapter 19, pp. 382]{Hetland2005}; see subsection on [Software Testing, Verification, and Validation](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#software-testing-verification-and-validation).
+	\cite[Chapter 19, pp. 382]{Hetland2005}; see subsection on [Software Testing, Verification, and Validation](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#software-testing-verification-and-validation).
 + Practice the "good enough" philosophy \cite[Chapter 19, pp. 383]{Hetland2005}
 	\cite{Martelli2016a,Martelli2016}, which is also espoused by Prof. Jiang Hu
 	during his classes and research lab meetings (*personal communication*).
@@ -3400,7 +3400,7 @@ From \cite[\S8.6 Defining Clean-up Actions]{Brandl2017a}:
 
 From \cite[\S8.7 Predefined Clean-up Actions]{Brandl2017a}:
 + "The with statement allows objects like files to be used in a way that ensures they are always cleaned up promptly and correctly."
-	- See https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#system-resource-management.
+	- See https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#system-resource-management.
 + From \cite{Brandl2017a}: [\S8 Errors and Exceptions](https://docs.python.org/3/tutorial/errors.html)
 
 
@@ -3804,7 +3804,7 @@ Resources about such libraries: \cite{Avila2017,RojasG2015,Hauck2014,BlancoSilva
 
 ###	Additional Information and Resources
 
-See the following regarding [database administration and information systems](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#database-administration).
+See the following regarding [database administration and information systems](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#database-administration).
 
 
 Strongly recommended resource for data science:
@@ -3953,7 +3953,7 @@ Types of *Python* statements \cite[Appendix B, pp. 566-570]{Hetland2005}:
 
 
 
-See [Software Testing, Verification, and Validation](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#software-testing-verification-and-validation)
+See [Software Testing, Verification, and Validation](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#software-testing-verification-and-validation)
 	about using **assert** statements and the *\_\_debug\_\_* variable in the
 	debug mode.
 
@@ -4049,7 +4049,7 @@ In *Python*, variable assignments are not storage operations, which overwrite th
 	\cite[Chapter 7, section on "Importing Selected Symbols from a Module," pp. 146]{Beazley2009}
 + Extract symbolic constants into a module for easier customization of these
 	constants
-+ See [Software Development Process Methodologies](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md#software-development-process-methodologies)
++ See [Software Development Process Methodologies](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#software-development-process-methodologies)
 	for more information to extract symbolic constants.
 
 
