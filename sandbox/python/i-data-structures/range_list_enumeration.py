@@ -230,7 +230,18 @@ print("[np.arange(3.5, 6.0, 0.25)] is:",a,"=")
 """
 a = [np.arange(3.5, 6.0, 0.25)]
 print("[np.arange(3.5, 6.0, 0.25)] is:",a,"=")
-# Convert NumPy array into a (Python) list.
+
+"""
+	Convert the NumPy array into a (Python) list.
+
+	Reference:
+	+ user3654478, Answer to "How to use a decimal range() step value?,"
+		Stack Exchange Inc., New York, NY, February 12, 2016.
+		Available online from Stack Exchange Inc.: Stack Overflow: Questions
+			at: https://stackoverflow.com/a/35362489/1531728 and
+			https://stackoverflow.com/questions/477486/how-to-use-a-decimal-range-step-value/35362489#35362489;
+			March 4, 2020 was the last accessed date.
+"""
 a = np.arange(3.5, 6.0, 0.25).tolist()
 print("np.arange(3.5, 6.0, 0.25).tolist() is:",a,"=")
 
@@ -282,6 +293,57 @@ for i in range(0, 20, 2):
 
 
 
+
+print("======================================")
+
+"""
+	Reference:
+	+ Eric Myers, Answer to "How to use a decimal range() step value?",
+		Stack Exchange Inc., New York, NY, February 16, 2017.
+		Available online from Stack Exchange Inc.: Stack Overflow:
+			Questions at: https://stackoverflow.com/a/42283283/1531728 and
+			https://stackoverflow.com/questions/477486/how-to-use-a-decimal-range-step-value/42283283#42283283;
+			March 4, 2020 was the last accessed date.
+"""
+
+dt = 0.2
+xdt = 12.5
+t_max = 14
+def xdt(n):
+	return dt*float(n)
+tlist  = map(xdt, range(int(t_max/dt)+1))
+"""
+	Reference to convert a map object to a list object in Python:
+	+ Triptych, Answer to "TITLE," Stack Exchange Inc., New York, NY, MONTH DAY, YEAR.
+	Available online from Stack Exchange Inc.: Stack Overflow: Questions at: URL; March 4, 2020 was the last accessed date.
+"""
+tlist_list = list(tlist)
+print("tlist_list is:",tlist_list,"=")
+# The following does not work.
+#tlist_list = [*tlist]
+"""
+	References to convert a map object to a list in Python:
+	+ Israel Unterman, Answer to "Getting a map() to return a list in
+		Python 3.x", Stack Exchange Inc., New York, NY, October 28, 2018.
+		Available online from Stack Exchange Inc.: Stack Overflow:
+			Questions at: https://stackoverflow.com/a/38702484/1531728 and
+			https://stackoverflow.com/questions/1303347/getting-a-map-to-return-a-list-in-python-3-x/38702484#38702484;
+			March 4, 2020 was the last accessed date.
+	+ Joshua Landau, Neil Girdhar, and Thomas Wouters, "Additional Unpacking Generalizations" as PEP 448,
+		from Python: Python Developer's Guide: PEP 0 -- Index of Python
+		Enhancement Proposals (PEPs), June 29, 2013.
+		Available online from at: https://www.python.org/dev/peps/pep-0448/;
+			March 4, 2020 was the last accessed date.
+		- Elvis Pranskevichus and Yury Selivanov, "What’s New In Python 3.5",
+			from Python: Python 3.8.2 documentation: What’s New in Python,
+			Python Software Foundation, Wilmington, DE, September 13, 2015.
+			Also available from Python: Python 3.8.2 documentation:
+				What’s New in Python: What’s New In Python 3.5 at:
+				https://docs.python.org/3/whatsnew/3.5.html#whatsnew-pep-448;
+				March 4, 2020 was the last accessed date.
+"""
+tlist_list = [*map(xdt, range(int(t_max/dt)+1))]
+print("tlist_list via [*tlist] is:",tlist_list,"=")
 
 
 
