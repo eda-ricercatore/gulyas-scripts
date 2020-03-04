@@ -198,6 +198,66 @@ for index in x2:
 	print("array element is:",index,"=")
 
 
+print("======================================")
+
+
+"""
+	Andrew Jaffe and Peter Mortensen and Cesar and
+		"user2357112 supports Monica" and Brian Burns, Answer to
+		"How to use a decimal range() step value?", Stack Exchange Inc.,
+		New York, NY, February 10, 2020.
+		Available online from Stack Exchange Inc.: Stack Overflow: Questions at:
+			https://stackoverflow.com/a/477635/1531728 and
+			https://stackoverflow.com/questions/477486/how-to-use-a-decimal-range-step-value/477635#477635;
+			March 4, 2020 was the last accessed date.		
+"""
+import numpy as np
+
+a = np.linspace(0.0,1.0,11)
+print("np.linspace(0,1,11) is:",a,"=")
+a = np.linspace(4.0,5.0,10,endpoint=False)
+print("np.linspace(0,1,10,endpoint=False) - without endpoints - is:",a,"=")
+a = np.arange(3.5, 5.5, 0.25)
+print("np.arange(3.5, 5.5, 0.25) is:",a,"=")
+a = np.arange(3.5, 6.0, 0.25)
+print("np.arange(3.5, 6.0, 0.25) is:",a,"=")
+a = np.arange(3.5, 6.0, 0.25, list)
+print("np.arange(3.5, 6.0, 0.25, list) is:",a,"=")
+"""
+	The following does not work:
+[a] = np.arange(3.5, 6.0, 0.25)
+print("[np.arange(3.5, 6.0, 0.25)] is:",a,"=")
+"""
+a = [np.arange(3.5, 6.0, 0.25)]
+print("[np.arange(3.5, 6.0, 0.25)] is:",a,"=")
+
+print("======================================")
+
+"""
+	Reference:
+	+ user25148, Answer to "How to use a decimal range() step value?,"
+		Stack Exchange Inc., New York, NY, January 25, 2009.
+		Available online from Stack Exchange Inc.: Stack Overflow: Questions
+		at: https://stackoverflow.com/a/477513/1531728 and
+		https://stackoverflow.com/questions/477486/how-to-use-a-decimal-range-step-value/477513#477513;
+		March 4, 2020 was the last accessed date.
+"""
+
+
+"""
+	Use 0.25 as the scaling factor, since range(0, 10) produces a list
+		of integers.
+"""
+a = [3.5+0.25*x for x in range(0, 10)]
+print("[3.5+0.25*x for x in range(0, 10)] is:",a,"=")
+bias = 4.5
+scaling_factor = 0.25
+start_point = 0
+end_point = 10
+a = [bias+scaling_factor*x for x in range(0, 10)]
+print("[bias+scaling_factor*x for x in range(0, 10)] is:",a,"=")
+
+
 
 print("======================================")
 print("=	End Here	=")
