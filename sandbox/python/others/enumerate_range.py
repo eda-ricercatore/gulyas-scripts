@@ -44,6 +44,9 @@ print("======================================")
 			Questions at: https://stackoverflow.com/a/30323523/1531728 and
 			https://stackoverflow.com/questions/30323439/raising-elements-of-a-list-to-a-power/30323523#30323523;
 			March 3, 2020 was the last accessed date.
+	+ \cite[from Section 6 "Expressions", and subsection 6.5 "The power operator"]{DrakeJr2016a}
+		- Reference for the "**" power operator.
+		- That is, x**y = $x^{y}$ in LaTeX.
 """
 
 powers_of_two = [ 2**power for power in range(3,10+1)]
@@ -100,6 +103,7 @@ print("======================================")
 """
 
 from math import log
+from math import pow
 import sys
 #for i in map(lambda v : pow(2,v), range(0,int(log(sys.maxint, 2)))):
 for i in map(lambda v : pow(2,v), range(0,int(log(sys.maxsize, 2)))):
@@ -120,26 +124,38 @@ print("======================================")
 """
 
 numbers=[1,2,3,4]
-squares=list(map(lambda x:pow(x,2),numbers))
-print("squares are:",squares,"=")
+powers_of_two=list(map(lambda x:pow(2,x),numbers))
+print("powers_of_two are:",powers_of_two,"=")
 
 
 print("- - - - - - - - - - - - - - - - - - -")
 
 """
 	Reference:
-	+ Parewa Labs staff, "Python Program To Display Powers of 2 Using
-		Anonymous Function," from Programiz - Learn to Code for Free:
-		Learn Python Programming: Python Examples, Parewa Labs Pvt. Ltd.,
-		Kupondole, Lalitpur District, Province No. 3, Nepal, no date.
-		Available online from Programiz - Learn to Code for Free:
-			Learn Python Programming: Python Examples at:
-			https://www.programiz.com/python-programming/examples/power-anonymous;
-			March 3, 2020 was the last accessed date.
+	+ \cite{ParewaLabsStaff20XYd}
+		- Parewa Labs staff, "Python Program To Display Powers of 2 Using
+			Anonymous Function," from Programiz - Learn to Code for Free:
+			Learn Python Programming: Python Examples, Parewa Labs Pvt. Ltd.,
+			Kupondole, Lalitpur District, Province No. 3, Nepal, no date.
+			Available online from Programiz - Learn to Code for Free:
+				Learn Python Programming: Python Examples at:
+				https://www.programiz.com/python-programming/examples/power-anonymous;
+				March 3, 2020 was the last accessed date.
 """
 
-squares=list(map(lambda x:pow(x,2),range(10+1)))
-print("squares are:",squares,"=")
+"""
+	range(10+1)
+	=> [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+	=> [1, 2, 4, 8, 16, 32, 64, 128, 256, 512, 1024]
+"""
+powers_of_two=list(map(lambda x:pow(2,x),range(10+1)))
+"""
+	range(1,10+1)
+	=> [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+	=> [2, 4, 8, 16, 32, 64, 128, 256, 512, 1024]
+"""
+powers_of_two=list(map(lambda x:pow(2,x),range(1,10+1)))
+print("powers_of_two are:",powers_of_two,"=")
 
 
 print("======================================")
