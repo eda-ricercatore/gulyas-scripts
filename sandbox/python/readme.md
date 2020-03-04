@@ -85,6 +85,19 @@ This is a sandbox, for trying out different concepts with "throwaway" scripts, f
 
 
 
+##	Framework/Infrastructure for Online IDEs
+
++ ***repl.it***
+	- [Main function with *Python* packages and *Python* modules](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/python/others/replt-it)
+		to try new concepts with the ***repl.it*** online IDE.
+
+
+
+
+
+
+
+
 
 
 
