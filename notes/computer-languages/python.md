@@ -55,7 +55,7 @@
 + [*Python*-based Data Science](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#python-based-data-science)
 	- [Probability Theory, Statistical Analysis, Random Processes, Stochastic Modeling, and Noise](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#probability-theory-statistical-analysis-random-processes-stochastic-modeling-and-noise)
 	- [Machine Learning](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#machine-learning)
-	- [Data Visualization](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#data-visualization)
+	- [Data Visualization](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#data-visualization-and-information-visualization)
 	- [Additional Information and Resources](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#additional-information-and-resources)
 + [Miscellaneous](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#miscellaneous)
 	- [Regular Expressions](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#regular-expressions)
