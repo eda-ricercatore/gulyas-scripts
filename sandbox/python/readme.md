@@ -15,6 +15,9 @@ This is a sandbox, for trying out different concepts with "throwaway" scripts, f
 		* Note the following from my *Python* notes:
 			+ ***Using list comprehensions, instead of maps or filters***, can ***improve the comprehensibility*** of the source code \cite[Chapter 6, pp. 135]{Hetland2005}.
 			+ Note that ***using maps or filters, instead of list comprehensions***, would result in ***faster execution*** (i.e., better performance) \cite[Chapter 6, pp. 135]{Hetland2005}.
+		*  From the [subsubsection on *Python* Functions (section *Python* Classes)](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#python-functions), check out the comparisons between the following:
+			+ list comprehensions versus (loops and *Python* Functions) \cite{ParewaLabsStaff20XYa}.
+			+ list comprehensions versus (maps and filters) \cite[Chapter 6, pp. 135]{Hetland2005}.
 + [data visualization](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/python/b-visualization)
 	- bar charts to compare experimental/simulation from different solutions for each category/benchmark
 		* https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/b-visualization/barchart_3_groups.py
