@@ -4983,6 +4983,30 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Strong background in computer architecture, preferably in the areas of CPUs, GPUs, and networks
 	- Investigate new hardware and software mechanisms to extend state-of-the art networking in multi-GPU systems
 	- Model, and analyze the performance of applications on proposed architectures
++ skill set:
+	- Requirements:
+		* The ability to quickly pick up new languages and technologies
+		* Experience with relational databases (MySQL, Postgres, etc.)
+		* Strong modern Perl and Python experience
+		* Software architecture and design
+		* Database normalization, profiling, and tuning
+		* Experience with at least one major platform (Linux, MacOS, Windows) and exposure to the others
+		* The ability to write clean, well-tested code with clear documentation
+		* Excellent written and spoken skills, both technical and non-technical
+		* A willingness to engage in the process of defining our work through conversations with product management, other engineering teams, and the rest of the company
+		* The ability to help others on the team become better at their jobs through mentoring, thoughtful code reviews, and generally being a team player
+	- Assets
+		* Agile processes, including breaking large projects up into smaller stories, estimation, working in branches (GitHub Flow), code review, and CI/CD
+		* Microservices and message queues, especially Kafka
+		* Experience with one or more upstream language repositories (PyPI, RubyGems, CPAN)
+		* ETL experience
+		* Software estimation and planning
+		* Statistics and data analysis
+		* Testing large data sets via samples
+		* Good working knowledge of Docker
+		* Experience with Mesos, DCOS, Kubernetes
+		* Experience with Go and/or Bazel
+		* Experience with creating parsers, compilers, or code intelligence systems
 
 
 
@@ -4997,9 +5021,7 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 
 
 
-
-
-
+resume here
 
 
 ##	Additional Information on Skill Sets

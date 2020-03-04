@@ -332,7 +332,9 @@ print("tlist_list is:",tlist_list,"=")
 	+ Joshua Landau, Neil Girdhar, and Thomas Wouters, "Additional Unpacking Generalizations" as PEP 448,
 		from Python: Python Developer's Guide: PEP 0 -- Index of Python
 		Enhancement Proposals (PEPs), June 29, 2013.
-		Available online from at: https://www.python.org/dev/peps/pep-0448/;
+		Available online from Python: Python Developer's Guide:
+			PEP 0 -- Index of Python Enhancement Proposals (PEPs) as
+			PEP 448 at: https://www.python.org/dev/peps/pep-0448/;
 			March 4, 2020 was the last accessed date.
 		- Elvis Pranskevichus and Yury Selivanov, "What’s New In Python 3.5",
 			from Python: Python 3.8.2 documentation: What’s New in Python,
@@ -342,8 +344,38 @@ print("tlist_list is:",tlist_list,"=")
 				https://docs.python.org/3/whatsnew/3.5.html#whatsnew-pep-448;
 				March 4, 2020 was the last accessed date.
 """
+print("- - - - - - - - - - - - - - - - - - -")
 tlist_list = [*map(xdt, range(int(t_max/dt)+1))]
 print("tlist_list via [*tlist] is:",tlist_list,"=")
+
+
+
+print("======================================")
+
+"""
+	Solution requires downloading the source code as a Python script
+		from the following reference.
+
+	Reference:
+	+ Andrew Barnert, "Equally-spaced Numbers (linspace) (Python Recipe)"
+		from ActiveState: ActiveState Code: Recipes,
+		ActiveState Software Inc., Vancouver, British Columbia, Canada,
+		January 12, 2015.
+		Available online from at: https://www.python.org/dev/peps/pep-0448/;
+			March 4, 2020 was the last accessed date.
+"""
+
+"""
+print(linspace(0, 10, 5))
+# linspace(0, 10, 5)
+print(list(linspace(0, 10, 5)))
+# [0.0, 2.5, 5.0, 7.5, 10]
+"""
+
+
+
+
+
 
 
 
