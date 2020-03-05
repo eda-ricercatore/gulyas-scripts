@@ -61,6 +61,10 @@ for i in [ 2**power for power in range(3,10+1)]:
 
 print("- - - - - - - - - - - - - - - - - - -")
 
+"""
+	This solution is acceptable, since I can customize this in a
+		function call using variables.
+"""
 start_point = 3
 end_point = 10
 for i in [ 2**power for power in range(start_point,end_point+1)]:
@@ -72,6 +76,9 @@ print("- - - - - - - - - - - - - - - - - - -")
 	TO-DO!!! TO BE COMPLETED!!!
 	+ Implement and test this in the miscellaneous module of the
 		utilities package of my boilerplate code.
+
+	This solution is acceptable, since I can customize this in a
+		function call using variables.
 
 	The left shift operation should be faster than the pow() function
 		to determine the value of 2^n, for "n" ranges from "start_point"
@@ -235,6 +242,7 @@ a = np.linspace(0.0,1.0,11)
 print("np.linspace(0,1,11) is:",a,"=")
 a = np.linspace(4.0,5.0,10,endpoint=False)
 print("np.linspace(0,1,10,endpoint=False) - without endpoints - is:",a,"=")
+print("- - - - - - - - - - - - - - - - - - -")
 a = np.arange(3.5, 5.5, 0.25)
 print("np.arange(3.5, 5.5, 0.25) is:",a,"=")
 a = np.arange(3.5, 6.0, 0.25)
@@ -246,11 +254,18 @@ print("np.arange(3.5, 6.0, 0.25, list) is:",a,"=")
 [a] = np.arange(3.5, 6.0, 0.25)
 print("[np.arange(3.5, 6.0, 0.25)] is:",a,"=")
 """
+
+
+"""
+	This returns a list containing the array() method call, instead of
+		a NumPy array that can be transformed into a list.
+"""
 a = [np.arange(3.5, 6.0, 0.25)]
 print("[np.arange(3.5, 6.0, 0.25)] is:",a,"=")
 
 """
 	Convert the NumPy array into a (Python) list.
+	This makes the NumPy.arrange() solution acceptable.
 
 	Reference:
 	+ user3654478, Answer to "How to use a decimal range() step value?,"
@@ -283,6 +298,13 @@ print("======================================")
 """
 a = [3.5+0.25*x for x in range(0, 10)]
 print("[3.5+0.25*x for x in range(0, 10)] is:",a,"=")
+
+print("- - - - - - - - - - - - - - - - - - -")
+
+"""
+	This solution is acceptable, since I can customize this in a
+		function call using variables.
+"""
 bias = 4.5
 scaling_factor = 0.25
 start_point = 0
