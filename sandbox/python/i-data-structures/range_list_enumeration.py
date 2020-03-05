@@ -52,18 +52,35 @@ print("======================================")
 powers_of_two = [ 2**power for power in range(3,10+1)]
 
 for i in powers_of_two:
-	print("Currently enumerated power of 2 is:",i,"=")
+	print("> Currently enumerated power of 2 is:",i,"=")
 
 print("- - - - - - - - - - - - - - - - - - -")
 
 for i in [ 2**power for power in range(3,10+1)]:
-	print("Currently enumerated power of 2 is:",i,"=")
+	print("= Currently enumerated power of 2 is:",i,"=")
 
+print("- - - - - - - - - - - - - - - - - - -")
+
+start_point = 3
+end_point = 10
+for i in [ 2**power for power in range(start_point,end_point+1)]:
+	print("using, variables, currently enumerated power of 2 is:",i,"=")
 
 print("- - - - - - - - - - - - - - - - - - -")
 
 """
-	Robert Olveira, Answer to "How to return a list of numbers of the
+	TO-DO!!! TO BE COMPLETED!!!
+	+ Implement and test this in the miscellaneous module of the
+		utilities package of my boilerplate code.
+
+	The left shift operation should be faster than the pow() function
+		to determine the value of 2^n, for "n" ranges from "start_point"
+		to "end_point".
+
+	Reference for using the left shift operation instead of the pow()
+		function to determine the value of 2^n, for "n" ranges from
+		start_point to end_point:
+	+ Robert Olveira, Answer to "How to return a list of numbers of the
 		power of 2?", Stack Exchange Inc., New York, NY, August 28, 2017.
 		Available online from Stack Exchange Inc.: Stack Overflow:
 			Questions at: https://stackoverflow.com/a/41462973/1531728 and
@@ -71,7 +88,7 @@ print("- - - - - - - - - - - - - - - - - - -")
 			March 3, 2020 was the last accessed date.
 """
 
-for i in [1 << i for i in range(10+1)]:
+for i in [1 << i for i in range(start_point, end_point+1)]:
 	print("Shifted 2's power of i is:",i,"=")
 
 
@@ -158,13 +175,14 @@ print("- - - - - - - - - - - - - - - - - - -")
 	=> [1, 2, 4, 8, 16, 32, 64, 128, 256, 512, 1024]
 """
 powers_of_two=list(map(lambda x:pow(2,x),range(10+1)))
+print("> powers_of_two are:",powers_of_two,"=")
 """
 	range(1,10+1)
 	=> [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 	=> [2, 4, 8, 16, 32, 64, 128, 256, 512, 1024]
 """
 powers_of_two=list(map(lambda x:pow(2,x),range(1,10+1)))
-print("powers_of_two are:",powers_of_two,"=")
+print(">> powers_of_two are:",powers_of_two,"=")
 
 
 print("======================================")
@@ -372,10 +390,52 @@ print(list(linspace(0, 10, 5)))
 # [0.0, 2.5, 5.0, 7.5, 10]
 """
 
+
+#	======================================
+#print("======================================")
+
+
+"""
+	Added round() function to make the minor incremental floating-point
+		errors negligible.
+		This has no effect, and I am commenting out this option/modification.
+
+
+	Reference:
+	+ Santoso Wijaya ("Santa"), Answer to "How do get more control over
+		loop increments in Python?", Stack Exchange Inc., New York, NY,
+		February 8, 2011.
+		Available online from Stack Exchange Inc.: Stack Overflow: Questions
+			at: https://stackoverflow.com/a/4930482/1531728 and
+			https://stackoverflow.com/questions/4930404/how-do-get-more-control-over-loop-increments-in-python/4930482#4930482;
+			March 4, 2020 was the last accessed date.
+"""
+#for i in [6+round(float(j)) / 100 for j in range(0, 100, 5)]:
+for i in [6+float(j) / 100 for j in range(0, 100, 5)]:
+	print("i is:",i,"=")
+
+
+
+
+
+
+
+
+
 print("======================================")
 
-for i in [round(float(j)) / 100 for j in range(0, 100, 5)]:
-    print("i is:",i,"=")
+
+"""
+	Alternatives:
+	+ https://pypi.org/project/Franges/0.1.0/
+	+ https://stackoverflow.com/questions/33257635/python-round-to-nearest-0-25
+	
+
+	References for Python rounding errors. such as 0.250000000002
+		approximately equals 0.25 (or 0.250).
+	+ https://mail.python.org/pipermail/python-list/2001-December/115350.html
+	+ https://mail.python.org/pipermail/python-list/2001-December/071437.html
+"""
 
 
 
@@ -383,5 +443,10 @@ for i in [round(float(j)) / 100 for j in range(0, 100, 5)]:
 
 
 
-print("======================================")
+
+
+
+
+
+
 print("=	End Here	=")
