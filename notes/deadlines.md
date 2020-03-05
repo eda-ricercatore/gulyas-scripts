@@ -446,6 +446,7 @@ Upcoming Submission deadlines:
 + ***[ISLPED](http://www.islped.org/2020/): ~~March 2 and 9, 2020~~ March 16 and 23, 2020.***
 + ***[ECCV](https://eccv2020.eu/important-dates/): March 5, 2020.***
 + [ISVLSI](http://www.isvlsi.org): March 13, 2020.
++ [PLDI SRC](https://pldi20.sigplan.org/track/pldi-2020-Student-Research-Competition): March 13, 2020.
 + [FPL](https://www.fpl2020.org/): March 16 and 23, 2020.
 + ***[ICPR, International Conference on Pattern Recognition](https://www.micc.unifi.it/icpr2020/): ~~March 2, 2020.~~ March 18, 2020, 23:59 European CEST.***
 + [ACM Multimedia](https://2020.acmmm.org/call-for-paper.html): March 21 and 28, 2020, AoE.
@@ -473,12 +474,13 @@ Upcoming Submission deadlines:
 + [ESA, European Symposium on Algorithms](http://esa-symposium.org/): April 24, 2020.
 	- http://algo2020.di.unipi.it/ESA2020/index.html
 + [DFT 2020, IEEE International Symposium on Defect and Fault Tolerance in VLSI and Nanotechnology Systems](http://www.dfts.org): April 24 and May 8, 2020.
++ [SIGGRAPH SRC](https://s2020.siggraph.org/submissions/): April 28, 2020.
 + [USENIX Security '21, USENIX Security Symposium](https://www.usenix.org/conference/usenixsecurity20/call-for-papers): May 15, 2019, 8:00 pm EDT
 + [RV, International Conference on Runtime Verification](https://rv20.ait.ac.at/): May 18, 2019.
 + [ICCAD](https://iccad.com/): May 21 and 28, 2020.
 + [HPEC, IEEE High Performance Extreme Computing Conference](http://ieee-hpec.org): May 22, 2020.
 + [SecDev](https://secdev.ieee.org/2020/Papers/): May 25, 2020, 23:59:59 AoE.
-
++ [ICFP SRC](https://icfp20.sigplan.org/track/icfp-2020-student-research-competition): June 12, 2020.
 
 
 
