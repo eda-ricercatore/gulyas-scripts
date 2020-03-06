@@ -120,7 +120,18 @@ d = round(546789.57928)
 print("d is:",d,".")
 d = round(152.5)
 print("d is:",d,".")
+d = round(5392.67089043,3)
+print("d is:",d,".")
 
+
+"""
+	References:
+	+ https://stackoverflow.com/questions/20296125/python-decimal-and-import-how-to-use-round-up-without-import
+	+ https://stackoverflow.com/questions/37825909/round-python-decimal-to-nearest-0-05
+"""
+import decimal
+d = decimal.Decimal(612.65439708969).quantize(decimal.Decimal(612.65439708969),rounding=decimal.ROUND_UP)
+print("d is:",d,".")
 
 
 print("--------------------------------------------")

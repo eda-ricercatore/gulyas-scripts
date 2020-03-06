@@ -7,6 +7,17 @@
 
 print("======================================")
 print("=	Start Here	=")
+
+
+#	============================================================
+"""
+	Beginning from this portion, we examine list generation to create
+		an ascending list of powers of two (or any other base number).
+"""
+print("")
+print("+++	Create an ascending list of powers of two.")
+
+
 for i in range(10):
 	print("The index is:",i,"=")
 
@@ -222,11 +233,24 @@ print("x2 is:",x2,"=")
 for index in x2:
 	print("array element is:",index,"=")
 
+#	==========================================================
+
+"""
+	Beginning from this portion, we examine list generation to create
+		a list of ascending floating-point numbers with fixed increments.
+"""
 
 print("======================================")
 
+print("")
+print("+++	Create a list of ascending floating-point numbers with fixed increments.")
 
 """
+	References for using the np.linspace() and np.arange() functions
+		to generate a list of ascending floating-point numbers with
+		fixed increments.
+
+
 	Andrew Jaffe and Peter Mortensen and Cesar and
 		"user2357112 supports Monica" and Brian Burns, Answer to
 		"How to use a decimal range() step value?", Stack Exchange Inc.,
@@ -259,6 +283,7 @@ print("[np.arange(3.5, 6.0, 0.25)] is:",a,"=")
 """
 	This returns a list containing the array() method call, instead of
 		a NumPy array that can be transformed into a list.
+	Hence, do not use this method.
 """
 a = [np.arange(3.5, 6.0, 0.25)]
 print("[np.arange(3.5, 6.0, 0.25)] is:",a,"=")
@@ -277,7 +302,11 @@ print("[np.arange(3.5, 6.0, 0.25)] is:",a,"=")
 """
 a = np.arange(3.5, 6.0, 0.25).tolist()
 print("np.arange(3.5, 6.0, 0.25).tolist() is:",a,"=")
-
+start_point = 4.5
+end_point = 7.0
+increments = 0.25
+a = np.arange(start_point, end_point+increments, increments).tolist()
+print("np.arange(start_point, end_point, increments).tolist() is:",a,"=")
 
 print("======================================")
 
@@ -298,6 +327,14 @@ print("======================================")
 """
 a = [3.5+0.25*x for x in range(0, 10)]
 print("[3.5+0.25*x for x in range(0, 10)] is:",a,"=")
+#a = [start_point+increments*x for x in range(0, 10)]
+#print("[start_point+increments*x for x in range(0, 10)] is:",a,"=")
+
+
+
+
+
+
 
 print("- - - - - - - - - - - - - - - - - - -")
 
@@ -309,8 +346,8 @@ bias = 4.5
 scaling_factor = 0.25
 start_point = 0
 end_point = 10
-a = [bias+scaling_factor*x for x in range(0, 10)]
-print("[bias+scaling_factor*x for x in range(0, 10)] is:",a,"=")
+a = [bias+scaling_factor*x for x in range(start_point, end_point+1)]
+print("[bias+scaling_factor*x for x in range(start_point, end_point+1)] is:",a,"=")
 
 print("======================================")
 
@@ -329,6 +366,13 @@ for i in range(0, 100, 10):
 print("- - - - - - - - - - - - - - - - - - -")
 for i in range(0, 20, 2):
 	print("for range(0, 20, 2), i/10.0 is:",i/10.0,"=")
+print("- - - - - - - - - - - - - - - - - - -")
+start_point = 0
+end_point = 30
+increments = 3
+a = [i/10.0 for i in range(start_point, end_point+1, increments)]
+print("a is:",a,"=")
+
 
 
 
