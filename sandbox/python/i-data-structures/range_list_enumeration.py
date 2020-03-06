@@ -404,7 +404,7 @@ print("======================================")
 """
 
 dt = 0.2
-xdt = 12.5
+#xdt = 12.5
 t_max = 14
 def xdt(n):
 	return dt*float(n)
@@ -416,6 +416,9 @@ tlist  = map(xdt, range(int(t_max/dt)+1))
 """
 tlist_list = list(tlist)
 print("tlist_list is:",tlist_list,"=")
+print("- - - - - - - - - - - - - - - - - - -")
+a = [dt*round(i/dt) for i in tlist_list]
+print("dt*round(i/dt) for i in tlist is:",a,"=")
 # The following does not work.
 #tlist_list = [*tlist]
 """
