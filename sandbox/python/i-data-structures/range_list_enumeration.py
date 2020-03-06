@@ -339,8 +339,13 @@ print("[3.5+0.25*x for x in range(0, 10)] is:",a,"=")
 print("- - - - - - - - - - - - - - - - - - -")
 
 """
+	TO-DO!!! TO BE COMPLETED!!!
+	Implement this and test it.
+
 	This solution is acceptable, since I can customize this in a
 		function call using variables.
+	It is easier to handle floating-point increments that use a
+		multiplicative scale factor.
 """
 bias = 4.5
 scaling_factor = 0.25
@@ -354,12 +359,18 @@ print("======================================")
 
 
 """
+	This solution is acceptable, since I can customize this in a
+		function call using variables.
+	Modified to handle floating-point increments that use a reciprocal
+		scale factor or multiplicative inverse .
+
+
 	cmsjr and Peter Mortensen, Answer to "How to use a decimal range()
 		step value?," Stack Exchange Inc., New York, NY, February 1, 2015.
-	Available online from Stack Exchange Inc.: Stack Overflow: Questions at:
-		https://stackoverflow.com/a/477506/1531728 and
-		https://stackoverflow.com/questions/477486/how-to-use-a-decimal-range-step-value/477506#477506;
-		March 4, 2020 was the last accessed date.
+		Available online from Stack Exchange Inc.: Stack Overflow:
+			Questions at: https://stackoverflow.com/a/477506/1531728 and
+			https://stackoverflow.com/questions/477486/how-to-use-a-decimal-range-step-value/477506#477506;
+			March 4, 2020 was the last accessed date.
 """
 for i in range(0, 100, 10):
 	print("for range(0, 100, 10), i/100.0 is:",i/100.0,"=")
@@ -370,8 +381,10 @@ print("- - - - - - - - - - - - - - - - - - -")
 start_point = 0
 end_point = 30
 increments = 3
-a = [i/10.0 for i in range(start_point, end_point+1, increments)]
-print("a is:",a,"=")
+bias = 9
+scale_factor = 10.0
+a = [bias+i/scale_factor for i in range(start_point, end_point+1, increments)]
+print("A list for bias+i/scale_factor is:",a,"=")
 
 
 
