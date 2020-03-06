@@ -158,7 +158,18 @@ print("(i)*increments/2 for range(start_point,end_point) is:",increments_for_x,"
 increments_for_x = [(i)*increments/2 for i in range(start_point,end_point-1)]
 print("(i)*increments/2 for range(start_point,end_point-1) is:",increments_for_x,"=")
 
+"""
+	Round each floating-point number in the list to the nearest
+		increment.
 
+	Reference:
+	+ Scott Hunter, Answer to "Python round to nearest .0125",
+		Stack Exchange Inc., New York, NY, February 6, 2018.
+		Available online from Stack Exchange Inc.: Stack Overflow:
+			Questions at: https://stackoverflow.com/a/48638894/1531728
+			and https://stackoverflow.com/questions/48638805/python-round-to-nearest-0125/48638894#48638894;
+			March 4, 2020 was the last accessed date.
+"""
 a_number = 234.8343
 increments = 0.25
 print("round(a_number/increments)*increments is:",round(a_number/increments)*increments,"=")
