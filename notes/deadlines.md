@@ -486,6 +486,16 @@ Upcoming Submission deadlines:
 
 
 
+
+
+
+
+
+
+
+
+
+
 Important information about time zones:
 + [AoE – Anywhere on Earth (Standard Time)](https://www.timeanddate.com/time/zones/aoe)
 	- "Anywhere on Earth (AoE) is 12 hours behind Coordinated Universal Time (UTC)."
@@ -3278,7 +3288,7 @@ List of conference "Call for Papers" deadlines:
 	- https://cdc2020.ieeecss.org/
 	- Jeju Island, Republic of Korea
 	- December 8-11, 2020.
-	- Submission deadline: March 17, 2020
+	- Submission deadline: ~~Previously March 1~~ March 17, 2020
 
 
 
@@ -3334,6 +3344,22 @@ List of conference "Call for Papers" deadlines:
 	- Paderborn, Germany
 	- June 29 - July 1, 2020.
 	- Submission deadline: March 6, 2020, 11:59 p.m. (AoE)
+
+
+
+
+
++ PAINE, International Conference on Physical Assurance and Inspection of Electronics
+	- http://paine-conference.org/
+	- http://paine-conference.org/call-for-papers
+	- July 28–29, 2020.
+	- Washington, D.C. area
+	- Submission deadline: ~~March 11~~ March 18, 2020.
+
+
+
+
+
 
 
 
