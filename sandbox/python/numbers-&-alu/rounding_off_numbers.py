@@ -92,6 +92,7 @@ increments = 0.25
 print("round(a_number/increments)*increments for 234.8343 is:",round(a_number/increments)*increments,"=")
 half_increments = increments/2
 
+print("================================================")
 #dt = 0.2
 #xdt = 12.5
 #t_max = 14
@@ -114,6 +115,7 @@ dt = 0.2
 t_max = 14
 number_of_increments = round(t_max/dt)
 print("round(t_max/dt) is:",round(t_max/dt),"=")
+print("- - - - - - - - - - - - - - - - - - - - - - - -")
 #end_point = int(t_max/dt)
 #end_point = Integer(t_max/dt)		# If I want to use SymPy's Integer() method.
 #end_point = int(number_of_increments)
@@ -122,4 +124,5 @@ tlist = [dt*float(i) for i in range(int(round(t_max/dt))+1)]
 #tlist_list = list(tlist)
 print("tlist is:",tlist,"=")
 a = [dt*int(i/dt) for i in tlist]
+print("- - - - - - - - - - - - - - - - - - - - - - - -")
 print("dt*round(i/dt) for i in tlist is:",a,"=")
