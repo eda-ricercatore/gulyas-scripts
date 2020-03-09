@@ -4961,7 +4961,7 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- https://github.com/PaddlePaddle/Paddle
 	- https://www.paddlepaddle.org.cn/
 + simultaneous machine translation (SMT) system
-+ skills:
++ skill set:
 	- You have experience with C++/C, CUDA, DX, or OpenGL.
 	- RISCV vector processor
 	- Familiarity with GPU computing (CUDA, OpenCL) and HPC (MPI, OpenMP)
