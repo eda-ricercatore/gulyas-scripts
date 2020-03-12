@@ -2,7 +2,7 @@
 
 
 #import random.data_time_ops as dt_ops
-from random.data_time_ops import dt_ops
+from random_process.data_time_ops import dt_ops
 
 if __name__ == "__main__":
 	print("Ciao mondo!")

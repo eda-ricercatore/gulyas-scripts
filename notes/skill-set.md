@@ -5007,6 +5007,102 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 		* Experience with Mesos, DCOS, Kubernetes
 		* Experience with Go and/or Bazel
 		* Experience with creating parsers, compilers, or code intelligence systems
++ Strong understanding of Model optimization, Pruning ,Tuning ,ONNX, Distiller , Quantization
++ skill set:
+	- Proficient in one or more of the Conversation/UX design tools (IBM Watson Content hub, IBM digital experience manager, Botsociety, MS Visio, Sayspring Flinto, UxPin, Omnigraffle, proto.IO, MockFlow etc.)
+	-  Strong understanding of the NLP space and Voice based processing (Natural language Processing, understanding, sentiment analysis, Intent classification, dialogue flows, personality insight, Text to Speech, Speech to Text, )
+	-  Experience in conceiving and delivering fantastic end-to-end cross-channel experiences with appreciation of flow, context, micro-interactions, multi -modal possibilities, performance and tone for multiple customers
++ skill set:
+	- several years industry experience designing and developing a core compiler component and strongly prefer at least one of the following:
+		* 1. a research record
+		* 2. expert knowledge in some compiler or compiler related domain
+		* 3. contributions to an open source infrastructure (tensorflow, ...)
+		* 4. experience retargeting LLVM, GCC, or some other retargetable compiler infrastructure
+		* 5. linear algebra compilers
+		* 6. experience with a compiler related technology (profiling, static analysis, ...)
+		* 7. compiling to hardware
+		* For example, you might have a master's degree with compiler and algorithms course, implemented and you have spent several years at a job developing the IR of custom compiler.
++ skill set:
+	- Open-source Platforms:
+		* Investigate and determine how to integrate open-source compiler frameworks into Mythic’s propriety compiler technology, e.g., LLVM.
+		* Investigate how to translate the output of deep learning frameworks such as Keras, Caffe, and Pytorch into programs that execute on Mythic’s AI processor.
+	- Optimization:
+		* Develop Deep Neural Network (DNN) optimization algorithms that target a novel dataflow architecture composed of heterogeneous compute tiles.
+		* Investigate analog-aware algorithms that consider reduced precision, new datatypes, linearity, and noise requirements.
+		* Consider code generation schemes that tradeoff system latency, throughput, utilization, and power.
+	- Programming models:
+		* Innovate in a new compiler domain: mixed-signal computing.  Generate code for a heterogeneous processor with a mix of analog and digital compute accelerators.
+		* Develop a rapidly retargetable compiler infrastructure that models new custom accelerators for next-generation computer architectures.
+		* Investigate AI Domain Specific Languages (DSLs).
+	- Product Impact:
+		* Coordinate with engineering teams on the successful execution of the release of compiler products.
+		* Innovate across the entire product tool chain including parser, optimizer, code generator, linker, assembler, debugger, and related tools.
+		* Stay abreast of current industry and university compiler research and communicate key ideas to others at Mythic.
+	- ***Specific responsibilities will depend on background and skills.  If working at the intersection of compilers, AI, analog computing, and processor architecture sounds exciting, this is the role for you.***
+	- Required:
+		* Bachelor’s in computer science or related field with 3+ years compiler development.
+		* Experience with system software and development tools.
+		* Experience with C and C++ programming Languages.
+		* Experience implementing, testing and upstreaming optimization and code generation solutions.
+		* Previous experience collaborating with others as part of a team.
+		* Strong software engineering skills.
+	- Nice to have but not required:
+		* Master’s or PhD in Computer Science or related field with 3+ years compiler research experience.
+		* Experience with python.
+		* Familiarity with Agile software development processes
+		* Experience with embedded systems and instruction set architecture
+		* Experience with deep learning graph-compilers and related tools such as Glow, XLA, or TVM.
+		* Experience with DNN frameworks such as Pytorch, Tensorflow, or Caffe.
++ skill set:
+	- Understanding On TensorRT is an Added Advantage
+	- Knowledge of Frameworks like DNN,BLAS,RAND,SPARSE.
++ skill set:
+	- Networking and asynchronous IO applications;
+	- IoT frameworks and messaging protocols;
+	- Database design;
+	- Real time operating systems;
+	- Low level serial protocols such as SPI; and
+	- Low level networking standards such as Ethernet and Wi-Fi.
+	- Strong C/C++ programming skills;
+	- Excellent problem solving skills;
+	- Experience of developing unit tests, and preferably of Test Driven Development;
+	- Familiarity with the use of SCM systems, and preferably a working knowledge of Git; and
+	- An understanding of Continuous Integration systems.
+	- Collaboration with agile planning processes
+	- Software design, implantation and documentation
+	- Automated test implementation
+	- Code reviews and support for other development on going within the team
+	- Collaboration with engineers from a range of disciplines to deliver complete, production ready systems
++ skill set:
+	- Strong C/C++ and Python programming skills;
+	- Experience with embedded systems and hardware;
+	- Working knowledge of Git.
+	- Familiarity with deploying machine learning on embedded devices using TensorFlow Lite or similar framework;
+	- Experience training models using machine learning frameworks like TensorFlow, PyTorch or MXNet;
+	- Experience optimizing code to run on GPU, DSP or neural processors;
+	- Experience with real-time operating systems like FreeRTOS or ThreadX;
+	- Experience with unit tests and Test Driven Development;
+	- An understanding of Continuous Integration systems.
+	- Software design and implementation;
+	- Collaboration in the team’s agile planning processes;
+	- Code reviews and support for other development on going within the team;
+	- Collaboration with engineers from a range of disciplines to deliver production ready systems.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -5022,6 +5118,7 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 
 
 resume here
+go here
 
 
 ##	Additional Information on Skill Sets
