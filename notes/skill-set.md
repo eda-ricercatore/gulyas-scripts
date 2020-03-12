@@ -5087,7 +5087,36 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Collaboration in the team’s agile planning processes;
 	- Code reviews and support for other development on going within the team;
 	- Collaboration with engineers from a range of disciplines to deliver production ready systems.
-
++ skill set:
+	- Principal Security Architect will develop a strategic direction for the security-related architecture of Lattice products, working closely with FPGA system and architecture experts to advance the company’s presence within security-sensitive systems
+	- Reduce risks, threats, and vulnerabilities in systems built with Lattice products
+	- Drive Lattice’s roadmap for data and design security within our programmable logic product line
+	- Meet with customers and ecosystem partners to ensure requirements are understood, implementations are sound, and the broader ecosystem is moving to meet the future challenges
+	- Coordinate across functional business units to ensure robust, secure posture from design to implementation
+	- Represent Lattice at industry forums related to data and design security
+	- Coordinate development of tools, methods, and training to support staff in achieving security objectives and ensure effectiveness of security standards
+	- Will partner closely with engineering, sales, marketing, applications, and end to end customers
+	- Strong customer facing skills
+	- Expert knowledge/background in secure code authentication/attestation and chains of trust
+	- Experience in industry attack, vulnerabilities and solutions around design and data security
+	- Working knowledge of online service architectures for connected/IOT systems
+	- Well versed in Secure Architecture and Design fundamentals
+	- 10 years: 10+ years of experience in the hardware data security industry
++ skill set:
+	- Definition of block level and product level SoC architecture
+	- Work closely with IC design, verification, software, physical design, and marketing teams to ensure SoC meets feature and performance requirements
+	- Modeling, Architecture, Micro architecture, Digital design, & RTL coding
+	- Interconnect exploration including AHB, AXI, ACE, AXI-stream, and NoC  interconnect architectures
+	- Willingness to travel domestically and internationally
+	- Strong communication skills
+	- Experience working with 3rd party teams
+	- Expertise in scripting languages such as Python, TCL, or Perl
+	- Experience developing design models in high level languages like System Verilog and System C
+	- Solid experience in design convergence cycle, including synthesis, timing closure, and verification
+	- Strong background in memory interfaces including DDR3 / DDR4 / LPDDR4 systems
+	- Familiarity with SoC security capabilities and protocols
+	- Experience in profiling SoC system performance
+	- 12 + years of experience in definition of SoCs
 
 
 
