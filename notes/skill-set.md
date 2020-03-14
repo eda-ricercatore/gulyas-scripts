@@ -5117,10 +5117,34 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Familiarity with SoC security capabilities and protocols
 	- Experience in profiling SoC system performance
 	- 12 + years of experience in definition of SoCs
-
-
-
-
++ skill set:
+	- Contribute to designing, building, evaluating, shipping, and refining Neural Magic’s machine learning product including libraries, demos, and notebooks
+	- Prototype and iterate on state of the art research against proprietary, in-house software
+	- Work closely with customers to understand specific needs, implementation details, and successful deployment using Neural Magic’s engine
+	- Collaborate with a cross functional team about market requirements, best practices and how machine learning is deployed in the wild
+	- Be a trusted advisor and partner, providing deep analysis of deep learning approaches, helping to define and conduct pilot tests
+	- Master’s or PhD degree in computer science or math, or equivalent experience. Prefer a focus on machine learning.
+	- Solid knowledge of machine learning and deep learning fundamentals, in particular MLPs and CNNs
+	- Experience with taking deep learning models from conception to production: writing, training, testing, and deploying machine learning models
+	- Proficient with Python and one or more deep learning frameworks such as Pytorch, Tensorflow, Caffe, MXNet, Keras, etc
+	- Experience working with large data pipelines for analyzing and training
+	- Self-directed individual who learns quickly and is comfortable operating in a blank slate environment
+	- Excellent communication skills, ability to tailor technical information for different audiences
+	- Strong sense of project ownership and personal responsibility
++ skill set:
+	- Design, build, evaluate, ship, and refine Neural Magic’s machine learning product including libraries, demos, and notebooks
+	- Prototype and iterate on state of the art research against proprietary, in-house software
+	- Work closely with customers to understand specific needs, implementation details, and successful deployment using Neural Magic’s engine
+	- Collaborate with a cross functional team about market requirements, best practices and how machine learning is deployed in the wild
+	- Be a trusted advisor and partner, providing deep analysis of deep learning approaches, helping to define and conduct pilot tests
+	- Several years of experience working with Machine Learning in industry. Master’s or PhD degree in ML, computer science or math preferred.
+	- Solid knowledge of machine learning and deep learning fundamentals, in particular MLPs, Recommendation Systems, and CNNs
+	- Full stack experience of taking deep learning models from conception to production: writing, training, testing, and deploying models
+	- Proficient with Python and one or more deep learning frameworks such as Pytorch, Tensorflow, Caffe, MXNet, Keras, etc
+	- Experience working with large data pipelines for analyzing and training
+	- Self-directed individual who learns quickly and is comfortable operating in a blank slate environment
+	- Excellent communication skills, ability to tailor technical information for different audiences
+	- Strong sense of project ownership and personal responsibility
 
 
 
