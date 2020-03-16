@@ -1409,6 +1409,7 @@ List of conference "Call for Papers" deadlines:
 
 + SIGCSE 2020, 51st ACM Technical Symposium on Computer Science Education
 	- https://sigcse2020.sigcse.org/authors/cfp.html
+	- Or, SIGCSE Technical Symposium
 	- March 11-14, 2020
 	- Portland, OR
 	- Submission deadline: August 23 and 30, 2019.
@@ -3369,12 +3370,38 @@ List of conference "Call for Papers" deadlines:
 	- Submission deadline: Mid and Late March, 2019.
 
 
+
+
++ VL/HCC, IEEE Symposium on Visual Languages and Human-Centric Computing
+	- https://conf.researchr.org/home/vlhcc2020
+	- August 10-14, 2020.
+	- Dunedin, New Zealand.
+	- Submission deadline: March 15, 2020.
+
+
+
+
+
+
+
+
 + FPL, International Conference on Field-Programmable Logic and Applications
 	- https://www.fpl2020.org/
 	- http://www.fpl.org/h/
 	- August 31 - September 4, 2020.
 	- Gothenburg, Sweden.
 	- Submission deadline: March 16 and 23, 2020.
+
+
+
+
++ ICER, ACM International Computing Education Research Conference
+	- https://icer.acm.org/icer-2020/research-papers/
+	- Dunedin, New Zealand.
+	- August 10-12, 2020.
+	- Submission deadlines: March 20 and 27, 2020.
+
+
 
 
 
