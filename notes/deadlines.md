@@ -445,7 +445,7 @@ Upcoming Submission deadlines:
 + ***[ISLPED](http://www.islped.org/2020/): ~~March 2 and 9, 2020~~ March 16 and 23, 2020.***
 + [ISVLSI](http://www.isvlsi.org): March 13, 2020.
 + [PLDI SRC](https://pldi20.sigplan.org/track/pldi-2020-Student-Research-Competition): March 13, 2020.
-+ [FPL](https://www.fpl2020.org/): March 16 and 23, 2020.
++ [FPL](https://www.fpl2020.org/): ~~March 16 and 23~~ March 23 and 30, 2020.
 + ***[ICPR, International Conference on Pattern Recognition](https://www.micc.unifi.it/icpr2020/): ~~March 2, 2020.~~ March 18, 2020, 23:59 European CEST.***
 + [ACM Multimedia](https://2020.acmmm.org/call-for-paper.html): March 21 and 28, 2020, AoE.
 + [Hot Chips 32](https://www.hotchips.org/): March 23, 2020.
@@ -3390,7 +3390,7 @@ List of conference "Call for Papers" deadlines:
 	- http://www.fpl.org/h/
 	- August 31 - September 4, 2020.
 	- Gothenburg, Sweden.
-	- Submission deadline: March 16 and 23, 2020.
+	- Submission deadline: ~~March 16 and 23~~ March 23 and 30, 2020.
 
 
 
