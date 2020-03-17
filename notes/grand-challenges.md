@@ -73,20 +73,20 @@ Also, see:
 
 
 
-Make Solar Energy Economical
-		Provide Energy from Fusion
-		Develop Carbon Sequestration Methods
-		Manage the Nitrogen Cycle
-		Provide Access to Clean Water
-		Restore and Improve Urban Infrastructure
-		Advance Health Informatics
-		Engineer Better Medicines
-		Reverse-Engineer the Brain
-		Prevent Nuclear Terror
-		Secure Cyberspace
-		Enhance Virtual Reality
-		Advance Personalized Learning
-		Engineer the Tools of Scientific Discovery
++ Make Solar Energy Economical
++ Provide Energy from Fusion
++ Develop Carbon Sequestration Methods
++ Manage the Nitrogen Cycle
++ Provide Access to Clean Water
++ Restore and Improve Urban Infrastructure
++ Advance Health Informatics
++ Engineer Better Medicines
++ Reverse-Engineer the Brain
++ Prevent Nuclear Terror
++ Secure Cyberspace
++ Enhance Virtual Reality
++ Advance Personalized Learning
++ Engineer the Tools of Scientific Discovery
 
 
 
