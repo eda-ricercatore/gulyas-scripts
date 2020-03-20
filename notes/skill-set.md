@@ -5661,6 +5661,42 @@ bio manufacturing automation:
 
 
 
+
+
+
+## Biotechnology Companies
+
++ Alector
++ BioMarin
++ CytomX
++ Denali Therapeutics
++ Distributed Bio
++ Droplet Health
++ Encoded Genomics
++ Genetech
++ Haystack Sciences
++ Nkarta
++ OncoMed
++ Roche Molecular Systems
++ Senti Biosciences
++ UCSF
++ Viewpoint Therapeutics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Skill sets for R&D roles in BDA
 
 + skill set:
