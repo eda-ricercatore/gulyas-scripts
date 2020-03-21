@@ -5145,8 +5145,26 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Self-directed individual who learns quickly and is comfortable operating in a blank slate environment
 	- Excellent communication skills, ability to tailor technical information for different audiences
 	- Strong sense of project ownership and personal responsibility
-
-
++ skill set:
+	- develop programs for data transformation, integration, or reduction;
+	- prototype and ship production-grade applications for (among others) data coding, entity resolution, predictive analytics, data visualization, data dashboards, and report generation;
+	- perform custom data analysis to support all phases of the data collection and research pipeline;
+	- design and implement research plans for program evaluation, using both experimental and quasi-experimental methods;
+	- participate in business development, including researching and crafting sections of technical proposals;
+	- coordinate and conduct internal data science presentations and workshops;
+	- communicate research findings to colleagues, clients, and research peers across a range of media;
+	- keep current with innovations and trends in data science and survey methodology.
+	- An advanced (Masters or above) degree in one of the following fields is required: math, statistics, computer science, data science, or a social science or public policy related field.
+	- At least five years’ experience in positions of increasing responsibility in a research or data analysis role, which may include graduate-level training at the PhD level or equivalent experience in applied research, is required.
+	- Proficiency in statistics and statistical methods (e.g. probability, regression, generalized linear models) is required.
+	- Proficiency in at least one of R or Python and their packages for data manipulation, visualization, statistics, and machine learning is required.
+	- Experience in communicating scientific research to both specialist and general audiences is required.
+	- Familiarity and interest in social scientific and public policy research, as well as applications of data scientific methods to such research, is preferred.
+	- Familiarity with methods for causal inference, including the potential outcomes framework, experimental design, and quasi-experimental designs (e.g. difference-in-differences, instrumental variables, regression discontinuity), is preferred.
+	- Experience in conducting original research – either independently or as a member of a research group or lab – including research design, novel data collections, data analysis, and preparation of papers, posters, or other presentations, is preferred.
+	- Familiarity with areas of data science such as multi-level modeling, machine learning (e.g. methods for regularization, classification, and clustering), natural language processing (text pre-processing, text classification, named entity recognition, etc.), computer vision (e.g. image classification, image object detection), or deep learning libraries is preferred.
+	- Familiarity with Bayesian estimation and software for Bayesian inference (e.g. JAGS, Stan) is preferred.
+	- Experience with version control workflows and tools (e.g. Git), databases (e.g. SQL), big data technologies (Hadoop, Spark, Hive, etc.), and cloud computing environments (e.g. AWS, Google Cloud, Azure, etc.) is preferred.
 
 
 
