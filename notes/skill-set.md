@@ -5165,8 +5165,13 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Familiarity with areas of data science such as multi-level modeling, machine learning (e.g. methods for regularization, classification, and clustering), natural language processing (text pre-processing, text classification, named entity recognition, etc.), computer vision (e.g. image classification, image object detection), or deep learning libraries is preferred.
 	- Familiarity with Bayesian estimation and software for Bayesian inference (e.g. JAGS, Stan) is preferred.
 	- Experience with version control workflows and tools (e.g. Git), databases (e.g. SQL), big data technologies (Hadoop, Spark, Hive, etc.), and cloud computing environments (e.g. AWS, Google Cloud, Azure, etc.) is preferred.
-
-
++ skill set:
+	- Utilize tools such as Pentaho, MSSQL SSIS, Microsoft Power BI, Microsoft  Data Factory, Microsoft Data Analytics to build web usage analytic reports.
+	- 4-6 years in developing BI reports, dashboards, KPIs, and scorecards.
+	- 4-6 years development experience in Data Analytic technologies such as: Pentaho, Microsoft – Power BI or Tableau
+	- Experience with Microsoft Azure platform a plus (Data Factory, Data Lake, Data Analytics, Streams)
+	- Experience with Solr is a plus
++ Lifelong-DNNTM (L-DNN) technology, which reduces the data requirements for AI model development and enables continuous learning in the cloud or at the edge
 
 
 
