@@ -188,7 +188,7 @@ Transparency
 	- https://www.micc.unifi.it/icpr2020/
 	- Venue: Milan, Italy.
 	- Dates: September 13-18, 2020.
-	- Submission deadline: March 2, 2020.
+	- Submission deadline: ~~March 2, 2020.~~ ~~March 18~~ April 15 and July 10, 2020.
 + IEEE Transactions on Information Theory
 + IJCAI, International Joint Conference on Artificial Intelligence
 	- https://ijcai.org
@@ -442,12 +442,9 @@ MTFD: Meet The Final Deadline; and, apply for [research internships](https://git
 
 
 Upcoming Submission deadlines:
-+ ***[ISLPED](http://www.islped.org/2020/): ~~March 2 and 9, 2020~~ March 16 and 23, 2020.***
-+ [ISVLSI](http://www.isvlsi.org): ~~March 13~~ March 20 and 27, 2020.
-+ [PLDI SRC](https://pldi20.sigplan.org/track/pldi-2020-Student-Research-Competition): March 13, 2020.
-+ [FPL](https://www.fpl2020.org/): ~~March 16 and 23~~ March 23 and 30, 2020.
-+ ***[ICPR, International Conference on Pattern Recognition](https://www.micc.unifi.it/icpr2020/): ~~March 2, 2020.~~ March 18, 2020, 23:59 European CEST.***
-+ [ACM Multimedia](https://2020.acmmm.org/call-for-paper.html): March 21 and 28, 2020, AoE.
++ [FPL](https://www.fpl2020.org/): ~~March 16 and 23~~ ~~March 23 and 30~~ March 27 and April 3, 2020.
++ ***[ICPR, International Conference on Pattern Recognition](https://www.micc.unifi.it/icpr2020/): ~~March 2, 2020.~~ ~~March 18~~ April 15 and July 10, 2020, 23:59 European CEST.***
++ [ACM Multimedia](https://2020.acmmm.org/call-for-paper.html): ~~March 21 and 28~~ April 25, 2020, AoE.
 + [Hot Chips 32](https://www.hotchips.org/): ~~March 23~~ April 6, 2020.
 + [MWSCAS](http://mwscas2020.org/): March 23, 2019.
 + [ASAP](https://asap2020.cs.manchester.ac.uk/cfp.html): March 27 and April 3, 2020.
@@ -3390,7 +3387,7 @@ List of conference "Call for Papers" deadlines:
 	- http://www.fpl.org/h/
 	- August 31 - September 4, 2020.
 	- Gothenburg, Sweden.
-	- Submission deadline: ~~March 16 and 23~~ March 23 and 30, 2020.
+	- Submission deadline: ~~March 16 and 23~~ ~~March 23 and 30~~ March 27 and April 3, 2020.
 
 
 
@@ -3413,7 +3410,7 @@ List of conference "Call for Papers" deadlines:
 	- https://acmmm.org/
 	- October 12-16, 2020
 	- Seattle, WA.
-	- Submission deadlines: March 21 and 28, 2020, AoE.
+	- Submission deadlines: ~~March 21 and 28~~ April 25, 2020, AoE.
 
 
 
