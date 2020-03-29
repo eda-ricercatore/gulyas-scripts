@@ -446,14 +446,14 @@ Upcoming Submission deadlines:
 + ***[ICPR, International Conference on Pattern Recognition](https://www.micc.unifi.it/icpr2020/): ~~March 2, 2020.~~ ~~March 18~~ April 15 and July 10, 2020, 23:59 European CEST.***
 + [ACM Multimedia](https://2020.acmmm.org/call-for-paper.html): ~~March 21 and 28~~ April 25, 2020, AoE.
 + [Hot Chips 32](https://www.hotchips.org/): ~~March 23~~ April 6, 2020.
-+ [MWSCAS](http://mwscas2020.org/): March 23, 2019.
-+ [ASAP](https://asap2020.cs.manchester.ac.uk/cfp.html): March 27 and April 3, 2020.
-+ [ITC 2020](http://www.itctestweek.org/): March 27 and April 3, 2020.
-+ [SenSys](http://sensys.acm.org/2020/cfp/): March 27 and April 6, 2020.
-+ [QEST 2020](http://www.qest.org/qest2020/call-for-papers.html): March 27 and April 3, 2020.
-+ [MICRO](https://www.microarch.org/micro53/): March 27 and April 3, 2020.
-+ [The FATE of AI in Education: Fairness, Accountability, Transparency, and Ethics, A Special Issue of the International Journal of Artificial Intelligence in Education (IJAIED)](https://sites.google.com/view/thefateofaied): abstract submission deadline: January 31, 2020 (not required); and deadline for paper submission: March 30, 2020.
-+ [ESWEEK](https://www.esweek.org): April 3 and 10, 2020.
++ [MWSCAS](http://mwscas2020.org/): ~~March 23~~ April 27, 2019.
++ [ASAP](https://asap2020.cs.manchester.ac.uk/cfp.html): ~~March 27 and April 3~~ April 10 and 17, 2020.
++ [ITC 2020](http://www.itctestweek.org/): ~~March 27 and April 3~~ April 24 and May 1, 2020.
++ [SenSys](http://sensys.acm.org/2020/cfp/): ~~March 27 and April 6~~ April 10 and 17, 2020.
++ [QEST 2020](http://www.qest.org/qest2020/call-for-papers.html): ~~March 27 and April 3~~ April 24 and 30, 2020.
++ [MICRO](https://www.microarch.org/micro53/): ~~March 27 and April 3~~ April 10 and 17, 2020.
++ [The FATE of AI in Education: Fairness, Accountability, Transparency, and Ethics, A Special Issue of the International Journal of Artificial Intelligence in Education (IJAIED)](https://sites.google.com/view/thefateofaied): abstract submission deadline: January 31, 2020 (not required); and deadline for paper submission: ~~March 30~~ April 20, 2020.
++ [ESWEEK](https://www.esweek.org): ~~April 3 and 10~~ April 3 and 17, 2020.
 + [IEEE International Conference on Quantum Computing & Engineering @ IEEE Quantum Week](https://qce.quantum.ieee.org/): April 5 and 27, 2020.
 + [FOCS](https://focs2020.cs.duke.edu/index.php/cfp/): April 9, 2019, 11:59 p.m. U.S. EDT.
 + [FMCAD](https://fmcad.forsyte.at/FMCAD20/): April 9 and 16, 2020.
@@ -3434,7 +3434,7 @@ List of conference "Call for Papers" deadlines:
 	- http://mwscas2020.org/
 	- Springfield, MA, U.S.A..
 	- August 9-12, 2020.
-	- Submission deadline: March 23, 2019.
+	- Submission deadline: ~~March 23~~ April 27, 2019.
 
 
 
@@ -3515,7 +3515,7 @@ List of conference "Call for Papers" deadlines:
 	- https://asap2020.cs.manchester.ac.uk/
 	- Manchester, U.K..
 	- July 6-8, 2020.
-	- Submission deadline: March 27 and April 3, 2020.
+	- Submission deadline: ~~March 27 and April 3~~ April 10 and 17, 2020.
 
 
 
@@ -3526,7 +3526,7 @@ List of conference "Call for Papers" deadlines:
 	- http://www.itctestweek.org/wp-content/uploads/2019/11/ITC_2020_Call_for_Papers_final-4.pdf
 	- November 3-5, 2020.
 	- Washington, D.C..
-	- Submission deadline: March 27 and April 3, 2020.
+	- Submission deadline: ~~March 27 and April 3~~ April 24 and May 1, 2020.
 
 
 
@@ -3544,7 +3544,7 @@ List of conference "Call for Papers" deadlines:
 	- http://sensys.acm.org/
 	- November 16-19, 2020
 	- Yokohama, Japan.
-	- Submission deadlines: March 27 and April 6, 2020.
+	- Submission deadlines: ~~March 27 and April 6~~ April 10 and 17, 2020.
 
 
 
@@ -3585,7 +3585,7 @@ List of conference "Call for Papers" deadlines:
 	- http://www.qest.org/qest2020/
 	- Vienna, Austria
 	- August 31 - September 3, 2020.
-	- Submission deadline: March 27 and April 3, 2020.
+	- Submission deadline: ~~March 27 and April 3~~ April 24 and 30, 2020.
 	- Topics:
 		* quantitative specification methods
 		* stochastic and non-deterministic models and metrics for:
@@ -3615,7 +3615,7 @@ List of conference "Call for Papers" deadlines:
 	- https://www.microarch.org
 	- Athens, Greece.
 	- October 17-21, 2020.
-	- Submission deadline: March 27 and April 3, 2020.
+	- Submission deadline: ~~March 27 and April 3~~ April 10 and 17, 2020.
 
 
 
@@ -3692,7 +3692,7 @@ List of conference "Call for Papers" deadlines:
 		* Hamburg, Germany.
 	- October 10-15, 2021.
 		* Shanghai, China.
-	- Submission deadline: **April 3 and 10, 2020**.
+	- Submission deadline: **~~April 3 and 10~~ April 3 and 17, 2020**.
 	- **CASES, International Conference on Compilers, Architectures, and Synthesis for Embedded Systems**
 	- **CODES+ISSS, International Conference on Hardware/Software Codesign and System Synthesis**
 	- EMSOFT, ACM SIGBED International Conference on Embedded Software
