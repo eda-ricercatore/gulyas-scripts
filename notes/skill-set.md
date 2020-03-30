@@ -5172,7 +5172,14 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Experience with Microsoft Azure platform a plus (Data Factory, Data Lake, Data Analytics, Streams)
 	- Experience with Solr is a plus
 + Lifelong-DNNTM (L-DNN) technology, which reduces the data requirements for AI model development and enables continuous learning in the cloud or at the edge
-
++ skill set:
+	- Fluent in machine learning frameworks such as TensorFlow, PyTorch, Caffe, or Theano and libraries such as NumPy and pandas.
+	- Passion for seeing research through from initial conception to eventual application.
+	- Past experience with writing performant implementations of ML research.
+	- Have experience working with CUDA, Docker and AWS platform (Lambda, S3, RDS, and/or EKS).
+	- Have an artistic/creative practice of your own.
+	- Have published high-impact machine learning research.
+	- Have experience in a creative application (Unity, Photoshop, Blender, Processing, etc)
 
 
 
