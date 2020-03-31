@@ -5180,6 +5180,7 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Have an artistic/creative practice of your own.
 	- Have published high-impact machine learning research.
 	- Have experience in a creative application (Unity, Photoshop, Blender, Processing, etc)
++ Experience with Hadoop/Hbase/Pig or MapReduce/Sawzall/Bigtable
 
 
 
