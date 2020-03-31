@@ -3730,12 +3730,21 @@ Machine learning and deep learning resources:
 
 
 
+
+
+
+
+
+
+
+
 ###	Data Visualization and Information Visualization
 
 *Python* libraries and packages for data visualization and information visualization:
 + [Bokeh](https://bokeh.pydata.org/en/latest/)
 	- \cite{BokehContributors2018}
 	- \cite{BokehContributors2018a}
++ [seaborn: statistical data visualization](https://seaborn.pydata.org/)
 + [Yellowbrick](https://github.com/DistrictDataLabs/yellowbrick)
 	- \cite{YellowbrickContributors2018}
 	- http://www.scikit-yb.org/en/latest/
@@ -3770,15 +3779,17 @@ Machine learning and deep learning resources:
 			+ Use *matplotlib.pyplot* to plot non-interactive diagrams, figures, and plots.
 			+ Use *Matplotlib*'s *pylab* to plot interactive diagrams, figures, and plots.
 		+ \cite[Section "Matplotlib, pyplot and pylab: how are they related?"]{Hunter2020}
-			- Pylab is deprecated. 
-
-
-https://matplotlib.org/faq/usage_faq.html#matplotlib-pyplot-and-pylab-how-are-they-related
+			- [Pylab is deprecated](https://matplotlib.org/faq/usage_faq.html#matplotlib-pyplot-and-pylab-how-are-they-related)
++ [Plotly](https://plotly.com/python/v3/ipython-notebooks/)
 + [GGobi](http://www.ggobi.org/)
 	- \cite{GGobiContributors20XY}
 + [Orange](https://orange.biolab.si/)
 	- \cite{OrangeContributors2018}
 	- https://github.com/biolab/orange3 \cite{OrangeContributors2018a}
++ [itermplot](https://github.com/daleroberts/itermplot)
++ [ggplot](http://ggplot.yhathq.com/)
+	- "ggplot is a plotting system for Python based on R's ggplot2 and the Grammar of Graphics."
++ [ by Hassan Kibirige, 2009](https://plotnine.readthedocs.io/en/stable/) 
 + References
 	- \cite{Raman2015,Milovanovic2015,Milovanovic2013}
 
