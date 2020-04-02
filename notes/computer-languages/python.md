@@ -3789,7 +3789,7 @@ Machine learning and deep learning resources:
 + [itermplot](https://github.com/daleroberts/itermplot)
 + [ggplot](http://ggplot.yhathq.com/)
 	- "ggplot is a plotting system for Python based on R's ggplot2 and the Grammar of Graphics."
-+ [ by Hassan Kibirige, 2009](https://plotnine.readthedocs.io/en/stable/) 
++ [plotnine by Hassan Kibirige, 2009](https://plotnine.readthedocs.io/en/stable/) 
 + References
 	- \cite{Raman2015,Milovanovic2015,Milovanovic2013}
 

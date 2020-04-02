@@ -3377,6 +3377,19 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ ICANN, International Conference on Artificial Neural Networks
+	- https://e-nns.org/icann2020/
+	- https://e-nns.org/icann2020/important-dates/
+	- https://e-nns.org/icann2020/conference-programme/conference-topics/
+	- September 15-18, 2020
+	- Bratislava, Slovakia
+	- Submission dates: ~~March 15~~ April 30, 2020.
+
+
+
+
+
+
 
 
 
