@@ -5181,7 +5181,19 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Have published high-impact machine learning research.
 	- Have experience in a creative application (Unity, Photoshop, Blender, Processing, etc)
 + Experience with Hadoop/Hbase/Pig or MapReduce/Sawzall/Bigtable
-
++ topics in mathematics and statistics to learn:
+	+ Linear Algebra
+	+ Probability (e.g. Bayes' Theorem, Distributions, Conditional Expectations)
+	+ Multivariate Calculus (e.g. Integration, Multivariate Differentiation)
+	+ Unsupervised Learning (e.g. KMeans, mixture models)
+	+ Regression (e.g. Linear Regression, ANOVA)
+	+ Classification (e.g. Naive Bayes, Logistic Regression, SVM, Random Forests)
+	+ Numerical Analysis
+	+ NLP (e.g. Bag of Words, TF/IDF, Topic Modeling)
+	+ Time Series (e.g. AR, ARMA, ARCH, EMA)
+	+ Matrix Factorization (e.g. PCA, NMF)
+	+ Statistics (e.g., hypothesis testing, t-tests, p-values)
+	+ Experimental Design
 
 
 
