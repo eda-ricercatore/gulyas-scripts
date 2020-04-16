@@ -2076,11 +2076,11 @@
 	- https://www.atomwise.com/jobs/senior-software-engineer-scientific-computing/
 + tech stack:
 	- You should think about joining us if you care about making a difference in treating disease and saving human lives. But also, if you are up to tackling some of the hardest open challenges in deep learning today:
-		+ Non-stationary, unbalanced, and noisy data: Our training data is seldom i.i.d.; new medicines are unlocked by pushing out into newly-discovered biology. Classes are extremely unbalanced, ratios of 1 positive to 70,000 negatives are typical. Help us reason about how to learn appropriately without dismissing nor overfitting to the data; identify when we can trust a label or have confidence in a prediction; and develop techniques to find and correct for systemic biases.
-		+ Extreme scaling: Medicinal chemists can synthesize about a trillion trillion molecules today. Help us scale predictive algorithms to orders of magnitude beyond those contemplated in any other problem domain today.
-		+ Multi-parameter optimization: Medicine has to be both safe and effective, so we have to concurrently optimize a number of criteria such as potency, selectivity, solubility, toxicity, synthesizability, etc. Help us efficiently explore the Pareto frontier and avoid mode collapse.
-		+ Adversarial generation of synthetic data: Data augmentation has shown utility in improving the robustness of predictions. Help us find ways to best integrate molecular physics simulation and machine learning to impute new data.
-		+ Explainability and visualization: Subtle patterns govern molecular recognition. Help us to understand how they lead to the discovery of fundamental chemistry by AI.
+		* Non-stationary, unbalanced, and noisy data: Our training data is seldom i.i.d.; new medicines are unlocked by pushing out into newly-discovered biology. Classes are extremely unbalanced, ratios of 1 positive to 70,000 negatives are typical. Help us reason about how to learn appropriately without dismissing nor overfitting to the data; identify when we can trust a label or have confidence in a prediction; and develop techniques to find and correct for systemic biases.
+		* Extreme scaling: Medicinal chemists can synthesize about a trillion trillion molecules today. Help us scale predictive algorithms to orders of magnitude beyond those contemplated in any other problem domain today.
+		* Multi-parameter optimization: Medicine has to be both safe and effective, so we have to concurrently optimize a number of criteria such as potency, selectivity, solubility, toxicity, synthesizability, etc. Help us efficiently explore the Pareto frontier and avoid mode collapse.
+		* Adversarial generation of synthetic data: Data augmentation has shown utility in improving the robustness of predictions. Help us find ways to best integrate molecular physics simulation and machine learning to impute new data.
+		* Explainability and visualization: Subtle patterns govern molecular recognition. Help us to understand how they lead to the discovery of fundamental chemistry by AI.
 	- Ph.D. or M.Sc. in computer science, statistics, data science, or related field
 	- 5+ years of extensive practical experience and proven track record of developing, implementing, debugging, and extending machine learning algorithm
 	- Knowledge of modern neural network frameworks such as Tensorflow, Torch, or Theano
@@ -5182,19 +5182,30 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Have experience in a creative application (Unity, Photoshop, Blender, Processing, etc)
 + Experience with Hadoop/Hbase/Pig or MapReduce/Sawzall/Bigtable
 + topics in mathematics and statistics to learn:
-	+ Linear Algebra
-	+ Probability (e.g. Bayes' Theorem, Distributions, Conditional Expectations)
-	+ Multivariate Calculus (e.g. Integration, Multivariate Differentiation)
-	+ Unsupervised Learning (e.g. KMeans, mixture models)
-	+ Regression (e.g. Linear Regression, ANOVA)
-	+ Classification (e.g. Naive Bayes, Logistic Regression, SVM, Random Forests)
-	+ Numerical Analysis
-	+ NLP (e.g. Bag of Words, TF/IDF, Topic Modeling)
-	+ Time Series (e.g. AR, ARMA, ARCH, EMA)
-	+ Matrix Factorization (e.g. PCA, NMF)
-	+ Statistics (e.g., hypothesis testing, t-tests, p-values)
-	+ Experimental Design
-
+	- Linear Algebra
+	- Probability (e.g. Bayes' Theorem, Distributions, Conditional Expectations)
+	- Multivariate Calculus (e.g. Integration, Multivariate Differentiation)
+	- Unsupervised Learning (e.g. KMeans, mixture models)
+	- Regression (e.g. Linear Regression, ANOVA)
+	- Classification (e.g. Naive Bayes, Logistic Regression, SVM, Random Forests)
+	- Numerical Analysis
+	- NLP (e.g. Bag of Words, TF/IDF, Topic Modeling)
+	- Time Series (e.g. AR, ARMA, ARCH, EMA)
+	- Matrix Factorization (e.g. PCA, NMF)
+	- Statistics (e.g., hypothesis testing, t-tests, p-values)
+	- Experimental Design
++ skill sets:
+	- The Pocket Casts team is looking for an experienced full stack engineer to join our team in a full time capacity. If successful you’ll be working on everything from our new web front ends to our rapidly expanding backend microservices.
+	- At least 5 years of experience in server side programming languages such as Java or Kotlin.
+	- Strong database skills, with knowledge of Cassandra or similar NoSQL databases a big plus.
+	- Web development skills with HTML, Javascript and CSS.
+	- Deep knowledge of Linux based terminal commands and processes.
+	- Strong focus on unit testing and integration testing.
+	- Communication and interpersonal skills are a must.
+	- Interest and exposure to other programming languages and frameworks such as Kotlin, Vertx and Ruby on Rails.
+	- Experience building servers and services at scale.
+	- Front end development experience in React or similar Javascript frameworks.
+	- Knowledge or experience with The Box, The Box II or The Box III Gavin Belson Signature Edition.
 
 
 
