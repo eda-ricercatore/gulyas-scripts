@@ -5194,7 +5194,7 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Matrix Factorization (e.g. PCA, NMF)
 	- Statistics (e.g., hypothesis testing, t-tests, p-values)
 	- Experimental Design
-+ skill sets:
++ skill set:
 	- The Pocket Casts team is looking for an experienced full stack engineer to join our team in a full time capacity. If successful you’ll be working on everything from our new web front ends to our rapidly expanding backend microservices.
 	- At least 5 years of experience in server side programming languages such as Java or Kotlin.
 	- Strong database skills, with knowledge of Cassandra or similar NoSQL databases a big plus.
@@ -5206,6 +5206,69 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Experience building servers and services at scale.
 	- Front end development experience in React or similar Javascript frameworks.
 	- Knowledge or experience with The Box, The Box II or The Box III Gavin Belson Signature Edition.
++ skill set:
+	+ Hadoop
+	+ OOZIE
+	+ Hive
+	+ HBase
+	+ Druid
+	+ Kafka
+	+ Spark
+	+ Storm
+	+ ATS, or AWS???
+	+ Java
+	+ Jetty
+	+ Kubernetes
+	+ Docker
+	+ MySQL
+	+ Jenkins
+	+ Git
+	+ tools and technologies for CI/CD, configuration, monitoring and alerting management.
++ skill set:
+	- We are a bunch of AI quants trying to change the retail investing game. No really, we are trying to change the investing world by challenging the existing paradigm for individuals like you. Why should ONLY the big investment banks and elite hedge funds have access to recent advancements in quantitative and AI investing? We are trying to help the average person invest and save through the power of AI. Why should someone like you be forced to settle? We don’t think you should. Your money matters too!
+	- We have a team-oriented culture built on mutual respect, integrity, accountability and doing the right thing. Trying to challenge the investment titans is serious, but we also try to have fun 24/7. It really is hard for us to contain our excitement about how AI can change the investing game for the retail investor. We never settle and are always hustling. Most importantly, we never stop dreaming and are ALWAYS looking to disrupt!
+	- Creating consumer-facing financial products to help individuals invest and save better. With the help of smart algorithms, we think individual investors can realize some awesome returns in their portfolios. Stocks? ETFs? Options? Cryptocurrencies? We do it all and even more! Why throw darts at a stock market dart board? Let our AI algorithms crunch the numbers, so that individual investors like you can make the trade!
+	- You will be joining the R&D team at Quantalytics AI Labs and will be working directly with the Founder/CEO to make sense of some wacky and super large Big Data sets that power our AI-powered financial tools. The Quantalytics AI Data Scientist will be looking at financial data, sentiment data, traffic data, blockchain data and other interesting alternative datasets to find hidden alpha to power our algorithms, models and content generation machines.
+	- Who are you?
+		* Love how Big Data and statistics are transforming investment markets
+		* Excited about how AI technology can change the way people invest
+		* Love coding
+		* Believe Blockchain can change the world
+		* Happy
+		* Curious
+		* Helpful
+		* Accountable
+		* Team Player
+	- Personal Competencies:
+		* Strong background in advanced statistics and financial engineering
+		* Experience with Deep Learning and Reinforcement Learning
+		* Fluent in Python and C++
+		* Have experience with R, Julia and Golang
+		* Experience with Deep Learning and Reinforcement Learning
+		* Strong communication skills
+		* Experience working as part of a remote team
+		* Self-motivated, detail-oriented
+		* Strong organizational skills
+		* Document everything
+		* A methodical approach to all tasks
+		* Ability to prioritize workloads and meet deadlines
+		* Fluent English speaker
+	- Responsibilities:
+		* Work directly with Founder/CEO to build new datasets for our AI models
+		* Organized and structure raw datasets we use to help our AI models learn better and quicker
+		* Architect and build AI investing algorithms for financial markets
+		* Write high-performance code designed to scale
+		* Able to take a design/proposal and carry it through to a thoughtful and polished end result with good test coverage
+		* Take initiative to improve the software whenever you notice something lacking
+		* Write documentation around features and operations to help share knowledge and save other developers time
+		* Have the ability to learn and grow
+	- Requirements:
+		* 3-5 years years professional experience as a data scientist
+		* Experience in financial markets is preferable
+		* Extensive experience with Python and C++
+		* Experience with R, Julia and Golang is preferable
+		* Experience with API requests and pulling data
+		* Passionate about using technology and big data to make investing easier
 
 
 
