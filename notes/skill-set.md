@@ -5269,9 +5269,74 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 		* Experience with R, Julia and Golang is preferable
 		* Experience with API requests and pulling data
 		* Passionate about using technology and big data to make investing easier
-
-
-
++ skill set:
+	- Work with large, complex data sets. Solve difficult, non-routine analysis problems, applying advanced analytical methods as needed. Conduct analysis that includes data gathering and requirements specification, processing, analysis, ongoing deliverables, and presentations.
+	- Build and prototype analysis pipelines iteratively to provide insights at scale.
+	- Develop comprehensive knowledge of TikTok data structures and metrics, advocating for changes where needed for product development.
+	- Interact cross-functionally, making business recommendations (e.g., cost-benefit, forecasting, experiment analysis) with effective presentations of findings at multiple levels of stakeholders through visual displays of quantitative information.
+	- Research and develop analysis, forecasting, and optimization methods to improve the quality of TikTok ads products.
+	- 3+ years of relevant work experience, including expertise with statistical data analysis such as linear models, multivariate analysis, stochastic models, sampling methods.
+	- Experience with statistical software (e.g. R, Python, MATLAB) and database languages (e.g. SQL)
+	- Demonstrated leadership and self-direction. Willingness to both teach others and learn new techniques.
+	- Demonstrated skills in selecting the right statistical tools given a data analysis problem. Effective written and verbal communication skills.
++ skill set:
+	- Generate useful features from large amount of data
+	- Apply supervised and unsupervised machine learning techniques, such as linear and logistic regression, decision trees, and k-means clustering
+	- Develop segmentation models, classification models, propensity models, LTV models, experimental design, optimization models
+	- Perform statistical analysis such as KPI deep dives, performance marketing efficiency, behavioral clustering, and user journey analytics
+	- Curate audiences and inform engagement tactics to enable differentiated, relevant marketing touches across channels (social, email, in app, push)
+	- Synthesize analytics and statistical approaches into easy-to-consume storylines, both visually and verbally, and provide indicated actions for executive audiences
+	- Capture business requirements for data and analytic solutions and collaborate XFN to ensure business requirements align with business needs
+	- Analyze creatives and surface insights that will help drive engagement and retention.
+	- Support day-to-day collaboration with performance marketing to communicate insights and recommend data informed strategies
+	- Experience building data science models (Regression, Decision Trees, K-Means, etc.)
+	- Experience with large data sets and analytical tools, e.g. Hive, Spark)
+	- Proficiency in scripting languages (SQL, Python, R, etc.)
+	- Experience working with international partners in different time zones
++ skill set:
+	- Develop cross-platform code using the latest industry-standard tools:
+	- C++17, transitioning to C++20
+	- Modern CMake
+	- GoogleTest
+	- GitLab CI
+	- Build robust code within a strict test-driven development workflow.
++ skill set:
+	- Experience in the development, test, deployment and administration of one of the following types of systems is preferred:
+		* HDFS (with source-level familiarity);
+		* Object storage systems;
+		* Message queueing (MQ) systems, e.g., Kafka.
++ Experience in the development, test, deployment and administration of one of the following types of systems: Ngnix, Kubernetes, Docker, OpenStack, Hadoop, Spark, Flink, etc. is preferred
++ Experience in the Big Data technologies(Hadoop, M/R, Hive, Spark, Metastore, Presto, Flume, Kafka, ClickHouse, Flink etc.)
++ Familiar with web technology stack like Spring, Flask, Gin, etc.
++ skill set:
+	- Participate in the development of a large-scale Ads system for TikTok.
+	- Participate in the development and iteration of Ads algorithms by using Machine Learning.
+	- Partner with product managers and product strategy & operation team to define product strategy and features.
+	- Solid programming skills, proficient in C/C++, good programming style and work habits;
+	- Familiar with at least one mainstream deep learning programming framework (TensorFlow/Caffe/MXNet), familiar with its architecture and implementation mechanism;
+	- Familiar with deep learning algorithms (CNN/RNN/LSTM, etc.);
+	- Ability to solve problems independently, good sense of teamwork and communication skills;
+	- Has experience with open sourced deep learning framework.
+	- Familiar with main components for Ads system, including bidding, ranking and auction.
+	- Experience in resource management and task scheduling with large scale distributed software (such as Spark and TensorFlow).
++ skill set:
+	- You have a proven track record of statistical modeling / applied machine learning with a focus on churn prediction, LTV prediction, and customer behavioural clustering.
+	- You have experience with A/B and Multivariate test design and implementation.
+	- You’re pragmatic. You value simple and effective solutions over complicated brain-melters.
+	- You can take a complex concept and make it sound simple, using clear visual references to help.
+	- You like taking on big challenges—given the appropriate time and resources.
+	- You’re hungry to learn and embrace healthy debate.
+	- You're empathic, enthusiastic, and collaborative.
+	- You’ve are proficient building queries with SQL.
+	- You have experience with AWS or other cloud systems.
+	- You are an expert in Python or R, and have some experience in implementation (Scala/Java).
+	- Having a working knowledge of Big Data technologies (e.g. Spark or Redshift) is a plus.
+	- You’re fluent in English and eager to work in a multicultural, international environment.
++ Have vast experience with schedulers like Kubernetes, Mesos/Marathon or similar with some sort of service mesh in use.
++ WebRTC
+	- WebRTC (Web Real-Time Communication) is a free, open-source project that provides web browsers and mobile applications with real-time communication (RTC) via simple application programming interfaces (APIs).
++ Buildroot
+	- Buildroot is a set of Makefiles and patches that simplifies and automates the process of building a complete and bootable Linux environment for an embedded system, while using cross-compilation to allow building for multiple target platforms on a single Linux-based development system. Buildroot can automatically build the required cross-compilation toolchain, create a root file system, compile a Linux kernel image, and generate a boot loader for the targeted embedded system, or it can perform any independent combination of these steps.
 
 
 
