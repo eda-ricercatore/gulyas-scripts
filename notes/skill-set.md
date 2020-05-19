@@ -5337,6 +5337,289 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- WebRTC (Web Real-Time Communication) is a free, open-source project that provides web browsers and mobile applications with real-time communication (RTC) via simple application programming interfaces (APIs).
 + Buildroot
 	- Buildroot is a set of Makefiles and patches that simplifies and automates the process of building a complete and bootable Linux environment for an embedded system, while using cross-compilation to allow building for multiple target platforms on a single Linux-based development system. Buildroot can automatically build the required cross-compilation toolchain, create a root file system, compile a Linux kernel image, and generate a boot loader for the targeted embedded system, or it can perform any independent combination of these steps.
++ Our platform is ever-evolving, but currently is a combination of Python, Java, Postgres, Kubernetes, Spark, Presto, Kafka, and Mongo
++ Experience using different types of datastores such as Postgres, Mongo, Redis, and Elasticsearch
++ Practice disciplined software engineering (e.g. automated testing, code reviews, and writing beautiful, readable code).
++ skill set:
+	- Build automation around infrastructure components like MongoDB, PostgreSQL, Redis, and Kafka clusters.
+	- Experience with Docker, Kubernetes, Prometheus, or other CNCF software is a big plus.
+	- Extensive operational and architectural background in SQL and NoSQL technologies.
+	- Experience with database design, caching, scalability, and network fundamentals.
++ 3+ years of experience with ReactiveCocoa and MVVM a plus
++ Bonus points for experience / familiarity with front-end testing (Jest, Cypress, Selenium), Docker, Kubernetes, GCP/AWS, infrastructure automation (chef/puppet/ansible)
++ skill set:
+	- Deep knowledge of TCP/UDP and IP routing
+	- Knowledge of Linux internals, TCP/IP, DNS, Load Balancing technologies
+	- Experience working with fault tolerant, highly available, high throughput, distributed, scalable systems
+	- Knowledge of cloud compute technologies, network monitoring, data processing and analytics
+	- Experience with datacenter monitoring, service oriented systems, micro-services
+	- Experience with network automation, dynamic routing, SNMP, network telemetry
+	- Exposure to Grafana, Prometheus, ElasticSearch and other distributed platforms
+	- Aptitude to be a good team player and willingness to learn and implement new technologies as needed
++ skill set:
+	- Own internal services like Kubernetes and Ceph clusters, create microservices like authentication providers and load balancers, product-related services like our deployment pipeline, and everything in between.
+	- Write high-quality infrastructure-as-code that automates the provisioning, deployment, scaling, and monitoring of Squarespace’s infrastructure and ensure that it is redundant and fast around the globe.
+	- Understand database design, storage, caching, scalability, and network fundamentals.
++ 5+ years of experience building large-scale software and distributed systems in *nix environments and with technologies that run the internet such as TLS, HTTP (1/1.1, 2, QUIC/3), TCP,UDP, IP, anycast, multicast, and unicast routing.
++ Understanding of uncompressed video formats and codecs (e.g. HLS, MPEG-DASH)
++ Experience with Maya, Blender, Adobe Creative Suite/Creative Cloud.
++ skill set:
+	- Demonstrated experience with Esri ArcGIS 10.x, cartographic design, graphic editing, and standard office applications.
+	- Familiarity with ArcGIS Online, Tableau, and a statistical package (R, STATA, etc.)
+	- Ability to work in a fast-paced environment under tight deadlines while producing quality content.
+	- Strong organizational, interpersonal, oral and written communication skills.
+	- Strong analytical skills, data lover, ability to think big picture strategy and navigate details to ensure accuracy.
+	- Ability to participate in a 1-2-week field experience, which may involve domestic and/or international travel and overnight stays for up to 2 weeks.
++ Experience in Big data technology stack (Hadoop, Hbase, Sqoop, Hive, Spark, etc.).
++ Experience with a number of ML techniques and frameworks, e.g. data discretization, normalization, sampling, linear regression, decision trees, deep neural networks, etc
++ skill set:
+	- High-demand large-scale production environments
+	- BGP, MPLS, and RSVP configuration and management
+	- Internal routing protocols such as ISIS and OSPF
+	- Cloud deployments such as GCP and AWS
+	- Multiple hardware platforms such as Juniper, Arista, and Cisco
+	- Packet analysis and flow monitoring tools
+	- Scripting in Python or equivalent to automate operational tasks
+	- Strong documentation and interpersonal skills
++ skill set:
+	- microservice architecture
+	- Java
+	- Rest Webservices
+	- Agile software development methodology
+	- Jenkins
+	- Subversion
+	- Splunk as a monitoring tool
+	- New Relic application monitoring
++ skill set:
+	- data architecture
+	- big data stack environment, including Snowflake, EMR, EC2, S3, SQS, Lambda, Hadoop, Sqoop, Apache Spark, Hive, and Python
+	- data warehousing and BI Solutioning
+	- ETL analytics and reporting tools
+	- Amazon Web Services
+	- leading the technical design and implementation of data ingestion and integration
+	- databases, including NoSQL, DynamoDB, and Teradata
+	- Airflow Scheduler to build complex workflows
+	- SQL and Linux / Unix shell scripting
+	- performance tuning data pipelines
++ skill set:
+	- monitoring tools including New Relic, Splunk, and SignalFX;
+	- Apache Camel Messaging Services
+	- JBoss
+	- build tools, including ANT, Maven, and Gradle
+	- UML
++ skill set:
+	- data engineering
+	- Amazon Web Services
+	- Oracle
+	- Hive / Spark
+	- Hadoop
+	- Python
+	- Snowflake
+	- Airflow
++ skill set:
+	- Gather business requirements and create technical requirements for statistical analytics solutions.
+	- Create data processing systems for production purposes.
+	- Using established Nielsen development, testing and deployment practices, draft design documents that are presented to internal and external stakeholders.
+	- Present material to internal department stakeholders.
+	- Partner with the Software Engineering department to build best-of-class Cloud-based analytical solutions based on the Agile solutions development methodology.
+	- Implement statistical and econometric models.
+	- Analyze (i.e., to determine the quality of) econometric models, and implement and analyze supervised and unsupervised learning approaches.
+	- Write modules for Nielsen analytics platform.
+	- Prototype and design analytic methods.
+	- Extract, and conduct quality assurance for, market research/marketing, economic and company data from different external and internal platforms.
+	- Conduct research to identify new quality assurance measures.
+	- Train and mentor (without supervisory authority) 1-2 Data Scientists.
+	- Involves domestic travel, 1-2 times per year, for up to 2-3 days per trip.
+	- Tools used include: SQL, Python, Pandas, Scikit Learn, R, Spark MLib and Scala.
+	- Master’s degree in statistics, mathematics, economics, or a related hard science, social science or engineering field with a quantitative focus, such as computer science or engineering, physics, chemistry or sociology (foreign equivalent degree acceptable) plus 3 years of experience in conducting data modeling and statistical analysis using large and complex (at least 10 GB) datasets (would also accept a Ph.D. in such a field plus 1 year of experience).
+	- 3 years of experience (or 1 year of experience after a Ph.D.) in/with:
+		* gathering data requirements for statistical, econometric and/or predictive analytics research that drives market research/marketing analytics product innovation and implementation
+		* handling large volumes (at least 10 GB) of structured and unstructured data
+		* Python and its libraries (such as Pandas, Numypy and/or SciKit Learn), SQL, Spark, and R, all via a Cloud-based platform (such as AWS and/or Azure)
+		* 1 year of experience in/with: building efficient data processing pipelines for analytical systems; and Airflow
+		* Must be willing to travel domestically, 1-2 times per year, for 2-3 days per trip.
++ skill set:
+	- Scala, Flask, Big Data or cloud technologies
+	- hands-on technologists who are strong in software engineering fundamentals, Big Data, and DevOps
+	- Intelligence Studio is a horizontally scalable, cross-cloud technology-agnostic platform built with trusted open source components like Kubernetes, Spark, Airflow, MLflow, and TensorFlow. It allows data scientists to focus on doing data science by taking care of essential concerns like data access, logging, configuration, resource negotiation, dependency management, orchestration, and testing.
+	- This self-service, data science platform solution connects in with partners in a shared ecosystem, scales by usage, and has the building blocks to help our data scientists and clients move from creation to deployment of a data science project, at scale.
+	- Recently, we implemented a multi-user cloud-based integrated development environment with code completion and debugging built-in. And now we’re focused on building a fine-grained entitlements and access control system for big data.
+	- Building software and integrations in a cloud-based Microservices environment for Big Data applications
+	- We also use cloud software design, containerized Microservices & distributed caching, but you can learn this if you aren’t familiar with it.
++ skill set:
+	- As a key member of the core platform engineering team, you will work directly with business and technical stakeholders to lead and execute projects including exploration of new languages, tools, technologies (such as Go, AWS Lambda, Aurora, ElastiCache, CloudSearch, etc), building new APIs and microservices, migration of existing services and data stores to the cloud, personalization and many more. While working on these projects you will be responsible for full life-cycle management, including requirements analysis, technical design, implementation, testing, documentation, deployment to production, and postproduction ownership.
+	- Design and build services and applications at scale for tens of millions of users.
+	- Profile and optimize browse and search algorithms over large datasets.
+	- Contribute to architecture, design and implementation of next generation monetization and metadata delivery platform.
+	- Contribute to development of new web and mobile applications and services.
+	- Create technical specifications for new products, executing from start to finish and owning the quality of the service in production.
+	- Create and enhance integrations with external partners like Amazon, Microsoft, Sonos, Tesla, and Google.
+	- Maintain and extend heterogeneous environment, including our core .NET codebase and our set of services written in Go.
+	- Maintain and extend API services, SDKs and developer documentation.
+	- 7+ years of software engineering experience with an emphasis in modern web stacks, design, development and deployment of high volume web applications and APIs (millions of transactions per day).
+	- Working knowledge of both relational and NoSQL database design and management (here at TuneIn we are using SQL Server, Aurora, Redis, DynamoDB, BerkeleyDB, Redshift and more).
+	- Expertise with object-oriented languages such as Go, C#, Java, JavaScript or C++
+	- History of building resilient, stateless, scalable, distributed and observable systems.
+	- Experience with microservices, knowledge of modern cloud services (such as AWS or similar).
+	- Practical perspective on software engineering discipline, focus on learning and delivering, and passion for high quality.
+	- Great energy and enthusiasm with a positive, collaborative working style, clear communication and writing skills.  Enthusiasm for audio content preferred.
++ skill set:
+	- TuneIn reaches nearly 70 MAUs and we have a relentless appetite for data: our listeners collectively generate tens of millions of events per hour at peak. We are a small data engineering team and our contributions have a profound impact on the success of the business: from shipping the next strategic insight to building the data-centric products that power our listeners' experiences - our Data Engineering team is the hub of TuneIn. Our environment currently includes Java, Python, Pandas, Go, microservices, AWS services like amazon redshift, kinesis, emr (hadoop, spark), s3, lambdas. Kubernetes, Docker and Spinnaker for deployment. As well as music station recommendation engines, and advancements in Discovery and personas.
+	- Data pipelines are critical to TuneIn's success, powering many aspects of our analytics and supporting products. We are looking for data engineers who will build data applications to solve product problems. In this role, you’ll partner closely with our data analysts and Product team to create the technology that generates and transforms data into applications, insights and experiences for our users.
+	- Example Projects
+		* Build and rewrite existing data pipelines using Java/Python/Go to improve efficiency and latency
+		* Develop and automate ETL pipelines
+		* Design data models for optimal storage and retrieval, and optimize the data architecture to meet critical product and business requirements
+		* Improve data quality through anomaly detection by building and working with internal tools to measure data and automatically detect changes
+		* Data Modeling and improving our existing data models for analytics
+	- 5+ years of software Engineering experience, with an emphasis in the design, development and deployment of high volume data centric applications (millions of transactions per day)
+	- Past experience developing and maintaining ETL pipelines
+	- Working knowledge of both relational and NoSQL database design and management (here at TuneIn we are using  Redshift, DynamoDB and Aurora)
+	- Past experience with cloud services (such as AWS or similar)
+	- Expertise with any object-oriented languages such as Java, Go, Python
+	- History of building resilient, stateless, scalable, distributed and observable systems
+	- Demonstrated ability to analyze data sets to identify gaps and inconsistencies, provide data insights, and advance effective product solutions
+	- Experience designing and deploying production systems with reliable monitoring and logging practices
+	- Practical perspective on software engineering discipline, focus on learning and delivering, and passion for high quality
+	- Great energy and enthusiasm with a positive, collaborative working style, clear communication and writing skills
+	- Enthusiasm for audio content preferred
++ skill set:
+	- 3+ years experience with the JVM and Scala (preferably) or another functional programming language
+	- Experience working in high scale/distributed systems where high availability, low latency and scalability is key
+	- Strong experience working with concurrent and asynchronous programming
+	- Understanding of algorithms and data structure and how to apply them when designing and building systems
+	- Experience with SQL/NoSQL systems such as MongoDB, DynamoDB, PostgresQL
+	- Experience with Docker/Kubernetes
+	- Experience with continuous deployment and testing
+	- Working in a strongly typed language with compile time guarantees
+	- Being able to pick the best tool to get the job done
+	- Designing, developing, and deploying scalable services to support new and existing functionality
+	- Working in an environment where testing, monitoring, and reliability are part of the development process
+	- Collaborating and working closely within team/engineering as well as cross-functional teams
+	- Working on systems that are used by millions of users every day
+	- We are looking for a detail-oriented software engineer to join our backend services team.  Our team develops the core APIs that power the client applications used by millions of users daily. We primarily use Scala and deploy/run our code in Kubernetes. We also create and maintain some data pipelines to import/export data to other internal consumers. As part of our team, your responsibilities would include designing/building new features, maintaining high code quality via tests/code reviews/metrics, and keeping a focus on continuous improvement on all parts of the development process. Our team takes prides in having high quality code and developing in a principled fashion.
++ Experience with prototyping tools (Axure, InVision, Principle, Framer, etc)
++ skill set:
+	- Creating and managing the stack of production tools and APIs that allow interaction with content objects and insights into key performance indicators.
+	- Collaborating and coordinating with various engineering, content, and product teams: providing the glue between consumption and publication systems and users.
+	- Participating in defining the technology road map and best practices across the engineering organization that support and advocate for transparency within the Content lifecycle.
+	- Being a key contributor to our next-generation Content platforms.
+	- In depth experience developing applications in Python
+	- Experience with application frameworks/libraries such as Django or Flask and have experience with JavaScript frameworks such as Angular, React, or NodeJS
+	- Ability to extract and translate needs and stories from stakeholders and existing codebases into actionable development.
+	- Experience designing and implementing APIs needed for effective data visualization and interactions.
+	- Experience with SQL/NOSQL systems such as MongoDB, Cassandra, Postgres, etc.
+	- Experience with CI/CD pipelines and testing methodologies.
+	- Experience with AWS stack is a plus.
+	- Experience with big data engineering principles and technology stacks (eg., Kafka and distributed data processing) is a plus.
+	- We are highly focused on using the right tools for the job, building decoupled flexible architectures, and committed to fostering ownership and responsibility to autonomous teams.
++ skill set:
+	- We are looking for a detail-oriented software engineer to join our backend services team.  Our team develops the core APIs that power the client applications used by millions of users daily. We primarily use Scala and deploy/run our code in Kubernetes. We also create and maintain some data pipelines to import/export data to other internal consumers. As part of our team, your responsibilities would include designing/building new features, maintaining high code quality via tests/code reviews/metrics, and keeping a focus on continuous improvement on all parts of the development process. Our team takes prides in having high quality code and developing in a principled fashion.
+	- Working in a strongly typed language with compile time guarantees
+	- Being able to pick the best tool to get the job done
+	- Designing, developing, and deploying scalable services to support new and existing functionality
+	- Working in an environment where testing, monitoring, and reliability are part of the development process
+	- Collaborating and working closely within team/engineering as well as cross-functional teams
+	- Working on systems that are used by millions of users every day
+	- Solid experience with the JVM and Scala (preferably) or another functional programming language
+	- Experience working in high scale/distributed systems where high availability, low latency and scalability is key
+	- Strong experience working with concurrent and asynchronous programming
+	- Understanding of algorithms and data structure and how to apply them when designing and building systems
+	- Experience with SQL/NoSQL systems such as MongoDB, DynamoDB, PostgresQL
+	- Experience with Docker/Kubernetes
+	- Experience with continuous deployment and testing
++ skill set:
+	- Cloud engineering experience. AWS is preferred.
+	- Experience working with Kubernetes/Docker. Flux and Helm experience is preferred.
+	- Experience with tracing tools like Jaeger or Zipkin is preferred.
+	- Experience with Observability technologies, like Data Dog, Prometheus, and Grafana is a big plus.
+	- Treating cloud infrastructure as code by leveraging provisioning and configuration management tools such as Terraform and Ansible.
+	- Comfortable using common CI/CD tools such as TravisCI, Jenkins and Flux for application and infrastructure automation tasks.
+	- Providing engineers with the advice and tools they need to meaningfully monitor and alert on the services and features they develop, using tools like Prometheus/DataDog and PagerDuty.
+	- Collaborating with teammates and working cross-functionally with different engineering teams.
+	- Exploring and evaluating different open source tools.
+	- Knowledge of GitOps processes for driving auditable and repeatable changes to infrastructure
++ skill set:
+	- Experience working with Kubernetes/Docker. Flux and Helm experience is preferred.
+	- Experience with tracing tools like Jaeger or Zipkin is preferred.
++ skill set:
+	- We are looking for a detail-oriented software engineer to join our backend services team.  Our team develops the core APIs that power the client applications used by millions of users daily. We primarily use Scala and deploy/run our code in Kubernetes. We also create and maintain some data pipelines to import/export data to other internal consumers. As part of our team, your responsibilities would include designing/building new features, maintaining high code quality via tests/code reviews/metrics, and keeping a focus on continuous improvement on all parts of the development process. Our team takes prides in having high quality code and developing in a principled fashion.
+	- Working in a strongly typed language with compile time guarantees
+	- Being able to pick the best tool to get the job done
+	- Designing, developing, and deploying scalable services to support new and existing functionality
+	- Working in an environment where testing, monitoring, and reliability are part of the development process
+	- Collaborating and working closely within team/engineering as well as cross-functional teams
+	- Working on systems that are used by millions of users every day
+	- 3+ years experience with the JVM and Scala (preferably) or another functional programming language
+	- Experience working in high scale/distributed systems where high availability, low latency and scalability is key
+	- Strong experience working with concurrent and asynchronous programming
+	- Understanding of algorithms and data structure and how to apply them when designing and building systems
+	- Experience with SQL/NoSQL systems such as MongoDB, DynamoDB, PostgresQL
+	- Experience with Docker/Kubernetes
+	- Experience with continuous deployment and testing
++ skill set:
+	- Working on systems that are used by millions of passionate users every day
+	- Working with data on the scale of hundreds of billions of records a year
+	- Evangelizing best practices in software development
+	- Working in an Agile development methodology and own data driven solutions end-to-end
+	- Increasing efficiency and automate processes by collaborating with our SRE team to update existing data infrastructure (data model, hardware, cloud services, etc.)
+	- Experimenting with frameworks in the Big Data ecosystem to identify the optimal approach for extracting insights from datasets
+	- Designing platforms for building, launching and maintaining efficient and reliable data pipelines in production
+	- Identifying performance bottlenecks in data systems and architect faster, more efficient solutions when necessary
+	- Designing, developing, and owning new systems and tools to enable our consumers to understand and analyze the data more quickly
+	- Solid experience writing well-abstracted, reusable code components in Python, Scala or similar languages
+	- Cloud engineering experience (AWS preferred)
+	- Experience using common CI/CD tools such as TravisCI, and Jenkins for application and infrastructure automation tasks
+	- A self-starter who thrives in owning the products and platforms they develop
+	- Experience ingesting, processing, storing, and querying large datasets
+	- Experience with Spark, Kafka, or similar is a plus
+	- Experience working in the Hadoop/Spark ecosystem is a plus
+	- Experience with Docker/Kubernetes is a plus
++ Experience with big data engineering principles and technology stacks (eg., Kafka and distributed data processing) is a plus.
++ skill set:
+	- Collaborating with business stakeholders to understand requirements and socialize solutions
+	- Designing and implementing novel machine learning methods
+	- Evaluating new paradigms for deploying machine learning models
+	- Staying atop the most recent developments and best practices in a quickly changing field
+	- A deep understanding of machine learning algorithms and statistics
+	- Scientific or quantitative computing experience (Python, R, Spark)
+	- Experience working with distributed datasets (Hadoop, Hive, Spark, SQL)
+	- The ability to tell a story with data (large scale analysis, data visualization)
+	- Experience writing production code (such as Python, Java, or Scala)
+	- An understanding of best practices in software engineering (git, CI/CD, etc)
+	- We strongly believe in being an active part of our community. We teach, write, give tech talks, release open source projects, and would love it if you also shared these passions. Take a look at a few of our recent blog posts to get an idea:
+		* https://tech.iheart.com/mapping-the-world-of-music-using-machine-learning-part-2-aa50b6a0304c
+		* https://tech.iheart.com/a-generative-model-for-track-playlists-4dba8b8515c
+		* https://tech.iheart.com/ihrpi-a-simple-solution-to-python-package-management-874e373f5838
+		* https://tech.iheart.com/real-time-music-recommendations-for-new-users-with-amazon-sagemaker-364b346d07db
++ skill set:
+	- iHeartRadio is looking for a talented Data Engineer to help us in our data-driven mission to reshape the world of music and podcasts. You will work in a highly collaborative team of engineers, and alongside data scientists and analysts, to distill existing data processes, import new external data sources, and create complex data mashups. Your work will provide valuable insights and power important music data products. Expect to build high throughput data pipelines and improve the existing big data infrastructure. You will also improve performance, squash bugs, and increase visibility across the data ecosystem. You will have end-to-end ownership of your code, though ideally you also relish reviewing a good pull request. If you enjoy working with large sets of data and the challenges associated with them this is the role for you.
+	- Working in an Agile development methodology and own data driven solutions end-to-end
+	- Experimenting with various frameworks in the Big Data ecosystem to identify the optimal approach for extracting insights from out datasets
+	- Identifying performance bottlenecks in data pipelines and architect faster, more efficient solutions when necessary
+	- Creating new data warehouse solutions and define and demonstrate best practices in schema and table design in varied databases like Hive, Redshift, Spectrum etc.
+	- Developing end-to-end batch and real time pipelines for large data sets to our Hadoop/Spark clusters, and bring summarized results back into a data warehouse for downstream business analysis.
+	- Increasing efficiency and automate processes by collaborating with our SRE team to update existing data infrastructure (data model, hardware, cloud services, etc.)
+	- Designing, building, launching and maintaining efficient and reliable data pipelines in production
+	- Designing, developing, and owning new systems and tools to enable our consumers to understand and analyze the data more quickly.
+	- Experience ingesting, processing, storing, and querying large datasets
+	- Ability to write well-abstracted, reusable code components in Python, Scala or similar language(s)
+	- Experience working in an Hadoop/Spark ecosystem
+	- Experience with workflow managers and schedulers, such as Airflow
+	- Ability to investigate data issues across a large and complex system by working alongside multiple departments and systems
+	- A self-starter who thrives in owning the products and pipelines they develop
+	- Experience with AWS big data technologies (S3, Redshift, EC2, RDS, EMR, Dynamo) is a plus
+	- Experience with configuration management tools (Ansible, Chef, Puppet, etc) is a plus
+	- Experience with streaming frameworks like Spark or Kafka is a plus  
+
+
+
+
+
+
+
+
+
 
 
 
@@ -5354,6 +5637,25 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 
 resume here
 go here
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ##	Additional Information on Skill Sets
