@@ -228,3 +228,8 @@ if __name__ == "__main__":
 	print("Get month for 56798:",numbers_to_strings(56798),"=")
 	print("Get month for -443:",numbers_to_strings(-443),"=")
 	
+
+"""
+	Additional resources that I looked at:
+	+ 
+"""
