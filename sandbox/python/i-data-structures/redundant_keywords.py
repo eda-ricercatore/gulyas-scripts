@@ -64,14 +64,19 @@ for j_d in sorted_dict:
 print("From https://stackoverflow.com/a/22150003/1531728")
 res_des = dict(Counter(i for i in duplicates_in_list).most_common())
 for j_des in res_des:
+	# Solution 1.
 	print("j_des is:",j_des,"with count:",res[j_des],"=")
 print("From https://stackoverflow.com/a/7947321/1531728")
 for word in sorted(res, key=res.get, reverse=True):
+	# Solution 2.
 	print("word is:",word, "and frequency is:",res[word],"=")
 print("https://stackoverflow.com/a/50554874/1531728")
 res_lst = sorted([(v, k) for k, v in res.items()], reverse=True)
 for r in res_lst:
+	# Solution 3.
 	print("r is:",r,"=")
+for (freq,kwd) in res_lst:
+	print("f:",freq," and k:",kwd,"=")
 """
 	References that were looked at, but did not use:
 	+ https://www.geeksforgeeks.org/python-sort-given-list-by-frequency-and-remove-duplicates/?ref=rp

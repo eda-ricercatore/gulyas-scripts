@@ -33,6 +33,7 @@ Use *GitHub*, or another Web-based source-code-hosting service, to share your
 	- [Associating SSH Public Keys with a *GitHub* Profile](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial.md#associating-ssh-public-keys-with-a-github-profile)
 	- [Cloning a *GitHub* Repository by SSH, via the Command-Line Interface](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial.md#cloning-a-github-repository-by-ssh-via-the-command-line-interface)
 	- [Documenting Projects](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial.md#documenting-projects)
+	- [Sharing Code Fragments via GitHub Gist]()
 	- [Miscellaneous Information](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial.md#miscellaneous-information)
 + [References](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial.md#references)
 	- [Notes about In-Text Citation](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial.md#notes-about-in-text-citation)
@@ -528,6 +529,12 @@ The [Documenting your projects on GitHub](https://guides.github.com/features/wik
 Quick look-up references/manuals for *Markdown* are:
 + [\cite{Chapellier2018}](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
 + [\cite{GitHubStaff2014}](https://guides.github.com/features/mastering-markdown/)
+
+
+
+### Sharing Code Fragments via GitHub Gist
+
+We can share code fragments via GitHub Gist at: https://gist.github.com/.
 
 
 
