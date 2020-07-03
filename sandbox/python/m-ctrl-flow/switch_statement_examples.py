@@ -248,6 +248,11 @@ if __name__ == "__main__":
 		Additional resources that I looked at:
 		+ Prashant Kumar, Answer to "What is the Python equivalent for a case/switch statement? [duplicate]," Stack Exchange Inc., New York, NY, December 3, 2014. Available online from Stack Exchange Inc.: Stack Overflow: Questions at: https://stackoverflow.com/a/11479840/1531728; June 27, 2020 was the last accessed date.
 			- This is used as Solution 1 in [Sceenivasan, 2017].
+			- References the following:
+				* Shrutarshi Basu, "Switch-case statement in Python",
+					Powerful Python series, The ByteBaker, Cambridge, MA,
+					November 3, 2008.
+					Available online from The ByteBaker: Powerful Python at: 
 		+ Raymond Hettinger, Answer to "Why doesn't Python have switch-case?," Stack Exchange Inc., New York, NY, October 12, 2017. Available online from Stack Exchange Inc.: Stack Overflow: Questions at: https://stackoverflow.com/a/46701087/1531728; June 27, 2020 was the last accessed date.
 			- "We considered it at one point, but without having a way to declare named constants, there is no way to generate an efficient jump table. So all we would be left with is syntactic sugar for something we could already do with if-elif-elif-else chains.
 			- "See PEP 275 and PEP 3103 for a full discussion."

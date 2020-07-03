@@ -6136,12 +6136,232 @@ Qualifications
 		* 3D deep learning
 		* Image and video manipulation
 	- Experienced in implementing and optimizing complex and performance-critical systems.
-
-
-
-
-
-
++ skill set:
+	- User experience is at the forefront of how we create intuitive, innovative, and beautiful products that people love. We strive to learn and understand our users’ needs, behaviors, and emotions to gather insights that inform product strategy and design. Our UX teams include designers, researchers, content strategists, and engineers who are passionate about quality, usability, and simplicity. We work on collaborative teams to solve complex challenges and craft experiences that highlight our products’ unique capabilities and personalities.
+	- User Experience Researcher (UXRs) in News Break plays a vital role in its principle of truly “user-driven and user-focused product development”. In this role, you will use qualitative and quantitative methods to create understanding and empathy around user needs, stated and unstated, for your entire product team including UI designers, product managers, and engineers. You will do so by conducting primary research, exploring the behaviors and motivations of our users through methods like field visits, ethnography, surveys, usability testing, and logs analysis. Your research will help the team to identify experience problem and articulate it in a laserlike focused way. By working closely with cross functional teams and deeply involved in all stages of product development, you will help us create useful, usable, and delightful new products and features for people as well as continually innovating on our existing products. You will bring inspiration into the team through delivering compelling, written, in-person and visual presentations on your findings, in forms that include but not limited to user persona, segmented persona, user journey map, etc.
+	- Conduct independent research on multiple aspects of products and experiences.
+	- Collect and analyze user behavior through field visits, ethnography, surveys, benchmark studies, server logs and online experiments (A/B testing).
+	- Work with Designers, Product Managers, Engineers and other UXRs to prioritize research opportunities in a fast-paced, rapidly changing environment.
+	- Understand and incorporate complex technical and business requirements into research.
+	- Advocate research findings to diverse audiences through written reports and in-person presentations.
+	- Create user personas based on user segmentations.
+	- Create User Journey Map to help the team understand different mood of the users.
+	- Minimum Qualifications:
+		* BA/BS degree in Anthropology, Human-Computer Interaction (HCI), Human Factors, Psychology, Sociology, or a related field or equivalent experience.
+		* Experience with research design utilizing various methods including but not limited to usability studies, contextual inquiry, and surveys.
+		* Relevant product research experience, either in an end-to-end, usability, or generative setting.
+		* Ability to generate research insights to help product teams make confident decisions, and build empathy and intuition for our users
+		* Experience to collaborate closely with cross-functional partners including Design, Data Science, Product Management, and Engineering
+	- Preferred Qualifications:
+		* Master's degree or PhD in a related field.
+		* 5 years of relevant work experience within User Experience, Human-Computer Interaction, applied research setting, and/or product research and development.
+		* Experience in a variety of product spaces, applied research and/or academic settings.
+		* Proficiency in communicating user research findings with cross functional partners to drive impact.
+		* Strong understanding of the strengths and shortcomings of different research methods, including when and how to apply them during the product development process.
++ skill set:
+	- Develop highly scalable tools leveraging machine learning models to solve problems such as classification, clustering, topic modeling, natural language processing and recommendation
+	- Develop in-house machine learning tools and pipelines to support fast experimentation of machine learning models
+	- Work with other engineers to identify and solve machine learning problems
+	- Minimum Qualifications
+		* Experience in one or more of the following areas: machine learning, recommendation systems, deep learning and data mining
+		* Expert knowledge in Java or Scala
+		* Experience with scripting languages such as Perl, Python, and shell scripts
+	- Preferred Qualifications
+		* MS degree in Computer Science or related quantitative field with 3+ years of machine learning related work or research, or PhD degree in Computer Science or related quantitative field
+		* Experience with machine learning frameworks such as TensorFlow, PyTorch or MxNet
+		* Publications in trade journals such as JMLR or Machine Learning, or Presentations at related conferences such as ICML, NeurIPS, KDD, SIGIR and etc.
++ skill set:
+	- Design and develop core backend software components; create and deploy new software solutions for the NewsBreak app:
+		* Apply expertise and innovation to create new technology, such as the online serving pipeline and data platform, machine learning algorithm for user click prediction, and etc.
+		* Analyze the latency problems of the backend software modules to develop solutions for parallelization; thus, improving the throughput of the online serving system.
+		* Write, analyze, review, and rewrite programs, using workflow chart and diagram, and applying knowledge of computer capabilities, subject matter, and symbolic logic.
+		* Write, update, and maintain computer programs or software packages to handle specific jobs such as tracking inventory, storing or retrieving data, or controlling other equipment.
+		* Maintain both product level and system level code, primarily using Python, Java, and PHP, to meet the technical challenges and requirements.
+		* Research and evaluate the feasibility of new technologies and provide direction on the application of modem natural language understanding techniques for the online serving system.
+	- Perform offline and online validation tests:
+		* Develop and execute verification and validation tests for the newly designed online serving backend software components and analyze the product performance to meet efficiency requirements.
+		* Modify existing backend software components to correct errors; perform revisions, repairs, or expansions of existing programs to increase operating efficiency or adapt to new requirements.
+		* Store, retrieve, and manipulate data for analysis of the online serving system capabilities and requirements, using MongoDB and HDFS.
+	- Develop recommendation and phrase mining algorithms:
+		* Design and develop advanced recommendation and phrase mining algorithms for user click prediction using machine learning algorithms such as Collaborative Filtering, Factorization Machine, DeepWalk and etc.
+		* Make use of data analytical tools such as Kibana, Azkaban, Kubernetes and etc., to analyze user needs and software requirements to determine feasibility of the proposed design within time and cost constraints.
+	- Provide other technical supports & draft related documentations:
+		* Discuss with managerial, engineering, and technical personnel to clarify program intent, identify problems, and suggest changes for the overall online serving system, recommendation system, and the phrase mining algorithm.
+		* Confer with systems analysts, engineers, programmers and others to obtain information on limitations and capabilities, performance requirements and interfaces of a certain feature.
+	- Master’s degree in Computer Science, Computer Engineering or related plus 1 year experience.
++ skill set:
+	- Responsibilities
+		* Design, develop and support data pipelines, warehouses and reporting systems to solve business operations, users and product problems.
+		* Create extract, transform, and load (ETLs) and reporting systems for new data using a variety of traditional as well as large-scale distributed data systems.
+		* Build analytics tools that utilize the data pipeline to provide actionable insights into customer acquisition, operational efficiency and other key business performance metrics.
+		* Work with stakeholders including the Executive, Product, Data and Design teams to assist with data-related technical issues and support their data infrastructure needs.
+		* Designs data integrations and data quality framework.
+		* Works closely with all business units and engineering teams to develop strategy for long term data platform architecture.
+	- Minimum Qualifications
+		* BS or MS degree in Computer Science or a related technical field
+		* Experience with one general purpose programming language (e.g., Java, C/C++, Python).
+		* Experience in data processing using traditional and distributed systems (e.g., Hadoop, Spark, Dataflow, Hive, Impala, Airflow).
+		* Experience designing data models and data warehouses and using SQL and NoSQL database management systems.
+		* Experience in custom ETL design, implementation and maintenance.
+		* Experience analyzing data to identify deliverables, gaps and inconsistencies.
+	- Preferred Qualifications
+		* Experience with more than one coding language.
+		* Experience with SQL performance tuning and E2E process optimization.
+		* Experience with designing and implementing real-time pipelines.
+		* Experience with anomaly/outlier detection
+		* Excellent communication, organizational, and analytical skills.
++ skill set:
+	- Apply your expertise in quantitative analysis, data mining, and the presentation of data to see beyond the numbers and understand how our users interact with both our consumer and business products.
+	- Partner with Product and Engineering teams to solve problems and identify trends and opportunities.
+	- Work on large scale data pipelines by leveraging different SQL/non-SQL technologies to build automated data analysis and dashboard.
+	- 2+ years’ experience doing quantitative analysis within a high-tech company. Startup is a plus
+	- BA/BS in Computer Science, Math, Physics, Engineering, Statistics or other technical fields
+	- Experience in SQL or similar programming languages
+	- Experience with one general purpose programming language (e.g., Java, C/C++, Python)
+	- Experience in data processing using traditional and distributed systems (e.g., Hadoop, Spark, Dataflow, Hive, Impala, Airflow)
+	- Knowledge of statistics and machine learning
++ skill set:
+	- Develop highly scalable tools leveraging machine learning models to solve problems such as classification, clustering, topic modeling, natural language processing and recommendation
+	- Develop in-house machine learning tools and pipelines to support fast experimentation of machine learning models
+	- Work with other engineers to identify and solve machine learning problems
+	- Minimum Qualifications
+		* Experience in one or more of the following areas: machine learning, data mining, computer vision, and natural language processing
+		* Experience with machine learning frameworks such as TensorFlow, PyTorch or MXNet
+		* Expert knowledge in C/C++ and Python
+	- Preferred Qualifications
+		* MS degree in Computer Science or related quantitative field with 3+ years of machine learning related work or research, or PhD degree in Computer Science or related quantitative field
+		* Industry experience with developing and deploying machine learning models in production
+		* Contributions to research communities/efforts, including publishing papers in machine learning (AAAI, ICLR, NeurIPS, ICML, KDD, CVPR)
++ skill set:
+	- Develop highly scalable machine learning models to solve problems such as image/video classification, image/video content understanding and recommendation
+	- Develop in-house machine learning tools and pipelines to support fast experimentation of machine learning models
+	- Work with other engineers to identify and solve machine learning problems
+	- Minimum Qualifications
+		* Experience in one or more of the following areas: deep learning, computer vision, recommendation systems, and data mining
+		* Experience with machine learning frameworks such as TensorFlow, PyTorch or MXNet
+		* Expert knowledge in C/C++ and Python
+	- Preferred Qualifications
+		* MS degree in Computer Science or related quantitative field with 3+ years of machine learning related work or research, or PhD degree in Computer Science or related quantitative field
+		* Industry experience with developing and deploying machine learning models in production
+		* Contributions to research communities/efforts, including publishing papers in machine learning (AAAI, ICLR, NeurIPS, ICML, KDD, CVPR)
++ skill set:
+	- Understand product specifications and user psychology
+	- Conduct concept and usability testing and gather feedback
+	- Create personas through user research and data
+	- Define the right interaction model and evaluate its success
+	- Develop wireframes and prototypes around customer needs
+	- Find creative ways to solve UX problems (e.g. usability, findability)
+	- Work with UI designers to implement attractive designs
+	- Communicate design ideas and prototypes to developers
+	- Keep abreast of competitor products and industry trends
+	- Proven experience as a UX Designer or similar roles
+	- Strong portfolio of design projects
+	- Background in project management and research
+	- Familiarity with interaction design and information architecture
+	- Proficient in design software (e.g. UXPin, Balsamiq)
+	- Knowledge of HTML/CSS; JavaScript is a plus
+	- Problem-solving aptitude
+	- Analytical mind with a business acumen
+	- Excellent communication skills
+	- BSc in Design, Computer Science, Engineering or a related field
++ skill set:
+	- Every day, SmartNews analyzes millions of URLs to deliver the top articles that matter in near-real time to millions of users around the world. Our News Ranking team, along with our AI Foundation team, works on a range of recommendation and optimization problems, e.g. news feed ranking, push recommendation, search ranking/discovery, collaborative filtering, personalized recommendation, diversification to deliver the world's quality information to the people who need it.
+	- Responsibilities: This is a hybrid of system engineering and machine learning role:
+		* Propose machine learning initiatives to fuel our business growth, build end to end machine learning framework/solution to improve our KPI/metrics
+		* Write server-side production code for applications that are robust and efficient
+		* Develop machine learning algorithms, combining with rule-based optimization to deliver improvement in product metrics
+		* Build recommendation and ranking algorithms for news articles
+		* Develop toolings to make ML engineers to be more productive
+		* Lead medium/large sized projects to improve news ranking
+	- Minimum Qualifications
+		* 3+ years of experience in designing and implementing machine learning algorithms, and applying them to real world problems
+		* Solid Machine Learning background and deep understanding of certain domain of machine learning techniques, especially in natural language processing, recommendation systems, computer visions
+		* Strong software development skills with proven record of shipping changes to production that improved product metrics with machine learning technologies
+		* Able to have deep end-to-end understanding of sophisticated ranking systems and can proactively detect problems and make improvement suggestions
+		* Good written and spoken communication skills, can work across functional teams
+		* Expert coding abilities in multiple programming languages (e.g. Java, C++, Python, Scala)
+		* MS or BS in computer science, mathematics, physics or other quantitative fields
+	- Preferred Qualifications
+		* Experience with cloud based architecture (e.g. Amazon Web Services)
+		* Strong interest in news media and our mission
++ skill set:
+	- Description
+		* Founded in Tokyo in 2012, SmartNews has quickly become the go-to source of news for millions of users around the world, and a leading news aggregation mobile app. Our mission is bigger than simply aggregating news, and we are working to break through the filter bubble and deliver the world’s quality information to the people who need it. We are seeking a Director of Product Design with a “get-it-done” attitude and a passion to break through the filter bubble to lead our global design team.
+		* As the Director of Product Design at SmartNews, you will lead by example and connect design vision and strategy to achieve the company’s goals through innovative user experiences. In this role, you’ll be leading a globally distributed, highly motivated design team to create a one-of-a-kind news experience that will delight our users by delivering content that’s fresh, timely, and relevant. You will establish, maintain and represent the design team’s voice and partner with executive leadership across Product Management, Data Science, Engineering, Content, and Marketing.
+		* You will report to the SVP of Product and have an opportunity to make a significant contribution to achieving our global mission of and taking SmartNews to the next level. Join us and make a difference!
+	- Responsibilities
+		* Establish design direction to drive product strategy and deliver company goals
+		* Collaborate cross-functionally with stakeholders in product management, engineering, marketing, content, and ads to set the vision and strategic plan for the product roadmap, both short-term and long-term
+		* Build, lead, manage, and mentor a globally-distributed design team
+		* Empower design team to collaborate cross-functionally with product managers, engineers, marketing, and other members to execute the product roadmap
+		* Establish and integrate a collaborative user centric design practice into the product development process
+		* Lead a team through rigorous design reviews and iterations to align design and product strategy and execute detailed implementations that will deliver impact to company goals
+		* Create and enhance a design system that unifies product and marketing experiences and speeds design and product development
+		* Execute in a fast-paced and highly fluid environment and streamline complex problems into elegant solutions
+	- Requirements
+		* 10+ years of hands-on visual and interaction design experience executing and shipping mobile centric, consumer products
+		* 7+ years in a management or leadership role in product design with direct reports
+		* Design portfolio with examples of interactions and visuals across mobile applications
+		* Experience in leading design strategy all the way from vision to concept to production
+		* Experience growing scalable design process and practice within design teams
+		* Excellent communicator with exceptional speaking and presentation skills. You are a storyteller at heart.
+		* Possesses a hands-on, “roll up your sleeves,” action-oriented approach.
+		* Ability to thrive in a dynamic, high-octane environment while juggling multiple projects at once, and comfortable with tight deadlines
+		* Ability to bring cross-functional teams together to enable proficient and effective collaboration
+		* Ability to provide clear, honest and objective feedback in order to continue raising the bar for the product and design team
+		* Expert in the tools of the trade, e.g. Adobe CC, Sketch, Figma, and various design and prototyping software
+		* Possesses high attention to detail and consistency
+		* Responsive to feedback, capable of both receiving and giving constructive feedback with empathy
+		* Passion for the news as a fourth pillar of democracy and belief in mission to create better understanding and accountability between people through delivery of quality information not based on filter bubble
+	- Nice-to-haves
+		* B.S. and/or M.S. degree
+		* Knowledge of programming, mobile iOS or Android, or HTML/CSS/Javascript
+		* Multidisciplinary background such as Psychology, Cognitive Psychology, Sociology, or Anthropology
+		* Experience and familiarity with data science and analysis
+		* Familiarity with Japanese language and culture. We have distributed teams at SmartNews, and while Japanese language skill is not necessary, it will help with context
++ skill set:
+	- Responsibility: This is a hybrid of system engineering and machine learning role:
+		* Write server-side production code for applications that are robust and efficient
+		* Develop machine learning algorithms, combining with rule-based optimization to deliver improvement in product metrics
+		* Build recommendation and ranking algorithms for news articles
+		* Develop internal analytics tools
+		* Rapid prototyping
+	- Minimum Qualifications
+		* 2+ yrs. experience in designing and implementing machine learning algorithms, and applying them to real world problems
+		* Solid Machine Learning background and deep understanding of certain domain of machine learning techniques, especially in natural language processing, recommendation systems, computer visions
+		* Solid software development skills with proven record of shipping changes to production that improved product metrics with machine learning technologies
+		* Good written and spoken communication skills, can work across functional teams
+		* Expert coding abilities in multiple programming languages (e.g. Java, C++, Python, Scala)
+		* MS or BS in computer science, mathematics, physics or other quantitative fields
+	- Preferred skill/experience
+		* Experience with cloud based architecture (e.g. Amazon Web Services)
+		* Strong interest in news media and our mission
++ skill set:
+	- Responsibility
+		* Research and core technology development for machine learning
+		* The ability to solve issues ranging from fundamental algorithm development, implementation and optimization to deliver product metrics
+		* In this position, you are expected to utilize your expertise on one or more of following R&D areas to provide cutting edge solutions or core technologies for SmartNews recommendation systems (Ads, News, etc)
+		* General Machine Learning, Deep Learning
+		* Natural Language Processing (entity recognition, categorization, text embedding, etc)
+		* Computer Vision, Image Processing
+		* Knowledge Graph
+		* Recommendation, Collaborative Filtering Algorithms
+		* Rapid prototyping and iterating
+	- Minimum Qualifications
+		* 2+ yrs. experience in designing and implementing machine learning algorithms, and applying them to real world problems
+		* Solid Machine Learning background and good understanding of certain domain of machine learning techniques, especially in natural language processing, recommendation systems, computer visions
+		* Good written and spoken communication skills, can work across functional teams
+		* Strong coding abilities in multiple programming languages (e.g. Java, C++, Python, Scala)
+		* MS in computer science, mathematics, physics or other quantitative fields
+	- Preferred skill/experience
+		* Ph.D Degree in computer science, mathematics, physics or other quantitative fields
+		* Strong interest in news media and our mission
++ skill set:
+	- Ability to optimize/debug hardest feature/model problems of the team
+	- Have good record of publication in his/her domain of expertise
++ skill set:
+	- Experience with open source data platforms including Hive/Flink/Spark, etc
+	- Experience with highly scalable data platform/service (>TB/day level)
 
 
 
