@@ -4368,7 +4368,7 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Help hardware team evaluate new CPU architectures with benchmarks and requirements
 	- Develop driver code for both communication protocols, sensors, and other peripherals
 	- Perform other job related duties as assigned
-	- Expert C/C++ embedded firmware archictecture, development, and debugging skills
+	- Expert C/C++ embedded firmware architecture, development, and debugging skills
 	- Experience with small RTOS systems with hard real-time constraints, and intensive numerical processing.
 	- Experience with writing real-time code on Linux or Linux-like platforms such as Raspberry Pi or similar
 	- Experience with hardware serial/bus protocols such as I2C, SPI, UART, CAN, Bluetooth and Ethernet buses
@@ -6362,11 +6362,119 @@ Qualifications
 + skill set:
 	- Experience with open source data platforms including Hive/Flink/Spark, etc
 	- Experience with highly scalable data platform/service (>TB/day level)
-
-
-
-
-
++ Capable of designing high quality frameworks/toolings to reduce redundancy and ineffectiveness across components/services
++ skill set:
+	- SmartNews is a leading mobile app of news aggregation services. It analyzes millions of articles to deliver most engaging information with high quality in near-real time fashion to millions of users around the world. Our AI Foundation team is responsible to research and develop world-class AI algorithms that can be applied at large scale to accomplish our mission. It works on a range of content understanding, user modeling and recommendation problems, which include natural language processing tasks of classification, entity recognition, summarization, computer vision of image/video processing, collaborative filtering, etc. The team generally produce good content/user signals and state-of-art recommendation models to News Ranking/Ads Ranking team to deliver the world's high quality information to the people who need it.
+	- Responsibilities
+		* Set technical and research roadmap for AI Foundation or even company level machine learning roadmaps (at principal level) and able to lead its implementation
+		* The ability to solve hardest issues of AI Foundation team from fundamental algorithm development, implementation and optimization to deliver product metrics
+		* Lead cross-organizational projects to improve features/models that benefit company OKR
+		* Set visions for company’s research direction to be industry leading in areas of personalized discovery and related areas
+		* In this position, you are expected to utilize your industry leading expertise on one or more of following R&D areas to provide cutting edge solutions or core technologies for SmartNews recommendation systems (Ads, News, etc). At principal level, you are required to have overall understanding of corporate AI landscape, and set visions/roadmaps in its directions
+		* General Machine Learning, Deep Learning
+		* Natural Language Processing (entity recognition, categorization, text embedding, etc)
+		* Computer Vision, Image Processing
+		* Knowledge Graph
+		* Recommendation, Collaborative Filtering Algorithms
+		* Be great mentor to other machine learning scientists
+		* Promote AI first culture and distill AI mindset across engineering teams (principal level)
+	- Minimum Qualifications
+		* 8+ years of experience in designing and implementing state-of-the-art machine learning algorithms, and applying them to real world problems
+		* Industry leading expertise in certain domain of machine learning techniques, especially in deep learning, natural language processing, recommendation systems, computer visions
+		* Long term track record of successfully deliver improvement of features/models to production systems with high impact by working across teams and organizations
+		* Influential publications at top industry conferences/journals, well recognized in the industry for the domain of expertise
+		* Strong mentors of senior machine learning scientists and able to grow them to the next level
+		* Good written and spoken communication skills, can work across functional teams
+		* Strong coding abilities in multiple programming languages (e.g. Java, C++, Python, Scala)
+		* Ph.D in computer science, mathematics, physics or other quantitative fields
+	- Preferred Qualifications
+		* Strong interest in news media and our mission
+		* Strong domain expertise in recommendation algorithms
++ skill set for aspects of software development or management:
+	- infrastructure administration and security
+	- user interface design, or user experience design
+	- infrastructure management and provisioning
+	- data pipeline development
+	- product management and project tracking
+	- product direction and high-level decision making
+	- quality assurance
+	- release management and/or distribution
+	- sales, marketing, and/or business intelligence
+	- software developing, computer programming, or coding
+	- software or system architecture
+	- resource and cost monitoring
++ computer (programming) languages surveyed in the "User Experience" survey for Google, Inc.:
+	- C++/C
+	- C\# or related frameworks (e.g., Xamarin)
+	- Dart or related frameworks (e.g., Flutter)
+	- Go
+	- HTML or related frameworks (e.g., Cordova, Ionic, Sencha)
+	- Java
+	- JavaScript or related frameworks (e.g., React, React Native, Node.js, AngularJS)
+	- Kotlin
+	- Objective-C
+	- PHP
+	- Python
+	- Ruby
+	- Swift
++ cloud computing tasks:
+	- analyzing big data
+	- architecting cloud solutions
+	- configuring and maintaining infrastructure for building and/or deploying code
+	- configuring and/or managing security services and policies within an organization
+	- configuring virtual environments and networking
+	- deploying, managing, or monitoring machine learning pipelines
+	- evaluating and/or deciding which products to use, including APIs
+	- provisioning and/or managing storage (e.g., databases)
+	- managing employees
+	- managing or monitoring services in production
+	- managing your organization's service costs and cloud expenditures
+	- writing code for cloud-based applications or services
++ cloud computing platforms:
+	- Alibaba Cloud
+	- Amazon Web Services
+	- Firebase
+	- Heroku
+	- IBM Cloud
+	- Microsoft Azure
+	- on-premise services
+	- private Cloud
+	- Rackspace
+	- DigitalOcean
+	- Google Cloud Platform
+	- StackDriver
++ Google Cloud Platforms products:
+	- App Engine
+	- Cloud BigQuery
+	- Cloud Bigtable
+	- Cloud Build (formerly Container Builder)
+	- Cloud Dataflow
+	- Cloud Datalab
+	- Cloud DataProc
+	- Cloud Datastore
+	- Cloud Firestore
+	- Cloud Functions
+	- Cloud Identity & IAM
+	- Cloud Machine Learning
+	- Cloud Memorystore
+	- Cloud Pub/Sub
+	- Cloud Spanner
+	- Cloud SQL
+	- Cloud Storage
+	- Cloud Tasks
+	- Compute Engine
+	- Container Registry
+	- GCP Games
+	- Genomics
+	- Google Maps
+	- Hybrid Connectivity (e.g., HA VPN, Cloud Router, Interconnect)
+	- IoT Core
+	- Kubernetes Engine
+	- Network Security (e.g., Cloud Armor, Cloud Security Command Center, DLP)
+	- Network Services (e.g., Load Balancing and Content Delivery Networks)
+	- StackDriver
+	- TensorFlow
+	- VPC Network (Shared VPC, VPC Peering)
 
 
 
