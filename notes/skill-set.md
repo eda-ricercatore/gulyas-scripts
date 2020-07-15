@@ -6475,6 +6475,88 @@ Qualifications
 	- StackDriver
 	- TensorFlow
 	- VPC Network (Shared VPC, VPC Peering)
++ Google Cloud Platform interfaces:
+	- Cloud Console GUI via browser on desktop or laptop computer
+	- Cloud Console GUI via browser on mobile device
+	- Cloud Console mobile application
+	- Firebase Console GUI
+	- Google Cloud APIs (e.g., via HTTP requests, gRPC, Google Client Libraries)
+	- Google Cloud Command Line Interface (CLI) (e.g., gcloud, gsutil, bq, cbt)
+	- non-Google configuration management tools (e.g., Chef, Puppet)
+	- non-Google CLIs (e.g., kubectl, MySQL)
+	- non-Google GUIs (e.g., DataDog, New Relic, Splunk)
++ security tasks for cloud computing:
+	- defining policies for assets and tracking performance
+	- scanning and detecting security threats and incidents
+	- responding to security threats and accidents
+	- ensuring applications comply with secure coding requirements
+	- managing accounts and defining permissions for cloud resources
++ Learning Management Systems (LMS):
+	- Blackboard
+	- Canvas
+	- Desire2Learn (D2L) Brightspace
+	- Google Classroom
+	- Moodle or Moodlerooms
+	- Pearson's Learning Studio / eCollege
+	- Sakai
++ skill set:
+	- SmartNews is a leading mobile app of news aggregation services. It analyzes millions of articles to deliver most engaging information with high quality in near-real time fashion to millions of users around the world. Our AI Foundation team is responsible to research and develop world-class AI algorithms that can be applied at large scale to accomplish our mission. It works on a range of content understanding, user modeling and recommendation problems, which include natural language processing tasks of classification, entity recognition, summarization, computer vision of image/video processing, collaborative filtering, etc. The team generally produce good content/user signals and state-of-art recommendation models to News Ranking/Ads Ranking team to deliver the world's high quality information to the people who need it.
+	- Responsibilities
+		* Set technical and research roadmap for AI Foundation or even company level machine learning roadmaps (at principal level) and able to lead its implementation
+		* The ability to solve hardest issues of AI Foundation team from fundamental algorithm development, implementation and optimization to deliver product metrics
+		* Lead cross-organizational projects to improve features/models that benefit company OKR
+		* Set visions for company’s research direction to be industry leading in areas of personalized discovery and related areas
+		* In this position, you are expected to utilize your industry leading expertise on one or more of following R&D areas to provide cutting edge solutions or core technologies for SmartNews recommendation systems (Ads, News, etc). At principal level, you are required to have overall understanding of corporate AI landscape, and set visions/roadmaps in its directions
+		* General Machine Learning, Deep Learning
+		* Natural Language Processing (entity recognition, categorization, text embedding, etc)
+		* Computer Vision, Image Processing
+		* Knowledge Graph
+		* Recommendation, Collaborative Filtering Algorithms
+		* Be great mentor to other machine learning scientists
+		* Promote AI first culture and distill AI mindset across engineering teams (principal level)
+	- Minimum Qualifications
+		* 8+ years of experience in designing and implementing state-of-the-art machine learning algorithms, and applying them to real world problems
+		* Industry leading expertise in certain domain of machine learning techniques, especially in deep learning, natural language processing, recommendation systems, computer visions
+		* Long term track record of successfully deliver improvement of features/models to production systems with high impact by working across teams and organizations
+		* Influential publications at top industry conferences/journals, well recognized in the industry for the domain of expertise
+		* Strong mentors of senior machine learning scientists and able to grow them to the next level
+		* Good written and spoken communication skills, can work across functional teams
+		* Strong coding abilities in multiple programming languages (e.g. Java, C++, Python, Scala)
+		* Ph.D in computer science, mathematics, physics or other quantitative fields
+	- Preferred Qualifications
+		* Strong interest in news media and our mission
+		* Strong domain expertise in recommendation algorithms
++ skill set:
+	- Responsibilities
+		* Responsible to set technical direction of most impactful areas of news ranking team and drive its major projects as tech lead
+		* Able to work across product and platform teams to orchestrate large scope projects that significantly improve news ranking and achieve key engagement KPIs
+		* Design and develop frameworks to make ranking engineers of news ranking team to be productive
+		* Lead design and implementation of machine learning algorithms, combining with rule-based optimization to deliver significant improvement in product metrics
+	- Minimum Qualifications
+		* 6+ years of experience in designing and implementing machine learning algorithms, and applying them to real world problems
+		* Solid Machine Learning background and deep understanding of certain domain of machine learning techniques, especially in natural language processing, recommendation systems or computer visions
+		* Have proven track record of hands-on design and coding experience in building and deploying multi-tier recommendation systems at scale
+		* Able to have deep end-to-end understanding of sophisticated ranking systems and can proactively detect problems and make/implement improvement suggestions
+		* Able to distill and solve hardest problems of news ranking team in expertise areas
+		* Good written and spoken communication skills, can work across functional teams
+		* Expert coding abilities in multiple programming languages (e.g. Java, C++, Python, Scala)
+		* MS or BS in computer science, mathematics, physics or other quantitative fields
+	- Preferred Qualifications
+		* Strong interest in news media and our mission
+		* Experience with news ranking
++ skill set:
+	- Immuta's Data Platform
+	- Python, Pandas, PySpark
+	- Various Machine Learning Frameworks
+	- Snowflake
+	- Databricks
+
+
+
+
+
+
+
 
 
 
