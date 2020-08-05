@@ -6550,7 +6550,19 @@ Qualifications
 	- Various Machine Learning Frameworks
 	- Snowflake
 	- Databricks
-
++ skill set and tasks of role:
+	- Deeply understand the behaviors of Substack readers and writers
+	- Explore, measure, and track metrics related to the growth of the Substack ecosystem
+	- Derive denormalized tables to enable simplified analytics
+	- Partner with product teams on developing key metrics and testing intuitions with data to inform better decision making
+	- Develop data insights that can empower Substack writers to better understand their newsletters
+	- Love analyzing problems with data and synthesizing results to tell the narrative of the product
+	- Have expertise in SQL (we use ***Postgres + Snowflake***) and ***event-based analytics and metrics (à la Segment)***
+	- Understand growth funnels and how to measure them
+	- Enjoy ***building dashboards (Sisense/Periscope Data)*** to memorialize findings and monitor key metrics
+	- Believe that building canonical datasets can empower an organization
+	- Have a proven track record of making meaningful impacts through data insights and discovery in past roles.
+	- Nice to haves: ***Airflow/Luigi/other DAG tool experience***, Python, Node
 
 
 
