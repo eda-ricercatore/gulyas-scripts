@@ -6563,7 +6563,17 @@ Qualifications
 	- Believe that building canonical datasets can empower an organization
 	- Have a proven track record of making meaningful impacts through data insights and discovery in past roles.
 	- Nice to haves: ***Airflow/Luigi/other DAG tool experience***, Python, Node
-
++ skill set - Bonus points if you have experience with any of the following:
+	- distributed systems
+	- batch data processing
+	- stream processing
+	- database internals
+	- query optimizers
+	- query processing
+	- data integration
+	- recommender systems
+	- information theory
+	- knowledge graphs
 
 
 
