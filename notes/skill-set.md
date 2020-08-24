@@ -6574,7 +6574,7 @@ Qualifications
 	- recommender systems
 	- information theory
 	- knowledge graphs
-
++ A skills matrix of your expertise in using Google OR Tools, Python, C++, geospatial analysis, and related tools (geopandas, shapely, QGIS, postgis, etc.)
 
 
 
