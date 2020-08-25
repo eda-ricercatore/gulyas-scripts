@@ -9,7 +9,9 @@
 		- 2015, Jakub Przywóski. Revision 9a3b94e7.
 		- Section:Subsection
 			* Comprehensions and Generator Expression: {} set comprehension
-		- Title: Python Reference (The Right Way) - DRAFT: 
+		- Title: Python Reference (The Right Way) - DRAFT
+		- Jakub Przyw{\'{o}}ski, "\{\} set comprehension," in Python Reference (The Right Way) - {DRAFT}: Comprehensions and Generator Expression, Revision 9a3b94e7, Read the Docs, Inc., Portland, OR, 2015.
+			Available online from {\it Read the Docs, Inc.} as Revision 9a3b94e7 at: \url{https://python-reference.readthedocs.io/en/latest/}; February 1, 2020 was the last accessed date
 """
 
 

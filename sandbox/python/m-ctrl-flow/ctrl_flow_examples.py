@@ -12,6 +12,10 @@
 
 #	If this is executed as a Python script,
 if __name__ == "__main__":
+	"""
+		Reference:
+		+ 
+	"""
 	print("===	Trying solutions from [Sceenivasan, 2017].")
 	#print("Get month for 9:",switch_demo(9),"=")
 	print("Trying Solution 1.")
