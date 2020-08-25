@@ -256,6 +256,7 @@ August 12, 2020
 		- firelynx (author of quote)
 		- Apr 28 '17 at 18:52
 		- Community at: Jun 20 at 9:12
+		- firelynx and Community, Answer to "Does Python have a string 'contains' substring method?", Stack Exchange Inc., New York, NY, June 20, 2020. Available online from Stack Exchange Inc.: Stack Overflow: Questions at: https://stackoverflow.com/a/43687082 and https://stackoverflow.com/questions/3437059/does-python-have-a-string-contains-substring-method/43687082#43687082; March 7, 2020 was the last accessed date.
 """
 
 print("= Method 1 from [Stopak20XY]. Method 2 from [Edpresso Editor 2020]")
