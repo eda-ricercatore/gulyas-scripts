@@ -210,6 +210,11 @@ result_2 = my_string.replace(my_substring, "")
 print("= result_2 is:",result_2,"=")
 
 
+my_substring = "4568798yu9cwever32r"
+print("= Try deleting non-existent substring.")
+result_3 = my_string.replace(my_substring, "")
+print("= result_3 is:",result_3,"=")
+
 
 print("======================================================")
 
