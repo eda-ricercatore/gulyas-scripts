@@ -222,9 +222,27 @@ print("======================================================")
 		- Python: Check if String Contains Substring
 		- Jacob Stopak
 		- No date
+	+ [Edpresso Editor 2020]
+		- https://www.educative.io/edpresso/how-to-check-if-python-string-contains-another-string   
+		- How to check if Python string contains another string
+		- August 12, 2020.
+		- Educative, Inc.: Bellevue, WA.
+
+	+ 
+
+
+   
+August 12, 2020
+
+	Notes:
+	+ "Lists are iterables, and the in method acts on iterables, not just strings."
+		- From: https://stackoverflow.com/a/43687082
+		- firelynx (author of quote)
+		- Apr 28 '17 at 18:52
+		- Community at: Jun 20 at 9:12
 """
 
-print("= Method 1 from [Stopak20XY].")
+print("= Method 1 from [Stopak20XY]. Method 2 from [Edpresso Editor 2020]")
 if my_substring in my_string:
 	print("my_string contains my_substring.")
 else:
@@ -246,7 +264,7 @@ else:
 
 
 print("")
-print("= Method 3 from [Stopak20XY].")
+print("= Method 3 from [Stopak20XY]. Method 1 from [Edpresso Editor 2020].")
 my_string = "This is an substring that I want to eliminate."
 my_substring = "substring that I "
 if -1 != my_string.find(my_substring):
@@ -280,6 +298,26 @@ print("= my_string is:",my_string,"=")
 my_substring = "rtftyguihojk"
 print("= my_substring is:",my_substring,"=")
 if search(my_substring, my_string):
+	print("alt: my_string CONTAINS my_substring!!!")
+else:
+	print("alt: my_string does not contain my_substring.")
+
+
+ 
+print("")
+print("= Method 3 from [Edpresso Editor 2020].")
+my_string = "This is an substring that I want to eliminate."
+my_substring = "substring that I "
+if 0 != my_string.count(my_substring):
+	print("my_string contains my_substring.")
+else:
+	print("my_string does NOT contain my_substring!!!")
+print("= Modify my_string and my_substring.")
+my_string = "drtifyougiphojp tofyguhci eiu ucvwek32 89r 	jfkr o"
+print("= my_string is:",my_string,"=")
+my_substring = "rtftyguihojk"
+print("= my_substring is:",my_substring,"=")
+if 0 != my_string.count(my_substring):
 	print("alt: my_string CONTAINS my_substring!!!")
 else:
 	print("alt: my_string does not contain my_substring.")
