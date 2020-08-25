@@ -227,8 +227,16 @@ print("======================================================")
 		- How to check if Python string contains another string
 		- August 12, 2020.
 		- Educative, Inc.: Bellevue, WA.
-
-	+ 
+	+ [Striver2000]
+		- https://www.geeksforgeeks.org/python-check-substring-present-given-string/   
+		- Python | Check if a Substring is Present in a Given String
+		- Last Updated: 18-05-2020
+	+ [pankaj.0323@gmail.com 2020]
+		- https://www.askpython.com/python/string/check-string-contains-substring-python   
+		- How to Check if a String contains a Substring in Python?
+		- Python String
+		- Python Programming
+		- AskPython.com
 
 
    
@@ -318,6 +326,27 @@ print("= my_string is:",my_string,"=")
 my_substring = "rtftyguihojk"
 print("= my_substring is:",my_substring,"=")
 if 0 != my_string.count(my_substring):
+	print("alt: my_string CONTAINS my_substring!!!")
+else:
+	print("alt: my_string does not contain my_substring.")
+
+
+
+print("")
+print("= Method 5 from [pankaj.0323@gmail.com 2020].")
+import operator
+my_string = "This is an substring that I want to eliminate."
+my_substring = "substring that I "
+if operator.contains(my_string,my_substring):
+	print("my_string contains my_substring.")
+else:
+	print("my_string does NOT contain my_substring!!!")
+print("= Modify my_string and my_substring.")
+my_string = "drtifyougiphojp tofyguhci eiu ucvwek32 89r 	jfkr o"
+print("= my_string is:",my_string,"=")
+my_substring = "rtftyguihojk"
+print("= my_substring is:",my_substring,"=")
+if operator.contains(my_string,my_substring):
 	print("alt: my_string CONTAINS my_substring!!!")
 else:
 	print("alt: my_string does not contain my_substring.")
