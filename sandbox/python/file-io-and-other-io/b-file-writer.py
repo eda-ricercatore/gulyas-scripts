@@ -70,6 +70,8 @@ import json
 
 # Create an output file.
 op_file_obj = open("test-output-file.md", 'w')
-prompt = "	Test: file_io_operations.open_file_object_write(...)	{}"
+prompt = "	Test: f.open_fo_write(...)	:{}\n"
+op_file_obj.write(prompt .format("FAIL!!!"))
+prompt = "	Test: f.open_fo_write(...)		:{}\n"
 op_file_obj.write(prompt .format("FAIL!!!"))
 op_file_obj.close()

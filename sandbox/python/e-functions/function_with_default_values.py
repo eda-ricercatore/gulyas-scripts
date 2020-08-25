@@ -16,6 +16,12 @@ Note:
 def input_arguments_with_default_values(a=10,b=19,c=-8):
 	return (a+b, a+c,b+c)
 
+d = 10
+e = 19
+f = -8
+
+def input_arguments_with_default_values_using_variables(a=d,b=e,c=f):
+	return (a+b, a+c,b+c)
 
 
 
@@ -41,7 +47,15 @@ else:
 
 
 
-
+print("= Using non-default values, via variable assignment instead of numerical values.")
+a_n_b, a_n_c, b_n_c = input_arguments_with_default_values_using_variables(4,6,-15)
+print("	a+b should be 10; it is:",a_n_b,"=")
+print("	a+c should be -11; it is:",a_n_c,"=")
+print("	b+c should be -9; it is:",b_n_c,"=")
+if(10 == a_n_b and -11 == a_n_c and -9 == b_n_c):
+	print("Test cases for default values:	Pass")
+else:
+	print("Test cases for default values:	Fail!!!")
 
 
 

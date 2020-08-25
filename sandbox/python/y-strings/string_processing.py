@@ -177,3 +177,34 @@ c = 0.23
 d = 34
 prompt = " a is:{}= and b is:{}= and c is:{}= and d is:{}="
 print(prompt .format(a,b,c,d))
+
+
+print("======================================================")
+
+"""
+	Methods to replace/delete a substring.
+
+	References:
+	+ [Garg2019]
+		- https://www.geeksforgeeks.org/python-remove-the-given-substring-from-end-of-string/   
+		- Python | Remove the given substring from end of string
+		- 07-06-2019   
+		- garg_ak0109
+		- Akshat Garg
+"""
+
+
+
+my_string = "This is an substring that I want to eliminate."
+print("= my_string is:",my_string,"=")
+my_substring = "substring that I "
+print("= my_substring is:",my_substring,"=")
+
+print("Method 2 from [Garg2019].")
+import re
+result_1 = re.sub(my_substring, "", my_string)
+print("= result_1 is:",result_1,"=")
+
+print("Method 3 from [Garg2019].")
+result_2 = my_string.replace(my_substring, "")
+print("= result_2 is:",result_2,"=")
