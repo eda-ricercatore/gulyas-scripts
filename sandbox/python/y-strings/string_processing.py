@@ -200,11 +200,86 @@ print("= my_string is:",my_string,"=")
 my_substring = "substring that I "
 print("= my_substring is:",my_substring,"=")
 
-print("Method 2 from [Garg2019].")
+print("= Method 2 from [Garg2019].")
 import re
 result_1 = re.sub(my_substring, "", my_string)
 print("= result_1 is:",result_1,"=")
 
-print("Method 3 from [Garg2019].")
+print("= Method 3 from [Garg2019].")
 result_2 = my_string.replace(my_substring, "")
 print("= result_2 is:",result_2,"=")
+
+
+
+print("======================================================")
+
+"""
+	Methods to determine if a substring exists in a string.
+
+	References:
+	+ [Stopak20XY]
+		- https://stackabuse.com/python-check-if-string-contains-substring/   
+		- Python: Check if String Contains Substring
+		- Jacob Stopak
+		- No date
+"""
+
+print("= Method 1 from [Stopak20XY].")
+if my_substring in my_string:
+	print("my_string contains my_substring.")
+else:
+	print("my_string does NOT contain my_substring!!!")
+
+print("= Modify my_string and my_substring.")
+my_string = "drtifyougiphojp tofyguhci eiu ucvwek32 89r 	jfkr o"
+print("= my_string is:",my_string,"=")
+my_substring = "rtftyguihojk"
+print("= my_substring is:",my_substring,"=")
+if my_substring not in my_string:
+	print("my_string does not contain my_substring.")
+else:
+	print("my_string CONTAINS my_substring!!!")
+if my_substring in my_string:
+	print("alt: my_string CONTAINS my_substring!!!")
+else:
+	print("alt: my_string does not contain my_substring.")
+
+
+print("")
+print("= Method 3 from [Stopak20XY].")
+my_string = "This is an substring that I want to eliminate."
+my_substring = "substring that I "
+if -1 != my_string.find(my_substring):
+	print("my_string contains my_substring.")
+else:
+	print("my_string does NOT contain my_substring!!!")
+print("= Modify my_string and my_substring.")
+my_string = "drtifyougiphojp tofyguhci eiu ucvwek32 89r 	jfkr o"
+print("= my_string is:",my_string,"=")
+my_substring = "rtftyguihojk"
+print("= my_substring is:",my_substring,"=")
+if -1 != my_string.find(my_substring):
+	print("alt: my_string CONTAINS my_substring!!!")
+else:
+	print("alt: my_string does not contain my_substring.")
+
+
+
+print("")
+print("= Method 4 from [Stopak20XY].")
+from re import search
+my_string = "This is an substring that I want to eliminate."
+my_substring = "substring that I "
+if search(my_substring, my_string):
+	print("my_string contains my_substring.")
+else:
+	print("my_string does NOT contain my_substring!!!")
+print("= Modify my_string and my_substring.")
+my_string = "drtifyougiphojp tofyguhci eiu ucvwek32 89r 	jfkr o"
+print("= my_string is:",my_string,"=")
+my_substring = "rtftyguihojk"
+print("= my_substring is:",my_substring,"=")
+if search(my_substring, my_string):
+	print("alt: my_string CONTAINS my_substring!!!")
+else:
+	print("alt: my_string does not contain my_substring.")
