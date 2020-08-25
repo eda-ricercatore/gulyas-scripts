@@ -214,7 +214,10 @@ my_substring = "4568798yu9cwever32r"
 print("= Try deleting non-existent substring.")
 result_3 = my_string.replace(my_substring, "")
 print("= result_3 is:",result_3,"=")
-
+if result_3 == my_string:
+	print("= result_3 and my_string are the same.")
+else:
+	print("= result_3 and my_string are different.")
 
 print("======================================================")
 
@@ -355,3 +358,17 @@ if operator.contains(my_string,my_substring):
 	print("alt: my_string CONTAINS my_substring!!!")
 else:
 	print("alt: my_string does not contain my_substring.")
+
+print("======================================================")
+my_string = "This is an substring that I want to eliminate from my sentence."
+set_of_substrings = {"substring that I ", "to eliminate from", "non-existent"}
+"""
+	Note that the order of elements in the set that selected for
+		processing varies between execution of this Python script.
+"""
+for x in set_of_substrings:
+	print("=	substring:",x)
+	if x in my_string:
+		print("substring exists in my_string.")
+	else:
+		print("substring is not found in my_string.")

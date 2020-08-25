@@ -2,21 +2,9 @@
 
 """
 	This is written by Zhiyang Ong to demonstrate how to use
-		a Python dictionary.
+		Python tuples.
 	
 	References:
-	+ Refsnes Data staff, "Python Dictionaries", from W3Schools Online Web Tutorials: Python Tutorial, Refsnes Data, no address, 2020.
-		Available online from W3Schools Online Web Tutorials: Python Tutorial at:
-			https://www.w3schools.com/python/python_dictionaries.asp;
-			February 3, 2020 was the last accessed date.
-	+ Refsnes Data staff, "Python Dictionary values() Method", from W3Schools Online Web Tutorials: Python Tutorial, Refsnes Data, no address, 2020.
-		Available online from W3Schools Online Web Tutorials: Python Tutorial at:
-			https://www.w3schools.com/python/ref_dictionary_values.asp;
-			February 3, 2020 was the last accessed date.
-	+ Refsnes Data staff, "Python Dictionary keys() Method", from W3Schools Online Web Tutorials: Python Tutorial, Refsnes Data, no address, 2020.
-		Available online from W3Schools Online Web Tutorials: Python Tutorial at:
-			https://www.w3schools.com/python/ref_dictionary_keys.asp;
-			February 3, 2020 was the last accessed date.
 	+ \cite[Section/Chapter 5, Data Structures]{Brandl2017a}
 	+ See references cited in the source code.
 	+ [Wikipedia contributors2019]
