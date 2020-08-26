@@ -186,7 +186,7 @@ print("======================================================")
 
 	References:
 	+ [Garg2019]
-		- https://www.geeksforgeeks.org/python-remove-the-given-substring-from-end-of-string/   
+		- https://www.geeksforgeeks.org/python-remove-the-given-substring-from-end-of-string/ 
 		- Python | Remove the given substring from end of string
 		- 07-06-2019   
 		- garg_ak0109
@@ -226,7 +226,7 @@ print("======================================================")
 
 	References:
 	+ [Stopak20XY]
-		- https://stackabuse.com/python-check-if-string-contains-substring/   
+		- https://stackabuse.com/python-check-if-string-contains-substring/
 		- Python: Check if String Contains Substring
 		- Jacob Stopak
 		- No date
@@ -236,17 +236,17 @@ print("======================================================")
 		- August 12, 2020.
 		- Educative, Inc.: Bellevue, WA.
 	+ [Striver2000]
-		- https://www.geeksforgeeks.org/python-check-substring-present-given-string/   
+		- https://www.geeksforgeeks.org/python-check-substring-present-given-string/
 		- Python | Check if a Substring is Present in a Given String
 		- Last Updated: 18-05-2020
-	+ [pankaj.0323@gmail.com 2020]
-		- https://www.askpython.com/python/string/check-string-contains-substring-python   
+	+ [Kumar20XY]
+		- https://www.askpython.com/python/string/check-string-contains-substring-python 
 		- How to Check if a String contains a Substring in Python?
 		- Python String
 		- Python Programming
 		- AskPython.com
 		- pankaj.0323@gmail.com
-		- Pankaj Kumar, "How to Check if a String contains a Substring in Python?," from AskPython.com: Python Programming: Python String, JournalDev IT Services Private Limited, Bengaluru, Karnataka, India. Available online from JournalDev IT Services Private Limited: AskPython.com: Python Programming: Python String at: https://www.askpython.com/python/string/check-string-contains-substring-python; March 7, 2020 was the last accessed date.
+		- Pankaj Kumar, "How to Check if a String contains a Substring in Python?," from AskPython.com: Python Programming: Python String, JournalDev IT Services Private Limited, Bengaluru, Karnataka, India. Available online from JournalDev IT Services Private Limited: AskPython.com: Python Programming: Python String at: https://www.askpython.com/python/string/check-string-contains-substring-python; August 24, 2020 was the last accessed date.
 
 
 
@@ -345,7 +345,7 @@ else:
 
 
 print("")
-print("= Method 5 from [pankaj.0323@gmail.com 2020].")
+print("= Method 5 from [Kumar20XY].")
 import operator
 my_string = "This is an substring that I want to eliminate."
 my_substring = "substring that I "

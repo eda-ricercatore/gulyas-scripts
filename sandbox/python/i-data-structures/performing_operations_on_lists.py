@@ -246,9 +246,10 @@ print("--------------------------------------------------")
 Reference:
 + https://stackoverflow.com/a/4406399/1531728 or https://stackoverflow.com/questions/4406389/if-else-in-a-list-comprehension/4406399#4406399
 	- user225312 and tscizzle, April 17, 2015
-	Answer to "if else in a list comprehension [duplicate]"
-	Last accessed August 25, 2020.
-	April 17, 2015 (last date of edit)
+		Answer to "if else in a list comprehension [duplicate]"
+		Last accessed August 25, 2020.
+		April 17, 2015 (last date of edit)
+	- user225312 and tscizzle, Answer to "if else in a list comprehension [duplicate]", Stack Exchange Inc., New York, NY, April 17, 2015. Available online from Stack Exchange Inc.: Stack Overflow: Questions at: https://stackoverflow.com/a/4406399/1531728 or https://stackoverflow.com/questions/4406389/if-else-in-a-list-comprehension/4406399#4406399; March 7, 2020 was the last accessed date.
 """
 list_1 = [22, 13, 45, 50, 98, 69, 43, 44, 1]
 list_2 = [x+1 if x >= 45 else x+5 for x in list_1]
