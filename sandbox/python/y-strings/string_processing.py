@@ -245,6 +245,9 @@ print("======================================================")
 		- Python String
 		- Python Programming
 		- AskPython.com
+		- pankaj.0323@gmail.com
+		- Pankaj Kumar, "How to Check if a String contains a Substring in Python?," from AskPython.com: Python Programming: Python String, JournalDev IT Services Private Limited, Bengaluru, Karnataka, India. Available online from JournalDev IT Services Private Limited: AskPython.com: Python Programming: Python String at: https://www.askpython.com/python/string/check-string-contains-substring-python; March 7, 2020 was the last accessed date.
+
 
 
    
