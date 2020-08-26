@@ -19,6 +19,9 @@ if __name__ == "__main__":
 			Yes. It does nothing, and allows the interpreter and
 				execution environment to move on to the next
 				statement (if there is any).
+
+		#### TODO
+		+ Cite references that explain the "pass" statememt.
 	"""
 	print("Before the 1st if-else statement.")
 	if(5 == 20/4):
