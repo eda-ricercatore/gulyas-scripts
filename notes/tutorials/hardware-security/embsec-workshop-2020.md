@@ -174,11 +174,15 @@ Questions:
 + What do you mean by panoramic views? How is this used to detect the fingerprints?
 	- I don’t know what is referenced by “panoramic” in the question. The keypoints in the fingerprint are matched using RANSAC. Similar techniques are used to stich panoramic images. In that case too they are using the fact that common features appear in the overlaps of the multiple images that are being stiched together.
 + For SRAM PUF authentication, can we use DRAM, FLASH memory or non-volatile memory cells instead?
+	- lots of cells, can get a lot of info
+	- differences of values leaking off DRAM cells
+	- DRAM and FLASH are not integrated with IC, has to go off-chip, unlike SRAM solutions
 + Would it be practical to imprint your own microscopic fingerprint/introduce surface roughness for ceramic and metal IC's so counterfoil can be applied to them?
-
-
-
-
+	- I don’t know for sure, but it could be. we want the fingerprint to be  unique to each instance. but if you randomly roughed them up that might be unique and hopefully hard to reproduce. You could also add a random pattern of some things to it during manufacture
++ Is the SRAM fingerprint consistent each time you power up a device?
+	- temperature dependent
++ How to address chip recycling with CounterFoil?
+	- check with record book... Looks new, but made in 2011. Put new tops, destroy bumps and fingerprints
 
 
 
