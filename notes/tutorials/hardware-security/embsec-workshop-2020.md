@@ -1,5 +1,7 @@
 #	Embedded Security Workshop 2020
 
+From https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/hardware-security/embsec-workshop-2020.md
+
 
 ##	Talk by Prof. Paul Kocher
 
