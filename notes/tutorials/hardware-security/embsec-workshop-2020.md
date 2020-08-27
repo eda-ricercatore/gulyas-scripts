@@ -3,6 +3,18 @@
 From https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/hardware-security/embsec-workshop-2020.md
 
 
+From Kevin Fu to Everyone: (3:22 PM):
++ I will repost the scribe notes periodically as participants join the chat.  https://docs.google.com/document/d/1RZ2Guor2Yc-X2hoDShbl9_skYHzTNe_NC5pOSXVhKWg/edit?usp=sharing 
+
+
+
+
+
+
+
+
+
+
 ##	Talk by Prof. Paul Kocher
 
 + personal biography, processor architecture security problems
@@ -185,6 +197,80 @@ Questions:
 	- temperature dependent
 + How to address chip recycling with CounterFoil?
 	- check with record book... Looks new, but made in 2011. Put new tops, destroy bumps and fingerprints
+
+
+
+
+##	VLSI Breakout Room
+
+General introduction:
++ Ben Cyr, Prof. Kevin Fu's group
++ Ms. Xiali Hei, CPS attack
++ Ms. Lanier, ultrasonic microphone array
++ Miguel, root of trust definitions.
++ Demba, wireless communication system
++ Prof. Dan Holcomb
++ Prof. Sara Rampazzi
++ Prof. Reza
+
+
+Specific
++ 10 minutes, high-level about VLSI security, 
++ GLSVLSI 2011, paper with Yusuf Leblebici, persistent trends in VLSI produce challenges in designing security mechanisms
++ hw security considerations
+	- counterfeits and unauthorized re-use
+		* counterfeit hardware may lead to malware and failure
+	- hardware trojans
+		* stopping hardware trojans in their tracks
+	- analog malicious hardware, using one additional gate to hack analog IC
+	- acoustic microphone via acoustic/sonic imaging
+		* unonbstructive monitoring using acoustics
+		* Alexa & Siri, oversensing
+			+ designers fail to consider oversampling of data, and usage by hackers to exploit people's privacy
+	- are counterfeits or trojans more dangerous
+	- ways to defend against counterfeits or trojans
+	- methods to inspire people of different backgrounds to become interested in VLSI security
++ FPGA-based hardware acceleration for data center computing, Takeshi Sugawara from UEC Tokyo
+	- development ecosystem for FPGAs is more accessible, via AWS instance
+		* reduce distance between sw and hw people
+	- interface between digital and analog world
+	- AWS instance, upload oscillator, bypass checking by making strange circuit that look likes an oscillator but is (or looks like) a sequential circuit
+	- Fault injection, overclocking, Wayne Burleson
+		* FPGAs are limited by Xilinx and Altera
+		* FPGA in the cloud, part of computing culture, make things accessible behind layers/abstraction
+		* VLSI design in the 1980s (from late 1970s to the early 1990s): Allow sw and hw people to work together in the past
++ Miguel Osorio, root of trust component, feature creep in big design, focus on anchor in hw that is more verifiable
+	- system/logic security, connected to hw security people
+	- small, verifiable root of trust
+		* don't produce physical thing...
+		* ripples all the way down, along the supply chain
+	- ways to mitigate attacks in manufacturing, counter-measures for physical design (layout), interaction with vendors in the manufacturing process, ...
+	- analogous to smart card
+	- issues at run-time, deployed in production, provision keys in silicon and protect them from attackers, at manufacturing 
++ Frank Courbon, OpenTiton, PDK, firmware, cybernetics, root of trust
+	- Miguel Osorio, make things open source, make stuff from fabs that don't want stuff open source... Make RTL stuff open source... 120 nm cell library with netlists... OpenPDK... 
+	- create IC designs, using open source tools, need authentication mechanism to process masks at foundry... Timing information to trace information...
+	- need to trust the tools...
+	- 
++ Prof. Andrew Kahng has helped people create a set of open-source EDA tools
+	- $1500 IC manufacturing
+	- Andrew B. Kahng (PI) – OpenROAD
+	- add more assurance tools to the tools, Takeshi Sugawara
+	- analysis tools of different kinds, malicious tools... People usually don't assume that...
+		* use verifier as a trusted 3rd party tool
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+
+
+
 
 
 
