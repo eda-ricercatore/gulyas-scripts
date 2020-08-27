@@ -32,9 +32,12 @@ if __name__ == "__main__":
 
 		References:
 		+ [rlms2013]
-			- Lix, Answer to "How do I get a python program to do nothing?", Stack Exchange Inc., New York, NY, October 28, 2013. Available online from Stack Exchange Inc.: Stack Overflow: Questions at: https://stackoverflow.com/a/19632742/1531728 and https://stackoverflow.com/questions/19632728/how-do-i-get-a-python-program-to-do-nothing/19632790#19632790; August 26, 2020 was the last accessed date.
-		+ [rlms2013]
-			- rlms, Answer to "How do I get a python program to do nothing?", Stack Exchange Inc., New York, NY, October 28, 2013. Available online from Stack Exchange Inc.: Stack Overflow: Questions at: https://stackoverflow.com/a/19632790/1531728 and https://stackoverflow.com/questions/19632728/how-do-i-get-a-python-program-to-do-nothing/19632790#19632790; August 26, 2020 was the last accessed date.
+			- rlms, Answer to "How do I get a python program to do nothing?", Stack Exchange Inc., New York, NY, October 28, 2013. Available online from Stack Exchange Inc.: Stack Overflow: Questions at: https://stackoverflow.com/a/19632742/1531728 and https://stackoverflow.com/questions/19632728/how-do-i-get-a-python-program-to-do-nothing/19632742#19632742; August 26, 2020 was the last accessed date.
+		+ [Lix2013]
+			- Lix, Answer to "How do I get a python program to do nothing?", Stack Exchange Inc., New York, NY, October 28, 2013. Available online from Stack Exchange Inc.: Stack Overflow: Questions at: https://stackoverflow.com/a/19632790/1531728 and https://stackoverflow.com/questions/19632728/how-do-i-get-a-python-program-to-do-nothing/19632790#19632790; August 26, 2020 was the last accessed date.
+		+ [Aggarwal2019]
+			- nikhilaggarwal3 (Nikhil Aggarwal???), "Python Continue Statement," GeekstoGeeks, Noida, Uttar Pradesh, India, November 22, 2019. Available online from GeekstoGeeks at: https://www.geeksforgeeks.org/python-continue-statement/; August 27, 2020 was the last accessed date
+		+ [DrakeJr2016a, \S7.9 for the break statement, \S7.10 for the continue statement, and \S7.4 for the pass statement]
 
 	"""
 	print("Before the 1st if-else statement.")

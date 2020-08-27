@@ -258,7 +258,8 @@ Specific
 	- add more assurance tools to the tools, Takeshi Sugawara
 	- analysis tools of different kinds, malicious tools... People usually don't assume that...
 		* use verifier as a trusted 3rd party tool
-+ 
++ remote-controlled robot to do labs... Replicate the set-up, sw like MATLAB and hw tools like logical analyzers... Take-home kits using Analog Discovery 2 device
+	- Regarding take-home kits, Texas A&M University's ECE department uses the Analog Discovery 2 device as a platform to get students to design circuits on a small breadboard at home, and get their circits to be checked by TAs; the device provides power supplies and does data acquisition.
 + 
 + 
 + 
