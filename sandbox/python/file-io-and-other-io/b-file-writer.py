@@ -14,54 +14,25 @@
 		- https://python-reference.readthedocs.io/en/latest/docs/file/closed.html
 		- Page title: closed
 	+ [zmo2019]
-		- zmo and Aran-Fey, Answer to "What can I do with a closed file object?",
-		Stack Exchange Inc., New York, NY, March 21, 2019.
-		Available online from Stack Exchange Inc.: Stack Overflow: Questions at: https://stackoverflow.com/a/22127987/1531728 and https://stackoverflow.com/questions/22127960/read-from-file-after-write-before-closing/22127987#22127987; March 7, 2020 was the last accessed date.
-
-	https://stackoverflow.com/questions/30379488/what-can-i-do-with-a-closed-file-object   
-   
-   https://docs.python.org/3/glossary.html#term-file-object   
-https://stackoverflow.com/a/40798379/1531728
-   https://stackoverflow.com/questions/40798143/what-is-meaning-of-the-file-object/40798379#40798379   
-1 min
-   https://docs.python.org/3/tutorial/inputoutput.html   
-   f.mode - The mode attribute of a file object tells you in which mode the file was opened.
-f.name - The name attribute of a file object tells you the name of the file that the file object has open.
-f.closed - The closed attribute of a file object indicates whether the object has a file open or not. In this case, the file is still open (closed is False).
-f.close() - To close a file, call the close method of the file object.
-f.seek(0) - The seek method of a file object moves to another position in the open file
-f.tell() - The tell method of a file object tells you your current position in the open file
-f.read() - T0 read the content of file
-Januka samaranyake
-
-
-
-Padraic Cunningham
-
-Joe Smith
-4:58 AM (26 minutes ago)
-edobez
-
-Joe Smith
-4:58 AM (25 minutes ago)
-Edoardo Bezzeccheri
-
-Joe Smith
-4:58 AM (25 minutes ago)
-edobez
-
-Joe Smith
-4:59 AM (25 minutes ago)
-https://stackoverflow.com/questions/22127960/read-from-file-after-write-before-closing
-
-Joe Smith
-5:00 AM (23 minutes ago)
-Aran-Fey
-
-Joe Smith
-5:01 AM (22 minutes ago)
-to me
-zmo
+		- zmo and Aran-Fey, Answer to "What can I do with a closed file object?", Stack Exchange Inc., New York, NY, March 21, 2019. Available online from Stack Exchange Inc.: Stack Overflow: Questions at: https://stackoverflow.com/a/22127987/1531728 and https://stackoverflow.com/questions/22127960/read-from-file-after-write-before-closing/22127987#22127987; March 7, 2020 was the last accessed date.
+	[Brandl2017a]
+		- https://docs.python.org/3/tutorial/inputoutput.html
+		- Section 7.2.1 Methods of File Objects
+	+ Padraic Cunningham and edobez (Edoardo Bezzeccheri),
+		"What can I do with a closed file object?", Stack Exchange Inc.,
+		New York, NY, May 19, 2018.
+		Available online from Stack Exchange Inc.: Stack Overflow: Questions at: https://stackoverflow.com/a/30379517/1531728 and https://stackoverflow.com/questions/30379488/what-can-i-do-with-a-closed-file-object/30379517#30379517; March 7, 2020 was the last accessed date.
+	+ [PythonSoftwareFoundationcontributors2020]
+		- https://docs.python.org/3/glossary.html#term-file-object   
+	+ [Samaranyake2016]
+		- Januka Samaranyake, Answer to "What is meaning of the file object?", Stack Exchange Inc., New York, NY, November 25, 2016. Available online from Stack Exchange Inc.: Stack Overflow: Questions at: https://stackoverflow.com/a/40798379/1531728 and https://stackoverflow.com/questions/40798143/what-is-meaning-of-the-file-object/40798379#40798379; March 7, 2020 was the last accessed date.
+			+ f.mode - The mode attribute of a file object tells you in which mode the file was opened.
+			+ f.name - The name attribute of a file object tells you the name of the file that the file object has open.
+			+ f.closed - The closed attribute of a file object indicates whether the object has a file open or not. In this case, the file is still open (closed is False).
+			+ f.close() - To close a file, call the close method of the file object.
+			+ f.seek(0) - The seek method of a file object moves to another position in the open file
+			+ f.tell() - The tell method of a file object tells you your current position in the open file
+			+ f.read() - T0 read the content of file
 """
 
 
@@ -170,6 +141,8 @@ data = op_file_obj_1.read()
 print("Try reading the 2nd file again.")
 print(data)
 
-
-copy_1.seek(0,0)
 op_file_obj_1.close()
+if op_file_obj_1.closed:
+	print("op_file_obj_1 is closed")
+else:
+	print("op_file_obj_1 is still open.")
