@@ -430,13 +430,49 @@ Questions:
 
 
 
+##	Prof. Yongdae Kim
 
 
 
-
-
-
-
+Remote physical attacks on sensors: case study on unmanned vehicles
++ sensors - electrical device to measure physical quantities
+	- passive and active sesnsors
+	- for RF, actuation, gyroscope, electric shock, flight control
++ Tesla accident, with trailer
+	- diagram of accident
+	- sensor failed to distinguish between the sky and the side/back of the autonomous cars, lower-quality sensors
+	- accident, not security attack
+	- sensor security, prevention and detection mechanism
+		* malicious network traffic
+		* sw vulnerabilities
+			- sandbox protection
+		* sensor: new attack vector
+			+ input/output can be used to control IoT device
+			+ from SenSys paper, sensors can be affected by spoofing attack on legitimate channels and attacks on non-legitimate channels
+				- these sensors are controlled by an embedded system
++ gyroscope on drone
+	- inertial measurement unit, IMU
+	- device to measure velocity, orientation, or rotation
+	- combination of MEMS gyroscopes and accelerometers used to determine position and direction of movement for drones
+		* has resonant frequencies, and attacks at resonant frequencies affect drone performance/function
+		* gyroscope resonates, and causes rotors to resonate, too
+			+ rotor control data samples
+		* sound attacks don't travel far, and is hard to focus
++ GPS spoofing effect on Tesla autopilot control
+	- slow down in 3 seconds, affect autopilot speed limit
++ spoof point cloud
++ injected video is used, instead of sensing information.
+	- use laser pointer to control the lidar sensors of the cars, blinding effects on video cameras of autonomous cars
++ sensor attack defense
+	- impossible fundamental defense
+	- most important solution: fail safe mode design
+	- easy defense: detect saturation then fail safe mode
+	- harder defense: to handle spoofing
+		* physical fingerprinting
+		* redundancy improves security linearly
+		* robust sensor fusion
+		* recover sensor values after erasing noise
+		* detect control failure early
 + 
 + 
 + 
@@ -446,55 +482,108 @@ Questions:
 + 
 + 
 + 
+
+
+
+Questions:
++ For the acoustic attacks on the gyroscope, do you think that “shielding” the MEMS would be sufficient?
+	- Yes.
++ Can we use laser light to modulate sounds to attack MEMS gyroscopes of drones?
+	- Maybe... MEMS sensor is not exposed outside, so it is difficult to do it.
++ How did you get permission to spoof GPS signals from the government? Would the institution review board of KAIST or Samsung Research submit a request on your behalf?
+	- talk directly to the government; informal permission granted for research purposes
++ Re Mobileye object detection, have you formally calculated the minimum level of perturbation needed to fool the detection?
+	- Mobileye sensors and computer vision system reacts to cartoons and PowerPoint slides
++ Is there a publication that addresses the linearity of redundancy on improving security? The slide mentioned, “redundancy improves security linearly”.
+	- If you use two cameras, I can blind one by one. So no proof is required. Of course, good fusion might improve security non-linearly.
++ What kind of training data does Mobieye use?
++ Are sounds used to attack the gyro generally inside or outside of the audible range?
+	- in the audible range
+
+
+
+
+
+
+
+
+
+
+
+
+## Prof. Z. Morley Mao, or Prof. Morley Mao
+
+
+Towards Robust LiDAR-based Perception in Autonomous Driving: General Black-Box Adversarial Sensor Attack and Countermeasures
++ autonomous vehicle (AV) perception
+	- sensors, perception (position, speed, object detection), prediction (object future path), planning (AV future path), control (steering, breaking)
++ machine learning, especially deepp learning
++ security of AV perception
+	- camera-based perception model
+	- LiDAR-based perception model
+	- LiDAR physical attacks
+	- Baidu Apollo, open-source AV system
+	- LiDAR systems have difficulty differentiating real signals from spoofing signals
+		* use azimuth of signal source to determine authenticity
+		* limited access to testing facility
++ use adversarial machine learning (for Adv-LiDAR) to cause AV to crash into obstacles
+	- create spoof 3-D point cloud (via strategically injecting points in the LiDAR-based perception model) to detect fake obstacles/objects
+	- white-box attack limitation
+		* know about pre-processing, Apollo 2.5 model, and post-processing
+		* these are linked by differentiable approximation function
+		* difficult to generalize to other machine learning models
+		* general defense solutions
+	- attack generality limitation
+	- no practical defense solution
++ explore general vulnerability
+	- security threat models
+		* physical sensor attack capability
+			+ location of points
+		* spoofing attack place fake obstacles to affect future path of car/AV
+		+ easier to protect against black-box attacks than white-box attacks
++ state-of-the-art LiDAR-based perception models, based on computer vision workflow/model/architecture
+	- bird's eye view -based model
+	- voxel-based model
+	- point-wise model
++ blackbox adversarial attack, Adv-LiDAR
+	- occluded vehicle
+		* occludee
+		* occluder
+	- distant vehicle
++ test for two specific false positive scenarios in the AV system
+	- DNN models prefer local features
+	- object detection are insentitive to the location of objects
+	- use KITTI point clouds to create fake obstacles/objects
+	- free space, frustrum, straight-line path, from LiDAR sensor and points in the point cloud... fake vehicle's bounding box
+	- CARLO - post-processing module to distinguish between real and fake obstacles
+		* ad-hoc architecture/solution
++ front-view representation need for computer vision for AV sensor systems
++ sequential field view, for verifying data points for front-view representation
+	- adaptive attack changes strategy of attacks
++ limitations:
+	- vulnerability completeness
+	- attack practicality
+		- limited work
+	- defense guarantees
+		- limited work
++ sensor fusion for different modalities need to reconcile discrepancies for different data, based on sensor/camera limitations, and majority vote or hierarchy of preferences for valuing certain sensor data over other sensor data
++ fake object creation is easier than removing real object from sensor data
+	- simulate physical end-to-end test
+	- MCD physical testing facility
++ Why is it possible to only spoof a small number of points? and how long does it take to spoof these points
+	- because we have a small anount of time to spoof data via shooting laser into the sensors
 + 
 + 
-+ 
-+ 
-+ 
-+ 
-+ 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-
-
-
-
-
-
-
-
+Questions:
++ Great work and talk! In practice, the perception module  in Baidu' Appolo and many other AV platforms (e.g., Uber and Ford) is actually achieved by multi-sensor fusion from lidar, cameras and even radars. 
+Would the discussed perception attack be trivially mitigated by simple fusion with cameras and radars? Physically attacking all of the on-board senors that fools perception seems very difficult.
++ Regarding the sensor-level attack, is it possible to hide existing legitimate points while creating fake points?
++ Morley Mao
 
 
 
