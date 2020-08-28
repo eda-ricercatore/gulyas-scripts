@@ -260,6 +260,183 @@ Specific
 		* use verifier as a trusted 3rd party tool
 + remote-controlled robot to do labs... Replicate the set-up, sw like MATLAB and hw tools like logical analyzers... Take-home kits using Analog Discovery 2 device
 	- Regarding take-home kits, Texas A&M University's ECE department uses the Analog Discovery 2 device as a platform to get students to design circuits on a small breadboard at home, and get their circits to be checked by TAs; the device provides power supplies and does data acquisition.
+
+
+
+
+
+
+
+
+
+
+
+
+## Erika A. Petersen
+
+
+Data privacy and cybersecurity in modern neurosurgery and neuromodulation
++ harms regarding data collection, and legal implications
++ computer-guided and regulated tools
++ neuroanatomical navigation for surgical planning and performance
++ high use of imaging before, during, and after surgery
++ ICU monitoring and diagnostic testing
++ implanted neuromodulation devices
+
+
+
++ 3-D imaging sw for planning surgical paths
+	- biopsy
+	- dbs - deep brain stimulation, pace maker for the brain, device placed near the heart to avoid harming the brain
+	- stell cell implantation 
+	- RF incision
+	- laser ablation for epilepsy
+	- radiosurgery
+	- robotic surgery, sub-mm precision
++ neuromodulation definition
+	- places where there is a nerve in the body, we can use devices to improve body functions/sensory
+	- functional neurosurgery & neuromodulation, neuropsychiatry
+	- demands minimal risk of inflicting morbidity and mortality
+	-neuromodulation sites of intervention
+		* SCS, lateral recess
++ intrathecal drug delivery
+	- vulnerability to magnets, stalls, and airs... hazards to devices
++ RNS for epilepsy, adaptive and responsive neurostimulation
+	- adaptive DBS for PD (Parkinson's disease)
++ spinal cord stimulation for pain
+	- gate control theory
++ spinal cord stimulation, drg lead placement
++ supraorbital stimulation
++ OR awake testing
+	- testing implanted electrodes in the OR shows immediate improvement in function
+	- test while conscious to avoid side effects
+	- consequences of poor accuracy
+	- known stimulation complications of DBS
++ hijack in vivo medical devices
++ transmit data from medical devices to the cloud for data access by medical (or health care) staff
+	- use data to track building configurations and landscape of government/private property
+	- track people's mood, behavior 
++ risks and vulnerabilities
+	- DoS, denial of service
+	- get position, data/time, and movement information
++ 5th amendment protects what we say, rather than data in medical devices. Limited constitutional protection. Allow people to opt out, delete data, how to share data.
+	- role of industry self-policing
+
+
+
+
+
+
+
+
+
+Questions:
++ By gate control theory, do you mean gait for walking/running?
+	- no, biochemical messages passing through gate in the nervous system
++ Are these neuroprostheses programmable by software?
+	- yes, via a programming tablet, Bluetooth, or proprietary frequency.
++ Do these devices consist of programmable hardware? When I took a course at USC about neuroprostheses, they used programmable FPGA devices for prototypes.
++ Would ex vivo (or in vitro) medical devices have less security problems than in vitro medical devices?
+	- Yes, hardware can be upgraded
++ If possible, can you please kindly show the slide for the “risks and vulnerabilities” again?
+	- 
++ Would ex vivo (or in vitro) medical devices have less security problems than in vitro medical devices?
+	- "External devices may be more networked than implanted ones, so these might be more vulnerable. If I understand what you are asking, I  think there are vulnerabilities to both implanted and external devices, but the perception of level of hazard for the internal device may be higher than the externals that are limited in their patient interaction. Who wants a “broken” and “malfunctioning” device inside them, giving them severe sense of vulnerability."
++ What did you mean when you mentioned data anonymization is not enough to protect privacy?
+	- alias pool data
+	- without differential privacy, can track who the patient is
++ What do you think about the side effects of a surgery to implement a brain machine interface with many electrodes ?Thank you.
+	- need to know neuroconnectivity
+	- minimize contact points of medical devices, while allowing some redundancy, to reduce points of failures
++ Are these implanted devices ever streaming data to the hospital or is data locally available only?
+	- external controller can be uploaded
+	- uploaded to local equipment/computer, or to the cloud, via smart devices/phones and tablet computers
+
+
+Additional comments:
++ Any implanted device is for that patient only and will be discarded after explantation due to infection risks. I agree there should be a “wipe” prior to disposing of a device, but this work flow does not currently exist. Temporary external stimulators are reused, and are reset between patients.
+
+
+
+
+
+
+
+## Talk by Takeshi Sugawara
+
+
+laser injection attacks on ICs and sensors
++ security of senors
+	- affect data integrity in the analog domain
+	- conventional solutions for digital data
+	- affects autonomous vehicles
+	- voice controllable systems, VCSs
+		* can hack such systems to make VCS to do something else
++ conventional attacks on VCS
+	- ultrasound
+		* stealthy attack using inaudible sound
++ light commands: laser-based audio injection
+	- microphones capture light as sound
+	- end-to-end attacks across two buildings
+	- light commands are dangerous... sound is difficult to transmit to the VCS, and people can notice attacks and report them to the police... With light commands, we can hack VCS-connected smart homes/buildings/offices.
+	- lightcommands.com
++ MEMS microphone, several millimeters/mm
+	- package with MEMS diaphragm (smaller than 1 mm) and ASIC
+	- MEMS diaphragm mvoes with acoustic pressure wave
+	- ASIC converts analog signal to digital signal
+		- laser light intensity can be modulated to create acoustic pressure wave on MEMS diaphragm
+		- voice modulated light commands, rather than modulated light commands
+	- smart speakers can be controlled with light commands at distances of 110+ meters, for 5 mW or 60 mW (milli-Watt) devices
+	+ photoacoustic effects on the MEMS diaphram, light converts to audio signal by photoelectric effect
++ consequences
+	- brute force unlock door
+	- turn on/off enable/disable smart devices
++ countermeasures
+	- sw approaches
+		* interactive authentication/liveness test
+		* sensor fusion
+			+ comparing outputs from multiple microphones
+	- hw approaches
+		* light-blocking covers
+		* on the VCS, fabric
+		* inside the MEMS microphone
++ laser fault injection attack for crypto-implemented world
++ crypto-implementations can be used in hostile environments
+	- device owner can be an attacker
+		* increase balance on smart cards
+		* side-channel and fault-injection attacks
++ smartcard industry is a technology driver, establishing certification scheme...
++ LFI, laser fault injection
+	- shoot laser to cause a bit to flip or get stuck in memory
+	- bypass access checks
+	- nullifying random number generator
+	- cause crypto device output to create faulty outputs
+	- parasitic photo diode of CMOS devices, shine modulated light on such CMOS devices
++ sensor as a countermeasure against LFI
+	- detect and react to LFI attempts using built-in sensors
+	- efficiency of sensors and integration
+
+
+
+Questions:
++ How did you start vehicles using light?
+	- Tesla, start engine of the car using voice-dmoulated light commands
++ Slide 22: Is the CMOS device a normal CMOS device?
+	- standard CMOS device, not CMOS sensor imaging device.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 + 
 + 
 + 
@@ -269,6 +446,13 @@ Specific
 + 
 + 
 + 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
 
 
 
@@ -287,6 +471,88 @@ Specific
 
 
 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
 
 
 
