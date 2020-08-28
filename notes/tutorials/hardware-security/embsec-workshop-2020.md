@@ -659,17 +659,43 @@ Benjamin Cyr, SPQR Lab
 	- proportional data size
 		* 4 \times 4 covariance data set
 		* with enough data, each data set has a Gaussian distribution of its own
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-
-
-
-
++ topics of interest in the next 5-10 years
+	- AI to detect system, counter AI, AI is used to attack your system
+	- explainable AI/ML models for behavioral guarantees, liability issues of ML solutions
+	- Is AI the right solution?
+	- automated, connected, electric
+	- energy-aware hardware security issues
+		* for autonomous vehicles
+	- control aspects of autonomous vehicles/systems
+		* attacker attack/gazillion estimator
+		* build security features into the controller
+	- multi-sensor fusion as a security defense mechanism
+		* Chi^2 solution
+		* intuitive, but different to get it to work consistently
+		* if we trust a sensor less, do we still trust its data
+	- sensor fusion need to account for diversity of possible input data
+	- skin color, label neighborhood, differential privacy solutions
+		* issues of discrimination, subpopulations that are more likely to get flagged for 
++ cyber-physical manufacturing system
+	- What about AI robotic systems in manufacturing plants (including biotech companies), and their security issues?  For making cars or cell cultures or synthetic biology
+	- trusting robots if they claim to be down in the manufacturing plant
+	- adversarial attacks on robots in car manufacturing plant
+		* remote access to testbed data to change tags/labels of data
+		* industrial control system (ICS), formal analysis of industrial control system
+		* thousands of different tags, know which can be changed... ICS, get information from documentation
+	- experts are also possible main threats to ICS
+		* e.g., water distribution system that was compromised by employee
+		* UPS, on-board unit, drivers and cleaners sabotage the industrial control system
+		* threat models need not be only complicated problems/scenarios
+		* useful research need industry connection to ground academic research to keep it useful to the real world
+	- Bluetooth, Bluetooth gun, need not be close to the person
+	- can also do blue sky research and see industry applications for the real-world
++ summamry
+	- diverse data set
+		* use inverse covariance to address bias in machine learning
+	- trends in AI and ML for hardware security
+		* anomaly detection
+	- industrial control systems
 
 
 
