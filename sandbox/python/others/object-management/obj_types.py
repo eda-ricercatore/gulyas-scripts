@@ -1,4 +1,7 @@
 #!/Users/zhiyang/anaconda3/bin/python3
+###	#!/Users/zhiyang/anaconda3/bin/python3
+###	#!/usr/local/bin/python3
+
 
 """
 	This is written by Zhiyang Ong to demonstrate how to determine
@@ -6,7 +9,10 @@
 	
 	References:
 	+ [Ong2020]
-		- using type() cannot 
+		- using type() cannot adequately process object/class type,
+			due to its lack of support class inheritance;
+			in the context of object/class type, class inheritance
+				affects object/class type
 	+ [Brandl2017a]
 		- https://docs.python.org/3/tutorial/inputoutput.html
 		- Section 7.2.1 Methods of File Objects
@@ -30,7 +36,10 @@
 
 # ============================================================
 # Import packages and modules from Python libraries.
+
 import pandas as pd
+from typing import TextIO
+
 
 
 
@@ -55,10 +64,41 @@ def remove_suffix(my_str,set_of_substr):
 #	If this is executed as a Python script,
 if __name__ == "__main__":
 	print("==================================================")
-	# Create an instance of file object, a.
-	a = open("dummy-files/random.md","a")
-	print("file object, a has the type:",a,"=")
-	# Close that instance of file object, a.
+	# Create instances of file object, a and b.
+	a = open("../others/object-management/dummy-files/random-1.md","a")
+	b = open("../others/object-management/dummy-files/random-2.md","a")
+	# Object/Class type: <class '_io.TextIOWrapper'>
+	print("type() - class of file object, a, has the type:",type(a),"=")
+	"""
+		Run-time error when using isinstance() without a type, or
+			tuple of types, as a second argument.
+
+		TypeError: isinstance() arg 2 must be a type or tuple of types
+	"""
+	if isinstance(a, type(a)):
+		print("isinstance(obj, cls) - class of file object, a, has the type:=_io.TextIOWrapper=")
+	else:
+		print("isinstance(obj, cls) - class of file object, a, does not have the type:=_io.TextIOWrapper=")
+	if isinstance(b, type(a)):
+		print("isinstance(obj, cls) - class of file object, b, has the type:=_io.TextIOWrapper=")
+	else:
+		print("isinstance(obj, cls) - class of file object, b, does not have the type:=_io.TextIOWrapper=")
+	print("= Trying to obtain the type/class of file objects, without using the type() function on an instance of file object to get the type/class.")
+	"""
+		From: https://www.w3schools.com/python/python_ref_file.asp
+		+ 
+
+		Reference:
+		+ https://stackoverflow.com/questions/38569401/type-hint-for-a-file-or-file-like-object
+	"""
+	#if isinstance(b, _io.TextIOWrapper):
+	#if isinstance(b, io.TextIOWrapper):
+	#if isinstance(b, TextIOWrapper):
+	#if isinstance(b, typing.IO):
+	if isinstance(b, PyObject):
+		print("isinstance(obj, cls) - class of file object, b, has the type:=_io.TextIOWrapper=")
+	else:
+		print("isinstance(obj, cls) - class of file object, b, does not have the type:=_io.TextIOWrapper=")
+	# Close those instances of file object, a and b.
 	a.close()
-	# Create an instance of a file object, a.
-	print("file object, a has the type:",a,"=")
+	b.close()
