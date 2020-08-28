@@ -648,9 +648,17 @@ Benjamin Cyr, SPQR Lab
 		* differentiate accidents from security attacks
 			+ investigate attacks more
 + need to recompose solutions for subproblems to be a consistent solution, and address inconsistencies in composed solution
-+ 
-+ 
-+ 
++ use projector to shine light on sensor, to change the behavior of the autonomous systems
++ bias in machine learning
+	- maximum likelihood
+	- skin color from exposed body parts, use pixels of these skin colors to determine if the data set is biased
+	- covariance/(inverse covariance) to un-bias the data set
+	- contenance scattering of CT scan
+		* capture enough data to get enough variance, divide by inverse covariance to remove bias as a preprocessing step, before feeding data to ML process
+	- data set of equal distributions, or varying distribution
+	- proportional data size
+		* 4 \times 4 covariance data set
+		* with enough data, each data set has a Gaussian distribution of its own
 + 
 + 
 + 

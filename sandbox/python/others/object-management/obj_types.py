@@ -12,9 +12,8 @@
 		"What can I do with a closed file object?", Stack Exchange Inc.,
 		New York, NY, May 19, 2018.
 		Available online from Stack Exchange Inc.: Stack Overflow: Questions at: https://stackoverflow.com/questions/30379488/what-can-i-do-with-a-closed-file-object; March 7, 2020 was the last accessed date.
-	   
-   
-   https://docs.python.org/3/glossary.html#term-file-object   
+	+ [PythonSoftwareFoundationcontributors2020]
+		- https://docs.python.org/3/glossary.html#term-file-object   
 https://stackoverflow.com/a/40798379/1531728
    https://stackoverflow.com/questions/40798143/what-is-meaning-of-the-file-object/40798379#40798379   
 1 min
