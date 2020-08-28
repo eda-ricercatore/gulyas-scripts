@@ -699,8 +699,14 @@ Benjamin Cyr, SPQR Lab
 
 
 
-
-
+Other summaries
++ privacy in medical devices
+	- use for discrimination by human resource staff
+ 	- future possibilities to address privacy issues
++ physics of analog sensors
+	- quantum side channels
+	- side channel attacks
+	- focus on new emerging techniques, such as potential problems of new systems 
 
 
 
