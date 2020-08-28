@@ -473,15 +473,7 @@ Remote physical attacks on sensors: case study on unmanned vehicles
 		* robust sensor fusion
 		* recover sensor values after erasing noise
 		* detect control failure early
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
+
 
 
 
@@ -583,7 +575,89 @@ Questions:
 + Great work and talk! In practice, the perception module  in Baidu' Appolo and many other AV platforms (e.g., Uber and Ford) is actually achieved by multi-sensor fusion from lidar, cameras and even radars. 
 Would the discussed perception attack be trivially mitigated by simple fusion with cameras and radars? Physically attacking all of the on-board senors that fools perception seems very difficult.
 + Regarding the sensor-level attack, is it possible to hide existing legitimate points while creating fake points?
-+ Morley Mao
+
+
+
+
+
+
+
+
+## AI and Autonomous Systems
+
+
+
+Benjamin Cyr, SPQR Lab
++ autonomous systems, especially cyber-physical systems
+	- robotics
+	- AV, autonomous vehicles
+	- IoT, Internet of Things networks/systems
++ system failures have physical consequences
+	- property theft, property damage, injuries, deaths
++ What makes autonomous systems vulnerable?
+	- blind trust of the autonomous systems
+	- non-autonomous systems: humans are a root of trust
+		* trust the intelligence and perception of the user
+		* responnsibility is held by the operator
++ autonomous systems: little reliance on humans
+	- must trust its own intelligence and perception
++ Shouldn't be a blind trust of autonomous systems
+	- trick perception to attack AI and machine learning models
+	- there exists a gap between AI and human intelligence
++ Adversarial LiDAR, blind trust in LiDAR sensors
+	- LiDAR, spoofed points, spoofer at 13 meters away
+	- adversarial 3-D point cloud
+	- spoofed 3-D point cloud
+	- gap between AI and human intelligence leads to more vulnerabilities
++ protection of autonomous systems
+	- "trust but verify"
+	- AI
+		* anomaly detection
+		* adversarial training
+		* robust algorithms
+	- sensor perception
+		* anomaly detection
+		* sensor fusion
+		* randomized sampling
+	- autonomy reduction
+		* human-in-the-loop
++ Why are you interested in this set of security problems?
++ Other vulnerable systems
+	- What other autonomous systems might be vulnerable because of blind trust?
+	- robotic manufacturing systems for biotech companies
+	- AI for data sheet scrubbing
+	- medical devices, autonomous medical devices, such as RF attacks on pacemakers
+		* blind trust exists because people don't think about it
+		* knowledge graphs are based on one training set, rather than a reasoning system
++ Wilson et. al. 2019, computer vision models have racial/ethnic bias
+	- bias reduction
++ Areas of focus for the next 5-10 years.
++ Introduction of people
++ inference engine for smart phones at Qualcomm Research
+	- security aspects of ML hardware
+	- high-level description of attacks
+		* attacks by academics are expected to follow with data sets, attacks, and solutions to mitigate attacks
+	- defense - important part of the company
+	- protect hardware, including ML/AI hardware
+	- build standards for ML hardware security, chipset, ICs, across the hardware/software/network stack
++ expensive hardware need to be reconfigurable/programmable, so that it can be updated to address hardware/system security vulnerabilities
+	- encrypt channels, fix security problems/vulnerabilities at the source
+	- tend to address issues downstream
+	- use ML to do anomaly detection to determine baseline set of signals/data, and to detect RF interference (or other anomalies)
+		* where you attack from
+		* differentiate accidents from security attacks
+			+ investigate attacks more
++ need to recompose solutions for subproblems to be a consistent solution, and address inconsistencies in composed solution
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
 
 
 
@@ -594,6 +668,11 @@ Would the discussed perception attack be trivially mitigated by simple fusion wi
 
 
 
+
+
+## Closing Remarks
+
+
 + 
 + 
 + 
@@ -617,31 +696,6 @@ Would the discussed perception attack be trivially mitigated by simple fusion wi
 
 
 
-
-
-
-
-
-
-
-
-
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
 
 
 
