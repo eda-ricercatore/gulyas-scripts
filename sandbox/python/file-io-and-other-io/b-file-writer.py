@@ -146,3 +146,12 @@ if op_file_obj_1.closed:
 	print("op_file_obj_1 is closed")
 else:
 	print("op_file_obj_1 is still open.")
+
+"""
+	Quick/easy solution to open file object op_file_obj_1 again [zmo2019].
+
+	Alternate solution from [zmo2019] is more complicated, and not tested.
+"""
+data = open(op_file_obj_1.name).read()
+print("Try reading the 2nd file after it has been closed and reopened.")
+print(data)
