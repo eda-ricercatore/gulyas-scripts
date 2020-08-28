@@ -554,7 +554,7 @@ List of conference "Call for Papers" deadlines:
 + [Formal Methods and Software Technology](http://user.it.uu.se/~bengt/Info/conferences.shtml)
 
 
-**Operation Go-to-ASPLOS in progress.**
+**Operation Go-to-DATE in progress.**
 + https://www.baylor.edu/lib/librarystaff/index.php?id=62713
 	- genn./gennaio
 	- febbr./febbraio
@@ -570,6 +570,11 @@ List of conference "Call for Papers" deadlines:
 	- dic./dicembre
 	- lunedì, martedì, mercoledì, giovedì, venerdì, sabato, domenica, fine settimana, ... in passato, il prossima
 + https://en.wikibooks.org/wiki/Italian/Vocabulary/Day_and_Month
++ sottocartelle:
+	- primavera -> tavaszi
+	- estate -> nyár
+	- autunno -> ősz
+
 
 
 

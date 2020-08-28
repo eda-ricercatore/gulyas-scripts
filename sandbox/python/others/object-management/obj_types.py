@@ -5,6 +5,8 @@
 		the type of Python objects.
 	
 	References:
+	+ [Ong2020]
+		- using type() cannot 
 	+ [Brandl2017a]
 		- https://docs.python.org/3/tutorial/inputoutput.html
 		- Section 7.2.1 Methods of File Objects
