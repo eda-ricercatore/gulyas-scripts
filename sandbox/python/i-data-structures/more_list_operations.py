@@ -13,11 +13,16 @@
 		Noida, Uttar Pradesh, India, June 1, 2200.
 		Available online from GeekstoGeeks at: https://www.geeksforgeeks.org/python-string-split/;
 			October 7, 2020 was the last accessed date.
-	+ Wikipedia contributors, ``Regular expression,'' in {\it Wikipedia, The Free Encyclopedia: Pattern matching}, Wikimedia Foundation, San Francisco, CA, Pattern matching 7, 2020.
-Available online at: \url{https://en.wikipedia.org/wiki/Regular_expression}; last accessed on October 9, 2020.
+	+ Wikipedia contributors, ``Regular expression,'' in {\it Wikipedia, The Free Encyclopedia: Pattern matching}, Wikimedia Foundation, San Francisco, CA, Pattern matching 7, 2020. Available online at: \url{https://en.wikipedia.org/wiki/Regular_expression}; last accessed on October 9, 2020.
+		- Regular expressions cannot process text that requires
+			context-free grammar (CFG).
+			* That is, it is based on regular grammar, rather than
+				context-sensitive grammar (CSG).
+	+ Wikipedia contributors, ``Parsing expression grammar,'' in {\it Wikipedia, The Free Encyclopedia: Formal languages}, Wikimedia Foundation, San Francisco, CA, September 21, 2020. Available online at: \url{https://en.wikipedia.org/wiki/Parsing_expression_grammar}; last accessed on October 9, 2020.
+		- parsing expression grammar (PEG) is similar to
+			context-free grammar (CFG), and cannot be ambiguous.
 
 
-context-free
 
 	Additional resources:
 	+ https://runestone.academy/runestone/books/published/fopp/Sequences/SplitandJoin.html
