@@ -6910,6 +6910,9 @@ Qualifications
 		* Experience using AWS to build data-intensive infrastructure: ECS, Kinesis, S3, Kafka, Spark, Druid, Flink
 		* Experience building platforms around publically available ML platforms like Sagemaker, Kubeflow, MLflow, etc.
 		* Experience serving models using a variety of ML model frameworks like Tensorflow, PyTorch, Sci-kit Learn, etc.
++ skill set:
+	- Experience with one or more of the following: Natural Language Processing, text understanding, classification, pattern recognition, recommendation systems, targeting systems, ranking systems or similar
+	- Use traditional ML techniques such as Probabilistic Graphical Models, SVMs, etc. along with the latest techniques from deep learning including graph neural networks
 
 
 
