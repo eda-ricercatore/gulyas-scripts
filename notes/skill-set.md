@@ -6913,8 +6913,30 @@ Qualifications
 + skill set:
 	- Experience with one or more of the following: Natural Language Processing, text understanding, classification, pattern recognition, recommendation systems, targeting systems, ranking systems or similar
 	- Use traditional ML techniques such as Probabilistic Graphical Models, SVMs, etc. along with the latest techniques from deep learning including graph neural networks
-
-
++ skill set:
+	- As an SoC Generator Design Engineer, you will be joining a small team to architect, build and maintain configurable RTL generators for SoCs and SoC components such as DMA, NoC, cache, peripheral and security subsystems. You will work closely with verification, physical design, IP integration, software, FPGA and other teams to design, tape out and bring up multiple SoCs in a variety of vertical markets, as well as develop infrastructure and automation for SoC design and integration.
+	- Develop reusable, scalable RTL generators in the Chisel hardware design language.
+	- Create, deploy, support, and maintain frameworks for automating SoC and FPGA integration in Chisel.
+	- Collaborate with verification engineers to bring-up and debug designs, ensuring conformance to specifications and full stimulus coverage.
+	- Work with physical design engineers to satisfy design performance, power, and area requirements.
+	- Document microarchitectural specifications and generator source code.
+	- BS, MS, or PhD in Computer Engineering, Computer Science, or Electrical Engineering.
+	- At least 2 years experience developing RTL in Verilog, SystemVerilog, or VHDL.
+	- Strong written and spoken communication skills.
+	- Interest in learning and developing new methodologies for SoC design in functional programming languages, eg Scala.
+	- Experience with scripting languages such as Python, Bash, or Ruby.
++ skill set:
+	- The SiFive Platform Engineering team is building an ambitious new infrastructure to support accelerated ASIC and FPGA design flows, IP delivery and SoC development - driving the next generation of SiFive's "Silicon at the speed of Software" mission. This infrastructure leverages state of the art compiler algorithms (built on open source MLIR and LLVM technologies), novel build system integration, and new Verilog RTL generation techniques.
+	- Evolve, design and build new compiler intermediate representations for hardware design and tool flows.
+	- Implement specific compiler optimization and lowering algorithms for chip design flows.
+	- Implement state of the art mechanisms for hierarchical caching that crosscut compiler and build systems.
+	- Participate in design discussions, planning, code review, documentation, open source processes, and other standard software practices.
+	- Collaborate with hardware architects to develop the approach and design flows.
+	- Manage your individual project priorities, deadlines and deliverables.
+	- We are hiring for several positions with different levels of seniority, but require a minimum of 2 years of compiler engineering experience.
+	- Strong oral and written communication skills, excellent team collaboration.
+	- Experience with C++ programming and git-based development workflows.
+	- Experience with Verilog and other chip design technologies is NOT required.
 
 
 
