@@ -39,7 +39,7 @@
 
 import pandas as pd
 from typing import TextIO
-
+import io
 
 
 
@@ -85,8 +85,16 @@ if __name__ == "__main__":
 		print("isinstance(obj, cls) - class of file object, b, does not have the type:=_io.TextIOWrapper=")
 	print("= Trying to obtain the type/class of file objects, without using the type() function on an instance of file object to get the type/class.")
 	"""
-		From: https://www.w3schools.com/python/python_ref_file.asp
-		+ 
+		References for file object type:
+		+ Andrew Barnert (abarnert), Answer to "Check if object is file-like in Python", Stack Exchange Inc., New York, NY, July 17, 2014. Available online from Stack Exchange Inc.: Stack Overflow: Questions at: https://stackoverflow.com/a/24812058/1531728 and https://stackoverflow.com/questions/1661262/check-if-object-is-file-like-in-python/24812058#24812058; March 7, 2020 was the last accessed date.
+			- 
+
+
+		Some not-so-decent, quite poor resources for checking if a
+			variable's type is a file object type:
+		+ https://www.w3schools.com/python/python_ref_file.asp
+		+ https://www.geeksforgeeks.org/python-type-function/
+		+ https://www.code-learner.com/two-methods-to-check-whether-an-object-is-a-file-object-in-python-or-not/
 
 		Reference:
 		+ https://stackoverflow.com/questions/38569401/type-hint-for-a-file-or-file-like-object
@@ -95,10 +103,12 @@ if __name__ == "__main__":
 	#if isinstance(b, io.TextIOWrapper):
 	#if isinstance(b, TextIOWrapper):
 	#if isinstance(b, typing.IO):
-	if isinstance(b, PyObject):
-		print("isinstance(obj, cls) - class of file object, b, has the type:=_io.TextIOWrapper=")
+	#if isinstance(b, PyObject):
+	#if isinstance(b, file):
+	if isinstance(b, io.TextIOBase):
+		print("isinstance(obj, cls) - class of file object, b, has the type:=_io.TextIOBase=")
 	else:
-		print("isinstance(obj, cls) - class of file object, b, does not have the type:=_io.TextIOWrapper=")
+		print("isinstance(obj, cls) - class of file object, b, does not have the type:=_io.TextIOBase=")
 	# Close those instances of file object, a and b.
 	a.close()
 	b.close()

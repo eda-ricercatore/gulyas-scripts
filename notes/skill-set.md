@@ -6575,10 +6575,341 @@ Qualifications
 	- information theory
 	- knowledge graphs
 + A skills matrix of your expertise in using Google OR Tools, Python, C++, geospatial analysis, and related tools (geopandas, shapely, QGIS, postgis, etc.)
-
-
-
-
++ industrial robotic experience: KUKA, FANUC, or ABB.
++ skill set:
+	- Vicarious aims to transform robotics by creating robots with human level performance on real-world manipulation tasks. We are passionate about changing the world with science and software, and we are looking for exceptional people to join us in that mission.
+	- Our long term goal is to build machines that exceed human intelligence. We are passionate about changing the world with science and software, and we are looking for exceptional people to join us in that mission. Vicarious is working on solving the problems that will take us from the current state of the art to human-level AGI. We work on all components of the AI problem, including perception, concept learning, reasoning, and sensory motor systems, and beyond. Our underlying framework is a probabilistic graphical model that is inspired by the structure of the neocortex. You will join a small, tightly knit collective of extraordinary engineer scientists. Everyone works on our full stack, from algorithms to low level optimizations to GUI code and back.
+	- Put your algorithm and math skills to work in solving the hardest problems in learning and inference in hierarchical models.
+	- Make decisions about how to translate complex ideas to working solutions while keeping a keen eye for computation/accuracy/memory tradeoffs.
+	- Design controlled experiments to show particular performance aspects of the systems and large scale experiments to show statistical robustness.
+	- Write infrastructure software to scale our systems and data visualization routines to understand what is happening inside.
+	- Keep yourself updated with advances in the field of machine learning and neuroscience.
+	- The craftsmanship of building elegant algorithms and tight implementations are part of our company DNA. We work hard to maintain a codebase and a culture that are a joy to work in.
+	- PhD or Masters in CS/EE or a related discipline or Masters in CS/EE with relevant research experience.
+	- Strong machine learning fundamentals, including probabilistic graphical models
+	- Experience building hierarchical vision systems and publishing relevant papers in CVPR/NIPS/ICML is a big plus.
+	- Extensive programming skills, ideally in Python and C, and a track record of translating ideas into prototypes quickly.
+	- Solid fundamentals in linear algebra, probability theory, signal processing, and optimization.
+	- Experience developing and testing ideas in a large scale setting.
+	- Experience with belief propagation and approximation methods.
+	- Knowledge of biologically inspired models of vision.
+	- Interest in neuroscience a plus.
+	- Experience working in an interpreted environment like MATLAB or Mathematica also a plus.
+	- Desired personal qualities:
+		* Integrity
+		* Ability to admit when wrong
+		* Altruism
+		* Fearlessness working outside your comfort zone
+		* Patience with others
+		* Described by others as the best researcher / engineer / thinker they know
+		* Intellectual breadth
+		* Sense of humor
++ Experience developing with ROS and related software such as MoveIt! and PCL
++ skill set:
+	- Masters or PhD in a computer vision-related discipline (or equivalent professional experience), preferably in one of the following areas: probabilistic graphical models, approximate inference, combinatorial optimization, neural networks, object class and instance detection, pose estimation, 3D scene understanding and recognition from RGB-D imagery, 3D reconstruction, structure-from-motion, multi-view stereo, etc.
+	- Strong publication record and/or industry experience in the above mentioned areas, in top-tier conferences such as NeurIPS, ICML, ICLR, AAAI, AISTATS.
+	- Interest/background in algorithms with human-like abilities such as learning from small amounts of data and tight sensorimotor feedback.
+	- Strong C++ and/or Python skills. Experience developing with OpenCV, TensorFlow, and PCL.
++ skill set:
+	- Deep Learning Compiler Engineer
+	- Habana Labs is a young and innovative company focused on developing purpose-built AI processors, disruptive solutions that will shape the future of AI and Deep Learning computing. Habana was founded in 2016 by successful entrepreneurs, launched its first AI Inference processor in 2018, its Training processor in 2019 and was acquired by Intel in December 2019.  The company now operates as an autonomous subsidiary of Intel.  Our vision to take AI processing from its current limits to the peak of its potential continues. We see challenges as opportunities, laser focus on execution and are determined to fulfill our vision to improve the quality of life, work and leisure with our AI solutions. We are looking for exceptionally smart people who believe that AI will change the world and would like to join us on our exciting journey!
+	- We are looking for a hands-on compiler engineer to join the R&D Engineering team, with in-depth knowledge in one or more of programming languages, compilers and hardware architecture. Knowledge of ML/DL frameworks and machine learning would be an added bonus but is not required.
+	- Roles and Responsibilities:
+		* Explore solutions to challenging customer requirements through state-of-the-art compilation techniques
+		* Put together, discuss and advocate design proposals for innovative ideas
+		* Rapid prototyping and data-driven exploration of new ideas
+		* Design and implement next-gen features in our compiler and runtime software stack
+		* Tackle large scale optimization problems across novel architectures
+		* Collaborate with peers in SW, Architecture and HW teams
+	- BS with 6+ years of experience or MS with 4+ years of experience in Computer Science, Computer Engineering or similar field
+	- 6 + years of experience C++ experience and software design skills
+	- 3+ years of compiler engineering experience with one or more of
+	- 2+ years of  experience building compilers using LLVM or equivalent
+	- 2+ years of  Experience building/designing programming models and languages
+	- 2+ years of  experience with loop optimizations (vectorization, unrolling, fusion, parallelization etc.)
++ skill set:
+	- The Data Center Group (DCG) is at the heart of Intel’s transformation from a PC company to a company that runs the cloud and billions of smart, connected computing devices. The data center is the underpinning for every data-driven service, from artificial intelligence to 5G to high-performance computing, and DCG delivers the products and technologies—spanning software, processors, storage, I/O, and networking solutions—that fuel cloud, communications, enterprise, and government data centers around the world.
+	- In this position, you will develop compiler technology as the primary job function. You will design, develop, debug & test compiler software, e.g. advanced compiler optimizations and features specific for Intel Architectures, parallelization and vectorization through compilers, new programming language support. You might work directly with hardware design teams, companies and communities developing compilers and, participate in language and standard groups.
+	- Bachelor’s degree in Computer Science, Computer Engineering,  Electrical Engineering or a related discipline with 8+ years of experience or a Master's Degree in Computer science, Computer Engineering or Electrical Engineering with 6+ years of experience or a PhD in Computer Science, Computer Engineering, Electrical Engineering or a related field with 4+ years of experience.
+	- 5+ years of experience with:
+		* C/C++
+		* object-oriented programming
+		* data structures
+		* compiler theory
+	- 3+ years of experience with compiler development
+	- 3+ years of experience with LLVM compiler development
+	- Knowledge of x86 instruction set architecture and Advanced Vector Extensions (AVX)
+	- Experience with vectorization and parallel programming models such as OpenMP and/or SYCL and/or GPU programming
++ skill set:
+	- Intel Architecture, Graphics, and Software (IAGS) brings Intel's technical strategy to life. We have embraced the new reality of competing at a product and solution level—not just a transistor one. We take pride in reshaping the status quo and thinking exponentially to achieve what's never been done before. We've also built a culture of continuous learning and persistent leadership that provides opportunities to practice until perfection and filter ambitious ideas into execution.
+	- In this position, you will develop compiler technology as the primary job function;  You will Design, develop, debug & test compiler software and programming languages e.g. advanced compiler optimizations and features specific for Intel Architectures, parallelization and vectorization through compilers, new programming languages support. May work directly with hardware design team, companies and communities developing compilers, participate in language and standard groups.
+	- Master's Degree in Computer science or Computer Engineering or Electrical Engineering with 4+ years of experience or PhD in Computer Science, Computer Engineering or Electrical Engineering or a related field with 2+ years of experience.
+	- 5+ years of experience with:
+		* Experience in C/C++
+		* object-oriented programming
+		* data structures
+		* compiler theory
+	- 2+ years of experience with compiler development
+	- 1+ years of experience with LLVM compiler development
+	- Knowledge of x86 instruction set architecture and Advanced Vector Extensions (AVX)
+	- Experience with vectorization and parallel programming models such as OpenMP and/or SYCL and/or GPU programming
++ skill set:
+	- As part of the Hardware Team, you will work with our established team of physicists and engineers to scale and deploy our integrated photonic quantum computation platform. Further duties include designing and construction of production-grade components and establishing a supply chain for those components. You will be responsible for maintaining Xanadu’s existing cloud-accessible quantum computers, as well as building new such devices and readying them for a production-level environment. The selected candidate will have a proven track record of accomplishments in optical hardware development.
+	- Required Qualifications and Experience:
+		* Undergrad or Masters in Engineering, Physics, or related discipline
+		* Academic or industrial experience in photonic engineering
+		* Strong understanding of photonics and electronics
+		* Self-motivated and comfortable working in a fast-paced team environment
+	- Preferred Qualifications and Experience:
+		* 2+ years hands-on experience working in photonic engineering
+		* Experience with lasers, modulators, and photodetection
+		* Experience with EDA software, PCB fabrication and assembly
+		* Experience designing mixed signal PCBs consisting of ADCs, DACs etc.
+		* Experience with nonlinear optics, product development, and chip-integrated photonics an asset
++ skill set:
+	- Xanadu is seeking a full-time Experimental Physicist to work within the hardware team (20+ physicists and engineers) to develop and optimize all aspects of their transition edge sensor technology and its integration with existing systems. This role involves full-stack systems-level product design, construction, prototyping, testing, and assembly of cutting-edge cryogenic photon number resolving detectors. In addition, candidates may be responsible for writing patents describing these devices and their capabilities, when applicable. Successful applicants will have a proven track record of the following:
+	- Qualifications:
+		* PhD in Experimental Physics, Electrical Engineering, or related relevant discipline
+		* At least 1 year post-doctoral or industry experience (preferred)
+	- Minimum Experience:
+		* Experience working in a collaborative team-based development environment
+		* Experience with independent operating of sub 1 Kelvin cryogenic fridges, preferably with either an adiabatic demagnetization refrigerator and/or dilution refrigerator
+		* Experience installing apparatus intra cryostat and conducting cold measurements
+		* Strong record of independently led projects
+		* Experience automating and developing hardware control code for complex systems using Python
+		* Experience with standard mechanical CAD design tools
+	- Preferred Experience:
+		* Custom PCB design and testing
+		* Relevant experience in photonics, integrated optics or laser science
+		* Experience with technical product development
++ skill set:
+	- We are looking for a talented theoretical quantum error correction researcher to work with us towards building a fault-tolerant quantum computer. If you are interested in putting your expertise to use at the forefront of the quantum computing industry, then this is the perfect opportunity for you!
+	- In this role, you will
+		* Devise and develop new architectures for fault-tolerant photonic quantum computing.
+		* Develop software tools required to implement and analyse quantum error correction protocols.
+		* Collaborate with the researchers at Xanadu (including 40+ PhDs) to tailor fault-tolerant architectures to real-world photonic devices, and to inform the development of hardware towards fault-tolerance.
+		* Write patents and peer-reviewed articles reporting advances where applicable.
+	- Required qualifications and experience
+		* PhD degree in Physics, Computer Science, Mathematics, Statistics, or a related technical field with a focus on quantum error correction and fault tolerance.
+		* Demonstrated combination of strong problem solving skills, high creativity and attention to detail.
+		* Demonstrated strong communication skills, especially in interdisciplinary teams.
+		* Ability to operate in a fast-paced environment and manage multiple competing priorities.
+	- Preferred qualifications and experience
+		* Demonstrated interest and commitment toward understanding and collaborating with theory, simulation, and experimental teams.
+		* Demonstrated ability at learning new research topics.
+		* Familiarity with quantum optics and continuous variables.
+		* Proficiency in working with python or other modern programming language.
++ skill set:
+	- As part of Xanadu’s Machine Learning team, the selected candidate will be responsible for working with a multidisciplinary team of machine learning experts and quantum algorithm developers to bring machine learning models into production.  They will develop, deploy, and maintain code, models, and pipelines leveraging various cloud providers and services; automate model training, testing, deployment, and monitoring; and design solution architectures for data driven applications.
+	- Prospective applicants must have strong technical, programming, and mathematical skills. They must possess the ability to evaluate established methods and tools, learn new ones quickly, and apply their knowledge to solve practical problems. Applicants should be self-motivated and demonstrate the ability to successfully meet objectives. Familiarity with quantum computing is not essential for this position, but is a definite plus.
+	- Basic Qualifications and Experience
+		* MSc in Machine Learning, Mathematics, Computer Science, Physics,  Engineering, or a related field.
+		* Experience building and deploying production-grade machine learning applications at scale.
+		* Strong software engineering skills across multiple languages (Python, Scala, Java, C++, etc.)
+		* Experience building and supporting development environments for Machine Learning/Data Science teams.
+		* Experience with distributed computing frameworks like Spark, Dask, or Hadoop.
+	- Preferred Qualifications and Experience
+		* PhD in Machine Learning, Mathematics, Computer Science, Physics, Engineering, or a related field.
+		* Solid mathematical understanding of machine learning, statistical modelling, probability theory, and linear algebra.
+		* Experience with frontend and backend web application development.
+		* Passionate about agile software processes, data-driven development, reliability, testing, and continuous delivery.
+		* Familiarity with and experience working in a fast-growing technology start-up environment.
++ skill set:
+	- As a Senior Software Developer you will help build a trustworthy AI platform to combat rogue quantum and classical AI. Xanadu is a full-stack quantum computing and advanced AI company. You will be involved in completely reshaping the nature of computation as we know it.
+	- Requirements
+		* Is able to take a technical leadership role.
+		* Is comfortable working in cross-functional teams.
+		* Is able to evangelize proper software development practises throughout the team.
+		* Can work anywhere in the stack, from databases, to REST APIs and above.
+		* Is comfortable working with a variety of open-source software including Nginx, Redis, and Postgres.
+		* Understands the full lifecycle of software development, including version control, code review, testing, continuous integration, logging, documentation and debugging.
+		* Is able to work productively on a geographically distributed team.
+		* Is able to contribute to open-source projects at a high technical level.
+		* Is curious and enthusiastic about new and unfamiliar technologies.
+		* Pays careful attention to detail.
+		* Has good communication skills and can express complex technical concepts in a clear and easy to understand way.
+	- Qualifications
+		* Has 4-8 years of experience working in the field.
+		* Is proficient in Python.
+		* Is adept at working with Linux.
+		* Is comfortable working with Git and GitHub.
+		* Is a generalist developer who is comfortable working in multiple languages.
+		* Hands-on experience building large, fault-tolerant, distributed systems at scale.
+		* Experience using Docker and deploying to cloud platforms like AWS or Google Cloud.
+		* Working knowledge of front-end development technologies (HTML, CSS, JavaScript, and front-end web frameworks like React, Vue.js, or Angular).
+		* Working knowledge of client-server architecture.
+		* A basic understanding of machine learning and AI.
+	- At Xanadu we primarily work with Python, but we use a variety of tools including C++, Postgres, Redis, Docker, CI pipelines, and multiple cloud platforms. We build using a distributed microservice model, and we are constantly exploring new technologies to add to our stack.
++ skill set:
+	- As part of the Xanadu Software Team, you will be responsible for developing and maintaining PennyLane, an open-source framework for quantum machine learning, quantum computing, and quantum chemistry. Further duties include contributing to the development of a quantum cloud platform, and building and designing software and services with PennyLane. The selected candidate must possess the ability to learn advanced scientific and technical concepts quickly and with minimal direction. Strong technical skills and a demonstrated ability to learn new concepts is important for this position. Experience in both quantum computing and software development is essential.
+	- Required Skills and Experience:
+		* To succeed in this role, you should have the following:
+		* Previous experience with software best practices, including continuous-integration pipelines, unit testing, code review
+		* Experience working with several programming languages (most important are Python, C/C++)
+		* Ability to understand and apply complex mathematical concepts
+		* Demonstrated education or training in quantum computing
+		* Familiarity with additional languages (i.e., Javascript, HTML, CSS)
+		* Exposure/familiarity to machine learning/deep learning
+		* Software development skills, demonstrated via a public online portfolio (i.e., GitHub account, contributions to open-source projects, etc.)
+		* Self-motivated with a willingness to learn
+		* Comfortable working in a fast-paced environment
+		* High level of professionalism
+	- Preferred Skills and Experience:
+		* Expertise in quantum computing, as demonstrated by extensive coursework, thesis, or peer-reviewed publications
+		* Experience with web development (frontend or backend)
+		* Experience with numerical computation and high-performance computing
+	- Qualifications:
+		* BSc in Computer Science, Engineering, Physics, Math, or related field
+		* MSc, PhD in Computer Science, Engineering, Physics, Math, or related field preferred
++ skill set:
+	- Researcher - Quantum Machine Learning
+	- You will join Xanadu’s Software & Algorithms team, working with a world-class team of researchers to build the theoretical and practical foundations of quantum machine learning, variational quantum algorithms, and quantum differentiable programming. You will conceive, undertake, and supervise projects which have an outsized impact, helping to establish the fundamentals of an emerging new field. Your ideas will have lasting influence and be used by thousands of researchers, developers, and enthusiasts worldwide.
+	- Skills and Experience:
+		* To succeed in this role, you should have the following:
+		* Expertise in the theory and practice of variational quantum algorithms and related fields like quantum chemistry, quantum optimization, etc.
+		* Familiarity with recent developments and ideas in both quantum computing and in machine learning
+		* Ability to make connections between different scientific fields, and successfully port ideas from one field to another
+		* Skilled at using scientific software tools (e.g., Python) and quantum computing hardware to explore ideas and implement algorithms
+		* Familiarity with limitations, restrictions, and imperfections in current quantum hardware devices and knowledgeable of mitigation practices
+		* Experience supervising, mentoring, and collaborating with others on successful research projects
+		* Proven ability to drive research projects from idea to execution
+		* Comfort working in a fast-paced tech-focused work environment
+		* High standards for scientific writing, both at a technical and a popular level
+		* Strong team player
+	- Qualifications:
+		* 5+ years of experience working as a researcher in quantum computing or machine learning
+		* PhD in Computer Science, Physics, Mathematics, Engineering, or Machine Learning with relevant postdoctoral experience preferred
+		* Scientific track record in the topic area of quantum machine learning, as evidenced by recent publications
++ skill set:
+	- Software Developer - Scientific Computing
+	- Are you looking for an opportunity to contribute to the next revolution in computing technology? Do you want to take part in an exciting and rapidly growing new industry? Do you want to put your skills to use at the forefront of a cutting-edge field?
+	- In this role you will develop highly optimized numerical code for simulating and benchmarking a variety of quantum computing devices. You will help translate high-level algorithms to run on a variety of computing architectures. You will help develop and optimize new parallelization techniques for simulating large quantum systems and algorithms designed for Xanadu's quantum computing platform and participate in the design and development of new simulation algorithms.
+	- Required Skills and Experience:
+		* To succeed in this role, you should have the following:
+		* Strong experience programming in low-level languages (e.g., C, C++, Fortran)
+		* Knowledge of CPU instruction sets, GPU programming, and compilation  
+		* Experience with high-level scientific programming frameworks in Python
+		* Ability to convert high-level language scripts to optimized low-level implementations  (e.g., C, C++, Fortran) with optimization (SIMD vectorization) and parallelization (OpenMP, threading)
+		* Experience working with multiprocessing and parallelized code
+		* Experience with development of numerical / approximation techniques
+		* Experience with binding high-level scripting languages to low-level implementations
+		* Ability to convert abstract descriptions of algorithms into efficient code implementations
+		* Ability to aggressively optimize algorithm efficiency at every part of the computational stack
+		* Ability to determine sensible tradeoffs between code being optimal, user-friendly, and easy to install
+		* Experience with software engineering best practices: testing, continuous integration, version control, documentation, and code review
+		* Familiarity with and experience working in a fast-growing technology start-up environment
+		* Great communication skills; can express complex technical concepts in a clear and easy to understand way
+	- Preferred Skills and Experience:
+		* Familiarity with distributed computation
+		* Experience with scientific computing on HPC, supercomputer, and cluster-grade hardware
+		* Experience with scientific computing on commodity / cloud hardware (e.g., AWS)
+		* Understanding of quantum computing and quantum simulation algorithms, including experience with tensor networks
+		* PhD in Computer Science, Physics, Mathematics, or Engineering an asset
+	- Qualifications:
+		* 5+ years of experience working in related fields
+		* BSc or MSc  in Computer Science, Physics, Mathematics, or Engineering with relevant industry experience preferred, or equivalent combination of education and experience
+		* Proven track record delivering highly optimized numerical algorithms
++ skill set:
+	- At Nextdoor, we believe in the transformative power of community. In the Business Intelligence team at Nextdoor, we believe in the transformative power of information, bringing together data from a wide variety of sources and making it digestable and actionable by everyone in the company. We are a lean but powerful team with diverse backgrounds and perspectives, because that’s what we seek out and respect in others. We collaborate cross-functionally to make the numbers available and clear, playing a key role in the company’s overall effort to foster stronger and healthier communities.
+	- As Nextdoor’s first Engagement Data Science Manager, you’ll lead data science for all of our member-facing initiatives, including activation, retention, trust and safety, moderation, and much more. You’ll be the voice of data within engagement leadership, and you’ll work with your team to bring value to Nextdoor’s millions of members and help build stronger & safer communities. You’ll lead an agile, nimble data team, and you’ll work with leaders across the business to inform Nextdoor’s overall data strategy. You’ll directly contribute to growing and improving our core product, and will help lead us to the future of Nextdoor.
+	- You should be excited to bring your experience and expertise every day in order to:
+		* Lead, develop, and grow a team of 6-8 data scientists working in our engagement teams
+		* Conduct in-depth analysis on Nextdoor data, analyzing neighborhood vitality, member experience, cross-platform initiatives, acquisition cycles, and new product development
+		* Partner with cross-functional teams to support product development efforts (including product, design, engineering, marketing, operations, and finance) and manage and align priorities
+		* Work on the leadership team to inform long-term business strategy and roadmaps
+		* Develop and socialize best practices around metric development, A/B testing and experimentation, usage tracking and instrumentation
+		* Drive self-service for our data platform by creating and documenting data structures and sets, SQL and data tools training, and dashboard development
+		* Develop and share key strategic insights through data analysis, visualization, and story-telling
+		* Work with the team to create and optimize statistical models and algorithms to help drive product and strategic decision-making
+		* Care deeply about data quality and empowering employees to leverage data to help Nextdoor grow and succeed
+	- What You’ll Bring to The House
+		* Advanced degree in a quantitative field and 8+ years work experience in data science
+		* 3+ years of people management
+		* Experience working in consumer internet, especially social networks
+		* Expert knowledge of SQL
+		* Comfort working with large, complicated, evolving (and sometimes messy) data sets
+		* Experience with distributed processing methods and ETL systems
+		* Experience with with Python/Pandas, R, or some other computation analysis software, and experience building and deploying machine learning models
+		* Experience effectively presenting insights and summarizing complex data to diverse audiences through visualizations and other means
+		* Ability to understand, tackle, and communicate problems from both technical and business perspectives
+		* Innate curiosity around finding meaningful insights that inform the way we think about and develop both our product and our business strategies
+	- Bonus Points
+		* Looker expertise
+		* Experience with topics like feed ranking, content moderation, and community modeling
+		* You’ve built a data team up from the ground and you’re up for a challenge!
++ skill set:
+	- As a Senior UX/UI Designer at Nextdoor, you’ll design digital experiences that empower neighbors to build stronger communities and transform how people connect and engage with their local area. In this role, you’ll define and deliver new experiences across multiple platforms as well as work cross-functionally to shape the future of the Nextdoor product as we continue to grow.
+	- The Impact You’ll Make
+		* If you want the challenge of fast-paced growth, the satisfaction of seeing your design work come to life, and the pride in helping grow a world-class design team, this is the place for you. Please include a link to your portfolio in addition to your resume and cover letter.
+		* You’ll envision, design, and ship delightful, user-centered, cross-platform experiences that build the fabric of local communities around the globe.
+		* You’ll be involved in all aspects of the product development for a major product area; from strategy, research, prototyping, concept to interaction design, to final QA and code tweaks right before launch.
+		* You’ll participate in cross-functional brainstorms, discussions, design reviews and interesting and inspiring design team activities.
+	- What You’ll Bring to The House
+		* 7-10 years demonstrated experience shipping great consumer products in an agile environment, preferably including work on social networks, building social graphs, follow or relational models
+		* 5-7 years demonstrated experience shipping great mobile products in an agile environment.
+		* Comfort working across the product development spectrum: strategy, ideation, concept work, pixel-level details, and front-end development and implementation.
+		* Fluency with both mobile and responsive web design principles and best practices.
+		* A strong visual design sense and ability to design within, and help define, visual guidelines.
+		* Ability to create rich interactive prototypes with Framer, Origami, or similar
+		* Familiarity with HTML, CSS, JavaScript, Swift, Java, or Xcode
+		* You’re deeply curious about how to empower neighbors to strengthen their communities, how local businesses enhance their communities, and about what makes different neighborhoods around the globe thrive.
++ front-end Web development skills:
+	- Understanding of web services technologies such as SOAP, HTTP, and REST
+	- Javascript/React programming language
+	- Strong understanding of TypeScript/Flow and ES6, Jest and Webpack
+	- Experience with CSS and Less/Sass (ability to write mixins, partials, functions, etc) and usage in large scale applications
+	- Experience in modern technologies such as Graphql/D3.
++ data analyst skills:
+	- A working knowledge of SQL, specifically involving coding your own queries and running programs on platforms such as Qubole
+	- Experience with marketing tools such as Tableau, Sendgrid, Wordpress, Instapages, and PyCharm preferred
++ full-stack Web development:
+	- Expertise in at least one server side web application language. Java or Python experience is a plus
+	- Expertise in modern JavaScript/HTML/CSS. Experience with React is a huge plus
++ skills for back-end Web development (languages/frameworks):
+	- Python/Django
+	- Java
+	- Golang
+	- SQL
+	- AWS
++ Android application software development:
+	- Kotlin, MVI and GraphQL.
+	- You make a point to test your obviously bug-free code with frameworks like JUnit, Mockito, and Espresso - just to be safe.
+	- Expertise in Kotlin and leveraging its features to increase the safety and clarity of our codebase.
+	- Familiar with modern networking stack, such as OkHttp, Retrofit, and GraphQL.
+	- Passion for UI architecture best practices such as MVI and libraries including RxJava, MvRx, and Epoxy.
+	- Familiar with architecting a large app for efficient modularization and dependency injection via Dagger and Gradle.
+	- You think the only real Android phones are Pixels.
++ skill set:
+	- At Nextdoor, machine learning is starting to transform our product through personalization, driving major impact across different parts of our platform including our newsfeed, our notifications, and our ads relevance. Our machine learning team is lean but hungry to drive even more impact and make Nextdoor the neighborhood hub for local exchange. We are scrappy and believe that ML will be an integral part of making Nextdoor valuable to our members. We also believe that ML should be ethical and encourage healthy habits and interaction, not addictive behavior. We are looking for great engineers who believe in the power of local community to empower our members to make their communities great places to live.
+	- The Impact You’ll Make
+		* You will be part of a scrappy and impactful team building data-intensive products, working with data and features, building machine learning models, and sharing insights around data and experiments. Some of the current products / projects you could work on include the newsfeed, ad relevance, search, notifications, trust and safety, and neighborhood vitality. You will build critical decision-making models for the product, enhancing the relevance and value of our products. Finally, you will help build the foundational patterns that ML engineers will use for years to come as we ramp up our effort to introduce machine learning into our platform.
+		* Collect and gather datasets to build machine learning (ML) models that make real-time decisions for the Nextdoor platform
+		* Analyze datasets and and use important features to build low-latency models for decisions that need to be made quickly
+		* Deploy ML models into production environments and integrate them into the product
+		* Run and analyze live user-facing experiments to iterate on model quality by measuring impact on business metrics
+		* Collaborate with other engineers and data scientists to create optimal experiences on the platform
+	- What You’ll Bring to The House
+		* B.S. in Computer Science, Applied Math, Statistics, Computational Biology or a related field
+		* 5+ years of industry/academic experience applying machine learning at scale.
+		* Proven engineering skills. Experience writing and maintaining high-quality production code. Python experience a plus.
+		* Ability to work with and analyze large amounts of data.
+		* Ability to succeed in a dynamic startup environment.  
+	- Bonus Points
+		* Experience building ML products at large consumer-facing companies
+		* Experience building ML products related to ads relevance or newsfeed products
++ skill set:
+	- At Nextdoor, machine learning is starting to transform our product through personalization, driving major impact across different parts of our platform including our newsfeed, our notifications, our advertising, and our local ecosystem. Our machine learning team is lean but hungry to drive even more impact and make Nextdoor the neighborhood hub for local exchange. We are scrappy and believe that ML will be an integral part of making Nextdoor valuable to our members. We also believe that ML should be ethical and encourage healthy habits and interaction. We are looking for great engineers who believe in the power of local community to empower our members to make their communities great places to live.
+	- The Impact You’ll Make
+		* You will be part of a scrappy and impactful team building a scalable ML platform in a rapidly changing company. In this role, you will focus on developing the underlying data processing infrastructure to support the ML platform in collecting data, labeling data, and using data to monitor model performance. You will also build infrastructure to train, serve, and monitor ML models. Finally, you will be responsible for building platform-wide model features that the entire company can utilize in building ML models. As a result, you will be laying the foundation for a critical part of Nextdoor’s mission.
+	- What You’ll Bring to The House
+		* B.S. in Computer Science, Math, Statistics, or a related field.
+		* 5+ years of industry/academic experience building ML infrastructure at scale.
+		* Proven engineering skills. Experience writing and maintaining high-quality production code.
+		* Proficient in Python
+	- Bonus Points
+		* Experience using AWS to build data-intensive infrastructure: ECS, Kinesis, S3, Kafka, Spark, Druid, Flink
+		* Experience building platforms around publically available ML platforms like Sagemaker, Kubeflow, MLflow, etc.
+		* Experience serving models using a variety of ML model frameworks like Tensorflow, PyTorch, Sci-kit Learn, etc.
 
 
 

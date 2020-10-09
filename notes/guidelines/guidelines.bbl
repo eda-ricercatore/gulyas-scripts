@@ -1007,7 +1007,7 @@ Michael Huth and Mark Ryan.
 \bibitem{IEEE2014b}
 {IEEE Board of Directors}.
 \newblock {IEEE} code of ethics.
-\newblock Available online at:
+\newblock Available online from {\it {IEEE}} at:
   \url{http://www.ieee.org/about/ieee_code_of_conduct.pdf}; October 2, 2014 was
   the last accessed date, June 2014.
 
@@ -1125,7 +1125,7 @@ Brian~W. Kernighan and Rob Pike.
 \bibitem{Kernighan1982}
 Brian~W. Kernighan and P.~J. Plauger.
 \newblock {\em The Elements of Programming Style}.
-\newblock McGraw-Hill, New York, {NY}, second edition, 1982.
+\newblock {McGraw-Hill}, New York, {NY}, second edition, 1982.
 
 \bibitem{Keutzer2000}
 Kurt Keutzer, Sharad Malik, A.~Richard Newton, Jan~M. Rabaey, and Alberto
@@ -1550,7 +1550,7 @@ Matthias M{\"{u}}ller-Hannemann and Stefan Schirra.
 \newblock Springer-Verlag Berlin Heidelberg, Heidelberg, Germany, 2010.
 
 \bibitem{Myers1998}
-W.~Myers.
+Ware Myers.
 \newblock Why software developers refuse to improve.
 \newblock {\em {IEEE} Computer}, 31(4):110--112, April 1998.
 
@@ -1667,7 +1667,7 @@ Ted Osborne, Nodir Turakulov, and Ackermann Yuriy.
   September 17, 2019 was the last accessed date, January 30 2018.
 
 \bibitem{OSullivan2009}
-Bryan O'Sullivan.
+Bryan {O'Sullivan}.
 \newblock {\em Mercurial: The Definitive Guide}.
 \newblock Modern Software for Collaboration. O'Reilly Media, Sebastopol, {CA},
   2009.
@@ -1773,13 +1773,13 @@ Jeff Preshing.
 \bibitem{Pressman2001}
 Roger~S. Pressman.
 \newblock {\em Software Engineering: A Practitioner's Approach}.
-\newblock McGraw-Hill Series in Computer Science. McGraw-Hill, New York, {NY},
-  fifth edition, 2001.
+\newblock McGraw-Hill Series in Computer Science. {McGraw-Hill}, New York,
+  {NY}, fifth edition, 2001.
 
 \bibitem{Pressman2010}
 Roger~S. Pressman.
 \newblock {\em Software Engineering: A Practitioner's Approach}.
-\newblock McGraw-Hill, New York, {NY}, seventh edition, 2010.
+\newblock {McGraw-Hill}, New York, {NY}, seventh edition, 2010.
 
 \bibitem{ProgrammingResearchLtdStaff2013}
 {Programming Research Ltd. staff}.
@@ -1891,8 +1891,8 @@ Johanna Rothman.
   Estimate, Deliver}.
 \newblock The Pragmatic Programmers, Raleigh, {NC}, 2017.
 
-\bibitem{RunMyCodeAssociationMembers2013}
-{RunMyCode Association members}.
+\bibitem{RunMyCodeAssociationContributors2013}
+{RunMyCode Association contributors}.
 \newblock {RunMyCode}.
 \newblock Available online at: \url{http://www.runmycode.org/}; November 13,
   2016 was the last accessed date, 2013.
@@ -1957,17 +1957,17 @@ Peter Savage.
 \bibitem{Schach2002}
 Stephen~R. Schach.
 \newblock {\em Object-Oriented and Classical Software Engineering}.
-\newblock McGraw-Hill, New York, {NY}, fifth edition, 2002.
+\newblock {McGraw-Hill}, New York, {NY}, fifth edition, 2002.
 
 \bibitem{Schach2007}
 Stephen~R. Schach.
 \newblock {\em Object-Oriented and Classical Software Engineering}.
-\newblock McGraw-Hill, New York, {NY}, seventh edition, 2007.
+\newblock {McGraw-Hill}, New York, {NY}, seventh edition, 2007.
 
 \bibitem{Schach2011}
 Stephen~R. Schach.
 \newblock {\em Object-Oriented and Classical Software Engineering}.
-\newblock McGraw-Hill, New York, {NY}, eighth edition, 2011.
+\newblock {McGraw-Hill}, New York, {NY}, eighth edition, 2011.
 
 \bibitem{Schiermeier2018}
 Quirin Schiermeier.
@@ -2180,7 +2180,7 @@ Adam Tornhill.
 \bibitem{Tucker2007}
 Allen~B. Tucker and Robert~E. Noonan.
 \newblock {\em Programming Languages: Principles and Paradigms}.
-\newblock McGraw-Hill, New York, {NY}, second edition, 2007.
+\newblock {McGraw-Hill}, New York, {NY}, second edition, 2007.
 
 \bibitem{Turakulov2018}
 Nodir Turakulov, Ted Osborne, and Ackermann Yuriy.
