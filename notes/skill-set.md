@@ -6937,6 +6937,193 @@ Qualifications
 	- Strong oral and written communication skills, excellent team collaboration.
 	- Experience with C++ programming and git-based development workflows.
 	- Experience with Verilog and other chip design technologies is NOT required.
++ Notebook products:
+	- Binder/JupyterHub
+	- Databricks Collaborative Notebooks
+	- Google Cloud Datalab Notebooks
+	- Amazon Sagemaker Studio
+	- Code Ocean
+	- Google Cloud AI Platform Notebooks
+	- IBM Watson Studio
+	- Amazon EMR Notebooks
+	- Kaggle Notebooks
+	- Azure Notebooks
+	- Paperspace/Gradient
+	- Colab Notebooks
++ computing platforms for data science projects:
+	- deep learning workstation: NVIDIA GTX, or LambdaLabs
+	- cloud computing platform: AWS, Azure, GCP, hosted notebooks, ...
++ data visualization libraries and tools:
+	- Ggplot/ggplot2
+	- Seaborn
+	- D3.js
+	- Matplotlib
+	- Bokeh
+	- Plotly / Plotly Express
+	- Altair
+	- Geoplotlib
+	- Shiny
+	- Leaflet / Folium
++ machine learning frameworks:
+	- JAX
+	- TensorFlow
+	- Caret
+	- H20 3
+	- Prophet
+	- PyTorch
+	- Tidymodels
+	- Xgboost
+	- MXNet
+	- Keras
+	- CatBoost
+	- LightGBM
+	- Scikit-Learn
+	- Fast.ai
++ machine learning algorithms:
+	- decision trees or random forests
+	- evolutionary approaches
+	- recurrent neural networks, RNN
+	- Bayesian networks
+	- linear or logistic regression
+	- convolutional neural networks, RNN
+	- transformer networks: BERT, gpt-3
+	- gradient boosting machines: xgboost, lightgbm
+	- dense neural networks: MLPs
+	- generative adversarial networks, GANs
++ categories of computer vision methods:
+	- image segmentation methods: U-Net, Mask R-CNN
+	- general-purpose image/video tools: PIL, cv2, skimage
+	- object detection methods: YOLOv3, RetinaNet
+	- image classification, and other general purpose networks: VCG, Inception, ResNet, ResNeXt, NASNet, EfficientNet
+	- generative networks: GAN, VAE
++ natural language processing, NLP, methods:
+	- transformer language models: GPT-3, BERT, XLnet
+	- encoder-decoder models: seq2seq, vanilla transformers
+	- contextualized embeddings: ELMo, CoVe
+	- word embeddings/vectors: GLoVe, fastText, word2vec
++ cloud computing platforms:
+	- Oracle Cloud
+	- Tencent Cloud
+	- Google Cloud Platform, GCP
+	- Amazon Web Services, AWS
+	- Microsoft Azure
+	- Salesforce Cloud
+	- SAP Cloud
+	- Alibaba Cloud
+	- VMware Cloud
+	- IBM Cloud / Red Hat
++ cloud computing products:
+	- Microsoft Azure Container Instances
+	- AWS Lambda
+	- Amazon EC2
+	- Amazon Elastic Container Service
+	- Google Cloud Functions
+	- Azure Functions
+	- Google Cloud App Engine
+	- Google Cloud Run
+	- Azure Cloud Services
+	- Google Cloud Compute Engine
++ machine learning products:
+	- Google Cloud Vision AI
+	- Amazon SageMaker
+	- Google Cloud AI Platform / Google Cloud ML engine
+	- Google Cloud Natural Language
+	- Amazon Forecast
+	- Amazon Rekognition
+	- Azure Cognitive Services
+	- Google Cloud Video AI
+	- Azure Machine Learning Studio
++ big data products:
+	- relational databases, data warehouses, data lakes
+	- IBM Db2
+	- MySQL
+	- Oracle Database
+	- Microsoft Azure Data Lake Storage
+	- Amazon DynamoDB
+	- PostgresSQL
+	- Microsoft Access
+	- MongoDB
+	- Amazon RedShift
+	- Google Cloud SQL
+	- Google Cloud BigQuery
+	- SQLite
+	- Snowflake
+	- Microsoft SQL Server
+	- Amazon Athena
+	- Google Cloud Firestore
++ business intelligence tools:
+	- Domo
+	- Tableau
+	- Microsoft Power BI
+	- Looker
+	- Salesforce
+	- SAP Analytics Cloud
+	- TIBCO Spotfire
+	- Sisense
+	- Alteryx
+	- Einstein Analytics
+	- Google Data Studio
+	- Qlik
+	- Amazon QuickSight
++ categories of automated machine learning tools (or partial AutoML tools):
+	- automated data augmentation: imgaug, albumentations
+	- automated feature engineering/selection: tpot, boruta_py
+	- automated model selection: auto_sklearn, xcessiv
+	- automated model architecture searches: darts, enas
+	- automated hyperparameter tuning: hyperopt, ray.tune, Vizier
+	- automation of full ML pipelines: Google Cloud AutoML, H20 Driverless AI
++ specific automated machine learning tools, or partial AutoML tools:
+	- H20 Driverless AI
+	- Xcessiv
+	- Google Cloud AutoML
+	- Auto-Sklearn
+	- Tpot
+	- Auto-Keras
+	- Auto_ml
+	- Databricks AutoML
+	- MLbox
+	- DataRobot AutoML
++ tools for managing machine learning experiments:
+	- Comet.ml
+	- Trains
+	- Guild.ai
+	- Domino Model Monitor
+	- Sacred + Omniboard
+	- Polyaxon
+	- TensorBoard
+	- Weights & Biases
+	- Neptune.ai
++ platforms for data science courses:
+	- Udemy
+	- DataCamp
+	- Kaggle Learn Courses
+	- Udacity
+	- Cloud-certification programs: AWS, Azure, GCP
+	- university courses, resulting in a university degree
+	- Coursera
+	- edX
+	- Fast.ai
+	- LinkedIn
++ tool or platform for data analysis:
+	- basic statistical software, spreadsheets: Microsoft Excel, Google Sheets
+	- advanced statistical software: SPSS, SAS
+	- business intelligence software: Salesforce, Tableau, Spotfire
+	- local development environments: RStudio, JupyterLab
+	- cloud-based data software & APIs: AWS, GCP, Azure
++ media sources to learn data science:
+	- Slack communities: ods.ai, kagglenoobs
+	- YouTube: Kaggle YouTube, Cloud AI Adventures
+	- journal publications: peer-reviewed journals and conference proceedings
+	- email newsletters: Data Elixir, O'Reilly Data & AI
+	- Course forums: forums.fast.ai, Coursera forums
+	- Kaggle: notebooks, forums
+	- Blogs: Towards Data Sciecne, Analytics Vidhya
+	- Twitter: data science influencers
+	- podcasts: Chai Time Data Science, O'Reilly Data Show
+
+
+
+
 
 
 
