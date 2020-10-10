@@ -29,6 +29,7 @@
 	+ https://www.pitt.edu/~naraehan/python3/split_join.html
 	+ https://www.w3resource.com/python-exercises/re/python-re-exercise-47.php
 	+ https://docs.python.org/3/reference/lexical_analysis.html#delimiters
+	+ https://note.nkmk.me/en/python-split-rsplit-splitlines-re/
 """
 
 # Import regular expressions package.
@@ -86,7 +87,7 @@ for current_name in list_of_names:
 	tokens = re.split("\{??\}| ",current_name)
 	for current_token in tokens:
 		print("	current token is:",current_token,"=")
-		
+
 
 """
 	
@@ -101,6 +102,24 @@ s = "name(something)"
 na, so = re.match(r"(.*)\((.*)\)" ,s).groups()
 print("na is:",na,"=")
 print("so is:",so,"=")
+
+
+"""
+	From above:
+	list_of_names = ["Alberto L. Sangiovanni-Vincentelli", "Eric {von Hippel}", "Donata {von der Leyen}", "Wolff {van Sintern}", "Adolfo Rodriguez Tsourouksdissian", "Evan Driscoll", "Lit-Min Sam"]
+"""
+for i in list_of_names:
+	print("	current name is:",i,"=")
+	list_of_tokens = re.match(r"(.*)\{(.*)\}| " ,s)
+	#list_of_tokens = re.match(r"(.*){(.*)}| " ,s)
+	print("	list_of_tokens is:",list_of_tokens,"=")
+
+print("===	Test code on \{\}, instead of \(\) or ().")
+list_of_names = ["Alberto L. Sangiovanni-Vincentelli", "Eric (von Hippel)", "Donata (von der Leyen)", "Wolff (van Sintern)", "Adolfo Rodriguez Tsourouksdissian", "Evan Driscoll", "Lit-Min Sam"]
+for i in list_of_names:
+	print("	current name is:",i,"=")
+	list_of_tokens = re.match(r"(.*)\((.*)\)| " ,s)
+	print("	list_of_tokens is:",list_of_tokens,"=")
 
 
 """
@@ -121,4 +140,11 @@ for current_name in list_of_names:
 	tokens = re.match(r"(.*)\((.*)\)",current_name)
 	for current_token in tokens:
 		print("	current token is:",current_token,"=")
+"""
+
+# ====================================================================
+
+"""
+	Reference:
+	+ 
 """
