@@ -116,12 +116,31 @@ for i in list_of_names:
 
 print("===	Test code on \{\}, instead of \(\) or ().")
 list_of_names = ["Alberto L. Sangiovanni-Vincentelli", "Eric (von Hippel)", "Donata (von der Leyen)", "Wolff (van Sintern)", "Adolfo Rodriguez Tsourouksdissian", "Evan Driscoll", "Lit-Min Sam"]
-for i in list_of_names:
-	print("	current name is:",i,"=")
-	list_of_tokens = re.match(r"(.*)\((.*)\)| " ,s)
+for nn in list_of_names:
+	print("	current name is:",nn,"=")
+	"""
+		The function re.match() will return a match object
+			if the regular expression has matches in the given string. 
+		+ https://docs.python.org/3/library/re.html
+		+ https://docs.python.org/3/library/re.html#match-objects
+
+		Match objects are different from regular expression objects
+			(regex objects).
+		+ https://docs.python.org/3/library/re.html#regular-expression-objects
+		+ egular Expression HOWTO: https://docs.python.org/3/howto/regex.html#regex-howto
+		+ https://docs.python.org/3/library/re.html#match-objects
+
+
+		Reference:
+		+ Python contributors, "re — Regular expression operations," from Python: Python 3.9.0 documentation: The Python Standard Library (or, Library Reference): Text Processing Services, Python Software Foundation, October 10, 2020. Available online at: https://docs.python.org/3/library/re.html; last accessed on October 10, 2020.
+	"""
+	list_of_tokens = re.match(r"(.*)\((.*)\)| " ,nn)
 	print("	list_of_tokens is:",list_of_tokens,"=")
-
-
+	"""
+	if list_of_tokens is not None:
+		for tt in list_of_tokens:
+			print("	Its tokens are:",list_of_tokens,"=")
+	"""
 """
 	Implement this in the check_names() function for my
 		BibTeX management software.
@@ -144,7 +163,72 @@ for current_name in list_of_names:
 
 # ====================================================================
 
+
+s = "<alpha.Customer[cus_Y4o9qMEZAugtnW] active_card=<alpha.AlphaObject[card]\
+ ...>, created=1324336085, description='Customer for My Test App',\
+ livemode=False>"
+
 """
 	Reference:
-	+ 
+	+ David Alber, https://stackoverflow.com/a/8569256/1531728
+		December 20, 2011.
+"""
+val = s.split('[', 1)[1].split(']')[0]
+print("David Alber val is:",val,"=")
+tokens = s.split('[')[1].split(']')[0]
+"""
+	The following does not work since it requires selecting the
+		specific token in the initial tokenized result.
+
+	tokens = s.split('[').split(']')
+"""
+print("tokens is:",tokens,"=")
+
+"""
+	Reference:
+	+ srgerg and D K, https://stackoverflow.com/a/8569258/1531728
+		December 20, 2011.
+"""
+tokens = re.search(r"\[([A-Za-z0-9_]+)\]", s)
+print("srgerg tokens is:",tokens,"=")
+
+tokens = re.search(r"\[(\w+)\]", s)
+print("srgerg tokens is:",tokens,"=")
+
+
+"""
+	Reference:
+	+ Samuele Santi / redShadow, https://stackoverflow.com/a/8569270/1531728
+		December 20, 2011.
+"""
+tokens = re.match(r"[^[]*\[([^]]*)\]", s).groups()[0]
+print("redShadow tokens is:",tokens,"=")
+
+"""
+	Reference:
+	+ OmaL, https://stackoverflow.com/a/38871907/1531728
+		August 10, 2016 and May 23, 2017 (edited by Community moderator)
+"""
+tokens = s[s.find("[") + 1:s.find("]")]
+print("OmaL tokens is:",tokens,"=")
+
+
+"""
+	This method can find all instances of pattern matches.
+	Use this method!!!
+
+	Reference:
+	+ Brandon Keith Biggs, https://stackoverflow.com/a/31358563/1531728
+		July 11, 2015 and May 23, 2017
+"""
+tokens = re.findall(r"\[([A-Za-z0-9_]+)\]", s)
+print("Brandon Keith Biggs tokens is:",tokens,"=")
+
+
+
+
+"""
+	Reference:
+	+ Amber Yust / Amber and Mike Fogel, https://stackoverflow.com/a/4697884/1531728
+		
 """
