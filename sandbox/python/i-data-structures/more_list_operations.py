@@ -308,9 +308,10 @@ print("=========================================================")
 
 """
 	Reference:
-	+ Niklas Baumstark, Chris Rands, and Rich "Drise" Moll, 
-		https://stackoverflow.com/a/9542768/1531728
-		March 3, 2012 and December 14, 2017
+	+ [Baumstark 2017]
+		- Niklas Baumstark, Chris Rands, and Rich "Drise" Moll, 
+			https://stackoverflow.com/a/9542768/1531728
+			March 3, 2012 and December 14, 2017
 
 
 	Notes:
@@ -318,6 +319,8 @@ print("=========================================================")
 		- This is because we should use the equivalent "@inproceedings{"
 			to avoid redundant BibTeX types.
 """
+
+# Method 1: Checking if something is inside [Baumstark 2017]
 bibtex_types = ["@book{", "@misc{", "@phdthesis{", "@article{", "@inproceedings{", "@incollection{", "@manual{", "@proceedings{", "@techreport{", "@booklet{", "@inbook{", "@mastersthesis{", "@unpublished{"]
 
 
