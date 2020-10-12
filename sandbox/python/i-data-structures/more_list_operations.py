@@ -335,3 +335,5 @@ if current_bibtex_entry_type not in bibtex_types:
 current_bibtex_entry_type = "@phdthesis{"
 if current_bibtex_entry_type in bibtex_types:
 	print("The current BibTeX entry type @phdthesis is valid in bibtex_types.")
+
+# Method 2: Filtering a collection [Baumstark 2017]
