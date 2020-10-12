@@ -35,7 +35,7 @@
 # Import regular expressions package.
 import re
 
-#	===================================================================
+print("=========================================================")
 
 """
 	A string that I want to delimit and tokenize each full name into
@@ -66,10 +66,10 @@ list_of_names = string_of_names.split(" and ")
 print("list_of_names is:",list_of_names,"=")
 print("string_of_names.split(' and ') is:",string_of_names.split(" and "),"=")
 
-#	===================================================================
+print("=========================================================")
 
 
-list_of_names = ["Alberto L. Sangiovanni-Vincentelli", "Eric {von Hippel}", "Donata {von der Leyen}", "Wolff {van Sintern}", "Adolfo Rodriguez Tsourouksdissian", "Evan Driscoll", "Lit-Min Sam"]
+list_of_names = ["Alberto L. Sangiovanni-Vincentelli", "Eric {von Hippel}", "Donata {von der Leyen}", "Wolff {van Sintern}", "Adolfo Rodriguez Tsourouksdissian", "Evan Driscoll", "Lit-Min Sam", "Albert-L{\'{a}}szl{\'{o}} Barab{\'{a}}si"]
 
 """
 	My solution.
@@ -161,7 +161,7 @@ for current_name in list_of_names:
 		print("	current token is:",current_token,"=")
 """
 
-# ====================================================================
+print("=========================================================")
 
 
 s = "<alpha.Customer[cus_Y4o9qMEZAugtnW] active_card=<alpha.AlphaObject[card]\
@@ -223,12 +223,74 @@ print("OmaL tokens is:",tokens,"=")
 """
 tokens = re.findall(r"\[([A-Za-z0-9_]+)\]", s)
 print("Brandon Keith Biggs tokens is:",tokens,"=")
-
-
-
-
 """
+	"Use re.findall or re.finditer instead."
+	"re.findall(pattern, string) returns a list of matching strings."
+	"re.finditer(pattern, string) returns an iterator over MatchObject objects."
+
+
+	To-do:
+	+ test with Albert-L{\'{a}}szl{\'{o}} Barab{\'{a}}si
+
+
+
 	Reference:
 	+ Amber Yust / Amber and Mike Fogel, https://stackoverflow.com/a/4697884/1531728
-		
+		January 15, 2011 and January 21, 2020.
 """
+
+
+
+"""
+	Mr. Jean-Fran{\c{c}}ois Fabre claims that regular expressions
+		cannot handle nested brackets (or, "parenthesis nesting")
+	+ https://stackoverflow.com/a/42070578/1531728
+		- February 6, 2017.
+
+	Hence, we should use the PyPi regex module instead.
+	However, Wiktor Stribi{\.{z}}ew claims that it is buggy, and
+		should not be used in production code.
+
+
+	Reference:
+	+ Wiktor Stribi{\.{z}}ew, https://stackoverflow.com/a/42073084/1531728
+		February 6, 2017
+
+	Also, the method from Ohad Eytan
+"""
+
+
+print("=========================================================")
+
+# Find the number of characters in a string.
+
+
+"""
+	References:
+	+ [Striver 2019]
+		- Striver, Shubham Singh, and Nidhi, "Python String | count()," GeekstoGeeks, Noida, Uttar Pradesh, India, September 30, 2019.
+			Available online from GeektoGeeks at: https://www.geeksforgeeks.org/python-string-count/; October 11, 2020 was the last accessed date.
+	+ 
+
+
+
+
+
+	Resources that I look at:
+	+ https://www.w3resource.com/python-exercises/string/python-data-type-string-exercise-2.php
+	+ https://www.geeksforgeeks.org/python-count-occurrences-of-a-character-in-string/
+	+ https://discuss.codecademy.com/t/python-how-to-count-number-of-letters-in-a-string/78055/4
+	
+"""
+
+# Trying method from [Striver 2019].
+one_letter_string = "x"
+two_letter_string = "xy"
+ten_letter_string = "abcdefghij"
+
+if 1 == string.count(one_letter_string):
+	print("one_letter_string has 1 letter:",one_letter_string,"=")
+if 2 == string.count(two_letter_string):
+	print("one_letter_string has 2 letters:",two_letter_string,"=")
+if 10 == string.count(ten_letter_string):
+	print("one_letter_string has 10 letters:",ten_letter_string,"=")
