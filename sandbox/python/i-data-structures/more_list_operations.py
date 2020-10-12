@@ -270,27 +270,65 @@ print("=========================================================")
 	+ [Striver 2019]
 		- Striver, Shubham Singh, and Nidhi, "Python String | count()," GeekstoGeeks, Noida, Uttar Pradesh, India, September 30, 2019.
 			Available online from GeektoGeeks at: https://www.geeksforgeeks.org/python-string-count/; October 11, 2020 was the last accessed date.
-	+ 
+	+ Roy, Answer to the question "Python: How to count number of letters in a string?", in Codecademy: Codecademy Forums, New York, NY, March 17, 2020.
+		Available online from Codecademy: Codecademy Forums at: https://discuss.codecademy.com/t/python-how-to-count-number-of-letters-in-a-string/78055/4; October 11, 2020 was the last accessed date.
 
 
 
 
 
 	Resources that I look at:
+	+ https://www.geeksforgeeks.org/python-string-length-len/
+	+ https://www.tutorialspoint.com/python/string_len.htm
+	+ https://www.educative.io/edpresso/how-to-find-the-length-of-a-string-in-python
+	+ https://www.guru99.com/python-string-length-len.html
 	+ https://www.w3resource.com/python-exercises/string/python-data-type-string-exercise-2.php
 	+ https://www.geeksforgeeks.org/python-count-occurrences-of-a-character-in-string/
 	+ https://discuss.codecademy.com/t/python-how-to-count-number-of-letters-in-a-string/78055/4
-	
+
 """
 
-# Trying method from [Striver 2019].
+# Trying method len().
 one_letter_string = "x"
 two_letter_string = "xy"
 ten_letter_string = "abcdefghij"
 
-if 1 == string.count(one_letter_string):
+if 1 == len(one_letter_string):
 	print("one_letter_string has 1 letter:",one_letter_string,"=")
-if 2 == string.count(two_letter_string):
-	print("one_letter_string has 2 letters:",two_letter_string,"=")
-if 10 == string.count(ten_letter_string):
-	print("one_letter_string has 10 letters:",ten_letter_string,"=")
+if 2 == len(two_letter_string):
+	print("two_letter_string has 2 letters:",two_letter_string,"=")
+if 10 == len(ten_letter_string):
+	print("ten_letter_string has 10 letters:",ten_letter_string,"=")
+
+
+print("=========================================================")
+
+# Determine if an object is in a list.
+
+
+"""
+	Reference:
+	+ Niklas Baumstark, Chris Rands, and Rich "Drise" Moll, 
+		https://stackoverflow.com/a/9542768/1531728
+		March 3, 2012 and December 14, 2017
+
+
+	Notes:
+	+ If the BibTeX type is "@conference{", raise an error.
+		- This is because we should use the equivalent "@inproceedings{"
+			to avoid redundant BibTeX types.
+"""
+bibtex_types = ["@book{", "@misc{", "@phdthesis{", "@article{", "@inproceedings{", "@incollection{", "@manual{", "@proceedings{", "@techreport{", "@booklet{", "@inbook{", "@mastersthesis{", "@unpublished{"]
+
+
+current_bibtex_entry_type = "@incollection{"
+if current_bibtex_entry_type in bibtex_types:
+	print("The current BibTeX entry type @incollection is valid in bibtex_types.")
+
+current_bibtex_entry_type = "@random{"
+if current_bibtex_entry_type not in bibtex_types:
+	print("The current BibTeX entry type @random is not valid in bibtex_types.")
+
+current_bibtex_entry_type = "@phdthesis{"
+if current_bibtex_entry_type in bibtex_types:
+	print("The current BibTeX entry type @phdthesis is valid in bibtex_types.")
