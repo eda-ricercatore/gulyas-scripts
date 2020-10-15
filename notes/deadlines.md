@@ -574,9 +574,30 @@ List of conference "Call for Papers" deadlines:
 	- primavera -> tavaszi
 	- estate -> nyár
 	- autunno -> ősz
-
-
-
++ time zones:
+	- https://www.timeanddate.com/time/zones/
+	- AoE: Anywhere on Earth = UTC - 12 hours.
+	- UTC:
+		* Coordinated Universal Time
+		* Universal Time Coordinated
+		* Universal Coordinated Time
+	- GMT: Greenwich Mean Time
+	- U.S. PST = UTC - 8 hours
+	- U.S. PDT = UTC - 7 hours
+	- U.S. CST = UTC - 6 hours
+	- U.S. CDT = UTC - 5 hours
+	- U.S. EST = UTC - 5 hours
+	- U.S. EDT = UTC - 4 hours
+	- U.S. MST = UTC - 7 hours
+	- U.S. MDT = UTC - 6 hours
+	- CEST = UTC + 2 hours
+	- CET = UTC + 1 hours
+	- ACDT, Australian Central Daylight Time = UTC + 10:30 hours
+	- ACST, Australian Central Standard Time = UTC + 9:30 hours
+	- AEDT, Australian Eastern Daylight Time = UTC + 11 hours
+	- AEST, Australian Eastern Standard Time = UTC + 10 hours
+	- CST, China Standard Time = UTC + 8 hours
+	- IST, India Standard Time = UTC + 5:30 hours
 
 
 
@@ -2562,11 +2583,12 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ USENIX ATC '20, 2020 USENIX Annual Technical Conference
-	- https://www.usenix.org/conference/atc20/call-for-papers
-	- July 15–17, 2020
-	- Boston, MA
-	- Submission deadline: January 15, 2020, 11:59 pm EST.
++ USENIX ATC '21, 2021 USENIX Annual Technical Conference
+	- https://www.usenix.org/conference/atc21
+	- https://www.usenix.org/conference/atc21/call-for-papers
+	- July 14–16, 2021.
+	- Santa Clara, CA.
+	- Submission deadline: January 12, 2021, 11:59 p.m. UTC.
 		* The scope of USENIX ATC covers all practical aspects related to systems software, including but not limited to: operating systems; runtime sys-tems; parallel and distributed systems; storage; networking; security and privacy; virtualization; software-hardware interac-tions; performance evaluation and workload characterization; reliability, availability, and scalability; energy/power manage-ment; bug-finding, tracing, analyzing, and troubleshooting.
 
 
@@ -3363,11 +3385,12 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ SYSTOR 2020, 13th ACM International Systems and Storage Conference
-	- http://www.systor.org/2020/
++ SYSTOR 2021, 14th ACM International Systems and Storage Conference
+	- https://www.systor.org/2021/index.html
+	- https://www.systor.org/2021/cfp.html
 	- Haifa, Israel.
-	- June 2-4, 2020.
-	- Submission deadline: March 3, 2020.
+	- June 14-16, 2021.
+	- Submission deadline: March 2, 2021.
 
 
 
