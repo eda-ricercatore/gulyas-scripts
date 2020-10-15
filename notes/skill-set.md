@@ -7120,6 +7120,146 @@ Qualifications
 	- Blogs: Towards Data Sciecne, Analytics Vidhya
 	- Twitter: data science influencers
 	- podcasts: Chai Time Data Science, O'Reilly Data Show
++ skill set:
+	- Working with our automation team to improve tooling
+	- Deploying network infrastructure to our globally-distributed data centers
+	- Experience working with network vendor hardware/software including Arista, Cisco (IOS XR), or Juniper
+	- Experience working with typical layer-2 and -3 protocols (e.g., BGP, OSPF, VRRP, IS-IS)
+	- Experience supporting and troubleshooting global backbone networks
+	- Experience working on, building, and troubleshooting large-scale datacenter networks
+	- Understanding of peering and transit and their roles on the Internet
+	- Understanding of overlay and underlay networking concepts
+	- The ability to function independently on routine tasks and project work
+	- Good Linux/UNIX skills. Experience in Python or similar language is a plus
+	- Experience with network automation solutions including Ansible or Salt, NAPALM and OpenConfig is a plus
+	- Experience with MPLS, specifically BGP-LU and RSVP-TE is a plus
++ skill set:
+	- Experience deploying, scaling, and troubleshooting NodeJS, Python, and PHP applications in production
+	- Knowledge of the CI/CD pipeline and GitHub repositories, actions, and deployment workflows
+	- Growth mindset, with an unrelenting focus on improving your knowledge and skill set
+	- Highly self-motivated with the ability to work independently and collaboratively with a high degree of autonomy in a remote work environment
+	- Bonus: Experience troubleshooting basic and advanced Kubernetes issues, from pods and deployments to the control plane
+	- Bonus: Experience troubleshooting one or more database engines: MySQL, MariaDB, PostgreSQL, Redis, MongoDB
++ skill set:
+	- Troubleshooting and resolving technical support requests created by our customers spanning a growing range of container products and services, including Managed Kubernetes and Container Registry
+	- Experience troubleshooting basic and advanced Kubernetes issues ranging from pods and deployments to the control plane
+	- Knowledge of kubectl, community projects such as helm, istio, linkerd, prometheus, NGINX ingress-controller, and similar software and utilities used to manage deployments
+	- Bonus: Certifications such as CKA and/or CKAD
+		* Certified Kubernetes Application Developer (CKAD)
+			+ From Cloud Native Computing Foundation (CNCF).
+		* Certified Kubernetes Administrator (CKA)
+			+ From Cloud Native Computing Foundation (CNCF).
+	- Bonus: Experience with one or more database engines (MySQL, MariaDB, PostgreSQL, Redis, MongoDB)
++ skill set:
+	- As a Data Engineer, you will join a growing Data Engineering team within our Engineering Services organization  that collaborates with decision-makers across the organization to catalyze business growth by providing insightful and actionable analysis, insights and data products. The Data Engineering team is hands-on with a wide variety of datasets, including user data, product behavior data, financial/payment data, upper-funnel marketing data, trust and safety data, and operational/infrastructure data, and is responsible for leveraging that data into usable analytical products by stakeholders across the company.
+	- Develop and implement metrics and dimensions for powering analytical use cases across the company, incorporating a wide variety of data sources across the company at varying levels of complexity and scale
+	- Focus on data quality of the data environment and data products being delivered to the business, and effectively communicate to internal user base regarding production status
+	- Interface closely with data infrastructure, engineering and technical operations teams to ensure correctness and soundness of metrics built in the data environment and availability of data product services
+	- Pioneer initiatives around data quality, integrity, security and governance
+	- Work closely with data stakeholders across the company, both technical and non-technical, to understand evolving needs as more complex data models are introduced for reporting and data science
+	- Bachelor’s degree in Computer Science, Math, Statistics, Economics, or other quantitative field;  or equivalent experience.
+	- Experience in custom ETL design, implementation and maintenance
+	- Track record of developing in complex data environments and intelligence platforms for business users
+	- Demonstrable ability to relate high-level business requirements to technical ETL and data infrastructure needs, including underlying data models and scripts
+	- History of proactively identifying forward-looking data engineering strategies, utilizing appropriate technologies, and implementing at scale
+	- Extensive hands-on experience with schema design and dimensional data modeling
+	- Experience interacting with key stakeholders in different fields, interpreting challenges and opportunities into actionable engineering strategies
+	- Experience with analytics databases like Snowflake, Redshift, or BigQuery.
+	- Advanced SQL and relational database knowledge (MySQL, PostgreSQL) in addition to warehousing and dimension modeling
+	- Experience scripting in Go or Python or a similar scripting language.
+	- Effective communication and interpersonal skills
+	- Experience implementing dimensional modeling in a configuration tool like dbt or LookML a plus
+	- Experience designing and building dashboards in BI tools like Looker, Tableau, or PowerBI a plus.
+	- Experience with job schedulers (Airflow, Luigi, Azkaban, etc.) a plus
++ skill set:
+	- We are looking for a motivated, data-driven and results-oriented self-starter who is passionate about Growth Marketing to join our Revenue Marketing team. Our key focus is to accelerate Self-Service revenue across the entire customer journey - from new customer acquisition to retention and cross-sell / upsell. With a portfolio of hundreds of thousands of paying customers, you will lead insights at scale to find new user growth opportunities across Self-Service customer journey by helping more of our customers to discover the value of DigitalOcean through engaging, differentiated experiences. The focus will be on delivering engaging experiences for key high-value strategic initiatives and facilitating & enhancing Revenue Marketing’s ability to engage with new audiences in new ways.
+	- You will lead experimentation for the team, driving improvements in user acquisition, engagement and long-term growth at scale by measuring and optimizing new channels, platforms and strategic marketing initiatives - with a specific focus on helping our team identify key product and marketing levers for user growth - backed by systematic testing and optimization.
+	- As a Data Scientist, your mission is to turn our data into insights and gain a deep understanding of our users to impact the strategy and direction of DigitalOcean. You will study user behavior, marketing strategies, markets, content, new features and bring data and insights into every decision we make. Above all, your work will impact how we think about user growth and how we can make DigitalOcean available and accessible for more people in the world.
+	- Perform analyses on large sets of data to extract insights that will help drive DigitalOcean’s strategy across the user funnel
+	- Work cross-functionally with marketing, product, engineering, design and user research to propel DO’s customer growth forward
+	- Drive end to end execution of data science projects, from experimental design and analysis of test results to building predictive models and assisting engineers to productionize the model
+	- Establish and maintain a culture of rigor and curiosity to drive tangible business impact
+	- Proven experience with:
+	- Large-scale data sets in both structured & unstructured formats
+	- Causal inference & experimentation, time-series analysis, and building predictive models related to churn reduction or revenue expansion
+	- Helping engineering teams move models from prototype to production
+	- Experience with growth marketing for a tech company preferred
+	- Coding skills (such as Python/R and SQL) and analytics tools experience (Segment, Looker, or similar tools)
+	- Capacity and passion to translate business objectives into actionable analyses, and analytic results into business and product recommendations
+	- Experience with international markets, growth marketing, web platforms or content marketing a plus
++ skill set:
+	- Support and improve our customer Insights Platform by operating and extending the Open Source software we depend on (Prometheus, Thanos, Grafana).
+	- Work closely with other product teams to enhance product offerings and improve our customer's observability.
+	- Automate as much of the operational work as possible to allow time for innovation.
+	- Working with exciting technologies such as Kubernetes, Prometheus/Thanos, Go, Docker, Kafka, ScyllaDB, and more.
+	- Proficiency in at least one of the following languages: Go, C/C++, Java, Python, Ruby. We primarily use Go, but sometimes we need to extend systems written in other languages such as Java.
+	- A willingness to dive into configuration management, deployment automation, and instrumentation.
+	- An appreciation of SRE principles, along with utilizing data and automation to improve systems.
+	- Excellent communication skills. We work intimately with product teams to ensure our customers have the observability they need to be successful on our platform.
+	- We value development. You will work with some of the smartest and most interesting people in the industry. We are a high-performance organization that is always challenging ourselves to continuously grow. We maintain a growth mindset in everything we do and invest deeply in employee development through formalized mentorship, LinkedIn Learning tracks, and other internal programs. We also provide all employees with reimbursement for relevant conferences, training, and education.
++ skill set:
+	- At DO, we believe in: Creating simple, yet powerful, foundations (with 💕) from which our community can build. The Performance Engineering team delivers on this mission by ensuring DigitalOcean’s operating system and virtualization stack is a performant foundation for product offerings.
+	- Our Stack: Python, C, Chef, Go, libvirt, Linux, KVM, OVS, QEMU
+	- Our Tools: docker, k8s, Prometheus, Concourse, Elasticsearch, GSuite, Jira, Slack
+	- Our Team: Performance Engineering is part of the Systems Engineering group.  The Systems Engineering  group is currently made up of about thirty, mostly senior, engineers located across the US, Canada, and Germany with two engineers in the NY office and is supported by a Senior Engineering Manager. The Performance Engineering sub-team is part of the Systems Tooling and Automation team supported by an Engineering Manager.
+	- While work will vary based on quarterly priorities and initiatives, some examples include:
+		* Development of performance regression analysis testing automation
+		* Developing and maintaining realistic benchmark applications that emulate our customers
+		* Development of telemetry for fleet performance analysis
+		* Triaging and fixing operating system issues impacting the performance of product offerings
+		* Performance analysis of OS stack and fleet hardware updates
+		* Consultation for product performance regressions and new product performance acceptance criteria
+		* Visualizing and presenting performance data to be leveraged for technology and business decisions
+		* 5-20% of your time is spent on innovation, education, and/or open source
+	- Professional experience in performance engineering
+	- Technical leadership experience (preferably in the Linux/Open Source space)
+	- Experience as a developer / engineer in a large scale, distributed environment
+	- Experience writing secure, testable and robust code
+	- Deep understanding of Linux and OS internals
+	- Experience proactively diagnosing performance issues across all layers of the stack
+	- Excellent written and verbal communication skills
+	- Familiarity with data analytics
+	- Machine learning experience is a huge plus
++ skill set:
+	- We are looking for enthusiastic software engineers that can make a significant contribution to the development of next generation Load Balancers with high availability and scalable distribution of traffic. The software you write will drive and enable functionality on thousands of load balancers deployed by our customers.  Reporting to the Engineering Manager, the Software Engineer will participate in the design, development and deployment of new services and products.
+	- Use technologies and tools such as: Go, SQL, Consul, Kafka, Chef, Git, Jira, Prometheus, Lightstep, Docker, Kubernetes and what not?
+	- Participate in design, implementation, tests and optimization of new services that run at scale and solve challenging distributed coordination problems.
+	- Work with other teams within the vertical and across the company to build the next generation of products and services for our developers community.
+	- Support existing products and contribute creative solutions to the pain points.
+	- Help improve our toolings and process to ship robust and mission-critical parts of the ecosystem.
+	- Experience as a software engineer, developer, or programmer in building software used by external users
+	- Experience with a typed or OOP language (like C, C++, Java, Go) and unit tests
+	- Experience developing full-stack applications with databases and API
+	- Understanding of large scale distributed systems programming
+	- Understanding of Continuous Integration and Delivery (CI/CD)
+	- Knowledge of application networking fundamentals
+	- You understand and seek to automate the steps necessary to deliver high-quality, well-tested, and production-ready software from initial development to ongoing, scalable, production operation.
+	- Bonus: Exposure to containerization and virtualization
+	- Bonus: You have used gRPC to build robust distributed and high-demand systems
++ skill set:
+	- We want people who are passionate about designing and operating secure systems at scale.
+	- We are looking for someone who is familiar with our stack, understands our tools, is comfortable working remote, enjoys working in open source, and is excited about our mission.
+	- At DO, we believe in: Creating simple, yet powerful, foundations (with 💕) from which our community can build
+	- The Systems Virtualization team delivers on this mission by ensuring our fleet of hypervisors are performant, reliable, and secure.
+	- Our Stack: C, Chef, Go, libvirt, Linux (Ubuntu), KVM, OVS, QEMU
+	- Our Tools: Concourse, Elasticsearch, GSuite, Jira, Prometheus, Slack
+	- Our Team: The Systems team is currently made up of about two dozen, mostly senior, engineers located across the US, Canada, and Germany with one engineer in the NY office and is supported by a Senior Engineering Manager. The Virtualization sub-team, supported by an Engineering Manager, accounts for approximately one-third of the Systems team.
+	- While work will vary based on quarterly priorities and initiatives, some examples include:
+		* Triaging and fixing systems and virtualization issues impacting the performance, reliability, and/or security of our hypervisors and their guests
+		* Improvements to our debian packaging and software delivery processes
+		* Improvements to our monitoring, alerting, and tooling
+		* Upstream contributions (i.e. libvirt, Linux kernel, QEMU)
+		* Contributions to our intra-hypervisor placement service (in Go)
+		* 5-20% of your time is spent on innovation, education, and/or open source
+	- Experience as a developer / engineer in a large scale, distributed environment
+	- Experience writing secure, testable and robust code
+	- Deep understanding of Linux and virtualization
+	- Experience proactively addressing reliability issues across all layers of the stack
+	- Excellent written and verbal communication skills
+	- Upstream QEMU contributions are a huge plus
+
+
+
 
 
 

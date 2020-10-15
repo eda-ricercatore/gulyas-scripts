@@ -5,6 +5,10 @@
 >	Else, the naming conflict will cause packages and modules not to be
 >		detected/recognized. 
 >
+>	Similarly, we should avoid naming packages and modules based on
+>		commands in UNIX-like operating systems.
+>		This caused problems with C++ classes and packages/modules.
+>
 >	Remember to place the UNIX/Linux shebang, so that I can run it as an
 >		executable script from the command line (via the "Terminal" application).
 

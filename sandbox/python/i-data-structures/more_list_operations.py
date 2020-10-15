@@ -235,7 +235,7 @@ print("Brandon Keith Biggs tokens is:",tokens,"=")
 
 
 	Reference:
-	+ Amber Yust / Amber and Mike Fogel, https://stackoverflow.com/a/4697884/1531728
+	+ Amber Yust / Amber, Brian Burns, Fernando Wittmann, Wiktor Stribi{\.{z}}ew and Mike Fogel, https://stackoverflow.com/a/4697884/1531728
 		January 15, 2011 and January 21, 2020.
 """
 
@@ -312,7 +312,9 @@ print("=========================================================")
 		- Niklas Baumstark, Chris Rands, and Rich "Drise" Moll, 
 			https://stackoverflow.com/a/9542768/1531728
 			March 3, 2012 and December 14, 2017
-
+	+ Stephane Rolland, Niklas Baumstark, Adam Azam, and Engineero,
+		- March 3, 2012 till September 4, 2018.
+		- https://stackoverflow.com/q/9542738/1531728
 
 	Notes:
 	+ If the BibTeX type is "@conference{", raise an error.
@@ -336,4 +338,36 @@ current_bibtex_entry_type = "@phdthesis{"
 if current_bibtex_entry_type in bibtex_types:
 	print("The current BibTeX entry type @phdthesis is valid in bibtex_types.")
 
-# Method 2: Filtering a collection [Baumstark 2017]
+"""
+	Method 2: Filtering a collection [Baumstark 2017]
+
+	From my own Python notes, https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#python-based-software-development:
+	+ In the Section on "Python-based Software Development", 
+		"a generator expression implicitly creates an iterable object to iterate over a list/collection of elements and perform an operation on each enumerated item/element \cite[Chapter 2, pp. 35-37]{Alchin2010}".
+		- Quoted from my notes:
+			* Does not create a sequence-like object that can be indexed or operated like a list; "however, a generator expression can be converted into a list using the built-in list() function" \cite[Chapter 6, section on "Generator Expressions," pp. 110]{Beazley2009}.
+"""
+list_of_numbers = range(10,30)
+odd_numbers_less_than_20 = [x for x in list_of_numbers if (0==(x%2)) and (20>x)]
+print("odd_numbers_less_than_20 as a list:",odd_numbers_less_than_20,"=")
+"""
+	This method produces a generator object (or generator expression, genexpr)
+"""
+odd_numbers_less_than_20 = (x for x in list_of_numbers if (0==(x%2)) and (20>x))
+"""
+	Use the "itertools.tee() function to create [another] version of [my] generator"
+
+	Reference:
+	+ 
+	https://stackoverflow.com/a/1271481/1531728
+"""
+print("odd_numbers_less_than_20 as a tuple:",odd_numbers_less_than_20,"=")
+# Using the next() method to iterate the generator object, or generator expression.
+print("Next element in the sequence:",next(odd_numbers_less_than_20),"=")
+print("Next element in the sequence:",next(odd_numbers_less_than_20),"=")
+print("Next element in the sequence:",next(odd_numbers_less_than_20),"=")
+print("Next element in the sequence:",next(odd_numbers_less_than_20),"=")
+for item in odd_numbers_less_than_20:
+	print("The next element in sequence is:",item,"=")
+generator_obj_to_list = list(odd_numbers_less_than_20)
+print("Converted generator object to list:",generator_obj_to_list,"=")

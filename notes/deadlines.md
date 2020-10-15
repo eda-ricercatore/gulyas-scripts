@@ -614,33 +614,45 @@ List of conference "Call for Papers" deadlines:
 
 
 + FMCAD, International Conference on Formal Methods in Computer-Aided Design
+	- Sep 21-24, 2020, Online
 	- Early deadline for 2020.
+	- Submission deadline: May 9 and 16, 2020.
 
 
+
++ HWMCC'20, Hardware Model Checking Contest
+	- http://fmv.jku.at/hwmcc20/
+	- September 21-24, 2020.
 
 
 
 + ICRC, IEEE International Conference on Rebooting Computing
 	- http://icrc.ieee.org/cfp/
 	- San Francisco Bay Area, California.
-	- November 6-8, 2019.
-	- Submission deadline: May 12 and 20, 2019.
+	- ~~November 6-8, 2019.~~
+	- December 1-3, 2020.
+	- ~~Submission deadline: May 12 and 20, 2019.~~~
+	- Submission deadline: August 14 and 28, 2020.
 
 
 
 
 
-+ USENIX Security '20, USENIX Security Symposium
-	- https://www.usenix.org/conference/usenixsecurity20/call-for-papers
-	- https://www.usenix.org/conference/usenixsecurity20/publication-model-change
-	- https://www.usenix.org/conference/usenixsecurity20/
-	- Boston, MA
-	- August 12–14, 2020
++ USENIX Security '21, 30th USENIX Security Symposium
+	- https://www.usenix.org/conference/usenixsecurity21
+	- August 11-13, 2021.
+	- Vancouver, B.C., Canada.
 	- Submission deadlines:
-		* ***Spring Quarter Deadline: May 15, 2019, 8:00 pm EDT***
-		* Summer Quarter Deadline: August 23, 2019, 8:00 pm EDT
-		* Fall Quarter Deadline: November 15, 2019, 8:00 pm EDT
-		* Winter Quarter Deadline: February 15, 2020, 8:00 pm EDT
+		* Summer Quarter Deadline: June 18, 2020 11:59 p.m. AoE (4:59 a.m. PDT).
+		* **Fall Quarter Deadline: October 15, 2020 11:59 p.m. AoE (4:59 a.m. PDT).**
+		* Winter Quarter Deadline: February 4, 2020 11:59 p.m. AoE (4:59??? a.m. PST).
+
+
+
+
+
+
+
 
 
 
@@ -2811,6 +2823,25 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ 30th USENIX Security Symposium
+	- https://www.usenix.org/conference/usenixsecurity21
+	- August 11-13, 2021.
+	- Vancouver, B.C., Canada.
+	- Submission deadlines:
+		* Summer Quarter Deadline: June 18, 2020 11:59 p.m. AoE (4:59 a.m. PDT).
+		* Fall Quarter Deadline: October 15, 2020 11:59 p.m. AoE (4:59 a.m. PDT).
+		* **Winter Quarter Deadline: February 4, 2020 11:59 p.m. AoE (4:59??? a.m. PST).**
+
+
+
+
+
+
+
+
+
+
+
 + ACM CCS 2019, 26th ACM Conference on Computer and Communications Security
 	- http://www.sigsac.org/ccs/CCS2019/
 	- London, U.K.
@@ -3121,6 +3152,11 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ SOUPS 2021, 17th Symposium on Usable Privacy and Security
+	- URL???
+	- August 8–10, 2021.
+	- Vancouver, B.C., Canada.
+	- Submission deadline: February 20, 2021???, 23:59 AoE.
 
 
 
@@ -4216,11 +4252,14 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ OSDI '20, 14th USENIX Symposium on Operating Systems Design and Implementation
-	- https://www.usenix.org/conference/osdi20/call-for-papers
-	- Banff, AB/Alberta, Canada
-	- November 4-6, 2020.
-	- Submission deadlines: May 5 and 12, 2019, 3:00 p.m. U.S. PDT.
++ OSDI '21, 15th USENIX Symposium on Operating Systems Design and Implementation
+	- https://www.usenix.org/conference/osdi21
+	- https://www.usenix.org/conference/osdi21/call-for-papers
+	- Santa Clara, CA.
+	- ~~November 4-6, 2020.~~
+	- July 14–16, 2021.
+	- ~~Submission deadlines: May 5 and 12, 2019, 3:00 p.m. U.S. PST.~~
+	- Submission deadlines: December 3 and 10, 2019, 3:00 p.m. U.S. PST.
 		* OSDI takes a broad view of the systems area and solicits contribu-tions from many fields of systems practice, including, but not limited to, operating systems, file and storage systems, distributed systems, cloud computing, mobile systems, secure and reliable systems, systems aspects of big data, embedded systems, virtualization, networking as it relates to operating systems, and management and troubleshooting of complex systems.
 
 
