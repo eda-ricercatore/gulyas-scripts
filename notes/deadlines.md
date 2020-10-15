@@ -611,12 +611,21 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ ICRC, IEEE International Conference on Rebooting Computing
+	- http://icrc.ieee.org/cfp/
+	- San Francisco Bay Area, California.
+	- ~~November 6-8, 2019.~~
+	- December 1-3, 2020.
+	- ~~Submission deadline: May 12 and 20, 2019.~~~
+	- Submission deadline: August 14 and 28, 2020.
+
+
 
 + ICSR 2020, 19th International Conference on Software and Systems Reuse
 	- https://www.uc.edu/eventservices/ICSR2019.html
-	- ~~June 26-28, 2019~~ November, 2020
+	- ~~June 26-28, 2019~~ November 2-4, 2020
 	- ~~Cincinnati, OH~~ Hammamet, Tunisia
-
+	- Submission deadline: August 15 and 18, 2020, 23:59:59, AoE.
 
 
 
@@ -647,15 +656,6 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ ICRC, IEEE International Conference on Rebooting Computing
-	- http://icrc.ieee.org/cfp/
-	- San Francisco Bay Area, California.
-	- ~~November 6-8, 2019.~~
-	- December 1-3, 2020.
-	- ~~Submission deadline: May 12 and 20, 2019.~~~
-	- Submission deadline: August 14 and 28, 2020.
-
-
 
 
 
@@ -678,12 +678,7 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ CIKM 2019, 28th ACM International Conference on Information and Knowledge Management
-	- http://www.cikm2019.net/callforpapers.html
-	- http://www.cikmconference.org/
-	- Beijing, China
-	- November 3-7, 2019
-	- Submission deadlines: May 15 and 22, 2019.
+
 
 
 
@@ -1486,7 +1481,11 @@ List of conference "Call for Papers" deadlines:
 
 
 
-
++ Enigma 2021, Enigma - A USENIX conference.
+	- https://www.usenix.org/conference/enigma2021
+	- February 1-3, 2021.
+	- Oakland, CA.
+	- Submission deadline: August 26, 2020.
 
 
 
@@ -1668,6 +1667,23 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ NSDI '21, 18th USENIX Symposium on Networked Systems Design and Implementation
+	- https://www.usenix.org/conference/nsdi21/call-for-papers
+	- https://www.usenix.org/conference/nsdi21
+	- April 12–14, 2021.
+	- Boston, MA.
+	- Submission deadlines:
+		* Spring deadline: April 10 and 17, 2020, 11:59 p.m. U.S. EDT.
+		* **Fall deadline: September 10 and 17, 2020, 11:59 p.m. U.S. EDT.**
+
+
+
+
+
+
+
+
+
 + ICRA 2020, International Conference on Robotics and Automation
 	- https://www.icra2020.org/call-for-papers
 	- https://www.icra2020.org/
@@ -1741,11 +1757,12 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ FAST '20, 18th USENIX Conference on File and Storage Technologies
-	- https://www.usenix.org/conference/fast20/call-for-papers
-	- February 24–27, 2020
-	- Santa Clara, CA
-	- Submission deadline: September 26, 2019, 11:59 pm AoE (Anywhere on Earth) time
++ FAST '21, 19th USENIX Conference on File and Storage Technologies
+	- https://www.usenix.org/conference/fast21
+	- https://www.usenix.org/conference/fast21/call-for-papers
+	- February 23–25, 2021.
+	- Santa Clara, CA.
+	- Submission deadline: September 24, 2020, 11:59 p.m. U.S. PDT.
 
 
 
@@ -3185,6 +3202,16 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ PEPR '20, 2020 USENIX Conference on Privacy Engineering Practice and Respect
+	- https://www.usenix.org/conference/pepr20/call-for-participation
+	- https://www.usenix.org/conference/pepr20
+	- October 15–16, 2020.
+	- Online.
+	- Submission deadline: February 21, 2020.
+
+
+
+
 
 + ISMM, ACM SIGPLAN International Symposium on Memory Management
 	- https://conf.researchr.org/series/ismm
@@ -3865,6 +3892,25 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ NSDI '21, 18th USENIX Symposium on Networked Systems Design and Implementation
+	- https://www.usenix.org/conference/nsdi21/call-for-papers
+	- https://www.usenix.org/conference/nsdi21
+	- April 12–14, 2021.
+	- Boston, MA.
+	- Submission deadlines:
+		* **Spring deadline: April 10 and 17, 2020, 11:59 p.m. U.S. EDT.**
+		* Fall deadline: September 10 and 17, 2020, 11:59 p.m. U.S. EDT.
+
+
+
+
+
+
+
+
+
+
+
 
 + PACT, International Conference on Parallel Architectures and Compilation Techniques
 	- http://pactconf.org/
@@ -4234,6 +4280,23 @@ List of conference "Call for Papers" deadlines:
 	- Trento, Italy
 	- September 9-11, 2019
 	- Submission deadline: May 3, 2019.
+
+
+
+
++ CIKM 2021, 30th ACM International Conference on Information and Knowledge Management
+	- https://cikm2020.org/
+	- http://www.cikmconference.org/
+	- Australia
+	- ~~Online, originally meant to be held in Galway, Ireland (in 2020)~~
+	- October 19-23, 2020.
+	- Submission deadlines: May 8 and 15, 2020.
+
+
+
+
+
+
 
 
 + ISWC, International Symposium on Wearable Computers
