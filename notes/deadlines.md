@@ -631,42 +631,9 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ NOCS, IEEE/ACM International Symposium on Networks-on-Chip
-	- http://nocs2020.engr.uky.edu/
-	- Hamburg, Germany.
-		* September 24-25, 2020.
-	- Shanghai, China.
-		* October 14-15, 2021.
-	- Submission deadline: April 24 and May 1, 2020.
 
 
 
-
-
-+ FMCAD, International Conference on Formal Methods in Computer-Aided Design
-	- Sep 21-24, 2020, Online
-	- Early deadline for 2020.
-	- Submission deadline: May 9 and 16, 2020.
-
-
-
-+ HWMCC'20, Hardware Model Checking Contest
-	- http://fmv.jku.at/hwmcc20/
-	- September 21-24, 2020.
-
-
-
-
-
-
-+ USENIX Security '21, 30th USENIX Security Symposium
-	- https://www.usenix.org/conference/usenixsecurity21
-	- August 11-13, 2021.
-	- Vancouver, B.C., Canada.
-	- Submission deadlines:
-		* Summer Quarter Deadline: June 18, 2020 11:59 p.m. AoE (4:59 a.m. PDT).
-		* **Fall Quarter Deadline: October 15, 2020 11:59 p.m. AoE (4:59 a.m. PDT).**
-		* Winter Quarter Deadline: February 4, 2020 11:59 p.m. AoE (4:59??? a.m. PST).
 
 
 
@@ -696,13 +663,16 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ ACM CCS 2019, 26th ACM Conference on Computer and Communications Security
-	- http://www.sigsac.org/ccs/CCS2019/
-	- London, U.K.
-	- November 11-15, 2019
++ CCS'20, ACM CCS 2020, 27th ACM Conference on Computer and Communications Security
+	- https://www.sigsac.org/ccs/CCS2020/
+	- https://www.sigsac.org/ccs/CCS2020/call-for-papers.html
+	- http://www.sigsac.org/ccs.html
+	- Florida.
+	- ~~November 11-15, 2019~~
+	- November 9-13, 2020.
 	- Submission deadlines:
-		* 1st deadline: ~~January 31, 2019~~ February 5, 2019
-		* ***2nd deadline: May 15, 2019***
+		* 1st deadline: January 20, 2020.
+		* ***2nd deadline: May 4, 2020***
 
 
 
@@ -929,11 +899,12 @@ List of conference "Call for Papers" deadlines:
 
 + ACSAC 2019, Annual Computer Security Applications Conference
 	- https://www.acsac.org/
+	- https://www.acsac.org/2020/submissions/
 	- San Juan, Puerto Rico
-	- December 9-13, 2019
+	- December 7-11, 2020
 	- Submission deadline:
-		* ~~June 8, 2019~~ June 15, 2019
-		* Paper artifacts: ~~August 26 and 30, 2019~~ August 29 and September 3, 2019
+		* ~~June 8, 2019~~ June 16, 2020
+		* Paper artifacts: ~~August 26 and 30, 2019~~ August 24 and September 1, 2020.
 
 
 + ICDE 2020, 36th IEEE International Conference on Data Engineering
@@ -1753,6 +1724,15 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ HWMCC'20, Hardware Model Checking Contest
+	- http://fmv.jku.at/hwmcc20/
+	- September 21-24, 2020.
+
+
+
+
+
+
 
 
 
@@ -1880,6 +1860,13 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ CODASPY 2021, 11th ACM Conference on Data and Application Security and Privacy
+	- http://www.codaspy.org/2021/
+	- http://www.codaspy.org/2021/cfp.html
+	- April 26 - 28, 2021
+	- Virtually/Online.
+	- Submission deadlines: October 4 and 11, 2020.
+
 
 
 
@@ -1909,6 +1896,16 @@ List of conference "Call for Papers" deadlines:
 	- ICDT Submission deadlines:
 		* 1st submission cycle: March 27 and April 3, 2019
 		* 2nd submission cycle: September 15 and 23, 2019
+
+
+
+
++ SIN 2020, 13th International Conference on Security of Information and Networks
+	- https://sinconf.org/
+	- Online. Originally at: Istanbul, Turkey.
+	- November 4-6, 2020.
+	- Submission deadline: October 10, 2020.
+
 
 
 
@@ -1957,6 +1954,16 @@ List of conference "Call for Papers" deadlines:
 
 
 
+
+
++ USENIX Security '21, 30th USENIX Security Symposium
+	- https://www.usenix.org/conference/usenixsecurity21
+	- August 11-13, 2021.
+	- Vancouver, B.C., Canada.
+	- Submission deadlines:
+		* Summer Quarter Deadline: June 18, 2020 11:59 p.m. AoE (4:59 a.m. PDT).
+		* **Fall Quarter Deadline: October 15, 2020 11:59 p.m. AoE (4:59 a.m. PDT).**
+		* Winter Quarter Deadline: February 4, 2020 11:59 p.m. AoE (4:59??? a.m. PST).
 
 
 
@@ -3156,6 +3163,23 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ SACMAT, ACM Symposium on Access Control Models and Technologies
+	- http://www.sigsac.org/sacmat.html
+	- http://www.sacmat.org/2020/index.php
+	- http://www.sacmat.org/2020/papers.php
+	- Barcelona, Spain.
+	- June 10-12, 2020.
+	- Submission deadline: February 17, 2020.
+
+
+
+
+
+
+
+
+
+
 
 + DEBS, ACM International Conference on Distributed and Event‐based Systems
 	- https://2020.debs.org/
@@ -4160,6 +4184,20 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ NOCS, IEEE/ACM International Symposium on Networks-on-Chip
+	- http://nocs2020.engr.uky.edu/
+	- Hamburg, Germany.
+		* September 24-25, 2020.
+	- Shanghai, China.
+		* October 14-15, 2021.
+	- Submission deadline: April 24 and May 1, 2020.
+
+
+
+
+
+
+
 
 
 
@@ -4295,20 +4333,16 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ FMCAD, International Conference on Formal Methods in Computer-Aided Design
+	- Sep 21-24, 2020, Online
+	- Early deadline for 2020.
+	- Submission deadline: May 9 and 16, 2020.
 
 
 
 
-+ ISWC, International Symposium on Wearable Computers
-	- http://iswc.net/iswc20/
-	- http://iswc.net/iswc20/cfp/papers.html
-	- Cancún, México
-	- September 12-16, 2020
-	- Submission deadlines:
-		* Issue 4, 2019 (December 1, 2019): August 15, 2019
-		* Issue 1, 2020 (March 1, 2020): November 15, 2019
-		* Issue 2, 2020 (June 1, 2020): February 15, 2020
-		* ***Issue 3, 2020 (September 1, 2020): May 15, 2020***
+
+
 
 
 
