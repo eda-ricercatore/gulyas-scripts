@@ -729,12 +729,12 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ ACM MSWiM 2019, 22nd ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems
-	- http://mswimconf.com/2019/dates.htm
-	- http://mswimconf.com/2019/
-	- November 25-29, 2019
-	- Miami Beach, FL
-	- Submission deadline: ~~May 20, 2019~~ June 5, 2019.
++ ACM MSWiM 2020, 23rd ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems
+	- http://mswimconf.com/2020/
+	- November 16-20, 2020.
+	- Alicante, Spain.
+	- Submission deadline: ~~June 15, 2020~~ July 5, 2020.
+	- Submission deadline: ~~May 20, 2019~~ June 5, 2019 (Old, for 2019).
 
 
 
@@ -745,7 +745,7 @@ List of conference "Call for Papers" deadlines:
 	- https://www.runtime-verification.org/
 	- October 6-9, 2020.
 	- Los Angeles, California.
-	- Submission deadline: May 18, 2019
+	- Submission deadline: ~~May 18 and 25, 2020~~ ~~June 8 and 15, 2020~~ June 12 and 19, 2020
 
 
 
