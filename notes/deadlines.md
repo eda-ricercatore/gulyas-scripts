@@ -754,10 +754,14 @@ List of conference "Call for Papers" deadlines:
 
 
 
+
+
+
 + SYNTCOMP, Reactive Synthesis Competition
 	- http://www.syntcomp.org/schedule/
 	- http://www.syntcomp.org/
 	- Deadlines: Late May or June till mid-July.
+		* Submission deadline for 2020 is: June 1, 2020.
 
 
 
@@ -786,25 +790,37 @@ List of conference "Call for Papers" deadlines:
 + IISWC, IEEE International Symposium on Workload Characterization
 	- http://www.iiswc.org/
 	- http://www.iiswc.org/iiswc2020/index.html
-	- Beijing, China.
-	- November 3-5, 2019
-	- Submission deadline: ***~~May 24 and 31, 2019~~???***
+	- Virtual/Online.
+	- ~~November 3-5, 2019~~
+	- October 27-29, 2020.
+	- Submission deadline: ***~~May 24 and 31, 2019~~???*** ~~July 27, 2020~~ August 10, 2020.
 
 
 
 
-+ RuleML+RR, International Joint Conference on Rules and Reasoning
-	- https://rulemlrr19.inf.unibz.it/?p=call
-	- https://rulemlrr19.inf.unibz.it/
-	- http://2019.ruleml-rr.org
-	- Bolzano Rules and Artificial INtelligence Summit (BRAIN 2019): https://brain2019.inf.unibz.it/
-		- GCAI 2019, 5th Global Conference on Artificial Intelligence
-		- https://gcai2019.inf.unibz.it/?p=call_for_papers
-		- Submission deadlines: ~~June 14 and 21, 2019~~ June 28 and July 5, 2019
-	- September 16-19, 2019
-	- Bolzano, Italy
++ RuleML+RR 2020, 4th International Joint Conference on Rules and Reasoning
+	- https://2020.declarativeai.net/events/ruleml-rr
+	- ~~http://2019.ruleml-rr.org~~
+	- Focus: Explainable algorithmic decision-making.
+	- ~~Bolzano Rules and Artificial INtelligence Summit (BRAIN 2019): https://brain2019.inf.unibz.it/~~
+	- ~~September 16-19, 2019~~
+	- June 29 - July 1, 2020.
+	- Virtual/Online.
 	- The annual International Web Rule Symposium (RuleML) is an international academic conferences on research, applications, languages and standards for rule technologies. Since 2017 it is organised as International Joint Conference on Rules and Reasoning (RuleML+RR).
-	- Submission deadline: May 24 and 31, 2019
+	- ~~Submission deadline: May 24 and 31, 2019~~
+	- Submission deadline: May 1, 2020.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -826,21 +842,22 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ TCC, 17th Theory of Cryptography Conference
-	- https://tcc.iacr.org/2019/
++ TCC, 18th Theory of Cryptography Conference
+	- https://tcc.iacr.org/2020/
 	- https://www.iacr.org/workshops/tcc/
 	- Nuremberg, Germany
-	- December 1-5, 2019
-	- Submission deadline: May 29, 2019
+	- ~~December 1-5, 2019~~ November 16-19, 2020.
+	- Submission deadline: May 26, 2020.
 
 
 
 
-+ RTSS 2019, 40th IEEE Real-Time Systems Symposium
-	- http://2019.rtss.org/
-	- Hong Kong, China
-	- December 3-6, 2019
-	- Submission deadline: May 30, 2019
++ RTSS 2020, 41st IEEE Real-Time Systems Symposium
+	- http://2020.rtss.org/
+	- Virtual/Online, originally to be held in Houston, TX.
+	- ~~Hong Kong, China~~
+	- December 1-4, 2020.
+	- Submission deadline: ~~May 28, 2020~~ July 2, 2020.
 
 
 
@@ -2330,6 +2347,18 @@ List of conference "Call for Papers" deadlines:
 		* 2nd round: June 1, 2019
 		* 3rd round: September 1, 2019
 		* ***4th round: November 23, 2019***
+
+
+
+
++ GCAI 2020, 6th Global Conference on Artificial Intelligence
+	- ~~https://gcai2019.inf.unibz.it/?p=call_for_papers~~
+	- ~~http://www.gcai-2020.info~~
+	- Submission deadlines: ~~June 14 and 21, 2019~~ ~~June 28 and July 5, 2019~~ November 23 and 30, 2019.
+	- Hangzhou, China.
+	- April 6-9, 2020.
+
+
 
 
 
