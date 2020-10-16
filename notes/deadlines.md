@@ -694,11 +694,12 @@ List of conference "Call for Papers" deadlines:
 
 + MIDDLEWARE 2019, ACM/IFIP/USENIX International Middleware Conference
 	- ACM/IFIP International Middleware Conference
-	- http://2019.middleware-conference.org/research.html
+	- ACM/IFIP Middleware 2020
+	- https://2020.middleware-conference.org/
 	- http://middleware-conference.org/
-	- December 9-13, 2019
-	- Davis, CA
-	- Submission deadline: May 17, 2019
+	- December 7-11, 2020
+	- Virtual/Onine. Originally to be held in Delft, The Netherlands.
+	- Submission deadlines: May 27 and June 3, 2019
 
 
 
@@ -710,10 +711,13 @@ List of conference "Call for Papers" deadlines:
 
 + VECoS 2019, 13th International Conference on Verification and Evaluation of Computer and Communication Systems
 	- Part of the 3rd World Congress on Formal Methods
-	- http://vecos.ensta-paristech.fr/2019/index.html
-	- October 9, 2019
-	- Porto, Portugal
-	- Submission deadline: May 19, 2019
+	- http://vecos-world.org/2020/
+	- ~~http://vecos.ensta-paristech.fr/2019/index.html~~
+	- October 26-27, 2020
+	- ~~October 9, 2019~~
+	- Xi'an, China.
+	- ~~Submission deadline: May 19, 2019~~
+	- Submission deadline: July 26, 2020.
 
 
 
