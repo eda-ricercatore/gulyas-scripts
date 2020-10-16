@@ -682,12 +682,13 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ IFIP Performance 2020, or IFIP WG Performance 2020, International Symposium on Computer Performance, Modeling, Measurements and Evaluation
-	- https://performance2018.sciencesconf.org/
-	- URL
-	- VENUE
-	- DATES; Possibly late 2020.
-	- Submission deadline: Possibly mid-May, 2020.
++ IFIP Performance 2020, or IFIP WG Performance 2020, 38th International Symposium on Computer Performance, Modeling, Measurements and Evaluation
+	- https://www.performance2020.deib.polimi.it/
+	- https://www.performance2020.deib.polimi.it/call-for-papers/
+	- ~~https://performance2018.sciencesconf.org/~~
+	- Milan, Italy.
+	- November 2-6, 2020.
+	- Submission deadlines: May 17 and 24, 2020.
 
 
 
