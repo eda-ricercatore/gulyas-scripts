@@ -1975,7 +1975,9 @@ Use a **list comprehension** to perform a conditional operation iteratively on
 			+ https://www.w3schools.com/python/python_lambda.asp
 				- \cite[from Python Tutorial: Python Lambda]{RefsnesDataStaff2017}
 			+ https://realpython.com/python-lambda/
+				- \cite{Burgaud20XY}
 			+ https://www.geeksforgeeks.org/python-lambda-anonymous-functions-filter-map-reduce/
+				- \cite{Lenka2018}
 	- "for" loops
 		* Has an example of converting nested "for" loops into a list
 			comprehension.

@@ -351,7 +351,7 @@ if current_bibtex_entry_type in bibtex_types:
 	Method 2: Filtering a collection [Baumstark 2017]
 
 	+ Filtering a collection with an if statement in a list comprehension.
-
+	+ Filtering a collection with an if statement in a generator expression.
 
 
 	From my own Python notes, https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#python-based-software-development:
@@ -361,10 +361,13 @@ if current_bibtex_entry_type in bibtex_types:
 			* Does not create a sequence-like object that can be indexed or operated like a list; "however, a generator expression can be converted into a list using the built-in list() function" \cite[Chapter 6, section on "Generator Expressions," pp. 110]{Beazley2009}.
 """
 list_of_numbers = range(10,30)
+# Filtering a collection with an if statement in a list comprehension.
 odd_numbers_less_than_20 = [x for x in list_of_numbers if (0==(x%2)) and (20>x)]
 print("odd_numbers_less_than_20 as a list:",odd_numbers_less_than_20,"=")
 """
-	This method produces a generator object (or generator expression, genexpr)
+	Filtering a collection with an if statement in a generator expression.
+
+	This method produces a generator object (or object for generator expressions, genexpr)
 """
 odd_numbers_less_than_20 = (x for x in list_of_numbers if (0==(x%2)) and (20>x))
 """
