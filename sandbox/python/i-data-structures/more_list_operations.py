@@ -6,7 +6,9 @@
 	This is written by Zhiyang Ong to demonstrate how to:
 	+ Delimit and tokenize each full name in a string of full names
 		into an element of a list.
-
+	+ Find the number of characters in a string.
+	+ Determine if an object is in a list.
+	+ Filtering a collection with an if statement in a list comprehension.
 
 
 
@@ -347,6 +349,10 @@ if current_bibtex_entry_type in bibtex_types:
 
 """
 	Method 2: Filtering a collection [Baumstark 2017]
+
+	+ Filtering a collection with an if statement in a list comprehension.
+
+
 
 	From my own Python notes, https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/python.md#python-based-software-development:
 	+ In the Section on "Python-based Software Development", 
