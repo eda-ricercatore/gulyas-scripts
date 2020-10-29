@@ -7257,6 +7257,1141 @@ Qualifications
 	- Experience proactively addressing reliability issues across all layers of the stack
 	- Excellent written and verbal communication skills
 	- Upstream QEMU contributions are a huge plus
++ skill set:
+	- You integrate the award-winning SLX technology with commercially available high-level synthesis compilers
+	- You adapt the SLX FPGA design space exploration algorithms to the specific characteristics of the HLS compiler
+	- You test and verify that a good quality of results is achieved after the integration process
+	- You ideally have experience with file interchange libraries and formats (boost serialization, XML serialization schemas)
+	- You have excellent C/C++ and python programming skills
+	- You are familiar with version control systems (git), and with build systems (cmake, ninja, GNU make)
++ You are experienced with InVision Studio, Sketch, Adobe XD or Figma
++ skill set:
+	- You will develop new features or extend existing features related to code analysis and transformation in research or commercialized projects
+	- You will work in Clang and LLVM versions tailored for our use as well as in Silexica’s compiler infrastructure.
+	- You will analyze the effect of your code on the performance and resource usage of your target, which will mostly be FPGAs.
+	- You will be responsible for continuous development, debugging and testing of the code you produce
+	- Our mission is to provide software development tools reducing time-to-market of innovative software IP and intelligent products. Enabled by deep software analysis, heterogeneous hardware awareness and quick design space exploration, the SLX programming tools significantly accelerate the journey from software to application-specific hardware systems, empowering our customers to win markets.
+	- You have excellent C++ programming skills
+	- You have solid scripting skills on Windows and Linux (e.g. Python, Bash)
+	- You have knowledge of computer architecture
+	- You have knowledge about compiler construction and possess knowledge about the LLVM compiler infrastructure
+	- Ideally, you have some experience with HLS and/or hardware design.
+	- You are fluent in English
+	- You have excellent problem-solving capabilities and good communication skills
+	- You are a team player, who has a hands-on mentality and a desire to learn
++ skill set:
+	- Contribute to ICE´s R&D projects in the areas of processor architectures, multicore HW/SW design tools, virtual prototyping, neuromorphic computing, and HW security
+	-  Interact with our European and worldwide academic and industry partners
+	- Participate in project management and event organization
+	- Assist in teaching, e.g. lecture exercises, labs, and seminars
+	- Sound knowledge in Linux based C/C++ software development
+	- Skills in the areas of processor/multicore architectures, electronic design automation, cyber-security, compiler construction, and/or HW architecture simulation are beneficial.
+	- Excellent communication skills, must be a team player
+	- High proficiency in oral and written English. German is beneficial.
++ skill set:
+	- Minimum Qualifications
+		* Deep experience with JavaScript, AWS, Git, npm and *nix
+		* Understanding of relational and non-relational databases and their patterns
+		* Prioritization of performant, reusable, scalable, high-quality code
+		* Fundamental appreciation for unit, behavioral and automated testing
+		* Exceptional written and verbal communication skills for all audiences
+		* Experience working as a part of an Agile team where velocity matters
+		* Experience as a measured, supportive, committed code reviewer
+		* Experience with continuous integration workflows
+	- Preferred Qualifications
+		* Experience with Docker, Fastly VCLs, GitLab and GCP
+		* Experience with MySQL/Aurora, MongoDB and GraphQL (Cypher)
+		* Experience with NodeJS, Express, Fastify, React, Redux and Selenium/WebdriverIO
+		* Experience with programmatic header bidding (Pubmatic, DFP/GAM, A9)
+		* Experience with large-scale, highly available digital products
+		* Passion for self-education and a love of learning words
+	- In our office, we promote:
+		* Autonomy to innovate, identify new opportunities and take on responsibilities
+		* Diversity of experience, background, interest and talent at every position
+		* Development through mentorship and a specialized education allowance
+		* Ownership of products, processes and the methods of production
+		* Truth through honesty, transparency and accountability
+	- Responsibilities:
+		* Implement platform technology, APIs, automation tooling and modern ad tech
+		* Collaborate cross-functionally with Product, Analytics, Ad Yield and Data Science
+		* Come up with ways we can improve site reliability, RPS, monitoring and alerting
+		* Have a seat at the table in critical decisions about software direction
+		* Deliver quality products every week, every sprint, every quarter
++ skill set for ninja-class ML/SW/HW performance engineer:
+	- We (dv/dt) work with leading companies all around the world developing advanced computer systems for AI/ML workloads. Broadly speaking, they aim to hit efficiencies of 10+ TOPS/W through techniques like in-memory computing, reconfigurable computing, mixed digital-analog computing, parallelizing, tiling, prefetching, pipelining... you name it. Having designed highly efficient hardware, they are naturally keen to match it with highly efficient software!
+	- This is where you would come in, moving stealthily under the cover of night... OK, scrap that. By ninja-class we mean you are a versatile, adaptive, 10x kind of guy or gal, who loves learning and strives on challenges. Indeed, our tasks range from traditional benchmarking and optimization all the way to helping define the architecture through compiler feedback and performance modelling. In other words, you would have practically limitless opportunities to learn about the emerging hardware, software and workloads!
++ skill set:
+	- Analysis of the state-of-the-art methods for memory virtualization and cache access to improve performance and power consumption.
+	- Identifying the performance bottlenecks of existing methods and proposing improvements or new methodologies.
+	- Developing high-level simulations of novel micro-architectural virtual memory schemes for further performance improvement.
+	- Running simulation-based experiments to examine and evaluate new ideas.
+	- Gathering, analysing and presenting experimental results.
+	- You are currently enrolled in a Master‘s degree or PhD in computer science, software engineering, robotics or any related fields at a reputable university.
+	- Strong mathematical/algorithmic problem-solving and software development skills (C/C++, Python, etc.).
+	- Understanding of the fundamentals of general purpose CPU micro-architecture, such as pipelining, out-of-order execution, and caches.
+	- Understanding of CPU instruction set architecture and assembly language.
+	- Understanding of the fundamentals of general purpose Memory Subsystem and Operating System for Virtual Memory Systems
+	- Exposure to performance simulators (e.g. gem5) and benchmark/workload analysis and characterization
+	- Proactivity and willingness to learn and explore new ideas.
++ skill set:
+	- Conduct fundamental research on new directions in computing systems
+	- Develop academic research partnerships and cooperation with leading universities and professors in the area
+	- Work with internal research colleagues and academic research partners to achieve new breakthroughs in research and innovation
+	- Produce and present research papers at internationally leading conferences and events
+	- Produce white papers on current developments and future directions in computing systems
+	- Where appropriate, contribute insight and research expertise to committees and other organizations that are looking to establish new industry standards and platforms
+	- Contribute to the research and academic community through service such as conference program committee membership, membership of journal editorial boards etc.
+	- PhD in an area related to computing systems architecture, or equivalent research experience in industry
+	- Record of publishing research papers in the area of computing systems architecture
+	- Candidates should have research experience in computing systems, and be familiar with at least one of the following areas:
+	- Design Space Exploration (DSE) Frameworks, Hierarchical DSE, Microarchitecture DSE, Architectural Models, Templates and Generators, Generator Methodology, Design Space Sampling, Constraint-Based DSE, Reusable Designs, System-Technology Exploration, Hardware-Software Co-Design and Co-Optimization
+	- Strong interpersonal skills and ability to work productively in a research environment
++ skill set:
+	- Lead a team to research future trends of technologies, generate corporate level Autonomous System Safety Assurance Technology Strategy and Roadmap. Identify and formulate real-world safety problems provided by domain experts as machine learning problems, and clarify requirements.
+	- Analyze the real site data and design/implement novel machine learning algorithms for auto healing network and automotive solution.
+	- Organize cutting-edge AI Safety related technology research, such as SOTIF, Safety and Security combined engineering. Develop well defined AI safety methodologies and best practices.
+	- Work closely with a group of domain experts and researchers from different Huawei product lines to integrate as well as fine-tune algorithms into complex system platforms. Identify, initiate, manage and direct collaborations with research institutions such as universities and other partners.
+	- Shape the safety assurance approach for Huawei to address the functional decomposition of Autonomous Driving (AD), ADAS solutions and smart manufacturing.Foster a forward-looking safety culture focused on proactive engagement and issue prevention.
+	- Ph.D degree in mathematics, computer science or related areas, have several articles published in the AI top conference or journal. Preferably with a proven background in AI system modeling or formal verification work background is a plus.
+	- Capability to problem formalizations (problem framing) which model the real-world problem into abstract mathematically precise problem model. Demonstrated ability to achieve goals in an innovative and fast-paced environment.
+	- 3+ years of relevant experience in the architecture definition, verification, analysis, design and certification of safety elements and systems for Autonomous Driving platforms and ADAS is preferred.
+	- Deep understandings on details of various supervised/unsupervised learning algorithms and have in-depth understanding of deep neural networks including CNN, RNN, LSTM, GRU etc.
+	- Expertise on modern systems engineering, hardware/software architectures requirements management practices and associated process management, Demonstrate deep familiarity with MBSE and Experience with Modeling language is preferred.
+	- Familiar w/ Functional Safety standard ISO 26262 and/or IEC 61508 is a plus, documented by a relevant certification authority is a plus.,Good understanding and hands-on experience of related best-known design methods and standards in the industry, such as AUTOSAR, SOTIF, IEC 61508, automotive SPICE.
+	- Fluent in English or know Chinese is a plus.
++ skill set:
+	- Develop software tools for data preprocessing (e.g. sanitization and annotation) and support our algorithm development team to employ the tool chain on our datasets with data quality analysis;
+	- Develop algorithms for privacy-enhancing technologies;
+	- Develop algorithms for privacy-preserving machine learning;
+	- Work and present the results in the form of documentation.
++ skill set:
+	- Domain specific languages (DSLs) offer great potential in achieving both productivity and performance when implementing tensor based computations that appear in a variety of AI and HPC workloads. However, extending a DSL with new functionalities and porting it to new hardware remain challenging tasks, in part also due to the lack of an accepted standard interface for tensor operations.
+	- As a key member of our team, you will support our research focus in this area. In this internship you will:
+		* Review current DSL and implementation techniques for high performance matrix and tensor computations.
+		* Contribute to the design of a novel mathematical DSL and compiler infrastructure addressing major expressiveness, performance, and portability issues of current solutions.
+		* Identify a comprehensive set of AI/HPC benchmarks for validating the effectiveness of your solution.
+	- You are currently enrolled in a Bachelor, Master’s degree or PhD in computer science, computer architecture, software engineering or any related fields at a reputable university; or you graduated within the last six months.
+	- Strong mathematical/algorithmic problem-solving and software development skills (C/C++, Python, etc.).
+	- Solid compiler design background with LLVM experience (knowledge of MLIR is a plus).
+	- Solid knowledge of matrix algebra.
+	- Understanding of fundamental concepts for high-performance software development, including instruction set architectures, memory hierarchy and locality, and instruction-level parallelism.
+	- Proactive in learning and exploring new ideas.
+	- Excellent communication and writing skills in English.
++ skill set for Automated Malware Analysis:
+	- Huawei’s Munich Research Center is responsible for advanced technical research, architecture evolution design and strategic technical planning. As a member of the Big Data Threat Analysis Team, your task will be to research and develop novel methods for automated malware analysis. Ranging from malware detection and family classification to attribution and long-term trend analysis, the tasks are very challenging and at the same time highly impactful, as the fight against malware serves to protect the wider society from crime. In collaboration with team members, other Huawei experts and external scientists, you will employ and advance state-of-the-art machine learning algorithms on large data sets to produce state-of-the-art results for both academic publication and industrial application.
+	- Research related academic work and understand open problems and scientific trends
+	- Investigate and prototype new techniques for automated malware analysis
+	- Publish your findings in the most impactful academic outlets
+	- Interact with data scientists and security experts to advance the state of the art in the field
+	- Deep interest for the topic and genuine motivation to fight against malware
+	- Experience in static and dynamic malware analysis
+	- Experience in machine learning
++ skill set:
+	- Non-blocking Operations in GraphBLAS
+	- In our Computing Systems Lab, we shape the next generations of computing systems from programming models to parallel computing, computer architectures of CPUs and specialized hardware accelerators, and engineering productivity tools to handle the every growing complexity of these systems.
+	- We are currently looking for an outstanding intern who will work on GraphBLAS that defines standard building blocks for the expression of graph algorithms in the language of linear algebra. The goal of this project is to provide a GraphBLAS implementation that supports non-blocking operations by exploiting dynamic parallelism and lazy evaluation. The API of GraphBLAS will remain the same, and the non-blocking implementation will be achieved in the library level, i.e., without compiler support.
+	- Investigate parallelization opportunities in the GraphBLAS library
+	- Provide a non-blocking implementation of GraphBLAS
+	- Evaluate the performance of the parallel implementation for a set of different benchmarks
+	- Strong mathematical/algorithmic problem-solving and software development skills in C/C++
+	- Experience in parallel programming
+	- Experience in parallel programming models (e.g. OpenMP) is a plus
+	- Excellent communication and writing skills in English
++ skill set:
+	- Deep learning and SLAM, 3D Vision and/or 3D sensing
+	- Audiovisual Technology Lab in Huawei Munich Research Center is developing innovative technologies on media sensing, processing and coding, and computer graphics.
+	- Deep learning has brought great progress in visual perception. Real-time visual sensing, localization and mapping algorithms are the basis for spatially intelligent systems such as augmented reality or autonomous robotics. This position is targeting at the intersection between visual localization, mapping and deep learning.
+	- The research objective is to propose and study breakthrough solutions combing deep learning and SLAM which enable applications such as real-time robot navigation or augmented reality. There will be opportunities to publish your research into relevant international conferences. The PhD candidate has the possibility to attend the international conference and present the developed technologies to the international community.
+	- Develop advanced solutions for visual-inertial localization, SLAM etc. by fusing visual and inertial information from multiple cameras, IMUs, and other sensors
+	- Develop advanced solutions for computer vision problems
+	- Apply optimization and deep learning to SLAM, computer vision problems
+	- Develop the prototypes and implement the innovative solution on a reference software
+	- Generate papers and technical reports if possible.
+	- You have recently completed or will soon complete your master studies in electrical engineering, information technology, computer science, mathematics or physics
+	- You have a deep interest in the topics related to deep learning, or computer vision, SLAM or 3D sensing
+	- You enjoy working in a team and you like to collaborate with researchers to develop creative solutions
+	- You are fluent in English (written and spoken)
+	- Excellent software skills
++ skill set:
+	- Applied Network Technology Laboratory
+	- As a member of the Big Data Threat Analysis Team, your task will be to research and develop novel automated methods to analyze diverse sources of Cyber Threat Intelligence (e.g., security blogs, reports, news sites, tweets, forums, Darknet, paste sites, etc.) and understand their content (e.g., text, tables, images, videos, etc.) to extract relevant and complete knowledge which can be readily used to defend computer networks. In collaboration with team members, other Huawei experts and external scientists, you will employ and advance machine learning algorithms on large data sets to produce state-of-the-art results for both academic publication and industrial application.
+	- Research related academic work and understand open problems and scientific trends
+	- Investigate and prototype new techniques for extraction of Cyber Threat Intelligence knowledge from unstructured data
+	- Publish your findings in the most impactful academic outlets
+	- Interact with data scientists and security experts to advance the state of the art in the field
+	- Solid experience in machine learning and knowledge extraction
+	- Deep interest for the topic and genuine motivation to make machines which help us understand
+	- Initial experience and curiosity for the field of security and Cyber Threat Intelligence
+	- Solid programming skills
+	- Fluency in English (written and spoken)
+	- Excellent intercultural communication and coordination skills
++ skill set:
+	- New Compiler front-end for a Quantum Computing Software Framework
+	- The research work of the lab will be carried out not only by Huawei’s internal research staff but also by our academic research partners in universities across Europe. The lab will provide an “open research environment” where academics will be encouraged to visit and work on fundamental long-term research alongside Huawei staff in an environment that, like the best universities and research institutes, is open and conducive to such scientific work.
+	- As we slowly transition our quantum computing software framework to C++ for increased performance and efficiency, we are looking to completely replace the Python front-end by something written in C++.
+	- In order to make sure that current code remains compatible with old versions of our quantum computing software framework, we are looking into implementing a new front-end using the libraries from the LLVM project.
+	- The objective of this internship is to implement a new compiler front-end in C++ using the LLVM project (or similar). This entails:
+		* Research what libraries/project currently exist to achieve this goal
+		* Propose, test and implement a prototype in C++ that works on a reduced subset of the quantum computing language
+		* Exchanging with other Huawei colleagues in the quantum computing group
+		* Finalize the implementation based on those exchanges, write corresponding code tests and code documentation
+	- You are currently enrolled in a Master‘s degree or PhD in computer science, software engineering, robotics or any related fields at a reputable university, or graduated within the last six months
+	- You are an experienced programmer in C++ (knowledge of latest C++ standard is a plus) and are familiar with Python
+	- You have basic knowledge of quantum physics or quantum computing
+	- Experience working with LLVM project or similar
++ skill set:
+	- Research in Compilers and Architecture
+	- Conduct fundamental research on new directions in compilers and architecture
+	- Develop academic research partnerships and cooperation with leading universities and professors in the area
+	- Work with internal research colleagues and academic research partners to achieve new breakthroughs in research and innovation
+	- Produce and present research papers at internationally leading conferences and events
+	- Produce white papers on current developments and future directions in computing systems
+	- Where appropriate, contribute insight and research expertise to committees and other organizations that are looking to establish new industry standards and platforms
+	- Contribute to the research and academic community through service such as conference program committee membership, membership of journal editorial boards etc.
+	- PhD in an area related to computing systems, or equivalent research experience in industry
+	- Record of publishing research papers in the area of computing systems
+	- Candidates should have research experience in computing systems, and be familiar with at least one of the following areas:
+		* CPU Compilers
+		* Just-In-Time Compilation
+		* Compilers and Microarchitecture
+		* Compiler/Architecture Co-Design
+		* Hardware/Software Co-Optimization
+		* Static/Dynamic Analysis
+		* Static/Dynamic Compiler and Runtime Systems
+		* Static/Dynamic and Machine Learning-Based Optimization
+		* Compile-time and Runtime Analysis
+		* Code Generation and Optimization
+		* Software Profiling for Hardware Optimization
+	- Strong interpersonal skills and ability to work productively in a research environment
++ skill set:
+	- For this new ZRC Laboratory, we are currently looking for an outstanding intern to Explore Novel Memory Hierarchies. As a key member in our motivated and multicultural team, you will support to explore the memory hierarchy in future processors. The topic of this internship will span across the whole memory subsystem, from the caches to the main memory and the non-volatile storage. Modern workloads manifest different characteristics and have various requirements in processing and memory power. You will identify the memory bottlenecks that future computing systems will face at each level of the memory hierarchy. Using architectural simulators, e.g. Gem5, you will explore if already proposed memory hierarchies can mitigate the memory wall and propose novel designs that can further improve the performance of the memory, in terms of bandwidth and latency. You will investigate the feasibility, area overhead and power savings of such approaches via experimenting with design tools and circuit simulators.
+	- Identify memory bottlenecks of real-world applications
+	- Explore and propose novel designs of memory hierarchies
+	- Implement and evaluate architectural optimizations in the memory subsystem
+	- Currently enrolled in a Bachelor, Master’s degree or PhD in computer science, computer architecture, software engineering or any related fields at a reputable university; or you graduated within the last six months
+	- Strong problem-solving and software development skills (C/C++, Python, etc.)
+	- Previous experience (or attended academic courses) in architectural simulation and memory subsystems
+	- Preferably familiar with circuit design or/and simulation
+	- Excellent communication and writing skills in English
++ skill set:
+	- 10 years+ rich ICT work experiences; Familiar with WiFi/BT/GNSS/NFC,4G,5G system algorithms, protocols, etc.
+	- In-depth knowledge of various communication system MAC/PHY/RF layers, with advanced research in creating innovative PHY algorithms and architectures that can significantly improve PHY performance, or experience working on MAC algorithms, protocols and architecture designs, including but not limited to throughput, features and functions.
+	- WiFi/Wireless(4G/5G) PHY or MAC algorithms for key advanced technology.
+	- Programming skills: C/C++, MATLAB, NS-3 and product development for communication system.
+	- Must be a highly organized, detail-oriented self-starter, who works well independently, as well as in a team environment.
++ skill set:
+	- In this data explosion age, massive scale transaction processing, analysis, and management of data are the core activities of almost all businesses. Envisioning the importance of Database as a Service (DaaS) in cloud, the Seattle database team is rapidly expanding, and now inviting talented candidates to join the team to re-innovate, re-shape and re-define the best Database for the future.
+	- Our ideal Senior Staff Database engineer will participate in next generation database plan development, aiming to secure database technologies in the leadership position. We are luckily in the eve of new era of databases: you will identify core and important features for future database and realize them with state-of-art technologies and contribute to the long-term engineering teams’ growth. You are the idea booster and code keeper: you can demonstrate your finest ideas with POC code, or you develop solid code for new features in production quality. With Futurewei’s full stack research capacity, there is no limit of your innovation: you can work on any components.
+	- We have opening in three major database components:
+		* Query Optimizer: framework, inline/un-inline CTEs, extend relational algebra, ML based CE/costing, etc.
+		* Query Executor: codeGen/vectorization, approximation, provenance, HW-acceleration, etc.
+		* Storage Engine: scalable ACID, online DDL, schema relaxation, storage organization, etc.
+	- You are highly interested in hands on experience of database engines, distributed systems
+	- Good at the following languages: C/C++/C#
+	- Solid knowledge in Database system, including OS, storage and network
+	- Experience in online product or service development.
+	- Experience in relational databases engines, NoSQL datastores
+	- Experience in core database components, including optimizer, executor or storage engine
++ skill set:
+	- Participate in our cloud AI projects, design the architecture of source code libraries/packages to support the development of various AI applications on cloud services.
+	- The role requires hands-on development, problem-solving skills, and knowledge of various horizontal and vertical packages - spanning across various layers in the technical stack.
+	- Creating architectural documents and community-facing tutorials. Working with potential partners in the academic/community to define specifications for open-source projects.
+	- 3+ years of experience, especially on turning ML technologies into practical, and state-of-the-art systems.
+	- Proficiency in Python, and the common tools and frameworks with practical experiences.
+	- Knowledge of common machine learning frameworks such as Tensorflow, PyTorch and Caffee.
+	- Excellent experiences in writing concise, clear, and detailed documentation for the libraries/package.
+	- A portfolio or GitHub repository of applications or code snippets are welcomed.
+	- Great attention to detail.
+	- Preferred working experience on Data Science/Machine Learning/Deep Learning/Computer Vision-related projects
+	- Basic knowledge about supervised and/or unsupervised machine learning models.
+	- Experience with container orchestration/infrastructure as code, e.g. Kubernetes.
++ skill set:
+	- The Futurewei Cloud Networking team is responsible for the design and implementation of Futurewei's Next Generation Cloud Virtual Network services including Virtual Private Cloud, Elastic Load Balancer, and Elastic IP, among others. We are looking for experienced architects and full-stack software developers who are passionate about cloud technology and are eager to build world-class networking solutions for the public cloud from the ground up.  The job responsibilities, depending on your prior work experiences, are ranging from designing architecture of l3-l7 layer network infrastructure services, to ensure the architectural integrity and successful delivery including but not limited to the development, testing, and operation in support of Futurewei’s Cloud Networking system. If this challenge sounds like a good fit for you, please reach out to us. Let's together build something brand new and change the sky with Futurewei Cloud.
+	- 8+ years of IT experience or 5+ years of experience with a large-scale public/private cloud provider
+	- Excellent coding ability (preferably Java or C++) and problem-solving skills;
+	- Familiarity with network virtualization, SDN, container, L3 and above; Network infrastructure service (VPC/LB/NAT/VPN, etc. ) design and development experience is highly preferred;
+	- Broad familiarity with modern concepts/algorithm/data structures in the area of distributed systems;
+	- Great understanding of software development life-cycle;
+	- Excellent written and verbal communication skills. Must be able to clearly articulate ideas and concepts to fellow engineers and management;
+	- A true team player, willing to work within a multi-culture organization.
++ skill set in Cloud AI / Machine Learning:
+	- Participate in our cloud AI projects, design the architecture of source code libraries/packages to support the development of various AI applications on cloud services.
+	- The role requires hands-on development, problem-solving skills, and knowledge of various horizontal and vertical packages - spanning across various layers in the technical stack.
+	- Creating architectural documents and community-facing tutorials. Working with potential partners in the academic/community to define specifications for open-source projects.
+	- 8+ years of experience, especially on turning ML technologies into practical, and state-of-the-art systems.
+	- Proficiency in Python, and the common tools and frameworks, with practical experience.
+	- Knowledge of common machine learning frameworks such as Tensorflow, PyTorch and Caffee.
+	- Excellent experiences in writing concise, clear, and detailed documentation for the libraries/package.
+	- A portfolio or GitHub repository of applications or code snippets are welcomed.
+	- Great attention to detail.
+	- Preferred working experience on Data Science/Machine Learning/Deep Learning/Computer Vision-related projects
+	- Basic knowledge about supervised and/or unsupervised machine learning models.
+	- Experience with container orchestration/infrastructure as code, e.g. Kubernetes.
++ skill set:
+	- Futurewei focuses research on advanced information and communications technology (ICT) domains that will benefit an intelligent and digital society. By focusing on open innovation, we aim to advance these technologies into real world solutions through standardization, open source collaboration and partnering with industrial ecosystems. Over the next 5 to 10 years, these new technologies can truly digitize our traditional industries and rapidly advance us towards the future.
+	- The candidate will join the Graphics team to explore and define the next-generation 2D/3D graphics framework for future OS and application development platforms. The work may also include collaboration with the open source community on architecture and implementation.
+	- The candidate will help improve, design and implement the architecture of a modern graphics framework, touch the full graphic stack from UI to driver, and tackle challenging open problems in the computer graphics domain.
+	- Master/Ph.D. on Computer Graphics/Computer Vision/Image Processing/Computational Photography
+	- Experiences in GPU/GPGPU programming, proficient in at least one of the major GPU APIs (Vulkan, DirectX 11-12, Metal, OpenGL)
+	- Experiences in C/C++ programing language
+	- Good communications skills and a team player
+	- Strong programming skills, and strong problem-solving skills.
+	- Experiences in GPU driver programming
+	- Publications in top graphics/vision conferences and journals
+	- Knowledge on rendering engine architectures
+	- Experiences in application frameworks on different OS (Windows, Mac, iOS, Android)
+	- Strong mathematical background
++ skill set regarding Wireless Standards, 3GPP RAN1:
+	- This position is responsible for conducting research on PHY technologies for 5G and beyond standards, as well as, attending the corresponding standards meetings.
+	- The successful candidate will conduct research on wireless physical layer technologies for the standards, including theoretical analysis, innovative technical solution design and simulation.
+	- The successful candidate will attend the corresponding standard meetings such as 3GPP RAN1 and RAN4 meetings, drive the research results to improve the standards, guide or suggest for products development and marketing decision to ensure the product solution is in alignment with standards.
+	- Self-motivated and able to work independently, as well as in a team. The candidate will work closely with the R&D teams in Futurewei.
+	- The candidate will have an active role in advanced research projects with external partners.
+	- PhD in EE, with 5+ (or 10+ for senior position) years of wireless standards experience or wireless physical layer algorithm research & system level/link level simulation experience in the wireless telecommunications industry or academia.
+	- Strong technical expertise and experience in wireless physical layer protocol design, simulation and optimization for standards; strong technical expertise in wireless 5G technologies, including OFDM/OFDMA, MIMO, interference control, signal and channel design, Multi-BS MIMO and advanced algorithm design and implementation.
+	- Hand-on experience with one or more wireless communication systems, GSM, UMTS, LTE, LTE-A, NR, WiFi; experience with IMT-Advanced/2020 FDD or TDD systems is preferable.
+	- Good understanding of higher layers (such as lower MAC layer) and experience in jointly designing physical layer and MAC layer.
+	- Good knowledge of the state-of-the-art technologies for wireless systems in industry and academia.
+	- Experience in product realization design or receiver algorithm design is preferable.
+	- Good teamwork spirit and adaptability.
+	- Should thrive in a dynamic, innovative and research-oriented environment.
+	- Travel to US other sites and all over the world for the standard meeting is required.
++ skill set in Wireless Standards, 3GPP RAN2, RAN3, and SA2:
+	- This position is responsible for conducting research on Layer 2/3 technologies (including MAC, RLC, PDCP, etc) and network architecture for 5G and beyond standards and attending the corresponding standards meetings.
+	- The successful candidate will conduct research on wireless Layer 2/3 and network architecture technologies for the standards, including theoretical analysis, innovative technical solution design and simulation.
+	- The successful candidate will attend the corresponding standards meeting such as 3GPP RAN2/RAN3 and SA standards meetings, drive the research results to improve the standards, guide or suggest for products development and marketing decision to ensure the product solution in alignment of standards.
+	- Self-motivated and able to work independently, as well as work in a team. The candidate will work closely with the R&D teams in Futurewei.
+	- The candidate will have an active role in advanced research projects with external partners.
+	- PhD in EE or CS, with 5+ (or 10+ for senior position) years of wireless standards experience or wireless MAC, higher layer algorithm research, network architecture & system simulation experience in the wireless telecommunications industry.
+	- Strong technical expertise and experience in wireless Layer 2/3 protocol design, simulation and optimization for standards; strong technical expertise in wireless 5G technologies, including 5G Architecture, Relay, SON, Mobility, Mobile Edge Computing, etc.
+	- Strong experience with one or more wireless communication systems, GSM, UMTS, LTE, NR, WIFI; experience with IMT-Advanced/2020 FDD or TDD systems is preferable.
+	- Deep understanding of higher layer protocols, such as MAC, RLC, PDCP, S1/X2 Interfaces, core network architecture, and so on.
+	- Good knowledge of the state-of-the-art technologies for wireless systems in industry and academia.
+	- Experience in product realization design is preferable.
+	- Good teamwork spirit and adaptability.
+	- Should thrive in a dynamic, innovative and research-oriented environment.
+	- Travel to US other sites and all over the world for the standard meeting is required
++ skill set:
+	- Research the technical trends and cutting-edge technologies related to online storage service and structured asset storage services, identify and verify key technologies and potential business opportunities, plan the product technology roadmap and implementation strategy.
+	- Manage and develop proof-of-concept work, and promote the implementation of prototype projects.
+	- Research, conceive and develop innovative and complex software applications to extend and improve the Huawei Drive experience.
+	- Take charge of the architecture design, solution design, and openness design of the front-end and back-end service modules of Huawei Drive services and products.
+	- Analyze and research key technologies related to cloud services, optimize system performance, capacity, and bandwidth, and improve user experience.
+	- Deeply understand the business requirements of Huawei Drive, align with the best in the industry, and continuously track and implement the competitiveness of products.
+	- Master's degree or PhD in Computer Science, Mathematics, or a related technical field of study.
+	- 8+ years of experience in mobile platforms, internet development projects, and participation in at least three medium-sized projects (with more than eight team members)
+	- Have a good command of mobile application development technologies and have participated in the solution design, deployment, and O&M management of large-scale systems.
+	- Good interpersonal communication, cooperation, learning, and service awareness. Ability to collaborate across region, team boundaries, build relationships and import and ideas.
+	- Have a deep understanding of industry-leading technologies and engine kernels for large-scales distribute storage system, with project development experience preferred.
+	- Familiarity with micro-service system construction, experience in constructing distributed and highly concurrent systems, or experience in processing data of large-scale users is preferred.
+	- Experience in managing medium-sized projects (with more than eight team members).
+	- Solid experience with data structures, algorithms and software design.
+	- Ability to lead a team of software engineers, empower them and guide them to deliver high quality solutions.
+	- Passion for shaping top quality consumer centric products.
+	- Extensive experience designing and implementing large-scale distributed systems, and experience in building large and medium-sized mobile platforms or one of millions of mobile internet services is preferred.
+	- Familiar with the online storage services or structured asset storage services, and experience in 10 million of mobiles services is preferred.
++ skill set:
+	- As a key member in our motivated and multicultural team, you will support our research on improving future microarchitectures. In particular, you will focus on methodologies to improve performance analysis.
+	- Study and comparison of existing performance analysis methodologies
+	- Propose a well suited methodology for our research
+	- Develop a performance analysis infrastructure based on this methodology
+	- Study of an existing microarchitectural feature with the developed framework
+	- Propose future directions and improvements
+	- You are currently enrolled in a Bachelor, Master’s degree or PhD in computer science, computer architecture, software engineering or any related fields at a reputable university; or you graduated within the last six months.
+	- Strong mathematical/algorithmic problem-solving and software development skills (C/C++, Python, etc.)
+	- Understanding of the fundamentals of general purpose CPU micro-architecture, such as pipelining, out-of-order execution, and caches.
+	- Understanding of CPU instruction set architecture and assembly language.
+	- Exposure to performance simulators (e.g. gem5) and benchmark/workload analysis and characterization
+	- Proactivity and willingness to learn and explore new ideas.
+	- Excellent communication and writing skills in English
+	- If you are interested in gaining practical experience while working with the newest technologies and create solutions which enrich people’s life, we are the right company for you. You will be part of a multicultural team and rapidly growing environment - write the future together with us!
++ skill set:
+	- Virtualization is a key technology that enables modern data center to be operated in an elastic and cost efficient manner. In the post Moore era, when performance growth cannot sustain due to semiconductor technology slow-down, new computing architectures such as non-volatile memory, disaggregated fabric, heterogeneous multi-processing…etc. are emerging in data center, which suggest us to also redefine the virtualization stack.
+	- Assist research work on current and future trend in virtualization technology.
+	- Track technical trend worldwide in virtualization and cloud; deliver technical insight report.
+	- Participate in the design and development of proof of concepts, demonstrators, and testbeds.
+	- Investigate and prototype new techniques in next generation virtualization technology.
+	- Master in computer science or other domain-related disciplines.
+	- Proficient in C/C++ and system level programming.
+	- Scripting language and open source toolchains.
+	- Experienced in Linux kernel and virtualization with QEMU/KVM.
+	- Motivation for technical challenges.
+	- Team player, excellent intercultural communication and coordination skills.
+	- Fluent written and spoken English.
++ skill set:
+	- Virtualization is a key technology that enables modern data center to be operated in an elastic and cost efficient manner. In the post Moore era, when performance growth cannot sustain due to semiconductor technology slow-down, new computing architectures such as non-volatile memory, disaggregated fabric, heterogeneous multi-processing…etc. are emerging in data center, which suggest us to also redefine the virtualization stack.
+	- You will be working in a very innovative team with virtualization experts, which enable you with great opportunities to draft patents and papers as well as to productize your ideas. Your innovations in the next generation virtualization technology will not only drive software stack changes of Huawei cloud but also the new processor and the server design in our data center worldwide.
+	- Research areas include but are not limited to:
+		* Memory-centric hypervisor
+		* Lightweight virtualization
+		* Heterogeneous and accelerated virtualization.
+		* Virtualization security
+	- MSc in computer science or other domain-related disciplines.
+	- Proficient in C/C++ and system level programming.
+	- Experienced in Linux kernel and virtualization with QEMU/KVM.
+	- Deep understanding of mainstream CPU architecture.
+	- Interest in solving challenging scientific problems.
+	- Motivation for independent and goal-oriented research.
+	- Fluent written and spoken English.
++ skill set:
+	- Validation of new technology implementation, such as RCS, VoLTE, VoWifi, in the latest Huawei handset devices.
+	- Terminal devices (mainly handset) issue tracing and debugging by live testing.
+	- Creating customer oriented document template, internal process document template.
+	- Handset user experience review in German language (UI, UX).
+	- Support on automatic test preparation and customer test preparation.
+	- Computer science or engineering degree with specialties in embedded devices and open source software
+	- Extensive understanding of embedded operating system, open source software and open source licensing
+	- Knowledge of open source licensing and IP compliance tools such as Fossology
+	- Knowledge of license compliance standard formats such as SPDK, and compliance bodies such as Openchain
+	- Ability to partner with senior technical leaders and architects, establish influence and drive consensus
+	- Ability to work with senior management and be a key decision maker
+	- Very good verbal, written and presentation skills
+	- Ability to handle ambiguity and operate autonomously
+	- Ability to quickly adapt to changes and learning from field testing
+	- Enthusiastic, self-motivated and work well with a team.
++ skill set:
+	- The PhD candidate will contribute to the research, development, publication and product adoption of system security technologies for future computing architectures targeting AI and compute, working on real world problems for a wide range of Huawei products and services to preserve and prove their trustworthiness through technology, from a unique research position connecting Academia and Industry.
+	- Assess system security and platform resilience risks of application scenarios such as AI and compute
+	- Research on innovative concepts and architectures in the field of Trustworthy Computing
+	- Implement proof of concepts and support technology adoption in products
+	- Publish research papers and technical reports at top security conferences and collaborate with academic partners
+	- Improve, by design, the end to end system security capabilities of future Huawei products
+	- You have recently completed or will soon complete your master studies in computer science, information technology, cybersecurity, electrical engineering, or mathematics
+	- You have research experience in system security, applied cryptography, computer architectures, OS design
+	- Experience with enclave engines, TEEs, secure processing architectures and accelerator designs is a plus
+	- You have good programming skills in C, Rust, C++, Python, Go and in system programming
+	- You have demonstrated affinity for concept design and hands-on validation
+	- You have a passion for finding solutions for complex technology issues
+	- You have excellent collaboration and communication skills
+	- You are self-starting and self-motivating, willing to take initiatives and feel the responsibility for your project
++ skill set for Computer Architecture, Design Space Exploration:
+	- Conduct fundamental research on new directions in computing systems
+	- Develop academic research partnerships and cooperation with leading universities and professors in the area
+	- Work with internal research colleagues and academic research partners to achieve new breakthroughs in research and innovation
+	- Produce and present research papers at internationally leading conferences and events
+	- Produce white papers on current developments and future directions in computing systems
+	- Where appropriate, contribute insight and research expertise to committees and other organizations that are looking to establish new industry standards and platforms
+	- Contribute to the research and academic community through service such as conference program committee membership, membership of journal editorial boards etc.
+	- PhD in an area related to computing systems architecture, or equivalent research experience in industry
+	- Record of publishing research papers in the area of computing systems architecture
+	- Candidates should have research experience in computing systems, and be familiar with at least one of the following areas:
+		* Design Space Exploration (DSE) Frameworks
+		* Hierarchical DSE
+		* Microarchitecture DSE
+		* Architectural Models, Templates and Generators
+		* Generator Methodology
+		* Design Space Sampling
+		* Constraint-Based DSE
+		* Reusable Designs
+		* System-Technology Exploration
+		* Hardware-Software Co-Design and Co-Optimization
+	- Strong interpersonal skills and ability to work productively in a research environment
++ skill set about Automotive OS & Middleware Technologies:
+	- Automotive Infrastructure software for high-assisted and autonomous driving.
+	- Automotive system software, e.g. operating systems, microkernels, RTOS, computing abstractions for *PU, for heterogeneous SoC.
+	- Automotive middleware such as AUTOSAR, DDS.
+	- Model-based systems engineering.
+	- Safety and high-assurance for networked mixed critical systems.
+	- Fail-operation designs and safe integration of AI based functions.
+	- Software-Hardware co-design for automotive systems.
+	- You have a completed Master degree (or equivalent) from a top university in Computer Science.
+	- Knowledge in one or more of the following areas:
+		* Operating System, e.g. Micro-kernel, Linux, Hypervisor.
+		* Automotive middleware, e.g. ROS, Autosar Adaptive/Classic, DDS, SOME/IP.
+		* Determinism, hard and soft real-time, worse case execution time, mixed-criticality.
+		* Functional safety, assurance cases, STPA, FMEA, FTA, software engineering principles.
+		* Good understanding of computer architecture.
+		* Basic understanding of ISO26262, SOTIF
+	- Very good programming skills: C/C++, scripting languages.
+	- Interest in solving challenging scientific problems.
+	- Motivation for independent and goal-oriented research.
+	- Published papers or awards at programming/math competitions (e.g. ICPC, IMO, IMC) is a plus.
+	- Open to working in diverse multi-cultural team distributed all over the globe.
+	- Fluent written and spoken English.
++ skill set:
+	- Huawei’s European RAMS Lab is a corporate competence center responsible for researching high reliability and high safety architecture and technologies for complex system; To provide self-healing solution and automotive safety solution, including Mission-Critical/Safety-Critical/Carrier-Grade of ICT/IoT/Automotvie/Cloud application, with best performance and user experience. (*RAS: Reliability, Availability, Safety)
+	- Work closely with a group of domain experts and researchers from different Huawei product lines to integrate as well as fine-tune algorithms into complex system platforms.
+	- Identify, initiate, manage and direct collaborations with research institutions such as universities and other partners
+	- Solid background in mathematics, esp. in linear algebra, statistics/probability, and possess in-depth knowledge on the theoretical foundations on which machine learning is based;
+	- Solid experience in designing, applying and optimizing machine learning algorithms to tackle real world problems for industrial projects;
+	- Deep understandings on details of various supervised/unsupervised learning algorithms and have in-depth understanding of deep neural networks including CNN, RNN, LSTM, GRU etc.;
+	- Hands-on experience with frameworks such as Tensorflow, PyTorch, WEKA/MOA, scikit-learn, Mahout, etc;
+	- Strong programming skill in at least one of the following programming languages: Python, Java, C/C++, Matlab;
+	- Knowledge about safety design or implementation would be a plus.
++ skill set in Automotive Security Research:
+	- Research on important security technologies for automotive, in areas of access control, software over the air update, autonomous driving and etc.
+	- Analysis on Adaptive Autosar specifications.
+	- Deliver technical reports on state of art, industry best practices, methodologies and etc.
+	- Software design and simple PoC to demonstrate the capabilities of prototypes.
+	- With 5+ year experience of security research; deep understanding of at least one security areas like access control, crypto, OS security and etc.
+	- Good knowledge on SELinux.
+	- Experience in Automotive industry (especially in Adaptive Autosar)
+	- Experience and knowledge of Sandbox is a plus.
+	- Experience on C++.
+	- Excellent communication skills, team-work spirit and independent working capabilities are required.
+	- Fluent written and spoken English is required.
++ skill set:
+	- The PhD candidate will contribute to the research and development of privacy enhancing technologies for future data analytics and artificial intelligence systems. The candidate has the opportunity to work on real world problems and improve privacy protection of Huawei future’s products and services.
+	- Assess privacy risks of target application scenarios
+	- Research on innovative algorithms in the field of Privacy Enhancing Technologies
+	- Implement the proof of concept of innovative algorithms
+	- Publish research papers and technical reports at high ranked scientific conferences
+	- Improve privacy engineering process as well as privacy by design concept
+	- You have recently completed or will soon complete your master studies in computer science, information technology, cybersecurity, privacy, electrical engineering, or mathematics;
+	- You have research experience in data science, machine learning and/or artificial intelligence;
+	- You have demonstrated affinity with algorithm development;
+	- You have a passion for finding solutions for complex technological issues;
+	- You have excellent collaboration and communication skills;
+	- You are self-starting and self-motivating, willing to take initiatives and feel the responsibility for your project;
+	- You have good programming skill in Java, R, Python
++ skill set:
+	- Now we are looking for an Optical Access System Researcher (m/f/d) who will be part of our new founded optical transmission and access Technologies Department (EU Branch) will play a leading role in researching new technology and delivering specific solution for the Next Generation Passive Optical Network (PON). To build up a high level expert team in the European Research Center in Munich, we are in search for a Senior Researcher of optical access PON system.
+	- Research, design future optical access network’s key technology, system and architecture;
+	- Related Prove of Concept prototype projects;
+	- Participate in planning and layout of optical access network research roadmap;
+	- Investigate and analysis operators’ requirement;
+	- Joint innovate with operator or academic or industry partners.
+	- Delivery of proposals and standard contributions to standard organizations such as ITU-T, IEEE.
+	- Participate academic conference, publish and present latest research achievements in conference or journal, such as OFC, ECOC, JLT, PTL, etc.
+	- Electrical or electronic, communication engineering, optics and other related major, master's degree or above (PhD degree is preferred).
+	- More than 2 years (for PhD) or 5 years (for Master) research or development experience in transport or access area or related areas;
+	- With successful project experience in the optical network key technology, system and architecture or related area;
+	- Good at PON system archtecture skills and successful project experience;
+	- Familiar with materials, components and devices of optical physical layer and with related application project experience;
+	- Fluency in English (written and spoken).
+	- Open mind, good communication and teamwork, and good presentation skills.
++ skill set:
+	- The research work of the lab will be carried out not only by Huawei’s internal research staff but also by our academic research partners in universities across Europe. The lab will provide an “open research environment” where academics will be encouraged to visit and work on fundamental long-term research alongside Huawei staff in an environment that, like the best universities and research institutes, is open and conducive to such scientific work.
+	- For this new ZRC Laboratory, we are currently looking for an outstanding Research Intern. As a key member in our motivated and multicultural team, you will support to define novel hardware/software interfaces for language runtime systems and dynamic just-in-time compilers (JITs). Just-in time compilers have become very popular due to the wide spread of high-level languages. What make JITs particularly interesting is that they have runtime information about the program execution. Unfortunately, the JITs have no possibility to communicate this information to hardware beyond machine instruction. In this line of research studies additional interfaces besides traditional ISA line to facilitate the communication dynamic program information from the JIT to the hardware.
+	- Design hardware/software interface.
+	- Prototype in existing JITs (e.g., V8, SpiderMonkey, or JavaScriptCore).
+	- Implement hardware interface in architectural simulator (e.g., gem5).
+	- Evaluate implementation on standard benchmarks.
+	- You are currently enrolled in a Master’s degree or PhD in computer science, computer architecture, software engineering or any related fields at a reputable university; or you graduated within the last six months
+	- Strong algorithmic problem-solving and software development skills (in C++)
+	- Understanding of compilers and language times
+	- Ideally, experience with architectural simulators (e.g., gem5)
+	- Excellent communication and writing skills in English
++ skill set:
+	- AI Data Algorithm Engineer
+	- Research cutting-edge AI data reduction technologies, including data reduction, deduplication, serialized data compression, video compression, and model compression.
+	- Use AI algorithms to analyze problems and model them, design algorithms, and develop and verify prototypes.
+	- Lead research of AI technology innovation applications, innovative exploration, and high-value patent incubation, to cement HUAWEI CLOUD's innovation lead.
+	- Proven research background and experience in machine learning, deep learning, reinforcement learning, and theoretical information technology preferred. At least one paper published in a top-level AI conference such as ICML, IJCAI, ICLR, AAAI, or KDD preferred
+	- Expertise with data storage, data arrangement, data coding, and data reduction preferred
+	- Skilled at using machine learning, deep learning, or reinforcement learning frameworks and platforms or tools, such as TensorFlow, Keras, and Caffe
++ skill set for Hypervisor System Engineer:
+	- Lead research on HUAWEI CLOUD virtualization technologies and improve virtualization performance.
+	- Overcome key technical difficulties in the virtualization process of different hardware devices and provide forward-looking technical solutions.
+	- Solid theoretical foundation in virtualization and Linux kernel virtualization
+	- Proficient in Java, C, C++, or Python
++ skill set:
+	- security O&M, security Operation & Maintenance, Operation & Maintenance security, O&M security
++ skill set:
+	- Use AI to build security models and perform security O&M.
+	- Use machine learning and deep learning to analyze massive amounts of data, establish a User and Entity Behavior Analytics (UEBA) baseline, and identify network attack, host attacks, and application-layer attacks.
+	- PhD in computer science or related major; theoretical background in data mining, machine learning, and deep learning; and related research or work experience
+	- Proficient in common machine learning algorithms. Experience developing deep learning models, such as CNN, RNN, and LSTM
+	- Broad knowledge of big data open source technologies, such as Hadoop, HDFS, HBase, Spark, and Hive. Proficient in at least one query language, such as SQL, HQL, Splunk, and ELK
+	- Good knowledge of common network attack surveillance and data analysis methods, or strong interest in network security surveillance and desire for a career in that field
+	- Excellent programming skills in at least one language, such as Python, Java, Scala, C/C++, or Perl
+	- Excellent learning ability and hands-on skills, agile thinking, hard working, good teamwork, and willingness to solve challenging problems
+	- Those who have published papers in international professional journals, participated in international standards meetings or academic conferences, or published related patents are preferred
++ skill set:
+	- Research and design data security and privacy protection technologies in the cloud computing environment, including cloud data security storage, recovery and audit, cloud data processing and access control, cloud data deduplication and deletion, security data services related to cloud computing and big data, and junk information identification and filtering of big data.
+	- Lead compliance management of cloud data security and privacy protection. Identify data security and privacy protection risks, design a cloud data security governance framework, provide feasible security solutions, track identified risks, and perform post-event evaluation.
+	- Implement cutting-edge data protection and privacy protection technologies in business scenarios.
+	- Strong interest in cloud computing data security and privacy protection, and desire to face and resolve challenging data privacy issues
+	- Familiar with data security management and technical solutions, including cutting-edge cryptography technologies (for example, secure multi-party computation) or privacy protection technologies (for example, differential privacy)
+	- Good knowledge of compliance requirements such as China's cybersecurity law and the EU's GDRP
+	- Profound understanding of data security risks, and technical and statistical background preferred
++ skill set:
+	- Plan and optimize overall product security architecture. Lead architecture analysis, module design, and feature design of Identity and Access Management (IAM) on HUAWEI CLOUD.
+	- Support end-to-end delivery of IAM service features and compile core code, covering phases including requirement analysis, module design, development, and rollout.
+	- Gain insight into the cutting-edge technical issues of identity authentication security, and transform cutting-edge technologies into feasible IAM features.
+	- Computer science, software engineering, information security, cryptography, or related major
+	- Proficient in Java, Python, or C/C++ programming. Solid knowledge of data structures and algorithms as well as software engineering and agile development models. Skilled at using various design modes
+	- Expertise in key management systems, common web security attacks, and vulnerability scanning technologies. Those have participated in large-scale public and private cloud security assessment and security hardening projects preferred
++ skill set:
+	- Lead service security planning and architecture design, including but not limited to attack defense, overload control, content compliance, and authentication system design. Improve product security capabilities.
+	- Participate in end-to-end delivery of security service features, covering phases including requirement analysis, module design, development, and rollout.
+	- Broad knowledge of mainstream encryption and authentication algorithms
+	- Familiar with system, application, and network attack modes and protection architectures
+	- Solid knowledge of mainstream security certification standards
+	- Proficient in C, C++, or Java. Experience with system architecture design preferred
+	- Experience with public cloud or Internet development and design preferred
++ skill set for Cloud File System Development Engineer:
+	- Lead technical planning in the cloud file system domain, optimize the overall filesystem architecture, and improve the cloud file system competitiveness.
+	- Improve file system competitive advantages, design and develop key features such as cross-AZ, active-active, and cross-region file system synchronization.
+	- Participate in end-to-end delivery of cloud file services, covering phases such as requirement analysis, module design, development, and rollout. Communicate with the customer CTO about HUAWEI CLOUD file system solutions.
+	- PhD in storage, and research background in file systems
+	- Practical experience and extensive knowledge of mainstream distributed file system architectures
++ skill set for Speech Recognition Algorithm Engineer:
+	- Lead technology exploration and innovative research in speech recognition, propose innovative ideas and algorithms, and participate in key prototype and system design and implementation.
+	- Research and implement key technologies and core algorithms such as speech recognition, voiceprint recognition, speech synthesis, and wakeup. This includes acoustic model and language model optimization as well as decoder performance improvement.
+	- Explore customer requirements and make breakthroughs in key technologies to continuously improve competitiveness of HUAWEI CLOUD speech recognition technologies and solutions.
+	- Ability to independently study speech recognition algorithms and develop a speech recognition engine
+	- Proven research background in signal processing, acoustic modeling, language modeling, and deep learning
+	- At least one paper published in Interspeech, ICASSP, or related conference preferred
++ skill set for Intelligent O&M Research Engineer:
+	- Use big data analysis and machine learning algorithms to mine data value from massive amounts of machine data (indicators, logs, call chains, and events), and build HUAWEI CLOUD AIOps intelligent O&M competitiveness.
+	- Design, verify, and develop core algorithms, and resolve specific problems of intelligent O&M, such as anomaly detection, pattern recognition, forecasting, intelligent association, and log understanding.
+	- Investigate customer pain points, fully understand customer requirements, track new technologies in the AIOps field, identify key technical difficulties, and provide solutions and engineering implementation.
+	- Network exception detection
+	- System log analysis
+	- Capacity/Traffic forecasting
+	- Causal inference based on big data
+	- Distributed machine learning
++ skill set for Cloud Computing Engineer:
+	- Design and develop the PaaS platform system architecture of cloud computing, including containers, microservices, function computing, and middleware. Ensure efficient and secure running of the PaaS cloud platform, and strive to improve code quality, service performance, and user experience.
+	- Participate in open-source projects in the PaaS domain, such as Kubernetes, Docker, Istio, and ServiceComb, and track new technologies and implementation of cloud computing PaaS.
+	- Fully understand customer requirements and provide technical solutions to resolve problems.
+	- Computer science or related major. Proficient in at least one programming language. Expertise in Go, Python, and Shell preferred
+	- Expertise in cloud computing technologies such as Kubernetes, OpenStack, and Docker. Use or development experience preferred
+	- Solid knowledge of distributed systems, cluster management, and SOA architecture technologies, as well as web frameworks and technologies. Experience with large-scale cluster O&M or distributed system software development preferred
+	- Strong interest in technologies. Understanding of the architectures and technologies of mainstream commercial cloud service platforms at home and abroad. Successful experience completing cloud computing projects preferred
++ skill set for RoCE Network Technology Engineer
+	- Research and construct the RoCE network in the cloud computing system.
+	- Study the ecosystem and application models of the RoCE network.
+	- Research algorithms for congestion control and delay reduction in the large-scale RoCE network.
+	- Implement the RoCE network in the storage network, big data and AI platforms, and tenant VMs.
+	- Deploy the RoCE network on a large scale.
+	- General knowledge of the system and architecture of the InfiniBand network protocol stack
+	- Broad knowledge of application scenarios of the RDMA system, such as HPC, big data and AI, storage, and SAP, as well as RoCE deployment and isolation solutions in virtualization scenarios
+	- Understanding of RDMA programming frameworks and ecosystems, such as IB-verbs and Libfabric
++ skill set for Intelligent Computing Development Engineer:
+	- Plan and optimize the overall intelligent computing architecture. Based on the in-depth convergence and optimization of AI and big data and the optimization of computing resource scheduling, continuously improve the competitiveness of intelligent computing in business scenarios and develop industry best practices.
+	- Lead topic research on intelligent computing products and how HUAWEI CLOUD can use them.
+	- Participate in end-to-end delivery of intelligent computing service features, covering phases such as requirement analysis, module design, development, and rollout. Communicate with customers about HUAWEI CLOUD intelligent computing solutions.
+	- AI and big data research background, and related project experience preferred
+	- Expertise with Linux. Proficient in C++, Java, Python, or Golang. Excellent ability to implement algorithms
+	- Strong motivation to learn new technologies, excellent communication skills, and good team spirit
++ skill set for Computer Virtualization Technical Planning Expert:
+	- Formulate virtualization technical strategies and roadmaps, inducing but not limited to hardware virtualization, operating system virtualization, container, security container, system container, nested virtualization, unikernel, software and hardware combined virtualization, and virtual machine security.
+	- Obtain a deep understanding of the ecosystem of mainstream virtualization technologies, including the evolution of KVM, Xen, Hyper-V, libOS, and Docker, and support the formulation of technical strategies.
+	- Dive deep into technical details to come up with innovative solutions among various technical streams, determine the technical investment portfolio, and get key technologies ready ahead of time and ensure technological competitiveness via R&D, technical cooperation, tech investments and acquisitions, and other approaches.
+	- Formulate standards and IP, and technical ecosystem strategies and ensure they are successfully implemented.
+	- Work with architects, senior system designers, software engineers, and product managers to ensure technical feasibility and successfully implement Go-to-Market strategies.
+	- Professional knowledge:
+		* Knowledge of hardware virtualization technologies, including GPU virtualization and FPGA virtualization (preferred)
+		* Understanding of OpenStack and Kubernetes (candidates with OpenStack and Kubernetes design and development experience and those who have contributed code to these communities are preferred)
+		* Good speaking and writing skills and team spirit; good command of English (preferred)
+	- Business skills:
+		* Deep understanding of compute virtualization theories and knowledge of virtual machine isolation technologies such as vSphere, KVM, and Xen
+		* Up-to-date knowledge of compute virtualization technologies; understanding of Docker container technologies and other container-related isolation enhancement techniques, such as Clear Container and SGX
+	- Experience requirements:  
+		* Minimum 8 years of compute virtualization design experience with large-scale IT enterprises
+		* Long observation and up-to-date knowledge of KVM communities (preferred)
+		* Experience in technical planning, excellent system analysis and design skills, a fast and deep learner with a strong interest in new technologies and skills
+		* Broad knowledge, open-mindedness, up-to-date knowledge of information technologies; proactive thinking, self-motivated, strong execution ability, ability to work under high pressure, acute risk awareness and risk identification skills, and independent problem-solving skills
++ skill set for Big Data & AI Cloud Architect:
+	- Responsible for the system design, coding, testing, and maintenance of the features of HUAEI CLOUD AI services.
+	- Responsible for the delivery of AI service features, system design documentation, and interfaces, and contribute to writing core code.
+	- Ensure the quality of AI service architecture and support resolution of issues found during AI service development.
+	- Proficiency in at least of the following programming languages: C, C++, Java, and Python
+	- Experience in end-to-end development and maintenance of core system modules
+	- Experience in open source AI platforms including TensorFlow, MXNet, and GraphLab (preferred)
+	- Experience in graph computing, distributed graph computing, or deep neural networks, including DNN, CNN, and RNN. (preferred)
++ skill set for Computer Vision Algorithm Engineer:
+	- Conduct research on computer vision algorithms and develop related products, including but not limited to facial recognition, facial attribute recognition, target detection, target classification, target attribute recognition, graph segmentation, image captioning, object tracking, video segmentation, video captioning, text detection, person re-identification, image generation, and image audit.
+	- Conduct research on deep learning algorithms, especially on applications of computer vision technology, including model acceleration, model encryption, and model quantification.
+	- Proficiency in at least one of the following programming languages: C, C++, and Python; ability to implement self-designed algorithms
+	- Solid mathematical background and proficient in geometry, statistics, and machine learning, and understanding the applications of these in image recognition
+	- Knowledge of at least one of the mainstream deep learning tools, including Caffe, TensorFlow, Keras, and MXNet
+	- Understanding of computer architecture and ability to optimize and customize algorithm libraries via algorithms and machine code instructions (preferred)
+	- Knowledge of the transportation, finance, industrial control, and environment protection industries (preferred)
++ skill set for Machine Learning/Deep Learning Algorithm Engineer:
+	- Conduct research and development on machine learning, deep learning, and reinforcement learning models, including but not limited to basic algorithms and models, such as CNN, RNN, DNN, and DQN.
+	- Provide basic algorithms or operator optimization such as model compression and convolution acceleration for the above models and support performance improvement.
+	- Conduct research on algorithms for convex optimization and non-convex-optimization and high performance telecom technologies to make full use of software and hardware and build leading AI frameworks and platforms in the industry.
+	- Develop one-stop end-to-end AI platforms including intelligent labeling, feature engineering, model development, automated learning, training, and reasoning.
+	- Proficiency in one of the following programming languages: C, C++, and Python; ability to implement self-designed algorithms
+	- Knowledge of common machine learning algorithms, including cluster, decision tree, regression, and recommendation
+	- Proficiency in the establishment and training of common deep learning networks such as CNN, RNN, and GAN
+	- Experience in machine learning/AI engineering and at least one of the mainstream machine learning platforms, including PyTorch and TensorFlow
+	- Experience in open source AI platforms including TensorFlow, MXNet, PyTorch, and Caffe (preferred)
+	- Knowledge of the transportation, finance, industrial control, and environment protection industries (preferred)
++ skill set for EI Algorithm Expert:
+	- Ensure the application of algorithms for one of the following industry solutions: intelligent transportation, smart medical, smart finance, Internet, and IoT.
+	- Drive the evolution of system architecture and iterated product development and resolve engineering and optimization issues during algorithm application.
+	- Consider the positioning, development strategies, and business models of AI solutions and formulate long-term development plans.
+	- Bachelor's degree or higher (PhD preferred); proficient in Java, C, or C++; in-depth knowledge of algorithms and data structures
+	- Understanding of at least one of the mainstream deep learning tools, including Caffe, TensorFlow, Keras, MXNet, and so on  
+	- Proficiency in deep learning technologies, especially in research on applications of the computer vision technology, including model acceleration, model encryption, and model quantification
+	- Distributed system architecture design abilities; knowledge of mainstream technologies including fault tolerance, distributed cache, and high concurrency solutions; experience in multi-threaded and high performance system design and in coding and performance tuning
+	- Good communication and coordination skills and dedication to work
++ skill set for Natural Language Processing Algorithm Engineer:
+	- Carry out research on natural language processing algorithms, including but not limited to semantic analysis, intent recognition, man-machine dialogue, machine translation, knowledge graph, and named entity recognition.
+	- Conduct research on cutting-edge natural language processing technologies, and provide technical solutions for the Enterprise Intelligence (EI) domain based on actual application scenarios.
+	- Proficiency in one of the following programming languages: C, C++, and Python; ability to implement self-designed algorithms
+	- Solid knowledge of algorithms, deep understanding of algorithm rationale and basic machine learning theories, and proficient in mathematics or statistics
+	- Natural language processing knowledge and skills and deep understanding of computational semantics and text generation
+	- Knowledge of common machine learning algorithms; experience in the application of deep learning, transfer learning, and reinforcement learning technologies or publication of high quality thesis papers (preferred)
+	- Knowledge of the transportation, finance, industrial control, and environment protection industries (preferred)
++ skill set for OS Kernel Engineer:
+	- Lead next-generation OS development. Lead and make breakthroughs in technology research, architecture design, and application scenarios of next-generation OS kernels.
+	- Mine key OS technologies, build system prototypes, and promote implementation of key technologies.
+	- Develop OS features and subsystems and perform overall performance commissioning and optimization.
+	- Solid system knowledge and mastery of key OS modules, including memory management, scheduling, file system, driver, security, and performance optimization
+	- Proficient in Linux kernel programming, virtualization, and real-time knowledge
+	- Demonstrated skill in using common Linux kernel optimization tools and ability to optimize kernel performance according to system architecture
+	- Expertise in implementing and developing OS drivers
++ skill set for Large-scale Scheduling Development Engineer:
+	- Design the architecture of large-scale distributed resource scheduling algorithms on HUAWEI CLOUD. Think innovatively about technologies and services. Participate in critical decision-making related to system scheduling, and promote decision implementation.
+	- Develop and optimize the core algorithms of the large-scale distributed scheduling system and related systems. Improve system scheduling performance, and participate in end-to-end design, development, and rollout of new features.
+	- Solid theoretical foundation and rich practical experience in portfolio optimization, data mining & analysis, and statistics. Proficient in large-scale distributed machine learning, as well as data preprocessing, training, tuning, and prediction.
+	- Proficient in Linux and its shell scripting, DevOps, O&M tool chain, and O&M ecosystem. Familiar with popular public cloud and container technologies and platforms. Extensive experience with R&D of cluster resource scheduling systems such as Yarn, Kubernetes, and Mesos
+	- Deep understanding of virtualization, container technologies, and Linux CGroup and namespace mechanisms. Rich design and development experience with resource scheduling
+	- Strong motivation to learn new technologies, excellent communication skills, and good team spirit
++ skill set for Edge Computing Research Engineer:
+	- Design and develop edge computing platform architecture for applications including edge application development, IoT, and edge AI. Innovate edge computing technical solutions to pursue service experience with high reliability, security, and performance.
+	- Participate in open source edge computing projects of the Linux Foundation and track the latest technologies and their implementation in the industry.
+	- Fully understand customer requirements and provide technical solutions to resolve problems.
+	- Computer science or related major. Proficient in at least one programming language. Expertise with Go/Python/Shell preferred
+	- Solid knowledge of edge computing, MEC, and IoT and their key application scenarios, such as interactive live broadcast, real-time audio and video, network video surveillance, and AI. Insights into the latest industry technologies. Practical project development experience preferred
+	- Strong interest in technologies and excellent logical thinking. Expertise in CDN, OpenStack, and Kubernetes and good understanding of popular edge computing products preferred
++ skill set for AI4System Algorithm Engineer:
+	- Conduct research, problem modeling, mathematical modeling, algorithm design, and basic prototype development to solve system-related complex problems.
+	- Using AI, optimize the algorithms of the database kernel optimizer and the configuration tuning parameters.
+	- Predict and optimize network performance using AI algorithms and conduct correlation analysis of network events.
+	- Use AI to optimize underlying storage data structures and algorithms, such as indexing, compression, hot and cold data identification, and cache prefetch.
+	- Expertise in underlying principles of machine learning, deep learning, and reinforcement learning algorithms, and extensive experience with mathematical analysis. Skilled at using basic machine learning, deep learning, or reinforcement learning frameworks. Computer science, mathematics, or related major preferred
+	- Familiar with the principles and parameter tuning of internal database optimizers preferred
+	- Solid knowledge of computer networking and systems preferred
+	- Broad knowledge of underlying storage technologies and principles preferred
++ skill set for Machine Learning and Deep Learning Algorithm Engineer
+	- Lead R&D for models such as machine learning, deep learning, and reinforcement learning, including CNN, RNN, DNN, and DQN.
+	- Optimize basic algorithms or operators of the preceding models, such as model compression and convolution algorithm acceleration, to achieve ultimate performance.
+	- PhD in computer science, electrical engineering, or related field
+	- Extensive knowledge of deep learning and classical machine learning. Field application experience, such as computer vision, NLP, or intelligent control. Practical experience preferred
+	- Proficient in a least one mainstream deep learning tool such as Caffe, TensorFlow, Keras, or MXNet
+	- At least one paper published in a top-level conference in a related field preferred
+	- Excellent learning ability, communication skills, strong sense of responsibility, and good teamwork. Ability to continually learn and embrace change
++ skill set for Data Mining and Machine Learning Algorithm Engineer:
+	- Use data mining and machine learning to study and analyze HUAWEI CLOUD products in the aspect of data monitoring.
+	- Use machine learning frameworks to process massive amounts of monitoring data, develop intelligent resource monitoring services, use machine learning algorithms to provide intelligent recommendation for customers, and optimize customers' cloud resource monitoring.
+	- Expertise in common data mining technologies and machine learning algorithms, and related practical experience
+	- Continuous study of the latest research directions and achievements in machine learning, and exploration of big data applications in cloud monitoring
+	- Sensitive to data, strong analysis capability, and creative thinking
+	- Solid knowledge of open source components related to data mining and machine learning, such as TensorFlow, Caffe, Spark, and Flink
++ skill set for Computer Vision Algorithm Engineer:
+	- Lead R&D of computer vision algorithms, including applying visual technologies to faces, images, videos, and text. This R&D applies to campus, shopping mall, transportation, logistics, medical imaging, content moderation, and other scenarios.
+	- Research and develop deep learning algorithms, especially for computer vision, model acceleration, model encryption, and model quantization.
+	- Rich research and practical experience with video image processing and analysis, machine learning, and deep learning, and strong hands-on skills. Ability to use one of the following deep learning tools to solve problems: Caffe, PyTorch, MXNet, and TensorFlow
+	- At least one paper published in a top-level conference or periodical (including CVPR, ICCV, ECCV, NIPS, ICML, KDD, PAMI, IJCV, etc.) in the field preferred
+	- Logical analysis skills to develop abstract mathematical models of real problems, then solve them
+	- Experience with computer vision projects, including transportation, medical care, campus, OCR, images, and videos preferred
+	- Good professional quality and conduct, excellent teamwork, and rigorous working style
++ skill set for Memory Compression/Encryption/Overcommitment Engineers:
+	- Optimize system memory algorithms and explore memory usage maximization algorithms.
+	- Resolve Linux kernel problems of servers and provide kernel support and technical suggestions for developers.
+	- Lead R&D of new Linux kernel technologies, analyze system performance, and optimize the architecture, especially by optimizing the new hardware platform and new technologies.
+	- Expertise in memory overcommitment technologies and their working principles, including memory ballooning, memory sharing, memory swapping, transparent page sharing, and memory compression
+	- Good knowledge of the Linux OS and experience with memory optimization
+	- Proficient in Java, C, C++, or Python
++ skill set for Performance Optimization Engineer:
+	- Optimize vertical software and hardware integration (such as the database and FPGA hardware acceleration or ARM acceleration) in the underlying operating system on which the database depends. Collaborate with the database kernel to optimize the Huawei-developed database engine and configurations of other database engines.
+	- Proficient in implementing storage, virtualization, and OSs. Experience with system design and development
+	- Theoretical research or project development experience with database transactions, cache management, and data acceleration algorithms.
++ skill set for Database Kernel Technology Researcher:
+	- Research optimization technologies, new algorithms, and new hardware of database kernels, and apply them to the design and delivery of cloud databases to lead the industry.
+	- Computer science or related major. Proficient in C/C++ programming on Linux. Profound theoretical understanding of databases and good knowledge of the latest database architecture and research
+	- Proven research background in database kernel architecture and algorithms, and related experience
+	- Proficient in kernel code implementation of one of an open-source database, such as MySQL, PostgreSQL, or NoSQL.
++ skill set for Blockchain Research Engineer:
+	- Lead key blockchain technology innovation, system design and development, and key application model and algorithm development of HUAWEI CLOUD Blockchain Service. Build a blockchain system featuring high fault tolerance and performance.
+	- Continuously gain insights into the industry's cutting-edge technical issues and develop products based on customer requirements to improve service competitiveness.
+	- Information security, computer science, data communications, or related major. Solid security expertise and project research experience. Ability to independently engage in research
+	- Extensive technical knowledge of distributed system architectures and the SOA architecture. Deep understanding of cloud computing technologies, such as Kubernetes and Docker. Experience with related product security development preferred
++ skill set in Automotive Security:
+	- Survey and research on important security technologies for automotive, in areas of access control, software over the air update, autonomous driving and etc.
+	- Work on technical reports and Proof of Concepts.
+	- Support development of security modules.
+	- Master candidate in computer science, cyber security or related areas
+	- Good knowledge in one cyber security areas (e.g. identity & access management, crypto, SELinux…)
+	- Knowledge about Linux or Android operation system
+	- Knowledge about automotive software like Autosar is a plus.
+	- Knowledge in autonomous driving, AI algorithm is a plus.
+	- Development experience in C++ or C.
+	- Comfortable communicating in English.
+	- Team-work spirit and independent working capability.
+	- Hands-on and can-do attitude, quick learn capability.
++ skill set:
+	- Huawei’s Open Source Technology Center in Europe is looking for a Principal Solution Architect to join us. In this role you will be the mind behind the architecture of our IoT device end-to-end software stack, from the edge operating system to the cloud backend interface, as well as being the architect behind the development, testing and release infrastructure. You will be a key influencer and go-to technical expert for our internal team and a become key mantainer in the open source projects we will contribute to. You will report to the Director of the Open Source Technology Center in Europe who has general management reposibility. When you will be in the room, business and technical requirments will find their place on a whiteboard. You will try it out, prototype and turn your vision into project plans. You will supervise the end result, provide expertise and coaching and be the first customer of your own products.
+	- If you are an expert open source software architect with experience in embedded devices operating systems, if you have a track records of open source contributions, if you have been in key open source projects mantainer roles, if you see the world as source code and think your days in sprints and jenkins tasks, we’d like to meet you!
+	- Be the architect behind Huawei’s Open Source Technology Centers IoT software stack
+	- Design architecture documents and translate business requirements and customer requirements into themes, features, that the development team can execute upon
+	- Be the role model and the key influencer who drives the open source mentality in the team
+	- Be a key maintainer in Huawei’s open source projects
+	- Participate at open source gatherings and deliver keynotes / technical talks
+	- Scout for new open source technologies and initiatives and be an innovation engine
+	- Meet with key partners and customers in order to achieve an understanding of their requirements and help build the solution to their problems
+	- Advanced computer science or engineering degree with specialties in embedded / IoT devices and extensive engagement in open source communities and industry forums, such as Linaro, Openembedded, Yocto Project, …
+	- Extensive understanding of embedded operating system and cross-build platforms, open source, and related customer issues including Linux kernel overall architecture, GNU and CLANG compilers, operating system optimization for performance and size.
+	- Knowledge of open source projects governance such as technical advocacy teams, steering advisory boards
+	- Proficiency with CI/CD open source frameworks and tools, as well as automated testing for embedded / IoT devices the like of LAVA and Jenkins.
+	- End-to-end IoT devices software stack, from edge device to cloud backend, from device management to cybersecurity (CVEs handling, CVSS scoring, …), from containers and orchestrators to cloud native.
+	- Ability to partner with senior technical leaders and architects, establish influence and drive consensus
+	- Natural technical leader and influencer
+	- Excellent verbal, written and presentation skills
+	- Ability to handle ambiguity and operate autonomously
++ skill set for Adaptive AUTOSAR Architect & Engineering:
+	- Huawei’s Munich Research Centre is responsible for advanced technical research, architecture evolution design and strategic technical planning in embedded system (wireless, edge computing, automotive domain, etc.).
+	- Take the lead in the architecture, design, development of Adaptive AUTOSAR system/sub-system, support Huawei Intelligent Automotive Solution.
+	- Being active in the standard, attend the AUTOSAR consortium conference. Work in related WGs and contribute Huawei concept to the consortium/standard.
+	- Plan the software technology and IP and collaboration strategy, lead the selection and adoption and participation of relevant industry standards and formulate a technology roadmap that builds the basis for a highly-competitive portfolio of products.
+	- Clarification of software requirements with customer, supplier, partner and other relevant inter-departments. Guide the entire prototyping and agile software life-cycle. Make decisions about the realization of the designed key technical solutions, participate in team-work and provide guidance for the team to make the solutions a reality.
+	- Protect intellectual property and disseminate innovative research results in the community.
+	- Masters with 8+ years’ experience, PhD with 5+ years’ experience in automotive software.
+	- Deep understanding and working experience in Adaptive AUTOSAR including tools and methodologies.
+	- Working experience in AUTOSAR WG for more than 1 year.
+	- Expertise in safe and/or secure usage of C++/C in Embedded Systems.
+	- Able to work in a diversified team. Possess cross-team and cross-domain communication skills.
+	- The willingness and ability to travel are required.
+	- Basic understanding of ISO26262 is a plus.
+	- Fluent in English, German and Chinese is a plus.
++ skill set for Identity and Access Management, IAM:
+	- Play a leading role to the development of Data Protection Architectures, Data Security, Accountability and Privacy technologies and innovative Product Features for the Cloud, Big Data, IoT and/or mobile platforms.
+	- Applied research and advanced technology development in one or more of the following topics:
+		* Dynamic authorization including extensions of Attribute-Based-Access-Control (ABAC) for IoT, mobile devices and Cloud platforms.
+		* Fusion of Bayesian Networks / Deep Learning / biometric fusion and ABAC
+		* Steganography and Steganalysis including watermarking and data tracing technology for video, image and AI models,
+	- Lead the implementation of proof of concept prototype of technology innovation
+		* Strong experience with collaborative development
+		* Strong experience with C/C++ on IoT or small devices
+		* Experience with operating systems such as Android and (embedded) Linux.
+	- Improve security engineering process as well as security by design concept
+	- Improve and apply best practices on Cloud Security Architectures from NIST, ENISA and FIDO/W3C guidance
+	- Identify innovation opportunities, elicit requirements and contribute to feature/product development roadmaps
+	- Work together with the R&D of Product teams in order to impart innovation into new products
+	- Lead or contribute to collaborative research and innovation activities with partners Huawei’s innovation ecosystem that includes R&D of top European companies and Universities.
+	- Expertise in at least one of the following technology areas
+		* Dynamic authorization including extensions of Attribute-Based-Access-Control (ABAC) for IoT, mobile devices and Cloud platforms.
+		* Fusion of Bayesian Networks / Deep Learning / biometric fusion and ABAC
+		* Steganography and Steganalysis including watermarking and data tracing technology for video, image and AI models and understanding of the impact of information hiding and steganography to AI and Machine Learning
+	- Strong development expertise in C/C++ and (ideally) Rust programming languages.
+	- Understanding of mobile and embedded device operating systems (e.g. Android and embedded Linux)
+	- Ability to combine high level architecture perspective with deep and detailed technical design/prototype work
+	- Proven successful track record of architecting, designing and implementing new data protection technology in Mobile, IoT and Public Cloud platforms in commercial R&D and/or in products, solutions, corporate standards
+	- Strong Systems and Software Design skills for example with UML/FMC is necessary
+	- Capable to analyze complex software architectures and prioritize development tasks to maximize efficiency.
+	- Able to independently design, build, and maintain efficient, reusable and secure code, and to analyze existing designs and code and identify improvements.
+	- Degree in Computer Science / Networks (ideally PhD and/or 3+ years research or advanced development)
+	- Excellent communication skills, team-work, self-motivation, self-organization and independent working.
+	- Fluent written and spoken English.
+	- Ability/interest for international travel.
++ skill set for Software Functional Safety Architect:
+	- Drive the design and development of functional safety requirements in OS and Middleware (e.g. Adaptive AUTOSAR) and functional decomposition for (a) specific functional domain(s).
+	- Responsible for functional safety requirement analysis, design. Define the functional safety concept or requirements for the relevant system, OS and middleware level software according to ISO26262.
+	- Work with cross-functional teams to manage hazard analysis, safety concepts, and DFMEA for the relevant system/domain. Take ownership of these work products including their approvals.
+	- Support software component functional safety certification.
+	- Clarification of software requirements with customer, supplier, partner and other relevant inter-departments. Guide the entire prototyping and agile software life-cycle. Make decisions about the realization of the designed key technical solutions, participate in team-work and provide guidance for the team to make the solutions a reality.
+	- Protect intellectual property and disseminate innovative research results in the community.
+	- Masters with 8+ years’ experience, PhD with 5+ years’ experience in automotive software.
+	- Deep knowledge of Functional Safety standards, such as ISO 26262 and/or IEC 61508. And related technique, such as STPA/STAMP, SOTIF.
+	- Background with SEooC and ASIL D certificated knowledge.
+	- Familiar with automotive or equivalent software development process and the V-Model system development, verification and validation framework. Experience with functional safety tools.
+	- A collaborative approach to working closely with development teams.
+	- Understanding of the product safety responsibility share between supplier and OEM.
+	- The willingness and ability to travel are required.
+	- Having Professional or Expert level certification from TUV is a plus.
+	- Fluent in English, German and Chinese is a plus.
++ skill set for Embedded OS Architect & Expert for Automotive:
+	- Define the overall embedded OS and middleware (e.g. Adaptive AUTOSAR) software stack architecture for Huawei automotive product and its components and draft the architecture design specifications.
+	- Build the real time, high performance, security, safety certified competitive technologies in OS for Huawei Next Generation Intelligent Automotive solution.
+	- Plan the software technology and IP and collaboration strategy, lead the selection and adoption and participation of relevant industry standards and formulate a technology roadmap that builds the basis for a highly-competitive portfolio of products.
+	- Clarification of software requirements with customer and other relevant departments. Guide the entire prototyping and agile software life-cycle. Make decisions about the realization of the designed key technical solutions, participate in team-work and provide guidance for the team to make the solutions a reality.
+	- Protect intellectual property and disseminate innovative research results in the community.
+	- Bachelors and Masters with 10+ years’ experience, PhD with 6+ years’ experience in embedded software.
+	- Deep technological understanding of automotive software and key technologies. Have genuine ideas for the development of new technologies and be willing to transform these ideas into reality.
+	- Experience background with embedded OS (e.g. OSEK OS, Micro-kernel, Linux, RTOS) and infrastructure software, include but not limited (It could be all or part of them),
+		* Operating System, e.g. Micro-kernel, Linux, Hypervisor.
+		* HW&SW Co-design, Real time scheduling, heterogeneous scheduling technologies.
+		* Deterministic scheduling, execution, latency technologies.
+		* Safety and security critical system technologies, e.g. Functional Safety, Cyber Security, v-model development technologies.
+		* Embedded middleware adaptive runtime framework (e.g. Adaptive AUTOSAR, DDS).
+		* Mixed critical system technologies.
+		* OPC UA standard in Industry 4.0/IIOT.
+		* Basic understanding of ISO26262 or IEC61508.
+	- Able to work in a diversified team. Possess cross-team and cross-domain communication skills.
+	- The willingness and ability to travel are required.
+	- Fluent in English, German and Chinese is a plus.
++ skill set for research in Binaural 3D audio:
+	- advanced technical research, architecture evolution design and strategic technical planning
+	- Audiovisual Technology Lab in Huawei Munich Research Center is developing innovative technologies on spatial audio processing and rendering. You will contribute to these activities being inserted into an international and experienced team of researchers.
+	- To support our research activities, we are looking for enthusiastic and highly motivated PhD candidate (m/f/d) who will contribute to the research and development of binaural 3D audio technologies.
+	- There are still many problems to be solved to provide great 3D audio experience with headphone. Individual measured HRTF filters could be used for accurate audio rendering, but this is not practical and time consuming. Moreover, a mismatching of virtual sound objects to real-world room acoustics might destroy the plausible impression of externalization and distance/depth perception. The rendering system should provide good spatial effect but also preserve timbral quality. This is still a very challenge task.
+	- Research on innovative algorithms in the field of binaural 3D audio technologies;
+	- Research on innovative algorithms in the field of HRTF customization;
+	- Research on innovative algorithms in the field of virtual acoustic environment;
+	- Implement the innovative algorithms on a reference software;
+	- Generate papers and technical reports if possible;
+	- To commit adequate time and effort to the project;
+	- To display initiative in identifying and resolving problems relating to the research;
+	- To manage their work efficiently so as not to place unreasonable demands on supervisors.
+	- Topic of interest include (but are not limited to): Binaural 3D audio
+	- You have recently completed or will soon complete your master studies in electronic and electrical engineering, information technology, computer science, mathematics or physics
+	- You enjoy working in a team and you like to collaborate with researchers to develop creative solutions
+	- You are fluent in English (written and spoken)
+	- Excellent software skills
++ skill set for Optical Access Network System:
+	- Our newly founded optical transmission Technologies Department (EU Branch) will play a leading role in researching new technology and delivering specific solution for the Next Generation Optical Access Network. To build up a high level expert team in the European Research Center in Munich, we are in search for an Expert of next generation passive optical network NG-PON).
+	- Undertake the research direction on optical access network. Lead the team to achieve innovative breakthroughs at the PON system/DSP/component/chip level. Build the leadership in the industry.
+	- Creative innovation by new concepts and key technologies. From optical access network system level to define the key technologies and proposal on the technical solutions. Make promising proposals when there are several optional schemes.
+	- Be responsible for the planning of research and development of crucial, challenging and innovative technologies contributing to product, like next generation PON system.
+	- Observing and analyzing industrial activities in optical access network area, to provide opinions or comments on various technologies trends, and corresponding suggestions (e.g. R&D topics, cooperation partner, e.t.c.) for Huawei’s business success.
+	- Build technology collaborations with European vendors, leading universities and institutes.
+	- Electrical or electronic, communication engineering, optics and other related major, master's degree or above (PhD degree is preferred).
+	- More than 8 years (for PhD) or 10 years (for Master) research or development experience in transport or access area or related areas;
+	- With successful project experience in the optical network key technology, system and architecture or related area;
+	- Good at DSP skills and successful project experience;
+	- Familiar with materials, components and devices of optical physical layer and with related application project experience;
+	- Fluency in English (written and spoken).
+	- Open mind, good communication and teamwork, and good presentation skills.
++ skill set:
+	- We are currently looking for a Senior Specialist - Security Standards Organisation to join our Industry standardization Department in Lausanne. Our Industry Standardization department is responsible for the quality and timeliness of the corporate industry standardization strategies and implementation tactics. Another key mission is to help business departments coordinate and align their industry standardization strategies and implementation tactics with corporate strategy. It also ensures effective execution of industry standardization strategies and decisions to realize quality and efficient work.
+	- Maintain effective operations of account departments and working groups for industry standards organizations, and enhance the capabilities of Huawei team in standardization activities. Participate in regulation making and operations of standards organizations, Ensure that the standards team effectively execute industry standardization strategies and tactics
+	- Gain insights into industry standards organizations in real time to identify changes in standardization. Respond to crises and effectively control risks. Facilitate the development of corporate industry development strategies and help enhance Huawei product competitiveness
+	- Promote connections and coordination between industry standards organizations and OpenSource communities, as well as industry alliances. Achieve industry development strategy goals through multi-methods
+	- Continue to enhance our strengths in essential patents, and promote connections and coordination among research, standardization, and patents to ensure the development of Huawei products and Markets
+	- Build and improve capabilities contributing to industry standardization, as well as attract high-level standardization experts to ensure we have industry- leading standardization capabilities
+	- Leading Huawei’s international standards efforts in various security areas, representing Huawei to dialogue with senior security managers and experts from customers and industrial partners around the world, privilege of attending high-level security-related strategies meetings in Huawei.
+	- Creating personal brand in the industry base on abundant resources available from the corporation, increasing popularity and gain more respect to realize the evolvement of personal career.
+	- In charge of the overall and domain-specific security-related standards strategy development, procedure optimization; summarize method and experience through project and planning
+	- Shaping security standards strategies that will drive Huawei to accomplish its objectives of becoming one of leading players in security –related technical areas and safeguard Huawei’s business interests without being hampered for security reasons.
+	- Build brand and connection in industry, represent Huawei to high-level industry summits, conferences, present Huawei’s opinion and get positive influence in various security areas.
+	- Gain insights into the technology development direction of security standards organizations.
+	- In charge of the overall and domain-specific security-related standards strategy development, procedure optimization; summarize method and experience through project and planning.
+	- Leading Huawei’s international standards efforts in various security areas, representing Huawei to dialogue with senior security managers and experts from customers and industrial partners around the world
+	- Output an insight report on security standards organizations.
+	- Build influence and guide the company's technical investment.
+	- Leading position in the industry in security-related standards area.
+	- Have a thorough and deep understanding of security standards and the industry.
+	- Be able to have a keen insight into the development trend of security technologies.
+	- Have at least eight years of working experience in the security standards field.
++ skill set for AI Algorithm Expert/Data Scientist:
+	- Network Energy Advanced Technology Research, Architecture Evolution Design and Strategic Technology Planning
+	- Huawei’s German Research Center in Nuremberg (Nuremberg Research Center) is responsible for Network Energy Advanced Technology Research, Architecture Evolution Design and Strategic Technology Planning.
+	- Responsible for exploring and breeding of the AI/Big Data algorithms and their application in on-board energy, data center energy, telecom energy and PV energy field, etc.
+	- Responsible for technology insight and planning, algorithm research and design, technology development and architecture maintaining of AI technology in energy field.
+	- Supervising a team of AI engineers to solve complex industrial and technical problems using advanced mathematical modeling and optimization technique, including but not limited to, big data pre-processing, problem formulation, feature engineering, algorithm selection, hyper parameters tuning and deployment. You will not only supervise the team but should also be able to code and deploy on your own
+	- Analyzing the latest development of industry and academia on industrial AI/Big Data field, participate in open communities and further organizations in industrial AI/Big Data, promote industrial AI/Big Data ecosystem construction and external cooperation, and increase the overall influence of Huawei energy.
+	- Lead the design and subsequent verification and validation of AI/Big Data algorithm concepts in the R&D laboratories.
+	- Essential:
+		* You hold an Master Degree in AI, software development, applied mathematics, statistics, control science or any related field
+		* You provide more than 10 years of experience in AI algorithm, research design ant it's application. In addition you have experience in Data Mining in an energy related industry
+		* You hold successful AI and Big Data related project experience in an energy related industry
+		* In-depth knowledge of AI/Big Data, Digital Twin and Operational Optimization algorithm, etc.
+		* Good grasp of at least one or more of the following languages such as Python, Matlab, R, C/C++, Java
+		* In-depth knowledge in at least one or more mainstream algorithm development frameworks such as TensorFlow, Caffe, MXNet, Scikit-Learn.
+		* You have initial experience in leading a development team and have certain encoding capability.
+		* Very good English skills in written and spoken (working language)
+		* Strong learning ability, passion for technology, good communication and coordination skills.
+	- Preferred:
+		* Doctor degree in AI, software development, applied mathematics or any related field with 5 years of experience in AI algorithm and Data Mining in an energy related industry
+		* Further language skills are an plus
++ skill set for Network Engineer/Network Researcher:
+	- Our team’s mission is to develop new intelligent tools aimed at SRE and cloud maintenance operators to enable them to quickly detect anomalies thanks to the use of artificial intelligence when cloud services are slow or unresponsive. We analyze observability data from Huawei Cloud to detect glitches which impact customers, identify their root cause within seconds, and automatically fix problems, when possible.
+	- To drive automation and reliability, we are seeking a Network Engineer/Network Researcher to join the Ultra-scale AIOps Lab and the Computing and Network Innovation Lab which is distributed across Munich, Dublin, and Shenzhen Research Centers. This team is entrusted with developing key new innovative solutions for Huawei Cloud. You will take systematic approaches to solve operation problems, dissect how large-scale, complicated systems work, and feel a great satisfaction from making continuous improvements.
+	- Contribute with systems to the future generation of AIOps for networks and Intent-Based Networks.
+	- Propose new ideas and concepts to support self-driving networks.
+	- Work with AI/ML engineers to develop new tools for network performance analysis, anomaly detection, root cause analysis and network verification.
+	- Develop new tools using cutting edge technology focusing on efficiency and automation.
+	- Collaborate with colleagues from science, engineering, and business backgrounds
+	- Several years of professional experience working in large scale networking environments.
+	- Deep understanding of network management and operation.
+	- Experience with a global service provider or hyper-scale network in engineering or design roles.
+	- Knowledge of network analysis fundamentals and robust troubleshooting skills.
+	- Familiar with the overall architecture of public cloud networks.
+	- Experience with applying AI algorithms and knowledge in formal verification is a plus.
+	- Experience with automation via bash/shell scripting and Perl/Python/Java programming.
+	- Experience working within a Linux environment.
+	- Sense of ownership and drive.
+	- Demonstrated ability to solve challenging engineering problems.
++ skill set for Open Source (OS) Test Architect:
+	- Build end to end test framework and test standards for long-term Android, Linux, IOS and other operating systems optimization;
+	- Review/refine existing QA processes and tools and assist in establishing new standards and processes based on industry trends and best practices;
+	- Undertake design of corresponding test frameworks and test suites for open source community; design the corresponding test certification frameworks and test suites for developers & ODM vendors, etc.
+	- Lead the verification and evaluation of key technologies in the OS field (kernel scheduling, file system, memory management, database, CPU / GPU scheduling, etc.) and support the key competitiveness of product operating systems;
+	- 10+ years experience in large-scale operating system testing, quality control and development. Experts who have worked in operating system-related companies are preferred;
+	- 2+ years of leadership experience, project planning and task decomposition skills;
+	- Familiar with OS architecture (Linux, Android, IOS, Windows, etc.) and proficient in OS key module development or testing (memory management, file system, performance tuning, etc.);
+	- Familiar with the construction of open source community, testing and quality control systems and related certification testing and admission testing related work;
+	- Education: Master's degree or higher;
+	- English: Upper-intermediate or higher.
++ skill set for Security Researcher:
+	- Identifying weaknesses in existing 3GPP radio access network technologies including 4G and 5G (NR).
+	- Develop and promote proposals to mitigate the security/privacy issues identified.
+	- Cooperate with universities and other eco-system partners on security research and analysis
+	- Help shape the industry with new innovation via standardization bodies e.g. 3GPP, ETSI, etc.
+	- Engage with customers and regulators in order to help shape a secure ICT world.
+	- Work with the world leading researchers across the world on the most advanced technologies including AI, IoT under the scope of 5G.
+	- Help steer our 5G products and solutions security.
+	- Provide analysis and insight of industry trends.
+	- Generate product security roadmap recommendations.
+	- PhD in computer science or advanced PhD with focus on telecommunication security (preferably radio access technologies, the 3GPP air-interface protocol stack).
+	- Several years of experience in network security research, specifically in the domains of protocol analysis, vulnerability detection, protocol correctness, protocol verification, etc.
+	- Several years of experience researching and developing tools/demos/PoCs which demonstrate the impact of such security issues (vulnerabilities) on the network.
+	- Several years of experience researching and implementing mitigation solutions (PoC/Demo level) for protocol vulnerabilities including algorithms development, performance/cost and impact analysis of algorithms implementation.
+	- Experience in working for mobile network operators/vendors as security researcher for radio access solution security would be a plus.
+	- Experience in researching radio access technology protocols security (3GPP 4G/5G air-interface network stack would be a plus.
+	- Published research work on radio access technology security (3GPP 4G/5G network stack would be a plus.
+	- Experience in developing and testing code in Linux running in user and kernel space would be an advantage.
+	- Experience in coding in C/C++/Python would be an advantage.
+	- Experience in contributing to standardization bodies (ETSI, 3GPP, IETF, etc.) would be an advantage
+	- Experience in engaging with customers and regulators would be an advantage.
+	- Openness to work in a diversified work environment with unique work cultures.
+	- Experience in presenting technical information to both technical and non-technical audience.
+	- Fluent in English (written and spoken).
++ skill set:
+	- Huawei Consumer Cloud Services is committed to providing users with a range of secure, rich, and high-quality services through device-cloud collaboration and by adopting a distinct Internet-based approach. We provide leading cloud services.
+	- We are currently looking for a Deep Learning Research Scientist ( Maps Search/Routing/Traffic/ETA/Datamining) for Huawei Map to join Huawei Mobile Services based in our Research Center in Zurich.
+	- Responsible for pre-research and breakthrough of map core algorithms, and archive more than 30% better performance over current industry best practices
+	- Research directions can be selected: road conditions, ETA, route planning, map search
+	- Master's degree or PhD in Computer Science, Mathematics, or a related technical field of study.
+	- Strong ability of commonly used machine learning algorithms, including Learning To Rank, Deep Learning;
+	- Familiar with Linux platform, proficient in C / C ++ programming, Python, Shell or other scripting languages;
+	- Can combine AI technology with the needs of the map field;
+	- Solid experience in road conditions, ETA and navigation
+	- Publication(s) in top-tier academic conferences or journals in related fields
++ skill set:
+	- The applied crypto team of Trustworthy Technology and Engineering Lab in Huawei Munich Research Center is developing applied crypto technologies, which is designed for supporting privacy and data protection. To support our research activities, we are looking for enthusiastic and highly motivated PhD student in applied crypto technologies. The PhD student will contribute to the research and development of applied crypto technologies for future data security and secure AI system. The candidate has the opportunity to work on real world problems and improve data security of Huawei future’s products and services.
+	- Assess data security risks of target application scenarios
+	- Research on innovative algorithms in the field of applied crypto technologies
+	- Implement the proof of concept of innovative algorithms
+	- Publish research papers and technical reports at high ranked scientific conferences
+	- Improve data security engineering process as well as data security by design concept
+	- You have recently completed or will soon complete your master studies in computer science, information technology, cybersecurity, privacy, crypto，electrical engineering, or mathematics;
+	- You have research experience in data science, machine learning and/or artificial intelligence;
+	- You have demonstrated affinity with algorithm development;
+	- You have a passion for finding solutions for complex technological issues;
+	- You have excellent collaboration and communication skills;
+	- You are self-starting and self-motivating, willing to take initiatives and feel the responsibility for your project;
+	- You have good programming skill in Java, C，C++，R, Python
++ skill set for post-doc position on innovative solutions for High Performance CPU accelerators:
+	- We are looking for a candidate to a post-doc position at the Department of Information Engineering and Mathematical Sciences (DIISM) at the University of Siena (Italy). The candidate will address a comprehensive study of CPU parallel accelerators, focusing on their ISA support and their performance and programmability features.
+	- The candidate will be employed on the R&D project “Programmability and parallel execution of CPU accelerators and corresponding ISA support” funded by Huawei Technologies Research & Development (UK) Limited.
+	- The project requires the analysis of applications from different domains, in tight collaboration with Huawei, in order to identify a set of representative reference benchmarks in the CPU accelerator domain. Then, the modelling of ad-hoc and general-purpose accelerators with convenient HW and ISA characteristics (e.g., RISC-V), studying the impact of each choice with performance indexes that will be identified during the study. These accelerators will be integrated in processor simulators like gem5 and investigated though the selected benchmarks, which will be ported of the PHAST programmability framework. In this way, the relationship between acceleration opportunities, accelerators features and their programmability will be conveniently studied as to pursue an effective decoupling between accelerator-set availability and code structure, while pursuing high efficiency.
+		* https://www.hipeac.net/jobs/11635/post-doc-position-on-innovative-solutions-for-high-performance-cpu-accelerators/www-phast-library.com
+		* https://www.hipeac.net/jobs/11635/www-phast-library.com
+	- The candidate will cooperate with the research group at DIISM under the guidance of Prof. Sandro Bartolini, in coordinated fashion with the Huawei research group. The candidate will work in a highly collaborative and stimulating environment, to ensure that the project deliverables are successfully met. The DIISM research group interests include computer architecture, parallel and heterogeneous programming models, high-performance computing, programmer’s productivity and abstraction models, integrated photonics for CMPs, virtual reality and 3D simulation. Huawei Technologies Research & Development (UK) Limited works on a number of strategic technologies and, specifically, the group involved in this project focuses on computer architecture, general-purpose processors, accelerators, parallel systems, GPUs and their orchestrated usage in an heterogeneous system.
+	- Programmability and parallel execution of CPU accelerators and corresponding ISA support
+	- Identification of a set of reference benchmarks in the CPU accelerator domain;
+	- Modelling and evaluation of ad-hoc and general purpose CPU accelerators;
+	- Simulation and evaluation of the identified accelerators through simulator platforms like gem5;
+	- Porting of the identified benchmarks on the PHAST framework, extended to be included in the simulation environment.
+	- Very good knowledge of computer architecture
+	- Very good programming skills in C/C++
+	- Intermediate knowledge of general/special purpose accelerators and their programming models
+	- Intermediate experience with HW simulation and simulators
+	- [Optional] experience with the RISC-V ISA
+	- Fluency in English, spoken and written, and very good communication skills
+	- Ability to work both in an amazing and enthusiastic team, and autonomously, taking the initiative towards project objectives
+	- Ability to work under the pressure of deadlines. In some short periods there might be deadlines.
++ skill set:
+	- At Oxford Quantum Circuits (OQC) we are building quantum computers to enable life-changing discoveries : from new drug modelisation to longer-lasting battery technology and portfolio optimisation. We are developing a cloud based quantum computer service – Quantum Computing as a Service (QCaaS) – to help our customers improve their operations and trailblaze new commercial and scientific approaches.
+	- The FPGA plays an integral role in the control of our quantum computer. It is both the source and destination of the microwave pulses used to control and readout our qubits, and acts as both a pulse sequencer and a waveform digitizer. At OQC we are looking to develop our in-house solution further to increase our capabilities. As an FPGA engineer you will work within a team of highly qualified engineers on the design and implementation of our digital signal chain in which the pulses are generated, modified and captured.
+	- FPGA IP Design using VHDL or Verilog Verification and hardware testing Ensuring designs meet requirements (timing, utilisation, power) Python driver and test-case development Documenting design ideas, specifications and test results Managing tasks through to completion
+	- Bachelor’s degree (or higher) in engineering or similar 3+ years of commercial FPGA design and development experience Proven track record of IP design and verification using HDLs, preferably Verilog Proficiency with Vivado (scripting flow, defining constraints, build analysis) Experience in the design and implementation of DSP for FPGA Strong design, debug, and troubleshooting skills with solid hands-on experience using chipscope, oscilloscopes, spectrum analyzers and other test equipment Creative mindset for developing solutions to unique and challenging problems Technically versatile and able to learn new skills that you can apply across multiple types of work A willingness to take on other roles and responsibilities for the greater good of the team
+	- Appreciation and understanding of RF engineering Experience in PCB design, debug and bring-up Prior experience working in a start-up or small team environment
++ data warehouses:
+	- Snowflake
+	- BigQuery
+	- RedShift
+	- Spark
+	- Presto
++ Refactor SQL code based on our best-in-class, in-house style guide.
++ skill set:
+	- configuration management and orchestration tools:
+		* Ansible
+		* Chef
+		* Docker
+		* Terraform
+	- using a Linux-based software development environment, and implementing DevOps best practices:
+		* Airflow
+		* Ansible
+		* Docker
+		* Kubernetes
+		* Terraform
+	- areas:
+		* machine learning
+		* natural language processing
+		* machine vision
+		* recommendation systems
+		* data pipeline architecture
+	- building tools for application performance, continuous integration, continuous deployment, or developer environments
+	- Experience with:
+		* Docker
+		* Jenkins
+		* Kubernetes
+		* Terraform
+		* Travis CI
+		* other infrastructure/CI tools
++ skill set:
+	- big data processing frameworks:
+		* Apache Spark
+	- machine learning and test mining (NLP) libraries and packages:
+		* scikit-learn
+		* Pandas
+		* NLTK
+		* Stanford CoreNLP
++ skill set:
+	- The Center for Policing Equity uses evidence-based approaches to social justice problems and conducts research to create levers for social, cultural, and policy change.
+	- Position Description
+		* The Center for Policing Equity (CPE) is seeking a highly-skilled Research Associate with a passion for social justice to join our Science Program. The Research Associate will be responsible for co-developing, executing, and managing large-scale efforts to clean and standardize administrative data, as well as contributing to research projects and products. They will be expected to be adept at quantitative data wrangling and analysis and possess strong organizational and management skills. This position will report to the VP of Science.
+	- Key Responsibilities
+		* Collaborate with the VP of Science to refine and execute current data standardization protocols for CPE Science Program
+		* Collaborate with the VP of Science to set agenda for continued expansion and improvement of CPE Science Program data infrastructure efforts
+		* Perform data wrangling and restructuring tasks to prepare data for use in academic publications, presentations, and reports
+		* Conduct advanced quantitative analyses of police behavioral data and supplemental data sources (demographic data, surveys, etc.)
+		* Manage and support junior staff working on data standardization and analysis efforts, including providing guidance in use of R or other statistical software
+		* Contribute to research articles and reports related to the intersection of law enforcement and racial equity, and support the VP of Science and CEO with high-priority, time-sensitive projects
+		* Support optimization of workflows for research processes and products
+		* Collaborate with data engineers, scientists, and analysts across the organization to improve efficiency and product integrity
+		* Ensure team's adherence to data security and confidentiality protocols and support with writing of IRB protocols and amendments
+	- Qualifications
+		* Required:
+			+ Master's degree in relevant social science or applied quantitative discipline (e.g., Criminology, Demography, Political Science, Sociology, Epidemiology, Social or Developmental Psychology, Data Science, Economics, Public Policy, Statistical Methods, or Public Health) plus 2+ years of relevant professional experience or bachelor's degree and 4+ years of relevant professional experience
+			+ Excellent quantitative skills, including data management experience, descriptive statistics, and multivariate regression analyses; programming experience in R, Python, and/or Stata strongly preferred
+			+ Strong organizational and management skills
+			+ Comfortable working independently, as well as collaboratively on a research team
+			+ Self-started; motivated; innovative; entrepreneurial
+			+ Passionate about social justice issues
+		* Preferred:
+			+ Experience working with large-scale administrative data sets
+			+ Experience with geospatial analysis and mapping using R or Python
+			+ Experience and interest working with diverse analytic methodologies (e.g., longitudinal data analysis, multilevel modeling, survey data analysis)
+			+ Experience contributing to peer-reviewed social science scholarship
+			+ Expertise and/or training in data security and ethics; experience writing and/or socializing IRB protocols for data security is a plus
+			+ Experience managing junior staff in conducting data analyses or research
+			+ Knowledge of publicly-available national data sets on public health, economic well-being, or related domains
++ skill set:
+	- The Center for Policing Equity (CPE) is looking for a skilled Data Analyst for our Compstat for Justice Program (C4J) with an unwavering passion for social justice issues. C4J is a new initiative aimed at providing recommendations and strategic services to law enforcement agencies (LEAs) in support of their efforts to reduce racial disparities in policing outcomes within the communities they serve.
+	- The Data Analyst will be an integral part of CPE's C4J service delivery model. They will analyze data collected from partner law enforcement agencies (LEAs) to conduct analyses to identify department needs and perform ongoing analyses to aid the department in implementing recommendations. Additionally, the Data Analyst will be responsible for continuously iterating on the 'Needs Assessment' and C4J Implementation frameworks based on data and insights gathered from each C4J development site. This position will report to the Senior Director of C4J.
+	- Key Responsibilities
+		* Perform data pre-processing/wrangling tasks to prepare the data for analysis
+		* Use quantitative and qualitative data to answer C4J research questions
+		* Execute on the data analyses required for the Needs Assessment phase of C4J
+		* Documenting all code developed to conduct the analyses
+		* Produce compelling data visualizations
+		* Design and run regression models and provide interpretation of the results
+		* Conduct quality assurance checks to ensure there are no errors in the analyses or the interpretation of the output
+		* Conduct meticulous quality control and record-keeping procedures to ensure the highest levels of data integrity
+		* Translate findings into recommendations, strategy, and change management practices for partner agencies to employ
+		* Conduct project post-mortem and lead continual process improvement for data analysis following each C4J implementation
+	- Qualifications
+		* Bachelor's degree required; specialization in Mathematics, Statistics, Physics, Computer Science, Economics, Finance, or other quantitative fields is preferred
+		* 5+ years of experience working in a Data Analyst, Business Analyst or similar role with a focus on performing advanced regression techniques, to include multivariate regression, multilevel (hierarchical) modeling, and Bayesian inference
+		* Possess end-to-end data expertise including data sourcing, merging, cleaning, restructuring/wrangling, and visualization
+		* Highly proficient in using R and/or Python for statistical programming
+		* Ability to produce markdown notebooks with Jupyter and/or RMD/Knitr
+		* Expertise in interpreting syntax across statistical software platforms (including, but not limited to, R, Python, SAS, Stata, and/or SPSS)
+		* Ability to explain analysis findings in clear terms that can be understood by non-technical audiences
+		* Experience producing interactive data visualizations to communicate findings (i.e. Tableau, R Shiny, Qlikview, D3.js, etc)
+		* Comfort with collaboration across a geographically distributed team
+		* Experience working with clients and managing internal and external relationships
+		* Experience working with geographic data (GIS shapefiles; desired, but not required)
+		* Familiarity with constructing SQL queries is a plus
 
 
 

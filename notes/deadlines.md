@@ -862,26 +862,33 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ MEMOCODE'19, ACM-IEEE International Conference on Formal Methods and Models for System Design
-	- https://memocode.github.io/2019/
-	- San Diego, CA.
-	- October 9-11, 2019.
-	- Submission deadline: May 31 and June 7, 2019
++ MEMOCODE 2020, 18th ACM-IEEE International Conference on Formal Methods and Models for System Design
+	- https://iitjammu.ac.in/conferences/memocode2020/
+	- https://iitjammu.ac.in/conferences/memocode2020/callforpapers.html
+	- ~~https://memocode.github.io/2019/~~
+	- Jaipur, India.
+	- December 2-4, 2020.
+	- ~~October 9-11, 2019.~~
+	- Submission deadline:
+		* ~~May 31 and June 7, 2019~~
+		* ~~July 3 and 10, 2020.~~
+		* ~~July 17 and 24, 2020.~~
+		* July 31 and August 7, 2020.
 
 
 
 
 
 
-+ PETS 2020, or PoPETS, annual/20th Privacy Enhancing Technologies Symposium (PETS)
++ PETS 2021, or PoPETS, annual/21st Privacy Enhancing Technologies Symposium (PETS)
 	- https://petsymposium.org/
-	- July 14–18, 2020
-	- Montréal, Canada
+	- July 12–16, 2021.
+	- Virtual/Online.
 	- Submission deadline:
 		* ***1st round: May 31, 2020.***
 		* 2nd round: August 31, 2020.
-		* 3rd round: November 31, 2020.
-		* 4th round: February 29, 2019.
+		* 3rd round: November 30, 2020.
+		* 4th round: February 28, 2021.
 
 
 
@@ -889,17 +896,18 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ HiPEAC 2020, International Conference on High-Performance and Embedded Architectures and Compilers
-	- https://www.hipeac.net/2020/bologna/#/
-	- Bologna, Italy.
-	- January 20-22, 2020.
-	- Submission deadline: June 1, 2019.
++ HiPEAC 2021, International Conference on High-Performance and Embedded Architectures and Compilers
+	- https://www.hipeac.net/2021/spring-virtual/#/
+	- Budapest, Hungary.
+	- January 18-20, 2021.
+	- Submission deadline: June 1, 2020.
 
 
 + FSE, Conference on Fast Software Encryption
 	- 27th Fast Software Encryption Conference
-	- Athens, Greece
-	- March 22-26, 2020
+	- Virtual/Online ~~Athens, Greece~~
+	- November 9-13, 2020.
+	- ~~March 22-26, 2020~~
 	- https://fse.iacr.org/2020/papersubmission.html
 	- https://fse.iacr.org/2020/callforpapers.html
 	- https://fse.iacr.org/2020/index.html
@@ -1514,15 +1522,15 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ PETS 2020, or PoPETS, annual/20th Privacy Enhancing Technologies Symposium (PETS)
++ PETS 2021, or PoPETS, annual/21st Privacy Enhancing Technologies Symposium (PETS)
 	- https://petsymposium.org/
-	- July 14–18, 2020
-	- Montréal, Canada
+	- July 12–16, 2021.
+	- Virtual/Online.
 	- Submission deadline:
 		* 1st round: May 31, 2020.
 		* ***2nd round: August 31, 2020.***
-		* 3rd round: November 31, 2020.
-		* 4th round: February 29, 2019.
+		* 3rd round: November 30, 2020.
+		* 4th round: February 28, 2021.
 
 
 
@@ -1537,8 +1545,9 @@ List of conference "Call for Papers" deadlines:
 
 + FSE, Conference on Fast Software Encryption
 	- 27th Fast Software Encryption Conference
-	- Athens, Greece
-	- March 22-26, 2020
+	- Virtual/Online ~~Athens, Greece~~
+	- November 9-13, 2020.
+	- ~~March 22-26, 2020~~
 	- https://fse.iacr.org/2020/papersubmission.html
 	- https://fse.iacr.org/2020/callforpapers.html
 	- https://fse.iacr.org/2020/index.html
@@ -2336,8 +2345,9 @@ List of conference "Call for Papers" deadlines:
 
 + FSE, Conference on Fast Software Encryption
 	- 27th Fast Software Encryption Conference
-	- Athens, Greece
-	- March 22-26, 2020
+	- Virtual/Online ~~Athens, Greece~~
+	- November 9-13, 2020.
+	- ~~March 22-26, 2020~~
 	- https://fse.iacr.org/2020/papersubmission.html
 	- https://fse.iacr.org/2020/callforpapers.html
 	- https://fse.iacr.org/2020/index.html
@@ -2381,15 +2391,15 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ PETS 2020, or PoPETS, annual/20th Privacy Enhancing Technologies Symposium (PETS)
++ PETS 2021, or PoPETS, annual/21st Privacy Enhancing Technologies Symposium (PETS)
 	- https://petsymposium.org/
-	- July 14–18, 2020
-	- Montréal, Canada
+	- July 12–16, 2021.
+	- Virtual/Online.
 	- Submission deadline:
 		* 1st round: May 31, 2020.
 		* 2nd round: August 31, 2020.
-		* ***3rd round: November 31, 2020.***
-		* 4th round: February 29, 2019.
+		* ***3rd round: November 30, 2020.***
+		* 4th round: February 28, 2021.
 
 
 
@@ -3342,15 +3352,15 @@ List of conference "Call for Papers" deadlines:
 	- Submission deadlines: February 28, 2019 (extended)
 
 
-+ PETS 2020, or PoPETS, annual/20th Privacy Enhancing Technologies Symposium (PETS)
++ PETS 2021, or PoPETS, annual/21st Privacy Enhancing Technologies Symposium (PETS)
 	- https://petsymposium.org/
-	- July 14–18, 2020
-	- Montréal, Canada
+	- July 12–16, 2021.
+	- Virtual/Online.
 	- Submission deadline:
 		* 1st round: May 31, 2020.
 		* 2nd round: August 31, 2020.
-		* 3rd round: November 31, 2020.
-		* ***4th round: February 29, 2019.***
+		* 3rd round: November 30, 2020.
+		* ***4th round: February 28, 2021.***
 
 
 
@@ -3407,8 +3417,9 @@ List of conference "Call for Papers" deadlines:
 
 + FSE, Conference on Fast Software Encryption
 	- 27th Fast Software Encryption Conference
-	- Athens, Greece
-	- March 22-26, 2020
+	- Virtual/Online ~~Athens, Greece~~
+	- November 9-13, 2020.
+	- ~~March 22-26, 2020~~
 	- https://fse.iacr.org/2020/papersubmission.html
 	- https://fse.iacr.org/2020/callforpapers.html
 	- https://fse.iacr.org/2020/index.html
@@ -4942,12 +4953,12 @@ IEEE Global Communications Conference (GLOBECOM)
 
 
 Other conferences in signal processing and communication/information theory:
-+ IEEE International Conference on Image Processing (ICIP)
++ **IEEE International Conference on Image Processing (ICIP)**
 	- ICIP, 26th IEEE International Conference on Image Processing
 	- Taipei, Taiwan
 	- September 22-25, 2019
 	- Submission deadline: ~~January 31, 2019~~ February 8, 2019
-+ IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
++ **IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)**
 + IEEE Global Conference on Signal and Information Processing (GlobalSIP)
 + IEEE International Symposium on Biomedical Imaging (ISBI)
 + IEEE Conference on Advance Video and Signal-Based Surveillance (AVSS)

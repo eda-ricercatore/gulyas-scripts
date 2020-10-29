@@ -1969,12 +1969,13 @@ Use a **list comprehension** to perform a conditional operation iteratively on
 + **Create a list with the resulting data**; or create a list with the resultant
 	sequence of data
 	\cite[Chapter 6, section on "Generator Expressions," pp. 110]{Beazley2009}.
-+ Examples \cite{ParewaLabsStaff20XYa}, with comparisons to:
-	- lambda functions (or [anonymous function, function literal, lambda abstraction, or lambda expression](https://en.wikipedia.org/wiki/Anonymous_function))urces for lambda functions:
-			+ https://www.w3schools.com/python/python_lambda.asp 
++ Examples of *Python* list comprehension \cite{ParewaLabsStaff20XYa}, with comparisons to:
+	- lambda functions (or anonymous function, function literal, lambda abstraction, or lambda expression) \cite{WikipediaContributors2017u}
+		* Additional resources for lambda functions:
+			+ https://www.w3schools.com/python/python_lambda.asp
+				- \cite[from Python Tutorial: Python Lambda]{RefsnesDataStaff2017}
 			+ https://realpython.com/python-lambda/
-			+ https://ww
-		* Additional resow.geeksforgeeks.org/python-lambda-anonymous-functions-filter-map-reduce/
+			+ https://www.geeksforgeeks.org/python-lambda-anonymous-functions-filter-map-reduce/
 	- "for" loops
 		* Has an example of converting nested "for" loops into a list
 			comprehension.

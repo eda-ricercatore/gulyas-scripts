@@ -1,10 +1,15 @@
 #!/Users/zhiyang/anaconda3/bin/python3
 
 """
-	This is written by Zhiyang Ong to demonstrate how to scale
-		a list by a scalar factor (or, scaling factor, or scale
+	This is written by Zhiyang Ong to demonstrate how to:
+	+ Scale a list by a scalar factor (or, scaling factor, or scale
 		factor).
-	
+	+ Check if the type of an object is a "list" object.
+	+ Enumerating lists
+		- Enumerating lists of 2-tuples.
+		- Enumerating embedded lists.
+	+ Implementing "if-else" control in a list comprehension.
+
 	References:
 	+ See references cited in text.
 """
@@ -15,9 +20,10 @@
 import pandas as pd
 
 
-
-
 """
+	Scale a list by a scalar factor (or, scaling factor, or scale
+		factor).
+
 	range() method does not work as expected to produce a list.
 	The range() method needs to be used within a loop.
 	The range() method returns a range() object. 
@@ -91,6 +97,8 @@ print("scaled_incre_list is:",scaled_incre_list,".")
 print("#	==============================================")
 
 """
+	Check if the type of an object is a "list" object.
+
 	References:
 	+ [Satyaprasad 2019]
 		Sham Satyaprasad and Martijn Pieters, Answer to
@@ -140,7 +148,8 @@ else:
 
 print("--------------------------------------------------")
 """
-	From [Garg 20XY]. This is a lousy method, and is not reliable.
+	From [Garg 20XY]. This is a lousy method to check if the type of
+		object is a "list" of object, and is not reliable.
 	Avoid it.
 	
 	For more information and references, see:
@@ -173,12 +182,20 @@ if not type(a) is list:
 else:
 	print("=	a is a list??? When it should be an empty string object.")
 print("--------------------------------------------------")
+
+"""
+	Enumerating lists
+	+ Enumerating lists of 2-tuples.
+	+ Enumerating embedded lists.
+"""
+
 b = [23, 34, 45, 56, 67, 78, 89]
 c = [2.3, 3.4, 4.5, 5.6, 6.7, 7.8, 8.9]
 d = [1.3, 2.4, 3.5, 4.6, 5.7, 6.8, 7.9]
 for index, elem in enumerate(b):
 	print("	index is:", index,"and elem is:", elem,"=")
 print("--------------------------------------------------")
+# Enumerating lists of 2-tuples.
 low_and_high_values = [(-1,0.5), (-1,1), (-0.5,0.5), (-0.5,1), (0,1)]
 for elem in low_and_high_values:
 	if isinstance(low_and_high_values, tuple):
@@ -213,6 +230,8 @@ for index, cur_tuple in enumerate(low_and_high_values):
 		print("	tuple index is", index," cur_tuple is",cur_tuple,"=")
 print("--------------------------------------------------")
 """
+	Enumerating embedded lists.
+
 	Reference:
 	+ [Shadowfax2016]
 		- \cite{Shadowfax2016}
@@ -243,6 +262,8 @@ print("	Can't do that with embedded tuples.")
 
 print("--------------------------------------------------")
 """
+	Implementing "if-else" control in a list comprehension.
+
 Reference:
 + https://stackoverflow.com/a/4406399/1531728 or https://stackoverflow.com/questions/4406389/if-else-in-a-list-comprehension/4406399#4406399
 	- user225312 and tscizzle, April 17, 2015

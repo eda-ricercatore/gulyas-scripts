@@ -3,10 +3,14 @@
 
 
 """
-	This is written by Zhiyang Ong to demonstrate how to scale
-		a list by a scalar factor (or, scaling factor, or scale
-		factor).
-	
+	This is written by Zhiyang Ong to demonstrate how to:
+	+ Delimit and tokenize each full name in a string of full names
+		into an element of a list.
+
+
+
+
+
 	References:
 	+ See references cited in text.
 	+ pawan_asipu, "Python String | split()," GeekstoGeeks,
@@ -38,6 +42,9 @@ import re
 print("=========================================================")
 
 """
+	Delimit and tokenize each full name in a string of full names
+		into an element of a list.
+
 	A string that I want to delimit and tokenize each full name into
 		an element of a list.
 """
