@@ -206,6 +206,92 @@ def f(x):
 
 
 
+
+
+
+
+
+
+#	--------------------------------------------------------
+
+"""
+	Solution 5.
+
+	Modified solution from Stephan Schielke, April 8, 2017 at 15:19.
+
+	Use static functions with a dictionary.
+"""
+
+@staticmethod
+def spring_months():
+	return "March-May"
+
+
+@staticmethod
+def summer_months():
+	return "June-August"
+
+
+@staticmethod
+def fall_months():
+	return "September-November"
+
+
+@staticmethod
+def winter_months():
+	return "December-February"
+
+
+
+months_of_year = {
+	1: winter_months,
+	2: winter_months,
+	3: spring_months,
+	4: spring_months,
+	5: spring_months,
+	6: summer_months,
+	7: summer_months,
+	8: summer_months,
+	9: fall_months,
+	10: fall_months,
+	11: fall_months,
+	12: winter_months
+}
+
+
+
+
+
+
+#	--------------------------------------------------------
+
+"""
+	Solutions not considered:
+	+ From user5359735/IanMobbs, June 13, 2016 at 17:09, 
+		- Reference: https://stackoverflow.com/a/11479840/1531728
+			* Comment from user to answer from Prashant Kumar,
+				last edited on December 3, 2014.
+		- Sanjay Manohar, July 26, 2017 at 14:26, mentioned that
+			putting code in constant string in (double) quotes
+			for evaluation using "eval" has multiple risks, such as:
+			* checking for errors by text editor and IDE.
+				+ Cannot use features of text editor and IDE, such
+					syntax highlighting.
+			* Not "optimized to bytecode at compilation."
+			* lambda functions can be used instead, but is
+				"considered un-Pythonic".
+		
+"""
+
+
+
+
+
+
+
+
+
+
 ###############################################################
 # Main method for the program.
 
@@ -244,6 +330,18 @@ if __name__ == "__main__":
 	print("Get month for 93:",numbers_to_strings(93),"=")
 	print("Get month for 56798:",numbers_to_strings(56798),"=")
 	print("Get month for -443:",numbers_to_strings(-443),"=")
+	print("Trying Solution 5.")
+	print("=	Testing: dictionary-based solution using static functions.")
+	for x in range(1, 12+1):
+		print("Get season for:",x,":::",months_of_year[x].__func__(),"=")
+	print("	- Modify the case for the 8th month to the winter season.")
+	months_of_year[8] = winter_months
+	print("Get month for 8:",months_of_year[8].__func__(),"=")
+	print("	- Create a case for the 93th month.")
+	months_of_year[93] = spring_months
+	print("Get month for 93:",months_of_year(93),"=")
+	print("Get month for 56798:",months_of_year(56798),"=")
+	print("Get month for -443:",months_of_year(-443),"=")
 	"""
 		Additional resources that I looked at:
 		+ Prashant Kumar, Answer to "What is the Python equivalent for a case/switch statement? [duplicate]," Stack Exchange Inc., New York, NY, December 3, 2014. Available online from Stack Exchange Inc.: Stack Overflow: Questions at: https://stackoverflow.com/a/11479840/1531728; June 27, 2020 was the last accessed date.

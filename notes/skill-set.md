@@ -8392,6 +8392,652 @@ Qualifications
 		* Experience working with clients and managing internal and external relationships
 		* Experience working with geographic data (GIS shapefiles; desired, but not required)
 		* Familiarity with constructing SQL queries is a plus
++ skill set:
+	- In this position, you will join a great team in Ampere Shanghai and work with top talents in the industry, make direct contribution to the popular open source communities like Linux kernel, QEMU, DPDK, OVS, FD.io, to measure, characterize and optimize network software infrastructures to lead network transformation in SDN/NFV, Cloud native, 5G, etc. to Ampere processors. You will have the opportunity to work on world leading technologies such as Arm CPU micro-architecture, Virtualization, Ethernet, Security & Crypto, etc.
+	- Your daily work includes but not limited to system integrations, performance measurements and characterizations, software optimization and development and upstream into open source projects especially network software stacks that are important to cloud service providers for example DPDK, OVS, cloud native networking, etc. to enable the best performance on Ampere CPU chips.
+	- Solid C programming skills and familiar with GNU Toolchain (GCC/MAKE/GDB)
+	- Understanding of Linux/FreeBSD like system and Internals
+	- Understanding of Arm Architecture, or other processor architectures
+	- Strong desire to learn and strong problem solving skills
+	- Great performance characterization and optimization skills
+	- Great in spoken and written Chinese/English
+	- Good knowledge of Virtualization and Container technologies
+	- Solid knowledge on TCP/IP and Linux networking internals
+	- Experience with open source development
+	- Knowledge of Git or similar
+	- Good understanding on SDN/NFV, Virtual Switching, cloud native
++ skill set:
+	- We are looking for a CPU Architect to join a small but growing CPU group, advancing the art of high performance circuit design.  Ideal candidates will channel their creativity to contribute in cross-spectrum flow and methodology, working closely with circuit design architects. They will have high levels of flexibility to craft productivity improvement flows to make highly visible contributions.
+	- The Ampere Architecture Group team turns ideas into reality. We are a group of technologists with tremendous experience shipping dozens of server products at multiple semiconductor companies. By listening to customers, driving industry standard protocols, and designing high-performance IPs and SoCs, Architects push products forward past the bleeding edge of microprocessor design. Architects are resourceful, and craft well-tuned designs to meet ecosystem requirements in a timely cadence, ultimately delighting Ampere’s cloud customers.
+	- What You Will Do:
+		* Define the design of a server-class microprocessor core
+		* Define the design of a server-class SoC including mesh interconnect, PCIe subsystem, or memory subsystem
+		* Craft workflows to understand pre-silicon behaviors of a SoC with hundreds of cores.
+		* Understand the pipeline of ideas from research to workloads to ISA to microarchitecture to physical technology
+		* Create and maintain technical documents including architecture specifications, implementation guides, and user guides
+		* Collaborate with the team from product roadmap to design implementation
+		* Balance features, performance and costs to create a solution with high value and optimal use of development and physical resources
+		* Facilitate design development efforts, performance estimation, and performance analysis through methodology and hands-on contributions
+		* Learn the CPU performance model from senior team members and helping to develop, deploy, and run microarchitecture studies for future products.
+		* Work with microarchitecture designers in performing studies on current and future generation of CPUs.
+		* Drive performance correlation of models using post-silicon measurement data or pre-silicon simulation results.
+		* Collect silicon performance measurements and understanding how to vet data and filter anomalous results.
+		* Run and report out on experiments characterizing performance of existing silicon, both pre-production and shipping silicon
+		* Develop automated performance testing and data post-processing.
+		* Develop visualization tools to assist in performance analysis.
+		* Run micro-benchmarks and creating supporting models/relationships using the collected data
+		* Develop spreadsheet macros to further prepare/present performance data in appropriate formats.
+		* Investigate performance anomalies with help from senior performance architects.
+		* Develop functional/performance model of the hardware in C++ or System C.
+		* Fit curves and run trendline analysis using R.
+	- What You’ll Bring:
+		* Great communication skills, comfortable with reaching out and asking questions. This is the most important qualification!
+		* Ability to learn and grow. Nobody around you will have the answers!
+		* Knowledge of memory consistency models and coherency protocols
+		* Firmware, hypervisor, and operating system design
+		* Virtualization, dynamic power management
+		* Utilization of semi-custom and custom logic design for high speed and low power
+		* Application of machine learning techniques
++ skill set:
+	- Experience with MDM solutions like Jamf, Intune, etc.
+	- Experience with SAML based single sign-on solutions and SaaS tools such as Slack and Google Workspace (formerly GSuite/G Suite)
++ skill set:
+	- We are looking for Software Engineer to help us grow our team. You will a part of a software engineering team who gets to design, develop robust and innovative Ampere’s Baseboard Management Controller (BMC) firmware/software stack for our customer reference designs. You will have an opportunity to work collaboratively with and learn from industry veteran designers and architects, firmware developers, vendors, quality assurance team, and open source community to create a breakthrough design for cloud computing manageability. Our engineers are excited about technology and innovation and channel that energy to deliver world-class products.
+	- Develop Baseboard Management Controller (BMC) software and firmware for managing our ARM64 server reference designs
+	- Participate in cross-functional project teams encompassing different technical disciplines including System Architects, SoC Firmware developers, Hardware designers, and Quality Assurance
+	- Design and develop Bootloaders (U-boot, UEFI), Linux device drivers and kernel services to support various peripheral drivers such as USB, I2C, SPI, Ethernet, etc.
+	- Implement manageability framework and protocols defined by standard bodies
+	- Work with world-wide opensource communities for code review, bug fixes, and upstreaming work to the Linux and OpenBMC communities. Participate in ecosystem and developer programs for our platforms
+	- Support Field Applications Engineers to drive Ampere Computing’s customers to production
+	- Min 2-8 years of software development experience
+	- Excellent C/C++ programming, Python and problem-solving skills. Intimate knowledge of software development process methodology
+	- Background in embedded ARM bootloader programming, Linux kernel programming, kernel services and device driver development, Linux gcc and debug tools
+	- Knowledge of low-level protocols including I2C, I3C, JTAG, SPI, eSPI, UART, PCIe
+	- Experienced with board bring-up and device driver debugging. Capable of reading and understanding hardware digital schematics.
+	- Proficient with source version control systems like Git, Review tools like Gerrit.
+	- Good Vietnamese and English communications skills, both verbal and writing
+	- Independent worker with excellent teamwork, decision making and growth mindset
+	- Experience with Open Source Baseboard Management Controller (BMC) Software Stack (OpenBMC)
+	- Experience in server manageability architecture, knowledge of industry standard initiatives such as Redfish and manageability protocols such as IPMI desirable
+	- Experienced with Continuous Integration and Test Automation framework
+	- Experienced with embedded Linux system development frameworks like Yocto, Buildroot, etc.
++ skill set:
+	- We are looking for a senior SoC engineer who can leverage their understanding of system-level security goals to disseminate security requirements into the definition and development of ISA, platform, and firmware security capabilities for Ampere products spanning processors cores, IP, SoC, and platforms, while keeping up to date with the latest security threats and standards.
+	- The Hardware Security Architect candidate will join a small but growing CPU architecture team, advancing the art of high performance SoC development targeted for data center customers. Ideal candidates will channel their passion for secure products to contribute in cross-spectrum flow and methodology, working closely with processor and SoC architects and software architects to enhance Ampere’s security solution end-to-end. They will have high levels of flexibility to craft productivity flows to make highly visible contributions.
+	- The Ampere Architecture Group team turns ideas into reality. We are a group of technologists with tremendous experience shipping dozens of server products at multiple semiconductor companies. By listening to customers, driving industry standard protocols, and designing high-performance IPs and SoCs, Architects push products forward past the bleeding edge of microprocessor design. Architects are resourceful, and craft well-tuned designs to meet ecosystem requirements in a timely cadence, ultimately delighting Ampere’s cloud customers.
+	- You will be the technical leader, at the heart of the solutions teams working closely with hardware SoC and IP development teams. Your role will be to understand security solutions at the system level and then provide expert input to product teams to help them understand and correctly implement their parts of the overall solution. This may include:
+		* Collaborate across the company to guide the direction of platform security and develop a long-term security roadmap for our products, working with hardware, software, and field support teams.
+		* Work with customers and partners to identify and address security issues and threats.
+		* Own product-level security requirements and work with the solution teams and IP product teams to ensure product implementation.
+		* Contribute to product design reviews via threat modeling. You will identify security needs, provide optimal design mitigations, and contribute to the security verification plans.
+		* Engage with our ARM partners and be the expert in new security architecture features and provide guidance for integration into future Ampere products.
+		* Deliver product-level proposals for how the security objectives will be implemented and provide guidance on appropriate design mitigations.
+		* Analyze requirements, as well as software and integration approaches to identify vulnerabilities and solution architecture, design, and implementation flaws.
+		* Provide security guidance and assistance throughout the development lifecycle ensuring Ampere solutions and IP products are specified, designed, developed, implemented, integrated, and tested to meet the requirements for product level security.
+		* Stay up to date with the latest security threats, have a good understanding of the state of the art techniques spanning software and hardware developed to address those threats, and ensure the security objectives that are fed into product teams adequately reflect the needs of the product to mitigate relevant threats and continue to contribute to the external security community.
+		* Assist in responding to high-priority issues or customer questions where your expertise can help.
+	- What You'll Bring
+		* Great communication skills, comfortable with reaching out and asking questions. This is the most important qualification!
+		* Technical curiosity, and ability to learn and grow. Nobody around you will have all the answers!
+	- Education
+		* MSEE/MSCS with 8+ years of experience, or
+		* PhD in EE/CE/CS with 5+ years of experience, concentrating in cybersecurity
+	- Preferred Qualifications
+		* Knowledge of Secure Development Lifecycles (SDLs), ideally as applied to semiconductor hardware
+		* Extensive understanding of industry standard encryption, security protocols, and current ISA, SoC and System Software/FW mechanisms for mitigating typical security attacks for data center and computing platforms
+		* Experience designing & testing SoC hardware and low-level software security
+		* Knowledge of system security processes and standards and how these standards are incorporated into solution definition, design, development, and validation/verification activities
+		* An understanding of how hardware and software security interact and influence one another
+		* A natural inclination to persuade (not push) when introducing new concepts and processes
+		* You have directly worked on several of the following:
+		* System architecture for server platforms
+		* SoC security architecture and security fundamentals including secure boot
+		* Modern server manageability protocols
+		* ARMv8 architectures and related security functionality
+		* Cryptography algorithms and standards, including implementations and application
+		* Security mitigations against physical attacks including fault injection and side channel attacks
+		* Remote attestation mechanisms based on TPM or other solutions
+		* Digital Rights Management (DRM) standards
+		* Security threat modelling and penetration testing
+		* Certification standards and compliance testing
+		* Security testing on covert red team campaigns, or similar offensive security experience
++ skill set:
+	- Design and develop DDR FW for 64-bit ARMv8 SoC processors
+	- Work with HW design teams and bring up Pre-Silicon software support on HW models
+	- Post-silicon bring up of DDR
+	- Directly interact and address customer’s issue
+	- Minimum of 12 years of experience with software development with C/C++ languages
+	- Minimum of 2 years of customer interaction
+	- Experience with 32-bit/64-bit ARMv8 processors is a plus
+	- Experience with Firmware/BIOS/Linux software development
+	- Experience with DDR FW
+	- Familiarity with JEDEC specs
+	- Experience with NVDIMM or persistent memory a plus
+	- Experience with ACPI specifications
+	- Experience with Non-uniform Memory Access (NUMA) with heterogenous memory configurations a plus
+	- Strong ability to troubleshoot and perform root cause analysis. Proven ability to own problems to get them resolved.
+	- Experience with customer interaction and issue diagnostic
+	- Self-managed individual with excellent problem-solving skills
+	- Good English communications skills, both verbal and writing
++ skill set:
+	- SiFive is an idea-to-silicon company founded by the inventors of RISC-V to simplify the design and production of custom SoCs.
+	- ***As the leading commercial provider of RISC-V processor IP, SiFive is on a mission to help engineers design custom chips for domain-specific solutions for many markets, including 5G, edge AI, enterprise networking, storage, and consumer devices.***
+	- Industry-leading innovators, including six of the top ten semiconductor companies, are working with SiFive thanks to our proven success, deep expertise, and rich partner ecosystem. With SiFive’s rich IP ecosystem and accessible design platform, every market has access to the development of workload-focused hardware needed to design next-generation products.
+	- As a SoC Architect at SiFive, you will be vital to SiFive's efforts to create silicon at the speed of software. You will create the basic collateral and specifications that can be reused across the SoC design ecosystem. In developing this collateral, you have the opportunity to innovate the use of a novel set of electronic design automation (EDA) tools, which will draw on modern compiling technology and other innovations to build SiFive’s SoC and core libraries.
+	- The new SoC Architect will create and build new, highly configurable SoC designs, based on the open-specification RISC-V ISA for SiFive’s clients, who are taking on exciting state-of-the-art use cases such as autonomous driving, 5G, networking, wearables, or IoT. You will have a chance to define and design chips more quickly and for more devices than would be technologically possible at any other company.
+	- We are reducing the time needed for chip design and verification with novel tools and methodologies, and we are looking for an architect who is as excited as we are about bringing new SoC designs to the market!
+	- LOCATION: The ideal candidate for this position can work out of any of the SiFive worldwide offices in the US, France, India, or Taiwan.
+	- Design multi-layered SoC architecture and responsible for integrating all of the components in a given customizable chip.
+	- Develop the upcoming advanced platforms, which will connect multiple cores together on a chip, support large bandwidth, as well as new applications and workloads.
+	- Design the IP blocks to be integrated into new SoCs (e.g. receivers, accelerators, transmitters, memory cache, I/O devices, power management, and IP subsystems).
+	- Research and analyze emerging needs for new SoC architecture.
+	- Collaborate with customers, including Fortune 500 companies and prominent start-ups, to tailor SoCs to their needs.
+	- 8+ years’ experience in ASIC/SoC development and chip architecture definition.
+	- MS or PhD in Computer Architecture or in a related field.
+	- Familiarity with SoC components, such as UART, DDR, PCI Express, etc.
+	- Basic knowledge of RTL design & SoC tool flows.
+	- Basic understanding of foundry lib, IP, and process technology limitation.
+	- Familiar with advanced CPU architectures and pipelines
+	- Experience in SoC design flow, including spec definition, microarchitecture design, and performance modeling.
++ skill set:
+	- Implementing infrastructure automation, metric collection, and impactful reporting to make data driven decisions.
+	- Modern monitoring, metrics, and alerting using open source tools.
+	- Improving and developing processes and best practices, maintaining documentation of the development environments.
++ skill set:
+	- high-level programming languages, such as: Lisp (or Common Lisp), Go (or Golang), Erlang, Scala, or Clojure.
+	- Experience in RPC API design and construction.
++ skill set:
+	- You Are a Great Fit If:
+		* You have experience building mission-critical, reliable, and performant systems.
+		* You enjoy leading a high-level architecture discussion one moment, and then translating that discussion into reliable production code the next.
+		* You prize the quality of the software that you write. You rigorously test and document software intended for production use, follow common language conventions and well-known patterns, and rely heavily on automation for testing and deployment.
+		* You know how to design an API to avoid breaking changes, and how to migrate clients when it can’t be avoided.
+		* You are knowledgeable about non-trivial parts of service design, such as distributed authorization, error handling, pagination, and versioning.
+		* You are versed in best practices for tracing, monitoring, and logging for distributed services.
+		* You work independently and are comfortable leading the design and implementation of a software package or service from high-level requirements.
+	- Key Qualifications:
+		* Fluency in all or most of Golang, Python, React, and SQL
+		* Deep experience building and maintaining schema-driven, widely accessible web APIs (OpenAPI, GraphQL, gRPC/Protobuf)
+		* Experience building and maintaining client-side SDKs and/or web frontend applications
+		* Experience architecting, building, and deploying microservice architectures
+	- Bonus Points If You Have:
+		* Experience with deploying in Kubernetes and/or service mesh architectures
+		* Experience with streaming systems (e.g. Kafka, Kinesis)
+		* Experience in programming language and/or compiler development
+		* Academic background in Computer Science, Electrical Engineering, or Physics
+		* Knowledge of quantum computing and applications
++ skill set:
+	- GitHub is looking for engineers to join our Data Infrastructure team. You'll be part of a team building and deploying large scale data and object storage for the world's largest code hosting platform
+	- The Data Infrastructure team is highly distributed and we thrive in an environment of remote work and asynchronous communication. As a member of our team, you'll always be challenged by interesting and novel problems that have real impact on how the world builds software.
+	- Responsibilities:
+		* Build services and systems that empathetically and pragmatically meet real operability needs of GitHub developers
+		* Use data to understand the availability, reliability, and sustainability of our infrastructure
+		* You will respond to the needs of users and of other developers at GitHub.
+		* Work closely with other teams from across the organization
+	- Minimum Qualifications:
+		* Experience building and deploying large, complex distributed systems with an eye toward reliability.
+		* Proficiency in Golang, Python, and/or Ruby.
+		* You take a pragmatic approach to decision making and design choices.
+	- Preferred Qualifications:
+		* Experience building highly available services at scale.
+		* You have developed and scaled services in Go.
+		* Experience diagnosing and resolving complex multi-system performance problems.
+		* Experience with Docker and container orchestration systems.
++ skill set:
+	- GitHub helps companies, organizations, and groups of individuals succeed by allowing them to build better software, together. The engineering organization is looking for a Product Data Analyst who will report into our Data Science group and closely partner with the Product organization to provide best in class analysis and insight generation to help our product managers make better decisions, faster. You’ll also interface with our Analytics Engineering team to put your findings “into production” to ensure that our customers receive ongoing benefits from your work at scale.
+	- GitHub is an exciting place to work joining a tight-knit environment of technical and business-minded individuals. This role is an individual contributor role with significant growth potential.
+	- Responsibilities
+		* Work with Product owners to assess metric needs and turn them into relevant, synthesized consumable outputs
+		* Embed in and build business understanding across product domains leading to effective cross collaborative partnership
+		* Partner with our Analytics engineering team to develop solutions for ongoing product performance reporting that scale and reduce effort to outcomes
+		* Develop and automate reports and iteratively build dashboards to provide insights at scale, solving for on-going analytical needs
+		* Leverage relevant product data to track and inform objectives and goals with product partners
+	- Minimum Qualifications
+		* A Bachelor’s Degree in statistics, math, engineering, computer science, economics, business, or a related technical field.
+		* 2+ years prior relevant experience in an Analytics role covering product or engineering
+		* Strong intellectual curiosity and desire to understand different parts of GitHub’s product
+		* Experience translating requirements into analysis questions that can be directly actioned
+		* Expertise in writing SQL queries and working with multiple data sets to develop analytical solutions for defined business problems
+		* Experience with engineering practices around analytical rigor and the ability to make reproducible your analyses
+		* Demonstrated ability to synthesize and communicate analysis into insights that inform business decision making
+		* Demonstrated willingness to both teach others and learn new analytical problem solving techniques
+		* Demonstrated effective written and verbal communication skills
+		* Ability to lead without authority and a strong sense of responsibility
+	- Preferred Qualifications
+		* Experience conducting statistical analysis using Python / R (or equivalent)
+		* Experience developing and maintaining ETLs (Airflow experience is a big plus)
++ skill set:
+	- GitHub is looking for engineers to join the Compute Foundation team within our Data Center Engineering organization. You will focus on the systems and tools that enable our engineers to operate and scale the world's largest code hosting platform. You will help maintain our Kubernetes clusters and automation framework, optimize operating systems for use in our environment, and deploy systems at large scale around the world.
+	- The Data Center Engineering team is highly distributed and you will thrive in an environment of remote work and asynchronous communication. You're expected to have strong written communication skills and be able to develop working relationships with coworkers in locations around the globe.
+	- As an engineer at GitHub you'll always be challenged to solve interesting and novel problems that have real impact on how the world builds software.
+	- Responsibilities:
+		* Design and implement automation systems requirements.
+		* Build performant and efficient packet processing systems for Internet and service traffic.
+		* Cultivate open source projects developed by GitHub and build things you are proud to share.
+		* Work closely with networking and facilities teams to design and support our global data center presence.
+	- Minimum Qualifications:
+		* Experience automating large, complex distributed systems with an eye toward reliability.
+		* Proficiency in Golang, Python, and/or Ruby.
+		* Experience diagnosing and resolving complex multi-system performance problems.
+		* You take a pragmatic approach to decision making and design choices.
+	- Preferred Qualifications:
+		* Familiarity with configuration management software such as Puppet, Chef, Ansible, or Salt.
+		* Upstream contributions to relevant open source projects (i.e. Kubernetes, Nomad, Linux kernel).
+		* Experience with virtualization, bare metal deployment, or network engineering.
++ skill set:
+	- GitHub is seeking software engineering professionals to join its new SRE team. As a valued member of our close-knit team, you will bring your passion for building fault tolerant systems and reliable software to help us steward reliability as a feature throughout the organization. Your work will help us scale the world's largest code hosting platform.
+	- Our charter is broad but our focus is to improve the availability, resilience, and sustainability of GitHub's products. We do this through architecture, technology, process, and partnerships with product teams.
+	- Our SRE team is highly distributed; our work environment is one of remote work, asynchronous communication, trust, and respect. Through your strong written communication and software skills, you will develop meaningful working relationships with coworkers from around the globe.
+	- The SRE role at GitHub is an opportunity to blend your system design, empathy, and software engineering skills on an ever-changing set of novel reliability challenges. Join us on this journey and have a meaningful impact on how the world builds software.
+	- Responsibilities:
+		* Exert technical influence to improve the reliability of our products and systems
+		* Develop and maintain infrastructure products and software automation
+		* Integrate with third-party solutions where it makes the most sense.
+		* Work closely with our observability and chaos engineering teams.
+		* Cultivate GitHub's open source projects and build things you are proud to share.
+		* Steward reliability as a feature across the organization through concepts such as SLOs and service maturity.
+	- Minimum Qualifications:
+		* Comfort with the GNU/Linux operating system.
+		* Experience with distributed systems with high availability requirements.
+		* Exposure to system-level languages such as Go or C/C++.
+		* Familiarity with configuration management software such as Puppet, Ansible, or Salt.
+		* Familiarity with infrastructure services and sidecar patterns.
+		* Experience balancing the service reliability, sustainability, and technical debt for services running at scale.
+	- Preferred Qualifications:
+		* Experience with highly available systems at scale.
+		* Experience building infrastructure and automation.
+		* Experience negotiating SLIs, SLOs, and SLAs with product owners.
+		* Success in a remote work environment.
+		* Incident response and/or incident management experience.
+		* Exposure to CNCF projects such as Kubernetes or Prometheus.
++ skill set:
+	- GitHub is looking for engineers to join the Traffic Engineering team within our larger Data Center Engineering organization. You will focus on the systems and tools that enable our engineers to operate and scale the world's largest code hosting platform. You will help maintain our edge and internal traffic and service load balancers, design and implement DDoS mitigation systems, and help improve end user performance through expanding our global network.
+	- The Data Center Engineering team is highly distributed and you will thrive in an environment of remote work and asynchronous communication. You're expected to have strong written communication skills and be able to develop working relationships with coworkers in locations around the globe.
+	- As an engineer at GitHub you'll always be challenged to solve interesting and novel problems that have real impact on how the world builds software.
+	- Responsibilities:
+		* Design and implement global traffic management and DDoS mitigation systems with stringent availability requirements.
+		* Build and maintain critical network systems spanning thousands of nodes across multiple regions to support GitHub’s global infrastructure.
+		* Cultivate open source projects developed by GitHub and build things you are proud to share.
+		* Work closely with networking and facilities teams to design and support our global data center presence.
+	- Minimum Qualifications:
+		* Experience building and managing large clusters of Linux servers with configuration management and infrastructure as code, such as Puppet, Chef, Ansible, or Salt and Terraform.
+		* Standard web protocols and systems should be second nature to you, such as TCP, HTTP, TLS, DNS, CDNs, load balancers.
+		* Proficiency in high-level languages such as Ruby, Python and Bash.
+		* Experience diagnosing and resolving performance problems at the intersection of software and hardware.
+		* You take a pragmatic approach to decision making and design choices.
+	- Bonus Qualifications:
+		* Familiarity with systems languages such as C/C++ or Go.
+		* Experience with network technologies such as BGP, or work with network configuration on Arista EOS and/or Juniper Junos.
+		* Experience operating services in physical data centers and the public cloud, or multiple public clouds.
+		* Experience at a large content provider or content delivery network.
++ skill set:
+	- GitHub helps companies, organizations, and groups of individuals succeed by allowing them to build better software, together. The engineering organization is looking for a Product Data Analyst who will report into our Data Science group and closely partner with the Product organization to provide best in class analysis and insight generation to help our product managers make better decisions, faster. You’ll also interface with our Analytics Engineering team to put your findings “into production” to ensure that our customers receive ongoing benefits from your work at scale.
+	- GitHub is an exciting place to work joining a tight-knit environment of technical and business-minded individuals. This role is an individual contributor role with significant growth potential.
+	- Responsibilities
+		* Work with Product owners to assess metric needs and turn them into relevant, synthesized consumable outputs
+		* Embed in and build business understanding across product domains leading to effective cross collaborative partnership
+		* Partner with our Analytics engineering team to develop solutions for ongoing product performance reporting that scale and reduce effort to outcomes
+		* Develop and automate reports and iteratively build dashboards to provide insights at scale, solving for on-going analytical needs
+		* Leverage relevant product data to track and inform objectives and goals with product partners
+	- Minimum Qualifications
+		* A Bachelor’s Degree in statistics, math, engineering, computer science, economics, business, or a related technical field.
+		* 2+ years prior relevant experience in an Analytics role covering product or engineering
+		* Strong intellectual curiosity and desire to understand different parts of GitHub’s product
+		* Experience translating requirements into analysis questions that can be directly actioned
+		* Expertise in writing SQL queries and working with multiple data sets to develop analytical solutions for defined business problems
+		* Experience with engineering practices around analytical rigor and the ability to make reproducible your analyses
+		* Demonstrated ability to synthesize and communicate analysis into insights that inform business decision making
+		* Demonstrated willingness to both teach others and learn new analytical problem solving techniques
+		* Demonstrated effective written and verbal communication skills
+		* Ability to lead without authority and a strong sense of responsibility
+	- Preferred Qualifications
+		* Experience conducting statistical analysis using Python / R (or equivalent)
+		* Experience developing and maintaining ETLs (Airflow experience is a big plus)
++ skill set:
+	- GitHub is seeking a research engineer in the area of code intelligence in the office of the CTO (OCTO). OCTO aims to be a meeting place within GitHub for experimentation with new ideas, and for setting the agenda for GitHub’s product several years in advance. OCTO has a small number of permanent research staff, and this position is part of the core OCTO team. The engineer will initially focus on exploring synthesis of code from documentation.
+	- Here is some more detail on that initial project - it is just an example of more such projects in future. Recent advances in machine learning models for source code indicate that it is possible to synthesize code just from the signature and docstring of a function. Often better synthesis results are possible by also specifying an example to test synthesized candidates. We’d like to explore how to integrate this functionality into CodeSpaces, so that users can browse alternative solutions synthesized by the model. We’d also like to consider other user experiences for the same functionality, for example in an automated assistant for novice developers.
+	- Responsibilities:
+		* Design and build user interfaces as outlined above, and experiment with new ideas to embody the new code synthesis technology.
+		* Collaborate with early adopters and machine learning experts on improving both the underlying technology and the way users interact with the synthesizer.
+		* Participate in all activities of the OCTO at GitHub: organizing webinar series, evaluating project proposals, and disseminating research results.
+	- Minimum Qualifications:
+		* Ability to quickly create innovative user interfaces and new user experiences.
+		* 5+ years experience in creating frontends in production
+		* Inclination to prototype quickly and make fast decisions on experiment failure.
+		* A creative mindset and good practical skills are more important than formal experience.
+	- Preferred Qualifications:
+		* Experience with user interface design, especially for developer tools.
+		* Proven track record of working with early adopters to refine initial designs.
+		* Ability to communicate complex ideas clearly, both in spoken and written form, for expert as well as novice audiences.
+		* Interest in modern AI technologies and their use in developer tools.
++ skill set:
+	- GitHub is seeking a research engineer in the area of code intelligence in the office of the CTO (OCTO), specifically for the experimentation with new and interesting user experiences. OCTO aims to be a meeting place within GitHub for experimentation with new ideas, and for setting the agenda for GitHub’s product several years in advance. OCTO has a small number of permanent research staff, and this position is part of the core OCTO team. The engineer will initially focus on user interfaces for code synthesis.
+	- Here is some more detail on that initial project - it’s just an example of similar projects in future. To train machine learning models for program synthesis, we can use existing code bases and their unit tests: find a function that has good test coverage and documentation, mask out the body, synthesize an alternative implementation, and test it. Applied to all Python and JavaScript code on GitHub, this would be a huge training set. Full unit tests can however be slow to execute, and for effectively training machine learning models we need the tests to be as fast as possible. One way might be to distill the unit tests into ‘micro tests’ by recording just enough state and I/O behavior so we can replay previous behaviors.
+	- Responsibilities:
+		* Design and build a framework for creating fast functional correctness tests of Python and JavaScript code.
+		* Collaborate with machine learning experts on applying this framework for reinforcement learning on program synthesis tasks.
+		* Participate in all activities of the OCTO at GitHub: organizing webinar series, evaluating project proposals, and disseminating research results.
+	- Minimum Qualifications:
+		* Ability to do innovative research on one of the following topics: dynamic analysis, instrumentation, or runtime verification.
+		* 5+ years experience building developer tools in production
+		* Inclination to prototype quickly and make fast decisions on experiment failure.
+		* A creative mindset and good practical skills are more important than formal experience.
+	- Preferred Qualifications:
+		* PhD in computer science or related field, or other evidence of the ability to do independent research.
+		* Knowledge of Python or JavaScript and its ecosystem, or the ability to acquire such knowledge quickly.
+		* Ability to communicate complex ideas clearly, both in spoken and written form, for expert as well as novice audiences.
+		* Interest in modern AI technologies and program synthesis in particular.
++ skill set:
+	- GitHub has changed the way software is built. While GitHub-the-product must deliver immediate value to software engineers, we also have a unique opportunity to look farther ahead and identify how to make software development faster, safer, easier, and more accessible.
+	- This is the mission of GitHub’s Office of the CTO. We research the current state of software engineering to understand what can be improved, and illustrate the future through working prototypes. We’re looking for talented polymaths to join us!
+	- You’ll work with a small team of researchers to explore the future of software development in order to guide GitHub’s product and engineering decision-making. Your north star is ensuring that GitHub remains at the heart of software development. Your secondary goal is to project GitHub’s technical prowess — our published work should be inspirational, insightful, and informative to developers everywhere.
+	- Responsibilities:
+		* Research Engineers conduct investigations and build prototypes. With few constraints on our solution space, our hardest task is scoping our research so that we are able to produce impactful results. We will have an order of magnitude more ideas than we are able to pursue; choosing wisely is part of the job.
+		* The domains of exploration are varied and will require an ability to understand, investigate, and implement prototypes across a wide range of technologies.
+		* We do not work with production GitHub systems; our focus is on innovation and velocity. If we do our jobs well, we provide a map of the territory that de-risks engineering projects. From time to time, we may be called upon to investigate specific, high-priority topics.
+	- Minimum Qualifications:
+		* These are the general qualities that candidates must possess in order to succeed in this role.
+			+ Comfortable identifying and justifying research goals in situations of ambiguity, and executing towards those goals without explicit direction.
+			+ Finds ways to build prototypes that clearly articulate a thesis to others. Able to prototype quickly and evaluate ideas strategically.
+			+ Is an effective and inclusive communicator, comfortable with remote communication practices. OCTO’s currency is ideas; the health of our team, our execution, and our results rests on our ability to communicate well.
+			+ Able to collaborate with members of OCTO and the broader GitHub Engineering community to identify fruitful areas of investigation, inform OCTO’s point of view on issues/opportunities, and define projects to enhance our understanding of these topics.
+			+ Comfortable managing interactions with stakeholders around timelines and milestones. Proactive, consistent communications are key to our working relationships, and a good guardrail against rabbitholes.
+			+ 5+ years of experience writing and shipping software. This is a senior engineering role! That said, we are not primarily looking for raw coding ability. Experience is about more than your ability to write code and debate the finer points of $LANGUAGE_FEATURE.
+			+ Are a generalist with some areas of deeper knowledge. We will also consider candidates who have specialized in a relevant field.
+	- Preferred Qualifications:
+		* These are more specific abilities we’re looking for, but it is the rare human who possesses them all. Think of this as a descriptive sketch, not a checklist of requirements. Be comfortable applying even if you don’t have all of them.
+			+ A deep understanding of GitHub’s industry and business context, and the ability to be articulate about topics related to our product and audience.
+			+ Has held roles that deal with topics at the boundary of human knowledge regarding software development and developers.
+			+ A demonstrated ability to ship software using a variety of technology stacks. You are not afraid to read source code. You are comfortable picking up new technology stacks in the normal course of work.
+			+ Have significant experience with one or more frontend technologies. We currently default to Typescript and React for the web, but “whatever helps us ship” is the top concern.
+			+ Have significant experience with one or more backend technologies: server-side environments, compute, datastores, networking, infrastructure, devops, security.
+			+ Have significant experience with open-source software, communities, and the systems that these communities use to self-organize and ship software for others to use.
+			+ Have significant experience operating production systems at a nontrivial scale, and are familiar with the common patterns and pitfalls of that work.
+			+ Have significant experience in another area of computing that is relevant to our mission. Human-computer interaction, distributed systems, $YOURTHING.
++ skill set:
+	- GitHub Security Telemetry is seeking a highly talented and motivated security engineer to drive security initiatives that affect the security of millions of developers around the world. The role involves designing, building, and supporting the security telemetry services and tools that allow GitHub to deliver the best developer experience to its internal employees and the rest of the world. The ideal candidate will share a passion for engineering solutions to complex security problems.
+	- Development and implement appropriate and effective telemetry solutions to help mitigate threats and risks
+	- Endpoint vulnerability management
+	- Provide subject matter expertise on telemetry solutions
+	- Provide technical leadership while working across the company on critical security initiatives
+	- You have knowledge of telemetry systems/tools, like ELK, Splunk, Azure Data Explorer, and TICK stacks
+	- You have operational experience with Nessus, Qualys or similar scanning tools
+	- Familiarity with configuration management software such as Puppet, Chef, Ansible, or Salt
+	- Experience using Linux day-to-day in a production environment
+	- Working knowledge of security telemetry best practices and threat landscape
+	- Experience working in a decentralized and geographically distributed environment
+	- Experience working in or partnering with a threat detection or incident response teams
+	- Excellent written and verbal communication skills
+	- A proven track record of taking technical requirements, developing proof of concepts, and developing mature systems.
+	- A passion and proven ability to drive security that is frictionless, collaborative and effective
+	- Experience using software version control systems/Git and GitHub
+	- Ability to engineer solutions using Python, Ruby or Go
++ skill set:
+	- GitHub is seeking a highly experienced and detailed-oriented individual contributor with a technical bent to help maintain and expand GitHub’s Risk Management function.  GitHub is committed to doing right by our customers and developing a highly effective control environment where risk is managed in a meaningful and sensible way that aligns with our business.
+		* Are you a fearless, autonomous yet social go-getter, prone to fits of root cause analysis, followed on by enthusiastic information sharing?
+		* Do you like to test theories, and exult, rather than deflate, when the results return gaps or deficiencies because it means you have an opportunity to make something better?
+		* Do you want to see The Big Picture, and find ways to collect and organize data to tell the story? Maybe have a strong forest-from-trees project management perspective?
+		* Do you agree that the organic power of mutually respectful discourse and collaboration is what makes the world go round?
+		* And last, but most certainly not least, have you already answered the question "Why are we here?" with the GRC Truth, "Because Customers”?
+	- If so, you might be the person we are looking for!
+	- As part of the Security-GRC team reporting to the Security-GRC Risk Manager, you will work closely with multiple groups including software engineering, infrastructure, product, security operations, application security, legal, privacy, finance, HR, sales, and audit to develop and execute sound risk management processes and technical controls to meet customer needs, satisfy external audit requirements, and address internal business objectives.
+	- This is an excellent opportunity for a strong Individual Contributor to have a hand in elevating risk management and security as a business and sales enabler, and to integrate a deep understanding of product and business into the technical risk space. This is a team effort, so bringing your team members, leadership, and customers along for the ride is integral to your success. Central to the team's culture is that of inclusion, transparency, and teamwork - we lift each other up to be successful!
+	- A large focus of this position will be:
+		* Execution and management of the Risk Assessment lifecycle for GitHub products and operating environments, including reporting on, planning and tracking remediation/mitigation plans.
+		* Engage with GitHub team members and GitHub and Azure Compliance partners in detailed research and analysis of technical and process centric requirements in support of new initiatives, continuous improvement, and remediation efforts.
+		* Contribute to the development of controls and continuous testing, design remediation and risk mitigation solutions, and collaborate cross functionally to establishing high levels of automated testing and evidence collection.
+		* Act as lead for your function area in development and tracking of risks and remediation project plans; assist in tracking successful completion of work, ensuring alignment with product roadmap.
+		* Provide feedback to business stakeholders on regulatory/industry better practices with regard to establishment and operation of internal controls.
+		* Represent GitHub’s culture, tone and spirit of partnership with our coworkers, technology partners, Microsoft peers.
+		* Contribute to the development of tools, automation, and practices to better support ongoing Security-GRC services.
+		* Above all, you'll be getting your hands deep into the work and identifying new ways to solve problems and provide services inside our company.
+	- Our ideal candidate takes an extremely pragmatic approach to Risk Management, functions as part of a growing team, and is able to balance the needs of a very dynamic engineering culture with that of protecting the company and customer data.
+	- This job is U.S. based and open nationwide, however, semi-frequent travel (<10%) to our San Francisco, CA headquarters, Portland, OR, or Seattle, WA, will be necessary for a remote worker. (NOTE: Due to current COVID-19 restrictions on travel, non-essential travel for GitHub employees has been suspended indefinitely)
+	- Required experience:
+		* 5+ years prior work experience in technical risk management, information security, audit and/or compliance efforts, with a focus in a technical capacity at a large SaaS provider.
+		* 4+ years experience performing technology risk management lifecycle program work, including assessment, reporting and remediation planning and tracking activities.
+		* 4+ years experience building complex project plans and tracking completion, negotiating commitments and escalating on blocking issues constructively.
+		* Experience standing up and administering applications and tooling with a growth mindset for learning scripting and automating processes.
+		* Proven success in developing and using metrics/KPIs to assess, report on and improve program performance.
+		* Practical experience with NIST, AICPA TSP/SOC, PCI, FISMA/FedRAMP, COBIT, ISO, or other industry and regulatory frameworks.
+		* CISA, CISSP, CRISC, CIA or other relevant independent certification, or equivalent education.
+		* Proven communication skills and ability to understand the value and drivers behind adjusting style and tone for a given audience, including technical and non-technical peers across the company.
+		* Strong independent motivation, high comfort level with asynchronous work environments, written communication, use of chat tools.
+		* Must be legally authorized to work in the United States.
+	- Preferred Attitude:
+		* Lead From Any Chair - You model influence without control, bringing your team members, leadership, and customers along for the ride is integral to your success.
+		* Loves the opportunity to Fix It, Build It, Understand It.
+		* Confidence in ability to learn new things - has the ability to state: "I don't know, but I will find out and circle back!”
+		* Very high comfort level working under ambiguous situations, with natural drive to bring clarity.
+		* Compulsive about getting it down on "paper".
+		* Creative mindset; a willingness to try a new approach, and challenge assumptions.
+		* Highly team oriented personality.
+		* An open, learning mindset.
++ skill set:
+	- GitHub is changing the way the world builds secure software and we want you to help change the way we secure GitHub. We're looking for an experienced security engineer to drive the development of GitHub’s red team operations. GitHub’s Application Security team (AppSec) has historically been focused on collaborating with and supporting engineering teams during the software development lifecycle. We are looking for a fresh perspective to drive the identification and mitigation of security risks from an attacker’s point of view.
+	- In this role you will define and implement how GitHub provides our engineers and security teams with broadly scoped and in depth security assessment of our services and infrastructure. You’ll have the freedom to define these engagements to best test the defensive security practices at GitHub. In this position, you will work closely with the AppSec team to leverage the team’s knowledge, skillset, and ongoing collaboration with engineers.
+	- Communication and empathy is key in this role, and your collaboration with engineers is just as important as the vulnerabilities and security risks you identify. In this role you’ll not only need to be creative and thorough in the attacks you perform, but also in helping drive the remediation strategies with teams across the company.
+	- Your responsibilities will include:
+		* Defining processes and initiatives to perform attacks against GitHub’s services and infrastructure, while taking care to minimize impact to systems and data
+		* Digesting complex application and service architectures to identify potential threats and avenues for exploitation
+		* Engaging internal engineering and security teams to work with during red team operations
+		* Collaborating with engineering teams and leadership to communicate identified risks and expectations for remediation
+		* Developing a plan to scale the red team, its service offerings, and tooling
+		* Mentoring other team members
+	- The minimum qualifications are:
+		* A passion for identifying and exploiting security vulnerabilities
+		* 8+ years of experience performing penetration tests, security code reviews, and red team operations
+		* Experience in security architecture review and threat modeling of complex systems
+		* Experience developing security testing tooling and exploits
+		* Experience with identifying and exploiting the unique security risks of cloud computing platforms including Azure and AWS
+		* Excellent written and verbal communication skills targeting a broad range of audiences from engineers to leadership
+		* Ability to empathize with a diverse range of engineers
+	- Bonus points if you have:
+		* Hands-on management experience in a personnel or team lead capacity
+		* Experience with exploiting virtualization techniologies and container orchestration systems such as Kubernetes and Nomad
+		* Practical software development skills with Ruby on Rails or Go
+		* Experience using Git and GitHub
++ skill set:
+	- We are looking for an experienced product security engineer to join our team that can help us to strategically push forward the state of product security throughout GitHub. The product security team is dedicated to identifying the most important application and product security risks and use our passion for building things to mitigate or eliminate those risks. To get specific, here are some things our team works on:
+		* Account security - We work to ensure only legitimate users can access their accounts. Examples include:
+			+ Two-factor authentication (2FA) and WebAuthn
+			+ Verified device protection for non-2FA users
+			+ Protecting accounts reusing passwords leaked in other services
+		* Application security paved paths - We are passionate about projects where we can add defense in depth or secure by default security patterns. Examples include:
+			+ Continually looking for modern web security standards we can leverage such as content security policy, samesite cookies, etc.
+			+ Built/operate an internal cryptographic service used by other engineers and services throughout GitHub.
+		* Application security architecture - We collaborate with engineers throughout GitHub to develop solutions to security obstacles that strike the best balance between security, usability, and convenience.
+	- Responsibilities:
+		* Identify the most important strategic product security focus areas for the team and GitHub itself
+		* Help lead security architecture discussions with other engineering teams throughout GitHub
+		* Stay current with emerging security standards and help to identify when and where they should be adopted at GitHub
+		* Help lead the team’s technical/architectural decision making
+		* Write robust, maintainable backend code
+		* Review code and lead group discussions about the projects we’re working on
+		* Develop systematic solutions to problems instead of focusing on one-off fixes
+		* Mentor other engineers
+	- Minimum Qualifications:
+		* A passion for application security related problems
+		* 8+ years building software applications at scale
+		* 5+ years designing/architecting secure systems at scale
+		* Working knowledge of web application vulnerabilities and mitigations
+		* Known for being a great communicator and collaborator
+		* Excellent written and verbal communication skills
+	- Preferred Qualifications:
+		* Practical software development skills with Ruby on Rails or Go
+		* Working knowledge of applied cryptography
+		* Working knowledge of modern web security standards
+		* Experience mitigating account security risks
+		* Experience using Git and GitHub
++ skill set:
+	- GitHub is changing the way the world builds software, and we want you to help change the way we secure GitHub. We are looking for an experienced Threat Detection Manager to lead our remotely distributed detection engineering team focused on identifying and responding to security threats against GitHub and Azure DevOps(ADO).
+	- Interested in leading efforts related to building and tuning scalable detection and enrichment systems, threat hunting, MITRE ATT&CK, or response automation?
+	- As our Threat Detection Manager, you will work alongside other members of the GitHub Security and Engineering organizations to lead an awesome team of threat detection professionals. You will develop and mature a comprehensive threat detection program, plan new detection work according to company growth and threat intelligence trends, and foster effective, sustainable process development. A successful applicant will have a desire to lead and develop a healthy and inclusive team responsible for detecting and hunting a variety of adversaries in diverse environments at scale.
+	- Threat Detection Manager Responsibilities
+		* Lead and develop a dedicated team of threat detection professionals
+		* Maintain a healthy team culture based in excellence and empathy
+		* Plan, balance, and prioritize team activity in response to company growth and changing threat landscapes
+		* Coordinate measurable threat detection and hunting activity across a complex technical environment at scale
+		* Develop and mature threat detection process and integration with threat intelligence resources
+		* Closely partner with dedicated corporate security and incident response resources to identify, investigate, and mitigate threats
+		* Participate in an on-call rotation
+	- Minimum Qualifications
+		* Significant experience with the entire threat detection lifecycle and collaborating with incident response, corporate security, security engineering, and threat intelligence resources
+		* Several years experience effectively managing and working with distributed and remote security teams
+		* The ability to take a pragmatic, risk-based approach to decision making while applying practical security principles and practices
+		* Exceptional written and verbal communication skills with a strong sense of empathy
+		* Proven experience guiding risk-based strategic and tactical technical decision making and execution
+		* Experience operating a threat detection program mapped to the MITRE ATT&CK framework
+		* Experience supporting governance and compliance requirements
+	- Preferred Qualifications
+		* 5+ years or demonstrable proficiency in threat detection
+		* General experience in the following disciplines with deep experience in one or more:
+			+ Log analysis: Large scale analysis of standard and custom log types using client and server side log analysis tools such as Splunk, ELK, Kusto, and Sentinel
+			+ Familiarity with file system, memory, or live response on MacOS, Linux, and Windows
+			+ Network traffic analysis: Analyze network telemetry from intrusion detection systems and flow monitoring systems
+			+ Detection development: Host and network level detection with tools such as osquery, yara, auditd, etc
+			+ Threat intelligence: Collection, analysis, production, or consumption of threat data and finished intelligence
+		* Experience using or securing Linux day-to-day in a production environment
+		* Development experience with Python, Ruby, Bash, or Powershell
+		* Experience working with git, GitHub, and Microsoft Azure
++ skill set:
+	- In this role you will not only be a technical leader paving the pathway to success for GitHub's customers, but also the catalyst of positive transformation, applying GitHub's world class approaches founded on our Values. Furthermore, you will collaborate with internal teams at GitHub and help deliver world-class solutions to customers by bridging the gap between GitHub's customers and GitHub's engineering teams. You will understand GitHub customer goals and will work with your teams and customers to create tailored scalable solutions.
+	- The team manager will apply Management Fundamentals to help the team learn and grow in their career, be a pillar of technical fortitude, and to provide our customers with amazing experiences.
+	- Expectations
+		* As a primary component of this role you will need to maintain an advanced expertise in git
+		* It is a core expectation that you are comfortable in the topics and details of Pro Git
+		* You will need to reach and maintain expert level knowledge of the GitHub API, knowing how to leverage the product to effectively address customer challenges and find solutions
+		* While software development is not a core attribute of the role, the development of scripts, CI/CD pipelines, and GitHub Apps is a large component of the work
+		* Knowledge of the Rest API is necessary for creating solutions
+		* Knowledge of the GraphQL (v4) API is necessary for creating solutions
+		* You will need to have the ability to troubleshoot virtual machines in various cloud environments
+		* GitHub Enterprise Server is a core product that many of our customers use. You will need to learn and maintain expertise in the architecture and maintenance of the GitHub appliance to assist with troubleshooting
+		* You will work with various architectures for the GitHub appliance, including clustering, and high availability
+		* You will be a thought leader and operate with a proactive mindset to help deliver solutions beyond customer expectations
+		* You will help customers understand and plan adoption of new GitHub Product features and updates, such as GitHub Enterprise Server major/minor releases, either through discussion or demonstration
+		* You will learn new GitHub Product features, such as Actions, Pull Panda, Semmle
+		* You will work very collaboratively with Solution Architects, Implementation Engineers, and internal product teams, as well as our customers to understand the customer needs and to deliver tailored solutions for customers
+		* You will need the ability to weigh the tradeoffs of technology choices, and provide detailed actionable plans
+		* You are expected to be an expert in the area of software delivery through modern practices
+		* Your communications to our customers will be delivered in the context of a GitHub expert, with little to no ambiguity in solutioning and/or prescription, is in a tone that uses the GitHub Voice and Tone, and is technically consistent as if it were answered by any GitHub internal team (such as Sales, Support, Engineering, Product, etc)
+		* You will collaborate with GitHub internal teams if you are unable or unsure of a proper answer that is either out of your technical expertise or in the scope of another team
+		* You will work with the Engagement Manager on the how of the delivery, especially with more complex solutions and projects
+		* You will work with the Engagement Manager to have detailed follow up describing what was accomplished
+		* You may visit customers onsite per Statement of Work criteria during various stages of the customer lifecycle
+	- Expectations for GitHub
+		* You will understand and apply GitHub's Values and the guidelines in our Handbook
+		* You will complete and provide a monthly engagement report in collaboration with the Solution Architect team manager for consumption by both our internal GitHub teams and by our customers
+		* You will use our internal channels to continuously keep your customer's Sales and Solution Engineer team members up-to-date on status of the engagement
+		* You will participate in conversations with the Professional Services team to progress technical and other learning knowledge in our team channels
+		* You will be conscious of open sourcing and teaching about solutions delivered to your customers that can be adapted for other Professional Services provider engagements
+		* You will actively participate in Professional Services team discussions and attend team meetings, reasonably considering your time zone, current travel, and OOO activities
+		* You listen for opportunities to improve team operations, either technical or process oriented, and contribute where possible to iterate on these improvements
+	- How Success Is Measured
+		* It is important to note this also should include your own personal goals, career aspirations, and a focus on your health and sustainability. Always know you can reach out to your manager or another Hubber if you need help with achieving or aligning. We want you to feel supported, be happy and have a healthy/sustainable experience. We are excited to have you as part of the team, and want you to feel the same way.
+		* Weekly 1:1s are held and used to chat about anything, and optionally everything! Notes are posted in the private repositories. We can also use the cadence to re-visit measurement of success. A great way to accomplish this can be asynchronously in 1:1 issue comments.
+		* Success from the customer perspective: You accurately know and can articulate the pulse of the customer, and they have a satisfactory/exceptional view of their Services engagement
+		* Success from GitHub's perspective: Our Sales team can quickly understand the status of the engagement(s) you are leading. Data exists or can be provided when a GitHub stakeholder would like a deeper understanding of the engagement
+		* Success from the team manager's perspective: You are meeting or exceeding the expectations defined in this document and reach out for help when needed
+			+ The team manager should provide a Product Owner perspective on team objectives, strategy, and provide resources and guidance on completing OKRs.
++ skill set:
+	- GitHub is seeking a Security Solutions Architect for our Professional Services team. They focus on helping our customers improve the lives of developers working on the GitHub platform. As a Security Solutions Architect you will have a direct impact on the security of some of the world’s largest code bases and the most commonly used applications. You will be a trusted consultant to the world's leading companies to assist them in transforming how they approach security in their software delivery life cycle. You will shape how they integrate security throughout their software delivery lifecycle. You will create a vision for these customers on how they can improve, and work closely with their stakeholders and teams to implement these changes.
+	- For this role, you can expect to spend about 60% of your time with customers on high-level details and driving Advanced Security adoption. The rest of the time is likely split between CodeQL and Advanced Security deployment.
+	- Responsibilities
+		* Be a trusted advisor for our customers on all aspects of GitHub Advanced Security
+		* Share expertise on CodeQL, both from a language and deployment perspective
+		* Serve as the primary owner of customer deliverables over long-term engagements
+		* Provide technical contribution and facilitate development with the broader Services Advanced Security team
+		* Participation in customer scoping calls throught the customer's journey, with ongoing, recurring collaboration with customers
+		* Frequent calibration of customer success criteria and providing proactive, creative attention on their priorities
+		* Help customers understand and quantify value from Advanced Security
+		* Collaborate with team members across GitHub, providing valuable insights from the field on how we can improve our products
+	- Qualifications
+		* Demonstrated ability to connect with people, lead client projects, and help clients solve problems with GitHub
+		* Strong ability to collaboratively and optimistically handle client expectations and project scope during all stages of a client engagement
+		* Strong knowledge of secure coding practices and common types of vulnerability
+		* Experience with common DevOps tools, CI/CD, builds, etc.
+		* Experience of code analysis (static/dynamic), dependency scanning, or other security automation in a DevOps environment
+		* Experience in mentoring other engineers and disseminating complex technical ideas and processes
+		* Strong written and verbal communication skills
+		* An ability to persuade customers to make hard, but worthwhile decisions
+		* An ability to see the tradeoffs of technical solutions and make recommendations to customers
+		* A desire to help others, and to collaborate with both customers and GitHub team members
+		* A growth mentality, and a passion for discovering new technologies
++ skill set:
+	- GitHub is seeking a Solution Architect for our Professional Services Delivery team. They focus on helping our customers improve the lives of developers working on the GitHub platform. As a Solution Architect you will impact the lives of developers by working with some of the largest companies in the world by crafting many aspects of software delivery. You will help our customers plan, prioritize, launch, and accelerate their initiatives in building on GitHub. This role will be based in the Central US region.
+	- You will succeed in this role if you are a highly technical individual who feels as comfortable working with tech leaders to map out software delivery initiative roadmaps as you do writing code. You will work with customers from the planning phase through maintaining the system. You will be their primary technical contact at GitHub and establish relationships with admins and their tech leaders. This can be a remote position.
+	- The Solution Architect will be responsible for the following:
+		* Serve as the primary owner of customer deliverables over long-term engagements
+		* Provide technical contribution and facilitate development with the broader Services Delivery team
+		* Participation in customer pre- and post-sales scoping calls, and ongoing, recurring collaboration with customers
+		* Frequent calibration of customer success criteria and providing proactive, creative attention on their priorities
+	- Responsibilities:
+		* Be the primary point of contact and trusted advisor in a technical capacity for customers
+		* Help transform software delivery at some of the largest organizations through hands-on assistance
+		* Demonstrate leadership in owning the development and delivery of adaptive solutions
+		* Proactively seek out new GitHub enhancements and provide demonstrations/adaptive tooling
+		* Managing customer success criteria, understand the pulse of the customer, and providing an exceptional experience with GitHub
+		* Build customer business artifacts, such as company-specific roll-out plans and timelines
+		* Work closely with the Engagement Manager to field customer questions and requests for services
+		* Study reference customer cases for concepts to apply for specific customer scenarios
+		* Track and share progress with GitHub and our customer to ensure expectations are clear and progress is being made
+		* Discover issues that arise and create plans to solve their problems
+		* Be on constant watch for process improvements
+		* Seek out automation opportunities for repetitive tasks
+	- Qualifications:
+		* Deep experience with GitHub to deliver software
+		* A strong understanding of IT infrastructure, governance, compliance and business process management
+		* Interest in working creatively with customers to understand technical and business requirements
+		* A demonstrable comfort in both facilitating and developing solutions
+		* Aptitude to proactively engage customers with aspirational and recommended technical deliverables in a self-driven manner
+		* Implement and test solutions based on requirements and customer feedback
+		* An understanding of several of these methodologies and tools:Software development methods such as Agile, Scrum, Lean, Waterfall
+			+Software project tools like JIRA, Pivotal Tracker, Trello, Asana, and MS Project
+			+ Continuous integration and build automation with Jenkins, TeamCity, TFS, TravisCI, CircleCI
+		* Experience configuring the following technologies:
+			+ LDAP, ActiveDirectory, and other SAML/Single-Sign-on services
+			+ VMware vSphere, ESXi, AWS, Azure, GCP, and other virtual infrastructure tools
+		* Demonstrated ability to connect with people, lead client projects, and help clients solve problems with GitHub
+		* Strong ability to cheerfully handle client expectations and project scope during all stages of a client engagement
+		* Superb written and verbal communication skills
+		* Self-motivation, energy, and enthusiasm
+	- A more human note about this role:
+		* This role is critical for our customers and GitHub. We would love your help to continue to assist customers in accomplishing their goals and making a positive impact in their company. We have seen how impactful a Solution Architect can be at GitHub. We hope you will join our team as we work with our customers to achieve their vision with the GitHub platform.
++ Maintaining awareness of internal GitHub initiatives, the direction of the Source Control Management (SCM) industry, and trends in global developer collaboration tools and techniques.
++ Knowledge of Source Control Management (SCM) tools and workflows
++ skill set:
+	- The Internet Archive is a non-profit with a huge mission: "Universal Access to All Knowledge". Based in San Francisco, CA, with satellites around the world, Internet Archive staffers are building the digital library of the future - a place where anyone can go to learn and explore our shared human experience from books, web pages, audio, television and software. Forever.
+	- The Internet Archive is seeking a Senior Software Engineer for its Archive-It Group. The Archive-It team is responsible for maintaining a web application which automates high quality captures of content from the web. An ideal candidate demonstrates independence and initiative, is a problem solver, works well autonomously, has deep experience on the Unix/Linux command line and broad experience in systems architecture. Additionally, the ideal candidate is open to helping advance the state of preserving web-published content, working on the platform which drives a large portion of global web capture.
+	- The successful candidate will work in the Archive-It Group in support of building and maintaining high quality software for the collection, preservation, and accessibility of web content. The role will help design and implement the future of a toolset and APIs which automate web capture using open source technologies and platforms. An ideal candidate is interested in developing harvest techniques and tools to enable archival capture and re-rendering of rich media, streaming content, social media, as well as traditional web page content. This role contributes to defining deployment  architectures and workflows, managing data at scale, and monitoring production systems.
+	- Essential Job Functions:
+		* Contending with the complexity of a suite of tools that capture web content accurately at the micro and global scale with equal accuracy
+		* Configuration, maintenance and improvement of web crawling tools
+		* Contribute to the development of a distributed python-based database used for crawl material deduplication, analysis and reporting.
+		* Demonstrated experience of delivering on commitments with deadlines and project time lines and working in a collaborative team of engineers and project/product managers.
+	- Minimum Qualifications:
+		* Strong experience in Unix shell scripting and Python coding required
+		* Strong experience with python, bash, java, and C-based debugging tools strongly preferred
+		* Solid experience in Internet protocols (HTTP is must.) Strong knowledge of HTML, JavaScript and Web technologies in general
+		* Knowledge of building and deploying web applications, databases, web-host services, and Linux system administration
+		* Ability to work in, and enjoy, a loosely structured work environment
+	- Preferred Qualifications:
+		* Cluster computing experience is preferred, especially familiarity with Hadoop and related technologies and tools
+		* Experience working with Javascript and HTML in a large-scale application preferred
+		* Experience or familiarity with Java preferred
+		* Experience with applications designed to display archived web content
+		* Experience with development environments and system monitoring/administration tools
+		* Experience with open source practices, version control, and code review
+		* Experience with Atlassian tool sets
+		* Flexibility and a sense of humor are a plus
+		* Bachelor's Degree in Computer Science or a related field, five years of progressively responsible experience in software development.
+	- Reporting Structure: The Senior Software Engineer reports to the Engineering Manager for Archive-It and works closely with other departments. The position works alongside other web archiving engineers as well as program staff in Web Archiving & Data Services Group and with the broader Internet Archive infrastructure and engineering teams.
++ 
+
+
+
+
+
+
 
 
 
