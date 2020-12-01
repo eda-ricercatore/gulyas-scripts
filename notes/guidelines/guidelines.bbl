@@ -1192,7 +1192,7 @@ Shriram Krishnamurthi.
 
 \bibitem{Krogh2008a}
 Bruce~H. Krogh, Edward Lee, Insup Lee, Al~Mok, George Pappas, Raj Rajkumar,
-  Harvey Rubin, Alberto Sangiovanni-Vincentelli, Lui Sha, Kang Shin, Jack
+  Harvey Rubin, Alberto {Sangiovanni-Vincentelli}, Lui Sha, Kang Shin, Jack
   Stankovic, Janos Sztipanovits, Wayne Wolf, and Wei Zhao.
 \newblock Report: Cyber-physical systems summit.
 \newblock Technical report, National Science Foundation, St. Louis, {MO}, April
@@ -1568,7 +1568,7 @@ Huy Nguyen, Hai-My Nguyen, and Minh-Luan Tran.
   June 4, 2018 was the last accessed date, October 12 2013.
 
 \bibitem{Nuzzo2011}
-Pierluigi Nuzzo and Alberto Sangiovanni-Vincentelli.
+Pierluigi Nuzzo and Alberto {Sangiovanni-Vincentelli}.
 \newblock Robustness in analog systems: Design techniques, methodologies and
   tools.
 \newblock In {\em Proceedings of the $6^{th}$\ {IEEE} International Symposium
@@ -1922,13 +1922,13 @@ Miro Samek.
 \newblock Newnes, Burlington, {MA}, second edition, 2009.
 
 \bibitem{SangiovanniVincentelli2007}
-Alberto Sangiovanni-Vincentelli.
+Alberto {Sangiovanni-Vincentelli}.
 \newblock Quo vadis, {SLD}? reasoning about the trends and challenges of system
   level design.
 \newblock {\em Proceedings of the {IEEE}}, 95(3):467--506, March 2007.
 
 \bibitem{SangiovanniVincentelli2008}
-Alberto Sangiovanni-Vincentelli.
+Alberto {Sangiovanni-Vincentelli}.
 \newblock Is a unified methodology for system-level design possible?
 \newblock {\em {IEEE} Design {\rm \&}\ Test of Computers}, 25(4):346--357,
   July--August 2008.
