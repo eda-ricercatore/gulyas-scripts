@@ -14,7 +14,39 @@ Note that these horizontal rules/lines cannot be drawn to partition
 
 
 
+
+## Adding Comments in *Markdown*: Workarounds for "Missing Language Specification"
+
+
+From \cite{Magnus2018}, comments can be added as follows:
+
+	[comment]: <> (This is a comment, it will not be included)
+	[comment]: <> (in  the output file unless you use it in)
+	[comment]: <> (a reference style link.)
+
+
+
+
+
+
+
+
 # References for Markdown
+
+
+
+Citations/References that use the *LaTeX/BibTeX* notation are taken
+	from my *BibTeX* database (set of *BibTeX* entries).
+
+
+If these citations/references are not found in this list of references,
+	information about them can be found in my BibTeX database.
++ BLAH...
+
+
+
+
+
 
 Stack Overflow staff, "Markdown help," in *Stack Overflow*, Stack Exchange Inc., New York, NY, 2015. Available as *Stack Exchange: Stack Overflow (rev 2015.10.13.2885)* at: http://stackoverflow.com/editing-help; last viewed on October 14, 2015.
 
@@ -34,8 +66,14 @@ Daniel Greenfeld, "Markdown Basics," Revision 0dfc38d3, from the *Read the Docs*
 
 
 
+
+
 	References (to show me how to create box with scroll bar):
 	Stack Overflow contributors, "Static linking vs dynamic linking," Stack Exchange Inc., New York, NY, September 10, 2008. Available from ** at: http://stackoverflow.com/questions/1993390/static-linking-vs-dynamic-linking; last viewed on October 13, 2015.
+
+
+
+
 
 
 
