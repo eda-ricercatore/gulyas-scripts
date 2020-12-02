@@ -8,7 +8,7 @@
 \contentsline {section}{\numberline {3}Coding Standard}{10}{section.3}% 
 \contentsline {section}{\numberline {4}Exception Safety}{12}{section.4}% 
 \contentsline {section}{\numberline {5}Suggested Software Architecture}{13}{section.5}% 
-\contentsline {section}{\numberline {6}Adoption of Best Practices}{13}{section.6}% 
+\contentsline {section}{\numberline {6}Adoption of Best Practices}{14}{section.6}% 
 \contentsline {subsection}{\numberline {6.1}Practice of Automated Regression Testing}{14}{subsection.6.1}% 
 \contentsline {subsection}{\numberline {6.2}Cloud-based Data Science and Machine Learning}{15}{subsection.6.2}% 
 \contentsline {section}{\numberline {7}Additional Guidelines}{15}{section.7}% 
