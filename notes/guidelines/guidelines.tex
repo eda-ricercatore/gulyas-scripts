@@ -88,7 +88,7 @@ Revision history: \vspace{-0.3cm}
 \item Version 4.1, September 19, 2018. Updated ACM Code of Ethics and Professional Conduct; added The Joint {ACM/IEEE-CS} Software Engineering Code of Ethics and Professional Practice; and updated guidelines on exception handling.
 \item Version 4.2, September 21, 2018. Added acknowledgements, shout outs, for people who helped me with automated regression testing. And, refactored document.
 \item Version 4.3, September 22-25, 2018. Added references on agile SoC design, and hardware/VLSI/RTL/HDL refactoring.
-\item Version 4.4, December 29-30, 2018. Added template information for the ``Annote'' and ``Howpublished'' {\sc Bib}\TeX\ fields to help me identify particular information about the document/publication.
+\item Version 4.4, December 29-30, 2018. Added template information for the {\tt Annote} and {\tt Howpublished} {\sc Bib}\TeX\ fields to help me identify particular information about the document/publication.
 \item Version 4.5, February 11, 2019. Extend recommendations and suggestions to projects in data science and (applied) machine learning.
 \item Version 4.6, February 14, 2019. Add references for {\it Git} and its substitute, {\it Mercurial SCM}, for distributed version/revision control (or software configuration management). Also, add ``Acknowledgments'' and ``Revision History'' sections to the ``Table of Contents''.
 \item Version 4.7, March 13, 2019. Add comment on how to include mathematical expressions in {\it Markdown} documents. In addition, fix minor errors.
@@ -145,9 +145,9 @@ Guidelines for creating {\sc Bib}\TeX\ entries and the {\sc Bib}\TeX\ database, 
 	\end{enumerate}
 \item For special symbols that are typeset with \LaTeX\ in the {\tt math mode}, such as $\alpha$, place them in between a pair of dollar signs (i.e., \$$\backslash$alpha\$).
 \item For each {\sc Bib}\TeX\ entry, check if all required fields are complete. See pages 8 and 9 in \S3.1 of \cite{Patashnik1988} for a list of {\sc Bib}\TeX\ entry types; alternatively, refer to the {\it Wikipedia} entry for , or \cite[\S12.2.1, pp. 230--231]{Kopka2004}. In this/these list(s), the required fields are listed for each {\sc Bib}\TeX\ entry.
-\item For the {\tt pages} field, ensure that all page ranges are indicated with double hyphens. E.g., ``page = \{11-\--34\},''. This makes the page range looks more pretty.
-\item For the {\tt pages} field, ensure that multiple pages and/or page ranges are separated by commas. E.g., ``page = \{11-34, 57, 88, 109-\--187\},''.
-\item For books and journal articles that have an associated digital object identifier (DOI) \cite{InternationalDOIFoundationStaff2017}, ensure that the {\tt doi} field is included in the {\sc Bib}\TeX\ entry with the DOI of the publication. This makes it easier for people to access the web page for the book or journal/conference paper.
+\item For the {\tt Pages} field, ensure that all page ranges are indicated with double hyphens. E.g., ``Page = \{11-\--34\},''. This makes the page range looks more pretty.
+\item For the {\tt Pages} field, ensure that multiple pages and/or page ranges are separated by commas. E.g., ``Page = \{11-34, 57, 88, 109-\--187\},''.
+\item For books and journal articles that have an associated digital object identifier (DOI) \cite{InternationalDOIFoundationStaff2017}, ensure that the {\tt Doi} field is included in the {\sc Bib}\TeX\ entry with the DOI of the publication. This makes it easier for people to access the web page for the book or journal/conference paper.
 \item Stylistic validation of the references can be carried out as follows: \vspace{-0.3cm}
 	\begin{enumerate} \itemsep -2pt
 	\item Include all {\sc Bib}\TeX\ keys in one citation in your \LaTeX\ document.
@@ -187,17 +187,34 @@ Guidelines for creating {\sc Bib}\TeX\ entries and the {\sc Bib}\TeX\ database, 
 
 The recommended fields for {\sc Bib}\TeX\ entries are: \vspace{-0.3cm}
 \begin{enumerate} \itemsep -4pt
+\item booklet: \vspace{-0.3cm}
+	\begin{enumerate} \itemsep -2pt
+	\item Address
+	\item Author or Editor
+	\item Edition
+	\item Howpublished
+	\item Keywords
+	\item Month
+	\item Pages
+	\item Publisher
+	\item Series
+	\item Title
+	\item URL
+	\item Volume
+	\item Year
+	\end{enumerate}
 \item techreport: \vspace{-0.3cm}
 	\begin{enumerate} \itemsep -2pt
 	\item Address
-	\item Author
+	\item Author or Editor
+	\item DOI
 	\item Howpublished
 	\item Institution
 	\item Keywords
 	\item Month
 	\item Number
 	\item Title
-	\item Url
+	\item URL
 	\item Year
 	\end{enumerate}
 \item proceedings: \vspace{-0.3cm}
@@ -217,30 +234,51 @@ The recommended fields for {\sc Bib}\TeX\ entries are: \vspace{-0.3cm}
 \item manual: \vspace{-0.3cm}
 	\begin{enumerate} \itemsep -2pt
 	\item Address
-	\item Author
+	\item Author or Editor
 	\item Howpublished
 	\item Keywords
 	\item Month
 	\item Organization
 	\item Title
-	\item Url
+	\item URL
+	\item Year
+	\end{enumerate}
+\item inbook: \vspace{-0.3cm}
+	\begin{enumerate} \itemsep -2pt
+	\item Address
+	\item Author or Editor
+	\item Booktitle
+	\item Chapter (optional)
+	\item DOI
+	\item Edition
+	\item Howpublished
+	\item Keywords
+	\item Number
+	\item Pages
+	\item Publisher
+	\item Series
+	\item Title
+	\item Type
+	\item URL
+	\item Volume
 	\item Year
 	\end{enumerate}
 \item incollection: \vspace{-0.3cm}
 	\begin{enumerate} \itemsep -2pt
 	\item Address
-	\item Author
+	\item Author or Editor
 	\item Booktitle
 	\item Chapter
 	\item DOI
 	\item Edition
 	\item Howpublished
 	\item Keywords
+	\item Number
 	\item Pages
 	\item Publisher
 	\item Series
 	\item Title
-	\item Url
+	\item URL
 	\item Volume
 	\item Year
 	\end{enumerate}
@@ -252,6 +290,7 @@ The recommended fields for {\sc Bib}\TeX\ entries are: \vspace{-0.3cm}
 	\item DOI
 	\item Keywords
 	\item Month
+	\item Number
 	\item Organization
 	\item Pages
 	\item Publisher
@@ -282,11 +321,16 @@ The recommended fields for {\sc Bib}\TeX\ entries are: \vspace{-0.3cm}
 	\item Howpublished
 	\item Keywords
 	\item Month
-	\item Number
+	\item Number: \vspace{-0.2cm}
+		\begin{enumerate} \itemsep -2pt
+		\item Some {\sc Bib}\TeX\ bibliography styles don't indicate the number, or show the number but hide some other important information.
+		\item Hence, if the number is important include it in the Annote field.
+		\end{enumerate}
 	\item School
 	\item Title
-	\item Url
+	\item URL
 	\item Year
+	\item Annote
 	\end{enumerate}
 \item misc: \vspace{-0.3cm}
 	\begin{enumerate} \itemsep -2pt
@@ -297,7 +341,7 @@ The recommended fields for {\sc Bib}\TeX\ entries are: \vspace{-0.3cm}
 	\item Month
 	\item Publisher or School
 	\item Title
-	\item Url
+	\item URL
 	\item Year
 	\end{enumerate}
 \item book: \vspace{-0.3cm}
@@ -318,13 +362,25 @@ The recommended fields for {\sc Bib}\TeX\ entries are: \vspace{-0.3cm}
 \end{enumerate}
 
 
+For additional notes and annotations for publications, I can use the {\sc Bib}\TeX\ fields {\tt Annote} or {\tt Note} to include that information in the {\sc Bib}\TeX\ entry. Please kindly note that information from the {\sc Bib}\TeX\ field {\tt Note} may end up in the reference list (or list of references), while information from the {\sc Bib}\TeX\ field {\tt Annote} would not. \\
+
+In addition, to cite the specific page numbers of interest, use the {\sc Bib}\TeX\ field {\tt Pages}.
+
+
+
+
+
+
+
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{Template Information for the ``Annote'' {\sc Bib}\TeX\ Field}
+\subsection{Template Information for the {\tt Annote} {\sc Bib}\TeX\ Field}
 \label{ssec:TemplateInformationForTheAnnoteBibTeXField}
 
-This is a list of template information for the ``Annote'' {\sc Bib}\TeX\ field to help me identify particular information about the document/publication: \vspace{-0.3cm}
+This is a list of template information for the {\tt Annote} {\sc Bib}\TeX\ field to help me identify particular information about the document/publication: \vspace{-0.3cm}
 \begin{enumerate} \itemsep -4pt
+\item Authors' names (alternate): blah, blah blah, blah blah blah, \dots
 \item When citing from this entry, shift the names of the authors from the author field to the editor field.
 \item Editors: BLAH ... BLAH ... BLAH
 \item Originally published in: 20XY
@@ -332,20 +388,32 @@ This is a list of template information for the ``Annote'' {\sc Bib}\TeX\ field t
 \item Originally published by BLAH in BLAH--BLAH
 \item Also, published by BLAH in BLAH--BLAH
 \item Also, published as BLAH (old series title and old volume number)
+\item Alternate publisher name: BLAH
 \item Reprinted in 20XY by BLAH
 \item Copyright renewed in 20XY.
-\item Authors' names (alternate): blah, blah blah, blah blah blah, \dots
+\item Alternate series title: BLAH.
+\item Address is officially stated in: BLAH.
 \item Received a copy of this {\it report/document/publication} by email.
 \item Alternate title: {\it Another title for the document/publication.}
+\item Alternate subtitle: {\it BLAH}.
+\item Reprinted, paperback edition.
+\item Repeat entry. See $\backslash$cite\{BIbTeX keys\}.
+\item Received a copy of this report by email.
+\item BibTeX key of English translation: BLAH.
+\item Associated files are formerly named: {\tt BLAH.file\_extension}, ...
+\item Former BibTeX key is: {\tt Former BibTeX key}
+\item Differences from the online version with the print version. Title of the print version: "How My Generation Broke America" (on the cover of the magazine), and "My Generation was Supposed to Level America's Playing Field. Instead, We Rigged It for Ourselves" (online article)
+\item Organizations that are recognized as involved in this report: BLAH and BLAH.
+\item BLAH and BLAH are recognized as organizations involved in this report.
 \end{enumerate}
 
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{Template Information for the ``Howpublished'' {\sc Bib}\TeX\ Field}
+\subsection{Template Information for the {\tt Howpublished} {\sc Bib}\TeX\ Field}
 \label{ssec:TemplateInformationForTheHowpublishedBibTeXField}
 
-For the ``Howpublished'' {\sc Bib}\TeX\ field, the suggested template information is: \vspace{-0.3cm}
+For the {\tt Howpublished} {\sc Bib}\TeX\ field, the suggested template information is: \vspace{-0.3cm}
 \begin{itemize} \itemsep -4pt
 \item Available online at: $\backslash$url\{\}; self-published; MONTH DAY, YEAR was the last accessed date
 \end{itemize}
@@ -360,35 +428,17 @@ When the date is not known so that it can be provided in the ``MONTH DAY, YEAR''
 
 
 
+
+
+
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{Suggested Prefixes for Labels of Parts of a \LaTeX\ Document}
+\subsection{Additional Recommendations for Managing a Shared {\sc Bib}\TeX\ Database}
 \label{ssec:SuggestedPrefixesForLabelsOfPartsOfALaTeXDocument}
 
 
 
-Add one of the following prefixes to labels in my \LaTeX\ documents for parts, such as chapters, sections, subsections, subsubsections, figures, tables, equations, code listings, definitions, theorems, lemmas, corollaries, propositions, proofs, examples, and remarks: \vspace{-0.3cm}
-\begin{enumerate} \itemsep -4pt
-\item ``chp:'' for chapter
-\item ``sec:'' for section
-\item ``ssec:'' for subsection
-\item ``sssec:'' for subsubsection
-\item ``fig:'' for figure
-\item ``tab:'' for table
-\item ``eqn:'' for equation
-\item ``lst:'' for code listing
-\item ``defn:'' for definition
-\item ``thrm:'' for theorem
-\item ``lem:'' for lemma
-\item ``crly:'' for corollary
-\item ``prop:'' for proposition
-\item ``prf:'' for proof
-\item ``eg:'' for example
-\item ``rem:'' for remark
-\end{enumerate}
-
-
-This practice makes it easier for collaborators and paper/reviewers to determine if the label for a part of the \LaTeX\ document, belongs to a label or refers to something else. This should be done with cross-referencing different parts of my \LaTeX documents to make it easier for readers to follow the storyline, and look up information.
-
+Use {\tt crossref} for {\sc Bib}\TeX\ entries using the {\sc Bib}\TeX\ entry type {\tt inproceedings} to share information about the conference proceedings without having to copy and paste fields that are commonly shared by articles/papers in conference proceedings \cite[\S12.2.3, pp. 234]{Kopka2004}. It might not work with {\sc Bib}\TeX\ entry types {\tt inbook} and {\tt incollection} for parts, subsections, sections, and chapters of books; this is not mentioned, and {\tt crossref} is probably not supported for these {\sc Bib}\TeX\ entry types.
 
 
 
@@ -634,7 +684,7 @@ Please kindly use the {\it Markdown} language for writing text documents. This i
 
 In addition, tools for working with source code and \LaTeX\ source files include: \vspace{-0.3cm}
 \begin{enumerate} \itemsep -4pt
-\item {\tt git} \cite{Hamano2014,Driscoll2012}: \vspace{-0.3cm}
+\item {\tt git} (or Git) \cite{Hamano2014,Driscoll2012}: \vspace{-0.3cm}
 	\begin{enumerate} \itemsep -2pt
 	\item {\tt Mercurial SCM} \cite{MercurialContributors20XY,MercurialContributors20XYa,MercurialContributors2019,MercurialContributors2013,MercurialContributors2013a,DeMare2015,OSullivan2009,AtlassianStaff2018a} can be used as a substitute.
 	\end{enumerate}
@@ -671,6 +721,51 @@ Please kindly note that {\it GitHub} \cite{GitHubStaff2016}: \vspace{-0.3cm}
 
 
 If possible, develop software in a {\it Python}ic style \cite[Chapter 1, pp. 1--12,12--17]{Alchin2010} \cite{Jon2014,Reitz2016a,Reitz2016,Preshing2014,Franca2014,vanRossum2013}.
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Suggested Prefixes for Labels of Parts of a \LaTeX\ Document}
+\label{ssec:SuggestedPrefixesForLabelsOfPartsOfALaTeXDocument}
+
+
+
+Add one of the following prefixes to labels in my \LaTeX\ documents for parts, such as chapters, sections, subsections, subsubsections, figures, tables, equations, code listings, definitions, theorems, lemmas, corollaries, propositions, proofs, examples, and remarks: \vspace{-0.3cm}
+\begin{enumerate} \itemsep -4pt
+\item ``chp:'' for chapter
+\item ``sec:'' for section
+\item ``ssec:'' for subsection
+\item ``sssec:'' for subsubsection
+\item ``fig:'' for figure
+\item ``tab:'' for table
+\item ``eqn:'' for equation
+\item ``lst:'' for code listing
+\item ``defn:'' for definition
+\item ``thrm:'' for theorem
+\item ``lem:'' for lemma
+\item ``crly:'' for corollary
+\item ``prop:'' for proposition
+\item ``prf:'' for proof
+\item ``eg:'' for example
+\item ``rem:'' for remark
+\end{enumerate}
+
+
+This practice makes it easier for collaborators and paper/reviewers to determine if the label for a part of the \LaTeX\ document, belongs to a label or refers to something else. This should be done with cross-referencing different parts of my \LaTeX documents to make it easier for readers to follow the storyline, and look up information.
+
+
+
+
+
+
+
+
+
+
 
 
 

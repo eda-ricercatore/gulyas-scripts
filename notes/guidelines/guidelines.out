@@ -2,9 +2,9 @@
 \BOOKMARK [1][]{section.1}{Guidelines for Conduct}{}% 2
 \BOOKMARK [1][]{section.2}{Guidelines for Creating a Shared 1!BibTeX Database}{}% 3
 \BOOKMARK [2][]{subsection.2.1}{Recommended Fields for 1!BibTeX Entries}{section.2}% 4
-\BOOKMARK [2][]{subsection.2.2}{Template Information for the ``Annote'' 1!BibTeX Field}{section.2}% 5
-\BOOKMARK [2][]{subsection.2.3}{Template Information for the ``Howpublished'' 1!BibTeX Field}{section.2}% 6
-\BOOKMARK [2][]{subsection.2.4}{Suggested Prefixes for Labels of Parts of a LaTeX Document}{section.2}% 7
+\BOOKMARK [2][]{subsection.2.2}{Template Information for the 1!Annote 1!BibTeX Field}{section.2}% 5
+\BOOKMARK [2][]{subsection.2.3}{Template Information for the 1!Howpublished 1!BibTeX Field}{section.2}% 6
+\BOOKMARK [2][]{subsection.2.4}{Additional Recommendations for Managing a Shared 1!BibTeX Database}{section.2}% 7
 \BOOKMARK [1][]{section.3}{Coding Standard}{}% 8
 \BOOKMARK [1][]{section.4}{Exception Safety}{}% 9
 \BOOKMARK [1][]{section.5}{Suggested Software Architecture}{}% 10
@@ -12,4 +12,5 @@
 \BOOKMARK [2][]{subsection.6.1}{Practice of Automated Regression Testing}{section.6}% 12
 \BOOKMARK [2][]{subsection.6.2}{Cloud-based Data Science and Machine Learning}{section.6}% 13
 \BOOKMARK [1][]{section.7}{Additional Guidelines}{}% 14
-\BOOKMARK [1][]{section*.3}{Acknowledgments}{}% 15
+\BOOKMARK [2][]{subsection.7.1}{Suggested Prefixes for Labels of Parts of a LaTeX Document}{section.7}% 15
+\BOOKMARK [1][]{section*.3}{Acknowledgments}{}% 16
