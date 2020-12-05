@@ -330,6 +330,12 @@ if __name__ == "__main__":
 	print("Get month for 93:",numbers_to_strings(93),"=")
 	print("Get month for 56798:",numbers_to_strings(56798),"=")
 	print("Get month for -443:",numbers_to_strings(-443),"=")
+	"""
+		\cite{Bader2020a} describes multiple default data structures
+			supported by the Python Standard Library \cite{DrakeJr2016b}.
+
+		Here, the example uses a dictionary.
+	"""
 	print("Trying Solution 5.")
 	print("=	Testing: dictionary-based solution using static functions.")
 	for x in range(1, 12+1):
@@ -339,9 +345,12 @@ if __name__ == "__main__":
 	print("Get month for 8:",months_of_year[8].__func__(),"=")
 	print("	- Create a case for the 93th month.")
 	months_of_year[93] = spring_months
-	print("Get month for 93:",months_of_year(93),"=")
-	print("Get month for 56798:",months_of_year(56798),"=")
-	print("Get month for -443:",months_of_year(-443),"=")
+	print("Get month for 93:",months_of_year[93].__func__(),"=")
+	try:
+		print("Get month for 56798:",months_of_year[56798].__func__(),"=")
+	except KeyError as invalid_key:
+		print("Cannot")
+	print("Get month for -443:",months_of_year[-443].__func__(),"=")
 	"""
 		Additional resources that I looked at:
 		+ Prashant Kumar, Answer to "What is the Python equivalent for a case/switch statement? [duplicate]," Stack Exchange Inc., New York, NY, December 3, 2014. Available online from Stack Exchange Inc.: Stack Overflow: Questions at: https://stackoverflow.com/a/11479840/1531728; June 27, 2020 was the last accessed date.
