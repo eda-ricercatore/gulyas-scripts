@@ -349,8 +349,13 @@ if __name__ == "__main__":
 	try:
 		print("Get month for 56798:",months_of_year[56798].__func__(),"=")
 	except KeyError as invalid_key:
-		print("Cannot")
-	print("Get month for -443:",months_of_year[-443].__func__(),"=")
+		print("Cannot use invalid key to access a key:value pair in a Python dictionary.")
+		print("The key 56798 being used is invalid.")
+	try:
+		print("Get month for -443:",months_of_year[-443].__func__(),"=")
+	except KeyError as invalid_key:
+		print("Cannot use invalid key to access a key:value pair in a Python dictionary.")
+		print("The key -443 being used is invalid.")
 	"""
 		Additional resources that I looked at:
 		+ Prashant Kumar, Answer to "What is the Python equivalent for a case/switch statement? [duplicate]," Stack Exchange Inc., New York, NY, December 3, 2014. Available online from Stack Exchange Inc.: Stack Overflow: Questions at: https://stackoverflow.com/a/11479840/1531728; June 27, 2020 was the last accessed date.

@@ -223,7 +223,7 @@ nba_team = dict(
 		Chicago = "Bulls",
 		Utah = "Jazz"
 	)
-print("	The NBA teams are:",nba_team,"=")
+print("	->The NBA teams are:",nba_team,"=")
 nba_team = {
 	"LA" : "Lakers",
 	"LA" : "Clippers",
@@ -231,7 +231,7 @@ nba_team = {
 	"Chicago" : "Bulls",
 	"Utah" : "Jazz"
 	}
-print("The NBA teams are:",nba_team,"=")
+print("=>The NBA teams are:",nba_team,"=")
 print("	The 2nd entry for LA overwrote the 1st entry.")
 print("	For duplicate keys, the dict() constructor will throw a SyntaxError at run-time.")
 print("	For duplicate keys, the {}-based dictionary constructor will overwrite the previous key-value mapping at run-time.")
@@ -245,6 +245,15 @@ print("	For duplicate keys, the {}-based dictionary constructor will overwrite t
 """
 #print("	Value of NBA team[Boston]=:",nba_team[Boston],"=")
 print("	Value of NBA team['Boston']=:",nba_team["Boston"],"=")
+
+
+
+try:
+	print("	Value of NBA team['Miami']=:",nba_team["Miami"],"=")
+except KeyError:
+	print("	Cannot use an invalid key to access a key:value pair in a Python dictionary.")
+
+	
 
 kv_mapping = {
 	6325532 : 0,
