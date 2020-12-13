@@ -22,10 +22,40 @@ Reallocated ex_buf (elt_size=1) to 80000 items from 60000.
 Reallocated out_buf (elt_size=1) to 80000 items from 60000.
 Reallocated name_tok (elt_size=4) to 80000 items from 60000.
 Reallocated name_sep_char (elt_size=1) to 80000 items from 60000.
+Reallocated buffer (elt_size=1) to 100000 items from 80000.
+Reallocated sv_buffer (elt_size=1) to 100000 items from 80000.
+Reallocated ex_buf (elt_size=1) to 100000 items from 80000.
+Reallocated out_buf (elt_size=1) to 100000 items from 80000.
+Reallocated name_tok (elt_size=4) to 100000 items from 80000.
+Reallocated name_sep_char (elt_size=1) to 100000 items from 80000.
+Reallocated buffer (elt_size=1) to 120000 items from 100000.
+Reallocated sv_buffer (elt_size=1) to 120000 items from 100000.
+Reallocated ex_buf (elt_size=1) to 120000 items from 100000.
+Reallocated out_buf (elt_size=1) to 120000 items from 100000.
+Reallocated name_tok (elt_size=4) to 120000 items from 100000.
+Reallocated name_sep_char (elt_size=1) to 120000 items from 100000.
+Reallocated buffer (elt_size=1) to 140000 items from 120000.
+Reallocated sv_buffer (elt_size=1) to 140000 items from 120000.
+Reallocated ex_buf (elt_size=1) to 140000 items from 120000.
+Reallocated out_buf (elt_size=1) to 140000 items from 120000.
+Reallocated name_tok (elt_size=4) to 140000 items from 120000.
+Reallocated name_sep_char (elt_size=1) to 140000 items from 120000.
+Reallocated buffer (elt_size=1) to 160000 items from 140000.
+Reallocated sv_buffer (elt_size=1) to 160000 items from 140000.
+Reallocated ex_buf (elt_size=1) to 160000 items from 140000.
+Reallocated out_buf (elt_size=1) to 160000 items from 140000.
+Reallocated name_tok (elt_size=4) to 160000 items from 140000.
+Reallocated name_sep_char (elt_size=1) to 160000 items from 140000.
+Reallocated buffer (elt_size=1) to 180000 items from 160000.
+Reallocated sv_buffer (elt_size=1) to 180000 items from 160000.
+Reallocated ex_buf (elt_size=1) to 180000 items from 160000.
+Reallocated out_buf (elt_size=1) to 180000 items from 160000.
+Reallocated name_tok (elt_size=4) to 180000 items from 160000.
+Reallocated name_sep_char (elt_size=1) to 180000 items from 160000.
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 You've used 369 entries,
             2118 wiz_defined-function locations,
-            2551 strings with 82799 characters,
+            2551 strings with 82797 characters,
 and the built_in function-call counts, 98635 in all, are:
 = -- 9379
 > -- 4840

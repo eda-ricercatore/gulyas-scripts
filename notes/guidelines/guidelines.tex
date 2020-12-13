@@ -439,11 +439,19 @@ When the date is not known so that it can be provided in the ``MONTH DAY, YEAR''
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \subsection{Additional Recommendations for Managing a Shared {\sc Bib}\TeX\ Database}
-\label{ssec:SuggestedPrefixesForLabelsOfPartsOfALaTeXDocument}
+\label{ssec:AdditionalRecommendationsForManagingASharedBibTeXDatabase}
 
 
 
-Use {\tt crossref} for {\sc Bib}\TeX\ entries using the {\sc Bib}\TeX\ entry type {\tt inproceedings} to share information about the conference proceedings without having to copy and paste fields that are commonly shared by articles/papers in conference proceedings \cite[\S12.2.3, pp. 234]{Kopka2004}. It might not work with {\sc Bib}\TeX\ entry types {\tt inbook} and {\tt incollection} for parts, subsections, sections, and chapters of books; this is not mentioned in {\sc Bib}\TeX\ specifications/references, and {\tt crossref} is probably not supported for these {\sc Bib}\TeX\ entry types.
+Use {\tt crossref} for {\sc Bib}\TeX\ entries using the {\sc Bib}\TeX\ entry type {\tt inproceedings} to share information about the conference proceedings without having to copy and paste fields that are commonly shared by articles/papers in conference proceedings \cite[\S12.2.3, pp. 234]{Kopka2004}. It might not work with {\sc Bib}\TeX\ entry types {\tt inbook} and {\tt incollection} for parts, subsections, sections, and chapters of books; this is not mentioned in {\sc Bib}\TeX\ specifications/references, and {\tt crossref} is probably not supported for these {\sc Bib}\TeX\ entry types. \\
+
+
+
+When copying (and pasting) text from a document or a Web page, non-ASCII hidden characters may be accidentally copied from the source (document or Web page) to the {\sc Bib}\TeX\ database. Consequently, this can cause command-line utilities for UNIX-like operating systems, such as {\tt grep}, to fail to recognize the {\sc Bib}\TeX\ database as a text file. While some text editors or integrated development environments (IDEs) have features that highlight or indicate such non-ASCII hidden characters, they are not effective for finding/detecting these characters in large text files ({\sc Bib}\TeX\ databases in this case) without knowing what these characters are. If these characters are known, the search feature of these text editors or IDEs can find and delete these non-ASCII hidden characters. \\
+
+An alternative is to develop and use a script to concatenate all the {\sc Bib}\TeX\ keys (of a {\sc Bib}\TeX\ database) in a {\tt $\backslash$cite\{\}} \LaTeX\ command to automatically generate a listing of the references in a particular {\sc Bib}\TeX\ style of your choice. This results in the \LaTeX\ and {\sc Bib}\TeX\ interpreters parsing and processing your \LaTeX\ and {\sc Bib}\TeX\ sources. If non-ASCII hidden characters exist in your \LaTeX\ and {\sc Bib}\TeX\ source files, this process should abruptly pause your \LaTeX\ and {\sc Bib}\TeX\ interpretation processes to warn you of the syntax errors due to these characters. \\
+
+In addition, note that corruption in memory subsystems or storage devices (such as a solid-state drives) and data transfer between computers can result in corrupting text files to produce non-ASCII hidden characters in these files.
 
 
 
@@ -725,11 +733,11 @@ Please kindly note that {\it GitHub} \cite{GitHubStaff2016}: \vspace{-0.3cm}
 
 
 
-If possible, develop software in a {\it Python}ic style \cite[Chapter 1, pp. 1--12,12--17]{Alchin2010} \cite{Jon2014,Reitz2016a,Reitz2016,Preshing2014,Franca2014,vanRossum2013}.
+If possible, develop {\it Python} software in a {\it Python}ic style \cite[Chapter 1, pp. 1--12,12--17]{Alchin2010} \cite{Jon2014,Reitz2016a,Reitz2016,Preshing2014,Franca2014,vanRossum2013}. \\
 
 
 
-
+As aforementioned in \S\ref{ssec:AdditionalRecommendationsForManagingASharedBibTeXDatabase}, when copying (and pasting) text from a document or a Web page, non-ASCII hidden characters may be accidentally copied from the source (document or Web page) to the source code for a computer language. Similarly, corruption in memory subsystems or storage devices (such as a solid-state drives) and data transfer between computers can result in corrupting text files to produce non-ASCII hidden characters in these files. Therefore, if these text files use a particular computer language, use parsers (for software such as compilers, interpreters, electronic design automation software, or other software applications) for these languages to detect/find these non-ASCII hidden characters.
 
 
 
