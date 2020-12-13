@@ -54,12 +54,14 @@ if __name__ == "__main__":
 		thistuple[3] = "orange" # This will raise an error
 	except TypeError:
 		# TypeError: 'tuple' object does not support item assignment
+		print("= Try to modify the 3rd element in the tuple.")
 		print("= tuples are immutable; they cannot be modified.")
 		print("  items cannot be added to tuples.")
 	try:
 		thistuple[2] = None # This will raise an error
 	except TypeError:
 		# TypeError: 'tuple' object does not support item assignment
+		print("= Try to assign the 2nd element in the tuple to None.")
 		print("= tuples are immutable; they cannot be modified.")
 		print("  items cannot be removed from tuples.")
 	print("--------------------------------------------------")
@@ -102,6 +104,7 @@ if __name__ == "__main__":
 	print("'g' not in my_tuple",'g' not in my_tuple,"=")
 	print("--------------------------------------------------")
 	low_and_high_values = (-1, 0.5)
+	print("Printing low_and_high_values tuple:",low_and_high_values,"=")
 	print("Number of elements in low_and_high_values, only 1 tuple:",len(low_and_high_values),"=")
 	if 0.5 in low_and_high_values:
 		print("	0.5 is in 'low_and_high_values'.")
@@ -112,6 +115,7 @@ if __name__ == "__main__":
 	else:
 		print("	2.5 IS IN 'low_and_high_values'.")
 	low_and_high_values = (-1, -4.5)
+	print("Printing modified low_and_high_values tuple:",low_and_high_values,"=")
 	if -4.5 in low_and_high_values:
 		print("	-4.5 is in 'low_and_high_values'.")
 	else:
@@ -122,36 +126,46 @@ if __name__ == "__main__":
 		print("	-1 is NOT in 'low_and_high_values'.")
 	print("--------------------------------------------------")
 	long_tuple = (121,23.5,9,432,0.23,23543,43,32)
+	print("Printting long_tuple:",long_tuple,"=")
 	if 0.23 in long_tuple:
 		print("	0.23 is in 'long_tuple'.")
 	else:
 		print("	0.23 is NOT in 'long_tuple'.")
 	print("--------------------------------------------------")
 	low_and_high_values = ((-1,0.5), (-1,1), (-0.5,0.5), (23,8), (-0.5,1), (0,1))
+	print("Printting tuple of tuples, low_and_high_values:",low_and_high_values,"=")
 	print("Number of elements in low_and_high_values, tuple of tuples:",len(low_and_high_values),"=")
 	test_value = -0.5
 	#if (-0.5) in low_and_high_values:
 	if test_value in low_and_high_values:
 		print("	-0.5 is in 'low_and_high_values'.")
 	else:
-		print("	-0.5 is NOT in 'low_and_high_values'.")
-	print("Only the cdr of cons of tuples in a tuple can be tested with the 'in' operator.")
+		print("	-0.5 IS NOT in 'low_and_high_values'.")
+	#print("Only the cdr of cons of tuples in a tuple can be tested with the 'in' operator.")
 	if 23 in low_and_high_values:
-		print("	23 is in 'low_and_high_values'.")
+		print("	23 IS IN 'low_and_high_values'.")
 	else:
-		print("	23 is NOT in 'low_and_high_values'.")
+		print("	23 is not in 'low_and_high_values'.")
 	if 8 in low_and_high_values:
-		print("	8 is in 'low_and_high_values'.")
+		print("	8 IS IN 'low_and_high_values'.")
 	else:
-		print("	8 is NOT in 'low_and_high_values'.")
+		print("	8 is not in 'low_and_high_values'.")
 	if 3.5 not in low_and_high_values:
 		print("	3.5 is not in 'low_and_high_values'.")
 	else:
 		print("	3.5 IS IN 'low_and_high_values'.")
+	if (-345,5.23,0,12) not in low_and_high_values:
+		print("	(-345,5.23,0,12) is not in 'low_and_high_values'.")
+	else:
+		print("	(-345,5.23,0,12) IS IN 'low_and_high_values'.")
 	if (-0.5,1) in low_and_high_values:
 		print("	(-0.5,1) is in 'low_and_high_values'.")
 	else:
 		print("	(-0.5,1) is NOT in 'low_and_high_values'.")
+	if (-1,0.5) in low_and_high_values:
+		print("	(-1,0.5) is in 'low_and_high_values'.")
+	else:
+		print("	(-1,0.5) is NOT in 'low_and_high_values'.")
 	if isinstance(low_and_high_values, tuple):
 		print("low_and_high_values is a tuple.")
 	else:
@@ -163,13 +177,6 @@ if __name__ == "__main__":
 		else:
 			print("	(car",car,"and cdr",cdr,") is NOT a tuple.")
 	print("--------------------------------------------------")
-	"""
-	for car, cdr, index in low_and_high_values:
-		if isinstance(low_and_high_values, tuple):
-			print("	(car",car," and cdr ",cdr,") at index",index," is a tuple.")
-		else:
-			print("	(car",car," and cdr ",cdr,") at index",index," is NOT a tuple.")
-	"""
 	for elem in low_and_high_values:
 		if isinstance(low_and_high_values, tuple):
 			print("	elem is:",elem,"=")
@@ -186,13 +193,15 @@ if __name__ == "__main__":
 		if isinstance(low_and_high_values, tuple):
 			print("	tuple index is", index,"cur_tuple is",cur_tuple,"=")
 		else:
-			print("	tuple index is", index,"cur_tuple is",cur_tuple,"=")
+			print("	For tuple index", index,", cur_tuple is",cur_tuple,"=")
+			print("This is not supposed to be a tuple.")
 	print("--------------------------------------------------")
 	empty_tuple = ()
 	if not empty_tuple:
 		print("	empty_tuple is:",empty_tuple,"=")
 	else:
 		print("	empty_tuple is NOT empty!!!")
+		print("	empty_tuple is NONE object!!!")
 	print("--------------------------------------------------")
 	low_and_high_values = ((-1,0.5,1,"Gracias",-0.5,0,"Ciao mondo!"))
 	if isinstance(low_and_high_values, tuple):
@@ -264,6 +273,7 @@ if __name__ == "__main__":
 			print("	em_tuple index is:", index,"em_tuple is",em_tuple,"=")
 	print("Again, printed value of the sole string tuple, and the letters of that string.")
 	print("Printing a single tuple, with its own set of brackets, within a set of brackets will not define this as a tuple of a tuple.")
+	print("A comma needs to be placed")
 	print("--------------------------------------------------")
 	a = (11,12,13,14,15,16,17)
 	b = (1.1,1.2,1.3,1.4,1.5,1.6,1.7)
