@@ -5794,7 +5794,7 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Create and maintain optimal data pipeline architecture,
 	- Assemble large, complex data sets that meet functional / non-functional business requirements.
 	- Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc.
-	- Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL and AWS `big data' technologies.
+	- Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL and AWS "big data" technologies.
 	- Build analytics tools that utilize the data pipeline to provide actionable insights into customer acquisition, operational efficiency and other key business performance metrics.
 	- Work with stakeholders including the Executive, Product, Data and Design teams to assist with data-related technical issues and support their data infrastructure needs.
 	- Keep our data separated and secure across national boundaries through multiple data centers and AWS regions.
@@ -5830,12 +5830,12 @@ technology is a plus+ At least 2 years of experience using deep learning techniq
 	- Good understanding of Lambda Architecture, along with its advantages and drawbacks
 	- Experience with Nifi/Kylo.io, or other ETL tools, such as Cloudera/MapR/Hortonworks
 	- Advanced working SQL knowledge and experience working with relational databases, query authoring (SQL) as well as working familiarity with a variety of databases.
-	- Experience building and optimizing `big data' data pipelines, architectures and data sets.
+	- Experience building and optimizing "big data" data pipelines, architectures and data sets.
 	- Experience performing root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement.
 	- Strong analytic skills related to working with unstructured datasets.
 	- Build processes supporting data transformation, data structures, metadata, dependency and workload management.
 	- A successful history of manipulating, processing and extracting value from large disconnected datasets.
-	- Working knowledge of message queuing, stream processing, and highly scalable `big data' data stores.
+	- Working knowledge of message queuing, stream processing, and highly scalable "big data" data stores.
 	- Strong project management and organizational skills.
 	- Experience supporting and working with cross-functional teams in a dynamic environment.
 	- We are looking for a candidate with 3+ years of experience in a Data Engineer role, who has attained a Graduate degree in Computer Science, Statistics, Informatics, Information Systems or another quantitative field.
@@ -9031,7 +9031,31 @@ Qualifications
 		* Flexibility and a sense of humor are a plus
 		* Bachelor's Degree in Computer Science or a related field, five years of progressively responsible experience in software development.
 	- Reporting Structure: The Senior Software Engineer reports to the Engineering Manager for Archive-It and works closely with other departments. The position works alongside other web archiving engineers as well as program staff in Web Archiving & Data Services Group and with the broader Internet Archive infrastructure and engineering teams.
-+ 
++ skill set:
+	- Monitor stack health for issues with reliability, performance, durability, and security, maintaining our zero-downtime standard
+	- Implement tooling across our AWS infrastructure and services to identify and remove bottlenecks
+	- Develop our infrastructure-as-code initiative to ensure all environmental changes are tested, audited, and reproducible across environments and stacksImplement
+	- Docker containers and container management to support out-of-the-box deployment of applications across environments
+	- Manage CI and CD tools in coordination with the software engineers
+	- Research and promote new DevOps tools to simplify processes and identify opportunities for improving existing processes or implementing new process automation
+	- Handle production and non-production support issues as they arise
+	- Participate in a 24/7 on-call rotation
+	- Maintain and test Disaster Recovery procedures
+	- Manage penetration testing, vulnerability testing, and web application scanning
+	- Represent DevOps during design and development of software or extensive revisions to existing applications
+	- Support the sales team in completion of security & architecture questionnaires
+	- Organize, conduct and own follow-up action items for Root Cause Analysis meetings
+	- Deep knowledge of AWS services, including ALB, CloudFormation, CodeBuild, CodePipeline, ECS, IAM, Lambda, RDS, Route53, S3, and SSM
+	- Expertise with an automation framework such as CloudFormation, Ansible, Chef, Salt, or Puppet
+	- Strong background in administering Linux, including Apache/Nginx web services
+	- Strong scripting skills (Bash, Python) with the ability to develop ad hoc tools
+	- Knowledge of networking concepts (Firewalls, Network ACLs, HTTP, DNS)
+	- Experience with Infrastructure
+	- Monitoring using tools such as Datadog, NewRelic, etc
+	- Experience working with AWS CodeBuild, CodePipeline, Jenkins, Concourse or other build automation tools
+	- 5+ years of relevant experience
+	- Experience with Git and GitHub for version control
+	- Strong interest in higher education, startups, and/or SaaS technology
 
 
 
