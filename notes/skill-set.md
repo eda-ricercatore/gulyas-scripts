@@ -9056,8 +9056,59 @@ Qualifications
 	- 5+ years of relevant experience
 	- Experience with Git and GitHub for version control
 	- Strong interest in higher education, startups, and/or SaaS technology
-
-
++ skill set:
+	- We are looking for a Senior Software Engineer to join our Data Science team and help further develop Deezer’s data-driven mindset.
+	- We are part of the BI and Data Analytics team, whose mission is to find the correct levers within the product to further drive Deezer’s growth. Through our analysis and predictions tools, we ensure Deezer is fitting our users’ needs.
+	- As a Senior Software Engineer in the Data Science team, you will be responsible for the engineering and implementation of scalable technical solutions around data science production. This solution will have significant impact to Deezer’s results in areas of fraud detection, churn, inactivty & conversion.
+	- What you will do:
+		* Develop a deep understanding of the business & product and their requirements to develop solutions to insure the fully adoption of our prediction modelling (visualisation, alerting, API).
+		* Design, build, and maintain data pipelines between our Data science team & product, CRM and other relevant systems.
+		* Help our Data Scientists implement and maintain those ML pipelines & data architecture related, supervise the GCP migration and deployment of real time modelling.
+		* Improve and build solutions to address architectural gaps or technical debt.
+		* Propose best technologies for data processing and data framework, test regularly new technologies that may ease team work (Skein, Meta Flow).
+		* Mentor Data Scientists on their Engineering skills ; Drive enforcement of standards, tools and methodologies ; Ensure that the pipeline is fully tested.
+		* Participate in story planning, standups and retrospectives.
+		* Produce documentation and tutorials that enable other teams to use easily our pipeline.
+		* Pro-active communication to users and management on issues.
+	- What we are looking for:
+		* At least 5 years of experience of software engineering/data engineering, with a degree in computer science.
+		* Experience in micro services architecture
+		* Experience with Docker, Kubernetes, REST API.
+		* Fluent in at least one language in Python, Scala Java;
+		* Experience of functional code.
+		* Experience in designing, building and launching efficient & reliable data pipelines is preferred.
+		* Experience with Hadoop/Hive, Spark, Cassandra and data warehouse technologies is preferred.
+		* Passion for technology, industry research and enjoys solving business problems.
+		* Experience in Agile Processes, Test Driven Development and Framework design.
+		* Excellent verbal, written, communication, interpersonal and presentation skills - ability to clearly communicate data analyses results to end users.
+	- Bonus Points.
+		* Building and launching new data models that provide intuitive analytics for the analysts and customers.
+		* Mathematical/machine learning background with the ability to understand & implement distributed algorithms.
++ skill set:
+	- As a Network Engineer you will be responsible for the design, implementation, and support for the network within the OVHcloud environment.  You will be required to understand application and hardware points of failure, performance characteristics and have the ability to identify actionable items to maintain an acceptable service level for all associated environments and applications.  You will be required to participate in an on-call rotation and serve as top-level support for network related issues. 
+	- Provide Tier I/II Technical Support for OVHCloud's global network infrastructure.
+	- Execute or implement simple, automated and scripted changes or infrastructure requests.
+	- Troubleshoot and provide customer support for technology and infrastructure issues.
+	- Document and update incident technical details into ServiceNow/Jira ticketing system.
+	- Escalate issues to Tier III support if unable to resolve through initial triage and troubleshooting.
+	- Execution of standard operational processes which involve technology and client interfaces.
+	- 1-2 years of hands on enterprise network operations support experience
+	- CCNA certification required
+	- Intermediate understanding of OSI model and troubleshooting of technology related issues
+	- Intermediate understanding of network protocols (to include but not limited to): OSPF EIGRP BGP MPLS RSTP STP HSRP VRRP VRF VTP DHCP DNS CDP LLDP ARP FTP TFTP
+	- CCNA level knowledge and experience (at least 1yr)
+	- Able to work well in a fast-paced environment and be comfortable in stressful situations
+	- Can effectively communicate with both management as well as non-technical personnel on any technology issue to ensure they understand the nature of the issue and current statue easily understood on any outage conference calls
+	- Detail oriented self-motivated goal driven
+	- Intermediate familiarity with Cisco IOS, Nexus NX-OS and IOS-XR
+	- Knowledge of the following is preferred:
+		* Network product: Arista
+		* Virtualization network knowledge: VxLan
+		* Scripting: Python, Perl
+		* Devops: Linux, Github, bastion
+		* Security knowledge: firewall, VPN
+		* Load balancer
++ Knowledge of predictive analytics/statistical and mathematical modeling/data mining algorithms;
 
 
 

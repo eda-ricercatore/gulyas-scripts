@@ -215,7 +215,7 @@ Mordechai {Ben-Ari}.
 James Bender and Jeff {McWherter}.
 \newblock {\em Professional Test Driven Development with {{C}\#}: Developing
   Real-World Applications with {TDD}}.
-\newblock {Wrox} Programmer to Programmer{\texttrademark}. Wiley Publishing,
+\newblock {Wrox} Programmer to Programmer$^{\texttrademark}$. Wiley Publishing,
   Indianapolis, {IN}, 2011.
 
 \bibitem{Bening2000}
@@ -425,7 +425,8 @@ Jason Cong and Joseph~R. Shinnerl.
 
 \bibitem{Conway2003}
 Jon Conway and Steve Watts.
-\newblock {\em A Software Engineering Approach to {LabVIEW}{\texttrademark}}.
+\newblock {\em A Software Engineering Approach to
+  {LabVIEW}$^{\texttrademark}$}.
 \newblock National Instruments Virtual Instrumentation Series. Prentice Hall,
   Upper Saddle River, {NJ}, 2003.
 
@@ -1094,7 +1095,7 @@ Michael Keating and Pierre Bricaud.
 \bibitem{Keiter2013a}
 Eric~R. Keiter, Thomas~V. Russo, Richard~L. Schiek, Peter~E. Sholander,
   Heidi~K. Thornquist, Ting Mei, Jason~C. Verley, and David~G. Baur.
-\newblock Building guide: How to build {Xyce}{\texttrademark}\ from source
+\newblock Building guide: How to build {Xyce}$^{\texttrademark}$\ from source
   code.
 \newblock Technical Report {SAND2013-7294}, Sandia National Laboratories,
   Sandia Corporation, Albuquerque, {NM}, August 2013.
@@ -1337,7 +1338,7 @@ Eric Lippert.
 \bibitem{Long1995}
 Fred Long, Dhruv Mohindra, Robert~C. Seacord, Dean~F. Sutherland, and David
   Svoboda.
-\newblock {\em {Java}{\texttrademark}\ Coding Guidelines: 75 Recommendations
+\newblock {\em {Java}$^{\texttrademark}$\ Coding Guidelines: 75 Recommendations
   for Reliable and Secure Programs}.
 \newblock The {SEI} Series in Software Engineering. Addison-Wesley, Upper
   Saddle River, {NJ}, 1995.
@@ -1403,7 +1404,7 @@ Robert~C. Martin and Micah Martin.
 \bibitem{Masters2007}
 Jon Masters and Richard Blum.
 \newblock {\em Professional {Linux} Programming}.
-\newblock Programmer to Programmer{\texttrademark}. Wiley Publishing,
+\newblock Programmer to Programmer$^{\texttrademark}$. Wiley Publishing,
   Indianapolis, {IN}, 2007.
 
 \bibitem{McConnell1996}
@@ -1556,8 +1557,8 @@ Ware Myers.
 
 \bibitem{MythicIncStaff2018}
 {Mythic Inc. staff}.
-\newblock Hardware devops engineer.
-\newblock Available online at:
+\newblock Hardware {DevOps} engineer.
+\newblock Available online from {\it {LinkedIn}: Jobs: Search All Jobs} at:
   \url{https://www.linkedin.com/jobs/view/hardware-devops-engineer-at-mythic-1078283501};
   September 10, 2019 was the last accessed date, December 2018.
 
@@ -1979,13 +1980,12 @@ Anna Schneider.
 \newblock How to become a data scientist before you graduate.
 \newblock {\em Berkeley Science Review}, July 30 2013.
 
-\bibitem{Schwichtenberg2002}
-Helmut Schwichtenberg and Ralf Steinbr{\"{u}}ggen.
+\bibitem{Schwichtenberg2001}
+Helmut Schwichtenberg and Ralf Steinbr{\"{u}}ggen, editors.
 \newblock {\em Proceedings of the {NATO} Advanced Science Institute on Proof
   and System-Reliability}, volume~62 of {\em {NATO} Science Series {II}:
-  Mathematics, Physics and Chemistry}.
-\newblock Kluwer Academic Publishers, Marktoberdorf, Germany, July 24 -- August
-  5 2002.
+  Mathematics, Physics and Chemistry}, Marktoberdorf, Germany, July 24 --
+  August 5 2001. Kluwer Academic Publishers.
 
 \bibitem{ScienceInfusionSoftwareEngineeringProcessGroupStaff2006}
 {Science Infusion Software Engineering Process Group staff}.
