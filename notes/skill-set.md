@@ -9109,7 +9109,102 @@ Qualifications
 		* Security knowledge: firewall, VPN
 		* Load balancer
 + Knowledge of predictive analytics/statistical and mathematical modeling/data mining algorithms;
-
++ ***Publication in top-tier conferences and journals, such as NeurIPS, ICML, ICLR, CVPR, ICCV, ECCV, AAAI, ACL, STOC, IEEE TPAMI, IEEE TNNLS, IEEE TSP, IEEE TIP, Information Fusion, JAIR, IJRR, IJCV, and JMLR.***
++ Experience in using relational databases like MySQL, Redshift, ***Graph DB***.
++ Architect test methodologies applicable to a wide range of CPU and SoC designs for CPU memory sub-systems including Load-Store unit, various levels of caches, memory virtualization and industry standard bus protocols (e.g. AMBA and TileLink).
++ ***Perform initial sandbox verification***, and work with design verification team to create and execute thorough verification test plans.
++ ***Experience with designing an out-of-order system ( high-performance DDR controller or caches controllers on a hetro/homo-geneous multi core system is a plus.***
++ ***Architect, design and implement new features, performance improvements, and ISA extensions in RISC-V CPU core generators.***
++ skill set:
+	- AI/ML or Heterogeneous computing infrastructure development
+	- Parallel programming & optimization
+	- Deep learning application/middleware integration
+	- Open-source software development/ integration
+	- Co-work with SW & HW members for performance exploring and tuning
+	- 5+ years of experience on RTOS, Linux kernel development, especially on OS scheduler
+	- 3+ years of experience with complex system performance tuning and debugging
+	- Good understanding of both CPU and System Architecture
+	- Basic understanding of Deep learning, MLIR, CUDA
+	- Familiarity with TFRT/IREE/ONNX-runtime is plus
+	- Open source upstreaming experience is plus
++ skill set:
+	- You are in the process of receiving a Bachelor’s or Master’s degree in Human Computer Interaction, Interaction Design, Cognitive Psychology, Digital Media Design, and/or related fields
+	- You are interested in prototyping, designing, testing, implementing, and evaluating user experiences for web based applications
+	- You are familiar with usability heuristics and best practices in UX design
+	- You have strong prototyping skills and are able to create wireframes and process flow diagrams
+	- You are able to plan and administer usability tests
+	- You have a portfolio of work or projects that includes case studies of design that highlight your process and your role on the project
+	- Experience designing on multiple platforms (iOS, Android, Mobile web, Desktop, etc) is a bonus!
+	- Excellent oral and written communication skills
+	- Some experience with design tools (Figma, Sketch, Photoshop, Illustrator, etc.)
+	- Some experience with interactive prototyping tools (Framer, Principle, Origami, Invision Studio, etc.)
+	- Excellence in design craft
++ skill set:
+	- Our team is at the forefront of the artificial intelligence revolution, enabling innovators from all industries and sectors to expand human potential with technology. What we do, really makes a difference.
+	- As a Field AI Engineer, you will be working closely with Graphcore’s customers and partners to help them in understanding and getting the most from our Intelligence Processing Unit (IPU) technology. In your work you will support some of the world’s top machine learning innovators at deep learning research groups, at academic institutions, at innovative machine learning start-ups, at leading automotive companies, and at some of the world’s largest cloud and internet companies.
+	- You will need to develop a deep understanding of the state-of-the-art in artificial intelligence & machine learning domains and work with our customers to develop new techniques which exploit the unique features of our IPU architecture.  We want you to become an industry thought leader on Graphcore technology and machine learning applications in the cloud, in automotive and in embedded applications. You should be interested and keen to present at industry conferences and will be able to back this up with written blogs and compelling content.
+	- Develop strong technical relationships with researchers and engineers at our customers and partners and help them to develop new algorithms using Graphcore’s IPU technology and achieve breakthroughs in artificial intelligence
+	- Support Sales teams as they engage new customers, understanding their AI challenges and describing how Graphcore’s technology can help
+	- Become a thought leader on machine learning and advocate for Graphcore’s IPU technology
+	- Work with the Product Management and Engineering to ensure a good flow of customer and market feedback that can be incorporated into future products
+	- 4+ years of related experience ideally in Machine Learning, HPC or a math’s intensive engineering field
+	- Bachelor’s in Engineering, Computer Science, Mathematics, Physics or similar field
+	- Experience working with modern deep learning software architecture and frameworks including: Tensorflow, MxNet, Caffe, Caffe2, Torch, and/or PyTorch, or a strong mathematics background and a keen interest to learn about these exciting new techniques
+	- Comfortable in a customer-facing environment and experience working with developers or researchers
+	- Ability to multitask effectively in a fast-paced environment
+	- Action-oriented with strong analytical and problem-solving skills
+	- Strong time-management and organization skills for coordinating and prioritizing multiple projects and initiatives
+	- Strong written and oral communications skills with the ability to effectively interface with management and engineering
+	- Strong team-working and excellent interpersonal skills
+	- Masters or PhD in related computationally intensive science or engineering field
+	- Experience with C/C++, parallel programming and knowledge of computer architectures
+	- Experience working with PCIe form-factor accelerators such as GPUs, DSPs or FPGAs
+	- Experience in the cloud or automotive space
++ skill set:
+	- The use of machine learning to reimagine software applications and service development is exploding.  Companies from every corner of the industry -- the biggest cloud service providers to corporate industrials to financial services to healthcare to retailers -- are exploring new ways of building products and services using data-centric learning models in place of traditional explicit programming.  The drive to deliver more timely and more accurate results is compelling an ever greater need for specialized computing power. GPUs have been hailed as the solution to those computing needs but the industry is actively searching for a better, more efficient solution.  Graphcore has that solution. 
+	- Graphcore’s Intelligence Processing Units, or IPUs, are specifically designed for artificial intelligence and compute-dense graph applications.  These are not GPUs, Graphics Processing Units, but rather graph processors especially adept at the kinds of computations used in understanding relationships within a sea of data.  Architecturally, IPUs looking nothing like GPUs.  They offer performance, latency, and power efficiency advantages a GPU will be unable to match.  Graphcore offers support for popular industry ML frameworks and a full tool suite for developers to innovate both within and outside those frameworks. 
+	- As a Machine Learning Engineer, you will work to port and optimize machine learning and artificial intelligence applications using Graphcore’s Poplar™ software and IPU processors, enabling breakthroughs in this rapidly moving field.
+	- You will work on AI and ML applications, create application notes and blog content, and work closely with Graphcore’s field teams, customers and partners to help them in understanding and getting the most from our Intelligence Processing Unit (IPU) technology. Having access to world leading compute resources, you will develop applications that push the boundaries of what is possible with machine learning today. You will also act as a senior technical figure within our product support organization, debugging customer issues and providing concise summaries and recommended fixes to our core engineering teams.
+	- In your work you will support some of the world’s top machine learning innovators at deep learning research groups, at academic institutions, at innovative machine learning start-ups, at leading automotive companies, and at some of the world’s largest cloud and internet companies. You will need to develop a deep understanding of the IPU architecture and the associated Poplar™ tools and become familiar with leading machine learning frameworks. 
+	- You will need to develop a deep understanding of the state-of-the-art in artificial intelligence & machine learning domains and work with our customers to develop new techniques which exploit the unique features of our IPU architecture.  We want you to become an industry thought leader on Graphcore technology and machine learning applications in the cloud, in automotive and in embedded applications. You should be interested and keen to present at industry conferences and will be able to back this up with written blogs and compelling content.
+	- Responsibilities
+		* Develop strong technical relationships with researchers and engineers at our customers and partners and help them to develop new algorithms and achieve breakthroughs in artificial intelligence
+		* Become a recognized expert on Graphcore’s IPU technology and Poplar™ tools and deliver compelling training to our customers and partners
+		* Field & resolve challenging/complex customer support issues
+		* Shepherd critical customer issues and provide timely advance warning of critical issues that need attention
+		* Become a thought leader on machine learning and advocate for Graphcore’s IPU technology
+		* Work with the Product Management and Engineering to ensure a good flow of customer feedback that can be incorporated into future products
+	- Requirements
+		* Demonstrable machine learning development experience or related experience writing and optimizing applications in HPC, scientific libraries, compilers, digital signal processors or GPUs.
+		* Deep experience with C++ and in-depth knowledge of computer architectures, high performance programming and parallel programming
+		* Ability to multitask effectively in a fast-paced environment
+		* Action-oriented with strong analytical and problem-solving skills
+		* Keen interest to learn about the exciting new field of AI
+		* Comfortable in a customer-facing environment
+		* Strong written and oral communications skills with the ability to effectively interface with management and engineering
+		* Strong team-working and excellent interpersonal skills
+	- Differentiators
+		* Masters or PhD in related computationally intensive science or engineering field
+		* Experience with C/C++, parallel programming and knowledge of computer architectures
+		* Experience working with modern deep learning software architecture and frameworks including: Tensorflow, MxNet, Caffe and/or PyTorch
+		* Excellent communication & presentations skills and comfortable in a customer-facing environment
+		* Experience working with accelerators such as GPUs, DSPs or FPGAs
+		* Experience in the AI/machine learning, cloud or automotive space
++ skill set:
+	- Help the current effort of the AI research community, and contribute to cutting edge research in machine intelligence, starting from areas including Deep Learning, Generative Models, Reinforcement Learning, Evolutionary Computing, Sequence Modelling, Large-Scale Distributed Optimization and Low-Precision Numerical Formats.
+	- Prototype efficient implementations for training of novel deep learning optimization algorithms and model architectures of increasing complexities.
+	- Contribute to the design of efficient software implementation of the experimental setup required to evaluate novel machine learning algorithms and models at scale.
+	- Participate to work to identify new directions of AI research, with the aim of contributing to new groundbreaking approaches to computational intelligence. The position will involve the possibility of attending the main research conferences in the field of machine intelligence.
+	- Contribute to investigations in specific areas of fundamental and applied research, aiming at publishing the work for discussion within the wider AI research community.
+	- Take responsibility for the software implementation of experimental setup critical for investigation of new research directions.
+	- Collaborate with the rest of the team and with other groups within the company, to develop new ideas and identify research opportunities.
+	- Interact and work with external institutions and research labs. 
+	- MSc or PhD in Computer Science, Machine Learning, Mathematics, Physics, Electrical Engineering or related fields, with a strong basis in numerical methods and probability theory.
+	- In-depth understanding of modern machine learning algorithms and deep learning architectures.
+	- Strong software engineering and coding skills (Python, C/C++) and experience of algorithm implementation in modern machine learning frameworks (TensorFlow, PyTorch). 
+	- Strong communication skills, and willingness to work in a collaborative environment.
+	- Publications and/or open-source implementations in the area of machine intelligence will be a plus.
++ Experience with product/web analytics tools (Pendo, Heap, Hotjar, Google Analytics).
 
 
 
