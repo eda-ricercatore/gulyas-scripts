@@ -9205,6 +9205,197 @@ Qualifications
 	- Strong communication skills, and willingness to work in a collaborative environment.
 	- Publications and/or open-source implementations in the area of machine intelligence will be a plus.
 + Experience with product/web analytics tools (Pendo, Heap, Hotjar, Google Analytics).
++ Python libraries:
+	- dask
+	- pandas
+	- scikit-learn
++ file formats:
+	- NetCDF 3\*
+	- NetCDF 4\*
+	- Zarr\*
+	- GRIB\*
+	- GeoTIFF\*
+	- PythonPickle\*
+	- HDF 4/5\*
+	- Other image format: PNG, JPG, TIFF, etc.
+	- video: MP4
+	- database: MongoDB
+	- Tensors: PyTorch, TensorFlow, NumPy
++ skill set:
+	- We’re looking for an experienced Compiler Architect to help drive compiler improvements and hardware requirements.  
+	- Analyze deep learning networks and develop compiler optimization algorithms for our hardware 
+	- Performance tuning and analysis on different levels of the compiler  
+	- Architect and implement compiler and optimization techniques for various neural networks  
+	- Work closely with chip design team on hardware architecture 
+	- Develop and maintain compiler tool chains 
+	- Bachelors, Masters or Ph.D. or equivalent in Computer Science, Computer Engineering  
+	- 3 to 5 years of relevant work in performance analysis and compiler optimization  
+	- Experience with modern ML compiler technologies: MLIR, LLVM,  XLA, TVM, TensorRT 
+	- Experience with graph algorithms, combinatorial optimization techniques, quantization of Deep Learning models, compilation for multi-core architectures (GPU, FPGA, or systolic arrays)  
+	- Excellent C/C++ programming and Python software design skills  
+	- Knowledge of deep learning frameworks (TensorFlow, PyTorch)  
+	- Experience with developing and analyzing neural network models 
+	- Experience with CUDA, cuDNN   
++ skill set:
+	- We are seeking a candidate who is primarily responsible for design, optimization and layout of photonic devices. Some optical bench work is expected.
+	- Optimize integrated photonic devices
+	- Numerical electromagnetic simulation of photonic devices
+	- Interact with photonic foundries to understand design environment and rules
+	- Layout photonic devices with common EDA, such as Cadence or Mentor Graphics
+	- Design optical bench experiments for device characterization
+	- Collaborate with electronic and algorithm engineers on research and development efforts
+	- PhD in electrical engineering, applied physics or material science
+	- Expert knowledge of electromagnetic theory
+	- 5+ years of experience in integrated photonics design, optimization, tape-out, and characterization
+	- Proficiency in electromagnetic simulation with common tools, such as Lumerical, COMSOL or Photon Design.
+	- Proficiency in photonic layout with Cadence or Mentor Graphics
+	- Proficiency in optical bench experiments with tools such as parameter analyzer, optical spectrum analyzer, laser source, etc.
+	- Experience in semiconductor processing is a plus
++ skill set:
+	- If you would like to build computational machines that are solving problems in ways that have never been done, we are looking for software engineers with strong problem-solving skills to help us build an SDK for our optical hardware accelerators. 
+	- This SDK converts a trained neural network into a binary we can run on our custom hardware. The SDK imports neural networks from popular frameworks (e.g., TensorFlow, PyTorch) and runs a series of transformations on those neural networks. These transformations include things like quantizing certain parts of the graph and partitioning subgraphs that can run on our device. The SDK also includes a compiler and runtime library to run the transformed neural network on both a simulator and our actual hardware. 
+	- Create a customer portal to help keep track of bugs in the SDK 
+	- Write documentation and literature for customers to learn how to use the SDK 
+	- Debug and refactor parts of the SDK based on customer feedback  
+	- Work with electrical engineers to update compiler and runtime libraries
+	- Create profiling and debugging tools for both internal and customer use 
+	- Bachelor’s degree in computer science or related fields 
+	- 2+ years of experience writing industry standard code 
+	- Proficient in at least one object-oriented programming language (i.e., Python, Java, C++) 
+	- Familiarity with Python and C++ 
+	- Experience with software testing and building robust software systems 
+	- Strong debugging and problem-solving skills  
+	- Experience with different build tools (e.g., CMake, Bazel)  
+	- Familiarity with Protocol Buffers  
+	- Highly proficient in deep learning frameworks (e.g., TensorFlow, PyTorch) 
+	- Understanding of machine learning concepts like quantization, pruning, sparsity, etc. 
+	- Strong skills with graph algorithms  
+	- Experience with Jira, Azure Boards, and Sphinx 
+	- Substantial experience with Python and C++ 
+	- Proficient with Linux, Bash, and Git  
+	- Experience publishing and maintaining open-source packages  
++ skill set:
+	- We’re looking for an experienced RTL designer to help develop novel AI hardware.   
+	- What you’ll do at Lightelligence:  
+	- Collaborate with RTL, DV, PD, and system engineers to define and implement  DFT functions (scan/ATPG, MBIST, LBIST and more) and methodology  
+	- Work across domains to develop a manufacturing test strategy for a heterogeneous high-speed electro-optical design
+	- MS or PhD in a relevant discipline such as Computer Science, Electrical Engineering, or Computer Engineering with at least 10 years of relevant work or research experience
+	- Proficiency in industry-standard DFT EDA tools to enable scan, ATPG, and related technologies 
+	- Proficiency in SystemVerilog  
+	- Strong scripting skills (Python, tcl, shell)  
+	- Synthesis, STA, CDC, or P&R experience a plus 
+	- Experience bringing-up silicon in wafer and packaged environments 
++ skill set:
+	- We’re looking for a System Validation Engineer who can create tools and methodologies to aid in providing feedback to analog, photonics and digital design teams. 
+	- Developing tools to perform lab measurements with Python and C++ 
+	- Evaluating new silicon and analyzing performance of photonics processors 
+	- Characterization of analog, digital and photonics test circuits 
+	- Preparing products to enter manufacturing and customer deployment 
+	- Prototyping, building and reworking systems 
+	- Degree in engineering-related field 
+	- 5+ years working as an engineer in a hands-on role 
+	- Programming experience with Python and object-oriented environments 
+	- Familiarity with instruments such as high-speed oscilloscopes, signal generators, network analyzers, optical sources, etc. 
+	- Experience with high-speed digital interfaces such as PCIe 3.0, DDR4, or JESD204B is a plus 
+	- Experience with photonics is a plus 
+	- Aptitude for problem solving and opportunity exploration 
++ skill set:
+	- We’re looking for an entry-level analog/mixed-signal engineer for support of custom analog/mixed-signal ASIC design. 
+	- Analog/Mixed-Signal design support including, simulation, schematic capture, layout, silicon and/or discrete component evaluation/characterization 
+	- Laboratory team support interfacing with standard test equipment, custom hardware, and software development to meet test requirements    
+	- Team oriented with a desire for “hands-on” experience 
+	- BS or MS in a relevant discipline such as Electrical Engineering with 1-2 years of relevant work or research experience  
+	- Experience with analog circuit design including operational amplifiers, ADC and DAC circuits, regulators, and references 
+	- Experience with FPGA and DSP design and implementation is a plus  
+	- Experience with various EDA/Computing languages and tools, i.e. Spice, SystemVerilog, Verilog-AMS, Matlab, Python, C++, etc. 
+	- Willingness to learn new skills and do the work necessary to succeed 
++ skill set:
+	- We’re looking for an experienced computer architect.
+	- Develop performance modeling of a hybrid digital, analog, and optical computing system
+	- Optimize system performance and drive system architectural design for executing machine learning workloads
+	- Codesign digital microarchitecture and perform model validation
+	- A BS in Computer Science, Software Engineering, Electrical Engineering or Computer Engineering
+	- Programming languages: C++, Python
+	- Familiarity with common machine learning workloads in image recognition, object detection, language processing, or recommendation
+	- Techniques for accelerating inference a plus: quantization, graph fusion, compression
++ Experience working with either a Map Reduce or a MPP system on any size/scale
++ skill set:
+	- a Master’s degree in CS or equivalent,
+	- experience with Functional Programming (e.g. OCaml, Erlang),
+	- has worked on 2+ large scale commercial projects taken from inception to production,
+	- experience with dynamically typed systems (e.g. Javascript, Erlang; Python is a must),
+	- experience with C/C++ or other low-level languages with manual memory management,
+	- experience with scalable microservice architecture,
+	- the ability to work on any system, from code running in the browser to big data analytics dealing with terabytes of data,
+	- excellent communications skills in English,
+	- the opportunity to obtain a valid EU work permit.
+	- Other things you should know are
+		* we're currently working on Issuu’s Story Cloud both on web and mobile apps, machine learning for better understanding of our content, internal analytics and our famous reading experience to mention a few examples,
+		* we currently use Python, OCaml, Javascript, Erlang and a bit of C++, and we’re extremely open to using new languages and/or technologies,
+		* our architecture is microservice-oriented using AMQP,
+		* we deploy multiple times a day on AWS and use Docker Swarm, MySQL, Redis, Node, etc.,
+		* we strive to be agile (who doesn’t?), but we're not religious about Scrum, Kanban or any other methodology.
+	- We believe you can help us succeed by
+		* delivering results that create value for the end users, while we ensure a high-performance,  high-availability, robust product that scale with our traffic (10.000++ requests/second) and data-heavy platforms (100++ terabytes),
+		* working across disciplines, and take a holistic, end-2-end approach to software development,
+		* being at the forefront of development practices, Agile, Continuous Delivery, Software as Service, Cloud-based, Docker, React,
+		* working equally well creating back-end and front-end solutions that can run in production at the scale of our traffic,
+		* solving problems from just about every area of computer science, including search, information retrieval, artificial intelligence, natural language processing, distributed computing, large-scale system design, networking, security, data compression, big data and so on.
+	- We are the right company for you, if you
+		* want to work on a product that matters to a lot of people – We receive hundreds of visits per second and host over 50M+ documents,
+		* consider yourself one of the best at what you do and you're looking for equally talented colleagues,
+		* are self-driven and would never just want to take the next ticket,
+		* are curious and never stopped learning and exploring new languages, technologies and solutions,
+		* seek a culture where all voices matter when it comes to shaping the future of the product,
+		* want to work with colleagues who have ‘here to help’ attitude, and absolutely want to help you succeed.
++ experience with Protobuf, Docker, Python, Mysql, and Rabbitmq is a plus,
++ we currently use Python, OCaml, Javascript (client and server side), Erlang/elixir, Kotlin, and a bit of C++, and we’re open to using new languages and/or technologies,
++ the ability to architect and build complex single page applications with Typescript and React/Redux,
++ Help developers, marketers, and product managers understand how to access, implement, and rigorously evaluate and optimise ML-based interventions.
++ You have data analytics skills with Hive, Scalding, or Spark.
++ skill set:
+	- understanding of database systems (postgres, Cassandra, CockroachDB)
+	- understanding of AWS (S3, SQS, etc), terraform + Kubernetes
+	- Golang a must, C++ and Python a nice-to-have
+	- CI/CD (Jenkins, docker/containers), GitHub, unix command line tools
+	- What you’ll do:
+		* add new features to existing services.
+		* design and build new services that add customer value
+		* improve stability and monitoring of existing workflows
+		* work with services running in concert at large scale (tens of billions of documents, trillions of keys, millions of submissions daily, etc)
+	- What we are looking for:
+		* desire to solve complicated problems in elegant/graceful ways
+		* strong work ethic, “self-starter”, endless improvement, never give up
+		* easy to work with, good communicator, doesn’t take himself/herself too seriously, able to take feedback.
+		* willing to jump into things are figure it out along the way
+		* straight up, no-nonsense, no-politics
++ skill set:
+	- We are looking for an experienced Data Engineer who thinks in clever ways to solve data problems of scale and load with elegant solutions. Our Data Engineering team supports several clusters of PostgreSQL databases of up to 2+TB each with hundreds of millions of rows, as well as many on prem and cloud data storage systems, such as Aurora, Redis, Redshift, CockroachDB, and Cassandra. As a senior member of this team, you will work closely with our DevOps, QA, Engineering, Business Unit and Project Management Teams to help us bring automation and stability to this architecture.
+	- Our team is currently working remotely until our Oakland, CA office re-opens.
+	- Key Responsibilities: 
+		* Protect, tune, migrate, and administer On-premises and Cloud Datastores
+		* Participate in a 24x7 on-call rotations
+		* Always perform in a manner that guarantees the Protection, Availability, and Performance of our Global Datastores.
+		* Be opinionated enough to speak up when you think we could be doing something better than we're doing it now - and tactful and empathetic enough to communicate this in a way that brings people along instead of distancing them.
+	- Qualifications
+		* Passion for datastores and a high sense of ownership while performing critical duties based on senior-level experience in Security, Disaster Recovery, and High Availability.
+		* Ability to have a strong work ethic in a fast-paced environment with multiple priorities that may occasionally change.
+		* Ability to work independently and perform under pressure.
+		* Good interpersonal skills, friendly, and approachable.
+		* Deep Linux experience.
+		* Strong SQL skills.
+		* Expert in PostgreSQL tuning and best practices.
+		* AWS experience, including Terraform.
+		* Bachelor's degree in Computer Science or equivalent experience.
+		* Automated monitoring and alerting of On-premises and Cloud data technologies, such as Aurora, Redshift, Redis, CockroachDB, and Cassandra.
+		* Kubernetes experience.
+		* Working experience with configuration management tools, preferably Puppet and Terraform.
+
+
+
+
+
+
 
 
 
