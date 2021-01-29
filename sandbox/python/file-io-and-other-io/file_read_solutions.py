@@ -119,6 +119,11 @@ else:
 		from "Working With File I/O in Python" at: https://dbader.org/blog/python-file-io
 		- to open and close an input file stream.
 		- to read all the contents of the file at once.
+	+ \cite{Krishna2020}
+		from {\it Guru99: Web: Python: Python Tutorial for Beginners -- Learn Python Programming in 7 Days -- Python File Handling}
+		"Python File Handling: How to Create, Open, Append, Read, Write": https://www.guru99.com/reading-and-writing-files-in-python.html
+		- to open and close an input file stream.
+		- to read all the contents of the file at once.
 	+ 
 """
 with open(input_file, "r+") as ip_file_obj:

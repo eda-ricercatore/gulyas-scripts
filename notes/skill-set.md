@@ -9390,13 +9390,97 @@ Qualifications
 		* Automated monitoring and alerting of On-premises and Cloud data technologies, such as Aurora, Redshift, Redis, CockroachDB, and Cassandra.
 		* Kubernetes experience.
 		* Working experience with configuration management tools, preferably Puppet and Terraform.
-
-
-
-
-
-
-
++ skill set for MLOps with Kubeflow:
+	- Use Kubeflow (KF) as a coherent platform with end-to-end workflows across all KF services.
+		* Kubeflow services:
+			+ Notebooks
+			+ Pipelines
+			+ KFServing
+	- Kubeflow components:
+		* AutoML (Katib)
+		* distributed training
+		* HyperParameter Tuning (Katib)
+		* Fairing
+		* Feast
+		* Kale
+		* KFServing
+		* Notebooks
+		* MLMD
+		* Seldon
+		* TFServing
+		* Visualization (Tensorboard)
+	- deploy machine learning models into production that would deliver business value
+	- steps in data science or applied machine learning workflows:
+		* converting tuned models to model serving
+		* connecting data pipelines to ML pipelines
+		* data preprocessing and transformation
+		* distributed training
+		* feature engineering
+		* hyperparameter tuning
+		* notebook experimentation
+		* manually building ML pipelines
+		* model building
+		* model serving
+		* monitoring models
+		* pipeline building
+		* training models
+	- checklist for MLOps, and data science or applied machine learning workflows:
+		* automation
+		* documentation
+		* installation
+		* portability
+		* reproducibility
+		* security
+		* support
+		* tutorials
+	- storage classes
+		* AWS EBS
+		* AWS EFS
+		* GCP Persistent Disk
+		* Azure Disk
+		* IBM
+		* Arrikto Rok
+		* Gluster
+		* EMC
+		* NetApp
+		* Pure
+		* Portworx
+		* Rock (Ceph)
+	- use Kubeflow tutorials from:
+		* AgileStacks
+		* AWS
+		* Azure
+		* Canonical
+		* Cisco
+		* GCP/Google
+		* IBM
+		* MiniKF/Arrikto
+		* Patterson Consulting
+	-IDEs:
+		* OptionJupyterLab
+		* PyCharm
+		* RStudio
+		* Virtual Studio Code, VSCode
+	- ML frameworks & tools
+		* Airflow
+		* Caffe
+		* Chainer
+		* Keras
+		* MLflow
+		* MPI
+		* MXNet
+		* PyTorch
+		* Tensorflow
+		* Scikit-Learn
+		* Spark
+		* Theano
+		* XGBoost
+	- Progression of Kubeflow usage:
+		* Have Kubeflow working in the lab
+		* Have Kubeflow working in production
+		* Use a Kubeflow cluster
+		* Contributing to Kubeflow
+		* Have Kubeflow
 
 
 
