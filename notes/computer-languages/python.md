@@ -2267,11 +2267,11 @@ Endeavor to provide additional documentation for the following
 + Target Systems: [*UNIX-like operating systems.*] \cite[Chapter 9, pp. 201]{Hall2009b}
 + Interface: [*Command-line.*] \cite[Chapter 9, pp. 201]{Hall2009b}
 + Functional Requirements: \cite[Chapter 9, pp. 202]{Hall2009b}
-	- [*Input **BibTeX** file.*]
-	- [*Perform data processing on the **BibTeX** file.*]
-	- [*Perform statistical analysis, or data analytics operations, on the **BibTeX**
+	- [E.g., *Input **BibTeX** file.*]
+	- [E.g., *Perform data processing on the **BibTeX** file.*]
+	- [E.g., *Perform statistical analysis, or data analytics operations, on the **BibTeX**
 		file.*]
-	- [*Validate the integrity of the **BibTeX** file.*]
+	- [E.g., *Validate the integrity of the **BibTeX** file.*]
 + Maintainer(s): [*Zhiyang Ong*]
 + Expected Results: [*Perform tasks to address the problem statement.*]
 + Testing methods/modules: [*List of methods and modules used to test software.*] \cite[Chapter 9, pp. 202]{Hall2009b}

@@ -117,7 +117,13 @@ else:
 		- abccd, Answer to ``How to read/print the ( _io.TextIOWrapper) data?,'' Stack Exchange Inc., New York, NY, April 16, 2017. Available online from *Stack Exchange Inc.: Stack Overflow: Questions* at: https://stackoverflow.com/a/43438389/1531728 and https://stackoverflow.com/questions/43438303/how-to-read-print-the-io-textiowrapper-data/43438389#43438389; March 7, 2020 was the last accessed date.
 	+ \cite{Bader2018a}
 		from "Working With File I/O in Python" at: https://dbader.org/blog/python-file-io
-		- to open and close an input file stream.
+		- to open and close an input file object/stream.
+			* Closing an output file object/stream ensures that pending or
+				buffered data would be written the output file.
+			* Releases resources allocated to the file objects/streams,
+				allows resource management to be more efficient, and
+				helps the computer program or software to deal with
+				space or memory constraints.
 		- to read all the contents of the file at once.
 	+ \cite{Krishna2020}
 		from {\it Guru99: Web: Python: Python Tutorial for Beginners -- Learn Python Programming in 7 Days -- Python File Handling}
