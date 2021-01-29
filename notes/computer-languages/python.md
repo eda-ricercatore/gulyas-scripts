@@ -2272,11 +2272,11 @@ Endeavor to provide additional documentation for the following
 	- [E.g., *Perform statistical analysis, or data analytics operations, on the **BibTeX**
 		file.*]
 	- [E.g., *Validate the integrity of the **BibTeX** file.*]
-+ Maintainer(s): [*Zhiyang Ong*]
-+ Expected Results: [*Perform tasks to address the problem statement.*]
-+ Testing methods/modules: [*List of methods and modules used to test software.*] \cite[Chapter 9, pp. 202]{Hall2009b}
-+ Test values: [*Values used to test software.*]
-+ Limitations: [*Limitations of the software.*] \cite[Chapter 9, pp. 202]{Hall2009b}
++ Maintainer(s): [E.g., *Zhiyang Ong*]
++ Expected Results: [E.g., *Perform (specific) tasks to address the (specified) problem statement.*]
++ Testing methods/modules: [E.g., *List of methods and modules used to test software.*] \cite[Chapter 9, pp. 202]{Hall2009b}
++ Test values: [E.g., *Values used to test software.*]
++ Limitations: [E.g., *Limitations of the software.*] \cite[Chapter 9, pp. 202]{Hall2009b}
 + \_\_version\_\_ = 0.1 \cite[Chapter 9, pp. 202]{Hall2009b}
 + \_\status\_\_ = "Prototype" \cite[Chapter 9, pp. 202]{Hall2009b}
 + \_\_date\_\_ = "March 19, 2018" \cite[Chapter 9, pp. 202]{Hall2009b}
