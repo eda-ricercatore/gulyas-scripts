@@ -2257,15 +2257,17 @@ Endeavor to provide additional documentation for the following
 
 
 
-\cite[Chapter 2, pp. 16]{Hall2009b} suggests the following *Python* docstring to
-	provide built-in documentation for the *Python* software:
-+ Usage: [*How to execute/run this program?*] \cite[Chapter 9, pp. 201]{Hall2009b}
+\cite[Chapter 2, pp. 16]{Hall2009b} suggests the following *Python* docstring
+	to provide built-in documentation for the *Python* software:
++ Usage: [E.g., *How to execute/run this program?*]
+	\cite[Chapter 9, pp. 201]{Hall2009b}
 + Options: [E.g., Input *options/flags that are supported by this program.*]
 + Problem/Purpose: [E.g., *What does the **Python** software do?*]
-+ Target Users: [E.g., *People who want to perform data analytics or other operations
-	on their **BibTeX** databases.*]
-+ Target Systems: [E.g., *UNIX-like operating systems.*] \cite[Chapter 9, pp. 201]{Hall2009b}
-+ Interface: [*Command-line.*] \cite[Chapter 9, pp. 201]{Hall2009b}
++ Target Users: [E.g., *People who want to perform data analytics or
+	other operations on their **BibTeX** databases.*]
++ Target Systems: [E.g., *UNIX-like operating systems.*]
+	\cite[Chapter 9, pp. 201]{Hall2009b}
++ Interface: [E.g., *Command-line.*] \cite[Chapter 9, pp. 201]{Hall2009b}
 + Functional Requirements: \cite[Chapter 9, pp. 202]{Hall2009b}
 	- [E.g., *Input **BibTeX** file.*]
 	- [E.g., *Perform data processing on the **BibTeX** file.*]
@@ -2273,8 +2275,10 @@ Endeavor to provide additional documentation for the following
 		file.*]
 	- [E.g., *Validate the integrity of the **BibTeX** file.*]
 + Maintainer(s): [E.g., *Zhiyang Ong*]
-+ Expected Results: [E.g., *Perform (specific) tasks to address the (specified) problem statement.*]
-+ Testing methods/modules: [E.g., *List of methods and modules used to test software.*] \cite[Chapter 9, pp. 202]{Hall2009b}
++ Expected Results: [E.g., *Perform (specific) tasks to address the
+	(specified) problem statement.*]
++ Testing methods/modules: [E.g., *List of methods and modules used to
+	test software.*] \cite[Chapter 9, pp. 202]{Hall2009b}
 + Test values: [E.g., *Values used to test software.*]
 + Limitations: [E.g., *Limitations of the software.*] \cite[Chapter 9, pp. 202]{Hall2009b}
 + \_\_version\_\_ = 0.1 \cite[Chapter 9, pp. 202]{Hall2009b}
