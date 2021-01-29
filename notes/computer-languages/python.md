@@ -2260,11 +2260,11 @@ Endeavor to provide additional documentation for the following
 \cite[Chapter 2, pp. 16]{Hall2009b} suggests the following *Python* docstring to
 	provide built-in documentation for the *Python* software:
 + Usage: [*How to execute/run this program?*] \cite[Chapter 9, pp. 201]{Hall2009b}
-+ Options: [*Options that are supported by this program.*]
-+ Problem/Purpose: [*What does the **Python** software do?*]
-+ Target Users: [*People who want to perform data analytics or other operations
++ Options: [E.g., Input *options/flags that are supported by this program.*]
++ Problem/Purpose: [E.g., *What does the **Python** software do?*]
++ Target Users: [E.g., *People who want to perform data analytics or other operations
 	on their **BibTeX** databases.*]
-+ Target Systems: [*UNIX-like operating systems.*] \cite[Chapter 9, pp. 201]{Hall2009b}
++ Target Systems: [E.g., *UNIX-like operating systems.*] \cite[Chapter 9, pp. 201]{Hall2009b}
 + Interface: [*Command-line.*] \cite[Chapter 9, pp. 201]{Hall2009b}
 + Functional Requirements: \cite[Chapter 9, pp. 202]{Hall2009b}
 	- [E.g., *Input **BibTeX** file.*]
