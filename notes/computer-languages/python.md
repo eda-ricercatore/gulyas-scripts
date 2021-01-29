@@ -2328,6 +2328,26 @@ Resources for passing command-line arguments
 		February 7, 2020 was the last accessed date.
 
 
+For file input/output objects/streams:
++ From \cite{Bader2018a}, ["Working With File I/O in Python" blog post](https://dbader.org/blog/python-file-io):
+	- to open and close an input file object/stream.
+		* Closing an output file object/stream ensures that pending or
+			buffered data would be written the output file.
+		* Releases resources allocated to the file objects/streams,
+			allows resource management to be more efficient, and
+			helps the computer programs or software to deal with
+			space or memory constraints.
+
+
+
+
+
+
+
+
+
+
+
 
 
 ###	Modules in *The Python Standard Library*
