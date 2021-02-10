@@ -108,7 +108,7 @@ Also, see:
 		Author = {Kathleen Garrigan and Susan Reiss and Josh Chamot and Shaena Montanari and Emily Gibson},
 		Doi = {},
 		Edition = {Second},
-		Howpublished = {Available online from {\it National Science Foundation: About the National Science Foundation: {NSF} {\rm \&}\ Congress: Toolkit} at: \url{https://www.nsf.gov/about/congress/reports/transforming2018.pdf} and \url{https://www.nsf.gov/about/congress/toolkit.jsp}; March 16, 2020 was the last accessed date},
+		Howpublished = {Available online from {\it National Science Foundation: About the National Science Foundation: NSF {\rm \&}\ Congress: Toolkit} at: \url{https://www.nsf.gov/about/congress/reports/transforming2018.pdf} and \url{https://www.nsf.gov/about/congress/toolkit.jsp}; March 16, 2020 was the last accessed date},
 		Institution = {National Science Foundation},
 		Keywords = {NSF, NSF's Big Ideas, NSF's 10 Big Ideas, Future of Work, human-technology frontier, Growing Convergence Research, Harnessing the Data Revolution, Mid-scale Research Infrastructure, Navigating the New Arctic, NSF 2026, NSF INCLUDES, broadening participation, broadening participation - Big Data, broadening participation - high-tech industry, broadening participation for women in STEM fields, broadening participation for disabled people in STEM fields, broadening participation for underrepresented groups in STEM fields, broadening participation for underrepresented minorities in STEM fields, underrepresented groups, underrepresented minorities, underrepresented minorities in the pipeline, underrepresented minority outreach, underrepresented people groups, CS diversity outreach, STEM diversity outreach, engineering diversity outreach, science & engineering diversity outreach, Quantum Leap, Understanding the Rules of Life, Windows on the Universe},
 		Month = {},
@@ -138,7 +138,7 @@ Also, see:
 		Month = {October 19},
 		Publisher = {National Science Foundation},
 		School = {},
-		Title = {{NSF}'s 10 Big Ideas},
+		Title = {NSF's 10 Big Ideas},
 		Url = {https://www.nsf.gov/news/special_reports/big_ideas/},
 		Year = {2019}}
 

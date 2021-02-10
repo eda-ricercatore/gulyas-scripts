@@ -9394,7 +9394,7 @@ Qualifications
 	- Use Kubeflow (KF) as a coherent platform with end-to-end workflows across all KF services.
 		* Kubeflow services:
 			+ Notebooks
-			+ Pipelines
+			+ Pipelines, Kubeflow Pipelines
 			+ KFServing
 	- Kubeflow components:
 		* AutoML (Katib)
@@ -9481,6 +9481,75 @@ Qualifications
 		* Use a Kubeflow cluster
 		* Contributing to Kubeflow
 		* Have Kubeflow
++ (applied) machine learning and data science skill set:
+	- Google Cloud ML Engine
+	- spaCy / Prodigy
+	- scikit-learn
+	- H2O
+	- Amazon SageMaker
+	- Azure ML Studio
+	- RISELab Ray
+	- OpenAI Gym
+	- PyTorch
+	- Spark NLP
+	- BigDL and Analytics Zoo
+	- TensorFlow
+	- Keras
+	- AllenNLP
+	- Other cloud-based services
+	- Other open source tools
+	- AutoML tools/technologies:
+		* Google Cloud AutoML
+		* Azure AutoML
+		* Amazon SageMaker
+		* IBM Watson AutoAI
+		* DataRobot
+		* H2O
+	- data versioning:
+		* Weights & Biases
+		* Pachyderm
+		* DVC
+		* Homegrown
+	- model and experiment tracking:
+		* Neptune
+		* MLflow
+		* Polyaxon
+		* Replicate
+		* Weights & Biases
+		* Kubeflow
+		* Comet
+		* Homegrown
+	- categories of ML tools to incorporate into ML workflows:
+		* Automated model search and hyperparameter tuning
+		* Model monitoring
+		* Support for notebooks
+		* Support for IDEs
+		* Model visualization
+		* Feature store
+		* Data lineage or data catalog
+	-  bottlenecks holding back further AI adoption:
+		* Lack of data or data quality issues
+		* Company culture doesn’t yet recognize the needs for AI
+		* Lack of skilled people or difficulty hiring the required roles
+		* Efficient tuning of hyperparameters
+		* Difficulties in identifying appropriate business use cases
+		* Legal concerns, risks, or compliance issues
+		* Technical infrastructure challenges
+		* Workflow reproducibility
+	- skills gaps related to machine learning and AI adoption within your organization
+		* Understanding and maintaining a set of business use cases
+		* Data engineering
+		* Compute infrastructure
+		* ML modelers and data scientists
++ skill set:
+	- ClickHouse columnar databases
+	- Spring Boot
++ skill set:
+	- You have a deep knowledge of ASR (Automatic Speech Recognition) technologies such as acoustic modeling, language modeling, neural networks, HMM, WFST, and feature extraction
+	- You possess hands-on experience in ASR tool kits such as Sphinx, Kaldi, HTK, and Julius
+	- You have experience with deep learning frameworks such as Caffe, TensorFlow, Torch, PyTorch, and MxNet
+
+
 
 
 

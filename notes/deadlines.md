@@ -14,50 +14,65 @@ Fix mathematical proof for paper and implement processor subsystems.
 
 ##	Machine Learning-centric
 
-+ AAAI-20 (or AAAI 2020), AAAI Conference on Artificial Intelligence
++ **AAAI-21 (or AAAI 2021), AAAI Conference on Artificial Intelligence**
 	- http://www.aaai.org/Conferences/conferences.php
-	- https://aaai.org/Conferences/AAAI-20/
-	- New York, NY.
-	- Submission deadline: **August 30 and September 5, 2019** To be updated.
-+ IAAI 2020, Innovative Applications of Artificial Intelligence Conference
-	- https://aaai.org/Conferences/AAAI-19/iaai-19/iaai-19-call/
-	- Same venue as AAAI 2019.
-	- New York, NY.
-	- Submission deadline: **September 5, 2019**
+	- https://aaai.org/Conferences/AAAI-21/
+	- Virtual conference
+	- ~~New York, NY.~~
+	- Submission deadline: **September 1 and September 9, 2019**.
+		* For special track on "AI for Social Impact":
+			+ Submission deadline: **September 1 and September 9, 2019**.
++ IAAI-21 (or IAAI 2021), Innovative Applications of Artificial Intelligence Conference
+	- https://aaai.org/Conferences/AAAI-21/iaai-21-call/
+	- Same venue as AAAI 2021.
+	- Virtual conference
+	- ~~New York, NY.~~
+	- Submission deadline: **September 16, 2019**
++ EAAI-21, Symposium on Educational Advances in Artificial Intelligence
+	- https://aaai.org/Conferences/AAAI-21/eaai-21-call/
+	- Same venue as AAAI 2021.
+	- Virtual conference
+	- ~~New York, NY.~~
+	- Submission deadline: **September 1 and September 9, 2019**.
 + AAMAS, International Conference on Autonomous Agents and Multiagent Systems
-	- https://aamas2020.conference.auckland.ac.nz/call-for-papers/#:~:targetText=The%20aim%20of%20the%20joint,be%20held%20in%20New%20Zealand.
-	- https://aamas2020.conference.auckland.ac.nz/
+	- https://aamas2021.soton.ac.uk/
 	- "IFAAMAS sponsors the annual International Conference on Autonomous Agents and Multiagent Systems (AAMAS)."
 		* International Foundation for Autonomous Agents and Multiagent Systems (IFAAMAS).
 	- "The AAMAS conference series was initiated in 2002 as a merger of three highly respected individual conferences: AGENTS (International Conference on Autonomous Agents), ICMAS (International Conference on Multi-Agent Systems), and ATAL (International Workshop on Agent Theories, Architectures, and Languages). The aim of the joint conference is to provide a single, high-profile, internationally renowned forum for research in the theory and practice of autonomous agents and multiagent systems."
 	- "International Joint Conference on Autonomous Agents and Multiagent Systems (previously the International Conference on Multiagent Systems, ICMAS, changed in 2000)"
-	- May 9-13, 2020
-	- Auckland, New Zealand
-	- Submission deadline: November 12-15, 2019.
+	- May 3-7, 2021
+	- Virtual conference
+	- ~~London, U.K.~~
+	- Submission deadline: October 2-9, 2020.
 + ACL, Annual Meeting of the Association for Computational Linguistics
-	- 58th Annual Meeting of the Association for Computational Linguistics
-	- https://www.aclweb.org/portal/content/58th-annual-meeting-association-computational-linguistics-call-papers-main-conference
-	- https://acl2020.org/
+	- Annual Meeting of the Association for Computational Linguistics
+	- The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021)
+	- https://2021.aclweb.org/
+	- https://2021.aclweb.org/calls/papers/
+	- https://www.aclweb.org/portal/acl
 	- https://www.aclweb.org/portal/acl_sponsored_events
-	- Seattle, WA
-	- July 5-10, 2020
-	- Submission deadline: December 9, 2019
+	- Virtual conference
+	- ~~Seattle, WA~~
+	- August 1-6, 2021.
+	- ~~July 5-10, 2020~~
+	- Submission deadline: **February 2, 2021**.
 	- ACL 2020 -- Call for System Demonstrations
-		* https://www.aclweb.org/portal/content/acl-2020-call-system-demonstrations
-		* https://acl2020.org/calls/demos/
-		* Submission deadline: January 31, 2020.
+		* https://2021.aclweb.org/downloads/ACL2021DemoCFP.pdf
+		* Submission deadline: March 25, 2021.
 + AIES, AAAI/ACM Conference on AI, Ethics, and Society
 	- http://www.aies-conference.com/
 	- http://www.aies-conference.com/call-for-papers/
-	- February 7-8
-	- Honolulu, Hawaii, USA
-	- Submission deadline: Nov 4 Anywhere on Earth (full paper), 2019.
-+ CIBCB 2019, 16th IEEE International Conference on Computational Intelligence in Bioinformatics and Computational Biology
-	- https://cibcb2019.icas.xyz/
-	- /https://cibcb2019.icas.xyz/wp-content/uploads/sites/7/2018/12/IEEE-CIBCB-2019-call-for-papers.pdf
-	- July 9-11, 2019
-	– Certosa di Pontignano, Siena - Tuscany, Italy
-	- Submission deadline: ~~February 15, 2019~~ March 1, 2019.
+	- May 19-21, 2021.
+	- ~~February 7-8~~
+	- Virtual conference.
+	- ~~Honolulu, Hawaii, USA~~
+	- Submission deadline: ~~Nov 4 Anywhere on Earth (full paper), 2019.~~ January 31, 2021.
++ CIBCB 2021, IEEE International Conference on Computational Intelligence in Bioinformatics and Computational Biology
+	- https://cibcb2020.uai.cl/#callforpapers
+	- ~~October 27-29, 2020~~
+	- ~~July 9-11, 2019~~
+	– ~~Certosa di Pontignano, Siena - Tuscany, Italy~~
+	- Submission deadline: ~~February 15, 2019~~ ~~March 1, 2019~~ ~~May 1, 2020~~ ~~May 15, 2020~~ June 3, 2020.
 + CICLing, International Conference on Computational Linguistics and Intelligent Text Processing
 	- formerly, International Conference on Intelligent Text Processing and Computational Linguistics
 	- https://www.cicling.org/2019/
@@ -66,77 +81,97 @@ Fix mathematical proof for paper and implement processor subsystems.
 	- La Rochelle, France
 	- Submission deadline: April 7-13, 2019
 + CHI, ACM CHI Conference on Human Factors in Computing Systems
-	- https://chi2020.acm.org/authors/papers/
-	- Honolulu, on the island of Oahu, Hawaiʻi, USA.
-	- Submission deadline: **September 12/20, 2019.**
-+ COLING’2020, 28th International Conference on Computational Linguistics
+	- https://chi2021.acm.org/
+	- Virtual conference.
+	- ~~Honolulu, on the island of Oahu, Hawaiʻi, USA.~~
+	- Submission deadline: **September 10/17, 2020.**
++ COLING’2020, International Conference on Computational Linguistics
 	- https://www.aclweb.org/portal/content/28th-international-conference-computational-linguistics
 	- https://coling2020.org/
-	- Barcelona, Spain
-	- September 13-18, 2020
-	- Submission deadline: April 8, 2020
-+ CPAIOR 2019, Sixteenth International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research
-	- https://cpaior2019.uowm.gr/
-	- Thessaloniki, Greece
-	- June 4-7, 2019
-	- Submission deadlines: ~~November 18 and 27, 2019~~ November 18 and 29, 2019
+	- Virtual conference.
+	- ~~Barcelona, Spain~~
+	- December 8-13, 2020.
+	- ~~September 13-18, 2020~~
+	- Submission deadline: ~~April 8, 2020~~ July 1, 2020.
++ CPAIOR 2021, International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research
+	- https://cpaior2021.dbai.tuwien.ac.at/
+	- https://cpaior.org/
+	- Vienna, Austria.
+	- June 5-8, 2020
+	- Submission deadlines: ~~November 18 and 27, 2019~~ ~~November 18 and 29, 2019~~ January 21 and 28, 2021.
 + **CVPR, Conference on Computer Vision and Pattern Recognition**
-	- http://cvpr2020.thecvf.com/submission/main-conference/author-guidelines#call-for-papers
-	- CVPR 2020: Seattle, WA.
-	- CVPR 2021: Nashville, TN.
+	- http://cvpr2021.thecvf.com/node/36
+	- http://cvpr2021.thecvf.com/
+	- June 19-25, 2021.
+	- CVPR 2021: Virtual conference.
+	- ~~CVPR 2021: Nashville, TN.~~
 	- CVPR 2022: New Orleans, LA.
 	- https://www.thecvf.com/?page_id=100
-	- Submission deadline: **November 15, 2019**, 23:59 PST.
+	- Submission deadlines: **November 9 and 16, 2020**, 23:59 PST.
 + DSAA, IEEE/ACM/ASA DSAA, IEEE International Conference on Data Science and Advanced Analytics
-	- http://dsaa2020.dsaa.co/
+	- https://dsaa2021.dcc.fc.up.pt/
+	- https://dsaa2021.dcc.fc.up.pt/calls/research-applications-tracks
 	- http://www.dsaa.co/
-	- October 6–9, 2020.
-	- Sydney, Australia
-	- Submission deadline: May 24, 2020.
+	- October 6–9, 2021.
+	- Porto, Portugal.
+	- ~~Sydney, Australia~~
+	- Submission deadline: **May 23, 2021**.
 + EACL, meeting of the European Chapter of the Association for Computational Linguistics
-	- http://www.eacl2017.org/
+	- https://2021.eacl.org/
 	- http://eacl.org/conferences/
-	- April 5-7, 2017.
-	- Valencia, Spain
-	- Submission deadline: September 30, 2016.
+	- April 19-23, 2021.
+	- Virtual conference.
+	- ~~Valencia, Spain~~
+	- Submission deadline: ~~September 30, 2016~~ October 7, 2020.
 + ECAI, European Conference on Artificial Intelligence
 	- biennial conference
+	- IJCAI-ECAI in 2022 will be held in Bologna, Italy
 	- ECAI-2020, Santiago de Compostela, Spain.
 	- https://www.eurai.org/activities/ECAI_conferences
+	- https://eurai.org/activities/ECAI_conferences
 	- http://ecai2020.eu/call-for-papers/mainconference/
 	- http://ecai2020.eu/
 	- Submission deadlines: November 15 and 19, 2019.
-+ ECCV, European Conference on Computer Vision
++ **ECCV, European Conference on Computer Vision**
 	- https://eccv2020.eu/important-dates/
+	- August 24-27, 2020.
 	- SEC, Glasgow, U.K..
 	- "biennial research conference"
 	- ***Organized/Held in even-numbered years only***
 	- Submission deadline: **March 5, 2020.**
 + ECML PKDD, European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases
-	- https://ecmlpkdd2020.net/submissions/deadlines/
-	- https://ecmlpkdd2020.net/submissions/researchAndADSTrack/
-	- September 14-18, 2020.
-	- Ghent, Belgium.
+	- https://2021.ecmlpkdd.org/
+	- September 13-17, 2021.
+	- Virtual conference.
+	- ~~Ghent, Belgium.~~
 	- Submission deadlines for journal track:
-		* 1st round: ~~September 6, 2019~~ September 13, 2019
-		* 2nd round: November 8, 2019
-		* 3rd round: January 10, 2020
-		* 4th round (can't present at ECML PKDD 2020): May 15, 2020
-	- Submission deadlines for conference track: March 19 and 26, 2020.
-+ EMNLP, EMNLP-IJCNLP 2019, Conference on Empirical Methods in Natural Language Processing
-	- 2019 Conference on Empirical Methods in Natural Language Processing and 9th International Joint Conference on Natural Language Processing
-	- https://www.emnlp-ijcnlp2019.org/
-	- Hong Kong, China
-	- November 3-7, 2019
-	- Submission deadlines: May 15 and 21, 2019.
-+ ACM FAT\*, ACM Conference on Fairness, Accountability, and
-Transparency
+		* 1st round: ~~September 6, 2019~~ ~~September 13, 2019~~ September 20, 2020.
+		* 2nd round: ~~November 8, 2019~~ November 22, 2020.
+		* 3rd round: ~~January 10, 2020~~ January 31, 2021.
+		* 4th round (can't present at ECML PKDD 2020): ~May 15, 2020~~ May 2, 2021.
+	- Submission deadlines for conference track: ~~March 19 and 26, 2020~~ March 26 and April 2, 2021.
++ EMNLP, Conference on Empirical Methods in Natural Language Processing
+	- EMNLP-IJCNLP, Conference on Empirical Methods in Natural Language Processing and International Joint Conference on Natural Language Processing
+	- https://2021.emnlp.org/call-for-papers
+	- Dominican Republic.
+	- November 7-11, 2021.
+	- Submission deadlines: May 10 and 17, 2021, 23:59 hrs AoE.
++ ETRA, ACM Symposium on Eye Tracking Research and Applications
+	- http://etra.acm.org/2021/
+	- http://etra.acm.org/
+	- Virtual conference.
+	- May 25-27, 2021.
+	- Submission deadlines: November 25 and December 2, 2020, AoE.
++ **ACM FAccT, ACM Conference on Fairness, Accountability, and
+Transparency**
+	- https://facctconference.org/2021/cfp.html
 	- https://fatconference.org/2020/callforpapers.html
 	- https://fatconference.org/2019/cfp.html
 	- https://fatconference.org/links.html
-	- Barcelona, Spain.
-	- January 27-30, 2020.
-	- Submission deadlines: August 15 and 22, 2019.
+	- Virtual conference.
+	- ~~Barcelona, Spain.~~
+	- March 3-10, 2021.
+	- Submission deadlines: **~~August 15 and 22, 2019~~ September 30 and October 7, 2020**.
 	- "ACM FAT\* is an international and interdisciplinary peer-reviewed conference that seeks to publish and present work examining the fairness, accountability, and transparency of algorithmic systems."
 	- Fairness, Accountability, and Transparency in Machine Learning:
 		* https://www.fatml.org/
@@ -146,151 +181,257 @@ Transparency
 			+ Upcoming Opportunities
 			+ Upcoming Events and Publications
 + ICALP, International Colloquium on Automata, Languages and Programming
+	- http://easyconferences.eu/icalp2021/
+	- http://easyconferences.eu/icalp2021/cfp/
 	- http://eatcs.org/index.php/conferences
-	- https://econcs.pku.edu.cn/icalp2020/
+	- https://eatcs.org/index.php/international-colloquium
 	- http://eatcs.org/index.php/future-icalps
-	- ICALP 2020 in Beijing, China.
-		* Venue and dates changed to: Saarbrücken, Germany, July 8-11.
-			+ This is because of the spread of the coronavirus/COVID-19 virus infections.
-	- Main conference: July 8-12, 2020.
-	- Submission deadline: February 12, 2020, AoE.
-+ ICCV, International Conference on Computer Vision
-	- http://iccv2019.thecvf.com/submission/timeline
-	- http://iccv2019.thecvf.com/submission/main_conference/author_guidelines
-	- Seoul, South Korea
-	- October 27 - November 3, 2018.
-	- ICCV 2021 in Montreal, Canada.
-	- "biennial research conference": 2021, 2023
-	- - ***Organized/Held in odd-numbered years only***
-	- Submission deadline: **March 15 and 22, 2019**.
-+ ICDM, IEEE International Conference on Data Mining
+	- July 12-16, 2021.
+	- Glasgow, Scotland.
+	- Submission deadline: ~~February 12, 2020, AoE~~ ~~February 18, 2020, 6am GMT~~ February 12, 2021, 23:59 AoE.
++ **ICCV, International Conference on Computer Vision**
+	- http://iccv2021.thecvf.com/home
+	- Montreal, Canada.
+	- October 11 - 17, 2021.
+	- ~~October 27 - November 3, 2018.~~
+	- "biennial research conference": 2021, 2023, 2025.
+	- - ***Organized/Held in odd-numbered years only***.
+	- Submission deadline: **March 10 and 17, 2020**.
++ **ICDM, IEEE International Conference on Data Mining**
+	- https://icdm2021.auckland.ac.nz/
+	- https://icdm2021.auckland.ac.nz/cfp/
+		* Triple-blind submission guidelines
+			+ Since 2011, ICDM has imposed a triple-blind submission and review policy for all submissions. Authors must hence not use identifying information in the text of the paper and bibliographies must be referenced to preserve anonymity. Any papers available on the Web (including arXiv) no longer qualify for ICDM submissions, as their author information is already public.
+		* What is triple-blind reviewing?
+			+The traditional blind paper submission hides the referee names from the authors, and the double-blind paper submission also hides the author names from the referees. The triple-blind reviewing further hides the referee names among referees during paper discussions before their acceptance decisions. The names of authors and referees remain known only to the PC Co-Chairs, and the author names are disclosed only after the ranking and acceptance of submissions are finalized. It is imperative that all authors of ICDM submissions conceal their identity and affiliation information in their paper submissions. It does not suffice to simply remove the author names and affiliations from the first page, but also in the content of each paper submission.
+		* How to prepare your submissions
+			- The authors shall omit their names from the submission. For formatting templates with author and institution information, simply replace all these information items in the template by “Anonymous”.
+			- In the submission, the authors should refer to their own prior work like the prior work of any other author, and include all relevant citations. This can be done either by referring to their prior work in the third person or referencing papers generically. For example, if your name is Smith and you have worked on clustering, instead of saying “We extend our earlier work on distance-based clustering (Smith 2005),” you might say “We extend Smith’s earlier work (Smith 2005) on distance-based clustering.” The authors shall exclude citations to their own work which is not fundamental to understanding the paper, including prior versions (e.g., technical reports, unpublished internal documents) of the submitted paper. Hence, do not write: “In our previous work [3]” as it reveals that citation 3 is written by the current authors. The authors shall remove mention of funding sources, personal acknowledgments, and other such auxiliary information that could be related to their identities. These can be reinstituted in the camera-ready copy once the paper is accepted for publication. The authors shall make statements on well-known or unique systems that identify an author, as vague in respect to identifying the authors as possible. The submitted files should be named with care to ensure that author anonymity is not compromised by the file names. For example, do not name your submission “Smith.pdf”, instead give it a name that is descriptive of the title of your paper, such as “ANewApproachtoClustering.pdf” (or a shorter version of the same).
+			- Algorithms and resources used in a paper should be described as completely as possible to allow reproducibility. This includes experimental methodology, empirical evaluations, and results. Authors are strongly encouraged to make their code and data publicly available whenever possible. In addition, authors are strongly encouraged to also report, whenever possible, results for their methods on publicly available datasets.
+			- Accepted papers will be published in the conference proceedings by the IEEE Computer Society Press. All manuscripts are submitted as full papers and are reviewed based on their scientific merit. There is no separate abstract submission step. There are no separate industrial, application, short paper or poster tracks during submission. Manuscripts must be submitted electronically in the online submission system (https://www.wi-lab.com/cyberchair/2021/icdm21/scripts/submit.php?subarea=DM). We do not accept email submissions.
 	- http://icdm.bigke.org/
-	- http://icdm2020.bigke.org/
-	- http://www.icdm2020.unical.it/
-	- Sorrento, Italy.
-	- November 17-20, 2020.
-	- Submission deadline: ???***June 2, 2020.***???
-		- ICDM 2020 contest requirement specification and sample data availability: June 12, 2020.
-		- ICDM 2020 contest deadline for team registration: June 26, 2020.
-		- ICDM 2020 contest deadline for final submission: July 31, 2020, 23:59 hrs, U.S. PDT.
-+ ICLR, International Conference on Learning Representations
+	- Auckland, New Zealand.
+	- December 7-10, 2021.
+	- ~~November 17-20, 2020.~~
+	- Submission deadline: ***June 11, 2021.***
+		- ICDM 2020 contest requirement specification and sample data availability: ~~***June 12, 2020***~~.
+		- ICDM 2020 contest deadline for team registration: ~~***June 26, 2020***~~.
+		- ICDM 2020 contest deadline for final submission: ~~***July 31, 2020***~~, 23:59 hrs, U.S. PDT.
++ **ICLR, International Conference on Learning Representations**
 	- https://iclr.cc
-	- https://iclr.cc/Conferences/2020
-	- May 6-9, 2020.
-	- New Orleans, NA.
-	- Submission deadline: September 25, 2019.
-+ ICML, International Conference on Machine Learning
-	- https://icml.cc/Conferences/2020/CallForPapers
-	- https://icml.cc/Conferences/2020/Dates
-	- Long Beach, CA.
-	- Submission deadline: **January 30 and February 6, 2020, AoE.**
+	- https://iclr.cc/Conferences/2021/CallForPapers
+	- May 4-8, 2021.
+	- Virtual conference.
+	- ~~New Orleans, NA.~~
+	- Submission deadline: ~~September 25, 2019~~ **September 28 and October 2, 2020**.
++ **ICML, International Conference on Machine Learning**
+	- https://icml.cc/Conferences/2021/CallForPapers
+	- Virtual conference.
+	- ~~Long Beach, CA.~~
+	- Submission deadline: **January 28 and February 4, 2021, AoE.**
 + ICPR, International Conference on Pattern Recognition
+	- http://www.icpr2022.com/
 	- https://www.micc.unifi.it/icpr2020/
-	- Venue: Milan, Italy.
-	- Dates: September 13-18, 2020.
-	- Submission deadline: ~~March 2, 2020.~~ ~~March 18~~ April 15 and July 10, 2020.
+	- Virtual conference.
+	- Venue for 2022: Montréal, Québec (QC), Canada.
+	- ~~Venue: Milan, Italy.~~
+	- Dates: ~~September 13-18, 2020~~ ~~January 10-15, 2021~~ August 21-25, 2022.
+	- Submission deadline: **~~March 2, 2020.~~ ~~March 18~~ *April 15 and July 10, 2020***.
++ ICPRAM, International Conference on Pattern Recognition Applications and Methods
+	- http://icpram.org/CallForPapers.aspx
+	- February 4-6, 2021.
+	- Submission deadline: October 6, 2020.
 + IEEE Transactions on Information Theory
-+ IJCAI, International Joint Conference on Artificial Intelligence
++ **IJCAI, International Joint Conference on Artificial Intelligence**
+	- https://ijcai-21.org/
 	- https://ijcai.org
 	- \[Find updated URL for IJCAI-PRICAI-20\]
-	- IJCAI-PRICAI-20 venue: Yokohama, Japan
-	- IJCAI-21: Montreal, Canada
+	- IJCAI-PRICAI-24 will be held in Shanghai, P.R. China.
+	- IJCAI-23 will be held in Cape Town, South Africa.
 	- IJCAI-ECAI-22: Bologna, Italy.
-	- August 10-16, 2019
-	- Submission deadline: **February 19 and 25, 2019.**
+	- IJCAI-21: Montreal, Canada
+	- IJCAI-PRICAI-20 venue: Yokohama, Japan
+	- August 21-26, 2021.
+	- ~~August 10-16, 2019~~
+	- Submission deadline: ~~**February 19 and 25, 2019.**~~ **January 13, 16, and 20, 2021**
++ IJCB 2021, International Joint Conference on Biometrics
+	- http://ijcb2021.iapr-tc4.org/
+	- August 4-7, 2021.
+	- Shenzhen, China & virtual conference, mixed mode (in person + virtual).
+	- Submission deadline: **March 24, 2021.**
 + IJCNN, International Joint Conference on Neural Networks
 	- https://www.ijcnn.org/callforpapers
+	- July 18-22, 2021.
+	- Virtual conference.
 	- ***??? Venue for 2020 ???***
-	- July 14-19, 2019. \[Update this!!!\]
-	- Submission deadline: ???**December 15, 2018.**???
+	- Submission deadline: ~~???**December 15, 2018.**???~~ ~~January 15, 2021~ **February 10, 2021**.
+		* All deadlines are 23:59 hrs U.S. PST.
 + IJCV, International Journal of Computer Vision
 	- https://link.springer.com/journal/11263
 + ISWC, International Semantic Web Conference
-	- https://iswc2019.semanticweb.org/call-for-research-track-papers/
-	- Athens, Greece
-	- November 2-6, 2020
-	- Submission deadline: ~~April 3 and 10, 2019~~
+	- https://iswc2021.semanticweb.org/
+	- Virtual conference.
+	- ~~Athens, Greece~~
+	- October 24-28, 2021.
+	- ~~November 1-6, 2020~~
+	- Submission deadline:
+		* April 12 and 19, 2021.
+		* ~~April 3 and 10, 2019~~ ~~April 3, 2020~~ ~~May 22, 2020.~~
+		* "All deadlines are 23:59 AoE."
++ ITP, International conference on Interactive Theorem Proving
+	- http://easyconferences.eu/itp2021/
+	- June 29 - July 1, 2021.
+	- Virtual conference. Or, Rome, Italy.
+	- Submission deadline: January 25 - February 1, 2021.
 + Journal of Automated Reasoning
 	- https://www.springer.com/computer/theoretical+computer+science/journal/10817
 + KDD, SIGKDD Conference on Knowledge Discovery and Data Mining
+	- https://www.kdd.org/kdd2021/
 	- http://www.kdd.org/conferences
-	- Anchorage, Alaska
-	- August 3 - 7, 2019
-	- Submission deadline: February 3, 2019.
+	- Singapore.
+	- ~~San Diego, CA~~
+	- August 14-18, 2021.
+	- ~~August 22-27, 2020.~~
+	- ~~August 3 - 7, 2019~~
+	- Submission deadline:
+		* February 8, 2021.
+		* ~~February 3, 2019~~.
+		* All deadlines are 11.59 pm UTC -12h ("Anywhere on Earth").
 + KR, International Conference on Principles of Knowledge Representation and Reasoning
+	- https://kr2021.kbsg.rwth-aachen.de/.
 	- http://www.kr.org
-	- VENUE
-	- Submission deadline: Early/Mid- May, 2019.
-+ LDAV 2019, 9th IEEE Symposium on Large Data Analysis and Visualization
+	- Hanoi, Vietnam.
+	- November 6-12, 2021.
+	- Submission deadline(s):
+		* March 24 and 31, 2021.
+		* ~~Early/Mid- May, 2019.~~
++ LDAV 2021, IEEE Symposium on Large Data Analysis and Visualization
+	- ~~https://ldav.org/2020/~~
 	- https://ldav.org/
-	- Held in conjunction with IEEE VIS 2019
-	- Vancouver, BC, Canada
-	- October 21, 2019
-	- June 24, 2019.
+	- https://github.com/LDAV-Symposium
+	- Held in conjunction with IEEE VIS 2021.
+	- Salt Lake City, Utah.
+	- ~~Vancouver, BC, Canada~~
+	- October 25, 2020.
+	- ~~October 21, 2019~~
+	- Submission deadline: ~~June 24, 2019~~ July 7 and 12, 2020.
 + LICS, ACM/IEEE Symposium on Logic in Computer Science
-	- http://lics.siglog.org/lics20/
-	- http://lics.siglog.org/lics20/cfp.php
-	- Beijing, China.
+	- http://easyconferences.eu/lics2021/
+	- http://easyconferences.eu/lics2021/cfp/
+	- http://lics.siglog.org/
+	- Virtual conference.
+	- ~~Beijing, China~~.
 		* Venue and dates changed to: Saarbrücken, Germany, July 8-11.
 			+ This is because of the spread of the coronavirus/COVID-19 virus infections.
-	- July 8-11, 2020.
-	- Submission deadline: **January 6 and 10, 2020.**
-+ LPAR-24, International Conference on Logic for Programming Artificial Intelligence and Reasoning
+	- June 29 - July 2, 2021. 
+	- ~~July 8-11, 2020.~~
+	- Submission deadline: ~~January 6 and 10, 2020.~~ **January 20 and 25, 2021.**
++ LPAR-24 & LPAR-23 (merged), International Conference on Logic for Programming, Artificial Intelligence and Reasoning
 	- http://lpar.net/
+	- https://easychair.org/smart-program/LPAR23/
 	- https://dblp.uni-trier.de/db/conf/lpar/index.html
+	- http://www.vcla.at/events/par-23-23rd-international-conference-on-logic-for-programming-artificial-intelligence-and-reasoning/
 	- Poor conference.
+	- Virtual conference.
+	- January 12-13, 2021.
+	- Submission deadline: February 18-22, 2020.
++ MLSys, the Conference on Machine Learning and Systems
+	- https://mlsys.org/Conferences/2021
+	- https://www.amazon.science/conferences-and-events/mlsys-2021
+	- April 4-9, 2021.
+	- ~~April 4-7, 2021~~.
+	- Virtual conference.
+	- ~~San Jose, CA~~.
+	- Submission deadline: October 10, 2020, 17:00 U.S. PDT.
+	- ***Formerly known as SysML Conference***.
++ MVA2021, 17th International Conference on Machine Vision Applications
+	- http://www.mva-org.jp/mva2021/.
+	- July 25-27, 2021.
+	- Hybrid or Online.
+	- Submission deadline: March 31, 2021, 23:59 (U.S.???) PST.
 + NAACL, North American Chapter of the Association for Computational Linguistics
-	- 2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics
-	- https://naacl2019.org/
-	- Minneapolis, MN
-	- June 2-7, 2019
-	- Submission deadlines: December 3-10, 2018.
-+ NeurIPS (formerly NIPS), Annual Conference on Neural Information Processing Systems (NeurIPS 2020)
+	- 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics
+	- https://2021.naacl.org/calls/papers/
+	- https://2021.naacl.org/
+	- Mexico City, Mexico.
+	- ~~Minneapolis, MN~~
+	- June 6–11, 2021
+	- ~~June 2-7, 2019~~
+	- Submission deadline: November 23, 2020.
+		* "All deadlines are 11.59 pm UTC -12h."
+		* ~~Submission deadlines: December 3-10, 2018.~~
++ NeurIPS (formerly NIPS), Annual Conference on Neural Information Processing Systems (NeurIPS 2021)
 	- https://nips.cc/Conferences/2020
 	- https://nips.cc/
-	- Vancouver, Canada.
-	- December 6 and 12, 2020.
-	- Submission deadline: ???**May 16 and 23, 2019.**???
+	- https://nips.cc/Conferences/FutureMeetings
+	- Virtual conference.
+	- ~~Vancouver, Canada.~~
+	- November 27 - December 5, 2021.
+	- November 26 - December 4, 2022.
+	- November 25 – December 10, 2023.
+	- November 30 - December 15, 2024.
+	- November 29 - December 6, 2025.
+	- ~~December 6 and 12, 2020.~~
+	- Submission deadline: ~~May 16 and 23, 2~~ **May 27 and June 5, 2020**.
 + PAMI ???
 	- Basically, this refers to PAMITC Sponsored Conferences, such as CVPR and ICCV.
 	- URL
 	- VENUE
 	- DATE
 + RecSys, ACM Conference on Recommender Systems
-	- https://recsys.acm.org/recsys19/
-	- Copenhagen, Denmark.
-	- September 16-20, 2019.
-	- Submission deadline: April 15 and 23, 2019.
+	- https://recsys.acm.org/recsys21/call/
+	- https://recsys.acm.org/recsys21/dates/
+	- https://recsys.acm.org/recsys21/
+	- https://recsys.acm.org/
+	- Amsterdam, Netherlands.
+	- September 27 - October 1, 2021.
+	- ~~September 16-20, 2019~~.
+	- Submission deadline:
+		* ~~April 15 and 23, 2019~~ April 27 and May 4, 2021.
+		* "Deadlines refer to 23:59 (11:59pm) in the AoE (Anywhere on Earth) time zone."
 + RSA Conference 2020
 	- https://www.rsaconference.com/usa
-	- San Francisco
-	- February 24-28, 2020
+	- Virtual conference.
+	- ~~San Francisco~~
+	- May 17-20, 2021.
+	- ~~February 24-28, 2020~~
 + SIGGRAPH, ACM special interest group on Computer GRAPHics and Interactive Techniques
 	- International Conference on Computer Graphics and Interactive Techniques
-	- https://s2020.siggraph.org/
-	- July 19-23, 2020.
-	- Washington, D.C..
+	- https://s2021.siggraph.org/
+	- https://s2021.siggraph.org/about-the-conference/
+	- August 1-5, 2021.
+	- ~~July 19-23, 2020~~.
+	- Virtual conference.
+		* Originally to be held in: Los Angeles, CA.
+	- ~~Washington, D.C.~~.
 	- Submission deadlines:
-		* [Technical papers: January 22, 23, and 24, 2020](https://s2020.siggraph.org/submissions/)
-		* ***[Emerging Technologies: February 11, 2020.](https://s2020.siggraph.org/submissions/emerging-technologies-submissions/)***
+		* [Technical papers: January 27, 28, and 29, 2021](https://s2021.siggraph.org/program/technical-papers/)
+		* ~~[Technical papers: January 22, 23, and 24, 2020](https://s2020.siggraph.org/submissions/)~~
+		* ***[Emerging Technologies: February 23, 2021.](https://s2021.siggraph.org/program/emerging-technologies/)***
 		* Art Papers:
-			+ Long Papers: 14 Jan 2020, 22:00 UTC
-			+ Short Papers 23 Jan 2020, 22:00 UTC
-			+ ["The SIGGRAPH Art Papers program brings together communities of researchers and practitioners working at the intersections of art, design, humanities, science, and technology."](https://s2020.siggraph.org/submissions/)
+			+ Long Papers: January 15, 2021, 22:00 UTC
+			+ Short Papers January 15, 2021, 22:00 UTC
+			+ ["The SIGGRAPH Art Papers program brings together communities of researchers and practitioners working at the intersections of art, design, humanities, science, and technology."](https://s2021.siggraph.org/program/art-papers/)
 + SIGIR, ACM International Conference on Research and Development in Information Retrieval
 	- ACM SIGIR Conference on Research and Development in Information Retrieval
-	- https://sigir.org/sigir2020/
-	- July 25-30, 2020.
-	- Xi'an, China.
-	- Submission deadline: January 15 and 22, 2019.
+	- https://sigir.org/sigir2021/
+	- July 11-15, 2021.
+	- Virtual conference.
+	- Submission deadline: ~~January 15 and 22, 2019~~ February 2 and 9, 2021.
 + SIGMOD, ACM Symposium on Principles of Database Systems (PODS)
 	- SIGMOD/PODS International Conference on Management of Data
-	- https://sigmod2020.org/
-	- https://sigmod2020.org/calls_papers_sigmod_research.shtml
-	- Portland, OR
-	- Conference dates: June 14 - 19, 2020.
-	- Submission deadline: July 9 and 16, 2019 (submission cycle \#1) and October 15 and 22, 2019 (submission cycle \#2).
-+ SSIAI 2020, IEEE Southwest Symposium on Image Analysis and Interpretation
+	- http://2021.sigmod.org/
+	- http://2021.sigmod.org/calls_papers_pods_research.shtml
+	- https://sigmod.org/pods-home/
+	- Xi'an, Shaanxi, China.
+	- ~~Portland, OR~~
+	- Conference dates: ~~June 14 - 19, 2020~~ June 20-25, 2021.
+	- Submission deadline:
+		* July 2 and 7, 2020 (submission cycle \#1).
+		* ~~July 9 and 16, 2019 (submission cycle \#1)~~.
+		* December 13 and 20, 2020 (submission cycle \#2).
+		* ~~October 15 and 22, 2019 (submission cycle \#2)~~.
++ SSIAI, IEEE Southwest Symposium on Image Analysis and Interpretation
 	- http://ivpcl.unm.edu/SSIAI2020/index.html
 	- http://ivpcl.unm.edu/SSIAI2020/SSIAI_2020_CFP_onePage.pdf
 	- http://www.ssiai.org/
@@ -305,23 +446,34 @@ Transparency
 	- March 2-4, 2020.
 	- Austin, TX.
 	- Submission deadline: September 9, 2019.
+	- ***Renamed as MLSys, the Conference on Machine Learning and Systems.***
 + TACL, Transactions of the Association for Computational Linguistics
 	- https://www.transacl.org/ojs/index.php/tacl
 + TPAMI, IEEE Transactions on Pattern Analysis and Machine Intelligence
-+ TSD 2020, 23rd International Conference on Text, Speech and Dialogue
-	- https://www.tsdconference.org/tsd2020/conf_dates.html
-	- Brno, Czech Republic
-	- September 8–11, 2020
-	- Submission deadline: March 15 and 29, 2020
-+ UAI 2020, Conference on Uncertainty in Artificial Intelligence
-	- http://auai.org/uai2019/cfp.php ***\[Update URL\]***
-	- VENUE
-	- July 22-25, 2019.
-	- Submission deadlines: ***???March 4 and 8, 2019.???***
++ TSD, 23rd International Conference on Text, Speech and Dialogue
+	- https://www.kiv.zcu.cz/tsd2021/index.php
+	- https://www.kiv.zcu.cz/tsd2021/index.php?page=topics
+	- https://www.kiv.zcu.cz/tsd2021/index.php?page=submission
+	- https://www.kiv.zcu.cz/tsd2021/index.php?page=dates
+	- ~~https://www.tsdconference.org/tsd2020/conf_dates.html~~
+	- Olomouc, Moravia, Czech Republic.
+	- ~~Brno, Czech Republic~~
+	- September 6–9, 2021.
+	- Submission deadline: ~~March 15 and 29, 2020~~ April 18, 2021.
++ UAI, Conference on Uncertainty in Artificial Intelligence
+	- https://www.auai.org/uai2021/
+	- https://www.auai.org/
+	- July 27-29, 2021, with workshops on July 30, 2021.
+	- Virtual conference.
+	- ~~July 22-25, 2019~~.
+	- Submission deadlines:
+		* ***February 19, 2021 (23:59 UTC)***.
+		* ~~March 4 and 8, 2019.~~
 + UIST, ACM Symposium on User Interface Software and Technology
-	- http://uist.acm.org/uist2019/
-	- \[Update URL\]
-	- Submission deadline: April 5, 2019. ??? Update CFP deadline.???
+	- https://uist.acm.org/uist2021/
+	- Virtual conference.
+	- October 10-13, 2021.
+	- Submission deadline: ~~April 5, 2019.~~ March 31 and April 7, 2021, 5 p.m. U.S. PT.
 + VIS, IEEE Visualization Conference
 	- IEEE Conference on Visual Analytics Science & Technology (VAST)
 		* http://ieeevis.org/year/2020/info/call-participation/vast-paper-types
@@ -330,32 +482,42 @@ Transparency
 	- IEEE Conference on Scientific Visualization (SciVis)
 		* http://ieeevis.org/year/2020/info/call-participation/scivis-paper-types
 			+ ***Includes computer hardware for scientific visualization.***
-	- http://ieeevis.org/year/2020/info/call-participation/call-for-participation
-	- http://ieeevis.org/year/2020/welcome
+	- http://ieeevis.org/year/2021/welcome
+	- "In 2021, IEEE VIS transitions from the three sub-conferences (VAST, InfoVis, and SciVis) to one unified conference. IEEE VIS 2021 is now soliciting novel research contributions and innovative applications in all areas of visualization."
+		* http://ieeevis.org/year/2021/info/call-participation/call-for-participation
 	- http://ieeevis.org/year/2019/info/open-practices/open-practices
-	- October 25-30, 2020.
-	- Salt Lake City, UT.
-	- Submission deadlines: March 21 and 31, 2019.
+	- October 24-29, 2021.
+	- New Orleans, LA.
+	- Submission deadlines: March 21 and 31, 2021.
 + WCCI, IEEE World Congress on Computational Intelligence (IEEE WCCI)
-	- https://wcci2020.org
-	- Conference dates: July 19-24, 2020.
-	- Glasgow, U.K..
-	- Submission deadline: ~~January 15, 2020.~~ January 30, 2020 (extended).
+	- https://wcci2022.org/call-for-papers/
+		* "bi-annual IEEE World Congress on Computational Intelligence (IEEE WCCI), which is the largest technical event in the field of computational intelligence"
+	- Conference dates: July 18-23, 2022.
+	- Padua, Italy.
+	- ~~Glasgow, U.K.~~.
+	- Submission deadline:
+		* January 31, 2022.
+		* ~~January 15, 2020.~~ ~~January 30, 2020 (extended)~~
 	- Includes:
 		* International Joint Conference on Neural Networks (IJCNN)
 		* IEEE Congress on Evolutionary Computation (IEEE CEC)
 		* IEEE International Conference on Fuzzy Systems (FUZZ-IEEE)
 + WSDM, ACM International Conference on Web Search and Data Mining
 	- http://www.wsdm-conference.org
-	- http://www.wsdm-conference.org/2019/call-for-papers.php
-	- Houston, TX.
-	- Submission deadline: **??? August 8 and 15, 2018 ???**.
+	- https://www2021.thewebconf.org/
+	- https://www2021.thewebconf.org/authors/call-for-papers/
+	- March 8-12, 2021.
+	- Jerusalem, Israel.
+	- Submission deadline: ~~August 8 and 15, 2018~~ **August 16, 2020**.
 + WWW, The Web Conference
 	- https://www2020.thewebconf.org
 	- https://www2020.thewebconf.org/call-for-contributions#papers
 	- Formerly known as the International World Wide Web Conference.
-	- Taipei, Taiwan.
-	- Submission deadline: Oct 7 and 14, 2019.
+	- Ljubljana, Slovenia.
+	- April 19-23, 2021.
+	- Submission deadlines:
+		* October 12 and 19, 2020.
+		* ~~Oct 7 and 14, 2019~~.
 
 
 ###	Pivots
@@ -380,12 +542,15 @@ Transparency
 
 
 
-+ WADS 2019, Algorithms and Data Structures Symposium
++ WADS, Algorithms and Data Structures Symposium
 	- http://www.wads.org/
-	- was Workshop on Algorithms and Data Structures
-	- August 5-7, 2019
-	- Edmonton, Canada
-	- Submission deadline: February 20, 2019.
+	- https://projects.cs.dal.ca/wads2021/
+	- *biennial conference*
+	- was Workshop on Algorithms and Data Structures.
+	- August 9-11, 2021.
+	- ~~August 5-7, 2019~~
+	- Halifax, Nova Scotia, Canada.
+	- Submission deadline: February 20, 2021, 23:59 anywhere on earth (UTC -12).
 
 
 
@@ -437,54 +602,21 @@ Transparency
 ###	Attack Plan
 
 MTFD: Meet The Final Deadline; and, apply for [research internships](https://github.com/christine-hu/summer-2019-internships).
-+ ***Meet the [Facebook](https://research.fb.com/programs/research-awards/) Deadline!!!
++ ***Meet the [Facebook](https://research.fb.com/programs/research-awards/) Deadline!!!***
 
 
 
 Upcoming Submission deadlines:
-+ [FPL](https://www.fpl2020.org/): ~~March 16 and 23~~ ~~March 23 and 30~~ March 27 and April 3, 2020.
-+ ***[ICPR, International Conference on Pattern Recognition](https://www.micc.unifi.it/icpr2020/): ~~March 2, 2020.~~ ~~March 18~~ April 15 and July 10, 2020, 23:59 European CEST.***
-+ [ACM Multimedia](https://2020.acmmm.org/call-for-paper.html): ~~March 21 and 28~~ April 25, 2020, AoE.
-+ [Hot Chips 32](https://www.hotchips.org/): ~~March 23~~ April 6, 2020.
-+ [MWSCAS](http://mwscas2020.org/): ~~March 23~~ April 27, 2019.
-+ [ASAP](https://asap2020.cs.manchester.ac.uk/cfp.html): ~~March 27 and April 3~~ April 10 and 17, 2020.
-+ [ITC 2020](http://www.itctestweek.org/): ~~March 27 and April 3~~ April 24 and May 1, 2020.
-+ [SenSys](http://sensys.acm.org/2020/cfp/): ~~March 27 and April 6~~ April 10 and 17, 2020.
-+ [QEST 2020](http://www.qest.org/qest2020/call-for-papers.html): ~~March 27 and April 3~~ April 24 and 30, 2020.
-+ [MICRO](https://www.microarch.org/micro53/): ~~March 27 and April 3~~ April 10 and 17, 2020.
-+ [The FATE of AI in Education: Fairness, Accountability, Transparency, and Ethics, A Special Issue of the International Journal of Artificial Intelligence in Education (IJAIED)](https://sites.google.com/view/thefateofaied): abstract submission deadline: January 31, 2020 (not required); and deadline for paper submission: ~~March 30~~ April 20, 2020.
-+ [ESWEEK](https://www.esweek.org): ~~April 3 and 10~~ April 3 and 17, 2020.
-+ [IEEE International Conference on Quantum Computing & Engineering @ IEEE Quantum Week](https://qce.quantum.ieee.org/): April 5 and 27, 2020.
-+ [FOCS](https://focs2020.cs.duke.edu/index.php/cfp/): April 9, 2019, 11:59 p.m. U.S. EDT.
-+ [FMCAD](https://fmcad.forsyte.at/FMCAD20/): April 9 and 16, 2020.
-+ [PACT 2020](https://pact20.cc.gatech.edu/): April 10 and 17, 2020.
-+ ***[OOPSLA](https://2020.splashcon.org/track/splash-2020-oopsla): April 15, 2019.***
-+ [SPLASH Onward! papers](https://2020.splashcon.org/): April 17 and 23, 2020.
-+ [OOPSLA](https://2020.splashcon.org/track/splash-2020-oopsla): April 15, 2019.
-+ [CHES 2020](https://ches.iacr.org/2020/): April 15, 2019.
-+ [VLSI-SoC](https://www.aconf.org/conf_173100.html): April 20 and 27, 2020.
-	- https://sites.google.com/view/vlsi-soc-2020/
-+ [MFCS](http://mfcs.mff.cuni.cz/2020/): April 20, 2019.
-+ [SAS, Static Analysis Symposium](https://conf.researchr.org/home/sas-2020/): April 22 and 24, 2020.
-+ [ESA, European Symposium on Algorithms](http://esa-symposium.org/): April 24, 2020.
-	- http://algo2020.di.unipi.it/ESA2020/index.html
-+ [DFT 2020, IEEE International Symposium on Defect and Fault Tolerance in VLSI and Nanotechnology Systems](http://www.dfts.org): April 24 and May 8, 2020.
-+ [SIGGRAPH SRC](https://s2020.siggraph.org/submissions/): April 28, 2020.
-+ [USENIX Security '21, USENIX Security Symposium](https://www.usenix.org/conference/usenixsecurity20/call-for-papers): May 15, 2019, 8:00 pm EDT
-+ [RV, International Conference on Runtime Verification](https://rv20.ait.ac.at/): May 18, 2019.
-+ [ICCAD](https://iccad.com/): May 21 and 28, 2020.
-+ [HPEC, IEEE High Performance Extreme Computing Conference](http://ieee-hpec.org): May 22, 2020.
-+ [SecDev](https://secdev.ieee.org/2020/Papers/): May 25, 2020, 23:59:59 AoE.
-+ [ICFP SRC](https://icfp20.sigplan.org/track/icfp-2020-student-research-competition): June 12, 2020.
++ 
 
 
 
 
-
-
-
-
-
+ACM Student Research Competition (SRC):
++ [Cyber-Physical Systems and Internet of Things Week, CPS-IoT Week](https://sigbed.org/2020/09/14/sigbed_src_2021/): Friday, Feb 19, 2021, 11:59pm GMT-12
++ [PLDI 2021, June 20 -25, 2021](https://pldi21.sigplan.org/track/pldi-2021-SRC#Call-for-Student-Research-Competition-Submissions): March 22, 2021, AoE.
++ [SIGGRAPH](https://s2021.siggraph.org/program/posters/): 20 April 2021, 22:00 UTC/GMT.
++ [ICFP](https://icfp21.sigplan.org/track/icfp-2021-student-research-competition): Fri 25 Jun 2021, AoE.
 
 
 
@@ -2332,11 +2464,11 @@ List of conference "Call for Papers" deadlines:
 
 
 + PLDI, Programming Language Design and Implementation
-	- https://pldi20.sigplan.org/track/pldi-2020-papers
+	- https://pldi21.sigplan.org/track/pldi-2021-papers#Call-for-Papers
 	- http://www.sigplan.org/Conferences/PLDI/
-	- June 15-20, 2020.
-	- London, U.K..
-	- Submission deadline: November 22, 2019.
+	- June 20-25, 2021.
+	- Virtual conference.
+	- Submission deadline: November 20, 2020.
 
 
 
