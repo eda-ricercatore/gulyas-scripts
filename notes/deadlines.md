@@ -754,10 +754,15 @@ List of conference "Call for Papers" deadlines:
 
 
 + ICSR 2020, 19th International Conference on Software and Systems Reuse
-	- https://www.uc.edu/eventservices/ICSR2019.html
-	- ~~June 26-28, 2019~~ November 2-4, 2020
-	- ~~Cincinnati, OH~~ Hammamet, Tunisia
-	- Submission deadline: August 15 and 18, 2020, 23:59:59, AoE.
+	- https://waset.org/software-reuse-conference-in-july-2021-in-istanbul
+	- ~~https://www.uc.edu/eventservices/ICSR2019.html~~
+	- July 29-30, 2021.
+	- ~~June 26-28, 2019~~ ~~November 2-4, 2020~~
+	- Istanbul, Turkey.
+	- ~~Cincinnati, OH~~ ~~Hammamet, Tunisia~~
+	- Submission deadline:
+		* August 15 and 18, 2020, 23:59:59, AoE.
+	- Not so good conference.
 
 
 
@@ -781,9 +786,9 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ UbiComp 2020, 2020 ACM International Joint Conference on Pervasive and Ubiquitous Computing
-	- http://ubicomp.org/ubicomp2020/
-	- http://ubicomp.org/ubicomp2020/cfp/papers.html
++ UbiComp, ACM International Joint Conference on Pervasive and Ubiquitous Computing
+	- https://ubicomp.hosting.acm.org/ubicomp2021/
+	- ~~http://ubicomp.org/ubicomp2020/~~
 	- Cancún, México
 	- September 12-16, 2020
 	- Submission deadlines:
@@ -795,16 +800,18 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ CCS'20, ACM CCS 2020, 27th ACM Conference on Computer and Communications Security
-	- https://www.sigsac.org/ccs/CCS2020/
-	- https://www.sigsac.org/ccs/CCS2020/call-for-papers.html
++ CCS, ACM CCS, ACM Conference on Computer and Communications Security
+	- https://www.sigsac.org/ccs/CCS2021/
+	- https://www.sigsac.org/ccs/CCS2021/call-for-papers.html
 	- http://www.sigsac.org/ccs.html
-	- Florida.
-	- ~~November 11-15, 2019~~
-	- November 9-13, 2020.
+	- Seoul, South Korea.
+	- November 14-19, 2021.
+	- ~~November 9-13, 2020~~.
+	- ~~November 11-15, 2019~~.
 	- Submission deadlines:
-		* 1st deadline: January 20, 2020.
-		* ***2nd deadline: May 4, 2020***
+		* [1st deadline: January 20, 2021.](https://ccs2021-a.hotcrp.com.)
+		* [***2nd deadline: May 6, 2021***](https://ccs2021-b.hotcrp.com)
+		* "All submissions must be received by 11:59 PM AoE (UTC-12) on the day of the corresponding deadline."
 
 
 
@@ -813,25 +820,27 @@ List of conference "Call for Papers" deadlines:
 
 
 
-
-+ IFIP Performance 2020, or IFIP WG Performance 2020, 38th International Symposium on Computer Performance, Modeling, Measurements and Evaluation
-	- https://www.performance2020.deib.polimi.it/
-	- https://www.performance2020.deib.polimi.it/call-for-papers/
++ IFIP Performance 2021, or IFIP WG Performance 2021, 38th International Symposium on Computer Performance, Modeling, Measurements and Evaluation
+	- https://www.performance2021.deib.polimi.it/
 	- ~~https://performance2018.sciencesconf.org/~~
+	- November 8-12, 2021.
 	- Milan, Italy.
-	- November 2-6, 2020.
-	- Submission deadlines: May 17 and 24, 2020.
+	- ~~November 2-6, 2020~~.
+	- Submission deadlines: ~~May 17 and 24, 2020~~.
 
 
 
-+ MIDDLEWARE 2019, ACM/IFIP/USENIX International Middleware Conference
++ MIDDLEWARE, ACM/IFIP/USENIX International Middleware Conference
 	- ACM/IFIP International Middleware Conference
-	- ACM/IFIP Middleware 2020
-	- https://2020.middleware-conference.org/
+	- ACM/IFIP Middleware 2021
+	- https://middleware-conf.github.io/2021/
 	- http://middleware-conference.org/
-	- December 7-11, 2020
-	- Virtual/Onine. Originally to be held in Delft, The Netherlands.
-	- Submission deadlines: May 27 and June 3, 2019
+	- December 6-10, 2021.
+	- Québec City, Québec, Canada.
+	- ~~Virtual/Onine. Originally to be held in Delft, The Netherlands~~.
+	- Submission deadlines:
+		* 1st cycle: November 20 - December 1, 2020.
+		* 2nd cycle: May 15 and 22, 2021.
 
 
 
@@ -841,7 +850,7 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ VECoS 2019, 13th International Conference on Verification and Evaluation of Computer and Communication Systems
++ VECoS, International Conference on Verification and Evaluation of Computer and Communication Systems
 	- Part of the 3rd World Congress on Formal Methods
 	- http://vecos-world.org/2020/
 	- ~~http://vecos.ensta-paristech.fr/2019/index.html~~
@@ -861,7 +870,7 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ ACM MSWiM 2020, 23rd ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems
++ ACM MSWiM, ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems
 	- http://mswimconf.com/2020/
 	- November 16-20, 2020.
 	- Alicante, Spain.
@@ -874,6 +883,7 @@ List of conference "Call for Papers" deadlines:
 
 + RV, International Conference on Runtime Verification
 	- https://rv20.ait.ac.at/
+	- https://runtime-verification.github.io/
 	- https://www.runtime-verification.org/
 	- October 6-9, 2020.
 	- Los Angeles, California.
@@ -900,9 +910,10 @@ List of conference "Call for Papers" deadlines:
 + HPEC, IEEE High Performance Extreme Computing Conference
 	- http://ieee-hpec.org
 	- http://www.ieee-hpec.org/cfp.htm
-	- Waltham, MA
-	- September 22-24, 2020.
-	- Submission deadline: May 22, 2020.
+	- Virtual conference.
+	- ~~Waltham, MA~~
+	- September 21-23, 2021.
+	- Submission deadline: ~~May 22, 2020~~ July 9, 2021.
 
 
 
@@ -4398,19 +4409,25 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ ALGO 2020,
-	- http://algo2020.di.unipi.it/
-	- September 7-10, 2020.
-	- Pisa, Italy.
++ ALGO 2021,
+	- http://algo2021.tecnico.ulisboa.pt/index.html
+	- September 6-10, 2021.
+	- Lisbon, Portugal.
 	- Organized by the European Association for Theoretical Computer Science (EATCS).
 		* http://eatcs.org/
 	- ESA, European Symposium on Algorithms
 		* http://esa-symposium.org/
-		* http://algo2020.di.unipi.it/ESA2020/index.html
-		* Submission deadline: April 24, 2020.
+		* http://algo2021.tecnico.ulisboa.pt/ESA2021/index.html
+		* Submission deadline:
+			* May 3, 2021 (23:59 AoE).
+			* ~~April 24, 2020.~~
 	- ALGOSENSORS, International Symposium on Algorithms and Experiments for Wireless Sensor Networks
+		* http://algo2021.tecnico.ulisboa.pt/ALGOSENSORS2021/index.html
+		* Submission deadline: ???.
 	- ATMOS, Workshop on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems
 	- ***~~IPEC, International Symposium on Parameterized and Exact Computation~~???***
+		* https://easychair.org/cfp/ipec2021
+		* http://algo2021.tecnico.ulisboa.pt/IPEC2021/index.html
 		* new techniques for the design and analysis of parameterized and exact algorithms;
 		* fixed-parameter tractability and kernelization results;
 		* parameterized complexity theory;
@@ -4419,27 +4436,11 @@ List of conference "Call for Papers" deadlines:
 		* applications of parameterized and exact computation; and
 		* implementation issues of exact, parameterized, and kernelization algorithms.
 		* Theoretically grounded studies on parameterized and exact computations and kernelization for real-world applications and algorithmic engineering are especially encouraged.
-		* Submission deadlines: May 29 and June 1, 2019.
+		* Submission deadlines: ~~May 29 and June 1, 2019~~ June 25 and 28, 2021.
 	- WAOA, Workshop on Approximation and Online Algorithms
 	- ALGOCLOUD, International Workshop on Algorithmic Aspects of Cloud Computing
-
-
-
-
-
-
-
-
-
-
-
-+ RV, International Conference on Runtime Verification
-	- Deadline for 2020 delayed till mid-May, 2020.
-
-
-
-
-
+		* http://algo2021.tecnico.ulisboa.pt/ALGOCLOUD2021/index.html
+		* Submission deadline: July 8, 2021 ???(final extension)???.
 
 
 
