@@ -3340,11 +3340,12 @@ List of conference "Call for Papers" deadlines:
 
 
 + PODC, ACM Symposium on Principles of Distributed Computing
-	- http://www.podc.org
-	- http://www.podc.org/podc2020/call-for-papers/
-	- Salerno, Italy.
-	- August 3-7, 2020.
-	- Submission deadline: February 17, 2020.
+	- https://www.podc.org/
+	- https://www.podc.org/podc2021/call-for-papers/
+	- Virtual conference.
+	- July 26-31, 2021.
+	- ~~August 3-7, 2020~~.
+	- Submission deadlines: February 11 and 15, 2021.
 
 
 
@@ -4467,7 +4468,7 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ DISC 2020, International Symposium on Distributed Computing
++ DISC, International Symposium on Distributed Computing
 	- http://www.disc-conference.org/wp/
 	- http://www.disc-conference.org/wp/disc2020/
 	- Freiburg, Germany.
@@ -4482,7 +4483,7 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ DFT 2020, IEEE International Symposium on Defect and Fault Tolerance in VLSI and Nanotechnology Systems
++ DFT, IEEE International Symposium on Defect and Fault Tolerance in VLSI and Nanotechnology Systems
 	- http://www.dfts.org
 	- ESA-ESRIN, Frascati (Rome) Italy.
 	- October 19–21, 2020.
