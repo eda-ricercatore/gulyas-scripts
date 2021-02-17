@@ -9548,16 +9548,147 @@ Qualifications
 	- You have a deep knowledge of ASR (Automatic Speech Recognition) technologies such as acoustic modeling, language modeling, neural networks, HMM, WFST, and feature extraction
 	- You possess hands-on experience in ASR tool kits such as Sphinx, Kaldi, HTK, and Julius
 	- You have experience with deep learning frameworks such as Caffe, TensorFlow, Torch, PyTorch, and MxNet
-
-
-
-
-
-
-
-
-
-
++ Experience with security technologies (SSO, SAML, Okta etc).
++ skill set:
+	- C3.ai, Inc. (NYSE:AI) is a leading provider of Enterprise AI software for accelerating digital transformation. C3 AI delivers a family of fully integrated products: C3 AI® Suite, an end-to-end platform for developing, deploying, and operating large-scale AI applications; C3 AI Applications, a portfolio of industry-specific SaaS AI applications; C3 AI CRM, a suite of industry-specific CRM applications designed for AI and machine learning; and C3 AI Ex Machina, a no-code AI solution to apply data science to everyday business problems. The core of the C3 AI offering is an open, model-driven AI architecture that dramatically simplifies data science and application development. Learn more at: www.c3.ai
+	- We are looking for a seasoned and motivated Software Engineers to build the next generation AI platform scaling to several petabyte level data volumes.
+	- As a member of C3 AI's growing platform team, you will be responsible for the entire software engineering lifecyle, i.e design, document, build, test, maintain. As one of the core teams, this role is integral to the success of the company. A successful candidate will thrive in a fast-paced, highly collaborative environment and demonstrate an ability to execute precisely and quickly. The ideal candidate will have a passion for finding elegant solutions to complex problems.
+	- Role Responsibilities:
+		* Design and develop various features in the next generation C3 AI PaaS AI suite
+		* Design and develop data pipelines that can handle petabyte level data scale and more
+		* Develop core fundamental distibuted system components like distributed stream processing engine, distributed queueing, distributed batch processing, cluster management, etc.
+		* Design and develop abstraction over existing datastores & cloud infrastructure in an innovative way E.g. Key value stores like cassandra / hbase, sql stores like postgres / mysql, file systems like s3 / azure blob store / hdfs, cloud infrastructure like AWS / Azure / GCP
+		* Handle large data infrastructure platform and driving stability through automated monitoring, alerting, and actions.
+		* Work closely with software engineering & product management teams to gather requirements and deliver a top quality product following the agile software development methodology
+	- Minimum Qualifications
+		* BS in Computer Science or related technical field, or equivalent industry experience
+		* 2+ years of relevant experience 
+		* Strong communication and interpersonal skills
+		* Systematic problem-solving approach coupled with a strong sense of ownership and independence
+		* Strong understanding of Computer Science fundamentals ( Algorithms, Data Structures)
+		* Must be proficient in expert level programing in Java or Javascript or Python.
+		* Experience with Aws / Azure / GCP Cloud Platform
+		* Skilled in robust, highly available large-scale, distributed SaaS systems.
+		* Familiarity with Big Data systems like Apache Spark / Hadoop / Distributed Systems
+		* Experience with security technologies (SSO, SAML, Okta etc).
+		* Proactive work ethic - self starter
+	- Preferred Qualifications
+		* Experience with modern container orchestration systems: e.g. Kubernetes, Mesos, DC/OS, Swarm
+		* Experience with building scalable and reliable data pipelines
+		* Experience with integration of data from multiple data sources
++ skill set:
+	- As a Software Engineer on the CI/CD team, you will own the build/release pipeline operation of our production, staging and development systems. You will own and develop our CI/CD tooling and infrastructure, including high-compliance services on AWS/Azure, and help us roll out new services using Kubernetes on AWS/Azure or on-premise. You will lead the way in building tooling and automation to close the feedback gaps in the CI/CD pipeline, develop new integrations with third-party services and monitor the health of our build/deploy infrastructure. You will be responsible for the performance of our test suite and will be instrumental in creating a comfortable development environment for a growing team of software engineers. You will work in close cooperation with the Cloud team to achieve these goals. You will also get the opportunity to learn the fundamentals of distributed computing. You will get to work with infrastructure that handles massive amount of scale running tens of millions of tests per day across thousands of machines.
+	- Requirements:
+		* Bachelor’s degree in Computer Science, Electrical Engineering, or related field.
+		* Software Engineer passionate about infrastructure and scale.
+		* 3+ years of experience in a DevOps/SRE/Build-Release role, preferably using Kubernetes and Jenkins.
+		* Experience with CI/CD principles, architecture and operations.
+		* Experience setting up and working with Jenkins in a containerized environment.
+		* Experience with Docker and container orchestration tools like Kubernetes, AWS ECS/EKS and (Azure) AKS.
+		* Proficiency with a scripting language to develop integrations (Python, Javascript, Groovy).
+		* Rigor in high code quality, automated testing, and other engineering best practices.
+		* Thrive in a fast-paced, dynamic environment and value end-to-end ownership of projects.
+		* Intellectually curious and open to challenges.
+	- Preferred
+		* Advanced degree in engineering, sciences or related field.
+		* 2+ years of experience working with distributed systems.
+		* 2+ years of experience with using and developing technologies like Cassandra, PostgreSQL, RedShift, DynamoDb, Elastic Beanstalk, Docker, and Amazon EMR.
+		* Strong experience with Python, Bash, Jscript and automation tools such as Chef, Puppet, Ansible, etc.
+		* Strong experience with container orchestration technologies such as Kubernetes, Docker Swarm, Mesos.
+		* Proficiency in Linux administration, configuration, and automation tools.
+		* Working knowledge of public Cloud platforms (AWS, Azure, Google Cloud Platform).
+		* Knowledge of performance benchmarking and diagnostic tools.
+		* Solid understanding and usage of observability solutions such as cAdvisor, Prometheus, Dynatrace, Splunk etc.
+		* Experience with Java, Scala.
++ skill set:
+	- Your Responsibilities:
+		* Design and develop the core authentication and authorization system components of the C3 AI Suite
+		* Research and apply identity and certificate management solutions to secure a distributed system deployed on Kubernetes (K8s)
+		* Ensure that our core foundational system components including distributed stream processing engine, distributed queuing, distributed batch processing and cluster management are secure
+		* Enable customers, partners and system integrators to securely integrate our platform into their infrastructure
+		* Shrink the overall attack surface and keep it minimal throughout continuous integration and delivery
+		* Work closely with our information security and operations teams to investigate and mitigate threats
+	- Requirements:
+		* Bachelor’s degree in Computer Science, Electrical Engineering, or related field.
+		* 2+ years of relevant experience
+		* Strong communication and interpersonal skills
+		* Systematic problem-solving approach coupled with a strong sense of ownership and independence
+		* Strong understanding of Computer Science fundamentals
+		* Experience with security in Kubernetes (K8s) and the concept of a service mesh (Istio)
+		* Proficiency with Java Cryptography infrastructure
+		* Expert knowledge of SAML and OAuth authentication / authorization protocols
+		* Proficiency in networking protocols, naming services and network trust
+		* Demonstrated understanding of TLS certificate management
+		* Demonstrated understanding of http protocol security (CORS, XSRF, etc.)
+	- Preferred:
+		* Master’s degree in Computer Science, Electrical Engineering, or related field.
+		* Proficient in Python and JavaScript
++ skill set:
+	- We are looking for a seasoned software engineer to build the next generation AI platform scaling to petabyte level data volumes.
+	- As a member of C3.AI's platform engineering team, you will be responsible for the entire software engineering lifecyle, i.e design, document, build, test, maintain. As one of the core teams, this role is integral to the success of the company. A successful candidate will thrive in a fast-paced, highly collaborative environment and demonstrate an ability to execute precisely and quickly. The ideal candidate will have in-depth experience with Data Science workflows and built scalable machine learning systems.
+		* Build systems and tools that enable data scientists to create machine learning applications using the C3 AI Platform.
+		* Enable scalable, end-to-end machine learning pipelines in a distributed system.
+		* Work with other platform engineering teams to enable streaming, batch, or ad-hoc data analysis.
+		* Collaborate with and support data scientists to understand the utility of the C3.ai Platform and define new requirements.
+		* Define and lead the development of longer-term C3 AI Platform capabilities.
+		* Mentor junior members of the team.
+	- Requirements:
+		* Advanced degree in computer science, math, or similar field.
+		* Excellent programming and algorithmic skills and a taste for DRY code.
+		* In-depth understanding of supervised and unsupervised machine learning algorithms.
+		* Proven track record of applying learning algorithms in a production system.
+		* Strong programming skills in Java, Python and JavaScript.
+		* Demonstrated end-to-end ownership of projects.
+		* Stellar listening and explanation skills.
+		* Thorough knowledge of data structures, algorithms, profiling/optimization, and Object-Oriented and Functional Programming.
+		* A minimum of 3 years of work experience in a fast-paced software company.
++ skill set:
+	- As a Data Scientist, you will participate in the definition of new analytics capabilities able to provide our customers with the information they need to make proper decisions to support our customers in operating the internet of things (IoT). In addition, you will help find the appropriate machine learning / data mining algorithms to answer these questions. Finally, you will be responsible for implementing this into the product and making it available to our customers.
+		* Qualified candidates will have an in-depth knowledge of most common machine learning techniques and their application. You will also understand the limitations of these algorithms and how to tweak them or derive from them to achieve similar results at large-scale.
+	- Your Responsibilities:
+		* Driving adoption of Deep Learning systems into next-generation of C3 AI products.
+		* Designing and deploying Machine Learning algorithms for industrial applications such as fraud detection and predictive maintenance.
+		* Collaborating with data and subject matter experts from C3 AI and its customer teams to seek, understand, validate, interpret, and correctly use new data elements.
+	- Requirements:
+		* MS or PhD in Computer Science, Electrical Engineering, Statistics, or equivalent fields.
+		* Applied Machine Learning experience (regression and classification, supervised, and unsupervised learning). 
+		* Strong mathematical background (linear algebra, calculus, probability and statistics).
+		* Experience with scalable ML (MapReduce, streaming).
+		* Ability to drive a project and work both independently and in a team.
+		* Smart, motivated, can do attitude, and seeks to make a difference.
+		* Excellent verbal and written communication.
+	- Preferred
+		* Experience with JavaScript and prototyping languages such as Python and R. Experience with Java and Scala is a plus.
+		* Knowledge in electrical engineering and cyber-physical systems is a plus.
+		* A portfolio of projects (GitHub, papers, etc.) is a plus.
++ Strong understanding of machine learning algorithms & principles (regression analysis, time series, probabilistic models, supervised classification and unsupervised learning), and their application
++ skill set:
+	- worked within standard GitOps workflow
+		* branch and merge
+		* pull requests or PRs
+		* CI/CD systems
+	- DevOps via CI/CD and Docker+K8S
+	- scalable data pipelines
+	- infrastructure configuration
+		* IaC, such as Terraform
+		* cluster parameter tuning
+		* service parameter tuning
+	- data discovery tooling
+		* Amundsen
+		* Atlas
+	- determine optimal caching strategies and eviction policies
+	- approximation algorithms for high-use statistics of interest, such as approximate nearest neighbor
+	- determine approximate relaxations to deterministic compute where appropriate and leverage probabilistics data structures, such as bloom filters and count min sketch
++ data science modeling frameworks
+	- statsmodels
+	- scikit-learn
+	- XGBoost
++ personalized data pipelines/models using tools like:
+	- Hive
+	- Airflow
+	- Kafka
+	- Spark
++ architect highly scalable microservices
 
 
 

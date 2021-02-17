@@ -743,7 +743,7 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ ICRC, IEEE International Conference on Rebooting Computing
++ ***ICRC, IEEE International Conference on Rebooting Computing***
 	- http://icrc.ieee.org/cfp/
 	- San Francisco Bay Area, California.
 	- ~~November 6-8, 2019.~~
@@ -789,13 +789,15 @@ List of conference "Call for Papers" deadlines:
 + UbiComp, ACM International Joint Conference on Pervasive and Ubiquitous Computing
 	- https://ubicomp.hosting.acm.org/ubicomp2021/
 	- ~~http://ubicomp.org/ubicomp2020/~~
-	- Cancún, México
-	- September 12-16, 2020
+	- Virtual conference.
+	- ~~Cancún, México~~.
+	- September 12-17, 2020.
 	- Submission deadlines:
 		* 1st round: August 15, 2019
 		* 2nd round: November 15, 2019
 		* 3rd round: February 15, 2020
 		* ***4th round: May 15, 2020***
+
 
 
 
@@ -902,28 +904,37 @@ List of conference "Call for Papers" deadlines:
 + SYNTCOMP, Reactive Synthesis Competition
 	- http://www.syntcomp.org/schedule/
 	- http://www.syntcomp.org/
+	- http://www.syntcomp.org/news/
 	- Deadlines: Late May or June till mid-July.
+		* Submission deadline for 2021 is: June 1, 2021.
+		* "Your solver will be included in SYNTCOMP 2021 if it is correctly uploaded (i.e. passes a test run) into StarExec by June 1, 2021."
+		* "New benchmarks can be included in SYNTCOMP 2021 if they are correctly uploaded (as an issue) to the SYNTCOMP benchmark repository into StarExec by June 1, 2021."
 		* Submission deadline for 2020 is: June 1, 2020.
 
 
 
-+ HPEC, IEEE High Performance Extreme Computing Conference
++ *HPEC, IEEE High Performance Extreme Computing Conference*
 	- http://ieee-hpec.org
 	- http://www.ieee-hpec.org/cfp.htm
 	- Virtual conference.
 	- ~~Waltham, MA~~
 	- September 21-23, 2021.
-	- Submission deadline: ~~May 22, 2020~~ July 9, 2021.
+	- Submission deadline:
+		* ***July 9, 2021***.
+		* ~~May 22, 2020~~.
 
 
 
 
-+ ICCAD, International Conference On Computer Aided Design
++ ***ICCAD, International Conference On Computer Aided Design***
 	- https://iccad.com/
-	- [CFP](https://iccad.com/2020_call_for_papers)
-	- San Diego, CA.
-	- November 2-5, 2020.
-	- Submission deadline: May 21 and 28, 2020.
+	- [CFP](https://iccad.com/paper.php)
+	- Munich, Germany.
+	- ~~San Diego, CA~~.
+	- November 1-4, 2021.
+	- Submission deadline:
+		* ***May 21 and 28, 2021***.
+		* Usually in early April, prior to 2020.
 
 
 
@@ -936,12 +947,14 @@ List of conference "Call for Papers" deadlines:
 	- Virtual/Online.
 	- ~~November 3-5, 2019~~
 	- October 27-29, 2020.
-	- Submission deadline: ***~~May 24 and 31, 2019~~???*** ~~July 27, 2020~~ August 10, 2020.
+	- Submission deadline:
+		* ~~July 27, 2020~~ August 10, 2020.
+		* ***~~May 24 and 31, 2019~~???***
 
 
 
 
-+ RuleML+RR 2020, 4th International Joint Conference on Rules and Reasoning
++ RuleML+RR, International Joint Conference on Rules and Reasoning
 	- https://2020.declarativeai.net/events/ruleml-rr
 	- ~~http://2019.ruleml-rr.org~~
 	- Focus: Explainable algorithmic decision-making.
@@ -969,7 +982,7 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ MASCOTS 2020, 27th IEEE International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems
++ MASCOTS, IEEE International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems
 	- http://mascots.iitis.pl/
 	- https://easychair.org/cfp/MASCOTS2020
 	- http://mascots.iitis.pl/?page_id=251
@@ -985,7 +998,7 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ TCC, 18th Theory of Cryptography Conference
++ TCC, Theory of Cryptography Conference
 	- https://tcc.iacr.org/2020/
 	- https://www.iacr.org/workshops/tcc/
 	- Nuremberg, Germany
@@ -995,17 +1008,21 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ RTSS 2020, 41st IEEE Real-Time Systems Symposium
-	- http://2020.rtss.org/
-	- Virtual/Online, originally to be held in Houston, TX.
++ RTSS, IEEE Real-Time Systems Symposium
+	- http://2021.rtss.org/
+	- Taipei, Taiwan.
+	- ~~Virtual/Online, originally to be held in Houston, TX~~.
 	- ~~Hong Kong, China~~
-	- December 1-4, 2020.
-	- Submission deadline: ~~May 28, 2020~~ July 2, 2020.
+	- December 7-10, 2021.
+	- ~~December 1-4, 2020~~.
+	- Submission deadline:
+		* May 27, 2021, AoE.
+		* ~~May 28, 2020~~ ~~July 2, 2020 (for RTSS 2020)~~.
 
 
 
 
-+ MEMOCODE 2020, 18th ACM-IEEE International Conference on Formal Methods and Models for System Design
++ MEMOCODE, ACM-IEEE International Conference on Formal Methods and Models for System Design
 	- https://iitjammu.ac.in/conferences/memocode2020/
 	- https://iitjammu.ac.in/conferences/memocode2020/callforpapers.html
 	- ~~https://memocode.github.io/2019/~~
@@ -1067,6 +1084,29 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ S&P, IEEE Symposium on Security and Privacy
+	- http://www.ieee-security.org/TC/SP2021/
+	- http://www.ieee-security.org/TC/SP2021/cfpapers.html
+	- May 23-27, 2021.
+	- ~~May 18-20, 2020~~.
+	- Virtual conference.
+	- ~~San Francisco, CA~~.
+	- "A rolling deadline occurs on the 1st of each month, at 3:00 PM (UTC-7, i.e., PDT). This deadline is strict and no extensions will be granted."
+	- "All papers accepted by February 1st, 2020, or that are submitted as a revision by February 1st, 2020 and the revision is then accepted, will be included in the proceedings of the symposium in May, 2020 and invited to present their work. Other papers will be included in the 2021 proceedings."
+	- Submission deadlines:
+		* Spring Quarter Deadline: March 5, 2020.
+		* ***Summer Quarter Deadline: June 4, 2020***.
+		* Fall Quarter Deadline: September 3, 2020.
+		* Winter Quarter Deadline: December 3, 2020.
+		* "All deadlines are 23:59:59 AoE (UTC-12)."
+		* ~~Rolling (Final deadline: Submit by December 1, 2019).~~
+
+
+
+
+
+
+
 
 
 
@@ -1080,24 +1120,29 @@ List of conference "Call for Papers" deadlines:
 		* Paper artifacts: ~~August 26 and 30, 2019~~ August 24 and September 1, 2020.
 
 
-+ ICDE 2020, 36th IEEE International Conference on Data Engineering
++ ICDE, IEEE International Conference on Data Engineering
 	- https://www.utdallas.edu/icde/call.html
-	- https://www.utdallas.edu/icde/
+	- https://icde2021.gr/important-dates/
 	- April 20-24, 2019
 	- Dallas, TX
 	- Submission deadlines:
-		* June 8 and 15, 2019
-		* October 8 and 15, 2019
+		* Round 1: June 10 and 17, 2020.
+		* ~~Round 1: June 8 and 15, 2019~~.
+		* Round 2: October 7 and 14, 2020.
+		* ~~Round 2: October 8 and 15, 2019~~.
 
 
 
 
 
 + BioCAS, IEEE Biomedical Circuits and Systems Conference
-	- https://2020.ieee-biocas.org/
+	- https://2021.ieee-biocas.org/
 	- Berlin, Germany.
-	- October 15-17, 2020.
-	- Submission deadline: June 8, 2020.
+	- October 7-9, 2021.
+	- ~~October 15-17, 2020~~.
+	- Submission deadline:
+		* May 31, 2021.
+		* ~~June 8, 2020~~.
 
 
 
@@ -1117,7 +1162,9 @@ List of conference "Call for Papers" deadlines:
 	- https://www.esweek.org/rsp-about
 	- Hamburg, Germany.
 	- Formerly, International Symposium on Rapid System Prototyping
-	- Submission deadline: ***~~June 11 and 18, 2019.~~???***
+	- Submission deadline:
+		* July 3, 2020
+		* ***~~June 11 and 18, 2019.~~???***
 
 
 
@@ -1129,12 +1176,16 @@ List of conference "Call for Papers" deadlines:
 	- September 24-27, 2019.
 	- Submission deadline: June 14, 2019.
 
-+ BuildSys 2019, ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation
-	- http://buildsys.acm.org/2019/
++ BuildSys, ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation
+	- http://buildsys.acm.org/2020/
 	- http://buildsys.acm.org/
-	- November 13-14, 2019
-	- New York, NY
-	- Submission deadline: ~~June 15 and 22, 2019~~ June 15 and 29, 2019
+	- https://energy.acm.org/buildsys-conference/
+	- November 19-20, 2020.
+	- ~~November 13-14, 2019~~.
+	- Yokohama, Japan.
+	- Submission deadline:
+		* July 17 and 24, 2020 AoE.
+		* ~~June 15 and 22, 2019~~ ~~June 15 and 29, 2019 (for 2019)~~
 
 
 
@@ -1163,11 +1214,12 @@ List of conference "Call for Papers" deadlines:
 
 
 + IEEE Sensors, IEEE Conference on Sensors
-	- https://2020.ieee-sensorsconference.org/
-	- https://2020.ieee-sensorsconference.org/pages/call-papers
-	- WTC, Rotterdam, The Netherlands.
-	- October 25-28, 2020.
-	- Submission deadline: June 18, 2020.
+	- https://2021.ieee-sensorsconference.org/
+	- Sydney, Australia.
+	- October 31 - November 3, 2021.
+	- ~~October 25-28, 2020~~.
+	- Submission deadline:
+		* June 18, 2021.
 
 
 
@@ -1191,7 +1243,9 @@ List of conference "Call for Papers" deadlines:
 	- https://www.iccd-conf.com/Home.html
 	- Hartford, Connecticut.
 	- October 18 - 21, 2020.
-	- Submission deadline: ***~~June 21 and 28, 2019~~???***.
+	- Submission deadline:
+		* ~~May 29 and June 5, 2020~~ June 12, 2020, 23:59 AoE.
+		* ***~~June 21 and 28, 2019~~???***.
 
 
 
@@ -1203,12 +1257,20 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ DataMod 2019, 8th International Symposium on "From Data to Models and Back"
-	- Part of the 3rd World Congress on Formal Methods
-	- http://pages.di.unipi.it/datamod/edition-2019/
-	- October 7-8, 2019
-	- Porto, Portugal
-	- Submission deadline: June 24 and 30, 2019 (extended)
+
+
+
++ DataMod, International Symposium on "From Data to Models and Back"
+	- https://datamod2020.github.io/
+	- ~~Part of the 3rd World Congress on Formal Methods~~
+	- ~~http://pages.di.unipi.it/datamod/edition-2019/~~
+	- October 20, 2020.
+	- ~~October 7-8, 2019~~
+	- Virtual conference.
+	- ~~Porto, Portugal~~
+	- Submission deadline:
+		* ~~August 14 and 21, 2020~~ August 14 and 28, 2020.
+		* ~~June 24 and 30, 2019 (extended)~~
 
 
 
@@ -1219,11 +1281,31 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ LOPSTR 2019, 29th International Symposium on Logic-Based Program Synthesis and Transformation
-	- http://www.cs.unibo.it/projects/lopstr19/
-	- Porto, Portugal
-	- October 8-10, 2019
-	- Submission deadline: June 25 and 30, 2019.
++ LOPSTR, International Symposium on Logic-Based Program Synthesis and Transformation
+	- https://nms.kcl.ac.uk/maribel.fernandez/LOPSTR2020/
+	- ~~http://www.cs.unibo.it/projects/lopstr19/~~
+	- Bologna, Italy.
+	- ~~Porto, Portugal~~
+	- September 7-9, 2020.
+	- ~~October 8-10, 2019~~
+	- Submission deadline:
+		* June 19, 2020.
+		* ~~June 25 and 30, 2019~~.
+
+
+
+
++ SC, International Conference for High Performance Computing, Networking, Storage, and Analysis
+	- https://sc21.supercomputing.org/
+	- https://sc21.supercomputing.org/all-dates-deadlines/
+	- https://sc21.supercomputing.org/submit/submission-deadlines/
+	- https://sc21.supercomputing.org/submit/
+	- St. Louis, MO.
+	- Submission deadline:
+		* ***student volunteers, or SCinet volunteer applications: March 1 - June 28, 2021***.
+		* Papers: April 2 and 9, 2021.
+		* student cluster competition, SCC: February 8 - April 23, 2021.
+		* ACM Student Research Competition (SRC): August 6, 2021.
 
 
 
@@ -1255,17 +1337,18 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ ISAAC 2019, 30th International Symposium on Algorithms and Computation
-	- http://itcs.shufe.edu.cn/isaac2019/
-	- Shanghai, China
-	- December 9-11, 2019
-	- Submission deadline: June 30, 2019
++ ISAAC, International Symposium on Algorithms and Computation
+	- https://algo2020.comp.polyu.edu.hk/isaac-cfp.html
+	- Hong Kong.
+	- December 14-18, 2020.
+	- ~~December 9-11, 2019~~
+	- Submission deadline: June 29, 2020, AoE.
 
 
 
 
 
-+ PDCAT 2019, 20th International Conference on Parallel and Distributed Computing, Applications and Technologies
++ PDCAT, International Conference on Parallel and Distributed Computing, Applications and Technologies
 	- https://www.pdcat.org/
 	- Surfers Paradise, QLD, Australia (i.e., Gold Coast, Australia)
 	- Submission deadline: ~~July 1, 2019~~ July 29, 2019 (extended)
@@ -1275,19 +1358,25 @@ List of conference "Call for Papers" deadlines:
 
 
 + ASP-DAC, Asia and South Pacific Design Automation Conference
-	- https://aspdac2020.github.io/aspdac20/
-	- Beijing, China.
-	- Jan 13-16,2020.
-	- Submission deadline: July 5, 2019.
+	- http://www.aspdac.com/aspdac2021/cfp/
+	- http://www.aspdac.com/aspdac2021/
+	- Tokyo Odaiba Waterfront, Japan.
+	- Jan 18-21, 2021.
+	- Submission deadline:
+		* July 26, 2020, 17:00 hrs AoE.
+		* ~~July 5, 2019~~.
 
 
 
 
-+ SODA20, ACM-SIAM Symposium on Discrete Algorithms
-	- https://www.siam.org/conferences/cm/conference/soda20
-	- January 5-8, 2020
-	- Salt Lake City, Utah
-	- Submission deadlines: July 5 and 9, 2019.
++ SODA, ACM-SIAM Symposium on Discrete Algorithms
+	- https://www.siam.org/conferences/cm/conference/soda21
+	- January 10-13, 2021.
+	- ~~January 5-8, 2020~~
+	- Alexandria, VA.
+	- Submission deadlines:
+		* July 13 and 15, 2020.
+		* ~~July 5 and 9, 2019~~.
 
 
 
@@ -1296,21 +1385,27 @@ List of conference "Call for Papers" deadlines:
 
 
 + POPL, ACM SIGPLAN Symposium on Principles of Programming Languages
-	- https://popl20.sigplan.org/
-	- https://popl20.sigplan.org/track/POPL-2020-Research-Papers#POPL-2020-Call-for-Papers
+	- https://popl21.sigplan.org/
+	- https://popl21.sigplan.org/track/POPL-2021-research-papers#POPL-2021-Call-for-Papers
 	- http://www.sigplan.org/Conferences/POPL/
-	- New Orleans, Louisiana.
-	- Submission deadline: July 10, 2019.
+	- Virtual conference.
+	- January 17-22, 2021.
+	- Submission deadline: July 9, 2020.
 
 
 
 
 
-+ ICDCN 2020, 21st International Conference on Distributed Computing and Networking
-	- https://www.icdcn2020.com/
-	- January 4-7, 2020
-	- Kolkata, India.
-	- Submission deadline: July 12 and 26, 2019.
++ ICDCN, International Conference on Distributed Computing and Networking
+	- http://www.icdcn2021.net/cfp.html.
+	- http://www.icdcn2021.net/.
+	- January 5-8, 2021.
+	- Virtual conference.
+	- Submission deadline:
+		* July 24 and 31, 2020 (extended).
+		* ~~July 10 and 17, 2020 (extended)~~.
+		* ~~June 26 and July 3, 2020~~.
+		* ~~July 12 and 26, 2019~~.
 
 
 
@@ -1333,26 +1428,28 @@ List of conference "Call for Papers" deadlines:
 
 
 + ICPADS, International Conference on Parallel and Distributed Systems
-	- http://www.icpads2019.cn/call_for_papers.html
-	- VENUE
-	- DATES
-	- Submission deadline: Mid-/Late July, 2020.
+	- https://icpads2020.comp.polyu.edu.hk/.
+	- Hong Kong.
+	- December 2-4, 2020.
+	- Submission deadline:
+		* July 31, 2020.
+		* ~~July 15, 2020~~.
 
 
 
 
-+ CHES 2020, Conference on Cryptographic Hardware and Embedded Systems
++ CHES, Conference on Cryptographic Hardware and Embedded Systems
 	- https://ches.iacr.org/
-	- https://ches.iacr.org/2020/
+	- https://ches.iacr.org/2021/callforpapers.php
 	- Beijing, China
 		* Possible venue change due to the spread of the coronavirus/COVID-19 virus infections.
-	- September 14-17, 2020
+	- September 12-15, 2021.
 	- IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES)
 	- Submission deadlines:
-		* ***1st round: July 15, 2019***
-		* 2nd round: October 15, 2019
-		* 3rd round: January 15, 2019
-		* 4th round: April 15, 2019
+		* ***1st round: July 15, 2020***
+		* 2nd round: October 15, 2020
+		* 3rd round: January 15, 2020
+		* 4th round: April 15, 2021
 
 
 
@@ -1361,23 +1458,28 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ FPT 1X, International Conference on Field-Programmable Technology
-	- http://fpt19.tju.edu.cn/index.htm
++ FPT, International Conference on Field-Programmable Technology
+	- https://parallel.auckland.ac.nz/fpt21/
 	- http://www.icfpt.org/
-	- December 9-13, 2019
-	- Tianjin, China.
+	- December 6-10, 2021.
+	- Auckland, New Zealand.
 	- *FPT is the premier conference in the Asia-Pacific region on field-programmable technologies, reconfigurable computing devices and systems.*
-	- Submission deadline: July 15 and 22, 2019.
+	- Submission deadline: July 12 and 19, 2019, 23:59, AoE.
 
 
 
 
 + IEEE INFOCOM, IEEE International Conference on Computer Communications
-	- https://infocom2020.ieee-infocom.org/
-	- https://infocom2020.ieee-infocom.org/call-papers-main-conference
-	- April 27-30, 2020
-	- Beijing, China
-	- Submission deadlines: July 24-31, 2019
+	- https://infocom2021.ieee-infocom.org/
+	- https://infocom2021.ieee-infocom.org/authors/call-papers-main-conference
+	- https://infocom2021.ieee-infocom.org/authors/paper-submission-instructions-main-conference
+	- May 10-13, 2021.
+	- Virtual conference.
+	- ~~April 27-30, 2020~~.
+	- ~~Beijing, China.~~
+	- Submission deadlines:
+		* August 8 and 15, 2020.
+		* ~~July 24-31, 2019~~.
 
 
 
@@ -1387,11 +1489,12 @@ List of conference "Call for Papers" deadlines:
 
 
 + HPCA, IEEE International Symposium on High-Performance Computer Architecture
-	- https://www.hpca-conf.org/2020/
-	- https://www.hpca-conf.org/2020/calls/
-	- San Diego, CA.
-	- February 2020.
-	- Submission deadline: July 30 and August 6, 2019.
+	- https://hpca-conf.org/2021/
+	- https://hpca-conf.org/2021/call-for-papers/
+	- Seoul, South Korea.
+	- ~~San Diego, CA~~.
+	- February 27 - March 3, 2021.
+	- Submission deadline: July 24 and 31, 2020.
 
 
 
@@ -1399,13 +1502,17 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ PEMWN2019, 8th IFIP/IEEE International Conference on Performance Evaluation and Modeling in Wired and Wireless Networks
-	- https://sites.google.com/view/pemwn2019/
-	- https://sites.google.com/view/pemwn2019/call-for-papers?authuser=0
-	- https://sites.google.com/view/pemwn2019/important-dates?authuser=0
-	- November 26-28, 2019
-	- Paris, France
-	- Submission deadline: July 30, 2019.
++ PEMWN, IFIP/IEEE International Conference on Performance Evaluation and Modeling in Wired and Wireless Networks
+	- https://sites.google.com/view/pemwn2020/home
+	- https://sites.google.com/view/pemwn2020/call-for-papers?authuser=0
+	- https://sites.google.com/view/pemwn2020/important-dates?authuser=0
+	- December 1-3, 2020.
+	- ~~November 26-28, 2019~~
+	- Virtual conference.
+	- ~~Berlin, Germany~~.
+	- Submission deadline:
+		* October 18, 2020.
+		* ~~July 30, 2019~~.
 
 
 
@@ -1415,10 +1522,14 @@ List of conference "Call for Papers" deadlines:
 
 
 + PPoPP, Symposium on Principles and Practice of Parallel Programming
-	- https://ppopp20.sigplan.org/track/PPoPP-2020-papers
-	- San Diego, CA.
-	- February 22-26, 2020
-	- Submission deadline: July 31 and Aug 6, 2019.
+	- https://ppopp21.sigplan.org/
+	- Virtual conferences.
+	- ~~San Diego, CA~~.
+	- February 27 - March 3, 2021.
+	- ~~February 22-26, 2020~~
+	- Submission deadline:
+		* August 6 and 13, 2020.
+		* ~~July 31 and Aug 6, 2019~~.
 
 
 
@@ -1427,14 +1538,23 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ SIGMETRICS 2020, ACM SIGMETRICS
-	- https://www.sigmetrics.org/sigmetrics2020/call_for_papers.html
-	- Boston, MA.
-	- June 8-12, 2020.
++ SIGMETRICS, ACM SIGMETRICS
+	- https://www.sigmetrics.org/sigmetrics2021/
+	- https://www.sigmetrics.org/sigmetrics2021/call_for_papers.html
+	- Virtual conference.
+	- ~~Beijing, China.~~
+	- ~~Boston, MA~~.
+	- June 14-18, 2021.
+	- ~~June 8-12, 2020~~.
 	- http://portal.core.edu.au/conf-ranks/39/
-	- ***Submission deadline (For Summer submissions): August 1 and 8, 2019.***
-	- Submission deadline (For Fall submissions): October 14 and 21, 2019.
-	- Submission deadline (For Winter submissions): January 27 and February 3, 2020.
+	- ***Submission deadline (For Summer submissions)***:
+		* July 31 and August 7, 2020.
+	- Submission deadline (For Fall submissions):
+		* October 16 and 23, 2020.
+		* ~~October 14 and 21, 2019~~.
+	- Submission deadline (For Winter submissions):
+		* January 29 and February 5, 2021.
+		* ~~January 27 and February 3, 2020~~.
 
 
 
@@ -1444,26 +1564,17 @@ List of conference "Call for Papers" deadlines:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-+ SC19, International Conference for High Performance Computing, Networking, Storage, and Analysis
-	- https://sc19.supercomputing.org/important-deadlines/
-	- Denver, CO
-	- Submission deadline: August 7, 2019.
++ SC, International Conference for High Performance Computing, Networking, Storage, and Analysis
+	- https://sc21.supercomputing.org/
+	- https://sc21.supercomputing.org/all-dates-deadlines/
+	- https://sc21.supercomputing.org/submit/submission-deadlines/
+	- https://sc21.supercomputing.org/submit/
+	- St. Louis, MO.
+	- Submission deadline:
+		* student volunteers, or SCinet volunteer applications: March 1 - June 28, 2021.
+		* Papers: April 2 and 9, 2021.
+		* student cluster competition, SCC: February 8 - April 23, 2021.
+		* ***ACM Student Research Competition (SRC): August 6, 2021***.
 
 
 
@@ -1472,50 +1583,49 @@ List of conference "Call for Papers" deadlines:
 + ASPLOS, International Conference on Architectural Support for Programming Languages and Operating Systems
 	- https://asplos-conference.org
 	- https://asplos-conference.org/calls/
-	- March 16-20, 2020.
-	- Lausanne, Switzerland.
-	- Submission deadline: August 9 and 16, 2019.
-	- ***Go to ASPLOS***
+	- Virtual conference.
+	- ~~Lausanne, Switzerland~~.
+	- April 19-23, 2021.
+	- ~~March 16-20, 2020~~.
+	- Submission deadline: August 14 and 21, 2020.
 	- ASPLOS is co-sponsored by SIGPLAN, SIGARCH, and SIGOPS
 
 
 
 
 
-+ ALENEX20, SIAM Symposium on Algorithm Engineering and Experiments
-	- https://www.siam.org/conferences/cm/submissions-and-deadlines/alenex20-submissions-deadlines
-	- January 5-6, 2020
-	- Salt Lake City, Utah
-	- Submission deadline: August 9 and 16, 2019.
++ ALENEX, SIAM Symposium on Algorithm Engineering and Experiments
+	- https://www.siam.org/conferences/cm/conference/alenex21
+	- https://www.siam.org/conferences/cm/submissions-and-deadlines/alenex21-submissions-deadlines
+	- January 10-11, 2021.
+	- ~~January 5-6, 2020~~.
+	- Virtual conference.
+	- ~~Alexandria, VA~~.
+	- Submission deadline:
+		* August 12 and 19, 2019.
+		* ~~August 9 and 16, 2019~~.
 
-+ SOSA20, SIAM Symposium on Simplicity in Algorithms
-	- https://www.siam.org/conferences/cm/conference/sosa20
-	- January 6-7, 2020
-	- Salt Lake City, Utah
-	- Submission deadline: August 9 and 16, 2019.
++ SOSA, SIAM Symposium on Simplicity in Algorithms
+	- https://www.siam.org/conferences/cm/conference/sosa21
+	- https://www.siam.org/conferences/cm/submissions-and-deadlines/sosa21-submissions-deadlines
+	- January 10-11, 2021.
+	- ~~January 6-7, 2020~~.
+	- Virtual conference.
+	- ~~Alexandria, VA~~.
+	- Submission deadline:
+		* August 12 and 19, 2020.
+		* ~~August 9 and 16, 2019~~.
 
-+ APOCS20, SIAM Symposium on Algorithmic Principles of Computer Systems
-	- https://www.siam.org/conferences/cm/submissions-and-deadlines/apocs20-submissions-deadlines
-	- January 8, 2020
-	- Salt Lake City, Utah
-	- Submission deadline: August 9 and 16, 2019.
-
-
-
-
-
-
-
-
-
-+ MobiCom 2020, 26th Annual International Conference on Mobile Computing and Networking
-	- https://sigmobile.org/mobicom/2020/
-	- September 21-25, 2019
-	- London, United Kingdom
-	- Submission deadlines: August 14 and 18, 2019.
-
-
-
++ APOCS, SIAM Symposium on Algorithmic Principles of Computer Systems
+	- https://www.siam.org/conferences/cm/conference/apocs21
+	- https://www.siam.org/conferences/cm/submissions-and-deadlines/apocs21-submissions-deadlines
+	- January 13, 2021.
+	- ~~January 8, 2020~~.
+	- Virtual conference.
+	- ~~Alexandria, VA~~.
+	- Submission deadline:
+		* August 12 and 19, 2020.
+		* ~~August 9 and 16, 2019~~.
 
 
 
@@ -1523,11 +1633,35 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ UbiComp 2020, 2020 ACM International Joint Conference on Pervasive and Ubiquitous Computing
-	- http://ubicomp.org/ubicomp2020/
-	- http://ubicomp.org/ubicomp2020/cfp/papers.html
-	- Cancún, México
-	- September 12-16, 2020
+
+
++ MobiCom, Annual International Conference on Mobile Computing and Networking
+	- Also, described in the 2021 Web page on February 12, 2021 as: ACM/IEEE Conference on Information Processing in Sensor Networks.
+	- https://www.sigmobile.org/mobicom/2021/
+	- https://www.sigmobile.org/mobicom/2021/cfp.html
+	- October 25-29, 2021.
+	- ~~September 21-25, 2019~~.
+	- New Orleans, LA.
+	- Submission deadlines:
+		* ***Summer: August 14 and 21, 2020***.
+		* Winter: March 19 and 26, 2021.
+		* ~~August 14 and 18, 2019~~.
+
+
+
+
+
+
+
+
+
+
++ UbiComp, ACM International Joint Conference on Pervasive and Ubiquitous Computing
+	- https://ubicomp.hosting.acm.org/ubicomp2021/
+	- ~~http://ubicomp.org/ubicomp2020/~~
+	- Virtual conference.
+	- ~~Cancún, México~~.
+	- September 12-17, 2020.
 	- Submission deadlines:
 		* ***1st round: August 15, 2019***
 		* 2nd round: November 15, 2019
@@ -1536,12 +1670,8 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ HOST, IEEE International Symposium on Hardware-Oriented Security and Trust
-	- http://www.hostsymposium.org/call-for-paper.php
-	- https://host2020.hotcrp.com/
-	- San Jose, CA.
-	- May 4-8, 2020.
-	- Submission deadline: ***August 15, 2019 (round \#1)*** and November 15, 2019 (round \#2).
+
+
 
 
 
@@ -1723,7 +1853,22 @@ List of conference "Call for Papers" deadlines:
 
 
 
-
++ S&P, IEEE Symposium on Security and Privacy
+	- http://www.ieee-security.org/TC/SP2021/
+	- http://www.ieee-security.org/TC/SP2021/cfpapers.html
+	- May 23-27, 2021.
+	- ~~May 18-20, 2020~~.
+	- Virtual conference.
+	- ~~San Francisco, CA~~.
+	- "A rolling deadline occurs on the 1st of each month, at 3:00 PM (UTC-7, i.e., PDT). This deadline is strict and no extensions will be granted."
+	- "All papers accepted by February 1st, 2020, or that are submitted as a revision by February 1st, 2020 and the revision is then accepted, will be included in the proceedings of the symposium in May, 2020 and invited to present their work. Other papers will be included in the 2021 proceedings."
+	- Submission deadlines:
+		* Spring Quarter Deadline: March 5, 2020.
+		* Summer Quarter Deadline: June 4, 2020.
+		* ***Fall Quarter Deadline: September 3, 2020***.
+		* Winter Quarter Deadline: December 3, 2020.
+		* "All deadlines are 23:59:59 AoE (UTC-12)."
+		* ~~Rolling (Final deadline: Submit by December 1, 2019).~~
 
 
 
@@ -2022,15 +2167,18 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ CSF, 33rd IEEE Computer Security Foundations Symposium
-	- https://www.ieee-security.org/TC/CSF2020/
++ CSF, IEEE Computer Security Foundations Symposium
+	- http://www.ieee-security.org/TC/CSF2021/
 	- http://www.ieee-security.org/CSFWweb/
-	- June 22-26, 2020
-	- Boston, MA
+	- June 21-25, 2021.
+	- Virtual Conference.
+	- ~~Boston, MA~~
 	- Submission deadlines:
-		* 1st round: October 4, 2019
-		* 2nd round: February 7, 2020
-
+		* Spring cycle: May 8, 2020.
+		* ***Fall cycle: October 2, 2020***.
+		* Winter cycle: February 8, 2020.
+		* Spring cycle (for CSF 2022): early May, 2021.
+		* AoE (UTC-12h).
 
 
 
@@ -2091,14 +2239,24 @@ List of conference "Call for Papers" deadlines:
 	- Submission deadline: October 11, 2019.
 
 
-+ SIGMETRICS 2020, ACM SIGMETRICS
-	- https://www.sigmetrics.org/sigmetrics2020/call_for_papers.html
-	- Boston, MA.
-	- June 8-12, 2020.
++ SIGMETRICS, ACM SIGMETRICS
+	- https://www.sigmetrics.org/sigmetrics2021/
+	- https://www.sigmetrics.org/sigmetrics2021/call_for_papers.html
+	- Virtual conference.
+	- ~~Beijing, China.~~
+	- ~~Boston, MA~~.
+	- June 14-18, 2021.
+	- ~~June 8-12, 2020~~.
 	- http://portal.core.edu.au/conf-ranks/39/
-	- Submission deadline (For Summer submissions): August 1 and 8, 2019.
-	- ***Submission deadline (For Fall submissions): October 14 and 21, 2019.***
-	- Submission deadline (For Winter submissions): January 27 and February 3, 2020.
+	- Submission deadline (For Summer submissions):
+		* July 31 and August 7, 2020.
+	- ***Submission deadline (For Fall submissions)***:
+		* October 16 and 23, 2020.
+		* ~~October 14 and 21, 2019~~.
+	- Submission deadline (For Winter submissions):
+		* January 29 and February 5, 2021.
+		* ~~January 27 and February 3, 2020~~.
+
 
 
 + ICC, 54th IEEE International Conference on Communications
@@ -2113,18 +2271,17 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ CHES 2020, Conference on Cryptographic Hardware and Embedded Systems
-	- https://ches.iacr.org/
-	- https://ches.iacr.org/2020/
-		* Possible venue change due to the spread of the coronavirus/COVID-19 virus infections.
++ CHES, Conference on Cryptographic Hardware and Embedded Systems
+	- https://ches.iacr.org/2021/callforpapers.php
 	- Beijing, China
-	- September 14-17, 2020
+		* Possible venue change due to the spread of the coronavirus/COVID-19 virus infections.
+	- September 12-15, 2021.
 	- IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES)
 	- Submission deadlines:
-		* 1st round: July 15, 2019
-		* ***2nd round: October 15, 2019***
-		* 3rd round: January 15, 2019
-		* 4th round: April 15, 2019
+		* 1st round: July 15, 2020
+		* ***2nd round: October 15, 2020***
+		* 3rd round: January 15, 2020
+		* 4th round: April 15, 2020
 
 
 
@@ -2146,6 +2303,16 @@ List of conference "Call for Papers" deadlines:
 	- https://iscas2020.org/
 	- Seville, Spain.
 	- Submission deadline: October 20, 2019.
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2272,6 +2439,13 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ IEEE INERTIAL, IEEE International Symposium on Inertial Sensors and Systems
+	- https://2021.ieee-inertial.org/.
+	- Virtual Conference.
+	- March 22-25, 2021.
+	- Submission deadline:
+		* October 25, 2020.
+
 
 
 
@@ -2364,12 +2538,6 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ HOST, IEEE International Symposium on Hardware-Oriented Security and Trust
-	- http://www.hostsymposium.org/call-for-paper.php
-	- https://host2020.hotcrp.com/
-	- San Jose, CA.
-	- May 4-8, 2020.
-	- Submission deadline: August 15, 2019 (round \#1) and ***November 15, 2019 (round \#2)***.
 
 
 
@@ -2409,17 +2577,17 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ UbiComp 2020, 2020 ACM International Joint Conference on Pervasive and Ubiquitous Computing
-	- http://ubicomp.org/ubicomp2020/
-	- http://ubicomp.org/ubicomp2020/cfp/papers.html
-	- Cancún, México
-	- September 12-16, 2020
++ UbiComp, ACM International Joint Conference on Pervasive and Ubiquitous Computing
+	- https://ubicomp.hosting.acm.org/ubicomp2021/
+	- ~~http://ubicomp.org/ubicomp2020/~~
+	- Virtual conference.
+	- ~~Cancún, México~~.
+	- September 12-17, 2020.
 	- Submission deadlines:
 		* 1st round: August 15, 2019
 		* ***2nd round: November 15, 2019***
 		* 3rd round: February 15, 2020
 		* 4th round: May 15, 2020
-
 
 
 
@@ -2449,11 +2617,16 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ EuroS&P, 5th IEEE European Symposium on Security and Privacy
-	- http://www.ieee-security.org/TC/EuroSP2020/
-	- June 16-18, 2020
-	- Genova, Italy
-	- Submission deadline: November 20, 2019
++ EuroS&P, IEEE European Symposium on Security and Privacy
+	- http://www.ieee-security.org/TC/EuroSP2021/
+	- http://www.ieee-security.org/TC/EuroSP2021/cfp.html
+	- September 7-11, 2021.
+	- ~~June 16-18, 2020~~
+	- Vienna, Austria.
+	- Submission deadline:
+		* November 5, 2020.
+		* ~~November 20, 2019~~
+		* "All deadlines are Anywhere on Earth (AoE = UTC-12h)."
 
 
 + ISPD Contest 2020
@@ -2554,13 +2727,21 @@ List of conference "Call for Papers" deadlines:
 
 
 + S&P, IEEE Symposium on Security and Privacy
-	- https://www.ieee-security.org/TC/SP2020/cfpapers.html
-	- https://www.ieee-security.org/TC/SP2020/
-	- May 18-20, 2020.
-	- San Francisco, CA.
+	- http://www.ieee-security.org/TC/SP2021/
+	- http://www.ieee-security.org/TC/SP2021/cfpapers.html
+	- May 23-27, 2021.
+	- ~~May 18-20, 2020~~.
+	- Virtual conference.
+	- ~~San Francisco, CA~~.
 	- "A rolling deadline occurs on the 1st of each month, at 3:00 PM (UTC-7, i.e., PDT). This deadline is strict and no extensions will be granted."
 	- "All papers accepted by February 1st, 2020, or that are submitted as a revision by February 1st, 2020 and the revision is then accepted, will be included in the proceedings of the symposium in May, 2020 and invited to present their work. Other papers will be included in the 2021 proceedings."
-	- Submission deadline: Rolling (Final deadline: Submit by December 1, 2019)
+	- Submission deadlines:
+		* Spring Quarter Deadline: March 5, 2020.
+		* Summer Quarter Deadline: June 4, 2020.
+		* Fall Quarter Deadline: September 3, 2020.
+		* ***Winter Quarter Deadline: December 3, 2020***.
+		* "All deadlines are 23:59:59 AoE (UTC-12)."
+		* ~~Rolling (Final deadline: Submit by December 1, 2019).~~
 
 
 
@@ -2724,12 +2905,28 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ ISOEN, IEEE International Symposium on Olfaction and Electronic Nose
+	- https://isoen2019.org/.
+	- ACROS Fukuoka.
+	- May 26-29, 2019.
+	- Submission deadline:
+		* January 10, 2019.
+
+
+
+
+
+
+
+
 
 + SPAA, ACM Symposium on Parallelism in Algorithms and Architectures
 	- http://spaa.acm.org
-	- Philadelphia, PA, USA
-	- July 14-17, 2020
-	- Submission deadline: ***February 8 and 15, 2020, 23:59 hrs, AoE.***
+	- https://spaa.acm.org/2021/call_for_papers.html
+	- Virtual conference.
+	- Philadelphia, PA.
+	- July 6-8, 2021.
+	- Submission deadline: ***February 8 and 11, 2021, 23:59 hrs, AoE.***
 
 
 
@@ -2818,18 +3015,17 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ CHES 2020, Conference on Cryptographic Hardware and Embedded Systems
-	- https://ches.iacr.org/
-	- https://ches.iacr.org/2020/
-		* Possible venue change due to the spread of the coronavirus/COVID-19 virus infections.
++ CHES, Conference on Cryptographic Hardware and Embedded Systems
+	- https://ches.iacr.org/2021/callforpapers.php
 	- Beijing, China
-	- September 14-17, 2020
+		* Possible venue change due to the spread of the coronavirus/COVID-19 virus infections.
+	- September 12-15, 2021.
 	- IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES)
 	- Submission deadlines:
-		* 1st round: July 15, 2019
-		* 2nd round: October 15, 2019
-		* ***3rd round: January 15, 2019***
-		* 4th round: April 15, 2019
+		* 1st round: July 15, 2020
+		* 2nd round: October 15, 2020
+		* ***3rd round: January 15, 2020***
+		* 4th round: April 15, 2020
 
 
 
@@ -2959,13 +3155,24 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ SIGMETRICS 2020, ACM SIGMETRICS / IFIP Performance conference
-	- https://www.sigmetrics.org/sigmetrics2020/call_for_papers.html
-	- Boston, MA.
-	- June 8-12, 2020.
++ SIGMETRICS, ACM SIGMETRICS
+	- https://www.sigmetrics.org/sigmetrics2021/
+	- https://www.sigmetrics.org/sigmetrics2021/call_for_papers.html
+	- ~~SIGMETRICS 2020, ACM SIGMETRICS / IFIP Performance conference~~
+	- Virtual conference.
+	- ~~Beijing, China.~~
+	- ~~Boston, MA~~.
+	- June 14-18, 2021.
+	- ~~June 8-12, 2020~~.
 	- http://portal.core.edu.au/conf-ranks/39/
-	- Submission deadline (For Winter submissions): January 27 and February 3, 2020.
-
+	- Submission deadline (For Summer submissions):
+		* July 31 and August 7, 2020.
+	- Submission deadline (For Fall submissions):
+		* October 16 and 23, 2020.
+		* ~~October 14 and 21, 2019~~.
+	- ***Submission deadline (For Winter submissions)***:
+		* January 29 and February 5, 2021.
+		* ~~January 27 and February 3, 2020~~.
 
 
 
@@ -3010,11 +3217,11 @@ List of conference "Call for Papers" deadlines:
 
 
 + ISSAC, International Symposium on Symbolic and Algebraic Computation
-	- http://issac-conference.org/2020/
+	- http://www.issac-conference.org/2021/
 	- http://issac-conference.org/
-	- July 20-23, 2020
-	- Kalamata, Messinia, Greece
-	- Submission deadline: January 31 and February 7, 2020.
+	- July 18-22, 2021.
+	- Saint Petersburg, Russia. 
+	- Submission deadline: January 29 and February 5, 2021.
 
 
 
@@ -3170,14 +3377,18 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ CSF, 33rd IEEE Computer Security Foundations Symposium
-	- https://www.ieee-security.org/TC/CSF2020/
++ CSF, IEEE Computer Security Foundations Symposium
+	- http://www.ieee-security.org/TC/CSF2021/
 	- http://www.ieee-security.org/CSFWweb/
-	- June 22-26, 2020
-	- Boston, MA
+	- June 21-25, 2021.
+	- Virtual Conference.
+	- ~~Boston, MA~~
 	- Submission deadlines:
-		* 1st round: October 4, 2019
-		* ***2nd round: February 7, 2020***
+		* Spring cycle: May 8, 2020.
+		* Fall cycle: October 2, 2020.
+		* ***Winter cycle: February 8, 2020***.
+		* Spring cycle (for CSF 2022): early May, 2021.
+		* AoE (UTC-12h).
 
 
 
@@ -3280,16 +3491,19 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ UbiComp 2020, 2020 ACM International Joint Conference on Pervasive and Ubiquitous Computing
-	- http://ubicomp.org/ubicomp2020/
-	- http://ubicomp.org/ubicomp2020/cfp/papers.html
-	- Cancún, México
-	- September 12-16, 2020
++ UbiComp, ACM International Joint Conference on Pervasive and Ubiquitous Computing
+	- https://ubicomp.hosting.acm.org/ubicomp2021/
+	- ~~http://ubicomp.org/ubicomp2020/~~
+	- Virtual conference.
+	- ~~Cancún, México~~.
+	- September 12-17, 2020.
 	- Submission deadlines:
 		* 1st round: August 15, 2019
 		* 2nd round: November 15, 2019
 		* ***3rd round: February 15, 2020***
 		* 4th round: May 15, 2020
+
+
 
 
 
@@ -3509,6 +3723,29 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ IEEE-NANO, IEEE NANO, IEEE International Conference on Nanotechnology
+	- https://2021.ieeenano.org/general-info/technical-areas/
+	- https://2021.ieeenano.org/general-info/key-dates/
+	- https://2021.ieeenano.org/authors/
+	- https://2021.ieeenano.org/
+	- Virtual conference.
+	- July 28-31, 2021.
+	- Submission deadline:
+		* February 28, 2021.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 + VLDB2020, 46th International Conference on Very Large Data Bases
 	- https://vldb2020.org/important-dates.html
 	- https://vldb2020.org/
@@ -3521,7 +3758,13 @@ List of conference "Call for Papers" deadlines:
 
 
 
-
++ IEEE FLEPS, IEEE International Conference on Flexible, Printable Sensors and Systems
+	- https://2021.ieee-fleps.org/.
+	- Virtual Conference.
+	- ~~Manchester, United Kingdom~~.
+	- June 20-23, 2021.
+	- Submission deadline:
+		* March 1, 2021.
 
 
 + IROS, IEEE/RSJ International Conference on Intelligent Robots and Systems
@@ -3637,6 +3880,29 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ S&P, IEEE Symposium on Security and Privacy
+	- http://www.ieee-security.org/TC/SP2021/
+	- http://www.ieee-security.org/TC/SP2021/cfpapers.html
+	- May 23-27, 2021.
+	- ~~May 18-20, 2020~~.
+	- Virtual conference.
+	- ~~San Francisco, CA~~.
+	- "A rolling deadline occurs on the 1st of each month, at 3:00 PM (UTC-7, i.e., PDT). This deadline is strict and no extensions will be granted."
+	- "All papers accepted by February 1st, 2020, or that are submitted as a revision by February 1st, 2020 and the revision is then accepted, will be included in the proceedings of the symposium in May, 2020 and invited to present their work. Other papers will be included in the 2021 proceedings."
+	- Submission deadlines:
+		* ***Spring Quarter Deadline: March 5, 2020***.
+		* Summer Quarter Deadline: June 4, 2020.
+		* Fall Quarter Deadline: September 3, 2020.
+		* Winter Quarter Deadline: December 3, 2020.
+		* "All deadlines are 23:59:59 AoE (UTC-12)."
+		* ~~Rolling (Final deadline: Submit by December 1, 2019).~~
+
+
+
+
+
+
+
 
 + SIROCCO 2020, International Colloquium on Structural Information and Communication Complexity
 	- https://sirocco2020.cs.uni-paderborn.de/
@@ -3705,6 +3971,27 @@ List of conference "Call for Papers" deadlines:
 	- August 31 - September 4, 2020.
 	- Gothenburg, Sweden.
 	- Submission deadline: ~~March 16 and 23~~ ~~March 23 and 30~~ March 27 and April 3, 2020.
+
+
+
+
+
+
++ MobiCom, Annual International Conference on Mobile Computing and Networking
+	- Also, described in the 2021 Web page on February 12, 2021 as: ACM/IEEE Conference on Information Processing in Sensor Networks.
+	- https://www.sigmobile.org/mobicom/2021/
+	- https://www.sigmobile.org/mobicom/2021/cfp.html
+	- October 25-29, 2021.
+	- ~~September 21-25, 2019~~.
+	- New Orleans, LA.
+	- Submission deadlines:
+		* Summer: August 14 and 21, 2020.
+		* ***Winter: March 19 and 26, 2021***.
+		* ~~August 14 and 18, 2019~~.
+
+
+
+
 
 
 
@@ -3856,12 +4143,14 @@ List of conference "Call for Papers" deadlines:
 
 + SenSys, ACM Conference on Embedded Networked Sensor Systems
 	- Conference on Embedded Networked Sensor Systems
-	- http://sensys.acm.org/2020/cfp/
-	- http://sensys.acm.org/2020/index.html
+	- https://sensys2021.dei.uc.pt/about/
 	- http://sensys.acm.org/
-	- November 16-19, 2020
-	- Yokohama, Japan.
-	- Submission deadlines: ~~March 27 and April 6~~ April 10 and 17, 2020.
+	- November ???, 2020
+	- ~November 16-19, 2020~~.
+	- Coimbra, Portugal.
+	- Submission deadlines:
+		* May 28 and June 4, 2021, 23:59 AoE.
+		* ~~March 27 and April 6~~ ~~April 10 and 17, 2020~~.
 
 
 
@@ -4082,6 +4371,21 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ SC, International Conference for High Performance Computing, Networking, Storage, and Analysis
+	- https://sc21.supercomputing.org/
+	- https://sc21.supercomputing.org/all-dates-deadlines/
+	- https://sc21.supercomputing.org/submit/submission-deadlines/
+	- https://sc21.supercomputing.org/submit/
+	- St. Louis, MO.
+	- Submission deadline:
+		* student volunteers, or SCinet volunteer applications: March 1 - June 28, 2021.
+		* ***Papers: April 2 and 9, 2021***.
+			+ "All deadlines are as of 11:59 pm anywhere on earth."
+		* student cluster competition, SCC: February 8 - April 23, 2021.
+		* ACM Student Research Competition (SRC): August 6, 2021.
+
+
+
 
 
 
@@ -4096,11 +4400,7 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ FMCAD, International Conference on Formal Methods in Computer-Aided Design
-	- https://fmcad.forsyte.at/FMCAD20/
-	- Haifa, Israel.
-	- September 21-24, 2020.
-	- Submission deadline: April 9 and 16, 2020.
+
 
 
 
@@ -4151,7 +4451,13 @@ List of conference "Call for Papers" deadlines:
 
 
 
-
++ IEEE SAS, IEEE Sensors Applications Symposium
+	- https://2021.sensorapps.org/call-papers
+	- https://2021.sensorapps.org/
+	- Sundsvall, Sweden.
+	- August 2-4, 2021.
+	- Submission deadline:
+		* April 12, 2021.
 
 
 
@@ -4226,25 +4532,26 @@ List of conference "Call for Papers" deadlines:
 	- https://secdev.ieee.org/2020/Papers/
 	- https://secdev.ieee.org/2020/Home
 	- September 28-30, 2020.
-	- Atlanta, GA.
-	- Submission deadlines: ~~April 15-22, 2019.~~ May 25, 2020, 23:59:59 AoE.
+	- Virtual conference.
+	- ~~Atlanta, GA~~.
+	- Submission deadlines:
+		* ~~May 25, 2020, 23:59:59 AoE~~ June 1, 2020, 23:59:59 AoE..
+		* ~~April 15-22, 2019.~~
+	- "Great​ ​SecDev​ ​contributions​ ​could​ ​come​ ​from​ ​attendees​ ​of​ ​industrial​ ​conferences like​ ​AppSec and​ ​RSA;​ ​from​ ​attendees​ ​of​ ​academic​ ​conferences​ ​like IEEE​ ​S&P,​ ​IEEE​ ​CSF,​ ​USENIX​ ​Security, CCS, ​​NDSS, PLDI,​ ICSE, ​FSE,​ ​ISSTA,​ ​SOUPS, HOST,​ ​and​ ​others;​ ​and​ ​from newcomers."
 
 
 
-
-+ CHES 2020, Conference on Cryptographic Hardware and Embedded Systems
-	- https://ches.iacr.org/
-	- https://ches.iacr.org/2020/
++ CHES, Conference on Cryptographic Hardware and Embedded Systems
+	- https://ches.iacr.org/2021/callforpapers.php
 	- Beijing, China
 		* Possible venue change due to the spread of the coronavirus/COVID-19 virus infections.
-	- September 14-17, 2020
+	- September 12-15, 2021.
 	- IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES)
 	- Submission deadlines:
-		* 1st round: July 15, 2019
-		* 2nd round: October 15, 2019
-		* 3rd round: January 15, 2019
-		* ***4th round: April 15, 2019***
-
+		* 1st round: July 15, 2020
+		* 2nd round: October 15, 2020
+		* 3rd round: January 15, 2020
+		* ***4th round: April 15, 2020***
 
 + Scala 2019 series/track
 	- https://2019.ecoop.org/home/scala-2019
@@ -4373,6 +4680,33 @@ List of conference "Call for Papers" deadlines:
 
 
 
+
+
+
++ SC, International Conference for High Performance Computing, Networking, Storage, and Analysis
+	- https://sc21.supercomputing.org/
+	- https://sc21.supercomputing.org/all-dates-deadlines/
+	- https://sc21.supercomputing.org/submit/submission-deadlines/
+	- https://sc21.supercomputing.org/submit/
+	- St. Louis, MO.
+	- Submission deadline:
+		* student volunteers, or SCinet volunteer applications: March 1 - June 28, 2021.
+		* Papers: April 2 and 9, 2021.
+			+ "All deadlines are as of 11:59 pm anywhere on earth."
+		* ***student cluster competition, SCC: February 8 - April 23, 2021***.
+		* ACM Student Research Competition (SRC): August 6, 2021.
+
+
+
+
+
+
+
+
+
+
+
+
 + NOCS, IEEE/ACM International Symposium on Networks-on-Chip
 	- http://nocs2020.engr.uky.edu/
 	- Hamburg, Germany.
@@ -4406,6 +4740,46 @@ List of conference "Call for Papers" deadlines:
 	- July 3-5, 2019
 	- Linköping, Sweden
 	- Submission deadline: April 25, 2019.
+
+
+
+
+
+
++ HOST, IEEE International Symposium on Hardware-Oriented Security and Trust
+	- http://www.hostsymposium.org/call-for-paper.php
+	- http://www.hostsymposium.org/
+	- http://www.ieee-security.org/Calendar/cfps/cfp-HOST2021.html
+	- https://easychair.org/conferences/?conf=host2021/
+	- Washington D.C..
+	- December 5-8, 2021.
+	- ~~May 4-8, 2020~~.
+	- Submission deadlines:
+		* April 27 and May 4, 2021.
+		* ~~August 15, 2019 (round \#1) and November 15, 2019 (round \#2)~~.
+
+
+
+
+
++ CSF, IEEE Computer Security Foundations Symposium
+	- http://www.ieee-security.org/TC/CSF2021/
+	- http://www.ieee-security.org/CSFWweb/
+	- June 21-25, 2021.
+	- Virtual Conference.
+	- ~~Boston, MA~~
+	- Submission deadlines:
+		* Spring cycle: May 8, 2020.
+		* Fall cycle: October 2, 2020.
+		* Winter cycle: February 8, 2020.
+		* ***Spring cycle (for CSF 2022): early May, 2021***.
+		* AoE (UTC-12h).
+
+
+
+
+
+
 
 
 
@@ -4513,10 +4887,16 @@ List of conference "Call for Papers" deadlines:
 
 
 + FMCAD, International Conference on Formal Methods in Computer-Aided Design
-	- Sep 21-24, 2020, Online
-	- Early deadline for 2020.
-	- Submission deadline: May 9 and 16, 2020.
-
+	- https://fmcad.org/FMCAD21/
+	- https://fmcad.org/FMCAD21/cfp/
+	- New Haven, Connecticut.
+	- October 20-22, 2021, with FMCAD Tutorial Day on October 19, 2021.
+	- ~~September 21-24, 2020~~.
+	- Submission deadline:
+		* May 7 and 14, 2021.
+		* ~~Early deadline for 2020~~.
+		* ~~April 9 and 16, 2020~~.
+	
 
 
 
