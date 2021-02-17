@@ -9689,6 +9689,90 @@ Qualifications
 	- Kafka
 	- Spark
 + architect highly scalable microservices
++ skill set:
+	- architect systems that deliver low latency experience in a high latency environment
+	- develop long-lasting external API contracts with little obsoletion/obsolescence or sunsetting.
++ skill set:
+	- strong programming skills in C++ with experience in developing latency-critical software
+	- demonstrated ability to take neural network models from concept to production with in-depth knowledge in deep learning frameworks, such as TensorFlow
++ skill set:
+	- management of E2E (enterprise-to-enterprise) ML pipeline development and automation, to enable developers and creators alike to have the ability to go from an ML idea to production in weeks of less
+	- ML ecosystem tooling
+	- As a Machine Learning Platform Engineer you will build the next generation of ML Ecosystem Tooling. You will have a direct impact to the state of the Roblox platform, and the industry, to the next level of managed E2E ML Pipeline Development and Automation—providing our developers and creators alike the ability to go from an ML idea to production in weeks or less. We are looking for talented ML and Systems Engineers to help build the next generation of ML Ecosystem Tooling. 
+	- Passionate about pushing the technological envelope and venturing into the unknown.
+	- Possessing a toolchest of system design experience upon which to draw to build scalable, reliable platforms for all of Roblox.
+	- 3+ years of professional experience working with scalable, distributed systems.
+	- Well versed with the Model Development Lifecycle from initial ad hoc analysis in notebooks to monitored services in production and back again.
+	- Proficient with DevOps tooling such as Docker, K8S, CI/CD systems.
+	- Strong understanding of best practices in developing Platform / Infrastructure APIs.
+	- Someone who has built a model in a modern ML framework such as Tensoflow, PyTorch, ML Lib, etc.
+	- Experienced with developing data pipelines in a common framework such as Beam / Spark / AirFlow / etc.
+	- Understand best practices around Data and Model management
+	- Have deployed and maintained an ML model in production
+	- Understand the use cases for various data processing and storage technologies
+	- Bachelor's degree in Computer Science, Computer Engineering, Data Science or a similar technical field.
+	- Design and Implement the Developer and Creator facing API for declaring E2E ML Pipelines and Model Experimentation.
+	- Develop the service APIs for various ML Infrastructure components--Serving Layer, Metadata Store, Model Registry, Feature Store, and Pipeline Orchestrator.
+	- Work directly with the ML Infrastructure team to identify and leverage opportunities for further automation and optimization.
+	- Partner across organizations to build tooling, interfaces, and visualizations that make the ML@Roblox a delight to use.
+	- Have a direct impact to the state of the Roblox platform, and the industry, to the next level of managed E2E ML Pipeline Development and Automation
+	- Provide our developers and creators alike the ability to go from an ML idea to production in weeks or less. 
+	- Have a direct impact as a part of the team that is building a platform to handle the thousands of model experiments per day needed to support everything from ranking and recommendations, through content moderation and fraud prevention, to studio creative tooling.
++ experience working with common cloud technologies, such as:
+	- Hashistack (Nomda, Terraform, Vault, etc)
+	- Kubernetes
+	- Docker
+	- AWS
+	- Azure 
++ skill set:
+	- As a Senior Backend Web Engineer working on the Monetization team, you will be responsible for all things virtual economy at Roblox, from purchasing and selling virtual items to the real time bidding of advertising slots. The Monetization team maintains a virtual marketplace that handles over 4 million transactions a day. The team provides the infrastructure and statistics to empower developers to monetize their games, with our top developers earning millions of dollars each year.
+	- Experienced with a Bachelor’s degree (or equivalent professional experience) in Computer Science or related engineering field with at least 5 years of hands-on experience.
+	- A Solid programmer with demonstrable skills with compiled languages such as C#, Java, C++, or others.
+	- Proven at scale: you’ve designed and implemented large-scale distributed microservices architectures and have experience with Memcached, Redis, or other caching technologies.
+	- Proficient with Microsoft SQL Server, MySQL, PostgreSQL or other database technology at scale.
+	- ***Practiced with noSQL technologies such as DynamoDB, MongoDB or others.***
+	- ***Knowledgeable about search technologies such as Elasticsearch or Solr.***
+	- ***Focused on writing clear, readable, testable, and monitored code.***
+	- Have a direct impact on the future direction of the largest social platform for play, delivering groundbreaking solutions that will enable our development teams to localize Roblox for a global community of over 60 million monthly active players.
+	- Develop services by which our community of creators on the platform can internationalize their games, whether manually, crowdsourced, or automatically via machine translation.
+	- Build core internationalization and localization tools and infrastructure, which will be used by all engineering teams within Roblox.
+	- Design and build backend services to handle real-time machine translation of user communication.
+	- Serve as a tech lead for the team and mentor junior engineers.
+	- Play an active role in recruiting future talent for the team.
++ skill set:
+	- knowledge 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
