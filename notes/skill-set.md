@@ -9740,18 +9740,50 @@ Qualifications
 	- Serve as a tech lead for the team and mentor junior engineers.
 	- Play an active role in recruiting future talent for the team.
 + skill set:
-	- knowledge 
-
-
-
-
-
-
-
-
-
-
-
+	- design and implement efficient ranking algorithm at high throughput and scalable search engine
+	- analyze search and document data using SQL and Hive on Spark, S3, and ElasticSearch
+	- understanding and experience for query expansion and rewrite techniques such as synonyms, auto complete, speel correction, query optimization, and query-to-query similarity
+	- understanding of search ranking quality evaluation and experience with metric-driven search ranking tuning techniques
+	- understanding of knowledge graphs for document understanding and ranking
+		* experience with graph DB, such as Neo4j, ArangoDB, OrientDB
+	- experienced working in a fast-paced environment in an agile/scrum environment with focus on robust design, architecture, TDD, rapid experimentation, A/B testing, and metrics
+	- big data frameworks, such as map-reduce, Spark, Pig, Hive
++ experienced with Memcached and Redis
++ domain-driven design, and service-oriented architecture
++ App Engine cloud computing platform
++ apply diverse tools and technologies to solve existing problems, such as: C\#, Go, Rust, Docker, Hashistack's Consul, Vault, and Nomad.
++ skill set:
+	- extensive experience in deep learning, classifiers, clustering algorithms, and anomaly detection
+	- highly scalable security tools for exploit and bot detection
+	- ML security projects
+	- large-scale ML systems
++ GraphQL, Docker, Hashistack, Traefik, HUbot, InfluxDB
++ GPU APIs: OpenGL, DirectX, ...
++ skill set:
+	- Familiarity with at least one of the following areas:
+		* Deep learning for computer vision
+		* Camera tracking (SLAM, VIO) and self-localization
+		* Object detection and model-based tracking
+		* 3D reconstruction and semantic scene understanding
++ skill set:
+	- You will play a meaningful role in one of our agile teams - designing, building, deploying and maintaining the team's deliverables with respect to the full lifecycle of our new data analytics offerings. You will work closely in with other teams in their related journeys.
+	- As an experienced engineer you will help to drive continuous improvement in practices and improve the team’s ability to take on bigger challenges.
+	- You will gain exposure to a wide range of our software modules and the technologies backing them, e.g. cloud, microservices, database, data lakes, cloud warehouses, pipelines. Key technologies we currently use include: AWS, Kubernetes, Kafka, Snowflake, Java, Terraform, React, MongoDB, Oracle
+	- What we’re looking for in you
+		* Passion for writing and maintaining high-quality software
+		* An understanding of how to build and support large scale distributed systems and handle issues that arise
+		* Strong skills in data acquisition, pipeline and data storage/lake technologies
+		* Cloud experience (we use AWS and Kubernetes)
+		* Experience with at least two programming languages, e.g. Python, Scala, Java
+	- The following would be beneficial:
+		* Experience with DevOps and Infrastructure as code (e.g. Terraform)
+		* Experience using lean and agile practices in a regulated environment
+		* Experience with Tableau or similar BI tools such as PowerBI
+		* Experience with Spark, Airflow or similar
+	- What you’ll get in return
+		* Working in a multi-functional, team-based environment, our culture is enabling and engaging
+		* You’ll be exposed to a range of technologies with the opportunity to expand your experience and expertise
+		* IDBS has the camaraderie of a small company, but the security of a global employer, we offer flexible career paths, exciting work, and the opportunity to both learn from others and share your experiences.
 
 
 
