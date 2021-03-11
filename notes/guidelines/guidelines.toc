@@ -11,6 +11,6 @@
 \contentsline {section}{\numberline {6}Adoption of Best Practices}{14}{section.6}% 
 \contentsline {subsection}{\numberline {6.1}Practice of Automated Regression Testing}{15}{subsection.6.1}% 
 \contentsline {subsection}{\numberline {6.2}Cloud-based Data Science and Machine Learning}{15}{subsection.6.2}% 
-\contentsline {section}{\numberline {7}Additional Guidelines}{15}{section.7}% 
+\contentsline {section}{\numberline {7}Additional Guidelines}{16}{section.7}% 
 \contentsline {subsection}{\numberline {7.1}Suggested Prefixes for Labels of Parts of a \LaTeX \ Document}{17}{subsection.7.1}% 
-\contentsline {section}{Acknowledgments}{17}{section*.3}% 
+\contentsline {section}{Acknowledgments}{18}{section*.3}% 

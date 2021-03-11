@@ -93,6 +93,7 @@ Revision history: \vspace{-0.3cm}
 \item Version 4.6, February 14, 2019. Add references for {\it Git} and its substitute, {\it Mercurial SCM}, for distributed version/revision control (or software configuration management). Also, add ``Acknowledgments'' and ``Revision History'' sections to the ``Table of Contents''.
 \item Version 4.7, March 13, 2019. Add comment on how to include mathematical expressions in {\it Markdown} documents. In addition, fix minor errors.
 \item Version 4.8, January 22, 2020. Fix B{\scriptsize IB}\TeX\ key error (renamed for a publication), and added references regarding design by contract (or programming by contract, or contract programming) and Hoare logic.
+\item Version 4.9, March 11, 2021. Fix minor errors in guidelines for creating shared B{\scriptsize IB}\TeX\ databases.
 \end{enumerate}
 
 
@@ -129,7 +130,7 @@ Guidelines for creating {\sc Bib}\TeX\ entries and the {\sc Bib}\TeX\ database, 
 		\item Else, add it to the  {\sc Bib}\TeX\ database.
 		\end{enumerate}
 	\item Use the following format for creating {\sc Bib}\TeX\ keys: [first] author's last name, appended by the year of publication. E.g., my first conference paper would have the {\sc Bib}\TeX\ key Ong2004. If the year of publication is not known, use an approximate year, with XY for the last 2 digits in the year (e.g., 20XY). Alternatively, if you cannot determine if it was published this millennium or the previous millennium (or much earlier), use UNKNOWN for the ``year''. For example, use KleinbergUNKNOWN (preferred for unknown millennium), or Smith20XY (for unknown year in the 21$^{st}$ century).
-	\item Remove duplicate entries in the {\sc Bib}\TeX\ database. {\bf WARNING! Before doing this, perform a union operation on the fields of the {\sc Bib}\TeX\ entries. For example, if a {\sc Bib}\TeX\ entry has information that the other {\sc Bib}\TeX\ entry does not have, and vice versa, merge the information to a {\sc Bib}\TeX\ entry.}
+	\item Remove duplicate entries in the {\sc Bib}\TeX\ database. {\bf WARNING! Before doing this, perform a union operation on the fields of the {\sc Bib}\TeX\ entries. For example, if a {\sc Bib}\TeX\ entry has information that the other {\sc Bib}\TeX\ entry does not have, and vice versa, merge the information to one {\sc Bib}\TeX\ entry.}
 	\item {\bf Rationale: Duplicate {\sc Bib}\TeX\ entries will cause problems in typesetting.}
 	\item Regarding hash collision of {\sc Bib}\TeX\ keys, such as multiple instances of Gratz2014, distinguish them by appending a letter to them. E.g., use Gratz2014, Gratz2014a, Gratz2014b, Gratz2014c, and so on. If we run out of letters, append it with ``a'' followed by a number. The use of the letter ``a'' separates the year from the instance of {\sc Bib}\TeX\ key. That is, Gratz2014a2 tells me that it is the $29^{th}$ instance of Gratz2014, as opposed to Gratz201429.
 	\item If possible, restrict the characters of each {\sc Bib}\TeX\ key to be alphanumeric. The year is always numeric, and is appended to the (first) author's last name. \vspace{-0.2cm}
@@ -138,16 +139,21 @@ Guidelines for creating {\sc Bib}\TeX\ entries and the {\sc Bib}\TeX\ database, 
 		\item If the (first) author's last name has characters that are not letters in English, anglicize those characters. We should avoid using the transliteration for a given non-English language, since such transliteration may not be standardized (for non-commonly spoken/used languages). Also, supporting letters from other languages is a tedious task. Hence, we can use the anglicized version of their last names instead.
 		\end{enumerate}
 	\end{enumerate}
-\item If possible, use the full name for each author. When writing research publications, if we need to reduce the authors' first name to just their initial, we can use a script to transform their names. If we need to use their full names in the reference list and if we do not include their full names, we have to look up these references again in the future to include their full names.
+\item If possible, use the full name for each author. \vspace{-0.3cm}
+	\begin{enumerate} \itemsep -2pt
+	\item We justify this as follows.
+	\item When writing research publications, if we need to reduce the authors' first name to just their initial, we can use a script to transform their names.
+	\item If we need to use their full names in the reference list and if we do not include their full names, we have to look up these references again in the future to include their full names.
+	\end{enumerate}
 \item For terms that should be typeset as is, place them in between braces (i.e., curly brackets). That is, put curly braces around acronyms and mixed-case names. \vspace{-0.3cm}
 	\begin{enumerate} \itemsep -2pt
 	\item For example, terms in upper or mixed cases (upper and lower cases), such as names (e.g., McMullen) and acronyms (e.g., SIGDA), place them in between braces (i.e., \{McMullen\} and \{SIGDA\}). This prevents the titles (or another {\sc Bib}\TeX\ field) from changing the term into lower case, with exception for the first term/word. E.g., ``ICCAD Update: A Report from SIGDA'' may typeset into ``ICCAD Update: A report from sigda''.
 	\end{enumerate}
 \item For special symbols that are typeset with \LaTeX\ in the {\tt math mode}, such as $\alpha$, place them in between a pair of dollar signs (i.e., \$$\backslash$alpha\$).
-\item For each {\sc Bib}\TeX\ entry, check if all required fields are complete. See pages 8 and 9 in \S3.1 of \cite{Patashnik1988} for a list of {\sc Bib}\TeX\ entry types; alternatively, refer to the {\it Wikipedia} entry for , or \cite[\S12.2.1, pp. 230--231]{Kopka2004}. In this/these list(s), the required fields are listed for each {\sc Bib}\TeX\ entry.
-\item For the {\tt Pages} field, ensure that all page ranges are indicated with double hyphens. E.g., ``Page = \{11-\--34\},''. This makes the page range looks more pretty.
+\item For each {\sc Bib}\TeX\ entry, check if all required fields are complete. See pages 8 and 9 in \S3.1 of \cite{Patashnik1988} for a list of {\sc Bib}\TeX\ entry types; alternatively, refer to the {\it Wikipedia} entry for {\sc Bib}\TeX, or \cite[\S12.2.1, pp. 230--231]{Kopka2004}. In this/these list(s), the required fields are listed for each {\sc Bib}\TeX\ entry.
+\item For the {\tt Pages} field, ensure that all page ranges are indicated with double hyphens. E.g., ``Page = \{11-\--34\},''. This makes the page range look better.
 \item For the {\tt Pages} field, ensure that multiple pages and/or page ranges are separated by commas. E.g., ``Page = \{11-34, 57, 88, 109-\--187\},''.
-\item For books and journal articles that have an associated digital object identifier (DOI) \cite{InternationalDOIFoundationStaff2017}, ensure that the {\tt Doi} field is included in the {\sc Bib}\TeX\ entry with the DOI of the publication. This makes it easier for people to access the web page for the book or journal/conference paper.
+\item For books and journal articles that have an associated digital object identifier (DOI) \cite{InternationalDOIFoundationStaff2017}, ensure that the {\tt Doi} field is included in the {\sc Bib}\TeX\ entry with the DOI of the publication. This makes it easier for people to access the Web page for the book or journal/conference paper.
 \item Stylistic validation of the references can be carried out as follows: \vspace{-0.3cm}
 	\begin{enumerate} \itemsep -2pt
 	\item Include all {\sc Bib}\TeX\ keys in one citation in your \LaTeX\ document.
@@ -175,7 +181,8 @@ Guidelines for creating {\sc Bib}\TeX\ entries and the {\sc Bib}\TeX\ database, 
 	\item When {\sc Bib}\TeX\ entries are created for the aforementioned sources of information, populate the appropriate fields so that each information in the aforementioned sources are included in the {\sc Bib}\TeX\ entries.
 	\item For other organizations, communities, and groups, use the term ``contributors'' instead of ``members,'' unless otherwise specified.
 	\end{enumerate}
-\item Refer to the file ``bibtex-template.txt'' for templates for selected {\sc Bib}\TeX\ entry types. The more information that you can put in, the easier you can protect yourself from accusations of plagiarism and to make it easier for people (including yourself) to find the reference again. This is especially true for web-based references/resources.
+\item Refer to the file ``bibtex-template.txt'' for templates for selected {\sc Bib}\TeX\ entry types. The more information that you can put in, the easier you can protect yourself from accusations of plagiarism and to make it easier for people (including yourself) to find the reference again. This is especially true for Web-based references/resources.
+\item When the names of authors and editors are unknown, list them as ``Anonymous contributors.''
 \end{enumerate}
 
 
@@ -459,7 +466,7 @@ When the date is not known so that it can be provided in the ``MONTH DAY, YEAR''
 
 
 
-Use {\tt crossref} for {\sc Bib}\TeX\ entries using the {\sc Bib}\TeX\ entry type {\tt inproceedings} to share information about the conference proceedings without having to copy and paste fields that are commonly shared by articles/papers in conference proceedings \cite[\S12.2.3, pp. 234]{Kopka2004}. It might not work with {\sc Bib}\TeX\ entry types {\tt inbook} and {\tt incollection} for parts, subsections, sections, and chapters of books; this is not mentioned in {\sc Bib}\TeX\ specifications/references, and {\tt crossref} is probably not supported for these {\sc Bib}\TeX\ entry types. \\
+Use {\tt crossref} for {\sc Bib}\TeX\ entries using the {\sc Bib}\TeX\ entry type {\tt inproceedings} to share information about the conference proceedings without having to copy and paste fields that are commonly shared by articles/papers in conference proceedings \cite[\S12.2.3, pp. 234]{Kopka2004}. It might not work with {\sc Bib}\TeX\ entry types {\tt inbook} and {\tt incollection} for parts, subsections, sections, and chapters of books; this is not mentioned in {\sc Bib}\TeX\ specifications/references, and {\tt crossref} is probably not supported for these {\sc Bib}\TeX\ entry types. Hence, I am currently not using {\tt crossref}, unless I have to cite multiple (more than 15, $>15$, or even five, $>5$) conference papers in a given conference proceedings. \\
 
 
 
@@ -719,7 +726,7 @@ In addition, tools for working with source code and \LaTeX\ source files include
 	\end{enumerate}
 \item {\tt latexdiff}: ``determine and markup differences between two latex files'' \vspace{-0.3cm}
 	\begin{enumerate} \itemsep -2pt
-	\item Evan Driscoll, ``Latexdiff notes,'' from {\it Evan Driscoll's web page: Writings on Software: \LaTeX}, the Department of Computer Sciences, University of Wisconsin-Madison College of Engineering, University of Wisconsin-Madison, Madison, WI. Available online at: \url{http://pages.cs.wisc.edu/~driscoll/software/latex/latexdiff.html}; last accessed on February 15, 2016 \cite{Driscoll20XYb}.
+	\item Evan Driscoll, ``Latexdiff notes,'' from {\it Evan Driscoll's Web page: Writings on Software: \LaTeX}, the Department of Computer Sciences, University of Wisconsin-Madison College of Engineering, University of Wisconsin-Madison, Madison, WI. Available online at: \url{http://pages.cs.wisc.edu/~driscoll/software/latex/latexdiff.html}; last accessed on February 15, 2016 \cite{Driscoll20XYb}.
 	\end{enumerate}
 \item documentation generators: \vspace{-0.3cm}
 	\begin{enumerate} \itemsep -2pt

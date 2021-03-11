@@ -9784,10 +9784,52 @@ Qualifications
 		* Working in a multi-functional, team-based environment, our culture is enabling and engaging
 		* You’ll be exposed to a range of technologies with the opportunity to expand your experience and expertise
 		* IDBS has the camaraderie of a small company, but the security of a global employer, we offer flexible career paths, exciting work, and the opportunity to both learn from others and share your experiences.
-
-
-
-
++ skill set:
+	- What You’ll Be Doing:
+		* Design,  implement  and deploy Automatic Speech Recognition (ASR) models to provide the best-possible experience for our customers in Zoom’s online meeting. 
+		* Handle large-scale audio data to make ASR model best fit the online conference use case.
+		* Adapt machine learning and neural network algorithms and architectures to best fit the real-time requirement
+		* Partner closely with talented peers to research ASR and contribute to our long-term research efforts.
+	- Qualifications: 
+		* MS degree in EE, CS or related technical field or equivalent practical experience  or Mathematics with specialization in speech recognition, natural language processing, or machine learning.
+		* 5+ years experience in building speech recognition, ASR or NLP (natural language processing) systems
+		* Familiar with commonly used  deep learning and machine learning models like DNN-HMM, RNN-Transducer and Attention-based end to end models.
+		* Familiar with one or more ASR toolkits (e.g. Kaldi, HTK,  Pykaldi, Tensorflow, CNTK)
+		* Ability to run experiments scientifically and analyze results.
+	- Bonus Qualifications:
+		* Ph.D. degree in EE, CS or related technical field
+		* Solid Machine Learning background and familiar with standard speech and machine learning techniques.
+		* Scientific thinking and the ability to invent, a track record of thought leadership and contributions that have advanced the field.
+		* Solid software development experience.
+		* Strong publication record in top tier conferences such as ICASSP, INTERSPEECH, TASLP, etc.
++ skill set:
+	- Zoomies help the world connect — and deliver happiness while doing it. We set out to build the best video conferencing product for the enterprise, and today help people communicate better with products like Zoom Phone, Zoom Rooms, Zoom Video Webinars, Zoom Apps, and OnZoom.
+	- Our Data Science teams lie at the foundation of Zoom’s success. As a Data Science, Intern on the Customer Success team, you will play an important role in driving the growth of Zoom by surfacing, analyzing, and reporting on data that drives mission-critical business decisions. 
+	- This paid internship is for a duration of approximately 10 - 12 weeks during the spring of 2021. The program offers cutting edge projects, as well as a mix of additional types of learning in areas of leadership and business acumen-- and is packed full of fun!
+	- Responsibilities:
+		* Assist with building and maintaining Zoom product features and services. 
+		* Build, deploy and upgrade our real time compute infrastructure.
+		* Design and implement features to improve our systems. 
+		* Connect with customers to understand their goals and needs and translate those into solutions our team can deliver.
+		* Configure tooling for systems scalability, ensure we have capacity for future growth.
+		* Ensure our systems are continuously monitored and running efficiently with a consistent, unified experience across products, platforms, and devices.
+		* Test current algorithms and write testing documents.
+		* Collaborate with internal stakeholders across the business to drive the delivery of features, processes and happiness.
+	- Requirements:
+		* At least 18 years old, currently enrolled in a four year academic institution completing an undergrad, grad, or PhD degree in Business/Economics, Human-Computer Interaction, Computer Science or a related STEM field.
+		* Legally authorized to work in the United States. Due to the limited duration of this program, sponsorship for employment visa status is not available for this position.
+		* Availability to complete the full 10-12-week internship program during Spring 2021, with a time commitment of approximately 30-40 hours per week.
+		* Must be highly proficient in SQL and Microsoft Excel
+		* Minimum 4+ years of experience using data to facilitate decisions  
+		* Strong understanding of growth principles, product development, and product go to market processes 
+		* Self-starter, ability to envision solutions and take initiative to see the solution to the end despite challenges. 
+		* Ability to crystallize vague concepts into concise plans with clear documentation and data driven decision making .
+		* Detail oriented, organized, ethical, responsible, and self-motivated.
+		* Team player, ability to work effectively in a matrix organization.
+		* Consumer facing experience
+		* Strong communication and problem solving skills and a desire to learn something new.
+		* A passion for creating products that resonate emotionally with people.
+		* A passion for Zoom’s mission, vision, values, and culture.  
 
 
 
