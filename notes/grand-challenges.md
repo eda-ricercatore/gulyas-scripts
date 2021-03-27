@@ -176,7 +176,7 @@ Also, see:
 		Month = {},
 		Publisher = {United Nations Development Programme},
 		School = {},
-		Title = {{SDG} Integration},
+		Title = {SDG Integration},
 		Url = {https://sdgintegration.undp.org/},
 		Year = {2020}}
 
