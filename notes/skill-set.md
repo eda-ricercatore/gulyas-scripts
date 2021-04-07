@@ -9830,14 +9830,89 @@ Qualifications
 		* Strong communication and problem solving skills and a desire to learn something new.
 		* A passion for creating products that resonate emotionally with people.
 		* A passion for Zoom’s mission, vision, values, and culture.  
-
-
-
-
-
-
-
-
++ skill set:
+	- RDS Postgres, Snowflake, Airflow, AWS DMS, Spark on EMR, Python
+	- data pipeline and workflow management tools:
+		* Airflow
+		* Luigi
+	- Big Data tools:
+		* Haddop
+		* Hive
+		* Spark
+	- AWS cloud services:
+		* EC2
+		* EMR
+		* RDS
+		* Redshift
+		* S3
+	- Programming languages:
+		* Python
+		* Java
+		* Scala
+	- Linux
+	- working knowledge of message queueing, stream processing, and highky-scalable Big Data stores.
+	- expand and optimize data pipline architecture, and data flow and collection for cross functional teams
+		* automating manual processes
+		* ETL
+		* re-designing infrastructure for greater scalability
+		* improving relaiability & accuracy
+	- support software initiatives tpo ensure optimal delivery architecture is consistent throughout ongoing projects
+	- using appropriate tools to analyze the data pipeline and provide actional insights into operational efficiency, data accuracy, and other KPIs.
+	- working knowledge of:
+		* workload management
+		* message queueing
+		* stream processing
+		* highly scalable big data stores
++ skill set:
+	- support existing scientific workflows
+	- set the vision for future data generation and collection efforts
+		* Or, set data engineering vision
+	- design, build, and maintain databases and data warehouses that underpin our scientific endeavors and accelerate the company's ability to ask new, sophisticated questions spanning multiple organisms, data modalities, and timescales.
+	- understand common uses cases and data access needs
+	- design strategies for data storage and integration across different data sources for multiple use cases
+	- implement, document, and maintain processing pipelines, databases, and data warehouse and data lake infrastructure
+	- build out core infrastructure, tooling, and software development processes
+	- ETL tools and frameworks
+		* Airflow
+		* Luigi
+	- Python data ecosystem
+		* NumPy
+		* pandas
+		* Jupyter
+	- SQL and relational database systems, such as:
+		* PostgreSQL
+		* MySQL
+		* RESTFUL APIs
+	- experience implementing RESTful APIs, GraphQL, and other programmatic interfaces to complex multi-dimensional data
+	- experience deploying flexible and high-performance data backends and interfaces in the cloud with Google Cloud Platform, Amazon Web Services, or similar platforms
+	- built backends for high-dimensional graph or network data
+	- designed or worked with auditable data systems suitable for regulatory review
+	- experience working with diverse and cutting-edge datasets:
+		* RNASeq
+		* metabolomics
+		* high-content imaging
+	- experience with on-prem high-performance computing clusters, such as SLURM
++ process structured and unstructured data
++ skill set:
+	- experience using Web services, such as:
+		* WCF
+		* Spark
+		* Rest
+	- experience using a statistical process control system, such as Camline SPACE.
+	- experience in Hadoop, Spark, and Impala for large-scale data manipulations.
+	- software source code repository tools:
+		* Git
+		* Subversion
+		* Azure DevOps Server, formerly known as MS TFS or Microsoft Team Foundation Server
+	- VoC, voice of customer software tools
++ skill set:
+	- 
++ skill set:
+	- 
++ skill set:
+	- 
++ skill set:
+	- 
 
 
 
