@@ -9906,11 +9906,25 @@ Qualifications
 		* Azure DevOps Server, formerly known as MS TFS or Microsoft Team Foundation Server
 	- VoC, voice of customer software tools
 + skill set:
-	- 
+	- As part of this initiative, we are looking for a Data Engineer and help us build a scalable petabyte scale data lake and Enterprise Data Warehouse (EDW) using modern tech stack from the ground up using open source technologies. Success in this role comes from marrying a strong data engineering background with product and business acumen to deliver scalable data pipelines and analytics solutions that can enable advanced analytics via a self-service user interface.
+	- Experience building and supporting modern data lake and EDW technologies (Hadoop, Spark, Cloud, NoSQL etc.) and workflow technologies (eg. Airflow)
+	- Solid understanding of Google Cloud Platform, Python, Hive, and Kafka
+	- Experience with Tableau, Google Analytics and BigQuery (or any other Big data/Cloud equivalent) etc.
+	- Experience working with and processing structured, unstructured, and semi-structured data
+	- Experience building data systems at scale
 + skill set:
-	- 
+	- 3+ years of data scientist experience with proven industry experience in a large scale environment (PBs scale & globally distributed teams).
+	- 2+ years experience with a fast-growing SaaS business based company is preferred.
+	- Strong experience in scientific computing using Python, R, or Scala.
+	- Experience with Spark, SQL, Tableau, Google Analytics, Hive and BigQuery (or any other Big data/Cloud equivalent) etc.
 + skill set:
-	- 
+	- Strong experience in scientific computing using Python, R, or Scala
+	- Experience with Spark, SQL, Tableau, Google Analytics, Hive and BigQuery (or any other Big data/Cloud equivalent) etc.
+	- Experience working with and processing structured, unstructured, and semi-structured data
+	- Experience building data systems at scale
+	- 5+ years of engineering experience with proven industry experience in big data engineering
+	- 2+ years experience with a fast-growing SaaS business based company is preferred
+	- Experience building big data systems required, experience building Machine Learning pipelines is a strong plus
 + skill set:
 	- 
 
