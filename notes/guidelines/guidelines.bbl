@@ -34,8 +34,9 @@ David Abrahams.
 \bibitem{ACMCouncil1992}
 {ACM Council}.
 \newblock {ACM} code of ethics and professional conduct.
-\newblock Available online at: \url{http://www.acm.org/about/code-of-ethics};
-  September 27, 2014 was the last accessed date, October 16 1992.
+\newblock Available online from {\it Association for Computing Machinery: What
+  is {ACM}?} at: \url{http://www.acm.org/about/code-of-ethics}; September 27,
+  2014 was the last accessed date, October 16 1992.
 
 \bibitem{Adler2017}
 John Adler.
@@ -555,20 +556,20 @@ Evan Driscoll.
 \bibitem{Driscoll20XY}
 Evan Driscoll.
 \newblock Scons documentation recommendatitons.
-\newblock Available online from {\it Evan Driscoll's web page: Writings on
-  Software: SCons}, the Department of Computer Sciences, University of
-  Wisconsin--Madison College of Engineering, University of Wisconsin--Madison
-  at: \url{http://pages.cs.wisc.edu/~driscoll/software/scons/index.html};
-  February 15, 2016 was the last accessed date.
+\newblock Available online from {\it University of Wisconsin--Madison:
+  University of Wisconsin--Madison College of Engineering: Department of
+  Computer Sciences: Evan Driscoll's web page: Writings on Software: SCons} at:
+  \url{http://pages.cs.wisc.edu/~driscoll/software/scons/index.html}; February
+  15, 2016 was the last accessed date.
 
 \bibitem{Driscoll2012}
 Evan Driscoll.
 \newblock Version control.
-\newblock Available online from {\it Evan Driscoll's web page: Writings on
-  Software}, the Department of Computer Sciences, University of
-  Wisconsin--Madison College of Engineering, University of Wisconsin--Madison
-  at: \url{http://pages.cs.wisc.edu/~driscoll/software/vcs/}; February 15, 2016
-  was the last accessed date, February 22 2012.
+\newblock Available online from {\it University of Wisconsin--Madison:
+  University of Wisconsin--Madison College of Engineering: Department of
+  Computer Sciences: Evan Driscoll's web page: Writings on Software} at:
+  \url{http://pages.cs.wisc.edu/~driscoll/software/vcs/}; February 15, 2016 was
+  the last accessed date, February 22 2012.
 
 \bibitem{Eckstein2010}
 Jutta Eckstein.
@@ -836,18 +837,18 @@ Don Gotterbarn, Bo~Brinkman, Catherine Flick, Michael~S. Kirkpatrick, Keith
   {Milic-Frayling}, Denise Oram, Simon Rogerson, David Shama, Janice Sipior,
   Eugene Spafford, and Les Waguespack.
 \newblock {ACM} code of ethics and professional conduct.
-\newblock Available online from the {\it {ACM} Committee on Professional
-  Ethics} at: \url{https://www.acm.org/code-of-ethics}; September 19, 2018 was
-  the last accessed date, June 22 2018.
+\newblock Available online from {\it {ACM} Committee on Professional Ethics}
+  at: \url{https://www.acm.org/code-of-ethics}; September 19, 2018 was the last
+  accessed date, June 22 2018.
 
 \bibitem{Gotterbarn2018}
 Don Gotterbarn, Bo~Brinkman, Catherine Flick, Keith Miller, Marty Wolf, Kate
   Vazansky, Florence Appel, Karla Carter, Fran Grodzinsky, Michael~S.
   Kirkpatrick, Anthony Lobo, Denise Oram, and Simon Rogerson.
 \newblock {ACM} code of ethics and professional conduct.
-\newblock Available online from the {\it {ACM} Committee on Professional
-  Ethics} at: \url{https://ethics.acm.org}; September 19, 2018 was the last
-  accessed date, June 22 2018.
+\newblock Available online from {\it {ACM} Committee on Professional Ethics}
+  at: \url{https://ethics.acm.org}; September 19, 2018 was the last accessed
+  date, June 22 2018.
 
 \bibitem{Gotterbarn2018b}
 Don Gotterbarn, Amy Bruckman, Catherine Flick, Keith Miller, and Marty~J. Wolf.
@@ -890,15 +891,15 @@ Rajesh Gupta, Paul {Le Guernic}, Sandeep~Kumar Shukla, and {Jean-Pierre}
 \bibitem{Hagelberg2017}
 Philip~N. Hagelberg.
 \newblock Leiningen.
-\newblock Available online from at:
-  \url{https://github.com/technomancy/leiningen}; self-published; October 23,
-  2017 was the last accessed date, October 21 2017.
+\newblock Available online from {\it {GitHub}: Phil Hagelberg} at:
+  \url{https://github.com/technomancy/leiningen}; October 23, 2017 was the last
+  accessed date, October 21 2017.
 
 \bibitem{Hailperin1999}
 Max Hailperin, Barbara Kaiser, and Karl Knight.
 \newblock {\em Concrete Abstractions: An Introduction to Computer Science Using
   {Scheme}}.
-\newblock Brooks/Cole, Pacific Groove, {CA}, 1999.
+\newblock Brooks/Cole, Pacific Grove, {CA}, 1999.
 
 \bibitem{Hamano2014}
 Junio~C. Hamano, Linus Torvalds, Shawn Pearce, Johannes Schindelin, Nicolas
@@ -1321,8 +1322,8 @@ Ming Li and Paul Vit{\'{a}}nyi.
 \bibitem{Liberman2015}
 Mark Liberman.
 \newblock Replicability vs. reproducibility -- or is it the other way around?
-\newblock Available online from the {\it University of Pennsylvania: School of
-  Arts {\rm \&}\ Sciences: Linguistic Data Consortium (LDC)} at:
+\newblock Available online from {\it University of Pennsylvania: School of Arts
+  {\rm \&}\ Sciences: Linguistic Data Consortium (LDC)} at:
   \url{http://languagelog.ldc.upenn.edu/nll/?p=21956}; April 21, 2017 was the
   last accessed date, October 31 2015.
 
@@ -1440,14 +1441,14 @@ Paul {McLellan}.
 \bibitem{MercurialContributors20XYa}
 {Mercurial contributors}.
 \newblock Learning {Mercurial} in workflows.
-\newblock Available online from the {\it Mercurial community: Mercurial {SCM}}
-  at: \url{https://www.mercurial-scm.org/guide}; self-published; February 15,
-  2019 was the last accessed date.
+\newblock Available online from {\it Mercurial community: Mercurial {SCM}} at:
+  \url{https://www.mercurial-scm.org/guide}; self-published; February 15, 2019
+  was the last accessed date.
 
 \bibitem{MercurialContributors20XY}
 {Mercurial contributors}.
 \newblock Mercurial {SCM}.
-\newblock Available online from the {\it Mercurial community} at:
+\newblock Available online from {\it Mercurial community} at:
   \url{https://www.mercurial-scm.org/}; self-published; February 15, 2019 was
   the last accessed date.
 
@@ -1586,7 +1587,8 @@ Dan Olsen.
 Zhiyang Ong.
 \newblock Test automation for software quality assurance: A comparative study
   of hardware and software test automation.
-\newblock Available online at:
+\newblock Available online from {\it Google: Google Sites: Zhiyang Ong's Web
+  page} at:
   \url{https://sites.google.com/site/zhiyangong/zhiyang_internship_report2.pdf?attredirects=0};
   March 3, 2011 was the last accessed date, August 8 2006.
 
@@ -1688,7 +1690,9 @@ Ashwin Pajankar.
 \bibitem{Patashnik1988}
 Oren Patashnik.
 \newblock {\sc Bib}{\TeX}ing.
-\newblock Available online at:
+\newblock Available online from {\it Comprehensive {\rm \TeX}\ Archive Network:
+  tex-archive: biblio: bibtex: base} at:
+  \url{https://ctan.org/tex-archive/biblio/bibtex/base} and
   \url{http://mirrors.ctan.org/biblio/bibtex/base/btxdoc.pdf}; September 24,
   2014 was the last accessed date, February 8 1988.
 
@@ -2143,7 +2147,8 @@ Alexander Tarlinder.
 Risk~Danger technoweenie Olson, Brandon Keepers, Anatoly Borodin, Lucas
   Werkmeister, Steve Streeting, and Scott Barron.
 \newblock Git large file storage.
-\newblock Available online at: \url{https://git-lfs.github.com/} and
+\newblock Available online from {\it {GitHub}: {GitHub}} and {\it {GitHub}: Git
+  Large File Storage} at: \url{https://git-lfs.github.com/} and
   \url{https://github.com/github/git-lfs}; April 1, 2016 was the last accessed
   date, March 31 2016.
 
@@ -2224,10 +2229,10 @@ Dimitri {van Heesch}.
 \bibitem{vanRossum2013}
 Guido {van Rossum}, Barry Warsaw, and Nick Coghlan.
 \newblock Style guide for {Python} code.
-\newblock Available online from {\it {Python}: {Python} Developer's Guide:
-  {Python} Enhancement Proposals: {Python} Enhancement Proposal 0} at:
-  \url{https://www.python.org/dev/peps/pep-0008/}; October 20, 2015 was the
-  last accessed date, August 1 2013.
+\newblock Available online from {\it Welcome to {Python.org}: {Python}
+  Developer's Guide: {Python} Enhancement Proposals: {Python} Enhancement
+  Proposal 0} at: \url{https://www.python.org/dev/peps/pep-0008/}; October 20,
+  2015 was the last accessed date, August 1 2013.
 
 \bibitem{Vucevic2012}
 Doug Vucevic and Wayne Yaddow.

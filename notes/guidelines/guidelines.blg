@@ -55,7 +55,7 @@ Reallocated name_sep_char (elt_size=1) to 180000 items from 160000.
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 You've used 369 entries,
             2118 wiz_defined-function locations,
-            2550 strings with 83381 characters,
+            2549 strings with 84361 characters,
 and the built_in function-call counts, 98633 in all, are:
 = -- 9381
 > -- 4841
